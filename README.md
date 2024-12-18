@@ -1,0 +1,1 @@
+This repository contains the notebook used by the team working on the *MARIA: Guiding Teachers in Question/Answer Generation with AI Planning* project during the RAIforUkraine program
