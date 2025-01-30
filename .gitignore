@@ -1,0 +1,58 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Byte-compiled, packaged, or build directories
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+*.spec
+
+# Unit test / Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+pytest_cache/
+
+# Database / cache files
+*.sqlite3
+*.db
+__pypackages__/
+
+# Ignore Python package manager files
+poetry.lock
+Pipfile.lock
