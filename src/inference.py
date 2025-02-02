@@ -4,6 +4,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 import os
 
+### python inference.py ../../model/checkpoint-1248 "Write a medical multiple-choice question."
+
 
 SYSTEM_INSTRUCTION = """
 You are Phi3.5, a highly capable and fine-tuned AI assistant specialized in generating high-quality multiple-choice questions (MCQs). 
@@ -54,7 +56,6 @@ def generate_response(model, tokenizer, text, system_instruction=SYSTEM_INSTRUCT
         print("An error occurred:", error)
         return None
 
-
 def main():
     parser = argparse.ArgumentParser(description="Generate text using a fine-tuned Phi-3.5 model.")
     parser.add_argument("checkpoint", type=str, help="Path to the model checkpoint directory.")
@@ -71,6 +72,7 @@ def main():
         print(response)
     else:
         print("Failed to generate a response.")
+
 
 if __name__ == "__main__":
     main()
