@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-291-12-A
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=A
+|Intitle=General information on occupational cancers
+|Description=Know the definition of occupational cancers
+|Rubric=Definition
+|Contributors=
+|Order=12}}
+According to the Institut National de Recherche et de Sécurité (INRS), "a cancer is said to be occupational if it is the ''direct consequence of a worker's exposure to a physical, biological or chemical risk'' or if the cancer results from the ''conditions in which the worker carries out his activity''". Identifying the occupational causes of cancers is made difficult by their multifactorial nature. These occupational factors are in addition to lifestyle factors (smoking, alcohol, diet, etc.) and genetic factors.
+
+In the event of exposure to a chemical that is known or suspected to be carcinogenic, ''enhanced individual monitoring'' must be put in place, including at least one medical examination every 4 years by the occupational physician, and an intermediate nursing interview, the compilation of a medical file, and the drawing up of a fitness form by the occupational physician.
+
+After leaving the workforce (retired or unemployed): post-employment screening is carried out by the patient's chosen doctor, once the CPAM has agreed to cover the costs.
+
+If a cancer is diagnosed, its occupational origin can be recognised using the occupational disease declaration procedure [[184|(see item 184)].
+
+<br />

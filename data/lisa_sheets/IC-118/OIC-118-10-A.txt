@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-118-10-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Title=Knowing the different stages of language assessment
+|Description=Assessment of spontaneous expression, naming, repetition, comprehension, reading and writing.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+([[Language and/or phonation disorders SDD-134|134-language and/or phonation disorders]], [[Discovery of a brain abnormality on medical imaging examination SDD-226|226-discovery of a brain abnormality on medical imaging examination]], [[Consultation and follow-up of a patient with cognitive disorders SDD-298|298-consultation and follow-up of a patient with cognitive disorders]])
+
+'''Oral language assessment:''''
+
+Production :
+
+* Spontaneous expression: verbal fluency (= flow),
+
+* Image or object name,
+
+* Repeat.
+
+Understanding :
+
+* Image designation,
+
+* Execution of simple and complex orders.
+
+
+'''Written language assessment''': reading, writing and spelling regular words (e.g. book), irregular words (e.g. sir) and non-words.

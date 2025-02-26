@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-165-09-A
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=A
+|Title=Know how to prevent mumps
+|Description=prevention: vaccination
+|Rubric=Management
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=9}}
+
+'''Prevention by MMR vaccination''' (trivalent vaccine): compulsory since January 2018 for under-2s (12 and 16-18 months), then catch-up if not immune or incomplete vaccination for subjects born after 1980 (2 doses)
+
+Hygiene measures (hand washing) and isolation for 9 days after the onset of parotitis.

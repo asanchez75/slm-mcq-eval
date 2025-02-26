@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-275-02-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Title=Know how to make a clinical diagnosis of splenomegaly
+|Description=Know the examination procedures and the positive clinical features that allow the diagnosis to be made.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+
+
+== Semiology of splenomegaly ==
+- patient supine
+
+- semi-flexed legs to relax the abdominal wall
+
+- gentle palpation synchronised with breathing
+
+- identification of a ''[[Abdominal mass SD-008|abdominal mass]]''' of the left hypochondrium
+
+- the mass is lowered during deep inspiration
+
+- may extend beyond the umbilicus if large (left iliac fossa)
+
+- mattness on percussion
+
+- can be palpated in the right lateral decubitus position, with the patient's left arm elevated and the examiner's hands under the hooked costal margin (obesity)
+
+- diagram of the size of the spleen, with subxiphoid and subcostal measurements on the midclavicular line, for evolutionary follow-up.
+<br />
+
+== D'''iagnostic''' '''clinical''' ==
+- tumour of the stomach, pancreas or left colon: but are not mobile on inspiration ;
+
+- tumour of the left lobe of the liver: but rarely extends to the whole of the left hypochondrium ;
+
+- tumour of the left kidney: but in this case there is a lumbar contact.
+<br />
+
+== C''ircumstances of discovery'' ==
+- by chance or during a routine physical examination, splenomegaly being most often painless, or on an abdominal imaging examination requested for another reason (''[[Discovery of an abdominal anomaly on medical imaging examination SD-224|découverte d'une anomalie abdominale à l'examen d'imagerie médicale]]'') ;
+
+- in a context of''''[[Hyperthermia/fever SD-044|hyperthermia/fever]]'', of altered general condition (''[[Asthenia SD-021|asthenia]]'', '''[[Emaigrissement SD-017|amaigrissement]]'''), d''''[[Ictère SD-047|ictère]]''', d''''[[Adénopathies unique ou multiples SD-016|adénopathies unique ou multiples]]''' ;
+
+- in the context of a known pathology, in particular hepatopathy or haemopathy;
+
+- abdominal heaviness (in the absence of complications, splenomegaly is generally painless).

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-096-08-B
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=B
+|Title=Knowing the aetiologies of the main demyelinating polyneuropathies
+|Description=IgM with anti-MAG activity, Charcot-Marie-Tooth disease
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+Demyelinating polyeuropathies are either hereditary, predominantly motor, or acquired, predominantly ataxic, related to an IgM monoclonal gammopathy with anti-MAG activity '''([[SD-193 serum protein electrophoresis analysis|serum protein electrophoresis analysis]])'''';
+
+Neuropathy associated with IgM monoclonal gammopathy with anti-MAG activity ;
+
+- Neuropathy in people over 50.
+
+- Ataxic, associated with hand tremor '''([[Balance disorders SD-130|balance disorders]])''''
+
+- Little motor deficit at first.
+
+- Slowly progressive.
+
+- The electroneuromygram (ENMG) showed demyelinating polyneuropathy, predominantly distal.
+
+Hereditary neuropathies are dominated by the sensitivomotor polyneuropathies of Charcot-Marie-Tooth. '''([[Announcement of a diagnosis of a serious illness to the patient and/or family SD-327|announcement of a diagnosis of a serious illness to the patient and/or family]])''''
+
+- Atrophy of the calves, sunken feet, predominantly motor-sensory involvement.  Little or no sensory symptoms (paresthesias).
+
+- Autosomal dominant demyelinating forms are the best characterised.
+
+- Diagnosis is made by genetic testing: duplication of the PMP22 gene on chromosome 17 in dominant forms.

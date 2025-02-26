@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-169-16-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Photograph of oral candidiasis
+|Description=To put in the question candidiasis
+|Rubric=Multimedia content
+|Contributors=
+|Order=16}}
+
+[[File:Oral candidiasis.png|thumb]]
+
+
+Whitish deposits on the inner edge of the cheeks, tongue and palate = oral thrush.
+
+May appear as soon as the CD4 count falls below 500/mm3.
+
+When the CD4 count is below 200/mm3, and oral candidiasis is accompanied by dysphagia, oesophageal candidiasis (or candidal oesophagitis) should be suspected and treatment with fluconazole should be initiated rapidly without any further investigations. If treatment with fluconazole does not improve the dysphagia, an oeso-gastro-duodenal fibroscopy is indicated to look for another aetiology (CMV oesophagitis, digestive Kaposi's disease).

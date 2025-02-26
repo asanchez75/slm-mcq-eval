@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-331-08-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Know the principles of using a manual/semi-automatic scope/defibrillator.
+|Description=Recognise shockable rhythms, electromechanical dissociations, asytolies; Principles of use of the manual defibrillator
+|Rubric=Management
+|Contributors=
+|Order=8}}
+There are 2 types of rhythm during an RTA
+
+- Shockable rhythms: ventricular fibrillation (VF) or ventricular tachycardia (VT)
+
+- Non-shockable rhythms: Assystolies and electro-mechanical dissociation
+
+
+In the event of a shockable rhythm, a shock must be delivered via a manual defibrillator (the user analyses the rhythm, decides on the energy to be delivered and delivers the shock) or via an automated defibrillator (automatic analysis, automatic charge +/- automatic delivery of the shock).

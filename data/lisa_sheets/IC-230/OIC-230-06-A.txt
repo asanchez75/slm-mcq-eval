@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-230-06-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Knowing the diagnostic approach to the four cardiovascular emergencies
+|Description=Evidence of chest pain, characteristics of chest pain, features of the clinical examination.
+|Rubric=Positive diagnosis
+|Contributors=Vincent Roule
+|Order=6}}
+
+'''Know the diagnostic approach to the 4 cardiovascular emergencies'''
+
+- Anamnesis: suggestive background (cardiovascular risk factors, cancer, high blood pressure), characteristics of the pain (location, irradiation, length of time, circumstances of onset, trinitro-sensitive or not, aggravating or analgesic circumstances, link with exercise).
+
+- specific features of the clinical examination (''cardiopulmonary auscultation abnormalities'', presence or absence of peripheral pulses, blood pressure, jugular turgidity)
+
+- look for signs of shock/vital distress
+
+- '''ECG performance and interpretation'''
+
+- followed by a biological and imaging work-up based on the previous observations

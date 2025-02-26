@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-361-04-A
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=A
+|Title=Knowing the urgency of bursitis
+|Description=Septic bursitis
+|Rubric=Identifying the emergency
+|Contributors=CFCOT
+|Order=4}}
+
+Bursitis is very often inflammatory and aseptic, but can sometimes be septic:
+
+Clinical signs of septic bursitis :
+
+* Acute onset, often leading to a wound close to or on the limb (hand, foot).
+* Locally: redness, heat, pain
+* Sometimes fever and lymphadenopathy, rarely purulent discharge.
+
+Biology :
+
+* Hyperleukocytosis with PNN and increased CRP.
+* If there is any doubt about an infectious origin: puncture and send the fluid for bacteriological analysis.

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-230-11-B
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=B
+|Title=Knowing the place of echocardiography, trans-thoracic echocardiography (TTE) and thoracic computed tomography in the diagnosis of aortic dissection.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Vincent Roule
+|Order=11}}
+
+'''Know the place of echocardiography, TEE and thoracic CT in the diagnosis of aortic dissection'''
+
+* Trans-thoracic echocardiography (TTE):
+** Simple examination, available urgently at the patient's bedside.
+** Can diagnose aortic dissection (flap in the aorta, dilatation of the ascending aorta), complications (haemopericardium, aortic insufficiency) or differential diagnoses (ACS with kinetic problems, acute pulmonary heart in PE) => 1st intention in haemodynamically unstable patients.
+
+* Thoracic angioscan:''''
+** Examination of choice for positive diagnosis,
+** Pre-operative extension assessment (visualisation of false duct, portal of entry).
+** In stabilised patients.
+
+[[File:Cross-section of aortic CT angiogram showing dilatation of the ascending aorta with visualization of the true and false (darker because partially thrombosed) channels of aortic dissection (arrow).jpg|vignette|cross-section of aortic CT angiogram showing dilatation of the ascending aorta with visualisation of the true and false (darker because partially thrombosed) channels of aortic dissection (arrow)|alt=|centred]]
+
+* '''Trans-oesophageal echocardiography (TEE):'''
+** can complement TEE in an unstable patient.
+** Caution: if aortic dissection is suspected, TEE should be performed under anaesthetic cover, ideally in the operating theatre (to avoid a blood pressure spike during TEE while the patient is awake, which is very risky in this context).
+
+[[File:TEE section showing a flap image (arrow) at the level of the initial ascending aorta, shortly after the aortic valve.jpg|vignette|TEE section showing a flap image (arrow) at the level of the initial ascending aorta, shortly after the aortic valve|alt=|centered]]
+<br />

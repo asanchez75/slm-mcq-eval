@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-363-17-A
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=A
+|Title=Knowing how to look for signs of immediate seriousness
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=CFCOT
+|Order=17}}
+
+In addition to a full clinical examination to look for any associated lesions, particular attention should be paid to :
+
+== '''Vascular complications:''' ==
+- Search for hypoperfusion by measuring radial and ulnar pulses and assessing skin recolouration time.
+
+- Active bleeding
+
+== '''A skin opening''' ==
+
+== '''A neurological complication:''' ==
+- Median nerve (compression by haematoma or fracture displacement): sensitivity of the palmar surface of the thumb, index and middle fingers.
+
+== '''A tendon complication:''' ==
+- Incarceration of the long extensor tendon of the thumb in the fracture site: loss of active extension of the interphalangeal joint of the thumb.
+
+== '''A large displacement fracture:''' ==
+- Risk of soft tissue damage

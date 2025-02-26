@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-272-08-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Item_parent_short=Gastric and duodenal ulcer.
+|Description=Hemorrhage, perforation, association with cancer in the stomach
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=8}}
+'''Complications are:'''
+
+- Haemorrhage (most frequent)
+
+- Perforation
+
+- Stenosis
+
+- For gastric ulcers, the association with stomach cancer

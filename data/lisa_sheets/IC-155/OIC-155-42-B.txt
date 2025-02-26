@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-155-42-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the therapeutic principles of facial cellulitis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=42}}
+Depends on the aetiology of the facial cellulitis.
+
+'''Non-necrotizing bacterial dermohypodermatitis of the face'''
+
+Management identical to that for non-necrotising bacterial dermohypodermatitis of the lower limbs.
+
+
+'''Facial cellulitis of dental origin'''
+
+From the collected stage, medical-surgical emergency
+
+Broad-spectrum antibiotic therapy covering "Staphylococcus aureus", "Streptococcus pyogenes" and anaerobes ("Prevotella", "Fusobacterium", actinomycetes etc.).
+
+Preventive or curative anticoagulation if associated thrombophlebitis.
+
+Surgical management of the entry site and removal of necrotic tissue where appropriate
+
+
+'''Staphylococcie maligne de la face'''
+
+Medical emergencies
+
+IV antibiotic therapy for Staphylococcus aureus
+
+Curative anticoagulation depending on facial vein involvement.

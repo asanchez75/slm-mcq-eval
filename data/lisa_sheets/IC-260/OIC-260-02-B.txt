@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-260-02-B
+|Item_parent=Hematuria
+|Item_parent_short=Hematuria
+|Rank=B
+|Title=Knowing the main mechanisms of haematuria
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Charles Dariane, Bruno Moulin
+|Order=2}}
+
+<br />
+
+*Micro or macroscopic haematuria correspond to urological or nephrological aetiologies, indicating damage to the renal parenchyma or the urinary excretory tract.
+
+*Urological etiology: lesion of the renal parenchyma or urinary tree with effraction of blood vessels, red blood cells spilled into the urinary excretory tract.
+
+*Nephrological etiology: passage of red blood cells through an altered glomerular basement membrane: extracapillary cell proliferation during rapidly progressive glomrulonephritis and/or remodelling of the glomerular structure (mesangial IgA deposits, Alport syndrome, etc.). Absence of clots due to activation of fibrinolytic tubular urokinase. Presence of haematic cylinders or deformed red blood cells (acanthocytes) in rolls on analysis of the urine pellet. Proteinuria may be present.

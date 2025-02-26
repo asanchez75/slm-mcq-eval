@@ -1,0 +1,71 @@
+{{knowledge objective
+|Identifiant=OIC-229-04-A
+|Item_parent=Venous access monitoring and complications
+|Item_parent_short=Venous access monitoring and complications
+|Rank=A
+|Title=Know how to monitor a peripheral and central venous line
+|Description=Daily assessment of the appropriateness of keeping the venous line in place, identification of infectious, thrombotic, mechanical, haemorrhagic and embolic (including gaseous) complications.
+|Follow-up and/or prognosis
+|Contributors= Philippe Lacroix, Simon Rickenbach
+|Order=4}}
+
+Venous approaches are a major source of iatrogenia ("''[[Prescribing and monitoring a vascular approach SD-271|prescribing and monitoring a vascular approach]'''). This is why :
+
+- venous ports should be removed as soon as possible to limit iatrogenicity;
+
+- their indication and maintenance must be reviewed on a daily basis in the light of the treatments and monitoring required.
+
+
+'''Complications during follow-up'''
+
+These complications may be locoregional or general.
+
+They can be mechanical, thrombotic or infectious.
+
+Their frequency depends on :
+
+- location;
+
+- the clinical context;
+
+- the time required to install the equipment.
+
+'''''Infectious complications'''''
+
+Infection of the equipment can lead to bacteremia ("''[[Positive blood culture SD-190|positive blood culture]]''') and secondary foci. Early infections are most often related to insertion and late infections to handling: importance of asepsis +++ during insertion and use ("''[[Preventing healthcare-associated infections SD-311|preventing healthcare-associated infections]]''").
+
+Infectious complications can take the form of :
+
+* inflammatory syndrome<u>prescription and monitoring of a vascular approach</u>;
+* CRP elevation<u>prescription and monitoring of a vascular approach</u>;
+* suppuration at the puncture site
+* erythema along the venous pathway or adjacent to the infusion chamber;
+* Isolated fever disappearing after removal of the equipment (''[[Hyperthermia/fever SD-044|hyperthermia/fever]]''');
+* fever when using the equipment ('''[[Hyperthermia/fever SD-044|hyperthermia/fever]'''');
+* bacterial discharge;
+* dermo-hypodermatitis;
+* secondary septic fixation (endocarditis, deep abscesses, etc.);
+* bacteremia, septicaemia ('''[[positive blood culture SD-190|positive blood culture]]'''').
+
+'''''Les complications mécaniques'''''
+
+- central catheter malposition;
+
+- catheter dysfunction;
+
+- material rupture with catheter segment migration;
+
+- parietal vascular perforations (associated with extravasation).
+
+Puncture of implantable chambers can be complicated:
+
+* haematoma, sometimes compressive;
+* extravasation in the event of inadequate needle positioning, a source of tissue necrosis through diffusion of irritant product.
+
+''''' Thrombotic complications'''''
+
+There are two types of catheter-associated thrombosis:
+
+- fibrous sleeve around the catheter;
+
+- mural thrombosis.

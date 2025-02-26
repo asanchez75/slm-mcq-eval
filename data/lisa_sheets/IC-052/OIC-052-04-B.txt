@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-052-04-B
+|Item_parent=Strabism and amblyopia in children
+|Item_parent_short=Strabism and amblyopia in children
+|Rank=B
+|Title=Knowing the main causes of amblyopia
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+Amblyopia can occur when something disturbs vision during the critical period (before the age of 6).
+
+- '''Organic amblyopia''': There is an organic cause of the amblyopia, for example a cataract, retinal disease, corneal pathology, congenital glaucoma, etc.
+
+'''- Amblyopia'''' '''functional''': these are due to the presence of a strabismus, a refractive disorder, for example anisometropia (asymmetry of refraction between the two eyes), or an untimely occlusion of one eye (bandage, occlusion, or even a simple lock of hair).
+
+'''- Mixed amblyopia:''' the origin is both organic and functional.

@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-023-12-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=Obstetric Ultrasound
+|Description=To know the term and objectives of obstetrical ultrasound scans as part of the monitoring of a normal pregnancy.
+|Rubric=Management
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=12}}
+
+3 screening ultrasounds (1st, 2nd and 3rd trimester) are scheduled during a normal pregnancy. The possibility of refusing these examinations must be clearly stated. They are not infallible. The main limitation is that not everything can be detected. '''[[Writing a request for an imaging examination SD-230|Writing a request for an imaging examination]]''''
+
+==The 1st trimester ultrasound==
+Ultrasound dating and early morphology between 11 and 13 SA + 6 days
+
+Its objectives are to :
+
+Date the pregnancy by measuring the craniocaudal length;
+
+Confirming your vitality ;
+
+Identifying twin pregnancies and their chronicity
+
+Early detection of certain malformations (anencephaly, limbs, etc.);
+
+Assess the risk of chromosomal abnormalities, in particular trisomy 21, by measuring nuchal translucency.
+
+==The 2nd trimester ultrasound==
+Morphological ultrasound between 20 and 25 SA
+
+The main objective is to screen for foetal malformations.
+
+==The 3rd trimester ultrasound==
+growth ultrasound): between 30 and 35 SA
+
+Its main objectives are to
+
+- Detect foetal growth anomalies and
+
+- Screen for certain malformations,
+
+- Check the location of the placenta
+
+- Check the presentation of the foetus.

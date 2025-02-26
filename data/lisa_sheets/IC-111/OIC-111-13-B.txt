@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-111-13-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing the pathophysiology of seborrhoeic dermatitis
+|Description=Malasseziosis
+|Rubric=Physiopathology
+|Contributors=
+|Order=13}}
+Role of ''Malassezia'' (''M. furfur'', ''M. globosa'', etc.)

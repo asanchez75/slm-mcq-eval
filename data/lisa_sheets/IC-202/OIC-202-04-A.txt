@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-202-04-A
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=A
+|Title=Identify an infection undergoing background biological or targeted therapy
+|Description=CAT for infection on bDMARDs and tsDMARDs
+|Heading=Identifying the emergency
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=4}}
+
+ '''General procedure:''''
+
+Suspicion of infection must lead to rapid assessment of the patient with :
+
+* clinical examination, bearing in mind that clinical signs may not be very intense in an immunocompromised patient
+* biological examinations with measurement of inflammatory parameters (but sometimes absent if certain cytokines such as IL-6 are blocked)
+* microbiological examinations adapted to the suspected germs
+* imaging tests adapted to the context (site and type of suspected infection)
+
+ '''Specific guidelines:''''
+
+* Latent tuberculosis: treatment with isoniazid, combined with vitamin B6, for nine months. DMARDs may be administered concurrently one month after the start of this antibiotic treatment.
+* Reactivation of tuberculosis: DMARs treatment temporarily suspended until complete resolution of the infectious event and appropriate antibiotic therapy.
+* Other pulmonary infections (bacterial, fungal, including pneumocystis): treatment suspended, infection treated and background treatment reassessed.
+* Digestive infections: treatment suspended, infection treated and background treatment reassessed.
+* Urinary tract infections: treatment maintained or suspended depending on severity, treatment of infection and reassessment of background treatment.
+* Hepatitis B reactivation:''' concomitant targeted antiviral therapy, monitoring of viremia (by PCR) and transaminases,
+* Trivial skin infections (''bacterial fungal infections, uncomplicated genital or orofacial herpes virus infections): appropriate treatment without interruption of DMARDs.
+* Severe skin infections (chickenpox, shingles): very rapid antiviral treatment at the recommended dose in immunocompromised patients, suspension of DMARD treatment for as long as the infection persists.

@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-157-13-A
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=A
+|Title=Know how to choose the right antibiotic for the right infectious agent based on microbiological documentation.
+|Description=None
+|Heading=Management
+|Contributors=David Lebeaux
+|Order=13}}
+
+{| class="wikitable"
+|'''Infectious agents''''
+|'''[[Prescribe an anti-infective SD-255|1st-line antimicrobial]]'''''
+|
+|-
+|Meticillin-sensitive Staphylococcus aureus (MSSA)
+|Penicillin M or cefazolin (1st<sup> generation</sup> cephalosporin)
+|
+|-
+|Meticillin-resistant Staphylococcus aureus (MRSA)
+|Vancomycin (glycopeptide)
+|
+|-
+|Streptococcus pneumoniae
+|Penicillin A (amoxicillin)/ 3rd generation cephalosporin (cefotaxime, ceftriaxone) if meningitis or severe acute community-acquired pneumonia.
+|
+|-
+|Other streptococci
+|Penicillin A (amoxicillin)
+|
+|-
+|Meningococcus
+|3rd</sup> generation cephalosporin (cefotaxime, ceftriaxone)
+|
+|-
+|Enterococcus
+|Penicillin A (amoxicillin) +/- gentamicin if endocarditis suspected
+|
+|-
+|Escherichia coli
+|3rd</sup> generation cephalosporin / fluoroquinolone if allergy
+|
+|-
+| rowspan="2" |Anaerobes
+| rowspan="2" |Imidazole (if anaerobes not already covered by antibiotic therapy already prescribed)
+|
+|-
+|
+|-
+|Candida
+|Fluconazole or Echinocandin (depending on antifungals)
+|
+|}

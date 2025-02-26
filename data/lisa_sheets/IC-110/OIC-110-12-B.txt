@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-110-12-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing the clinical signs of restless legs syndrome and periodic sleep movements
+|Description=Restless legs syndrome
+|Rubric=Positive diagnosis
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=12}}
+
+'''Restless legs syndrome (RLS)'''
+
+Restless legs syndrome is one of the diagnoses to be considered in chronic insomnia: it causes difficulty in falling asleep and sometimes prolonged nocturnal waking, either because of nocturnal symptomatic periods or because of nocturnal periodic movements, with which it is frequently associated (80% of cases). It is experienced while awake.
+
+A common condition in adults (2% of chronic forms in France), more common in women and after the age of 50. Little is known about it in children, and it is probably under-diagnosed. It can resemble attention deficit hyperactivity syndrome (inability to stay in one place in the evening, restless, poor-quality sleep, daytime fatigue).
+
+RLS is a clinical syndrome characterised by :
+
+- A compelling need to move the legs[i1] , with or without paresthesia-like symptoms, beginning or worsening during periods of rest or inactivity, occurring in the evening or at night and improving with motor activity.
+
+- No other pathology such as myalgia, venous insufficiency, oedema or arthritis
+
+- The symptoms lead to sleep disorders and physical, psychological and socio-professional consequences.
+
+Risk factors: family background, predominantly female, increases with age.
+
+In the majority of cases, no aetiology is found. Secondary forms are mainly associated with: martial deficiency, renal failure, diabetes, peripheral neuropathy, pregnancy, drugs (anti-depressants, anti-histamines, neuroleptics).
+
+'''Periodic movement of the legs during sleep (PMSLS)'''
+
+May be associated with RLS. Characterised by repeated, typical, bilateral, asymmetric movements, most often of the lower limbs and sometimes of the upper limbs during sleep, which cause micro-awakenings with splitting of sleep. The movements most often observed are an extension of the big toe with flexion of the foot and sometimes of the knee and hip. The diagnosis is confirmed by polysomnography, in which at least 15 movements per hour must be observed.
+
+<br />
+----[i1]Not in definition icsd-3

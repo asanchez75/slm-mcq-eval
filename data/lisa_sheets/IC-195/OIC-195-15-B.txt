@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-195-15-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Knowing the main characteristics of Takayasu arteritis (general)
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=15}}
+- Onset before the age of 50.
+
+- Involvement of the aorta and its main collaterals, the renal arteries, the arteries to the limbs and, more rarely, the cephalic arteries: '''limb claudication ([[Intermittent claudication of a limb SD-069|intermittent claudication of a limb]])''', '''vascular murmurs ([[Discovery of a vascular murmur SD-019|discovery of a vascular murmur]])''', abolition of a pulse, renal-vascular HTA...
+
+- General signs: ''fever ([[Hyperthermia/fever SD-044|hyperthermia/fever]]), [[Asthenia SD-021|asthenia]], [[Weight loss SD-017|weight loss]], anorexia''.
+
+- Rheumatological signs: '''[[Joint pain SD-067|joint pain]]''' and '''[[Myalgia SD-077|myalgia]]'''.
+
+- Pain in the pathways of the large vessels, in particular carotidodynia.
+
+- Inflammatory syndrome often modest or absent at the time of diagnosis.
+
+- Vascular lesions (stenoses, aneurysms) common at the time of diagnosis.

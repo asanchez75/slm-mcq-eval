@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-294-17-B
+|Item_parent=Cancer treatment: main procedures, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the general principles of action of immunotherapy
+|Description=Stating the main principles of action of immunotherapy
+|Rubric=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=17}}
+
+===General information===
+Immunotherapy mainly acts on the patient's immune system to make it capable of attacking cancer cells.
+
+Immunotherapy is based on monoclonal antibodies, in particular checkpoint inhibitors, bispecific antibodies, adoptive cell transfer (CAR-T cells) and anti-tumour vaccination, which is still highly experimental (apart from preventive anti-HPV vaccination for cervical cancer).
+
+===Checkpoint inhibitors: unlocking the immune system===
+Immune checkpoints are present on the surface of T lymphocytes to prevent an excessive inflammatory immune response and the development of autoimmune diseases. CTLA-4 (''Cytotoxic T lymphocyte-associated protein 4'') and PD-1 (''Programmed cell death receptor 1'') are, among many others already recognised, therapeutic targets whose physiological role is to limit activation of the immune system. Binding of their respective ligands to these proteins (e.g. PD-L1/2 for PD-1) inhibits the antigen receptor signalling pathway of T lymphocytes.
+
+This beneficial effect of checkpoints is deleterious when they are hijacked by tumours to their advantage, for example by expressing PD-L1/2 on their surface.
+<br />
+{| class="wikitable"
+|'''The example of anti-PD-1 (nivolumab, pembrolizumab) or anti-PD-L1, (atezolizumab, avélumab, duvarlumab) and anti CTLA-4 (ipilimumab)''''
+
+- Binding of the PD-L1 protein, present on tumour cells, to the PD-1 receptor on lymphocytes
+
+T lymphocytes are inactivated. By blocking the PD-1 receptor or the PD-L1 protein (with anti-PD-1 or anti-PD-L1 drugs), the inactivation of T lymphocytes is lifted. These drugs are being developed, and even used within the context of their marketing authorisation, for kidney, bladder and non-small cell lung cancers, as well as Hodgkin's lymphoma.
+
+- The monoclonal antibody ipilimumab, used in the treatment of metastatic melanoma, inhibits the
+
+CTLA-4 pathway, restoring anti-tumour lymphocyte activity.
+|}
+The adverse effects of this new class of drugs (known as "checkpoint inhibitors") result from an increased or excessive immune response directed against the patient's body. They mainly affect the gastrointestinal, hepatic, cutaneous, nervous and endocrine systems (particularly the pituitary and thyroid glands), but can affect all the body's functions. Most appear during the induction phase of treatment, but they can also be delayed. Early diagnosis and appropriate management, including high-dose corticosteroid therapy possibly combined with immunosuppressive therapy, are essential to minimise life-threatening complications.

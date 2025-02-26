@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-357-06-B
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=B
+|Title=Knowing the main causes of peritonitis in children
+|Description=None
+|Rubric=Etiologies
+|Contributors=Eric Dobremez,Maksud Assadi,Philippe Montravers
+|Order=6}}
+
+The main causes of peritonitis in children are :
+
+- Appendicular, in the vast majority of cases.
+
+- Perforation of hollow organs (infected Meckel's diverticulum, traumatic intestinal injury, acute intestinal intussusception, intestinal obstruction with digestive distress), sometimes.
+
+- Primitive (pneumococcal infection) or on peritoneal dialysis catheters, rarely.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-342-11-A
+|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the indications and decisive abnormalities of the electrocardiogram (ECG) in the event of syncope or lipothymia.
+|Description=ECG abnormalities of immediate diagnostic value
+|Section=Additional tests
+|Contributors=
+|Order=11}}
+<gallery widths="420" heights="420">
+File:Malaise3.PNG
+</gallery>

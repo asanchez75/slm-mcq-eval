@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-203-14-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Intitle=Acute dyspnoea: aetiological clues
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=14}}
+'''See item 359'''
+
+Step 1: rule out upper airway obstruction
+
+- these obstructions represent an extreme emergency
+
+- their management differs radically from that of other causes of acute respiratory distress
+
+- it is above all a clinical diagnosis
+
+'''2nd stage: orienting the aetiological diagnosis'''
+
+* depending on thoracic imaging
+** pleural pathology: pneumothorax, pleurisy
+** parenchymal opacities: infectious pneumonitis, pulmonary oedema, diffuse infiltrative pneumonitis
+** normal or subnormal chest X-ray: acute severe asthma, pulmonary embolism
+* depending on gasometric disturbances: increase in PaCO<sub>2</sub> and/or bicarbonates, which may point to decompensation of a chronic respiratory pathology (COPD, ventilatory pump pathology).

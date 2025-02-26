@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-042-04-B
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=B
+|Title=Know the two main diagnoses in the absence of a uterus on ultrasound.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=4}}
+
+The absence of a uterus and thus the ''[[Discovery of a malformation of the genital tract SD-105|discovery of a malformation of the genital tract]]'' is an aetiology of primary amenorrhoea. In this case, it is important to distinguish '''between two main possible causes:''' '''a Müllerian agenesis and a severe anomaly of the biosynthesis or receptivity to androgens.'''
+
+Of the Müllerian agenesis, Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome is the best known. It corresponds to congenital aplasia of the uterus and the upper two-thirds of the vagina in women with a 46,XX karyotype and normal secondary sexual characteristics.
+
+In exceptional cases of primary amenorrhoea, the karyotype may be 46XY. The best-known cause of abnormality of complete genital development with a 46 XY karyotype discovered in primary amenorrhoea is complete androgen insensitivity syndrome. In this case, during intrauterine life, secretion of the Anti-Mullerian hormone by the testes will lead to regression of the Mullerian derivatives (uterus and upper 2/3 of the vagina) while the absence of action of androgens on peripheral tissues will prevent virilisation of the foetus and development of Wolffian residues. At birth, the phenotype is female and the testicles are intra-abdominal or inguinal. At puberty, the very high testosterone levels aromatise into estradiol, resulting in normal breast development. The clinical diagnosis is based on the absence of pubic hair (sometimes down), and a blind vagina. However, this cause of primary amenorrhoea remains very rare in its complete form.

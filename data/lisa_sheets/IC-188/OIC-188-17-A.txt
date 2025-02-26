@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-188-17-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Know the main basic therapeutic principles of asthma with the main therapeutic classes that can be used.
+|Description=To understand the role of bronchodilators and corticosteroids (anti-leukotrienes) in asthma.
+|Rubric=Management
+|Contributors=
+|Order=17}}
+'''251 [[Prescribing systemic or local corticosteroids SD-251|prescribing systemic or local corticosteroids]]''''
+
+'''279 [[Chronic disease follow-up consultation SD-279|chronic disease follow-up consultation]]''''
+
+'''283 [[Follow-up consultation and therapeutic education for an asthma patient SD-283|consultation de suivi et éducation thérapeutique d'un patient asthmatique]]''''
+
+'''299 [[Post-allergic event consultation SD-299|post-allergic event consultation]]''''
+
+o Short-acting B2-mimetic bronchodilators (SADB) (metered dose inhaler or powder inhaler): treatment for asthma symptoms or exacerbation.
+
+o Inhaled corticosteroids (ICS) (metered dose inhaler or powder inhaler): the most effective background treatment prescribed for all persistent asthma.
+
+o Long-acting B2-mimetic bronchodilators (LABD) (metered dose inhaler or powder inhaler): always prescribed in combination with ICS (never prescribe LABD alone in asthma because of the risk of GAD).
+
+o Anti-leukotriene (montelukast) (oral): alternative to BDLA
+
+All asthma is treated with BDCA as a matter of course. Background treatment is initiated if symptoms are frequent (<2/month). Treatment is adjusted in stages according to the level of asthma control (see asthma control).
+
+If asthma is not controlled with ICS and BDLA, additional treatment should be discussed during a specialist consultation (long-acting anti-cholinergic, anti-IgE immunotherapy, anti-IL5, long-term systemic corticosteroid therapy).
+{| class="wikitable"
+|
+|
+|
+|
+|
+| rowspan="4" |'''tier 5''''
+
+High-dose ICS + BDLA
+
+Refer to a severe asthma centre for additional treatment (tiotropium)
+
+''anti-IgE, anti-IL5, or other biotherapy)''
+|-
+|
+|
+|
+|
+| rowspan="3" |'''tier 4''''
+
+Moderate dose ICS + BDLA
+|-
+|
+|
+|
+| rowspan="2" |'''tier 3''''
+
+Low dose ICS + BDLA
+|-
+|
+|
+Level 1
+
+No background treatment
+|Level 2 treatment
+
+Low dose ICS
+|-
+|'''''other options'''''
+|consider low-dose ICS
+|anti-leukotrienes (ALT)
+|Moderate to high dose ICS or
+
+Low dose ICS + ALT
+|High dose ICS + ALT or + tiotropium
+|Low dose CSO
+|-
+|'''rescue treatment'''
+|BDCA on demand
+|BDCA on demand
+|BDCA on demand
+|BDCA on demand
+|BDCA on demand
+|}

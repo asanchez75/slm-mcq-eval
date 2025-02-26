@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-095-18-B
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and ductal syndrome
+|Rank=B
+|Title=Knowing the MRI semiology of a herniated disc
+|Description=Disc herniation in contact with the dural sac, often lateralized on the symptomatic side, which may exert a mass effect on one or more roots.
+|Rubric=Additional examinations
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=18}}
+
+*Overhang of the intervertebral disc, which is no longer exactly superimposed on the contours of the vertebral plates.
+*Several possible topographies:
+**In the transverse plane :
+***Median
+***Posterolateral +++ (compresses the "passing" root, e.g. L5 in the case of posterolateral L4-L5 disc herniation)
+***Foraminal (compresses the "exiting" root, e.g. L4 in cases of foraminal L4-L5 disc herniation)
+***Extra foraminal (ditto, compresses the "exiting" root)
+**In the sagittal plane:
+***At the level of the inter-somatic line
+***Ascending migration (cranial)
+***Downward (caudal) migration
+**In relation to the posterior longitudinal ligament (PLL):
+***Subligamentary, i.e. contained by the LLP
+***Excluded, i.e. trans-ligament migration, through a tear in the LLP
+*Hernia appears T1 and T2 hypointense
+*Look for ''contact'' or '''compression'' on one or more spinal roots, or even on the entire dural sac and horsetail in the case of a very large hernia:
+**Removal/displacement of the root by the hernia
+**Removal of peri-radicular epidural fat
+**Removal of CSF in the case of a very large hernia compressing the dural sac.
+*Systematically look for "good concordance" between "imaging" and "clinical" in terms of lateralization (side) and the root level(s) concerned.

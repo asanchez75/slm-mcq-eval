@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-094-08-B
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=B
+|Title=Knowing the factors favouring the development of chronic spinal pain
+|Description=List of prognostic factors / yellow and black flags
+|Rubric=Follow-up and/or prognosis
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=8}}
+
+'''YELLOW FLAGS = Risk factors for the transition to chronicity'''
+
+o Emotional problems: anxiety, depression '''([[Anxiety SDD-116|anxiety]], [[Sad mood/moral pain SDD-123|sad mood/moral pain]])''', isolation
+
+o Inappropriate attitudes and representations in relation to back pain (false beliefs about physical activity and/or work)
+
+o Inappropriate pain behaviour, passive tendency (e.g. catastrophising, avoidance)
+
+o Work-related problems: conflict, dissatisfaction, work stoppage, work-related accident, work-related illness
+
+'''BLACK FLAGS = Prognostic factors linked to company policy, the care and insurance system'''
+
+o Absence of measures facilitating return to or retention in employment: employer policy preventing gradual reintegration or change of post
+
+o Financial insecurity
+
+o Compensation system criteria
+
+o Financial incentives
+
+o Lack of contact with the workplace
+
+o Length of time off work: after 2 years off work, the probability of returning to work is 0%.

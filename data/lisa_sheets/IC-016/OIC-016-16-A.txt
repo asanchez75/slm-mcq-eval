@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-016-16-A
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=A
+|Intitle=Knowing the problem of social inequality in the use of health services
+|Description=Knowing that there are problems of social inequality in the use of health services. Access to outpatient care in metropolitan areas (sector 2 more frequent); Avoidance of care: reasons and some examples.
+|Rubrique=Definition
+|Contributors=Anne-Laurence Le Faou
+|Ordre=16}}
+
+In France, as in most European countries, there are ''social inequalities in the use of healthcare services'', i.e. ''differences in healthcare consumption between social groups in a given state of health''.

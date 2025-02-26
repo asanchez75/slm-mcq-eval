@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-015-05-A
+|Item_parent=Psychiatric care without consent
+|Item_parent_short=Psychiatric care without consent
+|Rank=A
+|Intitulé=Hospitalisation par ordonnance de placement provisoire : argumenter les indications
+|Description=General framework for the hospitalisation of minors; Indications for PPOs
+|Rubric=Identification of the emergency
+|Contributors=Pierre Vidailhet
+|Order=5}}
+
+The decision to admit a minor to psychiatric care and the lifting of this measure are normally requested by the persons holding parental authority or by the guardian. In the event of disagreement between them, the decision is referred to and decided by the family court.
+
+The OPP decision is taken by the juvenile court judge if the minor's health, safety or morals are in danger, or if the conditions for his or her education or physical, emotional, intellectual and social development are seriously compromised.
+
+In the event of mental disorder, the judge may decide to place the minor in a child and adolescent psychiatric facility for assessment and/or specialist treatment.

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-170-04-A
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Identify a severe malaria attack
+|Description=Know the signs of clinical and biological severity (see RPC 2017): anaemia, thrombocytopenia, creatininemia, liver function tests, etc.
+|Rubric=Identification of the emergency
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=4}}
+
+'''<big>Any malaria attack can progress to a severe attack and the death of the patient</big>''''
+
+Plasmodium falciparum is responsible for almost all severe malaria attacks
+
+Patients at risk of a severe attack are those of extreme age (children, the elderly), pregnant women and patients with splenectomies or a non-functioning spleen, with co-morbidities or immunosuppressed.
+[[File:Criteres gravite palu.png|vignette|''Critères de gravité du paludisme d'importation'' (SPILF, Prise en charge et prévention du paludisme d'importation, Mise à jour 2017 des recommandations de pratique clinique (RPC) 2007) |alt=|néant]]
+<br />The presence of signs of severity requires close monitoring and appropriate management, ideally in a continuing care unit.

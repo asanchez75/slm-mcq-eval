@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-222-06-B
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=B
+|Title=Knowing the role of alcohol in cardiovascular risk
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=6}}
+
+
+* '''Prerequisites:''''
+** Chronic consumption vs acute intoxication ("binge drinking")
+** Quantification of chronic consumption: low = 10-20 g/d (1-2 drinks), moderate = 20-30 g/d (2-3 drinks), high >30 g/d (> 3 drinks).
+* '''Effect of alcohol on risk factors:''''
+** Promotes obesity (calorie intake).      
+** Chronic heavy drinking (over 30 g/L) increases blood pressure (BP) and the risk of diabetes.
+** Does not significantly alter LDL-c, increases triglycerides but also HDL-cholesterol.
+* '''Potentially protective effect of alcohol (low to moderate doses):'''
+** Increases HDL cholesterol,
+** Increases insulin sensitivity,
+** Antioxidant effect,
+** Anti-inflammatory effect,
+** Antiplatelet effect.
+* '''Alcohol, acute coronary syndrome (ACS) and CV mortality ('''J curve for chronic consumption) :
+** 15-30% reduction in the relative risk of ACS and CV death in chronic drinkers with low to moderate consumption.
+** Increased CV risk if consumption exceeds 30-40 g/d<ins>,</ins> in proportion to the dose, risk of toxic dilated heart disease in chronic drinkers with high consumption.
+** 40% increase in the relative risk of ACS and CV mortality following acute intoxication (binge drinking).
+
+[[File:J-curve.png|centred|thumbnail|900x900px|J-curve between alcohol consumption and mortality]]

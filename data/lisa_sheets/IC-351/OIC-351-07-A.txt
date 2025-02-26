@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-351-07-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the semiological analysis of a delirious syndrome
+|Description=Theme, mechanism, organisation (systematisation), adherence, repercussions, vigilance
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+
+=== '''Theme''' ===
+Single or multiple themes to which the delusional idea relates.
+
+Themes: persecution, megalomania, mysticism, filiation, somatic, erotomania, influence, reference, loss of psychic intimacy, mission, messianic
+
+=== '''Mechanism''' ===
+Process of constructing the delusional idea. Mechanisms: interpretative, hallucinatory, intuitive and imaginative
+
+=== '''Systematisation''' ===
+Organisation and coherence of delusional ideas.
+
+* In schizophrenia, the delusions are unsystematised, vague, without logic or a narrative thread.
+* In persistent delusional disorder, delusions are systematised with an apparent logic to the delusion.
+
+=== '''Adhesion''' ===
+The patient's belief in his delusional ideas, fluctuating and dynamic.
+
+* Total adherence: unshakeable conviction, inaccessible to reasoning.
+* Partial adherence: possible criticism of delusional ideas.
+
+=== '''Emotional and behavioural repercussions''' ===
+
+* Anxiety, anger, sadness
+* risk of self- or hetero-aggression
+* lifestyle changes

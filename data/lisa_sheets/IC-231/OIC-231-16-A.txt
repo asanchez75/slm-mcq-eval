@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-231-16-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying junctional tachycardias
+|Description=clinical description, ECG
+|Topic=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=16}}
+
+
+'''Junctional tachycardias are : '''
+
+*Reentrant tachycardias whose circuit passes through the atrioventricular node (AVN). They are therefore stopped by vagal manoeuvres or injection of adenosine (which blocks conduction in the AVN),
+*Tachycardia with an abrupt start and end, always regular with an A/V ratio of 1 and retrograde P' waves (negative in the inferior leads) after the QRS (sometimes not visible masked in the QRS).
+*Palpitations with abrupt onset and abrupt termination define "Bouveret's disease".
+
+'''There are 2 types of junctional tachycardias'' :
+
+*Intranodal reentry tachycardia":
+**Localized reentry circuit in the NAV related to the presence of a fast and a slow pathway,
+**Retrograde P' waves "stuck" to the QRS (sometimes not visible).
+
+*Accessory pathway tachycardia'' (Kent bundle, Wolff-Parkinson-White):
+**Re-entry circuit which descends via the NAD and ascends via an accessory pathway (most frequent, fine QRS, referred to as orthodromic tachycardia) or circuit which descends via an accessory pathway and ascends via the NAD (wide QRS, referred to as antidromic tachycardia),
+**P' waves further away from the QRS (>80 ms),
+**Wolff-Parkinson-White syndrome: ECG appearance in sinus rhythm indicating the presence of an accessory pathway with anterograde conduction; defined by ventricular pre-excitation with short PR (<120ms) and delta wave (pasted appearance of the foot of the QRS). The absence of WPW syndrome in sinus rhythm does not rule out an accessory pathway in junctional tachycardia.
+
+[[File:Junctional tachycardia.jpg|vignette|alt=|centric|900x900px]]
+[[File:Accessory pathway tachycardia.jpg|vignette|alt=|centered|900x900px]]

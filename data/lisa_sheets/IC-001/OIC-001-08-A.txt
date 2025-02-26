@@ -1,0 +1,10 @@
+{{knowledge objective
+|Identifiant=OIC-001-08-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the main defence mechanisms observed in patients/their relatives/healthcare professionals in the context of the announcement of bad news in health care.
+|Description=
+|Rubric=Definition
+|Contributors=
+|Order=8}}When faced with psychological suffering, people may have difficulty coping and "defending" themselves: they adopt an attitude, more or less consciously, that enables them to cope less painfully with the situation. This is a form of adaptation to anxiety. There is no agreed list of defence mechanisms. The person may, for example, try to distance distressing or threatening cognitions from their feelings (Isolation), displace their mental suffering onto physical symptoms (Displacement), unconsciously project their own feelings by attributing them to others (Projection), regress to a previous stage of development (Regression) or even deny (by unconsciously refusing to acknowledge the traumatic reality).

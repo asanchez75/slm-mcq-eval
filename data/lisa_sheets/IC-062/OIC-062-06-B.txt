@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-062-06-B
+|Item_parent=Describing the organisation of psychiatric care, from children to the elderly
+|Item_parent_short=Describing the organisation of psychiatric care from children to the elderly
+|Rank=B
+|Title=Know the specific care available: psychiatrists for the elderly (see item 70), prison psychiatry, etc.
+|Description=Psychiatrist for the elderly (see item 70)
+|Rubric=Definition
+|Contributors=Pierre Vandel
+|Order=6}}
+
+== Prison psychiatry ==
+Prison psychiatry '''provides care for the prison population''.
+
+<nowiki>*</nowiki> Liaison psychiatry in prisons is provided by the sector.
+
+<nowiki>*</nowiki> The '''service médico-psychologique régional (SMPR)''' is a psychiatric care facility located within the prison (it does not provide full-time hospitalisation).
+
+<nowiki>*</nowiki>L''''unité hospitalière spécialement aménagée (UHSA)''' is a hospital facility that accommodates a prison population only.
+
+Psychiatry for the elderly is organised around a "cross-disciplinary and multi-disciplinary principle".
+
+Treatment is provided in a variety of ways:
+
+<nowiki>*</nowiki>hospital: full (acute or long-term care units) or partial (day hospital or night hospital) ;
+
+<nowiki>*</nowiki>extra-hospital or outpatient: sector team, geriatric psychiatry mobile team (EMPG) ;
+
+<nowiki>*</nowiki>psychiatry consultations for the elderly: dedicated or non-dedicated CMPs.
+
+== Elderly psychiatry
+A cross-disciplinary organisation requiring coordination of the people involved.
+
+There are different levels of care:
+
+'''Primary care level: the city'''
+
+* General practitioners, private psychiatrists and medico-social workers: identifying mental disorders in the elderly (particularly as part of suicide prevention)
+
+'''Level 1: proximity''' :
+
+* Emergency department: dealing with crisis situations / identifying specific care pathways
+* CMP: follow-up/relay
+
+'''Level 2: territorial or sub-territorial recourse:'''
+
+* Mobile teams (short interventions then relay), places of intervention: home, EHPAD, etc.
+* Assessment day hospitals: multidisciplinary for complex cases, differential diagnoses, etc.
+* Liaison psychiatry
+* Dedicated medico-social structures: Dedicated units for psychiatric patients in EHPAD, specialised non-geriatric USLD / "prolonged SSR".
+* Hospital structures: full (acute or extended care units) or partial (HDJ or night hospital);
+* outpatient (ambulatory): sector team, PPA mobile team;
+* psychiatric consultations for the elderly.
+
+'''Level 3 regional referral: recourse for complex cases (regional resource centres). University missions'''

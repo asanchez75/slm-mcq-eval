@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-273-06-A
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=A
+|Title=Know the main etiologies of lesional (tumoral or non-tumoral) and non-lesional dysphagia.
+|Description=Squamous cell carcinoma and adenocarcinoma of the oesophagus, peptic or caustic stenosis, oesophageal motor disorders.
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+'''A) Lesional dysphagia'''
+
+1-With stenosis
+
+'''a-''Tumour stenosis:'''''
+
+- Intrinsic to the oesophagus :
+
+squamous cell carcinoma
+
+adenocarcinoma
+
+other rare tumours: sarcomas, neuroendocrine carcinoma ...
+
+- Extrinsic: mediastinal adenopathy, small cell lung cancer, mediastinal tumour, other rare causes
+
+'''b-Non-tumoral stenosis'''
+
+- Peptic stenosis +++ (secondary to gastro-oesophageal reflux)
+
+- Stenosis: caustic, post-radiation, post-endoscopic, post-operative (anastomotic), eosinophilic oesophagitis
+
+
+
+2- No stenosis
+
+- Severe oesophagitis (peptic, caustic, post-radiation, drug-induced, infectious (mycotic, viral, etc.))
+
+- Oesophageal diverticula: cervical, known as Zenker's diverticulum (diverticulum on the posterior surface of the oesophagus, at the pharyngo-oesophageal junction); lower third of the oesophagus, known as epiphrenic diverticulum, often associated with oesophageal motor disorders.
+
+'''B) Non-lesional dysphagia''' :
+
+-Primary oesophageal motor disorders: achalasia (see below), hyper-contractile oesophagus, oesophageal spasms.
+
+-Secondary oesophageal motor disorders: scleroderma, dermatomyositis, lupus, myopathy, paraneoplastic ....
+
+<br />

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-235-10-B
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=B
+|Title=Knowing the aetiologies of pericarditis during myocardial infarction
+|Description=Early pericarditis, Dressler syndrome
+|Rubric=Etiologies
+|Contributors=Jennifer Cautela
+|Order=10}}
+
+
+* Early pericarditis (D3 - D5):''''
+** following transmural -> haemopericardial infarction, due to effusion.
+** Most often a favourable outcome if minimal,
+** Emergency surgery in case of myocardial rupture.
+* Late pericarditis (2-16 weeks) = Dressler syndrome.
+** Classically associated with fever, pleurisy, arthralgia, AEG, significant inflammatory syndrome, prolongation of the QT interval on ECG.
+** Rare nowadays.

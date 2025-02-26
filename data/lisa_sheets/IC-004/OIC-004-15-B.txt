@@ -1,0 +1,151 @@
+{{knowledge objective
+|Identifiant=OIC-004-15-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Cite the three main causes of risks associated with care
+|Description=Invasive procedures, nosocomial infections and medication errors
+|Rubric=Epidemiology
+|Contributors=
+|Order=15}}
+1.    Invasive surgical, interventional or gestural procedures in the broadest sense of the term:
+
+- Of the 6.2 SAEs that occur per 1000 days of hospitalisation, 4.3 are linked to a procedure.
+
+
+2.    Nosocomial infections:
+
+- 1 in 20 medical patients (predominantly urinary tract infections)
+
+- 1 in 20 surgical patients (predominantly surgical site infections)
+
+- 1 in 5 intensive care patients, in decreasing order of frequency:
+
+o Respiratory infections (15 cases per 1000 ventilation days)
+
+o Bacteremias (including those secondary to catheter infections: < 1 case per 1000 catheterisation days)
+
+o Surgical site infections (between 1 and 5% of 'clean' surgical procedures in the Altemeier classification)
+
+o Urinary tract infections
+
+o Soft tissue infections
+
+- So almost all of them are linked to an invasive procedure
+
+- Mainly hospital-acquired pyogenic bacteria with specific antibiotic resistance phenotypes
+
+- They are responsible for longer hospital stays, repeat surgery, functional sequelae, higher economic costs, increased selection pressure for resistant germs, and higher mortality.
+
+
+3.    Adverse drug reactions
+
+- Involved in 5% of consultations, 5-10% of hospitalisations
+
+- Between the 4th<sup>ème</sup> and 6th<sup>ème</sup> cause of death
+
+- '''Predictable''' = pharmacodynamic (e.g. hypoglycaemia on insulin)
+
+o Dose-dependent
+
+o Frequent (and therefore known prior to marketing authorisation)
+
+o Avoidable (error) or not (correct use respected)
+
+- '''Unpredictable''' = non-pharmacodynamic (e.g. anaphylaxis)
+
+o Non-dose-dependent
+
+o Rare (i.e. discovered after marketing authorisation)
+
+o "Often" not avoidable
+
+- Must be declared in '''pharmacovigilance:''''
+
+o Online
+
+o ''Obligation'' for prescribers and pharmacists, possibility for other healthcare professionals and patients
+
+o All in theory, but at least the ''serious'' (cf. SAE criteria), the ''unexpected'', and those occurring ''within five years of the MA''.
+
+o Their "imputability" will be assessed on the basis of intrinsic (chronological and semiological) and extrinsic (bibliographical) criteria.
+
+- Have risk factors (see table):
+<br />
+{| class="wikitable"
+|'''Linked to the patient:''''
+
+-advanced age (risk x 2 after age 65)
+
+-children (including pregnancy - breastfeeding)
+
+-visceral insufficiency
+
+-chronic illness
+
+-atopy
+
+Inappropriate self-medication [[Name the three main causes of care-related risk 2C-004-PE-B02#%20msocom%201|[FR1]]]
+
+-
+|'''Prescription-related:''''
+
+-number of medicines
+
+-total number of prescribers
+
+-non-conciliation of prescriptions
+
+-failure to re-evaluate the prescription
+
+failure to take into account co-morbidities (kidney)
+
+-non surveillance
+|-
+|'''Drug-related:''''
+
+-injectable
+
+-narrow therapeutic range
+
+-long elimination half-life
+
+-numerous interactions
+
+-Recent MA
+
+-Banked (frequent use)
+
+-poorly known (rare use)
+|'''Linked to pharmacokinetics:''''
+
+-Decreased volume of distribution
+
+-hypoalbuminemia
+
+-reduced glomerular filtration
+
+-hepatocellular insufficiency
+|}
+
+
+- L''''medication error''':
+
+o Defined as an error at any stage of the "medication circuit": prescribing, preparation, dispensing, administration, monitoring, etc.
+
+o May or may not have consequences for the patient
+
+o Is by definition ''avoidable''.
+
+o Is the result of one or more, usually collective, malfunctions
+
+o Must be analysed to ''prevent recurrence''.
+
+o Must therefore be "declared" (whether or not it has had consequences)
+
+
+
+<br />
+----[[Name the three main causes of risk in healthcare 2C-004-PE-B02#%20msoanchor%201|[FR1]]]Poor compliance
+
+Administration error (the patient takes the wrong medicine)

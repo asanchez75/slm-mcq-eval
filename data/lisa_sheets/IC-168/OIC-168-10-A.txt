@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-168-10-A
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Title=Photograph of chickenpox lesions
+|Description=P-UE6-164-3
+|Rubric=Multimedia content
+|Contributors=
+|Order=10}}
+<gallery widths="300" heights="300">
+File:Varicella02.jpg
+</gallery>

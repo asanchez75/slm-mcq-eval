@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-349-03-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Know the bacteria most often responsible
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Pierre-Marie Roy
+|Order=3}}
+In 60% of cases, it is Staphylococcus aureus.

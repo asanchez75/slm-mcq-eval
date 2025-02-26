@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-166-12-B
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=B
+|Title=Knowing specific treatments: indication, molecules
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+Indications :
+
+- Oseltamivir: preventive or curative use in adults and children > 1 year old
+
+- Zanamivir: preventive or curative use in adults and children > 5 years old
+
+Objectives: to reduce the duration and intensity of symptoms
+
+- Oseltamivir: Insufficient medical benefit since May 2020 for curative and preventive treatment during seasonal epidemics.
+
+- Balance of benefits, risks and reimbursement discussed
+
+
+Indications for neuraminidase inhibitors :
+
+curative: people at risk, immediately severe flu, hospitalisations
+
+preventive: immunodepressions, co-morbidities, people at risk of complications, groups of people at risk (institutionalised elderly people)
+
+Undesirable effects: neuropsychiatric disorders, bronchospasm for the inhaled route and allergies.
+
+<br />

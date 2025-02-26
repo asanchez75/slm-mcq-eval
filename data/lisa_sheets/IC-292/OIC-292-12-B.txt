@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-292-12-B
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=B
+|Title=Knowing the rationale of an extension work-up
+|Description=Knowing the rationale of an extension work-up and its different levels of investigation: local, regional, metastatic.
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+At an apparently localised stage on the basis of initial investigations, the extension work-up must be adapted to the primary cancer, the histological type and the initial prognostic assessment. It includes :
+
+- at least a loco-regional extension assessment to determine the clinico-radiological stage (size of the tumour and/or local invasion by the tumour, and search for regional lymph node involvement) and the possibilities of loco-regional curative treatment (surgery ± radiotherapy);
+
+- possibly a remote extension assessment depending on the risk of synchronous metastases (itself a function of the primary cancer and its stage).
+
+The work-up should be adapted to the patient's general condition and the clinical signs found. A deterioration in general condition is likely to point to an advanced tumour, in which case a thoraco-abdomino-pelvic CT scan will be appropriate. Intense bone pain points to bone locations, which should be investigated by imaging focused on the painful areas. The paraclinical work-up must also take into account the background to the cancerous disease. For example, in the case of squamous cell carcinoma of the upper aerodigestive tract (UADT), there is a 10-15% probability that the patient will present with a cancer that is synchronous with his or her own (second UADT cancer, lung cancer). The local extension work-up (cervico-facial CT scan and MRI of the facial mass) is therefore supplemented by a thin-slice thoracic CT scan (to look for a synchronous bronchial source) and a pan-endoscopy of the VADS.
+
+In the case of suspected or confirmed metastatic disease, treatment is usually systemic. In most cases, the main purpose of the extension work-up is to provide initial reference imaging and to select radiological targets. The evolution of these targets will be monitored on subsequent scans and will make it possible to determine the effectiveness of treatment. For most cancers, the reference examination is the thoraco-abdomino-pelvic CT scan.

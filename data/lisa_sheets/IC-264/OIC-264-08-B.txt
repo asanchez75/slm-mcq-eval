@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-264-08-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing how to estimate the progression of CKD
+|Description=Physiological, moderate or rapid decline
+|Heading=Positive diagnosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=8}}
+
+In addition to the risk of death, CKD is associated with a risk of progression to stage 5. This risk is assessed by estimating the annual decline calculated as follows: GFR year n - GFR year n+1.
+
+* Physiological" annual decline observed after the age of 40: ≤ 1 ml/min/1.73 m2/year (green curve in the figure below);
+* moderate" annual decline: > 1 and < 5 ml/min/1.73 m2/year;
+* rapid' annual decline: ≥ 5 ml/min/1.73 m2/year.
+
+Whether the decline is moderate or rapid (red curve below), the aim is to curb the slope of the decline (yellow dotted curve below).
+[File:DFG decline.pdf|thumbnail]]
+<br />

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-055-06-A
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=A
+|Title=Development of feeding, sleeping and sphincter control: knowing how to spot abnormal situations
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame,Sylvie Nguyen Le Tich
+|Order=6}}
+
+See item [[2C-055-DE-A03]].
+
+The absence of acquisition at the upper limit must be considered as abnormal. See :
+
+* [[Normal sleep: paediatric specificities 2C-110-DE-A02]] ;
+* [[Nutrition and nutritional needs of infants and children]] ;
+* [[Undernutrition/malnutrition SD-030]] ;
+* Sleep disorders in children and adults.

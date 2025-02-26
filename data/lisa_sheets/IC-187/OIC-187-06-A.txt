@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-187-06-A
+|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Rank=A
+|Title=Knowing the main causes of urticaria
+|Description=Physical, contact, food, drug and infectious urticaria.
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+In the vast majority of cases, acute and chronic urticaria are spontaneous, but certain favouring or triggering factors can be found.
+
+
+- Inducible or physical urticaria
+
+These are urticaria appearing after contact or a situation that activates mast cells; the best known are dermographism, cold urticaria, cholinergic urticaria (after exertion, an emotion, a hot bath), delayed pressure urticaria, and more rarely solar urticaria, aquagenic urticaria (to water) or vibratory angioedema.
+
+
+- Contact urticaria
+
+Urticaria appears in the area of skin contact with a stinging substance. It is generally non-immunological, but in the case of immunological contact urticaria, anaphylaxis is still possible even after contact.
+
+2 examples:
+
+Ø Allergic contact urticaria to latex proteins contained in latex gloves or objects is an immunological contact urticaria with a risk of anaphylaxis.
+
+Ø Nettle contact urticaria is a non-immunological contact urticaria localised solely to the area of skin contact.
+
+
+- '''Les urticaires alimentaires'''
+
+Foods are very often implicated in urticaria, but IgE-dependent allergic food urticaria is rare.
+
+In the case of acute food urticaria, the diagnosis of anaphylaxis should be considered if :
+
+- the time between ingestion of the offending food and the onset of signs ranges from a few minutes to less than 2 hours;
+
+- there are associated symptoms which indicate the severity of the condition;
+
+- Symptoms resolve in less than 12 hours;
+
+- recurrence each time the food is taken, which is generally more severe, regardless of the quantity of food ingested.
+
+
+- Drug-induced urticaria
+
+Many so-called "histamino-releasing" drugs can promote non-immunological mast cell activation. This is the case with NSAIDs, antibiotics, particularly from the beta-lactam family, morphine derivatives and iodinated contrast products. These generally acute urticaria are non-allergic and occur several days after the drug has been taken.
+
+Rare cases of acute urticaria are caused by immunological mechanisms via the activation of IgE antibodies specific to the drug in question; this is known as immediate hypersensitivity or anaphylaxis.
+
+In the case of acute drug-induced urticaria, the diagnosis of anaphylaxis should be made when ;
+
+- a delay of less than 2 hours between the introduction of the drug and the appearance of acute urticaria;
+
+- the existence of associated extracutaneous signs of anaphylaxis
+
+- resolution of the urticaria within a few hours of stopping the suspected drug
+
+- recurrence, which is generally more severe and more rapid, when the suspected drug is re-administered
+
+
+- Infectious urticaria
+
+This is usually acute urticaria resulting from an infection.
+
+Many viral, bacterial and parasitic infections, and sometimes vaccinations, can be associated with the onset of urticaria, which is usually acute.

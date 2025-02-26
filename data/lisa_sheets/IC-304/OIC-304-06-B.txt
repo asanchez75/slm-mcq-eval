@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-304-06-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=Knowing the positive diagnostic approach to liver metastasis
+|Description=Know the main clinical and radiological features of a liver metastasis.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+[[File:Tum foie meta figure.png|vignette|Figure 2: diagnostic approach to liver metastasis]]

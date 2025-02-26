@@ -1,0 +1,81 @@
+{{knowledge objective
+|Identifiant=OIC-018-02-A
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=A
+|Title=Explain the principles of digital integration (traceability, computerised records, connected prescriptions, m-health, decision support, connected objects, AI, etc.) in the care pathway, coordination of professionals and gradation of care.
+|Description=
+|Rubric=Definition
+|Contributors=
+|Order=2}}In 2019, the HAS published a prospective report on the integration of digital technology in the field of health and social care, with the aim of making digital technology a tool for improving the quality, safety and efficiency of the health and social care system (<nowiki>https://www.has-sante.fr/upload/docs/application/pdf/2019-07/rapport_analyse_prospective_20191.pdf</nowiki>).
+
+'''First priority: making digital technology socially acceptable, serving all users and involving everyone'''
+
+1) provide physical access to the Internet and associated technologies
+
+2) Strengthen digital mediation, reduce the cultural gap using health literacy or digital literacy tools, digital solutions co-constructed with their end beneficiaries.
+
+3) to safeguard anonymity when it is provided for by certain health or social support policies: notifiable diseases, donation and use of products of the human body, accommodation and social reintegration centres, to mention just three examples
+
+'''Second priority: Using digital technology to improve the quality of care and support'''
+
+1) Providing professionals with tools to enhance the quality of their work: developing interoperable information systems that allow structured data to pass through the system in a secure environment.
+
+2) Enabling professionals to take ownership of the digital culture applied to their practices: implementing initiatives to co-construct working tools for professionals, and supporting them in this process.
+
+3) Commit to the use of real-life data collected using digital tools to improve the quality of care pathways and practices on the one hand, and healthcare technologies on the other.
+
+'''Third axis: Organising the evaluation of digital solutions to develop trust'''
+
+Observation: the specific features of digital solutions raise new questions about their evaluation: changes in the way care is provided, limited use of many potential functionalities, changes over time in usage, non-exclusivity to the fields of care and social support.
+
+Proposals :
+
+1) Clarify the objectives of assessments in order to better mobilise them or adapt them to the specificities of digital technology; carry out, in consultation with assessment operators in France, discussions prior to the construction of the digital assessment matrix, prioritising in particular software representing a major medical risk for patients.
+
+2) Set up a system for monitoring the real-life use of digital solutions and create a reference centre of expertise to support the players responsible for existing vigilance systems, so that their contribution can be assessed and re-evaluated over time.
+
+'''Fourth axis: Principles for the proper use of sensitive data and artificial intelligence'''
+
+1) Make the system for protecting personal data more visible and easier to understand, particularly in terms of deletion and portability, as well as making it easier to appeal.
+
+2) Regularly reassess the risks of re-identification when processing anonymous databases.
+
+3) Identify the risks of selection likely to undermine universal or category-based solidarity in protection against illness.
+
+4) Work on the concept of "data of public interest" held by private players that are of interest for the evaluation of public policies on health and social support.
+
+5) Promote the "explicability" of artificial intelligence algorithms from the perspective of the general interest and the protection of fundamental rights, and the need to guarantee the representativeness of training and test data for artificial intelligence algorithms.
+
+As part of these areas of work, the integration of digital technology must be designed to serve the patient's health pathway (which is broader than the care pathway). Caring for people in complex situations goes beyond coordination between healthcare professionals, and goes beyond the mere availability and knowledge of GPs when they are faced with it. A large number of people are involved in caring for the elderly and chronically ill, and their status varies: they may be carers, doctors, social workers or even home carers who work with these frail people on a daily basis. This multiplicity of players means that inter-professional communication is essential to ensure continuity of care and to respond to the complexity of situations.
+
+The care pathway concerns the links between professionals and between each professional and the patient. It covers confidentiality, traceability of information to ensure continuity of care, patient safety and quality of life (eliminating redundant examinations, analysing medication profiles to avoid interactions and minimise side effects), decision support for healthcare professionals, and the use of telehealth, telecare and telemedicine tools.
+
+The healthcare pathway places the patient at the heart of an 'open' information system, including quantified-self data (self-measurement, connected objects, use of apps and m-health or 'mobile-health'), exchanges on social networks and searches for information on the Internet.
+
+Coordination between healthcare professionals (as part of a multi-professional approach) is now the responsibility of the CPTS (communautés professionnelles territoriales de santé), the MSPs (maisons de santé pluriprofessionnelles) and the GHTs (groupement hospitaliers de territoire), which must now work to share data.
+
+Mon Espace Santé is an application promoted and deployed by the CNAMTS (Caisse Nationale d'Assurance Maladie des Travailleurs Salariés) to store and share documents and health data in complete confidentiality. It includes the DMP
+
+
+In support of the "Ma santé 2022" strategy for transforming the healthcare system, the e-parcours programme organises the provision of a package of digital coordination services to professionals. The deployment of digital coordination services is based on the core services and reference systems, 4 pillars of which have been strengthened as part of the digital component of the Ségur de la santé:
+
+- the use of secure messaging systems in healthcare (MSS)
+
+- feeding the Shared Medical File (DMP)
+
+- the use of the National Health Identity (INS)
+
+- the roll-out of Pro Santé Connect (PSC).
+
+The e-parcours programme provides for a mechanism to finance the "significant use" of the digital services deployed,
+
+
+'''The Haute Autorité de Santé has defined a classification tool for digital applications used in healthcare'''
+
+<br />
+
+* Level A'': Support services for patients, carers or professionals in the context of care or optimising the care pathway or medical/socio-administrative management without direct action on patient health: shared medical file (DMP), online appointment scheduling software, geolocation application for public health purposes, etc.
+* Level B: Non-personalised general information for users on living conditions, dietary and health rules, pathologies/disabilities or any state of health (in the broadest sense of the term), health, care or life paths, etc. It also provides training materials and tools for healthcare professionals.
+* Level C: Help with living, prevention, screening, diagnosis, compliance, monitoring or treatment of a disease, health condition or disability, without the digital solution being autonomous in the management of therapeutic decisions. This level alone comprises 8 categories according to the various functionalities of the solutions at this level. Here are a few concrete examples an audio description application for the visually impaired; an application enabling disabled people to request assistance in solving a specific problem from connected volunteer helpers; a remote monitoring system enabling a healthcare professional to interpret and manage patient data remotely; connected bracelet to alert emergency services for the elderly; ovulation period prediction tool; gamification solution applied to the treatment of psychiatric pathologies; wrist blood pressure monitor connected to the patient's mobile phone; software combined with a chest band to detect pauses in breathing to diagnose sleep apnoea...
+* Level D: Autonomous decision management after data analysis and diagnosis to automatically adjust the treatment to be administered, without human intervention: for example, a system that analyses data from a continuous glucose monitor used by a diabetic patient and automatically adjusts the basal rate or administers a bolus dose without the patient having to intervene (artificial pancreas); an implanted cardiac defibrillator with a remote monitoring solution that analyses data from a cardiac monitor, delivers a shock in the event of cardiac arrest and can transmit alerts to the professional monitoring the patient...

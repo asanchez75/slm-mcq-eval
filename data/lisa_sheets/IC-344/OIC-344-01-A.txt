@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-344-01-A
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=A
+|Title=Knowing the definition of pre-eclampsia
+|Description=Know how to measure arterial blood pressure in pregnant women and the diagnostic features of pre-eclampsia.
+|Rubric=Definition
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=1}}
+
+- Pregnancy-induced hypertension defined by :
+
+o PAS ≥140mmHg and DBP ≥90mmHg
+
+o After 20 SA
+
+- + proteinuria ≥ 300mg/24h

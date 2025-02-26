@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-267-22-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the principle of emergency treatment of severe hypokalaemia
+|Description=Know how to supplement a hypokalaemic patient
+|Rubric=Management
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=22}}
+
+
+*If severe hypokalaemia (cardiac disorders, increased QT or neuromuscular signs), restore kalaemia > 3 mmol/L (intravenously).
+*Avoid glucose intake during the initial phase of correction of severe hypokalaemia (risk of initial worsening by insulin secretion induced by glucose intake).
+*Administration of 0.5 to 1.5 g per hour: repeated monitoring of kalaemia, heart rate and infused vein (venotoxicity). The patient must be scoped.
+*Systematic correction of associated hypomagnesemia.
+*Oral potassium supplementation is usually sufficient (food, KCl in).

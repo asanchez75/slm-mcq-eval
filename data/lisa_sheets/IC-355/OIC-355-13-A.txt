@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-355-13-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Knowing and preventing the main risk factors for bleeding
+|Description=Know how to identify the two main risk factors for upper GI haemorrhage: drugs (NSAIDs, aspirin, antiaggregants, anticoagents) and Helicobacter pylori.
+|Rubric=Management
+|Contributors=
+|Order=13}}
+The main risk factors for bleeding are taking drugs that are toxic to the digestive mucosa (NSAIDs, aspirin) and certain pathologies (peptic ulcer, cirrhosis, diverticulosis, cancer).

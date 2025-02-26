@@ -1,0 +1,102 @@
+{{knowledge objective
+|Identifiant=OIC-095-02-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and canal syndrome
+|Rank=A
+|Intitle=How to diagnose radiculagia and its topographical forms
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=2}}
+
+*Radiculalgia is pain whose systematisation/topography coincides with a dermatome, i.e. a specific sensory territory innervated by a single spinal root.
+*Pain may be mechanical (daytime, increased by physical effort), inflammatory (nocturnal recrudescence) and/or neuropathic (DN4 score ≥ 4/10).
+*Objective sensory and/or motor damage in the territory of the spinal root may accompany the pain:
+
+*Hypo/anaesthesia
+*Muscle strength deficit: score from 0 (no contraction) to 5 (movement against resistance, normal strength)
+*myotrophy
+*Diminution or abolition of an osteotendinous reflex (OTR)
+
+'''Table. Topographical forms''
+{| class="wikitable"
+|'''Spinal root''''
+|'''Pain trajectory'''
+
+'''Sensory territory'''
+|Motor deficit
+|'''Osteotendinous reflex'''
+|-
+|C5
+|Shoulder joint, lateral aspect of the arm
+|Shoulder abduction
+|bicipital
+|-
+|C6
+|Side of upper limb to thumb
+|elbow flexion, thumb flexion,
+supination
+|Styloradial
+|-
+|C7
+|Posterior aspect of the upper limb to the ankles
+
+2<sup>th</sup>& 3<sup>th</sup> fingers
+|Extension elbow, wrists, fingers,
+pronation
+|Tricipital
+|-
+|C8-T1
+|Medial side of the upper limb to the wrists.
+
+4<sup>th</sup>& 5<sup>th</sup> fingers
+|Finger flexion and spread
+|Ulnopronator
+|-
+|L3
+|Anterior thigh, knee
+|Psoas (hip flexion),
+Quadriceps (knee extension)
+|Rotator cuff
+|-
+|L4
+|Anterolateral thigh
+
+Front knee
+
+Anteromedial leg
+|Knee extension
+
+(quadriceps femoris)
+
+Dorsal flexion of the foot
+
+(anterior tibial)
+|Rotulus
+|-
+|L5
+|Posterolateral thigh & leg
+
+Dorsal side of foot & 1st toe
+|Toe extension
+
+Foot eversion (fibular)
+
+Dorsal flexion of the foot (tibialis anterior)
+
+Hip abduction (gluteus medius)
+|-
+|-
+|S1
+|Posterior thigh & leg
+
+Plantar side of foot
+
+Foot side edge
+
+5<sup>th</sup> toe
+|Foot plantar flexion (sural triceps)
+Knee flexion (hamstrings)
+|Ankle
+|}
+<br />

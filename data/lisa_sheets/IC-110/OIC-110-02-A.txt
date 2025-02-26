@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-110-02-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the definition of normal sleep and paediatric specificities
+|Description=None
+|Rubric=Definition
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=2}}
+
+Sleep is important for a child's development and growth. Sleep disorders in children can have a significant impact on cognitive performance, behaviour, mood, growth and metabolism.
+
+* Before 3 months, the child sleeps 14-16 hours on average (min 9h30 max 20h, split sleep, over short periods of 3-4 hours interrupted by short periods of wakefulness). Night-time sleep is gradually consolidated. Between 3 and 6 months, a continuous period of sleep of around 6 hours at night is established. During the first 6 months, babies fall asleep in "restless sleep" (the precursor to REM sleep), often accompanied by crying, before entering "calm sleep". Gradually, sleep becomes more structured, with stages of light slow wave sleep, deep sleep and REM sleep.
+
+* Children sleep through 4 to 6 cycles (a cycle is made up of slow wave sleep and REM sleep) per night, interspersed with periods of non-perceived wakefulness. The length of a cycle increases with age (50 - 60 min at the age of 1, 90 - 120 min from the age of 5). When the sleep cycle changes, there are physiological arousals which decrease with age, especially after the age of 24 months: 8 arousals per night lasting between 1-10 min at the age of 3 months, 4-5 arousals per night at the age of 18 months). Total sleep time decreases with age: 14 hours at 1 year, 11 hours at 6 years, 9-10 hours at 12 years, but with great inter-individual variability.
+
+The number and duration of naps gradually decreases, but may continue until the age of 5 or 6. From the age of 2, there is a negative correlation between the duration of daytime sleep and that of night-time sleep.  
+
+From school age onwards, the structure of sleep is similar to that of adults, with the exception of the time spent in deep sleep, which is longer than that of adults.
+
+In adolescence, the circadian rhythm shifts and a phase delay sets in, with a physiological tendency to go to bed later and get up later, a phenomenon accentuated by social life and exposure to screens.

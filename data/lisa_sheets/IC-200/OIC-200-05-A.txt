@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-200-05-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know three differential diagnoses of joint effusion
+|Description=Hygroma, erysipelas and deep vein thrombosis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+
+*Involvement of periarticular structures: tenosynovitis, bursitis (or hygroma).
+*Skin involvement: erysipelas (large acute red leg, colour anomalies of the extremities)
+*Soft tissue involvement: oedema from deep vein thrombosis (localised or diffuse oedema)

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-123-10-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=General knowledge of the physiopathology of ageing.
+|Description=Know the different cascades and aetiological agents linked to biological ageing.
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=10}}
+Ageing involves both genetic and environmental factors. Exogenous factors (environment) and endogenous factors (cell replication anomalies in particular) induce lesions, in return for which the body has the capacity to repair cells or tissues or to eliminate factors of aggression (elimination of free radicals, for example). This balance between aggression and repair changes over time, with an increase in the number of aggressions and lesions and a decrease in the body's ability to correct and repair them, resulting in ageing.

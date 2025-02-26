@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-200-02-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know the definition of acute arthritis
+|Description=Mono-, oligo-, poly-
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+
+
+* Arthritis: inflammation of the joints
+* Acute: less than 3 months old.
+
+* Monoarthritis: 1 joint affected;
+* Oligoarthritis: 2 or 3 joints;
+* Polyarthritis: at least 4 joints.

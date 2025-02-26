@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-177-30-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Title=Know how to prescribe antibiotic therapy for newborns
+|Description=None
+|Heading=Management
+|Contributors=Elise LAUNAY
+|Order=30}}
+
+Severe bacterial infections are more frequent in newborns than in infants or children because of their immune immaturity.
+
+These severe bacterial infections are mainly due to Group B Streptococcus (meningitis, bacteraemia) and Escherichia coli (pyelonephritis, meningitis, particularly in premature babies).
+
+There are very few indications for oral antibiotic therapy in neonates, so antibiotic therapy is essentially hospital-based and IV.
+
+Antibiotic prescriptions require a prior assessment, including at least a blood culture, and initial monitoring is always carried out in hospital.
+
+Clinical decision rules based on clinical and paraclinical elements are used to guide antibiotic therapy, particularly for suspected early bacterial infection (before 7 days of life, HAS recommendations<ref>[https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/documents/label_has_recommandations_inbp.09.2017.pdf]</ref>) or for febrile newborns after 7 days of life.
+
+Dosages are adapted to gestational age, post-natal age and weight.
+
+Some antibiotics are contraindicated or have special conditions of use in newborns: cotrimoxazole is contraindicated because of the risk of agranulocytosis, ceftriaxone should not be used in premature babies or in cases of jaundice because it is eliminated via the bile and, as with all children, fluoroquinolones and cyclins are contraindicated.

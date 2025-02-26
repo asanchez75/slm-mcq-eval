@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-320-04-B
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=B
+|Title=Know the definition of Waldenström disease
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+Waldenström disease belongs to the indolent (or low-grade malignant) non-Hodgkin's B lymphomas.
+
+- '''Definition:''' proliferation of monoclonal lymphoplasmocytes in the bone marrow
+
+- '''Clinical presentation:''' tumour syndrome (adenopathies, hepatosplenomegaly), cytopenias (central or peripheral), hyperviscosity syndrome, dysimmune manifestations (demyelinating neuropathy via anti MAG activity, autoimmune cytopenias, cryoglobulinaemia).
+
+- '''Biology'''
+
+Myelogram and/or B.O.M.: presence of lymphoplasmocytes (>10%)
+
+           Serum protein electrophoresis: IgM monoclonal gammopathy.
+
+- '''Imaging (ultrasound, thoraco-abdominopelvic scanner):''''
+
+search for deep lymph node syndrome, hepatosplenomegaly
+
+- '''Progressive risks:''' hyperviscosity syndrome (linked to IgM peak), autoimmune complications, complications linked to cytopenias if medullary invasion, haemostasis abnormalities (acquired Willebrand syndrome), transformation into high-grade B lymphoma, AL amyloidosis.
+
+
+
+
+
+<br />

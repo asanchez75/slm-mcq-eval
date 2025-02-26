@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-042-10-B
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=B
+|Title=Knowing the main etiologies of hyperprolactinemia
+|Description=None
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=10}}
+
+''<u>Question identical in pituitary adenoma, college endocrinology</u> ([[Pituitary Adenoma]])''
+
+The first step is to check the prolactin dosage in another laboratory:
+
+In order to avoid big-big prolactinaemia (clusters of prolactin molecules which distort the assay but are not pathological), which depends on the assay technique, and to confirm true hyperprolactinaemia.
+
+The main causes of hyperprolactinaemia are :
+
+*pregnancy and breast-feeding (physiological causes)
+*Therapeutics leading to an increase in prolactin (anti-emetics, neuroleptics, tricyclic antidepressants, morphine, high-dose estrogens, etc.).
+*peripheral hypothyroidism, renal insufficiency
+
+Importance in a context of pituitary origin of knowing the importance of the prolactin value: [[Pituitary adenoma]]
+
+*<u>Hyperprolactinaemia of pituitary origin</u>: pituitary MRI work-up to look for a prolactin adenoma (microadenoma: prolactin<200ng/ml, prolactin macroadenoma >200ng/ml), a non-prolactin macroadenoma or another lesion responsible for compression of the stalk (disconnection hyperprolactinaemia, <200ng/ml)

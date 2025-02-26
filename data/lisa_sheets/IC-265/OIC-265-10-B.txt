@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-265-10-B
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=B
+|Title=Knowing the indication for imaging examinations for urinary lithiasis
+|Description=Unprepared ultrasound-abdomen pair, CT scan
+|Rubric=Complementary examinations
+|Contributors=Romain Boissier
+|Order=10}}
+
+'''<u>In emergency,</u>''' imaging tests are indicated to confirm the diagnosis of renal colic (within 24 hours if uncomplicated and urgently if complicated renal colic), assess its severity (single kidney, urinoma), and at a distance to confirm whether or not the stone has been expelled: renal-vesical ultrasound/ASP (only for simple renal colic or stone follow-up), or ideally a low-dose abdominal-pelvic CT scan (except in obese patients) without injection of contrast (within 24 hours for simple renal colic and urgently in the case of complicated renal colic).
+
+In an emergency, a CT scan may be injected if there is diagnostic doubt on the non-injected sections (absence of obstacle, absence of dilatation) to rule out a differential diagnosis (splenic infarction, cholecystitis, pancreatitis, retro-caecal appendicitis....).
+
+'''<u>In the non-emergency setting</u>''', imaging is indicated to determine the dimensions, number of calculi, their location, UH density to deduce the composition and probability of spontaneous expulsion and thus decide on the most appropriate treatment technique (a uro CT scan is indicated in this setting) (AFU 2022 Lithiasis Committee recommendations).
+
+ASP-ultrasound may be indicated 24-48 hours after a simple renal colic or to monitor a calculus.
+
+Urinary ultrasound alone may be useful for monitoring non-radiopaque stones.
+
+Uric acid and drug stones are not seen on PSA (they are said to be radiolucent).
+
+All stones are seen on CT except those caused by drugs.

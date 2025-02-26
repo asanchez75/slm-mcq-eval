@@ -1,0 +1,92 @@
+{{knowledge objective
+|Identifiant=OIC-016-19-A
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the healthcare system. Its regulation. Indicators. Care pathways
+|Rank=A
+|Title=Knowing how to cite incentive methods: public service commitment contract, provisions of the medical convention, the case of chronic diseases: examples: chronic obstructive pulmonary disease (COPD), chronic renal failure, asthma, type 2 diabetes in adults).
+|Description=None
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=19}}
+
+Recent reforms include "financial incentives" for general practitioners. The options chosen to regulate the supply of care in France are: the ''public service commitment contract'' offered to new generations of doctors[1], the ''care pathway'' for chronic diseases[2] and ''delegation of tasks'' within cooperation protocols[3]. In addition, the "provisions of the medical agreement" provide for financial incentives to achieve public health objectives.
+
+The 2011 agreement encouraged practices to modernise, introduced "remuneration based on public health objectives" (ROSP), and developed prevention and access to care for all through specific provisions for doctors wishing to practise in under-serviced areas, the "demography" scheme.
+
+The "2016 agreement" provides for financial incentives in six areas:
+
+- increase remuneration according to the complexity of patient care;
+
+- provide access to healthcare everywhere, for everyone, by reducing waiting times;
+
+- consolidate the quality of medical practice through a strengthened and extended ROSP ;
+
+- improve the coordination of care around the patient ;
+
+- continue to control excess fees;
+
+- simplify the conditions of practice and dealings with the health insurance system.
+
+Its provisions have been extended until March 2023, in view of the Covid 19 epidemic. A rider to the 2016 medical agreement is planned for 2021 to increase the value of certain procedures:
+
+- extending access to home consultations to all people suffering from chronic illnesses, at a cost of €70. This financial gesture would help to keep dependent people at home, and so avoid missing out on the "home shift" at the heart of the policy for the elderly.
+
+- specific upgrading for certain "suffering" specialties such as paediatrics, psychiatry, endocrinology and rheumatology.
+
+- implementation of the "access to care service" (SAS), the creation of which was voted for in the 2021 Social Security budget, at the request of the public authorities, with remuneration for doctors who listen to and refer patients over the telephone during the day, and for those who treat patients within this framework.
+
+The most important provisions in terms of public health are the indicators for remuneration based on public health objectives (ROSP). The aim is to encourage practitioners to develop their preventive practices in line with the provisions of the agreement. There are now 29 such indicators, including :
+
+- monitoring diabetic patients (clinical foot examination, search for micro-albuminuria);
+
+- prevention of cardiovascular risks ;
+
+- colorectal cancer screening ;
+
+- prevention of addictive behaviour (tobacco, alcohol) ;
+
+- combating antibiotic resistance and drug-related iatrogenicity.
+
+The doctors concerned by the ROSP are :
+
+- GPs (940 then 1,000 points);
+
+- doctors specialising in cardiology and vascular diseases (340 points) <nowiki>https://www.ameli.fr/medecin/exercice-liberal/remuneration/remuneration-objectifs/medecin-specialiste-cardiologie</nowiki> ;
+
+- doctors specialising in gastroenterology and hepatology (300 points) ;
+
+- doctors treating children under the age of 16. This ROSP for children's GPs concerns GPs and paediatricians. It is built around a total of 305 points and is based on ten indicators defined between UNCAM and the unions representing self-employed doctors, covering the following themes:
+
+- vaccination ;
+
+- identifying and managing obesity ;
+
+- combating antibiotic resistance ;
+
+- asthma management ;
+
+- screening for sensory disorders ;
+
+- screening for learning disabilities ;
+
+- oral care.
+
+- endocrinologists, diabetologists and nutritionists. Eight clinical practice quality indicators have been defined for monitoring chronic diseases such as diabetes and certain thyroid disorders.
+
+Remuneration is based on a points system. Each indicator has a maximum number of points attached to it, corresponding to the achievement of the target objective set for that indicator. Each point is worth 7 euros. A doctor's achievement rate for each indicator determines the number of points he or she will receive.
+
+The number of points per indicator corresponds to achieving 100% of the target objective.
+
+The number of points awarded to the doctor is based on an average patient base of 800 for a GP or a specialist in cardiology and vascular diseases, and 1,100 for a specialist in gastroenterology and hepatology. At the end of the year, a weighting based on the volume of the actual patient base is then applied.
+
+The maximum amount of this ROSP is €6,580 per year, if all the indicators are met at 100% and for a patient base of 1,000 (having had at least two contacts, consultations or procedures in the last two years).
+
+
+The 2016 agreement also provided for a "complex consultation system" covering contraception and the prevention of sexually transmitted infections, maternity discharge, infant and child monitoring with compulsory consultations, and obesity monitoring. A number of additional clinical situations are covered by complex consultations. For example, the CSE consultation (consultation suivi enfant - child follow-up consultation) is an annual consultation for monitoring and coordinating the care of an autistic child by a general practitioner, paediatrician or psychiatrist, to be introduced in 2019.
+
+The 2016 agreement also created a new category of consultations: ''very complex consultations, for example'': summary consultation for a patient with chronic end-stage renal failure as part of the initiation of a renal transplant file, initial consultation for information and organisation of care in the event of HIV infection, identification of signs of autism spectrum disorder (ASD) in a child aged 0 to 6.
+----[1] <nowiki>https://solidarites-sante.gouv.fr/professionnels/se-former-s-installer-exercer/le-contrat-d-engagement-de-service-public-cesp/article/le-principe-du-cesp</nowiki>
+
+[2] <nowiki>https://www.has-sante.fr/jcms/c_1247611/fr/promouvoir-les-parcours-de-soins-personnalises-pour-les-malades-chroniques</nowiki>
+
+[3] <nowiki>https://www.nouvelle-aquitaine.ars.sante.fr/protocoles-de-cooperation-entre-professionnels-de-sante-2</nowiki>

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-312-01-B
+|Item_parent=Breast tumours
+|Item_parent_short=Breast tumours
+|Rank=B
+|Title=Knowing the epidemiology of breast tumours
+|Description=Knowing the incidence and prevalence of breast cancer in France
+|Rubric=Epidemiology
+|Contributors=
+|Order=1}}
+Breast cancer is the most common cancer in women, both in terms of incidence and mortality. It is the 2nd most common cancer in both sexes combined. Its incidence is increasing as screening becomes more widespread and the population ages. Mortality is falling.
+<br />
+{| class="wikitable"
+|
+* '''In France:'''
+* 1 in 8 to 10 women will develop breast cancer;
+* There are around 58,000 new cases each year;
+* there are around 12,000 deaths per year;
+* The median age at diagnosis is 61;
+* the median age at death is 74.
+|}

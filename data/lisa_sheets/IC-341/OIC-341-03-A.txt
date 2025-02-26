@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-341-03-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Know the clinical presentations and diagnosis of meningeal haemorrhage
+|Description=To make the diagnosis in the presence of a sudden headache suggestive of an urgent headache with signs of pyramidal irritation in a patient with no other reason for the headache.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+
+
+* Typical presentation: "a thunderclap in a clear sky": acute headache that is sudden, intense and immediately maximal +/- preceded by a fissure syndrome a few days earlier: any sudden intense headache is a meningeal haemorrhage until proven otherwise ('''[[Headache SD-118|headache]]'''').
+
+* Meningeal syndrome, usually apyretic: may be absent initially.
+
+* Signs of intracranial hypertension +/- disorders of consciousness up to coma ('''[[Coma and disorders of consciousness SD-028|coma et troubles de la conscience]]''').
+
+* Inaugural convulsive seizure ('''[[Convulsions SD-120|convulsions]]''').
+
+* Focal signs ('''[[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]'''''): sensory and/or motor deficit in the case of cerebral-meningeal haemorrhage; homolateral III paralysis in the case of compression by a large aneurysm of the internal carotid artery.
+
+* Vegetative signs: tachycardia, arterial hypertension, Cushing's reaction, heart rhythm disorders, bradycardia or even cardiac arrest.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-238-02-A
+|Item_parent=Heart murmur in children
+|Item_parent_short=Heart murmur in children
+|Rank=A
+|Title=Knowing the definition of an organic and non-organic heart murmur
+|Description=Frequency in relation to age
+|Topic=Definition
+|Contributors=
+|Order=2}}
+'''Non-organic heart murmur''': also known as a ''functional'' or ''innocent'' or ''anorganic'' murmur, it corresponds to the physiological noise of blood flow without any underlying cardiac abnormality. It is often the sound of blood passing through the pulmonary valve during ejection from the ventricle into the pulmonary arteries. This murmur is benign and requires no special treatment.
+
+'''Organic heart murmur:''' murmur corresponding to an anatomical anomaly of the heart.

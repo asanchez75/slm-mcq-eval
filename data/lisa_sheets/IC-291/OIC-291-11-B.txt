@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-291-11-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the main genetic abnormalities
+|Description=Define and distinguish the main types of genetic abnormalities observed in cancer cells - BRCA1-2 and Lynch
+|Rubric=Physiopathology
+|Contributors=
+|Order=11}}
+The tumour has its own molecular alterations, acquired during the transformation process and subsequent evolution of the tumour sub-clones. These genetic alterations play a role in the acquisition/evolution of tumour cell properties (so-called "driver" anomalies) or simply reflect mutagenic processes undergone by the genome (transient variants).
+
+They are of a ''varied nature''. They may include :
+
+- Single Nucleotide Variation (SNV) mutations, which can lead to the substitution of amino acids that are important for the function of the protein or to the creation of a stop codon;
+
+- small insertions or deletions (InDels) which may or may not cause a shift in the reading frame during translation, leading to a functionally modified protein or a non-functional truncated protein;
+
+- d''''anomalies in splicing''' (the process of maturing messenger RNA) leading, for example, to the elimination of exons regulating the activity of the protein;
+
+- amplification of oncogenes or deletion of tumour suppressor genes ("Copy Number Variations" or CNV), thus modifying the level of expression of the affected gene;
+
+- intra- or inter-chromosomal structural rearrangements (''translocations'') resulting in fusion genes and leading, for example, to the uncontrolled activation of proteins with tyrosine kinase activity;
+
+- d''''anomalies in the epigenetic regulation''' of gene expression by promoter methylation.
+
+To detect them, the biologist will use targeted and/or high-throughput techniques on DNA (SNV, InDels, CNV, methylation) and RNA (rearrangements, fusion transcripts).

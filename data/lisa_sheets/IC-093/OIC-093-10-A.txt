@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-093-10-A
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=A
+|Title=Know the principles of emergency management of spinal cord compression.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+
+==Surgery: triple objective==
+
+*Spinal cord decompression: techniques and approaches (posterior, anterior) depend on the aetiology and location.
+*Stabilisation if vertebral fracture is unstable (osteosynthesis)
+*Samples for diagnostic confirmation ([[Interpretation of a pathological anatomy report SD-180|pathological anatomy]], bacteriology)
+
+==General measures==
+
+*Avoid aggravating factors: bed rest if the fracture is unstable, +/- immobilisation with a neck brace/corset.
+*Management of a patient in prolonged decubitus SD-276|Prevention of decubitus complications]]: Prescription and monitoring of anticoagulant and/or anti-aggregant treatment SD-248|Antithrombotic prophylaxis]], mobilisation and massage of pressure points.
+*Detect vesico-sphincter disorders: [[Acute retention of urine|urinary catheter]] ([[Acute retention of urine SD-097|acute retention of urine]])
+
+==Additional / etiological treatments=
+
+*e.g. Radiotherapy for vertebroepidural metastases
+*e.g. Appropriate antibiotic therapy for infectious epiduritis
+
+==[[Prescription of rehabilitation SD-247|Rehabilitation]] for neurological deficits and disabilities ==

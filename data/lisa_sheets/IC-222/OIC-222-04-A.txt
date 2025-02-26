@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-222-04-A
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=A
+|Intitle=Individual prevention strategies: dietary hygiene measures and drug treatments
+|Description=None
+|Rubric=Definition
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=4}}
+
+
+* '''Hygienic<s>-</s>dietary measures: includes everything relating to lifestyle modification to reduce CV risk:''''
+** Healthy diet: reduce salt content, saturated fatty acids, free sugars,
+** Physical activity to be promoted,
+** Sleep,
+** Smoking: combat active and passive smoking,
+** Alcohol consumption to be limited.
+* Medicinal treatments: includes everything relating to the prescription of an active principle for cardiovascular prevention as well as associated therapeutic education and certain therapeutic targets to be achieved:''''
+** Anti-HTA drugs,
+** Drugs to support smoking cessation,
+** Anti-diabetic drugs,
+** Lipid-lowering drugs,
+** Antiplatelet drugs.

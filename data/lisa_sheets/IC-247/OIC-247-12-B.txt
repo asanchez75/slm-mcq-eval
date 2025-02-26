@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-247-12-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Knowing the different stages of diabetic nephropathy
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Eva Feigerlova,Hélène Bihan,Claire Briet,Etienne Larger,Gaetan Prevost
+|Order=12}}
+
+The different stages of diabetic nephropathy are summarised in the table below:
+<br />
+{| class="wikitable"
+|'''Stage 1'''
+
+Renal hypertrophy, glomerular hyperfiltration
+|1 year after diagnosis<sup>⁎</sup>- Normal albuminuria</nowiki>.
+|<Normal albuminuria</nowiki>.
+
+- Normal blood pressure
+
+- High glomerular filtration (around +20%)
+
+- Histology: glomerular hypertrophy without light microscopic signs
+|-
+|Stage 2
+
+Silent phase
+|2 - 6 years after diagnosis<sup>⁎</sup> - Normal albuminuria</sup> - Normal albuminuria
+|<Normal albuminuria</nowiki>.
+
+- Normal blood pressure
+
+- High to normal glomerular filtration
+
+- Histology: glomerular hypertrophy without light microscopic signs
+|-
+|'''Stage 3'''
+
+Nephropathy incipiens
+|7 - 15 years after diagnosis<sup>⁎</sup>- Microalbuminuria
+|<nowiki>- Microalbuminuria 30-300 mg/24h or 20-200 mg/L)</nowiki>
+
+- Normal or slightly increased blood pressure, loss of nocturnal drop
+
+- Normal or slightly reduced glomerular filtration rate
+
+- Histology: onset of diffuse mesangial expansion
+|-
+|Stage 4
+
+Nephropathy
+|15 - 20 years after diagnosis<sup>⁎</sup>- Proteinuria (albuminuria)
+|<Proteinuria (albuminuria >300 mg/24h or 200 mg/L)</nowiki>.
+
+- Often high blood pressure
+
+- Glomerular filtration: a fall of 10 ml/min/year in the absence of treatment
+
+- Histology: continued mesangial expansion, thickening of the basement membrane, formation of nodules of sclerosis, arteriolar hyalinosis.
+|-
+|Stage 5
+
+Kidney failure
+|20-30 years after diagnosis<sup>⁎</sup>.
+|<nowiki>- Massive to low proteinuria when renal function is severely impaired</nowiki>.
+
+- Often high blood pressure
+
+- Low to collapsed glomerular filtration
+
+- Histology: sclerosis followed by glomerular and interstitial destruction
+|}
+<sup>⁎</sup> schematically
+
+It should be noted that renal puncture-biopsy is not systematic.<ref>Polycopy of the College of Teachers of Endocrinology, Diabetes and Metabolic Diseases (4th edition, 2019)</ref>
+
+[[Chronic renal failure in adults and children]]
+<references />

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-155-21-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Know the definition and pathophysiology of carbuncles and boils
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=21}}
+'''Furuncle''' : deep necrotising infection of the pilosebaceous follicle due to ''Staphylococcus aureus'', usually excreting a toxin (e.g. Panton-Valentine leucocidin).
+
+'''Anthrax:''' conglomeration of boils

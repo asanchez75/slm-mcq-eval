@@ -1,0 +1,92 @@
+{{knowledge objective
+|Identifiant=OIC-147-04-A
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=A
+|Title=Know the first-line complementary examinations (biology and imaging) useful for the diagnosis of acute fever in children and adults according to clinical orientation.
+|Description=None
+|Rubric=Supplementary tests
+|Contributors=
+|Order=4}}
+The decision and prioritisation of additional investigations '''is different'' in children and adults
+
+'''<u>At the child's</u>''''
+
+- In the presence of "signs of seriousness" = hospitalisation (referral to the nearest emergency department with prior EMS contact to discuss medical treatment if life-threatening emergency: purpura, haemodynamic, neurological or respiratory disorders) + "systematic investigations" (blood culture, BU and ECBU, CBC, CRP/PCT + "easy" LP + specific investigations for organ failure if [[Sepsis and septic shock in children and adults|sepsis]]
+
+Empirical antibiotic therapy if "purpura fulminans", sepsis, febrile neutropenia, strong suspicion of meningitis with immediate contraindication to LP (see item 151 meningitis).
+
+- In the presence of co-morbidities or a high-risk background: hospital assessment regardless of age, advice from the referring doctor.
+
+In the absence of any sign of seriousness, a distinction is made between newborns and infants under 6 weeks of age, infants from 6 weeks to 3 months of age and infants over 3 months of age.
+
+- ''Before 6 weeks'': higher prevalence of bacterial infections, so systematic assessment in hospital (apart from exceptions such as an obvious viral point of call: bronchiolitis with low fever, for example) and monitoring in hospital.
+
+- Between 6 weeks and 3 months
+
+o Call point/special context (travel): specific treatment, malaria screening if returning from an endemic area
+
+o Isolated fever ≤48h: symptomatic treatment, ''monitoring instructions'', urine dipstick (depending on context, uropathy, fever > 40°C)
+
+o Isolated fever > 48 hours: infectious workup: CRP/PCT, BU, blood culture
+
+- '''After 3 months'''
+
+o Call point/special context (travel): specific treatment, malaria screening if returning from an endemic area
+
+o Isolated fever ≤ 72h: symptomatic treatment, monitoring instructions +++.
+
+o Fever > 72 hours: at least BU, discuss CRP/PCT, blood culture depending on context and physical examination
+
+o Fever > 5 days: think Kawasaki (look for other signs of [[Exanthema and erythroderma of adults and children|Kawasaki]])
+
+o Fever > 14 days: consider haemato-oncological causes (leukaemia, neuroblastoma) and inflammatory causes (specialist paediatric opinion).
+
+o Cyclical (recurrent) fever: specialist paediatric opinion
+
+Monitoring instructions to be explained to parents/carers are very important and form an integral part of care, so that they can be consulted again if any signs of seriousness or new symptoms appear. Advice is given in the health record ([https://solidarites-sante.gouv.fr/IMG/pdf/carnet_de_sante-num-.pdf p 22 of the health record])''''
+
+
+'''<u>Adult</u>''''
+
+<u>1- First-line investigations for fever</u>.
+
+- Within the first 3 days, if the clinical assessment is negative (no evidence of severity, risk factors or aetiology): clinical reassessment at 48 hours if the fever persists. In the absence of an infectious focus, no antibiotic therapy is indicated.
+
+- Between D3 and D5, there is less likelihood of a simple virus infection; if the clinical work-up remains negative, an additional work-up should be carried out:
+
+o Blood count with leucocyte formula
+
+o [[Elevated c-reactive protein (cr) SD-203|CRP]]
+
+CAUTION: CRP (and even more so procalcitonin) measurements are of no use if the diagnosis is obvious; however, they can help differentiate between viral and bacterial causes in certain situations. Their specificity is imperfect. They are of no value in isolation.
+
+o Blood ionogram, urea, creatinemia
+
+o Liver function tests
+
+o +/- TP, fibrinogen, [[Analysis of a blood gas result SD-192|arterial gasometry with lactataemia]] if signs of severity
+
+o +/- [[Analysis of a urine cytobacteriological examination (UCA) SD-189|UB +/- UCA]] in the case of urinary signs
+
+o +/- blood cultures in the absence of an obvious warning sign
+
+o +/- Chest X-ray
+
+
+2- Additional examinations based on the situation
+
+- Thick blood smear if returning from an endemic area
+
+- Lumbar puncture if meningeal syndrome or acute febrile neurological disorder
+
+- Imaging tests based on clinical and biological findings, severity and the patient's condition (CT scan, ultrasound, etc.)
+
+
+3- Situations where additional tests are not indicated
+
+- Isolated acute fever, well tolerated, in a young subject with no co-morbidities, no obvious bacterial focus, not returning from a malaria-endemic area (but beware of primary HIV infection).
+
+- Localised bacterial infection that is clinically evident, uncomplicated and accessible to probabilistic antibiotic therapy (otitis, erysipelas, sinusitis, strep throat confirmed by a rapid diagnostic test, etc.).
+
+- Obvious, benign, well-tolerated viral symptoms (seasonal viral infections, acute bronchitis, etc.)

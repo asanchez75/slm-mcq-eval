@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-277-16-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Intitle=Knowing the four main risk factors for gallstones
+|Description=Chronic haemolysis - cirrhosis - chronic infection - geographical origin (SE Asia)
+|Rubric=Etiologies
+|Contributors=
+|Order=16}}
+The risk factors for pigmentary lithiasis are :
+
+- increased bilirubin production (haemolysis, sickle cell disease and thalassaemia)
+
+- biliary obstacles
+
+- chronic biliary infections
+
+- geographical origin (Asia)

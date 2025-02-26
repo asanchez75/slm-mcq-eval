@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-104-14-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the diagnostic criteria for spatial and temporal dissemination
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=14}}
+The current criteria are the so-called MacDonald criteria 2017.
+
+'''Dissemination in space = several lesions'''
+
+- At least 2 clinical locations (e.g. optic neuritis and myelitis cannot be explained by a single lesion)
+
+- At least 2 MRI lesions, affecting at least 2 of the 4 strategic areas affected in MS (periventricular, subtentorial, juxta-cortical/cortical or medullary) ([[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]])
+
+'''Dissemination over time = several moments'''
+
+- At least 2 clinical attacks at least 30 days apart
+
+- Or a flare-up followed by a gradual evolution
+
+- Or an immediate progression lasting at least a year
+
+- Or a relapse, with lesions of different ages on the initial MRI scan, some showing contrast and others not.
+
+- Or a relapse, and on a follow-up MRI scan the occurrence of a new lesion
+
+NB = when the criterion of dissemination over time is not met according to the above characteristics, it may be replaced by demonstration of inflammation of the CSF, but only in the form of oligoclonal bands ([[Analysis of cerebrospinal fluid (CSF) SD-183|analysis of cerebrospinal fluid (CSF)]]).

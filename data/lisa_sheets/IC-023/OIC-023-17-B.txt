@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-023-17-B
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=B
+|Title=Integrating the psychosocial dimension into the care of pregnant women and couples
+|Description=None
+|Rubric=Monitoring and/or prognosis
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=17}}
+
+Pregnancy monitoring, the early prenatal interview and birth preparation can provide an opportunity to identify situations of social or psychological vulnerability and organise coordinated monitoring of the woman or couple.

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-042-07-B
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=B
+|Title=Knowing the main causes of gonadotropic insufficiency
+|Description=None
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=7}}
+
+In cases of gonadotropic insufficiency (of hypothalamic-pituitary origin), amenorrhoea may be primary or secondary. It is associated with impuberty if the pathology is present before puberty. It is usually isolated amenorrhoea. However, it is sometimes associated with signs of neurohypothalamic-pituitary distress: headaches, visual field amputation, reduced visual acuity, signs of anterior pituitary insufficiency, etc.
+
+Hypothalamic-pituitary MRI is essential.
+
+'''The main causes of gonadotropic insufficiency are:'''
+
+*pituitary causes:
+**adenomas: the most common is '''prolactin adenoma''' and in this case '''prolactin is elevated''' <u>The diagnosis of pituitary adenoma and the importance of the prolactin value for the etiological diagnosis are detailed in the corresponding chapter</u> ([[Pituitary adenoma]])
+**autoimmune or lymphocytic hypophysitis, haemochromatosis
+**anteropituitary necrosis after vascular collapse in the context of post-partum haemorrhage (Sheehan's syndrome).
+*hypothalamic and suprahypothalamic causes:
+**'''functional impairment (most frequent)''' : '''functional hypothalamic amenorrhoea''' (FHA), '''[[Weight loss SD-017|amaigrissement]]''' ([[Eating disorders (anorexia or bulimia) SD-132|eating disorders (anorexia or bulimia)]]), malnutrition, general affections (renal failure, tumour, ...)'''(see details below).'''
+**congenital and genetic: hypogonadotropic hypogonadism with (De Morsier-Kallmann syndrome) or without anosmia. Not all the genes involved are yet known, but some are involved either in the development and migration of GnRH neurons (concomitant with that of olfactory neurons, hence the olfaction disorders), or in the synthesis, secretion or action of GnRH,
+**lesions: craniopharyngioma or pituitary infiltrative syndrome (sarcoidosis, histiocytosis X).
+
+<br />

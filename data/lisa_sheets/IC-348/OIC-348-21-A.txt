@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-348-21-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Heading=Knowing that an episode of parenchymal AKI exposes the patient to long-term chronic renal failure and requires follow-up.
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Gabriel Choukroun
+|Order=21}}
+
+All AKI, and in particular some parenchymal AKI (NIA, GNRP, toxic or ischaemic NTA), can leave a permanent impairment of renal function (CKD), requiring regular monitoring and specialised treatment. The more severe the ARF, the greater the risk.
+
+It is essential to monitor renal function in the months and years following even a resolved episode of AKI, as this is an established risk factor for secondary CKD, which can progress to end-stage renal failure.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-279-05-A
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=A
+|Title=Knowing the paraclinical signs (biological and ultrasound) associated with cirrhosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''1/ Liver tests (AST, ALAT, total bilirubin, γ-GT, alkaline phosphatases) may be normal. However, transaminases and γ-GT are often moderately elevated.
+
+'''- Liver failure''' results in :
+
+- a decrease in coagulation factors (prothrombin rate (PT) and factor V);
+
+- an increase in INR ;
+
+- a decrease in albumin levels;
+
+- an increase in bilirubinaemia.
+
+Portal hypertension is accompanied by hypersplenism (thrombocytopenia most often, leukopenia or anaemia less frequently).
+
+In patients with cirrhosis secondary to excessive alcohol consumption, macrocytosis is observed as well as a β-γ block on protein electrophoresis (fusion between peaks normally corresponding to β and γ-globulins).
+
+A significant rise in serum ferritin may be observed, as in any active liver disease (note that this is not specific to associated genetic haemochromatosis). The transferrin saturation coefficient may be increased, but this usually reflects a drop in the serum concentration of transferrin, a protein synthesised by the liver.
+
+2/ Abdominal Doppler ultrasound is the first-line imaging test for all patients with cirrhosis. It may be normal. Ultrasound abnormalities suggestive of cirrhosis are irregular liver contours and dysmorphism with atrophy of certain sectors (often the right lobe) and hypertrophy of other sectors (often the left lobe). Splenomegaly and porto-caval shunting are signs of portal hypertension. During decompensated cirrhosis, ascites may be observed.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-281-07-B
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=B
+|Title=Knowing the main biological abnormalities
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=7}}
+- Elevated lipasemia during attacks of acute pancreatitis (see Item 358). Outside of these attacks, the test is not indicated as it is of no interest.
+
+- Cholestasis in cases of biliary obstruction (see above)
+
+- Diabetes and deficiencies (see above) after years of evolution.

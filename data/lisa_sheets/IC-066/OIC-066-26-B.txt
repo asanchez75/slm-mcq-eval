@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-26-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the main psychiatric and non-psychiatric differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=26}}
+
+Cardiovascular diseases (acute coronary syndrome, hypertension, rhythm disorders), respiratory diseases (asthma, pneumopathy), neurological diseases (epilepsy, MS, migraines, transient ischaemic attacks), endocrine diseases (hypoglycaemia, diabetes, dysthyroidism, pheochromocytoma, hyperthyroidism, Cushing's syndrome, hypoparathyroidism).
+
+Intoxication (amphetamines, cocaine, hallucinogens, cannabis) or withdrawal (alcohol, benzodiazepines, opiates).
+
+Other anxiety disorders: post-traumatic stress disorder, adjustment disorder, PD and OCD.

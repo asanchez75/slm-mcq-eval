@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-138-02-A
+|Item_parent=Pain in vulnerable persons
+|Item_parent_short=Pain in vulnerable persons
+|Rank=A
+|Title=Diagnosing pain in a patient suffering from a psychiatric disorder
+|Description=To understand the clinical expression of pain associated with the main psychiatric disorders.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Rank A'''
+
+Section : Positive diagnosis
+
+Title: Diagnosing pain in a patient suffering from a psychiatric disorder.
+
+Description: Understanding the clinical expression of pain associated with the main psychiatric disorders.
+
+- Patients suffering from a psychiatric disorder and people with pervasive developmental disorders are "vulnerable persons".
+
+- In these "polymorbid" populations, with high-risk health behaviours and a high prevalence of metabolic syndrome, there is "excess morbidity and excess mortality".
+
+- Pain is present in anxiety. Anxiety is found in both acute and chronic pain.
+
+- Anxiety and anxiety disorders as well as depression are factors in pain perception.
+
+- Pain is a frequent feature of depression. Depressive symptoms are found in chronic pain. Depressive disorders are common: 20% of chronic pain sufferers.
+
+- In cases of depression, the "suicide risk" must be assessed.
+
+- In "psychotic disorders" and "pervasive developmental disorders", the expression of pain may be absent, modified or reinterpreted, delaying recognition of the pain and its treatment.
+
+- The majority of "drug-addicted" patients, including those on substitutes, suffer from pain.
+
+- The ''addictive risk'' of prescribing opioids is increased in cases of inappropriate pain mechanism, dependence or history, anxiety or depression, and may require the use of a screening scale, such as the Opioid Risk Tool.
+
+- In the course of prescribing opioids, incipient addiction should be identified using the POMI (Prescription Opioid Misuse Index) questionnaire, for example.

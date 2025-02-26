@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-251-03-B
+|Item_parent=Lack of weight at all ages
+|Item_parent_short=Lack of weight at all ages
+|Rank=B
+|Title=Knowing how to make a positive and differential diagnosis of weight loss
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+'''Definition'''
+
+Weight loss is weight loss. Weight loss reflects an imbalance between energy intake and energy expenditure, and corresponds to a loss of intracellular mass, which may or may not be distributed evenly.
+
+
+'''Differential diagnosis'''
+
+Weight loss secondary to ''water movement'' (melting oedema of the lower limbs, ascites puncture, dehydration, etc.) or secondary to the removal of tissue (amputation, removal of a large tumour, etc.) or childbirth is not weight loss.
+
+Weight loss must also be distinguished from thinness. You can be thin without having lost weight, and this is mainly the case with ''constitutional thinness'': weight is, and always has been, low and remains stable. However, the body mass index (BMI) is greater than 16. There are no significant physical pathological repercussions.

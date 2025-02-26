@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-173-14-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the circumstances requiring a toxoplasmosis test
+|Description=Pregnancy, immunocompromised with CD4<200/mm3, immunocompetent with symptoms, retinochoroiditis
+|Rubric=Epidemiology
+|Contributors=Florence Robert-Gangneux,Françoise Botterel,Marie-Laure Dardé,Carole Eldin
+|Order=14}}
+
+1. pregnant woman: (see also item 27)
+
+Objective: primary and secondary prevention of congenital transmission of the parasite
+
+Legal obligation: Public Health Code, chapter on "Preventive examinations during and after pregnancy".
+
+- initial serology during the 1st<sup>trimester</sup> of pregnancy to establish the immune status of the pregnant woman with regard to toxoplasma infection (absence of immunisation, immunity reflecting a past or recent infection)
+
+- if serology is negative (no immunisation): monthly check throughout pregnancy, and 2-3 weeks after delivery.
+
+In the event of seroconversion during pregnancy (appearance of IgG in a previously negative woman): prevention and detection of foetal infection (maternal treatment, amniocentesis for antenatal screening) and then of the newborn (postnatal screening).
+
+'''2.     Immunocompromised
+
+Identify patients at risk of serious primary infection or reactivation of a latent infection, so that prophylactic measures (hygiene and diet) or chemoprophylaxis can be put in place.
+
+- HIV-infected patients: toxoplasmosis serology, carried out as part of the initial work-up following the discovery of HIV infection, is used to identify patients at risk (CD4+ lymphocytes < 200/mm<sup>3</sup>) of reactivation of a latent toxoplasma infection (anti-Toxoplasma IgG seropositive patients), or of severe primary infection (anti-Toxoplasma IgG seronegative patients). This serology is checked annually if the patient is seronegative.
+
+-Patients receiving haematopoietic stem cell transplants and patients receiving solid organ transplants: legal requirement for serological screening to identify patterns (donor and recipient toxoplasmosis serological status) at risk of serious progressive toxoplasmosis.
+
+Diagnosing a primary infection or reactivation in an immunocompromised patient (HIV infection and CD4+ < 200/mm<sup>3</sup>, haematopoietic stem cell transplant, solid organ transplant)
+
+- In the event of clinical (neurological, ocular, pulmonary, etc.) and/or radiological signs suggestive of progressive toxoplasmosis (cerebral in 70% of cases). It occurs mainly in cases of CD4 < 200/mm<sup>3</sup>.
+
+'''3.     Immunocompetent patients with suggestive symptoms'''
+
+In immunocompetent individuals, toxoplasma infection is symptomatic in less than 20% of cases. The main symptoms are asthenia, fever and polyadenopathy, particularly of the cervico-occipital region.
+
+'''4.     Retinochoroiditis in the immunocompetent or immunosuppressed patient'''
+
+'''5.     Organ donors:''' regulatory obligation in France
+
+<br />

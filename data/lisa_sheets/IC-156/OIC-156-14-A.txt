@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-156-14-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Knowing the clinical signs of spondylodiscitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Florent Valour
+|Order=14}}
+- Location: most often 1 level (80%), lumbar (50%) > thoracic > cervical
+
+- Febrile spinal syndrome: [[Hyperthermia/fever SD-044|fever/hyperthermia]] (50%) sometimes moderate or absent, [[Spinal pain (cervical, dorsal or lumbar) SD-072|spinal pain]] (cervical, dorsal or lumbar) inflammatory in nature, segmental spinal stiffness, contracture of paravertebral muscles.
+
+- Inability to walk or sit up (in a small child: refusal to sit on the potty)
+
+- Subacute presentation possible, making diagnosis difficult and leading to delayed diagnosis
+
+- Systematic search for signs of severity (sepsis), neurological complications, a portal of entry, other secondary sites of bacteremia, signs of infective endocarditis, etc.
+
+
+To be considered in the presence of any spinal or radiculalgia:
+
+- Recent febrile or chronic and worsening
+
+- Associated with bacteremia
+
+- Associated with elevated CRP
+
+The red flags that should prompt consideration of a disco-vertebral infection in the presence of recent onset spinal pain:
+
+- Fever
+
+- Age ≥ 55
+
+- Chest pain (back pain)
+
+- Notion of intravenous drug use
+
+- Inflammatory" pain

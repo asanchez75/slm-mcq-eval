@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-360-10-B
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=B
+|Title=Knowing the main principles of pleural drainage and its indications
+|Description=None
+|Rubric=Management
+|Contributors=Julien Poissy
+|Order=10}}
+
+Pleural drainage can be considered
+
+- when the pneumothorax is primary and exsufflation has failed
+
+- when the pneumothorax is secondary and the pleural breach is expected to take some time to close
+
+In all cases :
+
+- compliance with the rules of surgical asepsis
+
+- informing the patient in advance
+
+- adequate anxiolysis and analgesia
+
+- oxygen therapy if necessary
+
+- patient supine +/- hand homolateral to the pneumothorax placed above the head to clear the axillary region if the approach is via the axilla
+
+Two techniques can be used
+
+- Percutaneous technique (figure 1): placement of a pigtail drain according to Seldinger's method, using the same anatomical landmarks as for pleural exsufflation (midclavicular line at the level of the 2<sup>th</sup> intercostal space).
+
+- The drain is then connected to a suction system set at between -5 and -20 cm H2O
+
+- In the event of success: monitoring with short-term hospitalisation, or as an outpatient with a closed tap allowing secondary drainage in the event of recurrence.
+
+- If this fails: drainage using the so-called surgical technique
+
+- Surgical technique (Figure 2):
+
+- indications: pneumothorax that is difficult to drain, or associated fluid effusion (fistulised pulmonary abscess, for example)
+
+- 2 approaches: anterior approach using the same anatomical landmarks as for pleural exsufflation (midclavicular line at the level of the 2<sup>th</sup> intercostal space), or axillary approach (upper edge of the lower rib, between the posterior edge of the pectoralis major and the anterior edge of the dorsalis major, at the level of the 4<sup>th</sup> or 5<sup>th</sup> intercostal space, marked by the nipple line).
+
+- introduction of a pleural drain through a trocar with a foam mandrel and connection to a suction system set at -5 to -20 cm H2O
+
+Partial pneumothoraxes can be more complex, requiring approaches based on unconventional landmarks. In these cases, imaging is used to guide the procedure.
+
+A chest X-ray is usually sufficient to monitor the position of the drain and the reattachment of the lung to the wall.<br /><gallery widths="300" heights="300">
+File:Percutaneous pleural drainage set.jpg
+</gallery>Figure 1: example of percutaneous drainage set. The guide is inserted through the needle used for puncture. After dilation on the guide, the drain is inserted percutaneously and connected to the suction system.
+
+<br /><gallery widths="300" heights="300">
+File:Surgical pleural drainage set.jpg
+</gallery>Figure 2: example of a surgical drainage set. The Kocher forceps are used to dissect the subcutaneous cellulo-fatty spaces and the muscular plane.  The trocar and mandrel are used to insert the drain by directing it.

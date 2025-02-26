@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-214-10-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Knowing the etiological diagnostic approach to thrombocytopenia in children and adults
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+
+
+== Interrogatory
+o how long the thrombocytopenia has existed, by recovering previous counts;
+
+o family history: notion of familial thrombocytopenia?
+
+o personal history: liver disease? haemopathy? cancer? autoimmune disease? immune deficiency/repeated infections?
+
+o consumption of drugs, particularly alcohol;
+
+o the use of medication, particularly recently introduced in the weeks preceding the onset of thrombocytopenia;
+
+o the existence of risk behaviour and exposure to HCV or HIV;
+
+o the existence of an active pregnancy;
+
+o the notion of travel: exposure to malaria? to dengue?
+
+o the occurrence of a recent episode of viral or bacterial infection: fever? flu-like syndrome?
+<br />.
+
+== Physical examination
+Assessment of severity and aetiological orientation
+
+o peripheral adenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]]''') (lymphoid haemopathies, viral infections, systemic lupus...) ;
+
+o '''[[Splenomegaly SD-058|splenomegaly]]''' (cirrhosis and other causes of portal hypertension, lymphoid haemopathies, myeloproliferative syndromes, viral infections, lupus, etc.);
+
+o ''[[Hepatomegaly SD-006|hepatomegaly]]''' (hepatopathies, lymphomas...), and signs of portal hypertension ;
+
+o '''[[Hyperthermia/fever SD-044|fever]]''' (progressive infection, lymphoma, cancer or systemic lupus in relapse...);
+
+o any other clinical indication (skin rash and angina in the case of a viral infection, characteristic skin rash and arthralgias in the case of systemic lupus, etc.).

@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-004-50-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Evaluation of professional practices: understanding the principles and typology of methods.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=50}}
+'''The evaluation of professional practices (EPP)''' is the implementation of methods and tools for improving professional practices, by means of a '''formative evaluation''', in an '''individual or collective'' setting.
+
+
+EPP consists of ''analysing the clinical activity'' of a professional or a team, in relation to the most recent ''professional recommendations'' available, in order to implement a plan to ''improve'' this activity and, consequently, the quality of patient care.
+
+
+A PPE includes :
+
+- Choosing a theme
+
+- Definition of the "professional recommendations" used
+
+- The ''method'' chosen
+
+- Four phases:
+
+1.     Measurement and analysis of ''deviation from reference practice''.
+
+2.     Development of "corrective actions".
+
+3.     '''Implementation'''
+
+4.     Follow-up and sustainability
+
+
+It assumes :
+
+- A ''homogeneous'' patient population
+
+- The choice, in professional recommendations :
+
+o Main elements
+
+o Those with ''potential for improving practices''.
+
+- The definition of quality criteria relating to :
+
+o "Essential segments" of care
+
+o The "objective results" of this treatment (e.g. morbidity, mortality)
+
+- A limited number of ''precise, concise, observable'' criteria
+
+- An "unambiguous" and "context-sensitive" definition of whether or not to respond to each criterion
+
+
+One pitfall: the quest for exhaustiveness! Concentrate on the main recommendations.

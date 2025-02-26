@@ -1,0 +1,102 @@
+{{knowledge objective
+|Identifiant=OIC-083-04-A
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=A
+|Title=Knowing how to diagnose conjunctivitis
+|Description=Semiology / etiologies / treatment
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Patients with conjunctivitis report a sensation of a foreign body, grains of sand, sometimes pruritus, or a perception of burning. Conjunctivitis can be infectious, inflammatory or allergic, and is common in both uni- and bilateral cases.
+
+The presence of secretions in front of the optic axis causes transient visual discomfort that is improved by blinking or washing. The occurrence of a permanent drop in visual acuity and pain indicates central corneal damage and therefore keratoconjunctivitis.
+
+<br />
+
+#<Acute bacterial conjunctivitis </u>
+
+They take the form of diffuse conjunctival redness, predominating in the lower cul-de-sac, and may be uni- or bilateral, sometimes with an interval before the second eye is affected.
+
+The redness is accompanied by mucopurulent secretions that stick to the eyelids when the patient wakes up in the morning, with a bristle-like appearance, and often by chemosis and palpebral oedema in more severe cases. Acute bacterial conjunctivitis is most often caused by gram-positive cocci (mainly streptococcus or staphylococcus), and usually resolves without sequelae. A problem with the permeability of the lacrimal ducts should be investigated secondarily, particularly at older ages, in cases of chronic lacrimation or recurrent infectious episodes.
+
+
+Probabilistic treatment without first-line sampling includes :
+
+*Hand hygiene: prevention of those around you;
+*frequent washing with physiological saline or an isotonic pharmaceutical solution;
+*antiseptic eyewash 4 to 6 times a day, which is usually sufficient.  Antibiotic treatment is therefore not systematic if there are no signs of seriousness. Otherwise, it should be prescribed with the same frequency and targeted at Gram-positive cocci.  In the event of a severe form of the disease or one resistant to this first-line treatment, a conjunctival swab is taken and transferred to the laboratory in a transport medium for culture.
+
+
+'''2. <u>Chronic bacterial conjunctivitis: Chlamydia conjunctivitis</u>''''
+
+Some bacterial conjunctivitis develops chronically, usually leading to the appearance of pre-tracheal adenopathy. This is particularly the case with "Chlamydia" infections, but also "Bartonnella henselae" or, exceptionally, "Mycobacterium tuberculosis".
+
+Trachoma (conjunctivitis caused by "Chlamydia trachomatis") is very common in the least developed countries, with the majority of cases on the African continent. It is a bilateral conjunctivitis with fibrosis of the tarsus and entropion leading to corneal neovascularisation.
+
+Its severe corneal complications make it the world's second leading cause of avoidable blindness after cataracts.
+
+Management is based on antibiotic treatment of the infection with azithromycin or tetracyclines and surgical treatment of any palpebral complications.
+
+Inclusion conjunctivitis in adults is a uni or bilateral sexually transmitted infection, which may be associated with urethritis or vaginitis.
+
+It will therefore generally be treated with a single dose of oral azithromycin.
+
+<u><br /></u>'''3. <u>Viral conjunctivitis</u>'''
+
+Very common, highly contagious and linked primarily to certain adenovirus serotypes, it occurs in epidemics, affecting several people in a family or community. The disease often starts on one side and spreads bilaterally through self-infection over the following days. The picture includes :
+
+*frank conjunctival hyperhaemia often accompanied by haemorrhages;
+*clear secretions;
+*sensitive pretragal adenopathy on palpation, which indicates an infectious cause and supports the diagnosis.  In their follicular phase, they are sometimes difficult to distinguish from bacterial conjunctivitis.  If necessary, a rapid diagnostic test can be used to detect viral antigens in a conjunctival tear sample.  Viral conjunctivitis usually resolves spontaneously within 10 to 15 days, but in the most severe cases may develop fibrinous membranes and/or keratoconjunctivitis (see acute keratitis below).  Treatment is essentially symptomatic, limited to cleaning the ocular surface and instilling wetting agents. Local corticosteroids are only prescribed for severe forms after removal of the membranes, as their use prolongs the duration of viral carriage.
+
+
+'''4. <u>Allergic conjunctivitis</u>''''
+
+Seasonal allergic conjunctivitis
+
+As expected, it occurs seasonally whenever the allergen in question is encountered, most often in people with known atopic or allergic conditions.
+
+Bilateral and recurrent, the allergic attack is characterised by pruritus and shows a pinkish conjunctiva, the result of a mixture of milky white chemosis and dilation of the conjunctival vessels. There are also clear secretions, discrete papillary hypertrophy of the upper tarsal conjunctiva and moderate palpebral oedema.
+
+After a meticulous investigation, the allergological work-up looks for the allergen(s) in question using patch tests or, more exceptionally, conjunctival provocation tests.
+
+The treatment includes :
+
+*conjunctival washings with an isotonic solution
+
+*instillation of an anti-allergic eye drop (anti-histamine, anti-mast cell degranulator) or sometimes a corticosteroid for a short course if the symptoms are intense
+*avoidance of the allergen, or even desensitisation where possible and necessary.
+
+
+Perennial allergic conjunctivitis
+
+The clinical picture of perennial conjunctivitis is identical to the previous one, but this time the allergen is not seasonal. Over time, conjunctival fibrosis may develop if the episodes are repeated frequently.
+
+
+'''- Vernal keratoconjunctivitis (or spring conjunctivitis)'''
+
+This severe form of paediatric chronic eye allergy mainly affects boys before puberty. The basic conjunctival lesions become acute during the warm, sunny months of spring and summer, leading to intense pruritus, then with the onset of corneal damage, photophobia, blepharospasm and lacrimation are added, often causing disablement.
+
+Two types of presentation are possible and sometimes combined:
+
+*the limbal form takes the form of a pinkish perikeratic bead often associated with whitish ponctiform infiltrates known as Trantas grains
+*the tarsal form is the most serious because the squamous lesions or papillae of the upper palpebral conjunctiva directly attack the cornea, usually causing punctate epithelial keratitis, sometimes leading to a rounded or oval epithelial ulceration (vernal ulceration) and more rarely to the formation of a solid reaction plaque (vernal plaque). Fibrinous or mucinous secretions may also be present.  Treatment specifically involves the instillation of topical corticosteroids in the acute phase and/or ciclosporin eye drops for background treatment, in addition to the usual measures described above.
+
+
+- '''The keratoconjunctivitis of atopic dermatitis'''
+
+A chronic, frequent and potentially severe ocular manifestation of atopic dermatitis, atopic keratoconjunctivitis affects adult men in particular. Here, eyelid eczema is added to allergic conjunctival and corneal lesions, which often resemble those of vernal keratoconjunctivitis. Ectropion due to skin rigidity is a frequent occurrence, further damaging local defences. Multiple ocular complications are possible and should be investigated: keratoconus induced by eyelid friction, conjunctival and/or corneal infections, specific anterior shield or posterior subcapsular cortisone cataract, corticoid-induced glaucoma.
+
+Treatment is based on corticosteroids and local immunosuppressants, including those applied to eczematous skin such as tacrolimus, combined with the usual anti-allergic and moisturising treatments.
+
+
+Contact allergy conjunctivitis
+
+In this context, ocular damage and palpebral damage are linked to non-immediate hypersensitivity to a contact allergen. The allergen is usually of medicinal origin (notably allergy to antibiotic, mydriatic or anti-glaucomatous eye drops), cosmetic or occupational, and may be applied directly to the oculo-palpebral site, or may be carried or airborne. The extent of contact dermatitis and questioning guide the diagnosis. Conjunctivitis is not very specific and the reaction extends to the free edge of the eyelid.
+
+Treatment is based above all on avoiding the allergen, while temporary local corticosteroid therapy is prescribed in the event of an intense reaction.
+
+
+
+<br />

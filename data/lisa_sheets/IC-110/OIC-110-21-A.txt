@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-110-21-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the clinical signs of obstructive adenoid hypertrophy in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=21}}
+
+Often asymptomatic. It may be suspected in the presence of nasal drip, mouth breathing, recurrent otitis, adenoid facies (elongated and narrow face, open mouth with incisive gap, ogival palate). In all cases, signs of SAS should be sought.

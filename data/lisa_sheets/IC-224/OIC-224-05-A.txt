@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-224-05-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing the initial assessment of a patient with hypertension
+|Description=circumstances of discovery, questioning, cardiovascular risk, clinical examination
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+The objectives of the initial assessment of a hypertensive patient are :
+
+- look for damage to target organs and pathologies associated with hypertension,
+
+- assess overall cardiovascular risk "via" the use of appropriate grids such as the SCORE risk score,
+
+- detect secondary hypertension and aggravating factors,
+
+- look for orthostatic hypotension.

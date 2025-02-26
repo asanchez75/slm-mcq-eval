@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-286-12-B
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=B
+|Title=Acute liquid diarrhoea and dehydration in infants and children: understanding the main diagnostic hypotheses and relevant additional tests
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+Diarrhoea is almost exclusively of viral origin in children (mainly rotavirus).
+
+It is essential to look for signs of dehydration (weight ++) and hypovolaemic shock.
+
+In mild forms, no further investigations are required. In the most severe forms, a blood ionogram and assessment of renal function are necessary. Coproculture is only indicated if the patient has returned from a trip to an endemic area, is in a severe septic state, is immunocompromised, has a history of TIAC or has not improved.

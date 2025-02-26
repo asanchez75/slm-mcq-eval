@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-211-05-A
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=A
+|Title=Knowing the common forms of sarcoidosis: respiratory disease, Löfgren's syndrome and erythema nodosum
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+- All organs can be affected
+
+- Strong predilection for the lungs and lymph nodes ('''[[Single or multiple adenopathies SD-016|single or multiple adenopathies]]'''), particularly intra-thoracic = 90% of patients
+
+- Rare general signs (except Löfgren's syndrome)
+
+==Löfgren's syndrome ==
+- Acute, inflammatory form of sarcoidosis
+
+- Association of
+
+- Fever
+
+- Erythema nodosum with arthralgia ('''[[Joint pain SD-067|joint pain]]''') or arthritis of the ankles
+
+- Bilateral mediastinal and hilar adenopathy
+
+- Histological documentation not essential
+
+- Excellent prognosis (90% cure).
+
+==''Erythema nodosum (skin lesion)'''==
+- Non-specific septal hypodermatitis
+
+- Diagnosis: Subcutaneous erythema SD-085|erythematous nodules]''', firm, painful, located on the extensor surfaces of the legs and forearms, most often opposite the tibial crests near the knees, corresponding to acute inflammatory dermohypodermatitis.
+
+- Biopsy not necessary (non-specific and clinical diagnosis)
+
+- Several possible outbreaks
+
+- Healing of lesions in a few weeks without scarring
+
+- Sarcoidosis: leading cause of erythema nodosum in France (as part of Löfgren's syndrome)
+
+- Other possible causes of erythema nodosum: streptococcal infections, Behcet's disease, inflammatory diseases of the digestive tract, leprosy, drugs.
+
+==Respiratory disorders ==
+- Present in 90% of patients
+
+- Inconsistent symptoms: no symptoms (frequent); '''[[Cough SD-167|cough]]''' dry; '''[[Dyspnoea SD-162|dyspnoea]]'''; '''[[Chest pain SD-161|chest pain]]'''.
+
+<br />

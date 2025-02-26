@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-272-03-B
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=B
+|Title=To know the mechanism of bleeding ulcers; To know the factors favouring complicated forms of gastric or duodenal ulcers; To know the importance of Helicobacter pylori (HP) in ulcer recurrence.
+|Description=Erosion of the AGD at the posterior surface of the bulb and of the AGG at the level of the lesser gastric curve - NSAIDs, aspirin, helicobacter pilori
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+'''Imbalance between defence mechanisms and factors that attack the gastric and duodenal mucosa ('''Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), aspirin, stress, '''Helicobacter pylori'', Tobacco)
+[[File:Protection and aggression factors.jpg|vignette]]
+
+Protection factors
+
+           - Pre-epithelial: mucus (mechanical barrier),
+
+           - Duodenal bicarbonates (Buffering)
+
+           - Epithelial: cell renewal
+
+           - Subepithelial: mucosal vascularisation
+
+'''Aggression factors'''
+
+a) ''Helicobacter pylori'' (''H.Pylori''):''' flagellate gram-negative bacillus, resistant to gastric acidity through urease activity. Contamination in childhood via the oral or faecal-oral route.  High prevalence in developing countries and in older populations (cohort effect).
+
+- Incidence has been falling over the last 30 years.
+
+- Causes chronic gastritis with atrophy, metaplasia and sometimes dysplasia. Increased risk of gastric adenocarcinoma (less than 1% of patients with H. pylori, peak 60-70 years).
+
+'''b) Non-steroidal anti-inflammatory drugs (NSAIDs):''' reduced secretion of prostaglandins (a protective factor for the digestive mucosa), leading to an increased risk of ulcers. RR of 4 for NSAIDs and 1.5 for aspirin. Selective NSAIDs (COXibs) have a lower risk of developing UGD.
+
+'''c) Zollinger Ellison syndrome''' (exceptional) ''':''' gastric acid hypersecretion related to tumour hypergastrinemia. Sporadic pancreaticoduodenal neuroendocrine tumour in 75% of cases or more rarely associated with Multiple Endocrine Neoplasia type 1 (MEN1). To be considered in cases of multiple or recurrent duodenal ulcers, often complicated, associated with chronic diarrhoea due to gastric hypersecretion (i.e. secretory hypersecretion) which improves or disappears with a proton pump inhibitor (PPI).
+
+'''d) Other causes and/or contributing factors: smoking, Crohn's disease, vasculitis, infections in immunocompromised patients (tuberculosis, CMV), intense metabolic stress (intensive care, burns), tumours.''' Look for ulcers unrelated to HP and/or NSAIDs (10-20% of cases).
+
+'''Mechanism of ulcerative digestive haemorrhage'''
+
+Ulceration of the vessels of the gastroduodenal wall. In the case of severe haemorrhage: most often, ulceration of the peptic artery in the case of bulbar ulcers, or of the left gastric artery in the case of gastric ulcers''''.
+
+
+The risk factors for complicated ulcers are :
+
+- Age over 65
+
+- A history of complicated peptic ulcer disease
+
+- Taking NSAIDs or aspirin, particularly in cases of associated H. pylori infection.
+
+- Taking anticoagulants.

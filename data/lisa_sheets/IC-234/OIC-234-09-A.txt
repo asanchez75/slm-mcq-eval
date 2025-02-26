@@ -1,0 +1,78 @@
+{{knowledge objective
+|Identifiant=OIC-234-09-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Know how heart failure is diagnosed
+|Description=Know the main functional signs, NYHA class and physical signs; Know the different clinical pictures.
+|Rubric=Positive diagnosis
+|Contributors=Olivier Huttin
+|Order=9}}
+
+
+=== '''Main functional signs of CI''' ===
+- Dyspnoea
+
+- On exertion, the most common clinical sign but the least specific,
+
+- Orthopnoea, which is more specific,
+
+- Paroxysmal nocturnal dyspnoea (equivalent to pulmonary sub-oedema).
+
+- It is classified according to the NYHA scale (see below)
+
+{| class="wikitable"
+| colspan="2" |'''New York Heart Association (NYHA) Scale''''
+|-
+|Stage I
+|No symptoms on exertion, no limitation of physical activity
+|-
+|Stage II
+|Symptoms on heavy exertion (running, climbing several flights of stairs, etc.), moderate reduction in physical activity
+|-
+|Stage III
+|Symptoms with moderate exertion (housework, toileting), marked reduction in physical activity
+|-
+|Stage IV
+|Symptoms at rest, severe limitation of physical activity
+|}
+
+
+- Other associated signs :
+
+- rest fatigue: Asthenia ;
+
+- palpitations
+
+- breathing problems (Cheynes-Stokes respiration)
+
+- Neurological signs (confusion linked to low cerebral output);
+
+- Digestive signs (abdominal pain, nausea, vomiting).
+
+
+Various tables :
+
+=== '''Left heart failure''' ===
+- Dyspnoea, crackling or sub-crepitating rales, usually bilateral, declining and symmetrical
+
+- pleural effusion.
+
+- Tachycardia
+
+- Table of OAPs (see specific paragraph)
+<br />
+
+=== '''Right heart failure''' ===
+- jugular turgidity
+
+- hepatojugular reflux
+
+- hepatomegaly
+
+- peripheral oedemas, which are usually soft, white, painless, bilateral, cup-shaped and predominantly on the lower parts of the body (lower limbs, lumbar region in bedridden patients)
+
+- Disturbances to liver function ascites
+
+
+When a patient presents with signs of both right and left heart failure, he is said to have global heart failure. Both right and left heart failure can be complicated by cardiogenic shock (see specific paragraph).

@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-191-02-B
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=B
+|Title=Know the risk factors for the main fungal infections
+|Description=candidemia: prolonged neutropenia, allogeneic transplants, resuscitation, digestive breach... cryptococcosis: HIV
+|Rubric=Epidemiology
+|Contributors=Amélie Servettaz
+|Order=2}}
+
+<small>Invasive fungal infections occur preferentially in patients with one or more risk factors:</small>
+
+<small>- '''Neutropenia (PNN <0.5G/L) > 7 days''' ''(Aspergillosis, Candidaemia)''</small>
+
+<small>- '''Central vascular catheter (parenteral nutrition)''' ''(Candidemia)'''</small>
+
+<small>- '''Prior colonization''' ''(Candidémie)''</small>
+
+<small>- '''Prior antibiotic therapy''' ''(Candidemia)''</small>
+
+<small>- '''Major abdominal surgery''' ''(Candidemia)''</small>
+
+<small>- '''Renal insufficiency''' ''(Candidemia)''</small>
+
+<small>- '''Severity of disease''' ''(Candidemia)''</small>
+
+<small>- '''Length of stay in intensive care'''''(Candidémie)'''</small>
+
+<small>- '''Toxicomanie IV''' ''(Candidémie)''</small>
+
+<small>- '''Corticotherapy''' ''(Candidaemia, pneumocystis...)''</small>
+
+<small>- '''HIV infection with CD4<200/mm<sup>3</sup>''': ''candidemia, pneumocystis CD4<100/mm<sup>3</sup>: cryptococcosis...''</small>
+
+<small>- '''Allograft patient''' ''(Candidaemia, pneumocystis, aspergillosis...)''</small>
+
+'''<small>-</small>''' <small>''Organ transplant'''</small> (''<small>pneumocystis, aspergillosis, candidemia, ...)</small>'''

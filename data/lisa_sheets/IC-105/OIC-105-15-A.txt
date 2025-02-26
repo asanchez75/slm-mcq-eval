@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-105-15-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Intitulé=Épilepsies de l'enfant : reconnaître l'épilepsie absence de l'enfant
+|Description=Semiology of absence epilepsy and diagnostic conduct EEG and search for a school impact, differential diagnosis with temporal epilepsy
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=15}}
+
+
+===Some syndromes to be aware of===
+
+====1.     Childhood absence epilepsy (see dedicated objective)====
+- Belongs to generalised epilepsies of presumed genetic origin (= idiopathic)
+
+- Onset age: around 6 years.
+
+- Predominant type of seizures: typical absences (up to 100 per day).
+
+- Other types of associated seizures are possible: [[Convulsions SDD-120|tonic generalised seizures]], rare and never initial in the evolution, myoclonus.
+
+- Prognosis: pharmacosensitive in 80% of cases; treatment can be stopped after puberty.
+
+- EEG essential for diagnosis, very sensitive if a hyperventilation manoeuvre is correctly performed ([[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]): synchronised generalised spike-wave discharges at 3 cycles/s, favoured by hyperpnoea.
+
+- It is easily differentiated from temporal lobe focal epilepsies on the basis of the earlier age of onset, the shorter seizure-absence symptomatology, with disturbed consciousness being the predominant or even exclusive sign, present for the entire duration of the seizure, immediate recovery with no post-critical deficit, the presumed genetic aetiology, and the usually very good pharmaco-sensitivity.
+
+====2.     Juvenile myoclonic epilepsy====
+- Belongs to the generalised epilepsies of presumed genetic origin (= idiopathic).
+
+- Age of onset: adolescence.
+
+- Predominant type of seizure: morning myoclonic seizures, often photosensitive.
+
+- Other types of associated seizures possible: tonic-clonic generalised seizures, absences.
+
+- Prognosis: drug-sensitive in 80% of cases, but drug-dependent in adulthood (it is rarely possible to stop antiepileptic treatment).
+
+- EEG essential for diagnosis, very sensitive, especially if recorded for a long time and if a hyperventilation manoeuvre is performed correctly (request and prescription reasoned and choice of diagnostic test): synchronised generalised polypointer-wave puffs, favoured by intermittent light stimulation.
+
+====3.     Epilepsy with tonic-clonic seizures alone (formerly known as waking seizures)====
+- Belongs to the group of generalised epilepsies of presumed genetic origin (=idiopathic).
+
+- Age of onset: adolescence, adulthood.
+
+- A single type of seizure: [[Convulsions SDD-120|généralisée tonicoclonique]], favoured by lack of sleep and alcohol.
+
+- EEG essential for diagnosis but may be normal (request and reasoned prescription and choice of a diagnostic test): spikes and generalised spikes.
+
+- Prognosis: pharmacosensitive in 90% of cases, provided that hygiene rules concerning sleep and alcohol are followed.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-177-22-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Intitle=Cite drugs active against influenza viruses
+|Description=Oseltamivir, zanamivir
+|Rubric=Definition
+|Contributors=Morand-Joubert Laurence
+|Order=22}}
+
+'''Oseltamivir''' (per os)''', Zanamivir''' (IV) ''':''' neuraminidase inhibitors for the treatment or prevention of influenza
+
+Amantadine (not used because of the resistance of current viral strains)

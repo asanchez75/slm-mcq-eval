@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-156-17-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Knowing the clinical signs of acute osteitis and osteomyelitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Florent Valour
+|Order=17}}
+'''Chronic osteitis in adults:'''
+
+- Location: long bones, foot (contiguous osteitis from plantar perforation, particularly in diabetic patients), pelvis (contiguous osteitis from decubitus [[Escarre SD-086|escarre]])
+
+- General signs very inconsistent, fever often absent
+
+- More or less productive fistula: cutaneous opening communicating with the site of osteitis, with serous to purulent discharge which may be intermittent.
+
+- Painful and inflammatory swelling (inconstant)
+
+- [[Chronic pain SD-035|Chronic pain]]
+
+'''Special case of osteitis of the diabetic foot:''' complicating a plantar perforating disease
+
+- Variable appearance: inflammation, dry or wet gangrene, discharge, etc.
+
+- Bone contact
+
+- Neurological and vascular assessment essential
+
+'''Acute osteomyelitis in children:'''
+
+- Location: the most vascularised metaphyses of the long bones ("near the knee, far from the elbow": lower femoral, upper tibial, proximal humeral and distal radial ends), in the lower limbs in more than 50% of cases.
+
+- Sudden onset or subacute presentation
+
+- Temperature ≥ 38°C
+
+- Pain responsible for partial or total functional impotence, [[Lameness SD-068|lame]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]]
+
+- Painful metaphyseal palpation
+
+- Increased local heat (redness and swelling at a late stage)

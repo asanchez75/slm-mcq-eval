@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-024-25-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing how to manage a fever during pregnancy.
+|Description=Initial treatment of fever, then according to aetiology
+|Rubric=Management
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=25}}
+
+'''Apart from specific guidance:'''
+
+- Preventive antibiotic therapy against Listeria: amoxicillin 3 g/d (or erythromycin if allergic)
+
+'''''Any fever during pregnancy is listeriosis until proven otherwise (natural resistance to C2G and C3G).'''''
+
+- Antipyretic (paracetamol type) ;
+
+- ''Close monitoring:'' temperature, EC + /- cervix, FPR
+
+'''Specific treatment'''
+
+- Pyelonephritis : cf [[Learn about the particularities of urinary tract infection during pregnancy]]
+
+- Chorioamniotitis; parenteral antibiotic therapy is started immediately, combining C3G and aminoglycosides. Tocolysis is contraindicated. Preparing to receive a premature newborn.
+
+- Listeriosis: '''''On confirmation of infection with Listeria ''monocytogenes: amoxicillin 6 g/d IV, if allergic: erythromycin per os or vancomycin IV'''''
+
+<br />

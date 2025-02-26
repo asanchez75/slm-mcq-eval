@@ -1,0 +1,172 @@
+{{knowledge objective
+|Identifiant=OIC-169-14-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing the main principles of antiretroviral treatment
+|Description=The main classes of antiretroviral drugs, how to start treatment.
+|Section=Management
+|Contributors=Jade Ghosn
+|Order=14}}
+There are five frequently used classes of antiretroviral drugs.
+{| class="wikitable"
+| colspan="3" | MAIN ANTIRETROVIRALS (ARVs) CURRENTLY USED
+|-
+|CLASS
+|PRINCIPAL ARVS RECOMMENDED
+|COMMENTS
+|-
+|
+
+
+INTI
+
+Nucleoside reverse transcriptase inhibitors
+|Tenofovir DF
+
+Tenofovir Alafenamide Abacavir
+
+Lamivudine
+
+Emtricitabine
+|
+
+
+Used in the form of fixed-dose combination tablets :
+
+- tenofovir DF + emtricitabine available as a generic (Truvada®)
+
+- abacavir + lamivudine available generically (Kivexa®)
+|-
+|INNTI
+
+Non-nucleoside reverse transcriptase inhibitors
+|
+
+
+
+Rilpivirine
+
+Doravirine
+|Rilpivirine: exists in the form of a fixed-dose combination with 2 NRTIs (tenofovir DF or alafenamide and emtricitabine), giving triple therapy in a single tablet (Eviplera® or Odefsey®).
+
+Doravirine; available as a fixed-dose combination with 2 NRTIs (tenofovir DF and lamivudine), providing triple therapy in a single tablet (Delstrigo®).
+
+Efavirenz is no longer recommended as a first-line treatment.
+|-
+|IP
+
+Protease inhibitors
+|
+
+
+Darunavir
+|Always combined with low doses of ritonavir, another PI, used here only as a pharmacological "booster".
+|-
+|
+
+
+/r
+|
+
+
+Ritonavir
+|Pharmacological booster, not used as an antiretroviral, Generic.
+|-
+|
+
+
+INI
+
+Integrase inhibitors
+|Raltegravir
+
+Elvitégravir
+
+Dolutegravir
+
+Bictegravir
+|
+
+
+
+There are fixed-dose combinations.
+|}
+'''<u>Objectives of antiretroviral treatment:</u>'''
+
+- restore and maintain a CD4 LT count > 500/mm<sup>3</sup>.
+
+- reduce the risk of clinical complications
+
+- reduce the risk of HIV transmission
+
+
+<u>'''How''''''''?'''</u>
+
+by making the plasma HIV viral load undetectable thanks to antiretroviral treatment
+
+Remember that the treatment is virustatic, not virucidal. As soon as treatment is stopped, viral replication resumes.
+
+
+'''<u>Who and when to treat?</u>'''
+
+Since 2013, it has been recommended that all HIV-positive people be treated, regardless of their CD4 count.
+
+With the new generations of antiretrovirals, which are easy to take and well tolerated, there is currently no justification for delaying the start of antiretroviral treatment if HIV infection is discovered ("test & treat" strategy), with a few exceptions.
+
+
+'''<u>Initial care:</u>''''
+
+- Comprehensive care
+
+- Establishing a relationship of trust
+
+- Taking account of problems of integration, social security cover and psychological problems
+
+- Implementation of support and accompaniment measures (e.g. ETP consultations)
+
+- Assess the immune and virological status of the disease (CD4 T lymphocyte count, measurement of plasma viral load)
+
+- Search for co-morbidities and/or complications of HIV infection (opportunistic infections, cancers)
+
+- If indicated: start primary prophylaxis for opportunistic infections
+
+
+'''<u>How to treat? Composition of ART</u>'''
+
+Triple antiretroviral therapy, combining three drugs from two different classes of antiretrovirals
+
+- Favour a single triple therapy taken once a day (there are combined forms combining three molecules in a single tablet, which facilitate compliance).
+
+- Initial prescription by a hospital doctor, can be renewed in town
+
+- Antiretroviral treatment must be maintained for life
+
+
+'''<u>Initiation and monitoring of antiretroviral treatment</u>''''
+
+- Pre-therapeutic assessment: a pre-therapeutic genotypic resistance test is recommended at the time of diagnosis of HIV infection.
+
+- Initial ''therapeutic monitoring'': ''close'' medical and nursing consultations to assess the ''efficacy, compliance and tolerance'' of ART.
+
+- a consultation between D15 and M1
+
+- a consultation at M3
+
+- a consultation at M6
+
+- '''Objective''': achieve undetectable plasma viral load at M6
+
+- '''Therapeutic follow-up''' beyond M6 :
+
+- a consultation every 6 months, with follow-up provided jointly by the specialist and the GP
+
+- When the immuno-virological status is stable, the specialist may suggest to the patient that the follow-up and renewal of the treatment be carried out by an outpatient doctor.
+
+- An annual hospital summary by the specialist is recommended and should be forwarded to the GP (checking that virological efficacy is being maintained, monitoring compliance, screening for STIs and co-infections/comorbidities, preventing complications, combating smoking and addictions).
+
+- Patient ''therapeutic education'' programmes (ETP)
+
+- help to prepare and support the start of treatment: education about the disease, how to use the treatment, the criteria for its effectiveness and the expected side-effects.
+
+- ETP also covers all the health aspects of the disease: transmission of the virus, prevention of complications and co-morbidities (''prevention/screening for cervical and anal cancer'', ''prevention of cardiovascular disease'', etc.) as well as prevention and ''screening for other sexually transmitted infections''.

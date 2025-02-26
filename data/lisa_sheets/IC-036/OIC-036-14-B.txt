@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-036-14-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Knowing and knowing how to explain to the patient what to do if she forgets to take the pill.
+|Description=None
+|Rubric=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=14}}
+
+[[File:CAT si oubli de pilule.jpg|alt=|vignette]]

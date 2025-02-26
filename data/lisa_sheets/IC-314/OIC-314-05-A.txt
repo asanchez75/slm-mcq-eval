@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-314-05-A
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder tumours
+|Rank=A
+|Title=Know the functional signs (haematuria and other functional signs) indicative of a bladder tumour and the associated clinical examination abnormalities.
+|Description=Macroscopic haematuria: this is the most frequent revealing sign (80%). Any microscopic or macroscopic haematuria should prompt a search for a bladder tumour (but also a kidney or ureter tumour) - Irritative bladder signs (pollakiuria, urgency, urinary burning) are less frequent (20%), but should prompt the diagnosis if they have appeared recently and persist after a urinary tract infection has been ruled out (ECBU). - Rectal examination to look for pelvic invasion (shielding); abdominal and lumbar palpation, looking for a palpable hypogastric mass corresponding to a large tumour, lumbar pain in relation to ureteral obstruction, adenopathy (supra-clavicular); clinical signs of anaemia, malnutrition; palpation of painful bony areas with precise location; pulmonary auscultation.
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Roumiguié
+|Order=5}}
+
+==Local clinical signs==
+
+*80% [[2C-260|Macroscopic haematuria 260]]: this is the most frequent revealing sign and should prompt a search for a bladder tumour.
+*~20 % [[2C-125|Vesical signs 125]] of the storage phase ("irritative"): pollakiuria, urgency, urinary burning) associated with a negative ECBU should raise the diagnosis. Or problems with emptying (dysuria) in the case of a tumour attached to the bladder neck, for example.
+*[[2C-161|Recurrent urinary tract infection 161]] (e.g. elderly woman)
+
+==Clinical signs suggestive of locoregional extension:==
+
+*Rectal examination to look for pelvic invasion in men.
+*Vaginal examination to look for vaginal bleeding or pelvic tumours in women.
+*Abdominal and lumbar palpation to look for a palpable hypogastric mass corresponding to a large tumour, lumbar pain due to hydronephrosis, pelvic pain, etc.
+
+==Clinical signs suggestive of distant extension==
+
+*Palpation of lymph nodes to look for lymphadenopathy (especially supra-clavicular).
+*Clinical signs of altered general condition, weight loss, asthenia, anaemia.
+*Lung signs on lung auscultation associated with metastases
+*Painful areas of bone on palpation, specifying their precise location

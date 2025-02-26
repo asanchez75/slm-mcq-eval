@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-181-01-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=The health safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing the definition of health safety
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Over the past 25 years, health safety has become one of the priority objectives of the French healthcare system and a real issue for society. The concept, which did not exist in France before 1993, was developed in the wake of the contaminated blood tragedy and has gradually evolved in response to the various health crises the country has experienced.
+
+Health safety is the protection of human health against the risks posed by the way society functions, whether these be food, environmental or health-related.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-129-04-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Knowing the physiopathology of osteoarthritis
+|Description= Basic knowledge of the composition of normal cartilage Imbalance between the formation and destruction of osteoarthritic cartilage, low-grade joint inflammation, Mechanisms of osteoarthritic pain
+|Rubric=Physiopathology
+|Contributors=
+|Order=4}}
+A synovial joint is composed mainly of 4 tissues:
+
+- Articular cartilage
+
+- The subchondral bone
+
+- The synovial membrane, which secretes synovial fluid,
+
+- The joint capsule.
+
+During osteoarthritis, under the effect of various stresses (mechanical, inflammatory, metabolic), all these tissues undergo changes. These changes include
+
+- Cartilage degradation,
+
+- Inflammation of the synovial membrane,
+
+- Remodelling of the subchondral bone, leading to geodes, subchondral sclerosis and the development of bony outgrowths called osteophytes.
+
+Osteoarthritis is also characterised by local joint inflammation, with the production of inflammatory mediators which lead to increased production of proteolytic enzymes such as metalloproteinases, capable of degrading the extracellular matrix of cartilage.

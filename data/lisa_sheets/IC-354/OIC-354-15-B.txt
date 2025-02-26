@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-354-15-B
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=B
+|Title=Radiography of abdomen without preparation of small bowel obstruction
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Laura BEYER-BERJOT
+|Order=15}}
+
+The upright view from the front shows NHAs presenting differently depending on whether the obstruction is in the small intestine or the colon. In the case of occlusion of the small intestine, the NHA are central, wider than they are high, with the presence of connivant valves (corresponding to the folds in the mucosa of the small intestine). In the case of colonic occlusion, the NHA tend to be peripheral, taller than wide, with the presence of colonic haustrations, which are thicker than the connivant valves and which do not cross the entire intestinal lumen (due to the strips located on the colon). The prone view provides information on the location of the occlusion.
+[File:Fig 4 occlusion.png|vignette|No-preparation abdominal view of a sigmoid colon volvulus.
+<br />

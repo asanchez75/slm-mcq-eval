@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-097-08-B
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=B
+|Title=Knowing the principles of management of Guillain-Barré syndrome
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=8}}
+'''Specific treatments'''
+
+- Treatment should begin early, at best within the first two weeks.
+
+- Two methods are possible '''([[Prescribing and monitoring a vascular approach SD-271|prescribing and monitoring a vascular approach]])''' :
+
+- Polyvalent immunoglobulins
+
+- Plasma exchanges
+
+- These treatments mean less time on assisted ventilation, an earlier return to walking and shorter hospital stays.
+
+- Corticosteroids are unnecessary.
+
+'''Symptomatic treatments'''
+
+- Essential prevention of decubitus complications '''([[Management of a patient in prolonged decubitus SD-276|management of a patient in prolonged decubitus]]):''' heparinotherapy with low molecular weight heparin, prevention of vicious positions favoured by deficits.
+
+- Mechanical ventilation if necessary,
+
+- Controlling dysautonomia,
+
+- Early rehabilitation,
+
+- Social measures (return to work).

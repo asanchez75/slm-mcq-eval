@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-221-09-A
+|Item_parent=Atheroma: epidemiology and pathophysiology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=A
+|Title=Knowing the principles of management of polyatheromatous patients
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+
+
+== Medical management ==
+Management of cardiovascular risk factors and medication are indicated at all stages: asymptomatic, symptomatic, revascularisation.
+
+=== <u>''Management of modifiable cardiovascular risk factors''</u> ===
+
+==== - '''Stop active and passive smoking'' ====
+
+==== - '''Alimentation''' ====
+
+* Mediterranean diet: fish (3 times a week), fruit, vegetables, olive and rapeseed oils. Intake of fatty acids, especially polyunsaturated and monounsaturated,
+
+* Reduce salt and free sugars. Limit alcohol consumption.
+
+==== - '''Physical activity''' '''Regular''' ====
+
+* at least 150 minutes a week of moderate intensity exercise (30 minutes, 5 times a week, walking and, at best, active running, cycling, swimming). This activity must be adapted to each patient, realistic and achievable.
+* In the case of arterial disease of the lower limbs, walking is the physical activity recommended as a first-line treatment, as it is the one that best develops collaterals.
+
+==== - ''Weight loss if overweight or obese'' ====
+
+==== - ''Treatment of dyslipidaemia, hypertension and diabetes'' ====
+
+=== <u>''Medicines''</u> ===
+
+==== - '''Statin''' ====
+Statin taken systematically for secondary prevention and discussed depending on the level of cardiovascular risk for primary prevention.
+
+==== - '''ACE inhibitors or ARB2 inhibitors'' ====
+ACE inhibitors or ARB2 inhibitors are used in secondary prevention to reduce the risk of heart attack, stroke and death from vascular causes, and to slow the deterioration in renal function.
+
+==== - '''Antiplatelet''' ====
+Antiplatelet therapy to ensure there is no risk of haemorrhage.
+
+=== <u>''Management of stress and adverse psychosocial conditions''</u> ===
+
+== '''Surgical management''' ==
+In non-emergency cases, the lesion to be treated first is either the most symptomatic or the one most at risk of complication, to be defined on a case-by-case basis (e.g. threatening lesion according to HAS criteria).
+
+=== <u>''Internal carotid arteries''</u> ===
+Endarterectomy in cases of symptomatic or asymptomatic "tight" stenosis.
+
+=== <u>''Coronary''</u> ===
+Angioplasty - stenting or surgery depending on the clinic and lesions.
+
+=== <u>''Abdominal aortic aneurysm''</u> ===
+Exclusion revascularisation from an anteroposterior diameter greater than 55 mm or if increase in diameter ≥ 1 cm per year or if symptomatic aneurysm.
+
+=== <u>''Arteries of the lower limbs''</u> ===
+Revascularisation depending on the clinical stage and location of the lesions. At the stage of effort ischaemia, give preference to medical treatment including gait training; refer to the surgeon in the event of injury to the femoral crossroads (common femoral or deep thigh artery (deep femoral)).

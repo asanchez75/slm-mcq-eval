@@ -1,0 +1,71 @@
+{{knowledge objective
+|Identifiant=OIC-157-09-A
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=A
+|Title=Know the indications, procedures for performing, analysing and interpreting blood cultures.
+|Description=None
+|Section=Complementary examinations
+|Contributors=David Lebeaux,Florence Robert-Gangneux
+|Order=9}}
+
+'''<u>Indications</u> :'''
+
+'''Blood cultures must be taken if bacteremia/fungemia is suspected:'''
+
+A-Fever (+/- chills) associated with one of the following criteria:
+
+*Purpura febrile
+*Need for hospitalisation OR fever occurring during hospitalisation
+*Special circumstances (asplenia, neutropenia, presence of a vascular catheter)
+*Hypothermia +/- signs of organ failure (cf [[Sepsis and septic shock in children and adults|sepsis/septic shock]])
+*Hypotension, tachycardia associated with signs of poor peripheral perfusion (mottling, cold extremities, prolonged skin recolouration time).
+
+B-Suspicion of endocarditis = perform three pairs of blood cultures, even in the absence of fever
+
+C- If fungemia is suspected (catheter, febrile immunosuppressed patient on antibiotics, digestive surgery, etc.), blood cultures on fungal flasks are indicated, as these media inhibit bacterial growth, which prevents yeasts from growing.
+
+'''Blood cultures do not need to be taken at the time of a fever peak or when shivering.'''
+
+'''<u>How blood cultures are taken</u>:''''
+
+*Compliance with asepsis rules: hand hygiene, careful skin antisepsis of the puncture area (using an alcoholic antiseptic solution), wearing gloves, etc.
+*Puncture of a peripheral vein
+*If the patient has a central catheter: concomitant blood cultures on the catheter.
+*Inoculation of at least 2 bottles (= 1 pair): aerobic then anaerobic.
+*If signs of severity: collect 4 to 6 vials during a single puncture (do not delay antibiotic therapy).
+*In the absence of serious signs:
+**4 to 6 vials are taken with 10 ml/vial (approximately 1 CFU of bacteria/mL of blood): maximum sensitivity with 40-60mL of blood, so ''the vials must be well filled''.
+**To be taken at the same time or 30 minutes apart. EXCEPT if endocarditis is suspected = spread over the first 24 hours.
+
+*In children, if venipuncture is difficult (this is often the case in infants), it is preferable to fill a single blood culture bottle with a large quantity of blood rather than multiplying the bottles with a small quantity of blood.
+*Samples should be taken before any antibiotic therapy, except in cases of purpura fulminans.
+
+
+'''<u>Analysis of blood cultures in the laboratory</u>:'''
+
+*After transfer to the microbiology laboratory, the vials are introduced into the automated system for monitoring (detection of bacterial/fungal growth).
+*''If''' culture positive (within 24-48 hours for most bacteria) = direct examination (Gram stain) '''AND''' Clinician informed
+*Then carry out the antibiotic susceptibility test (requires a further 24 hours)
+*Inform the microbiologist of suspected endocarditis: incubation period 10 to 14 days
+*Inform the microbiologist/mycologist of immunosuppressive factors requiring cryptococcosis testing (incubation period 3 to 4 weeks).
+*Fungal blood cultures: positive in 1 to 5 days (confirmation of the presence of yeasts or filaments by MGG or Giemsa staining). Immediate communication to the clinician to start probabilistic antifungal treatment.
+*Fungal subcultures for identification and antifungal gram: minimum delay 3 days.
+*Techniques for more rapid identification of the microorganism exist (PCR, mass spectrometry) but are not available in all laboratories.
+
+'''<u>Interpretation of a positive fungal blood culture</u>''''
+
+* Any flask positive for "Candida" spp or "Cryptococcus neoformans" should be taken into consideration and treated.
+* The detection of rare yeasts should be discussed with the mycologist.
+* Malassezia yeasts are responsible for fungemia in neonatology.
+
+'''<u>[[Positive blood culture SD-190|Interpretation of blood cultures]]</u> : Contamination during puncture or "true" bacteremia?''''
+
+'''Take into account the number of positive vials and the microbial species'''
+
+*Infectious agents that are ''always pathogenic'' (= always a ''true'' bacteremia): Staphylococcus aureus, Streptococcus pneumoniae and other pyogenic streptococci, Escherichia coli and other enterobacteria, Pseudomonas aeruginosa, Listeria, Brucella, Pasteurella and Candida.
+*Are possible ''contaminants'' (because they belong to the skin flora):
+**coagulase-negative staphylococci, Cutibacterium acnes, Corynebacterium spp. and Bacillus spp.
+**In order to conclude that bacteremia has been caused by these bacteria, the following is required:
+***A compatible context (catheter or endovascular equipment in place)
+***+ At least 2 positive blood culture bottles from 2 different pairs with the same bacterial species presenting the same antibiotic sensitivity phenotype (same antibiogram).

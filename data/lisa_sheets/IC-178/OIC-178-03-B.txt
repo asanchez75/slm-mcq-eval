@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-178-03-B
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=B
+|Intitle=Cite the main emerging or re-emerging infectious agents
+|Description=None
+|Rubric=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=3}}
+
+{| class="wikitable"
+|'''[[Exceptional health situation SD-346|Flu]] avian/pandemic influenza'''''
+|Myxovirus influenzae H5N1,
+
+Strains carrying other H (haemagglutinin) and/or N (neuraminidase) antigens
+|-
+|Coronavirus
+|SARS-CoV, MERS-CoV, SARS-CoV-2
+|-
+|Viral haemorrhagic fevers
+|Ebola Virus, Marburg Virus, Lassa Virus, Crimean-Congo Virus
+|-
+|Viral encephalitis
+|West Nile virus, Nipah virus, Hendra virus
+|-
+|Arboviroses
+|Chikugunya virus, Dengue virus, Zika virus
+|-
+|'''Sexually transmitted infections'''
+|HCV, Syphilis, Lymphogranulomatosis venereum
+|-
+|'''Haemolytic uraemic syndrome'''
+|E.coli O157H7
+|-
+|Mycobacteria
+|Multi-resistant tuberculosis (MDR/XDR)
+|-
+|'''Clostridium difficile infections '''''
+|Ribotype O27
+|-
+|'''Highly resistant bacteria'''
+|Carbapenemase-producing Enterobacteriaceae
+
+Glycopeptide-resistant enterococci
+|-
+|Bovine spongiform encephalopathy
+|Bovine spongiform encephalopathy
+|}
+[[Exceptional health situation SD-346]]

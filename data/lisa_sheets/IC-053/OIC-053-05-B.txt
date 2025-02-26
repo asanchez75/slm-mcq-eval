@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-053-05-B
+|Item_parent=Stunting of staturo-ponderal growth
+|Item_parent_short=Staturo-ponderal growth delay
+|Rank=B
+|Title=Knowing the radiological examinations used to determine bone age
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+'''Bone age'''
+
+o ''' '''X-rays of the hand and left wrist from the front compared with standard x-rays of boys and girls (Greulich and Pyle atlas) and x-rays of the left elbow analysing the presence, size and fusion of ossification nuclei (Sauvegrain and Nahum method)
+
+o Provides information on the child's growth potential
+
+o Not very informative for determining the aetiology of delayed stature

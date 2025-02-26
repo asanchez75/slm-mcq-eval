@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-170-07-A
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Knowing the general principles of management
+|Description=Know the criteria for non-hospitalisation and hospitalisation
+|Rubric=Management
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=7}}
+
+====[[Management of a malaria attack SD-262|Management of a malaria attack]]====
+'''The treatment of malaria,''' whatever its form '''is a therapeutic emergency.''<gallery>
+File:PEC palu.png|General principles of malaria management.
+</gallery>The initiation of curative treatment must be preceded by the cessation of chemoprophylaxis and a search for contraindications.
+
+====Hospitalisation criteria====
+Hospitalisation criteria should not be confused with severity criteria.
+
+The presence of at least one criterion requires initial hospitalisation:
+
+======-Terrain======
+
+*Children
+*Risk of complications: co-morbidities, splenectomy, immunosuppression, pregnancy, etc.
+
+======-Clinique/paraclinique======
+
+*Signs of seriousness
+*Platelets < 50 to G/L
+*haemoglobin < 100 g/L
+*Creatinine > 150 µmol/L
+*Parasitaemia > 2%.
+
+======-Doute diagnostique======
+
+======-Thérapeutique======
+
+*Digestive problems / digestive intolerance (effectiveness of PO treatment compromised)
+*Risk of poor compliance
+**Isolation, socio-cultural factors
+**Difficult access to treatment and follow-up: difficulties in obtaining supplies of antimalarial drugs, distance of home from health services, etc.
+**Failure of initial treatment

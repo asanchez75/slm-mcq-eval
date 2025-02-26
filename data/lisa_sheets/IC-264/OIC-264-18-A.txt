@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-264-18-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing cardiovascular complications
+|Description=Early-onset and volume-dependent hypertension; accelerated atherosclerosis and atheromatosis, cardiac damage
+|Topic=Monitoring and/or prognosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=18}}
+
+The vascular risk in CKD is much higher than in the general population:
+
+* ischaemic heart disease (myocardial infarction 3 times more frequent than in the general population);
+* cerebrovascular accident;
+* arteriopathy of the lower limbs...
+
+The cardiovascular consequences of CKD are :
+
+1. arterial hypertension
+
+* It occurs early and frequently.
+* It is one of the major factors in the progression of CKD.
+* It is essentially volume-dependent, justifying a low-salt diet and the use of diuretics for hypertension in CKD.
+
+'''2. Accelerated arterial damage: atherosclerosis and arteriosclerosis''''
+
+Various factors contribute to the development of these lesions in CKD patients:
+
+* Common vascular risk factors: hypertension, dyslipidaemia, smoking, diabetes, age;
+* factors specific to CKD: disorders of phosphocalcic metabolism (mediacalcosis), hyperhomocysteinemia, anaemia, insulin resistance, uraemic toxins.
+
+'''3. Cardiac damage''
+
+Cardiac disorders include :
+
+* left ventricular hypertrophy secondary essentially to hypertension and anaemia;
+* valvular and coronary calcifications;
+* uraemic heart disease of multifactorial aetiology (ischaemia, uraemic toxins, etc.).

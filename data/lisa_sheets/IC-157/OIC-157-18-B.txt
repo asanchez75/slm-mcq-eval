@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-157-18-B
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=B
+|Title=Know how to monitor the progress of bacteraemia/fungaemia under treatment
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=18}}
+Monitoring of severity criteria (possibility of secondary onset): signs of shock or organ failure, secondary infectious localisations, etc.
+
+Apyrexia obtained in 3-5 days under well-managed treatment, daily search for other secondary lesions
+
+Monitoring treatment tolerance
+
+Follow-up of blood cultures under systematic treatment if: Staphylococcus aureus bacteremia, candidemia, endocarditis, clinically unfavourable evolution
+
+If the fever persists, the following steps should be taken:
+
+*Check the progress of the infection: control of the portal of entry, treatment of secondary sites, drainage of an abscess/empyema, removal of colonised equipment, etc;
+*Check that antibiotic therapy is appropriate: antibiogram, dosage, routes of administration, spread to infected sites (bone, meninges, vegetations); rate of administration; serum dosage.
+*Look for complications: healthcare-associated infections (including C. difficile colitis, catheter-related infections), drug-induced fever, thromboembolic complications.
+*Look for candidaemia (fungal blood cultures) if not already done and if there are risk factors.

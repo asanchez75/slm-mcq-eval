@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-330-15-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes
+|Rank=A
+|Title=Antidiabetics (metformin, sulphonulureas, DPP4 inhibitors, GLP1 agonists, SGLT2 inhibitors): mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=Eric Dailly
+|Order=15}}
+
+
+== '''Mechanisms of action''' ==
+
+* ''''' Metformin: inhibition of hepatic gluconeogenesis and glycogenolysis, increase in peripheral glucose uptake (muscles).
+
+* '''''Sulfonylurea (=sulfonamide hypoglycaemic): stimulation of insulin release by the pancreas.
+* ''''' DiPeptidyl Peptidase -4 (DPP-4) inhibitors ''''': inhibition of the degradation of incretins by DPP-4, which allows incretins to stimulate insulin release and inhibit the release of glucagon by the pancreas. The mechanism of action is glucose-dependent, which means that DDP-4 inhibitors do not stimulate insulin release when blood glucose levels are low.
+* ''''' GLP-1 inhibitors: an analogue of an incretin (GLP-1) that is resistant to DPP-4, enabling it to stimulate the release of insulin and inhibit the release of glucagon from the pancreas.
+* ''''' Sodium-glucose co-transporter type 2 (SGLT2) inhibitors: reduce glucose reabsorption in the renal tubule, facilitating urinary glucose excretion and osmotic diuresis (benefit demonstrated in heart failure).
+
+== '''Indication''' ==
+type 2 diabetes ([[Drug prescription, follow-up consultation and education for a patient with type 2 diabetes or secondary diabetes SD-281|drug prescription, follow-up consultation and education for a patient with type 2 diabetes or secondary diabetes]])
+
+== '''Adverse reactions''' ==
+
+* Metformin: digestive problems (very common), lactic acidosis (very rare)
+* Sulfonylurea: hypoglycaemia, weight gain
+* DiPeptidyl Peptidase-4 (DPP-4) inhibitors: arthralgia (uncommon), pancreatitis (very rare)
+* GLP-1 agonists: digestive disorders (very common), pancreatitis (very rare)
+* Sodium-glucose co-transporter type 2 (SGLT2) inhibitors: urogenital infections (frequent), sometimes serious (necrotising fasciitis of the perineum), arterial hypotension, polyuria, ketoacidosis (rare).
+
+== '''Drug interactions''' ==
+
+* ''''' Metformin:'''''
+
+drugs likely to promote nephropathy: iodinated contrast products (combination not recommended during the examination and for at least 48 hours after injection), NSAIDs (monitor renal function)
+
+drugs that inhibit the renal secretion systems of metformin (dolutegravir)
+
+* '''''Sulfonylurea :''''
+
+Increased risk of hypoglycaemia: miconazole (contraindicated for certain sulphonamides), beta blockers.
+
+* ''''' DiPeptidyl Peptidase -4 (DPP-4) inhibitors :'''''
+
+Converting enzyme inhibitor: increased risk of angioedema (vildagliptin)
+
+Numerous interactions with saxagliptin, which is largely metabolised by CYP 450 3A4, unlike sitagliptin and vildagliptin.
+
+* ''''' GLP-1 agonists''''': low potential for clinically significant interaction
+
+* ''''' ''Sodium-glucose co-transporter type 2 (SGLT2) inhibitors'':'''
+
+diuretic (increased risk of hypotension, dehydration)
+
+hypoglycaemic sulphonamide, insulin (increased risk of hypoglycaemia)
+
+== '''Monitoring''' ==
+Efficacy (HbA1c <= individually assessed target) is assessed after 3 to 6 months of treatment, or sooner if treatment is intolerant or clinical signs of hyperglycaemia or hypoglycaemia are present.
+
+== Main causes of failure ==
+poor compliance, progression of the disease, intolerance to the treatment

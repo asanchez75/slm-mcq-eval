@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-156-08-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Knowing therapeutic measures other than antibiotics
+|Description=Immobilisation/rehabilitation/discussion of other measures
+|Rubric=Management
+|Contributors=Dr Florent Valour
+|Order=8}}
+- Multidisciplinary management
+
+- Surgery: always ask whether surgery is indicated. Almost systematic in chronic osteitis (debridement, removal of sequestration, etc.), septic arthritis in children (lavage, drainage), and complicated forms (drainage of abscesses). It is not generally necessary for uncomplicated forms of acute arthritis in adults, osteomyelitis (excluding periosteal abscesses) and spondylodiscitis.
+
+- [[Assessment and management of acute pain SD-259|Assessment and management of acute pain]], [[Assessment and management of pain in children and infants SD-261|Assessment and management of pain in children and infants]]
+
+- Initial analgesic immobilisation, as short as possible to avoid stiffening (sometimes longer, guided by bone consolidation and stabilisation)
+
+- Prevention of venous thrombo-embolic disease if necessary
+
+- Rehabilitation as soon as pain and local inflammatory signs improve

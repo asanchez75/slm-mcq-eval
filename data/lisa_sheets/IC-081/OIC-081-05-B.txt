@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-081-05-B
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=B
+|Title=Knowing the main complementary examinations in ophthalmology and their indications
+|Description=Attempt of the anterior segment, of the optic nerve (common objective with Item 81), of the retina (AV, Angiography, macular OCT, ERG)
+|Section=Additional examinations
+|Contributors=
+|Order=5}}
+'''<u>Additional examinations of the anterior segment:</u>'''
+
+*'''Corneal topography:''' collects information about the curvature or relief (elevation) of the cornea, by projecting and analysing the reflection of a light pattern illuminating or scanning the cornea. The images collected are analysed in the form of colour maps. It is prescribed for analysing astigmatism, particularly in the search for keratoconus.
+*Biometry: coupled measurement of the curvature of the cornea (or keratometry) and the antero-posterior (axial) length of the eye. The measurement is carried out using an optical device. It is used to calculate implant power in cataract surgery.
+
+
+'''<u>Additional examinations of the optic nerve:</u>'''
+
+The visual field is the portion of space encompassed by the eye looking straight ahead and motionless. Examination of the visual field (or "perimetry") studies sensitivity to light within this space by assessing the subject's perception of light tests of varying intensity and size. There are two main methods of examining the visual field: kinetic and static perimetry.
+
+*Kinetic perimetry:'' performed using the Goldmann apparatus (fig. 1.48 and 1.49); a point of light of a given size and intensity is projected onto a dome and moved from the periphery towards the centre until it is perceived by the patient; this manoeuvre is repeated on different meridians over 360°. Kinetic perimetry of the visual field is particularly suitable for exploring peripheral deficits, particularly hemianopsia and quadranopsia: it is the examination method of choice in neuro-ophthalmology.
+*'''Static perimetry:'''' In this method, a fixed light test is presented, the intensity of which is increased until it is perceived by the subject. This is a more precise method of examination, which explores the central visual field in great detail; it is therefore particularly indicated in optic nerve pathology and during glaucoma: it is the method of choice for screening and monitoring primary glaucoma. It is becoming increasingly common for the visual field to be examined using automated equipment. One of the main indications for static perimetry is the diagnosis and monitoring of primary glaucoma: the first changes to the visual field are very localised and central in nature.
+
+*Visual evoked potentials (VEPs) represent action potentials arising in the occipital cortex following light stimulation of the retina: they therefore explore the optic pathways in their entirety, from the ganglion cell to the occipital cortex; they are an aid in diagnosing optic neuropathies and are particularly interesting in multiple sclerosis, where they may be altered in the absence of any clinically detectable optic neuropathy.
+
+
+'''<u>Additional retinal examinations:</u>''''
+
+*'''Angiography:'''' This involves taking images of the back of the eye after intravenous injection of a fluorescent dye which, depending on the indications, is either fluorescein or indocyanine green. A simple procedure, it has few side effects or complications and can be performed on pregnant women. There is, however, a very small but real risk of anaphylactic shock. Two dyes are used:
+**Fluorescein: dynamic study of retinal vascularisation.
+**Indocyanine green: used to visualise pathological choroidal vessels (vascularisation of a choroidal angioma, but especially choroidal neovessels in AMD).
+*'''Electroretinogram (ERG):''' recording of the retinal action potential secondary to light stimulation of the retina using a corneal electrode. The ERG reflects a global response of the retina and is only altered in the case of extensive retinal lesions: for example, macular damage causing a severe drop in visual acuity may be accompanied by a normal ERG. The multifocal ERG is used to identify macular damage. It is a very useful test for diagnosing hereditary retinal dystrophies.
+*Electrooculogram (EOG): measures the activity of the pigment epithelium.
+*'''Optical coherence tomography (OCT):''' a non-invasive examination method that provides "slices" of the retina with a level of precision far superior to that of ultrasound.
+**Its main application is the study of macular disorders:
+***Confirmation of the diagnosis of a premacular membrane or macular hole;
+***quantifying macular retinal oedema (e.g. in AMD, diabetes, venous occlusions) and its evolution under treatment by measuring macular thickness;
+***visualisation and location of choroidal neovessels in AMD.
+**OCT is also used to detect and monitor chronic glaucoma, as it can reveal the loss of optic fibres, the first sign of glaucoma.
+*'''Ultrasound:'''' The main purpose of A-mode ultrasound is to assess the length of the eyeball; the main purpose of B-mode ultrasound is to detect any retinal detachment in the case of ocular media disorders, to search for and locate an intraocular foreign body or to help diagnose an intraocular or intraorbital tumour.

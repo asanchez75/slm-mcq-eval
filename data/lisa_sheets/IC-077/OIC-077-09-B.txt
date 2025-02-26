@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-077-09-B
+|Item_parent=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Item_parent_short=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Rank=B
+|Title=Know how to manage withdrawal.
+|Description=Search for signs already treated above
+|Rubric=Management
+|Contributors=
+|Order=9}}
+The aim is to stop taking substances. The main difficulties facing the doctor:
+
+<nowiki>*</nowiki> Withdrawal symptoms as soon as consumption is reduced;
+
+<nowiki>*</nowiki> A high dosage of benzodiazepines causes more severe withdrawal symptoms, failure to stop and resumption of treatment.
+
+<nowiki>*</nowiki> The concomitant use of several psychotropic drugs (medicines but also alcohol and other psychoactive substances ...)
+
+<nowiki>*</nowiki> The use of benzodiazepines for anxiolytic purposes.
+
+<nowiki>*</nowiki> Severe insomnia, poorly treated anxiety disorder, psychological distress.
+
+'''Outpatient weaning:''''
+
+- There is no consensus on how to reduce growth.
+
+- A gradual reduction is the rule and will be adapted to each situation (patient characteristics, starting doses, etc.).
+
+- May last several weeks or months.
+
+- Outpatient: can be carried out by the GP, in a specialist addictionology consultation (e.g. in a CSAPA) or in a day hospital.
+
+- If the patient has significant medical complications or co-morbidities,
+
+           * monitoring is strengthened;
+
+           * multidisciplinary treatment is offered.
+
+At each consultation, you need to :
+
+<nowiki>*</nowiki> identify withdrawal symptoms or new symptoms (reappearance of anxiety symptoms) ;
+
+<nowiki>*</nowiki> assess adherence to the stop protocol;
+
+<nowiki>*</nowiki> to look for an increase in associated consumption (alcohol, tobacco or other psychoactive substances) ;
+
+<nowiki>*</nowiki> titrate the dosage reduction: ask the patient to bring back any unused tablets ;
+
+<nowiki>*</nowiki> to encourage any positive reinforcement from the patient in the event of a regular reduction in dosage.
+
+<nowiki>*</nowiki> to continue medical monitoring during the first few months after stopping.
+
+'''Hospital or institutional weaning:'''
+
+- Suggest scheduled hospitalisation specifically for benzodiazepine withdrawal in the following cases:
+
+           * very high doses of benzodiazepines,
+
+           * rebellious insomnia,
+
+           * dependence on alcohol and other psychoactive substances,
+
+           * severe psychiatric disorders,
+
+           * history of severe withdrawal syndrome and convulsions or failure of ambulatory withdrawal.
+
+- During hospitalisation for another reason: offer the opportunity in agreement with the patient and the attending physician.

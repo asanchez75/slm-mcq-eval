@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-291-01-A
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer: carcinogenesis, oncogenetics
+|Rank=A
+|Title=Knowing the natural history of cancer
+|Description=Know the main mechanisms of carcinogenesis: initiation-promotion-progression / dysplasia - carcinoma in situ - invasive carcinoma / locoregional invasion and metastatic spread / predisposition - precancerous lesion
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+Carcinogenesis is a sequential process that can be divided into 4 main stages:
+
+1 ''Initiation'': irreversible alteration of DNA (e.g. point mutation, deletion) which transforms a normal cell into an ''initiated cell'' capable of escaping the control of cell division. The vast majority of initiated cells remain in a quiescent state in the body;
+
+2 ''Promotion'': a reversible phenomenon that leads to the development of a ''pre-neoplastic lesion''. During this phase, changes affect gene expression rather than the molecular structure of the DNA. At histological level, for cancers of epithelial origin, intra-epithelial "dysplasia" appears (e.g. abnormalities in tissue architecture, mitoses, nuclear abnormalities);
+
+3.    '''Progression''': phase corresponding to the acquisition by the cell of '''cancer cell characteristics''' (e.g. escape from elimination processes, deregulation of the cell cycle). The initially pre-neoplastic lesion becomes "malignant". At this stage the basement membrane has not been breached (''carcinoma ''in situ'')''.
+
+4.    '''Locoregional invasion and distant metastatic dissemination of the primary tumour''': after acquiring invasive capacities (migration, remodelling of the extracellular matrix), the tumour crosses the basement membrane and invades the adjacent connective tissue ('''invasive carcinoma''). Dissemination to other organs may occur by contiguity, via the lymphatic (sentinel lymph node) or blood pathways.
+
+<br />

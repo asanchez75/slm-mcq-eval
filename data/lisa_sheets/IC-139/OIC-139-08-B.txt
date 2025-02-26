@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-139-08-B
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=B
+|Title=To understand the steps involved in supporting patients and their families in the most common situations encountered in the palliative or terminal phase of serious chronic or fatal illnesses,
+|Description=How can we improve hospital discharge and encourage adult palliative care patients to stay at home?
+|Rubrique=Management
+|Contributors=Adrien Evin
+|Order=8}}
+The elements described in this sheet are taken from the HAS recommendations:
+
+=> https://www.has-sante.fr/jcms/c_2655088/fr/comment-ameliorer-la-sortie-de-l-hopital-et-favoriser-le-maintien-a-domicile-des-patients-adultes-relevant-de-soins-palliatifs
+
+=> https://www.has-sante.fr/jcms/c_2730546/fr/l-essentiel-de-la-demarche-palliative
+
+==<small>'''1. How can hospital discharge be improved?''</small>==
+'''The identification of patients in need of palliative care (PC)''' must be '''early''' in any person hospitalised ([[Know the fundamental principles of Palliative Care 2C-139-DE-A01|2C-139-DP-A01]])
+
+*When an SP patient can and wishes to return to their usual place of residence:
+
+~ The advice, agreement and availability of primary care professionals and the identification of the main carer are essential;
+
+~ An assessment of the patient's homecare environment and medical situation must be carried out;
+
+~ The ''foreseeable risks'' (pain, haemorrhage, dyspnoea, anxiety, etc.) and the ''type of recourse in the event of distress'' are identified.
+
+*'''For the exit,''' we make sure of:
+
+~ informing the patient and, with the patient's consent, the patient's family and friends;
+
+~ the possible drafting of advance directives and the designation of a trusted support person (trusted support person 2C-003-DE-A08|2C-003-DE-A08; advance directives 2C-009-DE-B03|2C-009-DE-B03);
+
+~ '''continuity of care''' through contact with <u>town professionals and support services</u> if their need has been recognised ([[Knowing the organisation of palliative care in France 2C-139-DE-A02]])
+
+~ giving the patient a ''liaison letter'' on the day of discharge;
+
+~ the existence, where applicable, of ''personalised advance prescriptions available at home'' and the ''transmission of a liaison form to the emergency services'' (Centre 15, SAMU).
+
+*The patient's needs and wishes are ''regularly re-evaluated'' to adjust care and discharge arrangements.
+
+==<small>'''2. How to encourage patients to stay at home </small>==
+All healthcare professionals must '''ask themselves the question of their patient's need for PH'' ([[Knowing how to identify a situation involving palliative care 2C-139-DP-A01|2C-139-DP-A01]])
+
+This requires ''coordination of professionals'' (by one of them who will be the referent) and ''sharing of information''.
+
+*When an SP patient wishes to remain at home:
+
+~ The objectives of care in the event of an emergency and the resources to be deployed will be specified as precisely as possible. The anticipation of emergency situations is based on personalised advance prescriptions and the regular updating of a liaison sheet with the emergency services.
+
+~ Informing and educating patients and their carers helps to anticipate complications and prevent unreasonable obstinacy.
+
+~ The possible drafting of advance directives and the designation of a trustworthy person (''Trustworthy person 2C-003-DE-A08|2C-003-DE-A08]'' and ''Advance directives 2C-009-DE-B03|2C-009-DE-B03]'') should be discussed if possible.
+
+*The assessment of the patient's state of health and the level of exhaustion of carers must be carried out on an ongoing basis by all those working in the home in order to adjust the care provided.
+
+*'''The support of PH specialists'' [network, mobile palliative care team (EMSP) [[Connaître l'organisation des soins palliatifs en France 2C-139-DE-A02|2C-139-DE-A02]]] '''is recommended and essential in complex situations.'''
+
+*If hospitalisation is necessary, it must be anticipated and, if possible, planned, to avoid emergency transfers and/or visits to the emergency department, and to respect the patient's preferences as much as possible.

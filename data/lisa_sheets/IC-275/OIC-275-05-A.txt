@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-275-05-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Title=Know the main biological tests to be carried out in the first instance in the presence of splenomegaly
+|Description=haemogram with reticulocytes, liver biology, protein electrophoresis, coagulation, CRP, signs of haemolysis
+|Section=Additional tests
+|Contributors=
+|Order=5}}
+'''Biological tests to be performed in the presence of splenomegaly (as first-line treatment):'''
+
+- Blood count with reticulocytes and blood smear
+
+o cytopenias or conversely polycythemia, thrombocytosis ('''[[Platelet abnormality SD-215|platelet abnormality]]''') or hyperleukocytosis ('''[[Blood count interpretation SD-223|blood count interpretation]]''') in the case of haemopathy or infection.
+
+o regenerative anaemia in cases of haemolysis
+
+o NB: hypersplenism, whatever the cause, may be responsible for moderate pancytopenia, with normocytic anaemia, moderate thrombocytopenia ('''[[Platelet abnormality SD-215|platelet abnormality]]''') (with platelet count usually above 50 G/L), and leuco-neutropenia.
+
+- Liver test (ASAT/ALAT/gamma-GT/alkaline phosphatases/bilirubin), in the case of liver disease or viral infection.
+
+- '''Serum protein electrophoresis''': points to haemopathy in the case of a monoclonal peak, to cirrhosis in the case of beta-gamma block, or to certain chronic infections or systemic diseases in the case of polyclonal hypergammaglobulinaemia ('''[[Serum protein electrophoresis analysis SD-193|serum protein electrophoresis analysis]]''').
+
+- ''Coagulation work-up'' (TP/TCA/fibrinogen), disturbed in cases of hepatocellular insufficiency (drop in TP) or inflammation (rise in fibrinogen).
+
+- C-reactive protein (CRP), to look for an acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]'' (infections or certain haemopathies).
+
+
+- Markers of haemolysis (increased haptoglobin, lactic dehydrogenase (LDH) and free bilirubin).

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-169-15-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing the contraindications to vaccination in the case of chronic HIV infection
+|Description=None
+|Topic=Management
+|Contributors=Jade Ghosn
+|Order=15}}
+See [[Vaccinations|item 146]]
+
+'''Specific contraindications for people living with HIV:'''
+
+- BCG: regardless of immunological status
+
+- Live attenuated vaccines: as long as the CD4 LT count is < 200/mm<sup>3</sup>.
+
+
+'''Specific indications for people living with HIV:'''
+
+- Flu: every year, whatever your age
+
+- HBV +++ if not immune
+
+- HAV: in MSM, or in cases of HIV/HBV or HIV/HCV co-infection, or in cases of chronic liver disease
+
+- Pneumococcus: for all people living with HIV (one dose of 13-valent conjugate vaccine followed, two months later, by a dose of 23-valent polysaccharide vaccine)
+
+- HPV: recommended for all people living with HIV (young men and women) up to the age of 19, and for all MSM (with or without HIV) up to the age of 26.

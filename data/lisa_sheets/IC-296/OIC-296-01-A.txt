@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-296-01-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=A
+|Title=Know the definition of agranulocytosis
+|Description=
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Profound neutropenia: PNN <0.5 G/L'''

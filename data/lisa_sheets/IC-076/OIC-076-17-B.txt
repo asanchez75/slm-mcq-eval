@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-076-17-B
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=B
+|Title=Savoir prendre en charge un sevrage encadré d'alcool (Knowing how to manage supervised alcohol withdrawal)
+|Description=Alcohol withdrawal can be carried out on an outpatient basis, by any doctor, or during hospitalisation, and requires the prevention of withdrawal signs and accidents.
+|Rubric=Management
+|Contributors=
+|Order=17}}
+Indication: dependent patients wishing to stop (at least temporarily) their alcohol consumption.
+
+
+At best [[First addictology consultation SD-292|planned]], and integrated into overall addiction care.
+
+Sometimes [[Management of forced alcohol withdrawal SD-241|forced]], (patient hospitalised in emergency => systematic identification of alcohol misuse and signs of withdrawal in emergency department).
+
+Either as an outpatient or during a short stay in hospital.
+
+- Outpatient withdrawal preferred if there are no contraindications. (supervised by the general practitioner or a specialised outpatient team).
+
+- Hospital withdrawal indicated if :
+
+o history of withdrawal accident ;
+
+o severe dependence (particularly in the case of intense withdrawal symptoms) ;
+
+o benzodiazepine dependence or other severe, unstabilised addictive comorbidity ;
+
+o repeated failed attempts at outpatient withdrawal ;
+
+o unfavourable social environment (precariousness) ;
+
+o Vulnerable terrain (severe medical or psychiatric pathology, pregnant women, the elderly);
+
+o at the patient's request. 
+
+
+Weaning includes :
+
+- complete cessation of alcohol consumption ;
+
+- non-systematically, a long-lasting benzodiazepine (diazepam) in gradually decreasing doses for a maximum of 7 to 10 days
+
+in the event of contraindications to benzodiazepines - hepato-cellular or respiratory insufficiency - indication of hospital withdrawal in
+
+using benzodiazepines only in the event of signs of withdrawal, with reassessment at each dose;
+
+- adequate oral hydration (two to three litres per 24 hours);
+
+- Systematic oral supplementation with vitamin B1 ;
+
+- correction of any hydro-electrolytic disorders ;
+
+monitoring signs of withdrawal. 

@@ -1,0 +1,76 @@
+{{knowledge objective
+|Identifiant=OIC-105-07-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Know the clinical signs of a tonicoclonic epileptic seizure, myoclonus, typical absences, some focal seizures such as central region seizures, medial temporal seizures, etc.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+
+==A. Generalised seizures==
+
+
+1.      Two main categories of clinical signs are common in generalised seizures
+
+- Motor signs: immediately bilateral and symmetrical;
+
+- long called '''"''' [[Convulsions SDD-120|convulsions]] '''''''': WHILE PART OF THE START-UP SITUATIONS, THIS TERM IS NO LONGER PART OF THE INTERNATIONAL CLASSIFICATION AND SHOULD NO LONGER BE USED.
+
+- Motor signs may be tonic, clonic, tonicoclonic or myoclonic;
+
+- Coma and disorders of consciousness SDD-028|disturbances of consciousness]'''.
+
+2.       Classification of generalised seizures
+
+By identifying the main clinical signs, generalised seizures can be classified:
+
+- with motor signs '''"''' convulsions '''"''' in the foreground: e.g. tonicoclonic seizures, myoclonic seizures;
+
+- with altered consciousness in the foreground: e.g. typical absences.
+
+3.      Clinical presentation of some generalised seizures
+
+=====a.       Generalised tonic-clonic seizure=====
+It takes place in three successive phases ''':''''
+
+- the ''tonic phase'' (20 to 30 seconds): vocalisation, ''abolition of consciousness'', sustained tonic contraction of the axis and limbs, apnoea with cyanosis, significant vegetative disorders (tachycardia, mydriasis, bronchial and salivary hypersecretion), possible lateral tongue biting;
+
+- the '''phase [[Abnormal movements SDD-126|clonic]]''' (20 to 30 seconds): bilateral, synchronous, intense, progressively spaced jerks (''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''';)
+
+- the ''resolutive (or post-critical) phase'' lasting a few minutes: profound alteration of consciousness ('''[[Malaise/loss of consciousness SDD-050|loss of consciousness]]''), generalised hypotonia with possible enuresis, stertor then signs of waking up, progressively marked by confusion and sometimes agitation. The patient has no memory of the seizure or of the post-critical period. Finally, the post-critical phase often includes headaches, myalgias, pain related to the lateral bite of the tongue, the trauma caused by the fall or even a shoulder dislocation or vertebral compression that occurred during the tonic phase.
+
+=====b.      Myoclonic seizure=====
+These are the only generalised seizures without disturbance of consciousness: they are very brief (< 1 second to a few seconds) and involve very brief muscle jerks, isolated or repeated in short bursts, with the object being dropped or thrown, and more rarely falling suddenly in full consciousness (myoclonus of the lower limbs). They may be spontaneous or provoked by stimuli, particularly intermittent light stimulation, especially when exposed to screens. Common immediately after waking, they should be distinguished from physiological myoclonus occurring on falling asleep.
+
+=====c.       Typical absence=====
+Typical absences involve an isolated disorder of consciousness (loss of consciousness without falling), with an abrupt onset and end, with cessation of current activity, staring or even levelling of the eyes for a few seconds, favoured by hyperpnoea.
+
+The EEG during typical absence is characterised by a generalised, bilateral, symmetrical and synchronous paroxysmal discharge of spike waves at 3 Hz, with an abrupt start and end, lasting a few seconds and interrupting normal background activity. This aspect of the critical EEG is pathognomonic of typical absences.
+
+==B. Focal seizures==
+Focal signs or symptoms reflect the functional disturbance of cortical areas involved in the initial epileptic discharge and its propagation. Precise analysis of the temporal sequence of clinical signs makes it possible to pinpoint the origin of focal seizures.
+
+===Some examples of focal seizures:===
+
+===a. Clinical phenomenology of medial temporal seizures===
+- Initial subjective vegetative (ascending epigastric sensation, sensation of heat), emotional (anxiety) and/or memory sensations (déjà vu illusion, dream state corresponding to a complex visual [[Hallucinations SDD-122|hallucination]] of a memory that is relived by the patient in full consciousness) ;
+
+- Mental confusion/disorientation SD-119|disorder of consciousness]] inconstant and always secondary when present;
+
+- oro-food chewing automatisms, which are most often secondary;
+
+- elementary gestural automatisms (crumbling, handling) ;
+
+- prolonged duration of more than one minute ;
+
+- Secondary convulsions SDD-120|tonic-clonic generalisation]] exceptional under treatment.
+
+===b. Clinical phenology of central region seizures===
+- Sensory and/or motor neurological deficit SDD-121|paraesthesias]] and/or conscious clonus typically beginning in the hand with progression up the upper limb and then involving the face (''Jacksonian Bravais walk'');
+
+- possible post-critical motor or sensory deficit of the limb and/or face involved in the clonus and/or paresthesia.
+
+<br />

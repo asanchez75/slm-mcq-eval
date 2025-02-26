@@ -1,0 +1,85 @@
+{{knowledge objective
+|Identifiant=OIC-135-09-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=Know how to prescribe antidepressants for pain relief.
+|Description=Prescribe and explain the benefits of antidepressants for pain relief.
+|Rubric=Management
+|Contributors=
+|Order=9}}
+- '''Antidepressants with analgesic properties include: tricyclic antidepressants (amitriptyline, clomipramine, imipramine); serotonin and noradrenaline reuptake inhibitors (SNRIs) (duloxetine, venlafaxine).''''
+
+- Other antidepressants (serotonin reuptake inhibitors, etc.) have little or no analgesic effect.
+
+
+'''<u>Indications</u>'''
+
+- ''Peripheral or central neuropathic pain'' (high level of evidence)
+
+- ''Basic treatment of migraine and tension headaches'' (amitriptyline, high level of evidence)
+
+- Chronic osteoarticular pain and fibromyalgia (off-label) for duloxetine (low level of evidence)
+
+
+'''<u>Mechanisms</u>''''
+
+- Action on ''descending inhibitory controls'' via inhibition of the reuptake of serotonin and noradrenaline
+
+- Tricyclics also have anticholinergic and sodium channel blocking properties.
+
+- Analgesic action ''independent of the effect on mood''.
+
+- Some have anxiolytic properties (venlafaxine and clomipramine).
+
+
+'''<u>Principles of use:</u>''''
+
+- Start at low doses and increase in stages to reduce the risk of adverse effects (titration). When any antidepressant is initiated, inhibition may be overcome, with the risk of suicide.
+
+- Genetic polymorphism (cytochrome P450 isoenzyme) contributes to individual variability in response and adverse effects.
+
+- Need to be informed of the risk of driving, particularly during initiation.
+
+
+'''<u>Adverse reactions and monitoring</u>''''
+
+'''Tricyclic:''''
+
+- '''Anticholinergic effects''' (dry mouth, orthostatic hypotension, constipation, dysuria, cardiotoxic risks, sexual disorders, angle-closure glaucoma)
+
+- Drowsiness and weight gain.
+
+- Monitoring: cardiac (ECG on initiation), blood pressure (supine then standing), dysuria, particularly if multiple co-prescriptions, co-morbidities or doses ≥ 75 mg/d.
+
+- In the elderly (>70 years), people with multiple medications or multiple co-morbidities, maintain moderate doses (<75 mg/day).
+
+'''IRSNA (duloxetine, venlafaxine):'''
+
+- Nausea, anorexia, abdominal pain, constipation and sexual problems.
+
+- Rare cases of hypertension with high-dose venlafaxine (≥ 150mg/d).
+
+
+'''<u>Counter indications</u>'''
+
+Tricyclics: prostate adenoma, recent ischaemic heart disease and narrow-angle glaucoma, association with monoamine oxidase inhibitors (MAOIs)
+
+- ISRNA: associations with MAOIs
+
+- Relatives: caution with high doses of tramadol (increases the risk of epileptic seizures and serotonin syndrome).
+
+
+'''<u>Drug interactions:</u>''''
+
+- Association with monoamine oxidase inhibitors (MAOIs) (absolute contraindication).
+
+- Association with high-dose tramadol (risks: epilepsy, serotonin syndrome).
+
+- Reduced efficacy of VKAs (duloxetine: CYP2D6 enzyme inducer).
+
+'''<u>Main causes of failure:</u>''''
+
+- Clinical: low doses (no titration) or adverse effects (rapid initiation).
+
+- Genetic polymorphism (cytochrome P450 isoenzyme): contributes to individual variability in response and adverse effects

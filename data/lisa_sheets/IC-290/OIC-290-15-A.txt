@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-290-15-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing the risk factors for prostate cancer and their risk levels
+|Description=High-impact risk factors for prostate cancer: Family history; Prostate cancer risk factors with limited impact: environment.
+|Rubric=Etiologies
+|Contributors=
+|Order=15}}
+The ''proven risk factors'' for prostate cancer are :
+
+'''Age:''' the probabilitý of developing prostate cancer is low before the age of 50 and increases with age,
+
+'''Heredity - family history of prostate cancer:''' the relative risk is estimated at 2 to 3.5 in the case of prostate cancer among a first-degree relative. The risk of prostate cancer diagnosis increases with the number of affected family members and is multiplied́ by a factor of around 10 in the case of a so-called hereditary form.
+
+'''Ethnicity:''' including, in France, West Indian origin.

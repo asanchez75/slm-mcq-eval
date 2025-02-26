@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-131-02-B
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=B
+|Item_parent_short=Gait and balance disorders.
+|Description=Know the consequences of ageing on walking and posture
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+We need to differentiate between the ageing of all the organs involved in walking and balancing reactions, and the pathologies encountered with ageing, which can specifically and cumulatively affect all these organs.
+
+Postural reactions are effectively maintained during physiological ageing, but the speed of reactions and the ability to adapt to extreme situations are reduced. The main modifications of physiological ageing include:
+
+- a reduction in the number of receptors and the speed of conduction of proprioceptive nerve impulses.
+
+- a narrowing of the visual field, a reduction in visual acuity and contrast sensitivity for vision.
+
+- sarcopenia
+
+'''The gait of an elderly person'', free of pathologies, compared to a young person, is characterised by a :
+
+- increased swaying when standing
+
+- reduced walking speed
+
+- reduction in step length and height
+
+- increase in double-press time
+
+- greater pitch variability
+
+- less arm swinging
+
+Thus, walking in the elderly is characterised above all by a ''vulnerability to a factor precipitating the risk of falling''.
+
+To this "physiological ageing" of the antigravity and postural adaptation systems, we must add the pathologies that affect these systems:
+
+- benign paroxysmal vertigo
+
+- ophthalmological pathologies (cataracts, AMD, glaucoma, presbyopia)
+
+- Nervous system disorders (diabetes, vitamin deficiencies, stroke sequelae)
+
+- osteoarticular disorders (osteoarthritis, sequelae of osteoporotic fractures, etc.)
+
+- cognitive disorders leading to slowing or attentional problems (TNCM)
+
+- as well as treatments that could have an impact on alertness (psychotropic drugs, analgesics, etc.).
+
+<br />

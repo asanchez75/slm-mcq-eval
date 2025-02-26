@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-242-08-B
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=B
+|Title=Knowing the indications for thyroid scintigraphy and ultrasonography
+|Description=Etiological diagnosis of hyperthyroidism
+|Section=Additional examinations
+|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre
+|Order=8}}
+
+[[File:Place of ultrasound and thyroid scintigraphy in the aetiological approach to hyperthyroidism.jpg|vignette]]

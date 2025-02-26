@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-154-15-B
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=B
+|Title=Know how to reassess progress and adapt management in the event of an unfavourable outcome.
+|Description=Reassessment at 48 hours on an outpatient basis, change of class of TBA if necessary.
+|Section=Management
+|Contributors=
+|Order=15}}
+Treatment of acute community-acquired pneumonia (CAP) should be systematically reassessed at 48-72 hours.
+
+If symptoms persist or worsen, the outcome is unfavourable.
+
+
+'''Unfavourable evolution'''
+
+*In adults
+**In ambulatory patients:
+***switch antibiotic therapy (amoxicillin ↔ macrolide), and hospitalisation is indicated in the event of the 2nd<sup>th</sup> failure.
+**in a hospitalised patient: look for the cause of antibiotic failure:
+***''a complication has arisen'': pleurisy, abscess, retention pneumonia ;
+***a complication has arisen: pleurisy, abscess, retention pneumonia; - poor compliance
+***there is a problem with absorption or diffusion of the antibiotic
+***''the germ is outside the spectrum of antibiotic therapy'': resistant germ, BK, pneumocystis ;
+***it's not CAP'': depending on the context, think of pulmonary embolism, a systemic disease in flare-up, cancer, a fungal infection, etc.
+***the fever has another cause: venitis, urinary tract infection, thromboembolic complication, associated neoplasia, etc.
+
+*In children: "ambulatory CAP":
+**look for complications
+**check compliance
+**consider switch
+**if mycoplasma is suspected: the benefit of antibiotic therapy may be slower in the case of mycoplasma and should be re-evaluated after a further 48 hours in the absence of severity criteria; consider the possibility of a viral aetiology in the case of atypical pneumonia.
+**hospitalisation if clinical worsening or suspected complication (pleuropneumopathy, foreign body) or consider another diagnosis (e.g. tuberculosis).

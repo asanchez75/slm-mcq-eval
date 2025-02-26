@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-351-06-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=How to diagnose agitation
+|Description=Semiology, clinical examination
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+
+== Interviewing the patient and next of kin ==
+
+=== Context of onset ===
+duration, mode of onset (sudden or gradual), permanent or fluctuating course, time of day, triggering factors
+
+=== History ===
+Psychiatric and non-psychiatric history, use of psychoactive substances, treatment or recent change in treatment
+
+== Clinical examination
+
+=== Search for signs of seriousness (vital prognosis): ===
+
+* Vitals: temperature, blood pressure, heart rate
+* Confusion: acute and transient disturbance of attention, cognition and consciousness, manifested by temporo-spatial disorientation, disturbances of memory, speech, perceptions and behaviour. Onset is generally abrupt and the course fluctuates. Main aetiologies: non-psychiatric pathologies, intoxication or withdrawal of a psychoactive substance, iatrogeny.
+* Severe dehydration (hydro-electrolytic disorders)
+* Sepsis: cardiovascular shock, acute respiratory distress, cyanosis.
+
+=== Non-psychiatric signs ===
+
+* Neurological examination: miosis, mydriasis, meningeal syndrome, focal signs, tongue biting, etc.
+* General examination to look for a metabolic, hydro-electrolytic or endocrine aetiology: dehydration, tachycardia, urinary globe, etc.
+* General examination to look for an infectious aetiology: hyperthermia, meningeal syndrome, dyspnoea, cyanosis, sweating, etc.
+
+=== Psychiatric signs ===
+
+* Depressive and manic symptoms
+* Psychotic symptoms
+* Anxiety symptoms
+
+== Paraclinical examinations
+A minimum blood test is systematically carried out; it will be combined with additional tests depending on the anamnesis and the points raised during questioning and clinical examination (see corresponding knowledge objective).
+<br />

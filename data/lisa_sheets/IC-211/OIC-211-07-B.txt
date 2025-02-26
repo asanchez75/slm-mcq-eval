@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-211-07-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing the clinical elements that require the search for differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''<u>[[Discovery of abnormalities on pulmonary auscultation SDD-020|List]] non-exhaustive clinical situations serving as red flags</u>''' (= seek a diagnosis other than sarcoidosis; or conclude sarcoidosis only after thorough and repeated evaluation of differential diagnoses)
+
+*- age of onset less than 20 years or more than 50 years;
+*- presence of ''[[Hyperthermia/fever SD-044|fever]]'' or ''[[Weight loss SD-017|general signs]]'' (except Löfgren's syndrome);
+*- presence of ''[[Discovery of abnormalities on pulmonary auscultation SD-020|crackling sounds]]'' (pulmonary auscultation is classically normal in sarcoidosis) or digital hippocratism;
+*- micronodules of non-lymphatic distribution on the lung scan;
+*- compressive or asymmetric mediastinal ''[[Single or multiple adenopathies SD-016|adenopathies]]''';
+*- normal chest X-ray;
+*- Tuberculin intradermal reaction positive;
+*- serum protein electrophoresis SD-193|hypogammaglobulinaemia]'' at diagnosis;
+*- positive HIV serology.

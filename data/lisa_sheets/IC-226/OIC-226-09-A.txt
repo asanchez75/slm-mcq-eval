@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-226-09-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Knowing the signs of PE severity and recognising patients who can be managed as outpatients for PE
+|Description=None
+|Topic=Management
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=9}}
+
+
+=== '''High-risk PE (severe PE)''' ===
+- PE associated with haemodynamic failure defined by a systolic blood pressure (SBP) < 90 mmHg or a fall in SBP ≥ 40 mmHg for more than 15 minutes in the absence of another cause such as sepsis, arrhythmia or hypovolaemia.
+
+- Absolute life-threatening emergency with a mortality risk of > 30%.
+
+=== ''Non-high risk PE'' ===
+Stratification of intermediate or high risk is based on a combination of the sPESI or HESTIA score and markers (imaging or biomarkers) of cardiac dysfunction.
+[File:EP severity stratification.jpg|thumbnail]]
+Outpatient" management (in practice short hospitalisation or care pathway) may be proposed in cases of PE with a low risk of mortality (sPESI score = 0 and no cardiac repercussions).  
+
+Patients with high intermediate severity PE should initially be monitored closely, ideally in intensive care units.

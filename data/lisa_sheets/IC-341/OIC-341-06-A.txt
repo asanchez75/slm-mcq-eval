@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-341-06-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Knowing the characteristics of cerebrospinal fluid in meningeal haemorrhage
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+Cerebrospinal fluid (CSF) characteristics in subarachnoid haemorrhage (SAH) ("''[[Cerebrospinal fluid (lcs) analysis SD-183|Cerebrospinal fluid (CSF) analysis]''') :
+
+- macroscopic appearance: hypertensive (high CSF pressure), uniformly red (pinkish or citrine yellow if old SAH), incoagulable, xanthochromic supernatant after centrifugation
+
+- biochemistry: hyperproteinorachia, normoglycorachia, positive for biliary pigments (from the 12th hour)
+
+- cytology: red blood cell/white blood cell ratio > that of plasma, presence of siderophages, altered red blood cells

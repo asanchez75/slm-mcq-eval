@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-261-05-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Know the main indications for renal puncture biopsy (RPB), contraindications, modalities and complications of RPB.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=5}}
+
+E. Histological diagnosis: renal biopsy
+
+1.        Renal puncture biopsy (RPB)
+
+Indications:
+
+Glomerular nephropathy syndrome, with the exception of the following four cases:
+
+*Pure nephrotic syndrome in a child aged between 1 and 10 years,
+*diabetic retinopathy on fundus without haematuria in a patient with known diabetes,
+*amyloidosis documented on a non-renal biopsy (salivary glands),
+*hereditary cluster disease already documented in the family.
+
+
+Interest :
+
+*Diagnostic value: guides the etiological investigation;
+*Therapeutic interest: guides the treatment of certain glomerular nephropathies;
+*Prognostic value (depending on the severity of lesions).
+
+
+Contraindications:
+
+*Single kidney;
+*Poorly controlled hypertension (contraindicated until hypertension is controlled);
+*Anatomical abnormalities (multiple cysts, horseshoe-shaped kidneys, suspected periarteritis nodosa, etc.);
+*Acute pyelonephritis (temporary contraindication);
+*Coagulation disorders: questioning +++, CBC (anaemia, thrombocytopenia), PT, APTT, primary haemostasis study. Antiplatelet agents are stopped: aspirin 5 days, clopidogrel 10 days before the procedure. In the event of haemostasis problems, a transjugular PBR should be considered.
+
+
+Terms and conditions :
+
+*Look for any contraindications.
+*Hospitalization is essential.
+*Inform the patient of the benefits and risks of the procedure.
+*Carry out a blood group determination and RAI.
+*Percutaneous biopsy under ultrasound control.
+*Local anaesthetic.
+*Two samples are taken for light microscopy and immunofluorescence, sometimes an additional sample is taken for electron microscopy (suspicion of Alport syndrome, immunoglobulin deposition disease).
+
+
+Complications :
+
+*Acute = bleeding:
+**perirenal haematoma (subcapsular) ;
+**retroperitoneal haematoma (0.5 to 1%): more or less severe haemorrhagic syndrome;
+**intra-renal haematoma ;
+**macroscopic haematuria (1 to 10%) +/- clotting of the urinary tract: renal colic and/or urinary retention;
+**management may require embolisation or even haemostasis nephrectomy.
+
+*Chronic: arteriovenous fistula (0.1 to 0.5%), murmur, hypertension, risk of rupture.

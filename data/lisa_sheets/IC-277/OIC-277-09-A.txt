@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-277-09-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=How to diagnose complicated vesicular lithiasis: acute cholecystitis
+|Description=hepatic colic, murphy, BIO: biological inflammatory syndrome, ECHO: thickened gallbladder, calculus
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+The elements of the positive diagnosis of acute cholecystitis are :
+
+- hepatic colic pain, possibly associated with right hypochondrium tenderness
+
+- a frequent infectious syndrome (fever, chills),
+
+- biological inflammatory syndrome (neutrophil hyperleukocytosis, increased CRP and/or PCT),
+
+- Ultrasound: thickening of the vesicular wall > 4 mm (triple sheet appearance), vesicular distention and the presence of vesicular calculi.
+
+- Liver function tests were normal.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-302-01-A
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=A
+|Title=Know the main skin tumours
+|Description=List the main families of skin tumours (basal cell, squamous cell, melanoma, HPV-induced tumours) and their relative frequency.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Malignant skin tumours include tumours of epithelial origin such as basal cell or squamous cell carcinomas, which develop from keratinocytes, and melanoma, which is a malignant melanocytic tumour.
+
+Melanoma is a malignant tumour that develops at the expense of melanocytes (cells that produce melanin).

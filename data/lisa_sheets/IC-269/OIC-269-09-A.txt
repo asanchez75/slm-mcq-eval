@@ -1,0 +1,159 @@
+{{knowledge objective
+|Identifiant=OIC-269-09-A
+|Item_parent=Acute abdominal pain in children and adults
+|Item_parent_short=Acute abdominal pain in children and adults
+|Rank=A
+|Title=Know the characteristics of biliary, gastric (duodenal), colonic, pancreatic pain and intestinal ischaemia.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Fabrice MUSCARI
+|Order=9}}
+
+A. Biliary pain or hepatic colic
+
+o Location: epigastrium (50%) or right hypochondrium (50%) and physical examination reveals a Murphy sign (pain on palpation of the right hypochondrium combined with deep inspiration).
+
+o ''Irradiation'': right scapula
+
+o ''Type'': spasms / torsion
+
+o "Aggravating factors": increased pressure on the diaphragm: coughing, expectoration, inspiration.
+
+o ''Intensity'': strong.
+
+o "Duration": sudden onset, rapidly increasing in intensity, lasting less than 6 hours if uncomplicated.
+
+o ''Associated signs'' :
+
+- vomiting or nausea ;
+
+- fever/chills and/or jaundice immediately point to complications.
+
+o Causes :
+
+- Lithiasis (hepatic colic / cholecystitis / lithiasis of the main bile duct / angiocholitis)
+
+- Adenocarcinoma of the gallbladder, cholangiocarcinoma of the extrahepatic bile ducts
+
+
+
+'''B.  Gastroduodenal pain''''
+
+o ''Location'': epigastric and right hypochondrium (in the case of a duodenal lesion, for example)
+
+o ''Type'': cramp or torsion.
+
+o ''Irradiation'': without irradiation.
+
+o ''Intensity'': can be a simple heaviness or intense pain.
+
+o ''Duration'': from a few hours to a few minutes.
+
+o "Schedule": varies with diet: ulcer pain may be improved by meals, but gastric cancer pain may be made worse.
+
+o "Relieving factors": gastric dressings or antisecretory drugs.
+
+o "Periodicity": double in the case of ulcer pain: the rhythm is determined by food intake, with phases of relief lasting one to two weeks, followed by phases of pain lasting the same length of time.
+
+o Abdominal palpation: tenderness in the epigastrium. Note that the examination may be normal.
+
+o Main causes (ulcer syndrome) :
+
+- Peptic Ulcer Disease
+
+- Adenocarcinoma of the stomach
+
+- Functional causes: dyspepsia.
+
+
+'''C.  Colonic pain''
+
+o ''Location and irradiation:'' along the colonic framework, usually on a single segment
+
+o "Type": in spasm, coming and going spontaneously.
+
+o ''Intensity'': from low to very intense.
+
+o "Relieving factors": evacuation of stools and/or gas.
+
+o "Duration": short (1 to 10 minutes) or prolonged (sometimes several hours) painful attacks.
+
+o Physical examination: evidence of tenderness or pain along the colonic framework.
+
+o "Associated signs": these are aspecific: borborygma, altered bowel movements such as diarrhoea or constipation, rectorrhagia associated with mucus discharge, etc.
+
+o Common causes:
+
+- irritable bowel syndrome
+
+- colonic adenocarcinoma
+
+- colitis: infectious, inflammatory (haemorrhagic rectocolitis and Crohn's disease), drug-induced, ischaemic.
+
+
+'''D.  Pancreatic pain
+
+o ''Location'': epigastric.
+
+o "Type": cramp.
+
+o "Irradiation": posterior and transfixing.
+
+o ''Intensity'': very intense.
+
+o "Start": abrupt, stabbing.
+
+o ''Duration'': from a few hours to a few minutes.
+
+o ''Triggering'' factors: drinking alcohol or eating high-fat meals.
+
+o ''Relieving factors'': in shotgun form. Anti-inflammatories relieve the pain of chronic pancreatitis
+
+o "Associated signs": ileus, diarrhoea in cases of associated exocrine pancreatic insufficiency, weight loss.
+
+o Physical examination: tenderness/pain on palpation of the epigastrium.
+
+o Main causes :
+
+- Acute and chronic pancreatitis, pancreatic cancer.
+
+
+E. Intestinal ischaemia
+
+Mesenteric ischaemia occurs when splanchno-mesenteric blood flow stops or drops sharply. These ischaemias can be arterial or venous, acute or chronic.
+
+Rare and usually acute, it is a life-threatening emergency: the diagnosis is often difficult to establish and may be made late, and it is necessary to look for it in the vascular environment at risk, which is almost always present.
+
+o Land :
+
+- Toxicity: vasoconstrictor treatment, cocaine.
+
+- Emboligic arrhythmias, atheromatous disease, cardiovascular risk factors
+
+- Thrombo-embolic history, oestroprogestogenic contraception, thrombophilia ;
+
+o Abdominal pain :
+
+- Acute in the case of sudden occlusion of one or more digestive arteries, it is chronic in the case of mesenteric angina, with pain occurring after a meal (digestive effort) and often accompanied by diarrhoea and weight loss.
+
+- spreads rapidly throughout the abdomen;
+
+- of increasing intensity, rapidly becoming very intense and continuous.
+
+The clinical examination is poor, apart from the pain.
+
+o Possible associated signs :
+
+- progressive abdominal distension
+
+- emesis
+
+- in a second phase, onset of fever, defensiveness and then abdominal contracture in the context of sepsis or low blood flow
+
+- haematochezia
+
+
+
+In addition to these common causes, there are rarer but classic causes: acute adrenal insufficiency, familial Mediterranean fever (Mediterranean region, genetic background, intense, paroxysmal abdominal pain with marked inflammatory syndrome and fever), porphyrias, rheumatoid purpura, sickle cell anaemia (vaso-occlusive crisis). It is important to be aware of abdominal parietal pain (musculoskeletal and fascial pain), which is a cause of misdiagnosis: there is often a traumatic context (blow, abdominal scar) and the pain is aggravated by physical effort. The majority of these causes are rare and occur in a very suggestive context.
+
+<br />

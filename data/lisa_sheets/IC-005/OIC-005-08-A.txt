@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-005-08-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Knowing the definition of medical error
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=8}}
+
+<Human beings are fallible and it is in their nature to make mistakes. Acknowledging that we can make mistakes is a prerequisite for adopting error-prevention behaviour. Acknowledging that we have made a mistake is an opportunity to learn and progress. This is true for individuals, but it is also true for organisations. When an organisation puts in place systems for identifying, analysing and preventing errors, we speak of a "learning organisation".
+
+An error of omission occurs when a necessary action has not been taken. An error by commission refers to an action that was carried out but was not useful. An error of execution refers to an action that was poorly carried out.
+
+A violation (or non-compliance) occurs when a recommendation or professional rule is not respected. This non-compliance may be routine (a bad habit), the result of personal prioritisation (to save time, for example) or induced by the context (over-activity, urgency, etc.).
+
+Errors in care may relate to preventive, diagnostic or treatment actions. They may or may not have resulted in harm to the patient. They are unintentional and avoidable. A serious adverse event (SAE) occurs when the harm is a death, a serious complication or, at the very least, a one-day stay in hospital.
+
+Human beings are fallible and it is in their nature to make mistakes. Acknowledging that we can make mistakes is a prerequisite for adopting error-prevention behaviour. Acknowledging that we have made a mistake is an opportunity to learn and progress. This is true for individuals, but it is also true for organisations. When an organisation puts in place systems for identifying, analysing and preventing errors, we speak of a "learning organisation".
+
+'''Types of error: omission, commission, execution, breach''''
+
+An error of omission occurs when a necessary action has not been taken. An error by commission refers to an action that was carried out but was not useful. An error of execution refers to an action that was poorly carried out.
+
+A violation (or non-compliance) occurs when a recommendation or professional rule is not respected. This non-compliance may be routine (a bad habit), the result of personal prioritisation (to save time, for example) or induced by the context (over-activity, urgency, etc.).

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-285-11-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the characteristics and common causes of osmotic diarrhoea
+|Description=Lactose intolerance, polyol intake, pathomimia/false diarrhoea
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+The stools are liquid, often accompanied by abdominal pain due to meteorism with borborygms and flatulence.
+
+For example, the diarrhoea associated with lactose intolerance is secondary to a lactase deficiency, and symptoms are triggered by the intake of milk products. Lactose acts as an osmotic substance and is fermented by colonic bacteria. Diagnosis is theoretically confirmed by a lactose breath test, but in practice the diagnostic test is the cessation of diarrhoea on stopping cow's milk, which can be replaced by lactose-free milk. Sources of lactose other than milk are generally well tolerated because they contain less lactose.
+
+Intolerance to FODMAPs (see item 284) is also a cause of osmotic diarrhoea.
+
+Other causes of osmotic diarrhoea are rarer, either iatrogenic or taken without the patient's knowledge: mannitol, sorbitol (sweets, chewing gum), osmotic laxatives, magnesium, antacids (magnesia oxide and hydroxide).

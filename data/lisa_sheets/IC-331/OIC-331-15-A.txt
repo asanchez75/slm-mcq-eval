@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-331-15-A
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=A
+|Title=Knowing the epidemiology and mechanism of cardiorespiratory arrest in children
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=15}}
+o Incidence 15 times lower than in adults
+
+o Poor prognosis <5% at 1 year
+
+o Etiology respiratory insufficiency +++ or circulatory insufficiency with non-shockable rhythm

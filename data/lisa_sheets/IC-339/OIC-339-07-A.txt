@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-339-07-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Knowing the indications for an electrocardiogram (ECG) in the event of chest pain or suspected ACS; knowing the indications for and interpretation of troponin measurement
+|Description=ECG and troponin interpretation
+|Section=Additional tests
+|Contributors=Mathieu Kerneis
+|Order=7}}
+
+
+* '''Any chest pain = 18-lead ECG'''
+* Caution: do not forget the leads exploring the right VD (V3r and V4r) and the posterior leads (V7, V8 and V9)''''
+* '''Persistent chest pain = repeat ECG'''
+* Troponin measurement should not delay management. It is not necessary for the diagnosis or the start of management.
+* '''If ST- ACS is suspected''' = measure troponin at H0.
+** If positive, the diagnosis is made.
+** If negative, repeat at H1 or H3.
+** The type of troponin: ultrasensitive or conventional, defines the length of the cycle: H0-H1 cycle with ultrasensitive troponin and H0-H3 with conventional troponin.
+** H1 or H3 positivity or an increase in value of +30% indicates pathology.
+** Finally, a very low ultrasensitive troponin threshold in a patient with pain at H3 means that ACS can be ruled out on admission without the need for a cycle. <br />

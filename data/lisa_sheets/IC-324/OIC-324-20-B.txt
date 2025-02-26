@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-324-20-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Know the definition of "personalised medicine" (or precision medicine) and "person-centred medicine".
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=20}}
+The definition of personalised medicine, or person-centred medicine, is a combination of several concepts: philosophical or ethical and technical.
+
+This is a care practice that combines the use of techniques to better define the physiological and pathological characteristics of the patient, as well as the patient's history, social and economic context and specific needs, in order to refine and personalise strategies for prevention, prediction, diagnosis, treatment and monitoring of the patient's illness.
+
+The use of specific individual biomarkers is at the root of this concept of personalised medicine. While the principle of taking the whole person into account when considering the management of his or her illness is a fairly old one - and probably the primary aim of all healthcare professionals - its re-emergence today has been greatly encouraged by the technological revolutions of recent years. Advances in imaging, proteomics, genetics and genomics, as well as - and closely related to these - computer technology for processing all the data generated, now make it possible to apply this approach.
+
+In practice, personalised medicine does not literally mean creating specific drugs or medical devices for each patient. On the contrary, it involves the ability to classify individuals into sub-populations according to whether or not they are likely to develop a particular disease or are sensitive to a specific treatment. Preventive or therapeutic interventions will then be offered only to those who can benefit from them, sparing others the costs and side-effects ([1], p. 7). In other words, personalised medicine is concerned with the patient, not as a person whose state of health and situation are assessed as a whole, but as an individual belonging to a particular group of patients.  It would involve better identifying and understanding these differences between patients, in order to create new categories - the strata to which the term "stratified medicine" refers - that are more relevant than those currently used by medicine.
+
+
+S. Bateman Med Sci (Paris), 30 (2014) 8-13
+
+<br />

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-143-03-B
+|Item_parent=Know the specific aspects of palliative care in the intensive care unit
+|Item_parent_short=Know the specific aspects of palliative care in the intensive care unit
+|Rank=B
+|Title=Know the general principles justifying non-admission to intensive care.
+|Description=Know the elements taken into account: the patient's wishes (advance directives), the opinion of the trusted support person or, failing this, those close to the patient, the principle of proportionality, the therapeutic plan, etc.
+|Rubric=Management
+|Contributors=Thomas Perrin
+|Order=3}}
+Rapid situations that expose patients to intensive care treatment do not necessarily allow a collegial procedure to be used when making decisions about LAT.
+
+In emergency situations, the patient's wishes always take precedence, expressed in the following order: directly, through ''[[Anticipated directives 2C-009-DE-B03|anticipated directives]]'' and then through the ''[[Trusted support person 2C-003-DE-A08|trusted support person]]''. ([[Know the definition, conditions for collecting, validity and situations in which to consult anticipated directives 2C-007-PC-A03]]).
+
+The decision not to admit a patient to intensive care may be made on the basis of the principle of proportionality. This decision must be made on the basis of the patient's clinical condition at the time of the request, after examining the ''therapeutic plan'' and [[Collegial decision 2C-003-PC-A03|collegial opinion]] of the various parties involved. (See: [[Ethics at the end of life 2C-009-DE-A06]]; [[Know the principles of personal and collective deliberation and decision-making in situations where questions arise about the proportionality of investigations and treatments 2C-140-PC-A02]]; [[Know the ethical, legal and societal issues raised in the advanced or terminal palliative phases of a serious, chronic or lethal illness 2C-140-DP-A05]]).

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-124-16-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Knowing how testicular function changes with age
+|Description=None
+|Topic=Physiopathology
+|Contributors=Benjamin Pradere
+|Order=16}}
+
+During the ageing process, testosterone secretion by the Leydig cells decreases, as a result of a reduction in steroidogenesis as a whole. The impairment is also central, with a reduction in GnRH secretion. In addition, androgen receptors are reduced on the surface of all the cells in the target tissues, increasing the symptoms associated with hypo secretion of testosterone.

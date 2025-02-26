@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-180-01-A
+|Item_parent=Risques sanitaires liés aux irradiations. Radiation protection
+|Item_parent_short=Risques sanitaires liés aux irradiations. Radiation protection
+|Rank=A
+|Title=Knowing the nature and sources of ionising radiation
+|Description=None
+|Section=Definition
+|Contributors=Eléonore Blondiaux,Damien Huglo,Jean-Philippe Vuillez,Jean-François Chateil
+|Order=1}}
+
+Ionising radiation represents radiant energy emitted by a source, sufficient to create ionisation phenomena in living matter.
+
+- A distinction is made between directly ionising radiation (charged particles: electrons, positrons, protons, alpha particles) and indirectly ionising radiation (photons, neutrons).
+
+- Charged particles are emitted during radioactive transformations (alpha particles, beta minus (negative electrons), beta plus (positive electrons or positrons)), or during the de-excitation of nuclei (conversion electrons, an alternative to gamma emission) or atoms (Auger electrons, an alternative to X-ray fluorescence emission).
+
+- Sources of ionising radiation can be natural or artificial.
+
+- Nature of ionising radiation of natural origin :
+
+- Cosmic radiation, due to photons and particles coming from space, which varies according to latitude and altitude.
+
+- Telluric radiation (radioactive elements contained in rocks).
+
+- Incorporation of natural radioactive elements in the air or in products consumed, water and the food chain;
+
+- Radon, inhaled radioactive natural gas resulting from the degradation of uranium naturally present in the earth's crust.
+
+- Nature of artificial ionising radiation: 2 exposure categories:
+
+- Medical" exposure: procedures using ionising radiation for diagnostic and therapeutic purposes. Diagnostic examinations involve low doses (< 100 mSv) or even very low doses (< 10 mSv). Therapeutic exposures (external and internal radiotherapy) involve high doses, with a factor of around 100 compared with diagnostic examinations;
+
+- Exposure resulting from military or industrial sources (Chernobyl and Fukushima accidents, for example).
+
+
+- Natural annual exposure is around 2.9 mSv/year. In addition, the cumulative annual dose for an individual varies depending on the exposure situation (place of residence, lifestyle, smoking, etc.), and can range from 1.5 to 6 mSv/year. Artificial exposure has risen sharply in recent decades as a result of increased medical exposure (particularly the development of CT scans).

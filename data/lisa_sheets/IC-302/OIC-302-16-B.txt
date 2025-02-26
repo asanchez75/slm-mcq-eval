@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-302-16-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Photograph of a squamous cell carcinoma
+|Description=Photograph of a typical squamous cell carcinoma
+|Rubric=Multimedia content
+|Contributors=
+|Order=16}}
+
+[[File:FIgure D.jpg|vignette|Squamous cell carcinoma: irregular ulcerative-vegetative tumour, covered with crusts, with inflammatory margins and indurated base. ]]

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-169-07-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Know the main OIs, clinical pictures, situation of onset (CD4 count)
+|Description=toxoplasmosis, pneumocystis, candidiasis, bacterial and viral infections
+|Rubric=Positive diagnosis
+|Contributors=Jade Ghosn
+|Order=7}}
+The main infectious complications according to CD4 count are shown in Figure 1.
+
+Figures 2 and 3 show the main clinical characteristics of opportunistic infections encountered in the AIDS stage, in descending order of frequency.
+
+And don't forget "AIDS classifying" tumours (observed in natural history).
+
+- most often virus-induced
+
+- ''Kaposi's disease (HHV8), cervical cancer (HPV), lymphomas (EBV)''
+[[File:Infectious complications according to CD4 count.png|vignette|776x776px]]
+[[File:Opportunistic infections 1.png|vignette|777x777px]]
+[[File:Opportunistic infections 2.png|vignette|772x772px]]

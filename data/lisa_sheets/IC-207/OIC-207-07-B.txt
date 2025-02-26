@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-207-07-B
+|Item_parent=Intra-thoracic masses and lumps in children and adults
+|Item_parent_short=Opacities and intra-thoracic masses in children and adults
+|Rank=B
+|Title=Know how to diagnose a mediastinal anomaly
+|Description=Tumour, emphysema, aortic widening, cardiomegaly
+|Rubric=Positive diagnosis
+|Contributors=Constance de Margerie,Mathieu Lederlin
+|Order=7}}
+
+The mediastinum is the anatomical region of the thorax between the two lungs. It is arbitrarily divided into three compartments, which are often defined as such on a profile X-ray (Figure 1):
+
+*The ''anterior mediastinum'', which contains fatty tissue, the thymus and ganglion chains.
+*The middle mediastinum, which contains the heart, ascending thoracic aorta and crossover, pulmonary artery, trachea and main bronchi, phrenic and vagus nerves, and lymph node chains.
+*The '''posterior mediastinum''', which contains the descending thoracic aorta, oesophagus, splanchnic and sympathetic nerves, paravertebral fat, lymph node chains
+<gallery widths="600" heights="400">
+File:Mediast1.jpg|'''Figure 1.''' Segmentation of the mediastinum illustrated on profile chest radiograph. In blue: anterior mediastinum; in green: middle mediastinum; in yellow: posterior mediastinum.
+</gallery>
+
+
+Mediastinal abnormalities may correspond to :
+
+*The presence of a tumoral, inflammatory, infectious or congenital mass in the mediastinum. Example: mediastinal lymphoma, neurogenic tumour, paraspinal abscess, bronchogenic cyst, etc.
+*''An abnormal increase in volume of a mediastinal structure.'' Example: aneurysm of the thoracic aorta, dilatation of the pulmonary artery, cardiomegaly.
+*''An abnormal presence of an extra-mediastinal structure'' in the mediastinum. Example: intra-thoracic thyroid goitre, hiatal hernia.
+
+
+The main causes of mediastinal masses, classified by compartment, are summarised in the following table:
+{| class="wikitable"
+|Anterior mediastinum
+|Middle mediastinum
+|Posterior mediastinum'''
+|-
+|Adenopathies (including lymphomas)
+|Adenopathies (including lymphomas)
+|Adenopathies (including lymphomas)
+|-
+|Thymic tumours
+|Bronchogenic cysts
+|Neurogenic tumours
+|-
+|Germ Cell Tumours
+|Vascular dilations
+|Oesophageal tumours
+|-
+|Thyroid gland
+|
+|Hiatal hernia
+|-
+|Pleuropericardial cyst
+|
+|
+|}
+
+
+On a chest X-ray, a mediastinal abnormality ''is characterised by an opacity''.
+
+*A clear external boundary convex towards the lung
+*Gently sloping into the mediastinum
+*Internal limit not visible because indistinguishable from mediastinal elements
+*Hydric in tone like the rest of the mediastinum
+
+[[File:Bords mediastinaux.jpg|vignette|'''Figure 2.''' Mediastinal borders. BC: brachiocephalic. In blue: upper arches, in green: middle arches, in yellow: lower arches]]
+
+The ''mediastinal contours'' (Figure 2) are therefore often distorted. On the right, the superior arch corresponds to the right brachiocephalic venous trunk, the middle arch to the superior vena cava, the inferior arch to the right atrium and minimally to the inferior vena cava. On the left, the superior arch corresponds to the left subclavian artery, the middle arch to the aortic button and pulmonary artery, and the inferior arch to the left ventricle.<gallery widths="600" heights="550">
+</gallery>
+
+
+The left pulmonary hilum is always slightly higher than the right. Normal pulmonary hili are never convex.
+
+A frequently encountered mediastinal anomaly is cardiomegaly. Cardiomegaly is defined on a chest X-ray taken in the standing position only, by a '''cardiothoracic index greater than 0.5'' (Figure 3).<gallery widths="500" heights="500">
+File:Mediast3.JPG|'''Figure 3'''. Cardiothoracic index. The dotted line passes through the spinous processes of the thoracic vertebrae. The index is calculated by the ratio (c+c')/t
+</gallery>
+
+
+While chest X-rays can detect mediastinal abnormalities, thoracic CT is the examination of choice for ''pinpointing the location of the abnormality and characterising the lesion''. Mediastinal MRI may also be indicated in certain special cases.
+
+Example of mediastinal abnormalities on chest radiograph (with CT images provided for illustration) : Figures 4-7<gallery widths="475" heights="275">
+File:Mediast4.JPG|'''Figure 4''' A. Superior and middle mediastinal enlargement ("chimney") on chest radiograph (arrows). B. Anterior and middle mediastinal mass ("M") on chest CT with injection. Hodgkin's disease.
+File:Mediast5.JPG|'''Figure 5''. A. Convex deformity of the left middle arch on chest X-ray (arrows). B. Dilatation of the pulmonary artery ("PA") on chest CT with contrast injection. Pulmonary artery hypertension
+File:Mediast6.JPG|'''Figure 6''. A. Convex deformity of the right hilum (black arrows) and filling of the aortopulmonary window (white arrow) on chest X-ray. B. Adenomegalia of the right hilum and aortopulmonary window on coronal CT scan (arrows). Mediastinal sarcoidosis
+File:Mediast7.JPG|'''Figure 7''. A. Rounded opacity with sharp contours (showing the presence of a water-air tissue interface) in projection of the cardiac silhouette (arrows). B. Posterior mediastinal mass with partial aero content, digestive in appearance ("M") on chest CT with contrast injection. Hiatal hernia
+</gallery><br />

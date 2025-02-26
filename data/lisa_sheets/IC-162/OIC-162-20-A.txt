@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-162-20-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Know how to choose antibiotics after microbiological documentation of the STI.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=20}}
+Gonococcal :
+
+- Ceftriaxone single dose IM or IV 1000 mg
+
+- If allergic to β-lactams: single dose of azithromycin or gentamicin or ciprofloxacin
+
+
+Chlamydia :
+
+- Doxycycline per os 200mg for 7 days (or azithromycin 1g single dose but risk of resistance to other micro-organisms)
+
+- 2<sup>th</sup> intention: erythromycin or ofloxacin
+
+
+Early syphilis: Benzathine penicillin G DU IM 2.4 million units
+
+
+Trichomoniasis: Metronidazole per os 2g single dose or 500 mg 2x/d 7 days or Secnidazole 2g single dose

@@ -1,0 +1,109 @@
+{{knowledge objective
+|Identifiant=OIC-267-07-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the main causes of respiratory acidosis
+|Description=None
+|Rubric=Etiologies
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=7}}
+
+Table 4: Aetiological diagnosis of the main respiratory acidoses
+{| class="wikitable"
+| colspan="3" | NON-PULMONARY ALVEOLARY HYPOVENTILATION
+|-
+|Type of failure
+|Mechanism
+
+pathophysiology
+|Etiologies
+|-
+| rowspan="3" |'''Ventilatory control''''
+|Cerebral dysfunction
+|- Infections (encephalitis)
+
+- Injuries
+
+- Tumours
+
+- Stroke (Trunk)
+
+- Sedatives
+|-
+|'''Dysfunction of the centres''''
+
+'''respiratory'''
+|- Loss of control
+
+- SAS central type
+
+- Hypothyroidism
+
+- Metabolic alkalosis
+
+- Sedatives
+
+- Damage to afferent and efferent pathways
+
+- Cervical spinal cord injury (> C5)
+
+- Transverse myelitis
+
+- Multiple sclerosis
+
+- Parkinson
+|-
+|Peripheral receptor dysfunction
+|- Bilateral carotid endarterectomy
+
+- Diabetic neuropathy
+<br />
+|-
+| rowspan="2" |'''Ventilatory pump''''
+|Impaired neuromuscular function
+|- Anterior medullary horn
+
+- Poliomyelitis
+
+- ALS
+
+- Peripheral nerves
+
+- Guillain-Barré syndrome
+
+- Neuromuscular junction
+
+- Myasthenia
+
+- Botulism
+
+- Respiratory muscles (diaphragm)
+
+- Inflammatory myopathies and myositis
+
+- Metabolic disorders (hypokalemia, hypophosphatemia, hypermagnesemia)
+|-
+|'''Pathology'''
+
+'''de la cage thoracique'''
+|- Cyphoscoliosis,
+
+- Pleural fluid or gas effusion
+
+- Obesity
+|-
+|colspan="3" |PULMONARY ALVEOLARY HYPOVENTILATION
+|-
+| colspan="3" |- Severe COPD
+
+- Severe pulmonary emphysema
+
+- Parenchymal reduction (surgical resection, extensive scarring)
+
+- Inflammatory lung diseases with diaphragmatic myositis (lupus, polymyositis)
+|}
+
+
+
+<br />

@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-154-10-B
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=B
+|Title=Knowing the indication for computed tomography in lower respiratory infections
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+Chest CT is not indicated as a first-line treatment for acute community-acquired pneumonia (CAP).
+
+It can be justified, depending on the presentation, for :
+
+- confirm the diagnosis if a chest X-ray is not sufficient,
+
+- identify a complication (pleural effusion, abscess),
+
+- look for a tumour,
+
+- eliminate a differential diagnosis (EP).
+
+
+In children, thoracic ultrasound is suggested as a first-line treatment, before a CT scan, if the chest X-ray is inadequate.
+
+A CT scan may be justified in children for :
+
+- assess the extent of parenchymal and pleural involvement respectively,
+
+- look for a differential diagnosis or complication (foreign body),
+
+- guide the placement of a pleural drain.

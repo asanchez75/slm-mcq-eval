@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-303-07-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Title=Knowing the different histological types and natural history of gastric cancer
+|Description=Detail the main histological types and natural history of gastric cancer
+|Rubric=Physiopathology
+|Contributors=
+|Order=7}}
+Adenocarcinoma :
+
+The 5-year survival rate for operated patients (localised disease) is around 40%. In the case of metastatic disease, the median lifespan is 12 to 16 months (wide individual variations +++).
+
+
+Endocrine tumours :
+
+Gastric endocrine tumours are usually well differentiated and not very aggressive (reflected by the number of mitoses using Ki67 labelling). They usually progress slowly, with little metastasis.
+
+
+Lymphoma :
+
+There are several types of lymphoma, the most common of which is not very aggressive (MALT lymphoma). The first-line treatment is eradication of HP, which is often sufficient to cure the lymphoma. More rarely, there are aggressive forms whose evolution is that of a classic lymphoma.
+
+
+Stromal tumours (GIST° :
+
+How they evolve depends on their size at diagnosis, with tumours less than 1 cm in size generally being of limited aggressiveness.

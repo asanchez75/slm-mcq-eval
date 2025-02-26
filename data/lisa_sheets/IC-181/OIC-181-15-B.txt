@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-15-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Intitle=Knowing the vigilance of tattoo products
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=15}}
+
+Vigilance of tattooing products, or tatouvigilance, is one of the health vigilances handled by the French National Agency for the Safety of Medicines and Health Products (ANSM).
+
+This is the continuous process of collecting, identifying, evaluating and investigating potential adverse events linked to the use of tattoo products.

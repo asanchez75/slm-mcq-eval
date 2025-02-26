@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-003-17-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing the decision dynamics model
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=17}}
+- '''Homogeneity''' of the importance of each of the parts of Sackett's model leads to the '''shared decision'''.
+
+- '''The erasure of the "patient subject"''' in Sackett's model in favour of a preponderance of medical art and current scientific data, correspond to a mode of '''paternalistic decision.''''
+
+- Neglect of current scientific data (e.g. so-called alternative medicines such as homeopathy).
+
+- Scientism", or alienation from scientific data (medicalisation of society).

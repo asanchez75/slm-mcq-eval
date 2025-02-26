@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-162-01-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Knowing the causes of sexually transmitted infections (STI) according to their clinical expression
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=1}}
+Neisseria gonorrhoeae and Chlamydia trachomatis, alone or in combination, are STIs responsible for urogenital infections in men and cervicovaginitis in women.
+
+==== '''Gonococcal disease:''' ====
+- ''Neisseria gonorrhoeae'' or gonococcus, Gram-negative encapsulated diplococcus, intracellular.
+
+- Main sites of infection: urethra, cervix and vagina, throat
+
+Uncomplicated infections:
+
+- In men: often noisy (urethritis +++, anorectitis, oropharyngitis), but may be asymptomatic
+
+- In women: cervicitis; anorectitis and oropharyngitis may occur but are usually asymptomatic
+
+==== '''Chlamydia:''' ====
+- ''Chlamydia trachomatis''
+
+- Gram-negative bacillus, obligate intracellular, immobile
+
+Uncomplicated chlamydiosis :
+
+- ''In men'': 50% asymptomatic, urethritis, anorectitis, opharyngitis (less noisy than with gonococcal disease)
+
+- In women: cervicitis but usually asymptomatic
+
+==== '''Syphilis:''' ====
+- ''Treponema pallidum'', spirochete
+
+Early syphilis :
+
+- '''Primary''': chancre at the point of inoculation, satellite adenopathy
+
+- '''Secondary''': syphilitic roseola, syphilis (papular, palmoplantar, genital, etc.), involvement of the phanera (depilation of the eyebrows, alopecia, etc.) +/- general signs (fever) and non-cutaneous-mucosal signs (headache, poly-ADP, etc.).
+
+==== '''HPV infection:''' ====
+- ''Human papillomavirus''
+
+- Low-risk oncogenic HPV (++ 6 and 11), high-risk (++ 16 and 18)
+
+Anogenital lesions :
+
+- Condylomata: acuminate ("cockscomb"), flat (pinkish maculo-papular)
+
+- '''Intraepithelial neoplasia (IEN):''' precancerous lesions, HSIL or LSIL
+
+==== '''Trichomoniasis:''' ====
+- ''Trichomonas vaginalis,'' flagellate protozoan, anaerobic
+
+Uncomplicated trichomoniasis :
+
+- In men: asymptomatic +++, subacute urethritis, balanoposthitis
+
+- In women: asymptomatic +++, cervicovaginitis or vulvovaginitis (pruritus +++)

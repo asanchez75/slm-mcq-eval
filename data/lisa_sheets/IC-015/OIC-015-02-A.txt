@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-015-02-A
+|Item_parent=Psychiatric care without consent
+|Item_parent_short=Psychiatric care without consent
+|Rank=A
+|Title=Knowing the indications for psychiatric hospitalisation without consent
+|Description=Conditions necessary for the implementation of SPDT, SPDTu, SPPI, SPDRE
+|Rubric=Identification of the emergency
+|Contributors=Pierre Vidailhet
+|Order=2}}
+
+'''The implementation of SPDT'''<ins>, SPDTu, SPPI</ins> corresponds to situations in which there are mental disorders that :
+
+<nowiki>*</nowiki> require immediate care with medical supervision ;
+
+<nowiki>*</nowiki> make consent impossible.
+
+The classic situation is governed by article L3212-1-II-1 of the French Public Health Code.
+
+If there is an emergency and a serious risk to the person's integrity (duly justified and stated in the medical certificate), "emergency SPDT" may exceptionally be decided (article L3212-3 of the Public Health Code).
+
+If it is impossible to obtain a request from a third party (compulsory record of the steps taken to find and inform relatives) and a situation of imminent peril (duly justified and stated in the medical certificate) for the person may be exceptionally decided (Article L3212-1-II-2 of the Public Health Code).
+
+'''La mise en place de SPDRE'' ('''article L3213-1''' of the Public Health Code) corresponds to situations in which mental disorders :
+
+<nowiki>*</nowiki> require immediate care with medical supervision ;
+
+<nowiki>*</nowiki>''jeopardise the safety of individuals or seriously undermine public order''.
+
+If imminent danger the mayor (or police commissioners in Paris) <ins>may</ins> stop the start of SPDREs on medical advice (CM) which must be <ins>confirmed</ins> within 48 hours by the prefect (article L3213-2 of the Public Health Code).

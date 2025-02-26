@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-166-06-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Knowing the areas at risk of complications
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=6}}
+
+
+=== <small>Immunodepression (cancers, HIV, sickle cell disease, etc.)</small> ===
+'''Pregnancy: maternal and foetal risk'''
+
+'''Infants'''
+
+'''Elderly people''' '''(staying in a medico-social establishment)''''
+
+'''Respiratory insufficiency'''
+
+Heart failure
+
+'''Renal insufficiency'''
+
+'''Obesity BMI''' ≥ '''40kg/m<sup>2</sup>''''
+
+Diabetes

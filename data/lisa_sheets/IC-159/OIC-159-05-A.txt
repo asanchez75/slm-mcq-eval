@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-159-05-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the indication for a tuberculin intradermal test (TST), an IGRA test (Interferon Gamma Release Assays) and a tuberculin test (TST).
+|Description=Indications and non-indications for prescribing an IGRA.
+|Section=Positive diagnosis
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=5}}
+
+'''Summary: indirect diagnostic tools, they measure the delayed hypersensitivity immune response to mycobacteria, without distinguishing LTI from tuberculosis disease'''.
+
+The tuberculin skin test (TST) and the interferon-gamma assay (IGRA) are indicated for screening for LTBI in populations at high risk of infection and/or at high risk of progression to TB disease: a positive test after a previously negative test indicates a diagnosis of LTBI. In children, these tests also contribute to the diagnosis of TB disease, for which microbiological proof is rarely obtained.
+
+Indications for testing for LTI :
+
+- close contact case of contagious tuberculosis (during a case investigation)
+
+- migrants under the age of 18
+
+- HIV-positive patient
+
+- before starting immunosuppressive treatment (antiTNFα, transplant)
+
+- professionally exposed personnel
+
+Tests can also help with diagnosis in: difficult cases of tuberculosis disease in children (paucibacillary forms), cases of suspected extra-pulmonary TB, etc.
+
+
+[Prescribing and interpreting allergological tests (patch tests, prick tests, i dr) SD-237|Prescribing and interpreting allergological tests (IDR,...)]] :
+
+Intradermal tuberculin test (IDR)
+
+Reading at 72 hours, after intradermal injection of non-specific mycobacterial antigens, with measurement of induration caused by tuberculin and not redness. This induration is due to the influx of cell-mediated immunity cells in response to the injection of mycobacterial antigens. In the context of an LTI-risk situation, the induration thresholds that should lead to a diagnosis of LTI in immunocompetent individuals are ''15 mm'' in the case of previous BCG vaccination and ''10 mm'' in the absence of BCG vaccination.
+
+Interferon-gamma detection tests (IGRA)
+
+Measurement of gamma interferon production by the subject's lymphocytes in response to specific M. tuberculosis antigens. Two tests are available: Quantiferon®-TB Gold in-tube and T-SPOT.TB®. They are easy to perform: one blood test, one visit. They can be used at any age.

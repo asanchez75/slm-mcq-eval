@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-244-03-A
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=A
+|Title=Identify a picture of associated anteropituitary insufficiency
+|Description=clinical signs pointing to corticotropic, thyrotropic, gonadotropic insufficiency
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The clinical picture of antehypophyseal insufficiency depends on its depth and duration of onset. The main clinical signs are: paleness, depilation, depigmentation (mammary areola, OGE), thin and fragile skin.
+
+Clinical signs of corticotropic insufficiency: significant asthenia, low blood pressure, anorexia, weight loss.
+
+'''Clinical signs of thyroid insufficiency''': those of hypothyroidism ([[Hypothyroidism]]) but to a lesser degree.
+
+Clinical signs of gonadotropic insufficiency: amenorrhoea, loss of libido, depilation (face, OGE), erectile dysfunction, dyspareunia (atrophy of the vaginal and vulvar mucosa), infertility.
+
+Clinical signs of somatotropic insufficiency: asthenia, little clinical evidence in adults.
+
+Clinical signs of lactotropic deficiency: absence of milk production

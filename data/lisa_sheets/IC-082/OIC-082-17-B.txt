@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-082-17-B
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=B
+|Title=Know the clinical signs of vitreous haemorrhage and its main causes
+|Description=Visual acuity, visual field, VEP, OCT
+|Topic=Positive diagnosis
+|Contributors=
+|Order=17}}
+Intravitreal haemorrhage causes a drop in visual acuity, often preceded by an impression of "sooty rain".
+
+The reduction in visual acuity varies greatly depending on the extent of the haemorrhage: a minimal intravitreal haemorrhage may manifest itself mainly as myodesopsia, with no reduction in visual acuity or with a minimal reduction in visual acuity; a massive intravitreal haemorrhage leads to a severe reduction in visual acuity, with visual acuity reduced to light perception at the most.
+
+The cause of the haemorrhage is easy to recognise when the retina remains visible; in other cases, massive haemorrhage renders the retina invisible on fundus examination: B ultrasound can then sometimes point to an aetiology (e.g. evidence of a retinal tear). B ultrasound is always indicated when the retina is not visible to rule out the presence of retinal detachment (+++).
+
+The main ''causes'' of intravitreal haemorrhage are as follows:
+
+*proliferative diabetic retinopathy
+*ischaemic occlusions of the central retinal vein or one of its branches
+*retinal tear: a retinal tear, whether or not complicated by retinal detachment, may result in intravitreal haemorrhage due to rupture of a retinal vessel.
+*Terson's syndrome: uni- or bilateral intravitreal haemorrhage associated with meningeal haemorrhage due to rupture of an intracranial aneurysm (Terson's syndrome may also be associated with meningeal haemorrhage of traumatic origin).

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-348-01-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Know how to diagnose acute renal failure (ARF) and its severity (oliguria, anuria) in adults and children.
+|Description=Knowing how to analyse a rise in creatinine levels according to the clinical context, the notion of previous creatinine levels and grading the severity by taking creatinine levels and diuresis into account, knowing how to diagnose ARF from CKD, recognising ARF on CKD.
+|Rubric=Positive diagnosis
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=1}}
+
+==Definition, positive diagnosis and prevalence===
+Acute renal failure (ARF) is defined and classified into 3 stages of increasing severity according to two parameters, the increase in ''[[Increased creatinine SD-199|creatininaemia]]''' and/or the decrease ''[[Decreased diuresis SD-022|diuresis]]'''.
+
+'''ARF is defined by an increase in plasma creatinine of more than 26 µmol/L (3 mg/L) in 48 hours (or by an increase of more than 50% from a previous value in 7 days), or by a [[Decreased diuresis SD-022|decreased diuresis]] that becomes less than 0.5 ml/kg/hour for 6 to 12 hours.''' The severity of AKI depends on the degree of creatinine elevation and the duration of oliguria (K-DIGO 2012 classification).
+
+At the onset of ARF, glomerular filtration rate (GFR) should not be estimated using the MDRD or CKD-EPI formulae.
+
+'''[[Anuria]]''' corresponds to the absence of urine output (diuresis less than 200 ml/24 hours), it must be distinguished from '''[[Acute retention of urine SD-097|retention of urine]]''' secondary to an obstacle preventing the evacuation of urine.

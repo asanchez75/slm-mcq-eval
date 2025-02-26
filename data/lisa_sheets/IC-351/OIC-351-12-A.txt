@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-351-12-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the indications and conditions of free hospitalisation and hospitalisation without consent according to age
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+Cf item 2C-015

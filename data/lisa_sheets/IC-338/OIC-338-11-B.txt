@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-338-11-B
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=B
+|Title=Knowing the main samples to be taken at an early stage
+|Description=Without delaying treatment, know how to take the appropriate samples in these situations.
+|Section=Additional tests
+|Contributors=
+|Order=11}}
+In the event of anaphylaxis
+
+* under no circumstances should samples be taken to delay adrenaline treatment in the event of anaphylaxis
+
+* tryptase to be taken 30 minutes to 2 hours after the onset of clinical signs

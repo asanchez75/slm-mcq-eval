@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-099-11-B
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=B
+|Title=First-line investigations for facial pain
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=11}}
+- Examinations are guided by questioning and a thorough clinical examination of the face, ears and oral cavity.
+
+- Dental panoramic: in the event of dental pain
+
+- Full ENT examination (otoscopy and fibroscopy)
+
+- CT scan of the face and sinuses (without and with injection)
+
+- If suspicious lesion of the buccal mucosa: biopsy
+
+- If the local examination of the face, ears and oral cavity is normal, and/or the pain is recent and unusual and/or there is an associated headache, the reasoning is the same as for acute (recent) or chronic headache <u>('''see''' item 100)</u>.

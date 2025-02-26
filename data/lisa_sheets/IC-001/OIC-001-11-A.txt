@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-001-11-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communication with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the main stages in the process of change
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=11}}
+Prochaska and Di Clemente have modelled a cycle of motivation to change behaviour that patients can usually follow step by step:
+
+- Precontemplation or preintention: the health problem is unknown or, if it is, the patient evolves from an absence of desire to change behaviour to a desire to do so.
+
+- Contemplation or intention: the problem is identified and the patient plans to change their behaviour
+
+- Preparation: trying to change planning the change
+
+- Action: it changes its behaviour, with two outcomes:
+
+o Maintaining change (resisting relapse)
+
+o Relapse into lack of desire to change or pre-intention. The cycle of pre-intention, intention, preparation and action begins again.
+
+
+This process shows the importance of identifying the patient's motivational stage in order to adapt the caregiver's approach at each stage.

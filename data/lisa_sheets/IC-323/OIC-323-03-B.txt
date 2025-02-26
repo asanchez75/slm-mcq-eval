@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-323-03-B
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=B
+|Title=Knowing the approach and principle of meta-analyses of trials
+|Description=Knowing that this is based on a systematic review of the literature and then on a meta-analysis, the principle of a systematic review of the literature, knowing the value of a meta-analysis compared with an isolated clinical trial, knowing how to read and interpret the results of a meta-analysis (combined effect, Forest plot, heterogeneity).
+|Rubric=Epidemiology
+|Contributors=Pierre-Olivier Girodet,David Hajage (CIMES),Agnès Dechartres (CUESP),Nathanaël Lapidus (CIMES)
+|Order=3}}
+
+'''Meta-analysis of clinical trials'''
+
+Quantitative summary of the effect of an intervention (effectiveness and/or tolerance in a given indication, effectiveness of a preventive measure, etc.) which must be preceded by a systematic review of the literature.
+
+'''Meta-analysis approach (to be formalised in a protocol)'''
+
+- Systematic review of the literature
+
+*Procedure for identifying and selecting all eligible studies
+*Consideration of published and unpublished studies, if possible (= avoid publication bias)
+
+- Assess the presence of bias in each study identified
+
+- Aggregate the results of each study and calculate a combined effect
+
+- Analyse and, if necessary, explore heterogeneity between studies
+
+- Interpreting results
+
+*Statistically/clinically
+
+- Usefulness for clinical practice recommendations
+
+'''Results'''
+
+- Combined effect
+
+*Choose a measure of association appropriate to the objective and the outcome under consideration: for example, a difference in mean for a continuous outcome, or an odds ratio or relative risk for a binary outcome.
+*Calculate the combined effect using this measure of association.
+
+- Forest plot
+[[File:Example forest plot.png|alt=|thumb]]
+
+*Graphical presentation summarising the effects reported in each individual study and the combined effect of the meta-analysis.
+*Dashed line: Measure of association
+*Vertical line: No effect of intervention
+*For each study, the square represents the measure of association (here the OR), the horizontal line represents the confidence interval. The area of the square is proportional to the weight of the study in the meta-analysis (depending mainly on the number of subjects and the number of events in the study).
+*Combined effect: diamond at the bottom of the table, the width of which corresponds to the confidence interval. Statistically significant effect if no overlap with the vertical line.
+
+- Heterogeneity assessment
+
+*Does the effect vary from one study to another?
+*Heterogeneity test: if p<0.05, the hypothesis of homogeneity is rejected.
+*I² coefficient: Proportion of the variability between studies attributed to heterogeneity and not to chance. This coefficient varies between 0 and 100%: the higher it is, the greater the heterogeneity.
+*Significant heterogeneity between studies may be due in particular to differences in terms of population or interventions (studies conducted on populations that are too dissimilar or evaluating slightly different interventions), as well as to differences in methodology between studies or publication bias.
+*
+
+High level of evidence (HAS)
+
+- Meta-analysis of randomised controlled trials: HAS recommendation grade A (level of evidence 1, equivalent to high-power randomised controlled trials).
+
+
+References
+
+Sedgwick P. How to read a forest plot in a meta-analysis. BMJ. 2015 Jul 24;351:h4028.
+
+Free access: <nowiki>https://www.bmj.com/content/351/bmj.h4028.long</nowiki>
+
+https://www.cochrane.org/fr/our-evidence/what-are-systematic-reviews

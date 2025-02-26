@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-338-01-B
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=B
+|Title=Knowing the two phases of anaphylaxis and the categories of allergens
+|Description=Asyptomatic preparatory contact and immediate reaction on 2nd contact, allergens
+|Rubric=Physiopathology
+|Contributors=Pr Eric Batard
+|Order=1}}
+
+*Anaphylaxis: severe systemic hypersensitivity reaction, characterised by a sudden onset and life-threatening respiratory or circulatory problems.
+*1st phase of anaphylaxis: sensitisation (first contact with the allergen): asymptomatic, leading to the synthesis of specific IgE antibodies.
+*2nd phase: anaphylaxis proper (on further contact with the allergen): symptomatic, due to activation of mast cells and basophilic cells by IgE, leading to the release of histamine and tryptase.
+
+{| class="wikitable"
+|'''''IgE-dependent immune anaphylaxis
+|-
+|Food (peanuts, nuts, shellfish, fish, milk, eggs, sesame, food additive)
+|-
+|Medicines (β-lactam antibiotics, NSAIDs, curares, monoclonal antibodies, vaccines, progesterone, etc)
+|-
+|Animals (hymenoptera)
+|-
+|Latex
+|-
+|Professional allergens
+|-
+|Sperm (prostate specific antigen)
+|-
+|X-ray contrast media
+|-
+|''''' Non-IgE Dependent Immune Anaphylaxis
+|-
+|Dextrans
+|-
+|infliximab
+|-
+|X-ray contrast media
+|-
+|'''''Non-immune anaphylaxis
+|-
+|Physical factors (exercise, cold, heat, sun, UV)
+|-
+|Ethanol
+|-
+|Medicines (opiates, N-acetyl-cysteine, NSAIDs, curares)
+|-
+|'''''Idiopathic anaphylaxis
+|-
+|Unknown allergen
+|-
+|Look for mastocytosis (tryptase assay) / mast cell clonal pathology
+|}
+<br />

@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-267-21-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the main causes of hypokalaemia
+|Description=Know the main causes of hypokalaemia with extra-renal (diarrhoea) and renal losses depending on the presence or absence of hypertension (diagnostic tree).
+|Rubric=Etiologies
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=21}}
+Hypokalaemia may be due to a ''deficiency in potassium intake'', an ''exaggerated transfer'' from the extracellular compartment to the intracellular compartment or an ''excess of losses'' (table 5).
+
+'''Table 5: Main etiologies of hypokalemia''''
+{| class="wikitable"
+|1.Intake deficiency
+|- Anorexia nervosa, vomiting, exclusive artificial nutrition
+|-
+|2.Excessive transfer from the extracellular to the intracellular compartment
+|- Metabolic or respiratory alkalosis
+
+- Insulin (treatment of diabetic ketoacidosis)
+
+- β-adrenergic agents :
+
+- endogenous (stress, pheochromocytoma, myocardial infarction)
+
+- exogenous (salbutamol, dobutamine)
+
+- Strong stimulation of haematopoiesis :
+
+- treatment with folic acid or vitamin B12; megaloblastic anaemia
+
+- acute leukaemia; treatment with G-CSF
+
+- Familial periodic paralysis, thyrotoxicosis
+|-
+|3.Increased potassium losses
+|- Digestive losses: kaliuresis < 20 mmol/L
+
+- acute or chronic diarrhoea (++)
+
+- digestive fistulas
+
+- Renal losses: kaliuresis > 20 mmol/L
+
+
+- '''With HTA:'''
+
+- Hyperaldosteronism II: Renal artery stenosis, malignant hypertension
+
+- Hyperaldosteronism I: hypermineralocorticism without hyperaldosteronism: adrenogenital syndromes, Cushing's disease, genetic or acquired 11β-hydroxylase deficiency (liquorice, zan).
+
+
+- '''Without HTA'''
+
+- Thiazides and loop diuretics (++)
+
+- Salt-losing nephropathy (CIN, Bartter's syndrome, Gitelman's syndrome, hypercalcaemia)
+
+- Hypomagnesemia due to toxic tubulopathy (amphotericin B, aminoglycosides, cisplatin)
+
+- Profuse vomiting (associated metabolic alkalosis)
+|}
+CIN = chronic interstitial nephropathy
+<br />

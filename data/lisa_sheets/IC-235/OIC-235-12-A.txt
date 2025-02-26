@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-235-12-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Knowing the treatment of benign acute pericarditis
+|Description=Rest, analgesics, anti-inflammatory bi-therapy: aspirin or ibuprofen and colchicine
+|Rubric=Management
+|Contributors=Jennifer Cautela
+|Order=12}}
+
+
+* Rest, no sport (minimum duration until resolution of symptoms after normalisation of CRP, ECG and ETT: in practice 3 months)'''
+* Double anti-inflammatory treatment:''''
+** '''AINS :''''
+*** especially '''aspirin''' 1000 mg * 3 per day
+*** or ibuprofen 800 mg *3 per day for 2 weeks
+*** then decrease progressively according to symptoms and CRP
+** Systematically combined with '''COLCHICIN:''''
+*** 0.5 mg × 2 if weight > 70kg
+*** 0.5 mg daily if weight <70kg
+*** for 3 months,
+*** calms pain and above all reduces the risk of recurrence
+*** potential drug interactions (via cytochrome P450)
+*** strict biological monitoring (transaminases, creatinine, CPK, CBC, platelets)
+*** contraindicated in cases of severe renal impairment
+
+* Association with gastric protection
+* No corticosteroids as first-line treatment
+* Most often ''favourable'' outcome

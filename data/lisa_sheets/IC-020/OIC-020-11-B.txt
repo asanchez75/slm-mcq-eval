@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-020-11-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Title=Descriptive analyses: knowing how to calculate statistical parameters
+|Description=Knowing how to calculate the parameters of position (mode, mean, median, quartile, percentile) and dispersion (variance, standard deviation, interquartile distance, range)
+|Rubric=Definition
+|Contributors=Julie Berbis (CUESP),David Hajage (CIMES)
+|Order=11}}
+
+'''Description of qualitative variables''': number and proportion (or percentage) of each mode
+
+'''Description of quantitative variables''' :
+
+# Position parameters :
+#* Average: sum of the values divided by their number.
+#* Mode: among a set of values, the mode is the most frequently found value.
+#* Quantiles: if values are ordered, the quantiles are the values which divide these values into parts of equal size. Examples of quantiles are the median (divides values into 2 parts of the same size), quartiles (divides values into 4 parts of the same size) and percentiles (divides values into 100 parts of the same size).  
+# Dispersion parameters :
+#* Variance and standard deviation: The variance measures the dispersion of a set of values around their mean. It is the average of the squares of the deviations from the mean. The standard deviation is the square root of the variance.
+#* Interquartile distance: difference between the third and first quartile.
+#* Range: difference between the maximum value and the minimum value.

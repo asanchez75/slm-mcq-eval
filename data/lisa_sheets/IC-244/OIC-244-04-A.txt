@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-244-04-A
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=A
+|Title=Knowing the signs of diabetes insipidus
+|Description=Hypo-osmotic polyuria and polydipsia
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The cardinal clinical sign of diabetes insipidus is the [[Polyuro-polydypsic syndrome SD-061]]. The onset is generally quite abrupt but the diagnosis may be delayed because the patient compensates for his water losses as long as he has access to water.
+
+Insipid polyuria consists of hypotonic, hypoosmolar urine (< 250 - 300 mOsm/kgH20), eliminated in large quantities (> 2.5 litres / 24h or 30 to 40 mL per kg of body weight).
+
+Polydipsia defines excessive thirst with a volume of liquid ingested generally exceeding 3 litres / 24h
+
+As soon as the water balance is reversed (losses > inflows), the risk is that of hypernatremia, which will cause intracellular dehydration ([Disorders of acid-base balance and hydroelectrolytic disorders]).
+
+'''Important: a pituitary adenoma is never accompanied by diabetes insipidus at the time of diagnosis, except in the special cases of pituitary apoplexy and/or after pituitary adenoma surgery.'''

@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-190-07-B
+|Item_parent=Prolonged fever
+|Item_parent_short=Prolonged fever
+|Rank=B
+|Title=Knowing the diagnostic approach and the strategy for prioritising complementary examinations
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=7}}
+
+
+
+
+==Biological tests
+o CBC, with blood smear analysis
+
+o C-reactive protein (acute or chronic inflammatory syndrome, elevated C-reactive protein (CRP))''''
+
+o Serum protein electrophoresis
+
+o Blood ionogram, creatinine, calcium levels
+
+o Transaminases, gammaGT, alkaline phosphatases, bilirubin
+
+o Creatine kinase (CK), lactic dehydrogenase (LDH)
+
+o TSHus (thyroid-stimulating hormone ultra-sensitive)
+
+o Activated partial thromboplastin time, prothrombin time, fibrinogen
+
+o Ferritin
+
+o Anti-nuclear antibodies, rheumatoid factor, anti-neutrophil cytoplasm antibodies
+
+o Proteinuria (ratio of proteinuria to creatininuria, based on a urine sample)
+<br />
+
+==Microbiological tests
+o Blood cultures (x 3), before any antibiotic treatment
+
+o Urine cytobacteriological examination
+
+o Epstein Barr virus (EBV), cytomegalovirus (CMV), human immunodeficiency virus (HIV) serologies (and others depending on epidemiology).  
+
+==''In second line or according to clinical context'''==
+o Digestive endoscopy
+
+o Temporal artery biopsy if > 50 years old
+
+
+'''In children as first-line treatment at D7'''
+
+Biological and microbiological tests
+
+- CBC, CRP, fibrinogen, VS, HAA, iono ASAT ALAT ALAT, ferritin
+
+- Blood cultures
+
+- EBV, CMV, parvovirus serology
+
+- BU (with leucocytes and proteinuria) + ECBU
+
+'''- Morphological examinations:'''' Chest X-ray, abdominal ultrasound, cardiac ultrasound
+
+If the fever persists beyond this point without any obvious explanation, a paediatric specialist opinion is required (= for the 3rd cycle).
+
+to find out more about children: https://pap-pediatrie.fr/files/fievre_prolongee.pdf

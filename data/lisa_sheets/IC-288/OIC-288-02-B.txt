@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-288-02-B
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=B
+|Title=Knowing the frequency of haemorrhoidal pathology
+|Description=
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+
+It is estimated that a third of the French adult population has had at least one haemorrhoidal symptom in the past year, but only a third have sought medical advice.

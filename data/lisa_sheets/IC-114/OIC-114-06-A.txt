@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-114-06-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Knowing the systemic complications of erythroderma
+|Description=Hydro-electrolytic, infectious, decubitus complications, decompensation of underlying disorders, death.
+|Section=Positive diagnosis
+|Contributors=
+|Order=6}}
+Systemic complications of erythroderma can include :
+
+- hydro-electrolytic disorders (dehydration ++), protein deficiencies and deficiencies in certain vitamins and minerals
+
+trace elements (iron, zinc, vitamins, etc.)
+
+- thermoregulation disorders
+
+- decompensation of chronic diseases, particularly metabolic diseases (diabetes),
+
+cardiovascular (haemodynamic disorders), pulmonary, renal
+
+- infectious bacterial and viral complications, particularly those originating in the urinary tract
+
+and pulmonary
+
+- complications of prolonged decubitus (pressure sores, malnutrition, deep vein thrombosis, etc.)
+
+- complications related to etiological treatments for erythroderma

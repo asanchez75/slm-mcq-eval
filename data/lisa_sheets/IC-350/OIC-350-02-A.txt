@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-350-02-A
+|Item_parent=Big acute red leg
+|Item_parent_short=Big acute red leg
+|Rank=A
+|Title=Knowing the main aetiologies of acute fatty red leg
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The main causes of acute fatty red leg are :
+
+- in terms of prevalence: ''erysipelas'' with an incidence of 2/1000 per year in adults in the USA, ''lipodermatosclerosis'' due to venous insufficiency and eczema.
+
+- in terms of urgency and severity: necrotising fasciitis.

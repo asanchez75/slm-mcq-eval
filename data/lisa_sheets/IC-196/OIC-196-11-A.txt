@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-196-11-A
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=A
+|Intitle=Photography of rheumatoid nodules of the elbow
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+
+[[File:Nodule rhumatoide.jpg|vignette]]

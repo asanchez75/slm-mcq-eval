@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-233-09-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Know the principle of percutaneous treatment of MI, RA, MR
+|Description=VIAT, knowing that this percutaneous alternative exists for MI (MITRACLIP)
+|Section=Management
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=9}}
+
+*
+
+*Mitral insufficiency:''''
+**Percutaneous mitral repair= Mitraclip (This is a device used to percutaneously reproduce the surgical technique introduced by Alfieri, which consists of suturing the edges of the two leaflets of the mitral valve).
+
+*Aortic stenosis:
+**Aortic balloon valvuloplasty:
+***rarely performed as restenosis is frequent,
+***except in emergency (patient in shock or refractory IC),
+***in the event of urgent non-cardiac surgery
+***sometimes as a palliative measure
+**Percutaneous aortic bioprosthesis implantation (TAVI, native valve left in place)
+
+*Mitral narrowing:''''
+**Percutaneous commissurotomy: rheumatic MR in case of favourable anatomy: valve with little calcification and flexibility, absent or minimal MI.
+
+*''Under evaluation'' :
+**Mitral narrowing or insufficiency: percutaneous implantation of a bioprosthesis in the mitral position (TMVI)
+**Aortic insufficiency: TAVI
+
+<br />

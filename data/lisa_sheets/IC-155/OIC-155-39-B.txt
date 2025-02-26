@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-155-39-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the different routes of entry for cellulitis of the face
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=39}}
+Dental or peridental portal of entry (80% of cases): DHB of buccodental origin (serous or collected stage)
+
+DHB of cutaneous origin: skin break often not found (DHBNN of the face), furuncle manipulation (malignant staphylococcal disease of the face).

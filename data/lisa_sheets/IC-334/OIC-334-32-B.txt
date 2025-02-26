@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-334-32-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the principles of management of abdominal trauma in adults and children
+|Description=Damage control surgery (haemostasis, coprostasis, lavage, incomplete closure), radiological embolisation, interactive reinterventions, monitoring of intra-abdominal pressure, etc.
+|Rubric=Management
+|Contributors=
+|Order=32}}
+Continuing care monitoring :
+
+* stable patient + anatomical lesion requiring neither surgery nor embolisation
+* conservative treatment of spleen fractures+++: risk of delayed rupture up to day 30, justifying hospitalisation for 2 weeks.
+
+Antibiotics :
+
+* antibiotic prophylaxis in the event of peri-operative or penetrating trauma
+* antibiotic therapy in the event of perforation of the digestive tract
+
+Monitoring intra-abdominal pressures :
+
+* measurement of intra-vesical pressure and abdominal circumference
+* search for abdominal hyper-pressure + organ failure: indication for placement of a laparostoma
+
+[[File:Item 334 Figure 20 Decision-making tree for the management of abdomino-pelvic trauma.jpg|vignette|Figure 20. Decision tree for the management of abdomino-pelvic trauma in adults]]
+The principles of management of adult abdomino-pelvic trauma in the event of haemodynamic instability are presented in figure 20.
+
+("''[[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]'''") ("''[[Abdominal-pelvic trauma SDD-171|abdominal-pelvic trauma]]'''")("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]'''")

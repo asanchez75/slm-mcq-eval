@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-205-06-B
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=B
+|Title=Knowing the imaging semiology of haemoptysis
+|Description=Chest X-ray: infiltrate or localised opacity related to alveolar filling, and/or ventilatory disorder.
+|Section=Additional examinations
+|Contributors=
+|Order=6}}
+[[Writing a request for an imaging examination SD-230|Writing a request for an imaging examination]]
+
+[[Request for an imaging examination SD-231|Request for an imaging examination]]
+
+[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]
+
+Chest X-rays are not very sensitive or specific for the diagnosis of haemoptysis. It may show :
+
+- infiltration
+
+- an "alveolar condensation" syndrome, or even atelectasis (in the case of bronchial obstruction by a clot or by the lesion responsible for the bleeding)
+
+- possibly the "lesion" responsible for the haemoptysis (tumour, cavern, etc.)
+
+The chest X-ray may be normal.
+
+
+
+Thoracic computed tomography (CT)
+
+is more sensitive and more specific. It can show :
+
+- areas of "ground glass" (in this case the highest images are those corresponding to the location of the origin of the bleeding)
+
+- condensation or atelectasis
+
+- possibly the "lesion" responsible for the haemoptysis (tumour, cavern, etc.) (see previous question "how to ask for an initial assessment")
+
+It is rarely normal.

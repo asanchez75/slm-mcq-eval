@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-05-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the principles of health safety: evaluation principle
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=5}}
+
+The principle of assessment is one of the four main principles of health safety.
+
+This means that all professionals, health authorities and managers must have the capacity to detect and analyse risks. In return, they have an obligation to foresee or observe the effects of the decisions they take, in other words, to evaluate their actions before and after the fact.
+
+Patient safety derives from the best choice of treatment in the light of the benefit/risk balance assessed.

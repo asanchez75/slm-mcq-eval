@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-231-22-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying dyskalemia
+|Description=recognising ECG abnormalities in dyskalaemia, including long QT
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=22}}
+
+
+
+'''Hypokalemia''' :
+
+* Flat or diffusely negative T waves under ST segment shift,
+* QT prolongation +/- appearance of a U wave,
+* Hyperexcitability with extrasystoles, atrial or ventricular arrhythmia, torsades de pointes.
+
+Hyperkalaemia:
+
+* Broad, sharp, symmetrical T waves,
+* Conduction disorders with prolongation of PR, widening of QRS,
+* Risk of BAV, sinus dysfunction.

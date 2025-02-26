@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-294-16-B
+|Item_parent= Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the general principles of action of hormone therapy.
+|Description=Explain the main principles of action of hormone therapy.
+|Topic=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=16}}
+
+<Prostate cancer, breast cancer (and endometrial cancer) tumour cells express hormone receptors, making them sensitive to anti-hormonal treatments.
+
+The term "hormone therapy" is therefore a misnomer: it is rather an anti-hormonal treatment, the principle of which is to prevent this hormonal stimulation by two main methods:
+
+- Reduce hormone production in the :
+
+➢ '''central''' (e.g. use of LH-RH agonists which inhibit pituitary LH secretion) ;
+
+➢ '''peripheral''' (e.g. irreversible suppression of ovarian or testicular hormone production by surgery or radiotherapy; temporary suppression by aromatase inhibitors in post-menopausal women with breast cancer).
+
+- Blocking the hormone receptor in the tumour cell with an "anti-hormone".
+
+<br />'''Prostate cancer''''
+
+====Drugs active on LH-RH====
+LH-RH is secreted by the hypothalamus and regulates the synthesis of FSH and LH by the anterior pituitary gland. LH is the main stimulus for the synthesis and secretion of testosterone by the testicular Leydig cells. LH-RH agonists (e.g. leuprorelin) and antagonists (e.g. degarelix) lead to reversible medical castration.
+
+In the first few days of treatment, LH-RH agonists (or analogues) stimulate pituitary secretion of LH and FSH, leading in turn to an increase in testosterone synthesis, with the risk of causing an initial increase in symptoms (the so-called "flare-up" phenomenon). Secondly, they cause the ligand-receptor complexes to be internalised in the cell, reducing the number of receptors and ultimately suppressing testosterone secretion.
+
+The risk of early symptomatic rebound is particularly high in patients with excretory urinary tract obstruction and in those with vertebral metastases and therefore a risk of spinal cord compression. It is therefore imperative to start treatment with an anti-androgen or, at the very least, co-administer an anti-androgen until testosterone levels reach medical castration levels (≤ 0.5 ng/ml). The combination of an LHRH agonist and an anti-androgen is known as complete androgen blockade.
+
+LHRH antagonists cause a direct and immediate blockade of LHRH receptors, leading to a rapid suppression of LH and FSH, and of testosterone secretion, '''without any risk of a flare-up effect''' +++.'''
+
+====New-generation hormone therapies====
+In the event of biological, clinical or radiological progression of the disease, a so-called second-generation hormone therapy may be introduced.
+
+The first of a new generation of anti-androgens, enzalutamide binds to the androgen receptor with a much higher affinity than previous drugs (other NG AAs: apalutamide, darolutamide).
+
+The second is abiraterone acetate, an irreversible inhibitor of cytochrome P450 CYP17, which is involved in the "in situ" synthesis of androgens in the testicles, adrenals and prostate. When abiraterone acetate is prescribed, corticosteroids are also prescribed because abiraterone acetate inhibits the synthesis of adrenal steroids.
+
+Prescription of these two drugs must be combined with continued medical castration using an LHRH ana-logic if the man has not been surgically castrated. Testosterone levels should be monitored regularly.
+
+<For prostate cancer, hormone therapy (chemical castration or sometimes surgery, possibly combined with AA or HNG) is indicated:
+
+- in locally advanced non-metastatic forms: in combination with prostate radiotherapy (=hormono-radiotherapy)
+
+- in metastatic disease: alone or in combination with radiotherapy or chemotherapy, depending on the severity of the metastatic disease.
+
+===Breast cancer===
+
+==== anti-oestrogens====
+These are selective oestrogen receptor modulators. A distinction is made between :
+
+- SERMs ('''"''' ''Selective estrogen receptor modulator''' '''"''''')'', the historical leader of which is tamoxifen. Their tertiary chemical structure enables them to bind to oestrogen receptors and compete with endogenous oestrogens. They have a strong antagonistic effect on the breast but a weak agonistic effect, known as 'oestrogen like', on other target tissues, notably the endometrium, which explains many of their side effects (notably the increased risk of thrombo-embolic disease and endometrial cancer);
+
+- tamoxifen also has an oestrogen-like effect on bone: it is therefore protective against osteoporosis in post-menopausal women, and does not induce a risk of osteoporosis in non-menopausal women (except in the pre-menopausal period, due to an insufficient agonist effect).
+
+- fulvestrant is a selective estrogen receptor downregulator (SERD), of which it is the only one available; with a steroidal structure, it is a pure anti-estrogen with no weak agonist effect.
+
+====Aromatase inhibitors====
+Breast cancer, a typically hormone (oestrogen)-dependent tumour, is paradoxical in that it occurs more frequently after the menopause, even though the ovaries have stopped producing hormones. This apparent discrepancy is due to the expression and activity of aromatase, a ubiquitous enzyme in normal peripheral tissues (fat, muscle, liver and also breast tissue). While the ovary is the main source of oestrogen in women during the genital period, after the menopause this comes from the conversion of adrenal androgens (androstenedione and testosterone) into oestrogens under the effect of tissue aromatase. This peripheral aromatisation reaction is increased in certain circumstances, such as obesity. Several drugs have been developed to counteract this effect (exemestane, anastrozole, letrozole).
+
+In premenopausal women, aromatase inhibitors are contraindicated as monotherapy, due to their ineffectiveness in blocking ovarian oestrogen synthesis.
+
+The adverse effects most frequently observed with these drugs are myalgia and arthralgia, which patients should be warned about before starting treatment and which may even lead to treatment being interrupted. What they have in common is that they accelerate post-menopausal bone loss and are associated with an increased risk of fracture. As a result, patients should have their bone densitometry monitored and receive an adequate intake of calcium and vitamin D.

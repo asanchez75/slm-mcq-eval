@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-034-07-B
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=B
+|Title=Knowing how to treat venous thrombosis in the post-partum period depending on the aetiology
+|Description=Knowing how to treat post-partum deep vein thrombosis
+|Rubric=Management
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=7}}
+
+The post-natal period is a high-risk period for venous thrombosis, particularly in the first 6 weeks post-partum.
+
+The factors contributing to this are as follows:
+
+Major risk factors: history of thromboembolism, thrombophilia, prolonged immobilisation.
+
+Minor DRFs: age > 35, multiparity, obesity, sepsis, varicose veins, caesarean delivery (particularly emergency caesarean delivery), heart disease, pre-eclampsia, post-partum haemorrhage, assisted reproduction, smoking.
+
+'''Superficial venous thrombosis'''
+
+An indurated, painful cord in the course of a superficial vein.
+
+May be associated with deep vein thrombosis, particularly in the lower limbs. In this case, an echo-Doppler examination of the lower limbs should be carried out systematically.
+
+Deep vein thrombosis
+
+It carries the risk of pulmonary embolism and is life-threatening.
+
+- Non-specific warning signs in the post-partum period: moderate fever (37.5-38°C), inconsistent, unilateral calf pain, groin pain or feeling of a heavy leg;
+
+- Bilateral and comparative examination: slight oedema, warmth in the calf, pain in the calf on deep palpation and dorsiflexion of the foot;
+
+- An echo-Doppler examination of the lower limbs should be carried out systematically, but treatment should not be delayed if there is a strong suspicion.
+
+'''Septic pelvic thrombophlebitis'''
+
+Difficult to diagnose. It often complicates endometritis. It should be considered when endometritis does not respond to antibiotic treatment.
+
+The elements of the clinical diagnosis are not specific: significant pelvic pain, urinary signs (dysuria, pollakiuria, urine retention), intestinal signs (bloating, tenesmus), pain of a parameter on vaginal touch (very inconstant). It is their association with endometritis that is suggestive.
+
+Diagnosis by pelvic CT scan (or MRI) with injection of contrast medium.
+
+Cerebral thrombophlebitis
+
+A rare but severe complication that should be suspected in the presence of symptoms of intracranial hypertension (headache, vomiting, consciousness disorders) and/or a focal neurological deficit or even a convulsive seizure. Headache is the most frequent symptom, and often the first sign of cerebral thrombophlebitis.
+
+Diagnosis is based on cerebral imaging, in particular MRI, which enables the thrombus and its location to be visualised.
+
+178 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]; 76. [Heavy legs SD-076|Heavy leg]]; 87. [[Acute big red leg SD-087|Acute big red leg]]; 71. [[Pain in a limb (upper or lower) SD-071|Pain in a limb (upper or lower)]]; 99. [[Pelvic pain SD-099|Pelvic pain]], 118. [Headache SD-118|Headache]].

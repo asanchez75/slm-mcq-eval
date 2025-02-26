@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-340-17-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Knowing the measures implemented in primary and secondary prevention
+|Description=Vascular risk factors and motor, cognitive and sensory disabilities.
+|Rubric=Management
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=17}}
+
+
+=== Primary and secondary stroke prevention is based on: ===
+
+*control of modifiable vascular risk factors ([[Prevention of cardiovascular disease SD-320|prevention of cardiovascular disease]])
+**arterial hypertension in adults and children|arterial hypertension]] in particular ([[Drug prescription, follow-up consultation and education of a patient with hypertension SD-282|drug prescription, follow-up consultation and education of a patient with hypertension]]), [[Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetes]] ([[Drug prescription, follow-up consultation and education for a patient with type 2 diabetes or secondary diabetes SD-281|drug prescription, follow-up consultation and education for a patient with type 2 diabetes or secondary diabetes]]),
+**dyslipidaemia ([[Prescription of a hypolipidaemic drug SD-252|prescription of a hypolipidaemic drug]]),
+**obesity ([[Prevention of overweight and obesity SD-319|prevention of overweight and obesity]]),
+**sleep apnoea syndrome ([[Sleep disorders, insomnia or hypersomnia SD-135|sleep disorders, insomnia or hypersomnia (OSA)]]; [[Snoring SD-156|snoring]])
+**cessation of [[Tobacco addiction|tobacco]] ([[Tobacco risk prevention SD-314|prevention of tobacco-related risks]]) and alcohol consumption ([[Alcohol risk prevention SD-313|prevention of alcohol-related risks]]),
+*pharmacological measures combined with [[Primary prevention through nutrition in adults and children|Therapeutic lifestyle changes in terms of physical activity and diet]] (sleep, physical activity, diet, etc.). The aim will be not only to prevent recurrent stroke but also to prevent systemic vascular accidents ([[Prevention of cardiovascular disease SD-320|prevention of cardiovascular disease]]).
+
+In the case of cerebral infarction, secondary prevention will also be optimised by antithrombotic treatment (anticoagulant or platelet anti-aggregant) ([[Prescription and monitoring of treatment with anticoagulant and/or anti-aggregant SD-248|Prescription and monitoring of treatment with anticoagulant and/or anti-aggregant]]) depending on the etiological mechanism identified.
+
+=== These therapeutic measures will require: ===
+
+*appropriate therapeutic education ([[Follow-up consultation and therapeutic education for a patient with a cardiovascular antecedent SD-285|Follow-up consultation and therapeutic education for a patient with a cardiovascular antecedent]]),
+*an assessment of the tolerability of treatments ([[Suspicion of an adverse drug reaction or treatment SD-348|suspicion of an adverse drug reaction or treatment]]), particularly at haematological level (antithrombotics [[Tendency to bleed SD-059|tendency to bleed]]) and hepatic level (statins [[Elevation of transaminases without cholestasis SD-206|elevation of transaminases without cholestasis]])
+*assessment of compliance ([[Assessment of therapeutic compliance SD-354|assessment of therapeutic compliance]]).
+*taking into account the patient's condition [[Adaptation of treatments to a particular condition - renal failure, hepatic failure, pregnancy, elderly person...) SD-264|(adaptation of treatments to a particular condition - renal failure, hepatic failure, pregnancy, elderly person]]...); [[Follow-up consultation for a polymorbid patient SD-267|follow-up consultation for a polymorbid patient]]; [[Geriatric follow-up consultation SD-295|geriatric follow-up consultation]]. ),
+*polymedication ([[Follow-up consultation for a polymedicated patient SD-266|follow-up consultation for a polymedicated patient]]).
+
+=== Post-stroke management will include systematic assessment of post-stroke complications: ===
+
+*motor, sensory or phasic disability (justifying physiotherapy and speech therapy) ([[Situation of disability SD-345|situation of disability]]),
+*cognitive deterioration ([[Consultation and follow-up of a patient with cognitive disorders SD-298|consultation and follow-up of a patient with cognitive disorders]]), which occurs in 80% of patients,
+*mood and sleep disorders ([[Follow-up consultation and background treatment of a depressive patient SD-288|Follow-up consultation and background treatment of a depressive patient]]; [[Prescribe a hypnotic/anxiolytic SD-256|Prescribe a hypnotic/anxiolytic]]) which are observed in 30% of patients.
+
+Epileptic and pain complications are rarer and warrant specific management ([[Consultation and follow-up of an epileptic patient SD-289|consultation and follow-up of an epileptic patient]]; [[Assessment and management of chronic pain SD-260|assessment and management of chronic pain]]) because of their impact on patients' quality of life.

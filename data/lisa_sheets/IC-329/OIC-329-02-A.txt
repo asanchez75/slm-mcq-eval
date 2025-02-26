@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-329-02-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Intitle=Know the immunological rules for transfusion of labile blood products (PSL)
+|Description=ABO grouping, Rh KELL, ABO compatibility rules, prior RAI research
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+''During the transfusion of red blood cells (RBC),'' the basic principle is the prevention of an immunological conflict between antibodies produced by the recipient and erythrocyte antigens expressed on the surface of red blood cells. The consequences of such a conflict can range from the absence of transfusion yield to the death of the recipient in the most severe forms (entitled 2C-329IU-A01).  Two types of antibody are described and determine the immunological rules for the transfusion of labile blood products (LBS):
+
+ABO system antibodies, described as natural and regular (heading 2C-329-DE_A02): anti-A in B, anti-B in A, anti-A and anti-B in O, no antibodies in AB. Determining the ABO group ensures immunological compatibility in this system for the transfusion of red blood cells by avoiding bringing the antigens corresponding to the recipient's antibodies (CF diagram).  RGC transfusion in this system can be isogroup (O blood to O, B blood to B, etc.) or non-isogroup compatible (O blood to A, O blood to B, etc.).  O blood donors are known as universal ABO group donors, as their RBCs can be transfused to all individuals, regardless of their ABO group.
+[[File:ABO conflict.jpg|vignette]]
+
+''Antibodies associated with other blood groups: RH, KEL, FY, JK, MNS ...'' (entitled 2C-329-EP-A01) described as immune and irregular because they are produced inconsistently in individuals exposed via transfusion or pregnancy (foetal red blood cells) to the antigen they do not possess. These antibodies are the result of a process of alloimmunisation. They are detected before any transfusion by an analysis: the search for irregular agglutinins (because these antibodies agglutinate RBCs in vitro) (because their presence is inconstant). When such an antibody is detected in the IAT, the LSP delivery service selects RBCs whose red blood cells do not express the corresponding antigen to prevent an immunological conflict. These are known as phenotyped RGCs.
+
+Performing an ABO group and an IAT in the laboratory before a transfusion therefore makes it possible to implement the immunological rules of transfusion, and to prevent an immediate immunological conflict. A final check, verifying ABO concordance, is also carried out at the patient's bedside (CULM). (Entitled 2C-329-PC-A03). However, other rules apply, aimed at preventing a patient from producing alloimmunisation antibodies to the most immunogenic blood group antigens, which could lead to positive IATs (entitled 2C-329-SP-BO1). At a first level, they concern compatibility in the RH (formerly "Rhesus") systems: for antigens D (RH1), C (RH2), E (RH3), c (RH4), e (RH5) and KEL (for the KEL1 antigen).
+
+- For the D (RH1) antigen (formerly Rhesus factor) compatibility is regulatory: any D-negative individual must receive D-negative RGCs, as this antigen is the most immunogenic of all blood group antigens.
+
+
+- For the other RH system antigens (C (RH2), E (RH3), c (RH4), e (RH5)), and for the K antigen (KEL1), compatibility is
+
+
+o Statutory for women up to the end of the reproductive period, to safeguard the future of obstetrics by avoiding the appearance of antibodies which may be responsible for haemolytic disease of the foetus or newborn in the event of an incompatible pregnancy.
+
+o Recommended for polytransfused patients
+
+To implement these recommendations, the RH-KEL1 phenotype must be determined before any transfusion.
+
+Compatibility rules for the transfusion of platelets and plasma are described in 2C-329-PC-B02 and B03.
+<br />

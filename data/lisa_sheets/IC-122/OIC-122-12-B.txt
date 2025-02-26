@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-122-12-B
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=B
+|Title=Know the rules for stopping rehabilitation.
+|Description=Elements for stopping rehabilitation treatment
+|Rubrique=Taking charge
+|Contributors=Claire Hentzen
+|Order=12}}
+The decision to stop rehabilitation depends on the objectives initially set and is taken if :
+
+* Objectives achieved
+* Objectives not achieved within the initial timeframe. The causes may be :
+** Unsuitable prescription: rehabilitation is not the solution
+** Unsuitable rehabilitation techniques used
+** Poor tolerance of rehabilitation
+** Non-cooperative patient

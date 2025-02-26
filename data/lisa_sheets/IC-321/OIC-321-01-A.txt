@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-321-01-A
+|Item_parent=Principles of proper use of medicines and non-medicinal therapies
+|Item_parent_short=Principles of proper use of medicines and non-drug therapies
+|Rank=A
+|Title=Know the definition and methods of evaluating the proper use of medicines; know the procedure for marketing authorisations (MA) and the conditions for prescriptions outside MA.
+|Description=To be familiar with the marketing authorisation procedure and the conditions governing non-authorised prescriptions.
+|Rubric=Definition
+|Contributors=Florian Lemaitre
+|Order=1}}
+==Definition==
+The ''proper use'' of medicinal products is the use of a medicinal product in an ''appropriate'' manner, i.e. prescribed to the ''right patient'', at the ''right dosage'' (dose, rate of administration) and for the ''right duration'' of treatment.
+
+Prescribers must therefore be able to justify their therapeutic decision, which must be based on :
+
+*A ''proper diagnosis'' and an assessment of the clinical benefit in relation to the potential risk to the patient.
+*An ''assessment'' of the patient's ''individual situation'' (see LiSA leaflet [[Taking account of the patient's individual situation to adjust the benefit/risk ratio for prescribing OIC-326-07-B|OIC-326-07-B]]).
+*compliance with the indication as defined in the marketing authorisation for the medicinal product
+*Consideration of ''associated therapies''.
+
+==Marketing authorisation===
+Marketing authorisation [MA] is a ''crucial element'' for ''guiding proper use'', as it provides a regulatory qualification of pharmaceutical quality, efficacy and safety for a ''given indication'' or ''indications'' and in a ''defined patient population''.
+
+<nowiki>After marketing authorisation has been obtained, a single document summarises the information needed to make the best use of the medicine: the summary of product characteristics [SPC].</nowiki>
+
+The RCP contains the following information
+
+*Form and presentation of the medicinal product
+*Indications
+*Dosage and method of administration
+*Contraindications
+*Warnings and precautions for use
+*Drug interactions
+*Fertility/Pregnancy/Nursing mothers
+*Adverse reactions and overdose
+*Pharmacodynamics (including results of major clinical trials) and pharmacokinetics
+*Incompatibility, storage conditions, prescribing, dispensing and management conditions.
+*Contact details for the marketing authorisation holder
+
+In addition to the information given in the SPC, legal information must also appear on the patient information leaflet and the packaging of the medicinal product.
+==Early access and compassionate access===
+In addition to the MA framework, two regimes allow derogatory access to medicinal products: <nowiki/>'''early access''' or l''''accès compassionnel'''.
+====Early access====
+The ''d''''accès précoce'' authorisation is obtained by application from a pharmaceutical laboratory and is given to a medicinal product meeting the following conditions:
+
+*It is intended to treat a ''rare, serious or debilitating disease'';
+*There is ''no appropriate treatment'' available;
+*Implementation of the treatment '''cannot be deferred''';
+*The drug is "presumed to be innovative" in relation to clinically relevant comparators.
+
+Permission for "early access" may be granted:
+
+*in a ''post-AMM'' situation where the drug is not yet ''reimbursed''; the indication covered by early access may then be ''identical'' or ''more restricted'' than the MA indication;
+*in ''pre-MA''. The company marketing the product then undertakes to apply for marketing authorisation within 2 years of the application for early access. In the pre-authorisation phase, the ANSM is responsible for assessing the benefit-risk balance of the drug in the indication concerned. The HAS assesses and gives its opinion on the early access application in the light of the existing therapeutic strategy.
+
+Authorisation for early access involves "data collection" by the prescriber and the patient under the responsibility of the laboratory. These data enable the HAS to carry out an annual reassessment.
+====Compassionate access====
+Compassionate access''''''''' concerns medicinal products '''not intended to be marketed''' in the indication concerned and for which there is '''no marketing authorisation in progress'''. It is obtained at the request of health professionals, ministers or on the basis of reports and at the initiative of the ANSM. The ANSM assesses and decides on these requests for compassionate access.
+==Off-label prescriptions
+Finally, in rare cases, it is possible to prescribe a medicinal product outside the scope of the marketing authorisation (and outside the scope of early access or compassionate access), but this prescription must be ''exceptional'' and is ''strictly regulated'' in accordance with article L. 5121-12-1 <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044628309</ref> of the Public Health Code. This prescription, which is only possible in the absence of a therapeutic alternative, requires: that it be justified by scientific data, that a ''hors AMM'' mention appears on the prescription and that the patient and the pharmacist, who will dispense the drug, are informed. In this case, the drug is not reimbursed, as it has not been evaluated by the Transparency Commission for this indication.
+
+This regulatory framework for prescribing allows prescribers to use medicines safely.
+==Evaluation of the correct use of medicines===
+Proper use of medicines must also be assessed on an ongoing basis. The French National Authority for Health (HAS) is responsible for this evaluation. It assesses the ''[[Know the meaning of clinical benefit and therapeutic interest indices: medical service rendered (SMR), improvement in medical service rendered (ASMR) OIC-326-03-B|medical service rendered]]''' [The authorities also assess the ''progress made in relation to existing therapeutic strategies'' [ASMR]. The authorities may also issue ''good use guidelines'' for prescribers, with the aim of harmonising practices and ensuring that they comply with the state of the art. They also propose Therapeutic Interest Files for exceptional medicinal products.
+
+L''''optimisation''' du bon usage du médicament repose enfin sur les '''recommandations émises''' par les '''sociétés savantes médicales''' et les '''contrats de bon usage''' établis entre les a'''gences régionales de santé''' (ARS) (OMEDIT : Observatoire du Médicament, des Dispositifs médicaux et de l'Innovation Thérapeutique) and ''health establishments'', as well as tools made available to prescribers to improve practices: support for regional pharmacovigilance centres, risk management plan, public database on medicines, personal medical file and pharmaceutical file, etc.
+
+The ''evaluation'' of the use of medicinal products can be carried out through quantitative or qualitative studies, in particular studies of practices or cohort studies capable of bringing to light signals, in particular of misuse or adverse events, which will make it possible, where appropriate, to propose corrective action such as the modification of documents on the proper use of medicinal products [RCP].
+<references />

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-072-02-A
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=A
+|Title=Know the definition of what somatic symptom disorders and related disorders are not
+|Description=Simulation, factitious disorder, obsession with body dysmorphia, psychological factors affecting other medical conditions.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+SST is neither a psychological reaction to physical symptoms nor a hidden depression.
+
+The terms used are: absence of organic cause = psychiatric origin.
+
+Psychiatric origin :
+
+- For patients: rarely acceptable
+
+- For doctors: risk of simplification and separation of the soma-psyche.
+
+Organic substrate possible, at least in part: symptoms no longer necessarily unexplained.

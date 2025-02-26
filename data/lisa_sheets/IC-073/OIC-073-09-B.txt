@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-073-09-B
+|Item_parent=Different types of psychotherapeutic techniques
+|Item_parent_short=Different types of psychotherapeutic techniques
+|Rank=B
+|Intitle=Knowing the main indications
+|Description=Crossover table: psychotherapy(ies) recommended as first-line treatment by the HAS for the main psychiatric disorders.
+|Rubrique=Management
+|Contributors=Amaury MENGIN
+|Order=9}}
+
+==== Main indications ====
+For all psychotherapy, take into account :
+
+- Patient preference
+
+- Integration into overall care (pharmacotherapy, social care, etc.)
+{| class="wikitable"
+|'''Psychotherapy'''
+|'''Main indications'''
+|'''Other indications and contraindications to be aware of'''
+|-
+|'''Supportive psychotherapy''''
+| colspan="2" |Most psychiatric and non-psychiatric disorders, difficulties adapting to stressful life situations.
+|-
+|Cognitive-behavioural therapy
+|*All psychiatric disorders
+<nowiki>*</nowiki>Sleep disorders
+
+<nowiki>*</nowiki>CCT alone in mild to moderate disorders.
+
+<nowiki>*</nowiki> CBT combined with pharmacotherapy in more severe disorders
+|*Substance use disorders
+<nowiki>*</nowiki>Certain other non-psychiatric disorders (chronic pain)
+|-
+|'''Psychodynamic psychotherapy''''
+|*Anxiety disorders, phobias, somatoform disorders, personality disorders, adjustment disorders, mood disorders
+|*The patient must be a seeker, with good insight and psychic representations adapted to that of psychoanalysis.
+<Severe or decompensated psychotic disorders are therefore a contraindication.
+|-
+|'''Family / systemic therapies''''
+|*Psychiatric disorders associated with maintenance factors related to family interactions.
+<nowiki>*</nowiki>Disorders with family repercussions or requiring family involvement (e.g. child and adolescent) :
+
+        -Eating disorders
+
+        -Substance use disorders
+
+        -Schizophrenic disorders
+
+        -Oppositional Defiant Disorder, Conduct Disorder, ADHD
+| Parenting and family skills training programs
+|-
+|Cognitive remediation
+| colspan="2" |* Cognitive disorders objectivised by a neuropsychological assessment (difficulty memorising information, planning tasks, etc.) with repercussions on daily life, with a concrete functional objective (cf. item 121).
+|-
+|'''Therapeutic education''''
+| colspan="2" |*All chronic disorders (psychiatric or otherwise).
+<nowiki>*</nowiki>Therapeutic education of patients and their relatives
+|}

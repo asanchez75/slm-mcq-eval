@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-024-14-B
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=B
+|Title=Savoir surveiller une HTAg
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=14}}
+
+- enhanced monitoring: self-monitoring of blood pressure, consultation every 10 days or so, regular biological check-up, monthly ultrasound scan
+
+- a "Pregnancy and hypertension" follow-up booklet to optimise the care pathway between the various healthcare professionals involved in follow-up
+
+- at 9 months, the possibility of artificially inducing labour depending on obstetric conditions.

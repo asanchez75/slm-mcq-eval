@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-242-10-A
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=A
+|Title=Knowing the diagnostic criteria for Graves' disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Magalie Haissaguerre,Dr Camille Buffet
+|Order=10}}
+
+
+[Thyroid workup analysis SD-194
+
+[Request for an SD-231 imaging examination
+
+
+The diagnosis of Graves' disease should be clinically evoked when there is an association of '''hyperthyroidism''' with '''orbitopathy''' (SFE 2016 consensus).
+
+In the absence of orbitopathy, it is based in 1st<sup>ère</sup> intention on the '''dosage plasmatique positive anti TSH receptor antibodies'''.
+
+In the event of clinical suspicion of Graves' disease, if the concentration of TSH receptor antibodies is not high or if it is not possible to measure the antibodies in plasma, a thyroid scintigraphy should be performed as a second-line treatment. This shows diffuse and homogeneous hyperfixation of the isotope, characteristic of Graves' disease.
+
+Thyroid ultrasound-doppler can be useful for diagnosis, as a complement to antibody assays or as an alternative to scintigraphy in the case of pregnancy, showing an overall hypoechoic gland with often diffuse hypervascularisation.

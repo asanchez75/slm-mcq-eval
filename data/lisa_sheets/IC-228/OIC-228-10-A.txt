@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-228-10-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Knowing compression and its methods
+|Description=Knowing the different types of compression
+|Rubric=Management
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=10}}
+
+The use of a [https://sides.uness.fr/lisa/Connaitre_les_principes_de_prise_en_charge_th%C3%A9rapeutiques_de_l%E2%80%99insuffisance_veineuse_chronique_2C-227-PC-B01 compression device] is essential in cases of venous insufficiency with or without varicose veins. In cases of post-thrombotic disease, specialist advice should be sought. Compression provides a mechanical means of combating oedema and orthostatic venous hyperpressure. It is the main treatment for venous ulcers.
+
+==Venous ulcers ==
+Compression is based on the use of bandages at the start of treatment, with the use of stockings or socks possible at a later stage. A high level of pressure is required (30-40 mm Hg, French class 3). It is preferable to use a multi-layer, multi-type compression (elastic bands and non-elastic bands) that is reapplied every two days. It is essential to ensure that the SPI is > 0.60.
+
+Adherence ('''''[[Therapeutic Adherence Assessment SD-354|Therapeutic Adherence Assessment]]''''') to compression is around 50%, which explains the difficulties in healing and the recurrence of ulcers.
+
+==Ulcers with an arterial component ==
+The absolute contraindications are critical ischaemia and advanced diabetic microangiopathy.
+
+The use of compression requires confirmation that there is no critical ischaemia and is also contraindicated if the ankle SPI is < 0.60.
+
+Non-elastic compressions to combat oedema are not contraindicated.

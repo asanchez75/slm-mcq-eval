@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-203-12-B
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=B
+|Title=Knowing the indications for radiological examinations for acute and chronic dyspnea
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+[[Writing a request for an imaging examination SD-230|Writing a request for an imaging examination]]
+
+[[Request for an imaging examination SD-231|Request for an imaging examination]]
+
+[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]
+
+Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)
+
+'''Acute dyspnoea:'''
+
+*Chest radiography is systematic. It is used to determine etiology.
+*Other investigations will be discussed on the basis of initial indications.
+**CT angiography, ventilation-perfusion scintigraphy and venous Doppler ultrasound of the lower limbs if pulmonary embolism is suspected (see venous thromboembolism item).
+**Cardiac ultrasound if acute left ventricular failure is suspected (especially in the case of a first episode).
+
+
+Chronic dyspnoea
+
+*Chest X-ray is systematic. It is used to determine etiology (distension, interstitial syndrome, cardiomegaly).
+*Cardiac ultrasound if heart disease is suspected.
+*As a second line of defence, a chest CT scan should be ordered if diffuse infiltrative pathology is suspected.

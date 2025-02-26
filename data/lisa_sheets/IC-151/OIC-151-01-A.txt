@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-151-01-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Know the definition of infectious meningitis and meningoencephalitis in adults and paediatrics, and brain abscess.
+|Description=None
+|Rubric=Definition
+|Contributors=Dr Olivier Robineau
+|Order=1}}
+Meningitis'' is an inflammation of the meninges, in most cases of infectious origin.
+
+Infectious meningoencephalitis is an inflammation of the meninges and brain.
+
+Bacteria, viruses and, more rarely, fungi or parasites can cause meningitis and meningoencephalitis.
+
+The infectious origin of encephalitis without associated meningitis is rare.
+
+A ''cerebral abscess'' is a collection of pus in the cerebral parenchyma. It may not be associated with meningitis.

@@ -1,0 +1,106 @@
+{{knowledge objective
+|Identifiant=OIC-310-04-B
+|Item_parent=Prostate tumours
+|Item_parent_short=Prostate tumours
+|Rank=B
+|Title=Knowing how prostate cancer spreads
+|Description=Know how prostate cancer spreads locally, the main lymphatic routes and sites of metastatic dissemination.
+|Rubric=Physiopathology
+|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU
+|Order=4}}
+
+<br />
+
+*In most cases, prostate cancer is localised (limited to the prostate). When the tumour grows locally, it may cross the capsule and reach the seminal vesicles and adjacent organs (rectum, bladder neck, external sphincter, pelvic wall).
+
+*Lymphatic extension is to the pelvic regional lymph nodes (iliac) and then to distant non-regional lymph nodes (lumbo-aortic).
+*The main site of non-node metastasis is bone, but the tumour can also spread to the lung and liver.
+
+
+
+Extension assessment of localised/locally advanced prostate cancer depends on the [[OIC-310-07-B|d'Amico prognostic group]] (CC-AFU 2022-2024) (OIC-310-07-B):
+
+-Low risk: pelvic MRI
+
+-Intermediate risk: pelvic MRI + bone scan with SPECT/CT (if ISUP: 3, 4 or 5)
+
+-High risk: pelvic MRI + bone scan with SPECT/CT + thoraco-abdominopelvic CT scan
+
+For all 3 groups, prostate MRI is requested for local extension (capsule, seminal vesicles) if it has not been performed prior to biopsies.
+
+Extension work-up for metastatic prostate cancer includes: bone scan and thoraco-abdomino-pelvic CT scan. In metastatic prostate cancer, pelvic MRI is optional.
+
+
+'''TNM classification (2018)''' - for information
+{| class="wikitable"
+| rowspan="5" |T
+
+Primary tumour
+|T0: primary tumour not found
+|-
+|T1: tumour not palpable on digital rectal examination (DRE) or visible on imaging
+
+*T1a: tumour occupying less than 5% of resected tissue with an ISUP score of 1 or absence of grade 4 or 5.
+*T1b: tumour occupying more than 5% of resected tissue or ISUP score ≥ 2 or presence of grade 4 or 5.
+*T1c: tumour discovered on prostate biopsy due to an elevated PSA value.
+|-
+|T2: tumour confined to the prostate
+
+*T2a: tumour affecting half a lobe or less
+*T2b: tumour affecting more than half a lobe but not both lobes.
+
+*T2c: tumour affecting both lobes
+|-
+|T3: extension beyond the prostate gland
+
+*T3a: uni- or bilateral extra-prostatic extension
+*T3b: extension to the seminal vesicles uni- or bilaterally
+|-
+|T4: tumour fixed or involving structures other than the seminal vesicles (external sphincter, rectum, anus lift muscle or pelvic wall).
+|-
+| rowspan="4" |N
+
+Regional lymph nodes
+|Nx : regional lymph nodes not evaluated
+|-
+|N0: no regional lymph node metastasis
+|-
+|N1: regional lymph node involvement
+|-
+|N1 mi: lymph node metastasis ≤ 0.2 cm (optional)
+|-
+| rowspan="3" |M
+
+Distant metastases <br />
+|Mx: distant metastases not assessed
+|-
+|M0: no distant metastases
+|-
+|M1: distant metastases
+
+*M1a: non-regional lymph node involvement
+*M1b: bone involvement
+
+M1c: other sites with or without bone involvement
+|}
+[[File:NOU05.png|neant|thumb|'''Diagram: Sagittal section of the prostate and neighbouring organs''']]
+
+
+[[File:NOU02.png|neant|vignette|''Diagram: Local and regional extension of the prostate'']]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+<br />

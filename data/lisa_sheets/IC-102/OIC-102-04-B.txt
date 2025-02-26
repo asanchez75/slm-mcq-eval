@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-102-04-B
+|Item_parent=Diplopia
+|Item_parent_short=Diplopia
+|Rank=B
+|Title=Knowing the definition of ductions and vergences
+|Description=abduction, adduction, convergence, divergence
+|Topic=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Ductions''': monocular movements. Examination of the ductions enables ocular motility to be explored in the different gaze positions of each eye separately.
+
+           - '''Abduction''': movement of the eye outwards (away from the eye)
+
+           - '''Adduction''': inward movement of the eye
+
+'''Versions''': bilateral, combined eye movements of both eyes. Examination of the versions enables us to explore ocular motility in the different gaze positions, with the eyes moving in the same direction together.
+
+'''Vergences:''' term designating eye movements of the two eyes in opposite directions. This is essentially the '''convergence''' for near vision (inward movement of the two eyes). In contrast, ''divergence'' refers to the outward movement of the two eyes.

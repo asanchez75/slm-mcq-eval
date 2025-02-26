@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-093-16-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Knowing the differential diagnosis of cauda equina syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=16}}
+
+== Slow spinal cord compression and spinal cord end-cone syndrome: ==
+{| class="wikitable"
+|+
+!
+Spinal cord compression
+Terminal cone
+Ponytail
+|-
+|Spinal syndrome
+|Yes
+|Yes
+|Yes
+|-
+|Lesion syndrome
+|Yes
+|Mainly L1 spinal root involvement, abolition of cremasteric reflex
+|Yes
+
+Polyradicular disease L2 to S5
+|-
+|Sublesional syndrome
+|Yes
+|Yes (Babinski)
+|No +++
+
+Polyradicular disease L2 to S5
+|-
+|Neurological bladder
+|Central
+|Variable symptoms, central or peripheral
+|Peripheral
+|}
+
+==Amyotrophic lateral sclerosis (ALS, Charcot's disease) :==
+
+*Peripheral AND central motor impairment
+*NO radicular pain
+*Normal MRI
+*ENMG +++
+
+==Polyradiculoneuritis/Gillain-Barré syndrome:==
+
+*Progressive and INCREASING extension of disorders
+*normal MRI
+*PL +++ with cerebrospinal fluid analysis (lcs) SD-183|albuminocyte dissociation
+*ENMG +++

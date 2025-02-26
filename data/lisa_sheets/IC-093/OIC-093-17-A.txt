@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-093-17-A
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=A
+|Title=Knowing how to identify emergency situations in the presence of cauda equina syndrome
+|Description=None
+|Rubric=Emergency identification
+|Contributors=
+|Order=17}}
+
+* Diagnostic and therapeutic urgency: any delay in treatment compromises the functional prognosis.
+* The degree of urgency depends on the kinetics of the onset of symptoms: the more rapid the worsening, the more rapid the treatment.
+* As a general rule :
+** Acute course: malignant vertebroepidural tumour, infectious epiduritis, epidural haematoma, herniated disc excluded.
+** Slower evolution: benign intradural tumour (meningioma, neuroma).

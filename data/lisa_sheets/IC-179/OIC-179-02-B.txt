@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-179-02-B
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=B
+|Title=Knowing food-borne parasites
+|Description=toxoplasmosis, taeniasis, trichinellosis, anisakidosis
+|Rubric=Etiologies
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Ordre=2}}
+'''<u>[[Know the parasitoses transmitted by drinking water|Toxoplasmosis (Cf)]]</u>''''
+
+'''<u>Taeniasis</u>''''
+
+Taeniasis is a cestodosis (cosmopolitan for "Taenia saginata" and tropical for "Taenia solium"). These flatworms release rings containing eggs in patients' faeces. Humans become infected by ingesting eggs (faeco-oral transmission) or larvae contained in undercooked or uncooked meat from intermediate hosts (beef for "T.saginata" and pork for "T.solium").
+
+Ingestion of T. solium eggs leads to cysticercosis (migration of cysticerci into tissues, the neurological form of which is serious), and ingestion of larvae to adult tapeworms in the digestive tract.
+
+'''<u>Trichinellosis</u>''''
+
+Trichinellosis is a cosmopolitan zoonosis, and humans are accidental hosts. Humans become infected by eating raw or undercooked meat contaminated with encysted larvae. Once ingested, the larvae travel to the striated muscles. Clinical symptoms typically take the form of febrile polymyositis and facial oedema. The course can be serious (fatal) in the early phase of larval dissemination.
+
+'''<u>Anisakidosis</u>''''
+
+Anisakiasis is a zoonosis of the cold seas. Humans are accidental hosts, contracting the disease by ingesting raw, marinated or undercooked fish infested with larvae. The symptoms are digestive, with gastralgia, nausea and vomiting soon after the infested meal. Intestinal or generalised allergic reactions are sometimes observed (and sometimes anaphylactic shock).

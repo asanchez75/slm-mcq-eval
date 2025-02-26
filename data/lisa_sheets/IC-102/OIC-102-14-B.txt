@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-102-14-B
+|Item_parent=Diplopia
+|Item_parent_short=Diplopia
+|Rank=B
+|Title=Be able to identify the main associated signs of etiological value in diplopia
+|Description=V territory eruption (ophthalmic shingles, exophthalmos (Basedow, tumour fistula), neurological damage (MS, PRN, stroke), fracture of the floor of the orbit).
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+In the case of recent diplopia, a neurological examination and cerebral imaging are the first line of investigation.
+
+'''The main associated signs to look for''' are:
+
+- during questioning:
+
+- the patient's background: age, ocular and general history, diabetes, arterial hypertension, metabolic or endocrine disease (particularly thyroid disease), history of neoplasia;
+
+- circumstances of onset: trauma, physical exertion, reading or fatigue;
+
+- mode of onset: sudden or gradual ;
+
+- associated symptoms: pain, dizziness, headaches, nausea ;
+
+- the characteristics of the diplopia: horizontal, vertical, oblique, as well as the gaze position in which the diplopia is maximal and its variations during the day
+
+- inspection:
+
+* a vicious or compensatory attitude of the head,
+* a palpebral anomaly (ptosis, palpebral retraction)
+* anisocoria
+* an abnormality of the direct or consensual photomotor reflex
+* skin abnormality (rash in the V territory)
+* exophthalmos
+
+- associated neurological signs
+
+
+'''Main etiologies:''''
+
+'''Vascular:'''
+
+- Intracranial aneurysm (+++, posterior communicating aneurysm), particularly in young patients with Ill's paralysis associated with pupillary signs and pain. Urgent neuroradiological investigation.
+
+- Ischaemic and haemorrhagic vascular accidents
+
+- Carotidocavernous fistula
+
+'''Tumours:''' the cause of a quarter of oculomotor paralyses. Systematically request neuroradiological investigations.
+
+- intracranial hypertension: bilateral VI paralysis with no localising value
+
+- skull base tumours
+
+'''Traumatic''': fracture of the floor of the orbit
+
+'''Multiple sclerosis:''' revealed by oculomotor paralysis in 10% of cases.
+
+- VI paralysis
+
+- anterior internuclear palsy
+
+'''Myasthenia:''' non-painful diplopia, fluctuating, worsening with fatigue, sometimes associated with variable ptosis.
+
+Orbital involvement: Graves' disease, tumours of the orbit. Particularly if associated exophthalmos.   
+
+'''If pain:''' rule out an intracranial aneurysm, carotid dissection or carotid-cavernous fistula. Diabetes is the most common cause of painful diplopia. Horton's disease presents in elderly patients with fronto-orbital headaches ± POM, ± NOIA.

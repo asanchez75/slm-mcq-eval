@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-168-02-B
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=B
+|Title=Know the main epidemiological data on HSV and VZV infections
+|Description=Frequency, contagiousness, age of onset
+|Section=Epidemiology
+|Contributors=
+|Order=2}}
+HSV : HSV2 is a sexually transmitted infection (STI), 15 to 20% prevalence in the adult population, 90% in sex workers and people infected with HIV.
+
+HSV1 infection occurs in childhood, most often between the ages of 1 and 4 (80% of children and 90% of adults are seropositive).
+
+VZV: 90% of infections occur between the ages of 1 and 14; severe in adults, pregnant women and immunocompromised patients, clinical reactivation in 20% of the population.

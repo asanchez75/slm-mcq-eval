@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-286-04-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Title=Know the elements of questioning and clinical examination that help to determine the mechanism of diarrhoea.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Acute diarrhoea is a symptom common to several distinct mechanisms/causes, which need to be identified. The 2 main mechanisms are: 1- invasion of the mucosa by the pathogenic germ (entero-invasive mechanism) and 2- an enterotoxin which stimulates intestinal secretion (liquid diarrhoea).
+
+- Brief diarrhoea, often lasting less than 24 hours, is common. It occurs in isolation, without general signs or dehydration, and resolves spontaneously. It requires no investigation. It typically occurs in the context of stress or dietary imbalances.
+
+- Viral gastroenteritis (rotavirus, astrovirus, adenovirus, etc.) tends to occur in a seasonal or epidemic context and is often accompanied by nausea and vomiting, sometimes with fever or skin rashes.
+
+- Diarrhoea can have a bacterial origin caused by an entero-invasive germ often responsible for a dysenteric syndrome (''Salmonella'', ''Shigella'', ''Campylobacter'', ''Yersinia'', entero-invasive ''Escherichia coli''), or by a toxigenic germ (enterotoxigenic Escherichia coli, Staphylococcus aureus, Clostridium difficile (a new nomenclature for the old Clostridium difficile, which is still widely used in medicine). However, this classification is simplified. Enterohaemorrhagic E. coli or STEC (shigatoxin-producing E. coli), which can complicate HUS (haemolytic uraemic syndrome), are ischaemic toxinogens and cause dysenteric syndrome. Similarly, Cl. difficile infections have a toxinogenic (watery, secretory diarrhoea) and invasive (sometimes haemorrhagic diarrhoea associated with colitis (at most pseudomembranous colitis)) mechanism.
+
+It is important to know how to identify a possible collective food poisoning outbreak (CFTI) by asking the patient(s) about possible cases with similar symptoms (at least two cases), close in time and whose cause can be traced back to the same food source. In such cases, a report must be made to the Agence Régionale de Santé (Regional Health Agency), so that an epidemiological investigation can be launched to identify potential cases, as well as a sanitary investigation (hygiene checks on the establishment suspected of being responsible).
+
+- Parasites can cause acute diarrhoea during stays in endemic areas, for example amoebosis (protozoa Entamoeba histolytica). In traveller's diarrhoea, which generally occurs during the stay, the germ responsible is usually an enterotoxigenic "Escherichia coli", or more rarely a "Shigella dysenteriae". Giardiasis (Giardia lamblia), on the other hand, occurs worldwide, including in industrialised countries, although it is more common in hot, humid regions.
+
+- Many drugs (over 700) can be responsible for acute diarrhoea. The recent introduction of a treatment should be sought. Antibiotics are frequently implicated, through several possible mechanisms. Chemotherapy agents also frequently cause diarrhoea.
+
+- Finally, acute diarrhoea may reveal a pathology responsible for damage to the digestive mucosa, such as chronic inflammatory bowel disease (IBD), post-radiation damage, colitis or ischaemic enterocolitis. In these situations, symptoms may begin abruptly and the diagnosis may be made quickly, but these are chronic conditions and do not strictly speaking fall within the spectrum of acute diarrhoea (<14 days).

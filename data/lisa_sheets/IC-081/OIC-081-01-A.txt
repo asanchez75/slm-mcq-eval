@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-081-01-A
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=A
+|Title=Know the main etiologies of chronic visual impairment
+|Description=interrogatory and clinical examination
+|Rubric=Etiologies
+|Contributors=
+|Order=1}}
+'''Causes of long-term progressive loss of visual acuity:'''
+
+- <u>Cataract</u> (nuclear, cortical or posterior subcapsular)
+
+- <u>Evolved open-angle glaucoma</u> (diagnostic triad: elevated ocular tone + visual field alterations + glaucomatous excavation of the papilla) '''(often bilateral)''''
+
+- <u>Hereditary retinal dystrophies:</u> '''(bilateral)'''
+
+*Hereditary maculopathies: Stargart's disease (the most common), Best's disease, cone dystrophy, etc.
+*Hereditary peripheral retinal dystrophies: pigmentary retinopathies (night blindness, osteoblasts in the fundus).
+
+- <u>Syndromes known as "vitreomacular interface":</u> '''(often unilateral)''''
+
+*Epimacular membranes
+*Macular holes
+
+- <u>Age-related macular degeneration:</u> '''(often bilateral but asymmetric)'''
+
+*Early stage (drusen)
+*Atrophic forms
+*Exudative forms (macular choroidal neovessels)
+
+- <u>Macular edema:</u>
+
+*Diabetic maculopathy '''<u>(often bilateral)</u>''''
+*Central retinal vein occlusion '''<u>(usually unilateral)</u>''''
+*Post cataract surgery (Irvine-Gass syndrome, 3% of cases).
+*Uveitis (posterior, more rarely anterior when chronic)
+*Choroidal and intra-retinal neovessels (main cause: exudative AMD)
+
+- <u>Toxic maculopathies:</u> '''(often bilateral)'''
+
+*Maculopathy to synthetic antimalarials
+*Maculopathy to MEK inhibitors
+*Maculopathy to alkyl nitrite ("poppers")
+
+
+'''Visual field alterations'''
+
+- <u>Visual field impairment due to retinal damage:</u>
+
+*Central or paracentral scotomas, very often associated with reduced visual acuity (e.g. AMD)
+*Peripheral visual field deficits (e.g. rhegmatogenous retinal detachment, retinopathy pigmentosa)
+
+
+- <u>Alteration of the visual field due to damage to the optic pathways:</u>
+
+*Optic nerve damage:
+**Retrobulbar optic neuritis in multiple sclerosis '''(often unilateral)''''
+**Anterior ischaemic optic neuropathy '''(often unilateral)'''
+**Toxic and metabolic optic neuropathies '''(usually bilateral)''': ethylic, medicinal (ethambutol), occupational (lead), metabolic (diabetes).
+**Tumoral optic neuropathy: intra-orbital tumours (optic nerve glioma, optic nerve sheath meningioma), tumours of the anterior skull (sphenoid meningioma, etc).
+
+<br />
+
+*Lesions of the optic chiasm causing bitemporal hemianopia.
+**Main cause: pituitary adenomas (progressive chiasmatic syndrome beginning with superior bitemporal hemianopia).
+**Other causes in adults: saddle tuber meningioma, internal carotid aneurysm, craniopharyngioma.
+**Other causes in children: glioma of the chiasma, which often occurs as part of Recklinghausen's disease, craniopharyngioma.
+
+<br />
+
+*Retrochiasmatic lesions of any aetiology:
+**vascular (stroke, compressive haematoma): homonymous lateral hemianopsia or quadranopsia of abrupt onset
+**tumour: hemianopia or homonymous lateral quadranopsia of progressive onset
+**traumatic: homonymous lateral hemianopia or quadranopia contemporaneous with the trauma.
+
+<br />
+
+*Cortical blindness (most frequent cause: stroke in the vertebrobasilar territory)
+
+
+''Note: whether the condition is uni- or bilateral (often asymmetric) is indicated in brackets when the condition is predominantly uni- or bilateral''.

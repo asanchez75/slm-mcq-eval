@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-004-30-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the prevalence of HCAIs and the prevalence of the main HCAIs.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=30}}
+Prevalence in France (National Prevalence Survey 2017): 5%, i.e. 1 in 20 patients hospitalised on a given day.
+
+
+The four most frequent HCAI sites are :
+
+- Urinary 30%
+
+- 15% surgical site
+
+- Pneumopathy 15% of cases
+
+- Bacteremia 10% of cases

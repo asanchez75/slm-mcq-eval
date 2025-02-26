@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-107-04-A
+|Item_parent=Anomalous movements
+|Item_parent_short=Anomalous movements
+|Rank=A
+|Title=Recognising the main abnormal movements on typical video cases
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=4}}
+Please refer to the CEN website where videos are available:
+
+https://www.cen-neurologie.fr/videotheque

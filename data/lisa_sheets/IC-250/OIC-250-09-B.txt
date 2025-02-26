@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-250-09-B
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=B
+|Title=Knowing the principles of oral supplementation, enteral and parenteral nutrition
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+According to the SFNCM Nutritional Care Decision Tree, the principles of management (PEC) of a malnourished patient depend on :
+
+1) Severity of undernutrition
+
+2) The importance of reducing food intake
+
+3) Functionality of the digestive tract
+
+4) Presence of consciousness or swallowing disorders (oral ECP)
+
+
+If possible, the cause of undernutrition should be treated
+<br />
+[File:Abre décisionnel SFNCM.pdf|vignette]]
+SFNCM decision tree for nutritional care.
+<br />
+
+=== ''Adapting and supplementing oral nutrition'' ===
+Diet adaptation can be implemented by :
+
+- Adapting the texture of food/drinks (small pieces, chopped, blended, etc.) in the event of oral or swallowing problems
+
+- Taking into account food likes and dislikes
+
+- enrich the diet by adding fats, carbohydrates and proteins.
+
+- Split the diet by interspersing snacks between the main meals and/or prescribing oral nutritional supplements (ONS) between meals and in the evening to reduce night-time fasting.
+
+
+NOCs are not intended to replace meals, but to complement them.
+
+- Prescribe and administer at mealtimes, no more than two units a day.
+
+- Varying flavours and textures to suit patients' tastes
+
+
+Enteral nutrition
+
+This involves administering a complete, gluten-free nutritional mixture (proteins, carbohydrates, lipids, minerals, vitamins and trace elements) directly into the digestive tract (stomach or small intestine) via a medical device (probe or stoma).
+
+NE is most often performed at the gastric site, with the jejunal site generally reserved for cases where the gastric site approach is contraindicated, impossible or unsuccessful (refractory GERD with risk of inhalation, extensive partial or total gastrectomy, stomach cancer, duodenal stenosis, etc.).
+
+=== ''Parenteral nutrition'' ===
+Parenteral nutrition (PN) involves the intravenous infusion via a venous line (usually central) of a nutrient mixture specially designed for infusion.
+
+These nutrient solutions are packaged in compartmentalised bags, which can be reconstituted extemporaneously in a sterile manner before administration. They usually contain amino acids, glucose and lipids with or without electrolytes, but no micronutrients. It is therefore essential to systematically prescribe a daily mixture containing poly-vitamins and a mixture of trace elements.

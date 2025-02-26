@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-044-02-A
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Awareness of other causes of pelvic swelling
+|Description=Tubal, digestive, peritoneal
+|Rubric=Etiologies
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=2}}
+
+'''Other causes of pelvic swelling (apart from uterine fibroids and ovarian cysts):'''
+
+- Advanced pregnancy
+
+- Benign tumour of the uterus (adenomyosis)
+
+- Malignant tumour of the uterus (endometrial cancer, sarcoma)
+
+- Benign adnexal tumour (hydrosalpinx, haematosalpinx, pyosalpinx, endometriosis)
+
+- Adnexal malignancy (cancer of the ovary or fallopian tube)
+
+- Benign or malignant tumour of the colon
+
+- Retroperitoneal tumour (sarcoma, urological cancer, arterial aneurysm)
+
+- Peritoneal carcinosis, ascites

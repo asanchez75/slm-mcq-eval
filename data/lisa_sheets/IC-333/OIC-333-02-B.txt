@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-333-02-B
+|Item_parent=Exceptional situations
+|Item_parent_short=Exceptional situations
+|Rank=B
+|Title=Knowing the principles of medical organisation in the face of an HSE and an influx of victims
+|Description=ORSAN/ORSEC and their variations
+|Rubric=Taking charge
+|Contributors=
+|Order=2}}
+
+
+*[[File:Figure 1 Déclenchement d'un plan ORSEC NOVI.jpg|vignette|Figure 1 Déclenchement d'un plan ORSEC NOVI]]''Outside the hospital:'''
+
+Prehospital organisation is carried out according to the guidelines of the '''ORSEC NOVI plan''' (<u>OR</u>organisation of the <u>R</u>response of <u>SE</u>curity <u>C</u>ivile for <u>NO</u>many <u>VI</u>victims) (Figure 1). This plan is built around a hierarchical chain as defined in the figure below:
+
+The disaster area is protected.
+
+Victims are ''taken by specialist first-aiders to a casualty collection point (PRV) or directly to the advanced medical post́ (PMA)'', after prior decontamination in the event of a nuclear, radiological, biological or chemical event.
+
+At the PMA, these victims are categorised into levels of prioritý and are directed within the PMA on the basis of this sorting.
+
+The care essential to their survival is provided by medical teams, before they are rapidly evacuated to hospitals capable of receiving them. Victims are directed to these hospitals by the SAMU regulating doctor.
+
+*'''Inside the hospital:''''
+
+In-hospital organisation is based on the guidelines of the ORSAN scheme (Health System Response Organisation): ORSAN-AMAVI'' for a mass influx of victims, ORSAN-CLIM'' in the event of a major climatic event (heatwave or intense cold), ORSAN- EPI-VAC'' in the event of an epidemic, ORSAN-BIO'' in the event of a biological event and ORSAN-NRC'' in the event of a nuclear, radiological or chemical event. 
+
+The ''white plan'' is triggered by the ''hospital director'' in case of need. This white plan allows the hospital to be reorganised to manage the crisis, while maintaining its normal emergency activities. It is managed by a ''crisis unit'' under the responsibility of the hospital director, assisted by the ''crisis medical director'' (CMD). The CMD defines and coordinates the medical strategy for treating victims.

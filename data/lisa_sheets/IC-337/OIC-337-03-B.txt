@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-337-03-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing the epidemiology of the main acute intoxications in children and adults
+|Description=In France, adults and children
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 1.jpg
+</gallery>

@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-334-14-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to diagnose a burn and the burned surface
+|Description=Wallace's rule of nines, palm of patient's hand
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=14}}
+The assessment of a burn is based on 2 main criteria: the burned skin surface area (BSA) and the degree of burn, i.e. its depth.
+
+''Surface area'': The injured person must be completely undressed (except for clothing adhering to the skin) and examined from head to toe in order to fully assess the burned skin surface area (BSA). It is assessed by :
+
+*Wallace's "9" rule in adults ("figure 9"); in children under 1 year old, the head is larger (18%) and the lower limb smaller (14%). This is the easiest method to remember and use;
+*the standardised Lund and Browder method for adults and children (''figure 9''): this method is recommended by the French learned societies in 2019.
+*Considering that the palmar surface of an individual's hand (palm and fingers) represents approximately 1% of their body surface area is accepted, even if it exposes them to a significant risk of error due to variations in sex, age or BMI. It also allows lesions to be assessed as a geographical map or mosaic.
+
+'''Depth''': accurately distinguishing the superficial 2<sup>th</sup> degree (more or less complete lesion of the basal membrane) from the deep 2nd degree is difficult before D7. In fact, the initial assessment of the depth of a burn should only distinguish between the 1st degree, which is negligible, and the 2nd and 3rd degrees, which require hospitalisation in a specialised centre. The discriminating signs are:
+
+* 1<sup>er</sup> degree is only a painful erythema ;
+* phlyctenes and epidermal detachment are present in the 2nd degree but absent in the 1<sup>er</sup> and 3<sup>ème</sup> degree ;
+* discolouration on in vitro pressure disappears in the 3<sup>rd</sup> degree ;
+* skin burnt in the 3<sup>th</sup> degree is atonic, dry, cardboardy, insensitive and painless and the phanera (hair, nails) no longer adhere.
+
+[[File:Item 334 Figure 9 Standardised scales for assessing burned skin surface.jpg|vignette|Figure 9. Standardised scales for assessing burned skin surface]]'''Characteristics of different burn depths.''''
+{| class="wikitable"
+|'''Depth'''
+|'''Clinical description'''
+|'''Evolution /cicatrisation'''
+|-
+|'''1st degree'''
+|
+* Painful erythema
+* Exclusively "intra-epidermal" involvement
+|Spontaneous without scarring in 2-3 days after desquamation
+|-
+|'''2nd degree superficial'''
+|
+* Voluminous phlyctenes due to exudation with red underlying dermis.
+* Very painful lesion, haemorrhagic on scarification
+* Supple skin
+* Papillary dermis coating
+|Spontaneous without scarring in 10 to 15 days, dyschromia possible
+|-
+|'''2nd degree deep'''
+|
+* Inconsistent thin-walled phlyctenes, with whitish dermis and red staining, painful, some whitish areas with little haemorrhage on scarification.
+* Partial anaesthesia
+* Loss of elasticity
+* Adherent skin
+* Destruction of papillary and reticular dermis.
+|''Random and slow with persistent scars'' in 21 to 35 days, surgical treatment very often necessary
+|-
+|'''3rd degree'''
+|
+* Colour varies according to the vulnating agent (white, brown, black), dry, cardboardy, not painful, not haemorrhagic when scarified.
+* No blanching on in vitro pressure
+* Thermo-algesic anaesthesia, sensitivity of the lesion periphery
+* Non-adherent skin
+* Complete destruction of the dermis
+|''Impossible spontaneously,'' compulsory surgical treatment
+|-
+|'''4th degree (carbonisation)'''
+|
+* Thrombosed superficial vessels
+* ''Underlying aponeurotic, muscular, ligamentary or bony destruction''
+|''Impossible spontaneously,'' surgical treatment and reconstruction mandatory
+|}
+<br />

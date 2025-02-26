@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-036-16-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Awareness of potential drug interactions
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Geneviève Plu-Bureau
+|Order=16}}
+
+
+=== '''Decreased contraceptive efficacy''' ===
+
+==== Strong inducers such as
+- Antiepileptics (phenobarbital, primidone, phenytoines, carbamazepine, felbamate, topiramate (dose > 200 mg/day), rufinadine, oxcarbazepine, primidone)
+
+- Antiretrovirals (efavirenz, etravirine, lopinavir, nelfinavir, neviparin, ritonavir)
+
+- Certain antibiotics (Rifampicin)
+
+- Antidepressant (St John's wort)
+
+- Vasodilator (bosentan)
+
+==== Weak inducers such as ====
+- Antifungal (griseofulvin)
+
+- Psychostimulant (modafinil)
+
+- Sedative (meprobamate)
+
+- Antiemetic (aprepitant)
+
+=== '''Decreased pharmacological effect''' ===
+(risk of renewed epileptic seizures)
+
+- Lamotrigine.

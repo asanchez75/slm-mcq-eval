@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-094-07-A
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=A
+|Title=Knowing the arguments in favour of secondary spinal pain leading to complementary examinations (MRI)
+|Description=List of red flags and action to be taken
+|Rubric=Identification of the emergency
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=7}}
+
+'''DRAPEAUX ROUGES = signes d'alarme à rechercher systématiquement''' ''(HAS mars 2019)'' '' → Orientent vers une rachialgie secondaire = examens complémentaires'' (IRM rachidienne du segment concerné, radiographies du rachis lombaire F + P + bassin F ou rachis dorsal F + P ou rachis cervical F + P + 3/4 D et G, NFS, CRP ± VS ± examens spécifiques)
+
+<br />
+
+* Non-mechanical pain'': progressively worsening pain, present at rest and particularly at night.
+
+'''→''' search for inflammatory disease, neoplasia, infection = inflammatory workup, imaging... '''[[Acute or chronic inflammatory syndrome SDD-186|acute or chronic inflammatory syndrome]]''''
+
+* '''Extensive neurological symptoms'' (deficits in bladder or anal sphincter control, motor impairment in the legs, ponytail syndrome) ''[[Micturition abnormality SDD-023|micturition abnormality]], [[Acute retention of urine SDD-097|acute retention of urine]], [[Sexual disorders and erectile dysfunction SDD-063|sexual disorders and erectile dysfunction]], [[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]]'''
+
+'''→'''' Emergency spinal MRI.
+[[File:HD MRI section.png|vignette|'''''IRM of lumbar spine: right L5-S1 disc herniation being excluded'''''|alt=]][[File:HD MRI profile.png|vignette|'''''IRM of lumbar spine: right L5-S1 disc herniation being excluded'''''|alt=|new]]
+
+
+* Paraesthesia of the pubis (or perineum)
+
+* '''Major trauma'''' '''([[Spinal trauma SDD-175|spinal trauma]], [[Elderly fall SDD-027|elderly fall]])''''
+
+'''→'''' search for fracture = imaging
+
+* Unexplained ''weight loss'', ''altered general condition'', history of ''cancer'', presence of a ''febrile syndrome''. ''[[Hyperthermia/fever SDD-044|(hyperthermia/fever)]]''' presence of a '''febrile syndrome'' ''[[Hyperthermia/fever SDD-044|(hyperthermia/fever)]'''
+
+'''→'''' search for neoplasia, infection (tuberculosis) = biology and imaging
+
+* Intravenous drug use or prolonged use of corticosteroids (e.g. asthma therapy), immunosuppression.
+
+'''→'''' search for infection = biology and imaging
+
+* '''Significant structural deformity'' of the spine '''[[Spinal deformity SDD-065|(spinal deformity)]]''''
+
+'''→'''' X-rays, MRI
+
+* '''Thoracic pain (back pain)'''
+
+'''→'''' suspect in itself of a secondary origin, of thoraco-abdominal origin = aortic aneurysm, pulmonary pathology....
+
+* '''Age of onset < 20 years or > 55 years'''
+
+'''→'''' research brittle osteopathy, tumour, inflammatory disease = biology and imaging<br />.

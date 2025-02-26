@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-154-17-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Knowing the main areas at risk of pneumonia and the principles of vaccine prevention
+|Description=Indications for pneumococcal and influenza vaccines
+|Rubric=Prevention
+|Contributors=
+|Order=17}}
+'''Indications for pneumococcal vaccination''' :
+
+* Children < 2 years
+* Adults at high risk of pneumococcal infection:
+** Organic or functional asplenia,
+** Hereditary immune deficiencies,
+** HIV infection,
+** Cancer chemotherapy,
+** Solid organ or haematopoietic cell transplants (including patients awaiting transplants),
+** Immunosuppressive therapy,
+** Nephrotic syndrome.
+* Adults at risk of invasive pneumococcal infection:
+** Heart failure, cyanogenic congenital heart disease,
+** Chronic respiratory insufficiency, COPD, severe asthma,
+** Renal insufficiency,
+** Chronic liver disease,
+** Diabetes under treatment,
+** History of osteo-meningeal breach, cochlear implants.
+
+
+'''Flu vaccination recommendations:'''
+
+* Adults > 65 years old
+* Health professionals
+* Flight attendants; guides; group travellers
+* Pregnant women (full term)
+Adults and children > 6 months if:'' ** Chronic respiratory pathology
+** Chronic respiratory disease
+** Chronic heart disease
+** Cerebro-vascular disease
+** Neuromuscular diseases
+** Chronic kidney disease
+** Chronic liver disease
+** Primary or acquired immune deficiencies (including immunosuppressive treatments and anti-cancer chemotherapies)
+** Obesity with a BMI > 40 kg/m<sup>2</sup>.
+** Residents of follow-up care or medico-social establishments
+** People with immunodeficiency
+** In the company of infants < 6 months suffering from :
+*** Chronic lung disease
+*** Chronic heart disease
+*** Neurological or neuromuscular pathology
+*** Congenital immunodeficiency
+*** Long-term illness.

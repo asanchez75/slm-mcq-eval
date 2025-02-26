@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-301-12-A
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=A
+|Title=Know the different stages of clinical examination
+|Description=Describe the different stages of clinical examination
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+- Examination of the abdomen for :
+
+§ ascites (dullness of the flanks)
+
+§ a palpable colonic mass (most often in the cecum),
+
+§ nodular hard hepatomegaly (metastases),
+
+§ parietal nodules of peritoneal carcinosis.
+
+- Rectal examination for tumours of the rectum to assess its location in relation to the anal sphincter, but also for tumours of the colon to look for nodules or pelvic shielding in favour of carcinosis.
+
+- Palpation of lymph nodes (supra-clavicular, inguinal in the case of tumours of the very lower rectum).
+
+- Assessment of nutritional status (weight, height, weight loss over the last 6 months), HAS 2019 recommendation: <nowiki>https://www.has-sante.fr/upload/docs/application/pdf/2019-11/fiche_outil_diagnostic_denutrition.pdf</nowiki>
+
+- On clinical examination, the search for other associated pathologies (co-morbidities)

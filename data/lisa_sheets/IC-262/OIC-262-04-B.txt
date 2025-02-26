@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-262-04-B
+|Item_parent=Interstitial nephropathy
+|Item_parent_short=Interstitial nephropathy
+|Rank=B
+|Title=Know the main causes of urological, drug-induced and metabolic CIN
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Dany Anglicheau
+|Order=4}}
+
+The main causes of urological chronic interstitial nephropathy are :
+
+*Obstructive or malformative pathologies;
+*Vesico-ureteral reflux (sometimes complicated by glomerular lesions of segmental and focal hyalinosis);
+*Lithiasis;
+*Urinary tract infection plays an important role in the development of chronic interstitial nephropathy of urological origin.
+
+
+The main causes of drug-induced chronic interstitial nephropathy are :
+
+*Analgesics, non-steroidal anti-inflammatory drugs, long-term aspirin;
+*Lithium;
+*Antineoplastics (cisplatin++);
+*Calcineurin inhibitors.
+
+
+The main causes of chronic metabolic interstitial nephropathy are :
+
+*Nephrocalcinosis (chronic hypercalcaemia);
+*Chronic hypokalaemia;
+*Hyperuricaemia.
+
+
+Other, rarer causes include :
+
+*Toxic causes:
+**Lead ;
+**Cadmium ;
+**Radiation;
+**Chinese grass/endemic nephropathy in the Balkans.
+
+*Genetic causes :
+**Genetic diseases with or without cysts (uromodulin mutations...).
+*Dysimmune causes:
+**Sjögren's syndrome;
+**Sarcoidosis;
+**NITU syndrome (Interstitial Tubular Nephropathy with Uveitis);
+**Disease associated with hyper-IgG4.
+*Haematological causes:
+**Monoclonal immunoglobulin, with or without myeloma;
+**Sickle cell disease.
+*Infectious causes:
+**Tuberculosis;
+**Xanthogranulomatous pyelonephritis.
+
+----A detailed description of the chapter is available at: http://cuen.fr/manuel2/spip.php?rubrique21

@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-093-11-A
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=A
+|Title=Knowing how to make the clinical diagnosis of cauda equina syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+
+==Spinal syndrome==
+Refers to aggression to the spine by the causative pathology. [Spinal pain (cervical, dorsal or lumbar) SD-072|Pain]] spontaneous + provoked, inflammatory and/or mechanical (e.g. if vertebral fracture), resistant to analgesics. Stiffness +/- [[Spinal deformity SD-065|deformity of a spinal segment]].
+
+==Lion syndrome==
+
+*Neurological sensory and/or motor deficit SD-121|Neurogenic deficit]] peripheral, multi-radicular +++
+*Often asymmetric +++
+*Symptoms and signs :
+**'''Motor:''''
+***Flaccid, hypotonic limb loss with amyotrophy
+***Motor deficit depending on the spinal root(s) compressed, e.g. extension of the thigh / pelvis (L2), extension of the knee (L3, L4), dorsal flexion (L5) or plantar flexion (S1) of the foot.
+***Abolition/decrease of reflexes depending on the spinal root(s) compressed, e.g. :
+****ROT patellar (L4), achilles (S1)
+****Perineal reflexes: bulbo-cavernous or clitoro-anal (S3), anal (S4)
+**'''Sensory:''''
+***Subjective disorders: [[Pain, burning, cramps and paresthesias SD-073|pain +/- paresthesias]], sometimes impulsive
+***Objective disorders:
+****Hypo-/polymodal anaesthesia
+****Topography of compressed spinal root(s), e.g. :
+*****Lower limbs (L3-L4-L5-S1)
+*****"In the saddle" (perineum + external genitalia)
+**'''Genito-sphincter (S2-S5):''''
+***Often early
+***Urinary = peripheral "neurological bladder", hypo-contractile, with [[Urination abnormality SD-023|dysuria]] / [[Acute retention of urine SD-097|acute retention of urine]] / [[Urinary incontinence SD-103|urinary incontinence]] (overflow urination)
+***Digestive = [[Constipation SD-001|constipation]] / [[Faecal incontinence SD-007|anal incontinence]]; rectal examination showing hypotonia / hypo contraction of anal sphincter
+***Genital = [[Sexual disorders and erectile dysfunction SD-063|erectile dysfunction]]

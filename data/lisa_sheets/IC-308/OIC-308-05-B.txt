@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-308-05-B
+|Item_parent=Pancreatic tumours
+|Item_parent_short=Pancreatic tumours
+|Rank=B
+|Title=Knowing the indications for imaging pancreatic tumours
+|Description=
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+
+Thoracic-abdominal-pelvic CT scan with injection of contrast medium is the reference examination for :
+
+- Suggest the diagnosis (hypodense, poorly limited mass associated with dilatation of the main upstream pancreatic duct. In the case of cephalic tumours or tumours in contact with the bile duct, dilatation of the intrahepatic and extrahepatic bile ducts is common. This is known as bi-channel dilatation.)
+
+- Assess local extension (contact with vascular structures)
+
+- Search for possible metastatic extension
+
+
+In the case of tumours localised to the pancreas :
+
+- Echo-endoscopy with puncture to obtain an anatomopathological diagnosis (sensitivity: 80%); not essential if primary surgery is envisaged
+
+If abdominal pain or jaundice: transparietal abdominal ultrasound is the first line of defence. If dilation of the bile ducts is discovered, an abdominal CT scan is performed. When a tumour is strongly suspected (naked jaundice with altered general condition), a thoraco-abdomino-pelvic CT scan is the first-line examination. If there is any doubt or if the lesion is isodense on CT, MRI can sometimes give a better view of the tumour. If there is still diagnostic doubt or if surgery is not indicated in the first instance, echo-endoscopy allows the tumour to be seen and biopsies to be taken for histological confirmation.
+
+
+
+In the case of metastatic tumours :
+
+- Liver biopsy of a metastatic lesion (usually in the liver) as an alternative to pancreatic echo-endoscopy with puncture in order to obtain histological proof of the diagnosis before systemic treatment of the metastatic disease (chemotherapy).
+
+- MRI of the liver is indicated in 2nd-line cases of localized resectable pancreatic adenocarcinoma to rule out the presence of liver metastases (found in 15% of cases after a normal thoraco-abdomino-pelvic scan).
+
+- Endoscopic retrograde cholangio-pancreatography (ERCP) with biliary prosthesis under general anaesthetic indicated in cases of cholestatic jaundice associated with compression of the main bile duct by adenocarcinoma of the head of the pancreas.

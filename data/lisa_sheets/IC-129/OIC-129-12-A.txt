@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-129-12-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Gonarthrosis radiography
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+<gallery widths="400" heights="400">
+File:Gonarthrosis.PNG|Gonarthrosis - medial femorotibial osteoarthritis
+</gallery>

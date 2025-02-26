@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-153-01-A
+|Item_parent=Surveillance of wearers of valvular prostheses
+|Item_parent_short=Surveillance of wearers of valvular prostheses
+|Rank=A
+|Title=Knowing the different types of valve prostheses
+|Description=Mechanical, surgical and percutaneous bioprostheses
+|Section=Definition
+|Contributors=Thomas SENAGE
+|Order=1}}
+  
+
+===''Different types of valve prostheses'' ===
+
+===='''''Mechanical prosthesis'''''====
+They are made from titanium and carbon. Historically, the first prostheses consisted of a ball that moved via the blood flow inside a cage (Starr® prosthesis), followed by tilting monodisc valves (Bjork-Shiley®). They currently have a double-wing design that moves on a central axis (Saint-Jude Medical®, Carbomedics®).
+
+The fins open during the ejection phase and close during diastole. The ring is covered with Dacron<sup>TM</sup> or Teflon<sup>TM</sup> to anchor the prosthesis to the biological structure.
+
+They have excellent durability, but require long-term curative anticoagulation to prevent thrombosis of the prosthesis. The recommended anticoagulants are anti-vitamin K.
+
+
+Because of this anticoagulation and the risk of bleeding, their implantation is recommended in subjects under 60 years of age in the aortic position and under 65 years of age in the mitral position (Grade IIa / Level C).
+<br />
+[[File:Figure 1 - Saint Jude mechanical prosthesis.jpg|vignette|Figure 1 : Saint Jude mechanical prosthesis]]
+
+
+
+
+
+
+===='''''Biological stents'''''====
+They are most often made from bovine pericardium (Carpentier-Edwards Perimount®, Carpentier-Edwards MagnaEase®, Medtronic Avalus®) which is mounted on a metal frame with a Dacron<sup>TM</sup> or Teflon<sup>TM</sup> collar. There are also bio-prostheses without a metal frame (the most commonly used is Freedom Solo - Sorin®).
+
+There are also genuine porcine xenografts, such as the Medtronic® Hancok II. Finally, more rarely, homografts from human donors may be used.
+
+Their durability is less than that of mechanical prostheses, with the development of stenosis or regurgitation on the valve prosthesis in the event of degeneration. Durability is estimated at between 10 and 15 years, depending on the position of the prosthesis, the type of prosthesis and the patient.
+
+Their main advantage is that they are biocompatible. They do not require long-term anticoagulation if the patient is in sinus rhythm. In the mitral or tricuspid position, anticoagulation with VKA for the first three months following implantation (endothelialization time) is sufficient. In the aortic position, platelet anti-aggregation for the first three months following implantation (duration of endothelialization) is sufficient.
+
+Their implantation is therefore recommended in subjects over 60 years of age in the aortic position, and over 65 years of age in the mitral position.
+<br />
+[[File:Figure 2 - Biological prosthesis.jpg|thumb|Figure 2 : Biological prosthesis]]
+
+
+
+
+
+
+
+
+====''''' Percutaneous stents'''''====
+They are most often made of porcine pericardium (Medtronic CorValve®) or bovine pericardium (Edwards Sapiens 3®) mounted on a metal stent deployed in the native aortic valve. They are currently recommended for patients with a high to intermediate operative risk (Grade I / Level B). The situation is currently evolving for patients aged over 65 with a low risk of surgery, for whom we expect the device to be validated by the learned societies in the near future.  
+
+
+[[File:Figure 3 - Percutaneous prostheses - CoreValve prosthesis (left) & Sapiens 3 prosthesis (right).jpg|vignette|''Figure 3 : Percutaneous prostheses : CoreValve prosthesis (left) &'' Prothese Sapiens 3 (right)]]
+<br />

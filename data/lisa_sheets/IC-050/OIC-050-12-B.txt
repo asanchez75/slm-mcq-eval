@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-050-12-B
+|Item_parent=Genito-scrotal pathology in boys and men
+|Item_parent_short=Genito-scrotal pathology in boys and men
+|Rank=B
+|Title=Know how to manage cryptorchidism
+|Description=None
+|Rubric=Management
+|Contributors=Cédric Lebâcle, Alice Faure
+|Order=12}}
+
+
+*The reference treatment is surgical: lowering of the testicle.
+*Surgery for cryptorchidism should not be considered before the age of 1 year.
+*Lowering the testicle reduces the risk of infertility and facilitates monitoring of the testicle, which may subsequently become the site of a [[Tumours of the testicle|tumour (313)]], even when lowered (associated gonadal dysgenesis).
+*In the case of an undescended but palpable testis, the testicle is lowered via an inguinal approach and then fixed scrotally.
+*In the case of an undescended testicle that cannot be palpated, the operation is started with exploratory laparoscopy in search of the testicle, followed by surgical lowering in one or two stages (after initial ligation of the spermatic vessels).
+*The risk of [[Testicular tumours|cancer (313)]] is increased for undescended testicles (relative risk of 30 to 40). Even after testicular descent, the risk of cancer remains higher than in the general population. Lifelong monitoring by autopalpation is recommended.
+*Medical treatment with intra-muscular HCG injections is no longer recommended for children.
+
+<br />

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-14-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing the indications for consulting a psychiatrist
+|Description=None
+|Rubric=Taking charge
+|Contributors=El-Hage Wissam
+|Order=14}}
+
+Referral to a psychiatrist in cases of high [[Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01|suicidal]] risk, endangerment, severe EDC, comorbidities, [[Acute delirium 2C-351-DE-A03|melancholic]] / psychotic / mixed / catatonic features, resistance to two [[Antidepressants: Main classes and molecules 2C-074-DE-A03|antidepressants]] at sufficient dosage and duration, risk situation ([[Normal pregnancy|pregnancy]], post-partum).

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-004-40-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the rules for preventing catheter-related infections
+|Description=Prevention measures for HCAI; main risk factors; risk factor for candidiasis
+|Section=Management
+|Contributors=
+|Order=40}}
+- Restrict venous catheters to essential indications and reassess their usefulness and benefit-risk balance at least daily.
+
+- Choose the right type of venous catheter: peripheral catheter, peripherally inserted central catheter (PICC line), midline catheter, implantable catheter chamber, etc.
+
+- Aseptic insertion of venous catheters
+
+- Place central venous catheters with surgical asepsis (surgical friction, operator posture, wide drapes)
+
+- For the insertion of all catheters, use a 2% Chlorhexidine-based antiseptic in alcoholic solution for skin antisepsis.
+
+- Protect the puncture site with a transparent dressing to monitor the puncture site, and remove the catheter immediately in the event of local complications.
+
+- Change venous lines every 4 to 7 days at most
+
+- Change venous lines used to administer labile blood products or lipid emulsion within 24 hours.

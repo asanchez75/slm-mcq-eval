@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-289-07-A
+|Item_parent=Parietal hernia in children and adults
+|Item_parent_short=Parietal hernia in children and adults
+|Rank=A
+|Title=Photography of an inguinal hernia in a boy
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Pablo ORTEGA DEBALLON,David MOSZKOWICZ,Olivier FARGES
+|Order=7}}
+
+[[File:Fig3 HI.jpg|centered|vignette|Uncomplicated right inguinal hernia in an infant. The presence of the testis in the bursa should be checked for differential diagnosis with cryptorchidism or testicular ectopia]]

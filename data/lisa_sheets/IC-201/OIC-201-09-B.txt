@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-201-09-B
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=B
+|Title=Knowing the diagnostic particularities of encephalic death; The donor with a stopped heart.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dany Anglicheau
+|Order=9}}
+
+===A.    Diagnostic features of encephalic death are based on:===
+
+*clinical criteria:
+**Total absence of consciousness and spontaneous motor activity;
+**Abolition of all brainstem reflexes;
+**Total absence of spontaneous ventilation verified by a hypercapnia test.
+*and paraclinical criteria:
+**2 null and reactive electroencephalograms for 30 minutes performed 4 hours apart;
+**or cerebral angiography showing cessation of encephalic circulation.
+
+<br />
+
+===B.    The donor with a stopped heart===
+French law authorises donation "from a deceased person in persistent cardiac and respiratory arrest". These are known as deceased donors after circulatory arrest (DDAC).
+
+A distinction is made between :
+
+*donors who have suffered an "uncontrolled" out-of-hospital cardiac arrest;
+*donors who have suffered circulatory arrest in intensive care following a decision to stop active treatment.
+
+
+Once proof of death has been obtained by recording an electrocardiogram lasting 5 minutes without QRS complexes or with agonic complexes < 5 per minute, a death report is drawn up, enabling the National Refusal Register (RNR) to be queried immediately, which is compulsory before any organ retrieval procedure can begin.

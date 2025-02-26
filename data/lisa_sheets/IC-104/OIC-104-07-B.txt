@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-104-07-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the main differential diagnoses of MS
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+- In the event of a first isolated inflammatory episode of the CNS without spatial or temporal dissemination, other causes of optic neuritis or myelitis, or cerebral involvement, should be investigated. Imaging and cerebrospinal fluid analysis are of major importance.  
+
+- Other rare inflammatory diseases confined to the CNS: neuromyelitis optica (anti-aquaporin 4 autoantibodies) or disease associated with anti-MOG (Myelin Oligodendrocyte Glycoprotein) antibodies; acute disseminated encephalitis, a multifocal inflammatory disease which does not progress to chronicity, especially in children.
+
+- Systemic inflammatory diseases not limited to the CNS: sarcoidosis, Behçet's disease, systemic lupus erythematosus, Gougerot-Sjögren's disease, infections with neurological tropism, cerebrovascular diseases with successive attacks (including cerebral arteritis).
+
+- Red flags for differential diagnosis: altered general condition, involvement of an organ other than the CNS, presence of an inflammatory syndrome in the blood, meningitis and/or absence of oligoclonal bands in the CSF.

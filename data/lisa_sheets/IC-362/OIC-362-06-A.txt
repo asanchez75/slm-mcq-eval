@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-362-06-A
+|Item_parent=Prostheses and osteosynthesis
+|Item_parent_short=Prostheses and osteosynthesis
+|Rank=A
+|Title=Knowing how to search for urgent complications of prostheses (clinical, biological, imaging indications)
+|Description=None
+|Rubric=Management
+|Contributors=CFCOT
+|Order=6}}
+
+'''<u>1) Infection</u>''''
+
+*Clinical:
+**Acute: fever, redness, pain, discharge from the scar, abscess, skin necrosis, septic shock.
+**Chronic: the clinic is less noisy with pain, recurrent problems with healing of the surgical approach, a fistula with purulent discharge, loosening of the prosthesis.
+**Look for an entry point: wound, dental abscess, urinary tract infection.
+*Biological tests:
+**CBC: hyperleukocytosis with PNN if acute infection, normal or inflammatory anaemia if chronic.
+**CRP: very high in the case of acute infection, close to normal in the case of chronic infection.
+**Blood cultures in acute infection with fever > 38°5
+**Joint puncture to look for the preoperative germ.
+*Imaging: not very helpful in the case of acute infection. In the case of chronic infection, periprosthetic effusion or collections may be observed (ultrasound, CT, MRI), an inflammatory appearance of the periprosthetic soft tissues (ultrasound and especially MRI), loosening of the prosthesis (X-ray, CT), osteolysis (X-ray, CT), periosteal appositions (X-ray, CT, MRI).
+
+'''<u>2) Luxation</u>'''
+
+*Clinical: pain, functional impotence and deformity: depending on the joint affected and the orientation of the dislocation.
+*Imaging: standard front and side X-rays are sufficient to make the diagnosis.
+
+'''<u>3) Post-operative nerve palsy</u>''''
+
+*Systematic postoperative clinical examination of nerve territories that may have been affected during surgery.
+*A sensory or motor deficit indicates nerve damage, which may be linked to surgical trauma or to a compressive haematoma that needs to be evacuated urgently.
+
+'''<u>4) Periprosthetic fracture</u>''''
+
+*Notion of a fall with creaking
+*Clinical: pain, deformity, total functional impotence.
+*Imaging: a front and side X-ray is used to make the diagnosis.
+
+<br />
+[[File:Periprosthetic fractures.jpg|centre|vignette|600x600px|Examples of periprosthetic fractures: left, periprosthetic femur fracture on THR. Osteosynthesis is complicated by the presence of the femoral stem. On the right, fracture of the distal femur just above the femoral implant of a total knee prosthesis. ]]
+
+'''<u>5) Healing disorders, scar disunion, postoperative haematoma</u>''''
+
+*Clinical diagnosis: dressings should be applied every 2 days until the scar has completely healed, in order to detect any abnormality in the scar.
+*Any problem with healing should raise the possibility of a deep infection affecting the prosthesis.  
+
+<br />
+[[File:Troubles de cicatrisation prothèses.jpg|centré|vignette|705x705px|Exemples de désunions de cicatrice. On the left is a disunity at 6 weeks post-op on a total hip prosthesis. A deep infection extending to the prosthesis should be suspected. On the right is a disunion at 1 day post-op after total knee replacement in a patient with a large haematoma]].
+<br />

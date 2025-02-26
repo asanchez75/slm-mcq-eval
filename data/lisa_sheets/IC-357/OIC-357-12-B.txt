@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-357-12-B
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=B
+|Title=Know the three main CT signs of peritonitis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Guillaume Portier,Maksud Assadi,Philippe Montravers
+|Order=12}}
+
+The 3 main scannographic signs of peritonitis are :
+
+*gaseous effusion (indicating perforation of a hollow organ)
+*intraperitoneal fluid effusion
+*enhancement of the peritoneal layers
+
+The last two may be combined in the event of the formation of partitioned fluid collections suggestive of intra-abdominal abscesses.
+
+Examples:<gallery>
+File:Prehepatic pneumoperitoneum UGD.PNG|Prehepatic pneumoperitoneum - perforated peptic ulcer.
+</gallery><gallery perrow="2">
+File:Pneumoperitoneum and effusion.PNG|Pneumoperitoneum and fluid effusion.
+File:Duodenal perforation.PNG|Pneumoperitoneum with duodenal perforation.
+</gallery><br />

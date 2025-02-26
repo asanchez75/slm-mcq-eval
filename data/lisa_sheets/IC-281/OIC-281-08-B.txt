@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-281-08-B
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=B
+|Title=Knowing the imaging examinations to be carried out during chronic pancreatitis
+|Description=The main tests and findings in favour of chronic pancreatitis
+|Section=Additional tests
+|Contributors=
+|Order=8}}
+- The diagnosis is based on the presence of parenchymal abnormalities, particularly pancreatic calcifications, and/or ductal abnormalities on imaging. These signs are often absent at the start of the disease and appear over time.
+
+- The first-line reference examination is the abdominal CT scan, with or without injection of contrast medium. The lesions of CP are as follows: pancreatic calcifications (spontaneously hyperdense without injection), pancreatic atrophy, ductal dilatations, and complications (collections, pseudocysts, vascular or digestive compressions).
+
+- Bilio-pancreatic MRI (with sequences centred on the pancreas, the bile ducts and the main pancreatic duct) is the reference examination for exploring biliary and pancreatic duct anomalies. It is less effective than CT for the parenchyma, and does not visualise calcifications.
+
+- Bilio-pancreatic echo-endoscopy under general anaesthetic is not performed as a first-line procedure. It explores the entire pancreas with great sensitivity and accurately characterises the mechanism of ductal obstructions. It allows punctures to be performed for anatomopathological purposes in cases of diagnostic doubt (PC of pseudotumour presentation) and drainage of collections.

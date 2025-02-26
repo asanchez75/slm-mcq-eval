@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-028-03-A
+|Item_parent=To know the particularities of urinary infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Intitulé=Gravidial urinary tract infection: knowing the definition
+|Description=Know the definition of gravidial urinary colonisation (and distinguish it from acute gravidial cystitis).
+|Rubric=Definition
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=3}}
+Urinary tract colonisation in pregnancy complicates 2 to 10% of pregnancies. It may progress to acute cystitis and/or acute pyelonephritis.
+
+It is defined by '''asymptomatic bacteriuria''' on '''urine cytobacteriological examination (UCE)''' with a threshold of '''bacteriuria ≥ 10<sup>5</sup> CFU/mL''' (whatever the bacteria - ''[[Analysis of a urine cytobacteriological examination (ecbu) SD-189|Analysis of a urine cytobacteriological examination (UCE)]]'''''
+
+Unlike acute cystitis, there is "no influence of leucocyte count" in the diagnosis of urinary colonisation.
+
+Only one positive ECBU is accepted for the diagnosis of colonisation.
+
+It is screened monthly in all pregnant women by performing the '''[[Urine dipstick analysis SD-182|urine dipstick (UD)]]'''' - The SD-182 urine dipstick is tested for leukocytes and/or nitrites. If positive, a ''cyto-bacteriological examination of the urine'' should be carried out.

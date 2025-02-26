@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-218-14-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing other parasitic etiologies of eosinophilia in patients who have not travelled outside mainland France
+|Description=Gale Other cosmopolitan helminthoses: anisakidosis, distomatosis, trichinellosis
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+'''In case of hypereosinophilia > 1 500/mm<sup>3</sup> (invasive phase) (serological diagnosis)''''hepatic distomatosis (''Fasciola hepatica'', ingestion of watercress) :angiocholitis picture with jaundice and '''fever''' '''([[Hyperthermia/fever SD-044|fever/hyperthermia]])'''' ;
+
+- scabies
+
+- trichinosis or trichinellosis (''Trichinella spiralis'', ingestion of undercooked pork, wild boar or horse meat): ''fever'' '''([[Hyperthermia/fever SD-044|fever/hyperthermia]])''', oedema and '''[[Myalgia SD-077|myalgia]]'''; a muscle biopsy may be useful
+
+'''In cases of more moderate eosinophilia (< 1,500/mm<sup>3</sup>, parasitoses without tissue cycle) ('''parasitological examinations of stools (taeniasis) or serologies (anisakiasis, hydatidosis and echinococcosis))
+
+- anisakiase or anisakidosis (''Anisakis'', ingestion of raw fish): digestive signs.
+
+- hydatidosis (''Echinococcus granulosus'', ingestion of food or water contaminated with dog faeces): hydatid cysts in the liver or other organs. Rupture/cracking of a hydatid cyst may also be accompanied by a hypereosinophilia > 1500/mm<sup>3</sup>.
+
+- alveolar echinococcosis (''Echinococcus multilocularis'', in eastern France).

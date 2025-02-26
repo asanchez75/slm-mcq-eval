@@ -1,0 +1,90 @@
+{{knowledge objective
+|Identifiant=OIC-297-07-B
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=B
+|Title=To know the indications and objectives of imaging examinations in situations suggestive of childhood cancer (brain, abdominal, thoracic and bone tumours). The following organ locations are models for applying the general principles. Depending on the location, benign tumours, precancerous lesions and malignant tumours will be considered.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Virginie Gandemer
+|Order=7}}
+{| class="wikitable"
+|
+|'''Imaging Techniques''''
+|'''Diagnostic contributions'''
+|-
+| rowspan="2" |'''Tumour of the CNS'''
+|Cerebral MRI
+|Location, morphology, diagnostic orientation, search for complications (bleeding, compression, hydrocephalus), search for leptomeningeal metastases, etc.
+|-
+|MRI of the spinal axis
+|Location, morphology, diagnostic orientation (spinal cord tumours)
+
+Search for leptomeningeal metastases (primary malignant brain tumours)
+|-
+| rowspan="3" |'''Thoracic tumours''''
+|Thoracic radiography
+|Screening, topographical diagnosis, initial diagnostic guidance
+|-
+|Thoracic CT scan (with injection)
+|Loco-regional extension assessment
+
+Search for lung metastases
+|-
+|Thoracic MRI
+|If tumour in posterior mediastinum
+
+or tumour with neurological signs
+|-
+| rowspan="4" |'''Neoplasms'''
+
+'''abdominal'''
+|Doppler ultrasound
+|In the first instance
+
+Topographical analysis
+
+Search for complications (compression, thrombosis)
+|-
+|MRI (or CT scan with injection)
+|Assessment of locoregional extension
+
+Morphological aspect for diagnostic orientation and biopsy decision
+|-
+|123I-MIBG PET-CT (scintigraphy)
+|Diagnostic and extension work-up of neuroblastic tumours
+|-
+|Thoracic CT scan
+|Search for lung metastases
+|-
+| rowspan="2" |'''Soft tissue tumour''''
+|Doppler ultrasound
+|First line
+
+Topographical analysis, cystic or tissue lesion differentiation
+|-
+|MRI
+|Second line: diagnostic orientation and locoregional extension
+|-
+| rowspan="4" |'''Primary bone tumours''''
+|Std radiographs and/or CT scan
+|Location, morphology, diagnostic orientation
+|-
+|MRI
+|Locoregional extension
+|-
+|Chest CT
+|Lung extension test
+|-
+|PET-CT (99mT)
+
+TEP-TDM (18F-FDG)
+|Remote extension balance
+|-
+| rowspan="2" |'''Lymphomas''''
+|Ultrasound/scanner/MRI
+|Depending on lesion site
+|-
+|PET-CT (18F-FDG)
+|Remote extension assessment
+|}

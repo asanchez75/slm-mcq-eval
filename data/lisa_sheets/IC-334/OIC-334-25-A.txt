@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-334-25-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Radiography of haemothorax and pneumothorax
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=25}}
+[[File:Pneumothorax and haemopneumothorax.png|alt=|vignette|Figure 19. '''a.''' Left complete pneumothorax, with lung retracted at the hilum (arrows). '''b.''' Right haemopneumothorax following a penetrating wound. Pleural detachment (black arrows) associated with a fluid effusion with a clear upper limit in the form of a horizontal line (white arrows): hydroaeric level]]

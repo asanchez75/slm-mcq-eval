@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-072-01-A
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=A
+|Title=Know the general definition of somatic symptom disorders and related disorders
+|Description=Know that there are several parallel nosographic systemsDefinition of somatic symptom disorders (DSM-5)Definition of functional somatic syndromes (e.g. irritable bowel syndrome, fibromylalgia and chronic fatigue syndrome)Definition of body distress syndrome (ICD-11)
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+
+
+Somatic symptom disorders'' (SSD) (DSM-5) can be defined as the chronicisation of medically unexplained physical symptoms with an impact on quality of life.
+
+Somaticians refer to SSDs as "functional somatic syndromes" (FSS), for example irritable bowel syndrome or fibromyalgia.
+
+The term ''bodily distress disorder'' (ICD-11) recognises the suffering of patients, but the word distress has a ''psychic'' connotation.

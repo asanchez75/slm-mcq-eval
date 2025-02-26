@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-080-01-A
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=A
+|Heading=Know the definition of doping and doping behaviour.
+|Description=The use of a substance or method that is potentially dangerous to an athlete's health and/or likely to improve their performance. Know that there are different ways of breaching the World Anti-Doping Code. Know how to distinguish between doping and doping behaviour (in the general population, among non-licensed athletes and outside sport).
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Doping behaviour:''''
+
+Intentional use of products and methods to modify a person's skills in order to overcome an obstacle, real or perceived, and/or to improve physical, intellectual or artistic performance...
+
+'''Doping'''
+
+Behaviour concerning only athletes who, in the context of competitions or events organised by federations, use substances or methods included on a list updated each year by the World Anti-Doping Agency (WADA), available at <nowiki>http://list.wada-ama.org/fr/</nowiki>
+
+'''L'Agence Française de Lutte contre le Dopage (AFLD)''' offers a search engine to check whether a drug is banned: <nowiki>http://www.afld.fr/finder/produits-dopants</nowiki>
+
+<br />

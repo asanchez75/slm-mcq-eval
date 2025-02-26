@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-037-03-B
+|Item_parent=Voluntary termination of pregnancy
+|Item_parent_short=Voluntary termination of pregnancy
+|Rank=B
+|Title=Knowing the number of abortions carried out in France
+|Description=The number of abortions varies between 215,000 and 230,000 per year. It has been stable since 2006.
+|Rubric=Epidemiology
+|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini
+|Order=3}}
+
+Overall, the number of abortions performed in France varies between 200,000 and 250,000 a year. This figure has been stable since 2006. On average, 2 out of 5 women undergo an abortion in their lifetime.

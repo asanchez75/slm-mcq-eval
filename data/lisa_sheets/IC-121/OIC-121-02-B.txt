@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-121-02-B
+|Item_parent=Psychological disability (see items 56 and 118)
+|Item_parent_short=Psychological disability (see item 56 and 118)
+|Rank=B
+|Title=Knowing the general principles of care.
+|Description=Psychoeducation (therapeutic education) for patients and their familiesSchooling, work, income, housing, social life
+|School, work, income, housing, social life
+|Contributors=Fabrice Berna,Pierre Vandel
+|Order=2}}
+
+The aim of mental health care is to help people recover.
+
+It is based on psychosocial rehabilitation techniques.
+
+Recovery includes the development of skills that enable people to learn to live with or cope with the three levels of disability mentioned above.

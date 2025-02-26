@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-125-04-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Know how to diagnose stress urinary incontinence (SUI) and urge urinary incontinence (UUI), their quantification and their repercussions.
+|Description=Interrogation /stress test and bladder filling test /Sandvick USP pad test / principle of QOL questionnaires
+|Rubric=Positive diagnosis
+|Contributors=B. Peyronnet
+|Order=4}}
+
+
+*The diagnosis of urinary incontinence is purely clinical, requiring no further examination as a first line of defence.
+*Urinary incontinence is defined on the basis of explanations provided by the patient, either spontaneously or on the basis of questions asked by a healthcare professional. Questioning therefore plays a central role in diagnosis.
+
+<br />
+
+*Questioning will look for risk factors (obstetric history, [[Benign prostatic hypertrophy|prostate surgery 127]], [[Prostate tumours|310]], pelvic surgery, neurological pathology, [Obesity in children and adults (see item 71)|obesity 253]], [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|menopause 124]], [[Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetes 247]] ...), elements pointing to the underlying mechanism (circumstances of onset, associated lower urinary tract symptoms, etc...), help to quantify the incontinence (number of protections/day, frequency of incontinence episodes), collect previous medical and surgical treatments for incontinence, assess the impact on quality of life and look for associated pelvic perineal disorders ([[Normal sexuality and its disorders|sexual 58]] or anorectal disorders) which may indicate damage to the common vegetative innervation and which will have an impact on treatment.
+
+<br />
+
+*Questioning seeks to establish the circumstances in which incontinence occurs: effort, orthostatic (sphincter insufficiency), permanent, preceded by the need to urinate (hyperactivity), etc.
+*Self-questionnaires are of major interest for urinary incontinence and SBAUs, as they enable a multidimensional assessment of symptoms (e.g. USP or IPSS questionnaires), an assessment of the impact on quality of life (e.g. I-Qol, question 5 ICIQ-SF, question 8 IPSS) and patient satisfaction (e.g. PGII, Patient Global Impression of Improvement).
+*The voiding catalogue is used to supplement the interview with objective data. It consists of systematically recording the time and volume of micturition (+/- episodes of leakage, urgency of micturition, change of padding, volume of liquids ingested). It is carried out by the patient himself at home over a period of 2 to 3 days, not necessarily consecutive. The volume of urine collected over 24 hours or overnight is used to rule out polyuria.
+*The pad test can be useful for certain patients to objectively quantify the extent of incontinence. It consists of weighing the dry pads at each change to estimate the weight of leakage over a given period of time (generally 24 hours).
+*The physical examination is also particularly important for diagnosing and assessing urinary incontinence.
+*Inspection should look for vulvovaginal atrophy [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|124]] in women, which indicates hormonal deprivation and may be a causal factor in stress and/or urge incontinence (figure 3)].
+
+It can also be used to look for a [[Pelvic swelling in women|associated genitourinary prolapse 44]] '''(figure 4)''''
+
+
+'''Figure 3: vulvovaginal atrophy with urethral meatus stenosis''''
+[[File:Fig3.png|neant|thumb|'''Figure 3: vulvovaginal atrophy with urethral meatus stenosis''']]
+
+
+'''Figure 4: [[Female pelvic swelling|Cystocele (bladder prolapse) 44]]''''
+[[File:Fig4.png|neant|thumb|'''Figure 4: Cystocele (bladder prolapse) 44''']]]
+<br />
+
+*The cough test can be used to identify stress urinary incontinence. It must be performed with a full bladder (between 200 and 400ml). Urine loss on coughing indicates the diagnosis of stress urinary incontinence.
+*In women, the cough test is used to estimate the respective proportions of sphincter insufficiency and urethral hypermobility in stress incontinence. The absence of urethral mobility is in favour of sphincter insufficiency, whereas verticalization of the anterior surface of the vagina opposite the cervicoureteral junction during coughing efforts and a downward movement of the urethral meatus towards the vaginal cavity indicate urethral hypermobility. Performing a urethral support manoeuvre corrects leakage when coughing.
+*In men, a rectal examination is essential to assess the volume and consistency of the prostate, which can be the cause of subvesical obstruction and incontinence due to chronic urine retention.
+*Inspection of the urethral meatus to identify any stenosis of the meatus.
+*Flowmetry and post-micturition residual measurement, which can be carried out in consultation, can be used to identify a bladder emptying problem and provide evidence of a possible sub-bladder obstruction.
+*In selected cases, a more detailed neuroperineal examination should be carried out to rule out a neurological cause of the incontinence. This consists essentially of looking for a sensory and/or motor deficit in the areas of the sacral nerves S2 to S4, which are the main areas responsible for vesico-sphincter neural control.

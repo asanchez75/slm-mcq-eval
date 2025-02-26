@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-111-04-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing how to classify acne clinically
+|Description=3 main clinical forms (mixed acne, retentional acne and nodular acne)
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+== Main clinical forms
+
+
+'''Mixed acne''': most common form = combination of retentional and inflammatory lesions (papulo pustular acne). Usually starts at puberty.
+
+'''Retention acne:''' the most common form of acne in its early stages. Few or no inflammatory lesions
+
+'''Nodular acne''': severe form with nodular lesions. Greater risk of scarring, justifying specific therapeutic management.
+<br />

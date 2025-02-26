@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-260-11-A
+|Item_parent=Hematuria
+|Item_parent_short=Hematuria
+|Rank=A
+|Title=Knowing the diagnostic tree for haematuria
+|Description=Figure
+|Rubric=Positive diagnosis
+|Contributors=Charles Dariane, Bruno Moulin
+|Order=11}}
+
+[[File:Figure 6 diagnostic tree.png|thumbnail|1050x1050px|
+<big>'''Figure 6. Diagnostic tree for haematuria'''</big>|alt=|neant]]
+
+
+
+
+
+<br />

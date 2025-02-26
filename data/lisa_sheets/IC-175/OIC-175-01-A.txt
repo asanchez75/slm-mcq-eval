@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-175-01-A
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before departure, return illnesses: fever, diarrhoea, skin problems
+|Rank=A
+|Title=Knowing the populations, destinations and situations at risk when travelling, knowing the digital sources of information.
+|Description=Know the main risk areas (no detailed epidemiology, but breakdown by continent of the main risks, particularly potentially serious infections such as malaria, haemorrhagic fever, tuberculosis and arbovirosis), know the populations at risk (particularly family travel), know the main risks (infection, stroke/trauma).
+|Rubric=Definition
+|Contributors=Florence ROBERT-GANGNEUX,Marie-Laure DARDE,Marie-Pierre BRENIER-PINCHART,Adela ANGOULVANT,Françoise BOTTEREL,Marie ROBERT,Laurence MORAND-JOUBERT
+|Order=1}}
+
+Populations and situations at risk
+
+All travellers to tropical countries are at risk of acquiring an endemic infection, as well as everyday accidents/illnesses (trauma, road accidents, cardiac or vascular accidents, animal bites, dehydration, etc), the failure or delay of which can have serious consequences. Particularly at risk are itinerant travellers, the elderly, the immunocompromised, people with chronic illnesses, pregnant women and emigrants returning to their native country (where the risk of malaria is underestimated). Young children should be particularly vigilant.<blockquote><u>'''<big>The main situations at risk are:</big>'''</u>
+
+- long-term stays (> 1 month) and "non-group" trips
+
+- camping or bivouac accommodation (exposure to insect bites, water quality) or in a local family environment (particularly rural)
+
+- lack of anti-malarial prophylaxis
+
+- eating raw vegetables, drinks without caps or with ice cubes
+
+- risky sexual behaviour
+
+- swimming in fresh water and walking barefoot
+
+- daily contact with the local population
+
+- vaccinations not up to date (compulsory and recommended)</blockquote>.
+
+===''Destinations at risk''===
+<blockquote>- All intertropical zone except Australia, New Zealand, New Caledonia (very low risk)
+
+- It should be noted that predominantly tropical infections can also be acquired in Europe, the Middle East, North Africa and the North Pacific.
+
+- '''High global risk:''' Africa, India, South-East Asia, South America
+
+- Risk of malaria: Africa (80% of imported cases diagnosed in France), India, Amazon basin, South-East Asia
+
+- '''Risk of haemorrhagic fevers''': Africa
+
+- ''Risk of arboviroses'': Africa, Amazon basin, South-East Asia, Pacific, West Indies
+
+- '''Risk of tuberculosis''': Africa, Eastern Europe, Asia
+
+- '''Risk of helminthosis''': the entire intertropical belt (and beyond)</blockquote>
+
+==='''Regularly updated sources of free information about endemic areas:'''===
+<blockquote>- Weekly epidemiological bulletin (BEH), special issue Health recommendations for travellers, published annually in May/June <nowiki>https://www.santepubliquefrance.fr/revues/beh/bulletin-epidemiologique-hebdomadaire</nowiki>
+
+- Ministry of Europe and Foreign Affairs: <nowiki>https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/</nowiki>
+
+.         Institut Pasteur de Lille : <nowiki>https://pasteur-lille.fr/centre-prevention-sante-longevite/vaccins-et-voyages</nowiki></blockquote>

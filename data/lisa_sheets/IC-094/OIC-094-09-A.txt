@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-094-09-A
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=A
+|Title=Knowing the main causes of secondary spinal pain
+|Description=None
+|Rubric=Etiologies
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=9}}
+
+'''MAIN ETIOLOGIES''(rank A)'' of secondary spinal pain:''''
+
+o tumour: metastases (rarely primary cancer) ''[[Discovery of a bone and joint abnormality on medical imaging examination SDD-228|(discovery of a bone and joint abnormality on medical imaging examination)]'''''
+
+o infectious: spondylodiscitis, Pott's disease (if tuberculous spondylodiscitis) (weight loss, asthenia, ''[[Acute or chronic inflammatory syndrome SDD-186|acute or chronic inflammatory syndrome]], [[Hyperthermia/fever SDD-044|hyperthermia/fever]]''')'')
+
+o inflammatory: ankylosing spondylitis ''[[Acute or chronic inflammatory syndrome SDD-186|(acute or chronic inflammatory syndrome)]]''''
+
+o traumatic: vertebral fracture and traumatic dislocation (remote dynamic images, not forgetting the cervico-occipital hinge) '''[[Spinal trauma SDD-175|(spinal trauma]], [[Fall of the elderly SDD-027|fall of the elderly]])'''''
+
+o osteoporotic vertebral fracture ''[[Spinal deformity SDD-065|(spinal deformity)]]'''''
+
+o visceral: if back pain

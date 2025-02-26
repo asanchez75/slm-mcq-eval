@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-220-01-A
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=A
+|Title=Knowing the circumstances of discovery of superficial adenopathy in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+Adenopathy is frequently found in children.
+
+Most frequently, adenopathies are discovered in the context of a common infection, particularly an ENT infection, in the case of the anterior cervical lymph nodes: the lymph nodes are small <10mm, flexible and not attached to the underlying surface.
+
+Generally speaking, the "infectious context" is the most frequent:
+
+- In the case of isolated adenopathy: local infection of the drainage area, inoculation pathology, other...), or lymphangitis.
+
+- In cases of polyadenopathy: viral infections (EBV, CMV, etc.), parasitic infections, or infections caused by atypical bacteria.
+
+The presence of an isolated cold adenopathy with a more chronic course (>2 months) should give rise to fears of a tumour etiology (leukaemia, lymphoma, other).
+
+An "inflammatory context" (fever, aphthosis, arthralgia, bone pain, skin or digestive signs, hepatosplenomegaly) should prompt a search for rarer causes (granulomatosis, systemic inflammatory diseases).
+
+Adenopathy and/or hepatosplenomegaly may also be found in the context of "overload disease".
+
+Finally, adenopathy can also be associated with drug toxicity.

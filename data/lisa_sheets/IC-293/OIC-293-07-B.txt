@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-293-07-B
+|Item_parent=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles for taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=B
+|Title=Know the tumours that must be sent fresh to the Pathological Anatomy and Cytology laboratory.
+|Description=List to be aware of: haemopathies, sarcomas, paediatric tumours
+|Rubric=Additional examinations
+|Contributors=Arnaud Uguen
+|Order=7}}
+
+Transmission of a fresh (i.e. unfixed) tumour sample to the Pathological Anatomy and Cytology Laboratory is essential:
+
+- in case of justification and prescription of an <u>extemporaneous examination</u> on this sample (''cf knowledge objective 2C-293-EC-B05'')
+
+- in the case of a research protocol explicitly mentioning the <u>necessity of freezing tumour tissue material</u> (''cf knowledge objective 2C-293-EC-B03)''
+
+- in the event of <u>recommendations from the Institut National du Cancer (INCa)</u> to take tumour samples for health purposes by freezing them with a view to molecular analysis ('' cf knowledge objectives 2C-293-EC-B02 and 2C-293-EC-B04'')
+
+o paediatric tumours
+
+o suspected lymphoma
+
+o suspected sarcoma.

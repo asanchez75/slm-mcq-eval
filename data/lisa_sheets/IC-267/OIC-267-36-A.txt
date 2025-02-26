@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-267-36-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the main clinical signs associated with hypocalcaemia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=P. Rieu,B. Moulin,M. Flamant
+|Order=36}}
+
+*they are correlated with the depth of hypocalcaemia and the speed with which it develops
+
+<br />
+
+*Neuromuscular disorders mainly:
+**distal paraesthesias
+**muscle cramps
+**laryngeal spasms
+**tetany
+**seizures
+**Chvostek's and Trousseau's provoked signs
+
+<br />

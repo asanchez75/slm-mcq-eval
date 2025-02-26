@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-260-13-B
+|Item_parent=Hematuria
+|Item_parent_short=Hematuria
+|Rank=B
+|Title=Knowing the management of clotting haematuria
+|Description=None
+|Rubric=Management
+|Contributors=Charles Dariane, Bruno Moulin
+|Order=13}}
+
+<br />
+
+*In cases of acute retention of urine|clotting macroscopic haematuria 347], and in the absence of retention of urine or renal colic, it is advisable to maintain "good hydration" in order to allow the evacuation of clots and eliminate reversible favouring factors (haemostasis disorders, anticoagulants, etc.).
+
+*A full blood test must be carried out (CBC, TP/TCA +/- INR, ABO Rh group RAI).
+
+*In the event of associated haemodynamic problems, intravenous filling should be started and transfusion of packed red blood cells should be considered in the event of poorly tolerated deglobulation. Haemostasis disorders must be corrected at the same time (discontinuation of an anti-coagulant, correction of an overdose, vitamin K or PPSB supplementation, etc.).
+
+*In case of urine retention due to bladder clotting:
+**Placement of a suprapubic catheter (KT) is contraindicated: risk of dissemination in case of unrecognised underlying bladder urothelial tumour, and impossibility of unblocking and continuous bladder cleansing with risk of obstruction of the KT (insufficient calibre).
+**Placement of a double-stream bladder catheter (large bore CH>18): manual decapping with a syringe followed by continuous irrigation/washing with physiological saline. An ECBU is performed when the catheter is inserted.
+
+*If manual decalcification fails, if the transfusion yield is poor or if the patient is clinically unwell, endoscopic surgical decalcification should be considered in the operating theatre; this may allow a bladder lesion to be treated/resected at the same time.
+
+*In cases of macroscopic haematuria originating in the upper excretory tract, clotting may lead to renal colic, which is usually self-limiting. It may sometimes be necessary to insert a ureteral stent in cases of obstructive pyelonephritis, renal failure or resistant renal pain.

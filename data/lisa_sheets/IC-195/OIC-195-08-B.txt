@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-195-08-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Knowing the additional tests useful for confirming the diagnosis
+|Description=BAT, know the main histological signs and the indication for a BAT in cases of suspected GCA.
+|Rubric= Complementary examinations
+|Contributors=
+|Order=8}}
+
+
+== '''Reference examination = temporal artery biopsy (TAB)''' ==
+
+
+Normal in about 1/3 of cases.
+
+
+In other cases: '''inflammatory reaction''' ('''[[Interpretation of a pathology report SD-180|interpretation of a pathology report]],''' ''[[Inflammatory reaction on surgical specimen/biopsy SD-179|inflammatory reaction on biopsy]]'''):
+
+- inflammatory infiltrate with mononuclear cells (lymphocytes, macrophages) in the three tunics of the artery (panarteritis)
+
+- inconsistent mononuclear giant cells
+
+- fragmentation of the internal elastic boundary
+
+- intimal hyperplasia responsible for stenosis or even vascular occlusion.
+
+- absence of fibrinoid necrosis.
+
+
+== '''Temporal artery imaging''' ==
+Echo-Doppler of the temporal arteries to look for hypoechoic thickening of the temporal artery wall (halo sign).
+
+Need for a trained operator.
+
+== Imaging of the aorta and large vessels ==
+- Echo-Doppler: looks for the halo sign in the arteries of the limbs, as in the case of the temporal artery. The aorta cannot be studied.
+
+- Angiomodensitometry (CT) or magnetic resonance angiography (MRI): to identify circumferential and homogeneous thickening of the vascular wall
+
+- 18F-fluorodeoxyglucose (<sup>18</sup>F-FDG) positron emission tomography (PET)-CT: to identify vascular wall hypermetabolism

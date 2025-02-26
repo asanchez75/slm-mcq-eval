@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-158-17-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Know how to prescribe specific antibiotics for patients with non-community infections
+|Description=Know how to identify the risk of resistant germs and adapt antibiotic therapy in non-community patients.
+|Rubric=Management
+|Contributors=
+|Order=17}}
+In certain circumstances, the probabilistic antibiotic therapy for a serious infection must be modified to cover germs resistant to the usual antibiotics '''([[Prescribe an anti-infective SD-255|prescribe an anti-infective]])'''. The risk of infection by resistant bacteria is greater in the following circumstances:
+
+* Patients hospitalised in the last 3 months
+* Patients treated with broad-spectrum antibiotics in the last 6 months
+* Patients returning from a trip to an area with a high prevalence of bacteria resistant to standard antibiotics (intertropical zones, USA, Italy, Greece, etc.), especially if they have visited a healthcare establishment or taken antibiotics there.
+* Patients from whom multi-resistant bacteria have been isolated in the last 6 months, either as a result of infection or colonisation.
+* Patients living in long-stay institutions
+* Patients who have recently undergone surgery
+* Patients with foreign material (venous catheters, bladder catheters, etc.).
+* Haematology and oncology patients are particularly at risk, as are patients who have been in intensive care for more than a week.
+
+
+Adaptations to the antibiotic treatment are as follows:
+
+* In case of suspected staphylococcal infection (venous catheter infection, ventilator-associated lung disease [VAPD]): take into account the risk of methicillin resistance by prescribing vancomycin or linezolid.
+* In the event of suspected infection by Pseudomonas aeruginosa (haematology patients, VAP, patients pre-exposed to antibiotics): piperacillin / tazobactam (or ceftazidime) + aminoglycoside.
+* If infection by C3G-resistant enterobacteria is suspected (nosocomial urinary tract or intra-abdominal infections): replace the β-lactam with a carbapenem (imipenem - cilastatin or meropenem).
+* If fungal infection is suspected (haematology patients, patients with high exposure to antibiotics): add caspofungin (suspected Candida infection) or amphotericin B to the antibiotic therapy.

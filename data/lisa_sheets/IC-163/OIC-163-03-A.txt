@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-163-03-A
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=A
+|Title=Know how pertussis is diagnosed
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=André Birgy
+|Order=3}}
+
+Incubation: In the classic form, the incubation period is 7-10 days. The main symptom is a cough without fever. This is followed by various phases:
+
+'''Phase 1''': catarrh: period of invasion lasting 7 to 15 days with maximum contagiousness. It is characterised by a common cough and catarrh.
+
+Phase 2: fifths
+
+The state period lasts from 4 to 6 weeks. Contagiousness diminishes until it disappears during this phase. The patient has NO fever, and suffers bouts of paroxysmal hacking cough, with repeated and violent expiratory jerks, often emetogenic (less frequent in adults), with no effective inhalation or chronic spasmodic cough.
+
+Infants are particularly susceptible: they may present with a severe form of malignant pertussis (ARDS, major hyperlymphocytosis) with asphyxiating coughs organised into a long expiratory cough followed by a difficult inspiratory resumption which may be noisy, mimicking the crowing of a cock, or apnoea +/- bradycardia +/- bacterial superinfections. Infants under 6 months of age are life-threatening, and hospitalisation is recommended before the age of 3 months.
+
+'''Phase 3''': convalescence
+
+The convalescence period is accompanied by a cough that does not break into a coughing fit, which is less frequent and less severe, but persists for several weeks, due to bronchial hyper-reactivity (average 6 months).
+
+The course of the disease in young infants who have not been vaccinated, or who have been incompletely vaccinated, is summarised in Figure 1: in previously vaccinated children and adults, immunity to the vaccine, as well as immunity to the natural disease, is gradually lost over a period of around ten years. Most cases of pertussis are mild, most often in the form of a prolonged cough. In adults, any cough lasting more than a week should raise the suspicion of pertussis.
+
+Figure 1: The different phases of pertussis
+[[File:Pertussis.pptx|thumb]]
+<br />

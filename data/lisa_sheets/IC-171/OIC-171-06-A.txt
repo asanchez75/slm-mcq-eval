@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-171-06-A
+|Item_parent=Scabies and Pediculosis
+|Item_parent_short=Scabies and Pediculosis
+|Rank=A
+|Title=Photography of scabies lesions
+|Description=None
+|Rubric=Multimedia content
+|Contributors=M. P. BRENIER-PINCHART,G. ROBERT,M. HENTZIEN,A. ANGOULVANT,F. BOTTEREL,M. L. DARDE,F. ROBERT-GANGNEUX
+|Order=6}}
+<gallery widths="400" heights="400" perrow="2">
+</gallery>
+<gallery widths="400" heights="400" perrow="2">
+File:Hand sillons scabieux.jpg|Gale commune : sillons scabieux interdigito-palmaires
+File:Wrist scabious grooves .jpg|Gale commune : scabious grooves at wrist level
+</gallery><gallery widths="500" heights="500">
+Fichier:Gale chancre pénien.jpg|Gale commune : nodules in the sheath of the penis (penile chancre)
+</gallery><gallery widths="400" heights="400" perrow="2">
+</gallery><gallery widths="500" heights="500" perrow="2">
+Fichier:Gale du nourrisson.jpg|Gale du nourrisson : papulo-vesicular lesions on the soles of the feet, characteristic location in infants
+Fichier:Gale hyperkératosique.jpg|Gale hyperkératosique, the stratum corneum is home to numerous sarcoptes. This clinical form is highly contagious
+</gallery><gallery widths="300" heights="300" perrow="2">
+</gallery>

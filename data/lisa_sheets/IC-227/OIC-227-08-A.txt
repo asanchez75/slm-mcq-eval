@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-227-08-A
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=A
+|Title=Knowing how to recognise a varicose ulcer
+|Description=Knowing the characteristics of varicose ulcers
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=8}}
+'''''Venous ulcers''''' (''SDD-[[Skin ulcer SD-092|cutaneous ulcer]]'') are the final stage of CVI.
+
+Its main features are:
+
+* Peri-malleolar location
+* Superficial, non-digging appearance,
+* Exudative and fibrinous ulcer,
+* Large size,
+* The presence of signs of CVI and/or associated varicose veins.
+
+Exceptionally, after many years without healing, it may develop into a carcinoma. Biopsy is indicated in cases of exuberant budding.

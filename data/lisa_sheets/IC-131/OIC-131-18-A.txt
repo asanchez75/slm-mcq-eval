@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-131-18-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Knowing the management of HTO
+|Description=Know the basic principles of the management of OHT.
+|Rubric=Management
+|Contributors=
+|Order=18}}
+
+
+# Begin by eradicating the acute aetiological trigger and/or improving the treatment of the chronic pathology, where possible.
+# Educate the patient to break down the time spent in orthostasis
+# Use of class 2 venous restraint (even if the level of evidence is low)
+# Proper hydration
+# Review the prescription with all treatments
+
+Secondly, discuss the introduction of midodrine (by a vasoconstriction mechanism) or fludrocortisone (by haemodynamic inflation, but off-label), respecting the contraindications and explaining the main side-effects.

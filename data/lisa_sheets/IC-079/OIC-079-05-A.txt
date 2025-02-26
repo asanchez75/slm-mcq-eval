@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-079-05-A
+|Item_parent=Behavioural prohibitions
+|Item_parent_short=Behavioural prohibitions
+|Rank=A
+|Title=Knowing psychiatric and addictive co-morbidities
+|Description=Knowing the frequent co-morbidity of psychiatric and addictive disorders
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+These include mood disorders (characterised depressive episode, bipolar disorder), suicidal risk (to be systematically assessed), anxiety disorders, attention deficit disorder with or without hyperactivity, personality disorders, substance use disorders (especially tobacco and alcohol).
+
+These co-morbidities must be systematically investigated and treated

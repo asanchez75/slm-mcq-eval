@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-067-03-B
+|Item_parent=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Item_parent_short=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Rank=B
+|Title=Knowing the general principles of care
+|Description=None
+|Heading=Management
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame
+|Order=3}}
+
+==General organisation
+The treatment of NDT is based on a number of different approaches:
+
+*Early and intensive multidisciplinary therapeutic measures
+*Coordinated by a referring doctor
+*Therapeutic education/parental guidance
+*Therapeutic measures specific to NDT according to individual needs
+
+
+The diagnosis and treatment of NDT is based on a "graduated organisation":
+
+*Level 1: early identification by general practitioners, school doctors, mother and child protection services (PMI), etc.
+*Level 2: diagnosis and treatment in medical-psychological centres (CMP), medical-psycho-educational centres (CMPP) and early medical-social action centres (CAMSP).
+*Level 3: centres of reference/hospital consultations for complex diagnoses,
+
+==Accompanying disability==
+When the functional repercussions remain significant over time, some cases of NDD require recognition of disability by the Maison Départementale des Personnes Handicapées (MDPH), which will take measures to compensate for the child's [[Handicap de l'enfant en France 2C-056-PE-B01|handicap]]'' and/or provide guidance.
+
+NB: MDPHs are now sometimes grouped together in Maisons de l'Autonomie (MDAs), which also manage assistance plans for the elderly''.
+
+The MDPH application form has 3 sections: parents, school, medical certificate with supporting evidence
+
+=== Examples of disability compensation measures ===
+
+* Allocation d'Éducation de l'Enfant Handicapé AEEH (Education allowance for disabled children)
+* Accompanying disabled pupils (AESH)
+* Computer use
+
+=== Orientation examples ===
+
+* Referral to a Service d'Éducation Spéciale et de Soins à Domicile (SESSAD), which supports children in ordinary schooling
+* Referral to a specialised school: Unité Localisée pour l'Inclusion Scolaire (ULIS), Institut Médico-Social (IME), etc.
+
+=== Examples of accommodations that can make schooling easier for children with PDD ===
+
+*Personalized Programme for Educational Success (PPRE): simple educational measures
+*Personalized Support Project (PAP): more extensive educational measures
+*PAI (Individualised Attendance Plan): taking medication during school time or other adaptations
+*Personalized Schooling Plan (PPS): more extensive measures (AESH, AEEH, computer, specialist referral) requiring notification from the MDPH.

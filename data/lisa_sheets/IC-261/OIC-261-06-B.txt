@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-261-06-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Know the main elementary glomerular lesions: proliferation, deposits, sclerosis, etc.
+|Description=None
+|Rubric=Definition
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=6}}
+
+2.        Elementary glomerular lesions
+
+* Three techniques are used to study the glomerulus:
+** light microscopy using PAS, trichrome and silver staining ;
+** immunofluorescence examination using antibodies directed against IgG, IgA, IgM, C3, C1q, light chains of kappa and lambda immunoglobulins, and fibrin;
+** electron microscopy.
+
+* 4 elementary glomerular lesions are usually described.
+** Cell proliferation: table 3.
+** Sclerosis (or fibrosis): fibrous scarring replacing the whole of the destroyed glomerulus (sclerotic glomerulus) or part of the destroyed glomerulus (segmental sclerosis).
+** Deposits of immunoglobulin chains (IgG, IgM, IgA, Kappa, Lambda) or complement. Table 4 summarises the different locations.
+** Other deposits
+*** hyaline deposits (segmental and focal hyalinosis) ;
+*** amyloid deposits (Ig chains: AL amyloidosis, SAA: AA amyloidosis);
+*** deposits of glycosylated proteins and extracellular matrix (diabetes).
+
+
+Table 3: Cell proliferation
+{| class="wikitable"
+|Name
+|Cell type
+|Clinical translation
+|-
+|Mesangial proliferation
+|Mesangial cells
+|Inconsistent severity, observed in many pathologies
+|-
+|Endocapillary proliferation
+|Endothelial cells and infiltration by polymorphonuclear cells and monocytes
+|Severity during acute inflammatory attacks (e.g. GNA) with inconstant renal failure.
+|-
+|Extracapillary proliferation
+|Parietal epithelial cells
+|High severity, acute renal failure, e.g. in rapidly progressive (crescentic) glomerulonephritis.
+|}
+
+
+Table 4: Glomerular locations of deposits
+{| class="wikitable"
+|Name
+|Location of deposits
+|-
+|Mesangial
+|Within the mesangium
+|-
+|Edomembranous
+|Subendothelial space (inner side of MBG)
+|-
+|Intramembranous
+|In the MBG
+|-
+|Extramembranous
+|In contact with the podocytes (outer side of the MBG)
+|}
+MBG: glomerular basement membrane
+<br />

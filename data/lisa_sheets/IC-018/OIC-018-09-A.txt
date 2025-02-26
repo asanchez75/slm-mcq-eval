@@ -1,0 +1,81 @@
+{{knowledge objective
+|Identifiant=OIC-018-09-A
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=A
+|Intitle=Understanding the place and implications of m-health (mobile applications) and social media in interprofessional communication and personal health
+|Description=None
+|Rubric=Taking charge
+|Contributors=CIMES
+|Order=9}}
+
+=m-health=
+mHealth is defined by the WHO as: ''"medical and public health practices that rely on mobile devices such as mobile phones, patient monitoring systems, personal digital assistants and other wireless devices"''[[Understanding the place and implications of mHealth (mobile applications) and social media in inter-professional communication and personal health 2C-018-PC-A02#%20ftn1|<sup><sup>[1]</sup></sup>]]. These mobile devices are very often ''connected'' to the Internet and can collect, store, process and distribute data and/or perform specific actions depending on the information received.
+
+
+Distinguish between ''mobile medical devices'' and ''applications'' and ''connected health objects'' (Apps/OCS). A mobile DM has a medical purpose declared by its manufacturer and complies with specifications in line with EU Regulation 2017/745, which results in CE marking. An Apps/OCS, although not having a medical purpose declared by its manufacturer, is still likely to have a potential effect on health.
+
+
+The use of mobile applications in healthcare can be :
+
+*Communication of medical information between the patient and the healthcare professional, in the context of ''self-measurement''; or in the context of ''telemedicine, telehealth and teleservices in healthcare''.
+*Communication between patients via messaging or social networks dedicated to the mobile application.
+*Dissemination of public health information via mobile applications.
+*Decision support systems aimed directly at patients.
+
+
+Different functionalities can be nested within the same application.
+
+
+Framework for evaluating an m-health solution :
+
+*User information.
+*Health content.
+*Technical content.
+*Safety/reliability.
+*Use/usage.
+
+=Social Media=
+
+==Definition==
+They enable "the creation and publication of user-generated content" and promote "connections between user profiles". They can contribute to ''patient empowerment'' (''a process of personal transformation by which patients strengthen their ability to take effective care of themselves and their health, and not just their illness and treatment as most often described in the medical literature''); and enable patients to ''draw on a community'' to solve complex problems.
+
+
+The dissemination of a message and the information that can be derived from it depend on :
+
+*The "type of media" (video, text, image, etc.)
+*The "type of content shared" (testimonials, primary prevention message, "viral" nature of the information, emotion, surprise)
+*Internet user motivation (co-creation, recognition, reciprocity)
+*Influencers (relaying information to a wider audience)
+*Social media characteristics'' (network structure, visibility/information filtering)
+
+
+The management of social networks is becoming increasingly professional as part of the development of '''''community manager''''' to communicate and lead a network.
+
+
+Development of a new field of research: '''infodemiology''''[[Understanding the place and implications of m-health (mobile applications) and social media in interprofessional communication and people's health 2C-018-PC-A02#%20ftn2|<sup><sup>[2]</sup></sup>]] which is the field of study and analysis of infodemias. An '''infodemia''' is a rapid and widespread spread of a mixture of both '''accurate''' and '''inaccurate''' information on a subject, which may be a disease.
+
+==Information & social media==
+Social media make it easier to keep up to date with the latest scientific information (e.g. subscribing to health agency news feeds, scientific journals, etc.).
+
+
+We are witnessing the development of a new public health issue: ''Health literacy''.
+
+*Definition of "health literacy": the ability to "find", "understand" and "use" information to improve one's own health.
+*Improving health literacy has a positive impact on the health of a population.
+
+==Conduct to follow (non-exhaustive)==
+
+*Strict observance of professional secrecy.
+*Inform patients about the ''risks of over-exposing their private lives and health issues'' on social media.
+*Inform patients about the need to "distance themselves" from the publications of other internet users.
+*Be aware of patient networks and patient associations. Refer patients to these patient associations.
+*No defamation of colleagues on social networks. Consider that anything you say on social media is public.
+*Make sure you maintain a good online reputation by '''monitoring your visibility on search engines'' and the comments associated with it. Do not publish a curriculum laboris or an overly glowing biography on the internet.
+*Publications on social media are subject to the law (copyright, image rights, advertising regulations).
+*Know how to "declare any links of interest" if necessary when communicating about a health product.
+*Knowing how to "identify possible links of interest with groups dedicated to health" on social media (manufacturers, others).
+
+----[[Understanding the place and implications of mHealth (mobile applications) and social media in interprofessional communication and personal health 2C-018-PC-A02#%20ftnref1|<sup><sup>[1]</sup></sup>]] WHO Global Observatory for eHealth, and World Health Organization, MHealth: new horizons for health through mobile technologies, World Health Organization, Geneva, 2011. <nowiki>http://www.who.int/goe/publications/goe_mhealth_web.pdf</nowiki> (accessed May 8, 2021).
+
+[[Understanding the place and implications of m-health (mobile applications) and social media in interprofessional communication and people's health 2C-018-PC-A02#%20ftnref2|<sup><sup>[2]</sup></sup>]] First WHO conference on infodemiology [Internet]. [cited 31 May 2021]. Available from: <nowiki>https://www.who.int/fr/news-room/events/detail/2020/06/30/default-calendar/1st-who-infodemiology-conference</nowiki>

@@ -1,0 +1,99 @@
+{{knowledge objective
+|Identifiant=OIC-174-02-A
+|Item_parent=Infectious pathology in adult and child migrants
+|Item_parent_short=Infectious pathology in adult and child migrants
+|Rank=A
+|Intitle=Knowing the main infectious pathologies of migrants
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Johan Courjon
+|Order=2}}
+
+
+===Infectious diseases acquired in mainland France===
+The change of environment and precarious living conditions (insalubrious housing, malnutrition, promiscuity, working conditions) favour the acquisition of infectious pathologies once in France. These can include respiratory, digestive and STI infections. HIV infection and tuberculosis can occur during the journey or once you arrive in France. Pneumococcal infections and non-typical salmonellosis are common among sickle cell patients.
+
+===Import infectious diseases===
+
+===Parasitosis===
+
+======[[Paludisme]]======
+Most cases of P. falciparum occur within 2 months of arrival. Prevention in the event of return to the country of origin is important [[2C-174-PC-A02]].
+
+======Schistosomoses======
+Second most common parasitic disease in the world after malaria. Infection by "Schistosoma mansoni" (intestinal and hepatosplenic form), "S. japonicum" and "S. mekongi" (hepatosplenic form) and "S. haematobium" (urogenital form). Often diagnosed in the status or complications phase in new arrivals (the status phase is the third phase after skin penetration and invasion) in migrants, with moderate or absent hypereosinophilia and, depending on the form: haematuria, cirrhosis and complications, hepatic fibrosis, diarrhoea, sometimes rectorrhagia, tenesmus. When children return to their country of origin on holiday, they are regularly exposed to the disease by swimming in fresh water. In this situation, schistosomiasis (or bilharziosis) may manifest itself during the invasion phase on return to France (hypereosinohilia, pruritus, urticarial rash, arthralgia, hepatomegaly).
+
+======[[Digestive parasites: giardiasis, amoebiasis, tapeworm, ascariasis, pinworm|Intestinal parasites]]======
+Hookworm (anaemia)
+
+[Digestive parasitoses: giardiosis, amoebiasis, tapeworm, ascariasis, oxyurosis|Strongyloidiasis]] (variable digestive manifestations, serious disseminated forms of [[Non-steroidal anti-inflammatory drugs and corticosteroids administered systemically or locally: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A01|immunocompromised patients]]).
+
+Ascariasis (non-specific digestive sign in the state phase)
+
+Taeniosis (''Taenia saginata'' and ''solium''). T. solium causes neurocysticercosis.
+
+Giardiosis: asymptomatic, dyspepsia or diarrhoea, protozoa, so no hypereosinophilia
+
+Possible polyparasitism with hypereosinophilia and/or hypergammaglobulinemia
+
+Anemia and delayed weight gain may occur in children
+
+======[[Digestive parasites: giardiasis, amoebiasis, tapeworm, ascariasis, pinworm|Amoebiasis]]======
+Colonic amoebiasis (subacute or chronic diarrhoea, sometimes invasive form)
+
+Hepatic amoebiasis (painful, febrile liver abscess-epatitis)
+
+This may even be the case several months or years after arrival in France.
+
+======[[Zoonoses|Hydatidose]]======
+Common in North Africa. Discovered clinically (hepatomegaly) or iconographically (cyst on ultrasound, calcifications on radiology) by chance.
+
+Complications of cysts (fissuring, compression, superinfection) are also a way of revealing the disease.
+
+======Filariose======
+Loasis: pruritus and episodic migrant oedema (Calabar oedema),
+
+Lymphatic filariasis: early acute lymphangitis followed by chronic oedema of lymphatic origin in the lower limbs and scrotum.
+
+Onchocerciasis: rare
+
+======Trypanosomose======
+African trypanosomiasis or sleeping sickness with a lymphatic-blood phase and a meningoencephalic phase.
+
+American trypanosomiasis or Chagas disease with an acute and a chronic phase (cardiomyopathy may occur in the chronic phase)
+
+======Leishmaniose======
+Cutaneous: subacute or chronic ulcerative-crust lesions
+
+Visceral: long-term fever, splenomegaly, pancytopenia <br />.
+
+====Ectoparasitose====
+[Scabies and Pediculosis]<br />
+
+====Bacterial infections====
+
+======[[Tuberculosis in adults and children|Tuberculosis]]======
+Incidence ten times higher than in people born in France
+
+Frequent association with HIV infection
+
+Infection or colonisation by [[Define multi-resistant bacteria (MRB), highly resistant bacteria (HRB), multi-resistant bacteria (MRB) or highly resistant bacteria (HRB)]]. Colonisation is frequent, justifying a dedicated strategy in the event of hospitalisation ([[2C-174-DP-A01]]).
+
+======[[Sexually transmitted infections (STI): gonorrhoea, chlamydia, syphilis, human papillomavirus (HPV), trichomoniasis|Treponematoses]]======
+Syphilis and non-venereal treponematoses <br />
+
+====Viral infections====
+
+====== [[HIV : Understanding prevention through screening 2C-027-PC-A06|HIV]]======
+Incidence ten times higher than in people born in France
+
+======[[Viral hepatitis|Hepatitis B]]======
+It is estimated that three quarters of the patients treated are migrants
+
+======[[Viral hepatitis|Hepatitis C]]======
+
+======[[Viral hepatitis|Hepatitis A and E]]======
+Community microepidemic (prevention: [[2C-174-PC-B01]])
+
+======[[Emerging risks, bioterrorism, highly communicable diseases|Highly pathogenic viruses]]======
+Very low but not zero risk of viral haemorrhagic fever. To be considered depending on the epidemic context and local lifestyles (emerging risks item).

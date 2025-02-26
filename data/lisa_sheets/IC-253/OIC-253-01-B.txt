@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-253-01-B
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=B
+|Title=Knowing the epidemiology of obesity and the issues involved
+|Description=None
+|Rubric=Prevalence
+|Contributors=
+|Order=1}}
+'''Epidemiology:'''' Prevalence in France in 2020
+
+- Obesity: 17% of adults and 6% of children aged 8 to 17
+
+- Obesity + overweight: Around 50% of adults and 16-20% of children
+
+- Increasing in adults, stable in paediatrics
+
+- Increases with age
+
+- Higher in disadvantaged social classes, in the north and east of France, and in overseas territories.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-001-06-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the factors influencing the information given to the patient.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+Informing the patient is part of the quality of the relationship. The carer's communication skills are used to shape the information in the service of this relationship.
+
+Factors linked to verbal and non-verbal communication and contextual factors (location, temporality, interference, etc.) influence the information delivered.
+
+A complementary relationship requires the 2 interlocutors to engage in a constructive process of collaboration: feedback influences the quality of the information exchanged.

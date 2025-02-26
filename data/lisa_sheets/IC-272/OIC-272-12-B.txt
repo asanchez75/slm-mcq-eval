@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-272-12-B
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=B
+|Item_parent_short=Gastric and duodenal ulcers.
+|Description=Gastric / duodenal
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=12}}
+- Duodenal ulcers never degenerate
+
+- Gastric cancers may have the appearance of a benign ulcer, which is why their healing should be monitored endoscopically (with multiple biopsies of the ulcer margins).
+
+<br />

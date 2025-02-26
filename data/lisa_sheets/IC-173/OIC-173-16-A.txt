@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-173-16-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the elements of the clinical and biological diagnosis of toxoplasmosis in immunocompetent patients
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux,Carole Eldin,Françoise Botterel,Marie-Laure Dardé
+|Order=16}}
+
+In immunocompetent patients, primary toxoplasma infection is rarely symptomatic (around 10-15% of cases). The usual clinical picture is one of asthenia, moderate fever and polyadenopathy (cervical and occipital, which may persist for several weeks). Headache, arthromyalgia and a maculopapular rash may also be present. Chorioretinitis occurs in 5-10% of cases.
+
+This clinical picture is frequently associated with a mononucleosis syndrome, hepatic cytolysis and possibly moderate hypereosinophilia.
+
+Much more rarely, particularly in French Guiana, severe forms caused by hypervirulent strains may be observed, combining fever with multiple organ damage (lung, heart, brain, skin, eye, etc.).
+
+Diagnostic confirmation is based on the [[Interpretation of an SD-236 serology result|'''serology''']]: determination of specific IgM and IgG. IgM appears early after infection, but IgG appears at least 2 weeks later. If only IgM is detected at the time of clinical signs, serology should be checked 2 weeks later to confirm infection. If specific IgG and IgM are detected on the first serology test, an IgG avidity test will be required to link the clinical signs to recent toxoplasmosis (very low avidity). IgM can persist for more than a year after primary infection.

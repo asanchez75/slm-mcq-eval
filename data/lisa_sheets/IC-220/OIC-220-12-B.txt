@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-220-12-B
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=B
+|Title=Superficial adenopathy in children: first-line complementary examinations
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=12}}
+After the clinical examination, further tests should be ''guided by the context'' and ''according to the diagnostic orientation''.
+
+No further examination is necessary in the context of a common ENT viral infection.
+
+Examination to be discussed outside this context:
+
+- haemogram: look for neutrophil polynucleosis, cytopenia, circulating tumour cells, mononucleosis syndrome
+
+- CRP if inflammatory/infectious aetiology
+
+- LDH if tumour or haemopathy suspected
+
+- '''IDR tuberculine selon l'orientation'''
+
+- '''Serologies''' EBV, CMV, toxoplasmosis: in the case of polyadenopathies without orientation or depending on the context
+
+- '''Bartonella henselae serology''' in cases of suspected cat scratch disease, or single adenopathy without referral
+
+- Loco-regional ultrasound of the site of the adenopathy
+
+- '''Cytopuncture of lymph nodes''' to be discussed (diagnostic orientation and/or documentation)
+
+- Chest X-ray: to look for enlargement of the mediastinum or infection
+
+- Abdominal ultrasound: search for a tumour syndrome
+
+
+Lymph node biopsy is less routine in paediatric patients and should rarely be performed as a first-line procedure.

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-104-01-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the main epidemiological features of multiple sclerosis (MS)
+|Description=Prevalence 100,000 patients in France, M/F ratio < 1, genetic and environmental factors)
+|Rubric=Prevalence, Epidemiology
+|Contributors=
+|Order=1}}
+- Disease of young adults (20-40 years), mainly women (3 for 1 man).
+
+- Prevalence: 1 person/1000, i.e. 100,000 people in France.
+
+- North-south gradient: MS is more common further away from the equator
+
+- The causes of MS are multifactorial:
+
+o genetic: Caucasoid population, 30% concordance in monozygotic twins compared with 2-3% in heterozygotic twins, susceptibility genes (linked in particular to the HLA group)
+
+o environmental: viral infections (EBV +++), hygiene, vitamin D deficiency, active or passive smoking

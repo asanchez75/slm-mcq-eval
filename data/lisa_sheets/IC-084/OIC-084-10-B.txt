@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-084-10-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Knowing the mechanisms of action of medical treatments
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+Numerous drugs are available, in local or systemic form, with different mechanisms of action:
+
+'''- Decreased secretion of aqueous humour:''''
+
+- beta-blocker eye drops,
+
+- alpha-adrenergic agonist eye drops
+
+- carbonic anhydrase inhibitors: topically (eye drops) or systemically
+
+
+'''- Increased elimination of aqueous humour:'''
+
+- prostaglandin eye drops

@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-330-14-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Rank=A
+|Title=Insulins and insulin analogues: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=Claire Lafay-Chebassier,Pierre-Jean Saulnier
+|Order=14}}
+
+== '''Mechanisms of action''' ==
+Insulin therapy tailored to each patient is a replacement treatment designed to compensate for the insulin deficiency observed. Insulins reduce blood glucose levels by increasing peripheral uptake of glucose by skeletal muscle and adipose tissue and reducing its release in the liver.
+
+Insulins or insulin analogues are differentiated by their onset and duration of action (rapid, intermediate or slow).
+
+Insulin can be administered by subcutaneous injection (one to four times a day), by external pump (continuously) or sometimes in acute situations by IV injection.
+
+Insulin therapy consists of reproducing as closely as possible the physiological insulin secretion of the normal pancreas by ensuring that basal insulin levels are as stable as possible for 24 hours and that there are 3 insulin peaks at the time of each of the 3 meals.
+
+== '''Indications''' ==
+
+* diabetes mellitus including type 1 diabetes (insulinopenic), diabetic ketoacidosis
+* type 2 diabetes in pregnant women and type 2 insulin-requiring diabetes ([[Prescription of medication, follow-up consultation and education of a patient with type 2 diabetes or secondary diabetes SD-281|prescription of medication, follow-up consultation and education of a patient with type 2 diabetes or secondary diabetes]])
+
+== '''Side effects''' ==
+
+* Dose-dependent hypoglycaemia (+++) or even hypoglycaemic coma in the event of overdose
+* Weight gain
+* Hypersensitivity (rare)
+* Local reactions: erythema, injection site pain, lipodystrophy in the event of repeated injections at the same site.
+* Hypokalaemia with IV insulin (rare)
+
+== '''Drug interactions''' ==
+
+* Drugs likely to increase the risk of hypoglycaemia: hypoglycaemic sulphonamides, ACE inhibitors, beta-blockers, etc.
+* Drugs likely to reduce the hypoglycaemic effect: corticosteroids, other immunosuppressants (ciclosporin, tacrolimus), etc.
+
+== '''Surveillance''' ==
+
+* Daily self-monitoring of blood glucose (2 to 4 times a day, fasting and postprandially) to adapt insulin dosage (use of self-monitoring diary), continuous interstitial blood glucose meter (free style libre 2 type).
+* Blood testing of glycated haemoglobin HbA<sub>1C</sub> is carried out every 3 months to assess long-term glycaemic control (HbA1c targets are set individually).
+
+== Main causes of failure ==
+poor compliance, progression of the disease, intolerance to the treatment

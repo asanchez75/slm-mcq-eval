@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-276-08-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Title=Modensitometry of liver metastases
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+<gallery>
+File:MetaHepport.png|TDM time portal
+</gallery>

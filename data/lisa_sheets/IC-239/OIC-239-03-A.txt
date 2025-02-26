@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-239-03-A
+|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Rank=A
+|Heading=Know the clinical features that enable a distinction to be made between primary and secondary Raynaud's phenomenon.
+|Description=terrain, evolution, triggering factors, topography, phases, associated trophic disorders, Allen manoeuvre, other clinical signs of call.
+|Rubric=Positive diagnosis
+|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello
+|Order=3}}
+
+The diagnostic strategy focuses on differentiating between Raynaud's disease (primary RA) and secondary RA. Primary RA is the most common (4 out of 5 cases).
+
+Clinical examination, in search of arguments to cast doubt on the primary origin of the RA. The clinical features that raise the suspicion of secondary RA are :
+
+*male sex;
+* onset after the age of 40
+* absence of summer remission;
+* no family history of RA;
+* Involvement of the thumbs;
+* unilateral;
+*digital ulcers (or retractile scars ('''''[[Abnormal scar SD-083|abnormal scar]]''''') of digital ulcers ('''''[[Skin ulcer SD-092|skin ulcer]])''''' ;
+* abolition of a pulse ;
+*a pathological Allen manoeuvre.
+
+As well as:
+
+- clinical features suggestive of scleroderma: telangiectasia, sclerodactyly, subcutaneous calcinosis, pyrosis, etc.
+
+- occupational exposure to vibrating machinery or repetitive hand trauma '''''([[Prévention des risques professionnels SD-315|prevention of occupational risks]]'')'',
+
+- iatrogenic effects of a drug or toxic treatment (e.g. tryptans, β-blockers, clonidine....) ( '''''[[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|voluntary or involuntary intake of a toxic or potentially toxic drug]]; [[Suspicion of an adverse drug reaction or care SD-348|suspicion of an adverse drug reaction or care]]'').'''''

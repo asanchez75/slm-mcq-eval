@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-360-02-B
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=B
+|Title=Knowing the pathophysiology of primary and secondary pneumothorax
+|Description=None
+|Topic=Physiopathology
+|Contributors=Julien Poissy
+|Order=2}}
+
+<gallery widths="500" heights="500">
+File:Physiopathology pneumothorax.jpg
+</gallery>

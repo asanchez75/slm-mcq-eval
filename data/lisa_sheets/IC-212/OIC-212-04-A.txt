@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-212-04-A
+|Item_parent=Hemogram in adults and children: indications and interpretation
+|Item_parent_short=Hemogram in adults and children: indications and interpretation
+|Rank=A
+|Title=Knowing the indications for an emergency request
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=4}}
+'''A haemogram must be performed urgently in the event of:'''
+
+- '''a state of shock;'''
+
+- '''an intense pallor;'''
+
+- '''ulcerative or antibiotic-resistant angina;'''
+
+- '''a high fever after taking medication, especially after antimitotic chemotherapy;'''
+
+- '''an antibiotic-resistant fever;'''
+
+- '''extensive petechial purpura, haemorrhagic bullae in the mucous membranes, retinal haemorrhages at the back of the eye, haemorrhagic syndrome.'''
+
+- '''A tumour syndrome of the haematopoietic organs'''

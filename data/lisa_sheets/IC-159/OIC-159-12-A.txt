@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-159-12-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the general principles of tuberculosis treatment
+|Description=None
+|Heading=Management
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=12}}
+
+'''Summary: this is necessarily a prolonged multitherapy in order to eradicate the different populations of tuberculosis bacilli and avoid the emergence of resistance.'''
+
+Anti-tuberculosis treatment involves a combination of different antibiotics active on populations of bacilli at different metabolic stages:
+
+* Intracellular bacilli in macrophages,
+* actively multiplying extracellular bacilli
+* bacilli whose multiplication is greatly slowed down in caseous necrosis.
+
+Treatment must be prolonged to eradicate bacilli whose growth has slowed considerably and to avoid relapses when treatment is stopped. Given the long doubling time (20 hours) of the tubercle bacillus, a single daily dose is sufficient.
+
+The combination of antibiotics is essential to prevent the selection of resistant mutants within the population of tubercle bacilli. Resistance is acquired through the selection of resistant mutants. The risk of selection is all the greater when the quantity of bacilli (inoculum) in the lesion is large, as is the case in a tuberculous cavern (~ 10<sup>8</sup> bacilli).

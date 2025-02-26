@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-102-05-B
+|Item_parent=Diplopia
+|Item_parent_short=Diplopia
+|Rank=B
+|Title=Know the definition of tropies
+|Description=exotropy, esotropy, hypertropy
+|Topic=Positive diagnosis
+|Contributors=
+|Order=5}}
+Tropia (or strabismus): deviation of the visual axes.
+
+'''- Esotropia:''' inward deviation of the eye
+
+'''- Exotropia''': outward deviation of the eye
+
+'''- Hypertropia:''' upward deviation of the eye
+
+'''- Hypotropia:''' downward deviation of the eye

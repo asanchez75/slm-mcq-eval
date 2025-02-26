@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-226-05-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Knowing how to identify and diagnose high-risk PE
+|Description=None
+|Item=Identification of the emergency
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=5}}
+A PE at high risk of mortality (severe PE) is a PE associated with haemodynamic failure defined by a systolic blood pressure (SBP) < 90 mmHg or a fall in SBP ≥ 40 mmHg for more than 15 minutes, in the absence of another cause such as sepsis, arrhythmia or hypovolaemia. This is an absolute life-threatening emergency, given that the risk of mortality is > 30%. There is no place for DD assays in this context.
+
+The management strategy is set out in the algorithm below:
+
+- Diagnosis'', [[Reasoned request/prescription and choice of a diagnostic examination SD-178|the reference examination]] remains the thoracic angioscanner when it can be carried out without delay and when the patient's haemodynamic state allows it. If this is not possible, the diagnosis is based on trans-thoracic echocardiography in the patient's bed.
+
+'''- Therapeutic''', the treatment combines fibrinolysis (in the absence of absolute contraindication) and [[Heparins|anticoagulation]] by HNF until stabilisation of the patient who is hospitalised initially in intensive care. [[Fichier:EP2.jpg|gauche|vignette]]
+<br />

@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-074-15-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Heading=Anxiolytics: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=15}}
+
+
+==Undesirable effects==
+{| class="wikitable"
+|+
+For all: possible allergic reactions.
+<br />
+|'''Chemical class'''
+|'''Adverse reactions'''
+|'''Management'''
+|-
+| rowspan="7" |'''Benzodiazepines'''
+|Sedation :
+
+*Daytime sleepiness, asthenia, dizziness, impaired alertness.
+*Potentiated by alcohol
+|
+*Patient information, particularly with regard to driving.
+*Adaptation of doses
+|-
+|Cognitive alterations :
+
+*memory impairment and impaired reaction capacity
+*Confusion may occur in the elderly
+|
+*Adaptation of doses, cautious discontinuation if confusion.
+|-
+|
+*Behavioural disorders favoured by alcohol:
+*Disinhibiting effect
+| rowspan="3" |
+*Do not combine with alcohol
+*Contraindicated for subsequent prescription of benzodiazepines.
+|-
+|
+*Paradoxical reactions favoured by alcohol
+*Agitation and aggression
+|-
+|
+*Amnesic automatic actions: in impulsive patients, which may have medico-legal consequences.
+|-
+|
+*Pharmacological dependence and withdrawal syndrome when treatment is stopped.
+*Use disorder
+|
+*Respect the rules for stopping treatment (gradual reduction).
+|-
+|
+*Anxiety rises when treatment is stopped
+|
+*Monitoring progress
+|-
+|Azapirones
+|
+*Nausea, headache at the start of treatment
+|
+*Wait, symptomatic treatment
+|-
+|H1 antihistamine
+|
+*Sedation, daytime somnolence, asthenia, dizziness, impaired alertness.
+*Potentiated by alcohol
+*QT prolongation
+|
+*Patient information, particularly with regard to driving.
+*Adaptation of doses
+|}
+
+== Main drug interactions
+
+* There are no formally contraindicated associations with benzodiazepines, but certain pharmacodynamics must be taken into account: potentiation of sedative effects by any other CNS depressant.
+* Antihistamines: avoid combinations with other anticholinergics and other CNS depressants.

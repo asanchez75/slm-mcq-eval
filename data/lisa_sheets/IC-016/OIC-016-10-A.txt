@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-016-10-A
+|Item_parent=Organisation of the healthcare system. Its regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the healthcare system. Its regulation. Indicators. Care pathways
+|Rank=A
+|Intitulé=To know the various types of health establishments: ESPIC, private, public
+|Description=None
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=10}}
+
+At 31 December 2018, France had 3042 healthcare establishments.  These include public healthcare establishments, private healthcare establishments of collective interest (ESPIC) and private for-profit establishments (private commercial clinics)[1].
+
+The trend is :
+
+- a reduction in the number of acute hospital beds,
+
+- the development of outpatient surgery and day hospitalisation in general, as in other rich countries (notably the United States, Canada and the United Kingdom), and
+
+- the development of the medico-social accommodation sector.
+
+In day hospitalisation, we don't talk about hospital beds but about "places".
+
+
+
+Table 1 shows the number of hospitals and their capacity by category in 2013 and 2018<gallery>
+File:16 Table 1 Hospitals.png
+</gallery>Sources: DREES, SAE 1013 and 2018, DREES processing.
+
+====Health facilities by type of activity====
+Acute establishments provide medical, surgical and obstetric care, while follow-up and rehabilitation establishments provide convalescence care, and long-term care units provide accommodation and care for people whose condition requires constant medical supervision. There are also establishments devoted exclusively to one medical speciality: mental health (psychiatric hospitals) and the fight against cancer (Unicancer, which brings together the twenty cancer centres in France).
+
+====Health facilities by status====
+A distinction is made between public and private healthcare establishments. Among private health establishments, there are private not-for-profit establishments known as private health establishments of collective interest (ESPIC) and private commercial establishments (or private commercial clinics).
+
+
+
+Graph 1 illustrates the decline in full hospitalisation beds and the increase in the number of partial hospitalisation places since 2003 according to the activity of the establishments.<gallery>
+File:16 Graph-number-of-beds.png
+</gallery><br />
+----[1] <nowiki>https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference/panoramas-de-la-drees/les-etablissements-de-sante-edition-2021</nowiki>

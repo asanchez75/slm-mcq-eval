@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-316-03-A
+|Item_parent=Myelodysplastic syndromes
+|Item_parent_short=Myelodysplastic syndromes
+|Rank=A
+|Title=Knowing blood count abnormalities
+|Description=NOS with one or more cytopenias. Most commonly normochromic normocytic or macrocytic anaemia.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+
+
+= <small>1.   Discovery</small> =
+- Often incidental, on a blood count
+
+- If signs suggestive of cytopenias appear (anaemia, neutropenia, thrombocytopenia)
+
+- Anaemia is present in 80% of cases
+
+- Rarer: haemorrhagic symptoms associated with thrombocytopenia (with or without thrombopathy, as there is a quantitative and qualitative defect in production), or an infectious condition associated with neutropenia (see febrile neutropenia).
+
+= <small>2.     Clinical examination</small> =
+- Generally normal
+
+- Signs associated with bone marrow failure: anaemia, thrombocytopenia, neutropenia, etc.
+
+- No tumour syndrome: except for borderline forms between myelodysplastic syndrome and myeloproliferative syndrome where splenomegaly may be observed (chronic myelomonocytic leukaemia - CMML).
+
+= <small>3.   Blood count</small> =
+
+
+- '''Anemia'''
+
+o almost constant (80%)
+
+o Normochrome
+
+o usually macrocytic (sometimes normocytic)
+
+o non-regenerative
+
+- '''Thrombocytopenia'''
+
+o Often moderate
+
+o More marked in severe forms (high-risk)
+
+o A normal or increased platelet count does not exclude myelodysplastic syndrome.
+
+o Sometimes associated with thrombopathy (qualitative abnormality)
+
+- '''Leukocytes'''
+
+o Normal or decreased counts associated with neutropenia (< 1.5 G/L).
+
+o Sometimes monocytes greater than 1 G/l: suggestive of chronic myelomonocytic leukaemia (CMML),
+
+o Morphological abnormality of leukocytes on blood smear (degranulated neutrophils or neutrophils with poorly segmented nuclei)
+
+o Circulating blasts: between 0 and 19%.

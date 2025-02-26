@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-146-01-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Intitle=Know the definition (vaccine and serotherapy), the different types of vaccine, the main aims of vaccination, primary vaccination, booster vaccination and catch-up vaccination.
+|Description=Definition of a vaccine, composition of vaccine preparations (live, killed, subunit and adjuvant vaccines), the different types of vaccine / knowledge of the history of science and technology and social representations
+|Rubric=Definition
+|Contributors=Laurence Morand-Joubert
+|Order=1}}
+
+'''Vaccination''': consists of '''administering a preparation derived from or close to the immunogenic infectious agent''' allowing active immunoprophylaxis by stimulating the immune defences in a delayed but lasting way.
+
+'''Serotherapy:''' consists of '''administering''' human or animal sera containing '''antibodies providing an immediate,''' but transient, curative defence, resulting in passive immunity without stimulating the immune system. It is used to neutralise the infectious agent already present in the body.
+
+Different types of vaccines :
+
+Live attenuated vaccines: these are composed of live infectious agents whose virulence has been attenuated. They are contraindicated in immunocompromised patients and pregnant women, due to the risk of infection.
+
+V'''accins inertes ou inactivés,''' devoid of infectious power; they are composed of whole infectious agents inactivated (by heat or chemical products or radiation) or of a sub-unit of these agents obtained by extraction or genetic engineering.
+
+<br />
+{| class="wikitable"
+|Live vaccines
+|Inactivated or subunit vaccines
+|-
+|BCG
+
+Measles
+
+Mumps
+
+Rubella
+
+Varicella/zoster
+
+Yellow fever
+|Diphtheria
+
+Tetanus
+
+Poliomyelitis (injectable)
+
+Whooping cough
+
+Haemophilus B
+
+Pneumococcus
+
+Meningococcus
+
+Flu
+
+Hepatitis A
+
+Hepatitis B
+
+Papillomavirus
+
+Rage
+|}
+
+
+'''Messenger RNA vaccine''': this consists of a messenger RNA coding for a viral protein whose endogenous production leads to immunisation against this protein. E.g. messenger RNA vaccines against SARS-CoV2.
+
+Viral vector vaccine'': uses a non-replicating viral vector containing the genetic material of the protein to be expressed. e.g. adenovirus vaccines which are harmless to humans and genetically modified to immunise against SARS-CoV2.
+
+Main ''objectives of vaccination'' :
+
+- '''Protect the individual from infection or severe forms of infection,'''
+
+- '''Reduce the transmission of infection'' in the event of contagion
+
+- '''Achieve herd immunity''' (herd immunity threshold: percentage of the population immunised to interrupt transmission)
+
+- '''Reduce the circulation of infectious agents,'' with the aim of eliminating them
+
+
+'''Primovaccination''': the first injections of a vaccine required to obtain protection.
+
+''Booster'': repeat injection of the vaccine to maintain a good level of protection.
+
+''Catch-up'': updating of vaccinations by injecting doses not carried out according to the planned schedule.

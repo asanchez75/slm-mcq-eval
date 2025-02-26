@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-093-07-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Know the differential diagnosis
+|Description=to be explained (vascular?...)
+|Heading=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+
+*'''[[Discovery of a spinal cord or vertebral abnormality on medical imaging examination SD-227|abnormal spinal cord MRI]]:''''
+**Inflammatory myelitis ([[multiple sclerosis]], MS)
+**Infectious myelitis (neurosyphilis)
+**Medullary ischaemia/infarction
+**Biermer's disease with combined spinal cord sclerosis
+
+*''Normal spinal cord MRI:''''
+**Amyotrophic lateral sclerosis (Charcot's disease)
+**Bilateral brain scythe meningioma, with compression of the two para-central lobules (somatotopic representation of the lower limbs on Penfield's homonculus) and revealed by paraparesis (rare) <br /> *Other causes of intermittent limb claudication of a spinal cord
+*Other causes of [[Intermittent claudication of a limb SD-069|intermittent claudication of the lower limbs]]: [[Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms|obliterative arteriopathy of the lower limbs]], [[Radiculalgia and canal syndrome|narrow lumbar canal]]. In both cases, the claudication is ''painful'', unlike the purely motor claudication of spinal cord compression.

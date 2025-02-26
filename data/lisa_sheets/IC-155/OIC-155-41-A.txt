@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-155-41-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Knowing the signs of serious facial cellulitis and serious complications
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=41}}
+'''Local signs'''
+
+- Severe pain
+
+- Collection
+
+- crepitation, cyanotic livedoid areas, skin necrosis, hypoesthesia or anaesthesia
+
+- trismus
+
+'''General signs'''
+
+Signs of sepsis: hypotension, tachycardia, confusion, polypnoea.

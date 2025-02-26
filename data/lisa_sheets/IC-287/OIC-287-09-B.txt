@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-287-09-B
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=B
+|Title=Knowing the radiological semiology of diverticulosis and its complications
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Frédérique PESCHAUD
+|Order=9}}
+
+'''CT signs of uncomplicated diverticulitis are:'''
+
+-thickening of the colon wall,
+
+-infiltration of fat around one or more diverticula.
+
+
+'''Signs of complications are:'''
+
+-for abscesses: a liquid or aeriform and liquid collection, the size of which must be specified,
+
+-for peritonitis: the existence of pneumoperitoneum bubbles (extra-colic air) and/or fluid and/or faeces in the peritoneal cavity,
+
+-sigmoido-vesical fistula: the presence of gas in the urinary tract.
+
+
+The Hinchey classification is used to assess the severity of complicated diverticulitis (clinico-radiological):
+
+Stage I: phlegmon or pericolic abscess,
+
+Stage II: pelvic, abdominal or retroperitoneal abscess (localised peritonitis),
+
+Stage III: Purulent generalised peritonitis,
+
+Stage IV: faecal peritonitis

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-075-13-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Title=Knowing the contribution of smoking to mortality in France
+|Description=Knowledge
+|Rubric=Epidemiology
+|Contributors=
+|Order=13}}
+
+
+*In France: 1st avoidable cause of death = 75,000 deaths/year
+**Tobacco is the 1<sup>rst</sup> preventable cause of cardiovascular death.
+**1<sup>rst</sup> cardiovascular DRF in non-menopausal women
+**Fetal death in utero
+**Mortality from cancer (lung > other cancers) > cardiovascular disease > respiratory disease

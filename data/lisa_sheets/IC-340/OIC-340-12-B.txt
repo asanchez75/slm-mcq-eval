@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-340-12-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Knowing the first-line aetiological assessment of ischaemic stroke and haemorrhagic stroke
+|Description=None
+|Section=Additional tests
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=12}}
+The aim of the 1st line aetiological assessment during a stroke is to identify the main causes in order to initiate secondary prevention treatment at an early stage.
+
+=== The first-line etiological work-up for cerebral infarction includes: ===
+
+# An assessment of the context of onset, such as a recent infection ([[Hyperthermia/fever SD-044|hyperthermia fever]]) in favour of endocarditis, head trauma in favour of a dissection ([[Head trauma SD-172|head trauma]], [[Spinal trauma SD-175|spinal trauma]]) or cardiac catheterisation in favour of an iatrogenic embolic cause.
+# A clinical evaluation in search of arguments in favour of a macroangiopathy such as a carotid murmur ([[Discovery of a vascular murmur SD-019|discovery of a cardiac murmur]]) or cardio-embolic such as a rhythm disorder or cardiac murmur ([[Discovery of anomalies on cardiac auscultation SD-018|discovery of anomalies on cardiac auscultation]]), chest pain ([[Chest pain SD-161|chest pain]]) or dyspnoea ([[Dyspnoea SD-162|dyspnoea]]).
+# Complementary examinations, in particular
+## exploration of the intra- and extra-cranial arteries by Doppler ultrasound of the supra-aortic trunks and angioscanner or angio-MRI to look for macroangiopathy (atheroma or dissection) ([[Discovery of a cervico-facial anomaly on medical imaging examination SD-225|discovery of a cervico-facial anomaly on medical imaging examination]]);
+## a search for emboligenic cardiopathy such as atrial fibrillation or recent myocardial infarction by electrocardiogram and troponin measurement ([[Carrying out and interpretation of an electrocardiogram (ecg) SD-185|carrying out and interpretation of an electrocardiogram]]; [[Elevation of cardiac enzymes SD-204|elevation of cardiac enzymes]]). A trans-thoracic cardiac ultrasound will be performed to look for embologenic heart disease.
+## Biological work-up to look for a prothrombotic state such as myeloproliferative syndrome or disseminated intravascular coagulation ([[Blood count interpretation SD-223|Blood count interpretation]] ; [Platelet abnormality SD-215|platelet abnormality]]; [[Decreased prothrombin level (tp) SD-218|decreased prothrombin level]]; [[Prolonged activated partial thromboplastin time (tca) SD-213|longed activated partial thromboplastin time]]).
+## a biological assessment of vascular risk factors evaluating carbohydrate metabolism ([[Hyperglycaemia SD-208|hyperglycaemia]]) and lipid metabolism ([[Lipid balance analysis SD-195|lipid balance analysis]]).
+## In the event of fever or heart murmur, an additional biological work-up with blood cultures ([[Positive blood culture SD-190|positive blood cultures]]), a search for an inflammatory syndrome ([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]]) and sometimes a lumbar puncture to look for [[Meningitis, meningoencephalitis, brain abscess in adults and children|meningitis]] ([[Cerebrospinal fluid analysis (cfs) SD-183|cerebrospinal fluid analysis]]) will be performed.  
+
+=== The first-line etiological work-up for cerebral haemorrhage will depend on the location of the haemorrhage and will include: ===
+
+# An assessment of the context in which it occurred, such as head trauma ([[Head trauma SD-172|head trauma]]) or anticoagulant treatment.
+# Complementary examinations, in particular
+## exploration of the intracranial arteries by angioscanner or angiomRI to look for an arteriovenous malformation ([[Discovery of a brain anomaly on medical imaging examination SD-226|discovery of a brain anomaly on medical imaging examination]]);
+## a biological work-up to look for [[Biological abnormalities (blood count and protein electrophoresis) 2C-192-EC-A01|coagulopathy]] ([[Blood count interpretation SD-223|interpretation of blood count]] ; [Platelet abnormality SD-215|platelet abnormality]]; [[Decreased prothrombin level (pt) SD-218|decreased prothrombin level]]; [[Increased activated partial thromboplastin time (apht) SD-213|increased activated partial thromboplastin time]]).

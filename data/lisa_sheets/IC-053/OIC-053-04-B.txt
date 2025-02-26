@@ -1,0 +1,148 @@
+{{knowledge objective
+|Identifiant=OIC-053-04-B
+|Item_parent=Stunting of staturo-ponderal growth
+|Item_parent_short=Staturo-ponderal growth delay
+|Rank=B
+|Title=Know how to diagnose predominantly stunted growth
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Thomas Edouard
+|Order=4}}
+
+'''Psychosocial dwarfism'''
+
+Lack of care/neglect leading to a lack of nutrients and a hormonal deficit of psychological origin
+
+Treatment and diagnosis a posteriori: removal of the child from the family environment to allow growth to resume
+
+
+'''Endocrine causes'''
+
+Slowing of statural growth most often associated with excessive weight for height + delayed bone age
+
+
+'''Hypothyroidism'''
+
+Congenital
+
+Causes: thyroid dysgenesis (athyreosis or ectopy) or hormone synthesis disorders.
+
+Currently, systematic neonatal screening at 3 days of age (TSH measurement) enables early replacement therapy and a favourable outcome.
+
+If not screened and treated (in children born in countries without neonatal screening), delayed growth and psychomotor development in the first year of life.
+
+Acquired
+
+Any age, but peak in adolescence, particularly in girls
+
+Slower growth and weight gain, difficulties at school, classic signs of hypothyroidism (physical and psychological asthenia, coldness, constipation).
+
+Most often Hashimoto's thyroiditis with elevated TSH, low T4l, positive anti-thyroperoxidase (TPO) antibodies, heterogeneous thyroid tissue on ultrasound.
+
+'''Hypercorticism'''
+
+Most often iatrogenic (prolonged corticosteroid therapy)
+
+More rarely endogenous: pituitary adenoma secreting ACTH (Cushing's disease) or production of cortisol by the adrenals (Cushing's syndrome).
+
+Diagnosis: elevated 24-hour urinary free cortisol (UFC), loss of the cortisol diurnal cycle and absence of braking in the dexamethasone braking test.
+
+'''Growth hormone deficiency'' (GHD)'''
+
+Congenital
+
+Most often hypothalamic-pituitary malformation
+
+Prolonged hypoglycaemia in the neonatal period
+
+Other associated pituitary deficiencies: jaundice (thyrotropic or corticotropic deficiency), small penis and/or cryptorchidism (gonadotropic deficiency).
+
+Midline anomalies: coloboma, stenosis of the piriform sinuses, anomalies of the palate or uvula
+
+Birth measurements often normal, then growth retardation
+
+Acquired
+
+Any reduction in growth rate, particularly if associated with signs of intracranial hypertension (ICHT), should rule out a hypothalamic-pituitary tumour (including craniopharyngioma).
+
+Search for signs of HTIC (headache and morning vomiting), neurological signs and other associated hormonal deficiencies (in particular diabetes insipidus).
+
+Ophthalmological examination with fundus and visual field: papilledema (related to HTIC) and bitemporal hemianopsia (related to compression of the optic chiasm).
+
+Emergency imaging of the hypothalamo-hypophyseal region (CT or MRI) without waiting for the results of hormone tests
+
+Apart from emergency situations, the diagnosis of GHD is based on a combination of clinical signs (including growth curve), hormonal signs (IGF1 ± pharmacological stimulation test) and radiological signs (hypothalamic-pituitary MRI).
+
+Any pituitary deficiency should prompt investigation of all the pituitary lineages (thyrotropic, corticotropic, lactotropic, gonadotropic ± search for diabetes insipidus).
+
+
+Syndromic and genetic causes
+
+'''Turner syndrome'''
+
+Rare genetic disease: 1 case per 2,500 girls
+
+Total or partial absence of an X chromosome in the girl: monosomy of the X chromosome (45, X) or mosaicism
+
+Usual clinical presentation :
+
+Intrauterine growth retardation (50% of cases)
+
+Delayed height (adult height without treatment: 142 cm)
+
+Morphological signs (hypertelorism with palpebral slits pointing downwards and outwards, short, wide neck with low hairline, nipple spread, ulna valgus)
+
+Ovarian insufficiency responsible for lack of pubertal development and infertility
+
+Sometimes heart disease (coarctation of the aorta, aortic bicuspidism) and horseshoe kidney
+
+Recurrent ENT infections
+
+Usually no intellectual disability
+
+Pauci-symptomatic forms (linked to mosaics) justifying the systematic performance of a karyotype in girls with delayed stature
+
+
+Constitutional bone diseases
+
+Disproportionately short stature (predominantly limbs or trunk)
+
+Measurement of body segments: wingspan (approximately equal to height) and sitting height (approximately equal to half the standing height)
+
+Parental sizes may be low if family origin
+
+Diagnosis: skeletal X-rays and targeted genetic analysis
+
+
+'''Other causes of statural delay'''
+
+
+'''Statural delay secondary to small birth size'''
+
+10% of children born small do not catch up in height at birth
+
+Children also at risk of advanced puberty and metabolic syndrome in adulthood
+
+
+'''Simple delay in growth and puberty'''
+
+Most frequent cause of stunted height in adolescence in boys, much rarer in girls (diagnosis of elimination).
+
+Progressive slowing of growth from preadolescence onwards, which worsens at puberty due to delayed puberty and the absence of the growth peak normally associated with puberty.
+
+Family history of delayed puberty often found
+
+Bone age is usually much later than the normal age of onset of puberty (13 years in boys), so the prognosis for height is satisfactory
+
+Simple clinical monitoring if family history, moderate statural decline (statural loss < 1 DS), height within normal limits (>-2DS), bone age delayed in relation to calendar age, absence of functional signs, and normal physical examination.
+
+In other cases, investigations may be discussed
+
+
+'''Constitutional short stature or idiopathic short stature'''
+
+Most frequent situation (around 85% of cases), diagnosis of elimination
+
+Parental size often small, regular growth rate and bone age in line with chronological age
+
+New genetic techniques (exome or genome sequencing) are making it possible to reduce the proportion of idiopathic short stature.

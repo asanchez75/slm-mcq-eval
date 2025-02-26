@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-071-33-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Know the definition of pica
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=33}}
+'''PICA'''
+
+* Definition:
+** '''Ingestion''' of repeated '''non-nutritive substances''' for at least 1 month (plaster, lead, sand, pebbles, hair, paper, plastic...)
+* Often occurs in young children with
+** martial deficiency or zinc deficiency
+** neglect
+** an attachment disorder
+** or a severe neurodevelopmental disorder.

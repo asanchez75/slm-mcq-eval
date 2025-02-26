@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-314-03-B
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder Smoke
+|Rank=B
+|Title=Know the main precancerous tissue lesions
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Mathieu Roumiguié
+|Order=3}}
+
+There are no precancerous lesions in urothelial tumours. Chronic cystitis, toxic cystitis, radiation-induced cystitis and bilharzia cystitis may develop into urothelial or epidermoid bladder cancer.
+
+<br />

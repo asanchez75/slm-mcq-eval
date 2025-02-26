@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-269-03-A
+|Item_parent=Acute abdominal pain in children and adults
+|Item_parent_short=Acute abdominal pain in children and adults
+|Rank=A
+|Title=Knowing the tests needed in children
+|Description=Know that no further tests are routinely required
+|Heading=Positive diagnosis
+|Contributors=
+|Order=3}}
+The diagnosis of acute abdominal pain in children requires a full clinical examination and repeated reassessment.
+
+Additional tests will not be carried out systematically, but only if there is any doubt about the diagnosis following the clinical examination.
+
+When imaging is required, the first-line examination in children is an ultrasound scan, not a CT scan.

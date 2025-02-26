@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-050-16-B
+|Item_parent=Genito-scrotal pathology in boys and men
+|Item_parent_short=Genito-scrotal pathology in boys and men
+|Rank=B
+|Title=Know the indications and differential diagnoses of spermatic cord torsion imaging
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Cédric Lebâcle, Alice Faure
+|Order=16}}
+
+<br />
+
+*If the clinical picture is strongly suggestive of cord torsion, there is no indication for further investigation.
+*If there is a strong clinical suspicion of spermatic cord torsion, imaging may delay emergency surgical management.
+*Testicular ultrasound coupled with Doppler is the key examination in cases of acute bursal disease, especially after 24 hours. The study is compared with the contralateral testicle. Diagnosis of torsion of the spermatic cord is sometimes difficult. If there is any doubt about the diagnosis, particularly in the presence of atypical symptoms (fever, bursa with an inflammatory appearance, age > 30 years), a frustrated form, or scrotal pain that has been present for more than 24 hours, scrotal ultrasound can help guide the diagnosis.
+
+<br />
+
+*In its typical form of tight spermatic cord torsion, testicular ultrasound coupled with Doppler can show :
+**the whirlpool sign in the inguinal region, which corresponds to the coiling of the spermatic vessels
+**an ascending testicle with heterogeneous echostructure, hypoechoic, with changes in the orientation of its long axis
+**reduced or absent intra-testicular vascularisation compared with the contralateral side
+
+<br />
+
+*Ultrasound is neither sensitive nor specific for the diagnosis of cord torsion.
+*A normal Doppler examination does not rule out an episode of torsion.
+*Testicular Doppler ultrasound can rule out hydatid torsion, necrosis or intratumoral haemorrhage, traumatic rupture of the albuginea or inguino-scrotal hernia.
+*However, if the diagnosis is suspected, a decision to explore the problem surgically in the first instance, without imaging, is recommended.
+*Orchi-epididymitis may simulate cord torsion on ultrasound.

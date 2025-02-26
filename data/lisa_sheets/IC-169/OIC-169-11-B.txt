@@ -1,0 +1,19 @@
+<br />{knowledge objective
+|Identifiant=OIC-169-11-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Pneumocystis lung imaging
+|Description=Bilateral diffuse interstitial pneumonitis with peri-hilar predominance.
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+[[File:Pneumocystis 2.jpg|alt=|vignette|Scanner in parenchymal window. Diffuse bilateral ground-glass patterns]]
+[[File:Pneumocystis in radiography.jpg|alt=|vignette|Front chest x-ray, same patient as on the CT scan. Diffuse interstitial syndrome]]
+
+
+Reminder: any sub-acute febrile dyspnoea in an immunocompromised patient not receiving cotriomoxazole prophylaxis should raise the possibility of pulmonary pneumocystis.
+
+The chest X-ray may be almost normal at the very beginning of the symptoms, then show a bilateral diffuse interstitial syndrome.
+
+The chest CT scan shows diffuse bilateral ground-glass opacities, sometimes sparing the periphery of the lung, sometimes with cysts, nodules or condensations.

@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-183-04-A
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=A
+|Item_parent_short=Organisation of occupational medicine.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+Health monitoring involves three types of consultation:
+
+==='''Systematic consultations'''===
+{| class="wikitable"
+|Situation
+|Type of follow-up
+|When
+|What
+|Who
+|-
+| rowspan="3" |Special occupational risks: carcinogenic, toxic for reproduction...
+| rowspan="3" |Reinforced individual monitoring
+|Prior to assignment to the workstation
+|An aptitude medical examination
+|Occupational physician
+|-
+|At least every 4 years
+|A medical examination for fitness
+|Occupational physician
+|-
+|Intermediate visit
+|Nurse interview
+|Nurse and, if necessary, occupational physician
+|-
+|Out of risk workstation
+|Prevention information visit
+|On recruitment and periodically, at least every 5 years
+|Nurse interview
+|
+|}
+Consultations carried out by the occupational physician as part of reinforced individual monitoring = medical aptitude examination leading to the drafting of an aptitude sheet
+
+===''Consultations related to work stoppage:'''===
+o '''resumption visit'''
+
+*Mandatory after more than 60 days' absence from work (in general)
+
+*Objective: to see if working conditions need to be adapted
+
+
+o '''pre-reinstatement visit'''
+
+*It is not compulsory.
+*It takes place while the employee is off work.
+*Purpose: to anticipate any difficulties that may arise when the employee returns to work and to give the employee time to organise a workstation adaptation with the employer.
+*It can be requested :
+**by the employee
+**the attending physician
+**the social security doctor
+**or the occupational physician
+*but not by the employer. However, the employer must inform the employee of the possibility of a pre-reinstatement visit.
+
+===''Consultations at the request of the employee or the employer in the event of a problem'''===
+
+
+During all of these consultations, the occupational physician may make written ''recommendations to the employer'' on the adaptation of the employee's workstation, due to his or her state of health, while ''respecting medical confidentiality'' (''we indicate what adaptation is necessary without ever giving a medical diagnosis).
+
+Sometimes, the consultation results in the employee being declared unfit for work. This requires the employer to look for another position suited to the employee's remaining capabilities, but if this is not possible, the employee may be dismissed.

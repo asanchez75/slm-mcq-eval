@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-185-09-B
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=B
+|Intitle=Knowing the mechanisms and causes of a dissociated inflammatory syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Gilles Kaplanski
+|Order=9}}
+
+In the event of inconsistent changes in inflammatory markers.
+
+-Isolated elevated VS: due to anaemia or monoclonal or polyclonal hypergammaglobulinaemia
+
+-Inflammatory syndrome with dissociated elevation of inflammatory proteins
+
+* Low haptoglobin: intravascular haemolysis
+* Low complement: diseases with circulating immune complexes (Lupus, endocarditis)
+* Low ferritinemia: associated martial deficiency
+* Low fibrinogen: disseminated intravascular coagulation
+
+
+Severe hepatic impairment disrupting acute-phase protein synthesis

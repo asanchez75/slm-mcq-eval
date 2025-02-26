@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-264-02-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing the progressive risk of chronic renal failure (CKD)
+|Description=None
+|Section=Definition
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=2}}
+
+At the beginning of its course, CKD is relatively silent clinically. However, the more CKD progresses, the greater the clinical impact and the greater the risk of death. In the end stage, renal function replacement should be considered.

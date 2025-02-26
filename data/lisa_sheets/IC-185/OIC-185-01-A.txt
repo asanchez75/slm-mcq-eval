@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-185-01-A
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=A
+|Intitle=Know the definition of inflammatory reaction
+|Description=None
+|Rubric=Definition
+|Contributors=Gilles Kaplanski
+|Order=1}}
+
+The inflammatory reaction (IR) is the body's defence mechanism and part of the innate immune response. It is triggered when the body is attacked, either exogenously during an infection or trauma, or endogenously and sterilely (uric acid or cholesterol crystals, cell necrosis during ischaemia, for example).

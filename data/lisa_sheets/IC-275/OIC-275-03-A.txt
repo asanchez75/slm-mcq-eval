@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-275-03-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Title=Identify clinical signs suggestive of hepatopathy
+|Description=cf. dedicated question
+|Topic=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Associated signs suggestive of [[Hepatomegaly and abdominal mass|hepatopathy]]''''
+
+- '''[[Hepatomegaly SD-006|hepatomegaly]]''''
+
+- signs of portal hypertension (collateral venous circulation, ascites)
+
+- signs of hepatocellular insufficiency (stellate angiomas, palmar erythrosis, ''[[Jaundice SD-047|icterus]]'', ''[[foetor hepaticus]]'', signs of hypogonadism, signs of encephalopathy: asterixis, ''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]]''').

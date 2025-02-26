@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-336-02-B
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=B
+|Title=Know the mechanisms that can contribute to coma
+|Description=Knowing the nerve centres of awakening and consciousness
+|Rubric=Physiopathology
+|Contributors=Nicolas Weiss
+|Order=2}}
+
+<gallery widths="300" heights="300">
+File:Pathophysiological elements coma.jpg
+</gallery>

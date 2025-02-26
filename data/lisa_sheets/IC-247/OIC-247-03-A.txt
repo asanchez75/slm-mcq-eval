@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-247-03-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Know the circumstances and different diagnostic criteria (with particular reference to children).
+|Description=Type 1 and type 2
+|Section=Definition
+|Contributors=Eva Feigerlova,Hélène Bihan,Claire Briet,Gaetan Prevost
+|Order=3}}
+
+Diabetes may be diagnosed in the following situations:
+
+1/ Screening
+
+
+2/ Fasting venous blood glucose ≥ 1.26 g/l on two occasions.  
+
+3/ Orally induced hyperglycaemia if blood glucose 2 hours after oral loading is greater than or equal to 2 g/l [11 mmol/l].
+
+OGTT is indicated in the following cases:
+
+- pregnancy
+
+- fasting blood glucose between 1.10 and 1.26 g/l [6 to 7 mmol/l].
+
+
+4/ Emergency situations in symptomatic patients with blood glucose levels of 2 g/l [11 mmol/l] or more
+
+In children, cardinal syndrome is often present, but is difficult to recognise in infants.
+
+Ketoacidosis is often present at diagnosis, especially in children aged < 5 years.
+
+
+<ref>CEEDMM, 2019</ref>
+<references />

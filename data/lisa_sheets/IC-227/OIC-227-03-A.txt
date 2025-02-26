@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-227-03-A
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=A
+|Title=Knowing the definition of a post-thrombotic syndrome
+|Description=Knowing how to define and recognise post-thrombotic syndrome
+|Rubric=Definition
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=3}}
+Deep vein thrombosis can lead to post-thrombotic syndrome (PTS). There are two main possible mechanisms: valve destruction, which causes reflux, and/or residual venous obstruction. This results in signs of venous insufficiency, which may even lead to venous claudication.  
+
+The severity of PTS depends on the extent of venous dysfunction resulting from the sequelae of post-thrombotic syndrome (valvular destruction, residual venous obstruction and venous reflux). Its severity is assessed using the Villalta score, which is based on subjective and objective clinical signs of venous insufficiency (Villalta score given as an indication).
+{| class="wikitable"
+! colspan="2" |Evaluation of the severity of a post-thrombotic syndrome using the Villalta score
+|-
+|Subjective symptoms (patient)
+|Objective signs (doctor)
+|-
+|* Heaviness
+<nowiki>*</nowiki> Pain
+
+<nowiki>*</nowiki> Cramps
+
+<nowiki>*</nowiki> Pruritus
+
+<nowiki>*</nowiki> Paresthesias
+|* Oedema
+<nowiki>*</nowiki> Calf pressure pain
+
+<nowiki>*</nowiki> Induration of the skin
+
+<nowiki>*</nowiki> Hyperpigmentation
+
+<nowiki>*</nowiki> Redness
+|-
+| colspan="2" |'''<u>Rule of calculation</u>'''
+
+''' For each symptom or sign, points are awarded: 0 = absent, 1 = mild, 2 = moderate, 3 = severe''''
+
+'''<u>Interpretation</u> '''
+
+''' Score ≤ 4: no TPS;'''
+
+''' Score 5-9 : moderate SPT'''
+
+''' Score 10-14 : intermediate SPT'''
+
+''' Score ≥ 15 or ulcer present: severe TPS''''
+|}
+('''SDS-[[Localized or diffuse edema SD-054|localized or diffuse edema]]; SDS-[[Heavy legs SD-076|heavy legs]]; SDS-[[Pruritus SD-088|pruritus]]; SDS-[[Acute big red leg SD-087|acute big red leg]]''')

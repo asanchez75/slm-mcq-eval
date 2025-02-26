@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-358-04-A
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=A
+|Title=Knowing the differential diagnosis of abdominal pain
+|Description=Know the four main abdominal differential diagnoses of acute pancreatitis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+* Lower myocardial infarction
+* Gastro-duodenal ulcer, perforated or not
+* Acute cholecystitis
+* Mesenteric infarction
+* Peritonitis
+* Ruptured abdominal aortic aneurysm

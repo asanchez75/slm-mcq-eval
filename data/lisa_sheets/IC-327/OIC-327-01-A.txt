@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-327-01-A
+|Item_parent=Principles of integrative medicine, usefulness and risks of non-drug interventions and complementary therapies
+|Item_parent_short=Principles of integrative medicine, benefits and risks of non-drug interventions and complementary therapies
+|Rank=A
+|Intitle=Know the definition of integrative medicine, complementary therapy and traditional medicine.
+|Description=Know the concept and meaning of integrative medicine, the significance and place within the health system of complementary therapy and traditional medicine, identifying inappropriate designations.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+https://sides.uness.fr/elearning/course/view.php?id=34826
+
+
+'''Rank A'''
+
+'''Intitulé : Savoir définir : médecine intégrative, thérapie complémentaire, médecine traditionnelle'''
+
+
+Almost two-thirds of the French population use NMIs and TCIs to improve their health, most often as a complement to conventional medicine. The French National Authority for Health recommends prescribing certain NMIs and TCAs, including as first-line treatments, particularly for vulnerable patients who are at greater risk of adverse drug reactions, especially when they are taken over a long period of time.
+
+Their evaluation is often inadequate, so it is not possible to reach satisfactory conclusions about their real effectiveness, their benefit/risk ratio or their cost-effectiveness ratio. Many practices have not yet been regulated in France in terms of implementation, recognition of diplomas and professional titles.
+
+''' '''
+
+'''Definitions '''
+
+'''-'''' Medicine is the body of scientific knowledge and means used to prevent, cure and treat illnesses, injuries and disabilities. It combines different conventional methods in a relevant and personalised way, with the aim of optimising therapeutic effectiveness. ''' '''
+
+The notion of integrative medicine, which is not yet accepted by some, "combines" practices derived from conventional medicine and the most relevant complementary practices. It takes account of the whole person (body, emotions, beliefs, motivations) and proposes a personalised, therapeutic and preventive approach. ''' '''
+
+
+'''2. Non-medicinal intervention (NMI)'''
+
+''' '''' - '''Non-pharmacological'', '''non-invasive'', '''targeted'' and '''evidence-based'' intervention, excluding surgery and medical devices.              - To be recognised, it must have been the subject of ''at least one published interventional study'' conducted using a recognised methodology that has assessed its benefits and risks.
+
+- They can be classified into "5 categories": physical (or corporal), psychological, nutritional, digital or ergonomic intervention on a person, with the aim of preventing, treating or curing.
+
+- Many NMIs are validated and recognised, such as adapted physical activity, certain psychotherapies, certain diets, transcutaneous electrical stimulation, rehabilitation methods, health education methods, etc.   
+
+                                                                                                              
+
+
+
+                                                                                                              
+
+'''3. Complementary therapies (CT), or ''non-conventional medicines'' (terminology used by the DGOS) ''' -''' Preventive or therapeutic methods which act ''in complement'' to other validated methods, focusing on the patient's quality of life.
+
+'''-'''' Many complementary therapies have not provided a sufficient level of scientific proof of their benefit/risk ratio to be included in the validated therapeutic arsenal.   
+
+'''-'''' Certain ThC (acupuncture, hypnosis, meditation) have been the subject of "randomised controlled studies", particularly in the field of analgesia, and are increasingly commonly used in the field of prevention, chronic diseases, supportive care, pain, disability, etc.
+
+''' '''
+
+'''4. Traditional medicine'' (traditional Chinese medicine, traditional African medicine...) These are not simply methods or techniques, but systems of thought in which health is considered in a '''particular socio-cultural environment''', with a diagnosis, a philosophical approach and specific therapeutic strategies. ''' '''
+
+
+'''5. Alternative medicine'': undescribed practice which has not been the subject of an interventional study and is therefore not validated.   
+
+                                                               
+
+
+
+                                                               
+
+6. Support care
+
+'''-'''' "All the care and support needed by people who are ill, in addition to specific treatments, where available, throughout the course of serious illnesses (cancer and non-cancer).                                                                                                                                
+
+- Their aim is to improve the patient's quality of life, and they regularly use complementary therapies.
+
+
+'''The challenges of evaluating complementary therapies'''
+
+Some complementary therapies can be ''validated for certain symptoms and not for the pathologies that generate these symptoms'': this is the case, for example, with the effectiveness of acupuncture on pain in osteoarthritis, but not on the height of the joint space. But this is also the case for most analgesic therapies.
+
+The limitations of EBM, which was designed for the evaluation of medicinal products, are as follows:
+
+- Randomisation is difficult to implement if patient preferences are important.
+
+- Double blindness, sometimes impossible for the patient (music therapy, manual medicine), rarely achieved for the practitioner, who usually knows what he is delivering.
+
+- The standardisation of an intervention, recommended during an RCT, in order to enable the intervention to be reproduced at a later date (if it proves effective) does not seem appropriate for most ThCs.
+
+- Judging criteria
+
+Qualitative research" appears to be a relevant tool in the field of ThC evaluation, and explores the representations and lived experience of participants, using verbal data to highlight relevant indicators of effectiveness, from the "patient's point of view", with a view to constructing patient-reported outcomes (PROs).
+
+This method is linked to the Randomised Controlled Trial (RCT), in order to develop mixed studies (qualitative/quantitative), enriching the RCT data.

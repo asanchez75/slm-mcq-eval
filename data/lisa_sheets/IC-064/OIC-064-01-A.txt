@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-064-01-A
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=A
+|Title=Knowing the definition of a manic episode
+|Description=Knowing how to define a manic episode and its main characteristics
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+According to the DSM-5, a time-limited period during which mood is abnormally and persistently elevated, expansive, or irritable, with increased goal-directed activity or energy, persisting most of the time, almost every day, for at least 7 days (or any length of time if hospitalised), with marked impairment of occupational or social functioning or the need for hospitalisation or psychotic features ([[Delusional ideas SD-124|delusional ideas]], [[Hallucinations SD-122|hallucinations]]).

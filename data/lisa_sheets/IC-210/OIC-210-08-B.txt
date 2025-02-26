@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-210-08-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Title=Knowing the value of respiratory function tests (RFTs) for diagnosing and monitoring PID
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=8}}
+Not of interest in acute PID.
+
+''Interest in the assessment of sub-acute and chronic PID'' in order to evaluate and quantify the functional impact and monitor its evolution. The key parameters in the context of PID are :
+
+* The degree of restriction, assessed by measuring FVC (forced vital capacity) or even TLC (total lung capacity);
+* The degree of haematosis impairment, assessed by measuring DLCO (carbon monoxide diffusion).
+
+These two parameters are used in particular for therapeutic indications (e.g. introduction of corticosteroid therapy in sarcoidosis, initiation of antifibrosis treatment in IPF). These parameters can also be used to monitor the natural course of the disease or the response to treatment, or to provide information, in addition to clinical and imaging data, for diagnosing a possible relapse.

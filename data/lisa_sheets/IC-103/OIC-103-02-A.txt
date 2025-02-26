@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-103-02-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Know the definition of vertigo
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Vertigo is an illusion of movement, either of the patient or of the environment, which most often results in an impression of rotation or sometimes of linear displacement. It may be a spontaneous symptom, triggered or increased by head movements. It is usually accompanied by neurovegetative signs such as [[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]] or [[Hypersudation SD-025|sweating]]. There are no disorders of consciousness during the crisis.

@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-215-08-A
+|Item_parent=Purpuras in adults and children
+|Item_parent_short=Purpuras in adults and children
+|Rank=A
+|Title=Know the main etiologies of purpura including infectious causes
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+
+
+==Main causes of vascular purpura===
+
+===Infectious causes===
+- Purpura fulminans
+
+- Infective endocarditis<br />.
+
+===Vascularity===
+
+==== Small-calibre vasculitides====
+- ANCA-associated vasculitides (granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangiitis, microscopic polyangiitis) [[Know the main types of systemic vasculitides 2C-193-DE-B01|(systemic vasculitides)])
+
+- Immune complex vasculitis (cryoglobulinemia vasculitis, IgA vasculitis (formerly rheumatoid purpura), post-infectious vasculitis)
+
+- Cutaneous vasculitis (often drug-induced)<br />.
+
+==== Medium-calibre vasculitis====
+Periarteritis nodosa
+
+
+NB: Purpura is never present in large-vessel vasculitis.
+
+===Capillary fragility===
+- Bateman's purpura senile (purpura secondary to capillary fragility in the elderly)
+
+- Endogenous or iatrogenic hypercorticism
+
+- Scurvy (vitamin C deficiency) (undernutrition/malnutrition)<br />.
+
+==Main causes of thrombocytopenic purpura==
+The main causes are :
+
+- Defect in platelet production in the bone marrow: central thrombocytopenia
+
+- Immunological: immunological thrombocytopenic purpura (ITP) ([[Thrombocytopenia in adults and children|Thrombocytopenia in adults and children]])
+
+- Platelet consumption: associated haemostasis disorder (DIC) or thrombotic microangiopathy (haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura). These 2 causes constitute an emergency.
+
+- Platelet dysfunction (thrombopathy) without thrombocytopenia (e.g. secondary to antiplatelet medication).

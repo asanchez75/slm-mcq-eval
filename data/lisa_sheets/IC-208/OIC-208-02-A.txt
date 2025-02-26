@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-208-02-A
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=A
+|Title=Knowing the clinical evidence for obstructive CKD and restrictive CKD
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+The presence of a cough with chronic sputum is in favour of obstructive CKD (COPD, bronchial dilatation). The clinical examination should look for wheezing, ronchi, a decrease in vesicular murmur (in the case of associated emphysema) and signs of thoracic distension (barrel chest, Hoover's sign, increase in antero-posterior diameter, shortening of the suprasternal segment, tripod position, etc.).
+
+Restrictive CKD should be suspected in the presence of exertional dyspnoea. Infiltrative lung disease should be suspected in the presence of a dry cough and tele-inspiratory crackles. The clinical examination may look for skeletal deformity (kyphoscoliosis) and signs of diaphragmatic dysfunction in favour of restrictive CKD related to an abnormality of the ventilatory pump (CKD with healthy lung).

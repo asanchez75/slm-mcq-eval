@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-149-18-B
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=B
+|Title=Knowing how to manage vesicular angina
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=18}}
+Treatment is ''symptomatic'' and combines mouth care (depending on age), analgesics/antipyretics and rehydration. Primary herpes infection may benefit from antiviral treatment.

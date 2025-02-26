@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-100-02-A
+|Item_parent=Unusual acute and chronic headache in adults and children
+|Item_parent_short=Unusual acute and chronic headache in adults and children
+|Rank=A
+|Title=Know the main causes of headache requiring emergency treatment and their clinical presentation.
+|Description= brutal onset, progressive onset
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=2}}
+- '''Two syndromes are absolute emergencies requiring systematic hospitalisation'''
+
+{| class="wikitable"
+|Meningitis syndrome
+|'''Diagnostic orientation'''
+|-
+|<nowiki>- </nowiki>''''[[Headache SD-118|Headache]]'''': helmet-shaped, diffuse, intense, resistant to analgesics. Sudden onset, subacute or progressive depending on cause.
+
+- Vomiting SD-013|Vomiting]''' inconstant; effortless, in spurts and temporarily relieves the headache.
+
+- '''Photophobia'''
+
+- Shotgun attitude
+
+- Stiff neck, positive meningeal manoeuvres
+
+- [[Hyperthermia/fever SD-044|'''Elevated''''body temperature]] or normal
+|<nowiki>- Meningitis syndrome + </nowiki>'''[[Hyperthermia/fever SD-044|fever]] ='''' suspicion of infectious '''meningitis''' ('''<u>item 151</u>'''') è '''Immediate lumbar puncture without prior scan''''
+
+
+- Meningeal syndrome + '''normal temperature''' + '''sudden''' onset = suspicion of ''''HSA (<u>item 341)</u>''' ''Immediate brain scan then LP if normal scan''
+<br />
+|-
+|'''Intracranial hypertension syndrome''''
+|'''Diagnostic orientation'''
+|-
+|<nowiki>- </nowiki>''''[[Headache SD-118|Headache]]''''': helmet-mounted, diffuse, intense, morning, exaggerated by cough/effort/decubitus, resistant to analgesics. Onset often gradual, sometimes sudden.
+
+- '''[[Vomiting SD-013|Vomiting]]'''': inconstant; effortless, in spurts and temporarily relieves the headache.
+
+- '''[[Coma and disorders of consciousness SD-028|Disorder of vigilance]]''': obnubilation, confusion, coma.
+
+- Horizontal [[Diplopia SD-143|Diplopia]] (uni or bilateral VI involvement)
+
+- Visual eclipses: transient, late bilateral loss of vision (due to severe papilloedema)
+
+- Bilateral papilloedema at the fundus
+
+- Infant: fontanel bulge, augmented PC
+|<nowiki>- </nowiki>''Space-occupying process'': intracranial tumour (''<u>item 299</u>''), subdural haematoma, abscess
+
+- '''Hydrocephalus'''
+
+- Cerebral venous thrombosis
+
+è ''Emergency CT scan or MRI (without or with injection)
+
+è ''LP contraindicated BEFORE brain imaging but imperative AFTER normal brain imaging or imaging suggesting a meningeal process''
+|}
+
+
+- '''Also refer to the emergency department any patient who presents''' ([[Headache SD-118|headache]]; [[Assessment and management of acute pain SD-259|assessment and management of acute pain]])''' :''''
+
+o a "brutal" headache (maximum in less than an hour), or even a thunderclap headache (maximum intensity in less than a minute) => SAH until proven otherwise;
+
+o a headache that is ''recent or of recent aggravation'' (< 7 days) and ''unusual'' => HTIC until proven otherwise;
+
+o headache associated with ''[[Hyperthermia/fever SD-044|fever]]''' (in the absence of an obvious general cause such as a viral syndrome during an epidemic) => infectious meningitis;
+
+o headache associated with "neurological signs" (anisocoria, cranial nerves, central neurological deficit);
+
+o a headache suggestive of CO intoxication;
+
+o headache in the context of immunodepression.
+
+
+- The absence of any associated symptoms and a normal clinical examination do not rule out a secondary headache and should not delay further investigations if the headache is recent, unusual and persistent. [Reasoned request/prescription and choice of diagnostic test SD-178|(reasoned request/prescription and choice of diagnostic test)]]
+
+
+- Migraine sufferers often present with a severe attack. If the questioning is reliable and the patient recognises "his" usual migraine attack, investigations are not necessary and treatment will be given to relieve the attack.
+
+- Red flags in children: drop in school results; persistent unilateral localisation; epileptic seizures ([[Convulsions SD-120|convulsions]]); new-onset clumsiness; behavioural problems; change in staturo-ponderal curve; parental concern; age < 3 years (rare primary headaches); rapid increase in head circumference; murmur on auscultation of the fontanelle; recent strabismus or drop in visual acuity.<br />
+
+<br />

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-075-06-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Intitle=To know the age of onset, the percentage of addicts and tobacco-related mortality worldwide and in France, and the risks.
+|Description=Know
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+
+
+*The average age at which the first cigarette is smoked is stable at 14, with daily smoking at 15.
+*30.4% of people (aged 18 to 75) say they smoke tobacco.
+**men 34.6%
+**women 26.5%
+*Tobacco intoxication is responsible for one in ten deaths worldwide.
+*In France: 1<sup>rst</sup> cause of avoidable death = 75,000 deaths/year
+*The <u>duration of intoxication</u> is the <u>most important risk factor</u>.
+**doubling the dose => risk of cancer x 2
+**doubling the duration => cancer risk x 23)
+*''49% of regular smokers show signs of dependence (rank B)''

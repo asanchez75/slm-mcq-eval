@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-122-06-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Know the main indications for a physiotherapy programme.
+|Description=Indications of physiotherapy in common pathologies.
+|Rubric=Management
+|Contributors=
+|Order=6}}
+
+
+* Pain (''''[[Localised or generalised muscular contracture SD-029|Localised or generalised muscular contracture]], [[Chronic pain SD-035|Chronic pain]], [[Joint pain SD-067|Joint pain]], [[Pain in a limb (upper or lower) SD-071|Pain in a limb (upper or lower)]], [[Spinal pain (cervical, dorsal or lumbar) SD-072|Spinal pain (cervical, dorsal or lumbar)]], [[Assessment and management of acute pain SD-259|Assessment and management of acute pain]], [[Assessment and management of chronic pain SD-260|Assessment and management of chronic pain]]''''
+* Oedema and trophic disorders
+* Joint stiffness (''''[[Joint stiffness SD-056|Joint stiffness]])''''
+* Muscle weakness (''[[Muscle weakness SD-074|Muscle weakness]])'''
+* Impaired motor control ('''[[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]])''''
+* Muscle tone disorders
+* Sensory disorders ('''[[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]])''''
+* Joint instability ('''[[Knee instability SD-075|Knee instability]]''')'''
+* Difficulty moving around ('''[[Progressive loss of autonomy SD-031|Progressive loss of autonomy]], [[Appearance of difficulty walking SD-066|Appearance of difficulty walking]])''''
+* Intolerance to effort ('''[[Identify a situation of deconditioning to effort SD-353|Identify a situation of deconditioning to effort]], [[Dyspnoea SD-162|Dyspnoea]])'''''
+* Difficulty gripping
+* Bronchial congestion ('''[[Expectoration SD-163|Expectoration]], [[Dyspnoea SD-162|Dyspnoea]])''''
+* Vesico-sphincter disorders (Stress urinary incontinence). ('''[[Urinary incontinence SD-103|Urinary incontinence]])''''

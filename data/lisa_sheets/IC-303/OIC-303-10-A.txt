@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-303-10-A
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=A
+|Title=Knowing the biological work-up
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+'''There is no biological test useful for positive diagnosis'''
+
+Biological tests are useful for assessing the impact of the disease and evaluating physiological functions as part of the pre-treatment assessment:
+
+§ CBC (anaemia)
+
+§ Albuminemia (nutritional status)
+
+§ Liver work-up (especially if hepatic metastases)
+
+§ Blood ionogram, creatinine.

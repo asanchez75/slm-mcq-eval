@@ -1,0 +1,10 @@
+{{knowledge objective
+|Identifiant=OIC-132-16-B
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=B
+|Heading=Example of chronic HSD on CT scan (see item 108)
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=16}}[[CT scan of a chronic HSD OIC-108-15-A|CT scan of a chronic HSD]]

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-335-27-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Knowing the functional and vital risks of Le Fort fractures
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=27}}
+'''Acute complications of Le Fort fractures'''
+
+* very frequent epistaxis, spontaneously resolving in most cases, sometimes massive, requiring anterior and posterior tamponade with a double balloon tube (Bivona type); such tamponade must be carried out under cover of anthiobioprohpylaxis, and after ruling out an associated fracture of the anterior stage of the base of the skull.
+* Nerve involvement: hypoesthesia or even anaesthesia in the infraorbital nerve territory (branches of the V2).
+* orbital involvement: oculomotor abnormalities, even direct ocular involvement (BAV which may lead to blindness),
+* associated cranial involvement: possible irradiation of fractures at the anterior level of the base of the skull (meningitis, anosmia).
+
+Secondary complications of Le Fort fractures
+
+* Sequelae of occlusal and morphological abnormalities: due to the absence or failure of reduction.
+* Sensory sequelae: hypoesthesia or even sequelae of painful dysesthesia in the V2 nerve territory (despite reduction).
+* Sensory sequelae: visual abnormalities, anosmia.
+* in cases of neuromeningeal breach (Le Fort II and III): CSF rhinorrhea, meningitis.
+* cranial trauma syndrome associating headaches, memory disorders, mood disorders and sleep disorders.

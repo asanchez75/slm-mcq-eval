@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-347-11-A
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=A
+|Title=Knowing the emergency management of acute urinary retention
+|Description=None
+|Rubric=Management
+|Contributors=Jonathan Olivier
+|Order=11}}
+
+<br />
+
+*Therapeutic emergency
+*Emergency bladder drainage by bladder catheter or suprapubic catheter
+*Assess endovesical volume on catheterisation
+*Prevent vacuo haemorrhage (clamping every 500ml)
+*Monitor and treat obstruction lifting syndrome: hourly monitoring of diuresis and intravenous fluid compensation.
+*Outpatient treatment if there are no complications (haematuria, infection, obstruction syndrome, renal failure).
+*In the event of complications, hospitalisation is required.
+
+<br />

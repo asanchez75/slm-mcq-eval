@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-036-01-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Know the different types of contraception available.
+|Description=None
+|Rubric=Definition
+|Contributors=Geneviève Plu-Bureau
+|Order=1}}
+
+
+== Non-permanent contraception ==
+
+==== Hormonal ====
+o Combination of estrogen and progestin
+
+o Progestin only
+
+==== Non-hormonal ====
+o Intrauterine device (IUD)
+
+o Different barrier methods (male or female condom, diaphragm, cervical cap)
+
+o All the other so-called "natural" methods (Ogino, temperatures, billings, symptothermy....) are not effective enough in normally fertile women.
+
+== Permanent contraception
+o Female (tubal ligation)
+
+o Male (vasectomy)

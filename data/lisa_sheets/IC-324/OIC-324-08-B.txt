@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-324-08-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Knowing how to recognise the determinants and consequences of "poor compliance".
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+They can be sought by
+
+- ''Questioning the patient'': by asking the question directly without negative connotations
+
+- '''The''' '''number of boxes''' collected from pharmacies (corresponds to dispensing but not necessarily to taking)
+
+- The presence of ''biological markers for monitoring treatment'' (INR under anti-vitamin K, HbA1c, LDL cholesterol....
+
+- Urine or blood tests for drugs (e.g. sodium valproate, hydroxychloroquine), taken unscheduled during the consultation.
+
+- Treatment efficacy. When faced with a situation of therapeutic failure, it is essential to ask whether the patient is not adhering to the treatment, as this can prevent unnecessary or even dangerous escalation of treatment.
+
+- The identification of almost constant side effects of drugs can help: eosinopenia and corticoids, hyperuricaemia and pyrazinamide, orange coloration of secretions and rifampicin; bradycardia and beta blockers, for example.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-136-02-A
+|Item_parent=Local, locoregional and general anaesthesia
+|Item_parent_short=Local, locoregional and general anaesthesia
+|Rank=A
+|Title=Knowing mortality attributable to anaesthesia
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Due to the very rigorous safety procedures surrounding the anaesthetic process in France, including its legal framework, mortality directly attributable to anaesthesia has been considerably reduced since the 1990s. It has fallen from 1 death attributable to anaesthesia for every 10,000 anaesthesias (in the early 1980s), to one death for every 150,000 (1999), and is currently around 1/200,000.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-357-07-B
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=B
+|Title=Know the definition and the four factors favouring asthenic peritonitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=7}}
+
+'''Asthenic peritonitis is a pauci-symptomatic form that is difficult to diagnose'''.
+
+The factors that encourage it are :
+
+*the patient's advanced age
+*immunosuppression
+*major malnutrition
+*prior antibiotic therapy.

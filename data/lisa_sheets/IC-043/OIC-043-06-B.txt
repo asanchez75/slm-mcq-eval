@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-043-06-B
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=B
+|Heading=Specify the interest and place of cyto- or histological samples
+|Description=Place of cervico-uterine smear or biopsy, endometrial biopsy
+|Rubric= Complementary examinations
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=6}}
+
+==Endometrial biopsy ==
+An endometrial biopsy should be carried out in any patient over the age of 45 or if there is a risk factor for endometrial cancer.
+
+The sample is taken with a Cornier® pipelle or by directed hysteroscopy.
+
+The aim of the biopsy is to diagnose endometrial cancer or atypical glandular hyperplasia.
+
+'''A biopsy cannot rule out endometrial cancer with certainty, even if it is normal''' In the case of post-menopausal metrorrhagia, an operative hysteroscopy should be performed.
+
+==Cervico-uterine smear ==
+The result of a cervico-uterine smear (cytology) is distorted by the presence of blood.
+
+==Cervical biopsy ==
+Biopsy of the uterine cervix is carried out systematically in the event of a suspicious appearance of the cervix on speculum examination, or guided by colposcopy in the context of an abnormal cervico-uterine smear.
+
+[Interpretation of a pathology report SD-180
+
+[Malignant tumours on surgical specimen/biopsy SD-181

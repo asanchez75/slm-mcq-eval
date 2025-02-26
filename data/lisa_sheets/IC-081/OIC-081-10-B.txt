@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-081-10-B
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=B
+|Title=Knowing the epidemiology of cataracts
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=10}}
+Cataract, mainly of the senile age, is a very common pathology, and cataract surgery is the most frequently performed surgery of all (approximately 700,000 procedures per year in France).
+
+The increase in the frequency of this disease, which is usually age-related, is therefore linked to the ageing of the population.
+
+
+It is the second leading cause of blindness worldwide after uncorrected ametropia, with a large proportion of the world's population lacking access to surgery.

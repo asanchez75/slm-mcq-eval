@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-024-12-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing the elements of severity
+|Description=Severity criteria
+|Heading=Follow-up and/or prognosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=12}}
+
+- Severe or uncontrolled hypertension (SAP ≥ 160 mmHg and/or DBP ≥ 110 mmHg)
+
+- '''Proteinuria > 3g/24h'''
+
+- Creatinemia ≥ 90 µmol/L
+
+- '''Oliguria ≤ 500 mL/24h or ≤ 25 mL/h''''
+
+- '''Thrombocytopenia < 100,000/mm<sup>3</sup>''''
+
+- '''Hepatic cytolysis with ASAT/ALAT >2N'''
+
+- '''Epigastric abdominal pain and/or persistent or severe right hypochondrium pain'''
+
+- Chest pain, dyspnoea, OAP
+
+- '''Neurological signs:''' severe headaches unresponsive to treatment, persistent visual or auditory disturbances, vivid, diffuse and polykinetic ROT.
+
+[Platelet abnormality SD-215
+
+[Anomaly of the erythrocyte indices (haemoglobin level, haematocrit...) SD-214]]
+
+[Abdominal pain SD-004
+
+[Proteinuria SD-212
+
+[Headache SD-118
+
+<br />

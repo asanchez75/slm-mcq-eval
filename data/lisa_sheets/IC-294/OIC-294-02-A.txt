@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-294-02-A
+|Item_parent=Cancer treatment: main procedures, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=A
+|Title=Knowing the different types of radiotherapy
+|Description=External radiotherapy, brachytherapy, radioimmunotherapy
+|Rubric=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=2}}
+
+'''Ionising radiation''' is radiation capable of creating ionisation in the matter it passes through by "tearing" electrons from the atoms of the molecules in the medium.
+
+Photons are massless "grains" of energy travelling at the speed of light and carried by an electromagnetic wave.
+
+A distinction is made between gamma photons, produced by the decay of natural or artificial radioactive atoms such as cobalt (Co60), iridium (Ir192) and caesium (Cs137), and X-ray photons, produced by electron-matter interactions. In radiotherapy, these are photons produced by X-ray tubes or linear accelerators for medical use. At equal energies, gamma and X-ray photons have identical biological properties: the only difference is in the way they are produced.
+
+'''Electrons''' are elementary particles of matter that are negatively charged. The mass of an electron is about two thousand times smaller than that of the particles that make up the nucleus of an atom (neutrons and protons). In radiotherapy, we mainly use electrons produced by linear accelerators (in an energy range from 4 to 32 MeV).
+
+Gray (Gy)'' is the unit of dose in radiotherapy.
+
+This is a unit of absorbed dose, corresponding to an energy absorption of 1 joule per Kg (1 Gy = 1 J.Kg-1).
+
+===External radiotherapy===
+This is the most widely used form of irradiation. It uses heavy particle accelerators.
+
+The energy source is at a distance from the volume to be irradiated. The ionising radiation passes through the air, then through healthy tissue, depositing its energy deep down, destroying the tumour cells. By multiplying the radiation beams, the energy is concentrated in the tumour and the healthy tissue is not irradiated with a high dose.
+
+Conformal radiotherapy is increasingly used and requires the acquisition of heavy equipment that combines a linear accelerator (with a collimation system to obtain a beam of complex shape by interposing blades or "multi-blade collimator" in the primary beam) and a sophisticated computer system to acquire three-dimensional anatomical images. Means of restraint (masks, mattresses, etc.) and verification of patient repositioning (portal imaging) ensure perfect reproducibility of the installation from one day of treatment to the next.
+
+The choice of radiation depends on the location of the tumour. Superficial lesions can be treated with electrons that penetrate a few centimetres. Deeper lesions are treated with photons of energy varying from 5 to 25 MV: 6 MV for breast cancer or cancer of the ENT sphere, 10 to 25 MV for bronchial, abdominal or pelvic cancer.
+<br />
+
+=== Brachytherapy===
+This method uses radioactive sources placed inside the body. A distinction is made between interstitial brachytherapy (where the sources are placed inside the tissue to be irradiated) and endo-cavitary or intra-luminal brachytherapy, where the sources are introduced into a natural cavity in contact with or very close to the tissue to be irradiated. During the time that the sources are inside the body, irradiation is continuous. It lasts from a few minutes to a few days, depending on the flow rate used (high flow rate = a few minutes) and the dose to be delivered.
+
+In France, the radioactive sources used are iridium (Ir192) and caesium (Cs137).
+
+The advantage of brachytherapy over external irradiation is that it delivers a high dose in a very short space of time in a very small volume, because the dose falls very quickly at the periphery of the irradiated volume.
+
+===Radioimmunotherapy or internal vectored radiotherapy===
+Internal vector radiotherapy (IVRT) is a cancer treatment technique which generally involves the systemic administration of a radiopharmaceutical (RPP).
+
+This MRP consists of a vector (analogue protein, antibody, etc.) specifically targeting the tumour (receptor, antigen, etc.) labelled with a radioactive isotope emitting ionising radiation of sufficient energy to irradiate the tumour cells and with a short path through the material to limit undesirable effects on healthy tissue. The main current indications are the treatment of metastatic neuroendocrine tumours (targeting somatostatin receptors SSR) and prostate tumours (targeting prostate specific membrane antigen PSMA).
+
+Internal metabolic radiotherapy using iodine-131 for thyroid cancer is administered orally and does not require the use of a vector, as the chemical element used is physiologically metabolised by thyroid cells.
+
+Hepatic intra-arterial radioembolisation or selective internal radiotherapy (SIR) uses radioactive microspheres administered after selective catheterisation of the arterial network vascularising the tumour.

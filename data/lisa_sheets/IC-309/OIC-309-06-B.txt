@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-309-06-B
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=B
+|Title=Knowing the particularities of small cell cancer
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+Small cell carcinoma is :
+
+- a tumour of neuroendocrine origin,
+
+- frequently associated with a para-neoplastic syndrome,
+
+- with a poor prognosis and rapid progression in the absence of treatment,
+
+- an indication for "emergency" chemotherapy, based on a platinum salt-based doublet, combined with immunotherapy if metastatic,
+
+- initially chemosensitive, then progresses unfavourably with relapse(s) and chemoresistance.

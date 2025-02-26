@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-043-02-A
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=A
+|Title=Knowing the main causes of genital haemorrhage
+|Description=None
+|Rubric=Etiologies
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=2}}
+
+For women of childbearing age, pregnancy should always be sought as a first-line treatment.
+
+The '''PALM COEIN mnemonic classification''' allows us to consider the main aetiologies.
+{| class="wikitable"
+|'''P'''olyp
+|'''C'''oagulopathy
+|-
+|'''A'''denomyosis
+|'''O'''vulatory dysfunction
+|-
+|'''L'''eiomyoma: submucous and other
+|'''E'''ndometrial
+|-
+|'''M'''alignancy and hyperplasia
+|I'''atrogenic
+|-
+|
+|'''N'''ot otherwise classified
+|}
+
+==Etiology of genital bleeding outside pregnancy, classified according to different modalities:==
+{| class="wikitable"
+|'''Organic uterine and adnexal causes''''
+| Adenomyosis [[Pelvic pain SD-099]]
+
+- Uterine myoma (mainly submucosal) [[Pelvic mass SD-106]]
+
+- Endometrial polyp
+
+- Endometrial hyperplasia
+
+- Endometrial cancer
+
+- Upper genital infection [[Pelvic pain SD-099]], [[Leucorrhoea SD-104]], [[Hyperthermia/fever SD-044]]
+
+- Secretory tumours of the ovary
+
+- Arteriovenous malformations
+|-
+|'''Cervical Causes'''
+|<nowiki>- Ectropion</nowiki>
+
+- Cervical cancer
+
+- Cervicitis
+|-
+|'''Coagulopathy''''
+|Willebrand's disease [[Bleeding tendency SD-059]]
+<br />
+|-
+|'''Iatrogenic causes'''
+| [[Prescribe contraception and emergency contraception SD-257|Contraception]] leading to oestrogen deficiency
+
+- Anticoagulant
+
+- Intra-uterine device<br /> - Intra-uterine device<br /> - Intra-uterine device
+|-
+|'''Systemic diseases''''
+|<Hypothyroidism </nowiki>
+
+- Acute systemic lupus erythematosus
+
+- Chronic renal failure
+
+- Liver failure
+|-
+|'''Functional causes''''
+|Once all organic aetiologies have been ruled out, the liver may become dysfunctional:
+
+- Intermenstrual bleeding on the 14th day of the cycle (ovulation)
+
+- Pre-menstrual metrorrhagia due to luteal insufficiency
+
+- Post-menstrual metrorrhagia due to oetrogen deficiency at the beginning of the cycle
+
+[[Menstrual cycle disorders SD-094]]<br />
+|}
+<br />

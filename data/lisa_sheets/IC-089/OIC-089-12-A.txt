@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-089-12-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Indication of imaging tests for MS
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+The imaging examination of choice for the exploration of sensorineural hearing loss is ''<nowiki/>'MRI of the cerebellopontine roches and angles injected in thin sections'' which allows endo or retro-labyrinthine anomalies to be visualised
+
+In some cases, in particular for the exploration of certain inner ear anomalies (malformations, canal dehiscence), CT of the rocks allows better characterisation of anatomical anomalies.
+
+'''The following MS (sensorineural hearing loss) situations require an MRI of the rocks:'''
+
+*Sudden unilateral deafness
+*Unilateral or <u>asymmetric</u> progressive sensorineural hearing loss (look for a vestibular schwannoma).
+*Suspicion of Menière's disease (initial MRI to rule out a differential diagnosis)
+*Suspicion of labyrinthitis
+
+MRI can be used to rule out an acoustic neuroma, among other things.

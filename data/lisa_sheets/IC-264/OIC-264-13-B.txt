@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-264-13-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing what to do depending on the stage of CKD
+|Description=None
+|Rubric=Management
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=13}}
+
+{| class="wikitable"
+|Stadium
+|Conduct
+|-
+|1 and 2
+|- Diagnosis and treatment
+
+- Slowing the progression of kidney disease (detection of risk factors)
+
+- Avoidance of nephrotoxic substances
+
+- Managing cardiovascular risk factors
+
+- Management of co-morbidities
+|-
+|3A
+|- Same as stage 1 and 2
+
+- Diagnosis, prevention and treatment of complications of CKD and related diseases
+|-
+|3B
+|- Same as stages 1, 2 and 3A
+
+- Diagnosis, prevention and treatment of complications of CKD and associated diseases +++.
+
+- Preservation of venous capital
+
+- Vaccination against hepatitis B
+|-
+|4
+|- Same as stages 1, 2 and 3
+
+- Information and preparation for substitution treatment
+
+- Evaluation for inclusion on the renal transplant waiting list when GFR < 20 ml/min/1.73m².
+|-
+|5
+|- Assessment with a view to inclusion on the kidney transplant waiting list, if not yet carried out.
+
+- Substitution treatment by dialysis: the patient must be informed and prepared for the chosen technique. The start of dialysis is determined with the patient on the basis of clinical and biological symptoms.
+|}

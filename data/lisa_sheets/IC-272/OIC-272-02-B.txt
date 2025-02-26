@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-272-02-B
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=B
+|Item_parent_short=Gastric and duodenal ulcer.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Fall in incidence linked to fall in Helicobacter pylori (''HP'') infection
+
+Sex ratio 2H/1F
+
+Incidence of 1 to 2/1000/year in developed countries
+
+90,000 new cases per year in France
+
+2-10% mortality rate for complicated forms (haemorrhage, associated co-morbidities)

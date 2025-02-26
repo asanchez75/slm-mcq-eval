@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-097-01-A
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=A
+|Title=Know the definition of polyradiculoneuritis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Acute polyradiculoneuritis is an inflammatory, demyelinating, multifocal, sensory-motor peripheral neuropathy affecting nerve roots and the nerves extending from them.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-224-07-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing the complications of hypertension and the impact on target organs
+|Description=Neurosensory, cardiovascular and renal complications.
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=7}}
+Inadequately controlled hypertension can lead to complications in :
+
+- heart,
+
+- vascular,
+
+- brain,
+
+- renal,
+
+- ophthalmology.
+
+The risk of complications linked to hypertension is determined by BP values, but also by :
+
+- the presence of target organ damage,
+
+- pre-existing cardiovascular disease or a concomitant pathology associated with a high cardiovascular risk (diabetes, chronic renal failure),
+
+- assessment of overall cardiovascular risk.

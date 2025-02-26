@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-047-12-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Know how hearing disorders are screened by the attending physician.
+|Description=Know the main clinical principles of hearing screening for infants and children: clinical tests according to age.
+|Rubrique=Management
+|Contributors=
+|Order=12}}
+
+
+* At all ages:
+** external examination: face and neck, pinna, ear canal
+** otoscopy
+* New-born babies (objective tests):''' induced acoustic emissions (OEAP) or automated auditory evoked potentials. AEO may miss hearing loss due to auditory neuropathy (false negative).
+* Outside the neonatal period (subjective tests except tympanometry): child calm and quiet, reassurance.
+** Calibrated sound sources (Moatti box, sensory baby test): behavioural reaction to sound stimulation, acutropic reflex (from 6 months, turns head towards object) or investigative orientation. The younger the child, the greater the intensity of sound required to obtain a response. Clear responses at 70 dB = no bilateral deafness in infants.
+** Voice test: response to first name (after 6 months), familiar words, picture book (after 2 years), voice audiometry (after 4 years).
+** Headphone tonal audiometry if the child cooperates and understands (after 4 years).
+** Tympanometry: tubal obstruction or serous otitis.
+
+
+To illustrate: video made by Surdi Iifo service with practical examples of tests on children: https://www.surdi.info/galerie-videos/detail/fiche/6-questions-surlexamen-de-laudition-chez-lenfant/

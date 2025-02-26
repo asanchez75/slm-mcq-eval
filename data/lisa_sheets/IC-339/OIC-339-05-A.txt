@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-339-05-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Knowing the elements of questioning and clinical examination of anginal pain and its atypical presentations, ACS and its complications.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Kerneis
+|Order=5}}
+
+
+* Positive diagnosis of ST+ ACS is based on:''''
+** Interrogatory :
+*** Must look for cardiovascular risk factors, , other atheromatous damage.
+*** Pain characteristics: ''mid-thoracic (or retrosternal), constrictive, intense, radiating to the left arm and lower jaw, sudden onset at rest, lasting > 20 minutes'', trinitro-resistant.
+** Clinical examination :
+*** is usually normal in the absence of complications.
+*** The examination will also look for signs of seriousness: ventricular rhythm or high degree conduction problems (palpitations, lipothymia or syncope), shock, or the presence of mechanical complications: IVC, MI due to pillar rupture, most often associated with acute heart failure.
+*** Signs of acute right heart failure should also be sought in patients with inferior infarction (extension to the VD).
+
+* Positive diagnosis of ST- ACS is based on:''''
+** Interrogatory :
+*** '''Idem au SCA ST+''' but the rest pain is generally shorter, < 20 minutes. The pain may also appear recently on exertion (de novo angina) or worsen with less and less exertion (crescendo angina). The pain is usually trinitro-sensitive.
+** The clinical examination is identical to that for ST+ ACS, and should look for signs of severity.
+
+* '''The positive diagnosis of stable angina is based on:''''
+** Interrogatory :
+*** Must look for FDRCV, other atheromatous damage.
+*** Pain characteristics: it has the same characteristics as that of ACS, but only '''occurs with effort, chronically, for efforts of the same intensity, and ceases when the effort is stopped. The pain is usually trinitro-sensitive.'''
+** The clinical examination is usually normal and looks for other vascular damage, signs of heart failure, and the existence of associated valvular heart disease (murmur?).
+
+* Atypical presentation (more frequent in women, elderly subjects and diabetics):'''  ACS should be considered in the presence of :
+** '''Isolated pain in the left arm or both shoulders'''
+** ''Epigastric pain with nausea (inferior infarction)''
+** Malaise with sweating and nausea
+** In the elderly, this should be considered in the presence of a deterioration in general condition.
+** Acute dyspnoea
+
+* '''A special case: printzmetal angina or spastic angina:'''
+** This is a rarer condition.
+** Angina occurs at rest, usually in the second half of the night, with systemic ST-segment elevation in a territory accompanied by a mirror on the electrocardiogram.
+** The pain and elevation regress after administration of nitrates.
+** Coronary angiography revealed no coronary obstruction. It shows spontaneous spasm in the case of reversible stenosis after administration of nitrates or induced by injection of Methergin.
+
+<br />

@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-245-11-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the pharmacological characteristics and bioequivalence of the main corticoids
+|Description=None
+|Rubric=Management
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=11}}
+Table 3: Pharmacological characteristics of the main glucocorticoids.
+{| class="wikitable"
+|
+|Hydrocortisone
+|Prednisone
+|Prednisolone
+|Dexamethasone
+|-
+|''Biological half-life'''
+|8 - 12 hours
+|18 - 36 hours
+|18 - 36 hours
+|36 - 54 hours
+|-
+|Bioequivalence
+|20 mg
+|5 mg
+|5 mg
+|0.75 mg
+|-
+|''Glucocorticoid activity''
+|1
+|4
+|4
+|40
+|}
+<br />

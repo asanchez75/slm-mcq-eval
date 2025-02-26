@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-169-13-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Knowing the evolution of tests during chronic HIV infection
+|Description=None
+|Rubric=Additional tests
+|Contributors=Jade Ghosn
+|Order=13}}
+'''Kinetics of virological markers'''
+[[File:Kinetics of HIV infection markers.png|vignette|646x646px]]
+<br />

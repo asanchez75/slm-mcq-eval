@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-043-08-B
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=B
+|Title=Knowing the main treatments for adenomyosis
+|Description=None
+|Heading=Management
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=8}}
+
+Treatment is based on a levonorgestrel IUD (the treatment with the best benefit-risk balance in this indication), systemic hormonal treatment (progestogen, estrogen-progestogen or GnRHa) or surgery (endometrectomy or hysterectomy in the event of failure or refusal; in the absence of a desire for pregnancy).

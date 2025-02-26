@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-040-08-A
+|Item_parent=Pelvic pain in women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Knowing the main etiologies of CPP
+|Description=Cyclic or non-cyclic
+|Rubric=Definition
+|Contributors=Virginie Grouthier,Pierre Emmanuel Bouet
+|Order=8}}
+
+Chronic pelvic pain is pain that has been present for more than 6 months. It may be "cyclical", i.e. related to the menstrual cycle, or "non-cyclical".
+
+==Chronic non-cyclic pelvic pain===
+
+===Extragenital causes===
+Chronic non-cyclical pelvic pain may have an extra-genital origin:
+
+*digestive'' secondary to colitis, inflammatory disease, digestive endometriosis, post-surgical adhesions, haemorrhoids or other anorectal anomalies. They are frequently accompanied by rectal haemorrhage, tenesmus, transit problems (constipation or diarrhoea), bloating, etc...
+*urinary" secondary cystalgia with clear urine (pain and "urinary functional signs" but sterile urine)
+*secondary rheumatological osteoarticular pathologies of the pelvis or lumbar spine. The pain is aggravated by certain positions or movements and by percussion of certain joints, but subsides with rest. They may be accompanied by neurological signs such as neuralgia (sciatica, cruralgia, etc).
+
+===Genital origin===
+Chronic non-cyclical pain of genital origin may be secondary to an underlying pathology and is therefore referred to as "organic" pain. If this is not the case, it is known as "functional" pain.
+
+====Non-organic cyclical pelvic pain====
+The main causes of chronic non-cyclic '''''pelvic pain organic''''' are:
+
+*[[Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis|'''The'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''. They may be vulvovaginal or cervical infections, chronic endometritis or subacute adnexal infections.
+*Disorders of pelvic statics, in particular Masters and Allens syndrome, which is secondary to a deficit in the means of fixation of the cervico-isthmic area, in particular the utero-sacral ligaments, generally acquired after a traumatic delivery or the birth of a macrosomic child. This causes low-grade pain, with a sensation of heaviness that diminishes when lying down but increases with orthostatism or exertion, and profound dyspareunia. The uterus is generally very mobile on gynaecological examination and the vaginal touch may reproduce the pain in question.
+*Pelvic congestion syndrome secondary to the presence of pelvic or ovarian varicose veins. The pain generally appears after pregnancy. They are aggravated by standing or sexual intercourse.
+*Endometriosis can also cause non-cyclical pain. It may account for painful uterine retroversion due to the retraction effect. It is a case of permanent background pain associated with cyclical episodes of pain.
+
+====Functional cyclical pelvic pain====
+With regard to the main causes of chronic non-cyclic functional ''''' pelvic pain, i.e. pain without an underlying anatomical substratum, it is important to consider the sequelae of episiotomy scarring and vulvovaginal atrophy secondary to hypoestrogenism (usually after the menopause), which may be accompanied by reduced lubrication during intercourse. Finally, psychological factors need to be investigated, and the gynaecologist has a key role to play in helping women to identify certain "violent situations". In the case of psychogenic pain, there may also be an increase in pain at the time of menstruation.
+
+==Chronic cyclic pelvic pain===
+Chronic cyclical pelvic pain occurs repeatedly according to the menstrual cycle. It may be premenstrual pain (before the period), intermenstrual pain (between periods) or dysmenorrhoea (during periods).
+
+The main etiologies to be aware of are :
+
+*Menstrual cycle abnormalities, metrorrhagia and premenstrual syndrome.
+*The '''intermenstrual syndrome''' defined by pain contemporaneous with the ovulatory period. It is generally not very intense, lasts only a few days in the middle of the cycle and may be accompanied by metrorrhagia. The clinical examination is reassuring and there is no indication for paraclinical examinations. Management is mainly based on "simple analgesics" or even anti-gonadotropic treatment.
+*Dysmenorrhoea" defined as pelvic pain at the same time as menstruation, occasionally accompanied by digestive and urinary problems, headaches, oedema and other symptoms also found in premenstrual syndrome (see item 35). They may be "secondary", also known as "organic", i.e. symptomatic of an underlying pathology, or "functional" if no anatomical substrate is found.
+
+===Etiologies of ''organic dysmenorrhoea'' ===
+
+*[[Endometriosis|'''Endometriosis'']]. This is the development of endometrial tissue outside its usual uterine site (uterine endometriosis including adenomyosis and adenomyoma within the myometrium; superficial (or peritoneal), ovarian and deep pelvic (or subperitoneal) endometriosis). The prevalence of endometriosis in the general population is difficult to estimate, but it is thought to be present in 33% of women with acute pelvic pain. When questioned, patients may describe severe dysmenorrhoea, frequently resistant to level 1 analgesics, chronic dyspareunia, pain on defecation during menstruation, transit disorders and urinary functional signs during menstruation, or infertility. However, there is no correlation between the intensity of pain and the extent of endometriotic lesions. Clinically, the patient should look for bluish lesions in the vagina on speculum examination, palpable nodules in the utero-sacral ligaments or in the posterior cul-de-sac, and tenderness of the utero-sacral ligament. A retracted (retroverted) uterus or reduced uterine and ovarian mobility are also suggestive of the diagnosis on vaginal examination. The first-line imaging examination is an endovaginal pelvic ultrasound, if possible performed by an experienced radiologist. The radiological investigation may be supplemented by a pelvic MRI (to be performed if possible after a rectal enema). Endometriosis can be treated medically or surgically, depending on the degree of involvement, the location, the symptoms (pain, infertility, etc.) and the patient's wishes. Hormonal treatment to induce amenorrhoea is always indicated as first-line treatment, as it is less invasive than surgery.
+*Cervical stenosis or other utero-vaginal anomalies. These may be acquired (synechiae after endo-uterine procedures, cervical cancer, cervical surgery, etc.) or congenital, with cyclical pain appearing rapidly after puberty. This is acute cyclical pain, cramp-like or spasmodic colic, starting with the onset of menstruation and intensifying throughout the bleeding period.
+
+===Etiologies of functional dysmenorrhoea===
+Functional dysmenorrhoea is highly prevalent in women aged between 20 and 24, and seems to decrease with age. Their aetiology is similar to that of chronic non-cyclical functional pelvic pain, i.e. "psychogenic". This is a "diagnosis of elimination". Although easily evoked, the diagnosis is not easy to make and there is a strong temptation to prescribe and repeat numerous paraclinical examinations, particularly imaging tests. Psychological factors that may explain the pain expressed and felt by the patient should be sought during the interview, giving the patient the time and space to express herself and tell us about her physical or psychological suffering.
+[File:Chronic pelvic pain .jpg|left|thumbnail]]

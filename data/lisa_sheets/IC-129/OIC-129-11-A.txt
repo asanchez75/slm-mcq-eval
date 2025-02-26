@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-129-11-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Radiography of coxarthrosis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+
+[[File:Hanche.jpg|vignette]]

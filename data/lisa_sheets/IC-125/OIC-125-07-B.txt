@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-125-07-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Knowing the warning signs to look for a serious cause of incontinence
+|Description=Infection / foreign body / tumours / neurological disease
+|Rubric=Diagnosis
+|Contributors=B. Peyronnet
+|Order=7}}
+
+*Urinary incontinence may result from an underlying pathology.
+*Urinary incontinence is more frequently the consequence of a potentially serious underlying pathology ([[Bladder tumours|bladder cancer 314]] or pelvic : [[Cervical tumours, tumour of the uterine body|uterine cancer 300]], [[Tumours of the colon and rectum|rectal cancer 301]], neurological disease, overflow urination with renal failure in [[Benign prostatic hyperplasia|BPH 127]]).
+*The presence of macroscopic haematuria, pain or burning associated with urinary incontinence should prompt a search for a local cause, in particular a bladder tumour and, to a lesser extent, a stone or a bladder foreign body, or a [[Urinary infections in children and adults|urinary infection 161]].
+*The presence of neurological symptoms such as a sensory or motor deficit, balance problems or tremor should prompt a search for an underlying neurological pathology ([[Recent neurological deficit (see item 340)|items : recent neurological deficit 91]], [[Motor and/or sensory deficit of the limbs|motor/sensory deficit of the limbs 92]], [[Non-traumatic spinal cord compression and cauda equina syndrome|spinal cord compression 93]], [[Peripheral neuropathies|peripheral neuropathy 96]]).
+*The presence of associated anorectal and/or sexual disorders may also suggest the existence of a neurological cause i[[Recent neurological deficit (see item 340)|tems: recent neurological deficit 91]], [[Motor and/or sensory deficit of the limbs|motor/sensory deficit of the limbs 92]], [[Non-traumatic spinal cord compression and cauda equina syndrome|spinal cord compression 93]], [[Peripheral neuropathies|peripheral neuropathy 96]]).
+*In young patients, particularly females, the appearance of urinary incontinence with no obvious cause should raise the suspicion of multiple sclerosis (MS 104), especially if there are other associated suggestive signs (e.g. retrobulbar optic neuritis, etc.). Urinary symptoms are frequently inaugural in MS 104.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-114-21-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Photograph of an erythroderma
+|Description=Picture of erythroderma
+|Rubric=Multimedia content
+|Contributors=
+|Order=21}}
+
+[[File:Erythrodermie2.jpg|vignette|Erythrodermie]]
+[[File:Erythrodermia1.jpg|vignette|Erythrodermia]]

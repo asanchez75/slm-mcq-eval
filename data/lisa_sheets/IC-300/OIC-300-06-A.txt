@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-300-06-A
+|Item_parent=Tumours of the uterine cervix, tumour of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=A
+|Title=Knowing the circumstances in which cervical cancer is discovered
+|Description=Screening, clinical signs early stages/advanced stages
+|Rubric=Positive diagnosis
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=6}}
+
+=='''During systematic screening'''==
+
+==In the presence of clinical signs ==
+
+===On routine examination: ===
+red, irregular cervix, bleeding on contact
+
+===Symptomatic patient:===
+- '''[[Abnormal genital bleeding (excluding known pregnancy) SD-112|bleeding]]'''' caused by sexual intercourse: scanty, painless, even capricious or intermittent, they should raise the suspicion of invasive cancer until proven otherwise.
+
+- Spontaneous ''[[Abnormal genital bleeding (excluding known pregnancy) SD-112|metrorrhagia]]''': in the absence of sexual intercourse, the symptomatology will be delayed and the increase in the lesion will eventually lead to spontaneous metrorrhagia.
+
+- '''[[Leucorrhoea SD-104|leucorrhoea]]''': usually pinkish, it is a classic sign, but rarely the cause of the diagnosis.
+==Advanced forms ==
+- Alteration of general condition: '''[[Asthenia SD-021|asthenia]], [[Denutrition/malnutrition SD-030|anorexia]], [[Weight loss SD-017|amaigrissement]]''''
+
+- In case of pelvic extension :
+
+
+
+- localised or diffuse oedema SD-054|oedema]'' of the lower limbs
+
+- bladder symptoms (cystitis''', [[Haematuria SD-102|haematuria]],''' pollakiuria) or rectal symptoms (tenesmus, epithelium or false urination, '''[[Melena/rectorrhagia SD-010|rectorrhagia]]'''')
+
+- lumbar ''[[Pain, burning, cramps and paresthesias SD-073|pain]]''' by ureteral compression
+
+- ''[[Single or multiple adenopathies SD-016|adenopathies]]''' loco-regional

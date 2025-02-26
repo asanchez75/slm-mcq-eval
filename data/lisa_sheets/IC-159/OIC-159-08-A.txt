@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-159-08-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the clinical presentation of extra-pulmonary tuberculosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=8}}
+
+'''Summary: Tuberculosis can affect all organs and the clinical signs are correlated with the involvement of the organ in question.'''
+
+In the case of extra-pulmonary involvement, the signs are correlated with the involvement of the organ in question.
+
+In order of frequency, lymph-node tuberculosis is the most common form, and mainly concerns the cervical lymph nodes (with [[Single or multiple adenopathy SD-016|Single or multiple adenopathy]], [[Cervico-facial swelling SD-158|Cervico-facial swelling]], sometimes [[Cervico-facial pain SD-144|Cervico-facial pain]]).
+
+Involvement of the spine (or Pott's disease) leads to chronic spondylodiscitis. Chronic [[Lumbar region pain SD-036|lumbar region pain]], associated with general signs, are classic.
+
+In the case of peritoneal involvement, [[Abdominal pain SD-004|abdominal pain]] is the main sign, sometimes with [[Abdominal distension SD-003|abdominal distension]] or even the perception of [[Abdominal mass SD-008|masses]].
+
+Neurological damage may present as meningitis, but often combines with encephalitis signs (focal neurological signs, coma and consciousness disorders SD-028|coma). This form has become rare in France (<100 cases/year).
+
+Rare kidney involvement may cause aseptic leucocyturia or sometimes [[Haematuria SD-102|haematuria]].
+
+When the bacillus is disseminated by the haematogenous route, the infection is often generalised (multiple infections of several organs, positive blood cultures on a specific medium) and the radiological damage to the lungs is characteristic: this is tuberculosis miliaria.

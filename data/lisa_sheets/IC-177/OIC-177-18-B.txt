@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-177-18-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Intitle=Cite drugs active against HSV and VVZ group viruses
+|Description=Aciclovir, valaciclovir
+|Rubric=Definition
+|Contributors=Morand-Joubert Laurence
+|Order=18}}
+
+
+*Aciclovir (ACV) (oral, IV, local)
+*Valaciclovir (VACV, prodrug) (oral)
+*''Famciclovir'' (FCV, prodrug) (per os)
+*Trifluridine (eye drops)
+*Cidofovir (IV)
+*Foscarnet (IV)
+
+
+(Note that ganciclovir (IV) and valganciclovir (prodrug, per os) can be active but are used mainly against CMV and HHV-6).

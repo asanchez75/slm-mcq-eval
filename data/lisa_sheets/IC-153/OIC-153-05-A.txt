@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-153-05-A
+|Item_parent=Surveillance of wearers of valvular prostheses
+|Item_parent_short=Surveillance of wearers of valvular prostheses
+|Rank=A
+|Title=Knowing the target values for the international normalized ratio (INR) in relation to valve prostheses and the terrain
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Thomas SENAGE
+|Order=5}}
+Mechanical prostheses require long-term curative anticoagulation. Only VKAs are recommended. The effectiveness of anticoagulation is assessed by measuring the INR. INR monitoring is therefore essential, given the risk of prosthesis thrombosis and the serious consequences of such thrombosis.
+
+The INR should be measured in the laboratory at least once a month, and more regularly if necessary (fluctuating INR, clinical situations causing biological changes). Recently, the CoaguChek® INRange system enables patients to measure their INR themselves at home, which means more regular monitoring. It is now reimbursed for adult patients with mechanical prostheses.
+
+The INR target is defined by cardiologists on an individual basis. The type of prosthesis, the position of the prosthesis and the risk factors must be taken into account:
+{| class="wikitable"
+|Thrombotic risk of the prosthesis
+| colspan="2" |Patient risk factors
+|-
+|
+|No risk factors
+|≥ 1 risk factor
+|-
+|Low
+
+
+Medium
+
+
+High
+|2,5
+
+
+3,0
+
+
+3,5
+|3,0
+
+
+3,5
+
+
+4,0
+|}
+'''''Low-risk prosthesis''''': Medtronic-Hall® (disc valve), Saint-Jude® and CarboMedics® (double-finned valves) aortic position prosthesis.
+
+'''''Intermediate-risk prosthesis''''': Björk-Shiley® type aortic prosthesis (monodisc) and all other double-finned, non-low-risk prostheses.
+
+''''' High-risk prosthesis''''': Starr® type old-generation valves (not implanted today).
+
+
+
+'''''Patient risk factors:'''''
+
+- Any mechanical prosthesis in mitral, tricuspid or pulmonary position
+
+- History of thrombo-embolic disease
+
+- Atrial fibrillation
+
+- Dilated OG with a diameter > 50mm
+
+- Dense spontaneous contrast in the OG (sludge)
+
+- Associated mitral stenosis
+
+- LVEF impairment < 35%.
+
+- Hypercoagulable state (SAPL)
+
+
+Bioprostheses do not require anticoagulation, unless there are associated risk factors linked to the patient. After aortic bioprosthesis, platelet anti-aggregation for 3 months is required for endothelialization. After mitral or tricuspid bioprosthesis, effective anticoagulation for 3 months is required for endothelialization.

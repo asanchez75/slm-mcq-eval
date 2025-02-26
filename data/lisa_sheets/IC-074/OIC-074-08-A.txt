@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-074-08-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Intitle=Antidepressants: knowing the main classes and molecules
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+The classification of antidepressants is imperfect and is based on their supposed mechanism of action. The most commonly used classes and molecules are as follows.
+
+===== Selective serotonin reuptake inhibitors [''SRIs''] =====
+
+* Citalopram
+* Escitalopram
+* Paroxetine
+* Sertraline
+* Fluoxetine
+
+===== Serotonin and norepinephrine reuptake inhibitors [''SNRI''] =====
+
+* Venlafaxine
+* Duloxetine
+
+===== "Other antidepressants" (with a different pharmacological mechanism) =====
+
+* Vortioxetine
+* Mianserin
+* Mirtazapine
+* Agomelatine
+
+===== Imipraminics =====
+
+* Amitriptyline
+* Clomipramine

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-075-23-B
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=B
+|Title=Knowing the diagnosis of psychiatric and addictive co-morbidities
+|Description=To know the frequent co-morbidity of psychiatric and addictive disorders; Ref. introductory item 74-79
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=23}}
+
+
+* Smoking may promote panic disorder
+* Significant smoking comorbidity in patients with psychiatric disorders
+** Schizophrenia 82% of smokers
+** Bipolar disorder 56% smokers
+
+* Before giving up smoking, look for anxiety disorders and depressive episodes.
+* Links between difficulty quitting and depressive symptoms
+
+<br />
+
+* Manifestations of anxiety and depression induced by withdrawal:
+** If lasting a few weeks => no pharmacological treatment but support in consultation
+** Beyond that => specific psychiatric treatment
+* After withdrawal, improvement in anxiety and depressive symptoms and quality of life.

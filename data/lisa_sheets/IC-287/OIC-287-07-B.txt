@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-287-07-B
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=B
+|Title=Knowing the risk factors for complications
+|Description=NSAIDs...
+|Rubric=Etiologies
+|Contributors=Frédérique PESCHAUD
+|Order=7}}
+
+Certain drugs are associated with diverticulitis and its complications: NSAIDs, corticoids, immunosuppressants. In addition, they can mask clinical symptoms in the early stages of the disease. NSAIDs should not be prescribed if there is any doubt about the diagnosis of diverticulitis.
+
+Others, such as NSAIDs, platelet aggregation inhibitors and anticoagulants, encourage diverticular haemorrhage, independently of diverticulitis flare-ups.

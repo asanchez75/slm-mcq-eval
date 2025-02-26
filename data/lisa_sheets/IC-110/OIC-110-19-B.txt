@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-110-19-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing how to assess sleep apnoea syndrome
+|Description=Respiratory polygraphy and polysomnography
+|Section=Additional tests
+|Contributors=
+|Order=19}}
+'''Anamnesis:'''
+
+The Epworth Sleepiness Scale is widely used and validated in the assessment of sleep apnoea in particular. It consists of 8 questions assessing the risk of falling asleep in everyday situations. Thresholds are used to define normal, doubtful or pathological sleepiness.
+
+The Berlin questionnaire can be used to identify patients with a sleep apnoea-hypopnoea index >5, with a sensitivity of 86% and a specificity of 77%, although it performs less well in elderly patients.
+
+'''Clinical examination:'''
+
+BMI, BP, SaO2 measurement, cardiopulmonary examination and ENT examination are carried out, looking for obstacles to airflow: nasal obstruction, thick tongue (Mallampati score), facial morphology, particularly in the case of retrognathism.
+
+'''Additional examinations:'''
+
+The reference test is polysomnography, which can be carried out in hospital or on an outpatient basis.
+
+A simpler outpatient examination, nocturnal ventilatory polygraphy (which records only breathing during sleep), is sufficient in the majority of cases. Polysomnography, which provides information on sleep architecture, should be considered as a complement, or if other sleep pathologies are suspected.
+
+EFR with arterial gasometry may be useful if the patient is a smoker and/or suffers from dyspnoea on exertion.
+
+Airway imaging is generally unnecessary.

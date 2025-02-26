@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-183-06-A
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=A
+|Title=Knowing the principles of the different levels of medical and technical prevention (primary, secondary, tertiary).
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+
+
+===''Primary prevention:'''===
+
+*Aims to prevent the appearance of deleterious effects in employees exposed to occupational risks,
+*Concerns all types of risk,
+*It is a "collective technique" (e.g. machine enclosures to reduce noise),
+*Then "individual technical" (e.g. providing earplugs to protect against noise),
+*It can be ''medical'': vaccination for example.
+
+===''Secondary prevention'''===
+
+*Aims to ''detect'' pathologies linked to the occupational risk concerned as early as possible,
+*Mainly medical.
+*For example: audiograms.
+
+===''Tertiary prevention'''===
+
+*Aims to ''keep people in work'' with work-related illnesses,
+*Technical/organisational: adapting the workstation (accessibility, working hours),
+*Medical: medical treatment to prevent the condition or disability from worsening.

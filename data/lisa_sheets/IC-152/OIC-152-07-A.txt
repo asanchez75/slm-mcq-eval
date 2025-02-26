@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-152-07-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing the clinical signs suggestive of IE
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+The clinical picture of AR combines general and/or cardiac signs and/or those associated with the occurrence of complications (systemic embolisms, infectious aneurysms, immunological manifestations).
+
+'''Clinical signs can be multiple and an IE must be suspected in the presence of the following signs:'''
+
+1) General signs
+
+*[[Hyperthermia/fever SD-044|Fever]] [[Acute fever in children and adults|acute]] or [[Prolonged fever|prolonged]]
+*Chills
+*Altered general condition ([[Asthenia SD-021|asthenia]], [[Weight loss SD-017|weight loss]], anorexia)
+
+2) Cardiac signs
+
+*Appearance or modification of a [[Discovery of abnormalities on cardiac auscultation SD-018|heart murmur]]
+*Signs of left and/or right [[Adult Heart Failure|Heart Failure]].
+
+'''3) Extra-cardiac signs (infectious localisations, embolic complications, immunological manifestations that may reveal the diagnosis)'''
+
+*'''Cutaneous:'''' [[Purpuras in adults and children|vascular purpura]] (Figure 1), cutaneous embolic lesions (Figure 2), or even acute ischaemic picture (Figure 3), [http://campus.cerimes.fr/semiologie/enseignement/esemio11/site/html/8_14.html false Osler's panaris] (painful, fleeting nodosities located on the pulp of the fingers or toes), [http://campus.cerimes.fr/semiologie/enseignement/esemio11/site/html/8_14.html Janeway's palmar-plantar erythema].
+<gallery perrow="4">
+File:IE Vascular purpura.jpg|'''Figure 1.''' Vascular purpura of the lower limbs during endocarditis of the left heart with ''Streptococcus gallolyticus''.
+File:EI Cutaneous embolic lesions.jpg|'''Figure 2.'''' Cutaneous embolic lesions of the extremities, complicating left heart endocarditis due to ''Staphylococcus aureus''.
+File:AE Acute ischaemia.jpg|'''Figure 3.''' Necrosis of the 5<sup>th</sup> toe following ischaemia of embolic origin complicating IE of the left heart.
+</gallery>
+
+*'''Respiratory:'''' [[Cough SD-167|cough]], [[Dyspnoea SD-162|dyspnoea]] ([[Deep vein thrombosis and pulmonary embolism (see item 330)|pulmonary emboli]]) in the setting of right heart IE.
+*Neurological: These are sometimes the first signs of embolic or haemorrhagic complications, cerebral abscesses or meningitis:
+**[[Motor and/or sensory deficit of the limbs|deficit]] [[Sensory and/or motor neurological deficit SD-121|neurological]] ([[Stroke|stroke]], [[Stroke|transient ischaemic attack]]),
+**SD-120 seizures,
+**Coma and disorders of consciousness SD-028|Disorders of consciousness]].
+*'''Rheumatological:''' pain [[Spinal pain (cervical, dorsal or lumbar) SD-072|spinal]] ([[Osteoarticular infection: diagnostic arguments 2C-054-DP-A03|spondylodiscitis]]), [[Joint pain SD-067|articular]] ([[Osteoarticular infections (OAI) of children and adults|arthritis]]), muscular.
+*Ophthalmological: conjunctival purpura, Roth spots at the back of the eye.
+
+'''Misleading forms are frequent:'''
+
+- [[Acute fever in children and adults|Fever]] naked, acute or [[Prolonged fever|Prolonged]].
+
+- Altered general condition ([[Weight loss SD-017|weight loss]], [[Asthenia SD-021|asthenia]], anorexia)
+
+- No fever
+
+- Pain in a limb (upper or lower) SD-071|Arthralgia]], [[Spinal pain (cervical, dorsal or lumbar) SD-072|Febrile low back pain]]
+
+'''Endocarditis must be systematically sought when:'''
+
+- Any febrile heart murmur
+
+- Any [[Stroke|Cerebrovascular Accident]] fever
+
+- Any unexplained [[Prolonged fever|fever]] in a patient with [[Valvulopathy|valvulopathy]].

@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-117-09-B
+|Item_parent=Psoriasis
+|Item_parent_short=Psoriasis
+|Rank=B
+|Title=Knowing the principles of therapeutic management of psoriasis
+|Description=The severity of psoriasis, its impact on quality of life, whether or not there is joint involvement, and how to take comorbidities into account. Psoriasis can be treated effectively using local or general treatments.
+|Rubric=Management
+|Contributors=
+|Order=9}}
+Factors contributing to the severity of the disease: obesity, smoking, excessive alcohol consumption, etc.
+
+The treatments available depend on the severity of the psoriasis, the impact on quality of life, whether or not there is joint damage, and whether co-morbidities are taken into account.
+
+All treatments are suspensory, not curing psoriasis, which is a chronic and recurrent dermatosis, but controlling the lesions in place and preventing them from recurring or occurring in the future.
+
+===== Local treatments =====
+Always possible on their own in less extensive forms or as a complement to general treatments.
+
+Dermocorticoids, topical vitamin D analogues, combinations of the two. Be familiar with the rules governing the prescription and use of dermocorticoids (see item 330). Topical calcineurin inhibitors are also useful for facial lesions, but are not covered by the AMM.
+
+Keratolytics and emollients useful in adjuvant treatment.
+
+===== General treatments: =====
+Conventional systemic treatments
+
+Retinoids: acitretin. Low efficacy. To be avoided by women of childbearing age because of its teratogenicity (3 years of contraception after stopping the drug).
+
+Phototherapy (preferably UVB TLO1): Cycles of 20 to 30 sessions per year. Do not exceed 200 sessions in a lifetime. Long-term skin carcinogenicity. Beware of phototoxic drugs.
+
+Methotrexate: Indicated as first-line treatment for cutaneous and articular forms of the disease. Haematological and hepatic tolerance to be monitored. Contraception essential.
+
+Aprémilast : Indicated in cutaneous and articular forms of the disease as a second-line treatment. Contraception essential
+
+Ciclosporin: Indicated in cutaneous forms of the disease. Long-term renal toxicity, not to be prescribed for more than 2 years.
+
+Biotherapies:'''' Second-line treatment after failure, contraindication or intolerance to at least two conventional systemic treatments. Specific pre-therapeutic work-up to exclude infectious risks (tuberculosis, etc.) and re-discuss treatment depending on recent neoplastic history. Be familiar with the rules for prescribing biotherapies (see item 202). Depending on the molecule, activity is expected in both skin and joint disorders.

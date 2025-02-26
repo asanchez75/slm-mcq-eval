@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-028-10-A
+|Item_parent=To know the particularities of urinary infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Intitulé=Pyélonéphrite aiguë gravidique : connaître le diagnostic biologique
+|Description=Knowing the microbiological criteria in acute pyelonephritis in pregnancy
+|Rubric=Biological diagnosis
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=10}}
+
+
+[[Acute or chronic inflammatory syndrome SD-186|The]] biological diagnosis is based on '''performing a [[Analysis of a urine cytobacteriological examination (ecbu) SD-189|ECBU]] as an emergency.''''
+
+The ECBU must be carried out regardless of the result of the urine dipstick.  
+
+The microbiological criteria are the same as those for acute cystitis, i.e. :
+
+- '''Leukocyturia threshold > 10<sup>4</sup>/mL'''
+
+- '''And bacteriuria threshold:''''
+
+- '''≥ 10<sup>4</sup> CFU/mL for most bacteria except ''E. coli'''''
+
+- '''≥ 10<sup>3</sup> CFU/mL for E. coli (and Staphylococcus saprophyticus)'''
+
+The assessment must also ''look for signs of seriousness'' (severe sepsis, renal failure due to obstructive pyelonephritis) and include :
+
+- [[Acute or chronic inflammatory syndrome SD-186|'''NFS, CRP,''']] [[Acute or chronic inflammatory syndrome SD-186]] [[Blood count interpretation SD-223]] '''+/- creatininaemia and blood cultures (optional depending on the context)'''
+
+Understanding the treatment and follow-up of urinary tract infections during pregnancy [[Understanding the treatment and follow-up of urinary tract infections during pregnancy 2C-161-PC-A04|2C-161-PC-A04]]

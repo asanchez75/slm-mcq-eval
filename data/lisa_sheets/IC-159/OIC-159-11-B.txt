@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-159-11-B
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=B
+|Title=Modensitometry in pulmonary tuberculosis disease
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=11}}
+
+[[File:Caverns.jpg|left|vignette|''CT section''' ''Thoracic in parenchymal window:'' Right multilobar flaky hyperdensities with condensations / excavated masses (caverns)]]
+[[File:Miliary CT.jpg|vignette|''Thoracic CT section in parenchymal window:''' Micronodules of bronchiolar distribution (centrolobular) with "tree in bud" appearance]].

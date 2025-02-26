@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-105-01-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Defining epileptic seizures and epileptic disease
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Distinguish between the notions of epileptic seizure and epileptic disease.
+
+= Epileptic seizures =
+Sudden, unpredictable, transient onset of a wide variety of clinical signs and/or symptoms due to excessive, abnormally synchronous neuronal activity in the brain.
+
+= Epilepsy ( = Epileptic diseases) =
+Chronic cerebral diseases characterised by the following triad:
+
+- the occurrence of at least one epileptic seizure,
+
+- a long-term cerebral predisposition to seizures
+
+- their neurobiological, neuropsychological, social and psychiatric consequences.
+
+Prevalence of 0.5 to 1% and an incidence of 0.5 per 1,000 population per year.

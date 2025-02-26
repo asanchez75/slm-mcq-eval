@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-198-14-A
+|Item_parent=Microcrystalline arthropathies
+|Item_parent_short=Microcrystalline arthropathies
+|Rank=A
+|Intitle=Photograph of a clinically detectable tophus (typical)
+|Description=helix, finger pad, toe or foot.
+|Rubric=Multimedia content
+|Contributors=
+|Order=14}}
+<gallery widths="400" heights="400" perrow="3">
+File:Tophus clinically detectable (typical) .PNG
+File:Tophus clinically detectable (typical)03.PNG
+File:Tophus clinically detectable (typical) 02.PNG
+</gallery>

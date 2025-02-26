@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-063-19-B
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=B
+|Title=Knowing the management of non-psychiatric comorbidities, the role of the general practitioner
+|Description=None
+|Rubric=Management
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=19}}
+
+Management of the many non-psychiatric co-morbidities requires a close link between healthcare professionals and the patient's GP, who is appointed by the health insurance scheme as the patient's referral doctor and is responsible for coordinating care, prevention and screening.
+
+[[Follow-up consultation for a polymorbid patient SD-267]]
+
+[Follow-up consultation for a patient with multiple drug dependencies SD-266]]
+
+[Follow-up consultation for a chronic pathology SD-279]]<br />

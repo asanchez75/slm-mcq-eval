@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-323-04-B
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=B
+|Title=Know the definition, rationale, indications and interpretation of pharmaco-epidemiological studies.
+|Description=Know phase 4 studies (pharmaco-vigilance/pharmacoepidemiology)
+|Rubric=Definition
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES),David Hajage (CIMES)
+|Order=4}}
+
+Pharmaco-epidemiology
+
+- Post-marketing epidemiological evaluation generally carried out on large samples ("phase IV" in drug evaluation).
+
+- Effectiveness, risk and use of medicines under real conditions of use.
+
+'''Rationale: Limitations of clinical trials'''
+
+- Small sample size (unable to detect rare events)
+
+- Characteristics not well represented in the patients included (e.g. elderly)
+
+- Generalisation (population included sometimes different from the population actually receiving the treatment in a real prescription situation)
+
+- The question posed is highly specific.
+
+- No assessment of long-term efficacy and risks.
+
+Indications for pharmaco-epidemiology studies
+
+- Assessing the effectiveness of medicines
+
+*Re-evaluation of efficacy measured in clinical trials under real conditions of use.
+*Identification of the determinants of differing efficacy: responders / non-responders.
+*Assessment of long-term efficacy (exhaustion of effect).
+*Comparison of several therapeutic strategies not compared in clinical trials.
+
+- Assessment of undesirable effects
+
+*Reassessment of the existence of a risk.
+*Detection of adverse effects: unknown effects, long-term effects.
+*Determinants of adverse reactions: susceptible subjects (e.g. co-morbidities), treatment methods (e.g. misuse, drug interactions).
+
+- Evaluation of drug use
+
+*Identifies the methods and determinants of prescribing and use.
+*Documents the correct use of medicines.
+
+'''Methodology of pharmaco-epidemiology studies:'''
+
+- Essentially observational approach
+
+- Study design: descriptive cross-sectional studies, cohort surveys, case-control studies
+
+- The exposure studied is always the drug
+
+- Interpretation: Beware of indication bias: a special case of confounding bias when the drug studied is prescribed for a particular indication which is associated with the occurrence of the event of interest (endpoint).
+[File:FigPE.png|vignette|Indication bias in pharamaco-epidemiology (PE) studies]]
+
+
+
+
+
+
+''Reference:''
+
+Bégaud B. Dictionnaire de pharmaco-épidémiologie. ARME-Pharmacovigilance Éditions: Bordeaux, 1998<br />

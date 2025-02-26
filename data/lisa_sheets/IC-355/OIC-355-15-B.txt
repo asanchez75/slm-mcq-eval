@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-355-15-B
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=B
+|Title=Haematemesis in children: knowing the treatment methods
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=15}}
+
+Treatment depends on the cause ([Learn about the diagnosis and aetiologies of haematemesis in children 2C-355-DP-B01]).
+
+In case of oesophagitis or ulcer: administration of PPI and treatment of H pylori if necessary
+
+In the event of swallowed blood from the mother's crevices: care for the mother's crevices, advice on positioning for breastfeeding (poor breast positioning can cause crevices).
+
+In the case of a severe form with haemodynamic repercussions: intensive care with monitor, venous line, filling and possibly transfusion.

@@ -1,0 +1,103 @@
+{{knowledge objective
+|Identifiant=OIC-311-05-A
+|Item_parent=Adult kidney tumours
+|Item_parent_short=Adult kidney tumours
+|Rank=A
+|Title=Know the indications for the additional tests required in the event of clinical suspicion of a kidney tumour.
+|Description=To be able to propose a decision-making algorithm for additional investigations useful for diagnosis, to know the main radiological diagnostic criteria for a malignant tumour of the kidney - including biopsies.
+|Rubric=Additional examinations
+|Contributors=Idir Ouzaid
+|Order=5}}
+
+==Imaging tests useful for diagnosing kidney tumours==
+
+*Renal ultrasound
+**Used to differentiate between solid masses and cysts
+**Operator dependent
+**Non-irradiating
+**A diagnostic test but insufficient to make a therapeutic decision.
+**Useful for active surveillance of a renal mass (size assessment)
+**Heterogeneous cortical image (hyper and hypoechoic)
+
+*Abdominal and pelvic CT scan without and with injection of contrast medium.
+**Reference examination +++ with 3 phases (+/- 4)
+***without injection
+***with injection with acquisition of cortical nephrography, tubular nephrography (the late excretory phase is not systematic)
+**Distinguishes typical masses (angiomyolipoma, renal cell carcinoma, cyst)
+**Performs an extension assessment of the mass if malignant (peri-renal fat, veins, adjacent organs).
+**Assessment of the condition of the contralateral kidney
+
+*'''Renal MRI''''
+**Useful in cases where CT is contraindicated (impaired renal function, allergy to contrast products).
+**Additional information in the case of equivocal CT scans
+**Particularly useful in cystic tumours and to assess the level of tumour thrombus in the veins.
+
+*Renal contrast ultrasonography (under evaluation)
+**Principle: intravenous injection of a product which generates micro-bubbles that are clearly visible on ultrasound.
+**Useful for examining vascularisation (to distinguish a dense cyst from a solid mass)
+**Additional information in the event of an equivocal CT scan
+
+==Radiological criteria for a malignant tumour (on a CT scan)==
+
+*Solid cortical tumour sometimes heterogeneous with enhancement > 15 HU compared to time without injection
+*heterogeneous
+*Intratumoral necrosis, intratumoral calcifications
+*Retroperitoneal lymphadenopathy
+*Extra-renal extension (peri-renal fat, adjacent organs)
+*Thrombus in veins (renal vein or extension to vena cava)
+
+==Indication of renal mass biopsy==
+
+*'''General principle of indication:''''
+**Biopsy may change the way the disease is managed.
+*'''Objective:'''
+**Formal diagnosis: malignant versus benign tumour
+**Risk assessment in the case of malignant tumour: histological type, ISUP grade, etc.
+*Indications related to the tumour (disease):''''
+**Before treatment with active surveillance or ablative treatment (radiofrequency, cryotherapy)
+**Before systemic treatment (anti-angiogenic/immunotherapy) in the case of metastatic tumour if there is no histological evidence.
+**Before difficult partial nephrectomy with a high risk of total nephrectomy
+**Uncertainty on imaging (doubt about benignity)
+**Context of another extra-renal tumour
+*Indications related to the patient's condition (medico-legal risk):''''
+**Elderly patient with comorbidities
+**Chronic renal failure/single kidney (indication for nephron preservation imperative, partial nephrectomy imperative)
+*Biopsies not recommended in cases of:''''
+**suspected urothelial carcinoma (risk of seeding)
+**Cystic tumour
+**Typical angiomyolipoma
+**Congenital or acquired coagulation anomalies or major haemorrhage risk.
+
+(AFU 2022-2024 Cancer Committee recommendations)
+
+==Biological tests useful in the case of kidney tumours=
+
+*There is no specific biological marker for kidney cancer.
+*Assessment of renal function: plasma creatinine, estimated glomerular filtration rate (GFR) and 24-hour proteinuria.
+*NFS
+**haemoglobin (anaemia: impact in the event of haematuria or polycythaemia: paraneoplastic syndrome)
+**Neutrophil count (if elevated is a poor prognostic marker in metastatic forms)
+**Platelet count (if low is a poor prognostic marker in metastatic forms)
+*
+*In the case of a metastatic tumour, measurements should also be taken:
+Blood glucose (if elevated is a poor prognostic marker in metastatic forms) **LDH (if elevated is a poor prognostic marker in metastatic forms)
+**HDL (if elevated is a poor prognosis marker in metastatic forms)
+**Liver work-up
+**Complete blood count
+**protein and albumin levels
+**Alkaline phosphatase
+*(AFU Oncology Committee recommendations 2022-2024)
+*
+*
+*'''Decision-making algorithm for imaging tests to be performed'''
+
+[[File:Algorithme décisionnel sur les examens d'imagerie à réaliser.jpg|néant|vignette|681x681px]]
+
+==Extension work-up in the case of malignant tumour of the kidney===
+
+*'''Assessment of locoregional extension:''''
+**Abdominal and pelvic CT scan without and with injection of contrast medium
+
+*'''Remote extension assessment:''''
+**thoracic CT scan
+**If clinically indicated (not routinely performed): bone scan, brain CT scan

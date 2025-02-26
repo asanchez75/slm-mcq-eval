@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-025-02-B
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=B
+|Title=Knowing the natural history of EP
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=2}}
+
+If left untreated, excessive tubal distension can lead to tubal rupture with haemoperitoneum, followed by haemorrhagic shock and, in exceptional cases, death.

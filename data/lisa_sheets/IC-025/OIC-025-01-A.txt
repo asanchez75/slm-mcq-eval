@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-025-01-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the definition of Extrauterine Pregnancy (EP)
+|Description=None
+|Rubric=Definition
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=1}}
+
+An ectopic pregnancy is the implantation of an egg outside the uterus. Most commonly ampullary tubal (70%), it can also be isthmic tubal (20%), squamous (5%) or more rarely non-tubal extrauterine.
+
+Beware of heterotopic pregnancies (coexistence of two simultaneous pregnancies: an intrauterine pregnancy and an EP). Main risk factor: medically assisted procreation ''([[Difficulty procreating SD-033|difficulty procreating)]].'''''

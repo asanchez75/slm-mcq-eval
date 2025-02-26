@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-096-10-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=Knowing the etiologies of the main multiple mononeuronopathies
+|Description=Vascularity of the nerve
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+'''Multiple mononeuronopathies''''
+
+- They are linked to damage to several nerve trunks.
+
+- They present asymmetrically, acutely, usually with pain and motor deficits.
+
+- Their diagnosis is urgent, looking for vasculitis '''([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]]) [[SDD-203|(elevation of C-reactive protein (CRP)])''', by nerve biopsy '''([[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]]).''''
+
+- Treatment must be initiated rapidly.
+
+'''Causes'''
+
+- Vasculitis of the medium-sized vessels: periarteritis nodosa.
+
+- Small-vessel vasculitis :
+
+- ANCA vasculitis ;
+
+- Essential cryoglobulinemia ;
+
+- Vasculitis associated with a systemic disease :
+
+- Cryoglobulinaemia in association with hepatitis C virus infection '''([[Interpretation of an SD-236 serology result|interpretation of a serology result]])''';
+
+- HIV infection ;
+
+- Cancer satellite vasculitis.
+
+A part
+
+- Diabetes does not require a neuromuscular biopsy.
+
+- Leprosy, which causes multiple mononeuropathies with a predominance of sensitivity, is a major cause of neuropathy worldwide, but is rare in France.

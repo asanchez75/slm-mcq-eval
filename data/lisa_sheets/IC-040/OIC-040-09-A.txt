@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-040-09-A
+|Item_parent=Pelvic pain in women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Knowing the indications for imaging examinations for pelvic pain in women
+|Description=Imaging examinations: indications for the different examinations and lesions found on ultrasound
+|Rubric=Additional examinations
+|Contributors=Virginie Grouthier,Pierre-Emmanuel Bouet
+|Order=9}}
+
+==Imaging for acute pelvic pain==
+Endovaginal pelvic ultrasound is the examination of first choice for the investigation of acute pelvic pain. It can reveal :
+
+- For EP: uterine vacuity in a woman with positive β-hCG (> 1500 IU/L) with a thick endometrium, a heterogeneous latero-uterine mass or even a gestational sac outside the uterine cavity. There may be an image of a pseudosac (deceptive hypoechoic lacunar image) generally centred in the cavity and without a trophoblastic crown or yolk vesicle, and also an effusion in the cul-de-sac of Douglas.
+
+- For haemorrhagic cyst rupture: visualisation of an ovarian cyst with haemoperitoneum.
+
+- For adnexal torsion: visualisation of an enlarged ovary with abnormal vascularisation using Doppler. An ovarian cyst and hydrosalpinx may also be seen.
+
+- Upper genital infection: infectious complications such as tubo-ovarian or ovarian abscesses and effusion in the cul-de-sac of Douglas.
+
+Abdominal pelvic ultrasound can also be used in virgin women or in the case of a large abdomino-pelvic mass (uterine or adnexal) or a large intra-abdominal effusion.
+
+An abdominal and pelvic CT scan with injection should be discussed if there is any doubt about the differential diagnosis (acute digestive pathologies such as appendicitis, sigmoiditis, occlusion) or urinary pathologies).
+
+Any additional imaging tests should not delay urgent surgical management.
+
+==Imaging for chronic pelvic pain==
+Pelvic ultrasound is generally less relevant for "chronic pelvic pain". However, it is still useful in the search for endometriosis if performed by an experienced radiologist or gynaecologist. Ovarian cysts (endometriomas), thickening of the utero-sacral ligaments, nodules of the recto-vaginal septum or the bladder wall may be sought. A retroverted uterus with poor mobility may also be suggestive of an endometriosis lesion. Adenomyosis lesions can also be seen on ultrasound (globular uterus with thickening of the posterior wall, heterogeneous myometrium, intramyometrial cyst, disappearance of the endometrium-myometrium junction).
+
+Radiological investigation of chronic pelvic pain may be supplemented by pelvic MRI.

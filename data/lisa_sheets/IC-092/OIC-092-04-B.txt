@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-092-04-B
+|Item_parent=Motor and/or sensory deficit of the limbs
+|Item_parent_short=Motor and/or sensory deficit of the limbs
+|Rank=B
+|Title=Know the localising value of an alternating sensory syndrome and give an example
+|Description=Wallenberg
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+A lateralized lesion on one side of the brain stem will result in damage to one or more cranial pairs on the side of the lesion, depending on the level of the lesion (for example damage to III in the midbrain and VI, VII or VIII in the protuberance). The lateralized lesion in the brainstem will also interrupt descending motor fibres (pyramidal) and ascending sensory fibres. However, these fibres will pass to the other side of the medulla at the bottom of the elongated medulla (decussation), resulting in paralysis and sensory disorders in the hemicycle contralateral to the lesion below the face. The existence of damage to one or more cranial pairs on one side and sensory and motor damage to the limbs on the opposite side corresponds to an alternating syndrome, and makes it possible to locate the damage in the brainstem.
+
+Example of Wallenberg syndrome:
+
+This is an alternating syndrome resulting from a lesion in the retroolivary territory of the medulla oblongata. It is most often due to occlusion of the artery of the lateral fossa of the bulb, usually a branch of the posteroinferior cerebellar artery (PICA), itself a branch of the vertebral artery.
+
+It begins with ''grand rotatory vertigo'' (damage to the vestibular nucleus) ''([[Vertigo and vertiginous sensation SD-064|vertigo and vertiginous sensation]])'' and posterior headaches. Clinical examination reveals :
+
+- On the side of the injury :
+
+§ Nystagmus
+
+§ Cerebellar hemisyndrome (predominantly static)
+
+§ A sign from Claude-Bernard-Horner
+
+§ Hypo or anaesthesia of the hemiface
+
+§ Paralysis of the hemivoile of the palate (nasal voice), the hemilarynx (swallowing difficulties) and the vocal cord (bitonal voice).
+
+- On the side opposite the injury :
+
+§ Nociceptive and thermal hemianesthesia sparing the face
+
+This is the cause of ''false alimentary routes''([[Swallowing disorders or false-route SD-062|swallowing disorders or false-route]])'', which are life-threatening, as they can lead to inhalation pneumonitis, if oral feeding is not completely suspended.
+
+Wallenberg syndrome is rarely pure, and is more often than not incomplete, or conversely richer in clinical signs, depending on the area actually affected.

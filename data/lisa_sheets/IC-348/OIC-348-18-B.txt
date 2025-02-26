@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-348-18-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing how to manage functional renal failure associated with heart failure
+|Description=Know the principles of the management of a cardio-renal syndrome (optimisation of the use of diuretics).
+|Rubric=Management
+|Contributors=Gabriel Choukroun,Bruno Moulin
+|Order=18}}
+
+o In type 1 cardio-renal syndrome (impairment of renal function complicating acute heart failure) or type 2 (renal repercussions of chronic heart failure), AKI is secondary to a fall in cardiac output and a rise in filling pressures transmitted to the renal vein. By correcting haemodynamic abnormalities and restoring an appropriate cardiac output, renal function can be improved at the same time.
+
+o Progressive sodium depletion, using loop diuretics in increasing doses combined with a strict de-sodal diet (≤ 2 g NaCl per day) and water restriction in the event of associated hyponatremia.
+
+o However, if a patient is already on a diuretic, it is sometimes necessary to suspend it, as renal failure may be due to hypovolaemia caused by excess depletion, unlike in the previous situation.

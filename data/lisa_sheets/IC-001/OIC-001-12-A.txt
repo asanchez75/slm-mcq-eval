@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-001-12-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcement of a serious or fatal illness or damage associated with care. Patient education. Personalised medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the indications and principles of motivational interviewing
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=12}}
+Motivational interviewing is a method of communication :
+
+- focused on the person to be helped
+
+- used to increase intrinsic motivation to change
+
+- collaborative (carer and patient) and geared towards the goal of strengthening the patient's motivation and commitment to a shared objective
+
+
+Motivational interviewing is a tool for educating patients, using an approach centred on them and their environment. This education is based on a learning approach. The doctor adopts a position that facilitates learning, so that the patient develops skills within the framework of shared objectives.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-004-12-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the definition and rules of disinfection
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=12}}
+Disinfection reduces the number of micro-organisms on inert surfaces or healthy skin through the irreversible action of a product on their structure or metabolism (NF EN 14885: 2006). The result of this operation is limited to the micro-organisms present at the time of the operation (AFNOR NF T 72-101).
+
+
+It generally involves a cleaning phase, which consists of removing organic matter (grease, blood or other biological products) or inorganic matter present on the surface, followed by a disinfection phase involving the use of a disinfectant. For medical devices, these two phases are preceded by a pre-treatment phase (sometimes called decontamination) designed to reduce the risk of infection for the personnel responsible for maintaining these devices.

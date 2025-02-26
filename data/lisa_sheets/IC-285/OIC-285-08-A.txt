@@ -1,0 +1,91 @@
+{{knowledge objective
+|Identifiant=OIC-285-08-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the biological and morphological tests to be carried out systematically as a first-line treatment
+|Description=Dosages to look for deficiencies, inflammatory syndrome, dysthyroidism, upper and lower digestive endoscopies and abdominal scans.
+|Rubric=Additional examinations
+|Contributors=
+|Order=8}}
+The following biological examinations will be carried out systematically in order to identify certain common causes, suggest certain mechanisms and rule out certain complications:
+
+- C-reactive protein (inflammatory syndrome),
+
+- Assessment of the impact of diarrhoea: blood ionogram, creatinine with calcium, phosphorus (hydro-electrolytic disorders), blood count (to check for deficiency anaemia), PT (vitamin K deficiency), protein electrophoresis (hypo-albuminemia due to exudation or malnutrition), serum ferritin, vitamin B12 and folate.
+
+- Glycaemia (diabetes), TSH (hyperthyroidism), parasitological examination of stools (giardiasis).
+
+''In the event of clinical suspicion of a particular cause, specific tests are immediately indicated''.
+
+Morphological investigations: digestive endoscopy with oesogastroduodenal endoscopy and ileocolonoscopy is often indicated in cases of diarrhoea with a lesional appearance or in the absence of an obvious cause. Systematic biopsies are taken from the duodenum (atrophy), stomach (atrophic gastritis), colon (microscopic colitis) and terminal ileum.
+
+
+Second-line tests are sometimes carried out to clarify the mechanism of the diarrhoea or confirm a diagnosis:
+
+- Exploring the mechanism of diarrhoea
+
+o ''Fecalogram (or functional coprology)
+
+This examination, which is very rarely carried out in practice, includes at least the following parameters: a complete physical examination of the stools and their weight, total lipids, total faecal nitrogen, laxatives and a faecal ionogram.
+
+It is carried out on stools produced during 72 hours, if possible under normal living conditions, but with an excess of fat (give 50g of butter the 3 days before and the 3 days of the collection).
+
+Chronic diarrhoea is first confirmed by an average stool weight per 24 hours > 300 g
+
+The details of the fecalogram explore the mechanism:
+
+- Steatorrhea is a sign of malabsorption
+
+- A fall in faecal elastase indicates exocrine pancreatic insufficiency.
+
+- Clearance of α-1 antitrypsin: (requires measurement of α-1 antitrypsin in the faeces and in the blood), the elevation of which indicates exudative enteropathy.
+
+- The carmine red test consists of measuring the time between the ingestion of carmine red (red dye) and the appearance of the first red stool, indicating motor diarrhoea if the test is positive (< 6 hours).
+
+
+- Investigating the cause of diarrhoea
+{| class="wikitable"
+|MECHANISM
+|ORIGIN
+|POSSIBLE TESTS
+|-
+|Malabsorption
+|Hepato-bilio-pancreatic
+
+Gastro-duodeno-jejunal
+|Abdominal scan
+
+Gastroscopy with biopsies (gastric and duodenal)
+
+Glucose breath test
+
+Anti-transglutaminase (IgA) antibodies
+|-
+|Motor diarrhoea
+|Functional
+
+Organic
+
+- hyperthyroidism
+
+- neurological
+|TSH dosage,
+
+Fasting blood glucose
+|-
+|Secretory diarrhea
+|Colon
+
+Neuroendocrine
+|Colonoscopy, CT scan, hormone assays
+<br />
+|-
+|Osmotic diarrhoea
+|Intestine
+|Lactose breath test or exclusion test
+|-
+|Lesional diarrhoea
+|Intestine
+|Gastroscopy, ileocoloscopy with biopsies
+|}

@@ -1,0 +1,123 @@
+{{knowledge objective
+|Identifiant=OIC-169-02-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing how HIV is transmitted and the main principles of HIV transmission prevention
+|Description=Depistage, Tasp, Prep tpe, Education, PTME
+|Section=Epidemiology
+|Contributors=Jade Ghosn
+|Order=2}}
+
+
+* '''<u>Transmission</u>'''
+
+'''<u>Sexual transmission</u>''': sperm, vaginal secretions
+
+o Decreasing risk according to the type of intercourse: receptive anal > insertive anal > receptive vaginal > insertive vaginal > receptive fellatio
+
+o A single act of unprotected intercourse can be enough to transmit the infection
+
+o ''It has now been demonstrated that an HIV-positive person treated with effective antiretroviral drugs, with an undetectable viral load for at least 6 months, does not transmit the virus to his or her sexual partners, even in the absence of a condom''.
+
+This is known as TasP (treatment as prevention). It should be remembered, however, that only condoms protect against other STIs.
+
+'''<u>Transmission by blood and its derivatives</u>''''
+
+o The risk associated with blood transfusion has been virtually eliminated since the use of molecular tests for screening blood and organ donations.
+
+o Very significant reduction in the risk associated with sharing injection equipment (single-use equipment made available to IVDUs)
+
+o Occupational blood exposure accidents: low risk but varies depending on the situation (see item 366).
+
+'''<u>Vertical transmission from mother to child</u>''''
+
+o Mainly at the time of delivery, or post-partum through breast-feeding, if the mother has a positive viral load.
+
+o The risk is virtually nil if the woman is already on antiretroviral treatment with an undetectable plasma viral load before conception.
+
+* '''<u>Prevention</u>''''
+
+'''<u>Combined prevention</u>''''
+
+Combination of prevention methods (1) behavioural, (2) pre-exposure treatment (PrEP), (3) screening, (4) effective antiretroviral treatment for anyone living with HIV (TasP), (5) post-exposure treatment (PET) and (6) prevention of mother-to-child transmission.
+
+1- Behavioural methods
+
+o Information campaigns
+
+o Promoting condom use
+
+o Making available and promoting the use of sterile single-use equipment for IVDUs, and making available and promoting opiate substitution treatments.
+
+o Universal precautionary measures against the occupational risk of exposure to blood
+
+'''2 - Screening: situations justifying the prescription of an HIV serology test'''
+
+o Populations at risk
+
+- MSM: every 3 months
+
+- Migrants from sub-Saharan Africa
+
+- Population of the French departments of America and the other Caribbean countries
+
+- UDIV
+
+- Population in precarious situations
+
+- Sex workers
+
+o Targeted screening
+
+- Suspicion or diagnosis of STI or HCV infection
+
+- Suspicion or diagnosis of tuberculosis
+
+- Pregnancy plans and current pregnancy
+
+- 1<sup>rst</sup> prescription for contraception
+
+- Rape
+
+- Entry into detention or during imprisonment
+
+- So blood and organs
+
+o General population
+
+- At least once in your life between the ages of 15 and 70
+
+3 - Pre-exposure prophylaxis (PrEP)
+
+o Based on the same rationale as anti-malarial prophylaxis: start treatment just before exposure, continue treatment as long as you are exposed, then stop when you are no longer exposed.
+
+o HIV-negative people who have sex without systematic condom protection (particularly MSM)
+
+o consists of dual antiretroviral therapy with emtricitabine + tenofovir disoproxil (TRUVADA ®) taken continuously or intermittently at the time of sexual intercourse.
+
+o Part of comprehensive care, including regular STI screening and vaccination against HBV, HAV and HPV where indicated
+
+'''4 - TasP: "Treatment as prevention"''''
+
+o ''It has now been demonstrated that an HIV-positive person treated with effective antiretroviral drugs, with an undetectable viral load for at least 6 months, does not transmit the virus to his or her sexual partners, even in the absence of a condom''.
+
+This is known as TasP.
+
+5 - Post-exposure treatment (see item 366)
+
+'''6 - Prevention of mother-to-child transmission (see item 27)'''
+
+o Offer an HIV serology test to all pregnant women or women planning to become pregnant
+
+o Suggest serology in the 6th month of pregnancy in the event of risk-taking during pregnancy
+
+o Remember to screen the partner
+
+o Based on the same principle as TasP, the risk is virtually nil if the woman is already on antiretroviral treatment with an undetectable plasma viral load before conception.
+
+o The most important thing is for the viral load to be undetectable at the time of delivery: monthly monitoring of the maternal viral load
+
+o Systematic prophylactic treatment of newborns with anti-retrovirals for 2 to 4 weeks
+
+o Breast-feeding prohibited

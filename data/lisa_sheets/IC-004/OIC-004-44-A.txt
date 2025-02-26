@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-004-44-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Know the definition and principles of complementary precautions.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=44}}
+Special precautions, known as "additional precautions", must be implemented in addition to standard precautions when the patient is infected or colonised by certain micro-organisms (see below). Complementary precautions replace the old term "isolation". These precautions aim to establish a physical barrier around a patient carrying a pathogen (clinical infection or simple colonisation) at risk of transmission by contact, droplets or air. The same micro-organism may have several modes of transmission. For example, BMR and BHRe are transmitted by "Contact" (cross transmission by human-to-human contact), SARS-CoV-2, whooping cough, seasonal influenza, etc. are transmitted by "Droplets" (transmission by droplets of oro-tracheo-bronchial secretions) and "Contact", tuberculosis, measles and chickenpox are transmitted by "Air" (transmission by aerosols of small particles).
+
+
+
+'''Additional precautions'''
+{| class="wikitable"
+|'''Type of precaution'''
+|'''Main measures in addition to standard precautions'''
+|'''Indications'''
+|-
+|For all additional precautions
+|The introduction and removal of additional precautions are subject to a medical prescription, which must be recorded in the patient's medical record.
+
+Patients, their families and the professionals involved in their care must be informed of this process.
+
+Healthcare waste can be disposed of in the same way as other patients' waste.
+
+When there are several cases in the same care unit, it may be useful to group the patients together in the same sector (so-called "cohorting" measures).
+<br />
+|
+|-
+|Contact
+|For professionals:
+
+Hand hygiene by SHA friction before and after any contact with the patient or his immediate environment, and before leaving the room.
+
+Single-use impermeable apron for care involving direct patient contact
+
+Surgical mask in the event of respiratory infection of the patient with the microorganism concerned (in particular MRSA)
+
+Equipment (stethoscope, blood pressure monitor, etc.) reserved for the patient or disinfected after use
+
+Whenever possible, place patients in single rooms
+
+Dedicated staff assigned to patients only in the event of an uncontrolled epidemic
+
+Visitors must respect hand hygiene but are not required to wear any special clothing.
+|MRSA (MRSA, enterobacteria), gastro-enteritis, etc.
+
+For scabies and Clostridium difficile infection, SHA friction must be preceded by hand washing.
+|-
+|Droplets
+|Surgical mask (standard filtration) for carers and visitors on entering the room
+
+Wearing of a surgical mask when leaving the patient's room
+
+Whenever possible, place the patient in a single room
+|Seasonal influenza, whooping cough, respiratory syncitial virus, SARS-Cov-2
+|-
+|Air
+|Respiratory protective equipment (usually FFP2 masks) for carers and visitors, fitted before entering the room.
+
+single room mandatory with closed door
+
+the patient must remain in his/her room
+
+if leaving the room for medical reasons, the patient must wear a surgical mask
+|Tuberculosis, measles, chickenpox
+|}

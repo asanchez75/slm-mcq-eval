@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-338-04-B
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=B
+|Title=Knowing how to evoke bradykin angioedema
+|Description=clinical, context, history
+|Topic=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+* Clinical :
+** not associated with urticaria or other anaphylactic manifestations
+** usually asymmetric
+** not sensitive to anti-histamines or glucocorticoids
+** attacks typically last 2 to 5 days
+** If it occurs in the abdomen, it can cause sub-occlusion, ascites and hypovolaemic shock.   
+* Causes :
+** treatment with ACE inhibitors or ARB2, renin inhibitors or NSAIDs
+** hereditary form
+** acquired C1-inhibitor deficiency associated with lympho-proliferative or autoimmune disease and an anti-C1-inhibitor antibody.  

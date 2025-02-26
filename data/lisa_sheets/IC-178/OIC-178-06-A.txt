@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-178-06-A
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=A
+|Intitle=Knowing the definition of bioterrorism
+|Description=None
+|Rubric=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=6}}
+
+'''Use or threat of use of biological agents as a weapon'' with a view to inducing disease or death in humans, animals and/or plants.
+
+'''Biological agent:''' natural infectious agent (bacterium, virus, parasite, fungus), toxin produced by an infectious agent, or genetically modified infectious agent.
+
+The unusual presentation of an infection or the sudden appearance of clustered cases of severe infections may suggest a bioterrorist origin.
+
+[Exceptional health situation SD-346

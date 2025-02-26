@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-115-02-B
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=B
+|Title=Knowing the different mechanisms of toxidermia
+|Description=Pharmacological effect (e.g. alopecia of anti-mitotic drugs); immunological mechanism: IgE-mediated or delayed hypersensitivity.
+|Section=Pathophysiological elements
+|Contributors=
+|Order=2}}
+Characteristics of toxidermia according to mechanism
+{| class="wikitable"
+|+
+|
+|'''Non immunological''''
+|Immunological
+|-
+|Mechanism
+|Pharmacodynamic effect of the drug
+|Immune-allergic
+|-
+|Frequency
+|Common
+|Uncommon
+|-
+|Dose dependent
+|Yes
+|No
+|-
+|Mortality
+|Low
+|Depending on the type of toxidermia, up to 25% for epidermal necrolysis.
+|-
+|Time to onset
+|Varies
+|Several days to several weeks
+|-
+|Predictable
+|Yes, direct effect or side effect of the drug
+|No
+|-
+|Examples
+|retinoid-induced cheilitis, post-mitotic alopecia
+|DRESS to allopurinol
+|}
+Two main mechanisms of toxidermia:
+
+- Non-immunological'' mechanism linked to the drug's pharmacodynamic properties
+
+- Immunological'' mechanism: IgE-mediated ''immediate'' hypersensitivity reactions or ''delayed'' hypersensitivity reactions
+
+Different mechanisms may be responsible for an identical clinical presentation of toxidermia.

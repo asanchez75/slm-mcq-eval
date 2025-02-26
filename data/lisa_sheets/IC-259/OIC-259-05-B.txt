@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-259-05-B
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=B
+|Title=Knowing the pathophysiology of nephrotic syndrome
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=5}}
+
+The passage of a large quantity of albumin in the urine results from an '''anomaly in''' '''glomerular capillary permeability''' which may be linked to :
+
+* a ''constitutional abnormality of the structure'' '''of the glomerular basement membrane'' (for example in Alport syndrome)
+* a ''loss of electronegative charge'' of the glomerular basement membrane in minimal glomerular damage nephrotic syndrome (MGDNS). A circulating factor is also suspected in SNLGM, particularly in its caricatured form which recurs after renal transplantation
+* glomerular deposits, as in extramembranous glomerulonephritis or amyloidosis
+* alteration of the podocytes, sometimes secondary to alteration of the glomerular endothelium, as in certain thrombotic microangiopathies
+
+Urinary leakage of albumin exceeds the liver's capacity to synthesise it, leading to hypoalbuminemia.

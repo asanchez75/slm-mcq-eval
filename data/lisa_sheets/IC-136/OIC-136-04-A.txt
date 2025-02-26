@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-136-04-A
+|Item_parent=Local, locoregional and general anaesthesia
+|Item_parent_short=Local, locoregional and general anaesthesia
+|Rank=A
+|Title=Knowing the principles of the pre-anaesthetic consultation
+|Description=Recall of item 136 (133-A03)
+|Heading=Management
+|Contributors=
+|Order=4}}
+
+[[File:Figure 2. Principles of the pre-anaesthetic consultation..jpg|vignette|'''Figure 2. Principles of the pre-anaesthetic consultation.''']]
+The principles of the pre-anaesthetic consultation are presented in figure 2 ('''[[Pre-anaesthetic consultation SD-300|pre-anaesthetic consultation]]''''', '''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]''''', '''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]''''''', '''[[Prevention of healthcare-associated infections SD-311|prevention of healthcare-associated infections]]''''').
+
+The treatments for which dosage adjustment is necessary because of the perioperative risks are presented in table 1 (see item 322 "[Personalised therapeutic decision: good use in high-risk situations|Personalised therapeutic decision]]").
+
+Table 1. Treatments for which dosage adjustment is necessary in the perioperative period.'''
+{| class="wikitable"
+|'''Treatments'''
+|Perioperative risk
+|'''Peri-operative management'''
+|-
+|Platelet antiaggregants
+|Haemorrhage
+|Acetylsalicylic acid: continue except in special cases
+
+Other: multidisciplinary consultation
+|-
+|Anticoagulant
+|Haemorrhage
+|Stop
+|-
+|Diuretic
+|Hypovolemia, dyskalemia
+|Stop
+|-
+|RAAS antagonist
+|Arterial hypotension
+|Stop if hypertension
+
+Continued in other indications
+|-
+|Biguanide
+|Lactic acidosis
+|Stop
+|-
+|Sulfonamide or glinide
+|Hypoglycaemia
+|Stop
+|-
+|Insulins
+|Ketoacidosis, hypoglycaemia
+|Slow insulin: continue
+
+Insulin ultra-rapids: adaptation
+|-
+|Long-term corticosteroid therapy
+|Acute adrenal insufficiency
+|Continuation
+
++ substitution therapy
+|}
+<br />

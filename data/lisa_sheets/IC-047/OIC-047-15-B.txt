@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-047-15-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Knowing the principles of measuring hearing in children
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=15}}
+Subjective tests: for screening (sound sources, voice, pure tone audiometry)
+
+Objective screening tests: OEAP and PEAA
+
+Tests for diagnostic confirmation by an ENT specialist
+
+- audiogram: tone audiometry requiring the child's cooperation (subjective)
+
+- Auditory evoked potentials (objective)

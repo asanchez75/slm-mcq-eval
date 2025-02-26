@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-005-02-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Knowing the definition of criminal liability
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=2}}
+
+The purpose of criminal liability is to punish individuals whose behaviour is reprehensible in our society. It is always personal, and applies equally to all doctors (including interns), regardless of the context in which they practise. It may also apply to health establishments in their capacity as legal entities.
+
+Behaviour that society defines as reprehensible is called an offence. These are listed in the French Penal Code and classified into three categories in order of seriousness: contraventions, délits and crimes.
+
+'''Infractions'''
+
+Apart from certain specific provisions relating to non-compliance with conditions specific to certain healthcare activities (medically assisted procreation, biomedical research activities, etc.), the offences for which a doctor may be held responsible may also be committed by any citizen. However, doctors are more likely to commit certain offences than others. There are three main types of offence arising from the practice of medical care: those resulting from the breach of a duty of humanity, unintentional injury and manslaughter, and intentional injury and manslaughter.
+
+'''Violation of a duty of humanism'''
+
+The violation of a duty of humanism mainly concerns 1/ the drafting of false certificates (article 441-7 of the French Penal Code), 2/ the violation of professional secrecy (article 226-13 of the French Penal Code) and 3/ failure to assist a person in danger (article 226-3 of the French Penal Code, box 5.1). It should be noted that failure to inform the patient does not constitute a criminal offence. It is, however, a potential cause of civil liability.
+
+'''Manslaughter and manslaughter'''
+
+Manslaughter and unintentional injury cover the majority of offences for which a doctor is liable (articles 221-6, 222-19 and 222-20 of the French Penal Code). A patient's death or injury is presumed to be the result of a fault involving clumsiness, carelessness, inattention, negligence or failure to comply with a safety obligation. The doctor in question may have failed to comply with the best available scientific evidence or may have committed a "trivial" error in making a diagnosis, prescribing a treatment or carrying it out. For the offence to exist, the damage and the certain causal link with the fault must be established. The causal link can be either direct or indirect, provided that the fault committed is qualified, i.e. having created or contributed to creating the situation that contributed to the damage, or having failed to take the necessary measures to avoid it. There are two types of qualified fault:
+
+- deliberate fault: this is a breach of a specific duty of care or safety imposed by law or regulation. It requires a deliberate (i.e. conscious) breach of a rule of caution or safety.
+
+- Serious misconduct: this is recklessness, negligence or a breach of a duty of care or safety that exposes the patient to a particularly serious risk, of which the doctor cannot be unaware.
+
+'''Homicide and wilful bodily harm'''
+
+These are still rare offences in the field of medical liability. They essentially boil down to the question of :
+
+- euthanasia ;
+
+- failure to obtain a patient's consent to a medical act ;
+
+- failure to comply with the conditions governing the lawfulness of certain medical procedures, which are governed by specific laws: termination of pregnancy, sterilisation for contraceptive purposes, removal of organs, human experimentation, etc.
+
+'''Implementation of criminal liability'''
+
+'''Lawsuits'''
+
+Prosecutions are initiated by the public prosecutor, who decides what action to take on complaints, reports and police investigations. He or she may dismiss the case, refer the perpetrator directly to trial or request that a judicial investigation be opened.
+
+If the case is not dismissed, the judicial investigation stage is the rule in medical matters, given the frequent complexity of the cases.
+
+'''Judgment'''
+
+Minor offences are tried by the police court and punishable by fines, misdemeanours by the criminal court and punishable by imprisonment, and felonies by the assize court and punishable by criminal imprisonment.
+
+The offences of which doctors are accused are usually dealt with by the criminal courts, and are essentially offences punishable by imprisonment, which may be suspended, and fines.
+
+At the same time as the criminal penalty is imposed, the patient who is the victim of the crime can claim compensation for the damage he has suffered, in the course of the same proceedings, by bringing a civil action.
+
+<br />

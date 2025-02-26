@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-192-02-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the global prevalence of autoimmune diseases (AIDs) and basic epidemiological concepts (age, sex)
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Autoimmune diseases (AIDs) represent '''the third leading cause of morbidity in developed countries''. Their prevalence '''varies''' from one disease to another and from one geographical area to another.
+
+Autoimmune dysthyroidism is extremely common, with a prevalence of around 1% in women, who are affected 5 to 10 times more often than men.
+
+Rheumatoid arthritis and Gougerot-Sjögren's syndrome are also common systemic diseases.
+
+Many other IBDs have a prevalence of < 1/2000 and are therefore rare diseases.
+
+As a general rule, autoimmune diseases ''are more prevalent in women''. In systemic lupus erythematosus, the predominance of women is very clear, with a sex ratio of 9:1.
+
+These diseases can occur at any age, but in women they are most common during the ovarian season, with a peak between the ages of 10 and 40 for systemic lupus erythematosus. Paediatric-onset ILI is rare.

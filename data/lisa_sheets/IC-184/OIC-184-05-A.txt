@@ -1,0 +1,116 @@
+{{knowledge objective
+|Identifiant=OIC-184-05-A
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definitions and issues
+|Rank=A
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Description=None
+|Rubric=Prise en charge
+|Contributors=
+|Order=5}}
+Reporting of accidents at work
+{| class="wikitable"
+|'''Who'''
+|'''What'''
+|'''How'''
+|'''When'''
+|-
+|Employee involved in an accident
+|Notifies the employer or has the employer notified
+|By any means (written, telephone call, e-mail ....)
+|Within 24 hours (except in cases of force majeure)
+|-
+|Employee who has suffered an accident
+|Consult the doctor of their choice
+|
+|As soon as possible
+|-
+|Doctor
+|Describes objectively the injuries observed (physical and/or psychological)
+|CMI on CERFA form or plain paper or online
+<br />
+|As close as possible to the time of the accident
+|-
+|Employer
+|Report the accident to the victim's CPAM
+|by means of a cerfa form, or online
+|Within 48 hours
+|-
+|Employer
+|Issues a treatment form
+|
+|
+|-
+|The employee victim
+|Report the accident to the CPAM if the employer has not done so
+|Cerfa form or plain paper
+|Within 2 years
+|-
+|The CPAM administrative department
+|Checks that the accident has occurred
+|Initiates an investigation if necessary
+|
+|-
+|CPAM medical department
+|Verifies that the injuries are real
+|summons the employee victim if necessary
+|
+|}
+How to declare an occupational disease
+{| class="wikitable"
+|'''Who'''
+|'''What'''
+|'''How'''
+|'''When'''
+|-
+|Employee/patient with a condition that he wants to declare as an occupational disease
+|Declare an occupational disease
+|By sending to the CPAM :
+
+- An initial medical certificate completed by a doctor
+
+- A declaration of occupational illness completed by the patient
+
+- a certificate of salary
+|Within 2 years of becoming aware of the work-related origin of the illness.
+<br />
+|-
+|Doctor
+|Examines, prescribes additional assessment if necessary
+
+Draw up the CMI specifying :
+
+The pathology, the date of first observation (may be different from the date on which the CMI was drawn up)
+
+Any time off work
+<br />
+|Specific form or plain paper
+|At the end of the assessment
+|-
+|Employer
+|Gives a salary certificate
+|Cerfa
+|At the employee's request
+|-
+|CPAM
+|Receives the request
+|
+|
+|-
+|CPAM administrative department
+|Verifies the veracity of exposure to the risk declared
+|Sends an exposure questionnaire to the employee
+<br />
+|
+|-
+|CPAM medical department
+|Verifies the veracity of the pathology
+|Calls in the medical officer for a clinical examination if necessary
+|
+|-
+|
+|Sends reply to victim
+<br />
+|By post
+|If there is no response within 4 months, the condition is accepted.
+|}

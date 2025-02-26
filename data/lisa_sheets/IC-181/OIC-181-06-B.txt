@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-06-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the principles of health safety: the precautionary principle
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=6}}
+
+The precautionary principle is one of the four main principles of health safety.
+
+It stipulates that the lack of certainty in the light of current scientific and technical knowledge must not delay the adoption of measures aimed at preventing a priori a risk of serious and irreversible damage to society, at an economically acceptable cost.
+
+In 1998, this principle was used to justify stopping hepatitis B vaccination in secondary schools, because of doubts about a causal link between this vaccination and the occurrence of demyelinating diseases, which turned out to be unfounded.

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-267-40-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the principles of treatment of hypocalcaemia
+|Description=Know the principles of calcium and vitamin D supplementation.
+|Rubric=Management
+|Contributors=P. RIEU M. FLAMANT B. MOULIN
+|Order=40}}
+
+*Treatment of the cause if possible, such as stopping treatment, correcting vitamin D deficiency or hypomagnesaemia.
+
+*Symptomatic treatment
+**Calcium per os (calcium carbonate): 500 mg to 1.5 g/day between meals (500 mg/day only if chronic renal failure).
+**Parenteral calcium (calcium gluconate or calcium chloride) in cases of severe symptomatic hypocalcaemia (care must be taken to avoid extravasation).
+
+*Special cases
+**Chronic renal failure
+***Supplementation with vitamin D hydroxylated in position 1 (Un-Alfa®) or 1.25 (Rocaltrol®) provided there is no significant hyperphosphatemia.
+***Calcium intake
+**Hypoparathyroidism
+***Supplementation with vitamin D hydroxylated in position 1 (Un-Alfa®) or 1.25 (Rocaltrol®)
+***Calcium intake
+***Monitor calciuria (significant risk of hypercalciuria)
+**Rhabdomyolysis
+***Calcium intake only if symptomatic (risk of rebound hypercalcaemia)

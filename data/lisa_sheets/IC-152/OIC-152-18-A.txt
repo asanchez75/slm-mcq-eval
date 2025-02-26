@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-152-18-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Know the principles of antibiotic prophylaxis for IE (at-risk heart disease group, at-risk procedures)
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=18}}
+<u>Rational:</u>
+
+AEs occur in the aftermath of bacteremia, possibly following a high-risk procedure (certain dental treatments).
+
+Most bacteria of dental origin are sensitive to "narrow spectrum" antibiotics such as amoxicillin.
+
+The aim of antibiotic prophylaxis is to limit the onset or duration of bacteremia, by administering the antibiotic just before the high-risk procedure, in order to achieve peak concentration at the time of the bacteremic episode.
+
+
+<u>Indication:</u>
+
+Antibiotic prophylaxis is justified ''only'' ''when 2 conditions are met'' :
+
+'''1) Patient at high risk of AR (2C-152-PE-A01)''''
+
+*Know that any patient with a valve prosthesis is at risk of infection (infective endocarditis, graft) 2C-153-IU-A01|Valve prosthesis
+*A history of IE
+*Cyanogenic congenital heart disease
+
+'''<u>And</u> 2) High-risk dental care'''
+
+*Procedures requiring manipulation of the gum or periapical region or mucosal invasion
+
+
+'''In all other situations''' (other heart disease or other procedures involving the airway, digestive tract, urinary tract or skin), '''<u>antibioprophylaxis is not justified.</u>''''
+
+
+<u>Terms and conditions:</u>
+
+*Amoxicillin per os in a single dose within an hour of the procedure
+*In case of allergy: clindamycin
+*Patients deemed to be at high risk of IE must be issued with a "patient at risk of infective endocarditis" card, which must be presented before any oral or dental procedure.

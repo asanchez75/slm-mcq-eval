@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-250-08-B
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=B
+|Title=Knowing the additional tests to qualify undernutrition
+|Description=moderate vs severe, pure restrictive vs inflammatory
+|Rubric= Complementary examinations
+|Contributors=
+|Order=8}}
+Biological tests are still very useful in the search for associated complications or severity:
+
+- Albumin levels
+
+- CRP
+
+
+Muscular strength or mass can be assessed using different methods (HAS 2019 reco)

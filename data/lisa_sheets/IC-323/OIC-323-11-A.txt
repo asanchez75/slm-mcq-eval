@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-323-11-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Intitle=Argument the levels of evidence of the main sources of information
+|Description=None
+|Topic=Epidemiology
+|Contributors=Pierre-Olivier Girodet,David Hajage (CIMES),Nathanaël Lapidus (CIMES)
+|Order=11}}
+
+'''Levels of evidence according to clinical trial schemes (Haute Autorité de santé classification)'''
+
+The French National Authority for Health (HAS) proposes a gradation of recommendations based on the level of scientific evidence in the literature, itself assessed according to the schema of clinical studies:
+{| class="wikitable"
+|'''Grade des recommandations''''
+|'''Level of scientific evidence provided by the literature'''
+|-
+|'''A Scientific evidence established'''
+|'''Level 1'''
+*high-powered randomised controlled trials
+*meta-analysis of randomised controlled trials
+*decision analysis based on well-conducted studies
+|-
+|'''B Scientific presumption''''
+|Level 2
+*randomised controlled trials of low power
+*well-conducted non-randomised comparative studies
+*cohort studies
+|-
+| rowspan="2" |'''C Low level of scientific evidence'''
+|'''Level 3'''
+*case-control studies.
+|-
+|'''Level 4'''
+*comparative studies with significant bias
+*retrospective studies
+*case series
+*descriptive epidemiological studies (cross-sectional, longitudinal)
+|}
+
+
+'''Analysis of levels of evidence'''
+
+- Randomisation allows the initial comparability of the different groups. It is necessary to establish a causal relationship.
+
+- Maintaining comparability between groups during prospective follow-up of patients included in a randomised trial: standardisation of measurements, double-blinding, intention-to-treat analysis.
+
+- Taking account of the disease: pathophysiological mechanisms, natural course.
+
+- Pharmaco-therapeutic analysis :
+
+*Mechanism of action of drugs, fate of the drug in the body (pharmacokinetics).
+*Clinical efficacy, adverse effects, benefit-risk ratio.
+*Place in therapeutic strategy.
+
+- Good clinical practice and patient safety.
+
+- Funders, links of interest.
+
+<br />

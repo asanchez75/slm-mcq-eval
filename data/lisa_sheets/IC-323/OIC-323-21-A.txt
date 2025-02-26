@@ -1,0 +1,133 @@
+{{knowledge objective
+|Identifiant=OIC-323-21-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the principles of critical reading of a clinical trial protocol
+|Description=None
+|Section=Definition
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES)
+|Order=21}}
+
+{| class="wikitable"
+|'''Part'''
+|'''Content'''
+|'''Questions to ask'''
+|-
+|'''Scientific rationale'''
+|<nowiki>- Presenting the problem</nowiki>
+
+- Synthesis of knowledge from previous research on the subject (literature) or research in progress (test register)
+
+- Treatment/intervention data to be assessed
+
+- Hypothesis(es) to be tested
+|Is the question posed relevant, innovative and original?
+
+'''Is this trial necessary in the light of current knowledge?'''
+|-
+|'''Objective'''
+|<nowiki>- Main objective:</nowiki>
+
+         . PICO formulation (Population, Intervention, Comparator, Outcome)
+
+         . Hypothesis (effectiveness, equivalence, non-inferiority)
+
+- Possible secondary objective(s)
+|'''Fully formulated objective(s)?''''
+|-
+|'''Type of study''''
+|Comparative trial? Number of groups? Parallel groups, cross-over, etc.? Blind?
+
+Treatment/intervention allocated to each group? Method of allocation (randomisation?)
+|'''Adapted to the question asked?'''
+|-
+|'''Definition of eligible subjects'''
+|Period, place and method of recruitment
+
+Eligibility criteria (inclusion, non-inclusion, exclusion)
+|'''External validity?''' (Corresponds to the characteristics of the target population?)
+|-
+|Randomisation
+|<Ratio (1:1, other)? Block (balance during inclusions) ? Stratification, Minimisation (balance of certain factors in the two groups) ?
+
+- Minimum time between inclusion-randomisation and randomisation-allocation
+
+- Secret assignment?
+|'''Internal validity ?''' (Limits selection bias and confusion bias)
+|-
+|'''Evaluated treatments''''
+|<nowiki>- Precise description (dosage, route, duration, intervention, placebo, etc.)</nowiki>
+
+- Blinding conditions and methods (double, single, triple, non-existent=open study)
+
+- Evaluation of compliance, tolerance, comparable follow-up in the different groups, limiting the number of patients lost to follow-up...
+|'''External validity?''' (Use encountered / possible in current practice?)
+
+'''Internal validity ?''' (Classification bias)
+|-
+|'''Primary endpoint'''
+|Precise definition and description of measurement method (how, by whom, blinded, etc.)
+
+Independent award committee?
+|External validity (easily assessed criteria)
+
+'''Clinical relevance?'''
+
+(Measurement inaccuracy, Classification bias)
+|-
+|'''Secondary endpoints''''
+|<nowiki>- To support the primary endpoint or explore various aspects of the disease and thus evaluate the secondary objectives</nowiki>.
+
+- Limited in number
+|'''External validity?''' (easily assessable criteria)
+
+'''Clinical relevance?'''
+
+'''Internal validity?''' (Measurement imprecision, Classification bias, Repeated tests)
+|-
+|'''Number of subjects required''''
+|Calculation explained with :
+
+- definition of alpha and beta risk
+
+- assumption about the value (mean and variance for a quantitative criterion, proportion for a binary criterion) of the outcome criterion in the control group
+
+- definition of the minimum difference to be highlighted
+
+- bilateral or unilateral test?
+
+- efficacy, non-inferiority, equivalence?
+
+- intermediate analyses?
+|'''External validity?''' (Clinical relevance?)
+
+'''Internal validity?''' (power)
+|-
+|Statistical analysis
+|Descriptive analyses (Table 1)
+
+Flow chart (protocol deviators), analysis population (intention to treat, per protocol).
+
+Handling missing data.
+
+Risk α (generally 5%), one-tailed or two-tailed tests.
+
+Planning sub-group analyses
+
+Consideration of prognostic factors
+|Appropriate?
+
+'''Internal validity''' ? (Assessment of the extent of selection and classification bias? Consideration of possible confounding factors).
+|-
+|'''Ethical and regulatory'''''
+|Informed participants, signature of consent
+
+Protection of health data
+|'''CPP opinion? CNIL authorisation or compliance?''''
+<br />
+|-
+|'''Bibliography'''
+|References to justify the relevance of the research question and the methods used
+|'''Fair and complete?''''
+|}

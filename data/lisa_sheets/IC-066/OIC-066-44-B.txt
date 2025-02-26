@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-44-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for non-pharmacological treatments
+|Description=refer to item 73
+|Heading=Management
+|Contributors=El-Hage Wissam
+|Order=44}}
+
+CBT is effective for OCD (50% of patients respond), as a first-line treatment for children and adolescents (item 73). Progressive exposure with response prevention enables the subject to be exposed to the obsessions ("in vivo" and in imagination), prevents any compulsion, helps him or her to manage the anxiety and emotions thus aroused and to develop a sense of self-efficacy.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-300-11-B
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=Know the two most common histological types of endometrial cancer
+|Description=adenocarcinoma types 1 (endometrioid) and 2 (serous papillary, clear cell, carcinosarcoma)
+|Rubric=Definition
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=11}}
+
+Type 1 (endometrioid) and 2 (serous papillary, clear cell, carcinosarcoma) adenocarcinomas

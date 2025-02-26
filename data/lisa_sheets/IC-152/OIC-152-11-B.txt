@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-152-11-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing the echocardiographic arguments for the diagnosis of IE
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=11}}
+'''The [http://campus.cerimes.fr/cardiologie-et-maladies-vasculaires/enseignement/cardio_80/site/html/iconographie.html echocardiographic arguments in favour of IE] are:'''
+
+*Presence of vegetation(s) = mobile, hyperechoic, vibratile mass attached to the valve.
+*Valvular perforation, cord rupture
+*Perivalvular or septal abscess, fistula
+*Disinsertion of a valve prosthesis, paraprosthetic leakage
+
+A normal echocardiogram does not rule out the diagnosis. If there is a strong clinical presumption and the initial echocardiogram is negative :
+
+*A positive diagnosis of IE may sometimes be considered and antibiotic treatment continued.
+*Echocardiography may be repeated 7 to 10 days later, as abnormalities may be delayed.
+
+<br />The [[Infectious diseases:Duke's criteria for the diagnosis of infective endocarditis|Duke's criteria]] are frequently used to make the diagnosis of IE, on the basis of microbiological, echocardiographic, and other criteria (terrain, clinical and biological signs).[[File:IE - echocardiography - Aortic vegetation with moderate leakage.jpg|left|vignette|'''Figure 1:'''' Trans-thoracic echocardiography (TTE) revealing vegetation appended to the aortic valve (A, B), measured at 1.85 cm (C) and responsible for moderate aortic insufficiency on valvular destruction (D) in the setting of Streptococcus bacteremia.]]
+[[File:EI-Echo-Figure 5.jpg|left|vignette|'''Figure 2:'''' Transoesophageal echocardiography (TEE) demonstrating grade 4 mitral insufficiency, on valvular perforation, suggestive of infective endocarditis in the setting of Enterococcus bacteremia.]]
+[[File:IE Echo Figure 6.jpg|left|thumb|'''Figure 3:'''' Coagulase-negative Staphylococcus bacteremia in a patient with a history of aortic bioprosthesis. Primary TTE revealed mitral vegetation on the native valve (A). TEE confirmed extensive mitral vegetation (B) and led to the diagnosis of aortic vegetation on aortic bioprosthesis with aortic annulus abscess (C)]].
+[[File:EI Echo Figure 7.jpg|left|thumb|'''Figure 4:'''' Mitral vegetation suggestive of mitral IE on native valve (A). Secondary TEE confirms mitral vegetation and finds aortic IE with annulus abscess on native valve (B)].

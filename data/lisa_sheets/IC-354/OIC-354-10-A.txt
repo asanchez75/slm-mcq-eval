@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-354-10-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Knowing the principles of therapeutic management of occlusion in adults
+|Description=None
+|Rubric=Management
+|Contributors=Laura BEYER-BERJOT
+|Order=10}}
+
+Any occlusive syndrome is an "emergency" and will be managed by a surgical team. The common treatment modalities are fasting, with insertion of a nasogastric tube and a peripheral venous line (2 good-calibre venous lines in the event of haemodynamic problems) for hydration and fluid and electrolyte balance. The nasogastric tube avoids the risk of inhalation due to vomiting and reduces intestinal distension: it is therefore important to position it as soon as the clinical diagnosis of occlusion is made, in the emergency department, before the CT scan is performed. Symptomatic treatment is also instituted: painkillers adapted to the intensity of the pain, anti-spasmodics and anti-emetics. Any sign of seriousness requires emergency surgical treatment. The patient must be informed of the risk of digestive resection and, if peritonitis is suspected, of the risk of a stoma. In the absence of surgical treatment, patients should be monitored clinically and biologically on a twice-daily basis.

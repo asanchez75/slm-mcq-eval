@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-193-06-A
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=A
+|Title=Know the clinical features of vascular purpura
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Luc Mouthon
+|Order=6}}
+
+Vascular ''[[Purpura/ecchymosis/haematoma SDD-089|Purpura]]''' = erythematous skin lesion which does not fade on in vitro pressure, due to inflammation of the vascular wall.
+
+Clinical features: infiltrated, confluent, sometimes necrotic, horizontal, predominantly in the lower limbs, without mucosal involvement.

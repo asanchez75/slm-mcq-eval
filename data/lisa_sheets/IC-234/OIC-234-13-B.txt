@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-234-13-B
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=B
+|Title=To know the value of transthoracic echocardiography in the positive and aetiological diagnosis
+|Description=Knowing the value of transthoracic echocardiography in positive and aetiological diagnosis
+|Rubric=Additional examinations
+|Contributors=Olivier Huttin
+|Order=13}}
+ 
+
+Echocardiography allows :
+
+- Diagnosing CI
+
+- Define IC Type
+
+- Specify the mechanism of CI
+
+- Looking for an aetiology
+
+- Measuring filling pressures
+
+- Monitoring and evolution (prognosis, LVEF)
+
+- Adjust treatment
+
+
+Various parameters will be measured;
+
+- Geometry and segmental and global function of the left ventricle, measurement of LVEF value
+
+- Testing for valvulopathy
+
+- Assessment of right ventricular geometry and function,
+
+- Haemodynamic assessment: cardiac output, diastolic function (relaxation, assessment of left ventricular filling pressures), assessment of pulmonary pressures including systolic pulmonary artery pressure by measuring tricuspid insufficiency flow, assessment of right ventricular filling pressures.
+
+- Assessment of the pericardium (effusion, constriction)
+<br />
+[File:Classic echocardiography images .png|thumbnail|480x480px|Classical echocardiography images; top left: parasternal long axis view with measurement of ventricular diameter; bottom left: similar measurement (diameter, parietal thickness) during a TM view of the left ventricle in short axis; top right: apical 4-chamber view with measurement of the left atrial surface area (hatched in blue); bottom right: Doppler measurements (transmitral flow in pulse Doppler, tissue Doppler on the mitral annulus, continuous Doppler on tricuspid insufficiency flow. ]]
+<br />

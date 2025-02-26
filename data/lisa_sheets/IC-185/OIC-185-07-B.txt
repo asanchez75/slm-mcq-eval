@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-185-07-B
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=B
+|Title=Knowing inflammatory proteins
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Gilles Kaplanski
+|Order=7}}
+
+The proteins of the acute phase of inflammation have increased synthesis and serum levels:
+
+* C-reactive protein
+* Fibrinogen
+* Serum Amyloid A
+* Orosomucoid
+* Haptoglobin, cerulea eoplasmin
+* Alpha 1 anti-trypsin, alpha 1 chymotrypsin
+* Alpha 2 macroglobulin
+* C3 and C4 fractions of complement
+* Ferritin
+
+          
+
+
+
+          
+
+The intensity of variation is variable: concentrations multiplied by 1.5 (ceruleoplasmin, C3, C4), by 3 (orosomucoid, alpha-1 anti-trypsin, haptoglobin, alpha-1 anti-chymotrypsin, fibrinogen), by 500 (C-reactive protein or CRP, serum amyloid A protein or SAA).

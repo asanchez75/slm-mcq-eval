@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-036-03-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Know the different types of progestin-only hormonal contraception and their routes of administration.
+|Description=None
+|Rubric=Definition
+|Contributors=Geneviève Plu-Bureau
+|Order=3}}
+Progestin-only contraception involves the administration of small doses of progestins.
+
+=== Available routes of administration ===
+
+==== Oral route ====
+§ Levonorgestrel: to be taken every day
+
+§ Desogestrel: take every day
+
+§ Drospirenone: to be taken 24 days placebo 4 days
+
+==== Subcutaneous use ====
+§ Etonogestrel delivered continuously for 3 years.
+
+==== Intrauterine route ====
+§ Levonorgestrel delivered into the uterine cavity; three doses; duration of action 5 years or 3 years for the smallest size

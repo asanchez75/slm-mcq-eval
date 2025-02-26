@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-328-04-B
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=B
+|Intitle=Know the definition of small appliances and large appliances
+|Description=Definition of minor and major appliances and some examples
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=4}}
+
+'''Petit appareillage''' = medical device, usually standard, which compensates for a deficient organic function
+
+- e.g. compression stockings, therapeutic footwear, lumbar belt, etc.
+
+- standard or low-temperature thermoplastic
+
+- on simple prescription and can be prescribed by non-specialists
+
+- inclusion on the LPPR, reimbursement at 60%.
+
+- in pharmacies, pedorthists or ortho-prosthetists
+
+
+'''[[Setting up and monitoring an immobilisation device SDD-243|Setting up and monitoring an immobilisation device]]''''
+
+'''[[Setting up and monitoring a mechanical restraint SDD-244|Setting up and monitoring a mechanical restraint]]''''
+
+'''[[Prescription of a simple fitting SDD-245|Prescription of a simple fitting]]''''
+
+
+'''Major equipment''' = medical devices such as orthoses or prostheses, including sophisticated technologies such as home automation.
+
+- e.g. myoelectric forearm prosthesis, custom articulated crural-pedal orthosis, speech synthesis device, etc.
+
+- made to measure
+
+- prescription on ''specific form with prior agreement''.
+
+- initial prescription by a ''specialist'' doctor, possible renewal by a ''general practitioner'' doctor
+
+- registered on the LPPR, reimbursed at 100% if ALD
+
+- designed by orthotists or pedorthists
+
+<br />

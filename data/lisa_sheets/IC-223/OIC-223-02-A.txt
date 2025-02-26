@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-223-02-A
+|Item_parent=Dyslipidaemia
+|Item_parent_short=Dyslipidemia
+|Rank=A
+|Title=Knowing the three main types of dyslipidemia
+|Description=Pure hypercholesterolaemia, pure hypertriglyceridaemia, mixed hyperlipidaemia
+|Rubric=Definition
+|Contributors=Laurence Duvillard, Bruno Vergès, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=2}}
+
+* 3 main types of dyslipidemia:
+** pure hypercholesterolaemia
+** pure hypertriglyceridemia
+** mixed hyperlipidaemia
+
+* Hyperlipidaemia is distinguished according to its cause into primary hyperlipidaemia, secondary hyperlipidaemia (due to disease or medication) and dyslipidaemia associated with type 2 diabetes and metabolic syndrome.

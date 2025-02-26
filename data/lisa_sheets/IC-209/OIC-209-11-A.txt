@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-209-11-A
+|Item_parent=Chronic obstructive pulmonary disease in adults
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Know the principles of exacerbation management and disease-modifying therapy
+|Description=Therapeutic treatments including long-term oxygen therapy and non-invasive ventilation.
+|Section=Management
+|Contributors=
+|Order=11}}
+'''[[follow-up consultation and therapeutic education for a COPD patient]]''''
+
+'''Principles of stable state care'''
+
+*Chronic disease follow-up consultation SD-279|chronic disease follow-up consultation]]: follow-up consultation and therapeutic education for a COPD patient,
+*Smoking cessation ([[Smoking risk prevention SD-314|smoking risk prevention]])
+*Inhaled treatments: bronchodilators (B2 mimetics and/or anticholinergics) and/or inhaled corticosteroids (see figure).
+*Vaccinations (influenza, pneumococcus, COVID)
+*Physical exercise/respiratory rehabilitation ([[Prescription of a rehabilitation SD-247|prescription of a rehabilitation]], [[Identify a situation of deconditioning to effort SD-353|identify a situation of deconditioning to effort]])
+*Treatment of chronic respiratory insufficiency (cf item 208)
+**oxygen therapy in cases of severe chronic hypoxaemia
+**Non-invasive nocturnal ventilation in cases of severe hypercapnia and frequent exacerbations.
+*Dietary advice
+*Assessment and management of co-morbidities (particularly cardiovascular).
+*Surgery, lung transplantation and interventional endoscopy: limited and targeted indications (severe forms, young subjects, specialist centres).
+
+
+Principles of exacerbation management
+
+*Bronchodilators (B2 mimetics and/or anticholinergics)
+**Outpatient metered dose inhalers
+**In-patient nebulisations
+*Antibiotics (amoxicillin +/- clavulanic acid, pristinamycin, macrolides - [[Prescribe an anti-infective SD-255|prescribe an anti-infective]]) if
+**the sputum is frankly purulent or
+**the underlying COPD is very severe (FEV1<30% of theoretical) '''or'''''
+**there are clinical signs of severity.
+*Systemic corticosteroid therapy:
+**Not systematic
+**Prescribed on a case-by-case basis (30 to 40 mg/d for 5 days).
+*Respiratory assistance
+**Non-invasive ventilation if respiratory acidosis (pH<7.35)
+*Oxygen in cases of severe hypoxaemia (target saturation 88% ≤ SpO2≤ 92%)
+*Other measures
+**Physiotherapy in case of congestion
+**Routine preventive HBPM in the event of hospitalisation
+
+<br />
+[[File:COPD algorithm background treatment.jpg|thumbnail|BPCO algorithm background treatment]]
+<br />

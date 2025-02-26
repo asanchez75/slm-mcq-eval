@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-307-05-A
+|Item_parent=Primitive and secondary bone tumours
+|Item_parent_short=Primitive and secondary bone tumours
+|Rank=A
+|Title=Know how to refer a patient for specialist care
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+o Multidisciplinary consultation
+
+
+o Refer the patient to a specialist if a primary malignant tumour is suspected
+
+
+o Bone biopsy by a route predefined with the surgeon if a primary malignant tumour is suspected

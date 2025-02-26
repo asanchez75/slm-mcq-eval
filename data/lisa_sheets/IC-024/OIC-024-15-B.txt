@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-024-15-B
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=B
+|Title=Knowing what to do after childbirth in the case of hypertension.
+|Description=None
+|Heading=Management
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=15}}
+
+In the postpartum period, complications are still possible (hypertensive crisis, pre-eclampsia and its complications) and it can sometimes take several weeks for the hypertension to disappear++.
+
+So :
+
+- Close monitoring and gradual discontinuation of antihypertensive treatment (o''bjectives'': PAS < 150 mmHg and PAD < 100 mmHg
+
+- If breast-feeding, give preference to: beta-blockers (labetalol, propranolol); calcium channel blockers (nicardipine, nifedipine); alphamethyldopa; converting enzyme inhibitors (benazepril, captopril, enalapril, quinapril) if the patient is not breast-feeding.
+
+- At discharge: "microprogestins" and "progestins" or non-hormonal contraception if hypertension not stabilised.
+
+- At the postnatal consultation: inform the patient of the subsequent cardiovascular and renal risk + coordinated multidisciplinary follow-up
+
+- Three months after delivery: vasculorenal work-up (BP measurement, creatininemia, 24-hour proteinuria [[Proteinuria SD-212]])
+
+Search for and correct associated cardiovascular and renal risk factors (obesity, diabetes, dyslipidaemia, smoking [[Obesity and overweight SD-051]]; [[Prevention of overweight and obesity SD-319]]; [[Prevention of tobacco-related risks SD-314]]; [[Prevention of alcohol-related risks SD-313]]).
+
+Etiological investigation if hypertension persists.

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-243-09-A
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=A
+|Title=Knowing the main etiologies of hypothyroidism
+|Description=None
+|Rubric=Etiologies
+|Contributors=Eva Feigerlova,Igor Tauveron,Stéphanie Espiard
+|Order=9}}
+
+===''1. primary hypothyroidism''===
+
+====='''a) Autoimmune thyroiditis (chronic lymphocytic thyroiditis) (+++)'''=====
+======'''''- Hashimoto's thyroiditis'' [[Autoimmune pathologies: epidemiological aspects, diagnosis and principles of treatment]]'''======
+
+======'''''- Postpartum autoimmune thyroiditis'''''======
+
+====='''b) Iatrogenic thyroiditis [[Identification and management of risks associated with medicinal products and biomaterials, iatrogenic risk, medicinal errors (see item 4 and item 5)]]'''=====
+- history of cervical radiotherapy [[Radiation-related health risks. Radiation protection]] or taking certain medicines (iodine treatments; lithium, interferon).
+===='''c)''' '''Congenital hypothyroidism''' [[Assessment and care of the term newborn]]====
+
+==='''2.  Thyroid insufficiency [[Rare diseases]]'''===
+
+- less than 5% of hypothyroidism
+
+<ref>Polycopié du Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métabolique (4th edition, 2019)</ref><references group="Polycopié du Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métabolique (4th edition, 2019)" />
+<references />

@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-238-03-B
+|Item_parent=Heart murmur in children
+|Item_parent_short=Heart murmur in children
+|Rank=B
+|Title=Knowing the contribution of first-line examinations for heart murmurs in children
+|Description=Chest X-ray, ECG, echocardiography
+|Section=Complementary examinations
+|Contributors=
+|Order=3}}
+'''Circumstances of diagnosis:'''' chance discovery during a consultation, infant heart failure (stagnant weight, sweating and dyspnoea when feeding, pallor, tachycardia, hepatomegaly), symptoms on exertion in children or adolescents (dyspnoea, chest pain), malaise/syncope, cyanosis (right->left shunt, pulmonary hypertension), sports fitness test, family history (congenital heart disease, syncope or sudden death in the family). 
+
+'''Characteristics of the heart murmur:''' time, intensity, maximum location, irradiation.
+
+*Characteristics of the heart murmur:
+**time:
+***systolic: holo (from B1 to B2, typical of IVC), meso (ejection murmur), tele (valvular prolapse),
+***diastolic: always pathological (aortic or pulmonary leak),
+***continuous: systolic and diastolic;
+**intensity:
+***coded in 1/6<sup>th</sup>, strong if > 3/6<sup>th</sup> (no correlation with severity of murmur),
+***variability: position, rest/exertion, fever ;
+**maximum localisation:
+***pulmonary focus: pulmonary stenosis, CIA,
+***back: coarctation of the aorta, pulmonary branch stenosis,
+***axiphoid: IVC,
+***Aortic focus: aortic stenosis, right pulmonary artery stenosis ;
+**irradiation :
+***in wheel spokes: CIV,
+***in the neck: aortic valve stenosis,
+***in the back: AIC, pulmonary stenosis.
+
+*Other cardiac auscultatory abnormalities that may be associated:
+**pulmonary B2 splitting or splitting;
+**gallop sounds ;
+**diastolic murmur at the apex;
+**protosystolic click (bicuspid aortic valve anomaly), telesystolic click (mitral prolapse).
+
+
+'''Other parameters of the cardiovascular examination:'''
+
+**cardiorespiratory parameters (RF, HR, BP);
+**colour: cyanosis (suggestive of a D/G shunt);
+**palpation of peripheral pulses:
+***fewer or absent femoral pulses → coarctation of the aorta,
+***hyperpulsatile nature of the femoral pulses → persistence of the ductus arteriosus;
+**oedema of the lower limbs;
+**hepatomegaly.
+
+*Relevant general signs:
+**general condition, nutritional status ;
+**syndromic elements (dysmorphia): trisomy 21 and CAV, Turner syndrome and coarctation of the aorta.
+
+'''Imaging work-up:''''
+
+- '''Non-organic murmur:''' no additional cardiovascular examination is necessary.
+
+- '''Organ murmur:'''' Cardiac ultrasound is the gold standard. This examination must be carried out immediately by a paediatric cardiologist in the event of a murmur associated with heart failure in an infant or newborn. Chest X-rays no longer have any place in this indication. Carried out for another reason, it may point to heart disease by revealing cardiomegaly or complications associated with this heart disease (pulmonary hypervascularisation, fluid effusion, alveolar-interstitial opacities, rib anomalies). However, the diagnosis of cardiomegaly is not very specific or sensitive, depending on the angle of incidence (antero-posterior or postero-anterior) and the degree of inspiration during acquisition. CT and/or MRI are second-line examinations in the event of an abnormality that is poorly characterised on cardiac ultrasound.

@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-081-09-A
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=A
+|Title=Know the definition of a cataract, its main causes and how it is clinically diagnosed.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=9}}
+Cataracts are defined by the <nowiki/>'''opacification of all or part of the crystalline lens.'''
+
+It is a very common pathology, and cataract surgery is the most frequent of all surgical procedures (around 700,000 procedures per year in France).
+
+
+'''<u>Primary causes:</u>'''
+
+1. age-related cataracts
+
+This is the most common. It is usually bilateral and generally symmetrical.
+
+
+'''2. Traumatic cataracts
+
+They are :
+
+*or "contusive": a violent contusion to a closed globe, even a long-standing one, should be sought. The cataract is often of the posterior subcapsular type (rosette appearance). A contusive cataract may develop in the hours that follow, or several years later;
+*or related to "perforating trauma": although the context is usually suggestive, some trauma may go unnoticed, particularly in children, and an intraocular foreign body should be sought (X-rays or CT scan of the orbit).
+
+
+'''3. Cataracts secondary to ophthalmological diseases''''
+
+The diseases concerned are as follows:
+
+*chronic uveitis (particularly posterior uveitis, which requires prolonged corticosteroid therapy of more than 3 months): the inflammatory disease may be responsible, but corticosteroids must also be used;
+*severe myopia;
+*pigmentary retinopathies;
+*history of eye surgery (retinal detachment, vitrectomy).
+
+
+'''4. Secondary metabolic cataracts''''
+
+*Diabetes
+*More rarely, hyperparathyroidism
+
+'''5. Secondary iatrogenic cataracts''''
+
+The following may be involved:
+
+*long-term local or general corticosteroids (posterior subcapsular form);
+*orbital radiotherapy (choroidal melanoma, orbital tumours).
+
+
+'''6. Cataracts secondary to genetic diseases''''
+
+These may include :
+
+*Steinert's myotonic dystrophy, often associated with cataracts, ptosis, motor disorders and a heart rhythm disorder;
+*trisomy 21.
+
+
+'''7. Congenital cataracts''''
+
+They can be :
+
+*secondary to an embryofoetopathy, in particular congenital rubella;
+*hereditary
+
+'''<u><br />Clinical diagnosis:</u>''''
+
+'''Functional signs:''''
+
+*a "drop in visual acuity": this is progressive and predominates in distance vision, with near vision often relatively unaffected (except in the case of posterior subcapsular cataracts);
+*photophobia": the presence of coloured halos around lights (linked to the diffraction of light at the level of crystalline opacities), making it difficult to drive at night;
+*monocular diplopia" (rarer): the patient sees double in one eye (no disappearance when one eye is occluded);
+*a change in colour perception: "yellowing" (this sign is most often described after surgery on the first eye, and is found in the non-operated eye).
+
+
+'''Clinical signs:'''
+
+The diagnosis is clinical and is made during a slit lamp examination, which reveals the presence of opacities in the lens. Their anatomical distribution will define several types of cataract. The main types are :
+
+*nuclear cataract: damage to the crystalline nucleus, predominantly reduced distance visual acuity, index myopia;
+*posterior subcapsular cataract": saucer-shaped opacification in front of the posterior capsule, impaired distance and near vision. Think of metabolic and iatrogenic origin;
+*cortical cataract": opacification in the crystalline cortex;
+*total cataract": very advanced cataract visible to the naked eye, white pupil area.
+
+<br />

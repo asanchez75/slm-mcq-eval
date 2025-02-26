@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-201-05-A
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=A
+|Title=Know the main principles of the bioethics law concerning organ donation.
+|Description=Know the three main ethical principles of organ donation: Consent/gratuity/anonymity
+|Rubric=Definition
+|Contributors=Dany Anglicheau
+|Order=5}}
+
+Organ donation is governed by 3 major ethical principles enshrined in the French Bioethics Act:
+
+*presumed consent'';''''
+*free donation'';''''
+*anonymity between donor and recipient'''.''''

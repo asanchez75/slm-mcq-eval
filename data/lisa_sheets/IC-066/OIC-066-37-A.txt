@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-066-37-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing semiology
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=37}}
+
+Obsessions: Invasive, recurrent and persistent thoughts, impulses and images that the subject feels are intrusive and inappropriate, and a source of anxiety. The subject tries to ignore, neutralise or repress them with other thoughts or actions.
+
+Compulsions: Repeated behaviours or rituals (washing, tidying up, checking) or mental acts (counting, repeating) that the subject is obliged to perform in response to an obsession or in a rigid manner, to neutralise or reduce distress, excessive and without any realistic link to the obsessions.
+
+Most patients are well aware of the pathological nature of their symptoms, which can vary over time and is a prognostic factor.
+
+Three main themes of obsessions and compulsions.
+
+* Contamination: Obsessions with contamination, compulsions, washing rituals, avoidance of touch.
+* Error: Obsessions with order and symmetry, associated magical thinking, compulsions and verification rituals, rigidity in the sequence of actions.
+* Forbidden thoughts: Obsessions with forbidden catastrophic thoughts, aggressive impulses, sexual content deemed reprehensible, religious, moral or somatic preoccupations. Compulsions and mental rituals, checking.

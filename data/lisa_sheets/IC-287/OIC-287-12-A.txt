@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-287-12-A
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=A
+|Title=Knowing the indications for surgical management of diverticular disease and its complications
+|Description=None
+|Rubric=Management
+|Contributors=Frédérique PESCHAUD
+|Order=12}}
+
+Indications for surgery in complicated diverticulitis, in the emergency phase and afterwards
+
+Emergency surgical treatment should be performed in cases of diverticular peritonitis or complicated diverticulitis with an unfavourable course (failure of medical treatment).
+
+Emergency surgery is still the Hartmann procedure (left colectomy or sigmoidectomy with terminal upstream colostomy and suture of the lower segment) but only in cases of :
+
+o haemodynamic instability
+
+o severe co-morbidity (end-stage renal failure, patient with an ASA score > 3, congenital or acquired immunodepression (immuno-suppressive treatments....)
+
+Apart from these situations, elective sigmoidal resection with colorectal anastomosis protected by an ileostomy may be proposed.
+
+'''''Elective ("cold") surgical treatment should be discussed in cases of:'''''
+
+- persistent symptoms after a relapse or frequent recurrences impacting on quality of life
+
+- after complicated acute diverticulitis, particularly in the case of abscesses
+
+- fistula
+
+- symptomatic stenosis
+
+- in patients with immunodeficiency or chronic renal failure, taking into account the following operative risk factors: age over 75 and co-morbidities, in particular heart disease and COPD.
+
+''The number of relapses is not in itself an indication for surgery, nor is an age below 50''.
+
+''If elective sigmoidectomy is recommended, it should be performed at least 2 months after the last attack''.
+
+
+'''''After medical treatment of diverticulitis'''''
+
+- Explorations
+
+- Systematic biological monitoring is "not" recommended in the case of a favourable clinical course of acute diverticulitis.
+
+- In the absence of a warning sign, whatever the initial stage, a systematic abdomino-pelvic CT scan following a case of treated sigmoid diverticulitis is "not" recommended.
+
+- It is "not" recommended to carry out a systematic colonoscopy following an attack of acute, uncomplicated diverticulitis, except in cases where colonoscopy is used to screen for or prevent colorectal cancer.
+
+- It is recommended that colonoscopy be performed following an episode of complicated acute diverticulitis.
+
+- These recommendations remain valid when cold surgery is indicated.
+
+- Preventing recurrence of diverticulitis
+
+No diet, probiotic or medical treatment can be recommended to prevent recurrence of diverticulitis.
+
+'''Surgical indications in diverticular haemorrhage'''
+
+They are limited to rare cases where endoscopic and radiological treatments have failed, and are based on colectomy.
+
+- segmental if the haemorrhagic site is identified ;
+
+- subtotal otherwise.

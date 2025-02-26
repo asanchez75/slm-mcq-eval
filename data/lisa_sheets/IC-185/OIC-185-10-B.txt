@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-185-10-B
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=B
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects.
+|Description=None
+|Rubric=Management
+|Contributors=Gilles Kaplanski
+|Order=10}}
+
+# Impaired general condition, cachexia
+# Increased cardiovascular risk
+# AA amyloidosis

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-001-02-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the main determinants of the doctor-patient relationship
+|Description=Psychological, ethical, social, etc. determinants.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The medical act is the moment when 3 goals converge: that of the patient, that of the doctor and that of society. These goals lead to interactions between the various determinants of the relationship, which fall into the following areas:
+
+- ethics: the respect, dignity and freedom of the individual, his or her group and the community
+
+- social: language difficulties, cultural and even religious factors, level of education, sensory deficits, etc.
+
+psychological: the patient's and the doctor's perspectives at the time of the consultation, and the distancing of life events <br />.

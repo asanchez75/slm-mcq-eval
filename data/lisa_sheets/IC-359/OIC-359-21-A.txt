@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-359-21-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Know how to refer a patient in acute respiratory distress for a specialised procedure in an emergency.
+|Description=Know the urgent indications for laryngoscopy, bronchoscopy and tracheostomy.
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=21}}
+Any suspicion of obstructive respiratory distress due to inhalation of a foreign body must be investigated:
+
+-direct laryngoscopy if the obstruction is high for extraction
+
+-bronchoscopy if the obstruction is downstream of the vocal cords in the tracheobronchial tree
+
+In the event of respiratory distress where intubation is impossible due to obstruction upstream of the vocal cords (laryngeal tumour, oedema of the epiglottis, etc.), an emergency tracheotomy should be performed. In extreme emergencies, a crico-thyroidotomy can also be performed, which involves inserting a dedicated cannula into the crico-thyroid membrane using a percutaneous technique.

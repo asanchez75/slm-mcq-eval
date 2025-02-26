@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-349-07-B
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, sheath phlegmon)
+|Rank=B
+|Title=Knowing the four stages of development
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Pierre-Marie Roy
+|Order=7}}
+
+
+*'''Invasion phase''': asymptomatic, during which the germ responsible multiplies
+*''Inflammatory or phlegmatic phase'': appearance of local inflammatory signs (pain, redness, heat, oedema), without waking up at night
+*''Collected phase'': circumscribed area, pulsating, sleepless pain
+*'''Complication phase''': fistulisation, spread of infection (arthritis, evolution of the panariasis towards phlegmon, purulent melting or tendon necrosis)
+<gallery widths="420" heights="420">
+File:Progressive stages.png
+</gallery>

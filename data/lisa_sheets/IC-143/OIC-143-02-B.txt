@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-143-02-B
+|Item_parent=Know the specific aspects of palliative care in the intensive care unit
+|Item_parent_short=Know the specific aspects of palliative care in the intensive care unit
+|Rank=B
+|Title=Recognise situations of unreasonable obstinacy in the context of intensive care.
+|Description= Defined as the initiation or continuation of a curative treatment or diagnostic strategy that is unnecessary and/or unjustified in terms of the follow-up and/or prognosis in terms of survival or quality of life.
+|Rubric=Positive diagnosis
+|Contributors=Thomas Perrin
+|Order=2}}
+The seriousness of intensive care patients means that some of them need to be accompanied towards the end of their lives. Given the range of treatment techniques and the invasive nature of some of them, it is important to avoid ''[[Unreasonable obstinacy and limitation. Cadre législatif, fondements philosophiques et éthiques* 2C-009-PC-A06|l'obstination déraisonnable]]'' by carrying out [[Connaître les questions éthiques, légales et sociétales posées lors des phases palliatives avancées ou terminales d'une maladie grave, chronique ou létale 2C-140-DP-A05|examens ou de gestes techniques inutiles ou disproportionnées]].
+
+Therapeutic failure'' or ''unfavourable prognosis'' situations expose patients to the continuation of invasive technical procedures or examinations that could cause discomfort to patients, without improving their chances of survival.
+
+It is therefore important to consider the introduction or continuation of therapies in the light of changes in the patient's state of health.

@@ -1,0 +1,157 @@
+{{knowledge objective
+|Identifiant=OIC-299-03-B
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=B
+|Title=Knowing the main histological types of brain tumours
+|Description=Meningioma and pituitary adenoma / low-grade and high-grade glial tumours (glioblastoma) / metastases
+|Rubric=Definition
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=3}}
+
+'''Meningioma:'''
+
+- Often benign, WHO grade 1
+
+- Development from arachnoid cells
+
+- Sex ratio: predominantly female
+
+- Peak incidence: between 50 and 70 years of age
+
+- Genesis favoured by the use of certain progestogens (cyproterone acetate)
+
+- Possibility of multiple localisations (meningiomatosis), in association with other histological varieties of tumours of the nervous system (e.g. schwannomas) as part of neurofibromatosis type 2 (phacomatosis).
+
+- MRI semiology: extra-parenchymal tumour; well circumscribed; base of dural implantation; dural thickening on contact = "comet tail" sign; homogeneous enhancement after injection of contrast (gadolinium).
+
+- Treatment essentially surgical in symptomatic forms or those showing radiological progression
+
+
+'''[[Pituitary adenoma]]:''''
+
+- Secreting (prolactinoma, GH, LH, FSH, ACTH or TSH adenoma) or non-secreting
+
+- Clinical signs :
+
+o Endocrine syndrome: hypersecretion of a hormonal sector; insufficiency of one or more hormonal sectors, anterior and/or posterior to the pituitary gland(s).
+
+o Mass syndrome, e.g. with compression of the optic chiasm (bitemporal hemianopia)
+
+o Pituitary apoplexy (rarer)
+
+- First-line surgical treatment, except for prolactinoma = dopaminergic agonists. Correction of endocrine deficits +++.
+
+
+'''Low-grade and high-grade glioma (glioblastoma) of malignancy:''''
+
+- Development from glia cells :
+
+o Astrocyte → astrocytoma
+
+o Oligodendrocyte → oligodendroglioma
+
+- 4 grades according to the WHO classification :
+
+o Grade 1 = benign
+
+o Grade 2 = low grade malignancy (inevitable progression to grade 3 and 4)
+
+o Grade 3 and 4 = high grade of malignancy
+
+- → 2 subtypes of glioblastoma:
+
+o Primary ''(de novo)'''
+
+o Secondary = transformation of a low-grade glioma as it progresses; younger subjects
+
+- For glioblastoma (grade 4), the factors that improve prognosis are :
+
+o Age < 70
+
+o General and neurological condition preserved (Karnofsky index > 70%)
+
+o Quality of surgical resection
+
+Molecular biology: IDH mutation (= secondary glioblastoma); MGMT gene promoter methylation, predicts sensitivity to chemotherapy.
+{| class="wikitable"
+| colspan="2" |
+|Peak incidence
+|Preferential topography
+|MRI semiology
+|Treatment
+|Prognosis
+|-
+| rowspan="2" |
+
+
+
+
+
+Gliomas
+
+'''LOW GRADE'''
+|Grade 1
+|< 20 years
+<br />
+|Infra tentorial
+|Mixed = cystic / solid
+
+Enhancement after contrast
+|Surgery
+|Healing if complete resection
+|-
+|Grade 2
+|20-40 years
+<br />
+|Super tentorial
+|T2 hypersignal T1 hyposignal No contrast enhancement
+|Surgery (maximal resection, if possible)
+
++/- radiotherapy / chemotherapy
+<br />
+|Unstoppable progression to anaplasia (grades 3 and 4)
+|-
+| rowspan="2" |
+
+
+
+
+
+
+'''Gliomas''' '''HIGH GRADE''''
+|Grade 3
+|30-50 years
+|Supra tentorial
+|Hypersignal T2 Hyposignal T1
+
+Taking of contrast
+|Surgery (maximal resection, if possible)
+
++ radiotherapy / chemotherapy
+|Unstoppable progression to glioblastoma (grade 4)
+|-
+|Grade 4
+|Age 60-70
+|Super tentorial
+|Necrosis
+
+Heterogeneous contrast
+|Surgery (maximal resection, if possible)
+
++ concomitant radio-chemotherapy (Stupp protocol)
+|Rapid local/regional spread
+
+Overall survival of 15 months
+|}
+'''Metastasis:'''
+
+- Main origins = cancers with a strong neurological tropism: bronchopulmonary, breast and melanoma
+
+- MRI: single or multiple tumour(s); cortico-subcortical location; heterogeneous enhancement after contrast injection, with cocardial appearance (central necrosis and peripheral contrast); peritumoral oedema +++; haemorrhagic revelation of melanoma and kidney cancer metastases.
+
+- Treatment :
+
+o Depends on the number, location and volume of the metastasis(es) and the existence of neurological deficits.
+
+o Arsenal = excisional surgery; focal (conformal or stereotactic) or pan-brain radiotherapy; systemic treatments (chemotherapy, hormone therapy, targeted therapies).

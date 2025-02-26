@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-159-02-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the definition of tuberculosis and the microbiological characteristics of mycobacteria
+|Description=None
+|Rubric=Definition
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=2}}
+
+'''Summary''' : '''Airborne disease caused by mycobacteria of the ''tuberculosis'' complex, the predominant pathogenic species of which is ''Mycobacterium tuberculosis'' stricto sensu or Koch's bacillus (BK).''''
+
+Mycobacterium tuberculosis is a slow-growing, strict aerobic acid-fast bacillus (AFB) (growth time: approximately 2-3 weeks) which is transmitted by aerosolisation of infectious particles emitted by a patient with tuberculosis disease.
+
+Bacilliferous tuberculosis occurs when BAARs are found on direct microscopic examination of respiratory samples, indicating a particularly contagious form.
+
+As mycobacteria of the tuberculosis complex are strict pathogens, their presence in a diagnostic sample is always pathological and means that the patient is ill.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-013-08-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Intitulé=Savoir identifier les situations de vulnérabilités, particulièrement concernant les violences conjugales
+|Description=None
+|Rubric=Identifying emergencies
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=8}}
+'''<u>Situations of vulnerability, particularly in cases of domestic violence:</u>''''
+
+o '''Related to the medical situation'' :
+
+-Disability (physical or mental),
+
+-Pregnancy,
+
+-Substance use disorder,
+
+-Ages (teenagers and the elderly),
+
+o '''Linked to the social and economic situation'' :
+
+-Social, economic or family vulnerability,
+
+-Difficulties accessing care,
+
+-No command of the French language,
+
+-Illegal status on French territory.

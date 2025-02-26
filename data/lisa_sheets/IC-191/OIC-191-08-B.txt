@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-191-08-B
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=B
+|Title=Knowing the complementary examinations to be carried out in febrile neutropenic patients according to clinical orientation
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Amélie Servettaz
+|Order=8}}
+
+Certain microbiological tests are carried out systematically:
+
+* Peripheral aero-anaerobic blood cultures and central blood cultures if a central venous catheter is used, prior to any antibiotic treatment.
+* Urine cytobacteriological examination (ECBU)'''
+* Additional biological tests:'''' CBC, TP TCA fibrinogen, Ionogram, renal and hepatic function, CRP
+* Additional imaging tests:'''  Chest X-ray or CT scan without injection
+
+Certain examinations will be carried out according to a point of call:
+
+* Cytobacteriological examination of sputum (ECBC), nasopharyngeal sampling for PCR of respiratory viruses during epidemics if respiratory symptoms are present.
+* Stool culture if diarrhoea, clostridium test if prior antibiotic treatment
+
+If fever persists after 48 hours of probabilistic antibiotic therapy, the following tests should be carried out:
+
+* A thoracic-abdominal-pelvic CT scan to look for a deep-seated infection.
+* Aspergillosis antigenemia and B-D glucans, mycological blood cultures to support a suspicion of fungal infection (aspergillosis) if neutropenia ≥ 7 days.

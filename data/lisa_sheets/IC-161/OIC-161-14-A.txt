@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-161-14-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Know how to treat male urinary tract infections and know how to prevent them.
+|Description=Know the conditions for the urological management of male urinary tract infections.
+|Rubric=Management
+|Contributors=Maxime Vallée, Alice Faure
+|Order=14}}
+
+
+*The treatment of MUI is detailed in the figure below.
+*Note that drainage of a patient with [[Acute retention of urine|acute retention of urine 347]] in this context must be carried out urgently either by urethral catheterisation (bladder catheterisation is no longer a contraindication subject to an atraumatic procedure, to learn how to catheterise: <nowiki>https://www.youtube.com/watch?v=TMPPG_CnU-M</nowiki>) or suprapubic catheterisation.
+*The duration of treatment currently recommended is 14 days if fluroroquinolones, IV C3G or cotrimoxazole are used. For other molecules, the current duration is 21 days.
+*The occurrence of an infectious episode in men should systematically prompt a search for an underlying aetiology: [[Benign prostatic hyperplasia|symptomatic benign prostatic hyperplasia 127]], urethral stricture, [[Urinary incontinence and micturition disorders in adults and the elderly|bladder failure 125]], etc.
+
+<br />[[File:Table.png|vignette|993x993px|alt=|neant]]
+<br /><big>''HAS recommendations; May 2019''</big>

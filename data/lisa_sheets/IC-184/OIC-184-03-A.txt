@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-184-03-A
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definitions and issues
+|Rank=A
+|Title=Knowing the definition of a commuting accident
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+A commuting accident is defined as an accident that occurs ''during the outward and return journey'' between :
+
+* his main or secondary ''residence'' and the ''place of work'' ;
+* the workplace and the restaurant, canteen or, more generally, the place where the employee usually eats.
+
+Commuting accidents also benefit from a ''presumption of imputability''.

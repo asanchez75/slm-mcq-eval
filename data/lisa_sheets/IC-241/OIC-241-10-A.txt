@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-241-10-A
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=A
+|Title=Knowing the first-line complementary examinations to explore a thyroid nodule
+|Description=TSH, calcitonin
+|Rubric=Additional tests
+|Contributors=Eva Feigerlova,Camille Buffet,Stéphanie Espiard,Arnaud Jannin
+|Order=10}}
+
+The recommended first-line work-up for a thyroid nodule includes:
+
+1. ''thyroid ultrasound'' to characterise and locate one or more nodules, to estimate the risk of malignancy (Eu-TIRADS radiological classification) and to monitor the development of the nodule(s). [Request for an SD-231 imaging test
+
+2. a ''TSH'' test to detect hyper- or hypo-thyroidism [[Hypothyroidism]]; [[Hyperthyroidism|Hyperthyroidism]].
+
+3. measurement of ''calcitonin (CT)'' to detect medullary thyroid cancer in the following situations (family history of medullary thyroid carcinoma, suspicion of malignancy on cytopuncture and before any operation for goitre or nodule) [[Goitre, thyroid nodules and thyroid cancers]].
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-021-06-A
+|Item_parent=Measurement of population health status
+|Item_parent_short=Measurement of population health status
+|Rank=A
+|Item_parent_short=Measure of the health status of the population
+|Description=None
+|Rubric=Definition
+|Contributors=Loïc Josseran
+|Order=6}}
+
+In 2001, the WHO proposed an "International Classification of Functioning, Disability and Health" (ICF), which reformulates the previous model with more neutral terminology to describe the levels of experience of disability - according to body functions and structures, activities of daily living and social participation (fulfilment of social roles) - and which proposes a model in which disability results from an interaction between a health problem and contextual, personal or environmental factors.
+
+International Classification of Functioning, Disability and Health, WHO, 2001
+{| class="wikitable"
+|Level
+|Functioning
+|Disability
+|-
+|Organ
+|Body functions and structures
+|Impairment
+|-
+|Individual
+|Activity
+|Limitation
+|-
+|Society
+|Participation
+|Restriction
+|-
+| colspan="3" |Environmental factors interact with these different levels of functioning to create or remedy situations of disability.
+|}
+
+
+In France, Law 2005-102 on equal rights and opportunities, participation and citizenship for people with disabilities defines the concept of disability for the first time, as follows:
+
+"A disability, within the meaning of this Act, is any limitation of activity or restriction on participation in life in society suffered in the environment by a person as a result of a substantial, lasting or permanent impairment of one or more physical, sensory, mental, cognitive or psychological functions, a multiple disability or a disabling health condition.
+
+The second essential contribution of this text is to have defined the right to compensation for disability as follows: "a disabled person has the right to compensation for the consequences of his or her disability, whatever the origin and nature of his or her impairment, age or lifestyle". This right to compensation is individual. It must take into account the life project of the disabled person. As a result, the Prestation de Compensation du Handicap (PCH), created by law to enable this right to compensation, can be paid in cash (to pay for human assistance, for example) or in kind (to finance technical aids, home improvements, etc.).

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-145-01-A
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=A
+|Intitle=Know the definition of a communicable infectious disease; the definition of epidemic/pandemic; indicators
+|Description=None
+|Rubric=Definition
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=1}}
+
+Transmissible infectious diseases are defined by :
+
+- The fact that they are caused by an infectious agent (bacteria, virus, parasite, fungus, prion);
+
+- And their ability to be transmitted between individuals in the case of contagious diseases, or to several individuals from a common source.
+
+Note: not all communicable diseases are contagious, i.e. they are not all transmitted from person to person (e.g. tetanus, botulism, legionellosis).
+
+''''' Epidemic: a rapid increase in the incidence of a communicable disease in a given geographical area over a given period.
+
+'''''"Pandemic": a worldwide epidemic.
+
+'''''In the field of health, an indicator''''' is a variable that is measured and used to describe and monitor the state of health of a population. It is a tool for evaluation and decision-making (e.g. mortality, morbidity, incidence, prevalence).

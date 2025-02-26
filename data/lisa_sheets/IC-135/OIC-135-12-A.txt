@@ -1,0 +1,85 @@
+{{knowledge objective
+|Identifiant=OIC-135-12-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Know how to prescribe antispasmodics.
+|Description=List the main indications for analgesia using antispasmodics.
+|Heading=Management
+|Contributors=
+|Order=12}}
+'''<u>Mechanisms of action</u>'''
+
+- An antispasmodic is a pharmacological substance that can relax the body's smooth muscles and prevent or combat spasms.
+
+- This antispasmodic - or spasmolytic - effect is exerted on the smooth muscle fibres of the digestive tract, the urinary tract and the gynaecological tract through different modes of action.
+
+
+'''<u>Anticholinergics</u>''''
+
+- Muscarinic receptor antagonists, which lead to synaptic depletion of acetylcholine, itself responsible for reducing muscle contractility: atropine and synthetic atropinics (scopolamine butylbromide, butylhyoscine, butylscopolaminediphémanil, mepenzolate, pipenzolate, propantheline).
+
+
+'''<u>The musculotropics</u>''''
+
+- Papaverine derivatives: inhibit the synaptic release of excitatory mediators such as acetylcholine, substance P and histamine, synthetic papaverines (''mebeverine'').
+
+- '''Calcium channel blockers''': act by reducing the entry of calcium into the smooth muscle fibre and reducing the possibility of contraction ('''pinaverium bromide''', otilonium).
+
+- '''Opioid receptor agonists''': enkephalinergics ('''trimebutine'').
+
+- Mixed-action antispasmodics: numerous synthetic products (dihexyverine, phloroglucinol, propyromazine, tiemonium).
+
+- The most common formulation is oral, but there are also injectable forms and, more rarely, local (rectal) forms.
+
+- They are sometimes combined with other drugs such as psycholeptics (combination of the benzodiazepine '''''chlordiazepoxide''''' with an anticholinergic '''''clinidium bromide''''').
+
+
+'''<u>Indications</u>'''
+
+'''Treatment in an acute situation:'''
+
+- '''Symptomatic treatment of painful digestive spasmodic manifestations'''
+
+(functional disorders, meteorism)
+
+- '''Symptomatic treatment of painful spasmodic manifestations of the bile ducts'''
+
+- '''Treatment of intestinal obstruction in palliative care'''
+
+- '''Symptomatic treatment of painful gynaecological spasmodic symptoms'''
+
+- Symptomatic treatment of renal colic pain
+
+
+'''Treatment in a chronic situation:'''
+
+- Irritable bowel syndrome pain
+
+
+'''<u>Contraindications</u>''''
+
+- For all: known allergies
+
+- For anticholinergics: angle-closure glaucoma and risk of urinary retention linked to urethro-prostatic disorders (prostate adenoma).
+
+'''<u>Undesirable effects</u>''''
+
+- For anticholinergics: dry mouth, constipation, urinary retention, glaucoma attacks, mydriasis, blurred vision, tachycardia, palpitations and allergic reactions.
+
+- Musculotropics: rare epigastralgia and allergic reactions
+
+
+'''<u>Interactions</u>''''
+
+- For anticholinergics: addition of atropine side-effects (dry mouth, constipation, urinary retention) if combined with other substances with an anticholinergic effect: imipraminic antidepressants, phenothiazine neuroleptics, for example.
+
+
+'''<u>Surveillance methods</u>''''
+
+- Effectiveness monitoring: assessment of pain intensity and frequency of painful attacks; tolerance monitoring: assessment of side effects.
+
+
+'''<u>Main causes of failure</u>''''
+
+- Pathophysiological mechanisms of pain not targeted by the chosen treatment, insufficient dosage.

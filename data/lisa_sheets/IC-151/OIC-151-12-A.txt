@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-151-12-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing the clinical signs of serious meningitis
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Dr Olivier Robineau
+|Order=12}}
+These are the signs that contraindicate an emergency LP:
+
+* Extensive purpura
+* GCS<12
+* Focal neurological signs
+* Signs of brain stem damage
+* Convulsive malaise
+* Haemodynamic instability, septic shock

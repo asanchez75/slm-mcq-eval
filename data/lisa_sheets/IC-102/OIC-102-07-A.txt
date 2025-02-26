@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-102-07-A
+|Item_parent=Diplopia
+|Item_parent_short=Diplopia
+|Rank=A
+|Title=Photography/video of VI paralysis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+
+[[File:VI.jpg|left|vignette|666x666px|Paralysis of the right VI: abolition of abduction of the right eye]]

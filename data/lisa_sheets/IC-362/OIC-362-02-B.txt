@@ -1,0 +1,90 @@
+{{knowledge objective
+|Identifiant=OIC-362-02-B
+|Item_parent=Prostheses and osteosynthesis
+|Item_parent_short=Prostheses and osteosynthesis
+|Rank=B
+|Title=Knowing the physiology of normal and pathological bone consolidation
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=CFCOT
+|Order=2}}
+
+'''<u>A- Normal bone consolidation</u>''''
+
+Bone consolidation is a natural process of bone repair that allows complete regeneration of the damaged organ at cellular, structural and biomechanical levels, after a fracture, osteotomy, arthrodesis or bone graft, without leaving a scar. This is not healing, but regeneration. There are 2 main histological mechanisms of bone consolidation:
+
+'''1)'''' '''Direct Haversian remodelling:''' when the interfragmentary space is less than 1mm
+
+*When the interfragmentary gap is less than 10µm, the resorption cones cross the fracture line directly. This is known as "contact healing".
+*When the interfragmentary gap is between 10µm and 1mm, the osteoblasts fill the cavities of the fracture line and produce a bone bridge directly. This is called gap healing.
+
+In direct Haversian remodelling, there is no bone callus formation and the healing time is rapid (4 weeks), but the fracture line must be strictly immobilised (osteosynthesis).
+
+'''2)'''' '''Consolidation by endochondral and membranous ossification''' (by callus) in the event of an interfragmentary space of more than 1mm.
+
+*This is the repair process which summarises the stages of embryonic bone development in broad terms, and consists of 4 stages.
+*Stage 1: Haematoma and inflammation D0 to D7
+**Release of DAMP (Damage Associated Molecular Pattern) molecules embedded in the extracellular matrix. They attract PNN, monocytes and macrophages which remove debris and apoptotic cells, increase vascular flow and vessel permeability and stimulate cell proliferation.
+**Local bleeding with activation of the coagulation cascade and platelet aggregation. This creates a protein framework that serves as a scaffold for the migration of multiplying mesenchymal stem cells.
+**The periosteum is detached and the osteoblasts immediately begin to produce a bone matrix in the periphery.
+**At D7, an organised haematoma (granulation tissue) with intense cell proliferation is observed.
+
+*Phase 2: soft callus (or fibro-cartilage), D7 to D30.
+**Chondrocytes appear in the central hypoxic zone of the interfragmentary space, furthest from the blood vessels. They produce a cartilage matrix rich in proteoglycans and type 2 collagen. Progressive maturation of chondrocytes.
+**In the periosteum, membranous ossification is observed, with production of type 1 collagen.
+*Stage 3: hard callus (or primary bone callus), D30-J60.
+**Under the effect of advanced neovascularisation, osteoblasts invade the fibrocartilaginous matrix produced by the chondrocytes.
+**The osteoblasts produce a non-oriented bone matrix, which progressively mineralises and forms a bone bridge between the fragments.
+**In the periosteum, there is mineralisation of the bone matrix produced by the osteoblasts.
+*Stage 4: remodelling, D60 to M18
+**The callus gradually remodels under the effect of the resorption cones and reappearance of medullary/cortical differentiation, better adapted to the stresses.
+
+In semiology, a distinction is made between :
+
+*Clinical consolidation = absence of pain and mobility at the fracture site.
+*Radiological consolidation = presence of a bone bridge between the fragments on 3 of the 4 cortices on the frontal and lateral X-rays (frontal X-ray: medial and lateral cortices, lateral X-ray: anterior and posterior cortices).
+
+'''<u>B- Factors influencing bone consolidation</u>''''
+
+'''1) Mechanical factors:''''
+
+*Immobilisation: total and strict for direct Haversian remodelling, relative for callus consolidation.
+*Location: epiphyseal and metaphyseal joints consolidate more rapidly than diaphyseal joints.
+*The interfragmentary gap (< or > 1mm).
+
+'''2) Vascular factors:''''
+
+*Circulatory factors: anaemia or hypovolaemia = unfavourable factors
+*Damage to microvascularisation: diabetes, corticosteroids, tobacco, alcohol, irradiation, chemotherapy, etc.
+*Damage to macrovascularisation: arterial injury during fracture.
+
+'''3) Involvement of the soft tissues (skin opening):''' evacuation of the fracture haematoma with the initial factors necessary for consolidation and infectious risk through penetration of micro-organisms
+
+4) Host biology Non-steroidal anti-inflammatory drugs and corticoids reduce the initial inflammatory response; diabetes: reduced collagen production; smoking: reduced osteoblastic differentiation.
+
+[[File:Fracture humerus.jpg|centred|vignette|824x824px|<big>Example of consolidation with callus. We observe a metaphyseal fracture of the proximal right humerus that is slightly displaced at D0. Orthopaedic treatment with immobilisation was started. The patient was monitored regularly and an X-ray at D45 revealed a bone bridge (white arrow) on the lateral cortex, as well as on the anterior and posterior cortices on the lateral X-ray (not shown). The patient is no longer in pain. He can therefore be considered to be consolidated, as he shows signs of clinical and radiographic consolidation, and we are within the classic timeframe for consolidation for this type of fracture. We then see at the 6<sup>th</sup> month that the callus has continued to remodel.</big> ]]
+
+
+'''<u>C- Pathological consolidation</u>''''
+
+'''1) Vicious callus = consolidation in the wrong position'''
+
+*Causes: initial reduction defect or secondary displacement.
+*Consequence:
+**Functional deficit depending on location: joint stiffness, loss of prono-supination, lameness.
+**Joint pain (secondary osteoarthritis), compensatory muscle pain, lumbar and spinal pain in the case of unequal length of the lower limbs.
+*Treatment: depending on the functional deficit: osteotomy (section of the affected bone) with correction of the deformity and osteosynthesis in the correct position.
+
+
+'''2) Pseudarthrosis: no consolidation beyond 6 months'''
+
+*Delayed consolidation = absence of consolidation between 2 times the usual time and 6 months.
+*Pseudarthrosis may be septic or aseptic.
+*Clinical: pain and mobility at the fracture site
+*Imaging:
+**Atrophic pseudarthrosis: total absence of bone callus and visible fracture line, tapered ends, osteoporotic appearance.
+**Hypertrophic pseudoarthrosis: large circular callus but fracture line still visible (figure).
+*Treatment: surgical excision of the pseudarthrosis tissue interposed between the bone ends, bringing the fragments together +/- bone graft and osteosynthesis.
+
+[[Fichier:Pseudarthrose fémur.jpg|centré|vignette|<big>Exemple de pseudarthrose hypertrophique : on observe un volumineux cal osseux, mais le trait de fracture est toujours visible. The osteosynthesis material (screw plate), which absorbs all the stress while waiting for the bone to consolidate, eventually breaks in the case of pseudarthrosis.</big>]]
+<br />

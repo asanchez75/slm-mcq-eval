@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-168-14-B
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=B
+|Title=Indicating viral PCR in the diagnosis of herpes virus infections
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=14}}
+Clinical diagnosis first and foremost. There is little need for further investigations unless the picture is atypical or there are serious complications.

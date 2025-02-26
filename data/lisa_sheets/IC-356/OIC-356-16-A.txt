@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-356-16-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Knowing which imaging tests to order and their limitations
+|Description=Abdominal ultrasound or abdominopelvic scanner
+|Rubric=Additional examinations
+|Contributors=Cyrille PERRENOT
+|Order=16}}
+
+Abdominal ultrasound (as first-line treatment):
+
+- Sensitivity of 80%, to be preferred in children and women of childbearing age, and in cases of urological or gynaecological differential diagnoses.
+
+- increased appendicular diameter (> 6 mm)
+
+- thickened wall (> 3 mm) is a better indicator than the diameter
+
+- incompressible appendage
+
+- pain when the catheter is passed.
+
+- A hyperechoic image with a posterior shadow cone is in favour of a stercolith.
+
+- infiltration of peri-appendicular fat
+
+- echogenic fluid effusion in the right iliac fossa or pelvis.
+
+- pneumoperitoneum
+
+
+pelvic MRI without injection of contrast medium (preferable in children if the technical facilities allow) or abdominopelvic CT scan with injection of contrast medium
+
+- 95% sensitivity, preferable in cases of suspected complicated forms and in obese patients
+
+- increase in the diameter of the appendix
+
+- wall thickening
+
+- infiltration of peri-appendicular fat.
+
+- very useful for looking for signs of complications (abscesses and peritonitis)

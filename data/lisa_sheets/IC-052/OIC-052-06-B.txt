@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-052-06-B
+|Item_parent=Strabism and amblyopia in children
+|Item_parent_short=Strabism and amblyopia in children
+|Rank=B
+|Title=Knowing the diagnostic reasoning for strabismus in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+ 
+
+Strabismus is never normal; any child with strabismus should have a specialist examination within a week.
+
+This assertion needs to be qualified for babies under 3 months of age, in whom intermittent deviation may be tolerated.
+
+Any strabismus should be considered as a possible symptom of motor damage (oculomotor paralysis) or sensory damage (reduced visual acuity) and should therefore be investigated for underlying neurological or ocular damage by means of a full ophthalmological examination.        
+
+'''Elements of orientation before a strabismus:'''
+
+<u>Interrogation:</u>
+
+- Date of onset of strabismus
+
+- Direction of deviation
+
+- Intermittent or permanent strabismus
+
+- Dominance or alternation
+
+<u>Clinical examination:</u>
+
+- Examination of ocular motility
+
+- Examination of visual acuity
+
+- Examination of the anterior segment and fundus
+
+- Examination of objective refraction under cycloplegia
+
+- Measurement of deviation and binocular vision tests
+
+'''Diagnostic approach to strabismus:'''
+[[File:Tableau strabisme.jpg|vignette|754x754px|Diagnostic approach to strabismus]]
+
+
+
+
+
+
+
+'''Characterization of a strabismus.'''
+
+A distinction is made between :
+
+- strabismus according to the ''direction of deviation'' (esotropia or exotropia, hyper- or hypotropia)
+
+- concomitant strabismus (no limitation of motility) or incomitant strabismus (spasms, variable angle or limitation of motility)
+
+- strabismus according to ''age of onset'' (early onset before 9 months, with no experience of binocularity; up to 2 years, possibly the beginnings of binocularity but with fragile oculomotor balance leading very quickly to neutralisation and abnormal retinal correspondence; late onset after 2 years with possible normal binocular vision)
+
+- constant" or "intermittent" squints
+
+In concomitant strabismus, we distinguish between :
+
+- ''precocious'': they are permanent and their binocularity is abnormal and will remain so. The aim of treatment is to try to restore bi-ocularity by reducing the deviation to a minimum.
+
+- Late and/or intermittent strabismus: these are patients with normal binocularity, which will remain normal if treatment is rapid; these are normosensory strabismus patients whose treatment aims to restore the permanent use of binocular vision.

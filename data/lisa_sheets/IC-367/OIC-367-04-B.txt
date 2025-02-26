@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-367-04-B
+|Item_parent=Environmental impact on health
+|Item_parent_short=Environmental impact on health
+|Rank=B
+|Intitle=Knowing the definition of exposure routes
+|Description=Identify the main environmental exposure routes (airborne, dietary, cutaneous, transplacental)
+|Rubric=Physiopathology
+|Contributors=
+|Order=4}}
+There are many different routes of human exposure, some of which are associated with specific pathologies. As far as chemical contamination is concerned, a distinction is made between :
+
+- Inhalation (airborne): the impact of air pollution on the bronchi and lungs. Associated with respiratory diseases and bronchopulmonary cancers, but also with systemic diseases.
+
+- Ingestion (digestive tract): food is often the main route of contamination. Associated with systemic diseases, sometimes localised (colic).
+
+- Dermal contact: associated with specific sources such as cosmetic products or certain occupational exposures. Associated with a number of pathologies, in particular allergies and irritations.
+
+- Placental route: concerns exposure of the embryo and foetus
+
+- The various routes of chemical exposure are associated with barriers (intestinal, cutaneous, placental in particular).
+
+As far as physical exposure is concerned, we should add the auditory pathways for noise (hearing problems) and the visual pathways for radiation, particularly UV radiation (eye diseases).

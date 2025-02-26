@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-042-03-A
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=A
+|Title=Knowing the diagnostic approach to primary or secondary amenorrhea
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Sophie Catteau-Jonard
+|Order=3}}
+
+To begin with, it is advisable to carry out a "careful questioning and clinical examination", bearing in mind that the most frequent diagnoses are pregnancy, polycystic ovary syndrome, hyperprolactinaemia, functional hypothalamic amenorrhoea and premature ovarian failure. Anatomical utero-vaginal amenorrhoea, which is not associated with impuberty, should also be considered, especially in the presence of "cyclical pelvic pain" ([[Pelvic pain SD-099|pelvic pain]]) without menstruation or, in the case of secondary amenorrhoea, a "history of endo-uterine procedures" (curettage, etc.).
+
+The length of time the cycle problems have been present will be noted, as will their characteristics. Personal and family gynaecological and medical/surgical history will be sought.
+
+Signs of hyperandrogenism should be sought:
+
+*'''[[Hirsutism SD-079|hirsutism]]''''
+*l''''[[Acne SD-078|acne]]'''
+*l''''[[Alopecia and hair loss SD-080|alopecia]]'' seborrheic '''and hair loss''.
+
+An [[abnormality of the clinical breast examination SD-164|anomaly of the clinical breast examination]] such as '''galactorrhoea''' (''''[[nipple discharge SD-040|nipple discharge]]'' of spontaneous milky fluid or caused by the galactophore ducts),
+
+Weight, height and calculation of the Body Mass Index are very important, as is the search for weight fluctuations and eating disorders (dietary restriction, particularly of fats, anorexia, bulimia, etc.). Erythrocyanosis of the extremities and lanugo are clinical signs of hypometabolism found in the context of anorexia nervosa (food restriction).
+
+Signs of estrogen deficiency will also be noted:
+
+*sleep and psychological problems (depressive mood, anxiety disorders)
+*vaginal and skin dryness, vulvovaginal atrophy, dyspareunia
+*loss of libido
+*arthralgia
+*'''[[Hot flushes SD-024|hot flushes]]''' (or vasomotor flushes)
+
+Finally, the genitals will be examined, with a Tanner classification in the case of absent or incomplete puberty and a Prader classification in the case of virilisation of the genitals. A bone age will be requested in cases of delayed puberty (see item 49 Normal and pathological puberty).
+
+A hymenal imperforation can be diagnosed on clinical examination by a bulge in the hymen, suggestive of haematocolpos (vaginal retention of menstruation) or possibly by rectal examination. Its incidence is estimated at 0.1%.
+
+
+The progestogen test (most often with dydrogesterone) is recommended for any amenorrhoea without impuberty (figure 2), with the aim of triggering a withdrawal haemorrhage, after ruling out pregnancy. It consists of administering a progestogen orally for 7 to 10 days. The test is positive if menstruation occurs within 5 days of stopping the progestin. The progestin test is positive when there is sufficient oestrogen impregnation of the endometrium. If the test is negative (no haemorrhage), this means that ovarian hypofunction is severe (endometrial atrophy due to hypo-oestrogenism) or that there is an anatomical anomaly of the genital tract.
+
+However, this test is only a diagnostic indication, as the false positive and false negative rates remain high.<gallery perrow="1">
+File:Dydrogesterone.png|Dydrogesterone test
+</gallery>
+
+
+After careful questioning and clinical examination, a hormonal assessment coupled with pelvic ultrasound should be carried out. If possible, this test should be carried out between the 2nd and 5th day of spontaneous or dydrogesterone-induced menstruation, so that it can be interpreted correctly. In the event of a negative dydrogesterone test or no test at all, the test can be carried out in amenorrhoea.
+
+'''The hormonal assessment will include:'''
+
+*hCG assay to rule out pregnancy
+*Plasma FSH assay combined with oestradiolaemia;
+*Plasma prolactin assay;
+*LH assay, if necessary.
+*a testosterone and 17hydroxyprogesterone assay if there are signs of hyperandrogenism.
+
+
+'''Pelvic ultrasound''' allows the patient to be oriented towards the ''[[Discovery of a pelvic anomaly on medical imaging examination SD-229|discovery of a pelvic anomaly on medical imaging examination]]''' such as an anomaly of the genital tract (in the case of non-reversible amenorrhoea after dydrogesterone) or towards an ovarian pathology.
+
+The figure summarises the diagnostic approach to amenorrhoea based on the results of hormone assays.<gallery perrow="1">
+File:Tree.png|Diagnostic orientation in the face of amenorrhoea or a cycle disorder.
+</gallery>

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-021-07-B
+|Item_parent=Measurement of population health status
+|Item_parent_short=Measurement of population health status
+|Rank=B
+|Intitle=Knowing disability-free life expectancy
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Loïc Josseran
+|Order=7}}
+
+<br />''Disability-free life expectancy (DFLE)'' or disability-free life expectancy corresponds to the number of disability-free years that individuals in a group would have to live on average under the mortality conditions of a given period (life expectancy minus years of disability). Disability-free life expectancy is also sometimes called "healthy life expectancy" or "health expectancy".
+
+In France, disability-free life expectancy at birth is 64.6 years for women and 63.7 years for men in 2019.

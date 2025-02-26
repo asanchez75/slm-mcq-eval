@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-204-03-A
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=A
+|Title=Look for signs of seriousness in acute or chronic cough.
+|Description=None
+|Rubric=Emergency identification
+|Contributors=
+|Order=3}}
+
+
+* Altered general condition,
+* Dyspnoea on exertion
+* Haemoptysis
+* Infectious syndrome,
+* Appearance or modification of cough in a smoker,
+* Dysphonia, dysphagia, false routes,
+* Suspicious cervical adenopathy,
+* Abnormalities in the cardiopulmonary clinical examination.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-339-02-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Knowing the definition of a non-ST+ and ST+ acute coronary syndrome (ACS)
+|Description=None
+|Rubric=Definition
+|Contributors=Mathieu Kerneis
+|Order=2}}
+
+* This is a clinical definition.
+* The main symptom is anginal chest pain at rest or on exertion, which has worsened or appeared recently (< 3 weeks).
+* The ECG qualifies the coronary syndrome as "ST+" if it shows a permanent ST-segment elevation or "ST-" in all other cases (including normal ECG).

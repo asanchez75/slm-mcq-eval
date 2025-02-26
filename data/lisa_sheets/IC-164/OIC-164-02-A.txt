@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-164-02-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Heading=Febrile rash in children: assessment of severity
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=2}}
+
+The urgency may be related to the clinical presentation, the terrain (fragility of the host) or the epidemiological context (widespread contagion of measles) ([Rashes in children SD-037]]):
+
+'''Immediate vital emergency:''''
+
+- '''purpura fulminans''' (extensive and/or necrotic purpura and/or 1 element larger than 3 mm + haemodynamic failure)([[Purpuras in adults and children]], [[Sepsis and septic shock in children and adults]], [[Purpura/ecchymosis/haematoma SD-089]])
+
+- Necrotising fasciitis: rapidly extensive eruption with deep necrosis and associated picture of septic shock, emergency surgical treatment + antibiotic therapy. Linked to particularly virulent GAS. Chickenpox is a contributing factor.
+
+
+'''Infectious emergencies'''
+
+           - Toxin syndrome (linked to a toxin (TSST) from Staphylococcus aureus or to an erythrogenic toxin from Group A Streptococcus): staphylococcal or streptococcal ''toxic shock syndrome'' associating an erythematous exanthema and haemodynamic failure ([[Toxidermia]], [[Sepsis and septic shock in children and adults]]), linked to the release of toxin from a bacterial site which, in children, may most often be pulmonary (SGA), cutaneous or vaginal (menstrual linked to AS).
+
+           - ''dermo-hypodermatitis'' (item 155): localised, painful erythema accompanied by general signs which may lead to sepsis
+
+
+Allergy emergencies
+
+Severe drug hypersensitivity reaction '''DRESS''' (Drug Reaction with Eosinophilia and Systemic Symptoms) ([[Toxidermia]])
+
+
+'''Dermatological emergencies'''
+
+'''Staphylococcal epidermolysis''' (linked to Staphylococcus aureus exfoliatin), '''toxic epidermal necrolysis''' (Stevens-Johnson and Lyell syndromes, mainly caused by drugs, with skin detachment (epidermis) +/- mucous membrane damage (same risk as burn victims, with increased numbness, significant pain) ([[Bullous dermatosis affecting the skin and/or external mucous membranes]], [Bullae, bullous eruption SD-082]], [[Mucosal abnormalities SD-091]]), and '''erythema multiforme major''', the cause of which is mainly infectious (Herpes simplex and ''Mycoplasma pneumoniae'') with typical cocardial lesions (the centre of which may be bullous) and mucosal involvement (which indicates the "major" nature of erythema multiforme) which makes it so severe (pain, impossible to take by mouth, ophthalmological involvement).
+[[File:8 SSSS lèvres.jpg|néant|vignette]]
+[[File:10 EP majeur.jpg|neant|vignette]]
+
+
+Inflammatory emergencies
+
+Kawasaki disease ([[Infectious eruptive diseases: Kawasaki disease 2C-164-ET-A07]])

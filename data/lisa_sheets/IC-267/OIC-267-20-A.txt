@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-267-20-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the ECG abnormalities associated with hypokalaemia
+|Description=None
+|Section=Additional tests
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=20}}
+
+
+*Myocardial damage leads to a state of cardiac hyperexcitability.
+**The ECG signs present include the following, depending on the degree of hypokalaemia:
+**ST segment depression (from V1 to V3 and in DII);
+**Decrease or even inversion of the T wave;
+**Appearance of a "pathological" U wave in V3 and DII (slowing of repolarisation);
+**Prolongation of the QT interval;
+**Supraventricular rhythm disorders (atrial fibrillation, sinus tachycardia);
+**Ventricular rhythm disorders (ventricular extrasystoles, ventricular tachycardia, torsade de pointe, ventricular fibrillation).
+*In the context of chronic hypokalaemia, the potassium ratio between the intracellular and extracellular sectors is relatively constant and explains the absence of ECG signs, even when kalaemia levels are below 3 mmol/L.
+*The onset of arrhythmia is favoured by :
+**underlying ischaemic heart disease;
+**left ventricular hypertrophy;
+**hypercalcaemia;
+**treatment with digitalis or anti-arrhythmics;
+**the occurrence of torsade de pointes is favoured by hypomagnesaemia.

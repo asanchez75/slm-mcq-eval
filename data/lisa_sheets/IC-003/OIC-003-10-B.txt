@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-003-10-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Know the definition of theoretical effectiveness, effectiveness (practical effectiveness), efficiency and utility
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+- A decision must aim at ''effectiveness'' = '''achieving its objectives'''''''efficacité'' = '''parvenir à ses objectifs'''
+
+- So we need to agree on the ''objectives''.
+
+- L''''efficiency'' = '''ability to achieve objectives at the cost of optimal resource consumption.'''
+
+- Tools such as the benefit/risk ratio and the cost/effectiveness ratio, as well as meta-analyses using mathematical modelling, can clarify the debate.
+
+- L''''utilité'' undoubtedly has a moral meaning. Back to the patient: the question of conflicting standards. In a healthcare system that is largely reimbursed (welfare state), the usefulness of a procedure cannot be measured simply by the usefulness "perceived" by the patient.

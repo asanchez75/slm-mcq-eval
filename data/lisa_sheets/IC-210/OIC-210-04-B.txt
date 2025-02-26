@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-210-04-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Title=Knowing the main causes of secondary ILD
+|Description=Drugs, infections, heart failure
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+Secondary PID corresponds to non-idiopathic PID. They may be :
+
+* Infectious: most often acute IPD, but certain pathogens can cause subacute or even chronic IPD (e.g. pneumocystis, mycobacteria);
+* Cardiovascular: heart failure;
+* Medications;
+* Systemic diseases: connectivites (e.g. rheumatoid arthritis, scleroderma, inflammatory myositis) or vasculitides (e.g. microscopic polyangiitis);
+* Tumour: carcinomatous lymphangitis, haemopathies.
+* Metabolic: overload diseases (e.g. Niemann-Pick disease, Gaucher disease).

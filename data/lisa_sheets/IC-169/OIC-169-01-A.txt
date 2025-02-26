@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-169-01-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing the main epidemiological data on the human immunodeficiency virus (HIV)
+|Description=Historical data and epidemiological trends
+|Rubric=Epidemiology
+|Contributors=Jade Ghosn
+|Order=1}}
+- 150,000 people living with HIV in France in 2018, around 6,000 new infections/year
+
+- Main modes of contamination: heterosexual intercourse (56%), homosexual male intercourse (40%), IV drug use (2%).
+
+.      Notion of at-risk groups: patients from highly endemic countries, men who have sex with men (MSM), intravenous drug users, etc.
+
+- Decline in the number of new HIV diagnoses per year in all risk groups between 2013 and 2018, except for MSM (especially foreign-born MSM)
+
+- 29% of people are diagnosed at an advanced stage of the disease (AIDS or LT CD4 < 200/mm3), a rate that has unfortunately remained stable over the years.

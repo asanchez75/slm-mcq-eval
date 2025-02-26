@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-338-03-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Title=Knowing how to diagnose anaphylaxis
+|Description=Mucocutaneous, respiratory, haemodynamic and digestive signs.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+As a clinical diagnosis, anaphylaxis is highly probable when one of the following 3 criteria is met:
+
+# Skin and/or mucous membrane involvement (generalised urticaria, pruritus, erythema, oedema of the lips, tongue, uvula) of abrupt onset (a few minutes to a few hours) with at least one of the following 2 elements:
+## Respiratory impairment (dyspnoea, sibilant rales/bronchospasm, stridor, reduced peak-flow, hypoxaemia)
+## Arterial hypotension or symptoms of tissue hypoperfusion (e.g. syncope, muscle hypotonia, incontinence)
+# 2 or more of the following signs within minutes or hours of exposure to a likely allergen in an individual patient
+## Skin and/or mucous membrane involvement (generalised urticaria, pruritus, erythema, oedema of the lips, tongue, uvula).
+## Respiratory involvement (dyspnoea, sibilant rales/bronchospasm, stridor, reduced peak-flow, hypoxaemia)
+## Arterial hypotension or symptoms of tissue hypoperfusion (e.g. syncope, muscle hypotonia, incontinence)
+## Persistent digestive symptoms (e.g. cramp-like abdominal pain, vomiting)
+# arterial hypotension following exposure to an allergen known to the patient

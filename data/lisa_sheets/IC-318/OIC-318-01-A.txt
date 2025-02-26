@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-318-01-A
+|Item_parent=Chronic lymphocytic leukaemia
+|Item_parent_short=Chronic lymphocytic leukaemias
+|Rank=A
+|Intitle=Knowing the definition of chronic lymphocytic leukemia (CLL)
+|Description=Hyperlymphocytosis > 4500 and differential diagnosis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+Chronic lymphocytic leukaemia (CLL) is a ''monoclonal B lymphoid proliferation'' responsible for infiltration of the marrow, lymph nodes and blood by small mature lymphocytes.
+
+This is the most common B lymphoproliferative syndrome.
+
+The median age at diagnosis is 72. Therefore, any persistent "hyperlymphocytosis" (> 4 G/L) in an individual aged over 60 should raise the suspicion of chronic lymphocytic leukaemia.
+
+<br />

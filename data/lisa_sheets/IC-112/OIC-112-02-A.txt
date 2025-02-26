@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-112-02-A
+|Item_parent=Bullous dermatitis of the skin and/or external mucous membranes
+|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes
+|Rank=A
+|Title=Knowing how to diagnose autoimmune bullous dermatosis
+|Description=Bulls, post-bullous erosions, mucosal erosions, wet linen detachment, Nikolsky's sign -> Cutaneous history and direct IF
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Autoimmune bullous dermatosis should of course be suspected clinically in the presence of skin lesions such as bullae, post-bullous erosion, wet linen detachment and Nikolsky's sign. However, it should also be suspected in the presence of vesicular lesions, urticarial plaques, eczematous lesions and mucosal erosions (oral, conjunctival, nasal, genital, anal, oesophageal, laryngopharyngeal).
+
+Diagnostic confirmation requires two skin biopsies, one for standard histological analysis and the other for direct immunofluorescence examination.
+
+Histological analysis makes it possible to distinguish where the bulla forms in the skin (intraepidermally or subepidermally) but does not specify the mechanism of bulla formation.
+
+''''' A positive direct immunofluorescence test, which reveals the presence of autoantibodies within the lesions, confirms the autoimmune nature of bullous dermatosis. If the direct immunofluorescence test is negative, the diagnosis of autoimmune bullous dermatosis is ruled out. '''''

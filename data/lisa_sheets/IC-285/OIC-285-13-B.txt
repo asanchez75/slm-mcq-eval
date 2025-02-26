@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-285-13-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Knowing the epidemiology, risk factors and terrain of celiac disease
+|Description=incidence, prevalence, female sex ratio, peak frequency, autoimmune terrain, associated pathologies
+|Rubric=Epidemiology
+|Contributors=
+|Order=13}}
+This is the most frequent cause of malabsorption in adults and children. It is linked to a digestive intolerance to fragments of protein contained in the gluten of cereals (rye, wheat, barley), called gliadin. It is an autoimmune disease, and almost all patients who develop coeliac disease express an HLA class II molecule of type DQ2 or DQ8. This genetic condition is necessary, but not sufficient, to develop coeliac disease, since this HLA expression is found in 20 to 30% of healthy subjects. It is a common condition, with a prevalence of between 1/100 and 1/300 in Caucasian populations. It is more common in women (x2) and in Caucasian populations. It is 10-20% in first-degree relatives. There are two diagnostic peaks, in early childhood (after the introduction of gluten) and in young adults (20-40 years).

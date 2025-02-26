@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-036-15-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Able to explain to the patient the advantages and disadvantages of the different contraceptives.
+|Description=None
+|Heading=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=15}}
+
+
+=== '''Beneficial effects of COP''' ===
+- Reduced risk of ovarian cancer (approximately 50%, time-dependent, hence COP is not contraindicated in BRCA1 or BRCA2 women)
+
+- Reduced risk of endometrial cancer
+
+- Reduced risk of colon cancer
+
+- Improvement in dysmenorrhoea, functional menorrhagia and acne (whatever the type of COP).
+
+=== '''Beneficial effects of CP''' ===
+- No metabolic changes
+
+- No change in haemostasis
+
+- No arterial or venous vascular risk (except for injectable contraception)

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-003-05-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing the supports for clinical reasoning
+|Description=Validity, choice of assessment criteria (issues and significance), Overdiagnosis/overtreatment (quaternary prediction)
+|Rubric=Management
+|Contributors=
+|Order=5}}
+- Often multiple reasons for consultation (2.6 per consultation on average).
+
+- Intriguing follow-up of chronic pathologies and acute pathologies.
+
+- The doctor must adapt his handling of the various consultation results to the patient's "degree of urgency" and "priorities". He ''helps himself to time''.
+
+- Doctors should bear in mind the "danger of check-ups and of enrolling patients in unreasonable care pathways". This is "quaternary prevention".

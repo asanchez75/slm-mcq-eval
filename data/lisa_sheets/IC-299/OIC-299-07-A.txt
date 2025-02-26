@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-299-07-A
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=A
+|Title=Describe the systematic search for primary cancer in the presence of brain metastases
+|Description=Describe the systematic search for primary cancer in the presence of cerebral metastasis
+|Rubric=Positive diagnosis
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=7}}
+
+'''Extension work-up:''' look for primary cancer (and other extra-encephalic systemic metastases)
+
+- '''Clinical:'''
+
+o Skin examination (melanoma)
+
+o Pulmonary auscultation
+
+o Breast palpation, adenopathy
+
+- '''Imaging:'''
+
+o ''Thoracic-abdominal-pelvic scan'', with injection of contrast medium
+
+o +/- fluorodeoxyglucose PET scanner (<sup>18</sup>F)
+
+o Mammography in women

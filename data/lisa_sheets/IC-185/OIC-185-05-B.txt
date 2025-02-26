@@ -1,0 +1,76 @@
+{{knowledge objective
+|Identifiant=OIC-185-05-B
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=B
+|Title=Knowing the kinetics of the main markers of inflammation in order to monitor its development.
+|Description=None
+|Heading=Monitoring and/or prognosis
+|Contributors=Gilles Kaplanski
+|Order=5}}
+
+{| class="wikitable"
+|
+|'''Electrophoretic mobility''''
+|'''PM'''
+|'''Plasma half-life (J)''''
+|Serum concentration (g/l)'''
+|'''Function'''
+|-
+|C-reactive protein
+|g
+|21.5
+|1
+|6.10-3
+|Transport
+|-
+|Serum amyloid A protein
+|a1
+|12
+|1
+|5.10-3
+|Transport
+|-
+|Haptoglobin
+|a2
+|86
+|4
+|0,8-2
+|Transport
+|-
+|Orosomucoid
+|a1
+|40
+|2
+|0,5-1
+|Transport
+|-
+|Fibrinogen
+|b-g
+|340
+|4-6
+|2-4
+|Coagulation
+|-
+|Ceruleoplasmin
+|a1
+|135
+|2
+|0,2-0,6
+|Transport
+|-
+|1 Anti-Trypsin
+|a1
+|54
+|4
+|2-3,5
+|Antiprotease
+|-
+|1 Anti-Chymotrypsin
+|a1
+|68
+|?
+|1-1,5
+|Antiprotease
+|}
+Kinetics of inflammation proteins

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-215-07-B
+|Item_parent=Purpuras in adults and children
+|Item_parent_short=Purpuras in adults and children
+|Rank=B
+|Title=Know how to prescribe first-line biological tests according to the diagnostic orientation of purpura.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+In non-emergency cases of vascular purpura, the following tests are prescribed
+
+- Anti-neutrophil cytoplasmic antibodies (ANCA) (which can be obtained in less than 24 hours) (see chapters [[Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment|autoimmune diseases]] and [[Understanding the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods|vasculitis]]).
+
+- Cryoglobulinemia

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-319-05-B
+|Item_parent=Malignant lymphomas
+|Item_parent_short=Malignant lymphomas
+|Rank=B
+|Title=Knowing the initial imaging exploration strategy for lymphoma
+|Description= FDG PET/CT is recommended as part of the initial work-up for LF, LH and LBDGC and other FDG-hungry lymphomas. On the one hand, it improves the quality of staging of lymphatic or extra-lymphatic involvement by supplementing CT data and, on the other hand, facilitates evaluation of the therapeutic response. In addition, FDG PET is recommended for the assessment of osteo-medullary extension of LH and LBDGC and, in the vast majority of cases, allows the systematic performance of an osteo-medullary biopsy to be postponed.
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+The aim of imaging examinations is to carry out an assessment of the extent of the disease, in order to determine the stage of the disease and therefore the treatments to be implemented:
+
+-- Chest X-ray, taken at the start of treatment, to detect mediastinal damage
+
+-- APS scan, which provides information for a positive diagnosis, helps in the choice of biopsy site, and performs an extension assessment with measurement of target lesions.
+
+-- Fluorodeoxyglucose (FDG) PET scans, which complement PET scans for extension assessment and facilitate evaluation of the therapeutic response.
+
+Depending on the clinical presentation, other examinations may be necessary (brain MRI, cervical CT scan, etc.).
+
+Don't forget pre-treatment examinations (TTE, EFR, etc. depending on the treatment envisaged).

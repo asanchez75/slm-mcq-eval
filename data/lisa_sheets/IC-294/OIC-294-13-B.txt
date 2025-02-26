@@ -1,0 +1,228 @@
+{{knowledge objective
+|Identifiant=OIC-294-13-B
+|Item_parent=Cancer treatment: main procedures, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Describing the side effects of chemotherapy
+|Description=Describe the specific toxicities of chemotherapy (cardiac, renal, bladder, neurological, pulmonary, gonadal).
+|Rubric=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=13}}
+
+{| class="wikitable"
+| colspan="10" |'''Table 2. SPECIFIC TOXICITIES'''
+|-
+|
+|'''Hémato''''
+|'''Nausea/ vomiting''''
+|
+
+'''Peripheral neuropathy'''
+|Alopecia
+|Hand-foot syndrome
+|
+
+'''Diarrhea'''
+|Renal
+|
+
+'''Cardiac'''
+|'''Cutaneous necrosis (extravasation)'''
+|-
+|Cisplatin
+|<nowiki>+/-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+| Carboplatin
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Oxaliplatin''''
+|
+
+
+|
+
+-
+|<nowiki>++</nowiki>
+
+(cold paresthesia)
+|
+
+-
+|
+
+-
+|
+
+
+|
+
+-
+|
+
+-
+|
+
+-
+|-
+|'''Cyclophosphamide/''''
+
+'''ifosfamide'''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Irinotecan''''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++ (sd</nowiki>
+
+cholinergic)
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|Anthracyclines
+|<nowiki>+</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+ (cumulative)</nowiki>
+|<nowiki>++</nowiki>
+|-
+|'''Etoposide''''
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Paclitaxel''''
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Docetaxel''''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''5 Fluorouracil''''
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+ (spasm</nowiki>)
+
+coronary)
+|<nowiki>-</nowiki>
+|-
+|Capecitabine
+|<nowiki>+/-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|oral
+|-
+|Gemcitabine
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Methotrexate''''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|}
+{| class="wikitable"
+| colspan="2" |'''Table 3.  SPECIFIC LIFE-THREATENING TOXICITIES'''
+|-
+|
+|'''TOXICITIES'''
+|-
+|'''Cardiac'''
+|Angina due to coronary spasm or even ST+ acute coronary syndrome: 5-FU
+
+y dilated cardiomyopathy with '''anthracyclines:''' cumulative, dose-dependent
+|-
+|Pulmonary
+|Diffuse interstitial lung disease followed by fibrosis: bleomycin
+
+y acute hypersensitivity pneumonitis : '''methotrexate''''
+|-
+|Nephrology
+|Acute renal failure due to direct tubular toxicity: methotrexate, cisplatin
+
+y immuno-allergic nephropathy: cisplatin
+|-
+|''Urological'''
+|Haemorrhagic cystitis: cyclophosphamide, ifosfamide
+|-
+|Neurological
+|Metabolic encephalopathy: ifosfamide
+|-
+|'''Allergic''''
+|Anaphylactic shock: bleomycin, paclitaxel
+|}

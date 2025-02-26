@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-178-04-A
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=A
+|Title=Know the definition of a highly communicable disease
+|Description=None
+|Rubric=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=4}}
+
+*
+
+ '''Characteristics of a [[Exceptional health situation SD-346|highly transmissible disease]]:''' Human-to-human transmission, potential lethality, high contagiousness, no treatment or treatment of uncertain efficacy, lack of vaccines.
+
+High risk of community and/or nosocomial spread, need to implement specific control measures.
+
+Preventive measures are in place to deal with the threat of emerging and/or highly transmissible diseases, based on surveillance, international and national plans and the training of healthcare personnel.
+
+In the case of a highly transmissible disease, the principles are :
+
+*Screening:''''''have tests available to identify cases, particularly in people from areas where the risk has been notified'''.
+*Alert:''' ''have access to international epidemiological networks (WHO, American CDCs, European CDC or ECDC...), national networks (this is the role of Santé Publique France in France) and regional networks (in particular through the Regional Health Agencies)''.
+*Refer:''' ''group together patients who are carriers of a highly transmissible emerging pathology in order to limit the epidemic risk''
+*'''Protect:''' ''implement barrier measures (isolation, wearing masks, reinforcing hygiene measures and in particular handling, appropriate treatments when available, etc.) to limit the spread of the emerging pathogen, in particular to healthcare workers''.
+*Take charge:''''''implement appropriate measures to provide adequate care to victims while protecting healthcare workers who are at very high risk of being contaminated if they are not properly trained in epidemic prevention measures''.

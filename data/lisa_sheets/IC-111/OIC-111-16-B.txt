@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-111-16-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing the main differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=16}}
+
+
+== Psoriasis of seborrhoeic areas ("sebopsoriasis") ==
+the two dermatoses are often difficult to differentiate clinically, and there are areas of overlap
+
+== Atopic dermatitis ==
+In infants, an erythrodermic form of seborrhoeic dermatitis can be the gateway to atopic dermatitis or psoriasis.
+
+In adults: existence of "head and neck" forms of atopic dermatitis which are difficult to differentiate from seborrhoeic dermatitis.

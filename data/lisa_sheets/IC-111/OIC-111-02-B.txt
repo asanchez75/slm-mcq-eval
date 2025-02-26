@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-111-02-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing the pathophysiological mechanisms of acne
+|Description=Seborrhoea/infundibular keratinisation of the pilosebaceous follicle/role of P. acnes/peripheral hyperandrogenism with normal levels of circulating androgens.
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+-1. Excessive stimulation of sebum production by the sebaceous gland leading to hyperseborrhoea.
+
+
+-2. Peripheral hyperandrogenism due to hypersensitivity of androgen receptors present on sebocytes (genetic polymorphisms but with usually normal levels of circulating androgens).
+
+
+'''-'''3'''.''' Hyperproliferation and abnormal differentiation of keratinocytes within the pilar infudibulum leading to the formation of comedones.
+
+-4. Involvement of the microbiome (involvement of ''Cutibacterium acnes - formerly known as Propionibacterium acnes)'' = anaerobic Gram-positive bacillus secreting pro-inflammatory factors and multiplying in the hair and sebaceous glands due to obstruction of the pilary infudibulum).

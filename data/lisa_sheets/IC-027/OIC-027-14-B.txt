@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-027-14-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Intitulé=Herpes simplex virus (HSV): knowing the elements of foetal prevention
+|Description=Knowledge of drug prevention and childbirth rules
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=14}}
+
+[[File:Algorithm for the management of an initial episode of genital herpes during pregnancy (source RPC CNGOF 2017).png|vignette|'''Algorithm for the management of an initial episode of genital herpes during pregnancy (source RPC CNGOF 2017)''']]]
+Figure : Algorithm for the management of an initial episode of genital herpes during pregnancy (source RPC CNGOF 2017)
+
+Figure : Algorithm for the management of a herpetic recurrence during pregnancy (source RPC CNGOF 2017)
+[[File:Algorithm for the management of a herpetic recurrence during pregnancy (source RPC CNGOF 2017).png|vignette|Algorithm for the management of a herpetic recurrence during pregnancy (source RPC CNGOF 2017)]]
+3 messages:
+
+1/ in case of primary infection: maternal treatment (aciclovir 1g in 5 doses or valaciclovir 2g in 2 doses for 5 to 10 days) and caesarean section if infection within 6 weeks before start of labour except RPM > 4h.
+
+2/ recurrence: no sampling, vaginal route possible if RPM >4h
+
+3/ prevention in case of recurrence with valaciclovir 1g in 2 doses from 36 SA until birth

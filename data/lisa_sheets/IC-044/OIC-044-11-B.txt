@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-044-11-B
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=B
+|Title=Know the two main complementary radiological examinations to be carried out in the event of pelvic swelling and their hierarchy (first and second line).
+|Description=Echography and MRI
+|Rubric= Complementary examinations
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=11}}
+
+Pelvic ultrasound by suspubital and endovaginal route looks for criteria of benignity if an ovarian cyst is diagnosed:
+
+- unilocular image ;
+
+- or plurilocular image but with a very thin septum (< 3 mm);
+
+- absence of solid zones (vegetation) ;
+
+- thin wall ;
+
+- regular peripheral vascularisation
+
+- cyst less than 7 cm in size;
+
+- absence of ascites.
+
+If all the criteria for benignity are met, a new ultrasound scan should be performed at 3 months to check that it is not a functional cyst. In this context, there is no indication for ovarian blockade. If the functional cyst has not disappeared after 3 months, it is probably organic and warrants further investigation by pelvic MRI.
+
+If all the criteria for benignity are not met, pelvic MRI should be performed to verify the origin of the pelvic mass and to characterise it.  
+
+The most common benign organic ovarian masses are ovarian endometrioma, dermoid cyst (presence of fat) and serous cystadenoma. Serous cystadenocarcinoma accounts for 90% of primary malignant tumours of the ovary.
+
+(Reasoned request/prescription and choice of a diagnostic examination) ([[Discovery of an abdominal anomaly on medical imaging examination SD-224|Discovery of an abdominal anomaly on medical imaging examination]]) ([[Discovery of a pelvic anomaly on medical imaging examination SD-229|Discovery of a pelvic anomaly on medical imaging examination]])
+
+(Writing the request for an imaging examination) (Request for an imaging examination) ([[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request from a patient for an explanation of the procedure, the risks and expected benefits of an imaging examination]]) ([[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]])

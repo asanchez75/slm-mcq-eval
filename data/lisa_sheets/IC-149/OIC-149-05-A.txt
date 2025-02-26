@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-149-05-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Knowing the aetiologies of erythematous and erythematopulmonary sore throat
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+The germs most frequently implicated are :
+
+- Viruses: between 50% and 90% of cases.'' ''Under the age of three, angina is almost always viral.'' The viruses responsible are: rhinovirus, coronavirus, respiratory syncytial virus (RSV), influenza virus, myxovirus influenzae and M. parainfluenzae, adenovirus, Epstein-Barr virus (EBV), cytomegalovirus (CMV) and, more rarely, HIV.
+
+
+- '''Bacteria:''' '''Group A beta-haemolytic streptococcus (GAS) is by far the most common germ (90% of bacterial angina).'''' Angina caused by gonococci, streptococcus B, C, F and G, the fuso-spirillary association (responsible for Vincent's angina), or anaerobes are possible, but rare.

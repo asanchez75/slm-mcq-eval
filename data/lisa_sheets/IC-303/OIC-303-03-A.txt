@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-303-03-A
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=A
+|Title=Analytical epidemiology: understanding risk factors
+|Description=Knowing environmental and hereditary factors
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+'''Risk factors external to the individual (particularly environmental):'''
+
+o '''''Helicobacter pylori''''' (HP): chronic infection of the gastric mucosa associated with an inflammatory reaction leading to chronic atrophic gastritis, which is the precancerous state.  The next stages are metaplasia and dysplasia. HP is thought to be responsible for 65-80% of gastric adenocarcinomas. It is less involved in the proximal stomach (cardia).
+
+Progression to degeneration is rare (less than 1% of HP+ patients will develop adenocarcinoma). Infection is often within the family.
+
+o Salty food (rich in nitrites)
+
+o Tobacco
+
+o Viral infection, in particular EBV (Epstein Barr Virus)
+
+
+'''Risk factors internal to the individual''' :
+
+o Previous partial gastrectomy. The risk increases with time, and is high more than 10 years after surgery. The mechanism is linked to reflux of digestive fluid into the gastric stump.
+
+o Gastric ulcer
+
+o Autoimmune atrophic gastritis or Biermer's disease
+
+o Genetic predisposition, cancer usually in young people (<40 years):
+
+- Lynch syndrome (MMR system genes)
+
+- Familial adenomatous polyposis (APC gene)
+
+- Hereditary diffuse gastric cancer (CDH1 gene)
+
+'''Need for gastric endoscopic surveillance in case of risk factors'''

@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=2C-285-DP-A01
+|Item_parent= Chronic diarrhoea in adults and children
+|Rank=A
+|Heading=Know the elements of the interview and clinical examination that help to determine the mechanism of the diarrhoea.
+|Description=None
+|Rubric=04-Positive diagnosis
+|Order =6}}The clinical approach to diarrhoea involves several stages.
+
+
+1- Confirm chronic diarrhoea
+
+By questioning (eliminating differential diagnoses). A perineal examination will be necessary to assess pelvic statics and rule out an anorectal lesion or faecal impaction.
+
+
+2- Look for an obvious/frequent cause
+
+The second stage will look for the presence of one or more very likely causes of the chronic diarrhoea, in particular the use of a drug known to have digestive repercussions, the consumption of milk, hyperthyroidism, a recent trip to a parasitic endemic area, or digestive surgery. Personal and family history and clinical examination, supplemented by certain basic biological tests or guided by diagnostic hypotheses, play an important role in the aetiological investigation.
+
+
+1- Orientation according to semiology
+
+A distinction is often made between diarrhoea with bloody or mucusy stools (lesions) or fatty stools suggesting malabsorption, and watery/aqueous diarrhoea ("without blood, pus or mucus").
+
+
+🡺 Secretory diarrhoea
+
+In the case of secretory diarrhoea, digestive secretions exceed the hydroelectrolytic absorption capacity of the small intestine and/or colon. The stools are very liquid; their volume is highly variable, sometimes large, with a risk of dehydration and hypokalaemia.
+
+
+🡺 Motor diarrhoea
+
+Motor diarrhoea is secondary to accelerated intestinal transit. It is very important to ask about the volume and timing of bowel movements. Motor diarrhoea often consists of frequent morning and postprandial bowel movements, which may contain residues of food or medication ingested less than 8 hours before, and are rarely nocturnal. They are often urgent. Transit inhibitors are often effective. There is no change in general condition, particularly weight loss, unless the cause of the diarrhoea may induce one.
+
+
+🡺 Osmotic diarrhoea
+
+Osmotic diarrhoea is secondary to the presence of molecules with little or no absorbability in the intestinal lumen and with high osmotic power, responsible for luminal water sequestration. The clinical manifestations of osmotic diarrhoea depend on the osmotic agent involved. The stools are often liquid and frothy, accompanied by abdominal meteorism and flatulence in the case of fermentable agents (lactose intolerance, or frequently FODMAPs, see item 284); they cease immediately on cessation of ingestion of the agent responsible (drug or food). There is no effect on general health.
+
+
+🡺 Malabsorption: steatorrhea
+
+Malabsorption diarrhoea is partly characterised by a defect in fat absorption, resulting in steatorrhoea. Fat absorption requires the presence of bile salts for micellar solubilisation, a trophic intestinal mucosa, an adequate pH and pancreatic enzymes. A distinction is made between maldigestion, which points to a bilio-pancreatic origin, and true malabsorption due to a pathology of the small intestine. Patients describe passing greasy, sticky, often foul-smelling "dung". This diarrhoea is frequently associated with the consequences of malabsorption, i.e. signs of excessive fermentation, malnutrition and deficiencies: weight loss, oedema and anasarca (hypo albuminemia), loss of growth in height and weight in children, fat-soluble vitamin deficiency (haemorrhagic syndrome - vitamin K, osteomalacia - vitamin D, twilight vision problems - vitamin A), anaemic syndrome (iron, folate, B12), glossitis (folate, vitamin B12), amenorrhoea in women, etc.
+
+
+🡺 Lesional diarrhoea
+
+Diarrhoea is secondary to damage to the intestinal mucosa of the small intestine or colon (inflammation, ulceration, lymphangiectasia), which causes plasma exudation. Some exudations are purely lymphatic. Secretory diarrhoea is often associated with mucosal lesions. Malabsorption may aggravate protein leakage. In the case of mucosal lesions, particularly rectosigmoid lesions, the stools may be glairy-bloody. Depending on the cause, there may be a rectal syndrome or dysenteric syndrome, abdominal pain, weight loss and fever.
+
+
+3- Aetiological investigation
+
+Questioning is essential because the causes are often found at this stage.

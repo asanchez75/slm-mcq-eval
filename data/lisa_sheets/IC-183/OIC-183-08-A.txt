@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-183-08-A
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=A
+|Title=Knowing the risk management approach
+|Description=Hierarchy and methods of a risk management approach
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+
+
+=== '''Important: the proposed measures must always be in the following order:'' ===
+
+* '''step 1,'''
+* '''then if impossible step 2'''
+* '''then ...'''
+
+=== 1. '''Eliminate hazards''', ===
+eliminating the use of hazardous chemicals, redesigning premises to avoid the risk of falls, etc. changing work processes
+
+Sometimes it is impossible to eliminate the danger: for example, wood dust is a carcinogen, but we cannot suggest to a woodworker that he stop using wood ....=> step 2
+<br />
+
+=== 2. '''Limit emissions at source''' and thus limit their dispersion in the workplace by means of collective protective equipment: ===
+Examples: working in an enclosed space, extraction of emissions, installation of an extractor hood when using solvents, enclosure of a noisy machine, organisation of work to reduce the number of people in the room, ....
+
+In the case of wood dust: dust extraction at source
+
+If you have to do a lot of dusty jobs and the suction is inadequate => step 3
+<br />
+
+=== 3. '''Limit employee exposure''' by wearing appropriate personal protective equipment (gloves, breathing masks, goggles, ear muffs, etc.). ===
+Example in the case of wood dust: wear a respiratory protection mask that has been chosen to be suitable (not all masks are equally useful or effective...) and sufficiently comfortable to wear.
+
+
+=== 4. '''Evaluate the effectiveness of preventive measures'': ===
+monitoring exposure levels by environmental metrology (atmospheric for chemicals, noise for noise, etc.) and biological exposure monitoring (urinary solvents, blood lead, etc.).

@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-179-03-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=A
+|Item_parent_short=Health risks associated with water and food.
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Order=3}}
+The main clinical situations linked to the consumption of polluted water are as follows:
+
+1.      Gastrointestinal disorders (microbial and parasitic pollution)
+
+2.     Neurological damage (microbial pollution: Salmonella typhi, Clostridium botulinum)
+
+3.     Hepatitis (HAV, HEV)
+
+4.     Renal failure, Haemolytic uraemic syndrome (HUS) ('Enterohaemorrhagic E.coli', 'Shigella')
+
+5.     Thrombotic thrombocytopenic purpura (enterohaemorrhagic E.coli, Shigella)
+
+6.     Shock (toxins)
+
+7.     Endocrine disruption (pesticides)
+
+8.     Cancers (bladder, skin, lung, colorectal: linked to disinfectants, pesticides (chlordecone, DDT), arsenic, etc.)
+
+9.     Methaemoglobinaemia (nitrites)
+
+10.   Dental fluorosis (natural increase in water concentration or disruption of artificial water fluoridation)
+
+11.   Lead poisoning
+
+12.   Minamata disease (Mercury)
+
+Their prevention is based on programmes to monitor the state of the water.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-338-10-B
+|Item_parent= Angioedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=B
+|Title=To know the respiratory form treatment
+|Description=Knowing how to prescribe an aerosol of adrenaline (VAS involvement) or betamimetic (low VA)
+|Rubric=Management
+|Contributors=
+|Order=10}}
+
+
+* criteria for anaphylaxis: intramuscular adrenaline
+* bronchospasm: add a short-acting aerosol β2-mimetic

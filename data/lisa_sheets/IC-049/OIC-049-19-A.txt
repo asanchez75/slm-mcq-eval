@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-049-19-A
+|Item_parent=Normal and pathological puberty
+|Item_parent_short=Normal and pathological puberty
+|Rank=A
+|Title=Knowing the 2 main etiological frameworks of delayed puberty: hypothalamic-pituitary or gonadal origins
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=19}}
+
+{| class="wikitable"
+| '''RP centraux'''
+|
+|-
+|Hypothalamo-pituitary
+
+                         
+
+
+                         
+| Acquired: tumour (craniopharyngioma), functional (malnutrition, chronic illness)
+
+                        Congenital and genetic: hypogonadotropic hypogonadism with (Kallmann) or without anosmia, panhypopituitarism
+|-
+| Simple pubertal delay
+| Variant of normal, diagnosis of elimination
+|-
+|
+|
+|-
+| '''Peripheral RP''''
+|
+|-
+| Ovarian insufficiency
+
+                        Testicular failure
+| Turner syndrome 45,X
+
+                        Klinefelter syndrome 47,XXY
+|}
+<br />

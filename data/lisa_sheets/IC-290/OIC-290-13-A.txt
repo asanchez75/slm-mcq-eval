@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-290-13-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitle=Knowing the specific risk factors for breast, cervical, endometrial and ovarian cancers
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=13}}
+BREAST: non-modifiable factors: age, family and personal history, genetic predisposition; modifiable factors: alcohol, overweight/obesity, physical inactivity, etc.; reproductive factors: HRT, inadequate breastfeeding, nulliparity, etc.
+
+COL: It is ''constantly attributable'' to infection by one or more ''human papillomaviruses (HPV)'' (see corresponding section).
+
+Incidental ''risk factors'' are: smoking, immunosuppression (particularly HIV infection), early sexual debut, number of sexual partners (condoms are an imperfect barrier against HPV), in utero exposure to diethylstilbestrol (Distilbene<sup>®</sup>) and use of oestroprogestogenic contraception for more than 5 years (which is thought to reduce after stopping).
+
+ENDOMETRICS: obesity, diabetes, tamoxifen, HNPCC4/Lynch syndrome, hereditary disease
+
+OVAIRE: genetic factors (family and personal history of breast and/or ovarian cancer, genetic mutations), hormonal and reproductive factors (early puberty, late menopause, nulliparity, endometriosis) and also environmental and lifestyle factors (smoking, asbestos, HRT, use of talcum powder, X-rays, obesity, lack of physical activity).

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-025-05-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the clinical signs requiring emergency treatment
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=5}}
+
+The presence of just one of these severity criteria defines a surgical emergency:
+
+- Haemodynamic instability; haemorrhagic shock; loss of consciousness; malaise
+
+- Abdominal defence or contracture
+
+'''([[Color abnormalities of extremities SD-015|color abnormalities of extremities]], [[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]], [[Malaise/loss of consciousness SD-050|malaise/loss of consciousness]], [[Tachycardia SD-166|tachycardia]]) ''''
+
+On ultrasound, the presence of haemoperitoneum is a sign of urgency '''([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]], [[Discovery of a pelvic anomaly on medical imaging examination SD-229|discovery of a pelvic anomaly on medical imaging examination]]).''''

@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-323-10-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Awareness of the potential limitations of information from the pharmaceutical industry
+|Description=None
+|Section=Definition
+|Contributors=Pierre-Olivier Girodet,Nathanaël Lapidus (CIMES),David Hajage (CIMES)
+|Order=10}}
+
+'''Sources of information on the drug:'''
+
+- Scientific literature
+
+- Public database of medicines: summary of product characteristics (SPC), package leaflets.
+
+- Recommendations: official (HAS, ANSM), learned societies (national, international).
+
+- Specialist works: books, dictionaries.
+
+- Press: medical, generalist.
+
+- Pharmaceutical industry, start-ups.
+
+- Advertising.
+
+'''Major economic issues in the production of scientific information for the pharmaceutical industry'''
+
+- Objective: development of new drugs, extension of indications for existing drugs.
+
+- Europe: marketing authorisation obtained.
+
+- France: HAS opinion (medical service rendered, improvement in medical service rendered), reimbursement level.
+
+'''The pharmaceutical industry's strategy for developing new drugs'''
+
+- Medical: Funding of research work (epidemiological, fundamental, clinical), production of articles (review), funding of networks of doctors and learned societies.
+
+- Marketing: Communication with doctors (e.g. medical visits), organisation of meetings (local, regional, national), invitations to conferences.
+
+'''The problem of scientific information from the pharmaceutical industry'''
+
+*Major economic stakes: considerable financial and logistical support for the conduct of numerous clinical trials, the evaluation stage necessary for marketing or extending the indications of their products.
+**therefore, by definition, a link of interest
+**and often a conflict of interest that casts doubt on the objectivity of the scientific information produced (results and their interpretation).
+
+*Assessment of the impact of the link/conflict of interest on scientific information: see [[Discussing links of interest and the potential impact on medical information 2C-323-PE-A02]].

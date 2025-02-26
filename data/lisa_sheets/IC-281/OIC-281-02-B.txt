@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-281-02-B
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=B
+|Title=Knowing the main epidemiological elements of chronic pancreatitis
+|Description=incidence, sex ratio
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+- Prevalence: 25/100,000 inhabitants (Western countries), with an average age of onset of symptoms of around 40 years.
+
+- Clearly male-dominated (80%)

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-222-03-A
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=A
+|Title=Knowing the aggregation of risk factors and indirect risk factors (obesity, sedentary lifestyle, metabolic syndrome)
+|Description=None
+|Rubric=Definition
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=3}}
+
+
+* Obesity and a sedentary lifestyle promote the development of a clinico-biological entity known as the metabolic syndrome, which constitutes a model of aggregation of risk markers for high cardiovascular risk, including abdominal obesity:
+** '''Abdominal obesity''' (defined by a waist circumference > 80 cm in women and > 94 cm in men),
+** '''some of the major independent risk factors'' (pre<s>-</s> diabetes or diabetes, BP > 130/85 mmHg),
+** a particular lipid profile (hyper<s>-</s>triglyceridaemia, hypo-HDLaemia).
+* Physiopathologically, it is the result of '''insulin<s>-</s>resistance.'''

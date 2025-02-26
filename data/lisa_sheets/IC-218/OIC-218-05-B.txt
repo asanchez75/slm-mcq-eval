@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-218-05-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing how to evoke the diagnosis of clonal eosinophilia
+|Description=Cortico-resistance, splenomegaly, increased B12 and/or serum tryptase
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+ 
+
+'''Hypereosinophilic syndromes (HES)''' '''clonal'''' = linked to a clonal abnormality directly affecting the eosinophilic lineage (bone marrow).
+
+'''In favour of clonal (= myeloproliferative) SLE:''''
+
+- splenomegaly (if no other cause) ;
+
+- increase in vitamin B12 and/or serum tryptase ;
+
+- cortico-resistance.
+
+'''Two types of SHE:''''
+
+- Myeloid HES = myeloproliferative syndrome (clonal abnormality of the eosinophilic lineage).
+
+- Lymphoid SHE = T lymphocyte clones producing cytokines (IL-5 in particular) leading to hypereosinophilia. Evocative signs: elevation of total IgE and good response to corticosteroid therapy.

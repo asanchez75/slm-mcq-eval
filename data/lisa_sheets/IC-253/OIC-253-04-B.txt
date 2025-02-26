@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-253-04-B
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=B
+|Title=Knowing the signs of early adiposity rebound in children
+|Description=Knowing how to monitor and analyse the weight curve on the health record.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+-Corpulence (assessed by BMI) increases up to the age of 1 year, then decreases until around the age of 6, after which it increases again, corresponding to the rebound of adiposity.
+
+-If the rebound in adiposity occurs before the age of 5, it is said to be early, suggesting that the child is predisposed to excess weight.
+
+-Three types of curve kinetics can be seen in an obese child (see Figure 1):
+
+1) absence of rebound adiposity (potentially serious form) ;
+
+2) early adiposity rebound around age 3 (common form);
+
+3) lane crossing after the age of physiological rebound, (rarer, eliminate secondary obesity)
+[[File:Fig1-rebond d'adiposité.jpg|left|thumb]]

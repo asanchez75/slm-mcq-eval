@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-258-09-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Know the arguments in favour of the functional nature of an increase in creatininemia.
+|Description=Know the clinical evidence (questioning and physical examination) in favour of the functional nature of an increase in creatininemia.
+|Rubric=Etiologies
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=9}}
+
+Functional renal failure corresponds to a state of true or effective hypovolaemia (frequent situation ++ )
+
+Clinical context :
+
+true hypovolaemia
+
+- arterial hypotension: extracellular dehydration (weight loss, skin folds) or overall dehydration, haemorrhage,
+
+- before the hypotension stage: look for orthostatic hypotension (++);
+
+effective hypovolaemia (situations where renal perfusion pressure is low without true hypovolaemia):
+
+- major oedematous states during hypoprotidemia (nephrotic syndrome, hepatocellular insufficiency, malnutrition), cirrhosis with oedemato-ascitic decompensation, total or right heart failure,
+
+- septic, anaphylactic or cardiogenic shock in the initial phase,
+
+drugs that interfere with the regulation of renal haemodynamics: non-steroidal anti-inflammatory drugs, angiotensin converting enzyme inhibitors or angiotensin 2 receptor antagonists, etc.

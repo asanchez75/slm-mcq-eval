@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-004-19-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the precautionary principle
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=19}}
+The precautionary principle emerged in the field of environmental protection (International Conference on the Protection of the North Sea, London, 1987; Declaration on the Environment, Development and the Principle of Forest Management, Rio de Janeiro, 1992).
+
+
+Three conditions must be met before it can be implemented:
+
+1.     A risk of ''serious and irreversible damage'' to the environment
+
+2. the ''lack of scientific certainty'' as to the reality of this risk
+
+3.     The need for "immediate measures" to prevent even this hypothetical risk.
+
+
+Precaution'' (which refers to hypothetical risks) is therefore different from ''prevention'' (which refers to proven risks that are therefore probable and insurable).
+
+
+In a society where scientific culture is less and less shared, the principle obviously lends itself to all sorts of "manipulations" when it comes to the probability of risk and its possible consequences.
+
+
+The precautionary principle was introduced into the preamble to the French Constitution in 2005: "when the occurrence of damage, although uncertain in the light of scientific knowledge, could have a serious and irreversible effect on the environment, the public authorities shall ensure, by applying the precautionary principle, the adoption of provisional and proportionate measures to avoid the occurrence of damage and the implementation of procedures to assess the risks involved". This text therefore does not concern the field of health, and does not apply to private individuals.
+
+
+However, this principle has been extended to other areas, particularly health.
+
+
+It can be applied :
+
+1.     In "public health", with two examples with opposite consequences:
+
+- The principle was not taken into account during the contaminated blood affair, when we waited until we were certain that there was a risk of post-transfusion AIDS, even though there were serious doubts as to the possibility of contamination of the products;
+
+- the halting of the hepatitis B vaccination campaign, due to a campaign relayed by the press on the link between vaccination and demyelinating neurological diseases, a link which was subsequently proved to be unfounded, but which is one of the causes of under-vaccination against hepatitis B, and of the lack of confidence in vaccines on the part of part of the French population.
+
+2.     In ''clinical medicine'', with some food for thought:
+
+- Decisions in medicine are often taken in situations of ''uncertainty''.
+
+- There is no such thing as 0 risk
+
+- The Hippocratic aphorism of ''primum non nocere'' remains totally relevant today and is the basis of the ''ethical principle of non-maleficence''.
+
+- The "you never know" attitude that may appear to be the translation of the precautionary principle is deleterious both in the actions of doctors (e.g. repeated brain scans every time there is a visit to A&E for "psychogenic convulsion") and in societal positions (e.g. the argument by opponents of vaccination against COVID-19 of hypothetical long-term effects of mRNA vaccines).

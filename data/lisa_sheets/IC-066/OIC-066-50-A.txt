@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-066-50-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing semiology
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=50}}
+
+Exposure to trauma is required.
+
+Repetition syndrome: involuntary, vivid, intrusive, distressing and recurrent reliving of traumatic events, day or night, with dissociative flashbacks and strong physiological and psychological reactivity.
+
+Avoidance syndrome: avoidance of any stimulus that recalls the trauma (people, places, situations, activities, conversations).
+
+Negative cognitive and mood changes: persistent cognitive distortions about self and others, blaming or ruminating, mood changes, detachment, difficulty experiencing positive emotions.
+
+Neurovegetative hyperactivation: impaired sleep, irritability, hypervigilance, exaggerated startle reactions, concentration and memory problems.

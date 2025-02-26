@@ -1,0 +1,64 @@
+{{knowledge objective
+|Identifiant=OIC-325-08-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Know the objectives and principles of pharmacovigilance
+|Description=None
+|Section=Definition
+|Contributors=Marie Briet
+|Order=8}}
+
+
+=Objectives and principles of pharmacovigilance=
+The aim of pharmacovigilance is to monitor, assess, prevent and manage the risk of adverse reactions resulting from the use of medicinal products, whether these risks are potential or proven, in real-life situations. The aim is to improve the risk/benefit ratio of medicines, both individually and collectively.
+
+
+The operation of pharmacovigilance is governed by the Public Health Code and good pharmacovigilance practice.
+<br />
+
+==Products concerned by pharmacovigilance== (in French)
+
+*Medicines and products covered by a marketing authorisation (MA), once this authorisation has been issued, or covered by a temporary recommendation for use (RTU) or temporary authorisation for use (ATU).
+*Homeopathic medicines, after registration.
+*Traditional herbal medicinal products, after registration.
+*Allergens, specially prepared for a single individual.
+*Blood-derived medicinal products and other medicinal products of human origin.
+*Magistral, hospital and officinal preparations
+*Certain dietetic products
+
+
+==Pharmacovigilance stakeholders==
+
+*Healthcare professionals (compulsory reporting of any adverse reaction suspected to be due to a medicinal product for doctors, pharmacists, dentists and midwives, particularly serious and/or unexpected reactions).
+*companies or organisations exploiting medicinal products
+*Patients and approved patient associations
+*Regional Pharmacovigilance Centres (CRPV), coordinated by the French National Agency for the Safety of Medicines and Health Products (ANSM).
+*THE ANSM
+*The European Medicines Agency (EMA)
+
+<br />
+
+==Missions of the Regional Pharmacovigilance Centres===
+
+*Collection, documentation, analysis and recording of alerts
+*Signal detection and transmission
+*Response to enquiries about the safe use of a medicine
+*Expertise
+*Training and research (studies and research into the safe use of medicines)
+
+<br />
+
+==Role of the health authorities, ANSM and the European Medicines Agency (EMA)==
+
+*Collection and centralisation of data on medicinal products. Reported cases are entered into the National Pharmacovigilance Database managed by ANSM, then at European level, into the European Pharmacovigilance Database "Eudravigilance", then into the World Health Organisation's (WHO) international pharmacovigilance database called VigiBase®.
+*Analysis of periodic safety reports and monitoring of risk reduction measures set out in risk management plans
+*Analysis of signals reported, request to open an investigation, reconsideration of the benefit-risk ratio, which may lead to decisions being taken in conjunction with the EMA, such as: mentioning a new effect in the summary of product characteristics, restricting the use of the medicinal product, or suspending the marketing authorisation, for example.
+
+<br />
+
+==Methods for assessing adverse drug reactions===
+
+*Pharmaco-medical evaluation of reports of adverse drug reactions, assessment of imputability using the French reference method.
+*Imputability corresponds to the estimate of the causal link between the drug and the observed effect.
+*Pharmaco-epidemiological studies

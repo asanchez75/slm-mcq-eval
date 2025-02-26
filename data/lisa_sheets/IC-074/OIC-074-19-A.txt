@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-074-19-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Hypnotics: knowing the rules for correct use at all stages of life, particularly in elderly patients
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=19}}
+
+
+== '''The prescription''' ==
+
+* Must comply with the ''prescribing rules'' described for ''anxiolytics'';
+* Must be prescribed at the ''minimum effective dose'';
+* Must be prescribed for a ''limited period'' to ''avoid the risk of pharmacological tolerance'' and ''use disorders'' (a few days for reactive insomnia, a few weeks for transient insomnia);
+* Must be limited to ''4 weeks'' for ''hypnotics'';
+* Treatment must not be stopped abruptly;
+* Dosages should be adapted for elderly patients (lower doses);
+* A ''short half-life treatment'' should be chosen for ''insomnia associated with falling asleep'' (as well as in the elderly) and a ''longer half-life treatment'' for ''insomnia during the second half of the night'';
+* Patients should be "informed" of the risk of "potentiation by alcohol consumption" and the "risk of drowsiness" (driving);
+* To limit the risk of misuse, zolpidem must be prescribed on a "secure prescription" for a maximum of 28 days.

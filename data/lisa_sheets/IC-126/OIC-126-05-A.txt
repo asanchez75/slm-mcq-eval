@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-126-05-A
+|Item_parent=Erectile dysfunction
+|Item_parent_short=Erectile dysfunction
+|Rank=A
+|Title=How to identify priapism
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Thomas Bessède
+|Order=5}}
+
+
+== Description : ==
+
+*Priapism is the existence of a pathological erection for more than 4 hours in the absence of any sexual stimulation.
+*Its main causes are: iatrogenic (intracavernous injections for erectile dysfunction), haematological (sickle cell anaemia, leukaemia), toxic (antipsychotics, cocaine), traumatic (pelvic trauma), pelvic tumours (prostate, bladder).

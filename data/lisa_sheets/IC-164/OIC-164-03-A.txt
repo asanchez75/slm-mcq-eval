@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-164-03-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Heading=Febrile rash in children: diagnostic guidance
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=3}}
+
+[Rashes in children SD-037
+
+The guide "Eruptive diseases, purpura and dermatitis in children<ref>[http://www.urgencehsj.ca/wp-content/uploads/EruptionsPurpuras.pdf Eruptive diseases, purpura and dermatitis in children], http://www.urgencehsj.ca/wp-content/uploads/EruptionsPurpuras.pdf</ref>" by Dr Girodias, a paediatrician at Sainte Justine Hospital in Montreal, is an interesting resource to help you remember the aetiologies of febrile eruptions (identified in red on the 2nd slide) with their epidemiological and clinical characteristics.
+
+
+'''1/ LOOK FOR AN EMERGENCY'' ([[Febrile exanthemata in children: assessment of severity 2C-164-IU-A01]])
+
+           Haemodynamic failure: purpura fulminans, necrotizing fasciitis, toxic shock syndrome
+
+           Mucosal ulcerations +/- epidermal detachments: Stevens Johnson syndrome, Lyell, erythema multiforme major, epidermolysis
+
+           Erythema, oedema of the face, adenopathy, general deterioration, multivisceral involvement (+ hypereosinophilia): DRESS
+
+           Fever ≥ 5 days + cervical adenopathy + mucosal involvement (conjunctivitis, glossitis) + pharyngitis + oedema extremities: Kawasaki (more or less complete picture)
+
+           Warm, painful infiltrated localised erythema: bacterial dermo-hypodermatitis, necrotising fasciitis
+
+
+'''2/ Characterise the rash''' (cf Febrile exanthemata in children: type of rash)
+
+Type of elementary lesion, but also chronology of appearance in relation to fever, location and evolution of lesions
+
+            Macular exanthema without an interval of healthy skin (scarlatinifoma): scarlet fever, staphylococcal toxic shock, staphylococcal epidermolysis
+
+           Maculopapular exanthema (morbilliform): measles, rubella, Parvovirus B19, roseola (HHV6), enterovirus/paraechovirus, Gianotti Crosti (infantile papular acrodermatitis), laterothoracic exanthema, NIDs
+
+           Vesiculo-pustular exanthema: chickenpox, herpes (primary infection with stomatitis, otherwise non-febrile), coxsackie (Hand Foot Mouth Syndrome)
+
+           Aspecific exanthema: viral, systemic disease
+
+
+'''3/ Search for associated anamnestic elements'''
+
+           History: immunosuppression, co-morbidities
+
+           Contage (community), vaccinations
+
+           Medication taken (precise date in relation to onset of signs)
+
+
+'''4/ Search for associated clinical features'''
+
+           Respiratory signs: measles, aspecific virosis
+
+           Angina: scarlet fever, NID
+
+          
+
+
+
+          
+
+5/ Diagnostic confirmation
+
+Some diagnoses are clinically based and do not require further investigation in the absence of a risk situation (e.g. chickenpox, epidemic megalerythema, sudden exanthema), others, such as Kawasaki disease or toxic shock syndrome, are based on a combination of clinical and biological evidence, while others (NID, measles) are based on microbiology (PCR saliva and/or blood (depending on the virus) or serology with IgM detection).
+[File:Arbre d'orientation diagnostique devant une éruption fébrile de l'enfant.jpg|néant|vignette]]
+<br />
+<references><br />

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-072-11-B
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=B
+|Title=Knowing the indications and non-indications of psychotropic drugs
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+'''Antidepressants (tricyclics, serotonin reuptake inhibitors with or without action on noradrenaline) and psychotropic drugs'''
+
+No superior efficacy to placebo.
+
+Undesirable effects can amplify symptoms.
+
+Antidepressants may be useful in treating co-morbid anxiety and depression.
+
+'''So-called natural products (phytotherapy, etc.)''''
+
+No superior efficacy to placebo.

@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-175-18-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Knowing the diagnostic approach in the event of a skin lesion on return from a trip
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel
+|Order=18}}
+
+1. examination
+
+It aims to clarify :
+
+- the circumstances of the stay (type of accommodation, group or isolated, duration, contact with local populations), any exposure (swimming, activities, barefoot walking, insect bites, contact with animals, etc)
+
+- the date of appearance of the lesions in relation to the return or a triggering situation
+
+- associated clinical signs (fever, pruritus, digestive signs, etc.)
+
+- the presence of similar clinical signs in close contacts
+
+
+'''2.      Diagnostic procedures according to the type of lesion'''
+
+- Ulcerated lesion: suggest a bacterial infection (pyoderma) or cutaneous leishmaniasis: take a sample for bacteriological cultures and scrape the inflammatory peripheral edge of the lesion with a scalpel (or punch) to look for leishmania (direct examination and PCR).
+
+- Crusty lesion: on the basis of the history, suggest cutaneous leishmaniasis and take a sample after removing the crust (see above).
+
+- Very pruritic papules, vesicles (+/- scratching lesions): look for furrows and take a scabies sample (look for sarcoptes) and/or examine with a dermoscope to see the sarcoptes. Bedbug bites, which are increasingly common in all types of accommodation throughout the world (gîtes and luxury hotels), should also be considered.
+
+- Dry or scaly circinate lesions, even inflammatory lesions with small vesicles at the peripheral edge: take a sample for mycological cultures to look for dermatophytes.
+
+- Mobile purplish-pink serpiginous cord: no sampling, suggests cutaneous "larva migrans" (feet +++, buttocks, arms) or "larva currens" (buttocks, abdomen, look for anguillulosis).

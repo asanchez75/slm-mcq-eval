@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-256-08-B
+|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)
+|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)
+|Rank=B
+|Title=Knowing the nutritional needs of adult athletes
+|Description=Know that most sporting activities simply require an increase in energy intake.
+|Rubric=Management
+|Contributors=
+|Order=8}}
+Carbohydrates are the main substrate for high-intensity physical activity.
+
+Lipids are the substrate for moderate and prolonged physical activity.
+
+
+For the majority of sportspeople, the recommended nutritional intake is that of the general population.
+
+
+For more than 3 hours of sporting activity per week, nutritional intake should be adapted by increasing energy intake to cover total energy expenditure (TEE).

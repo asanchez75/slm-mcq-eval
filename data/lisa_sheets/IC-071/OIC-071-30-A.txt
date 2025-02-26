@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-071-30-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Knowing differential diagnoses
+|Description=Know the pathologies to rule out
+|Heading=Positive diagnosis
+|Contributors=
+|Order=30}}
+The differential diagnoses are more or less the same as for bulimia:
+
+* brain tumours, epilepsy, Kleine-Levin syndrome and Klüver-Bucy syndrome, etc. ;
+* bulimia
+* metabolic or genetic obesity
+* characterised depressive episode and bipolar disorder;
+* borderline and avoidant-dependent personality disorders

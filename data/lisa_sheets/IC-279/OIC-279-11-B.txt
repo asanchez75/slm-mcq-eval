@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-279-11-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Title=Knowing the principles of ascites treatment
+|Description=Tensioned ascites, ascites mucus, refractory ascites
+|Rubric=Management
+|Contributors=
+|Order=11}}
+'''Tense ascites is treated by evacuation punctures''' associated with albumin infusions depending on the volume of ascites punctured.
+
+The treatment of ascites is based on a low-salt diet (80-120 mmol/day, i.e. around 5 grams) and diuretics. Diuretic treatment is based on spironolactone (in the absence of contraindications, particularly renal failure), and if there is insufficient response, furosemide may be added. The main side-effects of diuretics are hyperkalaemia (spironolactone), hypokalaemia (furosemide), hyponatraemia, gynaecomastia (spironolactone) and functional renal failure in the event of excessive depletion. Once ascites is under control, diuretic doses can be progressively reduced until they are completely stopped. The low-salt diet should be maintained. Resumption of diuretics is only justified if ascites recurs.
+
+The effectiveness of ascites treatment is judged by the reduction in abdominal circumference, functional discomfort, weight loss, diuresis and natriuresis. The prescription of diuretics requires regular monitoring of the blood ionogram. Oedema is treated in the same way as ascites. The development of oedema parallels that of ascites.
+
+The various treatment options for refractory ascites require specialist management.
+
+
+
+Spontaneous ascites infection (SASE) is a therapeutic emergency requiring probabilistic intravenous antibiotic treatment targeting gram-negative bacilli as soon as bacteriological samples have been taken (blood cultures, exploratory ascites puncture with ascicultures, ECBU), for a period of 5 days (Cefotaxime or Ceftriaxone in the case of community-acquired SASE; Tazocillin in the case of nosocomial SASE).
+An exploratory puncture should be performed 48 hours after the start of treatment to assess its efficacy. The therapeutic objective is to achieve a reduction of at least 25% in the number of leucocytes in ascites after 48 hours of antibiotics.
+
+Volume expansion with 20% albumin on days 1 and 3 is combined with antibiotic therapy to reduce the risk of hepato-renal syndrome and mortality.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-263-04-B
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=B
+|Title=Know the definition of haemolytic uraemic syndrome (HUS)
+|Description=Know the signs of typical HUS, particularly in children (after bloody diarrhoea, fatigue, anaemia, etc.).
+|Rubric=Definition
+|Contributors=Jean-Jacques Boffa
+|Order=4}}
+
+Haemolytic uraemic syndrome (HUS) is a form of acute renal failure associated with an acute myelosuppression syndrome (AMS).
+
+In the case of typical HUS, this picture of HUS is part of a context of often bloody diarrhoea caused by Shigatoxin-secreting enterobacteria (E. Coli, Shigella), typically in children, in the form of a small epidemic.

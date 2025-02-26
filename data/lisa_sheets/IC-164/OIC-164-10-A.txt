@@ -1,0 +1,87 @@
+{{knowledge objective
+|Identifiant=OIC-164-10-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Title=Infectious eruptive diseases: Kawasaki disease
+|Description=epidemiology (B), clinical features (A), referral (hospitalisation (A), management (B))
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=10}}
+
+Epidemiology/Physiopathology
+
+- vasculitis of the medium-sized vessels, the precise pathophysiology of which is still unknown: combination of immune and environmental factors (including infection) in a genetically predisposed background.
+
+- For "young children" (< 5 years)
+
+- More frequent in certain populations (Asia), severe forms of "Kawasaki Shock" more frequent in Afro-Caribbeans
+
+- Recently (April 2020): description of a "Kawasaki-like" syndrome called Pediatric Multi-Systemic Inflammation Syndrome (PIMS) following infection with SARS-COv2, which differs from Kawasaki by a greater frequency of myocardial damage in particular.
+
+
+Clinical features
+
+The diagnosis is based on a number of factors
+
+
+'''Complete classical form:'''
+
+'''-'''' combines '''a fever lasting 5 days or more ([[Prolonged fever]], [[Hyperthermia/fever SD-044]]) and 4 of the following criteria (major criteria)''',
+
+           - ''maculopapular exanthema or diffuse erythema'' of the trunk and limbs with early fine desquamation at D5
+
+           -involvement of the extremities with erythema of the palms and soles and/or oedema of the hands and feet and/or subacute fine desquamation (later, around D10)
+
+           - bilateral non-suppurative bulbar conjunctivitis
+
+           - oropharyngeal involvement: glossitis and/or cheilitis and/or pharyngitis
+
+           - cervical ''adenopathies'' > 1.5cm bilateral but with the possibility of unilateral (or asymmetric) localisation which can sometimes lead to the diagnosis of a phlegmon, so think of it when faced with an atypical evolution of a cervical or even parapharyngeal ''adenophlegmon'' without bacterial documentation.
+
+! The major criteria are not all contemporary, so it is important to look for them during the history-taking interview.
+
+! A high level of irritability is almost constant in infants and young children.
+
+Other organ disorders may be associated (systemic vasculitis): cardiac (myocarditis, pericarditis), hepatobiliary (hepatitis, hydrocholecyst), neurological (aseptic meningitis, encephalitis), pulmonary, ocular (uveitis) or digestive.
+
+
+'''Incomplete form'''
+
+There are incomplete forms (fewer than 4 major criteria), which can lead to misdiagnosis, particularly in younger children, and thus expose them to a greater risk of cardiac complications.
+
+In the presence of unexplained fever lasting more than 5 days, with a patient in poor general condition, it is therefore important to be able to investigate this diagnosis (in addition to the infectious work-up) by means of a biological work-up and cardiac ultrasound.
+
+A normal cardiac ultrasound scan does not rule out the diagnosis, but in the case of coronary dilatation, the diagnosis may be accepted even if there are fewer than 4 other major criteria other than fever.
+
+
+'''Biological abnormalities'''
+
+The following anomalies are often observed:
+
+- inflammatory syndrome: high CRP and SV, hyperleukocytosis, thrombocytosis (appearing later (D10) than the other parameters), hypoalbuminemia
+
+- liver abnormality: moderate cytolysis (frequent), more rarely elevated bilirubin
+
+- very frequent aseptic leucocyturia
+
+- Aseptic meningitis (when LP is performed)
+
+
+'''Complications'''
+
+- acute: multisystemic form "Kawasaki shock" with myocarditis, multivisceral damage, macrophagic activation syndrome
+
+
+- sub-acute: ''dilatation of the coronary arteries'' which may lead to aneurysm. The risk of dilatation is increased after 10 days without treatment, so the diagnosis of Kawasaki disease is urgent.
+
+Diagnosis is made using a transthoracic ''cardiac ultrasound'' by a cardiologist with experience of this disease.
+
+
+'''Care/Orientation'''
+
+Suspicion of Kawasaki disease warrants a hospital assessment
+
+Once the diagnosis has been made, treatment is always "hospital-based" and involves an infusion of intravenous polyvalent immunoglobulin and aspirin in anti-inflammatory and then anti-aggregating doses for a total period of 6 to 8 weeks.
+
+Cardiological monitoring with ultrasound must be put in place

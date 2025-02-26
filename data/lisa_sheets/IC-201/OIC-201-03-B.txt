@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-201-03-B
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=B
+|Title=Know the main rules of immunological compatibility necessary to consider organ transplantation: blood and tissue groups (HLA).
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Dany Anglicheau
+|Order=3}}
+
+Organ transplants are carried out taking into account :
+
+*compatibility in the ABO blood group system (ABO-incompatible transplants are nevertheless possible in certain circumstances);
+*HLA tissue group compatibility;
+*(The rhesus group is not taken into account).
+
+
+Tissue compatibility is assessed by :
+
+*HLA typing of the donor and recipient;
+*testing for anti-HLA antibodies in the recipient, the presence of which may limit access to a compatible graft, increase the risk of post-transplant rejection and reduce the lifespan of the graft;
+*The cross-match test just before transplantation, which identifies the presence in the recipient's serum of cytotoxic antibodies directed against the donor's antigens.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-195-01-A
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=A
+|Intitle=Know the definition of giant cell arteritis (GCA)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Giant cell arteritis (GCA, or Horton's disease)''' = granulomatous vasculitis occurring in people over the age of 50, characterised by inflammatory damage to the wall of large-calibre vessels (aorta and its branches).
+
+Predominantly affecting vessels destined for the head (division branches of the external carotid artery, internal carotid artery and vertebral arteries), the aorta and vessels of the upper limbs (subclavian and axillary arteries).

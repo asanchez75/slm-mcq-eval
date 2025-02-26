@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-231-18-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying extrasystoles
+|Description=Definition, ECG diagnosis, risk contexts and common causes
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=18}}
+
+
+Definition: premature depolarisation of a cardiac structure. Characterised according to the structure involved (atrium, ventricle, ventricle) and its recurrence (isolated, bigeminal if present one beat out of 2, trigeminal if present one beat out of 3).
+
+'''Extrasystoles atriales''' :
+
+- Premature P' wave different from the sinus P wave which comes from an ectopic atrial focus,
+
+- Often followed by a post-extasystolic pause.
+
+'''Junctional extrasystoles''' :
+
+- Premature QRS complex not preceded by a P wave similar to QRS in sinus rhythm.
+
+'''Ventricular extrasystoles''' :
+
+- Premature, wide QRS complex, different from QRS in sinus rhythm, not preceded by a P wave,
+
+- VSE originating in the left ventricle with a delayed right appearance (similar to right bundle branch block),
+
+- VSE originating in the right ventricle with a delayed left appearance (similar to left bundle-branch block).
+
+[[File:Extrasystoles.jpg|vignette|alt=|centered|625x625px]]

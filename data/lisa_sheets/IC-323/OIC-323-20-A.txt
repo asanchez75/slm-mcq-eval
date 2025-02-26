@@ -1,0 +1,40 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of internal validity, external validity, external coherence, etc.
+|Description=Know how to define and assess internal and external validity.   Know how to distinguish between external validity and external coherence.
+|Rubrique=
+|College=CNET
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Jérôme Lambert (CIMES),Alexandra Rouquette (CIMES)
+|Order=20
+|Identifiant=OIC-323-20-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+When reading a clinical trial article, you should look for evidence of internal validity, external validity (see [[Transposability of results (external validity or extrapolation) 2C-323-PE-A04|specific sheet]]), external consistency and clinical relevance (see [[Clinical relevance 2C-323-DE-A11|specific sheet]]).
+
+'''Internal validity: "do we believe in the results of this study?"''''
+
+It is based on the methodological quality of the study (in particular the prevention of bias) and the statistical analysis. It is the major element in establishing the level of evidence of a study (cf. [[Argue the levels of evidence of the main sources of information 2C-323-PE-A03|specific information]]: well-conducted double-blind randomised controlled trial = best internal validity). To interpret internal validity, the entire protocol must be of high quality (choice of selection criteria, evaluation criteria, comparator group, etc.).
+
+<u>Bias (cf. [[Basic knowledge of sources of error and bias 2C-020-DE-A12]])</u>
+
+*Systematic difference (i.e. not linked to sampling fluctuations) between the measured effect and the actual effect = distortion of the results,
+*Related to one or more methodological flaws in the design or implementation of the study,
+*Independent of sample size,
+*Calls into question the validity of the results.
+*3 main types of bias: selection bias, measurement bias (classification or information bias), confusion bias <u>(cf. [[Basic knowledge of sources of error and bias 2C-020-DE-A12]])</u> (cf. [[Basic knowledge of sources of error and bias 2C-020-DE-A12]])</u> (cf. [[Basic knowledge of sources of error and bias 2C-020-DE-A12]]).
+
+
+'''External validity (cf.'''' [[Transposability of results (external validity or extrapolation) 2C-323-PE-A04|specific form]]'''): "can I extrapolate the results observed in this study to the population of patients I usually treat?"'''
+
+External validity is assessed on the basis of the inclusion criteria for patients, doctors, centres and the various aspects of patient management. Any elements that deviate from 'everyday' practice reduce the external validity of the study.
+
+
+'''External consistency: "Are the results of the clinical trial:''''
+
+#Consistent with available knowledge (biological, pathophysiological, pharmacological, epidemiological, etc.)?
+#and consistent with other studies or meta-analyses already carried out?
+
+If this is the first test available, the results should be reproduced/confirmed by others, as it is not possible to completely eliminate (even if the test has good internal validity) a statistically significant result that is incorrect.
+
+External consistency is based not only on the comparison between groups in statistical terms, but also in terms of the clinical relevance of the difference observed (cf. [[Clinical relevance 2C-323-DE-A11|specific sheet]]).

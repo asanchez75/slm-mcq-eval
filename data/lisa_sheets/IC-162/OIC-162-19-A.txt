@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-162-19-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Knowing how to screen for human papillomavirus (HPV) infections
+|Description=Prevention
+|Heading=Management
+|Contributors=
+|Order=19}}
+The diagnosis of condyloma is a clinical diagnosis
+
+
+- In men, if urethral involvement: +/- urethroscopy,
+
+- In women: perform an FCV or HPV-HR test +/- colposcopy-biopsy
+
+- In the event of anal involvement: full proctological examination

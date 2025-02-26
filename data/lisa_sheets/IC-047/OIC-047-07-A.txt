@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-047-07-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Know the indications for referring a child to an ophthalmologist.
+|Description=None
+|Rubric=Management
+|Contributors=Elise Launay
+|Order=7}}
+
+Refer to ophthalmologist if
+
+* personal or family history: risk factors = ophthalmological examination between 3 and 12 months, even in the absence of warning signs.
+* abnormality or doubt on inspection
+* abnormality or doubt on screening test
+* warning signs
+* inability to measure visual acuity (verbal age)
+
+'''IN EMERGENCY if'''
+
+o leukocoria,
+
+o cloudy cornea (glaucoma)
+
+o sudden onset of strabismus
+
+o recent onset of nystagmus

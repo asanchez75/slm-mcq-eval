@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-103-03-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Knowing the elements of the diagnosis of vertigo and recognising differential diagnoses
+|Description=lipothymia, visual blur, epilepsy, phobic manifestations
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+
+
+*'''Elements of the diagnosis of [[Vertigo and vertiginous sensation SD-064|vertigo]]''''
+**Interrogation is essential.
+**Analytical semiology is based on the <u>characteristics of the vertigo</u>, its <u>duration</u>, the <u>circumstances of onset</u>, its <u>evolving characteristics</u>, the <u>associated symptoms,</u> and the <u>antecedents</u>.
+**cf: [[Definition of vertigo 2C-103-DE-A01]]: '''<big>notion of illusion of movement +++++</big>'''<br />
+
+*'''Differential diagnoses:''''
+**Lipothymia or vagal malaise [[Coma and consciousness disorders SD-028|(coma and consciousness disorders)]], orthostatic hypotension ([[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]])
+**Syncope, glare, flying flies, of cardiovascular, migraine ([[Headache SD-118|headache]]), visual ([[Diplopia SD-143|diplopia]], astigmatism) or epileptic origin ([[Convulsions SD-120|convulsions]]).
+**Polymorphic manifestations of [[Anxiety SD-116|anxiety]] or hypochondria, phobia (acrophobia, agoraphobia, panic attacks, etc.).
+
+
+'''<u>The presence of a LOSS OF KNOWLEDGE calls into question the VESTIBULAR origin</u>''''

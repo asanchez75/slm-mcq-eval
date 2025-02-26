@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-191-06-A
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=A
+|Item_parent_short=Fever in a febrile immunocompromised patient
+|Description=None
+|Rubric=Identification of urgency
+|Contributors=Amélie Servettaz
+|Order=6}}
+
+Febrile neutropenia is "always a therapeutic emergency". Appropriate antibiotic therapy should be started as early as possible, after taking appropriate microbiological samples. Antibiotic therapy must be "broad" and "adapted" to the depth of neutropenia, its duration and the patient's risk factors, any clinical warning signs and "previous microbiological documentation" (e.g. carriage of multi-resistant bacteria, history of Pseudomonas infection, etc.).
+
+In an immunocompromised patient, fever is always an emergency and an infectious agent must be sought, depending on the patient's deficiency (e.g. pneumococcal infection in a patient with a humoral deficiency, pulmonary pneumocystis in a patient with a cellular deficiency, etc.).

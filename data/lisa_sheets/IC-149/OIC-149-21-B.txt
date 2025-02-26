@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-149-21-B
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=B
+|Title=Knowing the evolution of ulcerative and ulcero-necrotic sore throat
+|Description=None
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=21}}
+The course depends on whether the aetiology is infectious or tumour-related.
+
+Vincent's angina can be complicated by Lemierre's syndrome.

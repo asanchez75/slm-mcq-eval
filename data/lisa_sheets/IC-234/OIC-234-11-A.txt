@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-234-11-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Knowing the additional examinations to be carried out urgently in cardiogenic PAO
+|Description=Know how to order: ECG, arterial GDS, chest X-ray, biological work-up, indication for natriuretic peptide assay, troponin, echocardiography, etc.
+|Rubric=Additional tests
+|Contributors=Olivier Huttin
+|Order=11}}
+None of these additional tests should delay patient management.
+
+
+- Blood tests: blood ionogram (Na+,K+), urea, creatinine, CBC, liver function tests
+
+- Troponin, especially in cases of chest pain and ECG changes
+
+- BNP or NT Pro BNP
+
+- ECG
+
+- Chest X-ray
+
+- Arterial blood gas
+
+- Cardiac ultrasound

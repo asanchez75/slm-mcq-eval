@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-07-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the specific symptomatology of the elderly
+|Description=Send item 70
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=7}}
+
+Non-psychiatric complaints (in particular [[Pain (CDS)|algesic]]), memory complaints, etc.).

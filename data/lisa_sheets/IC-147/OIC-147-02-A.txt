@@ -1,0 +1,114 @@
+{{knowledge objective
+|Identifiant=OIC-147-02-A
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=A
+|Title=Identifying emergency situations involving acute fever in adults and children
+|Description=Knowing how to identify: malignant hyperthermia, signs of haemodynamic and neurological severity, a travel context (malaria), a fragile patient (immunocompromised, etc.).
+|Rubric=Emergency identification
+|Contributors=
+|Order=2}}
+Emergency situations are related either to signs of seriousness, clinical orientation towards an aetiology that is a priori severe and/or to areas at risk of complications.
+
+'''<u>1- Clinical signs of severity</u>''''
+
+'''In adults'''
+
+These are signs of sepsis (sign of organ failure)
+
+- Neurological signs: anxiety, agitation [[Mental confusion/disorientation SD-119|confusion syndrome]], behavioural disorder
+
+- Cardiovascular signs: [[Discovery of arterial hypotension SD-043| systolic BP ≤100 mm Hg]]
+
+- Skin signs: [[Purpura/ecchymosis/haematoma SD-089|purpura]], cold and cyanotic extremities, mottling
+
+- Respiratory signs: polypnoea ≥22/min, draught, thoracoabdominal rocking, superficial polypnoea, SaO2 <90%.
+
+- Renal signs: oliguria <0.5 mL/kg/h, anuria
+
+The quickSOFA (qSOFA) is a rapid assessment score that quickly identifies septic patients at risk of a poor prognosis and requiring transfer to an intensive care unit (qSOFA≥2):
+
+- Systolic blood pressure ≤100mm Hg
+
+- Respiratory rate ≥22/min
+
+- Acute impairment of upper functions
+
+'''In children'''
+
+The signs of seriousness indicate organ failure (sepsis) in haemodynamic, neurological or respiratory terms (as in adults, but sometimes with different expressions) and/or a potentially severe bacterial infection. It is essential to examine the skin for purpura.
+
+- Hemodynamics: (Fc4P)
+
+o '''F'''requence '''c'''ardiaque: tachycardia is the earliest sign,
+
+o '''P'''ression artérielle: hypotension artérielle étant un signe de gravité extrême
+
+o Eripheric ''p'''circulation: signs of peripheral circulatory insufficiency (mottling, coldness of the extremities, elongated CRT)
+
+o '''P'''ouls: thready pulses = extreme severity
+
+o ''P'''recharge: the presence of hepatomegaly is a sign of extreme severity, indicating cardiac failure which may be secondary to sepsis (myocardial damage in ''purpura fulminans'', for example) or endocarditis.
+
+- Neurological :
+
+o importance of parental assessment and concern
+
+o Behaviour and interaction with those around it,
+
+o Consciousness: alert, smiling, drowsy (sometimes difficult to assess in a young infant)
+
+o Meningitis syndrome (see meningitis and specific signs in infants)
+
+! Convulsion (or febrile seizure) is not a sign of seriousness in itself (see specific situations).
+
+- Respiratory
+
+o '''F'''requence: polypnoea
+
+o '''T'''ravail: Respiratory distress, signs of struggle
+
+o '''V'''olume: asymmetric auscultation (purulent pleurisy), superficial acidosis respiration (lactic acidosis in sepsis)
+
+o '''O'''xygenation: desaturation (linked to the cause - severe respiratory infection - or to extreme circulatory failure)
+
+- Cutaneous
+
+o [[Purpura/ecchymosis/haematoma SD-089|Purpura]]: ''purpura fulminans''.
+
+o Diffuse erythema: toxin shock, [[Toxidermia|allergy]]
+
+o Detachment: severe allergy, infections
+
+o Mucosal involvement: allergy, Kawasaki (conjunctivitis, cheilitis)
+
+
+'''<u>2- Terrain at risk of serious infection and/or unfavourable evolution</u>''''
+
+- '''Infant under 3 months and a fortiori under 6 weeks'''
+
+- ''Pregnant woman'': risk of suffering or even foetal death, spontaneous miscarriage, premature delivery, etc.
+
+- '''Immunosuppression:'''' Deficiency of humoral or cellular immunity, neutropenia, immunosuppressive drugs, cirrhosis, etc.
+
+- '''Comorbidities:''' poorly balanced diabetes, cardiac insufficiency, coronary artery disease, respiratory insufficiency, chronic renal insufficiency, dependent and/or polypathological patients, trisomy 21, patient with foreign material: prosthesis, central catheter, etc.
+
+- The family environment and the possibility of appropriate monitoring are also important factors in the assessment of fever in an infant.
+
+
+Fever in itself is not a sign of seriousness, but can decompensate a comorbidity by :
+
+- Neurological effects of fever: behavioural problems, convulsions, delirium, etc.
+
+- Dehydration: each degree above 37°c increases water loss by 400mL/d
+
+- Decompensation of an underlying comorbidity: each degree above 37°C increases respiratory rate and heart rate by 10 beats per minute. Fever and chills increase oxygen requirements.
+
+
+'''<u>3- Special situations</u>''''
+
+- Any fever on return from a trip to an endemic area is malaria until proven otherwise. It is a diagnostic and therapeutic emergency.
+
+- '''[[Hyperthermia/fever SD-044|Malignant hyperthermia]]''' is a rare but serious environmental pathology. It is a medical emergency. Its definition is based on the combination of the following elements:  Central temperature above 40°C, neurological signs, absence of evidence in favour of an infectious origin and presence of an identified favouring factor (high age, physical exercise in a hot environment, co-morbidities, medication, etc.).
+
+- ''[[Convulsions in infants and children|Febrile seizure]]''' (formerly called hyperthermic convulsive seizure): common in children (2-5% of children aged 6 months to 5 years). Not directly related to fever, but rather to the associated "inflammatory climate". A prolonged febrile seizure and/or one occurring in a child outside the "classic" age range (under 6 months, over 5 years), presenting signs of haemodynamic, neurological or respiratory severity after the seizure, should raise the suspicion of a neuromeningeal infection.

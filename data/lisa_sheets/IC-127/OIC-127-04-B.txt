@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-127-04-B
+|Item_parent=Benign prostatic hypertrophy
+|Item_parent_short=Benign prostatic hypertrophy
+|Rank=B
+|Title=Knowing chronic complications
+|Description=Chronic urine retention, stasis lithiasis, obstructive renal failure, groin hernia
+|Section=Follow-up and/or prognosis
+|Contributors=Alexandre Ingels, Jonathan Olivier
+|Order=4}}
+
+
+==Chronic complications of BPH should be investigated and treated surgically.
+
+*Chronic retention of urine is suggested by the presence of a bladder globe which is not painful. In extreme cases, this retention leads to overflow micturition with urine leakage. It is confirmed by a reno-vesico-prostatic ultrasound (bladder with post-micturition residue > 150 cc). A differential diagnosis such as detrusor hypoactivity must be ruled out. The obstructive or acontractile origin of chronic retention can be differentiated by a dynamic urological assessment.
+
+*[[Urinary lithiasis|'''Stasis lithiasis''' 265]] is linked to the presence of a chronic post-mictional residue which encourages the crystallisation of urine. It leads to an increase in UABS and, more specifically, dysuria, and may be complicated by urinary tract infections or macroscopic haematuria. It is confirmed by renal-vesicoprostatic ultrasound (hyperechoic image).
+
+*The diagnosis of chronic renal failure in adults and children|''obstructive renal failure''' 264]] complicating BPH is based on renal-vesicoprostatic ultrasound, which shows bilateral dilatation of the pyelo-caliceal cavities, with alteration of the renal parenchyma, upstream of the subvesical obstruction, and an increase in creatinine levels in the biological work-up. There may be clinical signs of renal failure (oedema, weight gain, hypertension, nausea, etc.).
+
+*Disorders of micturition and urinary incontinence in adults and the elderly|dysuria 125]] linked to the symptom of bladder emptying is associated with chronic abdominal thrusts which may be complicated by a groin hernia. Management is surgical and must be carried out after the BPH has been treated (deobstruction).

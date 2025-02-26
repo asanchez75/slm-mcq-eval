@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-235-15-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=How to diagnose tamponade
+|Description=Knowing how to make the diagnosis in the presence of straight signs and/or a clinical picture of obstructive shock
+|Rubric=Identification of the emergency
+|Contributors=Jennifer Cautela
+|Order=15}}
+
+
+*Tamponnade = Adiastole'': the right +/- left ventricle is unable to fill due to the external pressure exerted by the effusion.
+*Cardiogenic shock due to compression of the cardiac chambers (most often the right, where the pressure is lowest) by an "abundant" and/or "sudden onset" pericardial effusion.
+*'''Clinical signs:''''
+**Chest pain with positional dyspnoea, polypnoea then orthopnoea and cough, sometimes dysphagia, nausea, hiccups,
+**Signs of acute right heart failure: jugular turgor, hepatojugular reflux''.
+**'''Signs of shock''': tachycardia and PAS<90mmHg, mottling, cold extremities
+**'''Muffled heart sounds'''
+**'''Paradoxical pulse =''' 10 mmHg drop in PAS on inspiration
+
+*'''ECG''': '''microvoltage''', sometimes '''electrical alternation''' (because the heart swings in the abundant fluid and therefore changes axis)
+*ETT:'' confirms the ''compression'' of the right chambers, especially during inspiration and the ''swinging heart'' aspect ''''' the displacement of the septum is paradoxical in inspiration.
+*Emergency" because it causes "cardiocirculatory arrest" (due to electromechanical dissociation) in the absence of treatment; ultrasound confirmation requires drainage
+*Emergency percutaneous or surgical drainage. Filling and amines while awaiting drainage''''

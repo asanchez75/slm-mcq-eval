@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-096-09-B
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=B
+|Title=Knowing the etiologies of the main neuronopathies
+|Description=Paraneoplastic neuronopathies
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+Sensory neuronopathies'' (pure sensory involvement) are either paraneoplastic or dysimmune (Gougerot-Sjögren syndrome).
+
+- Small cell lung cancer as part of a paraneoplastic syndrome,
+
+- Search for cancer by the most exhaustive means possible,
+
+- Search for antineuronal antibodies (including Hu-type antibodies).

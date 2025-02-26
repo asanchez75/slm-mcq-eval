@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-243-07-B
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=B
+|Title=Knowing the complications of hypothyroidism
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Eva Feigerlova,Igor Tauveron,Stéphanie Espiard
+|Order=7}}
+
+<br />
+====1. Cardiovascular complications====
+
+*functional impairment:
+**sinus bradycardia, reduced contractile force
+**heart failure and ventricular rhythm disorders (rarely);
+*infiltration: pericardial effusion;
+*coronary artery disease: hypothyroidism favours coronary atheroma; symptoms of coronary artery disease may become apparent when replacement therapy is instituted. [Acute coronary syndromes
+
+====2. Neuromuscular and neuropsychological complications====
+
+*depression, confusional syndrome or dementia, which are more common in the elderly
+*proximal myopathy and sleep apnoea.
+
+====3. RARE myxedematous coma ''':'''====
+
+====<small>- rare (in cases of profound primary hypothyroidism: TSH > 50 mIU/l)</small>====
+
+====<small>- a calm hypotonic and hypothermic coma</small>====
+
+====<small>- prognosis is severe. [[Non-traumatic coma in adults and children]]</small>====
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

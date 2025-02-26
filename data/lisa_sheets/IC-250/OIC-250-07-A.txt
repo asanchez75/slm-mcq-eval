@@ -1,0 +1,74 @@
+{{knowledge objective
+|Identifiant=OIC-250-07-A
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=A
+|Title=Knowing the diagnostic criteria for undernutrition in the elderly (over 70)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+
+
+The new criteria revised in 2021 by the French National Authority for Health (HAS) are detailed below.
+
+As in adults, a phenotypic criterion and an aetiological criterion must be met in order to diagnose undernutrition, and albumin levels alone are not sufficient to diagnose undernutrition. When combined with other diagnostic elements (BMI, percentage of weight loss, sarcopenia), the severity of undernutrition can be graded (moderate or severe).
+
+'''Phenotypic criteria''' :
+
+<br />
+{| class="wikitable"
+|
+|'''Undernutrition'''
+|'''Severe undernutrition'''
+|-
+|Percentage of weight loss
+
+  in 1 month
+
+  in 6 months
+
+compared with the usual weight
+|
+
+
+≥ 5% and < 10%
+
+≥ 10% et < 15%
+
+≥ 10 % and < 15
+|
+
+
+≥ 10%
+
+≥ 15 %
+
+≥ 15 %
+|-
+|Body mass index (kg/m²)
+|< 22
+|< 20
+|-
+|Sarcopenia confirmed by
+quantified reduction in strength and
+
+muscle mass
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|}
+A single impaired parameter is sufficient to diagnose undernutrition and severe undernutrition.
+
+In addition, albumin levels of between 30 and 35 g/L are a sign of moderate malnutrition, while albumin levels < 30 g/L are a sign of severe malnutrition.
+
+
+Aetiological criteria'' (one criterion is sufficient) :
+
+- Reduction in food intake ≥ 50% for more than 1 week, or any reduction in intake for more than 2 weeks in relation to quantified usual food consumption or estimated protein-energy requirements
+
+- Reduced absorption (maldigestion/malabsorption).
+
+- Situation of aggression (protein hypercatabolism with or without inflammatory syndrome): acute pathology or evolving chronic pathology or evolving malignant pathology.
+
+<br />

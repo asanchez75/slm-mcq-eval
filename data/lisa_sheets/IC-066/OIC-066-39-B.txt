@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-39-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the specific characteristics of the elderly
+|Description=Refer to item 70
+|Topic=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=39}}
+
+No specific symptoms of OCD in the elderly.

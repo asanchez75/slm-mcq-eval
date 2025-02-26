@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-164-09-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Title=Infectious eruptive diseases: scarlet fever
+|Description=epidemiology (A), clinical features (A), complications and referral (A), school avoidance (A)
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=9}}
+
+'''Epidemiology:''''
+
+- scarlet fever is linked to the ''erythrogenic toxin of Group A Streptococcus'' (GAS = ''Streptococcus pyogenes'')
+
+- predominantly in children aged 5 to 10, occurs more often in winter
+
+- human-to-human transmission via the respiratory route (oropharyngeal secretions, droplets)
+
+- there are several types of GAS producing different types of erythrogenic toxin, so it is theoretically possible to produce several types of scarlet fever
+
+- 80% of adults are immune to different types of toxin
+
+
+'''Prevention:'''
+
+- '''Eviction from the community''' up to 48 hours after the start of antibiotic therapy
+
+- Oral antibiotic prophylaxis in subjects at risk of invasive infection (see HCSP opinion on invasive GAS infections <nowiki>https://www.hcsp.fr/docspdf/cshpf/a_mt_181105_streptococcus.pdf</nowiki>)
+
+(NB: scarlet fever is not an invasive GAS infection, but justifies antibiotic prophylaxis in subjects at risk)
+
+
+Clinical features
+
+2 phases:
+
+           - pre-eruptive (invasion): high fever, marked general signs, ''erythematous'' or erythematopultaceous angina with a positive rapid diagnostic test and cervical adenopathy preceding the eruption by about 24 hours (''Angina of adults and children and rhinopharyngitis of children'', ''Odynophagia/dysphagia SD-052'').
+
+           - eruptive (6 days): ''diffuse erythema'', confluent ''without a gap of healthy skin'' with a ''granular'' appearance to the touch, erythema more marked in the flexion creases (axillary and inguinal)'', regression with ''desquamation'' in large flaps (glove fingers). The erythema is accompanied by mucosal involvement (enanthema) with ''exfoliative glossitis'' (tongue initially sandy, then depilated (V-lingual), then raspberry) and angina.
+[[File:Scarlet fever.jpg|neant|thumb]]
+[[File:17 scarlatina.jpg|neant|vignette]]
+                     
+
+
+                     
+
+Complications and referral
+
+Complications are the same as those of GAS angina: loco-regional complications (rare), post-infectious complications (acute glomerulonephritis and rheumatic fever), which have all but disappeared in France and in high-income countries.
+
+Treatment is the same as for GAS angina: antibiotic therapy with amoxicillin for 6 days, symptomatic analgesic treatment avoiding NSAIDs + preventive measures (see above).

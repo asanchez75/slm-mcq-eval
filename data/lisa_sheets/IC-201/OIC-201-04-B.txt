@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-201-04-B
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=B
+|Title=To know the epidemiological aspects, the results of organ transplants and the administrative organisation.
+|Description=Notion of organ shortage (ratio of transplants to waiting recipients), the role of the biomedicine agency
+|Rubric=Epidemiology
+|Contributors=Dany Anglicheau
+|Order=4}}
+
+===A.    Epidemiological aspects of organ transplantation===
+
+*There is a shortage of organs. Needs far exceed transplant possibilities.
+*There has been an overall increase in the number of registered organ transplant candidates.
+*There has been an overall increase in the number of organ transplants performed.
+
+===B.    Results===
+
+*Transplantation is prolonging and improving the lives of an increasing number of patients with end-stage failure of one or more organs.
+*The results of organ transplantation are expressed as actuarial survival, calculated for the survival of the transplanted organ and the survival of the recipient (Table 1).
+*Actuarial survival varies according to the organs transplanted.
+
+Table 1: Solid organ transplant outcomes (NO: not observable; Source: Agence de la Biomédecine medical and scientific report for 2018).
+{| class="wikitable"
+| rowspan="2" |'''Type of transplant'''
+| colspan="2" |'''Graft survival (cessation of function and/or death)'''
+| colspan="2" |'''Patient survival'''
+|-
+|'''At 1 year'''
+|'''At 10 years'''
+|'''At 1 year'''
+|'''At 10 years'''
+|-
+|Kidney
+|91,8
+|59,2
+|96.4 <sup>a</sup>
+|73.6<sup>a</sup>
+|-
+|'''Liver'''
+|83,5
+|NO
+|86,6
+|NO
+|-
+|'''Heart'''
+|76,6
+|56,2
+|76,7
+|56,8
+|-
+|Lung Bi
+|79,9
+|NO
+|80,2
+|NO
+|-
+|'''Heart-Lung''''
+|64,7
+|NO
+|65,1
+|39,9
+|-
+| Pancreas-Rein
+|78,3
+|NO
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|}
+<sup>a</sup> Kidney from deceased donor
+
+===C.    Administrative organisation===
+The administrative organisation of organ transplantation activities is based on the Agence de la Biomédecine (Biomedicine Agency), which has the following missions:
+
+*Managing the national list of patients awaiting transplantation;
+*co-ordinating organ harvesting and the distribution and allocation of harvested organs;
+evaluating the medical activities of transplantation teams; * managing the National Refusal Register (RNR);
+*managing the National Register of Refusals to Transplant (RNR);
+*promoting transplantation research;
+*promoting organ donation.
+
+
+The award rules depend on :
+
+*medical criteria (e.g. ABO blood group, HLA compatibility, shortest possible cold ischaemia time);
+*equity criteria (e.g. waiting time);
+*priority criteria that depend on the urgency of the transplant and the difficulty of finding a compatible recipient.

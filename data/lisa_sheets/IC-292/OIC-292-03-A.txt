@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-292-03-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Knowing how to diagnose cancer
+|Description=Know how to distinguish between the 3 diagnostic approaches: point of call, incidental, via mass screening, etc.
+|Topic=Positive diagnosis
+|Contributors=
+|Order=3}}
+Cancer can be diagnosed :
+
+- as part of organised screening, in an unselected population in a specific age group;
+
+- by chance during a complementary examination carried out for a reason other than cancer screening or diagnosis;
+
+- as part of a procedure initiated on the basis of a clinical or radiological suspicion.

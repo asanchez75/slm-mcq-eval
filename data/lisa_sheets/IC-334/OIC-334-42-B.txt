@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-334-42-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the principles of management of open and closed fractures
+|Description=Closed fractures: orthopaedic *or surgical; Associated measures: multimodal analgesia, prevention of venous thromboembolism, rehabilitation, clinical (patient in plaster) and radiological monitoring; Open fractures: local treatment (detersion, trimming), suture without tension, osteosynthesis dictated by the Gustillo classification, antibiotic therapy, etc.
+|Rubric=Management
+|Contributors=CFCOT
+|Order=42}}
+
+'''General principles'''
+
+For all limb fractures, specific management will take place in two stages:
+
+* reduction of displacement" = restoration of normal anatomy (axis, length, rotation of the fractured segment)
+* contention" = maintenance of the reduction, either by immobilisation (plaster cast or not = orthopaedic treatment), or by means of osteosynthesis (surgical treatment).
+
+'''Common therapeutic measures:''''
+
+* multimodal systemic analgesia +/- locoregional truncal analgesia ([[Local, locoregional and general anaesthesia|item 136]])
+* rehabilitation: early mobilisation, physiotherapy, standing, finger/toe mobility under plaster, active recovery of joint amplitudes and muscle strength
+* prevention of venous thromboembolism, adapted to the risk of haemorrhage, the terrain and the duration of immobilisation
+
+'''Closed fractures:''''
+
+* non-displaced and uncomplicated, stable: orthopaedic medical treatment: reduction + plaster cast
+* unstable or displaced: surgical treatment: reduction + osteosynthesis under local or general anaesthetic
+
+'''Open fractures:''''
+
+* emergency treatment < 6 h after trauma
+* Emergency antibiotic prophylaxis: high-dose intravenous antibiotics covering aerobic and anaerobic soil germs, with good penetration of bone and soft tissues:
+** amoxicillin + clavulanic acid in the absence of allergy to penicillin / clindamycin + gentamycin if allergic to penicillin.
+** duration: < 24 h if Cauchoix 1 or Gustillo I or II; 24 to 48 h if Cauchoix 2 or Gustillo IIIa; sometimes > 48 h if Cauchoix 3 or Gustillo IIIb or IIIc and heavy soil contamination.
+* removal of foreign bodies and devitalized tissues, detersion, lavage, wound trimming: it is advisable to trim the wound iteratively (every 48 hours) in cases of severe decay.
+* suture of the wound or cover flap if suture is not possible
+* vascular bypass if Gustillo IIIc
+* reduction and surgical osteosynthesis according to severity stage
+
+'''Surveillance'''
+
+* clinical: local and general complications, monitoring a patient in plaster, remote consultation
+* radiology at D0, D7, D15, D30, D45: secondary displacement or pseudarthrosis

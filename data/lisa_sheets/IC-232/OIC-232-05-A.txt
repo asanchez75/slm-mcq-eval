@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-232-05-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Intitle=Identify on electrocardiogram
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Jean-Baptiste GUICHARD
+|Order=5}}
+The '''ECG characteristics of AF''' are represented in the figure below.
+[[File:ECG characteristics of AF.png|centre|vignette|alt=|600x600px]]
+'''Particular ECG presentations''' may be encountered:
+
+*AF with wide QRS, in case of :
+**Organic bundle branch block
+**Functional bundle branch block = conduction aberration: bundle branch block occurring only at high ventricular frequencies.
+
+*large mesh AF'': not to be confused with atrial flutter
+*AF with BAV 3'': the ECG characteristics are shown in the figure below.
+
+[[File:FA with full BAV.png|centered|thumbnail|alt=|600x600px]]
+<br />

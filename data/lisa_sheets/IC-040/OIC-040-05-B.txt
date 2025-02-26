@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-040-05-B
+|Item_parent=Pelvic pain in women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=B
+|Title=Knowing complementary biological examinations
+|Description=None
+|Rubric=Complementary tests
+|Contributors=Virginie Grouthier,Pierre-Emmanuel Bouet
+|Order=5}}
+The main additional biological tests to be carried out in the event of acute abdominal pain are :
+
+* Quantitative measurement of plasma β-hCG to rule out pregnancy.
+* Blood count to check for :
+** ''''' anaemia (SDD 217)''''', signs of serious internal haemorrhage which may be secondary to cyst rupture or EP.
+** a ''hyperleukocytosis <u>(SDD 216)</u>'', as part of an infectious syndrome.
+
+* The '''C-Reactive Protein''' (CRP) <u>(SDS 203)</u> assay to look for an '''inflammatory syndrome (SDS 186)''' in the context of a [[Sexually transmitted infections (STIs): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis|high genital infection.]]]
+
+* A ''pre-operative work-up'' (Group, RAI, Rh, TP, TCA, fibrinogen) in case of strong suspicion of ruptured EP or adnexal torsion or severe sepsis on IGH leading to rapid surgical management.
+
+Bacteriological samples will also be taken from the vagina, cervix, uterus or abdomen (during laparoscopy) in cases of suspected acute or chronic upper genital infection.

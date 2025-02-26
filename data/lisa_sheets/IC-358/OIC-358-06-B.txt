@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-358-06-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Know the biological elements to suspect a biliary origin in acute pancreatitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Transient biological abnormalities are suggestive of a biliary origin (lithiasis migrating into the main bile duct):
+
+* an early peak in transaminases (ASAT and ALAT), sometimes high (often >10N),
+* often associated with an increase in cholestasis markers: PAL, GGT and bilirubin.

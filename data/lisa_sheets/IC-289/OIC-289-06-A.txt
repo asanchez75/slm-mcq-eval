@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-289-06-A
+|Item_parent=Parietal hernia in children and adults
+|Item_parent_short=Parietal hernia in children and adults
+|Rank=A
+|Title=Knowing the clinical signs suggestive of an uncomplicated inguinal hernia in children
+|Description=Diagnosis and management
+|Rubric=Positive diagnosis
+|Contributors=Pablo Ortega-Deballon,David Moszkowicz,Olivier Farges
+|Order=6}}
+
+- At the umbilical level, the navel bulges, particularly when the child cries or coughs. It may decrease in size during the first 3 years of life.
+
+- Inguinal hernia in children presents as an oblong, soft, painless swelling that increases with effort (Figure 3). It should be distinguished from adenopathy and testicular ectopia (which are not triggered by coughing or pushing). When the hernia is inguino-scrotal, the differential diagnosis must be made with testicular hydrocele.

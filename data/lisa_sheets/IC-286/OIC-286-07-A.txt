@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-286-07-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Title=Knowing the indications for complementary examinations
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=7}}
+[[File:Investigation of acute adult diarrhoea.png|vignette|Investigation of acute adult diarrhoea]]
+'''Adult'''
+
+The vast majority of episodes of acute diarrhoea evolve spontaneously without the need for further investigations.
+
+In the case of acute diarrhoea, further tests are only necessary if at least one of the following signs is present:
+
+- Evolution > 3 days
+
+- Fever > 38.5°C
+
+- Blood or pus in the stools (dysenteric syndrome)
+
+- Significant dehydration
+
+- Fragile medical condition (elderly, valvulopathy, immunodepression, etc.)
+
+- Nosocomial epidemics, post-antibiotics, suspected TIAC
+
+
+The investigation of acute diarrhoea in adults with one or more of the clinical signs listed above will call for complementary tests (Figure 1):
+
+- Stool bacteriological tests (coproculture or multiplex PCR bacteria): these identify Salmonella sp, Shigella sp, Yersinia sp and Campylobacter sp. Any suspicion of another germ must be specified to the microbiologist on the request for examination, in particular "Clostridioides difficile" and its toxins, depending on the context.
+
+- Blood cultures in case of fever (in case of typhoid linked to Salmonella thyphi-, digestive translocation)
+
+- Testing for enteric viruses: not carried out routinely, only in reference centres, for certain immunocompromised patients (transplant patients, etc.).
+
+- Parasitological stool examination (PSE): to be carried out 3 days in a row (or multiplex parasite PCR), only in the event of a stay in an endemic area within one month of return. Enables the following parasites responsible for diarrhoea to be identified: ''Giardia intestinalis, Entamoeba histolytica, Cryptosporidium spp'' (special staining required if EPS).
+
+- Digestive endoscopy: rectosigmoidoscopy or ileocolonoscopy with biopsies for histology and microbiology. To be carried out only in the light of the context (persistent symptoms, suspected inflammatory origin, ileitis suspected or seen on cross-sectional imaging, etc.).
+
+o In the event of rectitis or rectosigmoiditis, be aware of sexually transmitted infections such as chlamydia, gonorrhoea, syphilis and/or herpes virus (HSV). Sometimes there are multiple sexually transmitted infections involving several micro-organisms. Research on rectal swab for antigen detection tests (''Chlamydiae'',''' gonococcus'')'' and/or virology (HSV) with directed request and serologies (syphili''s).'' If positive, test for HIV and HBV. [B]
+
+- Assessment of the impact according to the clinical examination :
+
+o If dehydration: blood ionogram (dysnatraemia, hypokalaemia if vomiting or diarrhoea), creatininaemia (acute renal failure), gasometry (alkalosis or metabolic acidosis).
+
+o If fever and abdominal tenderness: abdominopelvic CT scan with injection (depending on renal function) to look for severe colitis complicated by perforation or colectasis.
+
+
+
+
+'''Child'''
+
+The vast majority of episodes of acute diarrhoea evolve spontaneously without the need for further investigations.
+
+The indications for coproculture are very limited.
+
+In the event of dehydration, a blood ionogram is essential. In the event of poorly tolerated fever, a blood test (CBC, blood cultures, CRP) will be carried out.
+
+If there is a suspicion of abdominal surgical pathology, an abdominal ultrasound scan may be performed.
+
+
+
+<br />

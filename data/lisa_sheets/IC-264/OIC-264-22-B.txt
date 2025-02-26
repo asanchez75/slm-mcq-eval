@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-264-22-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Know the principles of dialysis (haemodialysis or peritoneal dialysis): purification and exchanges through a synthetic membrane (dialyzer in haemodialysis) or the peritoneal membrane (in peritoneal dialysis).
+|Description=notion of dialysis time required for exchanges, purification and control of fluid volumes and metabolic abnormalities induced by CKD.
+|Rubric=Management
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=22}}
+
+The objectives of haemodialysis or peritoneal dialysis are :
+
+*Control fluid volumes by maintaining the patient at a theoretical ideal weight - known as "dry weight" - corresponding to a normal state of hydration and blood pressure,
+*extract urinary elimination molecules such as urea, creatinine and other toxins,
+*correct electrolyte abnormalities induced by end-stage CKD (hyperkalaemia, metabolic acidosis, hypocalcaemia, dysnatraemia).
+
+Haemodialysis is the most widely used dialysis technique in France (>90%). It is usually carried out at a rate of 3 weekly sessions of 4 to 6 hours. It involves an extracorporeal blood circuit. Diffusive or convective exchanges are carried out through a synthetic membrane.
+
+Peritoneal dialysis is a dialysis technique that allows home treatment while preserving quality of life. The peritoneal membrane enables exchanges to take place through diffusive transfers, as well as ultrafiltration. Dialysis fluid is left permanently in the abdomen; the method (manual or automated) and frequency of exchanges are adapted according to need.
+
+
+'''A detailed description of the chapter is available at: http://cuen.fr/manuel2/spip.php?rubrique18''''
+
+<br />

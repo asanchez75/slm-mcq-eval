@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-177-14-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contra-indications, spectrum, side-effects and interactions) the main molecules belonging to the imidazoles.
+|Description=Metronidazole
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=14}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Imidazoles''''
+
+'''(molecule: metronidazole)''''
+|Infections caused by susceptible anaerobic bacteria, prevention of post-operative infections caused by anaerobic bacteria, amoebiasis, urogenital trichomoniasis, non-specific vaginitis, giardiosis, treatment of uncomplicated Clostridoides difficile colitis.
+|Hypersensitivity to the active substance, to other 5-nitroimidazoles or to one of the excipients.
+|Anaerobes (except ''Actinomyces'' and ''Cutibacterium),'' antiparasitic activity (''Entamoeba histolytica, Giardia intestinalis, Trichomonas vaginalis'')
+|Antabuse effect with alcohol, nausea, vomiting, abdominal pain, glossitis, stomatitis, metallic taste, headache, neuropathy.
+
+
+Interactions: amiodarone, barbiturates, busulfan, carbamazepine, cimetidine, coumarin derivatives, cyclosporine, lithium, phenytoin
+|}

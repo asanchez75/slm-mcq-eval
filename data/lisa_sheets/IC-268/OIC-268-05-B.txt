@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-268-05-B
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=B
+|Title=Know the main ECG abnormalities associated with hypercalcaemia
+|Description=Know how to identify QTc shortening
+|Section=Additional tests
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=5}}
+
+The electrical signs of hypercalcaemia are
+
+shortening of the QT interval +++ * sinus tachycardia
+* sinus tachycardia
+* repolarisation disorders (ST segment sub-shift)
+* ventricular rhythm disorders
+
+
+Below is an example of an ECG of a patient with hypercalcaemia at 4.6 mmol/L (bone metastases breast cancer).[[File:ECG Hypercalcaemia.jpg|vignette|ECG of a patient with hypercalcaemia at 4.6 mmol/L (bone metastases breast cancer). Note the shortened QT interval of 259 ms and an equally short QTc of 339 ms].

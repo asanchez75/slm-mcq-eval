@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-290-09-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=To understand the concept of attributable risk and the characteristics of the three levels of risk
+|Description=Medium, high and very high risk
+|Heading=Etiologies
+|Contributors=
+|Order=9}}
+The risk attributable to a cancer risk factor is the proportion of cancers that can be prevented by eliminating this factor. Cancer risk factors are assessed regularly by the International Agency for Research on Cancer (IARC), taking into account levels of evidence.
+
+Some factors are modifiable and linked either to lifestyle (e.g. smoking, alcohol, etc.) or to the environment (e.g. occupational exposure, UV exposure, etc.).
+
+Risk levels are classically described as medium, high and very high, depending on the risk factors. These risk levels guide recommendations for cancer screening.

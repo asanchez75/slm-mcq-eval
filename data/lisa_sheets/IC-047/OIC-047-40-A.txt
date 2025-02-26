@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-047-40-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Childhood mortality and morbidity
+|Description=including accidentology and according to age
+|Rubric=Epidemiology
+|Contributors=
+|Order=40}}
+Mortality and morbidity in children, and more generally in children and adolescents, are a reflection of the overall state of health of a population.
+
+Infant mortality in 2019 = 3.6 per 1,000 live births, a rising trend in recent years whereas it is falling in other European countries ([[Prevention of unexplained infant death SD-318]])
+[[File:Causes mortality.png|neant|vignette|330x330px|Causes of mortality in children and young adults according to 2016 INSEE data]]
+Morbidity by age
+
+           Neonatal period: prematurity
+
+           Infants: respiratory infections, atopy (eczema, allergies, asthma)
+
+           Children: atopy, learning disabilities
+
+           Adolescents: mental disorders, behavioural problems, decompensation of chronic illnesses
+
+All ages: the need for prevention and screening
+
+Preventive measures include obesity, abuse, psychological disorders, accidents and environmental exposure.
+<br />

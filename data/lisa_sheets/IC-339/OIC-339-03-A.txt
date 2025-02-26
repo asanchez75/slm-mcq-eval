@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-339-03-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Knowing the prevalence of ACS and its mortality
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Mathieu Kerneis
+|Order=3}}
+
+
+* The number of people treated for ACS (ST+ or ST-) in France = 83,000/year'' (1.4/1000hab/year)
+* The 6-month mortality rate for ST+ and ST- ACS is 6%.
+* '''In-hospital mortality for ST+ ACS is 3%'''

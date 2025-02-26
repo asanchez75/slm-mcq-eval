@@ -1,0 +1,79 @@
+{{knowledge objective
+|Identifiant=OIC-336-03-A
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=A
+|Title=Diagnosing a coma, assessing its stage and depth of coma (Glasgow Coma Scale) in adults and children.
+|Description=Be able to calculate and interpret a Glasgow Coma Score.
+|Rubric=Positive diagnosis
+|Contributors=Nicolas Weiss
+|Order=3}}
+
+- Lack of response from the patient despite verbal, tactile or painful stimulation (increasing intensity) in a patient with eyes closed who appears unconscious.
+
+- Make sure there is a central pulse, otherwise treat as a cardiorespiratory arrest.
+
+- Make sure there is no trauma, if not, treat as a traumatic coma
+
+- Assessment of depth using nociceptive stimuli: pressure on the nail beds of the four limbs and pressure on the temporo-mandibular region (Pierre Marie and Foix manoeuvre).
+
+- Systematically achieving a Glasgow score
+{| class="wikitable"
+|Ocular response
+|Verbal response
+|Motor response
+|-
+|
+|
+|M6
+
+Normal on demand (single orders)
+|-
+|
+|V5
+
+Coherent, oriented discourse
+|M5
+
+Localizes pain, moves away from pain (pushes arm away)
+|-
+|Y4
+
+Spontaneous eye opening
+|V4
+
+Confused answer (able to make sentences but incoherent or unsuited to the question)
+|M4
+
+Not oriented to pain (withdraws from stimulated side, fidgets)
+|-
+|Y3
+
+Eye opening on demand
+|V3
+
+Inappropriate response (able to say words, inappropriate, incoherent)
+|M3
+
+Stereotyped flexion (formerly decortication)
+|-
+|Y2
+
+Opening your eyes to pain
+|V2
+
+Incomprehensible response (makes sounds, noises, grunts)
+|M2
+
+Stereotyped extension (formerly decerebration, coiling)
+|-
+|Y1
+
+Failure to open eyes to pain
+|V1
+
+No response, not even to pain
+|M1
+
+None to pain
+|}

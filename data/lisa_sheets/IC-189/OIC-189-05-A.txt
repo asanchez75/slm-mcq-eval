@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-189-05-A
+|Item_parent=Immune deficiency
+|Item_parent_short=Immune deficiency
+|Rank=A
+|Title=Knowing the complications of immunosuppressive treatments
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Depending on the type of immunosuppressant (IS), the risks of infection are different.
+
+It is important to remember
+
+* IS can disrupt various immune responses (e.g. corticosteroids).
+* SIs are often combined with one another, which increases the risks.
+* The disease or situation for which IS are prescribed may be the cause of immunodepression.
+
+
+1/ Immunosuppressants inducing a humoral immunity deficit
+
+* Infections: encapsulated bacteria: Pneumococcus and Haemophilus influenzae.
+* Responsible drugs: Rituximab ++, prolonged corticosteroid therapy.
+
+
+'''2/ Immunosuppressants inducing a cellular immunity deficit'''
+
+* Infections: intracellular germs (PNEUMOCYSTOSIS+++, but also viruses (shingles, CMV...), mycobacteria, fungi (Candida...), parasites (toxoplasmosis).
+* Responsible drugs": prolonged corticosteroid therapy, certain chemotherapies used in the treatment of chronic lymphocytic leukaemia and lymphomas (fludarabine, bendamustine), immunosuppressants used in solid organ transplants and the treatment of auto-immune diseases: azathioprine, mycophenolate mofetil, anti-calcineurins (ciclosporin, tacrolimus), etc.
+
+
+3/ Immunosuppressants inducing neutropenia
+
+* Infections: pyogenic bacteria and filamentous fungi (Aspergillus).
+* Responsible drugs: cytotoxic chemotherapy (NB: frequently associated with alteration of the mucosal barrier (mucositis)).
+
+
+4/ Anti-cytokine drugs
+
+* Infections: tuberculosis but also infections with pyogens and other intracellular germs.
+* Anti-cytokine drugs

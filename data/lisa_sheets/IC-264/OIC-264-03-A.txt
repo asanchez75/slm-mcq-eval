@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-264-03-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing how to quantify proteinuria
+|Description=Albuminuria to creatinuria ratio and proteinuria to creatinuria ratio
+|Rubric=Definition
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=3}}
+
+Clinical proteinuria is defined by one of these criteria:
+
+* an albuminuria/creatininuria ratio > 300 mg/g or 30 mg/mmol
+* a protein/creatinine ratio > 500 mg/g or 50 mg/mmol
+* 24-hour proteinuria > 0.5 g.

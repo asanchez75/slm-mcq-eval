@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-088-05-A
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=A
+|Title=Knowing the diagnostic approach to dysphonia
+|Description=Know the positive clinical elements that allow the diagnosis to be made.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Any persistent dysphonia should be examined during an ENT consultation with nasopharyngeal fibroscopy.
+
+The aim of this examination is to look for laryngeal cancer, particularly in subjects at risk.
+
+In the case of any persistent dysphonia, it is essential to carry out an examination of the vocal cords during the ENT consultation.
+
+The examination must include :
+
+- search for cancer risk factors: age, "vocal risk" profession (such as teachers), sex, alcohol, smoking, gastro-oesophageal reflux, history of surgery or trauma;
+
+- look for associated signs: dyspnoea, dysphagia, false routes ;
+
+- Examination of the cranial pairs, in particular: lingual motor function (XII), motor function of the soft palate (X), and of the posterior pharyngeal wall (IX and X: "curtain sign");
+
+- examination of the cervical areas and thyroid gland.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-359-17-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing first aid for children presenting with respiratory distress of ENT origin
+|Description=Describe the measures to be taken in the event of emergency laryngeal dyspnea, epiglottitis, bronchiolitis: actions (LVAS, position, etc.) and manoeuvres (Heimlich), immediate monitoring measures, patient referral, etc.
+|Rubric=Emergency identification
+|Contributors=Guillaume Mortamet
+|Order=17}}
+
+- Airway clearance, deobstruction
+
+- Assessment and management of respiratory distress: half-seated position, administration of oxygen if necessary, provision of ventilatory support if required, etiological treatment, etc.

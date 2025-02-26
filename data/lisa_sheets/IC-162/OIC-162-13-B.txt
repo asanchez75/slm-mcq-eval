@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-162-13-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Knowing the causes of upper genital infections in women
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=13}}
+Venereal origin :
+
+- Gonococcus
+
+- Chlamydia
+
+- Trichomoniasis
+
+Mycoplasma genitalium
+
+Non-venereal origin: streptococcus, staphylococcus, enterococci, enterobacteria, etc.

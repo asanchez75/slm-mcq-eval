@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-336-06-B
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=B
+|Title=Know the diagnostic criteria for brain death
+|Description=Know the clinical examination of a brain-dead patient and the additional tests required (angiography, EEG).
+|Rubric=Positive diagnosis
+|Contributors=Nicolas Weiss
+|Order=6}}
+
+'''In the absence of confounding factors,'''
+
+'''Diagnosis of brain death =''''
+
+- '''Deep coma Glasgow = 3'''
+
+- '''Abolition of all brain stem reflexes'''
+
+- '''One of the additional tests confirming the diagnosis'''
+
+- Clinical examination :
+
+o Absence of trunk reflexes
+
+§ Absence of photomotor reflex
+
+§ Absence of corneal reflex
+
+§ Absence of oculovestibular reflex (absence of eye movements on passive mobilisation of the head)
+
+§ Absence of cough reflex
+
+§ Absence of oculocardiac reflex
+
+o Abolition of spontaneous ventilation with hypercapnia test in ventilated patients
+
+
+'''+'''
+
+
+- Additional tests (2 possibilities) :
+
+
+o 2 electroencephalograms
+
+§ At least 30 minutes
+
+§ 4 hours apart
+
+§ At maximum amplification
+
+§ Conditions: patient temperature > 35°C, negative toxicity (barbiturates +++)
+
+'''OR'''
+
+
+o Imaging examination with injection of contrast medium
+
+§ 4-axis angiography
+
+§ Angioscanner
+
+§ Absence of visualization (opacification) of the intracerebral arteries
+
+
+NB: although the transition to brain death is often accompanied by diabetes insipidus, its presence is not one of the criteria. The diagnosis of brain death allows the death certificate to be signed.

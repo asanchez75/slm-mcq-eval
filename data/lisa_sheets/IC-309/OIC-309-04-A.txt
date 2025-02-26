@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-309-04-A
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=A
+|Title=Know the circumstances of discovery and clinical manifestations of lung tumours (including paraneoplastic syndromes).
+|Description=Know the main signs and clinical situations that should raise the suspicion of lung cancer (localised, locally advanced and metastatic).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The diagnosis is most often made at a locally advanced or metastatic stage (60 to 75% of cases).
+
+* General signs of cancer: asthenia, anorexia, weight loss.
+* Functional respiratory signs: [[Dyspnoea SD-162|dyspnoea]]; [[Cough SD-167|cough]] persistent; [[haemoptysis]]
+* Signs related to locoregional progression:
+** Mediastinal organ involvement: superior cava syndrome; dysphagia; dysphonia; phrenic paralysis, etc.
+** pleural involvement: pain, pleural effusion
+** Thoracic parietal involvement: pain, palpable mass
+** Bronchial obstruction: infection, cornage/wheezing
+** Pancoast-Tobias syndrome
+* Signs related to a metastatic location: neurological signs, bone pain, skin lesion, etc.
+* Signs associated with a pro-coagulant state: venous thrombo-embolic disease, etc.
+* Signs related to a para-neoplastic syndrome: numerous, including :
+** Syndrome of inappropriate secretion of anti-diuretic hormone: hyponatremia.
+** Cushing's syndrome
+** Neurological syndromes: pseudomyasthenia; peripheral neuropathy; limbic encephalitis, etc.
+** Hypertrophic pneumonic osteoarthropathy: digital hippocratism, painful oedema of the extremities with sheathing periostitis.
+** Isolated digital hippocratism
+
+The disease may be discovered in an asymptomatic patient, incidentally or otherwise, on a thoracic imaging scan for any reason.
+
+<br />

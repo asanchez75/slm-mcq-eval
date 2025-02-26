@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-196-02-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Title=Knowing the pathophysiology of rheumatoid arthritis
+|Description=Multifactorial disease concept
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=2}}
+Rheumatoid arthritis: a multifactorial disease of unknown cause, involving genetic and environmental factors. Characterised by an excessive immune response, with the production of autoantibodies (rheumatoid factor, which has long been known but is not very specific for the disease, and anti-citrullinated protein autoantibodies or ACPA, which are very specific), as well as an inflammatory reaction in the joints (synovitis) and systemically.

@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-303-01-A
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=A
+|Intitle=Getting to know the definition of stomach tumours
+|Description=Anatomical description and main histological types
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Most stomach tumours are benign (glandular cystic polyps, hyperplastic polyps, adenomatous polyps).
+
+There are 4 anatomopathological types of malignant tumour of the stomach.
+
+§ The most common is adenocarcinoma.
+
+Stomach adenocarcinoma can be localised:
+
+o Either in the proximal part
+
+- Oeso-gastric junction (cardia)
+
+- Body of the stomach (fundus),
+
+o Or distally, under the anto-gundial angle (antrum-pylorus)
+
+Gastric adenocarcinoma is also classified according to the presence or absence of molecular alterations with a therapeutic impact (HER2 status, MSI status, PD-L1 expression).
+
+
+§ Other rarer histologies of primary malignant gastric tumours have a more favourable prognosis:
+
+o Endocrine tumours,
+
+o Mucosa-Associated Lymphoid Tissue (MALT) lymphomas
+
+o Stromal tumours (GIST: Gastro-Intestinal Stromal Tumor)
+
+
+§ Malignant tumours of the stomach can also be metastatic gastric localisations of an extra-gastric primary, primarily breast cancer.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-331-06-A
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=A
+|Title=Knowing basic ventilation needs
+|Description=Know the technique of oxygenation with a guedel's cannula; know that adult ventilation is not a priority; know that child/infant ventilation is essential.
+|Rubric=Management
+|Contributors=
+|Order=6}}
+Ventilation is not a priority for adults. For the citizen, it is not carried out in the first few minutes. In a team, it should be performed using a unidirectional valve bag, ensuring that the mask is airtight, ideally with 4 hands. A Guedel cannula may be used. Mouth-to-mouth resuscitation should only be used in the absence of protective equipment, and is prohibited during the COVID period. In all cases, the volume insufflated is low.
+
+In paediatrics, ventilation is an absolute priority due to the high prevalence of hypoxic RTA.

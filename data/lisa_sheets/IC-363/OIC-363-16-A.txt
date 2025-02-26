@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-363-16-A
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=A
+|Title=Radiography of the wrist with Pouteau-Colles fracture
+|Description=None
+|Rubric=Multimedia content
+|Contributors=CFCOT
+|Order=16}}
+
+<gallery>
+File:8.png
+</gallery>

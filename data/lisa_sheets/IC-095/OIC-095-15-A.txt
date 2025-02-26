@@ -1,0 +1,186 @@
+{{knowledge objective
+|Identifiant=OIC-095-15-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and ductal syndrome
+|Rank=A
+|Title=Know the most frequent topographical forms of ductal and radicular syndromes
+|Description=Carpal tunnel syndrome, ulnar nerve compression syndrome at the elbow,
+|Rubric=Positive diagnosis
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=15}}
+
+'''Radiculopathies of the lower limb :'''
+{| class="wikitable"
+|'''Spinal root''''
+|'''Pain trajectory'''
+
+'''Sensory territory'''
+|Motor deficit
+|'''Osteotendinous reflex'''
+|-
+|L2
+|Buttock
+
+Inner thigh
+|Thigh / pelvis flexion
+
+(psoas)
+|-
+|-
+|L3
+|Buttock
+
+Anterior thigh
+
+Medial side of the knee
+|Knee extension
+
+(quadriceps femoris)
+|Rotator cuff
+|-
+|L4
+|Buttock
+
+Anterolateral thigh
+
+Front knee
+
+Anteromedial leg
+|Knee extension
+
+(quadriceps femoris)
+
+Dorsal flexion of the foot
+
+(anterior tibial)
+|Rotulus
+|-
+|L5
+|Buttock
+
+Side of thigh & leg
+
+Dorsal side of foot and toes
+|Toe extension
+
+Foot eversion
+
+(fibular)
+
+Dorsal flexion of the foot
+
+(anterior tibial)
+|-
+|-
+|S1
+|Buttock
+
+Posterior thigh & leg
+
+Plantar side of foot
+
+Foot side edge
+
+5th toe
+|Plantar flexion foot
+
+(sural triceps)
+|Achilles
+|-
+|S2, S3, S4
+|Perineum
+|Retrusor
+
+Urethral and anal sphincters
+|Anal
+
+Bulbo- or clitorido-anal
+|}
+'''Radiculopathies of the upper limb:'''
+{| class="wikitable"
+|'''Spinal root''''
+|'''Pain trajectory'''
+
+'''Sensory territory'''
+|Motor deficit
+|'''Osteotendinous reflex'''
+|-
+|C5
+|Lateral shoulder and arm
+|Shoulder abduction
+
+(deltoid)
+|bicipital
+|-
+|C6
+|Front arm
+
+Anterolateral forearm
+
+Thumb
+|Elbow flexion
+
+(biceps brachii)
+|Styloradial
+|-
+|C7
+|Posterior upper arm & forearm
+
+2<sup>th</sup>& 3<sup>th</sup> fingers
+|Elbow extension
+
+(triceps brachii)
+|Tricipital
+|-
+|C8-T1
+|Medial side of arm and forearm
+
+4<sup>th</sup>& 5<sup>th</sup> fingers
+|Finger flexion/abduction/adduction
+
+(finger flexors / interosseous)
+|Ulnopronator
+|}
+'''Root canal syndromes:''''
+{| class="wikitable"
+|'''Peripheral nerve''''
+|'''Paresthesia pathway'''
+
+'''Sensory territory'''
+|Motor deficit
+|Manoeuvres
+|-
+|Median nerve
+|First 3 fingers
+
+Lateral edge of 4th finger
+
+Palmar surface of the hand
+|Opposite and abductor pollicis brevis
+
+thenar eminence muscular atrophy
+|Tinel's sign
+
+(with carp)
+
+Sign of Phalen
+|-
+|Ulnar nerve
+|5th finger
+
+Medial edge of 4th finger
+
+Medial border hand
+|Interosseous
+
+Adductor thumb
+
+Hypothenar eminence muscular atrophy
+|Tinel's sign
+
+(at elbow)
+
+Froment's sign
+
+Crossing sign
+|}

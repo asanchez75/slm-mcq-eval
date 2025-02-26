@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-337-10-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Knowing how to implement symptomatic treatment in the initial phase
+|Description=Airway clearance, lateral position, oxygen therapy, item 336 and item 359; Calling the referring doctor.
+|Section=Management
+|Contributors=Dominique Vodovar
+|Order=10}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 1.jpg
+</gallery><gallery widths="300" heights="300">
+File:Intox fig 3.jpg
+</gallery>

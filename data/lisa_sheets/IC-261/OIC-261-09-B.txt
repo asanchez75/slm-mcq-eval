@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-261-09-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Knowing the principles of SNLGM
+|Description=To know the elements of the treatment of a SNLGM (to know the principles of corticotherapy and its follow-up).
+|Rubric=Management
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=9}}
+
+Treatment of idiopathic SNLGM
+
+* Symptomatic treatment of nephrotic syndrome.
+* Prolonged high-dose oral corticosteroid therapy, with adjuvant treatments (diet, calcium, vitamin D, etc.).

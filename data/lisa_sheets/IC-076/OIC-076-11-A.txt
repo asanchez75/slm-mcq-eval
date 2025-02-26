@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-076-11-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Knowing the usual biological markers of alcohol consumption: blood alcohol, GGT, mean blood volume (MBV), desialyzed transferrin, etc.
+|Description=The usual markers of alcohol consumption are blood alcohol, gamma GT, MGV and desialylated transferrin.
+|Rubric=Additional tests
+|Contributors=
+|Order=11}}
+Usefulness
+
+o Objectivise misuse in cases of denial or minimisation (etiological diagnosis of pancreatitis, etc.)
+
+o Addiction monitoring: identifying relapses, motivational and educational aspects
+
+o Not useful for systematic screening or diagnosis of dependence
+
+
+Blood alcohol level (breathalyser or blood test)
+
+o useful in emergencies in the event of a fall, malaise, behavioural problems or loss of consciousness
+
+GGT (Gamma Glutamyl Transpeptidase)
+
+o marker of alcohol consumption and alcohol-related liver damage
+
+o poor sensitivity
+
+o poor specificity (to be interpreted in conjunction with the entire liver work-up)
+
+o difficult to interpret if obese or with metabolic syndrome
+
+o decreases from the first week after stopping consumption, and normalises in 4 to 10 weeks.
+
+VGM (Mean corpuscular volume)
+
+o The least sensitive
+
+o fairly specific
+
+o slowly returns to normal (three months after stopping).
+
+CDT (desialylated transferrin)
+
+o Slightly more sensitive than GGT
+
+o very specific
+
+o normalises within a few weeks of stopping consumption

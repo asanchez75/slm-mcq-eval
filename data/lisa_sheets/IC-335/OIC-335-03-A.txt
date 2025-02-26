@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-335-03-A
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=A
+|Title=Knowing the investigations to be carried out in the first instance in the case of facial trauma according to diagnostic orientations.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=3}}
+'''Facial CT scan''''
+
+This is the reference examination for exploring facial fractures. It is most often available, and replaces the majority of conventional radiological examinations, avoiding the multiplication of conventional images in the case of facial fractures or polytrauma. Reconstructions are carried out in the 3 planes of space and in 3D.
+
+acquisitions of the face may be carried out as an opportunity, when a CT scan is indicated for neurosurgical reasons or during the assessment of a polytrauma: current acquisition techniques make it possible to carry out a complete CT scan of the cephalic extremity very quickly, with low radiation levels.
+
+Dental panoramic x-ray (or orthopantomogram)
+
+This is one of the most important conventional x-rays, as it exposes the entire mandibular bone and dentition. It can only be performed if the patient is able to stand or sit upright.
+
+'''Biology'''
+
+haemostasis and coagulation tests; blood count, ABO and Rhesus grouping and irregular agglutinin tests.
+
+factors likely to affect alertness, and therefore the assessment of a cranial trauma:
+
+- blood sugar, blood ionogram
+
+- blood alcohol, blood and urine toxins.
+
+Trans Cranial Doppler
+
+The DTC is now part of the initial assessment of polytrauma patients, and provides prognostic and therapeutic indications for head trauma patients.

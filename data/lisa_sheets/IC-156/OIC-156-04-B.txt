@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-156-04-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Knowing the infectious agents responsible for OAIs according to the terrain and mode of contamination
+|Description=None
+|Rubric=Etiologies
+|Contributors=Dr Florent Valour
+|Order=4}}
+'''[[Positive blood culture SD-190|Blood-borne infections]] :''''
+
+- Staphylococcus aureus (cutaneous route of entry): 50-70%.
+
+- Streptococci (dental or digestive route of entry): 20%.
+
+- Enterobacteriaceae (urinary or digestive route of entry): 10%.
+
+- Special cases: ''[[Tuberculosis in adults and children|Mycobacterium tuberculosis]]'' (rare forms of osteoarticular tuberculosis, mainly vertebral ("Pott's disease")), ''[[Sexually transmitted infections (STI): gonococci, chlamydiosis, syphilis, human papillomavirus (HPV), trichomoniasis|Neisseria gonorrhoaea]]'' (rare, often multi-articular forms of gonococcal infections)
+
+'''Post-operative inoculations, post-puncture/infiltration:''' skin flora germs
+
+- Staphylococci (50-70%): S. aureus (50%, including 15% MRSA) and coagulase-negative staphylococci (50%, the most common being S. epidermidis)
+
+- Streptococci
+
+- Gram-negative bacilli: Enterobacteriaceae, Pseudomonas aeruginosa
+
+- Cutibacterium acnes: chronic forms, particularly on the upper limb (shoulder)
+
+'''Inoculations [[Zoonoses|post-bite]]:''' cutaneous (staphylococci) and/or oral (streptococci, ''Pasteurella multocida'', anaerobes) flora
+
+Infections de contiguïté:'' often multi-microbial infections involving skin flora and colonising chronic wounds (staphylococci, streptococci, enterobacteria, Pseudomonas aeruginosa, anaerobes, etc.).
+
+The main germs responsible for HAIs in children are :
+
+- All ages: "Staphylococcus aureus" (skin entry)
+
+- In young infants under 3 months of age: group B streptococcus and Escherichia coli (think of neonatal infection)
+
+- In children aged between 6 months and 4 years: "Kingella kingae" (most common, ENT route of entry), rarely pneumococcus and group A streptococcus.
+
+- In children over the age of 4: "Staphylococcus aureus" (majority), rarely group A streptococcus (cutaneous route of entry)
+
+- In children with sickle cell disease: ''Salmonella'' sp. (in addition to the other germs involved, depending on age)

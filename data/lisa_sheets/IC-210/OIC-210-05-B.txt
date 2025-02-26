@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-210-05-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Title=Knowing the indication for imaging examinations in the course of DIP
+|Description=None
+|Section=Additional examinations
+|Contributors=
+|Order=5}}
+'''Chest CT scans may be useful in the setting of acute IDP in cases of:'''
+
+* Diagnostic doubt
+* Poorly defined abnormalities on chest X-ray, which will be analysed in greater detail on CT scan.
+* Doubt about associated pulmonary embolism, need for a thoracic angioscan.
+
+'''In the presence of subacute or chronic PID, a thoracic CT scan is systematic'''.

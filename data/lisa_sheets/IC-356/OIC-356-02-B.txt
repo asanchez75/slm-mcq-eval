@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-356-02-B
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=B
+|Title=Knowing the ages of onset
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Cyrille PERRENOT
+|Order=2}}
+
+Appendicitis can occur at any age, with a peak between the ages of 6 and 30.
+
+Acute appendicitis is the most frequent abdominal surgical emergency (7% of the population, including 20% of complicated appendicitis).

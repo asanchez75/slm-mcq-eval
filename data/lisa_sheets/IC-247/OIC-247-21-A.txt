@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-247-21-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Knowing the principles and methods of self-monitoring in T1DM
+|Description=None
+|Section=Management
+|Contributors=Eva Feigerlova,Hélène Bihan,Claire Briet,Etienne Larger,Gaetan Prevost
+|Order=21}}
+
+For the patient, the aims of SMBG are :
+
+- to monitor their diabetes;
+
+- adapt insulin doses;
+
+- give an idea of the average glycaemic balance;
+
+- to manage emergency situations. [Hypoglycaemia SD-209; Hyperglycaemia SD-208.
+
+Patients should be aware that HbA1c is used to estimate blood glucose control over the 2 to 3 months prior to blood sampling, and should know their HbA1c target.
+
+Self-monitoring of blood glucose levels should be carried out by the patient: "4-6 times a day". For a long time, self-monitoring of blood glucose was based on capillary blood tests obtained by finger pricking. The availability, with reimbursement, of glucose sensors that measure glucose levels continuously has revolutionised the monitoring of insulin-treated diabetes.
+
+In the presence of unexplained and prolonged hyperglycaemia, ± associated with digestive symptoms, patients are taught to look for the presence of ketone bodies in the urine or in the blood using capillary sampling, in order to detect ketotic decompensation at an early stage. [Prescription of insulin therapy, follow-up consultation, education of a type 1 diabetic patient SD-280]]
+
+<ref>Polycopy of the College of Teachers of Endocrinology, Diabetes and Metabolic Diseases (4th edition, 2019)</ref>
+<references />

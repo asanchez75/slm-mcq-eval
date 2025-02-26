@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-231-01-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Knowing the indications of an electrocardiogram (ECG)
+|Description=The main indications for cardioscopes and resting ECGs with 12-15 or 18 leads. Be familiar with the main emergency indications: organ failure(s), chest pain, palpitations, syncope, hydroelectrolytic disorders (K+, Ca) and know how to perform a 12-lead ECG.
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=1}}
+
+An ECG is indicated:
+
+*In the event of ''symptoms'': dyspnoea, palpitations, chest pain, malaise/syncope, etc.
+*Initial assessment or follow-up of cardiac or non-cardiac pathologies that may give rise to cardiovascular complications (e.g. diabetes)
+*HTA check-up ''''HTA'''
+*Family investigation'' in the case of certain hereditary heart diseases
+*''Pre-operative assessment'' depending on the patient's condition and the type of surgery required
+*Professional aptitude'' (drivers, pilots) or ''sporting aptitude'' (high-risk or competitive sports).

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-240-02-B
+|Item_parent=Hypoglycaemia in adults and children
+|Item_parent_short=Hypoglycaemia in adults and children
+|Rank=B
+|Title=Knowing the mechanisms of blood sugar regulation
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+'''A hormone and hypoglycaemic growth factors'''
+
+*insulin, the main hypoglycaemic factor, whose concentration rises after a meal and falls during fasting
+*A growth factor related to insulin, IGF2, whose hypoglycaemic effect is only significant at very high concentrations.
+
+
+'''Hyperglycaemic hormones:'''
+
+*glucagon
+*growth hormone
+*catecholamines
+*cortisol
+
+
+'''When blood sugar levels fall'''
+
+*Secretion of glucagon, adrenaline and growth hormone when blood glucose levels fall below 0.65 g/L (3.6 mmol/l).
+*Secretion of cortisol when blood glucose levels fall below 0.60 g/L (3.3 mmol/l).

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-194-12-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=To know the principles of the methods and the place of pathological anatomy for the diagnosis of cutaneous lesions.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+Skin biopsy is not systematic.
+
+In case of clinical doubt (''interpretation of a pathology report''): skin biopsy.
+
+2 punch biopsies are taken for fixed samples and fresh samples for immunofluorescence.
+
+'''<u>Fixed sample</u>''': alteration with vacuolisation of the basal layer; orthokeratotic hyperkeratosis of the epidermis; keratinocytic necrosis of the dermis; oedema by vasodilatation of the capillaries with lymphocytic infiltrate around the appendages and perivascular.
+
+'''<u>Fresh sample</u>''' (direct immunofluorescence): sensitive, lupus band made up of deposits of immunoglobulins and linear complement fractions at the dermo-epidermal junction.

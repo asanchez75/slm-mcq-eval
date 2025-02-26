@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-104-05-A
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=A
+|Title=Knowing how to define an attack of the disease
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+- Appearance of new symptoms, reappearance of old symptoms or worsening of pre-existing symptoms.
+
+- Subacutely in a few hours to a few days.
+
+- And spontaneously recovering more or less completely.
+
+- Minimum duration = at least 24 hours.
+
+- Fatigue alone, or symptoms occurring in the context of a fever, are not considered a relapse.
+
+- By definition, two attacks must be at least one month apart.

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-191-09-B
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=B
+|Title=Know the principles of antibiotic treatment of febrile neutropenia, depending on its severity.
+|Description=None
+|Rubric=Management
+|Contributors=Amélie Servettaz
+|Order=9}}
+
+Systematic intravenous antibiotic therapy, including a broad-spectrum β-lactam active against Pseudomonas aeruginosa, must be started as a matter of urgency: piperacillin/tazobactam or cefepime.
+
+An ''aminoglycoside'' should be added if there is any sign of severity or if multi-resistant gram-negative bacteria are suspected.
+
+If skin infection, catheter infection and/or colonisation with multi-resistant Staphylococcus aureus is suspected: add a glycopeptide (vancomycin).  
+
+'''Special case: oral antibiotic therapy may be proposed if all the following criteria are met:'''
+
+- Non-profound neutropenia (≥0.1 G/L)
+
+- Neutropenia < 7 days
+
+- No signs of seriousness
+
+- No history of risk (e.g. chronic respiratory insufficiency)
+
+- No signs of digestive intolerance
+
+In these cases, antibiotic therapy with amoxicillin/clavulanic acid + ciprofloxacin may be proposed.
+
+In all cases, reassessment of the regular situation
+
+Antibiotic therapy must be maintained throughout the period of neutropenia. If the patient is released from aplasia: antibiotic therapy should be continued for at least 48 hours after apyrexia, in the absence of microbiological identification.

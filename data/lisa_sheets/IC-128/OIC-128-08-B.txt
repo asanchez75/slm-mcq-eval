@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-128-08-B
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=B
+|Title=Knowing the principles of drug treatment for osteoporosis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=8}}
+In addition to the general measures always indicated in the management of post-menopausal osteoporosis, it is often necessary to introduce anti-osteoporosis treatment. The announcement of a chronic disease must be made. A bone densitometry must be performed before any therapeutic decision is taken.
+
+The therapeutic indications for post-menopausal osteoporosis are summarised in the table below:
+
+'''In the event of a fracture'''
+
+- In the case of a severe fracture, treatment is imperative regardless of age if the T-score is ≤ - 1.
+
+In the case of non-vertebral fractures, the choice may be an oral or injectable bisphosphonate or denosumab as a second-line treatment (intolerance or failure of BP).
+
+In the event of vertebral fracture, the choice may be between an oral or injectable bisphosphonate or denosumab, or raloxifene (to be reserved for patients with a low risk of peripheral fracture), teriparatide (≥ 2 vertebral fractures) and menopausal hormone therapy (MHT, if between 50 and 60 years of age and presence of climacteric disorders). In the event of a T-score > - 1, the opinion of a specialist in bone pathology is recommended to define the therapeutic strategy.
+
+- In the case of a non-severe fracture, treatment is proposed if the T-score is ≤ - 2. The choice may be between an oral or injectable bisphosphonate, raloxifene (to be reserved for patients with a low risk of peripheral fracture), denosumab (second-line treatment) and HRT (if aged between 50 and 60 and in the presence of climacteric disorders). In the event of a T-score > - 2 and ≤ - 1, the opinion of a specialist in bone pathology is recommended to define the therapeutic strategy. If T-score > - 1, no treatment.
+
+'''If there is no fracture'''
+
+Treatment is initiated if T-score ≤ - 3. If the T-score is > - 3 and ≤ - 2, the opinion of a bone pathology specialist is recommended to define the treatment strategy. If the T-score is > - 2, treatment is not recommended. The choice may be between an oral or injectable bisphosphonate, raloxifene (to be reserved for patients with a low risk of peripheral fracture), denosumab (second-line treatment) and HRT (if climacteric disorders and if aged between 50 and 60).
+
+It is of course necessary to "explain the treatment to the patient" (notion of benefit/risk ratio), and to keep them informed of the most frequent adverse events, as well as the most serious ones. It will then be necessary to ''assess compliance'' during ''chronic disease monitoring consultations''.

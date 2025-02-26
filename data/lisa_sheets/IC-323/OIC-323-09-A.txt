@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-323-09-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Intitle=Discuss links of interest and the potential impact on medical information
+|Description=None
+|Topic=Epidemiology
+|Contributors=Pierre-Olivier Girodet,Nathanaël Lapidus (CIMES),David Hajage (CIMES)
+|Order=9}}
+
+'''Expertise'''
+
+- Expert: Individual called upon by an agency, government body or pharmaceutical company to provide advice and opinions.
+
+- Public expertise (HAS, ANSM, Directorate-General for Health, European Medicines Agency, etc.) or from a company (pharmaceutical laboratory, etc.).
+
+- Principle: It is impossible to be both judge and party when assessing treatment.
+
+'''Link of interest'''
+
+- Of all kinds: material, financial, moral, etc.
+
+- Directly or through an intermediary.
+
+- Past (often the last 5 years), present or even future.
+
+'''Declaration of all links of interest'''
+
+- Expert reports: since 2013, there has been a legal obligation in France to publish the links between healthcare product companies and healthcare professionals.
+
+- Other situations: scientific publications (at the end of the article), scientific presentations (conferences, meetings) and, ideally, media appearances.
+
+'''Conflict of interest'''
+
+- The independence of the professional is called into question.
+
+- Assumes the existence of a link of interest, in a situation where the benefit received by the doctor has an impact on his independence.
+
+- Not systematic in the case of a link of interest (a link of interest has an objective definition but its extent and scope may or may not give rise to a conflict of interest, the definition of which is more subjective and contextual).
+
+- Example: taking part in the public evaluation of a treatment that you have helped to develop.
+
+- Prevention by examining declared links of interest, then recusal from the assessment if a link or even a conflict of interest is detected in relation to the expertise.
+
+'''Assessment of the potential impact on medical information (critical reading of articles)''''
+
+Criteria to look for :
+
+*Consistency of the research protocol with the results presented.
+*Compliance with good clinical practice.
+*Independence between investigators/researchers/authors and:
+**the industry concerned (pharmaceutical, agri-food, etc.)
+**the editorial board of the scientific journal
+*Independence between the scientific journal and the industry concerned
+*Statistical analysis of results independent of the sponsor.
+*Declaration of any links of interest between authors.
+
+'''Aspects under discussion'''
+
+- Duration of links of interest.
+
+- Extent of links of interest :
+
+*Is the expert disqualified for all medicines from a given laboratory?
+*Expert disqualified for all drugs proposed for the same therapeutic indication?
+
+- Level of expertise of a doctor who has never taken part in a clinical trial?
+
+- Difficulties for certain diseases (e.g. orphan diseases) in identifying experts with no links of interest<br />.

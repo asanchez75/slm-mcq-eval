@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-011-05-B
+|Item_parent=Violence and health
+|Item_parent_short=Violence and health
+|Rank=B
+|Title=Knowing the specific features of female genital mutilation
+|Description=Detection and prevention methods for female genital mutilation, based on the HAS 2019 recommendation for primary care healthcare professionals.
+|Rubric=Diagnosis
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=5}}
+
+[[Identifying female or male genital mutilation 2C-012-DP-B02]]<ref>https://www.has-sante.fr/upload/docs/application/pdf/2020-02/reco307_fiche__2_reperer_aborder_la_question.pdf</ref>.

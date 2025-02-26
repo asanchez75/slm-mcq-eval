@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-054-04-B
+|Item_parent=Dairy in children
+|Item_parent_short=Dairy in children
+|Rank=B
+|Title=Knowing the complementary examinations to be carried out in the case of lameness in children
+|Description=Hierarchisation of complementary examinations (radiography of the pelvis from the front and of the painful hip from the side, if normal, ultrasound of the hip/knee +/- pelvis), interpretation of standard radiography.
+|Rubric=Additional examinations
+|Contributors=
+|Order=4}}
+'''Imaging examination:''''
+
+Prioritisation of additional examinations: X-ray of the pelvis from the front and of the painful hip from the side, if normal, ultrasound of the hip/knee +/- abdopelvic.  
+
+- Standard X-ray, front and side, centred on the painful area (sometimes difficult to identify in infants): indirect signs of effusion, periosteal apposition or sequestration (inconstant and late in osteomyelitis, usually normal); X-rays are usually normal in cases of acute osteomyelitis. Standard X-rays are used mainly to rule out differential diagnoses (fracture, tumour).
+
+- Ultrasound to look for joint effusion (of no etiological value) or subperiosteal abscess (uncommon in osteomyelitis), pelvic mass syndrome.
+
+- MRI: focused on the painful area, to diagnose acute osteomyelitis (if X-ray and ultrasound are normal)
+
+- Bone scintigraphy: diagnosis of osteomyelitis (if X-ray and ultrasound are normal), helps locate a bone lesion in young children.  Done as a priority if the MRI assessment requires sedation.
+
+
+'''Biological examination'''
+
+- in case of febrile lameness: CBC, CRP and especially blood culture
+
+- in case of arthritis or abscess: puncture (+ joint lavage) under general anaesthetic ([Osteoarticular infections (OAI) in children and adults]])

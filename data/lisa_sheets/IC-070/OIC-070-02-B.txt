@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-070-02-B
+|Item_parent=Psychological disorders in the elderly
+|Item_parent_short=Psychological disorders in the elderly
+|Rank=B
+|Title=Knowing the prevalence of psychiatric disorders in the elderly
+|Description=Suicidal behaviour (item 353)Schizophrenia (item 64)Mood disorders (item 64 and item 66)Anxiety disorders (item 66)Alcohol- and drug-related disorders (item 77 and item 77)
+|Rubric=Epidemiology
+|Contributors=Pierre Vandel,Marie Tournier
+|Order=2}}
+
+Mood and anxiety disorders
+
+* Characterised depressive episode frequent (1 to 4%) in the over-65s.
+* anxiety disorders > 10% in elderly subjects, with generalised anxiety disorder (most common in PA) and phobic disorders in the forefront. Panic disorder is rarer.
+* Bipolar disorder about 1% in subjects over 60.
+
+'''Aged and late-onset psychotic disorders'''
+
+The prevalence of schizophrenia is lower than in the young adult population (0.6% vs. 1%) due to the high early mortality rate in these patients.
+
+Alcohol and drug use disorders
+
+* Alcohol: 3rd most common psychiatric disorder among the elderly.
+* Difficulties linked to the use of medication: 39 to 55% of people aged over 65 take benzodiazepines and related products in France (see item 77).
+
+----

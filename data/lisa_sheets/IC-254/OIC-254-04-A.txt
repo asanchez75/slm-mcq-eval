@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-254-04-A
+|Item_parent=Nutritional needs of pregnant women
+|Item_parent_short=Nutritional needs of pregnant women
+|Rank=A
+|Title=Knowing populations at nutritional risk during pregnancy
+|Description=Disadvantaged areas, teenagers, dieting, alcoholism, smoking, obesity, diabetes, history of malformations, etc.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The following populations, to varying degrees, are at risk of deficiency and/or malformation:
+
+- Disadvantaged backgrounds;
+
+- Teenage girls ;
+
+- Restrictive or unbalanced diets;
+
+- Twin pregnancies, closely-spaced pregnancies ;
+
+- Smoking, alcoholism, other addictions ;
+
+- Excess weight, diabetes, eating disorders;
+
+- History of neural tube defect or cleft lip and palate.

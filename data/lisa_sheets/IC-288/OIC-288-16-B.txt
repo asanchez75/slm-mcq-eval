@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-288-16-B
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=B
+|Title=Indicating surgical treatment
+|Description=
+|Rubric=Management
+|Contributors=
+|Order=16}}
+
+
+
+
+
+cf : ''[[Know the 4 therapeutic preamble rules 2C-288-PC-A02|2C-288-PC-A02]]''''

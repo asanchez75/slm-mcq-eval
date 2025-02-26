@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-157-17-B
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=B
+|Title=Knowing the principles of antibiotic therapy in patients with non-community infections
+|Description=Know how to identify the risk of resistant infectious agents and adapt antibiotic therapy in non-community patients.
+|Rubric=Management
+|Contributors=
+|Order=17}}
+'''The elements to be taken into account when assessing the risk of a resistant infectious agent in a patient with a healthcare-associated infection are''' :
+
+* Length of hospital stay
+* Selection pressure from prior antibiotic therapy (duration, spectrum)
+* Presence of implanted equipment
+* Recent history of surgery or endoscopy
+* History of colonisation or infection with a multi-resistant infectious agent
+* Chronic haemodialysis or living in an institution (increased risk of infection with methicillin-resistant Staphylococcus aureus).
+
+
+'''In the event of sepsis/septic shock in the context of a healthcare-associated infection without an identified focus, the following antibiotic therapy may be proposed'' :
+
+* A broad-spectrum ß-lactam active against nosocomial Gram-negative bacilli (to be chosen according to the ecology of the ward and the patient's microbiological history): piperacillin/tazobactam '''OR''' cefepime '''OR'' carbapenem (meropenem or imipenem).
+* Amikacin
+* vancomycin (if meticillin-resistant staphylococcus needs to be covered)
++/- echinocandin (depending on the patient's condition and severity)

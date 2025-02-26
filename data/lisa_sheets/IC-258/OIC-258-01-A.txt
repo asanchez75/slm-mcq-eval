@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-258-01-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Knowing how to interpret a creatininaemia test
+|Description=Know how to recognise a significant rise in an isolated creatinine level.
+|Rubric=Positive diagnosis
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=1}}
+
+The creatinine value is inversely related to the Glomerular Filtration Rate (GFR); it also depends on muscle production of creatinine.
+
+As renal function deteriorates, creatinine levels increase.
+Values considered "normal" are between 50 and 90 µmol/L in women and between 80 and 115 µmol/L in men.

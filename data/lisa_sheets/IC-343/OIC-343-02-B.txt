@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-343-02-B
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=B
+|Title=To understand the prevalence of confusional syndrome in the general population, in emergency departments and in different hospital settings.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+The confusional state (''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]]'') is very common, particularly in people aged over 70 (in this population, its prevalence is between 30 and 40% in hospitalised patients, 50% in post-operative patients and 70% in intensive care patients).
+
+<br />

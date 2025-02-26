@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-093-05-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Example of a typical MRI of spinal cord compression
+|Description=Know how to recognise the spinal cord, cauda equina and surrounding structures on an MRI scan.
+|Rubric=Multimedia content
+|Contributors=
+|Order=5}}
+
+[File:2C-093-CM-B01 fig01.png|vignette|MRI of spinal cord compression, sequences T2 (A) and T1 after injection of Gadolinium (B)]]
+
+*'''Spinal cord MRI''', sequences '''T2''' (A) and '''T1 after injection of Gadolinium''' (B)
+*'''Sagittal section (A)''': multiple vertebroepidural metastases spread over the cervical, dorsal and lumbar spine, particularly in T2 and T6, with vertebral body fractures and subsidence, posterior wall involvement and epiduritis responsible for spinal cord compression at both levels.
+*Axial section (B): anterior cord compression due to epiduritis.
+
+
+([[Discovery of a spinal cord or vertebral anomaly during a medical imaging examination SD-227|discovery of a spinal cord or vertebral anomaly during a medical imaging examination]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidences/injection]])

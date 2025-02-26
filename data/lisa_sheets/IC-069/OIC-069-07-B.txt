@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-069-07-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the specific perinatal indications for a complementary emergency assessment
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=El-Hage Wissam
+|Order=7}}
+
+- Eliminate non-psychiatric differential diagnoses: cerebral thrombophlebitis, retained placenta, infections and intoxication by psychoactive substances.
+
+- Full physical examination.
+
+- Complementary examinations according to the points of call.

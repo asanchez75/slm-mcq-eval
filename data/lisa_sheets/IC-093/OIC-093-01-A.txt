@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-093-01-A
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=A
+|Title=Knowing the pathophysiology of spinal cord injury and cauda equina syndrome
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=Dr Lucas TROUDE (Assistance Publique-Hôpitaux de Marseille), Dr Julien TODESCHI (CHU de Strasbourg), Pr François VASSAL (CHU de Saint-Etienne)
+|Order=1}}
+
+<br />
+
+==Knowing the pathophysiology of spinal cord injuries=
+
+===Anatomy===
+
+*The spinal cord is part of the central nervous system. It extends from the brain stem at the foramen magnum, and generally ends opposite the L1-L2 disc.
+*The spinal cord is organised transversely (myelomeres) and longitudinally (long white matter tracts).
+*Each myelomere gives rise to a pair of spinal roots, controlling a specific sensory (dermatome) and motor (myotome) territory.
+
+===Three long routes to know===
+
+*The cortico-spinal (pyramidal) pathway: a descending "motor" pathway. Decussation at the bulbo-medullary junction, then travels in the lateral cord : → motor deficit and pyramidal syndrome '''homolateral''' to the lesion
+*The lemniscal pathway: ascending, "sensitive" pathway. Travels in the posterior cord, then decussates at the bulbo-medullary junction: proprioceptive ataxia and epicritic tactile hypoesthesia ''homolateral'' to the lesion.
+*The spinothalamic pathway: ascending "sensitive" pathway. Segmental decussation, at the level of each myelomere, then course in the anterolateral cord: thermoalgesic hypoesthesia ''contralateral'' to the lesion.
+
+===Physiopathology===
+Compression causes mechanical damage to the spinal root corresponding to the pathological myelomere, and interruption of one or more of these long pathways depending on the nature and location of the compression (anterior, posterior, lateral, central).
+
+==Knowing the pathophysiology of ponytail syndrome==
+
+*Compression of spinal roots L2-S5
+*Peripheral neurogenic injury, multi-radicular

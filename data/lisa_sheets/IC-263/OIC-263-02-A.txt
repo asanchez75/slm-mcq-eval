@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-263-02-A
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=A
+|Title=Know the definition of thrombotic microangiopathy syndrome
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Jacques Boffa
+|Order=2}}
+
+The MAT syndrome meets a biological definition combining :
+
+* haemolytic anaemia (collapsed haptoglobin, elevated LDH), mechanical type (presence of schizocytes);
+* consumption thrombocytopenia;
+* associated with one or more organ dysfunctions.
+
+
+Histologically, it corresponds to the thrombotic microangiopathy lesion.

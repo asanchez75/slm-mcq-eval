@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-110-09-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the assessment and treatment of insomnia
+|Description=Interrogation, sleep diary, actmetry and polysomnography
+|Rubric=Additional examinations
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=9}}
+
+To explore insomnia and assess the motivation of the patient and/or parents.
+
+When questioning the patient, it is important to find out how long the symptoms have been present, whether they are episodic or persistent, the type of difficulty (falling asleep, waking up within the night, waking up early), the times when the patient goes to bed and wakes up, and the impact of the disorder on the patient's daytime functioning. The patient's environment (noise, temperature, light), lifestyle and sleep habits, use of alcohol or other substances (tobacco, cannabis), psychotropic or other drugs that affect sleep, and pathological antecedents all need to be determined. Symptoms suggestive of other sleep disorders should also be sought, in particular sleep apnoea and restless legs syndrome.   
+
+A "sleep diary" should be kept for a period of at least 2 weeks, in which the patient records his or her bedtime and wake-up times, any naps he or she takes, the quality of his or her sleep and his or her daytime condition: this is essential for assessing insomnia and managing it (monitoring treatment).
+
+'''On the paraclinical level'''e, polysomnography will be necessary only when a comorbidity is suspected, in particular sleep apnoea or restless legs syndrome, or occasionally to objectivise the patient's complaint in the event of poor sleep perception.
+
+Management of insomnia
+
+'''''Non-medication methods'''''
+
+The patient's beliefs and expectations need to be investigated to see if they are realistic and to adapt the therapeutic response (see CBT).
+
+It will be necessary to review the "basic principles of lifestyle and sleep hygiene" (create a sleep diary) and discuss with the patient the regularity of bedtimes, the place of any naps, the length of time spent in bed, the differences between weekdays and weekends, and the length of sleep the patient would like to obtain. Also explore physical activity, diet and regularity of meals, professional and social life, iatrogenic risk medication (e.g. diuretics taken in the evening) and stimulants taken.
+
+Cognitive behavioural therapy (CBT) is an active therapy focused on the problem (in this case, insomnia). It aims to modify maladaptive behaviour through a behavioural approach, to act on dysfunctional thoughts through cognitive restructuring and to act on emotions through several approaches. It has been validated as a first-line, non-medicinal approach to the treatment of chronic insomnia.
+
+'''''Medication methods'''''
+
+The ideal sleeping pill should have the following characteristics: induce sleep rapidly, maintain sleep structure, not cause residual drowsiness or dependence.
+
+Inform the patient that this treatment is of limited duration, as soon as treatment is started, ideally while waiting for other non-medicinal measures to be effective.
+
+The placebo effect is thought to explain 63% of the effect of sleeping pills on both objective and subjective parameters.
+
+Phytotherapy: Valerian is the most widely evaluated treatment, along with chamomile, but their effectiveness has yet to be demonstrated. The safety of certain plants, in particular lime blossom, verbena, orange blossom, lemon balm, hawthorn and passion flower, means that their use is recommended. Balotte and pulsatile anemone present risks of serious adverse effects.
+
+Benzodiazepines are one of the most widely used hypnotic treatments today. Their effectiveness in reducing the time it takes to fall asleep has been proven, but varies from one compound to another, as does their effect on sleep duration. Their side effects are well known and documented: tolerance, withdrawal syndrome, residual drowsiness, risk of falling, particularly in the elderly. In the long term, benzodiazepine use alters the structure of sleep. This effect is reversible when treatment is stopped, although the quality of sleep is not improved. Benzodiazepines should therefore be avoided whenever possible.
+
+Non-benzodiazepine hypnotics, or Z-drugs, (zopiclone and zolpidem) have many comparable side effects, in particular withdrawal syndrome and tolerance, as well as some cases of severe misuse. They are prescribed for a maximum of 28 days, with zolpidem requiring a secure prescription.
+
+Anti-histamines (anti-H1) are known for their sedative side-effects. Doxylamine, doxepin and diphenydramine are the best-known. Their appeal lies in the absence of physical dependence, and few tolerance effects. Their main side effects are significant residual drowsiness, due to their long half-life, and their atropinic effects.
+
+Melatonin helps regulate circadian rhythms and acts as a soporific by inducing sleep. Immediate-release melatonin can be used to improve insomnia on falling asleep, and sustained-release melatonin to improve maintenance insomnia (intra-sleep arousals).
+
+<br />

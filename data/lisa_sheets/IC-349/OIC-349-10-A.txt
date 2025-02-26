@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-349-10-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Savoir évoquer le diagnostic de phlegmon des gaines
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Pierre-Marie Roy
+|Order=10}}
+ 
+
+A phlegmon is suggested by a warm, swollen finger that is painful to move (pain on passive extension).
+
+The characteristic pain is located in the cul de sac of the sheath (projection of the metacarpophalangeal joint on the palmar surface for the middle fingers, in the crease of the wrist for the thumb and 5th finger).
+
+There are 3 classic clinical presentations:
+
+* Typical pain with no vicious attitude of the finger
+* Pain with "hooked finger": sign of seriousness
+* Pain with loss of the "hooked" attitude: sign of tendon rupture

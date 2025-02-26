@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-104-06-A
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=A
+|Title=Knowing the main arguments for diagnosing MS
+|Description=Dissemination in time and space
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+- '''Context''': young subject, neurological symptoms and signs of subacute or more rarely progressive onset, involvement of the white matter of the central nervous system. No extra-neurological involvement. No general inflammatory syndrome.
+
+- '''Dissemination in space''' = clinical or radiological involvement of several areas within the central nervous system
+
+- '''Dissemination over time''' = at least two neurological episodes separated by at least one month; or new lesions on successive MRI scans: or lesions of different ages (taking and not taking contrast) on the same cerebral MRI scan. In immediately progressive forms, a progression over a period of more than one year validates the criterion.
+
+- '''Cerebrospinal fluid inflammation''' = intrathecal secretion of IgG, authenticated by the presence of oligoclonal bands (at least 2) in isofocalisation or by an increased IgG index (greater than 0.7) ([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]]).
+
+- '''No better explanation''' = eliminate differential diagnoses

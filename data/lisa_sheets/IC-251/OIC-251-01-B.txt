@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-251-01-B
+|Item_parent=Lack of weight at all ages
+|Item_parent_short=Lack of weight at all ages
+|Rank=B
+|Title=Knowing the four main mechanisms responsible for weight loss
+|Description=Decrease in food intake, increase in food expenditure, malabsorption and/or maldigestion, caloric and/or protein losses.
+|Rubric=Epidemiology
+|Contributors=
+|Order=1}}
+As weight loss is linked to an imbalance between energy input and energy output, there are four pathophysiological mechanisms, sometimes interrelated, which can lead to weight loss:
+
+- Reduced food intake is the most common cause. It is sometimes spontaneously recognised (loss of appetite, problems with swallowing, taste, smell, digestive problems, etc.), sometimes denied (eating disorders) or ignored (depression, disturbed consciousness, polymedication). Even when it is present, it is important to look for other mechanisms that may be associated with it.
+
+- Malabsorption (coeliac disease, resection or inflammatory disease of the small intestine) and/or maldigestion (gastrectomy, exocrine pancreatic insufficiency, particularly due to pancreatitis).
+
+- An increase in energy expenditure. Many circumstances are likely to increase total energy expenditure:
+
+o Thermoregulation (shivering and sweating);
+
+o Acute diseases (''inflammatory reactions'', fighting infection, pain) or chronic diseases, benign or malignant, some of their treatment (surgery, chemotherapy, radiotherapy) ;
+
+o Repair and healing processes (extensive burns, surgery).
+
+- Caloric and/or protein losses (glycosuria, nephrotic syndrome, extensive skin lesions, exudative enteropathy)

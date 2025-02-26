@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-366-08-A
+|Item_parent=Accidental exposure to body fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=A
+|Title=Knowing the indications for sero-vaccination after accidental exposure to hepatitis B virus (HBV)
+|Description=None
+|Heading=Management
+|Contributors=Docteur Lefèvre Benjamin
+|Order=8}}
+It depends on two factors
+
+- The source's HBV status (HBsAg)
+- The exposed person's hepatitis B vaccination status
+{| class="wikitable"
+| rowspan="2" |Exposed subject
+| colspan="2" |HBV status (HBsAg) source person
+|-
+|Positive
+|Unknown
+|-
+|Vaccine responder (HBsAb > 10 mIU/mL, or > 100 mIU/mL in history)
+|None
+|No
+|-
+|Non-responder vaccinees (anti-HBs < 10 mIU/mL with no anti-HBc or history of anti-HBs > 100 mIU/mL)
+|Immune globulin
+|Nothing
+|-
+|Unvaccinated
+|Immune globulin + vaccine
+|Vaccine
+|}

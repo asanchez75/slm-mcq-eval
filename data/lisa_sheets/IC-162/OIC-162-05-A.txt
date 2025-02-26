@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-162-05-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Knowing the causes of infectious and non-infectious genital ulcers
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+Infectious :
+
+- Syphilitic chance: single with clean, indurated background, variable location
+
+- Herpes: painful superficial ulcers with polycyclic outlines
+
+- Chancre mou: terrain (Africa, South America, Asia), single/multiple lesion(s), dirty background, pain (+++), inflammatory adenopathies
+
+- Donovanosis: in Africa, South America and Asia, mildly painful granulomatous lesions
+
+- Nicolas-Favre disease (or lymphogranulomatosis venereum): terrain (Africa, South America, Asia, homosexuals), anorectitis, anogenital ulcerations, misleading diarrhoea
+
+
+Non-infectious: traumatic, caustic, mechanical, bullous dermatitis, toxidermia, etc.

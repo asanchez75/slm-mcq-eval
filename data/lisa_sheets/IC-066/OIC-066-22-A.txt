@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-22-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Know the semiology of the main disorders (see item 64)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=22}}
+
+GAD: continuous apprehension without a trigger, various (generalised) worries and ruminations about the future, small things, or more serious subjects (health, money, work, family and friends). Anxiety is permanent, excessive, unjustified, uncontrollable, and leads to difficulty concentrating and falling asleep. It concerns at least two different themes.
+
+TP: repetition of spontaneous panic attacks, without a trigger, anticipatory anxiety (fear of being afraid) associated with dreaded situations (agoraphobia) and worries about the consequences of attacks (fear of dying or going mad) and modifying behaviour (social withdrawal, change in lifestyle). Finally, internal conditioning sets in, where the symptoms of a potential seizure (tachycardia, dizziness) can trigger a new seizure.
+
+Agoraphobia can complicate PD. The subject is afraid of public situations, afraid of not being able to escape or not being rescued in the event of a crisis (large spaces, shops, queues, crowds, public spaces, enclosed spaces). This leads to avoidance of these situations and a reduction in autonomy. PD and agoraphobia are 2 distinct diagnostic entities that can be observed in isolation or comorbidly.

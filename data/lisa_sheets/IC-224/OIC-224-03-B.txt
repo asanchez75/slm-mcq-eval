@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-224-03-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the pathophysiology of hypertension
+|Description=Main mechanisms (renin or volo-dependent), environmental factors
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+Various endogenous mechanisms are involved in the regulation of blood pressure:
+
+- the baroreflex and the sympathetic system
+
+- blood volume and the renin-angiotensin-aldosterone system
+
+- natriuresis and the arginine-vasopressin system
+
+Hypertension is essential in over 90% of adult cases, due to a defect in sodium excretion and stiffening of the arterial walls with age. Environmental factors linked to lifestyle can act as aggravating factors (salt consumption, excess weight, sedentary lifestyle, stress, etc.).

@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-295-04-A
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=A
+|Title=Knowing how to assess a cancer patient
+|Description=Symptomatic management. Knowing how to assess a cancer patient globally: activity index (WHO), pain, deterioration in general condition, etc.
+|Rubric=Management
+|Contributors=Laurent Zelek
+|Order=4}}
+
+In addition to the clinical examination and radiological assessment of the tumour lesions (including their evolution under treatment), the assessment must systematically specify :
+
+- pain symptomatology and consumption of analgesics, ([[Neurophysiological bases, physiopathological mechanisms of acute and chronic pain]]) ([[Analgesic, medicinal and non-medicinal therapies]] )
+
+- changes in weight and appetite and the search for clinical signs of undernutrition, ([[Therapeutic lifestyle modifications (diet and physical activity) in adults and children and knowing how to present them to patients]]) and ([[Undernutrition in adults and children]])
+
+- the activity index (Performance Status - PS) according to the WHO/ECOG scale '''(Table below)''''
+{| class="wikitable"
+|0
+|Asymptomatic (normal activity: no restrictions on carrying out activities prior to the condition)
+|-
+|1
+|Symptomatic (hampered in sustained physical activity)
+
+but able to move about independently and do light or sedentary work, for example office work or housework)
+|-
+|2
+|Symptomatic, bedridden for less than 50% of the day (able to move about on his own and look after himself).
+
+but unable to produce light work)
+|-
+|3
+|Symptomatic, bedridden for more than 50% of the day, but not confined to bed (capable of limited self-care),
+
+bedridden or confined to a chair for more than 50% of the day).
+|-
+|4
+|Bedridden (totally dependent, unable to care for oneself, confined to bed or chair).
+|}
+Further information: [[Knowing how to identify and assess the symptoms most frequently encountered in the palliative or terminal phase of serious, chronic or lethal illnesses: respiratory, digestive, neurological, psychiatric, ENT 2C-139-DP-A02]]

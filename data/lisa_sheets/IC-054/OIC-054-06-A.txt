@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-054-06-A
+|Item_parent=Dairy in children
+|Item_parent_short=Dairy in children
+|Rank=A
+|Intitle=Osteoarticular infection: knowing the diagnostic arguments
+|Description=detailed in item 153
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+cf [[Osteoarticular infections (OAI) in children and adults|Osteoarticular infections in children]]

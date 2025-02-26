@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-275-07-B
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=B
+|Title=Abdominal CT slice with splenomegaly
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+
+[[File:SMG.jpg|vignette|'''Abdominal CT section with splenomegaly and splenic infarcts (hypodensities indicated by the arrows), in a patient with non-Hodgkin's lymphoma''''' ]]
+'''Abdominal CT section with splenomegaly and splenic infarcts (hypodensities indicated by arrows), in a patient with non-Hodgkin's lymphoma''''

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-334-13-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Understanding the pathophysiology of fire smoke inhalation syndrome
+|Description=Toxicity linked to transporter defects (HbCO) and mitochondrial toxicity (cyanide), direct thermal and chemical mucosal attack, bronchial obstruction, ARDS.
+|Rubric=Physiopathology
+|Contributors=
+|Order=13}}
+
+[[File:Item 334 Figure 8 Pathophysiology of systemic smoke inhalation.jpg.png|vignette|Figure 8.  Pathophysiology of systemic damage in smoke inhalation]]
+Smoke inhalation is as much a local lesion (tracheobronchial tree and lung parenchyma) that can lead to acute respiratory distress syndrome (ARDS), as a systemic pathology with a major inflammatory syndrome evolving on its own account (figure 8).
+
+Smoke inhalation is often associated with intoxication by hypoxaemic and/or asphyxiating gases.
+
+Screening for carbon monoxide (CO) and hydrogen cyanide (HCN) poisoning should be carried out systematically in the presence of :
+
+*cardiac and/or respiratory arrest
+*heart rhythm disorders
+*consciousness disorders ("Coma and consciousness disorders SD-028|''coma and consciousness disorders''']").
+*pre-hospital blood gas hyperlactataemia ("[Analysis of a blood gas result SD-192|'''analysis of a blood gas result''']")
+*smoke background

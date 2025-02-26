@@ -1,0 +1,103 @@
+{{knowledge objective
+|Identifiant=OIC-096-12-B
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=B
+|Title=A strategy for the use of complementary examinations
+|Description=Biological, neurophysiological, cerebrospinal fluid and neuromuscular biopsy investigations
+|Rubric= Complementary examinations
+|Contributors=
+|Order=12}}
+'''Strategy for using complementary examinations'''
+
+The choice of complementary investigations during peripheral neuropathies must be structured '''([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]])''''
+
+The investigation of peripheral neuropathy always requires neurophysiological investigation using an electroneuromyogram.
+
+The first-line biological work-up is straightforward, and is directed towards the existence of metabolic disorders and an inflammatory syndrome. It must be completed according to the diagnostic hypotheses in the second instance.
+
+Examination of the cerebrospinal fluid provides information about the proximal nature of the peripheral nerve damage and its mechanism (inflammation, demyelination, paraneoplastic reaction)''([[Analysis of cerebrospinal fluid (CSF) SD-183|analysis of cerebrospinal fluid (CSF)]])'''.
+
+Finally, nerve or neuromuscular biopsy is an invasive procedure which must be discussed in a collegial manner before it is carried out. '''([[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]])''''
+
+Neurophysiological exploration
+
+The electroneuromyogram (ENMG) is essential for characterising the neuropathy and determining its mechanism: demyelinating, axonal or neuronal.
+
+The electromyogram, a detection test, shows the neurogenic nature of the abnormalities: fibrillation potentials, reduction in the number of motor units, acceleration in the frequency of potentials, simple tracing.
+
+Gives a topographical indication (truncal, radicular, diffuse).
+
+'''Measurement of nerve conduction (stimulodetection test)'''
+
+It reflects the pathophysiological mechanism:
+
+- Demyelinating neuropathies :
+
+o Slowing of motor conduction speeds ;
+
+o Longer F-wave latencies;
+
+o Lengthening of distal motor latencies ;
+
+o Dispersion of action potentials,
+
+o Motor conduction blocks,
+
+- Axonal neuropathies :
+
+o Normal (or moderately slow) speeds ;
+
+o Decrease in the amplitude of the action potential of the motor response ;
+
+o Decrease in the amplitude of the action potential of the sensitive response
+
+- Sensory neuropathies :
+
+o Decreased amplitude or diffuse abolition (in all four limbs) of the sensory action potential ;
+
+o Normality of motor parameters ;
+
+- Motor neuronopathies :
+
+o Decrease in the amplitude of the motor action potential, of variable topography depending on the cause;
+
+o Normality of sensory parameters ;
+
+'''Biological exploration'''
+
+A minimal biological approach including : CBC, VS-CRP, fasting blood glucose and blood glucose 2 hours after 75 g glucose po, ionogram, liver function tests, haemostasis, immunofixation of serum immunoglobulins for monoclonal gammopathy. '''([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]]) ([[Serum protein electrophoresis analysis SD-193|serum protein electrophoresis analysis]]) ([[Elevation of C-reactive protein (CRP)]])'''''
+
+Other biological investigations will be guided by the context.
+
+Examination of cerebrospinal fluid
+
+It provides arguments for the proximal (radicular or neuronal) nature of the neuropathic damage. It is mainly used in polyradiculoneuritis and sensory neuropathy. '''([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]])''''
+
+- Isolated hyperproteinorachia in polyradiculoneuritis and diabetes.
+
+- Cellular reaction in certain paraneoplastic diseases.
+
+- Genuine meningitis in cases of neoplastic, haematological and infectious diseases.
+
+Neuromuscular biopsy
+
+Nerve or neuromuscular biopsy is discussed in a multidisciplinary consultation meeting because it is an invasive procedure which leads to nerve amputation''([[Preoperative explanation and consent form for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and consent form for an invasive diagnostic or therapeutic procedure]])''. It is therefore never performed as a first-line procedure.
+
+It is most often performed on a sensory nerve in the leg (sensitive branch of the fibular nerve or sural nerve).
+
+Biopsies are mainly performed :
+
+- If vasculitis is suspected;
+
+- In cases of diagnostic doubt in the presence of progressive peripheral neuropathy with no known cause.
+
+It can be used to highlight diagnostic arguments:
+
+- Arterial occlusion in vasculitis and fascicular axonal loss ;
+
+- Amyloid deposits in amyloid neuropathy.
+
+- Inflammatory lesions and demyelination/remyelination in chronic inflammatory demyelinating polyneuropathy.
+
+When the biopsy is neuromuscular, the muscle biopsied provides information on the muscular impact of the motor component of the neuropathy. '''([[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]]).'''''

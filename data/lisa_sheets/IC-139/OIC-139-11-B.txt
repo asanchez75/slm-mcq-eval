@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-139-11-B
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=B
+|Title=Knowing the specific features of palliative care for patients suffering from oncological and haematological malignancies, degenerative neurological diseases and terminal organ failure.
+|Description=None
+|Rubric=Management
+|Contributors=Sarah Mensi
+|Order=11}}
+
+End-of-life trajectories can vary depending on the progression of the disease: [2C-139-PC-B01|2C-139-PC-B01]] Knowledge of the stages in the care of patients and their families in the situations most frequently encountered in the palliative or terminal phase of serious, chronic or fatal illnesses.
+
+Depending on these trajectories, the "care pathways" present certain specificities.
+
+==<small>''1. Oncological and haematological malignancies.''</small>==
+[[Care and support for cancer patients at all stages of the disease, including the palliative care stage, addressing technical, relational, social and ethical issues.|See: Care and support for cancer patients at all stages of the disease, including the palliative care stage, addressing technical, relational, social and ethical issues.]]
+
+*In the palliative phase, ''care objectives'' should be defined ''according to the progress of the cancer'' and ''therapeutic prospects'':
+
+- Early integrative approach alongside specific treatments: aims to improve quality of life and sometimes survival.
+
+- Exclusive palliative stage: improve quality of life through etiological management of symptoms of discomfort (RBC transfusion for anaemic syndrome) or purely symptomatic management.  
+
+- Terminal phase: care focused on improving patient comfort.  
+
+Support for relatives is an integral part of care, whatever the stage of the disease.   
+
+*Patients' care trajectories are often long and complex, marked by phases of remission and relapse: the notion of chronicisation of the disease.
+
+*Knowledge of the "stages and prognostic factors" of the disease should make it possible to "anticipate future deterioration" and integrate the palliative approach into the care pathway at an early stage.
+
+*Questioning and reflecting on the objectives of specific therapies is a constant process: combating unreasonable obstinacy, assessing the benefit/risk balance, multidisciplinary discussion in the RCP, planning future care. [The organisation of clinical practice and the methods used to ensure a safe patient pathway;]]  [Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy]]; [[Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (2). Support for patients and their families. Main ethical guidelines]]
+
+*Cancer and/or its treatment are associated with a large number of symptoms of discomfort which punctuate the patient's journey. [Know how to identify and assess the symptoms most frequently encountered in the palliative or terminal phase of serious, chronic or lethal diseases: respiratory, digestive, neurological, psychiatric, ENT 2C-139-DP-A02]]; [[Know how to treat the symptoms most frequently encountered in the palliative phase of serious, chronic or lethal diseases: respiratory, digestive, neurological, psychiatric, ENT 2C-139-PC-A02]]; [[Pain in cancer 2C-134-DP-A06]]; [[Analgesic therapies, medicinal and non-medicinal]]; [[Opioid analgesics: know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A17]]; [[Non-opioid analgesics (including paracetamol): know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A16]]
+
+*Dealing with the psychological suffering of patients, their families and carers is an important issue. The psychological development of patients and/or their families can be ''fluctuating''. [Understanding the psycho-adaptive mechanisms of patients with serious illnesses 2C-140-DP-A02|2C-140-DP-A02]].
+
+*Care is ''multidisciplinary'': work in a network (referral services, palliative care teams, home care workers, etc.). [Learn about the organisation of palliative care in France 2C-139-DE-A02|2C-139-DE-A02.
+
+<u>''Particularities of haematological malignancies:'''</u>
+
+*Sometimes a rapidly evolving profile, with a guarded prognosis from the outset, making it more difficult to plan ahead.
+
+*The effectiveness and multiplicity of therapies can lead to complete or partial responses, even in advanced stages of the disease.
+
+*Transfusion support, particularly erythrocyte support, has a unique place in patient management: objectives, ethical issues, etc. [Know the situations that require a reflective approach to the proportionality of investigations and/or treatments 2C-140-DP-A01|2C-140-DP-A01]].
+
+==<small>'''2. Degenerative neurological diseases </small>==
+Pathologies with a chronic course, clinically very heterogeneous, even within the same neurodegenerative spectrum: Alzheimer's disease, Parkinson's disease, ALS, etc. [Care and support for cancer patients at all stages of the disease, including palliative care, addressing technical, relational, social and ethical issues: [[Confusion, dementia (see item 132)]]; [[Cognitive disorders in the elderly (see item 108)]]; [[Parkinson's disease]]; [[Distinguish clinically between peripheral neuropathy and amyotrophic lateral sclerosis 2C-096-DP-A03|2C-096-DP-A03]].
+
+*''Cognitive and/or communication disorders make the assessment of symptoms more complex''': use validated tools (give preference to self-evaluation, if impossible use hetero-evaluation: Algoplus, Doloplus 2...) [[Screening for pain in the dys-communicative person 2C-138-DP-A03|2C-138-DP-A03]].
+
+*Risk of global suffering: ''multi-professional approach''.
+
+*The increasing loss of physical and/or cognitive abilities and changes in body image can lead to a deterioration in self-esteem and promote mental distress. [Progressive loss of autonomy SD-031.
+
+*Disability and dependency: ''optimising social care -->'' adaptation of support to enable people to remain at home and limit recurrent hospitalisation, promoting town-hospital networks. [Care and support for cancer patients at all stages of the disease, including palliative care, addressing technical, relational, social and ethical issues: [People living with a chronic illness and/or disability and their carers: knowledge of experience, lived experience and experiential knowledge. 2C-119-DE-A01]].
+
+*High risk of exhaustion for carers'': encourage the social fabric of relationships and associations, use respite hospitalisation. [Overall support for a carer SD-330]].
+
+*In the presence of communication difficulties and/or cognitive disorders: '''Anticipating the patient's wishes for the end of life -->''' explanation of the legal framework, trusted support person, advance directives. [Knowledge of the ethical, legal and societal issues raised during the advanced palliative or terminal phases of a serious, chronic or lethal illness 2C-140-DP-A05|2C-140-DP-A05]].
+
+*Progressive impairment of vital functions (breathing, eating, coughing, drinking), occurrence of acute complications that may be reversible (respiratory infections, etc.): '''reflection on the proportionality of care, fight against unreasonable obstinacy, Claeys-Leonetti law.''' [Care and support for cancer patients at all stages of the disease, including the palliative care stage, addressing technical, relational, social and ethical issues: [Knowledge of the ethical, legal and societal issues raised during the advanced or terminal palliative phases of a serious, chronic or lethal disease 2C-140-DP-A05|2C-140-DP-A05]]; [[Multidisciplinary palliative care of the patient in the palliative or terminal phase of a serious, chronic or lethal disease.Euthanasia or assisted suicide request|Multidisciplinary palliative care of the patient in the palliative or terminal phase of a serious, chronic or lethal illness. Sedation for distress in the terminal phase and specific and complex situations at the end of life [Request for euthanasia or assisted suicide]].
+
+==<small>'''3)''''''Terminal organ failure.''</small>==
+The paragraph below refers to chronic cardiac, renal, respiratory and hepatocellular failure.
+
+The course of these diseases is fairly unpredictable, with repeated episodes of decompensation. Unlike oncology, patients and carers are less likely to see the disease as fatal.
+
+*Anticipating discussions with patients on the appropriateness of life-sustaining treatment and the possibility of suspending it. [Caring for and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues: [Multidisciplinary palliative care for patients in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines]].
+
+*Reflect on the care plan with the patient in order to ''plan future care''.
+
+*Encourage collaboration between organ specialists and palliative care resource teams.
+
+*Take into account the patient's co-morbidities and all the complications associated with organ failure: ''global approach''.

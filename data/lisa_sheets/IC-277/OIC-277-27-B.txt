@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-277-27-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Knowing the two possible treatments to clear the VBP outside of septic emergencies
+|Description=Endoscopic surgery (1-stage treatment) followed by cholecystectomy.
+|Section=Management
+|Contributors=
+|Order=27}}
+
+In the absence of angiocholitis or pancreatitis, the 2 possible treatments for unblocking the main bile duct are :
+
+- 1-stage surgery (cholecystectomy with intraoperative clearance of the main bile duct)
+
+- in two endoscopic stages (endoscopic biliary sphincterotomy) followed by cholecystectomy.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-094-05-B
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=B
+|Title=Knowing the risk factors for spinal pain
+|Description=List of risk factors to look for
+|Rubric=Epidemiology
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=5}}
+
+===''Factors associated with low back pain and neck pain''===
+
+* Repeated trauma or microtrauma, prolonged postures in leisure or work '''[[Occupational risk prevention SDD-315|(occupational risk prevention,]] ''[[Identify the consequences of a pathology/situation on maintaining a job SDD-316|identify the consequences of a pathology/situation on maintaining a job)]]''''
+* sedentary lifestyle
+* obesity (low back pain only)
+* spinal static disorders ''[[Spinal deformity SDD-065|(spinal deformity)]]'''''
+* smoking
+* family history

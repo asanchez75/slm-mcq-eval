@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-203-04-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the signs of seriousness of acute dyspnoea
+|Description=and know how to grade NYHA, MRC
+|Section=Positive diagnosis
+|Contributors=
+|Order=4}}
+Refer to item 359 ([[Acute respiratory distress SD-160|adult respiratory distress]])

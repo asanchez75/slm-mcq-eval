@@ -1,0 +1,27 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of randomisation
+|Description=None
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Jérôme Lambert (CIMES),Agnès Dechartres (CUESP)
+|Order=14
+|Identifiant=OIC-323-14-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+'''Definition''': technique for randomly assigning treatment modalities to individuals included in a trial (for example, treatment A or B in the case of a randomised controlled trial with 2 parallel groups).
+
+'''Objective''': To create 2 groups that are comparable in terms of initial characteristics (= at inclusion) so that the prognostic factors (known or unknown) of the disease are distributed in a similar way (on average) between the groups.
+
+*It prevents selection bias and confounding (particularly indication bias).
+
+'''Practical aspects:'''
+
+*<u>Method for generating the randomisation sequence</u> :
+**Randomisation can be balanced (same proportion of subjects in each arm) or unbalanced.
+**In order to guarantee that at the end of the inclusions a similar number of patients will be present in each group, permutation block randomisation can be used. A block of size n guarantees that all n patients, n/2 will have received each treatment.
+**In order to guarantee a balanced distribution of certain factors known to be highly prognostic of the disease, stratification can be carried out (on one or more of these factors, qualitative variables) which amounts to creating as many randomisation lists as there are strata (= modalities or combinations of modalities of the stratification factors). Stratification on the centre is frequent in a multicentre study.
+**In cases of small numbers and if there are many stratification factors, randomisation by minimisation can be used. This is an adaptive procedure in which the probability of randomisation in each group varies according to the existing imbalance between the groups. With each new patient included, the randomisation will be unbalanced in favour of the group that minimises the difference between the two groups on several predefined important variables
+*<u>Clause of ignorance or secret assignment</u> (see [[Secret assignment in randomised trials 2C-323-DE-A10]]).
+*<At the earliest possible time after inclusion and just before initiation of the treatments being compared: this limits trial withdrawals due to withdrawal of consent.

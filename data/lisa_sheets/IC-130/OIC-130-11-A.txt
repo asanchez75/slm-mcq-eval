@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-130-11-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Knowing the definition of frailty in geriatrics
+|Description= Meets Fried criteria. Does not concern all elderly patients (15.5% of subjects over 65 living at home). May affect younger people. It is potentially reversible depending on the interventions targeted.
+|Rubric=Definition
+|Contributors=
+|Order=11}}
+
+
+Frailty is a measurable geriatric syndrome that provides a more comprehensive understanding of the vulnerability of the elderly. Its definition is based on the presence of at least three of Fried's five criteria.
+
+Frailty is a clinical syndrome characterised by a decline in physiological reserve capacity, altering the mechanisms for adapting to stress. This potentially reversible state is a risk factor for mortality and adverse events (falls, hospitalisation, admission to an institution).
+
+<br />

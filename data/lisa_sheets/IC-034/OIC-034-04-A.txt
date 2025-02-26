@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-034-04-A
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=A
+|Title=Knowing how to diagnose genital haemorrhage during the postnatal period according to aetiology
+|Description=Know how to treat post-partum haemorrhage depending on the aetiology
+|Rubric=Positive diagnosis
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=4}}
+
+In the event of post-partum genital haemorrhage, a pelvic ultrasound scan should be performed as part of the aetiological work-up, and uterine vacuity should be checked.
+
+A distinction is made between :
+
+- Early haemorrhage occurring within 24 hours of birth and defined as blood loss of at least 500ml. The main causes are uterine atony, retained placenta or a wound in the genital tract (see delivery item);
+
+- Late (or secondary) haemorrhage, defined as haemorrhage occurring after the first 24 hours and within 12 weeks of delivery (0.5 to 2% of deliveries).
+
+Main causes :
+
+Isolated uterine atony, the most common cause of post-partum haemorrhage (>50% of cases).
+
+The onset is often very early, during the first 3 days post-partum.
+
+Examination revealed: metrorrhagia greater than normal, absence of a safety globe (uterus not retracted, soft, extending beyond the umbilicus), but no sign of endometritis, normal temperature, foul-smelling lochia, absence of spontaneous pelvic pain or pain provoked by uterine mobilisation.
+
+A pelvic ultrasound should be performed to rule out retained placenta (membranes, cotyledon).
+
+Haemorrhagic endometritis (''see above'')
+
+Placental retention
+
+Persistence of cotyledonary or membranous fragments. It promotes uterine atony and/or endometritis.
+
+There are no specific clinical signs. Diagnosis is based on pelvic ultrasound, which should be performed systematically in cases of hyperthermia or post-partum genital haemorrhage.
+
+110 [[Postpartum abnormal genital bleeding SD-110|Postpartum abnormal genital bleeding]]; 60. [[Acute haemorrhage SD-060|Acute haemorrhage]]; 178. [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]].

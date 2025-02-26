@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-225-12-A
+|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Rank=A
+|Title=Knowing the clinical signs of aortic aneurysms
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Christian Boissier, Anne Long, Lucie Salomon Du Mon, Alessandra Bura, Patrick Feugier
+|Order=12}}
+[[File:TDM AAA.jpg|vignette]]
+'''In the majority of cases, AAA is asymptomatic.''' Most often, AAA is discovered incidentally on clinical examination or by an imaging test (ultrasound, abdominal computed tomography (CT) or magnetic resonance imaging (MRI), or even a plain unprepared abdominal X-ray showing calcifications in the aneurysm sac ( '''''[[Discovery of an abdominal anomaly on medical imaging test SD-224|Discovery of an abdominal anomaly on medical imaging test]]''''').
+
+The diagnosis may be made in a patient presenting with abdominal or lumbar pain. If the AAA is known to be ruptured, the patient should be referred to a vascular surgery centre as soon as possible. Abdominal CT imaging should be carried out as a matter of urgency ('''''[[Request for a patient's explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request for a patient's explanation of the procedure, risks and expected benefits of an imaging examination]]'''''). If the AAA is not known, the diagnosis is made on the imaging performed to explore the pain and the patient is referred to the vascular surgery centre as a secondary emergency.
+[[File:TDM AAA Rompu.jpg|vignette]]
+'''The diagnosis may not be made until the rupture stage.''' This is a '''life-threatening emergency.''' Rupture of an AAA is associated with '''abdominal''' or lumbar pain and haemorrhagic shock.
+[File:AAA Rompu.jpg|vignette]]
+When the patient's haemodynamic status allows it, an abdominal CT scan is performed. The patient must be transferred urgently to a vascular surgery centre. The CT scan confirms the diagnosis and pinpoints the location of the AAA in relation to the renal arteries prior to emergency transfer to the operating theatre. The overall mortality rate for ruptured AAA is over 80%.
+
+Other revealing clinical presentations are rare:
+
+- Acute arterial occlusion of the lower limb by migration of a fibrino-cruoric embolus from the intra-aneurysmal thrombus.
+
+- Cholesterol crystal embolisms resulting in blue toe syndrome.
+
+- Lower back pain or cruralgia due to vertebral erosion by the shell of the AAA, which can cause lower back pain or cruralgia.
+
+- Compression of neighbouring organs (ilio-caval venous axes, ureters, digestive tract).
+[[File:Aorto-Duodenal Fistula.jpg|vignette]]
+- Rupture in a neighbouring organ (aorto-digestive fistula, aorto-caval fistula).
+[[File:AAA inflammatoire.jpg|vignette]]
+- An inflammatory gangue may develop around the aneurysm, causing diffuse abdominal or lumbar pain. The diagnosis is made on CT scan, which shows the gangue and rules out rupture.

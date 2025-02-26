@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-342-15-A
+|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the emergency procedures to be carried out in the presence of a generalised convulsive seizure.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=15}}
+
+{| class="wikitable"
+|cf item 105
+|}

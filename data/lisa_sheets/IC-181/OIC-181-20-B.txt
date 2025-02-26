@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-20-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing biovigilance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=20}}
+
+Biovigilance is a form of vigilance carried out by the Biomedicine Agency.
+
+This involves monitoring the risks associated with the use for therapeutic purposes of elements and products derived from the human body, such as organs, tissues, cells and breast milk for therapeutic use.
+
+The specific biovigilance of risks linked to medically assisted procreation procedures is called AMPvigilance.

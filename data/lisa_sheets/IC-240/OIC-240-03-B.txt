@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-240-03-B
+|Item_parent=Hypoglycaemia in adults and children
+|Item_parent_short=Hypoglycaemia in adults and children
+|Rank=B
+|Title=Knowing the clinical signs of hypoglycaemia
+|Description=Distinguish between neuroglucopenic and adrenergic signs
+|Rubric=Symptoms
+|Contributors=Natacha GERMAIN,Delphine VEZZOSI
+|Order=3}}
+
+'''2 types of signs'''
+
+*Neurovegetative signs: Palpitations, anxiety, sweating, hunger pangs, tremors
+
+*Neuroglycopenic signs: consciousness disorders, concentration disorders, speech disorders, coma, memory disorders, visual disorders (blurred vision, diplopia, etc.), focal or generalised convulsions, confusion, behavioural disorders or psychiatric syndrome, sensory-motor deficit, paresthesia, limb coordination disorders, diplopia, etc.
+
+The presence of neuroglycopenic signs, which are more specific than vegetative signs, means that a search must be made for organic hypoglycaemia.
+
+
+In the case of organic hypoglycaemia in a non-diabetic subject, symptoms are most likely to occur on an empty stomach or between meals, at night or during physical activity.
+
+This symptomatology is rapidly reversible after the intake of fast sugars.
+
+Confusion [[Mental confusion/disorientation SD-119]]

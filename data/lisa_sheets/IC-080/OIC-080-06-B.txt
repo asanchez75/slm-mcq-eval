@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-080-06-B
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=B
+|Title=Knowing the principles, rules, methods and organisations of the fight against doping.
+|Description=Organise detection and testing, provide proof of the use of doping products and introduce sanctions.
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+'''Direct measurement: doping controls'''
+
+* Any athlete can be tested, whether professional or amateur.
+* They may not refuse to be tested. In the event of refusal => penalty identical to that for doping.
+* In-competition and out-of-competition testing
+* Implemented by the French Anti-Doping Agency (AFLD).
+
+
+'''Indirect measurement: use of athlete's biological passport data'''
+
+* Monitoring of selected biological variables over time, enabling doping to be identified.
+* Passport useful for detecting autologous transfusions and EPO (detection of non-physiological changes).
+* Includes 2 modules:
+** Haematological (blood): screening for methods of improving oxygen transport
+** Endocrine (urine): detect endogenous anabolic androgenic steroids not produced by the body.
+** 3rd module in progress: growth hormone detection
+
+
+'''In the event of a positive doping test'''
+
+* Sporting or even criminal sanctions (up to and including family and carers)
+
+<br />

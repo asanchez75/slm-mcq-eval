@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-322-01-A
+|Item_parent=Personalised therapeutic decision making: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of therapeutic adaptation in obese patients
+|Description=Knowing the principles of therapeutic adaptation in obese patients
+|Rubric=Management
+|Contributors=
+|Order=1}}
+<br />
+
+=Pharmacokinetic specificities=
+Obesity is likely to have an impact on each of the stages in the fate of a drug in the body:
+
+*L''''intestinal absorption''' of the drug <u>may be modified</u>, particularly in the case of a history of bariatric surgery (modification of gastric emptying and/or malabsorption).
+*The '''binding''' of the drug '''to proteins''' <u>may be modified</u>, especially in cases of undernutrition which may be observed despite obesity .
+*The '''diffusion''' of the drug by the intramuscular and subcutaneous routes <u>may be modified</u> .
+*The '''distribution''' of the drug <u>may be altered</u>, particularly via the percentage of fat mass which is generally increased compared with lean mass. Particular attention should be paid to obese subjects with rapid and significant weight loss: lipolysis may lead to a release of previously stored lipophilic drugs <ref name=":1">[https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/96-populations-pathologiques-particuliere Site du Collège National de Pharmacologie Médicale, consulted on 23/07/2021]</ref>.
+*The '''metabolism''' of the drug <u>may be modified</u>. In particular, the activity of cytochrome P450 3A4 is thought to be decreased <ref name=":1" />.  Obesity is also often associated with hepatic steatosis, which can lead to hepatocellular failure.
+*L''''elimination'' of the drug <u>may be altered</u>. In particular, the half-life time can be variously impacted via a modification of renal elimination <ref name=":1" />.
+
+==Pharmacodynamic specificities==
+The''''effect''' of the drug <u>may be modified</u>. For example via ''insulin'' resistance, which may lead to the need for higher doses of hypoglycaemic drugs.  
+
+=Principles for adapting prescriptions=
+- Oral absorption not altered, except by delayed gastric filling.
+
+- Physiological changes are difficult to predict and non-linear: there is therefore not necessarily a need to adapt the dosage to the patient's weight, or a risk of underdosing, unless this is mentioned in the SPC.
+
+- IM route to be avoided as intra<ins>-</ins>lipomatous injection.
+
+- Subcutaneous route to be avoided as penetration of the subcutaneous lipophilic layer is unpredictable.
+
+- Dosages may need to be adjusted according to weight, depending on the active ingredient and its lipophilic nature, which should be checked in accordance with the marketing authorisation.
+
+- Obese patients often have chronic pathologies: it is important to ensure that they are aware of their liver and kidney function.
+
+==Adapting the dose according to weight===
+Using ''total body weight'' to adapt a prescription to ''dose/weight'' (mg/kg for example) '''can lead to overdosing'', particularly for '''hydrophilic drugs''.
+
+The dose/weight can be adjusted by estimating an "ideal" weight (using the Lorentz formula in particular). Depending on the distribution of the drug in the body fat, an additional "correction factor" may be necessary.
+
+==Specific monitoring==
+Depending on the therapeutic range of the drug, monitoring of its plasma concentration may be necessary
+<references />

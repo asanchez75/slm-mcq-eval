@@ -1,0 +1,17 @@
+<br />{knowledge objective
+|Identifiant=OIC-248-04-B
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention by nutrition in adults and children
+|Rank=B
+|Title=Knowing how to assess the different types of physical activity at interview
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=4}}
+During the interview, the subject should be asked to specify what he or she does in daily life according to the different PA domains mentioned above.
+
+For each activity performed, the duration (minimum 10-minute sequence), intensity, frequency and type (commuting, work, leisure) must be specified.
+
+There is also a positive influence from family and friends, schools, social clubs and associations. We recommend raising awareness and supporting involvement in these environments.
+
+Previous physical and sporting activities should be questioned to find out about the person's experiences and the reasons for any interruptions, in particular to identify areas of interest, sources of motivation and any obstacles.

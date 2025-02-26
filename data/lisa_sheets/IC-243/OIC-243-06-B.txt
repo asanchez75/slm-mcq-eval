@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-243-06-B
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=B
+|Title=Knowing specific and non-specific biological signs
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Eva Feigerlova,Igor Tauveron
+|Order=6}}
+
+
+
+'''Specific biological signs'''
+
+1/ An increase in TSH (peripheral hypothyroidism)
+
+2/ a decrease in T4L with normal or low TSH (unsuitable for the low T4L value) (central hypothyroidism)
+
+
+'''Non-specific biological signs'''
+
+1. haematological abnormalities
+
+- normocytic and normochromic anaemia, more rarely macrocytic
+
+- coagulation disorders and haemostasis factor abnormalities
+
+'''2. Ionic and metabolic abnormalities''''
+
+*elevated LDL cholesterol;
+*hypertriglyceridaemia (VLDL)
+*an increase in muscle enzymes (CPK), sometimes with an increase in ASAT and LDH;
+*dilution hyponatremia in myxedematous coma.
+<references /><ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

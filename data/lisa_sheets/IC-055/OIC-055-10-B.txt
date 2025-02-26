@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-055-10-B
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=B
+|Title=Knowing how to identify relationship dysfunctions
+|Description= Reactive attachment disorders; post-traumatic states
+|Rubric=Diagnosis
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame
+|Order=10}}
+
+== Early Interaction
+
+
+Early, stable and secure parent-child interactions play a central role in emotional and cognitive development.
+
+Deleterious interactions and environments, as well as exposure to traumatic events, have various consequences including [[Stress and adaptation to stress; Adjustment disorders 2C-066-DE-A05|Adjustment disorders and post-traumatic stress states]]; [[2C-066-DE-A04]]
+
+== Reactive attachment disorders ==
+These are the result of [[Maltreatment and children at risk. Protection maternelle et infantile|carences extrêmes]] (necessary condition for diagnosis) :
+
+*Abrupt separation from attachment figures
+*Abuse and children at risk: medical management 2C-057-PC-A02|abuse]/neglect
+
+
+There are two types of reactive attachment disorder:
+
+*Inhibited contact, relational withdrawal
+*Excessive familiarity
+
+<br />

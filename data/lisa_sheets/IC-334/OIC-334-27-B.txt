@@ -1,0 +1,86 @@
+{{knowledge objective
+|Identifiant=OIC-334-27-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the principles of thoracic trauma management
+|Description=Multimodal analgesia, thoracic drainage, non-invasive ventilatory assistance, surgical exploration of penetrating trauma, specialist surgical opinion for complex cases (rupture of the aortic isthmus, thoracic flap, diaphragmatic and cardiac lesions).
+|Rubric=Management
+|Contributors=
+|Order=27}}
+
+{| class="wikitable"
+|'''Common principles of care''''
+|-
+|Continuous monitoring in a continuous monitoring unit if signs of seriousness
+|-
+> 2 rib fractures
+|-
+|- age > 65, chronic respiratory or cardiovascular disease, coagulation disorder
+|-
+|- acute respiratory distress or shock
+|-
+|Analgesia
+|-
+|- multimodal analgesia
+|-
+|- Morphine titration + morphine PCA +/- locoregional analgesia (epidural or truncular by intercostal or paravertebral blocks)
+|-
+|Invasive or non-invasive mechanical ventilation
+|-
+|- risk of compressing an undrained pneumothorax
+|-
+|Antibioprophylaxis 24-48 h if penetrating trauma
+|-
+|- Amoxicillin-clavulanic acid / clindamycin-gentamycin if allergic
+|}
+The identification of situations indicating recourse to rescue therapy is presented in figure 18 ([[2C-334-IU-A02]], [[2C-334-EC-A01]]).
+{| class="wikitable"
+|'''Management according to type of injury''''
+|-
+|Rib fractures
+|-
+|- Incentive physiotherapy
+|-
+|- rare surgical indications
+|-
+|Pneumothorax, hemothorax
+|-
+|- exsufflation of suffocating pneumothorax / haemostasis thoracotomy if very active haemothorax (see figure)
+
+- recovery and autotransfusion of a haemothorax
+
+- thoracic drainage or conservative treatment (pneumothorax < 50%, haemothorax < 500 ml)
+|-
+|Pulmonary contusion
+|-
+|- Oxygen therapy
+
+- respiratory physiotherapy
+
+- invasive or non-invasive mechanical ventilation
+|-
+|Myocardial contraction
+|-
+|- scoped monitoring
+
+- surgery for penetrating myocardial trauma
+|-
+|Aortic rupture
+|-
+|- Endovascular treatment: aortic endoprosthesis
+|}
+{| class="wikitable"
+|'''Indications for seeking specialist surgical advice'''
+|-
+|Penetrating trauma
+|-
+|Aortic isthmus rupture
+|-
+|Cardiac lesions
+|-
+|Diaphragmatic lesions
+|-
+|Chest flap
+|}
+("''[[Prescribe analgesics SD-250|prescribe analgesics]]'''")("''[[Assessment and management of acute pain SD-259|assessment and management of acute pain]'''") ("''[[Acute respiratory distress SD-160|acute respiratory distress]]'') (''[[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]]''') (''[[Chest trauma SD-177|chest trauma]]''')

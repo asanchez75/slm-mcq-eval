@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-173-04-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Cat scratch disease: general information
+|Description=None
+|Rubric=Definition
+|Contributors=Carole Eldin
+|Order=4}}
+The bacterium in question is ''Bartonella henselae'', a small intracellular BGN that is difficult to culture.
+
+Humans are most often infected through cat bites or scratches.
+
+In cats, infection is more common in kittens and young cats.
+
+In humans, from the inoculation lesion, the bacteria multiply in a relay lymph node. This adenopathy is the site of an inflammatory reaction with epithelioid granuloma with non-caseous necrosis, associated with follicular hyperplasia and the presence of microabscesses.

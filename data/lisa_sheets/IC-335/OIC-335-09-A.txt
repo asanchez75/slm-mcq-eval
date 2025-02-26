@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-335-09-A
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=A
+|Title=Know the clinical signs of mandibular fractures (for all fractures, including the condyle)
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=9}}
+
+
+* Pain at the fracture line, with functional impotence
+* Modification of the dental articulation by displacement of the bone fragments (resulting in a disorder of dental occlusion (gap, premature contact, etc.))
+* Trismus, i.e. limitation of mouth opening caused by reflex contracture of the masticatory muscles.
+* Hypoesthesia, even anaesthesia in the territory of the inferior alveolar-dental nerve (branch of the V3), in the case of damage to the mandibular canal.
+* Gingival bleeding (stomatorrhoea) and hypersalivation, sometimes with drooling (sialorrhoea).

@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-170-03-A
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Know how to diagnose malaria in adults and children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=3}}
+
+'''<big>Suspicion of malaria is a diagnostic EMERGENCY</big>''''
+
+Suspicion of the disease is based on clinical and epidemiological evidence (compatible clinical features and evidence of a stay in an endemic area) and/or orienting biological signs.
+
+====Symptom onset time====
+
+=====Primo-invasion (all species)=====
+
+*Incubation of 1 to 3 weeks on average.
+*Onset of P. falciparum malaria: mostly within 3 months of the start of the stay in an endemic zone.
+
+=====Reviviscence (''P. vivax'' or ''P. ovale'')=====
+
+*Up to 3 to 5 years after a stay in an endemic zone
+
+=====Late outbreak (''P. malariae'')=====
+
+*Up to 10 years after a stay in an endemic zone
+
+====Clinical signs of uncomplicated malaria attack====
+
+*Hyperthermia/fever SD-044|Fever, shivering, sweating in fits and starts with free intervals
+*± Digestive disorders (nausea, vomiting, diarrhoea)
+*± Headache
+*± Splenomegaly
+
+====Clinical features of severe malaria (see ''Heading: How to identify severe malaria'')====
+
+====Biological signs of orientation====
+
+=====NFS=====
+
+*Thrombocytopenia (very frequent)
+*Anaemia
+*Absence of hyperleukocytosis or lymphopenia
+
+=====Biochemical analysis=====
+
+*Biological inflammatory syndrome (elevated CRP)
+*haemolytic syndrome: LDH (increased), free bilirubin (increased), haptoglobin (decreased, the most sensitive test for diagnosing haemolysis)
+*Hepatic cytolysis, < 10N (especially ALAT)

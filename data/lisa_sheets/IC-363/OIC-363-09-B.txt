@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-363-09-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=Know the principle of treatment of proximal femur fractures
+|Description=None
+|Rubric=Management
+|Contributors=Pierre-Sylvain MARCHEIX
+|Order=9}}
+
+A distinction is made between intracapsular and extracapsular fractures of the proximal femur.
+
+
+For "extracapsular fractures" of the femoral neck, whatever the patient's age, the first-line treatment is "surgical", as soon as the patient's general condition allows. It consists of a "reduction of the displacement associated with a stable osteosynthesis" enabling consolidation to be achieved within a normal timeframe without secondary displacement or dismantling. The material used is either a screw-plate or a cervico-medullary nail. In elderly patients, arthroplasty in this indication has not shown any clear superiority.
+
+
+For ''intracapsular fractures'', the risk of local complications such as ''pseudarthrosis'' or ''osteonecrosis'' is high in elderly patients.
+
+- In young patients in good general condition, preservation of the femoral head is indicated. The aim is to avoid the need for hip arthroplasty. In the event of osteonecrosis of the femoral head, a total hip replacement will be discussed at a later stage.
+
+- For "older patients", it is the type of fracture and the patient's general condition that guide the choice between "conservative surgery" with screw or screw-plate osteosynthesis and "prosthetic surgery".
+
+In case of non-displaced fracture: osteosynthesis.
+
+In the event of a ''displaced fracture'': ''arthroplasty'' which may be unipolar in the case of impaired autonomy or total in the case of preserved autonomy.
+
+
+In all cases is associated :
+
+- pain treatment, initially multimodal, not hesitating to use morphine derivatives,
+
+- prevention of surgical site infections by antibiotic prophylaxis during anaesthetic induction
+
+- prevention of venous thrombo-embolism, combining early mobilisation, elastocontention in the absence of contraindication and pharmacological prevention with LMWH.

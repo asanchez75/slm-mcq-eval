@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-168-16-B
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=B
+|Title=Knowing the principles of management of the ophthalmological manifestations of HSV.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=16}}
+Specialist management with ophthalmological examination.
+
+Topical treatment with aciclovir ointment 5 times a day for 5 to 10 days +- intravenous treatment if deep keratitis, uveitis or retinal necrosis.
+
+Absolute contraindication to corticosteroid therapy, which can even lead to corneal perforation, and local anaesthetics (risk of masking a deteriorating course).

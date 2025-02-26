@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-152-12-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Heading=Know how to prioritise additional tests according to the patient's clinical condition (blood cultures, echocardiography, other additional tests).
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=12}}
+[For any suspected AE, three tests must be carried out:
+
+*blood cultures
+*an echocardiogram.
+
+The time taken depends on the patient's clinical condition (Figure 4).
+
+<gallery perrow="2">
+File:EI - Hierarchisation examens.jpg|'''Figure.''' Hierarchy of complementary examinations according to the patient's clinical condition.
+</gallery>
+
+
+'''An [[Electrocardiogram: indications and interpretation|electrocardiogram]] is systematically performed as soon as there is clinical suspicion of an AR''', to detect early any conduction disorder that may reveal a complication (ring abscess...) or signs of ischaemia suggestive of coronary embolisms.  
+
+Other complementary examinations may be carried out:
+
+*If an echocardiogram is inconclusive, the work-up may be completed by a cardiac CT scan or PET scan for a positive diagnosis.
+*'''The diagnosis of IE has been confirmed''', other additional examinations are necessary to carry out the '''extension assessment''' '''of the [[Connaitre les principales localisations emboliques en cas d'EI 2C-152-EC-B01|complications emboliques.]]''''
+
+<br />

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-172-06-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know the clinical and epidemiological circumstances that should lead to the diagnosis of cryptosporidiosis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=6}}
+
+'''''<big>Epidemiological circumstances</big>'''''
+
+Circumstances of contamination: consumption or accidental ingestion of ''contaminated water'' (tap water if the purification system is faulty, during bathing, well water, aquatic centres), ''dairy products'' (raw cheeses) or other foodstuffs contaminated with animal faeces, particularly cattle faeces.
+
+- immunocompetent subjects: ''peak frequency around the age of 5'', but may occur in adulthood, existence of ''epidemics'' ''''
+
+- immunocompromised subject: HIV-positive AIDS patient with <100 CD4/mm3, kidney transplant ++, other cellular immunity deficiency
+
+'''''<big>Clinical circumstances</big>'''''
+
+- subacute or chronic diarrhoea (3 to 10 bloodless stools per day).
+
+- abdominal pain, nausea
+
+- moderate fever (38 to 38.5°C, inconsistent).
+
+In immunocompetent subjects: spontaneous resolution without treatment in around ten days, sometimes longer in children and the elderly.
+
+In immunocompromised patients: prolonged diarrhoea leading to dehydration and hydro-electolytic disorders. Chronic diarrhoea may be associated with severe malabsorption and be directly or indirectly responsible for death.

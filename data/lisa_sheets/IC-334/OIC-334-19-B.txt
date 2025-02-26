@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-334-19-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the principles of the management of a burn patient (excluding local care)
+|Description=Vascular filling, airway protection, specialist advice
+|Heading=Management
+|Contributors=
+|Order=19}}
+Treatment of burns is an emergency and must be undertaken before contact is made with the Burn Treatment Centre (BTC), pending transfer to the BTC if indicated.
+
+After oxygenation with a face mask, the injured person is treated:
+
+*peripheral or central vascular access, including intraosseous access, useful in the case of extensive burns ("''[[Prescribing and monitoring a vascular access SD-271|prescribing and monitoring a vascular access]'''');
+*monitoring (heart rate, blood pressure, SpO2);
+*upper airway control (tracheal intubation) required in the event of
+**signs of respiratory distress ;
+**profound impairment of alertness;
+**deep burns to the head (face or neck);
+**smoke inhalation / upper airway burns;
+
+*Urinary catheter: as soon as there is involvement of the external genitalia or rapidly when volume expansion is being considered;
+
+*Gastric tube: inserted in intubated patients.
+
+Early vascular filling is a major determinant of prognosis, as fluid and electrolyte losses occur within the first few hours, which means that any delay is likely to lead to organ failure ("''[[Discovery of arterial hypotension SD-043|découverte d'une hypotension artérielle]]'').
+
+It is recommended to infuse :
+
+*20 ml/kg of crystalloids (preferably balanced solutions);
+*during the 1<sup>rst</sup> hour;
+*regardless of the surface area burnt, as long as it is ≥ 20% in adults and ≥ 10% in children.
+
+Once the burned surface area has been assessed, water intake is adjusted according to various formulas, which must include at least the patient's DBS and weight, and which are specifically adapted to adults and children. It is important to know the exact time when the burn occurred, as this determines the hourly count.
+
+Water intake is high for the first 24 hours, at around 4 ml/kg/% DBS (Parkland formula), and is halved on the second day, with the aim of maintaining mean arterial pressure and preserving diuresis.
+
+Solutes are crystalloid. Albumin is used in cases of hypoalbuminemia.
+[File:Item 334 Figure 17 Specialist advice and referral for burn victims.jpg|vignette|Figure 17. Specialist advice and referral for burn patients]]
+Severe burns and burns at risk require systematic contact with a burns treatment centre (BTC) with telephone advice and telemedicine imaging to guide hospital management before transfer according to the estimated burned skin area (BSA) (figure 17).
+[[File:Item 334 Checklist for the treatment of severe adult burn victims SFAR.jpg|vignette|Checklist for the treatment of severe adult burn victims (SFAR)]]
+<br />

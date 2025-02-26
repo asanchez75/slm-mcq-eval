@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-162-32-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Knowing the parasitic aetiologies of STIs
+|Description=Trichomoniasis, Pthirosis
+|Rubric=Etiologies
+|Contributors=
+|Order=32}}
+'''- Trichomoniasis :''' ''Trichomonas vaginalis,'' flagellate protozoan, anaerobic
+
+- Scabies: ''Sarcoptes scabiei hominis'', sarcoptes*.
+
+- Pediculosis of the pubis: ''Phtirius inguinalis
+
+<nowiki>*</nowiki> its mode of transmission makes it similar to an STI, which requires research into risky behaviour and, where appropriate, screening for other STIs

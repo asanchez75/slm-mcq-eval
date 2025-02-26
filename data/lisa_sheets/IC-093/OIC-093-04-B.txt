@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-093-04-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Knowing how to diagnose spinal cord compression on imaging
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=4}}
+
+* Positive diagnosis: confirm spinal cord compression, locate it and specify its severity (deformation of the spinal cord, disappearance of the peri-medullary CSF border).
+* Aetiological diagnosis: determine whether the compression is of vertebroepidural, intradural extramedullary or intramedullary origin.
+* '''Biomechanical assessment:''' search for instability criteria (posterior wall damage, pedicle, fracture) before deciding on possible osteosynthesis
+* Lesion extension assessment: status of the vertebrae above and below in the case of diffuse spinal metastases, search for other threatening lesions.

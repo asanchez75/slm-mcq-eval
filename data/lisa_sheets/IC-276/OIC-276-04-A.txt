@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-276-04-A
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=A
+|Title=Know the elements of the interview and physical examination that help in the diagnosis of hepatomegaly and abdominal mass.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Interrogatory:'''
+
+Circumstances of discovery: incidental, screening, pain, jaundice
+
+Context: travel to an endemic area
+
+Search for risk factors for cirrhosis: alcohol consumption, elements of metabolic syndrome, risk factors for viral hepatitis, etc.
+
+Medical, surgical and gynaecological history
+
+Family history of cancer
+
+Associated signs: fever, sweating, weight loss, transit disorders, urinary and gynaecological signs.
+
+Date of last menstrual period (non-menopausal women)
+
+
+Clinical examination
+
+Specify the characteristics of the mass: location, size, consistency, spontaneous or provoked pain on palpation, attachment to the deep layers, pulsatility,
+
+Palpation of a hard liver with a sharp lower edge is highly suggestive of cirrhosis.
+
+Look for a septic syndrome: fever, chills
+
+Look for signs of liver failure or portal hypertension (see item 279).
+
+Search for cholestasis syndrome: jaundice, pruritus, discoloured stools and dark urine
+
+Search for metastases: palpation of the liver and lymph nodes (particularly Troisier adenopathy), pelvic touch (depending on the context).
+
+Check for signs of right heart failure (hepato-jugular reflux, depending on the context)
+
+Looking for ascites

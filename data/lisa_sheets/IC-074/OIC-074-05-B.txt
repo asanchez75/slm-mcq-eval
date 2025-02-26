@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-074-05-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Title=Antipsychotics: knowing the rules for correct use at all stages of life, particularly in elderly patients and/or those suffering from dementia.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+The ''pre-therapeutic assessment'' prior to antipsychotic treatment includes a search for contraindications (ECG), any pregnancy, associated treatments and screening for metabolic disorders.
+
+'''Rules for the proper use''' of antipsychotics :
+
+* First-line molecules: second-generation antipsychotics;
+* Choice of drug based on response to previous treatments, contraindications and patient preferences;
+* Favour the drug with the fewest side effects;
+* Do not combine two QT-prolonging drugs;
+* Look for monotherapy and the minimum effective dose;
+* In emergencies, reserve the intramuscular route for states of intense agitation and avoid dose escalation or repetition;
+* Monitor clinical efficacy and adverse effects.

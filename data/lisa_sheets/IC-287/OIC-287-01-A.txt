@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-287-01-A
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=A
+|Title=Know the definition of a diverticulum, diverticulosis, diverticulitis, complicated diverticulitis (abscess, peritonitis, fistula, haemorrhage, stenosis).
+|Description=None
+|Rubric=Definition
+|Contributors=Frédérique PESCHAUD
+|Order=1}}
+
+A ''''' colonic diverticulum''''' is an acquired herniation of the colonic mucosa and submucosa through an area of weakness in the muscular wall of the colon.
+
+''''' colonic diverticulosis''''' is an asymptomatic condition characterised by the presence of several diverticula.
+
+
+'''Diverticular disease'' includes:'''
+
+- diverticulitis and its complications :
+
+o colonic diverticulitis ''='' inflammation/infection of a diverticulum
+
+o complicated diverticulitis '':'' abscess, fistula (sigmoido-vesical, sigmoido-vaginal...), peritonitis (purulent or stercoral), pseudo-tumoral stenosis
+
+- diverticular haemorrhage.

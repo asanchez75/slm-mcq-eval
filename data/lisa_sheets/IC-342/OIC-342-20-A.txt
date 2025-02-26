@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-342-20-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the indications for and methods of prescribing anticonvulsant treatment.
+|Description=Know how to administer short-acting antiepileptic treatment (benzodiazepines).
+|Rubric=Management
+|Contributors=
+|Order=20}}
+
+{| class="wikitable"
+|cf item 105
+|}

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-58-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Know the prevalence
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=58}}
+
+Very frequent reason for consultation in general medicine (10-20%) and psychiatry (5-20%). Occurs at all ages. Adult women more affected (66%), balanced ratio for other ages.

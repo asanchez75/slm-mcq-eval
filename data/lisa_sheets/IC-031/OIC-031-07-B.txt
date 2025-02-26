@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-031-07-B
+|Item_parent=Childbirth, delivery and normal postnatal care
+|Item_parent_short=Childbirth, delivery and normal postnatal care
+|Rank=B
+|Intitle=To know the description of the different stages of labour
+|Description=Explain the course of normal labour
+|Rubric=Definition
+|Contributors=Vincent Dochez,Philippe Deruelle
+|Order=7}}
+
+'''The 3 stages of work.'''
+{| class="wikitable"
+|'''1st stage of labour'''
+|From the onset of actual labour to the end of cervical dilation (cervical dilation).
+|-
+|''2<sup>th</sup> stage of labour'''
+|From the end of cervical dilatation to the birth of the baby (descent of presentation and expulsion).
+|-
+|'''3<sup>e</sup> stage of labour''''
+|from birth of child to expulsion of placenta (delivery)
+|}
+The woman and newborn are then monitored for 2 hours after birth.

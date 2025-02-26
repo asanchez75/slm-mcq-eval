@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-193-02-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Intitle=Knowing the main types of systemic vasculitis
+|Description=Large, medium and small calibre; ACG, Takayasu, ANCA vasculitis, IgA vasculitis, PAN, Kawasaki, Behçet
+|Rubric=Definition
+|Contributors=Luc Mouthon
+|Order=2}}
+
+==Main types of systemic vasculitis (Figure 1):==
+
+*Vasculitis of large-calibre arteries: giant cell arteritis (formerly Horton's disease) and Takayasu's arteritis,
+*Vasculitis of medium-calibre arteries: ''periarteritis nodosa'' and ''Kawasaki disease'',
+*Vasculitides of small-calibre vessels:
+**associated with anti-neutrophil cytoplasmic antibodies (ANCA): granulomatosis with polyangiitis (GPA); granulomatosis with eosinophilia and polyangiitis (GEPA); microscopic polyangiitis (MPA),
+**associated with deposits of immune complexes: ''cryoglobulinemic vasculitis'', ''IgA vasculitis'' (formerly known as rheumatoid purpura), ''hypocomplementemic urticarial vasculitis'' or vasculitis with anti-C1q antibodies (formerly known as MacDuffie syndrome),
+**associated with linear immunoglobulin deposits: '''vasculitis with anti-glomerular basement membrane antibodies'' (MBG; formerly Goodpasture's syndrome).
+<gallery widths="400" heights="400">
+File:Classification of vasculitides.PNG| Classification of vasculitides: Chapel Hill nomenclature revised 2012.
+</gallery>

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-063-14-B
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=B
+|Title=Knowing the main psychiatric differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=14}}
+
+* Mood disorders
+* Persistent delusional disorders
+* Neurodevelopmental disorders

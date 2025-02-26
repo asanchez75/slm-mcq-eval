@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-004-29-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Know the three main microorganisms involved in HCAIs.
+|Description=Cite the BMR frequency for each of the 3 main microorganisms.
+|Rubric=Physiopathology
+|Contributors=
+|Order=29}}
+During the last prevalence survey of hospital-acquired infections in 2017, the top 3 micro-organisms found were:
+
+- Enterobacteriaceae E.Coli (25% of microorganisms isolated from nosocomial infections) and Klebsiella pneumoniae (5%)
+
+- Staphylococcus aureus (15%)
+
+- Pseudomonas aeruginosa (pyocyanic) and Enterococcus faecalis in equal proportions (6.5%)
+
+
+The pattern of resistance was as follows for each species:
+
+- Enterobacteriaceae: 32% of K pneumoniae, 17% of Enterobacter spp. and 15% of E coli produced extended-spectrum beta-lactamase (EBLSE).
+
+- S. aureus: 27% of strains tested were resistant to methicillin (MRSA)
+
+- P aeruginosa (pyocyanic): 19% of strains tested were resistant to ceftazidime (PAPC)
+
+- Enterococci: 5% of E faecium were resistant to glycopeptides (ERG)

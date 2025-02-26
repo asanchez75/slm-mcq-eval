@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-06-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the characteristics of an epileptic and non-epileptic event (pseudo-seizure).
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+cf item 105

@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-105-03-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Knowing the syndromic classification of epileptic seizures and its prognostic value
+|Description=Generalised/partial, idiopathic/lesional seizures
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+The description "generalised/partial, idiopathic/lesional seizures" has not been included, as this terminology is obsolete and has been abandoned.         
+
+==Syndromic classification and diagnosis===
+A syndrome is defined as a non-random association of elementary clinical or paraclinical signs. The identification of an epileptic syndrome is used to guide etiological research, the choice of antiepileptic treatment and to formulate a prognosis for the evolution of the epilepsy and any associated psychiatric or cognitive [[Situation of disability SDD-345|handicap]].
+
+===A.     Principles of syndromic classification===
+Syndromes are defined according to :
+
+- age of onset of seizures ;
+
+- predominant type(s) of crisis ;
+
+- intercritical EEG (always) and critical EEG (sometimes);
+
+- neurological examination (normal, or focal signs in focal forms);
+
+- neuropsychological examination (normal or more or less marked deficits in focal epilepsies, genetic generalised epilepsies, or even developmental disorders in epileptic encephalopathies);
+
+- prognosis.
+
+===B.    Some syndromes to be aware of (see specific dedicated objectives) ===
+1.     Epilepsy - child's absence
+
+2.    Juvenile myoclonic epilepsy
+
+3.     Epilepsy with tonic-clonic seizures alone (formerly known as waking seizures)
+
+4.    West syndrome
+
+5.    Special syndromes: simple hyperthermic crisis and complicated hyperthermic crisis
+
+6.    Medial temporal epilepsy due to hippocampal sclerosis
+<br />

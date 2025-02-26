@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-036-08-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Know the criteria for choosing estroprogestogenic contraception as 1st line treatment.
+|Description=None
+|Heading=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=8}}
+If there are no contraindications to the use of a COP and if the patient chooses an estroprogestative contraception, the recommendations are to prescribe a so-called 2nd<sup> generation</sup> contraception (containing EE and Levonorgestrel) or norgestimate (EE + norgestimate)''' given the lower vascular risk compared with all other combined contraceptions''''''

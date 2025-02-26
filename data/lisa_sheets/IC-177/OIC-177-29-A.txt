@@ -1,0 +1,64 @@
+{{knowledge objective
+|Identifiant=OIC-177-29-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Know how to prescribe antibiotic therapy for infants and children.
+|Description=None
+|Heading=Management
+|Contributors=Elise Launay
+|Order=29}}
+
+Broadly speaking, there are 3 situations
+
+1/Situations where antibiotic therapy is essential or even urgent (sepsis, bacteraemia, bacterial meningitis, osteoarticular infections, bacterial infections in immunocompromised children, acute pyelonephritis, dermohypodermatitis, etc.).
+
+2/ Situations where antibiotic therapy is necessary under certain conditions
+
+- Lower respiratory infections: acute lobar frank pneumonia, pleuropneumonia
+
+- ENT infections: otitis before the age of 2 or marked general signs, sinusitis in the ethmoidal or frontal areas or, depending on how it develops, bacterial angina.
+
+3/ Situations where antibiotic therapy is not indicated: bronchiolitis, bronchitis, rhinopahryngitis, etc.
+
+
+Antibiotic prescribing in paediatrics, as in adult medicine, must take account of 3 parameters and their respective interactions, as well as the balance of benefits and risks.
+[[File:Principles of antibiotic therapy.jpg|left|vignette|533x533px]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The particularities of paediatric prescribing are as follows
+
+- What makes the host special: Being in development
+
+o The impact of antibiotic therapy on the microbiota is greater the younger the child
+
+o Certain antibiotics are contraindicated (cyclins and permanent tooth discolouration, quinolones and arthropathy, etc.).
+
+o Immaturity of the immune system: more frequent and sometimes more severe infections (in newborns), viral infections that may predispose to bacterial infection or be confused with a bacterial infection and lead to unjustified antibiotic therapy.
+
+o Different pharmacokinetics (volume of distribution, elimination, etc.): weight-based dosage
+
+o Behaviour: close contact with other children, hygiene, life in the community (nursery, school and role in bacterial carriage).
+
+- In bacterial epidemiology :
+
+o bacterial pari sometimes different from adults (e.g. involvement of S aureus in cutaneous infections in children more frequently than in adults)
+
+- Special features of antibiotics :
+
+o galenic form, taste, number of doses/sleep requirements that may have an impact on compliance
+
+o the least number of clinical studies to evaluate antibiotics

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-084-09-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Knowing the importance of screening for primary open-angle glaucoma at age 40
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=9}}
+Glaucoma is the second leading cause of blindness in Western countries (after age-related macular degeneration [AMD]) and the leading cause of irreversible blindness worldwide. Glaucoma is therefore a major public health problem, requiring systematic screening of the population over the age of 40. Screening is based on measuring intra-ocular pressure and examining the papilla at the back of the eye. If there is the slightest doubt, the visual field should be recorded using perimetry.

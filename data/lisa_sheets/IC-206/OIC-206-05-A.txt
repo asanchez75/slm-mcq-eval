@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-206-05-A
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=A
+|Title=Knowing the factors that should lead to suspicion of pleurisy during a lower respiratory infection
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+This diagnosis is suspected in the event of acute bacterial pneumopathy with intense pleural pain and/or the presence of a pleural syndrome on clinical examination and/or the discovery of the above-mentioned abnormalities on chest X-ray or thoracic ultrasound.

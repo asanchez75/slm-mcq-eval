@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-244-06-B
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=B
+|Title=To know the indications of the pituitary MRI according to the clinical and biological context
+|Description=Do not have routine MRI for prolactinemia < 50 ng/ml
+|Section=Additional tests
+|Contributors=CAZABAT LAURE,CHABRE OLIVIER
+|Order=6}}
+
+'''MRI is the reference examination for studying the hypothalamo-hypophyseal region'''
+
+[Reasoned request/prescription and choice of a diagnostic examination SD-178]]
+
+Indications for pituitary MRI
+
+<u>1) The situations detailed in the previous rank A knowledge items</u>.
+
+- The presence of a pituitary ''[[Intracranial tumours|tumour syndrome]]'' (headache, chiasmatic visual impairment, impairment of the [[Anatomy:Cavernous sinus|cavernous sinus]], [[Diplopia SD-143]], rare apoplexy)
+
+- Clinical signs pointing to pituitary hypersecretion: acromegaly, ACTH-dependent Cushing's syndrome on laboratory tests. Signs of gonadotropic insufficiency secondary to hyperprolactinaemia.
+
+- ''''' Hyperprolactinaemia''''' and its pitfalls are detailed in the corresponding knowledge item. It is important to remember that in the case of moderately elevated prolactin, the prolactin level must be checked again before any morphological assessment. [Nipple discharge SD-040 (Rank B)
+
+- Clinical signs (hypogonadism [[gynaecomastia]] [Sexual and erectile dysfunction SD-063]] amenorrhoea [[Amenorrhoea]], signs of corticotropic insufficiency ...) and biological signs pointing to an '''antehypophyseal insufficiency''' (Hyponatremia, low cortisol at 8h with non-elevated ACTH, low T4 with non-elevated TSH, low Testosterone with non-elevated FSH LH/Amenorrhoea with non-elevated FSH LH...).
+
+- Clinical signs of ''diabetes insipidus'' (polyuro-polydipsic syndrome with normal glycaemia, calcium and kalaemia) Pituitary adenomas do not cause diabetes insipidus (except postoperatively or in cases of apoplexy), so a lesion other than a pituitary adenoma should be considered.
+
+
+<u>2) The discovery of a pituitary "incidentaloma"</u>.
+ 
+<u>[[Brain abnormality discovered on medical imaging examination SD-226]]</u>
+
+If an abnormal image of the sellar region is found on a brain scan or brain MRI, pituitary MRI should be performed to identify the lesion, its extent and probable nature.
+
+In addition, any pituitary anomaly requires a targeted clinical examination to look for the elements listed in the first part, and appropriate hormonal exploration.

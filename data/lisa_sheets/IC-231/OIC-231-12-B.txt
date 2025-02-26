@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-231-12-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Intitle=Knowing the mechanisms and variants of sinus dysfunction
+|Description=Second-degree ASB and atrial disease
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=12}}
+
+
+*''Brady-tachy syndrome or atrial disease'': Alternating episodes of atrial arrhythmia and sinus dysfunction.
+*''Post reduction pauses'': Sinus pauses are frequently observed during the reduction of episodes of atrial arrhythmia.
+*'''Chronotropic insufficiency''': inability of the heart to accelerate heart rate to meet the increased physiological demands of exercise; during exercise, heart rate<75% FMT (maximum theoretical frequency = 220 - age).
+*Carotid sinus syndrome'': bradycardia (sinus dysfunction, BAV) triggered by mechanical stimulation of the carotid sinus (RRmax>3s) (post reduction pauses).
+*'''Sinus bradycardia''' due to vagal hypertonia
+*Often in young athletes, sinus bradycardia < 50 bpm when awake and up to 30 bpm during sleep, asymptomatic. Acceleration on exertion or after administration of atropine. No indication for treatment.
+
+
+[[File:FA pause post reductionnelle.jpg|vignette|alt=|centré|900x900px]]

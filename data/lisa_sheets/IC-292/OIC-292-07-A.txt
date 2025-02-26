@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-292-07-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Intitle=Knowing the biology and main biological alterations
+|Description=Describe the main biological alterations (general or specific to cancer) that lead to the suspicion of cancer.
+|Rubric=Additional tests
+|Contributors=
+|Order=7}}
+The biological changes that may lead to the suspicion of cancer or reinforce the suspicion of cancer in the case of associated clinical signs are :
+
+- Biological signs associated with a cachectic and inflammatory syndrome: fall in albumin and prealbumin, rise in CRP and fibrinogen;
+
+- Biological signs associated with a mass syndrome: disturbed organ function (icteric cholestasis, onset of diabetes), elevated LDH, hypercalcaemia (due to bone metastasis), biological spontaneous tumour lysis syndrome;
+
+- Biological signs associated with a paraneoplastic syndrome: hypercalcaemia (due to secretion of PTH-rp), hyponatraemia (inappropriate secretion of ADH), abnormal hormone levels or results suggestive of autoimmunity.

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-175-08-A
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=A
+|Title=Knowing the main imported diseases responsible for fever
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel,Laurence Morand-Joubert
+|Order=8}}
+
+- '''Malaria:''' "any fever on return from an endemic area should be investigated for malaria". This is a diagnostic emergency (see [[item 170]] - Malaria).
+
+- '''Dengue:''' The most common arbovirosis, 2nd most common cause of fever on return from the tropics
+
+- Other arboviroses
+
+- '''Viral hepatitis'''
+
+- '''Typhoid fever'''
+
+- Rickettsioses
+
+- '''Tissue amoebosis : (See [[item 172]] - Digestive parasitoses)''''
+
+- '''Schistosomiasis in the invasion phase'''
+
+Cosmopolitan diseases may also manifest themselves as fever on return from a tropical zone, whether infectious (pyelonephritis, pneumonia, influenza, shigellosis, leptospirosis, HIV, etc.) or not (thromboembolic, inflammatory, neoplastic, etc.).
+
+<br />

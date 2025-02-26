@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-023-04-B
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=B
+|Title=Evaluation of risk factors (medical and psychosocial, including professional)
+|Description=Knowing how to identify the main risk factors in early pregnancy
+|Rubric=Epidemiology
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=4}}
+
+'''Risk factors determined at the 1<sup>er</sup> consultation that result in specialist management'''
+
+- General risk factors (in particular individual and social factors; occupational risk; family history);
+
+- medical risk factors (including obesity, diabetes, chronic hypertension, coagulation disorders and other chronic illnesses)
+
+- '''personal history, gynaecological or otherwise'' (in particular surgical history; uterine pathologies);
+
+- '''a personal history of previous pregnancy or childbirth'';
+
+- '''exposure to toxic substances''' (alcohol, tobacco, drugs, potentially teratogenic medicines); '''[[Prevention of alcohol-related risks SD-313|Prevention of alcohol-related risks,]]''' ['''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+- '''risks [[Prevention of foetal risks SD-312|infectious]]''' (in particular toxoplasmosis, rubella, genital herpes, syphilis, whooping cough, CMV , HIV, hepatitis);
+
+[Prevention of foetal risks SD-312

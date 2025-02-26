@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-232-14-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Knowing the principles of AF management
+|Description=Frequency control, rhythm control, anti-coagulants
+|Topic=Management
+|Contributors=Jean-Baptiste GUICHARD
+|Order=14}}
+Management of AF is based on:
+[[File:Principles of management.png|centred|thumb|600x600px]]
+
+# Anti-thrombotic strategy
+
+[[File:Anti-thrombotic strategy.png|centric|thumb|900x900px]]
+
+* Antiplatelet agents have no place in AF.
+
+* Indication for percutaneous closure of the left atrium :
+** High thromboembolic risk: '''CHA<sub>2</sub>DS<sub>2</sub>-VASc ³ 4''''
+** '''ET'''
+** '''Formal and permanent contraindication''' '''to oral anticoagulants'''''
+
+'''2. Rhythm control strategy'''
+
+Objective: To achieve and maintain a return to sinus rhythm.
+[File:Rhythm control strategy.png|centre|thumb|600x600px]]
+Thromboembolic risk management for cardioversion :
+
+Before cardioversion, one of the 3 conditions must be validated:
+
+* Effective anticoagulation for 3 weeks
+* Trans-oesophageal echocardiography (TEE) performed
+* Recent AF (less than 48 hours old)
+
+'''After cardioversion''', effective anticoagulation for 4 weeks is required, regardless of the '''CHA<sub>2</sub>DS<sub>2</sub>-VASc score.'''
+
+The anti-thrombotic agents available are :
+
+* Unfractionated heparins (UFH), administered by IVSE or SC, with possible relay with anti-vitamin K therapy (VKA).
+* Direct oral anticoagulants (Dabigatran, Rivaroxaban, Apixaban): preferred.
+* Low molecular weight heparins (LMWH) are not approved for this indication.
+
+'''Characteristics of anti-arrhythmic treatments''' :
+[[File:Characteristics of anti-arrhythmic treatments .png|centre|thumb|900x900px]]
+'''Ablation of atrial fibrillation:'''
+
+* Transcutaneous endocavitary treatment via the femoral venous route
+
+* 2 energies available for ablation:
+** Cryotherapy (cold ablation)
+** Radiofrequency (heat ablation)
+
+* 2 areas/strategies for AF ablation :
+** Pulmonary vein isolation
+** Atrial substrate ablation
+
+'''3. Frequency control strategy'''
+
+Goal: Decrease ventricular response rate with a mean heart rate <110 bpm.
+[[File:Rate control strategy.png|centred|thumb|600x600px]]
+Characteristics of slowing treatments:
+[[File:Characteristics of slowing treatments.png|centred|thumbnail|900x900px]]
+The effectiveness and tolerance of frequency control can be assessed by carrying out a follow-up ''Holter-ECG''.

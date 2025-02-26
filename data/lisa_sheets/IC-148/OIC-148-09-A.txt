@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-148-09-A
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Nasosinus infections in adults and children
+|Rank=A
+|Title=Knowing the particularities of the management of ethmoiditis in children and infants
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+Acute ethmoiditis in the fluxionary stage can be treated on an outpatient basis without further investigation, provided that the patient understands the monitoring instructions and is followed up in consultation.
+
+Acute ethmoiditis in children and infants is a "medical emergency, sometimes surgical". It requires "immediate hospitalisation" for imaging (CT scan), introduction of broad-spectrum parenteral antibiotic therapy (combination of amoxicillin/clavulanic acid with high doses of amoxicillin or C3G (if allergic to penicillin) + aminoside in the event of sepsis) and surgical drainage in the event of a complicated form (retro septal or intraorbital collection).

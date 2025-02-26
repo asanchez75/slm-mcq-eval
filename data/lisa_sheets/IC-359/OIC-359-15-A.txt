@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-359-15-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing the causes of acute respiratory distress in infants and children
+|Description=Foreign body, bronchiolitis, laryngitis, epiglottitis, asthma, malformation, pneumothorax, pneumomediastinum, acute heart failure, pleurisy, neuromuscular disease, laryngomalacia, laryngeal paralysis, subglottic stenosis.
+|Rubric=Etiologies
+|Contributors=Guillaume Mortamet
+|Order=15}}
+
+Causes:
+
+- Infectious ++: viral or bacterial pneumopathy, bronchiolitis, whooping cough, laryngitis, etc.
+
+- Malformative: tracheal stenosis, tracheal compression
+
+- Acute heart failure
+
+- Upper airway obstruction
+
+- Spontaneous or secondary pneumothorax (underlying respiratory pathology, trauma)
+
+- Specific to newborns: inhalation of meconium fluid, transient respiratory distress, hyaline membrane disease, neonatal infection, etc.

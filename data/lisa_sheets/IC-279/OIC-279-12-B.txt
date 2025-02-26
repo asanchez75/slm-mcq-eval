@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-279-12-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Title=Knowing the principles of prevention of hepatic encephalopathy
+|Description=Risk information, caution with hypnotics
+|Heading=Management, Follow-up
+|Contributors=
+|Order=12}}
+Primary prevention of hepatic encephalopathy is based on prevention of triggering factors and avoidance of sedative drugs +++.
+
+Secondary prevention is based on lactulose +/- combined with rifaximin.

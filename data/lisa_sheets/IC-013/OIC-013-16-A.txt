@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-013-16-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Title=Knowing the general rules for drawing up a death certificate
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=16}}
+'''General rules for writing a death certificate:'''
+[[File:Certificat de décès.jpg|vignette|Iconographie : Modèle de certificat de décès, deux volets à remplir par le médecin ayant constaté le décès (administratif et médical)]]
+Compulsory certificate, available in paper version (Iconography : model death certificate) or computerised version, two models (neonatal death up to and including the 27th day of life, death from the 28th day of life)<ref>https://www.conseil-national.medecin.fr/documents-types-demarches/documents-types-medecins/pratique/modeles-certificats-deces</ref>
+
+-Carry out a ''complete examination'' of the body,
+
+-Ensure that death is ''[[Knowing how to diagnose death 2C-013-DP-A01|real and constant]]''',
+
+-Complete the administrative and medical sections
+
+-Tick the ''medical-legal obstacle to burial (MLO)'' box for any death that is suspicious, unusual, violent, that could pose a liability problem (medical or work accident for example), or for any unidentified body.
+
+The circuits of paper and electronic death certificates<ref>http://www.certdc.inserm.fr/public_view.php?ihm=102</ref> are shown in iconography 13. The consequences of OML<ref name=":0">Fanton L, Tournel G. Item 9: death and legislation, organ removal and legislation. La revue de médecine légale (2017), <nowiki>http://dx.doi.org/10.1016/j.medleg.2017.08.001</nowiki></ref> are presented in iconography 14.
+[[File:Iconography 13 - Item 13.jpg|vignette|'''Iconography 13''': Circuits of paper and electronic death certificates ]]
+[[File:Iconography 14 - Item 13.jpg|vignette|'''Iconography 14''' : Consequences of the medico-legal obstacle to burial]]
+Funeral operations following death (Iconography: Funeral operations) are only possible if three conditions are met: no MLO to burial, no obligation to place the body in the coffin, and compliance with the legal time limit for completion <ref name=":0" />.
+<references />
+[[File:Iconography - Funeral operations.jpg|vignette|''Iconography''' : Funeral operations]]

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-054-01-A
+|Item_parent=Dairy in children
+|Item_parent_short=Dairy in children
+|Rank=A
+|Title=Know the definition of lameness in children
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Lameness is defined by a recent onset of gait asymmetry.

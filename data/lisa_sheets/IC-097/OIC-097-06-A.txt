@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-097-06-A
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=A
+|Title=Know how to interpret a lumbar puncture suggestive of Guillain-Barré syndrome
+|Description=Know how to interpret a CSF in Guillain-Barré syndrome (marked pauci or acellular hyperproteinorrachia)
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+'''Cerebrospinal fluid'''
+
+Examination of the cerebrospinal fluid '''([[Analysis of cerebrospinal fluid (lcs) SD-183|analysis of cerebrospinal fluid (CSF)]])''' reveals :
+
+- hyperproteinorachia, which may exceed 1 g/l, delayed by 3 to 10 days from clinical onset
+
+- an absence of cellular reaction (< 10 mm<sup>3</sup>)
+
+- a pleocytosis greater than 50/mm<sup>3</sup> should suggest another diagnosis, such as infectious meningoradiculitis

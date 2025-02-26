@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-218-15-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the first-line paraclinical tests to order in the event of eosinophilia
+|Description=Parasitological examination and serological tests according to geographical origin and clinical signs.
+|Section=Additional tests
+|Contributors=
+|Order=15}}
+- Haemogram '''([[Interpretation of haemogram SD-223|interpretation of haemogram]])''' with blood smear (to look for blasts, myelimia or Sézary cells which may point to a haemopathy);
+
+- Blood ionogram/creatinine ;
+
+- Liver and coagulation tests
+
+- Creatine kinase (CK)
+
+- HIV serology ;
+
+- '''Parasitological examinations of the stools''' '''([[Prescription and interpretation of a microbiological examination of the stools SD-191|prescription and interpretation of a microbiological examination of the stools]])''' (3 spaced a few days apart) ;
+
+- Parasitological examination of urine if staying in sub-Saharan Africa;
+
+- Parasitic serology based on clinical and travel findings ;
+
+- If you are travelling to a tropical area: microfilaria search, total IgE assay, filariasis, bilharzia and strongyloidiasis serologies, and ''parasitological examination of stools ([[Prescription and interpretation of a microbiological examination of stools SD-191|prescription and interpretation of a microbiological examination of stools]])'' ;
+
+- Toxocariasis and distomatosis serology, even in the absence of clinical signs and travel to tropical areas;
+
+- According to clinical signs: ANCA, chest X-ray, abdominal ultrasound or thoraco-abdomino-pelvic CT scan;
+
+- For visceral damage: electrocardiogram and echocardiography.

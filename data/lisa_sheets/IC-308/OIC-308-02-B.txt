@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-308-02-B
+|Item_parent=Pancreatic tumours
+|Item_parent_short=Pancreatic tumours
+|Rank=B
+|Title=Knowing the epidemiology and risk factors of pancreatic adenocarcinoma and neuroendocrine tumours
+|Description=Including the indication for oncogenetic consultation
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+A) The incidence of pancreatic adenocarcinoma has been rising sharply for over 10 years, with the number of new cases doubling each year. Its annual incidence was 14,000 new cases in France in 2018.
+
+The most common age of onset is between 60 and 70. Both sexes are equally affected. The prognosis is very poor, with an overall 5-year survival rate for all stages combined of 5-10%.
+
+'''Risk factors'''
+
+1) Environmental/individual
+
+'''Exogenous'''
+
+Smoking is the only clearly identified risk factor.
+
+'''Endogenous'''
+
+- Old-onset type II diabetes. On the other hand, recent diabetes (< 2 years) is not a causal factor, but rather a ''revelation'' of pancreatic cancer (paraneoplastic).
+
+- Obesity is also considered a risk factor.
+
+- '''Chronic pancreatitis''' whatever the cause, with a particular risk in cases of
+
+§ Chronic alcoholic pancreatitis: 5% risk at 20 years
+
+§ Hereditary chronic pancreatitis, particularly in the case of germline mutation of the PRSS1 gene (very rare disease) - estimated cumulative risk of 40% at the age of 50.
+
+
+2) '''Hereditary (genetic)''' :
+
+- The risk of developing pancreatic cancer is multiplied by 3-6 if there is a family history of the same cancer in the 1st degree and by 32 if there are 2 relatives in the 1st degree.
+
+- Genetic predisposition syndromes for pancreatic cancer (autosomal dominant) are rare.
+
+
+There are "two main precancerous lesions":
+
+- Intraductal and papillary mucinous tumours of the pancreas (''IPMP'')
+
+- Mucinous cystadenoma (rare tumour with a cystic appearance)
+
+
+B) Neuroendocrine tumours are classified according to cell differentiation and mitotic index (assessed by Ki67). In 25% of cases these tumours secrete a hormone responsible for specific symptoms (Gastrin, Insulin; Glucagon; VIP; Somatostatin).
+
+In 75% of cases, tumours are non-secreting.
+
+These tumours are sometimes inherited as part of the hereditary predisposition syndrome known as multiple endocrine neoplasia type 1 (MEN 1).
+
+Suspicion of a genetic predisposition syndrome for pancreatic cancer (adenocarcinoma or neuroendocrine tumour) should lead to a recommendation for an oncogenetic consultation.

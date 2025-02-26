@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-203-06-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the signs of aetiological orientation
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+<br />
+
+See objective 2C-203-DP-A03

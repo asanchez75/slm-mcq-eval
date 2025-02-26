@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-367-07-B
+|Item_parent=Environmental impact on health
+|Item_parent_short=Environmental impact on health
+|Rank=B
+|Title=Knowing about care structures
+|Description=To know to which structures to refer patients consulting for a pathology suspected to be of environmental origin
+|Rubric=Management
+|Order=7}}
+If there is any doubt about an environmental or occupational origin, it is recommended that patients be referred to a CRPPE (Regional Centre for Occupational and Environmental Pathologies). There are 30 such centres in France. The list can be found on the Anses website (<nowiki>https://www.anses.fr/fr/system/files/RNV3P-CPP.pdf</nowiki>).
+
+These centres used to focus on occupational diseases, but since 2021 their remit has been extended to include environmental diseases.
+
+Some of these centres are associated with poison control centres, which have greater expertise in environmental poisoning.

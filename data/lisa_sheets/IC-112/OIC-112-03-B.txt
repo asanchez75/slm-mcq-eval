@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-112-03-B
+|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes
+|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes
+|Rank=B
+|Title=Knowing how to support the diagnosis of different autoimmune bullous diseases
+|Description=Pemphigoid group versus pemphigus group, distinguish between subepidermal and intraepidermal bullae
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Autoimmune bullous diseases are classified into two distinct groups, pemphigoid characterised by a subepidermal bulla and pemphigus characterised by an intraepidermal bulla.
+
+
+The subepidermal bulla is defined by a cleavage under the epidermis, whereas the intraepidermal bulla is located in the epidermis (supra-basal region for pemphigus vulgaris, subhorned region for superficial pemphigus).
+
+
+The bulla of pemphigoid is usually taut (except on mucous membranes, where it ruptures rapidly), while the bulla of pemphigus is flaccid and fragile.
+
+The distinction between pemphigoid and pemphigus is based on clinical, histological, direct and indirect immunofluorescence and serological tests.
+
+Clinically, bullous pemphigoid affects people aged over 70, often in poor general condition. It is accompanied by intense pruritus and manifests itself in the form of eczematous or urticarial lesions covered with tense bullae. Lesions are localised to the roots and flexural surfaces of the limbs; the head, neck and mucous membranes are spared. Biologically, there is a blood hypereosinophilia.
+
+
+Pemphigus vulgaris affects people aged around 45 and manifests itself as painful erosions of the oral mucosa and other mucous membranes (genital, anal, nasal, conjunctival). Secondarily, there may be cutaneous bullae on non-inflammatory skin and a Nikolsky's sign. It may be drug-induced or associated with another autoimmune disease. In superficial pemphigus, there are no mucosal lesions but only squamous-crusty or even keratotic skin lesions.
+
+Histologically, a subepidermal bulla with an infiltrate of eosinophilic polynuclear cells is found in bullous pemphigoid, and an intraepidermal bulla with acantholysis (detachment of keratinocytes) in pemphigus vulgaris.
+
+In direct immunofluorescence, there is a linear deposition of IgG and C3 at the dermal-epidermal junction in bullous pemphigoid and a deposition of IgG and C3 on the surface of keratinocytes in pemphigus (inter-cellular or mesh marking).
+
+
+Indirect immunofluorescence shows that circulating antibodies recognising the dermo-epidermal junction are present at high titre in bullous pemphigoid and circulating antibodies recognising the intercellular substance in pemphigus.
+
+In ELISA, these circulating antibodies recognise the following target antigens: BP180 and BP230 proteins in bullous pemphigoid, desmoglein 3 in pemphigus vulgaris and desmoglein 1 in superficial pemphigus.

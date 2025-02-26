@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-055-09-B
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=B
+|Title=Knowing the risk factors for neurodevelopmental disorders
+|Description=Multifactorial causes; genes, environment and their interactions
+|Rubric=Epidemiology
+|Contributors=
+|Order=9}}
+
+Neurodevelopmental disorders are multifactorial. The main risk factors are genetics, early environment and gene-environment interaction. A distinction is made between :
+
+* Syndromic forms of NDT (around 15%), for which an aetiological factor has been identified (e.g. genetic abnormality or in utero environmental exposure to alcohol).
+* NDT for which risk factors are probably involved, but with possible confounding factors for environmental factors: frequent genetic variations, prematurity/low birth weight, high parental age, foetal exposure to toxic substances/certain drugs, low socio-economic level, lack of stimulation.

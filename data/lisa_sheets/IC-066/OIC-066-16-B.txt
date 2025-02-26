@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-066-16-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for non-pharmacological treatments
+|Description=refer to item 73
+|Heading=Management
+|Contributors=El-Hage Wissam
+|Order=16}}
+
+Use of electroconvulsive therapy (ECT) in the most severe forms of EDC, with melancholic/catatonic/psychotic features, resistance or contraindication to drug treatment, life-threatening situations (suicidal risk, risk of malnutrition/dehydration). If there is a good response, maintenance ECT is offered for several months to prevent recurrence of depression.
+
+Psychotherapeutic treatments are indicated as a first-line treatment for mild to moderate EDC. They are an important complement to antidepressant medication, particularly in cases of drug resistance.

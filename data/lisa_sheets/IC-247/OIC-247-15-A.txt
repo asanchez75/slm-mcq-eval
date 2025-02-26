@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-247-15-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Know how to assess cardiovascular risk (risk scores)
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Gaetan Prévost,Eva Feigerlova,Hélène Bihan,Claire Briet,Etienne Larger
+|Order=15}}
+
+Estimating a person's vascular risk involves listing all the cardiovascular risk factors:
+<br />
+{| class="wikitable"
+|Non-modifiable risk factors
+|Modifiable risk factors
+|-
+|male sex
+|Tobacco
+|-
+|Age: (M>50 years, F>60 years)
+|Hypercholesterolemia (LDL)
+|-
+|ACD FX coronary pathology
+|HDL-C<0.4 g/l
+|-
+|55 years in father/brother, <65 years in mother/sister
+|HYPERTENSION
+|-
+|
+|Diabetes
+|-
+|
+|IRC
+|}
+
+The risk can be estimated quantitatively, by expressing the probability of developing a complication in 10 years, using "multifactorial equations". Many equations can be used. The most commonly used equations are those drawn from the Framingham study (United States) and the European SCORE project (Systematic COronary Risk Evaluation).
+
+
+Estimation of absolute risk
+
+Use of equations or tables or simple summation of cardiovascular risk factors:
+
+- an event risk of around 10% at 10 years is considered low;
+
+- A risk of between 10% and 20% is considered intermediate;
+
+- A risk of more than 20% is considered significant (this is the level of coronary risk observed in the aftermath of a myocardial infarction);
+
+- a risk of more than 30% is a major risk.

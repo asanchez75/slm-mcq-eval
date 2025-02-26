@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-203-03-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Know the main causes of acute dyspnoea and their clinical signs
+|Description=PAO, pulmonary embolism, asthma attack, COPD exacerbation, pneumopathy, pneumothorax, ARDS, foreign body inhalation, angioedema, acute anaemia.
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+For details of the different pathologies and their clinical signs, please refer to the corresponding courses.
+
+* Upper airway obstruction
+** Inspiratory dyspnoea, dysphonia
+** Cornet (inspiratory noise)
+* Pneumothorax :
+** Sudden dyspnoea with pleural chest pain.
+** Asymmetric reduction in vesicular murmur and tympany opposite.
+* Pleuresis
+** Progressive exertional dyspnoea, sometimes with associated pleural pain
+** Asymmetric reduction in vesicular murmur and dullness opposite, reduced transmission of vocal vibrations.
+* Infectious pneumonia
+** Dyspnoea +/- progressive, + /- cough and sputum, febrile context, pleural pain
+** Localized crackles
+* Pulmonary oedema
+** Cardiovascular history and risk factors, exertional dyspnoea, sometimes rapid onset, orthopnoea, frothy or pink sputum.
+** Symmetrical crackles at the base of the lungs (sometimes sibilant), abnormal cardiac auscultation, signs of right heart failure.
+* Pulmonary embolism
+** Sudden dyspnoea with pleural chest pain, haemoptoic sputum may be present.
+** Few orienting clinical signs. Look for signs of deep vein thrombosis.
+* Severe acute asthma
+** Dyspnoea +/- paroxysmal with recent increase, wheezing, cough, mucous sputum.

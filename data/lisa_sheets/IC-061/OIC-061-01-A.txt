@@ -1,0 +1,104 @@
+{{knowledge objective
+|Identifiant=OIC-061-01-A
+|Item_parent=Know the basic classifications of mental disorders from children to the elderly
+|Item_parent_short=Know the basic classifications of mental disorders from children to the elderly
+|Rank=A
+|Title=Knowing the signs, symptoms and syndromes in psychiatry
+|Description=Difference between signs and symptoms Notion of syndrome with example in psychiatry
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notre-Dame
+|Order=1}}
+
+'''1 Signs, symptoms and syndromes in psychiatry (row A)''''
+
+
+Definitions
+
+- Sign: observable objective element (e.g. agitation)
+
+- Symptom: description of a subjective experience (e.g. sadness)
+
+- Syndrome: a set of signs and symptoms forming a recognisable whole (e.g. positive syndrome, suicidal syndrome, catatonic syndrome, etc.).
+
+
+The diagnostic approach in psychiatry is "clinical" and based on the analysis of 8 domains and their "evolution over time", taking into account the "context", the "history/evolution" of symptoms and their "repercussions".
+
+- Presentation and contact: attitude and relations with others
+
+o Appearance: appearance, personal hygiene
+
+o Mimicry
+
+*Hyper/hypomimia/amimia, dysmimia/paramimia (discordant)
+*Echomimicry: repetition of the speaker's facial expression.
+
+o Level of motor activity
+
+*↑: agitation (excessive activity with inner tension), hyperactivity: (excessive activity without inner tension), hyperkinesia: (rapid, ample movements), tasykinesia (need to wander), akathisia (impatience), impulsivity, raptus
+*↓: bradykinesia/akinesia, stupor, posturing, catalepsy (maintaining posture against gravity), waxy flexibility (slight resistance to mobilisation), negativism (opposition to mobilisation)
+*Unadapted: mannerism, parakinesia (parasitic movements), stereotypies (repetitive undirected movements), echopraxis, perseverations, motor repetitions; tone disorders and abnormal movements: hypertonia (permanent exaggeration of muscle tone), dystonia: (prolonged involuntary contraction with distortion), dyskinesia: (irregular abnormal involuntary movements of variable amplitude), tics.
+
+o Language and thought (discourse)
+
+*Language ↑: logorhea, tachyphaemia (rapid flow)
+*Speech ↓: alogia, bradyphaemia, mutism
+*Thinking ↑: tachypsychia, flight of ideas, loosening of associations, associaitons by assonance
+*Thinking ↓: bradypsychia, mono/anideism
+*maladaptive thinking: discontinuous (barrage, fading), incoherent, digressive, allusive, diffluent, repetitive, idiosyncratic, etc.
+*Language form: phonetic alterations (prosody = musicality), lexical alterations (echolalia, verbal stereotypies, paralogism, schizophasia), syntactic alterations (agrammatism), pragmatic alterations (communication value).
+*Discourse content: delusions, anxious ideas (of self, of the outside world, ruminations, reminiscences), mood-related ideas (depressive, expansive)
+
+o Perception
+
+*Hallucinations [[Hallucinations SD-122]]
+*Illusions
+*Hypo/hyperaesthesia sensitivity disorder
+*Derealisation/depersonalisation
+
+o Attention and memory
+
+*Warning ↑: hyperprosexia, hypervigilance
+*Attention ↓: hypoprosexia [[Attention disorder SD-129]], hypovigilance
+*Memory: recollection, reliving, flashbacks (with dissociation), amnesia, paramnesia, impaired working memory
+
+o Affects
+
+*Emotion = affective response to a stimulus
+
+          ↑: hyperesthesia, lability
+
+          ↓: hypo/anesthesia
+
+fear (response to perceived threat), anger, anxiety (negative anticipation of a future event) [[Anxiety SD-116]]
+
+maladaptive: ideo-affective discordance, inappropriate affective reaction, ambivalence
+
+pleasure-related: craving, hyperhedonia, anhedonia, disinhibition
+
+*Mood = emotional tone
+
+↑: hyperthymia, hypersyntonia (increased reactivity to context), irritability
+
+↓: depressed mood, dysphoric (painful), athymia
+
+Labile
+
+Athymhormia = athymia + abulia (difficulty initiating a planned action)
+
+o Physiological functions
+
+*Sleep
+*Nutrition
+*Sexuality
+*Neurovegetative system: activation of the sympathetic system (palpitations, tachypnea, chest pain, nausea, dizziness, sweating, hot flushes, etc.).
+
+o Behaviour
+
+*Interpersonal: social withdrawal, lack of initiative, clinophilia, disinhibition, hostility/aggressiveness, oddity.
+*Suicidal [[Suicide, suicidal, suicidal, suicidal 2C-353-DE-A01]] [Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01
+*To reduce anxiety: avoidance, compulsion
+
+o Ability to judge, awareness of the disorder
+
+*Diminished, altered (illogical thinking = correct premise/illogical reasoning, paralogical thinking = incorrect premise/logical reasoning)
+*Insight: awareness of symptoms and signs

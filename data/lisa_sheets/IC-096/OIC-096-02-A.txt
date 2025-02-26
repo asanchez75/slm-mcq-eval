@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-096-02-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=Know how to diagnose peripheral neuropathy (clinical examination, diagnostic approach)
+|Description=Apply an approach based on localisation, physiopathological mechanism, electro-clinical classification, etc.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+The diagnosis of peripheral neuropathy requires a structured approach comprising the following stages.
+
+- Localisation": this consists of determining whether it is truncal, radicular, plexus or neuronal (cell body damage). With the help of questioning and clinical examination.
+
+- Pathophysiological mechanism: this consists of determining whether the neuropathy is demyelinating, axonal or neuronal. Using neurophysiological tests (electroneuromyogram)
+
+- Electroclinical classification'': synthesis of the previous two stages.
+
+- Search for the cause": the main causes of neuropathy are relatively limited based on electroclinical classification.
+
+Clinical examination
+
+The diagnosis is based on the more or less complete association of three types of signs. '''([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])''''
+
+'''a. Motor signs'''
+
+The motor signs associate '''([[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]])''' :
+
+- Paralysis or paresis; '''([[Muscular weakness SD-074|muscular weakness]]) ([[Heavy legs SD-076|heavy legs]])''''
+
+- Muscular atrophy;
+
+- Fasciculations;
+
+- Cramps;
+
+- A reduction or abolition of tendon reflexes.     
+
+'''b. Sensory signs'''
+
+Often the first to appear.
+
+Symptoms:
+
+- These abnormal sensations (''''[[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]])'''':
+
+- Paraesthesia,
+
+- Dysaesthesia,
+
+- Pain '''([[Pain in a limb (upper or lower) SD-071|douleur d'un membre (supérieur ou inférieur)]])''''
+
+Signs
+
+- Disorders of superficial sensitivities (to tact, or epicritic and proprioceptive sensitivities. '''([[Balance disorders SD-130|balance disorders]])''''
+
+- Ataxia is suggestive of demyelinating neuropathy.
+
+'''c. Neurovegetative signs'''
+
+- Vasomotor, trophic, orthostatic hypotension ''([[Vertigo and dizziness SD-064|vertigo and dizziness]])''', impotence, digestive, urinary, pupillary motility
+
+'''Neurophysiological examination'''
+
+- Have a strategy for using complementary tests

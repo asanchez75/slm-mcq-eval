@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-130-13-B
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=B
+|Title=Knowing the tools for global assessment of the elderly subject
+|Description=Mini-Mental State Examination (MMSE) (cognition), Activities of Daily Living (ADL) and Instrumental ADL (IADL) (autonomy and functional independence), Mini-Nutritional Assessment (MNA) (nutrition), Charlson Score (co-morbidities).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=13}}
+- Cognitive functions (Mini-Mental State Examination - MMSE) and risk of confusion (Confusion Assessment Method - CAM)
+
+- Autonomy and functional independence (Activities of Daily Living ADL, Instrumental ADL IADL)
+
+- Risk of falls (unipodal support, Timed Up & Go)
+
+- Nutritional status (Mini Nutritional Assessment - MNA, weight and BMI)
+
+- Depression (Geriatric Depression Scale - GDS)
+
+- Risk of bedsores (Norton or Braden scale)
+
+- Comorbidities, renal function and treatment (creatinine clearance)
+
+<br />

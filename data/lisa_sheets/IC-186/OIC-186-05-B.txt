@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-186-05-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the physiopathological elements of allergies to hymenoptera venoms: prevalence, mortality, etc.
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=5}}
+Hymenoptera venom allergies are type 1 hypersensitivities mediated by venom-specific IgE antibodies.
+
+see details in 2C-186-PE-B01
+
+<br />

@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-329-11-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Intitle=Know how to identify an immediate transfusion complication
+|Description=Adverse transfusion event, temporality: TRALI, TACO, Allergy, haemolysis, infectious, SFNH (non-haemolytic febrile syndrome)
+|Rubric=Emergency identification
+|Contributors=
+|Order=11}}
+Transfusions must be closely monitored in order to detect any immediate adverse effects, which require rapid and sometimes emergency treatment if the prognosis is life-threatening. We will look at immediate complications that occur during or within the first 24 hours following transfusion. Delayed complications are dealt with in a separate section. 3 pathophysiological types may be involved in these incidents;
+
+- Immunological
+
+o "Erythrocyte incompatibility" (ABO or other), leading to acute haemolysis characterised by fever, abdominal and back pain, haemoglobinuria, sometimes with shock and DIC. Diagnosis is based on evidence of haemolysis stigmata and a positive direct coombs test. Prevention is based on strict compliance with identity surveillance rules and the transfusion procedure.
+
+o ''Incompatibility (contribution of an anti-granulocyte antibody by the blood product) or granulocyte activation,'' leading to TRALI (Transfusion Related Lung Injury) linked to agglutination and activation of granulocytes in the lung, whose enzymatic release deters the alveolar-capillary wall and creates acute pulmonary oedema. This is manifested by the onset, during or within 6 hours of transfusion, of severe dyspnoea with fever and hyptension. Diagnosis is based on the absence of signs of overload and non-resolution when furosemide is injected. One preventive measure is to detect and avoid the introduction of anti-HLA antibodies into the transfused blood products, in particular plasma and platelets.
+
+o ''Protein incompatibility,'' responsible for allergy to human proteins. Allergic symptoms range from simple urticaria to anaphylactic shock occurring during or within 4 hours of a transfusion. Prevention is based on the transfusion of deplasma-treated RBCs or platelets (see PSL qualification sheet) in the event of severe or recurrent allergy.  
+
+o '''Non haemolytic febrile reaction,'' characterised by a temperature shift, usually of 1°, which rarely reaches 39°C during or within 4 hours of a transfusion. This event is linked to the injection of cytokines which are released into the blood product during storage. It is a diagnosis of exclusion. This event may lead to the prescription of paracetamol and is much rarer since the leukoreduction of blood products and the preparation of platelets in storage solution.
+
+- '''Infectious'''
+
+o This is most often an incident linked to bacterial growth in the blood product, particularly in platelets stored at room temperature.  Symptoms include a high fever, often over 39°C, accompanied by digestive disorders and even septic shock. Diagnosis is based on blood cultures taken from the patient and inoculation of the product. The pathogen attenuation process (Amotosalen, see PSL characteristics sheet) for platelets has helped to greatly reduce this incident.
+
+- '''overload.'''
+
+o Volumetric: TACO (Transfusion Associated Circulatory Overload) is a haemodynamic PAO related to a transfusion that is too rapid or too large in patients at cardiovascular risk (the elderly, neonates, patients with heart failure, etc.). The symptoms are those of a classic PAO occurring during or within 6 hours of transfusion and reversible with furosemide. Prevention is based on transfusion of a RGC outside an emergency and on a slow flow rate (2 hours for 1 bag) in patients aged over 80.  
+
+In the transfusion context, it is therefore essential to raise the possible diagnoses according to the warning signs listed in the table below.
+{| class="wikitable"
+|Warning signs
+|'''Possible diagnoses'''
+|-
+|Fever ≥38°C but <39°C and within 4 hours
+|1)RFNH, 2)TRALI (but dyspnoea in the foreground), 3)anti-HLA allo immunisation
+|-
+|Fever ≥ 39°C and within 15 minutes with chills, hypotension, digestive disorders, hypotension, haemoglobinuria, DIC
+|1) Bacterial transmission, 2) haemolytic accident
+|-
+|Hypotension ≥30 mmHg systolic BP
+|1)haemolytic shock, 2)anaphylactic shock, 3)septic shock, 4)TRALI (but dyspnoea in the foreground)
+|-
+|Severe dyspnoea
+|1)TRALI (during or within 6h), 2)TACO (during or within 6h), 3)anaphylaxis (immediate or within 4h)
+|-
+|Haemoglobinuria
+|Intravascular haemolysis 1)immunological (ABO incompatibility), 2)mechanical (pressure sleeve or cell saver incorrectly set), 3)thermal (blood warmer incorrectly set), 4)toxic (drug injection into RGC)
+|-
+|Skin rash
+
+< 2/3 of the body within 2 to 3 hours
+
+> 2/3 of the body during or within 2 to 3 hours
+
+> 2/3 of the body immediately or in 5 minutes with dyspnoea and shock
+<br />
+|
+
+
+Minor allergy
+
+Severe allergy
+
+Anaphylaxis
+|}

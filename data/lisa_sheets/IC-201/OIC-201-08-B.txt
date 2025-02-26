@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-201-08-B
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=B
+|Title=Know the main classes of immunosuppressive drugs used in organ transplantation.
+|Description=None
+|Rubric=Management
+|Contributors=Dany Anglicheau
+|Order=8}}
+
+Immunosuppression is intended to :
+
+*Prevent acute rejection in the initial phase (induction treatment);
+*prevent rejection after the initial phase (maintenance treatment);
+*treat acute rejection (curative treatment).
+
+
+Induction treatment :
+
+*It allows strong immunosuppression to be introduced during the first few days of transplantation, when the risk of rejection is highest.
+*The molecules used are polyclonal antibodies that deplete T lymphocytes or a non-depleting monoclonal antibody.
+
+
+Maintenance treatment :
+
+*The aim is to prevent the occurrence of an acute rejection episode in the long term, with the least possible iatrogenicity.
+*Maintenance treatment usually involves a combination of 2 or 3 immunosuppressive agents from different families (Table 2).
+
+Immunosuppressive treatment increases the risk of infectious and tumour complications, warranting [[Follow-up of immunosuppressed patients SD-291|suu suivi spécialisé]].
+
+
+Table 2: Main classes of immunosuppressants targeting T lymphocytes
+{| class="wikitable"
+|Mechanisms of action
+|Therapeutic class
+|Molecules
+|-
+|Depletion of circulating T lymphocytes
+|Anti-lymphocyte antibodies
+|Anti-lymphocyte polyclonal antibodies
+|-
+| rowspan="2" |Inhibitors of lymphocyte activation (signal 1 and signal 2)
+|Inhibitors of T-receptor engagement signal 1
+|Calcineurin inhibitors (ciclosporin and tacrolimus)
+|-
+|Signal 2 inhibitors (inhibition of costimulation)
+|Belatacept
+|-
+|Inhibitors of lymphocyte proliferation (signal 3)
+|by inhibiting the action of IL-2 on its receptor
+|Antibodies directed against the CD25 chain of the IL-2 receptor (basiliximab)
+|-
+|inhibition of cell proliferation
+|mTOR inhibitors (sirolimus, everolimus)
+|-
+|Purine base inhibition
+|Azathioprine
+
+Mycophenolic acid
+|-
+|Anti-inflammatory and immunosuppressant
+|Corticosteroids
+|Prescribing systemic or local corticosteroids SD-251|Corticosteroids
+|}

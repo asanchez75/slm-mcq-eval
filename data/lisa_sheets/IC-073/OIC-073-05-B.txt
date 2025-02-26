@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-073-05-B
+|Item_parent=Different types of psychotherapeutic techniques
+|Item_parent_short=Different types of psychotherapeutic techniques
+|Rank=B
+|Title=Knowing the principles common to all psychotherapies
+|Description=Common theoretical and practical principles underlying all psychotherapies
+|Rubric=Taking charge
+|Contributors=Amaury MENGIN
+|Order=5}}
+
+====Principles common to all psychotherapies====
+Common definition :
+
+- Therapeutic technique using psychic processes
+
+Points in common:
+
+- Theoretical model of the psyche
+
+- Therapeutic framework: objective, duration, tools, limits, etc.
+
+- Quality psychotherapist/patient relationship or therapeutic alliance
+
+- Patient involvement
+
+- Defined intervention process
+
+- Behavioural, cognitive and affective learning

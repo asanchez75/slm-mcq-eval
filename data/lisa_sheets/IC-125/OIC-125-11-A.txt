@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-125-11-A
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=A
+|Title=Knowing the main causes of dysuria in men and women
+|Description=item added
+|Rubric=Etiologies
+|Contributors=B. Peyronnet
+|Order=11}}
+
+
+* For a long time, BPH in men was considered to be caused exclusively by [[Benign prostatic hyperplasia|benign prostatic hypertrophy (BPH) 127]]. Although BPH is one of the most frequent causes of LUTS in men, it has now been established that they are largely multifactorial.
+
+* In both men and women, dysuria can result from either subvesical obstruction or detrusor hypocontractility.
+* The main causes of subvesical obstruction are BPH (men), urethral stricture, bladder-sphincter dyssynergia and bladder neck disease.
+* Hypocontractility may be part of a picture of peripheral neurological bladder (cause: any peripheral neuropathy), result from prolonged subvesical obstruction or have no identifiable cause ("idiopathic").
+
+<br />

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-334-38-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Know the basic radiological semiology of simple diaphyseal fractures of long bones
+|Description=fracture
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=38}}
+
+A fracture is defined radiologically by a line interrupting the cortical line of the bone.
+
+Systematic radiological description of the fracture:
+
+#Which bone?
+#laterality?
+#which portion of bone?
+#upper or lower extremity?
+#description of the fracture line: simple or complex
+#Is there joint damage?
+#displacement?
+#stage?
+#open or closed?
+
+("''[[Discovery of a bone and joint abnormality on medical imaging examination SD-228|discovery of a bone and joint abnormality on medical imaging examination]]'''")
+[[File:Humerus fracture with butterfly wing.jpg|left|vignette|372x372px|Metaphyseal fracture of right proximal humerus spiral with 2 butterfly wings, displaced.]]
+<br />
+[[File:Fracture of the 2 bones of the forearm.jpg|left|vignette|496x496px|Transverse fracture of the middle 1/3 of the diaphysis of the 2 bones of the left forearm displaced with medial translation]]
+[[File:Fracture de jambe.jpg|centré|vignette|Transverse fracture of the middle 1/3 of the right leg (fibula + tibia) displaced with lateral translation]]

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-346-04-A
+|Item_parent=Convulsions in infants and children
+|Item_parent_short=Convulsions in infants and children
+|Rank=A
+|Title=Knowing the signs of seriousness to look for in a convulsive seizure in infants and young children
+|Description=Age, duration of seizure .
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=4}}
+     '''Signs during the seizure'''
+
+o lasting more than 15 minutes or recurring seizure without return to normal consciousness - seizure lasting more than 5 minutes = threat of seizure requiring treatment
+
+o Prolonged trouble with consciousness
+
+o Respiratory problems (cyanosis, bradypnoea, congestion)
+
+o Haemodynamic disorders (tachycardia, mottling, etc.)
+
+
+'''- Signs outside the crisis'''
+
+o Sepsis, purpura
+
+o Persistence of disturbances of consciousness after 30 minutes = [[Coma in adults and children 2C-336-DE-A01|coma]]
+
+o Pallor, multiple haematomas ([[Child abuse and children at risk: medical management 2C-057-PC-A02|abuse]])?

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-319-04-B
+|Item_parent=Malignant lymphomas
+|Item_parent_short=Malignant lymphomas
+|Rank=B
+|Title=Knowing the main etiological factors in non-Hodgkin's lymphoma
+|Description=Viruses: EBV, HIV, HTLV1, HCV, HHV8
+|Rubric=Pathophysiological factors
+|Contributors=
+|Order=4}}
+In most cases, no causative etiological agent is found. Sometimes, three types of causal factors can be identified:
+
+- Infectious agent: transforming virus (EBV, HTLV1, HHV8), or chronic infection (Helicobacter pylori, hepatitis C)
+
+- Congenital or acquired immunosuppression (HIV+++)
+
+- Autoimmune disease

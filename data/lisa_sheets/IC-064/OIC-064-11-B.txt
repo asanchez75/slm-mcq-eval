@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-064-11-B
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=B
+|Title=Knowing the main psychiatric and non-psychiatric differential diagnoses
+|Description=Adapted response to stress; Refers to item 66 and 65
+|Heading=Positive diagnosis
+|Contributors=
+|Order=11}}
+
+
+==Main psychiatric differential diagnoses:==
+
+*Recurrent depressive disorder
+*Personality Disorder
+*Attention deficit disorder with or without hyperactivity
+*Schizophrenia
+*Anxiety Disorder
+*Obsessive-Compulsive Disorder
+*Persistent Delusional Disorder
+
+==Main non-psychiatric differential diagnoses:==
+
+===- Psychoactive substances===
+
+*cannabis
+*psychostimulants: cocaine, amphetamines, ecstasy
+
+===- Neurological===
+
+*tumour
+*vascular accident
+*inflammatory, autoimmune or infectious disease
+*neurodegenerative disease
+*focal epilepsy
+
+===- Endocrine===
+
+*thyroid disorders
+*Cushing's disease
+
+===- Metabolic===
+
+*Hypoglycemia SD-209|hypoglycemia
+*dyscalcemia
+*Wilson's disease
+
+===- Iatrogenic, adverse drug reaction===
+
+*corticosteroid
+*antidepressant
+*L-Dopa
+*isoniazide
+*interferon-alpha...

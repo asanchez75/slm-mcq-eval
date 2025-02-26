@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-104-10-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the value of lumbar puncture and visual evoked potentials (VEPs) in the diagnosis of MS
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+- '''Analysis of cerebrospinal fluid (CSF)''' = highlights inflammation of the CNS; is not systematic if the diagnostic criteria (dissemination in space and time) have already been met, but also helps to eliminate differential diagnoses. CSF may be normal in MS.  ([[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]], [[Analysis of cerebrospinal fluid (lcs) SD-183|analysis of cerebrospinal fluid]])
+
+CSF is considered inflammatory if there are oligoclonal bands on isoelectrofocalisation and/or an increased IgG index (greater than 0.7) corresponding to intrathecal IgG secretion. It is the demonstration of this intrathecal synthesis that contributes to the diagnostic criteria.
+
+The other parameters of the CSF analysis provide an early warning of differential diagnoses when their values are not within the expected norms: proteinorachy is increased in only 25% of cases, and remains below 1 g/L; cytorachy, composed of mononuclear elements (mainly lymphocytes and plasma cells), is greater than 4 elements/mm3 in a third of cases, but most often less than 50 elements/mm3.
+
+- Evoked potentials (EP) should not be systematically proposed. They are only carried out in cases which are clinically compatible with the diagnosis of MS, but where the criterion of dissemination in space is not met, or when there is doubt about the organic nature of the disorders. ([[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]])
+
+For example, in a patient with myelitis but insufficient MRI evidence for spatial dissemination, a prolongation in the latency of visual evoked potentials (VEPs) would indicate sub-clinical optic nerve damage.
+
+EPI can also be used to confirm the diagnosis of optic neuritis if the clinical and MRI findings are inconclusive.

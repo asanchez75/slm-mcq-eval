@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-357-13-B
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=B
+|Title=Know the principles of management of secondary peritonitis
+|Description=None
+|Rubric=Management
+|Contributors=Maksud Assadi,Philippe Montravers,David Moszkowicz
+|Order=13}}
+
+→ '''Surgical''' treatment is an '''emergency''' (exploration of the abdomen, bacteriological samples, treatment of the cause, peritoneal cleansing) ("''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]''") and must be systematically associated with an '''anti-infectious treatment'' and the management of '''organ failure'''.
+
+→ Antibiotic treatment is usually prescribed for a '''duration of 4 days'' (in uncomplicated community peritonitis) and must systematically take into account enterobacteria and anaerobic digestive germs.
+
+→ The antibiotic therapy recommended in community-acquired peritonitis is '''amoxicillin/clavulanic acid + gentamicin''' or '''ceftriaxone + metronidazole''' ('''[[Prescribe an anti-infective SD-255|prescribe an anti-infective]]'''') .
+
+→ Antibiotic treatment of healthcare-associated peritonitis or severe forms of peritonitis may be extended to 8 to 14 days and should target bacteria resistant to the usual antibiotics as well as enterococci and yeasts depending on the patient's terrain.
+
+→ Anti-infective treatment should be de-escalated with the results of microbiological samples (culture of peritoneal fluid, blood cultures).
+
+To find out more:
+
+[Sepsis and septic shock in children and adults
+
+<br />

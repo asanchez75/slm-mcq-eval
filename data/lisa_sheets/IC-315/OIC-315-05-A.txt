@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-315-05-A
+|Item_parent=Acute leukaemia
+|Item_parent_short=Acute leukaemia
+|Rank=A
+|Title=Knowing the clinical and biological signs of severity
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=5}}
+There may be multiple clinical signs of severity, related to the different clinical pictures of the disease. To summarise :
+
+The bone marrow failure syndrome may give rise to complications linked to the depth of anaemia (myocardial damage), thrombocytopenia (haemorrhagic shock, cerebral bleeding), neutropenia (septic shock); the tumour syndrome may be complicated by hyperleukocytosis (leukostasis), compressive forms (superior cava syndrome), neurological damage (meningeal damage), lysis syndrome (acute renal failure, hyperkalaemia); AML, and particularly AML3, frequently leads to haemostasis disorders (DIC with risk of multivisceral dysfunction syndrome due to microthrombotic damage and risk of haemorrhage).
+
+<br />

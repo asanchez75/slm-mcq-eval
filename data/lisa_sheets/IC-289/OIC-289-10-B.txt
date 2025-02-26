@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-289-10-B
+|Item_parent=Parietal hernia in children and adults
+|Item_parent_short=Parietal hernia in children and adults
+|Rank=B
+|Title=To know the general principles of the management of the different types of parietal hernia.
+|Description=Surgery or wait according to symptoms in HI.  Ambulatory. Emergency for strangulation - risk of intestinal necrosis. Treat occlusion if present.
+|Rubric=Management
+|Contributors=Pablo Ortega-Deballon,David Moszkowicz,Olivier Farges
+|Order=10}}
+
+- Inguinal hernia in children is always an indication for surgery. The risk of strangulation is greater than in adults.
+
+- Umbilical hernias in children can disappear spontaneously, so surgery is not indicated before the age of 3, even if the hernia is large. Strangulation is exceptional.
+
+- In adults, the indication for surgery always depends on the discomfort caused. An inguinal or umbilical hernia that does not cause discomfort does not in principle require surgery. The risk of strangulation is very low and does not in itself justify surgery to prevent it. Patients will come back if they are bothered.
+
+- The cure of an inguinal or umbilical hernia or of a small eventration is carried out on an outpatient basis. The cure of a large ventration requires full hospitalisation.
+
+- In children, the repair consists of closing the peritoneovaginal canal (for the inguinal) or the umbilical orifice.
+
+- In adults, a prosthetic repair is usually performed to cover the defect.
+
+- In the case of hernial strangulation, surgery is indicated as a life-threatening emergency. The operation may require resection of the visceral segment if it is not viable.
+
+If there is an associated intestinal obstruction, this must be treated from the outset (digestive rest, nasogastric tube, fluid and electrolyte rebalancing).

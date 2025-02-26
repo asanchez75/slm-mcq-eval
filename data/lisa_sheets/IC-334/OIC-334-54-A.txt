@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-334-54-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Identifying severe head injuries
+|Description=Know how to calculate the Glasgow score, detect signs of localisation: intrinsic and extrinsic ocular motricity, motor response to painful stimulation, etc.
+|Rubric=Emergency identification
+|Contributors=
+|Order=54}}
+'''Calculation of Glasgow score '''([[2C-334-DE-B02]]) ''':''''
+
+*after correction of haemodynamic, metabolic or respiratory failure, without sedation
+*standardised verbal and nociceptive stimulation
+
+'''Search for signs of localisation'''
+
+'''Examination of pupillary motricity:'''
+
+*intrinsic (nerve III): pupillary diameter and reactivity to light stimulation
+*extrinsic: ptosis - external strabismus (nerve III paralysis); diplopia downwards and to the healthy side (nerve IV paralysis); internal strabismus (nerve VI paralysis)

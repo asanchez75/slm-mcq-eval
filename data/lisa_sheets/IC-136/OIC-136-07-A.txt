@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-136-07-A
+|Item_parent=Local, locoregional and general anaesthesia
+|Item_parent_short=Local, locoregional and general anaesthesia
+|Rank=A
+|Title=Know the principles of local and locoregional anaesthesia, indications and main complications.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=7}}
+[https://sides.uness.fr/lisa/Bases_Anatomiques_des_anesthésies_loco-régionales_rachidiennes Anatomical bases][[File:Figure 5. Principles, indications and main complications of locoregional anaesthesia.jpg|thumb|'''Figure 5. Principles, indications and main complications of locoregional anaesthesia'']]
+The principles, indications and main complications of locoregional anaesthesia are presented in figure 5 ('''[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]''').

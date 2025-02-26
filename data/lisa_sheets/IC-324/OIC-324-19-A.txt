@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-324-19-A
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=A
+|Title=Knowing the risks of self-medication
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=19}}
+Taking into account the medicines most commonly self-medicated, we can assume that:
+
+*Antibiotics can decapitate and mask the symptoms of an infection.
+*NSAIDs expose patients to the risk of accumulating gastro-duodenal ulcers or the outbreak of an infection.
+*Sedative drugs may pose a problem for driving.
+*There is a risk of drug interaction with medicines taken officially.
+*And finally, if unacknowledged, it may alter symptoms and lead to additional tests being prescribed without due consideration.
+
+
+'''Connected starting situations'''
+
+27 falls in the elderly
+
+266 follow-up consultation for a patient with multiple drug dependencies
+
+342 drafting an order
+
+348 suspected adverse drug reactions

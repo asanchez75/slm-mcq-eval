@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-158-03-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Knowing how to evoke a state of septic shock in children and adults
+|Description=Know how to recognise septic shock in any febrile patient; also recognise it if the temperature is normal, if there is hypotension and signs of organ failure.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+- In any febrile patient, it is necessary to look for signs of seriousness by looking for organ failure (cf [[Recognising a patient at risk 2C-158-IU-A01]]) '''([[Hyperthermia/fever SD-044|hyperthermia - fever]])'''.
+
+- In the event of arterial hypotension in a febrile patient, a state of septic shock must be immediately considered and appropriate treatment must be initiated without delay.
+
+- A significant proportion of patients with infections do not present with a fever on initial assessment. Hypothermia may also be observed ''([[Hypothermia SD-045|hypothermia]]]''. This is more frequently observed in elderly and immunocompromised subjects.
+
+* It is therefore important to consider a septic origin in a patient presenting with arterial hypotension with no other obvious cause.
+* If there is any doubt about a septic origin in a patient presenting with shock, the appropriate treatment should be started immediately (microbiological sampling followed by antibiotic therapy).
+
+- In young children, certain signs, observed early in serious infections, should be looked for '''([[Hypotonia/infant malaise SD-046|hypotonia/infant malaise]]''':
+
+* Sinus tachycardia
+* Polypnoea
+* Weak, plaintive or high-pitched cries
+* Abnormal reaction to parental stimuli
+* Altered vigilance
+* Loss of smile
+* Abnormal skin colouration (cyanosis, purpura, etc.), longer skin recolouring time
+* Dehydration

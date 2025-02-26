@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-169-08-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Knowing the diagnosis and management, prevention of major OIs
+|Description=Clinical and radiological presentation of toxoplasmosis, pneumocystis, candidiasis,
+|Rubric=Management
+|Contributors=Jade Ghosn
+|Order=8}}
+'''Tuberculosis:'''
+
+Very frequent opportunistic infection, often revealing the infection, particularly in patients from highly endemic countries (Cf [[Tuberculosis in adults and children|item 159]]).
+
+- When to think about it: patients from high incidence countries, positive IGRA test, AEG with evening fever and night sweats, signs depending on location: very frequent extra-pulmonary involvement
+
+- diagnosis : Cf [[Tuberculosis in adults and children|item 159]]
+
+- treatment : Cf [[Tuberculosis in adults and children|item 159]], beware of drug interactions with anti-retroviral treatments.
+
+
+'''Oesophageal candidiasis:'''
+
+Frequent opportunistic infection, sometimes revealing the infection itself
+
+- when to think about it: dysphagia and odynophagia with weight loss, frequently associated oral candidiasis
+
+- Diagnosis: mainly clinical. Diagnostic confirmation: oeso-gastro-duodenal fibroscopy, suggestive appearance (whitish deposits and erythematous mucosa) with sampling for culture.
+
+- treatment: antifungal treatment with fluconazole for 14 days
+
+'''Pulmonary pneumocystis:'''
+
+Opportunistic infection that frequently reveals HIV infection
+
+- When to look for it: persistent pneumonia, resistant to one or even two courses of antibiotics, and/or associated with other signs of immunodepression. It should also be considered in the case of pneumonia in a known HIV-positive patient with CD4 < 200/mm3 not receiving primary prophylaxis: any sub-acute febrile dyspnoea in an immunocompromised patient not receiving cotriomoxazole prophylaxis should raise the possibility of pulmonary pneumocystis.
+
+- Diagnosis: bilateral interstitial lung disease on chest X-ray, ground-glass images on lung CT scan. A definitive diagnosis is based on the presence of P. jiroveci cysts or positive PCR on BAL (or induced sputum).
+
+- treatment: emergency treatment, do not wait for confirmation of the diagnosis (cysts remain detectable for several days after the start of treatment, so do not wait for a bronchial fibroscopy/ BAL to start treatment). The 1st-line treatment is cotrimoxazole in a loading dose for 21 days (followed by secondary prophylaxis). Systemic corticosteroid therapy should be combined if PaO2 < 70 mmHg to avoid fibrosing sequelae (consider deworming with ivermectin if travelling or if from an endemic anguillaria zone).
+
+
+'''Cerebral toxoplasmosis:'''
+
+Opportunistic infection sometimes indicative of HIV infection
+
+- When to look for it: focal neurological signs, coma, hemiparesis, motor deficit
+
+- Diagnosis: cerebral CT scan or even better cerebral MRI with evidence of cerebral abscesses. There is no confirmatory diagnosis, but confirmation will be made if the trial treatment, which is started quickly, is effective and leads to clinical and radiological improvement.
+
+- treatment: trial treatment combining pyrimethamine + sulphadiazine, with folinic acid supplementation, with clinical and radiological reassessment at D10. If there is improvement, the diagnosis is confirmed and the loading dose treatment is continued for a total of 6-8 weeks, followed by secondary prophylaxis.
+
+'''Prevention:'''
+
+- '''CD4 < 200/mm<sup>3</sup> = risk threshold for opportunistic infections'''.
+
+* Primary prophylaxis of pneumocystis with cotrimoxazole
+
+- CD4 < 100/mm3
+
+* Primary prevention of pneumocystis and toxoplasmosis with cotrimoxazole
+
+* CMV serology and, if positive, quantification of CMV viral load. If the viral load is detectable, perform a fundus examination to look for signs of CMV retinitis''.
+
+* headaches: test for serum Crytococcus neoformans antigen, and lumbar puncture if in doubt, if no contraindication

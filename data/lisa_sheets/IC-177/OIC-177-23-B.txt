@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-177-23-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescribing and monitoring anti-infectives in adults and children (see item 330)
+|Rank=B
+|Title=Know the principles of the method of assessing antibacterial activity.
+|Description=Definition of sensitivity and MIC levels
+|Topic=Physiopathology
+|Contributors=Jean-Philippe Lavigne
+|Order=23}}
+
+1-Determination of inhibition diameters by agar diffusion method using discs impregnated with antibiotics and placed on the agar.
+
+2-Determination of the MIC (minimum inhibitory concentration, i.e. the lowest concentration capable of inhibiting bacterial growth):
+
+<nowiki>*</nowiki>by microdilution on microtiter plates,
+
+<nowiki>*</nowiki>by semi-automated methods in liquid media,
+
+<nowiki>*</nowiki>by agar diffusion using E-test strips with a concentration gradient of the antibiotic tested.
+
+3-Specific search for a resistance mechanism :
+
+<nowiki>*</nowiki>chromogenic test to look for the production of a beta-lactamase.
+
+<nowiki>*</nowiki>Search for synergy between antibiotic-impregnated discs to detect a strain producing extended-spectrum beta-lactamase ("champagne cork" appearance).
+
+<nowiki>*</nowiki>molecular biology techniques to detect genes coding for specific resistance (e.g. ''mecA'' for ''S. aureus'', ''bla'' OXA-48 for carbapenemase-producing Enterobacteriaceae).
+
+The results of tests 1 and 2 are categorised clinically according to the reference system used (CA-SFM/EUCAST): S (sensitive, i.e. a MIC lower than the concentrations of the antibiotic obtained in the organism with usual dosages), I (intermediate, MIC close to the concentrations of the antibiotic obtained in the organism with usual dosages), R (resistant, MIC higher than the concentrations of the antibiotic obtained in the organism with usual dosages).

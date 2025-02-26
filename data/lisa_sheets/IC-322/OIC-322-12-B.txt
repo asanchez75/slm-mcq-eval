@@ -1,0 +1,128 @@
+{{knowledge objective
+|Identifiant=OIC-322-12-B
+|Item_parent=Personalised therapeutic decision making: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=B
+|Title=Drug dependence: knowing the indications and principles of drug withdrawal (see items 77, 78)
+|Description=Know the indications and principles of drug withdrawal.
+|Heading=Management
+|Contributors=Caroline Victorri-Vigneau
+|Order=12}}
+
+==Context==
+Drug withdrawal is the cessation of the use of a substance. The signs of withdrawal are generally the opposite of the symptoms observed during use of the substance (to be distinguished from signs of rebound of the underlying disease).
+
+weaning can be :
+
+*therapeutic'': this is mainly indicated in cases of dependence or misuse (e.g. benzodiazepines, opioids, etc.) and is accompanied by comprehensive medical, social and psychological care;
+*or occur when there is an ''undecided'' cessation of drug use.
+
+''Dependency:''
+
+* Physical dependence: consumption to maintain balance and avoid withdrawal symptoms.
+* Psychic'' dependence: use to relieve or cancel out psychological tension or to create pleasure.
+
+''Rules to follow when prescribing:''
+
+* Assess the risk factors for dependence (psychological disorders: anxiety, depression, obsessive-compulsive disorders, history of addictions, medication at risk of dependence).
+* Systematically identify misuse, risky use and dependence during questioning.
+* Ideally, each time a prescription is renewed, questions should be asked about the persistence of the indication and maintenance.
+
+==Methods of drug withdrawal===
+Depending on the situation, it can be :
+
+*Carried out on an ''outpatient'' or ''inpatient'' basis
+*Slow'' (e.g. benzodiazepines, very gradual reduction or even substitution by a benzodiazepine with a long half-life) or ''rapid''.
+
+==Treatments==
+
+===Symptomatic treatment of withdrawal signs===
+Depending on the case:
+
+*analgesic
+*antispasmodic
+*anxiolytic
+*anti-nausea
+*anti-diarrhoea
+
+===Substitution treatment===
+
+*Nicotine substitution'': in smoking cessation
+*Benzodiazepines:
+**(i) in acute alcohol withdrawal (prevention of delirium tremens and other manifestations of alcohol withdrawal).
+**(ii) long half-life in withdrawal from short-acting benzodiazepines (risk of severe withdrawal symptoms)
+
+*Opiate substitution treatment'': indicated for major opiate dependence as part of a comprehensive social and psychological treatment programme:
+**(i) the prevention of opiate withdrawal syndrome and
+**(ii) managing craving. They enable patients to give up their addictive behaviour and to free themselves from focusing their lives on the harmful effects of the drug and the search for its cure.
+
+{| class="wikitable sortable mw-collapsible"
+|+
+NB: there is a form of buprenorphine combined with naloxone. This form limits misuse by the IV route. In fact, naloxone is inactive by the sublingual route, but if administered via the IV route it can cause opioid antagonist effects and deter diversion.
+|
+|<big>Methadone</big>
+|<big>Buprenorphine</big>
+|-
+|Mechanism of action
+|Full agonist mu receptor
+|Partial agonist of mu receptors and kappa antagonist.
+|-
+|Dangerousness
+|Risk of fatal overdose
+
+Discuss naloxone
+
+Urinalysis prior to initiation compulsory
+|Reduced risk of overdose (ceiling effect) but caution if interactions
+
+Urinalysis before initiation recommended
+|-
+|Pharmaceutical form
+|Syrup
+
+Capsule (replaces syrup form)
+|Sublingual tablets or oral lyophilisates
+
+Beware of misuse (injection, sniffing)
+|-
+|Prescription regulation
+|Narcotics
+
+'''Prescription''' for a maximum of 14 days for the syrup (28 days for the capsule),
+
+Fractional dispensing of 7 days unless otherwise stated by the prescriber
+
+Pharmacist's name noted on the prescription, spelt out in full
+|List I'' but follows part of the narcotics regulations (''secure prescription'')
+
+'''Prescription''' for 28 days maximum, '''Délivrance''' divided into 7 days unless otherwise stated by the prescriber
+
+Name of pharmacist written on prescription, in full
+|-
+|Initial prescriber
+|Doctors practising in addiction care and prevention centres (CSAPA) or doctors practising in hospital departments specialising in the care of drug addicts.
+|Any doctor
+|-
+|EI
+|Nausea, constipation
+
+Hypersudation
+
+QT prolongation
+|Nausea, constipation
+
+
+|-
+|CI
+|Severe respiratory insufficiency
+
+QT-prolonging drugs
+|Severe respiratory insufficiency
+
+Severe liver failure
+|-
+|Drug interactions
+| colspan="2" |*full agonist, partial agonist, antagonist
+
+<nowiki>*</nowiki>attention to other CNS depressants.
+|}

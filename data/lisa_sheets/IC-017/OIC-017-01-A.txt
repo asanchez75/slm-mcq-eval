@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-017-01-A
+|Item_parent=Telemedicine, telehealth and telehealth services
+|Item_parent_short=Telemedicine, telehealth and telehealth services
+|Rank=A
+|Title=Know the definition of telehealth, digital health and digital health support services
+|Description=Know the definitions of telemedicine acts: teleconsultation, tele-expertise, remote medical monitoring, remote medical assistance, etc.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+TELESANTE covers the activities of TELEMEDECINE and TELESOIN.
+
+# TELEMEDICINE
+
+According to article L6316-1 of the French Public Health Code, telemedicine is: "a form of remote medical practice using information and communication technologies". Telemedicine comprises 5 acts defined in R. 6316-1 of the Public Health Code). Each of these procedures is authorised under the conditions defined by the Public Health Code (regulatory framework).
+
+# Teleconsultation: the purpose of this is to enable a medical professional to give a remote consultation to a patient. Variant: assisted teleconsultation: a healthcare professional may be present with the patient and, if necessary, assist the medical professional during the teleconsultation. The psychologists mentioned can also be present with the patient.
+# Tele-expertise: the purpose of this is to enable a healthcare professional to seek the opinion of one or more medical professionals remotely, on the basis of their training or particular skills, using medical information relating to the care of a patient.
+# Remote monitoring: its purpose is to enable a medical professional to remotely interpret the data required for the medical monitoring of a patient and, where appropriate, to take decisions relating to the patient's care. The recording and transmission of data may be automated or carried out by the patient him/herself or by a healthcare professional.
+# Remote assistance: this is designed to enable a medical professional to provide remote assistance to another healthcare professional during the performance of a procedure (remote assistance between a private nurse in the patient's home and an expert hospital centre, for example). It should not be confused with (medical) remote assistance systems, which enable an elderly, disabled or dependent person to raise the alarm in the event of a problem (device installed in the home and activated by a transmitter bracelet, alarm pendant, SOS seniors watch or necklace worn by the person).
+# Medical regulation: Medical regulation<sup><sup>[1][2]</sup></sup> is a telemedical medical procedure carried out over the telephone by emergency medical assistance regulating doctors, who give priority to calls relating to emergency medical assistance, and by generalist regulating doctors. The regulating doctor determines and initiates the response best suited to the patient's condition and, if necessary, refers the patient directly to an appropriate hospital unit. Medical regulation helps patients to access the right care quickly. On a day-to-day basis, it optimises the use of hospital resources and helps to improve the structure of healthcare provision in a given health region. It is also a factor in equality and social cohesion ----[1] Giroud M. La régulation en médecine d'urgence. Réanimation, 2009 ;18(8) :737-41.  [2] SAMU: improving the quality and safety of care. <https://www.has-sante.fr/upload/docs/application/pdf/2020-10/guide_methodologique_qualite_samu.pdf</nowiki>. HAS, 2020.

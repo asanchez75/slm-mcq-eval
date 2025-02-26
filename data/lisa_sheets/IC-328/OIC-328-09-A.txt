@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-328-09-A
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=A
+|Intitle=Know the definition of orthopaedic footwear
+|Description=Definition of orthopaedic footwear and associated components (foot orthoses, etc.)
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=9}}
+
+Orthopaedic footwear :
+
+*custom-made orthopaedic shoes = major orthopaedic appliances
+**reimbursed from 60 to 100%, first pair prescribed by a specialist
+**indicated if: neurological pathology, volumetric disorder, instability, inequality of length, limping... '''([[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]], [[Fall in the elderly SDD-027|fall in the elderly]]),''''
+**carried out by a chiropodist or ortho-prosthetist
+*''standard therapeutic footwear:'''
+**CHUT (temporary use) or CHUP (permanent use)
+**reimbursed at 60%, prescribed by any doctor
+**indicated if: trophic disorders, oedema
+*foot orthoses
+**reimbursed at 60%,
+**performed by a chiropodist, chiropodist or ortho-prosthetist.
+*'''orthoplasty''': protects the toes[[File:Shoe.png|centre|vignette|Chaussure de décharge de série]]

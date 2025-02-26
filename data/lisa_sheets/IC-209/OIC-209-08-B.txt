@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-209-08-B
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=B
+|Title=Chest radiography of COPD
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[File:COPD RT.jpg|vignette|Front thoracic radiography: Chest distension with flattened diaphragm, horizontalization of ribs.

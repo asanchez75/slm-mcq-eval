@@ -1,0 +1,136 @@
+{{knowledge objective
+|Identifiant=OIC-055-02-A
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=A
+|Title=Psychomotor development of infants (3 weeks - 2 years): how to spot abnormal situations
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame,Sylvie Nguyen Le Tich
+|Order=2}}
+
+Cf. [[2C-055-DE-A01]] - The absence of psychomotor acquisition at an upper age limit defined on the basis of the development of the average child must be considered as ''[[Anomaly of psychomotor development SD-115|anormal]].''''
+
+An abnormality in psychomotor development may result from the '''' absence of one or more acquisitions at a given time (''delay'') or from a ''loss'' of these (''regression''). It may be isolated or global.
+
+==Identifying abnormal situations (HAS 2020 reference)'''==
+
+===Awareness of risk situations===
+
+*1st degree sibling or parent with a neurodevelopmental disorder
+*Prenatal exposure to a major neurodevelopmental toxicant (alcohol, certain anti-epileptics)
+*Extreme prematurity (less than 32 weeks' amenorrhoea)
+*Birth weight less than 1,500 g
+*Acute neonatal encephalopathy (including convulsions)
+*Cerebral anomalies with uncertain prognosis (ventriculomegaly, agenesis of corpus callosum, etc.)
+*Microcephaly (PC < -2 DS, congenital or secondary)
+*Congenital or neonatal infections (CMV, toxoplasmosis, rubella, meningitis/encephalitis, etc.)
+*Genetic syndromes that can affect neurodevelopment
+*Complex congenital heart disease that has been operated on
+*Major surgery (brain, abdomen, thorax)
+*Severe neonatal jaundice, including at term (bilirubin >400 μmol/l)
+
+===Recognising unusual behaviour===
+
+*Long-lasting, almost daily sleep disturbances
+*unusual food selectivity for their age
+*Difficulty taking food
+*Aversion/avoidance of tactile contact, certain textures or fabrics
+*Hyper- or hypo-reactivity to sensory stimuli
+*strange exploration/use of "objects" and the environment
+*Repetitive movements, gestural or bodily stereotypies
+*Abnormally calm or passive behaviour; moves very little
+*Exaggerated intolerance to changes in the environment
+*Violent and repeated inconsolable anger
+*uncontrollable motor hyperactivity (puts self in danger)
+
+===Detect abnormal tests===
+On the basis of a standardised psychomotor assessment, before the age of 3 :
+
+*2 no's in 2 different areas
+*or 1 "no" + 1 risk factor or 1 unusual behaviour
+
+{| class="wikitable"
+|
+|6 months
+|12 months
+|18 months
+|24 months
+|36 months
+|-
+| rowspan="3" |Global Motor Skills
+|Holds head
+|Moves independently from lying to sitting position
+|Lifts self from floor
+|Runs with coordinated arm movements
+|Climbs stairs alternately
+|-
+|Sits with support
+|Sits unaided without support, back straight
+|Takes 5 steps unaided
+|Climbs stairs step by step
+|Jumps one step
+|-
+|
+|Moves on the floor alone
+|
+|Shoots a ball
+|
+|-
+| rowspan="3" |Fine motor skills
+|Catch the object
+|Finds the object just hidden
+|Stack 2 cubes
+|5-cube stack
+|8-cube stack
+|-
+|Use both hands without preference
+|Thumb-index gripper
+|Puts small object in container
+|Uses spoon alone
+|Copies a circle
+|-
+|
+|
+|
+|
+|Put on and close a garment
+|-
+| rowspan="3" |Oral Language
+|Turns head to look at speaker
+|Responds to first name
+|Points to an object on oral command
+|Squares simple shapes
+|Says 3-word sentences
+|-
+|Vocalizes monosyllables
+|Understands "no
+|Understands simple instructions
+|Says more than 10 words
+|Uses first name or "I
+|-
+|
+|Pronounces double syllables (baba)
+|Says 5 words
+|Associates 2 words
+|Understands spoken instructions without gestures
+|-
+| rowspan="2" |Socialisation
+|Smiles in response
+|looks at what is shown with finger
+|Can express refusal
+|Has pretend games
+|his age
+|-
+|Asks for the other's gaze
+|Makes social gestures (cheers-bye)
+|shows finger to attract attention
+|Is interested in other children
+|Can wait his turn in a game
+|}
+
+==How to proceed==
+
+*Personal and family history: initial concerns, stages of development, progress, etc.
+*Complete clinical examination including weight, height, CP
+*Search for signs pointing to central involvement (around 70% of cases → neurodevelopmental disorders) or peripheral involvement (30% → neuromuscular diseases).

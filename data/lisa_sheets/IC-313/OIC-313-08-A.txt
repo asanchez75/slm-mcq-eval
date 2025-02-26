@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-313-08-A
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=A
+|Title=Familiarising yourself with the first-line examination: scrotal ultrasound
+|Description=Scrotal ultrasound
+|Rubric=Additional examinations
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=8}}
+
+* Sensitivity > 95%.
+* Aspecific appearance (heterogeneous hypoechoic vascularised tumour) :
+** TGNS: often heterogeneous with cystic portions.
+** TGS: lobulated, hypoechoic, vascularised, with microcalcifications.
+* Checking the contralateral testis
+
+<br />

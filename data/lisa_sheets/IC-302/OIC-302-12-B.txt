@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-302-12-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Knowing the evolution and prognosis of melanoma
+|Description=Distinguish between the different anatomical and clinical entities of melanoma and be familiar with the histopronostic criteria and their prognostic implications. Knowledge of the main clinical factors with a poor prognosis.
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=12}}
+There are 5 main histological types of melanoma:
+
+* Superficial spreading melanoma (SSM) accounts for 60-70% of melanomas. It is characterised by an initial phase of horizontal intraepidermal spread followed by secondary vertical dermal spread.
+* Nodular melanoma (15 to 20% of cases), which initially spreads vertically and has a poor prognosis.
+* Lentiginous acral melanoma (5%): melanoma of the palms and soles.
+* Dubreuilh melanoma (10%): melanoma occurring in elderly subjects with marked helioderma, especially on the face.
+* Melanoma of the genital, ENT and oral mucosa: very rare.
+
+
+.
+
+Melanoma has a risk of :
+
+* Skin recurrence, in the form of skin or subcutaneous nodules at the initial site of the melanoma or "in transit" between the tumour and the first lymph node relay.
+* lymph node metastases in the homolateral drainage area of the melanoma
+* distant metastases, which generally occur after regional lymph node metastases and can affect any organ, with a predilection for the lungs, liver and brain. <br />
+
+The international classification (AJCC 8th edition) classifies melanomas into :
+
+* Stages I and II in cases of primary melanoma of the skin without lymph node or distant recurrence
+* Stages III in the case of locoregional, cutaneous or lymph node involvement
+* Stage IV, in the presence of distant metastases. <br />
+
+The risk of regional and distant recurrence is correlated with histoprognostic parameters such as the Breslow index and ulceration.
+
+At the stage of lymph node involvement (stage III), the prognostic markers are the number and size of invaded lymph nodes and capsular rupture.
+
+In stage IV, the poor prognostic factors are a high LDH level, a large tumour mass (more than 3 organs affected by metastases; more than 3 liver metastases) and symptomatic brain metastases and/or more than 3 brain metastases.

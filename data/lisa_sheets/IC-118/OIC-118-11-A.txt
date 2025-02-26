@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-118-11-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment.
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=11}}
+Unilateral spatial neglect (NSU) ([[Memory disorders/cognitive decline SDD-131|134-memory disorders/cognitive decline]], [[Consultation and follow-up of a patient with cognitive disorders SDD-298|298-consultation and follow-up of a patient with cognitive disorders]]) = inability to take into account stimuli coming from the hemispace opposite the brain lesion.
+
+It is secondary to brain damage and is common after a stroke, mainly affecting the right hemisphere.
+
+
+This negligence can affect :
+
+- The body or personal neglect: forgetting to care for the face (shaving, hairdressing), under-use of the upper limb, etc.
+
+- Space or extra-personal negligence :
+
+o Nearby space: bumping into something, not finding a nearby object in the neglected hemifield, etc.
+
+o Distant space: difficulty with spatial orientation.

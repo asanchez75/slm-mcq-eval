@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-071-09-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the clinical and paraclinical assessment
+|Description=
+|Rubric= Complementary examinations
+|Contributors=
+|Order=9}}
+
+{| class="wikitable"
+|Anamnestic
+|
+* Medical and psychiatric history
+* Weight history'''
+* '''Restriction''' and other '''associated behaviours'''.
+* Comorbidities''.
+* Assessment of the social and family '' ''''environment''.
+|-
+|Clinical
+|
+* Weight, height, BMI (growth curve for children and adolescents).
+* Assessment of pubertal stage in adolescents
+* Search for ''amenorrhoea'' (girls) or ''erectile dysfunction'' (boys) in pubescent patients.
+* Heart rate, blood pressure, temperature
+* Electrocardiogram
+* Signs of dehydration
+* Skin and skin conditions, oedema, lanugo, acrosyndrome.
+* General examination
+* Clinical psychiatric examination
+|-
+|Biological
+|
+* CBC, platelets, complete ionogram, urea, creatinine, creatinine clearance.
+* Blood calcium, phosphorus, 25OH-D3.
+* Liver function tests: ALT, ASAT, PAL and TP.
+* Albumin, prealbumin
+* CRP
+* TSH
+|-
+|Laboratory tests
+|
+* Bone densitometry (from 6 months of amenorrhoea, to be repeated every two years)
+|}

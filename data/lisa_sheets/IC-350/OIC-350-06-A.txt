@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-350-06-A
+|Item_parent=Large acute red leg
+|Item_parent_short=Big acute red leg
+|Rank=A
+|Intitle=Photograph of a typical leg erysipelas
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+<gallery widths="300" heights="300">
+File:Photo 06 erysipèle.jpg
+</gallery>

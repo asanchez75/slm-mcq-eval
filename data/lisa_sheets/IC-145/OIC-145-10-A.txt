@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-145-10-A
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=A
+|Title=Reportable diseases: understanding the principles, how it works, the source of information, the two main stages of the circuit and the players involved.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=10}}
+
+The principle Compulsory reporting is a major method of ''epidemiological surveillance of infectious diseases'' which is mandatory for everyone (doctors, biologists, patients concerned). It enables the health authorities to intervene rapidly to ''protect the health of the population'' and to have up-to-date information on a health problem deemed important.
+
+In 2021, the Minister for Health will define 36 notifiable diseases (MDO), 34 of which are infectious diseases (most of which are transmissible). This [https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire list], available on the website [https://www.santepubliquefrance.fr/ www.santepubliquefrance.fr], may be updated as epidemiology evolves.
+
+'''The 3 actors are:'''
+
+*Declarants'': biologists and doctors confronted with a suspected or confirmed MDO;
+*the medical inspectors of the ''Agences Régionales de Santé'';
+*epidemiologists from ''[[Know the 4 main missions of Santé Publique France in the field of infectious diseases 2C-145-DE-B05|Santé Publique France]]''.
+
+Compulsory reporting is a two-stage process: firstly, reporting (with the exception of Pandemic Influenza outbreaks not requiring urgent public health measures) and secondly, notification (for all Pandemic Influenza outbreaks) (see Table).
+{| class="wikitable"
+|
+| colspan="2" |'''Procedure'''
+|-
+|
+|'''Notification'''
+|'''Notification'''
+|-
+|'''Transmission sequence and delay''''
+|As a matter of urgency, as soon as the diagnosis is confirmed (or even as soon as the diagnosis is suspected for certain vector-borne diseases at risk of being established in mainland France).
+|Following notification
+|-
+|MDO concerned
+|All except HIV, HBV, tetanus
+|All
+|-
+|'''Finalité'''
+|Implementation of urgent prevention or control measures around cases (prophylaxis, vaccination...)
+|Epidemiological monitoring
+|-
+|'''Support'''
+|By any appropriate means: telephone, fax, e-mail, etc.
+|Specific notification form for each MDO, to be downloaded from [https://www.santepubliquefrance.fr/maladies-a-declaration-obligatoire/liste-des-maladies-a-declaration-obligatoire www.santepubliquefrance.fr], then sent by e-mail, post or fax.
+|-
+|Recipient
+| colspan="2" |Physician inspector from the ARS responsible for the practice of the practitioner submitting the notification.
+|-
+|Types of data transmitted
+|Patient identity, demographic, epidemiological, clinical and microbiological data
+|Anonymised sociodemographic, epidemiological, clinical and microbiological data
+|}
+'''Table: The two mandatory reporting procedures for the doctor who cares for the patient and/or the biologist who makes the diagnosis: reporting and notification.''''
+
+The patient or the patient's family must be informed of this report. Nominative data is destroyed by the ARS once the investigations have been completed.

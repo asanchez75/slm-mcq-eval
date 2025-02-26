@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-024-10-B
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=B
+|Title=Savoir prescrire et interpréter les examens complémentaires en cas d'HTA gravidique.
+|Description=Know how to interpret a urinary albumin/creatinine ratio to rule out pre-eclampsia, a rise in creatinine in a pregnant woman, know how to request obstetriocal exemns to assess foetal development.
+|Rubric=Additional examinations
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=10}}
+
+'''On the maternal level'''
+
+The discovery of gestational hypertension = look for pre-eclampsia++.
+
+- The only essential test is to look for ''[[Proteinuria SD-212|proteinuria]]'' on a sample (>1 cross at BU) or on a 24-hour urine collection (>300 mg/24 h).
+
+- A P/C ratio greater than 30 indicates positive proteinuria and should be followed by quantification by analysis of 24-hour proteinuria. If the P/C ratio is less than 30, there is no significant proteinuria.
+
+'''On the foetal level'''
+
+- Obstetrical ultrasound + Doppler'' :
+
+- fetal biometrics with estimation of fetal weight
+
+- assesses growth with comparison to previous ultrasound scans where appropriate
+
+- in the case of IUGR: umbilical artery Doppler analysis (placental resistances) and biometric curves.
+
+Fetuses with IUGR and no umbilical Doppler are at high risk of "in utero" foetal death and acidosis.
+
+RCF: Of limited interest in moderate and isolated hypertension, it is essential for monitoring severe forms and/or IUGR with pathological umbilical Doppler.

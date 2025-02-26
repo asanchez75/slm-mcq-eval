@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-116-06-A
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=A
+|Title=Knowing the first-line examinations to be carried out for pruritus sine materia
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+CBC, platelets
+
+γ-GT, alkaline phosphatases
+
+Creatinine levels
+
+TSH
+
+Ferritin
+
+Plasma protein electrophoresis
+
+HIV, hepatitis B and C serologies
+
+Chest X-ray
+
+Skin biopsy for direct immunofluorescence in elderly subjects

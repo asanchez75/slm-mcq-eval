@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-158-08-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Know how to prescribe microbiological samples adapted to suspected infection.
+|Description=Know how to prescribe specific samples when infection is suspected.
+|Rubric=Additional tests
+|Contributors=
+|Order=8}}
+Blood cultures are systematically taken in cases of sepsis/septic shock. Other microbiological tests will depend on the suspected origin of the infection:
+
+*Suspicion of pulmonary infection: respiratory specimen (ECBC, search for respiratory viruses), legionella +/- pneumococcal antigenuria.
+*Suspicion of meningitis: lumbar puncture (observe contraindications; see indications for brain imaging before LP, cf [[Meningitis, meningoencephalitis, brain abscess in adults and children|item 151]]) '''([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]])'''''
+*Suspicion of urinary infection: ECBU '''([[Analysis of a cytobacteriological examination of the urine (ecbu) SD-189|analysis of a cytobacteriological examination of the urine (ECBU)]])''', possibly by urinary catheterisation in the event of anuria
+*suspicion of skin infection: sampling of any collections
+*Suspicion of malaria: blood smear - thick drop

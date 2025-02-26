@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-003-04-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing reasoning styles
+|Description= Hypothetico-deductive reasoning, Bayesian inductive reasoning (pre- and post-test probabilities). Probabilistic logic, prognostic logic, pragmatic logic. Protopathic" approach, immediate recognition, etc.
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+- Symptomatologies sometimes '''typical''' => simple reasoning and well codified response with solidly supported recommendations = '''Archetypal recognition''' ('''pattern recognition''). Situations often ''complex''.
+
+- '''Hypothetico-deductive method''': '''triad of hypotheses, clues, confirmation (or invalidation)'''. '''Attentive listening''', then evocation of '''compatible previous clinical situations. Hypotheses'' to be confirmed or refuted by history-taking and clinical examination. The doctor then constructs a series of ''working hypotheses'' which will be confirmed or refuted by the history and clinical examination.
+
+- '''Intuitive mode''': or analogue ("it's business as usual"), highly operational mode: routines.
+
+- '''Algorithmic''' approach: binary approach (yes/no, presence/absence) explores by exclusion, independently of the context.
+
+- '''Exhaustive'' approach:''' in very complex situations, in the face of doubt. It is very costly in terms of time and energy in very complex situations. Risk of incidentalomas.

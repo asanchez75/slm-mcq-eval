@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-161-06-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Knowing the principles of performing and interpreting the urine cytobacteriological examination (UCE)
+|Description=Interpretation of results, including significant bacteriuria thresholds, indications and when not to carry out a systematic ECBU, Knowledge of the causes of aseptic leucocyturia.
+|Rubric=Additional tests
+|Contributors=Maxime Vallée, Alice Faure
+|Order=6}}
+
+
+*Second urine stream
+
+*The thresholds for leucocyturia are only of value in cases other than those listed below. In fact, all these elements can be a source of leucocyturia outside of any infectious process:
+**Recent urinary tract manipulation
+**Presence of endo-urinary material
+**Presence of a foreign body (stone, tumour)
+
+*The accepted threshold for significant leucocyturia is ≥ 10<sup>4</sup> /mL.
+*The threshold for significant bacteriuria in men is set at 10<sup>3</sup> CFU/mL
+*The threshold for significant bacteriuria in women is set at 10<sup>4</sup> CFU/mL except for E. coli and S. saprophyticus, for which the threshold is set at 10<sup>3</sup> CFU/mL.
+
+*Whatever the case, the clinical situation always takes precedence over these different thresholds and the diagnosis of UTI should not be ruled out<s>e</s> if the clinical situation is obvious.
+*Genuine UTIs have negative leucocyturia (immunodepression, etc).
+
+*On the other hand, bacteriuria with leucocyturia in the absence of symptoms should not lead to treatment because it is a case of urinary colonisation.
+*Finally, remember that the ECBU is not an infallible test and that in 10 to 15% of cases, it proves negative even though the infection is clinically proven (bacteria "decapitated" by antibiotic therapy, ECBU performed incorrectly, etc.).

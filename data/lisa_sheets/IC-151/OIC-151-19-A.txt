@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-151-19-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Know the general measures to be taken by the person affected and those around them in the event of invasive meningococcal infection.
+|Description=Required notification and declaration, additional precautions Bottles
+|Section=Follow-up and/or prognosis
+|Contributors=Dr Olivier Robineau
+|Order=19}}
+Complementary respiratory precautions such as droplets
+
+Invasive meningococcal infections are notifiable diseases: confirmed or probable cases must be reported immediately by clinicians and biologists to the Regional Health Agencies (ARS), which will look for contacts in the vicinity of the cases.
+
+Individual preventive measures for contact subjects (antibiotic prophylaxis, and in some cases vaccination)

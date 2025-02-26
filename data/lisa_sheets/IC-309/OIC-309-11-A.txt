@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-309-11-A
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=A
+|Title=Know the principles of the management of a primary or secondary lung tumour.
+|Description=Know the main therapeutic modalities available in thoracic oncology.
+|Rubric=Management
+|Contributors=
+|Order=11}}
+The management of a primary lung tumour depends, in order :
+
+*histological type
+*tumour extension ("is the tumour resectable? and is there an indication?")"''
+*pre-treatment work-up ("is the patient operable?")''
+
+These elements are studied for each patient during a "thoracic oncology multi-disciplinary consultation meeting" (RCP), which leads to a therapeutic proposal adapted to the patient's particular case (called a "personalised care plan" or PPS), which will be explained to the patient before the start of treatment during a "consultation as part of the announcement system".
+
+
+'''Principles of non-small cell carcinoma treatment:'''
+
+3 situations depending on the extension :
+
+*Cancer localized to the lung (stages I and II) = "local treatment":
+**Surgery ± pre- or postoperative systemic treatment
+**Radiotherapy if inoperable
+
+*Locally advanced cancer (stage III) = "multi-modal treatment".
+**Radiation therapy + systemic treatment
+**Surgery + systemic treatment
+
+*Metastatic cancer (stage IV) = "exclusive systemic treatment".
+
+
+Systemic treatment: chemotherapy and/or immunotherapy or targeted therapy (depending on the presence of a molecular alteration)
+
+
+The patient's operability assessment includes general condition, comorbidities (particularly cardiovascular), and respiratory function (EFR ± stress test).
+
+
+'''Principles of small cell carcinoma treatment:'''
+
+2 situations depending on the extension
+
+*Cancer located in the thorax = "local treatment":
+**chemotherapy + radiotherapy
+*Metastatic cancer = "exclusive systemic treatment".
+
+
+In all cases, ''supportive care'' begins as soon as the diagnosis is made, and includes in particular :
+
+- nutritional support
+
+- analgesic treatment, both medicinal and non-medicinal (radiotherapy)
+
+- management of other symptoms (dyspnoea)
+
+- psychological support
+
+
+In all cases, we look for "occupational exposure" at risk, possibly with the help of a specialist in occupational pathology; if there is sufficient exposure, the cancer must be declared an occupational disease.
+
+The management of a secondary lung tumour depends on the origin of the primary tumour.
+
+<br />

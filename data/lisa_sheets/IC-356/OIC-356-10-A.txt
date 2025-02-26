@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-356-10-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Knowing the clinical and biological signs of acute appendicitis
+|Description=Highly unlikely acute appendicitis (HAS 2012): in the absence of concomitant right iliac fossa defensiveness, hyperleukocytosis greater than 10,000/mm3 and CRP greater than 8 mg/L.
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=10}}
+
+Acute appendicitis is very unlikely (HAS 2012):
+
+- isolated right iliac fossa pain
+
+- no defence in the right iliac fossa
+
+- hyperleukocytosis less than 10,000/mm<sup>3</sup>.
+
+- CRP less than 8 mg/L.

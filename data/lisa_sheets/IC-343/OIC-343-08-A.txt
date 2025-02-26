@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-343-08-A
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=A
+|Title=Knowing the first-line biological work-up for confusional syndrome
+|Description=Blood ionogram, calcium levels
+|Section=Additional tests
+|Contributors=
+|Order=8}}
+In the presence of a confusional syndrome '''([[Mental confusion/disorientation SD-119|mental confusion/disorientation]])''', the biological tests '''([[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]])''' to be performed as a first-line test are:
+
+- Blood ionogram, urea, total protein, creatinine with calculation of creatinine clearance, blood calcium, capillary blood sugar
+
+- Blood count, CRP
+
+- Urine dipstick (leucocytes, nitrites)

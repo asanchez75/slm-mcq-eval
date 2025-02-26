@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-255-03-A
+|Item_parent=Gestational diabetes
+|Item_parent_short=Gestational diabetes
+|Rank=A
+|Title=Knowing the risk factors for gestational diabetes
+|Description=Know the criteria for selecting women to be screened for gestational diabetes
+|Rubric=Definition
+|Contributors=Louis Potier,Philippe Deruelle
+|Order=3}}
+
+'''Risk factors for GDM = screening criteria'''
+
+Age ≥ 35 years
+
+BMI ≥ 25 kg/m2
+
+1st degree family history of diabetes
+
+History of gestational diabetes
+
+History of a macrosomic child

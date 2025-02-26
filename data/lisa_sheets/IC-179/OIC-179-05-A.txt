@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-179-05-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=A
+|Title=Knowing how to prevent water-related health risks
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Order=5}}
+The prevention of water-related health risks is based on a system that covers everything from source to distribution.
+
+- Protection of water catchment points
+
+- Water filtration and treatment, physical or chemical
+
+- Distribution network maintenance
+
+- Quality control, on entry into the distribution network and at the point of consumption
+- Control of pollution-generating activities: shellfish production areas, etc.

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-292-02-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Know the definition of tumour syndromes
+|Description=Know the definition of the 3 major syndromes: tumoral, paraneoplastic, carhectic.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The clinical, biological and imaging signs associated with cancer disease can be grouped into 3 major syndromic entities:
+
+- cachectic and inflammatory syndrome: all the signs associated with an alteration in general condition and an inflammatory state linked to cancer;
+
+- tumour syndrome: all the clinical, radiological or biological signs associated with the presence of a primary tumour mass or metastases and its locoregional consequences (compression, invasion);
+
+- paraneoplastic syndrome: set of signs associated with a functional secretory tumour or an autoimmune disease caused by cancer.

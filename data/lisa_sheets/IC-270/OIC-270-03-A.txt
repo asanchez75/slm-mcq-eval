@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-270-03-A
+|Item_parent=Acute low back pain
+|Item_parent_short=Acute low back pain
+|Rank=A
+|Intitle=Identify a medical or surgical emergency
+|Description=Know the signs of severity, arguments in favour of a secondary cause, neurological examination
+|Rubric=Identifying an emergency
+|Contributors=François-Xavier NOUHAUD
+|Order=3}}
+
+
+== The signs of acute low back pain are: ==
+
+* sepsis, septic shock [[Sepsis and septic shock in children and adults|158]]
+* oligo-anuria, acute renal failure
+* acute anaemia, arterial hypotension, haemorrhagic shock [[State of shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic|332]]
+* heart rhythm disorder [[Atrial fibrillation|232]]
+* abdominal defence or contracture, intestinal obstruction
+* severe dyspnoea, respiratory distress [[Acute respiratory distress and failure in infants, children and adults|359]]
+
+* motor deficit
+* abnormal neurological examination
+
+== For a urological cause, you need: ==
+
+*Identify complicated renal colic:
+**[[2C-161|Febrile nephritic colic 161]] and [[2C-265|265]] (obstructive pyelonephritis): hyperthermia, clinical signs of sepsis.
+**2C-265|Hyperalgesic nephritic colitis 265]: pain resistant to well-administered IV analgesic treatment combining NSAIDs and morphine analgesics, level 3 in titration.
+**anuric nephritic colic: oligo-anuria, acute renal failure
+**Hyperalgesic nephritic colic resistant to well-administered medical treatment (fluid restriction, NSAIDs, morphine).
+
+*Identify [[2C-161|acute pyelonephritis 161]] that is complicated or at risk of complication.
+*Identify a [[2C-050|torsion of the spermatic cord 50]]

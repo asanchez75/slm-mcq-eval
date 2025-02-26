@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-173-10-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the elements of the clinical and biological diagnosis of pasteurellosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Carole Eldin
+|Order=10}}
+The pathogen is a small Gram-negative cocobacillus: Pasteurella multocida, whose main reservoir is animals (cats ++), but which is also present in the environment.
+
+The diagnosis of pasteurellosis is mainly clinical. It involves the rapid appearance (3 to 6 hours) of a major inflammatory aspect around the inoculation wound after an animal [[Bites and stings SD-169|bite or scratch]] or plant sting.
+
+A discharge may be present. Lymphangitis and adenopathy may be associated.
+
+Biological diagnosis is based on blood cultures or cultures taken from superficial local samples of the wound.

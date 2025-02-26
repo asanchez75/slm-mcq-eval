@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-285-15-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the elements of the positive diagnosis of celiac disease
+|Description= serologies, duodenal histological abnormalities
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=15}}
+The diagnosis is based on a combination of anatomopathological and serological criteria.
+
+On upper gastrointestinal endoscopy, the appearance of villous atrophy of the duodenum is suggestive. Multiple biopsies are taken from this area. The 4 key anatomopathological signs are an increase in intraepithelial lymphocytes, total or subtotal villous atrophy, crypt hypertrophy and a lymphoplasmacytic infiltrate of the chorion.
+
+Anti-transglutaminase IgA antibodies (weighted IgA assay concomitant with the possibility of associated IgA deficiency) are almost always present. They are highly sensitive and very specific.

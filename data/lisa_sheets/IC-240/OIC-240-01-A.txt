@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-240-01-A
+|Item_parent=Hypoglycaemia in adults and children
+|Item_parent_short=Hypoglycaemia in adults and children
+|Rank=A
+|Title=Knowing the clinical and biological definition of hypoglycaemia in adults and children
+|Description=Whipple's triad, biological threshold defining hypoglycaemia
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Definition of hypoglycaemia: clinical AND biological = Whipple's Triad''''
+
+* signs of neuroglucopenia
+* and a ''SIMULTANEOUSLY low'' (''not capillary'') ''venous glycaemia
+
+- and the ''correction of symptoms'' when blood sugar levels return to normal.
+
+
+'''''ATTENTION:'''''
+
+- Symptoms and low blood sugar must be ''SIMULTANEOUS''.
+
+- '''VENOUS AND NON-CAPILLARY GLYCEMIA'''
+
+o Non-diabetic: GV< 0.50 g/l (2.75 mmol/l) (SFE 2013)
+
+o Diabetes: GV< 0.70 g/l (3.85 mmol/l)
+
+o Diagnosis of biological hypoglycaemia without clinical symptoms only possible in diabetics
+
+- NEUROGLUCOPENIC AND NON-ADRENERGIC SYMPTOMS (earlier and less frequent)
+
+- '''No diagnosis if no documentation of low GV and symptoms.'''

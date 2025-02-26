@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-132-04-B
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=B
+|Title=Know how to diagnose Lewy body disease.
+|Description=Know the positive clinical elements which allow the diagnosis to be made.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Lewy body disease (LBD) is one of the three main causes of dementia in the elderly.
+
+Lewy bodies are intra-neuronal aggregates of alpha-synuclein described in Parkinson's disease (PD) and MCL.
+
+The clinical signs of this disease combine the presence of ''progressive cognitive disorders'' (mainly impairment of executive functions, attentional capacities, visual functions), with (according to Mc Keith 2017 CLINICAL criteria):
+
+*Parkinsonian syndrome, especially akineto-rigid,
+*Behavioural disorders during REM sleep, with a sensation of "waking dreams" or even violent nightmares (= loss of hypotonia during REM sleep).
+*Early visual hallucinations
+*Fluctuations
+
+but also
+
+*Dysautonomia with orthostatic hypotension
+*Hypersensitivity to neuroleptics
+*Hypersomnia
+*Apathy
+*Auditory and somaesthetic hallucinations, etc.
+*Hypposmia
+*Anxiety - depression

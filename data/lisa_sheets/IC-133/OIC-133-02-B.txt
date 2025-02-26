@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-133-02-B
+|Item_parent=Autonomy and dependence in elderly people
+|Item_parent_short=Autonomy and dependence in elderly people
+|Rank=B
+|Item_parent_short=Autonomy and dependency in elderly people
+|Description=Know the components of the GIR score
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Understanding the components of the GIR score
+
+The discriminant variables used for the GIR score are :
+
+- '''Consistency:''' to converse and/or behave in a way that is logical and sensible in relation to the accepted norms of the society in which you live.
+
+- '''Orientation''': finding your bearings in time, at different times of the day, in places and their contents.
+
+- '''Toilette''': this relates to personal hygiene and is divided into 2 parts:
+
+- Top toilet
+
+- Lower toilet.
+
+- '''Dressing''': this variable includes dressing and undressing and is entered in 3 parts:
+
+- Top trim
+
+- Medium cover
+
+- Bottom trim
+
+- '''Alimentation''': this variable comprises 2 parts:
+
+- Help yourself
+
+- Eating
+
+- '''Urinary and faecal elimination''': ensuring hygiene and elimination with 2 parts corresponding to urinary and faecal elimination.
+
+- ''Transfer, stand up, lie down, sit down'': moving from one of the three positions (lying down, sitting up, standing up) to another, in both directions.
+
+- '''Moving around inside''': inside the home and in institutions within the living environment, including communal areas.
+
+- '''Moving outside''': from the front door without any means of transport.
+
+- '''Remote communication''': remote communication is defined as alerting, i.e. using remote means of communication: telephone, alarm, bell, remote alarm, for the purpose of alerting.
+
+'''Les modalités des variables discriminantes'''
+
+A- '' '' ''' ''''' " done alone, totally, habitually and correctly "''
+
+''B- "done partially or not usually and correctly"''
+
+''C- "does not"''
+
+
+'''Les groupes Iso-ressources (GIR)'''
+
+An algorithm classifies the combinations of responses to the discriminant variables into 6 Iso-Resource Groups. The iso-resource groups correspond to the most frequent profiles of association of variables. Group 1 corresponds to the most dependent people, while group 6 groups together people who have not lost their autonomy for the discriminating acts of everyday life.

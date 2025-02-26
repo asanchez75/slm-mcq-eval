@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-162-28-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Know how to treat primary syphilis
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=28}}
+Early syphilis: Benzathine penicillin G single dose IM 2.4 million units
+
+- If penicillin allergy: doxycycline 14 days
+
+- Herxheimer reaction: possible for primary or secondary syphilis, lysis of treponemes
+
+
+HIV+ patient (primary or secondary syphilis) : Benzathine penicillin G single dose IM 2.4 million units

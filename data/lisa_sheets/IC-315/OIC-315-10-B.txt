@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-315-10-B
+|Item_parent=Acute leukaemia
+|Item_parent_short=Acute leukaemia
+|Rank=B
+|Title=Knowing the indications for performing a myelogram in children
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Virginie Gandemer
+|Order=10}}
+'''Impairment of 2 or 3 blood lines'' (anaemia, thrombocytopenia, neutropenia) on the haemogram requires a myelogram before any specific treatment as it suggests a bone marrow cause for the cytopenias. Circulating blastosis is not necessary for a myelogram to be indicated.
+
+This will show > 25% blasts on rich MO in the case of acute leukaemia. This examination should be systematically supplemented by CSF analysis, even in the absence of any neurological symptoms.
+
+SDS link
+
+- Reasoned request/prescription and choice of a diagnostic examination SD-178]]
+
+- Interpretation of an SD-221 myelogram
+
+- Preventing pain in healthcare SD-258

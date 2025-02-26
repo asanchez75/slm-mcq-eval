@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-078-01-A
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=A
+|Title=Know the definition of addiction to cannabis, cocaine, amphetamines, opiates and synthetic drugs.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Addiction, whatever the substance, can be summed up using the mnemonic 5C (over a period of at least 12 months):
+
+- Chronic use
+
+- Loss of control
+
+- Craving (irresistible urge to consume)
+
+- Compulsive use
+
+- Consequences for physical, mental and social health

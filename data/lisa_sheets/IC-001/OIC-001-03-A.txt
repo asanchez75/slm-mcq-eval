@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-001-03-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the main clinical correlates of the doctor-patient relationship
+|Description=Ex. Performance in the diagnostic process, improving health indicators, etc.
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+The quality of the doctor-patient relationship has been shown to have a significant impact on various health indicators:
+
+- performance in the diagnostic process
+
+- improvement and stabilisation of bioclinical parameters for monitoring chronic diseases<br />.

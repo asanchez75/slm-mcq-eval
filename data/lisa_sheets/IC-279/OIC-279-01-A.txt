@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-279-01-A
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=A
+|Title=Know the definition of cirrhosis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Cirrhosis is defined histologically by a global disorganisation of the architecture of the liver, with annular fibrosis delimiting nodules of clustered hepatocytes, known as regeneration nodules. Many chronic liver diseases can lead to the development of cirrhosis if their course is prolonged (usually at least 10 to 20 years).<speciality>General_Medicine</speciality><br />

@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-328-12-B
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=B
+|Intitle=Know the definition of a spa treatment
+|Description=Definition of the different types of spa treatment and how they work
+|Rubric=Definition
+|Contributors=Jean-Louis Montastruc
+|Order=12}}
+
+Every year, almost 600,000 patients undergo a spa treatment in France.
+
+==Definition of a spa treatment ==
+All the therapies applied to a patient during their stay in a spa, including crenotherapy, rest, a change of scenery, climate and possibly non-thermal treatments (functional rehabilitation, therapeutic education). Do not confuse ''thermal medicine'' with ''hydrotherapy'' (external use of any water, regardless of its physical or chemical composition) or ''thalassotherapy'' (use of seawater without systematic medical supervision; neither recognised nor reimbursed by the Health Insurance) or ''Physical and Rehabilitation Medicine''.
+
+==Waters used in Thermal Medicine ==
+They are classified according to their temperature (thermality) and their chemical composition (minerality). The "thermality" separates "cold" waters (8 to 15°C, mainly for diuresis cures), "mesothermal" waters (25 to 34°C, for prolonged baths) and "hyperthermal" waters (inhalation, study, shower, bath). The "mineralisation" (presence of a predominant ion) is constant for each source and enables mineral waters to be classified as :
+
+#SULPHUR: H2S, especially respiratory indications: sodic of the "Pyrenean" type or calcic;
+#SULPHATE: urinary and metabolic diseases, especially calcium and magnesium;
+#SODIQUE CHLORIDES: rich in sodium
+#GAS BARBONATES: sodium or calcium;
+#WITH A RARE ELEMENT: arsenic, iron, copper, selenium;
+#LOW MINERAL content: (trace metals).
+
+NB: Mineral waters are unstable, losing their characteristics after a few hours, which is why it is necessary to take the water from the source ("griffon") and to carry out the treatment on site.
+
+Other thermal agents include thermal plankton, thermal gases (CO2, H2S) and mud (peloids).
+
+=='''Thermal techniques with 3 main types of cures <small>([[Explain a treatment to the patient (adult/child/adolescent) SD-352|explain a treatment to the patient]])</small>'''==
+
+#Internal hydrotherapy based on drinking cures (taking 100 to 300 ml/day of thermal water) used in all resorts. Diuresis cures (up to 3 litres per day) are used for digestive, urinary or metabolic disorders.
+#Contact" cures: application of the thermal agent in contact with the skin or mucous membranes. For respiratory ailments: inhalations, aerosols, balneotherapy, nasal baths, sinus cleansing, etc.
+#''External hydrotherapy'' uses the physical characteristics of water: baths (in a pool or bathtub, hot or warm), showers (local, regional or general, of varying temperature, pressure and duration) for sedative or analgesic purposes, hand or foot baths.
+
+The other thermal techniques are ''functional re-education, treatments not specific to thermal medicine'' (physiotherapy, postural drainage and respiratory re-education) and also health education, for which thermal cures are an ideal place. '''([[Prescription of a rehabilitation SDD-247|Prescription of a rehabilitation]])''''
+
+== '''Spa resorts in France'''==
+'''Around a hundred spa resorts in France:''' firstly in Occitanie (200,000 spa visitors/year), then in Nouvelle Aquitaine (150,000 spa visitors/year) and Auvergne-Rhône-Alpes (130,000 spa visitors/year). The 3 main resorts are Balaruc (RH, PHL), Dax (RH, PHL) and Gréoux (RH, VR).
+
+==Indications for spa treatment ==
+Chronic pathologies, incompletely improved. The majority of cures are for rheumatology (3/4), followed by the respiratory tract (1/10) and phlebology (1/20). One of the characteristics is the specialisation in the treatment of certain conditions (due to the principle of the specificity of mineral waters). There are 12 therapeutic orientations for spas recognised by the French social security system, and spas may have 2 (exceptionally 3) therapeutic orientations.
+
+#RH : Rheumatology and sequelae of osteo-articular trauma ('''[[Joint pain SD-067|joint pain]]])''''
+#Respiratory tract diseases (ENT or pneumology)
+#MCA : Cardio-Arterial Diseases
+#AU : Diseases of the Urinary System and Metabolic Diseases
+#AD: Diseases of the Digestive System and Metabolic Diseases
+#PHL: Phlebology
+#GYN: Gynaecology
+#DER: Dermatology
+#AMB: Oral and lingual mucosal diseases
+#NEU : Neurology
+#PSY: Psychosomatic disorders
+#''TDE : Troubles du Développement de l'Enfant'' [[Anomalie du développement psychomoteur SD-115|'''(Anomaly of psychomotor development)''']]
+
+NB: obsolete information is shown in italics.
+
+Since the early 2000s, under the aegis of the AFRETH (Association Française de REcherche THermale - French Association for Thermal Research), several high-quality clinical trials have been carried out, demonstrating the clinical effectiveness of thermal medicine in its main indications. The most validated indications are rheumatology (osteoarthritis, chronic lumbago, inflammatory rheumatism outside flare-ups), followed by arteritis and psychiatry (generalised anxiety disorders).
+
+==Undesirable effects of spa treatments ==
+Very rare and often "non-serious": asthenia after a few days of treatment ("spa crisis"), complications of treatment techniques, etc. 
+
+==Contraindications to spa treatments ==
+Obvious non-indications such as infections, cancers, relapsing illnesses, recent cardiovascular diseases, immunodepression, etc.
+
+=='''How to prescribe a spa treatment?'''==
+'''([[Writing a prescription/medical letter SD-342|Drafting a prescription/medical letter]])''''
+
+The cure is prescribed by the attending physician on a special form to be sent to the Caisse d'AM with its 2 sections: prise en charge (completed by the prescribing physician) and déclaration de ressources (completed by the insured person). The doctor must specify (using the key letter) the main indication (and any secondary indications). A course of treatment lasts 3 weeks. Reimbursed at 65% by SS (100% reimbursed if ALD, occupational disease or work accident). Complementary medical practices (pharyngeal showers, Proetz displacement method in ENT, thermal gas injections for arteriopathy) are reimbursed at 70%.
+
+The ''medical surveillance package'' includes 3 medical consultations: on arrival, in the middle and at the end of the cure. Only one cure per year is reimbursed by Social Security. You can renew your spa treatment every year.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-231-14-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying atrial fibrillation
+|Description=idem 230-A03
+|Rubric=Positive diagnosis
+|Contributors=Victor waldmann
+|Order=14}}
+
+
+- '''Irregular rhythm'''
+
+- '''Baseline increment''' without visible P wave (more or less large meshes)
+
+- '''QRS fins''' unless :
+
+o Bundle branch block (organic or frequency-dependent functional),
+
+o Ventricular pre-excitation (anterograde accessory pathway).
+
+- '''Causes of atrial fibrillation with regular ventricular rhythm'' :
+
+o BAV complete with exhaust,
+
+o Pacemaker-driven ventricular rhythm,
+
+o Bi-tachycardia (combination of atrial fibrillation and ventricular tachycardia).
+
+[[File:Slide1.jpg|thumbnail|alt=|centered|900x900px]]

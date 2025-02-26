@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-162-16-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Know the general measures for managing STIs (medicinal and non-medicinal).
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=16}}
+'''For all STIs, you need:'''
+
+Identify the infected or contaminating partner(s) and offer screening, diagnosis and/or probabilistic treatment from the outset;
+
+Systematically offer :
+
+- HIV serology,
+
+- Treponemal test,
+
+- hepatitis B serology
+
+- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis
+
+- Pharyngeal and anal PCR according to sexual practices
+
+Emphasise the risks of recontamination (education).
+
+Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly
+
+Protect sexual relations by using condoms, and in particular recommend abstinence/protected sexual relations until contagiousness has disappeared (at least 7 days).
+
+Preventive vaccination for HPV, hepatitis B (and hepatitis A in men who have sex with men)
+
+In the case of urethritis, probabilistic treatment with Doxycycline 200mg/D for 7 days + Ceftriaxone 1g in a single dose may be proposed.
+
+In the case of a chancre, probabilistic treatment with Benzathine penicillin G DU IM 2.4 million units may be proposed.
+
+Systematic re-evaluation of clinical/biological efficacy

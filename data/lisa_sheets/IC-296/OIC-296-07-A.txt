@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-296-07-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=A
+|Title=Knowing how to conduct an aetiological investigation
+|Description=
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+'''- drug identification: questioning the patient and family & discussion with the pharmacovigilance reporting centre''''
+
+'''- very many drugs involved'''
+
+'''- any new drug +++'''

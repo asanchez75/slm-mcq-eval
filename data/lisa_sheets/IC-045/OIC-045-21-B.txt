@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-045-21-B
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=B
+|Title=Know the different clinical forms of Fragile X syndrome.
+|Description=To understand the risk of premature ovarian failure in women and FXTAS syndrome in elderly men. To understand the molecular mechanism of triplet expansion.
+|Rubric=Positive diagnosis
+|Contributors=Gaétan Lesca,Elise Launay
+|Order=21}}
+
+Premutations are involved in pathology and family members are exposed to different risks depending on their genetic status and sex.
+
+The pathological mechanism of premutations is toxicity (gain of function) in nervous and ovarian tissue.
+
+== Premature ovarian failure linked to FMR1 (FXPOI): ==
+
+* 20% of premutation carriers have ovarian dysfunction
+* May lead to premature ovarian failure (< 40 years) known as FXPOI (Fragile X-associated Primary Ovarian Insufficiency) and premature menopause ([[Difficulty in procreating SD-033|difficulty in procreating]], [[Menstrual cycle disorders SD-094|menstrual cycle disorders]]).
+* It is recommended that women of childbearing age who are carriers of premutation be offered an endocrinology consultation to estimate their ovarian reserve.
+* Ovarian cryopreservation or pre-implantation diagnosis may be proposed depending on the ovarian reserve.
+
+<br />
+
+== FMR1-related tremor-ataxia syndrome (FXTAS): ==
+
+* FXTAS: Fragile X associated Tremor Ataxia Syndrome
+* 40% of men and 16% of women carry the premutation
+* Onset after the age of 60
+* Variable association of action or rest tremor, cerebellar ataxia, parkinsonian syndrome, myoclonus, cognitive disorders, various psychiatric disorders and sensory neuropathy ([[Mental confusion/disorientation SD-119|mental confusion/disorientation]]'',''' [[Tremor SD-128|tremor]], [[Memory impairment/cognitive decline SD-131|memory impairment/cognitive decline]], [[Balance impairment SD-130|balance impairment]])
+* Abnormal brain MRI: most characteristic abnormalities = hypersignals of the middle cerebellar peduncles and/or splenium of the corpus callosum.
+* The risk of FXTAS increases especially in carriers of a pre-mutation >70 CGG.
+* Genetic counselling must be cautious in men: because of the risk of FXTAS, genetic testing may take on the characteristics of a presymptomatic test.
+
+<br />
+
+== Neuropsychiatric disorders linked to premutations: ==
+
+* Carriers of premutations are at increased risk of developing attention disorders, hyperactivity or autism spectrum disorders, compared with the general population ([[Child and Adolescent Behaviour Disorder SD-133|Child and Adolescent Behaviour Disorder]], [[Attention Disorder SD-129|Inattention Disorder]]).
+* Carriers of premutations may also be at risk for certain conditions including anxiety-depressive disorders, social phobias and chronic pain (fibromyalgia) ([[Social interaction disorders/socialisation difficulties SD-349|social interaction disorders/socialisation difficulties]]).
+* The acronym FXAND (''Fragile X-associated neuropsychiatric disorders'') has recently been proposed to facilitate the diagnosis and management of these disorders.

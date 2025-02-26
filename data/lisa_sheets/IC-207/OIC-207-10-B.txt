@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-207-10-B
+|Item_parent=Intra-thoracic masses and lumps in children and adults
+|Item_parent_short=Opacities and intra-thoracic masses in children and adults
+|Rank=B
+|Title=Identifying a normal thymic image on a frontal chest radiograph in an infant
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Stéphanie Luzi,Mathieu Lederlin
+|Order=10}}
+
+The thymus is a soft lympho-epithelial organ located in the anterior superior mediastinum, consisting of two lobes connected by an isthmus.
+
+Its appearance varies with age: it develops rapidly from birth, is generally voluminous in infants and then begins to involute around the age of 1 year, disappearing completely after the age of 40. In certain situations (corticosteroid therapy, chemotherapy, infections, etc.), the thymus may decrease in size and then regrow ("thymic rebound") when the clinical condition improves.
+
+'''Normal radiological appearance on a frontal chest view:'' (no systematic profile view)
+
+*Bilateral and asymmetric opacity of the anterior superior mediastinum, inseparable from the cardiac mass.
+*Variable shape (Figure 1), often asymmetric, with clear contours, non-compressive on adjacent structures.
+*Hydrous and homogeneous tone
+*Specific morphologies frequently found (Figures 2-5): sail sign, wave sign, connection sign, hilar overlap sign
+<gallery widths="600" heights="300">
+File:Thy1.jpg|'''Figure 1.''' Diagram of the different morphological aspects of the thymus from the front.
+</gallery><br /><gallery widths="450" heights="300">
+File:Thy2.JPG|'''Figure 2.''' '''Sail sign.''' Triangular opacity on the right side of the mediastinum, with clear contours, the lower edge of which rests on the horizontal scissure, in association with hypertrophy of the right lobe of the thymus, giving a boat sail appearance. This is a classic sign but in fact quite rare (5% of thymuses), more frequent on the right than on the left, and sometimes bilateral.
+File:Thy3.JPG|'''Figure 3.''' '''Wave sign.''' The left outer edge of the thymus appears wavy (arrows) related to invagination of the thymus into the intercostal spaces. This is a typical sign of a soft, anterior organ such as the thymus.
+File:Thy4.JPG|'''Figure 4.''' '''Connection sign.''' There is an incision at the point of connection between the outer edge of the hypertrophic left lobe of the thymus overlying the cardiac silhouette, and the left edge of the heart (arrow). This is a typical sign of an anterior mediastinal opacity.
+File:Thy5.JPG|'''Figure 5.''' '''Hilar overlay sign.''' The vessels of the pulmonary hilum (middle mediastinum) are visible through the thymic opacity (anterior mediastinum), whereas they would be repressed if it were a cardiomegaly.
+</gallery><br />

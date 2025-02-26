@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-163-04-A
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=A
+|Title=Knowing the differential diagnoses of whooping cough
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=André Birgy
+|Order=4}}
+
+Etiologies of subacute non-febrile cough:
+
+* Infectious cough following viral or bacterial infection with Mycoplasma pneumoniae or Chlamydia pneumoniae, influenza, tuberculosis, chronic sinusitis with posterior rhinorrhoea.
+* Pneumo-allergological cough: allergy, asthma, diffuse interstitial lung disease
+* Mechanical cough: gastro-oesophageal reflux, tumour, tracheal compression, foreign body (elderly)
+* Iatrogenic cough: angiotensin-converting enzyme inhibitors, beta-blockers.
+* Psychogenic cough

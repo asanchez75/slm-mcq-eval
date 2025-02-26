@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-047-01-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Know the definitions of children's age groups
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Newborn: 0-1 months
+
+Infant: 1 -23 months
+
+Children: 2 years- < puberty
+
+Teenager: > puberty

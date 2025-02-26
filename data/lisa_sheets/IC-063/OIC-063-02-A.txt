@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-063-02-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Intitle=Knowing the definition of schizophrenia
+|Description=None
+|Rubric=Definition
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=2}}
+
+'''Schizophrenias:''' Clinical diagnosis, (i) based on the association of at least 2 syndromes for at least one month among positive syndrome, negative syndrome and disorganisation syndrome and (ii) associated with the presence of difficulties in functioning at work, in interpersonal relationships or in personal care for at least 6 months.
+
+''Brief psychotic episode'': disorders persist for between 1 day and 1 month.
+
+Schizophreniform disorder'': disorders persist for between 1 and 6 months.
+
+Social or professional repercussions since the onset of the disorder with no psychiatric or non-psychiatric differential diagnosis.

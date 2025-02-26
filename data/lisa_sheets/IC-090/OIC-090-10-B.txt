@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-090-10-B
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Salivary gland pathology
+|Rank=B
+|Title=Indications for accessory salivary gland biopsies
+|Description=
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}Biopsy of the accessory salivary glands (ASG) involves removing a few accessory salivary glands for anatomopathological examination, most often in the context of systemic pathology.
+
+This is a simple procedure performed under local anaesthetic. A small incision is made in the mucosa of the lower lip, then a few accessory salivary glands are resected and sent for anatomopathological analysis. Closure is achieved using a few absorbable stitches, either directly or after bipolar haemostasis. It is recommended to obtain at least 8 mm² of analysis surface for pathological analysis, which corresponds to a sample of four normal-sized glands and six small-sized glands (< 2 mm).
+
+It is indicated for research into the following diseases: Amyloidosis; Gougerot-Sjögren's disease; Sarcoidosis; Other autoimmune diseases
+
+It is important to stress that these diseases generally affect all salivary tissues, whether accessory salivary glands or main salivary glands. The decision to perform a biopsy of the accessory salivary glands is based on the fact that this procedure is much simpler than a biopsy of a main salivary gland.
+
+Several histological criteria are assessed during pathological analysis:
+
+- Chisholm score: this reflects the focal lymphoplasmacytic infiltrate:
+
+o Score 0: no infiltrate
+
+o Score 1: slight infiltrate without focus
+
+o Score 2: average infiltrate with less than one focus per 4 mm².
+
+o Score 3: one focus per 4 mm².
+
+o Score 4: more than 1 focus per 4 mm².
+
+A score of 2 is compatible with Gougerot-Sjögren's disease and scores of 3 and 4 are highly suggestive of the diagnosis. The presence of a dry syndrome and anti-SSA and anti-SSB antibodies considerably increases the likelihood of a positive biopsy.
+
+- Search for amyloid deposits (suggest amyloidosis).
+
+- Existence of inflammatory tuberculoid granuloma (suggestive of sarcoidosis). It should be noted that in this indication, the presence of epithelioid granuloma without caseous necrosis does not rule out genuine tuberculosis when the clinical picture suggests both sarcoidosis and tuberculosis.
+
+Biopsy results are very good, with a positive predictive value of >95% in cases of strong suspicion of Gougerot-Sjögren's disease and in cases of suspected sarcoidosis.
+
+The sensitivity of BGSA is 80% for the diagnosis of amyloidosis, and between 20 and 60% for systemic sarcoidosis (30% of neurosarcoidosis).

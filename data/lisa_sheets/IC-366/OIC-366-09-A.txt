@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-366-09-A
+|Item_parent=Accidental exposure to biological fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=A
+|Title=Knowing the main factors in preventing an AES in a healthcare setting
+|Description=None
+|Topic=Management
+|Contributors=Docteur Lefèvre Benjamin
+|Order=9}}
+'''Education of care staff during their studies and careers:'''
+
+- Wear protective gear when performing high-risk tasks: gloves and goggles
+
+- Do not recap needles
+
+- Immediately dispose of sharps in a suitable container
+
+
+'''Availability:'''
+
+- Secure equipment
+
+- Instructions in the event of an HAI

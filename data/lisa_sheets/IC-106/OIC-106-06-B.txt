@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-106-06-B
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=B
+|Title=State the manifestations of the motor decline phase
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+These declines are not or only slightly sensitive to dopaminergic treatments.
+
+a.    Axial motor signs
+
+* Dysarthria (and dysphagia), hypersialorrhoea due to reduced spontaneous swallowing with risk of false routes and pneumopathy ([[Swallowing disorders or false routes SD-062|swallowing disorders or false routes]]).
+* Gait disorders with risk of forward falls ([[Onset of difficulty in walking SD-066|Onset of difficulty in walking]], [[Fall in the elderly SD-027|Fall in the elderly]]).
+
+- freezing: the feet remain "glued to the ground" at the start of the walk or when turning around;
+
+- festination: a sudden, uncontrollable burst of speed.
+
+* Postural disorders: triple flexion, camptocormia (forward flexion of the trunk), Pisa syndrome (lateral flexion of the trunk) ([[Spinal deformity SD-065|spinal deformity]]).
+* Postural balance disorders with backward falls ([[Balance disorders SD-130|balance disorders]], [[Elderly fall SD-027|elderly fall]]).
+
+b.    Cognitive and behavioural disorders
+
+* Dysexecutive syndrome, progressing to dementia (30% of patients, 80% after 15 to 20 years) ([[Attention disorders SD-129|attention disorders]], [[Memory disorders/cognitive decline SD-131|memory disorders/cognitive decline]]).
+* Dopaminergic treatment may cause hallucinations ([[Hallucinations SD-122|hallucinations]]) or even full-blown delirium (particularly paranoid) ([[Delusional ideas SD-124|delusional ideas]]). The onset of these disorders may indicate that the disease is progressing towards dementia ([[Mental confusion/disorientation SD-119|mental confusion/disorientation]]).
+
+c.    Dysautonomic disorders
+
+* They become more pronounced over time, and may include : constipation ([[Constipation SD-001|constipation]]), orthostatic arterial hypotension ([[Discovery of arterial hypotension SD-043|discovery of hypotension]], [[Malaise/loss of consciousness SD-050|malaise/loss of consciousness]]), vesico-sphincter disorders (urgency of micturition) ([[Anomaly of micturition SD-023|anomalies of micturition]], [[Sexual disorders and erectile dysfunction SD-063|sexual disorders and erectile dysfunction]]).

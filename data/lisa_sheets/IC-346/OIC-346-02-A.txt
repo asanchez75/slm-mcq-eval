@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-346-02-A
+|Item_parent=Convulsions in infants and children
+|Item_parent_short=Convulsions in infants and children
+|Rank=A
+|Title=Know the definition of a simple hyperthermic seizure and a complex seizure
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+- '''Simple febrile seizure if all of the following are present'''
+
+o Age between 1 and 5 years
+
+o Duration < 15 minutes
+
+o A single seizure during the febrile episode
+
+o Generalised crisis
+
+o No post-critical deficit
+
+o Children with no neurological history
+
+o Normal neurological examination
+
+'''- Complex febrile crisis if only one of the following elements is present'''
+
+o Age < 1 year
+
+o Duration > 15 minutes
+
+o Seizures recurring during the febrile episode
+
+o Focal seizure
+
+o Presence of a post-critical deficit
+
+o Children with a neurological history
+
+o Abnormal neurological examination

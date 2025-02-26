@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-027-28-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Knowing how to prevent antierythrocytic alloimmunisation during pregnancy
+|Description=Know the risk situations and prevention methods
+|Heading=Follow-up and/or prognosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=28}}
+Anti-D (Rh1) alloimmunisation can only be prevented by medication. In RhD- patients whose foetus is Rh-positive (foetal RhD genotyping on maternal blood) or presumed to be Rh-positive (RhD+ or unknown spouse), this is based on the injection of specific (anti-D) immunoglobulins (Rhophylac®).  
+
+The patient may become alloimmunised during pregnancy in the event of foetomaternal haemorrhage (passage of "incompatible" foetal red blood cells into the maternal circulation). The circumstances at risk are as follows:
+
+- Postmenstrual bleeding
+
+- Spontaneous miscarriage
+
+- Voluntary termination of pregnancy
+
+- Ectopic pregnancy
+
+- Ovarian samples (amniocentesis, trophoblast biopsy, foetal blood sampling)
+
+- Abdominal trauma
+
+- External control version
+
+- Childbirth
+
+Prevention is targeted at situations at risk of foetomaternal haemorrhage (listed above) and must be carried out within 72 hours. From the 2nd</sup> trimester onwards, the dose to be injected is calculated using a test to quantify foetomaternal haemorrhage (Kleihauer test, which looks for foetal red blood cells in maternal blood).
+
+In the presence of "silent" foetomaternal haemorrhage, it is currently recommended that a systematic injection of 300 μg of anti-D Ig should be given at the beginning of the 3rd<sup>trimester</sup> of pregnancy (systematic prevention at 28 days' gestation); after the injection of anti-D, the IAT will become transiently positive.
+
+An IAT must be carried out before any immunoglobulin injection (negative IAT less than one week old) to check that the patient is not already immune.
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''

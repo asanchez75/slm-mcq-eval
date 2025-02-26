@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-162-24-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Knowing the clinical signs of late syphilis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=24}}
+Late latent syphilis is defined by the absence of clinical signs and the discovery of a positive serology test with a presumed contact date of more than one year.
+
+The clinical forms of tertiary syphilis are :
+
+o Gummy syphilis
+
+o Bone syphilis
+
+o Cardiovascular syphilis (aortitis, coronary stenosis, etc.)
+
+o Tertiary neurosyphilis
+
+o Tobacco

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-209-09-B
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=B
+|Title=Knowing the epidemiology of COPD
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=9}}
+- 5 to 10% of adults over the age of 45
+
+- Serious illnesses with high morbidity and mortality (absenteeism, disability, death)

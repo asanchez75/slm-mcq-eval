@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-245-13-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the essential basics of therapeutic education for the chronic adrenal insufficiency patient
+|Description=None
+|Rubric=Management
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=13}}
+Therapeutic education concerns the patient and those around him ([[Explaining a treatment to the patient (adult/child/adolescent) SD-352]])
+
+1. Know your treatment and associated measures :
+
+*treatment for life (+++) - or until proof of recovery of the pituitary-adrenal axis in the case of curable or reversible causes.
+*it includes :
+**a glucocorticoid: hydrocortisone (Hydrocortisone Roussel® 10 mg) usually given in 2 or 3 doses in primary adrenal insufficiency (see Figure 2)
+**a mineralocorticoid: fludrocortisone (Flucortac®). Not necessary in corticotropic insufficiency.
+*normosodium diet (this is a replacement treatment, not a corticosteroid treatment);
+*laxatives and diuretics should be avoided;
+
+2. Carry with you :
+
+*an adrenal insufficiency card with emergency recommendations;
+*hydrocortisone tablets and, in the case of mineralocorticoid deficiency, fludrocortisone tablets;
+*a box of injectable hydrocortisone and injection equipment;
+
+3. Prevent adrenal decompensation*.
+
+*know how to identify risk situations and symptoms of incipient acute adrenal insufficiency;
+*know how to adapt oral glucocorticoid treatment;
+*know how to administer hydrocortisone subcutaneously;
+*know how to adapt treatment to specific situations: heat, physical exercise, travel, etc;
+*use the resources of the healthcare system appropriately.
+
+<nowiki>*</nowiki>Cf. chapters "Knowing the principles of prevention of acute adrenal insufficiency" and "Knowing the principles of pharmacological adaptation of acute adrenal insufficiency in the event of stress."
+<br />
+[[File:Figure fiche IS LISA.jpg|vignette|Distribution with two or three doses per day, the highest dose being given in the morning, the next in the early afternoon (two doses), or the following at midday and in the afternoon (three doses) ]]
+<br />

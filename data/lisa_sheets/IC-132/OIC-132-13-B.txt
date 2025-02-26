@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-132-13-B
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=B
+|Title=Know the pathophysiological elements of Alzheimer's disease.
+|Description=Know the main pathophysiological features of Alzheimer's disease.
+|Rubric=Physiopathology
+|Contributors=
+|Order=13}}
+
+The brain lesions of Alzheimer's disease are characterised by the presence of :
+
+- Amyloid plaques (extracellular lesions composed of deposits of amyloid Aβ peptides resulting from abnormal cleavage of the amyloid precursor protein or APP)
+
+- Neurofibrillary degeneration (intracellular lesions composed of hyperphosphorylated tau (tubulin associated unit) protein; this hyperphosphorylation disrupts the functioning of microtubules and therefore intra-neuronal transport).
+
+- Activation of neuroinflammation
+
+- And ultimately neuronal loss.
+
+In people aged over 75, lesions from different pathologies frequently co-exist (e.g. lesions characteristic of Alzheimer's disease and diffuse or lacunar ischaemic vascular lesions, microhaemorrhages).

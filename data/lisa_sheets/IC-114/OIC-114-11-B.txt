@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-114-11-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Know the three causes of exanthema to be systematically evoked in adults.
+|Description=HIV, syphilis, drugs
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+The three causes of exanthema to be systematically evoked in adults are:
+
+- HIV infection
+
+- syphilis
+
+- drug-induced

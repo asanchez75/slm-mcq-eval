@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-173-08-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the elements of the clinical and biological diagnosis of Lyme disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Carole Eldin
+|Order=8}}
+Clinical signs vary according to the stage of the disease.
+[[File:Erythememigrant.png|vignette|Erytheme migrant]]
+'''In the early localised phase''', '''the diagnosis of erythema migrans is clinical and pathognomonic''', appearing 3 to 30 days after the bite:
+
+*Erythematous macule centred on the tick bite site (inconsistent).
+*Extended by an active centrifugal erythematous annular border with a lighter centre.
+*Classically painless and not pruritic.
+*The threshold of at least 5 cm in diameter contributes to the specificity of the clinical diagnosis.
+*Spontaneous disappearance in 3 to 4 weeks.
+
+'''Early and late disseminated phases''' may cause neurological manifestations (facial paralysis <ref>[[2C-101-ET-A01]]</ref>, meningo-radiculoneuritis), articular (Lyme arthritis), dermatological and more rarely ocular or cardiac. At this stage the diagnosis is based on :
+
+*A compatible epidemiological context
+*Compatible clinical signs
+*Serological diagnosis is a 2-stage indirect diagnosis designed to combine sensitivity and specificity.  It is based on a sensitive serological test (ELISA) which must be confirmed by a specific test (Western Blot).
+*The [[Interpretation of a SD-236 serology result|Lyme serology]] is considered '''positive only if these 2 tests are positive.'''
+*Serology (ELISA and Western blot) cannot distinguish between an active infection and a serological scar, which explains the importance of the presence of clinical signs.

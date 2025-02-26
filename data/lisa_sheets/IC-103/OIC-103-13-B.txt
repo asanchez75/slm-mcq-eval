@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-103-13-B
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=B
+|Title=Knowing the principles of symptomatic treatment of vertiginous attacks
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=13}}
+'''''Symptomatic treatment'''''
+
+Bed rest in the acute phase
+
+Drug treatment: anti-emetics, antivertigo drugs (mildly sedating minor: acetyl-leucine) +/- [[Prescribe general or local corticosteroids SD-251|corticosteroids]]
+
+Hospitalization and [[Prescription and monitoring of a vascular approach SD-271|intravenous route]] in case of [[Vomiting SD-013|vomiting]]
+
+Treatment should be as short as possible, particularly in cases of vertigo caused by unilateral vestibular destruction, where early resumption of walking with the withdrawal of antivertiginous medication promotes rapid central compensation.

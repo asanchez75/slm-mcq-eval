@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-009-24-B
+|Item_parent=Introduction to medical ethics
+|Item_parent_short=Introduction to medical ethics
+|Rank=B
+|Title=Donation and removal of organs from deceased persons
+|Description=Know the legal provisions governing organ donation and removal from deceased persons.
+ Know the definition of encephalic death and how it is diagnosed.
+|Rubric=Management
+|Contributors=Guillaume Grandazzi, Mylène Gouriot, Grégoire Moutel
+|Order=24}}
+
+
+'''Diagnosis of death prior to removal from a deceased person'''
+
+The definition of death "is only" the result of a social agreement (which varies over time). For a long time, death was recognised through the inanimate or cold corpse. Then came the notion of death due to cardiac arrest and then encephalic death.
+
+In 1959, Mollaret and Goulon defined this new definition of death as encephalic death, but it was not officially recognised until 1968 in the circular legalising the removal of organs from a subject in a state of encephalic death (the so-called Jeanneney circular).
+
+It can therefore be said that today there are two ways of being dead, as stated in "Decree no. 96-1041 of 2 December 1996 on the determination of death prior to the removal of organs, tissues and cells for therapeutic or scientific purposes and amending the Public Health Code".)
+
+# Patient in cardiac arrest (clinical criteria) :
+#* Absence of consciousness and spontaneous motor activity with no response to stimulation;
+#* Abolition of all brain stem reflexes;
+#* Absence of spontaneous ventilation;
+#* In this case samples must be taken rapidly.
+# Patient in a state of encephalic death:
+#* No spontaneous ventilation in hypercapnia test;
+#* Two EEGs with no detectable activity 4 hours apart, each recorded for at least 30 minutes and/or cerebral angiography showing the absence of effective circulation;
+#* In these cases, sampling may be deferred and the dead body maintained in a circulatory and ventilatory state in order to preserve the quality of the organs. This condition is an important source of organs, both quantitatively and qualitatively, in the context of a donation policy.
+
+In this context, it is important to be familiar with the Maastricht classification and the questions it raises:
+
+* people in circulatory arrest, declared dead on admission (Maastricht category I);
+* people in circulatory arrest with effective cardiac massage and mechanical ventilation, but without recovery of circulatory activity (Maastricht category II);
+* people for whom a decision has been taken to limit or stop treatment because of the prognosis of the pathologies that led to their admission to intensive care (Maastricht category III);
+* people who have died of brain death and suffered irreversible circulatory arrest during intensive care (Maastricht category IV).
+
+Encephalic death is little known to the general public; it conveys complex emotional representations for relatives because the body is ventilated and moving. In addition, the general public fears that the body will be removed when there is still a chance of life. So we need to be very clear with family and friends and establish death as a real, irreversible state. We need to listen, explain and support them. There is a strong need for educational clarification on two levels on this subject: firstly, prior to any death, for all citizens and the general public, and secondly, at the time of death, for the next of kin.
+
+
+'''A special case: organ donation and the medico-legal obstacle'''
+
+* If there is a "medico-legal obstacle" at the time of death... this is not an obstacle or a prohibition on organ removal.
+* BUT :
+** Agreement of the Public Prosecutor+++ (role of the forensic pathologist+++) / The donation process can sometimes be compatible with the medical-legal process.
+** The removal(s) with a view to donation must not involve areas or organs necessary for the expert assessment of the autopsy.
+** The question of proof and justice takes precedence over the logic of donation.

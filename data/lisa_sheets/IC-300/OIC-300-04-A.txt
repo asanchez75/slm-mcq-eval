@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-300-04-A
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=A
+|Intitulé=Prévention : connaître l'intérêt de la vaccination
+|Description=To understand the benefits of vaccination against HPV infection, including an assessment of the benefit-risk ratio, as well as the procedures involved in this preventive approach, and to have an idea of vaccination coverage in France.
+|Rubric=Epidemiology
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=4}}
+
+Persistent infection of the cervical mucosa with oncogenic HPV is a necessary condition for the development of cervical cancer and its precancerous lesions.
+
+When used under optimal conditions, the vaccines currently available are highly effective in preventing persistent infection and intraepithelial lesions linked to the HPV types targeted by the vaccines (genotypes 6, 11, 16 and 18). Prophylactic vaccination of adults and children (SD-322) aims to prevent infection by inducing neutralising antibodies against certain strains of the HPV virus. In France, it is recommended for young girls and boys aged between 11 and 14, in the form of 2 doses of Gardasil 9 ® administered 6 months apart. As part of the catch-up vaccination programme, vaccination is recommended between the ages of 15 and 19.
+
+Vaccinations for adults and children SD-322|vaccination]]'' against HPV infections does not replace screening for precancerous and cancerous lesions of the cervix by cervico-uterine smear tests, including in vaccinated women, but reinforces preventive measures. Screening remains essential in vaccinated patients because of the risk of cervical cancer linked to HPV types not targeted by vaccination or to infection pre-existing vaccination.
+
+In France, the latest figures from Santé publique France put vaccination coverage with a full schedule at 27.9%.

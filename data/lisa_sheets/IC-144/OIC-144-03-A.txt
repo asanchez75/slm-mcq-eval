@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-144-03-A
+|Item_parent=Normal and pathological bereavement
+|Item_parent_short=Normal and pathological bereavement
+|Rank=A
+|Title=Knowing the principles of normal and pathological bereavement management
+|Description=None
+|Rubric=Management
+|Contributors=Marie Tournier
+|Order=3}}
+
+== Normal bereavement
+It is necessary to accompany the bereaved. The principles of medical consultation are :
+
+* Empathetic listening
+* Do not medicalise normal bereavement, but carefully rule out persistent complex bereavement beforehand.
+* Rule out a major depressive episode or other psychiatric disorder
+* Assess the [[Suicidal ideation or behaviour/self-harm SD-125|suicidal risk]]
+* To provide information on the normal grieving process, particularly the reorganisation phase.
+* Inform them of the benefits of sharing their grief (close social network, support associations).
+* Supportive psychotherapy
+* Do not prescribe antidepressants
+* Prescribe a hypnotic/anxiolytic SD-256|Anxiolytic or hypnotic treatments]] often ineffective for sleep disturbance in this context.
+* Set up monitoring to support and assess the different phases of bereavement and the internal and external resources for managing stress and loss.
+
+<br />
+
+== Persistent complex grief ==
+
+* Carrying out a full clinical examination (particularly cardiovascular)
+* Cognitive and behavioural psychotherapy (CBT) (see item 70)
+
+== Characteristic depressive episode
+
+* Management identical to that for a major depressive episode occurring in another context.
+* Systematic assessment of the [[Patient at risk of suicide SD-309|risque suicidaire]]
+
+<br />
+
+== Other psychiatric disorders
+
+* Management identical to a disorder occurring in another context (see corresponding items)
+* Systematic assessment of the [[Patient at risk of suicide SD-309|risque suicidaire]]
+
+<br />

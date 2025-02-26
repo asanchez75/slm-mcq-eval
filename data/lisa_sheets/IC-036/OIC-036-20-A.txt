@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-036-20-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Know the different methods of female and male sterilisation and the existence of legislation.
+|Description=None
+|Rubric=Definition
+|Contributors=Geneviève Plu-Bureau
+|Order=20}}
+In women: laparoscopic method using a tubal clip or ring, and/or tubal ligation section.
+
+In men: bilateral vasectomy: ligation and surgical section of the vas deferens. Vasectomy is considered to be sterilisation and is considered irreversible.
+{| class="wikitable"
+|'''Législation''' : ''Loi N° 2001-588 du 4 Juillet 2001- art 26 JORF 7 juillet 2001 Article L1111-4code de la SantéPublique, Modifié par Loi n° 2005-370 du 22 avril 2005- art3 JORF 23 avril 2005 rectificatif JORF 20 mai 2005''
+|-
+|
+*Women of full age and men of full age
+*1<sup>rst</sup> consultation
+**reasoned request
+**the doctor will provide information on the various techniques available
+**a written information file must be completed and a medical consultation certificate issued
+*4-month mandatory reflection period
+*2nd consultation prior to the operation: written confirmation of informed consent.
+*If the patient is under guardianship: the decision is submitted to the guardianship judge after hearing the legal representative.
+*Place of operation: health establishment (hospital or clinic).
+|}
+Before the vasectomy, the patient must be informed that it is possible to cryopreserve his sperm at the CECOS.
+
+After a vasectomy, the man's sperm may be fertile for 3 months. The patient must be informed of this. A spermogram at 3 months can confirm the absence of sperm in his semen.

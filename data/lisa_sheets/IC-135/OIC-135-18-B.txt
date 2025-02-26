@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-135-18-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=Knowing the mechanisms of the placebo effect in pain
+|Description=Knowing the mechanisms of the placebo effect in pain and its possible use.
+|Rubric=Management
+|Contributors=
+|Order=18}}
+
+
+== Definitions ==
+- '''A placebo treatment is a treatment with no pharmacological effect of its own, whatever its form,'''
+
+- '''The placebo effect represents the effect attributable to the administration of a placebo treatment, and is present in any therapeutic action, whether medicinal or otherwise.'''
+
+- The placebo effect is defined as the positive difference between the overall effect observed and the therapeutic effect linked to the pharmacological properties of the treatment.
+
+- '''The nocebo effect is the negative component of the placebo effect.'''
+
+The intensity and quality of a placebo treatment depend on :
+
+- the effect of the active treatment it is intended to replace.
+
+- the patient's expectations (beliefs, search for effective treatment) and conditioning
+
+- the conviction of the carers, the therapeutic relationship based on trust
+
+- product presentation, frequency and route of administration, price, etc.
+<br />
+
+== Use of the placebo in medical practice
+- The placebo effect is present in all acts of care and therapy.
+
+- While the placebo effect is an integral part of medical practice, the use of a placebo treatment in routine care should be avoided. The administration of a placebo requires that the information given to the patient concerning the nature of the treatment be deliberately distorted. This requirement contradicts the principle of informed consent, enshrined in law, which presupposes accurate and complete information about: 1) the disease and its prognosis, 2) the therapeutic properties of the various alternative treatments that may be offered, and 3) the known adverse effects to which they may give rise.
+
+- The usefulness of the placebo can be summed up as follows: "Yes to the placebo effect, no to the placebo".
+<br />
+
+== Use of a placebo in clinical research
+- The use of placebo has been an essential element in clinical research since 1945. This mainly concerns phase III trials. In these comparative trials used to evaluate the effect of an active treatment, the presence of a control group provides a reference for the natural course of the disease. If this control group receives a placebo of the active treatment, we have a reference group 1) for the course of the disease and 2) for a placebo/nocebo effect similar to that of the active treatment. In a well-conducted phase III trial, the difference in health status between the treatment groups will therefore be attributable solely to the effect of the active treatment.
+
+- However, the use of a placebo is only ethically conceivable in the absence of a reference treatment in the indication. When the use of a placebo is planned for a clinical research study, patients must be informed of the possibility of being included in a placebo group in the information note which must be given to them and explained before they sign the informed consent form.
+
+
+
+<br />

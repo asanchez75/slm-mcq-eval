@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-304-11-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=Know the principles of the management of the main benign and malignant tumours of the liver
+|Description=Tumours of the bile ducts
+|Rubric=Management
+|Contributors=
+|Order=11}}
+'''''Benign liver tumours'''''
+
+Benign haemangioma - no monitoring and no treatment.
+
+Focal nodular hyperplasia - No treatment or monitoring.
+
+Hepatocellular adenoma - The management of hepatocellular adenomas involves discontinuation of oestrogen contraception, and surveillance or excision procedures to be discussed in a specialist environment.
+
+'''''Hepatic malignancies'''''
+
+- Liver metastases - The prognosis and treatment strategy will depend on the nature of the primary cancer. In the case of primary digestive cancer, the treatments proposed will most often be palliative, but in a few situations, surgical resection of the liver with curative intent may be proposed, particularly in the case of liver metastases from colorectal cancer. The therapeutic strategy must always be validated in a specialist environment.
+
+
+- Hepatocellular carcinoma - The treatment strategy will depend on the extent of the cancer (local and distant) and the severity of liver dysfunction and portal hypertension.
+
+The curative treatments are :
+
+- percutaneous removal of the tumour
+
+- surgical resection
+
+- liver transplantation (with the advantage of treating cancer and associated chronic liver disease)
+
+Palliative treatments are :
+
+- hepatic arterial chemoembolisation
+
+- targeted anti-cancer therapies (anti-angiogenic)
+
+- immunotherapy
+
+- comfort care
+
+
+
+The indications for these treatments will be discussed at the multidisciplinary consultation meeting<s>.</s>.
+
+
+- Cholangiocarcinoma - The only curative treatment is surgical resection whenever possible. Palliative treatment is usually based on chemotherapy.

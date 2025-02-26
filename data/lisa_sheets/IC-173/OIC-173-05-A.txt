@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-173-05-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Cat scratch disease: how to diagnose the disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Carole Eldin
+|Order=5}}
+Clinical diagnosis:
+
+-The disease is more common in children and young adults. It should be suspected in the presence of [[Single or multiple adenopathies SD-016|adenopathies]] limited to a single site (usually cervical or axillary) in the drainage territory of an inoculation lesion (bite or scratch) found in 50% of cases. Adenopathies are firm, tender and inflammatory, with the possibility of fistulisation. General signs are discreet. Questioning should look for any history of [[Bites and stings SD-169|scratch or bite]] or contact with cats (kittens+++) in the previous 2 to 3 weeks (average incubation period).
+
+Biological diagnosis:
+
+Serology (''Bartonella henselae'') is the first-line test. It has a low sensitivity, so a negative result does not rule out the diagnosis.
+
+-A specific PCR on lymph node exeresis can be carried out in cases of diagnostic doubt.

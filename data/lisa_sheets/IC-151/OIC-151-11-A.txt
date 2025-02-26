@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-151-11-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Know the indication and objectives of imaging examinations for suspected meningitis, encephalitis or abscess.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Dr Olivier Robineau
+|Order=11}}
+A CT scan is the first-line examination to be carried out if there is a clinical neurological contraindication to lumbar puncture:
+
+- Focus sign
+
+- Persistent convulsive seizure
+
+- Glasgow<12
+
+- Signs of cerebral involvement
+
+It eliminates complications (abscess, empyema) and differential diagnoses (thrombophlebitis, subdural effusion, haemorrhage, tumour, stroke).
+
+Cerebral MRI is the key imaging test in cases of suspected cerebral abscess or meningoencephalitis. If herpes encephalitis is suspected, the imaging test should not delay the start of treatment with intravenous aciclovir.

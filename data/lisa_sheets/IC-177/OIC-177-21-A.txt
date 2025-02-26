@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-177-21-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Heading=Know the definition and main antibiotics with a high resistance-generating risk
+|Description=None
+|Section=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=21}}
+
+Some antibiotics are particularly prone to bacterial resistance
+
+- combination of amoxicillin and clavulanic acid
+
+- cephalosporins: greater concern for products administered orally than by injection; greater concern for third- and fourth-generation cephalosporins, and for the "other cephalosporins" category; concern for ceftriaxone
+
+- fluoroquinolones
+
+- temocillin

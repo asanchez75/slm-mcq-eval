@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-162-37-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Photograph of a condyloma
+|Description=Photography of a condyloma
+|Rubric=Multimedia content
+|Contributors=
+|Order=37}}
+<gallery>
+File:Condyloma LISA.jpg|Condylomata acuminata on the labia majora
+</gallery>

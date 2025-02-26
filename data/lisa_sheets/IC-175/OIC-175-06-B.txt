@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-175-06-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Knowing the indications for hepatitis A serology in a patient at risk of previous exposure.
+|Description=Adult
+|Rubric=Positive diagnosis
+|Contributors=Laurence MORAND-JOUBERT ; Alexandre DUVIGNAUD
+|Order=6}}
+
+The diagnosis of hepatitis A is based on the detection of IgM antibodies, which are present from the icteric phase and disappear 8 to 12 weeks later. IgG antibodies persist and indicate immunity acquired for life, either after an infection (immunising disease) or after vaccination.
+
+IgG or total antibody testing is recommended before vaccination in people with a significant risk of previous exposure to the hepatitis A virus: people born before 1945, people who have lived in endemic areas, people with a history of jaundice.

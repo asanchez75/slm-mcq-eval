@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-044-13-B
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=B
+|Title=Defining the different compartments of prolapse
+|Description=Cystocele, hysterocele or uterine prolapse, rectocele, elytrocele
+|Rubric=Definition
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=13}}
+
+Genital prolapse (Prolapsus) is a herniation of the pelvic organs through the vagina.
+
+It may concern :
+
+- Anterior compartment: the bladder (cystocele)
+
+- Middle compartment: the uterus (hysteroptosis)
+
+- Posterior compartment: the recto-uterine (Douglas) cul-de-sac (elytrocele) and the rectum (rectocele).

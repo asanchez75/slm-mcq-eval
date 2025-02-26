@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-273-02-A
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=A
+|Title=Knowing the two types of dysphagia
+|Description=Oropharyngeal dysphagia vs oesophageal dysphagia
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Depending on the site of the dysphagia, a distinction is made between :
+
+- Cervico-pharyngeal dysphagia (or upper dysphagia; often of neurological or ENT origin)
+
+- Esophageal dysphagia)
+
+Dysphagia can be differentiated according to its mechanism:
+
+- Lesional dysphagia (linked to an organic oesophageal or extrinsic lesion)
+
+- Functional dysphagia, with no lesion identified (anomalies in the propulsive dynamics of the alimentary bolus)
+
+This classification is used to classify causes rather than to characterise dysphagia in clinical practice.

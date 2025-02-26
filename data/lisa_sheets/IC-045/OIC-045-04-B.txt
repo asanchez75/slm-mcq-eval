@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-045-04-B
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=B
+|Title=Know how to carry out a foetal karyotype.
+|Description=How a foetal karyotype is performed
+|Rubric=Positive diagnosis
+|Contributors=Elise Launay,Damien Sanlaville,Marie-Bérengère Troadec
+|Order=4}}
+
+The foetal karyotype is performed on a sample of :
+
+- chorionic villus (CVS) between 12 and 14 weeks of amenorrhoea
+
+- Amniotic fluid (PLA) between 15 weeks of amenorrhoea and the end of pregnancy
+
+- Exceptionally on foetal blood after 24 weeks of amenorrhoea
+
+The risks are :
+
+- Risk of foeto-placental discordance (of the order of 1-2%) for PVCs;
+
+- Risk of crop failure ;
+
+- Risk of infection following sampling ;
+
+- Risk of miscarriage estimated at 0.5% following PVC and 0.2% following PLA;
+
+- Risk of foetomaternal Rh(D) alloimmunisation in Rh(D) women. Prophylaxis by injection of anti-D immunoglobulins should be considered;
+
+- Risk of bradycardia following puncture of foetal blood.
+
+Time taken to obtain results :
+
+- The PVC allows a response within 2-3 days on direct examination, and 2-3 weeks for the definitive culture result.
+
+- Karyotype results from amniocentesis take 2 to 3 weeks. However, it is possible to perform a faster technique (24-48 hours) by using Fluorescence In Situ Hybridization (FISH) with a probe specific for chromosomes 13, 18, 21, X and Y on interphase nuclei. This technique should be used to obtain a rapid result in the event of an ultrasound anomaly suggestive of foetal aneuploidy.
+
+Regulations: The sample must be accompanied by a signed medical prescription, documents enabling the indication to be determined and any costs to be covered by the health insurance scheme (prior agreement), consent signed by the patient (after she has been given appropriate information) and the genetic counselling certificate signed by the prescribing doctor.

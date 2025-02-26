@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-250-04-A
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=A
+|Title=Knowing the consequences of undernutrition
+|Description=None
+|Rubric=Pronosis
+|Contributors=
+|Order=4}}
+
+[[File:Consequences of undernutrition.pdf|vignette]]

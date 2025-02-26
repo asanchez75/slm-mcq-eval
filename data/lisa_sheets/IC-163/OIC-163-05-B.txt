@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-163-05-B
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=B
+|Title=Knowing the procedures for microbiological diagnosis
+|Description=Know how to order a PCR in nasopharyngeal secretion fluids
+|Heading=Additional tests
+|Contributors=André Birgy
+|Order=5}}
+
+Any clinical suspicion of pertussis requires confirmation, and this is mandatory if a person at risk has been exposed.
+
+It must be ''biological'' (if the sample can be taken in time) or ''epidemiological'' (confirmed case in close contacts).
+
+'''Indications for sampling''' :
+
+* A patient who has been symptomatic for less than 21 days
+* Or a contact individual of an index case who has been symptomatic for more than 21 days.
+
+'''Prélèvement''' :
+
+* The best specimen for diagnosing pertussis is a nasopharyngeal aspirate. If there are no secretions on aspiration, a nasopharyngeal swab can be taken.
+* Or collection of cough mucus
+
+'''Identification methods''' :
+
+* PCR is the method of choice for diagnosing pertussis = Bordetella PCR (good sensitivity and specificity).
+* A possible alternative is culture on specific media (Bordet-Gentou or Regan Lowe). '''Culture is delicate''' because of the fragility and nutritional requirements of ''B. pertussis''. Its sensitivity does not exceed 60% in the catarrhal phase and 10% in the coughing phase.
+
+Serology has no place in the diagnosis of pertussis.  

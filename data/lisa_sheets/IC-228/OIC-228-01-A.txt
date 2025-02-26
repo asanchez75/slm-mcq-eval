@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-228-01-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Know the definition of a leg ulcer
+|Description=None
+|Rubric=Definition
+|Contributors=Simon, Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=1}}
+
+Leg ulcers
+
+- chronic loss of dermal substance that has been evolving for more than one month ([[Cutaneous ulcer SD-092|cutaneous ulcer]]; [[Wound SD-170|wound]]).
+
+- prevalence increases with age: 1% after 60, 5% after 80.
+
+- most often of vascular origin: venous, microcirculatory or arterial.
+
+- Ulcer treatment is first and foremost aetiological and not just local.

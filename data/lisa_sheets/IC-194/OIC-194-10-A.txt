@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-194-10-A
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=A
+|Title=Knowing the value and interpretation of the anti-nuclear antibody (ANA) screening test
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+
+
+=='''AAN = orientation test'''==
+'''Presence of antinuclear antibodies (ANA)'''' '''constant during LS.''''
+
+'''D'''epistage by indirect immunofluorescence on Hep2 cells ('''positivity threshold: titre ≥ 1/160''').
+
+''Non-specific for LS'': may be present in other autoimmune diseases, in healthy subjects in particular if they are elderly.
+
+
+N.B.: The classification criteria for LS (which are not diagnostic criteria, but are used in clinical studies to exclude patients without LS), set the threshold of the AAN titre <1/80 to exclude the diagnosis of LS (and not 1/160), in association with other clinical and biological criteria.
+<br />
+
+==Identification of the NAA target ==
+
+* anti-native DNA antibodies, highly suggestive of LS
+* antibodies specific for soluble nuclear antigens (''extractable nuclear antigen,'' ENA) or calf thymus extract (''thymus cell extract,'' ECT). These include anti-SSA and anti-SSB antibodies (Sjögren's syndrome, LS); anti-Sm is highly specific for LS but less sensitive (30%).

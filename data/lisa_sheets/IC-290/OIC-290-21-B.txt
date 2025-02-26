@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-290-21-B
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=B
+|Title=Know the main types of oncogenic human papillomavirus (HPV)
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=21}}
+Cervical cancer is '''constantly attributable''' to infection by one or more '''human papillomaviruses (HPV)''' which are transmitted through sexual intercourse and human-to-human contact. HPV 16 and 18 are the most oncogenic and are found in around 75% of cervical and anal cancers. Conversely, HPV 6 and 11 are responsible for non-cancerous condylomas. The evolution of an oncogenic HPV infection is rare and slow: less than 0.3% of infections develop into cancer, as they are usually transient (8 to 18 months).

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-173-13-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing risk situations and the principles of management
+|Description=None
+|Rubric=Management
+|Contributors=Carole Eldin
+|Order=13}}
+The recognition of rabies risk situations in France is based on the following elements:
+
+*type of contact: bite, scratch, lick on injured skin or mucous membrane
+*by an animal capable of transmitting rabies: animal imported from a rabies enzootic zone, bite abroad by a traveller (rabies enzootic zone), bat (including in France: chiropteran rabies)
+*the victim's rabies vaccination status.
+
+France is free from rabies in non-flying land animals.
+
+Treatment is based on preventive treatment administered in an anti-rabies centre to which the patient must be referred.

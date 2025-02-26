@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-004-38-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the rules for preventing nosocomial pneumopathies
+|Description=Prevention measures for HCAIs; main risk factors
+|Rubric=Management
+|Contributors=
+|Order=38}}
+Ventilator-associated lung disease
+
+- Avoid ventilation by tracheal intubation whenever possible, preferring non-invasive ventilation and limiting its duration as much as possible
+
+- Prevention of micro-inhalation by ventilation in a semi-seated position, regular or continuous suctioning of secretions and regular mouth care,
+
+- Use antibacterial respirator filters
+
+- Carry out hand hygiene before treatment (bronchial aspirations, handling ventilator circuits, etc.)
+
+- Compliance with respirator maintenance and handling rules
+
+
+Non-acquired bacterial pneumonia under mechanical ventilation
+
+- Limiting decubitus and promoting mobility
+
+- Avoid unnecessary sedation
+
+- Do not feed a patient lying down
+
+- Oral hygiene (mouth care and dentures)
+
+- Preventing false routes (e.g. foods of the right consistency)
+
+Legionellosis
+
+- Ensure rigorous maintenance and regular purging of water points, particularly showers
+
+- Install a filter on water points used by immunocompromised patients (PN < 500 G/mm3 > 10 days, or immunocompromised due to treatment).
+
+Aspergillosis
+
+           Avoid exposing immunocompromised patients to dust by isolating work areas from care areas.

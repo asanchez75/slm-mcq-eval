@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-155-30-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Know the principles of treatment (adults and children): antibiotic therapy and complementary measures
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=30}}
+'''Localized or not very extensive impetigo:'''
+
+Local antibiotic therapy with mupirocin: 2 to 3 times a day for 5 days.
+
+'''Extensive or severe forms of impetigo:'''
+
+Oral antibiotic therapy for 7 days, without waiting for microbiological results (children: amoxicillin/clavulanic acid or cefadroxil or, if allergic to penicillins, josamycin).
+
+adult: pristinamycin or cefalexin)
+
+'''Associated measures'''
+
+Daily or twice-daily cleansing, with soap and water followed by careful rinsing. No application of local antiseptics, no local antibiotic therapy;
+
+Eviction from the community: if lesions cannot be covered with a dressing: 3 days' eviction after the start of treatment.

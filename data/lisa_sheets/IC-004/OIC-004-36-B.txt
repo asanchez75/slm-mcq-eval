@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-004-36-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the diagnostic criteria for a catheter-related infection
+|Description=Definition, diagnostic methods
+|Rubric=Definition
+|Contributors=
+|Order=36}}
+Catheter-related infections can be local or systemic (i.e. associated with bacteremia).
+
+
+Diagnostic criteria vary according to the type of catheter involved.
+
+
+For central venous catheters, the definition criteria are as follows:
+
+- local infection: presence of at least one clinical sign of infection at the site
+
+of insertion (erythema, induration, collection or presence of pus) and a swab.
+
+positive microbiology (catheter or insertion site sampling) ;
+
+- systemic infection: presence of general signs of infection and/or a positive blood culture, and a sample enabling the infection to be linked to the catheter: either culture of the catheter tip (> 10<sup>3</sup> CFU/l), or culture of the insertion point, or differential blood cultures with a delay in positivity between the peripheral blood culture and that taken from the catheter.
+
+-
+
+In the event of documented bacteremia without culture of the CVC tip or with a negative culture, rapid regression of clinical signs after removal of the CVC makes it possible to link the bacteremia to the CVC.
+
+<br />In the absence of clinical signs of infection, a CVC end sampling > 103 CFU/l is considered to be colonisation of the CVC ans infection. A sample < 10<sup>3</sup> CFU/l is considered to be contaminated at the time of sampling.

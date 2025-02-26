@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-213-09-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short=Anemia in adults and children
+|Rank=A
+|Title=Knowing the different types of anaemia
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+See paragraph Aetiological approach
+[[File:ArbreAnemie.jpg|vignette]]

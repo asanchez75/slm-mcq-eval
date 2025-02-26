@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-064-10-A
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=A
+|Title=Knowing the characteristics suggestive of bipolar depression
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+
+
+* early onset (before the age of 25)
+* post-partum episode
+* sudden onset
+* at least 3 episodes of major depression
+* family history of mood disorder
+* inadequate response to antidepressants: lack of response, worsening, agitation, mood swings
+* melancholic intensity
+* seasonal depression
+* mixed characteristics

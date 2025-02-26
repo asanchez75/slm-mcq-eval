@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-053-03-B
+|Item_parent=Stunting of staturo-ponderal growth
+|Item_parent_short=Staturo-ponderal growth delay
+|Rank=B
+|Title=Know how to diagnose delayed weight in isolation or prior to statural delay.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Thomas Edouard
+|Order=3}}
+
+The main causes of predominantly delayed weight of gastroenterological and/or nutritional origin are dealt with in specific chapters.

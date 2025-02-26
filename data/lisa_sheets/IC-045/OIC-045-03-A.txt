@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-045-03-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Acknowledge the ethical issues involved in genetic counselling.
+|Description=consent, reproductive autonomy, right not to know, personal and family repercussions, social acceptability of illness and disability, eugenics
+|Rubric=Definition
+|Contributors=Elise Launay,Damien Sanlaville,Marie-Bérengère Troadec
+|Order=3}}
+
+Generally speaking, the ethical principles guiding doctors are :
+
+- respect for autonomy (informed consent, right to information, right not to know);
+
+- non-maleficence ('primum non nocere': 'first, do no harm');
+
+- caring: improving a person's well-being ;
+
+- justice: equal access to resources.
+
+Other principles may be taken into account, such as respect for human dignity, respect for integrity and the notion of vulnerability.
+
+Arbitrating between different principles when they conflict is at the heart of ethical reflection.
+
+To illustrate some of the ethical issues involved in genetic counselling, we take the case of screening for trisomy 21. The trisomy 21 screening policy proposed in France has led some to think of it as a eugenic policy. However, this screening is proposed rather than imposed, and at each stage of the process the patient is given information so that, on the one hand, she can decide not to continue with the screening procedure and, on the other, once the diagnosis has been made, she can choose to welcome a child with trisomy 21. The principle of patient autonomy is therefore preserved. In France, for a variety of reasons ranging from the material difficulties encountered by families (identification or accessibility of support adapted to the needs of the child and then the adult carrying trisomy 21) to societal pressure, around 90% of couples choose to request a medical termination of pregnancy.

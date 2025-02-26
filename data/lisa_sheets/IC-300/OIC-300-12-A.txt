@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-300-12-A
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=A
+|Title=Knowing the circumstances in which cancer of the uterine corpus is discovered
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=12}}
+
+==Clinical signs==
+- '''[[Abnormal genital bleeding (excluding known pregnancy) SD-112|Metrorrhagia]]'''' post-menopausal
+
+- ''[[Abnormal genital bleeding (excluding known pregnancy) SD-112|Menorrhagia]]''' (20-30%)
+
+- Hydrorhea
+
+- Pyorrhoea
+
+- Rarely: functional signs associated with bone, liver and lung metastases
+<br />
+
+==Fortuitous discovery==
+
+
+On hysterectomy specimen for presumed benign pathology of the uterus.
+
+Additional examination carried out for another pathology (ultrasound, MRI, CT scan, FDG-PET).
+
+An AGC smear may be indicative of endometrial cancer. Therefore, in women over the age of 45, in addition to colposcopic investigation, endo-uterine investigation is recommended (pelvic ultrasound and endometrial biopsy).
+
+<br />

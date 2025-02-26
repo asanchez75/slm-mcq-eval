@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-145-08-A
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=A
+|Title=Knowing the modes of transmission of infectious diseases (contact, droplets, air, environment)
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=8}}
+
+Infectious diseases are transmitted horizontally between two individuals in three ways (contact, droplets, air) or from the environment. Transmission may be direct: the infectious agent passes from the reservoir to the host without intermediary, or indirect: an inert or living vector is required between the reservoir and the host. Some infectious agents can be transmitted by several methods.
+
+Vertical transmission is the transmission of the infectious agent from mother to child.
+
+'''1- Direct horizontal transmission''' '''from one person to another''''
+
+*''''' By direct contact: ''''' through touching, kissing, sexual intercourse, breaking the skin, [[Accidental exposure to biological fluids: what to do|transfusion or exposure to blood or biological fluids]]. Transmission involves physical contact between the host and the source of the infectious agent. ''Special case:'' the hands of healthcare professionals are more often considered as intermediary ''vectors'' between two patients ''(this is referred to as indirect contact).                                                                                                                                                                                                                       NB: The term 'sexual transmission' is sometimes used to describe transmission by direct sexual contact. The terms 'faecal-oral transmission' describe transmission by indirect contact of a micro-organism between a faecal reservoir and an oral portal of entry.''
+
+*''''' Oral-tracheal-bronchial secretions (Pflügge droplets) are emitted when speaking, coughing, spitting, blowing the nose or sneezing. They carry micro-organisms which are deposited on the mucous membranes (nose, eyes, mouth) of the receptive individual. These droplets are larger than 5 µm in diameter and can be transmitted over short distances (~ 2 metres). Droplet transmission is frequently associated with contact transmission when the micro-organism is able to survive in the environment.
+
+*''''' Micro-organisms are transmitted by droplet nuclei (particles less than 5 µm in diameter) emitted by infected or colonised individuals. These airborne particles can remain in suspension for several hours and can be carried by air currents over long distances (several metres). This aerosol is then inhaled by the receptive host.
+
+'''2- Direct horizontal transmission from an animal to a person ([[Zoonoses|zoonosis]])'''
+
+*'''By direct contact''' '''when an animal bites, scratches or licks injured skin or mucous membranes'''.
+*Direct contact with or inhalation of aerosols of contaminated biological fluids or excrement.
+*By eating food of animal origin, particularly meat and dairy products.
+
+'''3- Indirect horizontal transmission between the reservoir and the host''' via an intermediary, on or in which the micro-organism can multiply or survive. This intermediary is either an inert vehicle or carrier, or a living vector.
+
+*'''''Vehicle or inert ''environmental'' medium
+**Food or water contaminated by biological fluids or excrement of human or animal origin (if the infectious agent is capable of surviving in the external environment).
+**Objects soiled or contaminated by contact: kitchen utensils, clothing, soiled surfaces, [[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care. Quality approach and assessment of professional practices|care materials, surgical instruments...]]
+**Soil: contamination of a wound by the spores of telluric bacteria.
+**Airborne particles from an environmental reservoir or contaminated water aerosols.
+
+*Living vectors" for active transmission between an infected host and a receptive host (person or animal): mainly arthropods (insects, ticks, lice, fleas, etc.).); but also ''intermediate hosts'' essential to the cycle of certain infectious agents (molluscs, cattle or wild mammals for certain parasites, for example) and transmitting the latter passively (e.g. consumption of their flesh) and/or indirectly (e.g. elimination of the infectious agent in faeces) via the environment.
+
+'''4- [[Prevention of foetal risks: infection, drugs, toxic substances, radiation|Vertical transmission from mother to child]]'''''
+
+By the transplacental haematogenous route during pregnancy, by the ascending transcervical route, by the genital tract at the time of delivery, or during breast-feeding.

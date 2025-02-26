@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-088-13-A
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=A
+|Title=Know how to diagnose laryngitis (acute, chronic) in cases of dysphonia.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=13}}
+Laryngitis is a local inflammation of the larynx with dysphonia occurring in less than 48 hours. The voice is hoarse and the pharyngeal pain is usually intense. Other clinical signs may include odynophagia, sometimes associated with reflex earache, fever and/or dyspnoea.
+
+The diagnosis is made clinically by nasofibroscopy, which allows the diagnosis of laryngitis to be made by visualising oedema and erythema of the epiglottis with inflammation of the supraglottic structures.

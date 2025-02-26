@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-260-07-A
+|Item_parent=Hematuria
+|Item_parent_short=Hematuria
+|Rank=A
+|Title=Photographs of a typical example of macroscopic haematuria
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Charles Dariane,Bruno Moulin
+|Order=7}}
+
+<br /><big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>
+[[File:Figure 3 urine collection bag HUbis.jpg|neant|vignette|<big>'''Figure 3.''' Urine collecting bag reflecting macroscopic haematuria</big>]]

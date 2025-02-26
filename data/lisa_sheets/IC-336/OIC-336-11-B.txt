@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-336-11-B
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=B
+|Title=Modensitometry of intracranial haemorrhage
+|Description=To recognise spontaneous intraparenchymal and subarachnoid hyperdensity (to be homogenised with item 341).
+|Rubric=Multimedia content
+|Contributors=Nicolas Weiss
+|Order=11}}
+'''Haemorrhagic stroke, intracerebral haematoma :'''<gallery widths="300" heights="300">
+File:Haemorrhagic stroke 1.png
+File:Haemorrhagic stroke 2.png
+</gallery>- '''Spontaneous hyperdensity within the cerebral parenchyma'''
+
+- Ventricular flooding possible
+
+- Possible mass effect
+
+
+'''Hémorragie méningée'''<gallery widths="300" perrow="300">
+File:Meningeal haemorrhage.jpg
+</gallery>- '''Spontaneous hyperdensity in the subarachnoid spaces'' (cisterns of the base, sulci, ...)
+
+- Aneurysms are rarely visible without the injection of iodinated contrast (if calcified or large).

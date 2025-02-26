@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-110-08-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing the main differential diagnosis of chronic insomnia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=8}}
+
+The main differential diagnoses are circadian rhythm phase delay (night owl), which can be confused with insomnia on falling asleep, and the "short sleeper", a variant of normal, characterised by sleep of less than 6 hours with no daytime consequences.

@@ -1,0 +1,116 @@
+{{knowledge objective
+|Identifiant=OIC-033-06-B
+|Item_parent=Breastfeeding
+|Item_parent_short=Breastfeeding
+|Rank=B
+|Title=Breastfeeding and medicines, infections and toxic substances
+|Description=Know that these situations can represent a risk for the newborn. Be familiar with the sources used to interpret the risk of a drug during breastfeeding. Be familiar with the main drugs that pose a risk. Be familiar with the impact of certain infectious diseases on breastfeeding. Know how to adapt breastfeeding accordingly. Know how to inform and adapt breastfeeding in the event of alcohol, tobacco or drug consumption.
+|Rubric=Management
+|Contributors=Aurélien Matuzzi, Philippe Deruelle, Paul Guerby
+|Order=6}}
+
+
+== '''Medicines''' ==
+It is impossible to report data on all the medicines that may be prescribed during breastfeeding. The list below presents the most frequently encountered situations. The most up-to-date information can be obtained from the ''Centres régionaux de pharmacovigilance'' or the ''Centre de renseignements sur les agents tératogènes'' website.
+
+- ''Analgesics'' ('''250. [[Prescribe analgesics SD-250|Prescribe analgesics]]'''; '''249. [[Prescribing non-steroidal anti-inflammatory drugs (NSAIDs) SD-249|Prescribing non-steroidal anti-inflammatory drugs]]'') :
+
+Possible use: ''paracetamol'', ''acetylsalicylic acid in anti-aggregation doses'';
+
+May be used with caution: ibuprofen (to be taken at the time of feeding), nefopam (within 24-48 hours of delivery), tramadol (within 48-96 hours of delivery), morphine (within 24-72 hours of delivery);
+
+Not recommended for: ''acetylsalicylic acid in anti-inflammatory doses'', ''codeine'', ''oxycodone''.
+
+- ''Medication for post-partum haemorrhage:''
+
+Possible use : '''tranexamic acid'''
+
+Can be used with caution: ''sulprostone'' (wait '''2 hours''' '''after''' the end of the infusion before starting to breastfeed);
+
+- ''Antibiotics'' ('''255. [Prescribe an anti-infective SD-255|Prescribe an anti-infective]'') :
+
+Possible uses: ''penicillin ± clavulanic acid'', ''ceftriaxone'', ''erythromycin/clarithromycin/azithromycin'', ''ciprofloxacin/ofloxacin'';
+
+May be used with caution: cotrimoxazole (to be avoided in cases of neonatal jaundice, prematurity or risk of G6PD deficiency), nitrofurantoin (to be avoided in cases of risk of G6PD deficiency), gentamicin (except in cases of prematurity or renal insufficiency in infants), metronidazole (short treatment per os or IV of 7-10 days, without restriction by vaginal route);
+
+Use not recommended: ''clindamycin'' (possible in the case of a single intraoperative dose), ''pefloxacin.'''
+
+- Anti-emetics:
+
+Possible uses: ''domperidone'', ''metoclopramide'' ;
+
+Not recommended for use with ondansetron.
+
+- ''Antihypertensives'' ('''282. [Drug prescription, follow-up consultation and education of a hypertensive patient SD-282|Drug prescription, follow-up consultation and education of a hypertensive patient]'') :
+
+Possible use: '''propanolol''', '''labetalol''', '''nifedipine''', '''nicardipine''', '''alphamethyldopa''' ;
+
+Can be used with caution: captopril (except in cases of prematurity or renal failure in infants), enalapril (except in cases of prematurity or renal failure in infants).
+
+''- Anticoagulants'' (''248. [Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants SD-248|Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants]'') :
+
+Possible uses: '''unfractionated''' and '''low molecular weight'' heparin, '''warfarin''', '''acenocoumarol;''''
+
+Use not recommended: ''fluindione.''
+
+- ''Psychotropic drugs'' ('''256. [Prescribing a hypnotic/anxiolytic SD-256|Prescribing a hypnotic/anxiolytic]'') :
+
+Possible uses: '''zopiclone''', '''oxazepam''', '''paroxetine''', '''sertraline''' ;
+
+Can be used with caution: ''zolpidem'' (take the treatment just after the last evening feed);
+
+Not recommended for: diazepam, hydroxyzine.
+
+''- Antiepileptics'' :
+
+Possible uses: '''gabapentin''', '''phenytoin''', '''valproic acid''' ;
+
+Not recommended for: ''lamotrigine'', ''levitiracetam'', ''topiramate'', ''oxcarbazepine'', ''carbamazepine'', ''vigabatrine''.
+
+== '''Infections''' ==
+'''310 [[Prevention in a contagious patient SD-310|Prevention in a contagious patient]]''''
+
+''- Infections contraindicating breast-feeding:''
+
+'''HIV''' ;
+
+'''HTLV-1 and''' '''2'' (freezing destroys the virus, however).
+
+''- Infections requiring temporary suspension of breast-feeding:''
+
+Varicella'': potentially dangerous for the newborn if the mother contracts the disease ''5 days before birth or 2 days after''. Isolate the mother for 7 to 10 days'' (with ''extraction of milk to give to the child'' during the separation, as viral transmission occurs through direct contact and not through the passage of virus in the milk) and monitor the newborn closely. In the event of shingles: follow strict hygiene rules, wash your hands and avoid direct contact. In the event of ''lesions on the breasts'', the milk will be ''extracted and given to the child''.
+
+Tuberculosis: isolate newborns of mothers with active pulmonary tuberculosis for at least 2 weeks of treatment. In the case of prolonged breast-feeding, it will be necessary to measure the drug in the child's milk, plasma and urine.
+
+''- Infections that do not contraindicate breast-feeding:''
+
+Common infections (strep throat, bronchitis, flu, gastroenteritis, urinary tract infections, etc.): simple hygiene measures;
+
+Herpes'': follow ''strict hygiene rules'' including washing hands, wearing a mask in the case of herpes labialis and avoiding direct contact, as contamination does not occur through milk but through direct contact. In the event of "lesions on the breasts", the milk will be "extracted and given to the child". On the other, uninjured breast, direct breastfeeding is permitted;
+
+CMV: no risk for a child born at term. On the other hand, precautions should be taken in cases of extreme prematurity. Freezing reduces the viral load, while pasteurisation eliminates it;
+
+Hepatitis B: maternal-foetal contamination mainly via the vagina, but possible via breast-feeding. The ''sero-vaccination'' protocol is identical to that for non-breastfed children, with an early injection of immunoglobulins within 12 hours of birth and 3 injections (at 0, 1 and 6 months of age). Vaccination is 95% effective, and breast-feeding does not increase the risk of contamination.
+
+'''Hepatitis C.'''
+
+== Toxic'' ==
+- ''Tobacco'' ('''314. [[Prevention of tobacco-related risks SD-314|Prevention of tobacco-related risks]]''') :
+
+Consumption ''not recommended'' for breastfeeding women (nicotine and cotinine pass into breast milk in significant quantities);
+
+Not a contraindication to breastfeeding: encourage women to use nicotine substitutes and offer support from specialist health professionals. If smoking cessation is incomplete: allow at least 2 hours before breastfeeding.
+
+''- Alcohol'' ('''313. [[Prevention of alcohol-related risks SD-313|Prevention of alcohol-related risks]]'') :
+
+Consumption ''not recommended'' for women who are breastfeeding (reduced milk production, increased risk of early cessation of breastfeeding and harmful effects on the child);
+
+In the event of ''moderate and occasional'' alcohol consumption: observe a ''minimum delay of 2 hours before breastfeeding''.
+
+- Drugs:
+
+- Consumption of cocaine, heroin or cannabis is "not recommended" for women who are breastfeeding (the drug passes into breast milk and the child's immature body may be sensitive to it). Consumption can disrupt breastfeeding or alter the baby's behaviour (excessive sleepiness or, on the contrary, agitation);
+
+- Does not constitute a contraindication to breast-feeding (the benefits of breast-feeding when desired by the mother outweigh the disadvantages, even in the case of drug use);
+
+- Mothers need to be ''informed and supported''. In some cases, breastfeeding can help mothers to reduce or even stop their consumption. Cocooning combined with breastfeeding has been shown to reduce withdrawal symptoms in children.

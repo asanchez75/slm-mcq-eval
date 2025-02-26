@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-154-04-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Knowing the clinical diagnosis of lower respiratory infections (pneumonia, bronchiolitis, bronchitis)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Clinical diagnosis of pneumonia'''
+
+Typical partners are :
+
+*infectious" signs (fever) and "general" signs (asthenia)
+*functional respiratory signs: dyspnoea; cough; purulent sputum; possibly chest pain
+*physical signs of lung parenchymal involvement, especially focal crackles. In the case of significant condensation, a tubal murmur, dullness and increased vocal vibration may be present.
+
+
+and, possibly, signs of complications:
+
+*pleurisy", which gives a pleural syndrome: decrease in vesicular murmur; abolition of vocal vibrations; dullness; and possibly pleuritic murmur
+*pulmonary abscess": significant deterioration in general condition; abundant sputum ("vomit"); haemoptysis possible.
+
+
+Depending on the germs involved, the presentation may be different and '''guide the microbiological hypothesis:'''
+
+*Pneumococcus: usually acute frank lobar pneumonia (AFLP).
+**onset: sudden with high fever from day 1
+**respiratory function signs: marked, including focal thoracic pain; initial dry cough, then purulent or rusty sputum, dyspnoea depending on severity
+**auscultatory signs: marked
+**extra-thoracic signs: recurrence of herpes labialis possible in children, abdominal pain sometimes very intense, particularly in basal pneumonia.
+*Atypical" (intracellular) germs: "Mycoplasma pneumoniae", "Clamydophila pneumoniae" and "psittaci":
+**onset: gradual; identifiable contagion
+**general signs: mild
+**functional respiratory signs: often limited to a dry cough
+**auscultatory signs: often absent
+**extra-thoracic signs: frequent, including : ENT (nasopharyngitis); polyarthralgia; myalgia; diarrhoea; skin rash.
+*Legionellosis:
+**onset: rapidly progressive
+**general signs: often marked (fever and AEG)
+**respiratory function signs: often present, depending on severity
+**auscultatory signs: often present
+**extra-thoracic signs: very frequent, especially digestive (diarrhoea, abdominal pain, vomiting) and neurological (confusion, hallucinations). Pulse-temperature dissociation is suggestive.
+*Viral pneumonia: presentation varies according to the virus responsible:
+**Onset: often rapid; sometimes V-shaped course; epidemic context.
+**General signs: often marked (fever, asthenia)
+**Functional respiratory signs: dry cough; dyspnoea depending on severity.
+**Auscultatory signs: may be absent.
+**Extra-thoracic signs: frequent: myalgias, headaches, ENT signs, conjunctivitis, digestive signs, skin rash, etc.
+
+
+A special case of "pneumonia in the elderly": often non febrile, and revealed by the decompensation of a comorbidity or behavioural problems.
+
+
+Clinical diagnosis of bronchitis
+
+Acute bronchitis is diagnosed clinically:
+
+*Onset: acute; epidemic in nature,
+*General signs: inconstant (fever and flu-like syndrome).
+*Functional respiratory signs: the cough is initially dry then productive, often painful. Sputum is mucous or purulent.
+*Auscultatory signs: absent, or bronchial rales. There is never an outbreak of crackles.
+
+Clinical diagnosis of bronchiolitis in infants under 12 months of age
+
+The definition of acute bronchiolitis :
+
+*Onset: acute; epidemic in nature
+*General signs: inconstant
+*Functional respiratory signs: polypnoea, dyspnoea (signs of struggle which can be very marked, leading to respiratory distress); cough.
+*Auscultatory signs: wheezing and/or crackles (associated alveolitis).
+*Extra-thoracic signs: rhinitis
+
+/Beware of the differential diagnosis of heart failure in the presence of respiratory distress in infants. In the presence of tachycardia and polypnoea, make sure there is no hepatomegaly.
+
+<br />

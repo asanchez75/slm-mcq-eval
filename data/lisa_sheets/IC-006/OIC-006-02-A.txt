@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-006-02-A
+|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway
+|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway
+|Rank=A
+|Item_parent_short=The organisation of clinical practice and methods for securing the patient's care pathway
+|Description=Knowing the main systems
+|Rubric=Definition
+|Contributors=Virginie Migeot
+|Order=2}}
+
+There are different methods of working in multi-professional teams in outpatient and inpatient settings:
+
+- A multi-professional protocol
+
+- Multidisciplinary consultation meetings (RCP)
+
+- The checklist in the operating theatre or for so-called "interventional" activities (endoscopy, interventional radiology, central venous catheters, chemotherapy, etc.).
+
+- Mortality and morbidity review (RMM)
+
+<br />

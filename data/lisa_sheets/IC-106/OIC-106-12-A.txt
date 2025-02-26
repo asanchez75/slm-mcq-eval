@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-106-12-A
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=A
+|Intitle=In a real patient or a video case, define the elements that point to the diagnosis of Parkinson's disease.
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+
+
+
+See the CEN website: www.cen-neurologie.fr where videos are available

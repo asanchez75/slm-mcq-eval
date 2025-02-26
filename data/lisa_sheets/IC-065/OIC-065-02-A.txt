@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-065-02-A
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=A
+|Title=Know the definition of persistent delusional disorder
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre Vandel
+|Order=2}}
+Chronic non-schizophrenic psychotic disorder with [[Delusional ideas SD-124|delusional ideas]] for more than one month. Absence of disorganization and negative syndrome.
+
+Several subtypes depending on the themes of the delusions.
+
+<br />

@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-096-05-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=Clinically distinguishing between peripheral neuropathy and amyotrophic lateral sclerosis
+|Description=Pure motor impairment, central and peripheral abnormalities
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Principle of diagnosis'''
+
+Clinically, ALS is characterised by a ''pure, progressive motor deficit'' combining a ''peripheral motor neuron syndrome'' (PMN) with a ''central motor neuron syndrome'' (CMN) in the bulbar, cervical and lumbosacral territories. '''([[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]]) ([[Lameness SD-068|lameness]]) ([[Intermittent limb claudication SD-069|intermittent limb claudication]]) ([[Heavy legs SD-076|heavy legs]])''''
+
+The average age of onset is 63. ALS leads to death in all cases. '''([[Announcement of a critical illness diagnosis to the patient and/or family SD-327|announcement of a critical illness diagnosis to the patient and/or family]])''''
+
+'''Key elements of the diagnosis'''
+
+The diagnosis of ALS is based essentially on clinical data and neurophysiological examination with the association :
+
+- Peripheral motor neuron damage (see above) and central motor neuron damage (Babinski sign, spasticity) affecting the limbs and face.
+
+- Gradual evolution;
+
+- Ultimately responsible for speech, swallowing and respiratory disorders and death requiring emergency assessment and treatment. '''([[Dysphonia SD-146|dysphonia]]) ([[Swallowing disorders or misdirections SD-062|swallowing disorders or misdirections]]) ([[Acute respiratory distress SD-160|acute respiratory distress]]) ([[Cough SD-167|cough]]) ([[Dyspnoea SD-162|dyspnoea]])'''''
+
+- And l'''' absence of sensory, sphincter, cerebellar or oculomotor disorders''.
+
+It should be noted that almost 20% of patients develop frontotemporal cognitive disorders.
+
+Pure motor neuropathy, such as conduction block motor neuropathy, will not show signs of central motor neuron damage or cognitive manifestations.
+
+Neurophysiological examination will confirm pure motor impairment

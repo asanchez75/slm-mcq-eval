@@ -1,0 +1,147 @@
+{{knowledge objective
+|Identifiant=OIC-027-32-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Intitulé=Médicaments et grossesse : connaître les conséquences des principaux médicaments à risque
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=32}}
+
+{| class="wikitable"
+|'''Family'''
+|'''INN (trade name)'''
+|'''Type of malformation(s)'''
+|'''Procedure'''
+|-
+|Vitamin A derivatives
+|Isotretinoin
+
+(Roaccutane<sup>®</sup>, Acnetrait<sup>®</sup>, Curacne<sup>®</sup>, Procuta<sup>®</sup>)
+
+Acitretin
+
+(Soriatane<sup>®</sup>)
+|CNS malformations, outer ear, heart
+
+Skeletal malformations
+|Prescription of exclusive oral contraception, provision of a follow-up booklet
+
+If pregnant, CPDPN to discuss IMG
+
+Pregnancy contraindicated within 2 years of stopping treatment
+<br />Pregnancy
+|-
+|Thymoregulator
+|Lithium (Téralithe<sup>®</sup>)
+|Cardiac malformations (ductus arteriosus, IVC) 4-8 %.
+|In case of pregnancy on lithium, follow-up in CPDPN and foetal echocardiography.
+|-
+|Oral anticoagulants, antivitamins K
+|Warfarin (Coumadine<sup>®</sup>)
+|Warfarin fetal syndrome 4-6 %.
+
+Facial dysmorphia with short or absent OPN, hypoplasia of the last phalanges of the extremities, premature bone calcifications
+
+Cerebral anomalies 2% (microcephaly, hydrocephaly, optic atrophy)
+|Fetal brain ultrasound and MRI to look for abnormalities
+
+Prevention: replacement with LMWH for pregnancy
+
+No reason to refer patients for abortion
+|-
+|Anti-epileptic drugs
+|Sodium valproate (Depakine<sup>®</sup>), carbamazepine (Tegretol<sup>®</sup>)
+|Risks from ''in utero'' exposure during pregnancy:
+
+- spina bifida (6.5 ''vs'' 0.3 ‰; OR [''Odds Ratio''<nowiki>]: 18.8, CI 95% : [8.4-42.3])</nowiki>
+
+- VIC (11.2 ''vs''<nowiki> 2.7 ‰; OR: 4.0 [2.2-7.5])</nowiki>
+
+- CIA (19.1 ''vs''<nowiki> 1.9 ‰; OR: 9.1 [5.6-14.8])</nowiki>
+
+- Pulmonary artery atresia (2.2 ''vs''<nowiki> 0.1 ‰; OR: 26.2 [3.1-96.6])</nowiki>.
+
+- hypoplasia of the left ventricle (2.2 ''vs''<nowiki>0.1 ‰; OR: 17.9 [2.1-65.5])</nowiki>.
+
+- Cleft palate (3.4 ''vs''<nowiki>0.7 ‰; OR: 5.2 [1.1-15.2])</nowiki>
+
+- anorectal atresia (3.4 ''vs''<nowiki> 0.3‰; OR: 11.0 [2.3-32.4])</nowiki>
+
+- hypospadias (22.7 ''vs''<nowiki>4.8 ‰; OR: 4.7 [2.3-9.7])</nowiki>
+
+- Pre-axial polydactyly (2.2 ''vs''<nowiki> 0.2 ‰; OR: 10.8 [1.3- 39.5])</nowiki>.
+
+Others on Depakin<sup>®</sup>: thrombocytopenia, reduced platelet activity, fibrinogen and coagulation factors.
+|Depakine<sup>®</sup>: essential preconception consultation coupled with a neurological opinion.
+
+Refer to CPDPN in case of exposure and usual prevention with folic acid 5 mg/d
+
+Ultrasound for abnormalities including echocardiography
+
+Blood determination of AFP, increased, during serum screening for trisomy 21 (if done in the 2nd<sup>trimester</sup>), suggestive of a neural tube closure anomaly
+|-
+|Prostaglandin 1 analogue (PGE1)
+|Misoprostol (Gymiso<sup>®</sup>, Misoone<sup>®</sup>)
+|Moebius syndrome: central paralysis of the 6th</sup>and 7th</sup> cranial pairs, retrognathia, trismus, distal limb abnormalities.
+
+Cause: poor foetal vascularisation following induction of uterine contractions in the 1st<sup>trimester</sup> (FC)
+
+MFIU in the 3rd<sup>trimester
+<br />
+|Ultrasound for abnormalities
+
+Indication for monitoring in CPDPN
+|-
+|Immunosuppressant
+|Mycophenolate (Cellcept<sup>®</sup>, Myfortic<sup>®</sup>)
+|50% risk of SCF
+
+Risk of malformation of the external ear, cleft lip and palate or nostril, micrognathia, etc.
+|A patient on mycophenolate should have a preconception consultation to change treatment before conception.
+
+If the patient becomes pregnant, she should consult a doctor to adapt the treatment quickly.
+|-
+|Cancer drugs
+|Methotrexate (Ledertrexate<sup>®</sup>, Imeth<sup>®</sup>)
+|Folic acid antagonists: craniostenosis, facial dysmorphia, IUGR, congenital heart disease, FC, etc.
+|Warning of the significant risk of termination of pregnancy
+|-
+|Synthetic antithyroid drugs
+|Carbimazole, (Neo-Mercazole<sup>®</sup>)
+
+PTU (propylthio-uracil: Propylex<sup>®</sup>)
+|Scalp aplasia, choanal atresia, oesotracheal fistula and, more rarely, facial dysmorphia and even abdominal wall damage such as omphalocele and gastroschisis.
+
+Goitres observed in foetuses of treated mothers but not always related to PTU but also to basedow's disease (Track)
+|Replace carbimazole in the 1st<sup>term</sup> with PTU, and regularly monitor maternal thyroid function (T4l, T3l, TSHus).
+
+It can then be taken back because of the maternal liver damage described for PTU
+
+Monitor the foetal thyroid under treatment, especially if TRAK is positive
+
+Risk of maternal hepatotoxicity, so carbimazole should be discussed from the 2nd<sup>trimester</sup>.
+|-
+|Virostatics
+|Ribavirin (Copegus<sup>®</sup>, Rebetol<sup>®</sup>)
+
+Efavirenz (Sustiva<sup>®</sup>)
+|In animals (dose-dependent teratogenicity): malformations of the face (skull, palate, eyes, jaw), limbs, digestive tract and bones.
+
+Risk of non-closure of the neural tube: 0.07%.
+|Prescription under contraception
+
+If a pregnancy occurs, organise follow-up at the CPDPN
+
+Avoid in the 1<sup>st</sup> trimester
+|}
+
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''340 [[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|Voluntary or involuntary intake of a toxic or potentially toxic drug]]''''
+
+'''348. [Suspicion of an adverse drug reaction or an adverse drug treatment SD-348|Suspicion of an adverse drug reaction or an adverse drug treatment]'''''
+
+'''352. [[Explaining treatment to the patient (adult/child/adolescent) SD-352|Explaining treatment to the patient (adult/child/adolescent)]]'''''

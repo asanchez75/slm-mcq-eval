@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-112-08-B
+|Item_parent=Bullous dermatosis of the skin and/or external mucous membranes
+|Item_parent_short=Bullous dermatosis affecting the skin and/or external mucous membranes
+|Rank=B
+|Title=Photograph of mucocutaneous lesions of pemphigus vulgaris
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[[File:Pemphigus.jpg|vignette|Tender or flaccid bubbles of the back and multiple erosions with jagged edges in a patient with pemphigus ]]

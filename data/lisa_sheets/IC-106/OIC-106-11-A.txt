@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-106-11-A
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=A
+|Title=Knowing the drugs likely to induce a parkinsonian syndrome
+|Description=Mainly neuroleptics (identified or masked), see Vidal
+|Rubric=Management
+|Contributors=
+|Order=11}}
+
+
+=== Drugs likely to induce parkinsonian syndrome ([[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|voluntary or involuntary intake of a toxic or potentially toxic drug]]) ===
+
+* Mainly induced by neuroleptics (antipsychotics) or "hidden" neuroleptics (antinauseants such as metoclopramide and metopimazine, sedatives such as alimemazine), which should be carefully investigated during questioning.
+* Calcium inhibitors such as flunarizine (background treatment for migraine) and antidepressants are more rarely responsible for a parkinsonian syndrome.
+* If in doubt, consult the Vidal.
+
+=== Clinical features of iatrogenic parkinsonian syndromes: ===
+
+* Parkinson's syndrome, rather symmetrical (inconstant characteristic).
+* More frequently a postural or action tremor than an authentic resting tremor ([[Tremor SD-128|tremor]]).
+* Potential presence of oral-lingual-facial dyskinesias ([[Abnormal movements SD-126|abnormal movements]]).
+* No response to dopaminergic treatment.

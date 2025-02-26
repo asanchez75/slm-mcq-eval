@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-204-08-B
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=B
+|Title=Knowing the indication for imaging examinations for cough in children and adults
+|Description=Knowing the indication for imaging examinations for coughs in children and adults
+|Rubric=Additional examinations
+|Contributors=
+|Order=8}}
+A chest X-ray is systematically requested in the context of a chronic cough.
+
+Any suspicion of bronchial cancer should lead to a thoracic CT scan.
+
+There is no indication for a chest CT scan in the context of a normal clinical examination, normal chest X-ray and absence of warning signs.

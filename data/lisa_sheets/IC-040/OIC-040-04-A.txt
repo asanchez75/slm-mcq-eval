@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-040-04-A
+|Item_parent=Pelvic pain in women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Know the elements of questioning and clinical examination useful for the diagnosis of APD.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Virginie Grouthier,PIerre-Emmanuel Bouet
+|Order=4}}
+Questioning to explore acute pelvic pain should include :
+
+* Date of onset of pain: recent.
+* Pain progression: generally rapid.
+* Type of pain: stabbing, twisting, colicky, radiating.
+* Date of last menstrual period.
+* Gynaecological, obstetrical and surgical history.
+* Presence of contraception.
+* Look for associated signs: infectious syndrome, nausea, vomiting, functional urinary signs, sympathetic signs of pregnancy, metrorrhagia.
+* Look for analgesic positions.
+* The presence of risky behaviour (unprotected sex).
+
+A meticulous and rigorous clinical examination is an essential part of the investigation of acute pelvic pain. It is generally more effective and informative than for chronic pelvic pain.
+
+Depending on the aetiology, the findings on questioning and clinical examination will differ and will help to guide or confirm the diagnosis.
+<br />
+{| class="wikitable"
+!
+Ectopic pregnancy!
+Adnexal torsion
+Haemorrhagic cyst rupture
+Sexually transmitted infections (STI): gonorrhoea, chlamydia, syphilis, human papillomavirus (HPV), trichomoniasis|IGH]]
+|-
+Examination
+|Acute pelvic pain + ''metrorrhagia'' + delayed menstruation + sympathetic signs of pregnancy (''nausea, vomiting'', breast tension, etc.) risk factors (history of upper genital infection, surgery, active smoking, MAP).
+<br />
+|Sudden, intense pain + digestive signs (''nausea (SDS 12), vomiting (SDS 13)'', cessation of gas) + antalgic position known as ''gunshot stance'' + known history of ovarian cyst.
+|Abrupt, intense pain, scapulalgia possible, history of ovarian cyst
+|More moderate pain, slower onset + infectious syndrome + risk factors (unprotected sexual intercourse, multiple partners, recent endouterine procedures).
+|-
+Clinical examination
+|Contracture'' + provoked pain and ''latero-uterine mass''.
+|Abdominal defence, contracture, meteorism,
+
+Latero-uterine pain on vaginal touch
+|Abdominal defence, contracture, pain on vaginal touch, pain in the douglas cul-de-sac, haemodynamic instability (tachycardia, drop in blood pressure).
+|abdominal defensiveness, fever, pain on palpation and uterine mobilisation, latero-uterine empathy and in the douglas, pain in the right hypochondrium (perihepatitis), '''leucorrhoea (SDD104), metrorrhagia'''
+|}

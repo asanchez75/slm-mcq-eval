@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-082-02-A
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=A
+|Title=Know the definition, significance and aetiological approach to transient monocular blindness
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Amaurosis fugax is an acute onset of total visual loss lasting a few minutes and resolving spontaneously. It corresponds to a ''transient ischaemic attack of the retina''.
+
+It is a diagnostic ''emergency'' because of the risk of a ''constituted retinal artery occlusion or ischaemic stroke''.
+
+Carotid atheroma or embolism cardiopathy should be sought first. Horton's disease should also be systematically considered.

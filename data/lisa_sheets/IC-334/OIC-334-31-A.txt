@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-334-31-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to identify the need for emergency haemostasis treatment in adults and children
+|Description=Association of haemodynamic instability (PAS < 90mmHg or recourse to vasopressors or pre-hospital transfusion or absent or transient response to volume expansion) and intraperitoneal effusion on FAST.
+|Rubric=Emergency identification
+|Contributors=
+|Order=31}}
+The combination of haemodynamic instability, a positive FAST scan and a pelvic X-ray showing no bone fracture of the pelvic ring indicates emergency surgical haemostasis (damage control surgery).
+
+("''[[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]'''")("''[[Abdominal-pelvic trauma SDD-171|abdominal-pelvic trauma]'''")

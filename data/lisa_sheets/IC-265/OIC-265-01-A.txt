@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-265-01-A
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=A
+|Title=Know the definition of urinary lithiasis and urinary calculi
+|Description=Lithiasis: a disease resulting in the formation of stones
+|Rubric=Definition
+|Contributors=Romain Boissier
+|Order=1}}
+
+Lithiasis: disease resulting in the formation of stones in the excretory urinary tract. These stones are composed of crystals and an extra-cellular matrix and occur mainly as a result of renal obstruction or [[Urinary infections in children and adults|pyelonephritis 161]].
+
+The majority of urinary stones form in the kidneys. Bladder stones are rarer and are the result of urine stasis in the bladder, most often due to an obstruction ([[Benign prostatic hyperplasia|BPH]]). [Benign prostatic hyperplasia|127]]).

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-306-09-B
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=B
+|Title=Knowing the main serum markers and their correct use in ovarian tumours
+|Description=To understand the correct use of informative biological markers in certain forms of cancer (markers such as CA125, CA19-9, HE4, AFP and hCG), and their role in the diagnosis of a suspicious adnexal mass. Do not prescribe a CA125 test in the absence of an ovarian tumour.
+|Rubric= Complementary examinations
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=9}}
+In the case of a suspected cyst, the following tumour markers are required:
+
+- CA 125 (specific for ovarian cancer),
+
+- The addition of the l''''HE4''' (''Human Epididymal Protein 4'') assay can also be useful for diagnosing an ovarian mass that is indeterminate on imaging, but is not widely used because it is not reimbursed. Its interpretation takes into account menopausal status.
+
+=> The risk of malignancy (ROMA score) is estimated using serum measurements of HE4, CA125 and menopausal status.
+
+- CA 19-9 (in the case of epithelial tumours),
+
+- ACE (in the case of epithelial tumours),
+
+- α-fetoprotein, β-hCG, LDH'' in cases of suspected germ cell tumour or in young women
+
+- Inhibin B and AMH in cases of granulosa tumours.
+
+It should be noted that it is not recommended to rely solely on serum CA125 to assess the resectability of peritoneal carcinosis of ovarian, tubal or primary peritoneal origin, nor on other serum biomarkers.
+
+Follow-up of patients treated for ovarian cancer is based on clinical examination, but also on the measurement of tumour markers if they are initially elevated (CA 125), every 4 months for 2 years, then every 6 months for 3 years, then annually.

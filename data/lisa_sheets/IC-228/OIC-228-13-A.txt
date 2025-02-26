@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-228-13-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Knowing the three phases of ulcer healing
+|Description=detachment, budding, epidermalization
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=13}}
+
+Local treatment of a leg ulcer is combined with management of the vascular or non-vascular condition that caused it.
+
+Every wound has its own dynamics, passing through 3 different stages in the healing process:
+
+* detersion ("cleaning" of fibrin and necrosis by leukocytes and macrophages),
+* budding,
+* epidermisation.
+
+In all cases, the date of the tetanus vaccination should be checked ('''''[[Vaccinations for adults and children SD-322|vaccinations for adults and children]]'''''). Nearly 2/3 of tetanus cases begin with a leg ulcer.

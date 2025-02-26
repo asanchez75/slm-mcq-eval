@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-224-22-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Know how to measure blood pressure in children
+|Description=Know the indications for measuring blood pressure in children (systematic annual examination after the age of 3, in the event of FDR) and know the procedures involved (suitable cuffs, charts for age and sex, etc.).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=22}}
+It is recommended that blood pressure be measured in children:
+
+- before the age of 3, only if there are risk factors: history of low birth weight, renal, urological, cardiac or systemic pathology, etc.
+
+- after the age of 3, once a year as a matter of course and in the event of warning signs (headaches, abdominal pain, polyuro-polydipsic syndrome, drop in height, etc.).
+
+BP measurements are taken :
+
+- in a calm child lying down
+
+- with a blood pressure monitor validated for children (auscultatory technique), using a suitable cuff,
+
+- on the right arm, because in the case of aortic coarctation, the pressure measured in the left brachial artery will be falsely lowered.

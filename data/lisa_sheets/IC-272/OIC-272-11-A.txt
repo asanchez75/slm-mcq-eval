@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-272-11-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Title=Knowing the first-line examination for abdominal contracture
+|Description=Abdominopelvic scan
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=11}}
+Abdominal contracture is suggestive of peritoneal irritation by perforation (chemical or septic peritonitis). The most urgent examination is an abdominopelvic CT scan (to look for pneumoperitoneum and/or abdominal effusion).
+
+This is a contraindication to endoscopy +++.

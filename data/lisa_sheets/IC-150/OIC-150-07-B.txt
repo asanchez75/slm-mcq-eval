@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-150-07-B
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=B
+|Title=Knowing the main complications of AOM
+|Description=None
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=7}}
+
+
+*Mastoiditis
+**Pus oozes through the cortex of the mastoid bone (->decolouration of the pinna, inflammatory swelling in the retroauricular area).
+**Otoscopy: AOM collected, posterior wall of external auditory canal collapses
+
+*Facial paralysis
+** Partial or complete
+** Favoured by the absence of a bony shell in the facial pathway
+
+*Meningitis
+** Blood-borne, bone-borne or labyrinthine contamination
+** Risk of labyrinthine fibrosis if pneumococcus
+
+*Tympanic perforation (after perforated AOM) which may or may not close spontaneously
+
+*Seromucous otitis.
+** 10-20% of AOMs
+** may persist 4-6 weeks after AOM
+
+*Rare complications: labyrinthitis, thrombophlebitis of the lateral sinus, cerebral abscess, osteitis of the temporal bone, etc.

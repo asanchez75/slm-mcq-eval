@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-211-10-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing the benefits and limitations of the main biological tests
+|Description=lymphopenia, hypergammaglobulinaemia, and angiotensin-converting enzyme assayKnow the 3 other biological elements (in addition to blood calcium levels) to be performed for diagnosis (creatinine, liver function tests, and hepatitis B, C and HIV serologies).
+|Rubric=Additional tests
+|Contributors=
+|Order=10}}
+
+
+==''Possible biological signs associated with sarcoidosis (inconstant and non-specific)'''==
+
+*lymphopenia ('''[[Leukocyte abnormality SD-216|leukocyte abnormality]]''') (without increased risk of infection)
+*polyclonal hypergammaglobulinemia ('''[[Serum protein electrophoresis analysis SD-193|serum protein electrophoresis analysis]]''')
+*elevation of serum angiotensin-converting enzyme (ACE), non-specific, present in only 50% of cases
+*'''hypercalcaemia ([[Dyscalcaemia SD-200|dyscalcaemia]]) and hypercalciuria,''' a consequence of the synthesis of 1-alpha hydroxylase by granulomas.
+*'''[[Cholestasis SD-198|cholestasis]]''' and/or hepatic cytolysis in the case of hepatic damage
+*increase in creatinine in the case of renal damage
+*no specific biological marker for sarcoidosis
+
+<br />
+
+==''Other useful biological tests'''==
+
+*hepatitis B, C and human immunodeficiency virus (HIV) serologies (secondary granulomatoses and for pre-therapeutic purposes)

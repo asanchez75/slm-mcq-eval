@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-351-05-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the aetiologies of acute delirious syndromes according to age, including toxic causes
+|Description=With reference to item 343
+|Heading=Etiologies
+|Contributors=
+|Order=5}}
+
+
+== Principles of aetiological assessment similar to those for agitation ==
+Look for the most frequent or most serious aetiologies.
+
+Always rule out non-psychiatric causes before suggesting a psychiatric aetiology.
+
+The diagnostic approach is the same for patients with or without a psychiatric history.
+
+== Elderly person
+Same possible causes as for agitation
+
+== Young adults
+Same possible causes as for agitation
+
+== Psychiatric conditions
+
+=== Identification of manic symptoms ===
+Manic episode with psychotic features, with or without mixed features, in the context of type I bipolar disorder or bipolar disorder induced by a substance (often an antidepressant or corticosteroid) or medical pathology (hyperthyroidism).
+
+Delusions are generally congruent with mood: persecution, megalomania, mission.
+
+=== Identification of depressive symptoms ===
+Characterised depressive episode with psychotic features, with or without mixed features, as part of a characterised depressive disorder or a recurrent depressive disorder.
+
+Delusions are generally congruent with mood: persecution, ruin, guilt, hypochondria.
+
+=== In the absence of thymic symptoms and in the presence of other psychotic symptoms ===
+
+* Brief psychotic disorder: lasting more than one day and less than one month.
+* Chronic psychotic disorder in its early stages

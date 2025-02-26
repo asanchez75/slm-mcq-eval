@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-334-37-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the indications and know how to request an imaging examination in the case of trauma to the limbs and/or pelvis.
+|Description=If limb fracture is suspected, standard radiography of the front and side, including the overlying and underlying joints.
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=37}}
+
+1. '''Standard radiography:''''
+
+*In all polytrauma patients (figure 3) (2C-334-PC-B02):
+**frontal chest X-ray: look for a pneumothorax or pleural effusion
+**Front pelvis X-ray: look for a fracture that may have caused non-external pelvic retroperitoneal haemorrhage leading to haemorrhagic shock.
+*If there is a clinical suspicion of a fracture, X-ray '''front and side'''
+**of the bone or joint in question: be specific about the anatomical area to be observed
+**with the "overlying and underlying joints" in the case of a long bone fracture
+**respect the ''Ottawa criteria'' to avoid making radiographs of sprains. Only one of the following criteria should require an X-ray
+
+{| class="wikitable"
+|'''Ankle and foot''''
+|'''Knee'''
+|-
+|
+* Pain at the tip and distal 6 cm above the malleoli.
+* Pain at the base of the 5th metatarsal.
+* Pain in the tarsal scaphoid.
+* Inability to stand and take 4 steps.
+|
+* Age > 55 years
+* Pain of the patella
+* Pain in the head of the fibula
+* Inability to bend more than 90
+* Inability to stand and take 4 steps
+|}
+
+2. '''Scanner: ''''
+
+*In all polytrauma patients: full-body CT scan injected with the pelvis (figure 4) ([[2C-334-PC-B03]]).
+*Without injection
+**in case of complex joint fracture.
+**in case of clinical doubt about a fracture not seen on X-ray.
+**angioscanner in case of vascular damage with abolition of pulses.
+
+ ("''[[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]''''")

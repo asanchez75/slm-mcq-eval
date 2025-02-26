@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-334-45-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the haemodynamic and ventilatory consequences of spinal cord injury according to the level of injury.
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=CFCOT
+|Order=45}}
+
+In the absence of associated lesions, the vital prognosis of patients with spinal trauma is linked to the trauma to the spinal cord. In the first few days, this is mainly due to damage to the respiratory muscles and cardiovascular problems caused by damage to the autonomic nervous system.
+
+1. haemodynamic consequences
+
+* Disappearance of sympathetic activity and loss of adaptation reflexes in the sub-lesion territory: ''sub-lesion vasoplegia'' and therefore ''relative hypovolaemia'' with reduced systemic resistance, reduced venous return and reduced cardiac output, amplifying the effects of haemorrhagic shock.
+* Imbalance between the parasympathetic and sympathetic systems = "extreme bradycardia" or even cardiocirculatory arrest during stimuli such as bronchial aspiration, the greater the patient's hypoxia and hypothermia.
+* The cardiovascular consequences are all the more important when the spinal cord injury is high up, in practice "above T6".
+* High cervical injury (C1-C2): cardiac arrest possible at the time of trauma.
+* In the acute phase, "neurogenic shock" is a serious complication of spinal trauma, combining circulatory failure (hypotension and bradycardia) and tetraplegia.  Aggravates the neurological deficit.
+
+
+'''2.             Ventilatory consequences'''
+
+* Above C4 (emergence of the phrenic nerves): diaphragmatic paralysis and complete ventilatory dependence, requiring controlled ventilation.
+* Lower cervical (C4 to C7) and upper thoracic involvement:
+** Conservation of diaphragmatic activity = '''ventilatory autonomy'''.
+** Disappearance of all or part of the intercostal muscles and absence of abdominal muscles:
+*** ''Reduced vital capacity'' (50% of normal), increased residual volume (+50%) and decreased functional residual capacity.
+*** No effective cough: bronchial congestion and atelectasis.
+* In low thoracic and lumbar injuries: minor ventilatory problems, abdominal muscles intact for injuries below T12.

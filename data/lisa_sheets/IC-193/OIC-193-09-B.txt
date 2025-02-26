@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-193-09-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Item_parent_short=Know the main immunological tests to be carried out in cases of suspected vasculitis
+|Description=ANCA, cryoglobulinaemia
+|Rubric=Additional tests
+|Contributors=Luc Mouthon
+|Order=9}}
+
+'''<big>Anti-neutrophil cytoplasmic antibodies (ANCA):</big>''' autoantibodies directed against neutrophil cytoplasmic antigens (GPA, MPA and GEPA, specificity 95%)
+
+Detection by indirect immunofluorescence :
+
+* neutrophil cytoplasmic fluorescence (c-ANCA), with anti-proteinase 3 (PR3) specificity (GPA)
+* perinuclear fluorescence of neutrophils (p-ANCA), with anti-myeloperoxidase (MPO) specificity (MPA and GEPA)
+
+Differential diagnosis: ANCA may be present in infectious diseases, in particular infectious endocarditis or tuberculosis.
+
+'''<big>Cryoglobulinemias</big>''''
+
+Immunoglobulins precipitate at temperatures below 37°C
+
+* type I cryoglobulins: isolated monoclonal immunoglobulin (lymphoid haemopathies)
+* Mixed cryoglobulins: at least two varieties of immunoglobulin (type II with a monoclonal component, or type III with only polyclonal immunoglobulins (chronic hepatitis C, Sjögren's syndrome, systemic lupus, rheumatoid arthritis, lymphoid haemopathies).

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-360-11-B
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=B
+|Title=Know the measures to prevent recurrence of pneumothorax (stop smoking, ± pleurodesis)
+|Description=None
+|Heading=Management
+|Contributors=Julien Poissy
+|Order=11}}
+
+Smoking cessation
+
+Pleurodesis may be discussed. This is a specialist discussion, taking into account the number of homolateral and contralateral recividae and the possible pathological nature of the underlying lung.

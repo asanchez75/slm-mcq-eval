@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-116-10-B
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=B
+|Title=Knowing a cause of aquagenic pruritus
+|Description=Vaquez Polycythemia
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+In the presence of aquagenic pruritus, an underlying haematological cause must be systematically ruled out, in particular Vaquez's polycythaemia.
+
+<br />

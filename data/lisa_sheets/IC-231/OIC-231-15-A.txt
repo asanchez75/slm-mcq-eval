@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-231-15-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying atrial flutters
+|Description=Identifying atrial flutter
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=15}}
+
+
+'''Common flutter''' :
+
+*Atrial arrhythmia which rotates in the right atrium around the tricuspid annulus in a counter-clockwise direction at around 300 bpm,
+*Often 2/1 conduction with ventricular rate at 150 bpm, but variable conduction possible, particularly if bradycardia treatment is given,
+*Characteristic sawtooth or factory roof F waves positive in V1 and negative in the inferior leads.
+
+'''Atypical flutters:'''
+
+*Most often in patients with a history of cardiac surgery or atrial fibrillation ablation,
+*Multiple possible circuits (right or left atrium) around scarred areas with different morphologies,
+*Surface ECG appearance different from common flutter. Exact circuit to be specified during specialised examinations (mapping).
+
+[[File:Atrial flutter.jpg|thumbnail|alt=|centered|900x900px]]

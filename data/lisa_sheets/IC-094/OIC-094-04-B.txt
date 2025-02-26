@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-094-04-B
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=B
+|Title=Knowing the main mechanisms of common spinal pain
+|Description=Description of the different aetiologies of common spinal pain. Arguments in favour of a disc or interapophyseal origin.
+|Rubric=Physiopathology
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=4}}
+
+===''Eléments orientant vers une origine DISCALE'''===
+
+* age 25-50;
+* associated factor: exertion or trauma
+* history of rapidly improving lumbago;
+* physical examination: disc syndrome combining medial, mechanical, impulsive lumbago, exacerbated by hyperextension, spinal syndrome.
+
+Complications = radiculalgia, cauda equina syndrome.
+<br />
+
+===''Eléments orientant vers une origine INTERAPOPHYSAIRE'''===
+
+* age > 50 years;
+* median or unilateral low back pain, mechanical in character, exacerbated by walking or prolonged standing/sitting down
+* pain referred remotely, without a precise path: buttocks, thighs, iliac spines;
+* poor physical examination: hyperaesthesia of these painful areas on palpation, no disc syndrome, rare spinal syndrome.
+
+Complications = narrowed lumbar canal with radicular claudication (onset of difficulty in walking''', [[Intermittent limb claudication SDD-069|intermittent limb claudication]]).'''''

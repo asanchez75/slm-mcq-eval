@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-338-06-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Title=Know how to administer the very first intramuscular treatment: adrenaline
+|Description=Know how to administer ADRENALINE in a bolus of 0.01 mg/kg or by prepared syringe.
+|Rubric=Management
+|Contributors=
+|Order=6}}
+
+
+*Any anaphylactic reaction requires immediate intramuscular injection of adrenaline:
+**the IM route allows faster administration than the intravenous route
+**adult: 0.5 mg IM, midway up the lateral-external aspect of the thigh.
+**For subjects weighing less than 50 kg, the dose is 0.01 mg/kg.
+*If at least one life-threatening clinical sign (arterial hypotension, dyspnoea) persists after 5 minutes: repeat IM injection of 0.5 mg (or 0.01 mg/kg for subjects weighing less than 50 kg).

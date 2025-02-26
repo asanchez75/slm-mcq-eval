@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-130-06-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Knowing the definition of pathological ageing
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+It is easier to define successful ageing than pathological ageing (which is a misnomer because ageing is a physiological process, not a pathological one).
+
+People with a slight reduction in functional capacity who retain significant reserve capacity are referred to as "successfully aged". These individuals are capable of coping with major stresses, and their health problems are usually fairly similar to those of less elderly adults.
+
+Pathological ageing refers to any form of ageing that is not successful, and varies greatly from one person to another. These are elderly people with varying degrees of cumulative problems,
+
+- the consequences of biological phenomena linked to ageing, and therefore a vulnerability to the response to any stress linked to the reduction in functional reserve capacity,
+
+- the consequences of pathologies on organ function (all the more so if they are not properly managed), and of polymedication linked to pathologies,
+
+- leading to a loss of functional independence, autonomy and quality of life.

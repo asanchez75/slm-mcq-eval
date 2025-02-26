@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-329-04-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Item_parent_short=Know the characteristics of labile blood products (LBS) and their specificity
+|Description=None
+|Section=Management
+|Contributors=
+|Order=4}}
+Today, the indication for transfusion is part of a more global approach known as patient blood management. This is a multidisciplinary approach, applying the principles of evidence-based medicine, to optimise the care of patients who may need transfusions. This involves :
+
+- optimisation of haematopoiesis (e.g. specific treatment of anaemia, particularly in the pre-operative context);
+
+- minimising blood loss (haemostasis management and pre-, per- and postoperative blood-sparing procedures);
+
+- optimising tolerance of anaemia (maintaining haemodynamic stability, adequate oxygenation, pain and sedation control, normothermia and rapid treatment of any infection).
+
+The aim of RGC transfusion is to provide "adequate tissue oxygenation" in the event of symptomatic anaemia or anaemia below a certain threshold, depending on the patient's condition and any co-morbidities.
+
+The '''must not''' indication is based solely on the haemoglobin threshold.
+
+It must take into account the "tolerance" of the anaemia and the "benefit/risk ratio" for each patient.
+
+Depending on the clinical situation, the HAS has defined thresholds for prescribing a RGC
+
+- '''In the perioperative context:''''
+
+o 7 g/dl any patient with no previous history
+
+o 8-9g/dl if there is a history of cardiovascular disease
+
+o 10 g/dl in cases of intolerance, acute coronary insufficiency or use of beta-blockers
+
+- '''In the context of Massive Transfusion (MT)'''
+
+o Reminder: the HAS defines TM when more than ten RGCs have been transfused in less than 24 hours or when half of the blood volume has been replaced in less than three hours.
+
+o The aim of early transfusion is to prevent post-traumatic coagulopathy
+
+o In addition to the specific resuscitation measures described in another sheet, the transfusion component includes the rapid administration of transfusion "packs" with ratios close to the composition of whole blood. We can therefore define 1 pack made up of 3 RGCs and 3 FFPs, to which 1 platelet concentrate will be added as soon as the 2nd pack is prescribed.
+
+- '''Non TM trauma patient''''
+
+o 8-9g/dl preferred
+
+- '''In the oncohaematological context'''
+
+o In the case of haematological malignancies, transplants or solid tumours, a threshold of 8 g/dl is used.
+
+o This threshold may be increased to 10 g/dl in the case of intolerance or associated cardiovascular disease.
+
+- '''Not recommended'''
+
+o It should be remembered that deficiency anaemia (iron, B9, B12), which develops progressively, requires specific treatment, with very rare recourse to transfusions.
+
+- Other situations (haemoglobinopathies, foetal and neonatal anaemias, autoimmune haemolytic anaemias, etc.) represent specific and specialised contexts and are dealt with elsewhere.

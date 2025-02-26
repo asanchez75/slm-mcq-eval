@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-247-25-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Know how to prevent and manage hypoglycaemia.
+|Description=None
+|Rubric=Management
+|Contributors=Claire Briet
+|Order=25}}
+'''<u>MANAGEMENT</u>'''
+
+- If patient conscious
+
+*Swallowing sugar (15 g = 3 lumps), soda or sweets
+
+- If patient unconscious
+
+*No oral ingestion: risk of false route+++.
+*everyone can do it: IM or SC injection of glucagon (wakes up in 15 minutes, side effects: nausea, vomiting) or nasal glucagon (not reimbursed) EXCEPT IF ON HYPOGLYCEMIC SULFAMIDE: glucagon contraindicated!
+*in hospital: glucagon or direct (slow) intravenous injection of one or two ampoules of 30% glucose solution (immediate awakening), followed by G10%.
+
+'''<u>PREVENTION</u>'''
+
+Prevention is based on patient education:
+
+* know the clinical signs of hypoglycaemia
+* be familiar with the drugs that cause hypoglycaemia: sulphonamides, glinides and insulin
+* be aware of high-risk situations (a light meal without reducing insulin doses, too long a delay between the injection of rapid-acting insulin and the meal, heavy physical exertion without reducing insulin doses or having a snack, an error in insulin dose or sulphonamide/glinide intake, resolving a hyperglycaemic situation such as an infection, stress or corticosteroid therapy).
+
+Preventing hypoglycaemia requires appropriate treatment with insulin or sulphonamide/glinide, depending on the situation and the course of the diabetes.

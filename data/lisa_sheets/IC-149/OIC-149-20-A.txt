@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-149-20-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Knowing the aetiologies of ulcerative and ulcero-necrotic angina
+|Description=Vincent's angina, syphilitic chancre, agranulocytosis and haematological malignancies, others
+|Rubric=Etiologies
+|Contributors=
+|Order=20}}
+When of '''bacterial''' origin, they are most often due to :
+
+- at ''''association fuso-spirillaire : Vincent's angina (painful ulceration)''''
+
+- more rarely '''''treponema pallidum''''': '''syphilitic chancre (painless ulceration)'''
+
+Other rarer causes of ulcerative necrotizing angina include ENT cancer and haematological malignancy.

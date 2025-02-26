@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-224-10-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the diagnostic approach in cases of suspected secondary hypertension
+|Description=clinical, biological, imaging
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+The interview and clinical examination look for signs pointing to a cause of secondary hypertension:
+
+- personal or family history of [[Chronic renal failure in adults and children|renal pathology]],
+
+- consumption of toxic substances or use of pressive substances,
+
+- look for hyperaldosteronism: history of 2C-231-DP-A14 dyskalaemia/hypokalaemia, episodes of muscle weakness or tetany,
+
+- signs suggestive of [[Sleep disorders in children and adults|sleep apnoea]] syndrome, [[Pituitary adenoma|Cushing syndrome]], [[Pituitary adenoma|acromegaly]], pheochromocytoma (sweating, headaches, palpitations, café au lait spots, etc.)
+
+In this case, it is necessary to seek the opinion of a 2nd or 3rd line specialist. Further investigations should be adapted according to the aetiological orientation:
+
+- nocturnal respiratory polygraphy
+
+- Doppler ultrasound of the renal arteries
+
+- abdominal angioscan
+
+- 24-hour urinalysis: natriuresis, creatininuria and proteinuria, urinary metanephrines and normetanephrines, urinary free cortisol, aldosteronuria
+
+- blood hormone assays: renin and aldosterone in standardised conditions, free plasma metanephrines and normetanephrines, minute braking test if hypercorticism is suspected.
+
+<br />

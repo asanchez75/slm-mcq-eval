@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-123-11-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Intitulé=Knowing the main key words in organ ageing
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=11}}
+Ageing:
+
+* results in a reduction in the body's functional reserve capacity, making it vulnerable to aggressive situations.
+* varies greatly from one organ to another (inter-organ variations).
+* varies greatly from one person to another of equal age (inter-individual variations).
+
+1- vascular arterial stiffness leading to systolic hypertension
+
+2- cardiac myocardial relaxation disorder and left ventricular hypertrophy impairing ventricular filling
+
+3- brain attention disorders
+
+4- sarcopenia muscle
+
+5- Nephron reduction kidney
+
+6- neuro-sensory presbycusis, presbyopia

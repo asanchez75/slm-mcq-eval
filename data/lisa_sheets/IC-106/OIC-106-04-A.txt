@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-106-04-A
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=A
+|Title=Knowing the clinical signs whose association with a Parkinson's syndrome runs counter to the diagnosis of Parkinson's disease.
+|Description=Red flags
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+
+Lack of prolonged response to dopaminergic treatment, rapid progression with early falls ([[Elderly fall SD-027|Elderly fall]]), early signs of cognitive impairment ([[Memory impairment/cognitive decline SD-131|Memory impairment/cognitive decline]]), pseudo-bulbar impairment (dysarthria and dysphagia) ([[Swallowing disorders or false swallowing SD-062|swallowing disorders or false swallowing]]) or dysautonomia (urinary incontinence, severe orthostatic hypotension, erectile disorders) ([[Urinary incontinence SD-103|urinary incontinence]], [[Discovery of arterial hypotension SD-043|discovery of hypotension]], [[Malaise/loss of consciousness SD-050|malaise/loss of consciousness]], [Sexual and erectile dysfunction SD-063|sexual and erectile dysfunction]]), cerebellar syndrome, pyramidal involvement, oculomotor disorders and cortical signs (apraxia, aphasia, astereognosia, myoclonus) ([[Abnormal movements SD-126|abnormal movements]]).

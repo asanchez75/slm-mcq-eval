@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-29-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the general principles of treatment
+|Description=Therapeutic education
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=29}}
+
+Therapeutic education'' central to any chronic disorder with a risk of relapse (GAD, PD): explanations of symptoms, reassurance and information about the condition. Hygienic and dietary rules'' to be adopted over time: stopping stimulants (coffee, tobacco, alcohol), a balanced diet, sleep, regular exercise, relaxation techniques, information on the use of anxiolytics (Item 74).

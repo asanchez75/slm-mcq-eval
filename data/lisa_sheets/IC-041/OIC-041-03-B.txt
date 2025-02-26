@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-041-03-B
+|Item_parent=Endometriosis
+|Item_parent_short=Endometriosis
+|Rank=B
+|Title=Knowing the physiopathology of endometriosis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Lorraine MAITROT-MANTELET,Stéphanie HUBERLANT,Geneviève PLU-BUREAU
+|Order=3}}
+Endometriosis is a '''multifactorial disease'', resulting from the combined action of '''genetic and environmental factors, and factors related to menstruation.'''
+
+While the pathophysiology of endometriosis is still debated, a number of hypotheses have been put forward, including
+
+*the theory of menstrual regurgitation,
+*the theory of Mullerian metaplasia,
+*the theory of lymphatic and vascular emboli
+*the theory of the role of endometrial stem cells or bone marrow progenitors.
+
+Of these different theories, the one based on the menstrual reflux theory appears to be the most solid, explaining the asymmetric distribution of lesions, which predominate in the posterior compartment of the pelvis and on the left.
+
+From a molecular point of view, inflammation and steroid hormone biosynthesis are the two main mechanisms favouring the implantation and growth of lesions, and endometriosis is therefore considered to be a local inflammatory disease with a peritoneal immune response. The implantation and growth of endometrial fragments outside the uterine cavity are in fact favoured by certain specific molecular and cellular characteristics of the endometrium.
+
+Schematically, these anomalies show :
+
+*Abnormal steroid biosynthesis, with altered expression of hormone receptors (overexpression of the oestrogen receptor, progesterone resistance, overexpression of aromatase), favouring the growth and persistence of lesions;
+*greater potential for invasion and neoangiogenesis thanks to overexpression of metalloproteinases and VEGF;
+*a very strong inflammatory response characterised by the production of IL-6, TNF and oxidative stress.
+
+Finally, the pain associated with endometriosis lesions involves several mechanisms which may coexist: nociception, hyperalgesia and central sensitisation.
+
+1.
+
+<br />

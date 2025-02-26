@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-323-05-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Knowing the concepts of placebo and nocebo effects in clinical trials
+|Description=Know how to define placebo and nocebo effects. To understand the consequences of the placebo effect in therapeutic evaluation.
+|Rubric=Definition
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES),Nathanaël Lapidus (CIMES),David Hajage (CIMES)
+|Order=5}}
+
+Placebo
+
+- Pharmaceutical preparation with no active ingredient.
+
+'''Placebo effect'''
+
+- A change in an individual's state of health or well-being that cannot be explained by a known pharmacological property of a treatment.
+
+- Positive difference between the therapeutic result observed and the therapeutic effect to be expected given the properties of the treatment.
+
+*the placebo effect is not specific to placebo; it may coexist with the effect linked to the pharmacological properties of the treatment
+
+'''Nocebo effect'''
+
+- Identical to the placebo effect but for effects considered undesirable
+
+- Unpleasant sensation after administration :
+
+*a pharmaceutical preparation devoid of active ingredient,
+*or a treatment which cannot, theoretically, produce such an impression.
+
+- Negative difference between the observed therapeutic result and the expected therapeutic effect.
+
+- Examples: drowsiness, headaches, digestive problems.
+
+'''Essential consideration for therapeutic evaluation'''
+
+- Essentially clinical trials.
+
+- Determinants of changes in the health status of research subjects :
+
+*Natural history of the disease.
+*Therapeutic effect (specific effect of treatment + placebo effect).
+*Undesirable effects (treatment-related + nocebo effect).
+
+- The "control group" required to establish a causal relationship between the use of the treatment studied and changes in health status:
+
+*In a randomised trial against placebo alone (without reference treatment), the two arms compared will be subject to the placebo effect and the treatment's own effect will be estimated by the difference in effect measured between the two arms.
+*In a randomised trial against reference treatment, the principle is the same, but the difference in effect between the two treatments compared will be estimated.
+
+test modification<br />

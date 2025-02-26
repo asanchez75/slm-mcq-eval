@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-297-03-A
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=A
+|Title=Knowing the circumstances and clinical signs that should raise the suspicion of a cerebral tumour in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Virginie Gandemer
+|Order=3}}
+
+Half of tumours are sustentorial and the other half subtentorial
+
+Intracranial hypertension (ICHT) is the most common warning sign, typically manifested by intense headaches (usually in the morning) and vomiting. Symptoms can be frustrating, fluctuating over time or even misleading: isolated nausea/vomiting, abdominal pain, irritability, school drop-out.
+
+In infants, HTIC may be manifested by progressive macrocephaly (measure the PC and plot it on curves!), a bulging fontanel, a regression in psychomotor skills and, late in life, a "sunset look".
+
+Acute obstructive hydrocephalus is frequently indicative of a posterior fossa brain tumour in children and may require urgent neurosurgical management (endoscopic ventriculocisternostomy or internal or external CSF shunting).
+
+'''Other manifestations''' may reveal brain tumours, apart from any sign of HTIC: visual deficit, damage to the cranial pairs, balance disorders or vertigo, sometimes comitiality often in the form of partial seizures, or endocrine deficit(s) of central origin.
+
+Any abnormal or persistent symptoms should lead to a careful neurological examination, and emergency brain imaging (MRI++) is always requested in the presence of clinical abnormalities.
+
+Linked SDS :
+
+- Brain abnormality discovered on medical imaging test SD-226
+
+- Announcement of a diagnosis of serious illness to the patient and/or family SD-327]]
+
+- Headache SD-118
+
+- Vomiting SD-013
+
+- Interpretation of a pathology report SD-180
+
+- Writing a request for an SD-230 imaging examination

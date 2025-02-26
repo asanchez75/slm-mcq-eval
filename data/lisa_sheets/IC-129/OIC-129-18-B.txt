@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-129-18-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Know how to diagnose rapid destructive arthropathy: coxarthrosis, gonarthrosis
+|Description=Know the definition of a CDR, its evolution and know how to look for it and diagnose it; Rapid destructive gonarthrosis, its evolution and know how to look for it and diagnose it.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=18}}
+A particular form of rapidly destructive osteoarthritis exists in the knee and hip.
+
+It is defined by the appearance or worsening of a narrowing of the joint space >50% or >2 mm within a year (generally within a few months).
+
+Only repeated imaging (at least three months apart) will reveal chondrolysis by studying the joint pinch.
+
+On the hip, it may progress to osteolysis of the femoral head, which then loses its sphericity. If there is any suspicion of coxitis, particularly infectious or microcrystalline, the joint must be punctured to analyse the synovial fluid.
+
+In the case of the knee, the fluid should also be punctured if there is an effusion and checked for calcium pyrophosphate crystals.

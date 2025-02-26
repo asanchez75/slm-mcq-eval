@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-066-41-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the main psychiatric and non-psychiatric differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=41}}
+
+- Psychiatric: schizophrenia (distinction between delusions and obsessions), EDC (anxious ruminations suggestive of obsessions), GAD, simple phobia, hypochondria (Item 72), abnormal movements / tics, obsessive-compulsive personality disorder (no obsessions or compulsions, preoccupation with order, perfectionism and control).
+
+- Non-psychiatric: Tourette's syndrome and Huntington's chorea.

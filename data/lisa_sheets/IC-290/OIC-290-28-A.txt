@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-290-28-A
+|Item_parent=Epidemiology, risk factors, prevention and screening for cancer
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing the methods of individual screening for cervical cancer and the organised screening programme
+|Description=Objectives, methods
+|Section=Definition
+|Contributors=
+|Order=28}}
+
+
+== '''''Secondary prevention: cervical smear test (CSF) and HPV screening''''' ==
+The FCU is aimed at women aged between 25 and 65.'''''' Between the ages of 25 and 29, it is carried out at the rate of one test every 3 years after 2 initial normal smears 1 year apart.
+
+Between the ages of 30 and 65, an HPV-HR test is carried out instead of a cytological study. This is carried out 3 years after the last normal cytological examination. An HPV test is then carried out every 5 years until the age of 65, if the test result is negative.
+
+In France, vaccination status does not currently influence screening recommendations. Screening is never recommended before the age of 25, even in the case of condylomatous lesions, as HPV carriage is transient and can lead to lesions that will regress spontaneously in the vast majority of cases (apoptosis)<sup>39</sup>. It is carried out more frequently in women who have been exposed in utero to diethylstilbestrol (annually), in the event of HIV infection (every 6 months to a year depending on immune status) or in the event of immunosuppressant treatment (transplants, immunotherapy...). Screening also concerns women who have sex with women, and may be discussed on a case-by-case basis for those who have had sex without penetration, because of the risk of transmission by simple contact. It should be noted that pregnant women are screened in the first half of the year if the expected date of delivery is later than the recommended 3-year interval<sup>39</sup>.
+
+'''The exclusion criteria''' for mass screening are :
+
+o Women who have had an abnormal smear in their history (i.e. at least one low-grade lesion or ASC-US or glandular cell abnormality) as long as they remain HPV positive;
+
+o Women suspected of having cancer on clinical examination who require an immediate diagnostic examination (colposcopy +/- biopsy or conisation).
+
+o Women who have had a total hysterectomy for reasons other than cervical pathology.

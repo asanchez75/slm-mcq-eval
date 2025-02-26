@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-097-05-A
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=A
+|Title=Recognise the three phases in the evolution of polyradiculoneuritis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Acute polyradiculoneuritis evolves in three phases: extension, plateau and recovery.
+
+'''Extension phase'''
+
+By definition, the extension phase lasts less than 4 weeks. It often lasts just a few days.
+
+The clinical manifestations are :
+
+In demyelinating Guillain-Barré syndrome
+
+'''([[Vertigo and dizzy sensation SD-064|vertigo and dizzy sensation]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]], [[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]], [[Muscle weakness SD-074|muscle weakness]], [[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Facial paralysis SD-127|facial paralysis]], [[Balance disorders SD-130|balance disorders]])'''
+
+- frequent subjective sensations (paresthesias, distal tingling in all four limbs), with an ascending course; and objective sensations (ataxia)
+
+- pain (radiculalgia of the lower limbs).
+
+- The motor impairment is a relatively symmetrical, extensive and severe paresis, which predominates proximally and then affects the extremities.
+
+- paresis beginning in the lower limbs, rarely affecting the cranial nerves (facial) '''([[Facial paralysis SD-127|facial paralysis]])''' in the initial phase; involvement of the neck and trunk is later;
+
+In acute axonal motor neuropathy
+
+- Pure motor impairment also affects all four limbs.
+
+The phase of extension is more rapid in acute axonal motor neuropathy than in demyelinating Guillain-Barré syndrome.
+
+'''Stage phase'''
+
+A phase of stable deficits
+
+About :
+
+- a third of patients retain the ability to walk;
+
+- a third is confined to bed;
+
+- one third requires respiratory assistance. '''([[Dyspnoea SD-162|dyspnoea]]) ([[Acute respiratory distress SD-160|acute respiratory distress]])''''
+
+Motor deficits vary in intensity. Involvement of the cranial nerves is frequent: facial nerve (often diplegia) '''([[Facial paralysis SD-127|facial paralysis]])''' and swallowing disorders ('''[[Swallowing disorders or false swallowing SD-062|swallowing disorders or false swallowing]])''' (last cranial nerves), while involvement of the oculomotor nerves is rarer.
+
+The sensory deficit predominates over proprioception and is responsible for ataxia.
+
+The vegetative nervous system is frequently affected (tachycardia, orthostatic hypotension, abnormal sweating, constipation) in severe forms.
+
+The duration of the plateau varies, being longer in severe forms (up to several months) and in certain acute axonal motor neuropathies.
+
+'''Recovery phase'''
+
+Recovery takes place in reverse order to the appearance of the deficits.
+
+In demyelinating Guillain-Barré syndrome, it may last several months.
+
+In the course of acute axonal motor neuropathy, recovery is either rapid with the lifting of conduction blocks under treatment with IV immunoglobulins, or very slow over several months if distal conduction blocks and axonal degeneration persist.
+
+Failure to recover after 12 to 18 months may be considered definitive.
+
+In the best series, 5% of patients die; 15% have permanent sequelae: motor deficit, ataxia.

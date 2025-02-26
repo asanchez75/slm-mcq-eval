@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-230-13-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Know the main causes of acute chest pain outside the four cardiovascular emergencies
+|Description=pneumonia, pneumothorax. Refer to corresponding items
+|Rubric=Etiologies
+|Contributors=Vincent Roule
+|Order=13}}
+
+'''Know the main thoracic causes of acute pain apart from the 4 cardiovascular emergencies'''
+
+- infectious pneumopathy
+
+- pneumothorax
+
+- pleural effusion
+
+- musculoskeletal parietal pain (Tietze syndrome, musculoligament pain, rib fractures)

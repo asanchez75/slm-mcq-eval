@@ -1,0 +1,253 @@
+{{knowledge objective
+|Identifiant=OIC-174-03-B
+|Item_parent=Infectious pathology in adult and child migrants
+|Item_parent_short=Infectious pathology in adult and child migrants
+|Rank=B
+|Title=Knowing the epidemioclinical arguments and strategies for complementary examinations to identify the main infectious pathologies of migrants
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Johan Courjon
+|Order=3}}
+
+{| class="wikitable"
+|
+| colspan="6" |'''Geographical origin'''
+| colspan="6" |'''Complementary examinations''
+|-
+|
+|Sub-Saharan Africa
+|North Africa
+|South East Asia
+|Indian Subcontinent
+|Latin America
+|West Indies
+| colspan="6" |
+|-
+|'''Pathogens'''
+|
+|
+|
+|
+|
+|
+| colspan="6" |
+|-
+|'''Bacteria''''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|Tuberculosis
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+| colspan="6" |ITL: by gamma interferon assay. Tuberculosis disease: iconography and culture
+|-
+|'''Virus'''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|Hepatitis B
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+| colspan="6" rowspan="3" |Serologies
+|-
+|Hepatitis C
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|-
+|HIV
+|<nowiki>+</nowiki>
+|
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|-
+|'''Helminthoses''''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|Digestive parasites
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+| colspan="6" |EPS
+|-
+|Cysticercosis
+|
+|
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|
+| colspan="6" |Neurocysticercosis: a body of clinical and radiological evidence
+|-
+|Hydatitdose
+|
+|<nowiki>+</nowiki>
+|
+|
+|<nowiki>+</nowiki>
+|
+| colspan="6" |Arguments: iconography and serology
+|-
+|Filariasis
+|<nowiki>+</nowiki>
+
+Lymphatic F. and Loasis
+|
+|<nowiki>+</nowiki>
+
+Lymphatic F.
+|<nowiki>+</nowiki>
+
+Lymphatic F.
+|<nowiki>+</nowiki>
+
+Onchocerciasis
+|<nowiki>+</nowiki>
+
+Lymphatic F.
+| colspan="6" |Loase: hypereosinophilia, serology and blood smear for daytime microfilaremia
+
+Lymphatic filariasis: nocturnal microfilaraemia
+
+Onchocerciasis: skin biopsy
+|-
+|Schistosomiasis
+|<Onchocerciasis: skin biopsy
+
+urinary intestinal hepatic
+|<nowiki>+</nowiki>
+
+urinary
+|<nowiki>+</nowiki>
+
+intestinal hepatic
+|<nowiki>+</nowiki>
+
+urinary
+|<nowiki>+</nowiki>
+
+intestinal
+|<nowiki>+</nowiki>
+
+intestinal
+| colspan="6" |Serology, PSE, EPU
+|-
+|Protozooses
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|Malaria
+|<nowiki>+</nowiki>
+|
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|
+| colspan="6" |Sensitive technique (e.g. thick drop or QBC) + thin smear
+|-
+|Leishmaniasis
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|
+| colspan="6" |Skin samples for direct examination-culture-PCR (cutaneous form) Direct bone marrow examination, serology, PCR (visceral form)
+|-
+|Crypanosomiasis
+|<nowiki>+</nowiki>
+
+African
+|
+|
+|
+|<nowiki>+</nowiki>
+
+Chagas
+|
+| colspan="6" |Direct examination for parasites on blood (both) or CSF (Africa) or serological tests
+|-
+|Amoebiasis
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+| colspan="6" |EPS, stool PCR, rectoscopy (colonic amoebiasis) radio-clinical arguments and serology (hepatic amoebiasis)
+|-
+|Giardiosis
+|
+|
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|
+|<nowiki>+</nowiki>
+| colspan="6" |EPS
+|-
+|Strongyloidosis
+| +
+|
+| +
+| +
+| +
+| +
+| colspan="6" |EPS with specific search
+|}

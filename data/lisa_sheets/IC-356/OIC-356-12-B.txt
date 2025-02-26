@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-356-12-B
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=B
+|Title=Knowing the particularities of the clinical presentation of appendicitis in pregnant women
+|Description=The uterus increases in volume and the appendix may be pushed upwards, outwards and backwards.
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=12}}
+
+The uterus increases in size and the appendix may be pushed upwards, outwards and backwards.

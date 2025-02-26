@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-098-06-A
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=A
+|Title=Recognising emergency situations in myasthenia gravis
+|Description=Myasthenic seizures, infections, medication
+|Rubric=Identifying emergencies
+|Contributors=
+|Order=6}}
+
+
+* Acute attacks of myasthenia (myasthenic crisis) may occur spontaneously or be triggered by contraindicated medication, infection, surgery or post-partum.
+* The major signs of seriousness are congestion, shortness of breath at the slightest effort with orthopnoea ([[Dyspnoea SD-162|Dyspnoea]]), ineffective cough ([[Cough SD-167|Cough]]), false routes ([[Swallowing disorders or false route SD-062|Swallowing disorders or false route]]) and/or muscular weakness becoming very marked ([[Muscular weakness SD-074|Muscular weakness]] ; [Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]).
+* Rapid motor and respiratory deterioration ([[Acute respiratory distress SD-160|Acute respiratory distress]]) may also occur during the cholinergic crisis, which is sometimes difficult to distinguish from the myasthenic crisis:
+
+- It is due to an overdose of anticholinesterase drugs ([[Suspicion of an Adverse Drug Reaction or an SD-348|Suspicion of an Adverse Drug Reaction or an SD-348|Suspicion of an Adverse Drug Reaction or an SD-348|Suspicion of an Adverse Drug Reaction or an SD-348|Suspicion of an Adverse Drug Reaction]]).
+
+- It is characterised by the presence of signs of cholinergic overdose: diffuse fasciculations, cramps ([[Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]), digestive signs (nausea, vomiting ([[Vomiting SD-013|Vomiting]]), diarrhoea ([[Diarrhoea SD-002|Diarrhoea]])), miosis, bradycardia ([[Bradycardia SD-159|Bradycardia]])
+
+* The two complications can interact.
+
+- Transfer to intensive care is essential
+
+<br />

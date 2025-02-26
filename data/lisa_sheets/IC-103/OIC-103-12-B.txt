@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-103-12-B
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=B
+|Title=Indication of imaging tests for vertigo
+|Description=If associated neurological signs: MRI of brain and IACs; if otological signs: CT of temporal bone + MRI if necessary; if typical peripheral vertigo (e.g. BPPV), no imaging; if atypical, MRI of IACs and posterior fossa.
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+
+
+*High-performance ''rock scanner'' for: temporal bone, tympano-ossicular system, mastoid, facial nerve, bony labyrinth - ''injection-free, high-resolution''.
+*MRI for studying soft tissue (membranous labyrinth, internal acoustic meatus, cerebellopontine angles, posterior cranial fossa) - rocks + brain, without and with gadolinium injection and specific sequences (Flair, diffusion) without or with imaging of the supra-aortic trunks.
+
+#<u>In emergency, to rule out a stroke: MRI, if</u> :
+##Red flags for cerebellar infarction.
+##Dysharmonious vestibular syndrome
+##Neurological signs other than vestibular syndrome
+##[[Headache SD-118|Headache]] atypical
+##VPPB ([[Vertigo and dizziness SD-064|vertigo]] benign paroxysmal positional vertigo) atypical and persistent
+##First atypical acute vertigo in children
+
+2. <u>Persistent vertigo other than typical BPPV</u>: non-emergency MRI (rule out vestibular schwannoma, posterior fossa tumour).
+
+3. <u>Following associated otological signs</u> (tympanic abnormality, [[Decreased hearing/deafness SD-140|conductive deafness]], [[Otorrhea SD-154|otorrhea]]) suggestive of cholesteatoma: CT scan + MRI with diffusion sequences for cholesteatoma, or even labyrinthitis with gadolinium injection.
+
+4. <u>Traumatic context</u>: rock scan (rock fracture, osteomeningeal breach...).
+
+
+[[Reasoned request/prescription and choice of a diagnostic examination SD-178|(reasoned request/prescription and choice of a diagnostic examination]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]]; [Discovery of a brain abnormality during a medical imaging examination SD-226|discovery of a brain abnormality during a medical imaging examination]])

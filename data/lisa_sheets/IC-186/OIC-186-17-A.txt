@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-186-17-A
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Title=Knowing the major epidemiological trends in food allergy: prevalence, mortality, allergens, etc.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=17}}Food allergies are common in children. According to recent data from the ELFE cohort (cohort of children born in 2011), the prevalence of food allergies between birth and 5.5 years of age was 6%. Milk was the most frequently found allergen (3.4%) followed by egg (0.87%), peanut (0.87%), exotic fruits (0.56%), nuts (0.50%), gluten (0.35%) and fish (0.27%).<ref>[https://www.sciencedirect.com/science/article/pii/S1877032021000749 Tamazouzt] et al Prevalence of food allergies in France: data from the ELFE cohort</ref>
+
+Anaphylaxis is responsible for an increasing number of hospitalisations in paediatrics and is responsible for less than 1 child death per year in France.<ref>[https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/hypersensibilites-allergies#b-epidemiologie-de-l-allergie Chapter hypersensitivity and allergy. Paediatrics, 8th edition, by Grégoire Benoist, Antoine Bourrillon, Christophe Delacourt and Christèle Gras-Le Guen.Elsevier Masson SAS]</ref>
+
+
+<br />

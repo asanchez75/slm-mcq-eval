@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-347-10-B
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=B
+|Title=Knowing the respective indications for bladder catheterisation and suprapubic catheterisation
+|Description=None
+|Topic=Management
+|Contributors=Jonathan Olivier
+|Order=10}}
+
+Any acute retention of urine is a therapeutic emergency, requiring bladder drainage, either trans-urethral or suprapubic. The type of drainage chosen depends on the context and the weaning objectives.
+{| class="wikitable"
+|
+|'''Bladder catheterisation''''
+|Suprapubic catheterisation
+|-
+|'''Advantages'''
+|Simple
+
+Slope drainage
+
+Allows the bladder to be washed (haematuria: decaillotage)
+|Clamping test possible (assessment of voiding recovery)
+
+Avoiding the risk of urethral malpractice
+|-
+|'''Disadvantages''''
+|No clamping test possible
+
+Risk of false urethral routes
+|Non-decubitus drainage
+
+Does not allow bladder cleansing (haematuria)
+|-
+|'''Contraindications''''
+|Urethral trauma
+Stenosis of the urethra
+
+Trauma to the pelvis
+|Bladder tumour (risk of tumour spreading)
+
+Anticoagulation (risk of bladder clotting)
+
+Diagnostic doubt (risk of intestinal damage)
+
+Cross-vascular bypass
+
+Presence of subumbilical scars (relative CI)
+|}
+CI : Contraindication
+<br />

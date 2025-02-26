@@ -1,0 +1,153 @@
+{{knowledge objective
+|Identifiant=OIC-276-02-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Title=Know the main causes of hepatomegaly and abdominal mass
+|Description=including parasitic diseases (echinococcosis, schistosomiasis, visceral leishmaniasis)
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+Hepatomegaly is not a very specific sign. The main causes are grouped according to mechanism in table 1. The most frequent causes are hepatic steatosis, cirrhosis and hepatic metastases of digestive cancers.
+
+
+''Table 1.'' Main causes of hepatomegaly
+{| class="wikitable"
+|'''Category/mechanism'''
+|'''Pathologies'''
+|-
+|'''Acute or chronic primary liver diseases'''
+|Alcohol-related or metabolic steatosis / steatohepatitis
+
+Cirrhosis (hepatomegaly is inconstant)
+
+Acute or chronic hepatitis
+|-
+|''Congestion due to obstruction of hepatic venous return'''
+|Right heart failure, constrictive pericarditis
+
+Budd-Chiari syndrome (exceptional)
+<br />
+|-
+|Hepatic tumours
+|Malignant liver tumours
+
+- Primary: hepatocellular carcinoma, cholangiocarcinoma
+
+- Secondary: Metastases
+
+- Malignant haemopathy: very rare
+
+
+'''Benign hepatic tumours'''
+
+- Polycystic liver or hepatorenal disease
+
+- Other benign tumours (exceptional hepatomegaly)
+|-
+|Infectious diseases
+|Amebic or bacterial hepatic abscesses
+
+Parasitic lesion (hydatidosis)
+<br />
+|}
+The main causes of abdominal masses are summarised in Table 2. Tumour is the most common cause. The causes vary according to the organ affected.
+
+Table 2 Main causes of palpable abdominal mass, according to location
+{| class="wikitable"
+|'''Location of the mass'''
+|'''Organ affected'''
+|Cause
+|-
+| rowspan="3" |Epigastrium
+|Stomach
+|Gastric tumour
+<br />
+|-
+|Pancreas
+|Pancreatic tumour (rarely palpable)
+
+Pancreatic pseudocyst (rarely palpable)
+|-
+|Liver
+|Hepatomegaly at the expense of the left liver (see Table 1)
+|-
+| rowspan="2" |Right hypochondrium
+|Liver
+|Hepatomegaly Cf. Table 1
+|-
+|Gall bladder
+|Lower bile duct obstruction (e.g. pancreatic head cancer)
+
+Malignant tumour of the gallbladder
+|-
+|Left hypochondrium
+
+and left flank
+|Rash
+|Plenomegaly
+|-
+|Right iliac fossa
+|Caecum
+|Tumour (right colon cancer)
+
+Crohn's disease (ileitis, abscess)
+
+Appendicular abscess (rare)
+|-
+|Right ovary
+|Ovarian cyst
+
+Ovarian tumour (primary cancer or metastasis)
+|-
+| rowspan="2" |Left iliac fossa
+|Sigmoid
+|Constipation
+
+Tumour of the sigmoid
+
+Sigmoiditis
+|-
+|Left ovary
+|Ovarian cyst
+
+Ovarian tumour
+|-
+| rowspan="2" |Umbilical region
+|Aorta
+|Abdominal aortic aneurysm
+|-
+|Transverse colon
+
+Small intestine
+|Colonic cancer
+
+Tumour of the small intestine (rare)
+|-
+|Hypogastrium
+|Uterus
+
+
+
+Bladder
+|Pregnancy
+
+Uterine fibromyoma
+
+Endometrial cancer
+
+Bladder Globe
+
+Bladder tumour
+|-
+| rowspan="3" |Ubiquitous
+|Peritoneum
+|Peritoneal carcinoma (any site, including umbilical metastasis)
+|-
+|Ganglia
+|Adenopathies (lymphoma, metastases)
+|-
+|Wall
+|Hernias, ventrations
+|}
+<br />

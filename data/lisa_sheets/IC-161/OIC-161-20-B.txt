@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-161-20-B
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=B
+|Title=Knowing the additional examinations to be carried out for recurrent urinary tract infections
+|Description=Know the aetiologies, favouring factors and additional examinations (cystography, cystoscopy, CT scan) to be carried out.
+|Rubric= Complementary examinations
+|Contributors=Maxime Vallée, Alice Faure
+|Order=20}}
+
+
+*Be absolutely wary of the too easy diagnosis of "recurrent cystitis" when a woman has LUTS during the filling phase associated with bacteriuria; this "true" diagnosis is rare''.
+*Differentiate between the management of young patients starting their sexual life and post-menopausal patients.
+
+<br />
+
+*Prove the infectious nature of the infection: a patient labelled as having "recurrent cystitis" must have confirmation by ECBU so that the link between symptoms and bacteriuria can be established.
+*Micturition schedule +++''; this simple examination makes it easy to rule out "false recurrent cystitis"; for example, idiopathic overactive bladder...
+
+<br />
+
+*Be wary of the patient who is [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|post-menopause 124]], smoker, with SBAU and sometimes [[Haematuria|haematuria 260]] who should be investigated for [[Bladder tumours|bladder tumour 314]].
+*Flowmetry
+*Ultrasound of the urinary tract with assessment of post-micturition residual.
+*Other examinations should be carried out according to the context and are not systematic.
+
+<br />

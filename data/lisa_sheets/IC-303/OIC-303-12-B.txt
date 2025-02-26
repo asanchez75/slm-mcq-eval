@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-303-12-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Title=Knowing the differential diagnoses
+|Description=Identifying differential diagnoses
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+1.    The main diagnostic pitfall, which is not strictly speaking a differential diagnosis, is ''the ulcerated form of gastric adenocarcinoma which may macroscopically resemble a benign ulcer'' with the risk of it being unrecognised if insufficient endoscopic biopsies are taken around the ulcer and if its healing with new biopsies from the scarred area is not monitored by an EOGD.
+
+
+2.   The diagnosis of "gastric linitis", which is a particular form of gastric adenocarcinoma consisting of independent "kitten-ring" cells invading the different layers of the gastric wall, while respecting the mucosa, is sometimes difficult to diagnose (negative superficial biopsies). It is characterised by an infiltrated appearance of the gastric wall with large rigid folds and poor insufflation on endoscopy, thickening of the submucosa on echo-endoscopy and a diffuse thickened appearance of the gastric wall on CT scan. Linitis is often associated with peritoneal and lymphatic extension, and has a poorer prognosis than "classic" adenocarcinoma of the stomach.
+
+
+3.   In endoscopy, certain other diagnoses may be discussed.
+
+The ''other anatomopathological types'' of gastric tumours are as follows:
+
+- Neuroendocrine tumour
+
+- Gastric stromal tumours (GIST) which develop from the muscularis propria of the stomach
+
+- Primary gastric lymphoma (MALT lymphoma)
+
+- Gastric metastases (breast ++, kidney ...) RARE
+
+Endoscopic biopsies are generally used to diagnose these other types of gastric cancer.
+
+
+4.   '''Benign gastric tumours''' which generally do not lead to endoscopic confusion with a malignant tumour are the following:
+
+- Glandular-cystic polyps generally located in the fundus and associated with long-term PPI use.
+
+- Adenomatous polyp (rare, pre-cancerous lesion)
+
+- Hyperplastic polyp
+
+Ménétrier's large folds gastritis (exceptional)

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Rank=B
+|Title=Knowing the organisation of occupational health services
+|Description=General missions and organisation of occupational health services
+|Contributors=Isabelle Thaon,Jean François Gehanno,Irène Sari Minodier
+|Order=1
+|Identifiant=OIC-183-01-B
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+}}
+'''Every employer''' (public or private) with at least one employee must organise or join an occupational health and prevention service (SPST).
+
+2 modes of organisation for STPS:
+
+*Either a department shared by several companies = an inter-company OHS department
+*Or an internal department within the company in the case of a large company = autonomous OHS.
+
+
+STPSs are organised into ''multidisciplinary teams'' comprising :
+
+*nurses
+*occupational risk specialists such as ergonomists, engineers and psychologists,
+*and led by the occupational physician.
+
+The two main missions of the STPS are :
+
+*advice to employees and employers on the assessment and management of occupational risks, and
+*and employee health monitoring.
+
+They also have a "health promotion" role.

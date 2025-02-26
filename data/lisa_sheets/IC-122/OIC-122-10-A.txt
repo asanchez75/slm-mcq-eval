@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-122-10-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Know the rules for prescribing massage therapy.
+|Description=The essential and optional elements of a physiotherapy prescription.
+|Rubrique=Prise en charge
+|Contributors=Claire Hentzen
+|Order=10}}
+Eléments indispensables pour la prescription de masso-kinésithérapie ('''[[Prescription d'une rééducation SD-247|Prescription d'une rééducation]], [[Rédaction d'une ordonnance/d'un courrier médical SD-342|Rédaction d'une ordonnance/d'un courrier médical]])'' :
+
+* Full details of the prescriber
+* Date
+* Patient's full name
+* Nature of prescription: "<u>masso-kinésithérapie</u>".
+* Indication for physiotherapy (area to be treated)
+* Signature
+* Writing in the appropriate area of the bizone prescription if the treatment is linked to a long-term condition (ALD).
+* Include "Sundays and public holidays" if necessary (respiratory problems).
+
+For 14 indications, the French National Authority for Health has validated the number of sessions covered by the national health insurance. If it is necessary to extend the number of sessions beyond this recommendation, a request for prior authorisation must be submitted, with supporting arguments.
+
+Optional elements :
+
+* Number and frequency of sessions
+
+A letter may be attached to clarify the diagnosis and important aspects of the clinical context.
+
+The physiotherapist must carry out an assessment, the report of which is sent to the prescriber at the end of the rehabilitation.

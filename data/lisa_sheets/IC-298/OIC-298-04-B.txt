@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-298-04-B
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=B
+|Title=General epidemiology of cancers of the upper aerodigestive tract
+|Description=To know the incidence, mortality and epidemiological trends of cancers of the cervicofacial sphere
+|Rubric=Epidemiology
+|Contributors=
+|Order=4}}
+In 2017, VADS cancers (excluding lymphoma) ranked 4<sup>th</sup> in men in terms of the number of new cases (10932) and 8<sup>th</sup> in terms of the number of deaths, and 10 th in women in terms of the number of new cases (4332) and 8<sup>th</sup> in terms of the number of deaths.
+
+Overall survival at 5 years was 34% in men and 49% in women in 2017, but depends very much on the stage of the disease, risk factors (better prognosis for HPV-induced cancers) and location (better prognosis for the larynx).
+
+<br />

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-085-04-B
+|Item_parent=Refractive disorders
+|Item_parent_short=Refractive Disorders
+|Rank=B
+|Title=Knowing how to define normal visual acuity according to age
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+Foveolar maturation continues post-natally and visual acuity (VA) increases with age:
+
+- Birth: AV 1/30th (finger at 30 cm)
+
+- 3 months: AV 1/10th (pencil lead at 30 cm)
+
+- 6 months: AV 2/10ths
+
+- 1 year: AV 4/10th (hair at 30 cm)
+
+- 3 years: AV 7/10<sup>e</sup>.
+
+- From 5 years: AV 10/10e

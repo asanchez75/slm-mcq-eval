@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-123-05-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Intitle=Know the demographic definition
+|Description=Know the interest of rates, age pyramids, life expectancy with and without disability.
+|Rubric=Definition
+|Contributors=Anne-Laure Couderc,Olivier Guerin
+|Order=5}}
+
+- Average lifespan: biologically programmed lifespan under ideal conditions
+
+- Maximum service life: maximum observed service life
+
+- Life expectancy: average number of years of life for a given age group (life expectancy at birth or life expectancy at a given age, which corresponds to the average number of years remaining to live beyond that age).
+
+- Disability-free life expectancy: average number of years of disability-free life

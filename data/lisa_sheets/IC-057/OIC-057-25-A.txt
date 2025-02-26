@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-057-25-A
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=A
+|Intitulé=Maltraitance et enfants en danger : connaître les modalités de l'enquête clinique
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=25}}
+NB on the title of the item: the term "clinical and paraclinical elements" has been preferred to the term "clinical investigation" used in the programme so as not to lead to confusion. In no case should the doctor replace the investigator.
+
+'''Maintenance and examination of the health record'''
+
+- The child's overall health: growth chart (weight, height, CP) for infants, history, systematic medical monitoring, vaccinations, etc.
+
+- Research into risk factors ([[Child abuse and children at risk: epidemiology 2C-057-PE-A01]])
+
+- Circumstances of occurrence: plausibility of the circumstances described in relation to the injuries observed (in the case of physical violence), time taken to consult a health professional, expression of pain and management of pain
+
+
+Physical examination: explanations of the examination procedure and its objectives, respect for modesty, step-by-step examination respecting the patient's refusal of the examination. A difficult examination should not be repeated (leave it to an experienced doctor, particularly for the perineal examination if indicated).
+
+Overall health: weight, height, CP, nutritional status, psychomotor development, oral and dental health, hygiene
+
+Expression of pain
+
+Search for traumatic lesions: condition of the skin, mucous membranes, functional impotence leading to suspicion of a fracture
+
+Perineal examination to be carried out ''in the event of'' symptoms or doubt/concern about associated sexual violence if trained to do so
+
+
+'''Additional examinations:'''
+
+Imaging :
+
+- Systematic before the age of 2 in cases of suspected physical abuse: brain CT scan, skeletal X-ray, fundus, abdominal ultrasound ([Indication for imaging in cases of suspected child abuse 2C-057-EC-B01]]).
+
+- Referred according to clinical signs after 2 years
+
+
+Biology :
+
+- Complete blood count and haemostasis test (bruises, haematomas)
+
+- phospho-calcium balance (fractures) calcium, phosphorus, PAL, PTH and vitamin D in the blood + calciuria, phosphoruria, creatininuria, phosphorus reabsorption
+
+- nutritional assessment (neglect/denutrition): vitamin C, folate, B12, ferritin (check for other associated deficiencies depending on the context)
+
+- urinary and blood toxins
+
+- liver work-up, lipase, haematuria (abdominal trauma)
+
+- differential diagnosis in cases of subdural haematoma (cf shaken baby): copper, ceruleoplasmin, urinary organic acid chromatography assay

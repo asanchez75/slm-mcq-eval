@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-279-10-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Title=Knowing the management of hepatic encephalopathy
+|Description=IOT criteria, pharmacological treatment (Lactulose, Rifaximin)
+|Rubric=Management
+|Contributors=
+|Order=10}}
+The first step in management is to look for one of these triggers and correct it.
+
+In the event of severe unconsciousness, treatment consists essentially of preventing inhalation of gastric contents by inserting a nasogastric tube and placing the patient in a semi-seated position, or even by orotracheal intubation.
+
+Lactulose should be used as a curative treatment for clinical hepatic encephalopathy or as secondary prevention.
+
+Rifaximin is a non-absorbable antibiotic that can be used if lactulose fails.

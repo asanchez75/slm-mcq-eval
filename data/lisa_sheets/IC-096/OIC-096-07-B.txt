@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-096-07-B
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=B
+|Title=Knowing the etiologies of the rarer length-dependent axonal polyneuropathies
+|Description=Amyloidosis
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+'''Hereditary and primary amyloidosis (gammopathy)'''
+
+Amyloid polyneuropathy is secondary to deposits of amyloid substance (mutated prealbumin in hereditary amyloidosis or monoclonal gammopathy in primary amyloidosis) in the nerve.
+
+A search for amyloidosis should be carried out when :
+
+- Chronic axonal polyneuropathy ;
+
+- Comportant une expression dysautonomique riche '''; ([[Troubles sexuels et troubles de l'érection SD-063|troubles sexuels et troubles de l'érection]]) ([[Vertige et sensation vertigineuse SD-064|vertige et sensation vertigineuse]]) ([[Malaise/perte de connaissance SD-050|malaise/perte de connaissance]])''''
+
+- And uni- or bilateral carpal tunnel syndrome;
+
+- And systematically in a family context.
+
+Proof is obtained from the presence of amyloid substance in tissue, particularly in the sensory nerve after nerve biopsy ('''[[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]]'''); from the demonstration of a mutation in the transthyretin (prealbumin) gene in familial forms.  
+
+'''Infectious causes'''
+
+AIDS can lead to sensory polyneuropathy in the late phase of the disease '''([[Discovery positive diagnosis rapid screening vi h SD-235|découverte diagnostic positif dépistage rapide VIH]])'''
+
+'''Other causes'''
+
+Predominant pain, an associated motor deficit and an asymmetric onset of neuropathy should raise the suspicion of advanced vasculitis '''([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]])''''
+
+and discuss a nerve biopsy.

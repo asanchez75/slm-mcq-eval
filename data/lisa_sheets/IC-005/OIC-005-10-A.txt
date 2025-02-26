@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-005-10-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Know the definition of nosocomial infection
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=10}}
+
+Nosocomial infections are infections contracted during a stay in a healthcare establishment (hospital, clinic, etc.). They are also known as healthcare-associated infections. This means that these infections were not present when the patient was admitted to the establishment. However, if the patient's infectious state on admission is unknown, the infection is generally considered to be nosocomial if it appears after 48 hours of hospitalisation. If it appears before this time, it is generally considered to have been incubating when the patient was admitted to the hospital.

@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-193-03-A
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods.
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=A
+|Intitle=Know the main signs suggestive of the diagnosis of vasculitis
+|Description=General signs, involvement of large vessels, cutaneous signs.
+|Rubric=Positive diagnosis
+|Contributors=Luc Mouthon
+|Order=3}}
+
+'''<big>General manifestations:</big>''' altered general condition ('''[[Asthenia SDD-021|asthenia]]''', anorexia and [[Weight loss SDD-017|'''weight loss''']]), febrile or feverish ('''[[Hyperthermia/fever SDD-044|hyperthermia/fever]]''') frequent
+
+'''<big>Nonspecific rheumatologic manifestations:</big>''''''''''[[Joint pain SDD-067|joint pain]]'''' of inflammatory schedule, '''[[Myalgia SDD-077|myalgia]]''''''
+
+'''<big>Skin involvement:</big>''' ''[[Purpura/ecchymosis/haematoma SDD-089|purpura (]]'''vasculitis of small and medium-sized vessels), skin ulcers or necrosis, livedo or subcutaneous nodules.
+
+'''<big>Pulmonary involvement:</big>'''' '''[[Dyspnoea SDD-162|dyspnoea]]''', '''[[Cough SDD-167|cough]]''' (small-calibre vasculitis)
+
+*pulmonary nodules, sometimes excavated, in GPA
+*pulmonary infiltrates, in all ANCA-associated vasculitides
+
+*intra-alveolar haemorrhage: haemoptysis ('''[[Blood emission through the mouth SDD-014|blood emission through the mouth]]'''), during ANCA-associated vasculitides and vasculitides with anti-glomerular basement membrane (GBM) antibodies
+*late-onset asthma: GEPA
+
+'''<big>Renal impairment:</big>''''
+
+*renal vascular damage with ''[[arterial hypertension SDD-042|arterial hypertension]]'' and possible renal infarctions: periarteritis nodosa
+*glomerular damage (IgA nephropathy in IgA vasculitis, membranoproliferative glomerulonephritis in cryoglobulinemic vasculitides, and extracapillary glomerulonephritis in ANCA-associated vasculitides), to be detected by urine dipstick ('''[[Urine dipstick analysis SDD-182|urine dipstick analysis]]''' ; urinary sediment analysis SDD-196|urinary sediment analysis]''' : proteinuria and '''[[Haematuria SDD-102|haematuria]]''') and the search for a '''[[Increased creatinine SDD-199|increased creatinine]]'''.
+
+'''<big>NOSE AND THROAT disease:</big>''' rhinitis, sinusitis or nasal polyposis (GPA and GEPA).
+
+'''<big>Digestive involvement:</big>''''''''''''[[Abdominal pain SDD-004|abdominal pain]]''''', with risk of perforation and/or d''''[[Acute haemorrhage SDD-060|acute haemorrhage]]''''' digestive (''''''''[[Blood emission through mouth SDD-014|blood emission through mouth]]'''''; '''[[Melena/rectorrhagia SDD-010|melena/rectorrhagia]]''') (IgA vasculitis and periarteritis nodosa). 
+
+'''<big>Neurological impairment, especially peripheral:</big>''''Sensory or sensitivomotor polyneuropathy (cryoglobulinemic vasculitides), multiple mononeuropathies (ANCA-associated vasculitides), responsible for neuropathic pain and paresthesias (''''[[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias)]]'' and a '''[[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]]'''. 
+
+'''<big>Ocular damage:</big>''' conjunctivitis (Kawasaki disease), episcleritis or scleritis (GPA), uveitis (Behçet's disease).
+
+'''<big>Cardiovascular damage:</big>'''' coronary aneurysms (Kawasaki disease)
+
+'''<big>Testicular involvement:</big>''' rare, responsible for '''[[Testicular pain SDD-100|testicular pain]]'''' (testicular pain) in association with orchitis.

@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-261-12-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Knowing the clinical and biological elements leading to suspicion of IgA nephropathy
+|Description=Know that the occurrence of haematuria 48 hours after an infectious epidosis (ENT or other) is suggestive of IgA nephropathy. Know that microscopic haematuria alone or associated with proteinuria may suggest NIgA in the first instance.
+|Rubric=Positive diagnosis
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=12}}
+
+'''C.     IgA nephropathy''''
+
+'''Diagnosis'''
+
+All glomerular syndromes are possible:
+
+* Recurrent macroscopic haematuria syndrome, without clots or pain, typically 48 hours after an episode of ENT infection;
+* Chronic glomerulonephritis syndrome;
+* Isolated microscopic haematuria;
+* Other possible presentations are :
+** impure nephrotic syndrome with haematuria and hypertension,
+** rapidly progressive glomerulonephritis syndrome.
+
+'''Diagnosis of NIgA is based on renal biopsy:'''
+
+* Mesangial deposits of IgA and C3.
+* mesangial cell proliferation, ± endocapillary, ± extracapillary
+
+Etiological diagnosis
+
+* Associated secondary NIgA :
+** cirrhosis,
+** chronic inflammatory bowel disease,
+** spondyloarthropathies,
+* IgA nephropathy in rheumatoid purpura:
+** Systemic vasculitis of small-calibre arteries with IgA
+** More common in children than adults.
+** Extra-renal signs: vascular purpura, arthralgia, abdominal pain, myalgia,
+** NIgA is sometimes severe with a rapidly progressive glomerulonephritis syndrome.
+** The most severe forms require high-dose corticosteroid therapy.
+
+'''In the absence of a cause:''' Primary IgA nephropathy or Berger's disease.

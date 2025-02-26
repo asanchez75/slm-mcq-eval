@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-272-01-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Item_parent_short=Gastric and duodenal ulcer.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Gastric or duodenal ulcer (UGD) : Loss of substance of the gastric or duodenal wall reaching the muscularis of the wall of the digestive tract.  '''
+
+To be distinguished from erosions, which are limited to the mucosa, and superficial ulcerations, which reach the submucosa but do not extend beyond it.

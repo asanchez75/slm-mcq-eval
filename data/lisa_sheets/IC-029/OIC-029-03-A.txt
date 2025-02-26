@@ -1,0 +1,118 @@
+{{knowledge objective
+|Identifiant=OIC-029-03-A
+|Item_parent=Know the main occupational risks for maternity, linked to the mother's work
+|Item_parent_short=Know the main occupational risks for maternity, linked to the mother's work
+|Rank=A
+|Intitle=To know the general approach to preventing occupational risks for pregnant women
+|Description=General approach to preventing occupational risks for pregnant women
+|Rubric=Taking charge
+|Contributors=Philippe Deruelle,Pierre Delorme,Nathalie Nourry,Irene Sari-minodier,Fleur Delva,Jean François Gehanno
+|Order=3}}
+
+
+== Occupational risk prevention for pregnant women ==
+Occupational risk prevention for pregnant women follows the same stages as occupational risk prevention in general ([[Organisation of occupational medicine. Occupational risk prevention|cf item 183]]), with some specific features relating to pregnancy.
+
+At best, risk assessment should be carried out prior to any pregnancy, to identify reprotoxic risks in the company, inform employees, particularly women of childbearing age, so that they are aware of the need to declare their pregnancy as early as possible in order to benefit from appropriate preventive measures.
+
+Pregnant women are advised to consult their occupational physician as soon as they plan to become pregnant. While respecting medical confidentiality, the occupational physician can study the work situation to define preventive measures, some of which, such as those relating to teratogenic agents, should be implemented at the start of pregnancy, or even during the pre-conception phase.
+
+The occupational physician will be able to make proposals for adapting the workstation, for example:
+
+- Avoid standing and walking,
+
+- Avoid carrying heavy loads.
+
+If workstation adjustments are not possible, the occupational physician may request a temporary change of workstation.
+
+Depending on any biological risks involved, the occupational physician will suggest that you update your vaccinations (preferably before you become pregnant).
+
+== '''Pregnancy at work regulations''' ==
+
+=== '''Protection of the employment contract''' ===
+Principle of non-discrimination.
+
+An employee is not obliged to reveal her pregnancy to her employer ''except when she requests the legal provisions concerning the protection of pregnant women''.
+
+=== '''Leave of absence to attend compulsory medical examinations''' ===
+The employee is entitled to leave of absence to attend compulsory medical examinations as part of the medical monitoring of pregnancy and the aftermath of childbirth. Such absences do not entail any reduction in pay and are treated as a period of actual work.
+
+=== '''Prohibited or regulated work''' ===
+Certain types of work are prohibited by law for pregnant and breastfeeding women. These include
+
+- Activities involving exposure to rubella or toxoplasmosis if the employee is not immune,
+
+- Exposure to certain chemicals (agents classified as toxic to reproduction under the regulations, benzene, mercury, lead),
+
+- Exposure to ionising radiation above a certain level.
+
+In other cases, the regulations provide for special arrangements. For example, an employee working night shifts may ask to be assigned to a day shift during her pregnancy.
+
+In the event of night work or prohibited work, if it is impossible to adapt the workstation or assign the employee to another job to avoid these risks, the contract will be suspended and the employee will receive guaranteed remuneration.
+
+=== '''Maternity leave entitlement''' ===
+Maternity leave runs from 6 weeks before the expected date of childbirth (prenatal leave) to 10 weeks after (postnatal leave). The 6 weeks of prenatal leave may be reduced by a maximum of 3 weeks at the request of the pregnant woman (and if approved by the doctor or midwife monitoring the pregnancy), in which case the postnatal leave is increased by the same amount. In certain cases, maternity leave may be extended, depending on the number of children already dependent on the mother, the number of children expected and the pathological nature of the pregnancy, childbirth or post-partum period. See table below.
+
+
+Table 2. Length of maternity leave by number of dependent children
+{| class="wikitable"
+|'''Number of dependent children'''
+|'''Length of leave'''
+
+'''prenatal'''
+|Duration of leave
+
+'''postnatal'''
+|'''Total duration'''
+
+'''maternity leave''''
+|-
+|'''0 /1<sup>er</sup> child''''
+|6 weeks
+|10 weeks
+|16 weeks
+|-
+|'''1/ 2<sup>th</sup> child''''
+|6 weeks
+|10 weeks
+|16 weeks
+|-
+|'''2 or more /''''
+
+'''3<sup>th</sup> child or more'''
+|8 weeks
+|18 weeks
+|26 weeks
+|}
+
+
+Table 3. Length of maternity leave for multiple pregnancies
+{| class="wikitable"
+|'''Number of children'''
+
+'''unborn'''
+|Duration of leave
+
+'''prenatal'''
+|Duration of leave
+
+'''postnatal'''
+|'''Total duration of leave''''
+
+'''maternity'''
+|-
+|'''2'''
+|12 weeks
+|22 weeks
+|34 weeks
+|-
+|'''3 or more'''
+|24 weeks
+|22 weeks
+|46 weeks
+|}
+
+
+The employee is guaranteed to return to her original position after maternity leave. If this is not possible, she must return to a similar job with at least equivalent pay. A return medical examination by the company doctor is provided for by law on the employee's return from maternity leave.
+
+The employee can breastfeed her child in the company, provided that suitable premises and time are made available.

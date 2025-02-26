@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-314-08-B
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder Smoke
+|Rank=B
+|Title=Knowing the indication for imaging a bladder tumour
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Mathieu Roumiguié
+|Order=8}}
+
+'''TVNIM :'''
+
+Uro-CT is indicated in cases of macroscopic haematuria, multiple tumours, trigone tumours, high-risk tumours (T1, high grade, CIS) or high-grade urinary cytology. Uro-CT can be used to rule out a synchronous lesion of the upper urinary tract.
+
+'''TVIM :'''
+
+Thoraco-abdomino-pelvic CT scan with injection of contrast medium (with late stage: uro-CT scan) is recommended as part of the extension assessment. Recommendations AFU Oncology Committee 2022-2024

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-023-02-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=Pregnancy diagnosis
+|Description=How to diagnose pregnancy (amenorrhoea, sympathetic signs, +/-clinical examination, additional tests)
+|Rubric=Positive diagnosis
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=2}}
+
+To be considered if :
+
+Delayed menstruation in women of childbearing age.
+
+Lack of contraception
+
+Sympathetic signs of pregnancy (breast tension, morning sickness, vomiting, pollakiuria, asthenia, dizziness) ''[[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], [[Asthenia SD-021|asthenia]]''', '''[[Urination abnormality SD-023|urination abnormality]], [[Vertigo and dizziness SD-064|vertigo and dizziness]]'''''
+
+on examination, possible enlargement of the breasts or uterus depending on the term
+
+Confirmed if :
+
+Positive urine or blood test (greater than 5 IU/L) for human chorionic gonadotropin (β-hCG or hCG).

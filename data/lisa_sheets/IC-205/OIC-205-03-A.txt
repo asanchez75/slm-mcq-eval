@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-205-03-A
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=A
+|Title=Knowing how to look for signs of seriousness
+|Description=Evaluating the abundance of haemoptysis: looking for signs of respiratory distress (item 359)
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=3}}
+The severity of haemoptysis is related to :
+
+- to its abundance
+
+- to the patient's terrain
+
+- ''to its persistence under vasoconstrictor treatment''.
+
+
+'''Abundance''':
+
+- low abundance": < 50 cc: ranging from a few streaks of blood in the sputum to the equivalent of 5 tablespoons (1 tablespoon ~ 10 cc)
+
+- medium abundance: between 50 and 200 cc: represents around ½ to 2 glasses (1 glass ~ 100 cc)
+
+- ''great abundance'': > 200 cc: roughly equivalent to a bowl or a bean.
+
+
+'''Terrain''' :
+
+The severity is linked to the risk of asphyxia ([Acute respiratory distress SD-160|respiratory distress]]) induced by the flooding of the airways (the volume of the proximal airways represents approximately 200 cc). This is all the more difficult to tolerate when the patient has an underlying respiratory pathology.
+
+
+'''Persistence under vasoconstrictor treatment:'''
+
+Recurrence of haemoptysis under vasoconstrictive treatment (terlipressin) is a criterion of severity.
+
+
+
+Any haemoptysis, however small, is a diagnostic and therapeutic "emergency", because a small amount of haemoptysis can be followed by massive haemoptysis.
+
+
+The severity of the haemoptysis determines the treatment sector (conventional or intensive care) and the therapeutic strategy.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-214-04-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Know the clinical features of thrombocytopenic purpura
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=4}}
+Thrombocytopenic purpura is a red/purplish lesion that does not show on in vitro pressure and is usually petechial. It must be differentiated from vascular purpura (see knowledge item ''[[Purpuras in adults and children|Purpura]]''').

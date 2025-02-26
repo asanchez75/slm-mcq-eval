@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-084-04-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Knowing that primary open-angle glaucoma is an accelerated loss of optic fibres with apoptosis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=4}}
+ 
+
+Primary open-angle glaucoma (POAG) is characterised by an accelerated rate of apoptosis of retinal ganglion cells, and is therefore considered to be a neurodegenerative disease. The retinal ganglion cells (around 1 million for each eye) conduct the visual information gathered by the retinal photoreceptors, from the bipolar cells to the lateral genual body. After the age of 40, physiological ageing leads to the loss of around 5,000 to 8,000 ganglion cells per year. GPAO is the accelerated loss of these optic fibres compared with the physiological loss associated with age.
+
+GPAO is a ''progressive, chronic and asymptomatic optic neuropathy'' with characteristic alteration of the visual field and atrophy of the optic nerve with a distinctive appearance. It is most often, but not always, associated with ocular hypertonia.
+
+The pathophysiological mechanisms of optic neuropathy are not yet fully understood. Two main hypotheses have been put forward:
+
+- the ''mechanical theory'', which explains papillary excavation by compression of the optic nerve head due to ocular hypertonia;
+
+- the ''ischaemic theory'', which explains it by circulatory insufficiency in the blood capillaries of the optic nerve head, due to chronic papillary hypoperfusion or transient vascular spasms.
+
+Ocular hypertonia appears to be an important factor in both cases.
+
+In GPAO, the rise in IOP is linked to progressive degeneration of the trabeculum, which no longer performs its normal function of draining aqueous humour.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-090-06-B
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Salivary gland pathology
+|Rank=B
+|Title=Clinical iconography of a typical example of sialitis
+|Description=These images must be the most classic and common of the two forms.
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+
+[[File:Parotidite aigue bacterienne jegoux.jpg|vignette|This 85-year-old patient was admitted to a long-stay hospital. He presented with left parotid pain and fever. Examination revealed a left parotid swelling that raised the earlobe. It was painful to palpation, and the skin was erythematous and warm. There was no facial paralysis. Endobuccal examination revealed a purulent discharge from the orifice of Sténon's canal (inside of the cheek opposite the neck of the 1st molar). This was acute bacterial parotitis]].

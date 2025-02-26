@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-208-04-B
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=B
+|Title=Knowing the symptoms that may suggest the diagnosis of PH
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Signs of PH: holosystolic murmur of tricuspid insufficiency increasing on deep inspiration (Carvalho's sign), burst of B2 at the pulmonary focus, diastolic murmur of pulmonary insufficiency, exertional dyspnoea.
+
+Signs of right heart failure complicating PH: tachycardia, gallop, jugular turgidity, hepato-jugular reflux, hepatomegaly, oedema of the lower limbs, hydrops.

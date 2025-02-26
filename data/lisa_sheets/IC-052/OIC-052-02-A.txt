@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-052-02-A
+|Item_parent=Strabism and amblyopia in children
+|Item_parent_short=Strabism and amblyopia in children
+|Rank=A
+|Title=Knowing how to screen for strabismus and the risk of amblyopia in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Screening for strabismus:'''
+
+<u>Examination of corneal reflections.</u> In the absence of strabismus, the projection of a light source directed at the child's eyes shows corneal reflections in the centre of the pupil, whereas in the case of strabismus, one of the two reflections is not centred. Think about eliminating an epicanthus (vertical skin fold which masks the internal palpebral angle and gives a false impression of convergence of the two eyes, but the corneal reflections are centred).
+
+'''Screening for amblyopia:'''
+
+- <u>In small children</u>: Alternating occlusion.  If vision is normal in both eyes, this manoeuvre does not cause the child to react. Amblyopia in one eye causes the child to react defensively when the healthy eye is occluded.
+
+<u>- In children over 2 years of age:</u> Measurement of visual acuity.
+
+<u>- At any age</u>: screen for significant ametropia by performing an automatic refraction under cycloplegia. Perform a fundus examination.

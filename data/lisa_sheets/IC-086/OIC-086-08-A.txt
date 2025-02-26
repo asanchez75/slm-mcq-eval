@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-086-08-A
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=A
+|Title=Photography of a stye
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[[File:Stye.jpg|vignette|532x532px|Lower eyelid stye]]

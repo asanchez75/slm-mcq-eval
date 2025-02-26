@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-183-02-B
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=B
+|Title=Knowing how occupational health services work
+|Description=Actions in the field (excluding consultations)
+|Section=Definition
+|Contributors=
+|Order=2}}
+The occupational health physician or the multidisciplinary team he coordinates carries out '''actions directly in the workplace''' in order to, in particular:
+
+*assess occupational risks, if necessary by carrying out analyses or measurements (e.g. noise, chemical substances in atmospheric samples, etc.). To do this, he or she has access to the nature and composition of the chemical products used, as well as to their methods of use;
+*advise on the organisation of rescue and emergency services;
+*carry out health promotion activities.

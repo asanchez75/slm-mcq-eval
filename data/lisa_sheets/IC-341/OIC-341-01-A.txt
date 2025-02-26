@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-341-01-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Know the definition of subarachnoid, spontaneous and traumatic meningeal haemorrhage.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+Meningeal haemorrhage or subarachnoid haemorrhage (SAH) = presence of blood in the [[Arachnoid and subarachnoid spaces|subarachnoid spaces]] :
+
+           Non-traumatic or spontaneous SAH: in the absence of any cranial trauma
+
+           -Traumatic or post-traumatic SAH: secondary to head trauma, and most often associated with other traumatic lesions.

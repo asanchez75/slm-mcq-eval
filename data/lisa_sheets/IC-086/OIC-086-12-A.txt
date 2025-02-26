@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-086-12-A
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=A
+|Title=Savoir évoquer une paralysie du III et rechercher un anévrysme intra-crânien sur un ptosis douloureux
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=12}}
+
+==Anatomical reminder==
+
+===The oculomotor nerve (III) has two types of fibres:===
+
+*of the [[Nerves, oculomotor and medial longitudinal bundle|somatic efferent (motor) fibres]], intended for :
+**the following oculomotor muscles: medial rectus, inferior rectus, superior rectus and inferior oblique,
+**the upper eyelid lift muscle.
+*visceral efferent fibres (parasympathetic) to :
+**the pupillary sphincter muscle, responsible for pupillary constriction or myosis,
+**the ciliary muscle, responsible for accommodation,
+**these pre-ganglionic parasympathetic fibres relay at the level of the ciliary ganglion with post-ganglionic fibres which reach their targets.
+
+===[[Nerves, oculomotor and medial longitudinal bundle|Trajectory of the oculomotor nerve (III)]]===
+
+*The oculomotor nerve originates in the periaqueductal region of the midbrain (real origin) and then emerges in the interpeduncular fossa (real origin).
+*It then travels successively
+**into the arachnoid and subarachnoid spaces, where it is connected to the posterior communicating artery,
+**the roof and then the lateral wall of the [[Anatomy:Cavernous sinus|cavernous sinus]],
+**the superior orbital fissure,
+**the orbit.
+
+==Symptoms associated with damage to the oculomotor nerve (III)==
+It is secondary to a lesion of the two contingents of fibres, which may be associated or dissociated:
+
+*Damage to somatic fibres ("extrinsic III") induces:
+**a defect in palpebral opening (ptosis)
+**paralysis of the muscles innervated by III:
+***the patient reports binocular diplopia (double vision) and on examination there is strabismus (eyes not in focus),
+***the characteristics of the diplopia and strabismus depend on which muscles are paralysed.
+*Lesion of the parasympathetic fibres ("intrinsic III") induces:
+**pupillary dilation (miosis)
+**an accommodation defect
+
+In a [[Identify extreme emergency situations of coma in adults and children OIC-336-08-A|comatose patient]], the observation of mydriasis should raise the suspicion of a [[CT scan of mass effect and cerebral involvement OIC-336-12-B|temporal involvement]] and require emergency treatment.
+
+In a conscious patient, the onset of acute ptosis should prompt a search for associated signs of III lesion (diplopia, strabismus, mydriasis, accommodation disorders). It should raise the possibility of an intracranial retrocarotid aneurysm (originating in the posterior communicating artery) which may compress the III in its subarachnoid course. This aetiology is all the more likely to be evoked if there are headaches suggestive of [[Meningeal haemorrhage|subarachnoid (or meningeal) haemorrhage]].
+
+==Differential diagnosis==
+Claude Bernard-Horner syndrome is secondary to damage to the sympathetic system along its entire course:
+
+*Cerebral trunk, especially [[Know the localizing value of an alternating sensory syndrome and cite an example OIC-092-04-B|Wallenberg syndrome]]
+*cervical spinal cord
+*pulmonary plexus ([[Know how to evoke the diagnosis of plexopathy OIC-095-03-A|Pancoast-Tobias syndrome]])
+*cervical ([[List the arguments for the diagnosis of dissection of an artery destined for the brain OIC-340-06-B|dissection of an artery destined for the brain]])
+
+It combines :
+
+*a "reduction in the palpebral slit" without true ptosis, due to paralysis of the superior tarsal muscle, innervated by the sympathetic system,
+*miosis due to lack of innervation of the pupil dilator muscle, which is innervated by the sympathetic system,
+*enophthalmos" due to reduced tone of the orbital muscles.

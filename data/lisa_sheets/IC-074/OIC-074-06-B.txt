@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-074-06-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Heading=Antipsychotics: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.
+|Description=None
+|Rubric=Management
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=6}}
+
+==Frequent adverse reactions==
+
+===Psychiatric adverse reactions===
+
+*A state of psychomotor indifference
+*Post-psychotic depressive episode
+*Sedation
+*Confusion (especially when combined with other drugs in the elderly)
+
+===Neurological adverse reactions===
+
+*Dystonia (dyskinesias)
+*Parkinsonian syndrome
+*Hyperkinetic syndrome, akathisia
+*Late dyskinesias
+*Epileptic seizures
+*Risk of stroke in elderly subjects with dementia
+
+===Endocrine and Metabolic Adverse Reactions===
+
+*Weight gain
+*Lipid disorders
+*Diabetes
+*Metabolic syndrome
+*Hyperprolactinaemia, endocrine and sexual disorders
+
+===Neurovegetative and cardiovascular adverse effects===
+
+*Anticholinergic or atropinic effects
+*Orthostatic hypotension
+*QT prolongation, rhythm disorders and sudden death
+
+===Allergic and toxic side effects===
+
+*Allergy
+*Drug-induced agranulocytosis (particularly high with clozapine)
+*Photosensitisation and retinal and crystalline pigment deposits
+
+==Neuroleptic malignant syndrome==
+A '''<u>rare and serious</u>''' adverse effect, neuroleptic malignant s''yndrome''' has been described with '''most molecules''' and '''involves the vital prognosis'''. It is a diagnostic and therapeutic emergency.
+
+====On the clinical plan====
+It has a rapidly progressive onset:
+
+*Hyperthermia (40-41°)
+*Extrapyramidal rigidity
+*Profuse sweating
+*Tachycardia
+*Hypotension
+*Impaired alertness
+*Cardiorespiratory disorders
+*Possible convulsions
+
+====Biological plan====
+
+*Hyperleukocytosis
+*Various ionogram disturbances
+*Increase in CPK, LDH, ALT and ASAT.
+
+==Main drug interactions==
+
+*QT-prolonging drugs
+*Dopaminergic agonists
+*First-generation antihistamines

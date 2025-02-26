@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-120-08-A
+|Item_parent=Complications of immobility and decubitus. Prevention and management
+|Item_parent_short=Complications of immobility and decubitus. Prevention and management
+|Rank=A
+|Title=Knowing the main risk factors for pressure sores
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Antoine Guillon
+|Order=8}}
+
+- Risk factors for immobilisation (e.g. coma, extensive neurological deficit, etc.)
+
+- Risk factors for impairment of general condition and undernutrition
+
+- Risk factors for damage to the skin barrier (e.g. urinary or faecal incontinence leading to skin maceration/infection, etc.)
+
+- Risk factors for impaired tissue perfusion (e.g. chronic arterial disease, acute circulatory failure, etc.)
+
+- Risk factors for superinfection (e.g. diabetes, etc.)

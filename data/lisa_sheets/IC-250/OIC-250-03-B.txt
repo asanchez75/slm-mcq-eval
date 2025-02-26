@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-250-03-B
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=B
+|Title=Knowing the risk factors for undernutrition in children
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+The risk situations in children are the same as in adults.

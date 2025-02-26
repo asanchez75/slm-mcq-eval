@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-080-07-B
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=B
+|Title=Knowing to whom the anti-doping regulations apply
+|Description=All athletes licensed by a federation and/or taking part in a competition.
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+All sportsmen and sportswomen licensed by a federation and/or taking part in a competition

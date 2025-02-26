@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-356-03-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Knowing complications in children
+|Description=None
+|Rubric=Follow-up and/or prognosis
+|Contributors=Cyrille PERRENOT
+|Order=3}}
+
+Complications include swelling, abscesses and peritonitis.
+
+Appendicitis before the age of 1 is exceptional, and is life-threatening.

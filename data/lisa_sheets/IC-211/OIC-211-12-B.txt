@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-211-12-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing the role of pathological anatomy in diagnosis and sampling strategy
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+- Histological documentation ('''[[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]]''') essential for diagnosis (except Löfgren's syndrome)
+
+- Shows epithelioid granulomas, with giant cells ("giganto-cellular"), without caseous necrosis
+
+- Diagnostic strategies to be aware of: choice of biopsy site on an organ or tissue that is preferably minimally invasive (accessory salivary glands, skin, conjunctival nodules).
+
+- Cost-effectiveness (= ability to show granulomas on a sample) is greater the more the organ is affected clinically, biologically or on imaging.
+
+'''-'''' Bronchial endoscopy with staged spur biopsies and bronchoalveolar lavage frequently performed: shows lymphocytic alveolitis, predominantly '''CD4<sup>+</sup>'' T lymphocytes, and possible identification of pathogens (differential diagnosis), and is important for differentiating interstitial involvement in sarcoidosis from other interstitial lung diseases.
+
+- Hilar adenopathy: echo-endoscopic cytopuncture preferred to mediastinoscopy (less invasive)

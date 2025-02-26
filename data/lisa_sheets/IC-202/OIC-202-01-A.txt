@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-202-01-A
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=A
+|Title=Knowing the concept of targeted therapy
+|Description=None
+|Rubric=Definition
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=1}}
+
+
+
+The terms "biotherapies" and "targeted therapies" cover very heterogeneous therapeutic strategies, some of which are highly innovative and still in the field of clinical research. Due to changes in European regulations on advanced therapy medicinal products (ITMs), it is preferable to use the terms "biomedicines" for therapeutic proteins and "living medicinal products" for cell therapy and ex vivo gene therapy.
+
+Targeted therapy is the adaptation of treatment to the biological data, including genetic data, of patients. The concept was developed in oncology, to guide the choice of therapeutic molecules according to the characteristics of the tumour. This concept is close to that of personalised medicine, which has the same objectives.

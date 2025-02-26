@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-045-18-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Know the clinical diagnosis of Fragile X syndrome.
+|Description=Know the manifestations of genetic anomalies (mutations and premutations) according to the patient's gender.
+|Rubric=Positive diagnosis
+|Contributors=Gaétan Lesca,Elise Launay
+|Order=18}}
+
+Genetic disease transmitted through the X chromosome. Incomplete penetrance in girls due to partial compensation by the normal X chromosome.
+
+'''Presentation and clinical signs in boys/men''' (carriers of a complete mutation) :
+
+* Psychomotor retardation, language delay ([Psychomotor development abnormality SD-115|Psychomotor development abnormality]], [[Language and/or phonation disorders SD-134|Language and/or phonation disorders]])
+* Moderate to severe intellectual disability (IQ < 50)
+* Attention deficit, hyperactivity, impulsivity, intolerance to frustration
+* Anxiety, shyness (eye avoidance) ([[Anxiety SD-116|anxiety]], [[Attention disorder SD-129|attention disorder]])
+* Autism spectrum disorder in 50% of patients ([[Child and Adolescent Behaviour Disorder SD-133|Child and Adolescent Behaviour Disorder]])
+* Sleep disorders
+* Epilepsy in 20% of patients ([[Seizures SD-120|seizures]])
+* Repeated ear infections
+* Facial dysmorphia: relative macrocephaly, elongated and narrow face, prognathism, high and wide forehead, protruding ears, thick and upturned lips, ogival palate, dental malposition, etc.
+* Advanced stature, sometimes tall
+* Joint hyperlaxity (fingers)
+* Flat feet
+* Scoliosis
+* Mitral prolapse ([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])
+* Vesico-ureteral reflux
+* Strabismus
+* Myopia
+* Post-pubertal macro-orchidism
+
+
+'''Presentation and clinical signs in girls/women''' (carriers of a '''complete mutation''') :
+
+* 50% have cognitive difficulties of very variable severity, usually less pronounced than in boys (IQ between 50 and 70) ([[Psychomotor development abnormality SD-115|psychomotor development abnormality]])
+* 50% have an IQ in the lower part of the normal distribution
+* Frequent relationship problems (shyness, difficulty forming relationships) or anxiety ([[Anxiety SD-116|anxiety]], [[Social interaction disorder/difficulty socialising SD-349|social interaction disorder]/difficulty socialising)
+* No or few dysmorphic elements

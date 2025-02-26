@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-180-05-A
+|Item_parent=Risques sanitaires liés aux irradiations. Radiation protection
+|Item_parent_short=Risques sanitaires liés aux irradiations. Radiation protection
+|Rank=A
+|Title=Knowing the principles of radiation protection
+|Description=Justification, optimisation and limitation
+|Section=Definition
+|Contributors=Eléonore Blondiaux,Damien Huglo,Jean-Philippe Vuillez,Jean-François Chateil
+|Order=5}}
+
+Radiation protection measures must be proportionate to the risk and not unnecessarily restrict activities that are beneficial to the individual or society. Radiation protection is made up of a set of scientific and objective elements (physical, biological), as well as regulatory and [[Request for an imaging examination SD-231|is a permanent concern associated with the professional activity of any doctor requesting or carrying out an imaging examination]]. This is based on the principles of justifying examinations, optimising practices and, in some cases, limiting doses.
+
+
+- '''Justification''': A nuclear or radiological activity or intervention may only be undertaken or carried out if it is justified by the benefits it provides, particularly in health, social, economic or scientific terms, in relation to the risks inherent in exposure to ionising radiation to which it is likely to subject people.
+
+- Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|In the medical field, any exposure of a person must be the subject of a prior analysis to ensure that this exposure presents a sufficient direct medical benefit in relation to the risk]]. The guide to the proper use of imaging examinations ([http://gbu.radiologie.fr/ gbu.radiologie.fr]) is an important tool for applying the principle of justification. [Reasoned request/prescription and choice of diagnostic examination SD-178|Knowledge of the indications for the main imaging examinations according to the clinical situation is fundamental for all doctors. The possibility of substituting an examination that exposes the patient to ionising radiation with a non-exposing examination, such as ultrasound or MRI, with an equivalent level of diagnostic performance, falls within the scope of the justification principle.
+
+
+- '''Optimisation''': sometimes referred to as ALARA (as low as reasonably achievable), the optimisation principle is to be applied once the justification has been established:
+
+*Occupational risk prevention SD-315|Training in radiation protection (worker, patient) is compulsory for all exposed professionals, under the responsibility of the employer, assisted by the occupational physician.
+*For the patient exposed to an irradiating examination: take into account the medical objective sought, by delivering the lowest possible dose while allowing the required medical information to be obtained.
+
+
+- '''Limitation''': A person's exposure to ionising radiation may not cause the sum of doses received to exceed limits set by regulation, except when the person is exposed for medical purposes or biomedical research. These limits vary according to population category, and are expressed in terms of annual effective dose limits (whole body).
+
+o Public: effective dose exposure limit (whole body) of 1 mSv per year, irrespective of natural irradiation and any medical examinations;
+
+[Occupational risk prevention SD-315|o Exposed professionals classified in 2 categories A or B depending on the position held:]]
+
+*Occupational risk prevention SD-315|category A: effective dose (whole body) exposure limit of 20 mSv over 12 months.
+*Occupational risk prevention SD-315|category B: effective dose (whole body) exposure limit of 6 mSv over 12 months.
+
+o This principle of dose limitation ''does not apply'' ''to the patient'', insofar as in the field of medical diagnosis there can be no regulatory limit, because the benefit provided far outweighs the risk as soon as the examination is justified and the quality is sufficient for the diagnosis.

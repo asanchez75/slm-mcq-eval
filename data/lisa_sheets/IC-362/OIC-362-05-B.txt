@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-362-05-B
+|Item_parent=Prostheses and osteosynthesis
+|Item_parent_short=Prostheses and osteosynthesis
+|Rank=B
+|Title=Knowing the complications of prostheses
+|Description=None
+|Rubric=Management
+|Contributors=CFCOT
+|Order=5}}
+
+'''<u>1) Infection</u>''''
+
+*Early (within 4 weeks of prosthesis fitting) or late, acute (less than 4 weeks old) or chronic (more than 4 weeks old).
+*Haematogenous origin in late infections = joint infection secondary to dissemination from another site (urinary tract infection, digestive tract infection, endocarditis, dental abscess, wounds).
+*Clinical:
+**Acute: fever, redness, pain, discharge from the scar, abscess, skin necrosis, septic shock.
+**Chronic: the clinic is less noisy with pain, recurrent problems with healing of the surgical approach, a fistula with purulent discharge, loosening of the prosthesis.
+*Paraclinical examinations:
+**Blood tests: CBC, ESR, CRP.
+**blood cultures
+**Joint puncture to look for germs.
+*Imaging: not very helpful in the case of acute infection; loosening of the prosthesis, osteolysis and periosteal appositions may be observed in the case of chronic infection.
+*Treatment: medical-surgical, in RCP osteoarticular infections.
+**Surgery first: take bacteriological samples to identify the germ, simple lavage in the case of acute infection, change of prosthesis in the case of chronic infection.
+**Then medical: broad-spectrum probabilistic antibiotic therapy to be started intraoperatively once the samples have been taken, and then adapted to the germ found. It is important not to start antibiotic therapy without first taking samples to identify the germ (blood cultures and local samples).
+
+[[File:PTH septic loosening.jpg|vignette|Example of septic loosening of the femoral stem. The border is the radiolucent space around the femoral stem (arrows). The border runs around the femoral stem, indicating loosening. An intra-articular puncture was carried out and found bacteria: it was therefore a septic loosening. ]]
+'''<u>2) Loosening</u>'''
+
+*Definition: failure of the prosthesis to attach to the bone.
+*Clinical: mechanical pain
+*Diagnosis: on imaging with the appearance of osteolysis around the prosthesis (edging) = disappearance of the bone in contact with the prosthesis and/or mobilisation of the implant in the bone on successive X-rays.
+*Treatment: replacement of loosened implants.
+
+'''<u>3) Wear</u>''''
+
+*The materials used rub against the joint surface, causing progressive wear. This wear is asymptomatic. It can lead to loosening or fracture of the implant.
+*This wear needs to be monitored by regular X-rays (every year or every 2 years).
+
+'''<u>4) Dislocations</u>''''
+
+*When there is a loss of contact between the implants. Can occur in any joint prosthesis, but is most common in hip prostheses.
+*Causes: infection, dislocating movements, incorrect positioning of implants, muscle weakness.
+*Treatment: emergency reduction under general anaesthetic. In the event of a recurrence, look for factors that may contribute to the problem.
+
+[[File:PTH dislocation.jpg|centred|vignette|363x363px|Example of total hip prosthesis dislocation in a patient with a bilateral total hip prosthesis. The left hip is well in place, the right hip is dislocated. ]]
+
+'''<u>5) Periprosthetic fracture</u>''''
+
+*After a prosthesis has been fitted, the patient may fall and fracture the bone around the prosthesis.
+*This can result in the prosthesis becoming unsealed.
+*Requires osteosynthesis of the fracture, which is made difficult by the presence of the prosthesis in the bone (nailing is not possible, for example, in the case of a fracture in a total hip prosthesis).
+*The prosthesis may have to be replaced in addition to the osteosynthesis if the prosthesis is loosened because of the fracture.
+
+'''<u>6) Surgical complications</u>''''
+
+*Post-operative nerve paralysis: there may be a sensory-motor deficit of a nerve that has been damaged during the operation (sciatic nerve or lateral thigh cutaneous nerve during the insertion of a total hip prosthesis, common fibular nerve during the insertion of a total knee prosthesis, axillary nerve during the insertion of a total shoulder prosthesis). These nerve injuries often regress if the continuity of the nerve is not interrupted.
+*Intraoperative arterial injury.
+*Fracture during implantation of the prosthesis: requires additional osteosynthesis.
+
+'''<u>7) Postoperative complications</u>''''
+
+*Post-operative haematoma: may lead to a nerve deficit due to nerve compression, scar disunion or dislocation of the prosthesis. It may become secondarily infected. Treatment: surgical evacuation if complicated haematoma and local haemostasis.
+*Scar disunion: may follow a large haematoma, be indicative of an underlying infection, due to poor skin closure or secondary to a fall by the patient. The consequence = risk of infection through the scar. Treatment: surgical closure in the operating theatre.
+*Deep vein thrombosis and pulmonary embolism.

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-103-01-B
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=B
+|Title=Knowing the mechanisms of acute vestibular syndrome
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+The ampullary ridges of the semicircular canals detect rotational movements of the head. This information is carried in the cochleovestibular nerve (8th cranial nerve) and is integrated in the vestibular nuclei of the brain stem.
+
+The neural networks arising from the vestibular nuclei participate in ''three main functions'':
+
+- perception of our movements and spatial orientation via the vestibulocortical pathways;
+
+- stabilising our gaze as we move around thanks to the vestibulo-ocular reflex;
+
+- static and dynamic postural control via the vestibulo-spinal reflex.
+
+An ''acute vestibular syndrome'' is observed in the case of asymmetric functioning, most often due to a deficit in vestibular function on one side. Given the triple function of the vestibular system, this syndrome combines :
+
+- Vertigo and dizziness SD-064|vertigo]] (damage to vestibulocortical functions);
+
+- nystagmus (impairment of vestibulo-ocular functions).
+
+- a postural disorder (impairment of vestibulospinal functions) ([[Balance disorders SD-130|balance disorders]]).
+
+
+Vegetative signs ([[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]] and [[Hypersudation SD-025|sweating]]) are very frequent.

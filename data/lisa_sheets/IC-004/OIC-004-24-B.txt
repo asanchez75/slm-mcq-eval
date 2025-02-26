@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-004-24-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Know the continuous improvement cycle Deming wheel
+|Description=Know the situations in which a myelogram is recommended.
+|Section=Management
+|Contributors=
+|Order=24}}
+The Deming wheel symbolises the principle of ''continuous improvement of organisations'', which is symbolised by the upward slope on which the wheel turns.
+
+
+The PDCA method, which stands for Plan - Do - Check - Act, involves four successive stages:
+
+1. ''Plan'' (say - and write down - what you are going to do)
+
+2. ''Do'' (do what you've said - and written)
+
+3.     '''Check''' (what we have done)
+
+4.     '''React''' (do better)
+
+And start again with a new PDCA cycle.
+
+<br /><gallery>
+File:Deming.png
+</gallery>The wedge that prevents the wheel from rolling back down symbolises the '''quality management system'''.

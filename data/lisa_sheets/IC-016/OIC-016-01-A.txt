@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-016-01-A
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the healthcare system. Its regulation. Indicators. Care pathways
+|Rank=A
+|Title=Know the definition, objectives and operating principles of the health system in France.
+|Description=Know the health services provided by the health system; Know the definition of a care system.
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=1}}
+
+The health system is defined as all activities whose essential aim is to promote or maintain health. This includes all official health services, less recognised services such as healers, the drug distribution system, and all health promotion and prevention programmes in the broadest sense, whether or not they are managed by a Ministry of Health (WHO, 2000).
+
+The healthcare system comprises all the resources designed to achieve the objectives of a healthcare policy. These means are :
+
+- organisational (Ministry of Health, Social Security Administration, higher education establishments);
+
+- human resources (medical, paramedical and administrative staff, patient associations).
+
+The objectives of a population-wide health system are :
+
+- maintain or improve health;
+
+- provide services that meet expectations (medical and other): for example, access to care 24 hours a day, access to specialists within an acceptable timeframe;
+
+- ensure equity in access to public health services, in particular by removing the financial barrier: for example, access to public emergency services, replacement income in the event of illness.
+
+The functions of a health system are to provide health services:
+
+- individual care (diagnosis, treatment, rehabilitation, etc.) ;
+
+- community services such as disease and disability prevention, health education and health promotion (e.g. education campaigns to promote a balanced diet).
+
+The provision of health services is based on :
+
+- the resources of the healthcare system in terms of medical staff, facilities, medicines, equipment, knowledge, etc;
+
+- financing, which is ensured by collecting revenue and allocating financial resources to the various activities;
+
+- health administration, which includes organising funding, making human resources and structures available, setting priorities, drawing up the corresponding policies, implementing them and measuring results.

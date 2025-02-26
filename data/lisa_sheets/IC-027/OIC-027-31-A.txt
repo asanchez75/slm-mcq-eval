@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-027-31-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Intitulé=Médicaments et grossesse : connaître les principaux médicaments à risque
+|Description=Knowing how to identify the main drugs at risk
+|Rubric=Positive diagnosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=31}}
+
+{| class="wikitable"
+|'''Family'''
+|'''INN (trade name)'''
+|-
+|Vitamin A derivatives
+|Isotretinoin
+
+(Roaccutane<sup>®</sup>, Acnetrait<sup>®</sup>, Curacne<sup>®</sup>, Procuta<sup>®</sup>)
+
+Acitretin
+
+(Soriatane<sup>®</sup>)
+|-
+|Thymoregulator
+|Lithium (Téralithe<sup>®</sup>)
+|-
+|Oral anticoagulants, antivitamins K
+|Warfarin (Coumadin<sup>®</sup>)
+|-
+|Antiepileptics
+|Sodium valproate (Depakine<sup>®</sup>), carbamazepine (Tegretol<sup>®</sup>)
+|-
+|Prostaglandin analogue (PGE1)
+|Misoprostol (Gymiso<sup>®</sup>, Misoone<sup>®</sup>)
+|-
+|Immunosuppressant
+|Mycophenolate (Cellcept<sup>®</sup>, Myfortic<sup>®</sup>)
+|-
+|Cancer treatment
+|Methotrexate (Ledertrexate<sup>®</sup>, Imeth<sup>®</sup>)
+|-
+|Synthetic antithyroid drugs
+|Carbimazole, (Neo-Mercazole<sup>®</sup>)
+
+PTU (propylthio-uracil: Propylex<sup>®</sup>)
+|-
+|Virostatics
+|Ribavirin (Copegus<sup>®</sup>, Rebetol<sup>®</sup>)
+
+Efavirenz (Sustiva<sup>®</sup>)
+|}
+
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''340 [[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|Voluntary or involuntary intake of a toxic or potentially toxic drug]]''''
+
+'''348. [Suspicion of an adverse drug reaction or an adverse drug treatment SD-348|Suspicion of an adverse drug reaction or an adverse drug treatment]'''''
+
+'''352. [[Explaining treatment to the patient (adult/child/adolescent) SD-352|Explaining treatment to the patient (adult/child/adolescent)]]'''''

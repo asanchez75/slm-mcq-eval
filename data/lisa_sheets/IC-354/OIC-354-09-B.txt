@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-354-09-B
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=B
+|Title=Knowing the CT signs of occlusion and their presence according to the site of occlusion
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Laura BEYER-BERJOT
+|Order=9}}
+
+An injected abdominal-pelvic CT scan is used to confirm the positive diagnosis, but above all to establish the aetiological diagnosis and assess the severity of the occlusive syndrome.
+[[File:Fig 3 occlusion.png|vignette|Occlusion on flange. Thick arrow: hydro-aeric level. Thin arrow: junction between flat and dilated small intestine]]
+A positive diagnosis is made when there is distension of the intestinal loops. In the event of colonic obstruction, the initially flat small intestine may dilate secondarily in the event of incontinence of the ileo-caecal valve. Small intestinal or colonic hydro-aerosal levels (HALS) may be visible (this was mainly a symptom seen on a PSA).
+
+In the case of mechanical obstruction, the site of the obstruction is identified by a junctional syndrome (flat intestine/dilated intestine junction) which may be associated with upstream stercoral stagnation (feces sign). In the case of functional occlusion, this junctional syndrome is absent. The cause of the obstruction is usually identified: a flange opposite a junctional syndrome (Figure 3), adhesion, small bowel volvulus (whirl sign), tumour or inflammatory mass, etc.
+
+Finally, the severity of the occlusive syndrome can be assessed by studying the enhancement of the intestinal walls and the diameter of the cecum, and by looking for an effusion or pneumoperitoneum.
+<br />

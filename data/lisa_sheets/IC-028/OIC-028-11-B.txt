@@ -1,0 +1,147 @@
+{{knowledge objective
+|Identifiant=OIC-028-11-B
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=B
+|Title=Acute gravidial pyelonephritis: knowing the treatment
+|Description=Knowing the 1st-line treatment for acute pyelonephritis in pregnancy
+|Rubric=Management
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=11}}
+
+
+Management is based on the following principles, with no criteria for severity:
+
+- Initial hospitalisation;
+
+- '''Probabilistic treatment''' to be started urgently, as soon as the BU or ECBU (culture) is obtained, with antibiotic therapy according to Table 3. 255. [Prescribe an anti-infective SD-255|Prescribe an anti-infective]]
+
+- Secondarily adapted to the results of the antibiogram (48 hours on average, see below).
+
+Table 3: Recommended treatments for acute gravid pyelonephritis without signs of severity:
+
+NB: Antibiotic doses are given as a guide only and are not binding.
+{| class="wikitable"
+|'''Order of choice'''
+|'''Molecule (INN)'''
+|'''Dosage'''
+|'''Comments'''
+|-
+|'''1st intention'''
+|C3G IV :
+
+-Cefotaxime
+
+-Ceftriaxone
+|
+
+
+-1 to 2g/8h
+
+-1g/24h
+|<Effective against most community-acquired Enterobacteriaceae</nowiki>.
+
+-Excellent tolerance
+|-
+|''If allergic to C3G'''
+|Aztreonam
+|1g/12h
+|<Only in hospital</nowiki>.
+|-
+|''If allergic to C3G''
+|Ciprofloxacin
+|500 mg x 2/d
+|<To be avoided if treatment with Quinolones < 6 months</nowiki>.
+|}
+'''In the presence of signs of severity''' (severe sepsis, obstructive renal failure), management is based on:
+
+- '''Systematic hospitalization'''
+
+- Emergency ''probabilistic treatment'' as soon as the BU or ECBU (culture) is obtained, using ''dual antibiotic therapy'' according to Table 4 (addition of an ''aminoglycoside for a maximum of 48 hours for the foetal kidney and ear'').
+
+- Secondarily adapted to antibiotic susceptibility testing (48 hours on average, see below)
+
+- Emergency surgical drainage if obstruction (under antibiotic therapy)
+
+Table 4: Recommended treatments for acute pyelonephritis in pregnancy in the presence of signs of severity:
+
+NB: Antibiotic doses are given as a guide only and are not binding.
+{| class="wikitable"
+|'''Order of choice'''
+|Molecule (INN)'''
+| colspan="2" |'''Posologie'''
+|'''Comments'''
+|
+|-
+|'''1st intention'''
+| colspan="2" |C3G IV :
+
+-Cefotaxime
+
+-Ceftriaxone
+
++ Amikacin
+|
+
+
+-1 to 2g/8h
+
+-1g/24h
+
++ 15mg/kg/24h
+|Amikacin is rapidly bactericidal and highly effective against enterobacteria, particularly EBLSE*. Synergy with C3G. Amikacin duration = 3 days
+|
+|-
+|'''If allergic to C3G''''
+| colspan="2" |Aztreonam
+
++ Amikacin
+|1g/12h
+
++ 15mg/kg/24h
+|
+|
+|-
+|''If risk of EBLSE*''''
+| colspan="2" |Imipenem
+
++ Amikacin
+|500 mg/6h
+
++ 15mg/kg/24h
+<br />
+|History of positive EBLSE ECBU<6 months or septic shock and >=1 EBLSE FDR**.
+|
+|-
+| colspan="6" |*EBLSE: Extended-spectrum B-lactamase Enterobacteriaceae / ** risk factors for EBLSE are: treatment with clavulanic Ac or C2G or C3G or quinolones < 3 months; hospitalisation < 3 months; recent travel to an EBLSE-endemic area.
+|-
+|
+|
+|
+|
+|
+|
+|}
+'''Other measures''' '''associated''' during hospitalization :
+
+- '''Obstetrical surveillance''' +/- tocolytic treatment if there is a threat of premature delivery
+
+*Paracetamol 1g every 6 hours for analgesic and antipyretic purposes,
+*Hygienic and dietetic rules (see Gravidial urinary colonisation).
+
+'''The recommended relay treatment''' after receipt of the antibiogram is :
+
+- Oral antibiotic therapy with :
+
+o 1<sup>rst</sup> intention if susceptible strain (best tolerated) : Amoxicillin
+
+o 2<sup>th</sup> intention (equivalents) : Amoxicillin-Ac clavulanic or Cefixime or Sulfamethoxazole-Trimethoprim (avoid for the first 2 months)
+
+- Total duration of 10 to 14 days
+
+- ''[[Analysis of a urine cytobacteriological examination (ecbu) SD-189|ECBU 8 to 10 days after stopping treatment then monthly]]''' until delivery
+
+Understanding the treatment and follow-up of urinary tract infections during pregnancy [[Understanding the treatment and follow-up of urinary tract infections during pregnancy 2C-161-PC-A04|2C-161-PC-A04]]
+
+
+NB: Antibiotic doses are given for information only and are not binding.

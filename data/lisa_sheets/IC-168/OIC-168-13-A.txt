@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-168-13-A
+|Item_parent=Herpes virus infections in immunocompetent subjects
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Title=Photograph of thoracic shingles; photograph of facial shingles
+|Description=P-UE6-164-5
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+<gallery widths="300" heights="300" perrow="2">
+File:Photo 04 Thoracic shingles.jpg
+File:Photo 05 Zona facial.jpg
+</gallery>

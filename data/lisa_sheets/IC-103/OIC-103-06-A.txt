@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-103-06-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Knowing how to recognise benign paroxysmal positional vertigo (BPPV)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+
+*'''Clinical features''' : [[Vertigo and dizzy sensation SD-064|vertigo]] rotatory exclusively <u>triggered by certain movements</u> <u>of the head</u>, appearing one or two seconds after this movement, and lasting <span dir="ltr" lang="en"><u>a few seconds</u></span>. It may be accompanied by [[Nausea SD-012|nausea]]. No spontaneous nystagmus, nor vestibular syndrome outside the crisis. Reproducible. No associated auditory signs.
+
+*Adult, often over 60, mostly female
+
+*BPPV: Benign paroxysmal positional vertigo: the diagnosis is confirmed by inducing by <u>positional manoeuvres</u> a '''nystagmus which has the following characteristics:'''
+**appears with a latency
+**nystagmus whose intensity increases then decreases and disappears, the head being maintained in a position of equilibrium.
+**sensation of vertigo preceding and accompanying the nystagmus,
+**on straightening, the nystagmus reverses and is accompanied by vertigo.
+**disappears after a few manoeuvres.
+**<Classically, if one of the characteristics is absent, the vertigo is not benign paroxysmal positional vertigo.
+
+Each semicircular canal may be responsible. Each canal corresponds to a positional manoeuvre and a nystagmus in the plane of the canal.
+
+
+'''The most usual form is BPPV of the posterior semicircular canal''' (85% of cases): '''<u>manoeuvre of Dix and Hallpike -</u>''' [[Know the principle of diagnostic and therapeutic manoeuvres for BPPV 2C-103-PC-B02]]
+
+
+BPPV of the lateral semicircular canal: 5-15% of cases, BPPV of the anterior semicircular canal: exceptional.
+
+
+
+<br />

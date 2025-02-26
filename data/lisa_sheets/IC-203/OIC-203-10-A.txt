@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-203-10-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Know the main cardiac and pulmonary aetiologies of chronic dyspnoea
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+'''Cardiac etiologies: the majority of cardiopathies can be the cause of chronic dyspnoea. The main aetiologies described are:''''
+
+- ischaemic heart disease
+
+- hypertrophic cardiomyopathies
+
+- Valvulopathy
+
+- rhythm and conduction disorders
+
+- pericardial causes
+
+'''Pulmonary etiologies:''''
+
+- Bronchial diseases: COPD, asthma.
+
+- Diseases of the lung parenchyma: diffuse infiltrative pneumonitis, emphysema (associated with COPD)
+
+- Diseases of the ventilatory pump: neuromuscular diseases, skeletal deformities (scoliosis), obesity-hypoventilation syndrome.
+
+- Pulmonary vascular diseases: pulmonary arterial hypertension
+
+<br />

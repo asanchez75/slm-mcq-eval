@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-232-13-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Title=Knowing the principles of risk factor correction
+|Description=Management of co-morbidities
+|Rubric=Management
+|Contributors=Jean-Baptiste GUICHARD
+|Order=13}}
+Atrial fibrillation is a chronic disease. The management of risk factors is therefore at the heart of management, with the need to :
+
+* ''therapeutic patient education'' ''''
+* Personalised care.
+
+[[File:Correction of risk factors.png|centered|thumbnail|900x900px]]
+<br />

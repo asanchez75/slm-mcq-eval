@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-181-27-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing that there is a list of events that should never happen in a healthcare establishment according to the ANSM.
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=27}}
+
+In 2012, the ANSM drew up a list of 12 events that should never occur in healthcare establishments. These events, linked to the use of healthcare products, are the equivalent of "never events" in the English-speaking world.
+
+These are :
+
+- Errors in the management of patients treated with anticoagulants
+
+- Errors when administering potassium chloride injection
+
+- Errors in the preparation of injectable specialities for which the method of preparation is at risk
+
+- Errors of administration by intrathecal injection instead of the intravenous route
+
+- Errors of administration by parenteral injection instead of the oral or enteral route
+
+- Overdose of anticancer drugs, particularly in paediatrics
+
+- Errors in the rate of administration of oral methotrexate (outside oncology)
+
+- Insulin administration errors
+
+- Errors in the administration of specialities used in anaesthesia and intensive care in the operating theatre
+
+- Errors in the administration of medical gases
+
+- Errors in the programming of administration devices (infusion pumps, electric syringes, etc.)
+
+- Errors when administering or using small single-dose plastic containers (single-dose saline solution, antiseptic solution, etc.), particularly in maternity wards and paediatric wards.

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-359-14-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing how to recognise pneumonia on a chest X-ray
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Guillaume Carteaux
+|Order=14}}
+
+- Pneumonia may be systematised to one lobe (acute frank lobar pneumonia, AFLP) or diffuse infiltrative (bilateral, multilobar)<gallery widths="300" heights="300">
+File:Pneumonia ins respi.jpg
+</gallery>Example of PFLA (right upper lobe) with systematized alveolar syndrome: bacterial pneumonia<gallery widths="300" heights="300">
+</gallery>
+
+
+[[File:Miliaire tuberculeuse.jpg|vignette]]
+
+
+Example of interstitial syndrome (well-limited micronodules of diffuse distribution): tubercular miliary<br />.

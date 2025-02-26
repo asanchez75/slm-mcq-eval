@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-235-09-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Know the aetiology of the usual clinical form
+|Description=Acute viral pericarditis
+|Rubric=Etiologies
+|Contributors=Jennifer Cautela
+|Order=9}}
+'''Acute pericarditis:''''
+
+* Viral etiology
+* Benign in 90% of cases
+* Generally corresponds to a non-purulent lymphocytic effusion.
+* Typical clinical picture :
+** '''recent flu-like episode'''
+** Young adult male with no significant cardiological history.
+** Frequent recurrence or relapse (30 to 50%)
+** Rare tamponade
+* Viral and autoimmune etiology is not necessary in simple forms:
+** Virology is usually negative: serologies should be repeated at 15-day intervals if there is any doubt (in practice not carried out).
+** Viruses involved: enterovirus (coxsackies A and B), echovirus, adenovirus, cytomegalovirus, parvovirus B19, Epstein-Barr, herpes, HIV, hepatitis C, influenza, coronavirus (COVID-19), etc.
+** PCR on effusion fluid or pericardial biopsy provides a definitive diagnosis: rarely carried out, given the invasive nature of the examination (pericardial puncture) and the lack of therapeutic implications in a benign form.
+
+<br />

@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-236-06-B
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=B
+|Title=Knowing tachycardia drugs and emergency treatment
+|Description=Use of atropine, isoprenaline and temporary cardiac stimulation
+|Rubric=Management
+|Contributors=Vincent Galand
+|Order=6}}
+ 
+
+- The urgency of management depends on the tolerance of the bradycardia.
+
+- Resuscitation manoeuvre if patient in cardiorespiratory arrest (sternal punch, if ineffective start external cardiac massage)
+
+
+If poor tolerance but patient not in cardiorespiratory arrest:
+
+* Tachycardia-inducing drug treatment:
+
+- Isoprenaline (Isuprel): intravenous treatment, protected from light (syringe wrapped in aluminium foil), diluted in G5%. Standard dosage: 5 ampoules of Isoprenaline in 250 cc of G5%. B1 mimetic action (=inotropic and positive chronotropic) and B2 mimetic action (vasodilator and bronchodilator).
+
+Contraindications: digitalis intoxication, ventricular extra systole and tachycardia > 120bpm.
+
+-Atropine: intravenous treatment, 0.5 to 1 mg IVD, renewable every 3 to 5 minutes (max 3 mg). Effective in ischaemic bradycardia, digitalis intoxication, vagal bradycardia.
+
+Contraindications: prolonged QT (risk of torsade de pointe), prostate adenoma, glaucoma.
+
+
+* Non-drug treatment (in the event of failure of drug treatment or poor tolerance of bradycardia):
+
+- '''Patch d'électro stimulation externe''' = External cardiac stimulation
+
+- '''Electro-systolic pacing lead''' = Placement of a temporary lead in the right ventricle by venipuncture.
+<br />

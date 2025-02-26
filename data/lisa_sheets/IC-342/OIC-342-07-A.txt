@@ -1,0 +1,12 @@
+<gallery>
+File:Malaise2.PNG
+</gallery>{{knowledge objective
+|Identifiant=OIC-342-07-A
+|Item_parent=Malaise, loss of consciousness, comitial seizure in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the cardiovascular and non-cardiovascular causes of syncope/lipothymia
+|Description=reflex, hypotensive, cardiac
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}

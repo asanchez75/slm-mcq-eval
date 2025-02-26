@@ -1,0 +1,155 @@
+{{knowledge objective
+|Identifiant=OIC-012-08-A
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=A
+|Title=Knowing the stages of questioning and clinical examination
+|Description=context, interview, examination, samples
+|Rubric=Positive diagnosis
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=8}}
+
+o '''<u>Context</u>''':
+
+▫ Examination in a '''quiet place''' if possible by a doctor - nurse or doctor - midwife pair;
+
+▫ '''Information and explanations''' to the victim of the stages of the examination and the samples that are going to be taken;
+
+▫ Collection of ''''oral consent''' for the examination and samples ;
+
+▫ '''Empathetic, non-intrusive, non-guilt-ridden'' interview;
+
+'''At the end of the interview: summarise the observations and ask the victim if she has any questions.''
+
+
+o '''<u>Enterview</u>'''':
+
+'''In terms of circumstances''':
+
+▫ The place, date and time of the alleged events ;
+
+▫ The number of aggressors ;
+
+▫ The intake of toxic substances or anything suggestive of chemical submission.
+
+'''In terms of associated violence:''''
+
+▫ Types of blows and their locations?
+
+▫ Any psychological violence (insults, threats, etc.)?
+
+▫ Any threats with a weapon?
+
+▫ Any defensive behaviour by the victim (scratching the attacker?)?
+
+'''In terms of sexual violence:''''
+
+▫ Determine if penetration has occurred (type: penile, digital, instrumental / location: vaginal, anal, oral);
+
+▫ Whether or not a condom is worn;
+
+▫ A possible ejaculation and its location.
+
+'''Specify behaviour since the event'''
+
+▫ Shower ;
+
+▫ Anal exoneration/micturition;
+
+▫ Change of clothes;
+
+▫ Taking psychoactive treatments or substances.
+
+'''Specify the background''' :
+
+▫ Determine whether the person is '''vulnerable ('''age, existence of a physical or psychological disability...) ;
+
+▫ Previous health status;
+
+▫ Gynaecological:
+
+Date of last menstrual period ;
+
+Date of last consensual intercourse, specifying whether it was protected or not ;
+
+Previous pregnancy(s) and mode of delivery ;
+
+Gynaecological or anal pathologies;
+
+Contraceptives.
+
+'''Specify the symptomatology:'''
+
+▫ Genito-anal disorders: vulvar or anal pain, urinary or anal burning, vaginal or anal discharge, bleeding ;
+
+▫ Abdominal pain;
+
+▫ Muscle or joint pain in connection with any associated physical violence ;
+
+▫ In connection with possible chemical subjection: generalized malaise, neuropsychological disorders including amnesia ;
+
+▫ Note the '''general and psychological repercussions''' of the alleged facts ([[2C-066-IU-A01|search for suicidal risk]] in particular).
+
+
+o '''<u>Clinical examination</u>''':
+
+'''-Describe precisely [[Identify associated tegumentary and psychic lesions 2C-012-DP-B01|associated physical lesions of violence]];''[[File:Iconography 7.jpg|vignette|'''Iconography 7:''' Recent tear (because red and bleeding on contact) of the hymen, reaching the vaginal wall (complete), located at 06h in the gynaecological position. Photograph taken with the patient's consent for teaching purposes]]'''-Describe lesions related to possible penetration:''''
+
+'''Vaginal:'''
+
+▫ On inspection: look for vulvar, hymenal traumatic lesions (divergent traction of the labia majora) ;
+
+▫ With Foley balloon probe (Iconography 7): distinction complete/incomplete rupture of the hymen, estimation of the size of the hymenal orifice ;
+
+▫ With speculum: look for lesions of the vaginal walls, cul-de-sacs, cervix, look for discharge, foreign bodies ;
+
+▫ On vaginal touch: look for pain;
+
+'''Anal:'''
+
+▫ On inspection: look for lesions in the radiating folds of the anal margin after unfolding (erosion, fissure, ecchymosis, haematoma) ;
+
+▫ On rectal examination: look for pain and disturbances in sphincter tone;
+
+'''Buccal''':
+
+▫ On inspection: look for traumatic lesions: petechial staining of the buccal mucosa, erythema or contusion of the frenulum of the tongue (lesions that are not very specific and rarely found in practice).
+
+'''-Describe the signs in connection with a chemical submission''' (Chemical submission<ref>https://ansm.sante.fr/page/resultats-denquetes-pharmacodependance-addictovigilance#:~:text=Soumission%20chimique,-L'Agence%20a&text=This%20enqu%C3%AAte%20annuelle%20permet%20d,de%20la%20prise%20du%20product.</ref>=the act of voluntarily giving a victim a psychoactive substance for criminal (rape) or tortious (theft) purposes)''':'''''
+
+▫ Neurological examination including pupillary diameter;
+
+▫ Search for injection sites.
+
+'''-Examination of clothing and underwear.'''
+
+
+o '''Withdrawals''' :
+
+'''-Forensic genetic purposes (in order to characterise the DNA of a possible assailant):''' swabs taken from dry swabs, labelled (identity of the victim and location), in sterile conditions, in duplicate, to be kept in the freezer and protected from light. The swabs will be taken from the areas of contact and ejaculation, depending on the interview.
+
+'''-Forensic toxicological purposes (in order to identify any chemical subjection):''' blood (<72h) and urine (<120h) samples or hair samples taken after the event (01 month).
+
+'''- For medical purposes''' :
+
+-[[Describe the management of sexual exposure during violence (rape) 2C-366-PC-B02|STD check-up]] ;
+
+Pre-tritherapy biological work-up [[List the main indications for post-exposure prophylaxis (PEP) for HIV-positive individuals|if indicated]] ;
+
+-ßHCG in blood.
+
+
+o '''Therapeutic measures:''''
+
+-In medical terms:
+
+        -2C-012-PC-B02|Managing the risk of pregnancy and STIs]] ;
+
+        -Explanation of the need for protected sex in the event of infectious risk;
+
+        -Analgesic treatment if necessary;
+
+Suggest appropriate medical follow-up (monitoring tolerance of triple therapy, STI biological tests at least every 6 weeks and 3 months),
+
+-''''[[Know the objectives of care for victims of sexual assault 2C-012-PC-B01|From a medico-legal/psychological/social point of view]] .'''''
+<references />

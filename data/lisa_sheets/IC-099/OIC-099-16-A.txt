@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-099-16-A
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=A
+|Intitle=How to advise a migraine patient
+|Description=Advice to reduce associated vascular risk factors
+|Heading=Management
+|Contributors=
+|Order=16}}
+Migraine with aura is an independent risk factor for cerebral infarction. The risk is doubled in a person suffering from migraine with aura and increases in the case of cofactors (female sex, age under 45, smoking and oestroprogestogenic contraception).
+
+'''In practice: Before prescribing oral contraception, systematically look for a migraine, and determine whether it is without aura or with aura'''.
+
+''Then, look for all arterial risk factors''
+
+o Age> 35
+
+o Smoking
+
+o Family history of stroke or myocardial infarction
+
+o [[Hypertension SD-042|Hypertension]]
+
+o Dyslipidaemia
+
+o Obesity
+
+'''Then choose contraception according to vascular risk factors and type of migraine'''
+
+Migraine without aura
+
+o ''Absence of any arterial risk factor'': all types of contraception are possible, including oestroprogestins
+
+o ''If one or more arterial risk factors are present'': oestroprogestogenic oral contraceptives are contraindicated; pure progestogens are possible, as are other methods of contraception.
+
+'''Migraine with aura:''' oestroprogestogenic oral contraceptives are contraindicated; pure progestogens are possible, as are other methods of contraception.

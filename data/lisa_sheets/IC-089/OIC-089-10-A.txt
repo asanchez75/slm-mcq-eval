@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-089-10-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Knowing the main aetiologies of ST
+|Description=(otosclerosis) (sequelae of chronic otitis) (fracture of the rock) (cerumen plug) (infectious, seromucosal: OSM)
+|Rubric=Etiologies
+|Contributors=Dr Damien Bonnard, Pr Virginie Escabasse, Pr Valérie Franco Vidal
+|Order=10}}
+'''Adults :'''
+
+*earwax plug
+*chronic non-cholesteatomatous ear (ossicular damage, tympanosclerosis, large tympanic perforation)
+*cholesteatoma
+*otosclerosis
+*ossicular trauma, rock fracture (extralabyrinthic)
+*external or middle ear tumours
+*seromucous ear (rarer than in children, think of cavum cancer)
+
+'''Children:'''
+
+*seromucous ear
+*earwax plug
+*chronic non-cholesteatomatous ear
+*cholesteatoma
+*ossicular trauma, rock fracture (extralabyrinthic)
+*ear malformations or aplasia

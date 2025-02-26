@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-302-14-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Photograph of a skin precancerous lesion
+|Description=Photography of typical actinic keratoses
+|Rubric=Multimedia content
+|Contributors=
+|Order=14}}
+
+[[File:Figure C.jpg|vignette|Multiple actinic keratoses of the scalp]]

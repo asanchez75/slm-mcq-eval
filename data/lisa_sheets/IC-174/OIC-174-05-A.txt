@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-174-05-A
+|Item_parent=Infectious pathology in adult and child migrants
+|Item_parent_short=Infectious pathology in adult and child migrants
+|Rank=A
+|Title=Knowing the main pathologies to be screened in migrants
+|Description=Include mumps, leishmaniasis, etc.
+|Rubric=Positive diagnosis
+|Contributors=Johan Courjon
+|Order=5}}
+
+
+===Bacterial infections===
+
+======Tuberculose======
+To be detected in new arrivals. Pulmonary tuberculosis by clinical examination and chest x-ray. Latent tuberculosis infection (LTBI) by gamma interferon test.
+
+======Colonisation by multi-resistant bacteria (MRB) or highly resistant bacteria (HRB) ======
+Screening by rectal swab on admission to hospital in France if hospitalised in the country of origin in the previous year.
+
+===Viral infections===
+
+======VIH-VHB-VHC======
+Screening newcomers with serologies
+
+===Parasitosis===
+======Parasitoses intestinales======
+First-time arrivals should be screened by PE. Diarrhoea, anaemia and hypereosinophilia are classic signs of these infections.
+
+======Schistosomoses======
+Screening of new arrivals by serology with, if positive, EPS and EPU (parasitological examination of faeces and urine) for eggs.
+======Chagas disease======
+Pregnant women born in Latin America. By serology.
+
+===Ectoparasitosis===
+Related to poverty: scabies
+
+===Mycosis===
+[Bacterial and mycotic skin and mucous membrane infections of adults and children|Microscopic or tricophytic ringworms in children
+
+===Non-infectious diseases===
+Hypertension-Diabetes-Sickle cell disease/haemoglobinopathies

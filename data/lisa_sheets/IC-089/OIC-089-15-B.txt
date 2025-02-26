@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-089-15-B
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=B
+|Title=Knowing the particularities of MS in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Damien Bonnard, Prof Virginie Escabasse, Prof Valérie Franco Vidal
+|Order=15}}
+'''Etiologies of MS in children:'''
+
+*''genetic deafness (60% of cases)'''
+**isolated or non-syndromic (e.g. connexin 26)
+**associated with other malformations or syndromic (e.g. Usher, Wardenburg, Pendred, Alport, Jerwell-Lange-Nielsen)
+*acquired deafness (40% of cases)
+**prenatal: embryo-fetopathies (e.g. CMV, Rubella, teratogenic drugs)
+**neonatal: prematurity, neonatal anoxia
+**postnatal: bacterial meningitis++.
+
+'''Taking charge:'''
+
+'''''Early diagnosis and treatment are essential for the proper development of communication and language'''''
+
+Newborn screening for deafness using PEA or OEA is systematically offered in maternity wards, followed by a check-up in a specialist centre if the test is inconclusive.
+
+Normal screening at birth does not rule out a secondary hearing impairment (progressive genetic deafness, acquired deafness).
+
+Severe or profound bilateral congenital sensorineural hearing loss requires multidisciplinary care (ENT, speech and language therapist, audioprosthesist, psychologist, psychomotor therapist) and may benefit from cochlear implantation if conventional hearing aids do not produce sufficient results.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-200-01-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know the definition of a joint effusion
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Pathological accumulation of synovial fluid in the joint cavity.

@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-100-03-A
+|Item_parent=Unusual acute and chronic headache in adults and children
+|Item_parent_short=Unusual acute and chronic headache in adults and children
+|Rank=A
+|Heading=State the main causes of acute headache and the specific clinical features of each.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+'''[[Headache SD-118|Headache]]'''' = severe (VAS of 7 or more) and maximal in less than one minute.
+
+'''Brutal headache''' = maximum in a few minutes. In practice, the causes of headaches that peak in less than an hour are the same as those of thunderclap headaches.
+
+===='''1. Subarachnoid haemorrhage (SAH) or meningeal haemorrhage (<u>item 341</u>)'''====
+- SAH or meningeal haemorrhage: cause of 10 to 25% of sudden headaches .
+
+- Typical headache (SAH due to rupture of aneurysm): explosive, thunderclap-like, severe, associated with other signs of meningeal syndrome and persistent [[Cervicogenic pain SD-144|cervicalgia]].
+
+- Sometimes an isolated, short-lived headache (meningeal epistaxis of low severity, preceding a massive SAH).
+
+- Associated signs: [[Convulsions SD-120|comitial seizures]], [[Sensory and/or motor neurological deficit SD-121|focal deficit]] (if cerebral-meningeal haemorrhage), III paralysis (compression by an aneurysm of the posterior communicating artery or carotid termination) and/or [[Coma and consciousness disorder SD-028|consciousness disorder]] (transient or coma).
+<br />
+
+===='''2. Reversible cerebral vasoconstriction syndrome (RCVS)'''====
+- RVCS: 10 to 45% of thunderclap headaches in emergency departments; under-diagnosed because of recent description (2007).
+
+- SVCR: segmental and diffuse vasoconstriction of cerebral arteries, reversible within 3 months. May be complicated by cortical SAH without aneurysm and stroke ('''<u>item 340</u>''') (either cerebral haemorrhage or cerebral infarction).
+
+- Typical headache: thunderclap headache, lasting 5 minutes to several hours and recurring over 1 to 3 weeks, usually provoked by exertion, emotion, Valsalva or sexual activity.
+
+- Other associated signs: hypertensive crisis, [[Convulsions SD-120|comitial seizures]] and/or [[Sensory and/or motor neurological deficit SD-121|focal deficit]].
+
+- Evocative contexts: postpartum, exposure to vasoactive substances (cannabis, cocaine, serotonergic antidepressants, sympathomimetics, nasal decongestants or triptan) or stress.
+<br />
+
+===='''3. Rarer causes of sudden headache'''====
+The following sudden headaches have few specific characteristics and should be investigated after ruling out SAH and if the picture does not suggest CVRS.
+
+- '''Intracerebral hemorrhage''': headache sometimes isolated, with [[Sensory and/or motor neurological deficit SD-121|focal deficit]] absent or very discreet (frontal or cerebellar hemorrhage) (see stroke '''<u>item 340</u>''')
+
+- '''Ischaemic stroke''': headache sometimes isolated, with [[Sensory and/or motor neurological deficit SD-121|focal deficit]] absent or very discrete (especially in cerebellar infarction) (see stroke '''<u>item 340</u>''')
+
+- '''Dissection of cervical arteries''' : [[Headache SD-118|headache]] acute with [[Neck pain SD-144|cervicalgia]]
+
+o Carotid dissection: on the side of the dissection: Claude-Bernard Horner, pulsatile tinnitus, paralysis of XII, orbital pain
+
+o Vertebral dissection: posterior neck pain SD-144|cervicalgia
+
+o Headache precedes signs of retinal or cerebral ischaemia (transient amaurosis, TIA or stroke) (stroke '''<u>item 340</u>''')
+
+- '''Cerebral venous thrombosis''': more often gives progressive headaches by JTIC, but sometimes brutal headaches (stroke '''<u>item 340</u>''')
+
+- '''Pituitary apoplexy or necrosis:''' abrupt headache, visual disturbances, bitemporal hemianopsia, then signs of pituitary insufficiency, postpartum setting, sometimes complicates a pituitary adenoma (pituitary adenoma '''<u>item 244</u>''')
+
+- '''Cardiovascular causes''' (myocardial ischaemia, aortic dissection) by projected pain: rare
+
+- '''Acute HTIC''' : '''acute hydrocephalus''' on certain intracranial tumours ('''<u>item 299</u>)''' compressing the 3rd or 4th ventricle, transient brutal headache on movement or coughing, later becoming permanent.
+
+- '''Hypertensive encephalopathy and eclampsia''': headache preceding the signs of encephalopathy ([[Coma and consciousness disorders SD-028|consciousness disorders]] ± [[Sensory and/or motor neurological deficit SD-121|focal deficits]] ± [[Convulsions SD-120|epilepsy]]) with hypertension.
+
+- ''Intracranial hypotension'': postural orthostatic headache that disappears with decubitus; most often revealed by a progressive headache
+
+- '''Meningitis and meningoencephalitis''' '''(<u>item 151</u>)''': headache with infectious syndrome; most often reveals itself as a progressive headache
+
+- '''Giant cell arteritis''' ('''<u>item 195</u>'''') ''':''' to be considered in the presence of any recent and unusual headache in a subject > 50 years of age, including in the presence of a sudden headache after ruling out other causes
+
+- '''Acute blocked sinusitis''' (''<u>item 148</u>'''): headache that increases with the head bent forward, should be considered as a diagnosis of exclusion (after ruling out neurological causes of sudden headache).
+
+- '''Acute angle closure glaucoma''' ('''<u>item 84</u>'''): violent retrobulbar or periorbital headache, light halos, decreased visual acuity, [[Nausea SD-012|nausea]] and [[Vomiting SD-013|vomiting]], [[Red and/or painful eye SD-152|red eye]] and mydriatic pupil

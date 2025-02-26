@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-111-07-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Know two differential diagnoses of acne
+|Description=Infectious folliculitis, rosacea
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+To be considered in the absence of retention lesions. No comedones = no acne
+
+Infectious folliculitis: of bacterial, parasitic (''Demodex'') or mycotic (''Candida'') origin.
+
+-Rosacea (see below).
+
+<br />

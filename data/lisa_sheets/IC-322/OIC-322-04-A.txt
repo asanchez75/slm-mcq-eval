@@ -1,0 +1,146 @@
+{{knowledge objective
+|Identifiant=OIC-322-04-A
+|Item_parent=Personalised therapeutic decision making: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Know the principles of therapeutic adaptation in the elderly (see item 130)
+|Description=Know the principles of therapeutic adaptation in the elderly.
+|Rubric=Management
+|Contributors=Jean Doucet
+|Order=4}}
+
+<br />
+
+==A specific context for therapeutic management ==
+Elderly people are defined as those aged 75 and over and those aged 65 and over with polypathology.
+
+Their therapeutic management takes place in a context where polypathology very often requires several treatments with increased exposure and sensitivity to adverse drug reactions.
+
+Although age does not generally contraindicate treatment, it often changes the objectives and methods.
+
+Under these conditions, it is even more imperative to prioritise the diseases to be managed and to ensure coordination between prescribers, pharmacists and carers.
+
+== ''Increased exposure to adverse drug reactions'' ==
+The elderly are more susceptible to drug-related accidents.
+
+Many factors contribute to the increase in adverse drug reactions: the pathological context and situation of the patient, the medical prescription, the administration of medicines and the pharmacological characteristics of certain medicines, as well as drug interactions.
+
+In addition, the elderly, because of their polypathology and polymedication, are subject to the risk of a break in the continuity of treatment when they are admitted to a care establishment.
+
+==The practical approach to prescribing therapy ==
+
+Before writing a prescription, prescribers should systematically ask themselves a number of questions and answer them.
+
+===1) Before writing the prescription: find out about the patient and his/her illnesses===
+
+*What is the disease to be treated and what are the associated pathologies?
+
+Priority should be given to diseases that are life-threatening or have an impact on quality of life.)
+
+Adapt the therapeutic objective to the risk of the disease progressing, the iatrogenic risk and the burden on the patient.
+
+Assess the patient's somatic condition, in particular weight, nutritional status and hydration. A fragile state constitutes an additional risk of iatrogenic accident.
+
+*What are the patient's expectations?
+
+Neglected, patient demand can lead to errors in compliance or self-medication.
+
+*What are the short- and medium-term therapeutic objectives?
+
+The therapeutic objective is based on an assessment of the severity of the disease, the pathological context and the patient's expectations.
+
+*'''Do we have a complete list of medicines currently being taken?'''
+
+Elderly patients often have several doctors and may also self-medicate. The use of the dispensing pharmacist and the pharmaceutical record is therefore essential.
+
+*Can the patient understand the procedures for managing and administering medicines and comply with the monitoring procedures?
+
+The patient's cognitive state and lifestyle influence compliance.
+
+===2) When writing prescriptions: controlling, personalising and optimising treatment===
+
+*Is a prescription really necessary?
+
+It may be preferable to adopt a non-pharmacological solution (sleep disorders). The risk to which the patient is exposed (iatrogenic accident or deterioration in quality of life) must be compared with the risk of the disease progressing.
+
+It is important to avoid prescribing drugs of questionable efficacy (identified in the summary of product characteristics as "proposed in", "used in", "symptomatic treatment of", "adjunctive treatment", or considered by the French National Authority for Health as providing insufficient medical service).
+
+Then there are the so-called inappropriate drugs, where the risk outweighs the benefit. Wherever possible, it's a good idea to choose a medicine that can be used to treat several illnesses.
+
+*What are the main pharmacokinetic parameters to be taken into account?
+
+Overall, pharmacokinetic changes contribute to the risk of increasing plasma concentrations, prolonging the elimination half-life of drugs and increasing their toxicity.
+
+Absorption is generally unaffected by associated pathologies or certain co-prescriptions.
+
+Ageing is accompanied by a reduction in the proportion of the body's lean body mass and an increase in fat mass. This change in distribution leads to an increase in the volume of distribution of fat-soluble drugs and a decrease in the volume of distribution of water-soluble drugs.
+
+Malnutrition, which is common, is accompanied by hypoalbuminemia, which potentiates the toxicity of drugs with high protein binding by increasing their directly active free form.
+
+Age-induced changes in liver metabolism are varied. The activity of certain enzymatic pathways is reduced (oxidation, reduction, hydrolysis). Above all, there is a progressive and significant deterioration in glomerular filtration rate, the average value of which at the age of 80 is 30-50% lower than that of a young person. This contributes to the accumulation of drugs that are eliminated by the kidneys.
+
+*'''Does the chosen pharmaco-therapeutic class have a better benefit/risk ratio than other classes with comparable indications?'''
+
+Newly marketed drugs should be used with caution, and monitoring measures should be stepped up,
+
+*'''Is it necessary to adapt the dosages of the new drug and the others?'''
+
+Except in situations where effective plasma concentrations need to be achieved rapidly, it is often preferable to start with a reduced initial dose. The dosage is then increased very gradually depending on efficacy and tolerance. The introduction of a new drug should be accompanied by a reassessment of the indication or dosage of other drugs. Duplication should be avoided by identifying all drugs that belong to the same therapeutic class or have common pharmacological properties that may or may not be related to the desired therapeutic effect.
+
+*Are the administration conditions appropriate for the patient?
+
+Care should be taken to ensure that the medication is easy to administer, in particular that it is easy to divide and that it is taken at the right time. The use of a pillbox is recommended, as is secure administration by a nurse or family carer. Taking the medication at mealtimes may interfere with eating. A suitable galenic form should be chosen. Drinkable solutions should not be used if several drugs are mixed together. Crushing medicines in the event of swallowing or behavioural problems should only be used after checking that they can be crushed and obtaining pharmaceutical advice.
+
+*Is the prescription sufficiently precise, clear, legible and understandable?
+
+The patient's age does not always mean that therapeutic education is not necessary, and this may be more important for family and friends in the event of a loss of autonomy.
+
+*'''Are the doctors, pharmacists and carers caring for the patient informed of the new treatment and any significant associated therapeutic changes?'''
+
+*'''What is the planned duration of treatment and what are the monitoring plans and procedures?'''
+
+===3) At subsequent consultations: assess the efficacy and safety of the treatment===
+Any prescription renewal must systematically result from a reassessment of the appropriateness of continuing each drug.
+
+*'''Has the expected objective been achieved?'''
+
+Regular assessment of the treatment leads to adaptation of the dosage, or even discontinuation. If the treatment is ineffective, an error in compliance and its cause should be investigated (undesirable effects not reported by the patient due to cognitive problems, etc.).
+
+*Has the initial situation (somatic, cognitive, drug-related and social) changed?
+
+Worsening cardiac or renal insufficiency alters the metabolism of the products prescribed. The occurrence of falls may contraindicate the continuation of an anticoagulant. A change of residence or lifestyle (e.g. moving house, death of a relative) should prompt a reassessment of drug management and administration.
+
+*Is treatment always necessary?
+
+Knowing how to deprescribe is just as important as knowing how to prescribe. Rediscussing the prescription with each prescription helps to eliminate products that are no longer needed. An intercurrent pathology may also temporarily or permanently contraindicate the use of a drug.
+
+*'''Is a new symptom related to an adverse reaction?'''
+
+Acquiring the iatrogenic reflex means considering any new unexpected symptom as a possible undesirable effect.
+
+==Conclusion: key points for prescribing in the elderly==
+
+
+'''Before writing any prescription, obtain exhaustive information:'''
+
+*the relative seriousness of the various pathologies presented, in order to prioritise their management
+*the patient's somatic condition (weight, nutrition, renal function, etc.) in order to adapt doses
+*the patient's cognitive state and environment, to encourage the best possible compliance
+*a complete list of all medicines taken, including self-medication
+
+'''When drawing up the order:'''
+
+*limit prescriptions to essential medicines,
+*give preference to products with the best benefit/risk ratio,
+*prescribe only for the appropriate duration
+*programme precise monitoring of the effects of treatment;
+*describe prescriptions in a concrete and comprehensible way, to avoid dosage errors as far as possible
+
+Prior to any prescription renewal, reassess the usefulness of each drug and know how to deprescribe those whose usefulness is no longer obvious.
+
+In terms of therapeutic objectives: take account of the patient's expectations; share these objectives with the pharmacist and all carers and family carers; if the expected objectives have not been achieved, ask about compliance.
+
+'''In the event of a new symptom'': have the iatrogenic reflex: systematically evoke an undesirable effect
+
+'''Ensure that information is shared''' on medicines at so-called transition points: admission to a care facility, transfers between hospital departments, discharge to home or to another form of care.
+<br />

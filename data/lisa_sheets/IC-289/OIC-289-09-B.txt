@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-289-09-B
+|Item_parent=Parietal hernia in children and adults
+|Item_parent_short=Parietal hernia in children and adults
+|Rank=B
+|Title=Knowing the indications for imaging examinations for parietal hernias
+|Description=Imaging only in cases of diagnostic doubt.
+|Rubric=Additional examinations
+|Contributors=Pablo ORTEGA DEBALLON,David MOSZKOWICZ,Olivier FARGES
+|Order=9}}
+
+- The diagnosis of umbilical or inguinal hernia does not require any imaging. Physical examination alone is sufficient.
+
+- In special situations (obesity), imaging may be used when the patient's morphology makes physical examination non-contributory.
+
+- In children the HAS explicitly recommends (2018) avoiding imaging for hernia diagnosis.
+
+- The diagnosis of ventration does not require imaging either, but the surgeon will request it often enough to characterise the ventration.
+
+- Evisceration is confirmed in the patient's bed as soon as the viscera are exposed in the postoperative period.
+
+In the case of a painful hernia, it is urgent to check that it is irreducible. Imaging is a waste of time.

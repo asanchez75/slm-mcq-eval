@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-257-01-A
+|Item_parent=Localised or generalised lower limb oedema
+|Item_parent_short=Localised or generalised oedema of the lower limbs
+|Rank=A
+|Intitle=Know the definition of oedema
+|Description=None
+|Rubric=Definition
+|Contributors=JJ Boffa,B Moulin
+|Order=1}}
+
+Oedema is defined as the visible or palpable accumulation of fluid in the interstitial tissue.
+
+A distinction must be made between :
+
+* oedema caused locally by inflammation, venous or lymphatic insufficiency;
+* generalised oedema resulting from a positive sodium and water balance (extracellular hyperhydration). In the most severe forms, this is known as hydrops.

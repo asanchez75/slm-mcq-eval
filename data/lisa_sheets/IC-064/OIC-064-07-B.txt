@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-064-07-B
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar Disorders in Adolescents and Adults
+|Rank=B
+|Intitulé=Knowing that the aetiology of bipolar disorder is multifactorial
+|Description=Renvoi item 60 To know that psychiatric disorders are associated with disturbances in brain function
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+''Risk factors and aetiology''
+
+Bipolar disorders have a multifactorial aetiology, with interactions between genetic vulnerability (heritability of 60-70%) and environmental risk factors including early trauma (loss, separation, violence, neglect, etc.) and later trauma (stressful life events, use of cannabis, psychostimulants, antidepressants, etc.). They are associated with abnormalities in brain function.

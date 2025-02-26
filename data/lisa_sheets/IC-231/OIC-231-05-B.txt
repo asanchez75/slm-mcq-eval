@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-231-05-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Title=Identifying right ventricular hypertrophies
+|Description=To recognise the different aspects including pulmonary embolism
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=5}}
+
+
+* Increased QRS amplitude in right leads,
+* R wave > S wave in V1,
+* S wave > R wave in V6,
+* Frequent right axial deviation,
+* Imperfect sensitivity/specificity compared with cardiac ultrasound or MRI.
+
+<br />[[File:HVD.png|vignette|776x776px|Right ventricular hypertrophy]]

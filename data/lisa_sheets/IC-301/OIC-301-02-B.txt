@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-301-02-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Know the list of the main colonic lesions that increase the risk of developing cancer in the future.
+|Description=Dysplasia cancer sequence (adenomas, IBD, polyposis)
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+- '''Adenoma''' is the main lesion that increases the risk of cancer.
+
+o The adenoma may be sporadic or appear in the context of a polyposis defined by a large number of polyps on endoscopy (> 100).
+
+- '''Les lésions festonnées'''
+
+o Sessile scalloped adenomas, most often in the colon, with a high risk of degeneration into adenocarcinoma
+
+o Traditional scalloped adenomas (rarer) which also carry a risk of degeneration into adenocarcinoma
+
+- '''Chronic inflammatory bowel disease (IBD),'''

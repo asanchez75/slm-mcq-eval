@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-154-07-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Knowing the indications for chest X-rays in adults and children
+|Description=(rare indication for acute bronchiolitis)
+|Rubric= Complementary examinations
+|Contributors=
+|Order=7}}
+'''''Indications for chest radiography in acute community-acquired pneumonia (CAP):'''''
+
+*''Initially,''' for diagnosis because it :
+**participates in the positive diagnosis of CAP;
+**assesses initial complications (pleural effusion, abscess, obstruction);
+*During the reassessment of a CAP which has not progressed favourably under treatment:''''
+**look for complications: pleurisy, abscess, etc.
+**assess the extent of lesions (sign of severity).
+
+
+'''''Indications for chest radiography in bronchiolitis (in infants):'''''
+
+A chest X-ray is not necessary for the diagnosis of bronchiolitis.
+
+It can be performed in front of :
+
+- signs of "clinical severity" (requiring hospitalisation);
+
+- suspected differential diagnosis (myocarditis);
+
+- persistence of symptoms after 5 to 7 days

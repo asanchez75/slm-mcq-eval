@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-193-10-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Title=Know the principles of the management of vasculitis
+|Description=General principles only, no names of molecules or doses
+|Rubric=Management
+|Contributors=Luc Mouthon
+|Order=10}}
+
+'''<big>Corticosteroid therapy</big>''' ([[Prescribe systemic or local corticosteroids SDD-251|'''prescribe systemic or local corticosteroids''']]): orally or intravenously, with gradual decrease.
+
+'''<big>Immunosuppressive and immunomodulatory drugs:</big>''' either combined from the outset in severe or relapsed forms, or in a second phase aimed at cortisone sparing.
+
+* Synthetic immunosuppressants: cyclophosphamide for initial treatment of severe forms, methotrexate or azathioprine for maintenance treatment (usually between 2 and 4 years).  
+* Biotherapies: rituximab, an anti-CD20 monoclonal antibody (marketing authorisation) for the treatment of vasculitides associated with ANCA (GPA and MPA); tocilizumab, an anti-interleukin 6 receptor monoclonal antibody (marketing authorisation for giant cell arteritis, in forms refractory to conventional immunosuppressants).
+* Intravenous immunoglobulin in combination with acetylsalicylic acid to prevent coronary aneurysms in Kawasaki disease, before the tenth day of disease progression.
+
+'''<big>Revascularisation:</big>''' mainly during Takayasu's arteritis, in cases of stenosis with downstream haemodynamic repercussions.
+
+'''<big>Measures associated with treatment:</big>''' prevention of the risk of infection of major major importance, prevention of complications of corticosteroid therapy in particular osteoporosis.

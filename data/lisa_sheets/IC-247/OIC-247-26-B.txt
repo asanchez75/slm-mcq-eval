@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-247-26-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Knowing the principles of nephroprotective treatment in diabetics
+|Description=None
+|Rubric=Management
+|Contributors=Eva Feigerlova,Hélène Bihan,Claire Briet,Etienne Larger,Gaetan Prevost
+|Order=26}}
+
+'''Primary prevention'''
+
+- glycaemic control and management of associated risk factors (hypertension, smoking) [[Hypertension in adults and children]]; [[Smoking in men and women 2C-075-PE-A02]].
+
+
+'''Prevention from the microalbuminuria stage'''
+
+- blood sugar control: HbA1c < 7%.
+
+- blood pressure control: < 140/85 mm Hg;
+
+- use of ACE inhibitors or angiotensin II type 1 receptor antagonists (sartans)
+
+- management of all associated risk factors (smoking, dyslipidaemia)
+
+- the low-protein diet: 0.8 g/kg per day and moderate salt intake (6 g per day)
+
+
+At the macroalbuminuria stage
+
+- blood pressure control: < 140/85 mm Hg.
+
+- reduce the rate of proteinuria to below 0.5 g/24 h.
+
+- check at 6 months that microalbuminuria or proteinuria has subsided or stabilised
+
+
+'''At the stage of renal failure [[Chronic renal failure in adults and children]]''''
+
+- the HbA1c target is < 8% if the estimated filtration rate is < 30 ml/min/1.73 m2 ;
+
+- for a GFR between 30 and 60 ml/min/1.73 m2, adapt the doses, particularly of metformin
+
+- from stage 4 onwards (GFR < 30ml/min/1.73m2), the only authorised anti-diabetic classes (MA) are insulin, repaglinide, α-glucosidase inhibitors, DPP-4 inhibitors in appropriate dosage and certain GLP-1R agonists.
+
+- monitoring glycaemic control
+
+- control of blood pressure < 130 mm Hg
+
+- refer to the nephrologist
+
+
+At all stages, avoid situations that could accelerate the progression of kidney disease:
+
+- avoid NSAIDs [[Principle of proper use of medicines and non-drug therapies]]
+
+- limit injections of iodinated contrast media

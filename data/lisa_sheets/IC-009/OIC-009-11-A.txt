@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-009-11-A
+|Item_parent=Introduction to medical ethics
+|Item_parent_short=Introduction to medical ethics
+|Rank=A
+|Title=Knowing the three main protective measures
+|Description=Know the situations that can lead to legal protection measures, curatorship and guardianship.
+ Understand the main implications of these measures.
+|Rubrique=Prise en charge
+|Contributors=
+|Order=11}} Illness, disability or accident can alter a person's intellectual or physical faculties, preventing them from expressing their wishes and defending their interests alone. This person may be placed under a legal protection measure, which consists of appointing another person to assist or represent them in their interests.
+
+There are several forms of personal protection, the three main ones being legal protection, curatorship and guardianship [[Learn about the three main forms of protection OIC-009-11-A#sdfootnote1sym|<sup>1</sup>]].
+
+'''1) Safeguard of justice:'''
+
+Safeguard of justice is a temporary protective measure with limited effects, used to deal with an emergency situation where a person of legal age is at risk of taking action contrary to his or her interests.
+
+It is taken pending either the person's recovery or the pronouncement of a curatorship or guardianship measure.
+
+In its form, the safeguard of justice can be :
+
+- medical, resulting from a statement made by a doctor (either the doctor of the person to be protected or the doctor of the health establishment where the person is) to the public prosecutor.
+
+- judicial, i.e. requested by the guardianship judge, in particular if an application is made to the judge to place the person under guardianship or curatorship.
+
+The person under court protection retains the capacity to perform all acts, but certain important acts (e.g. the sale of a property) may be specially entrusted to a proxy.
+
+'''2) Guardianship and curatorship:'''
+
+The difference between guardianship and curatorship lies in the degree of constraint imposed by these measures. The consequences of establishing guardianship are greater than those of curatorship.
+
+A person placed under guardianship remains autonomous in everyday life, but must be accompanied by a guardian for important acts. The guardianship judge defines the actions that the person may or may not take on their own, depending on their condition.
+
+Guardianship is a more protective measure. A guardian represents the adult to be protected in everyday life. The guardianship judge determines which acts the protected person may or may not perform alone.
+
+There are three types of acts defined by law: acts that the protected person can carry out themselves (e.g. shopping); acts that require the guardian's authorisation (e.g. renewing an identity card); acts that require the guardianship judge's authorisation (e.g. changing residence).
+
+The duration of the protective measure is determined by the guardianship judge. If the protected person's condition does not seem likely to improve, the guardianship judge may decide to renew the guardianship.
+
+'''3) Protection of minors:''''
+
+Guardianship of a minor is a legal protection measure whereby another person helps to protect the minor's interests when the holders of parental authority can no longer exercise them. In this case, the judge appoints a family council, which appoints a guardian and a subrogated guardian (a person appointed by the family council to represent the protected person when the latter's interests conflict with those of the guardian. This person has an obligation to monitor the management of the guardian).
+
+'''To find out about the main implications of these protective measures, particularly as regards the rights of protected patients of full age, please refer to the previous knowledge objective (OIC-009-10-B Principles and purposes of personal protection measures)'''.
+
+[Knowing the three main protection measures OIC-009-11-A#sdfootnote1anc|1]] This text borrows from several documents published by the Ministry of Justice, the Ministry of Solidarity, Autonomy and the Disabled and the Ministry of Health and Prevention, and from consultations on justice.fr, solidarités-santé.gouv.fr, service-public.fr.

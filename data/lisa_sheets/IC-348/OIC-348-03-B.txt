@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-348-03-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the prevalence of AKI
+|Description=Know the distribution of the different types of AKI, its hospital prevalence
+|Rubric=Epidemiology
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=3}}
+
+ARF affects 25% of hospitalised patients, i.e. more than 4 million patients in France, with less than 1% being treated in intensive care or intensive care units. The most frequent causes of ARF are functional ARF, certain obstructive ARF, acute tubular necrosis (ATN) and drug-induced ARF.

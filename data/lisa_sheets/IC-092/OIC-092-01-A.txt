@@ -1,0 +1,277 @@
+{{knowledge objective
+|Identifiant=OIC-092-01-A
+|Item_parent=Motor and/or sensory deficit of the limbs
+|Item_parent_short=Motor and/or sensory deficit of the limbs
+|Rank=A
+|Title=Knowing the syndromic and topographical diagnostic approach to motor and/or sensory deficit of the limbs
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+The diagnostic approach to a motor and/or sensory neurological deficit ''([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])'' involves several steps, sometimes intertwined during the history and clinical examination. The first part consists of identifying the location of the abnormalities. This is based on a ''syndromic analysis'' of the deficit, followed by an ''analysis of the distribution of motor and sensory abnormalities''. The kinetics of the development of the deficit will then be determined.
+
+===A- Syndromic analysis of motor deficit===
+{| class="wikitable"
+|
+|'''Pyramidal''''
+
+Central motor neuron
+|Peripheral neurogene
+
+Peripheral motor neuron
+|Myasthenic
+
+Neuromuscular junction
+|'''Myogenic''''
+
+Muscle
+|-
+|Motor deficit
+|Hemiplegia (with or without face)
+
+'''Para''' or '''tetraplegia'''.
+
+''Predominates on extensors in the MS and on shorteners in the MI.''
+|Localized to a precise territory (''radicular'' or ''truncal''),'' global or ''length dependent''.
+|Fluctuating, fatigue, diplopia, ptosis, pharyngolaryngeal, proximal, axial and respiratory muscles.
+
+''([[Diplopia SD-143|diplopia]], [[Palpebral anomalies SD-139|palpebral anomalies]])'''
+|Proximal'' and ''axial'' muscles, respiratory, cardiac
+
+''Usually symmetrical deficit ([[Muscle weakness SD-074|muscle weakness]], [[Dyspnea SD-162|dyspnea]])''
+|-
+|'''Osteotendinous reflexes (ROT)''''
+|'''Vives''', '''diffused''', enlargement of the reflexogenic zone.
+
+''Sometimes abolished in the acute phase''
+|Diminished or '''abolished'''''.''
+
+''Can be preserved if localised damage (e.g. no ROT root L5)''
+|Normal
+|Normal
+|-
+|Plantar Cutaneous Reflex (PCR)'''
+|In extension: ''Babinski'' sign
+|In flexion or indifferent
+|Flexion or indifferent
+|In flexion or indifferent
+|-
+|'''Tonus'''
+
+'''and'''
+
+'''Associated signs'''
+|'''Spasticity''' (Increases with the speed of mobilisation of the limb).
+
+Epileptoid trepidation of the ankle.
+
+''Spasticity'' a''bsent in recent deficits''
+|Normal or hypotonia
+
+
+Cramps and fasciculations
+|Normal
+|Hypotonia
+|-
+|Trophicity
+|Normal
+
+''global atrophy of the limb if old deficit''
+|Amyotrophy
+
+after several weeks or months
+|Normal
+|Amyotrophy
+
+Sometimes pseudohypertrophy
+|-
+|'''Walking'''
+|- '''Steppage''''
+|'''Steppage''''
+|Fluctuating fatigue
+|'''Waddling''''
+|}
+
+===B- Analysis of the distribution of motor and sensory abnormalities===
+With the help of the motor syndrome analysis, it is often possible to determine the precise location of the damage by means of the distribution of the deficits.
+
+====1.    Central nervous system disorders ====
+{| class="wikitable"
+|
+|'''Cortical'''
+|Subcortical
+|Brain stem
+|'''Marrow'''
+|-
+|'''Motor deficit''''
+|'''Hemicorporeal'''
+
+''Often part of the hemi-body:''
+
+''-Brachio-facial''
+
+''-Lower limb''
+|''Hemicorporel'', '''proportionnelle'''
+
+''Involvement affects the whole hemicorpore in a comparable manner''
+|Hemicorporeal sparing of the face + involvement of one or more contralateral ''cranial pairs'':
+
+'''Syndrome''' '''alternating''''
+|Motor deficit under the lesion :
+
+''-'''Tetraplegia''' if injury at cervical bulge level or above''
+
+''-'''Paraplegia''' if injury below''
+|-
+|'''Sensory deficit'''
+|'''Hemicorporeal''',
+
+same location as motor
+|May be absent
+
+''Or same location as motor''
+|''Hemicorporeal, sparing the face''
+
+± involvement of contralateral hemiface
+|Sensory level
+
+Sensory disturbances in all modes below the lesion''.
+|-
+|Localisation signs
+|Possible aphasia if left hemisphere affected''.
+
+''([[Speech and/or phonation disorder SD-134|speech and/or phonation disorder]])'''
+|
+|''Precision possible on the level of involvement depending on the cranial pairs affected Cf. Wallenberg syndrome''
+|''Peripheral involvement at the level of the lesion: '''Syndrome lésionnel'''''
+
+''Cf. Brown-Séquard, syringomyelia''
+|}
+
+====2.    Peripheral nervous system disorders====
+Flaccid motor deficit (without spasticity) ''([[Muscular weakness SD-074|muscular weakness]])'' ; amyotrophy (delay of several weeks before onset) ; fasciculations and cramps (non-specific, but frequent) ''([[Myalgias SD-077|myalgias]]) ([[Localised or generalised muscle contracture SD-029|localised or generalised muscle contracture]]), ([[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]])''; reduced or abolished ROT (If ROT in affected territory)
+{| class="wikitable"
+|
+|'''Motor deficit''''
+|Sensory deficit
+|'''ROT'''
+|'''Other'''
+|-
+|'''Anterior horn'''
+|'''Yes'''
+
+''Touche différents territoires, progressive''
+|'''No'''
+|'''Often preserved'''
+
+''Sometimes vivid and diffused''
+
+''(associated central motor impairment in ALS)''
+|'''Amyotrophy''''
+
+'''Fasciculations''' Cramps
+|-
+|'''Root'''
+|'''Yes''
+
+''Deficit of the muscles innervated by the root (e.g. Middle gluteal and Tibial anterior for root L5)''
+|'''Yes'''
+
+''In all modes in the root zone concerned''
+<br />
+|''Reduced or abolished''
+
+'''if ROT on this root''''
+
+''(e.g. no abolition of ROT if L5 affected)''
+|'''Painful path''' ''Specific to the root'''
+
+''([[Pain in a limb (upper or lower) SD-071|pain in an upper or lower limb]])'''
+|-
+|'''Ponytail''''
+| colspan="4" |''Cf. specific question below''
+|-
+|'''Nervous trunk''''
+|'''Yes''
+
+''Deficit of the muscles innervated by the nerve trunk downstream of the lesion''.
+
+''(e.g. involvement of finger and wrist extension, but not of the Triceps if involvement of the Radial at the level of the radial groove)''
+|'''Yes''
+
+''To all modes of transport in the sectional area concerned''.
+
+''(e.g. first 3 fingers and half of the 4th<sup>ème</sup> palmar surface for Median. No sensitive involvement for Radial below the elbow)''
+|'''Reduced or abolished'''
+
+'''si ROT sur ce tronc nerveux'''
+
+''(e.g. no abolition of ROT if ulnar involvement)''
+|'''Amyotrophy''''
+
+''in the trunk area below the lesion''.
+
+''(e.g. Amyotrophy of the thenar eminence, but not hypothenar in a median)''
+|-
+|'''Polyneuropathy''''
+|'''Yes''
+
+Distal involvement of the IM, symmetrical.
+
+''Usually less marked than sensory impairment.''
+|'''Yes''
+
+''Most often a length-dependent type of disease''.
+
+''(e.g. socks, knee-highs,...)'''
+|'''Reduced or abolished'''
+
+''Achilleans above all
+
+Other, depending on the extent of the damage
+|Myotrophy and trophic disorders distal to the IM
+|-
+|'''Poly-radiculo-neuropathy'''
+|Yes
+
+Proximal and distal
+
+''Often symmetrical Not systematisable in terms of trunk or root''
+|'''Yes''
+
+''Often quite comprehensive in disadvantaged areas''.
+
+''Frequent ataxia
+| ''Reduced or abolished''
+
+''diffusely''
+|often rapid upward progression
+|-
+|Sensory neuropathy
+
+'''''(Ganglionopathy)'''''
+|'''No'''
+|'''Yes''
+
+''Not systematisable in terms of root or trunk''.
+
+''Sometimes very extensive, sometimes very localized''
+|'''Reduced or abolished'''
+
+''Often in a diffuse way
+|
+|}
+''At the end of this analysis, it is most often possible to localise the disease. This stage is essential in the diagnostic process. The second stage consists of analysing the circumstances of the condition in order to arrive at a diagnosis, or at least to limit the aetiologies.''
+
+===C- Circumstances of onset===
+- Type of onset: sudden (''acute''); within a few days or weeks (''subacute''); insidiously over several months or years (''chronic'').
+
+- Progression: stable; slow or rapid; relapsing; improving
+
+- The patient's background: age and sex; personal and family history; extra-neurological signs and symptoms (AEG, skin or joint lesions, etc.).
+
+A sudden attack (within a few minutes or a few hours) essentially points to a ''vascular origin'' (apart from trauma)''.
+
+''A rapid worsening (in a few days or a few weeks) points first and foremost to an inflammatory, infectious or tumoral origin''.
+
+''Slow worsening (over several months or years) points to a degenerative origin, sometimes hereditary''.

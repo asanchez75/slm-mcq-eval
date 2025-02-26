@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-078-15-B
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=B
+|Title=Know how to treat acute intoxication.
+|Description=Principles; Symptomatic treatment see item 337
+|Heading=Management
+|Contributors=
+|Order=15}}
+'''Cannabis''':
+
+- Symptomatic, with prescription of histaminergic anxiolytics such as hydroxyzine (as first-line treatment) in cases of major anxiety or agitation, and antipsychotics as second-line treatment or in cases of psychotic symptoms.
+
+
+'''Cocaine''':
+
+- Symptomatic, with prescription of histaminergic anxiolytics such as hydroxyzine (as first-line treatment)
+
+- No specific antidote for cocaine overdose.
+
+
+'''Amphetamines:'''
+
+.      Same as cocaine
+
+.       Medical emergency: malignant hyperthermia (main cause of death) with serotonin syndrome with central manifestations (hyperthermia, agitation, confusion, convulsions, coma, mydriasis, profuse sweating) and peripheral manifestations (tachycardia, arterial hypertension, pallor, rhabdomyolysis, nausea, vomiting). Intensive care management
+
+'''Opiates/opioids:'''
+
+- Treatment of overdose :
+
+o Emergency admission to intensive care with regular monitoring
+
+o Specific treatment with a morphine receptor antagonist: Naloxone, (Narcan®) (intramuscular or intranasal devices possible)
+
+o Treatment maintained with an electric syringe for as long as necessary
+
+o Symptomatic treatment of respiratory depression (mask ventilation or even intubation) and associated symptoms.
+
+o Treatment of complications (convulsions, hypoglycaemia, infection)
+
+o Complete infectious work-up if infection. Tetanus vaccination after the operation
+
+
+'''New synthesis products:'''
+
+- Symptomatic (non-specific) pharmacological treatment of acute clinical symptoms (non-BZD anxiolytics)

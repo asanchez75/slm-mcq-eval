@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-129-01-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Intitle=Know the general definition of osteoarthritis, the main localizations
+|Description=Know the tissue definition of osteoarthritis (disease of the cartilage and then of the other joint tissues); osteoarthritis locations, association with a sedentary lifestyle and cardiovascular disease.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Osteoarthritis is an osteoarticular disease affecting all the tissues of the joint. The main sites of osteoarthritis are the knee, hip, hand and spine.
+
+When osteoarthritis becomes symptomatic, it leads to mechanical [[Joint pain SD-067|joint pain]] and functional discomfort ([[Joint stiffness SD-056|joint stiffness]], [[onset of difficulty walking]], [[pain in one limb (upper or lower)]], [[joint deformity]]).
+
+<br />

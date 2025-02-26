@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-321-03-B
+|Item_parent=Principles of proper use of medicines and non-medicinal therapies
+|Item_parent_short=Principles of proper use of medicines and non-drug therapies
+|Rank=B
+|Title=Knowing the stages in the management of medicinal products in hospital and institutional settings
+|Description=None
+|Rubric=Management
+|Contributors=Marc Labriffe
+|Order=3}}
+
+Medication management involves the following stages: prescribing, preparation, dispensing, transport, holding and storage, patient information, administration and patient monitoring.
+
+It involves a number of different players: doctors, pharmacists, nurses and patients.
+
+=Prescription=
+Prescription is carried out by ''authorised personnel'': doctors (and medical interns by delegation), odontologists and midwives.
+
+It is carried out: '''after assessment of the patient's personal initial treatment'' followed by a '''clinical examination'' (or even additional examinations), in '''writing''' or by '''computerised means'', and legibly indicates:
+
+*the prescriber's identity, speciality, contact details, handwritten or electronic signature and the date on which the prescription was written
+*the name of the product prescribed, or the active ingredient of the medicinal product designated by its common name, the dosage and method of administration and, in the case of a preparation, the detailed formula and the duration of treatment
+*the patient's full name, sex, age, height and weight.
+
+Prescriptions are ''regularly re-evaluated'', particularly when patients are ''transferred'' or discharged.
+
+=Preparation=
+Preparations are medicines prepared for the specific needs of one or more patients.
+
+==== Magistral preparations====
+These are made "for a specific patient" and in accordance with a "medical prescription", due to the absence of an available or suitable speciality. They are prepared by a ''dispensing pharmacy'' or by a ''pharmacy for internal use'' [PUI] in a healthcare establishment (hospital pharmacy, etc.).
+
+====Hospital preparations====
+These are prepared ''in advance'' and in ''small batches'', by a ''pharmacy for internal use'' of a health establishment and are dispensed for '''one or more patients''', on '''medical prescription''', due to the '''' lack of available or suitable pharmaceutical '''speciality'''.
+
+==== Compendial preparations====
+These are medicines ''prepared in a dispensary'' (town pharmacy), listed in the ''pharmacopoeia'' or in the ''national formulary'', and intended to be dispensed directly to patients in this pharmacy.
+
+=Dispensing=
+Dispensing is the act of ''dispensing'' the drug by the ''pharmacist''. It includes :
+
+*careful ''pharmaceutical analysis'' of the prescription (if available)
+*the ''preparation'' of any doses to be administered
+*the provision of the "information" and "advice" required for the "correct use of the medicine", particularly those which do not require a medical prescription.
+
+=Transport=
+Medicines must be transported between the internal-use pharmacy and the functional units under hygienic and safe conditions, in particular in order to :
+
+*Maintain temperatures for heat-sensitive products
+*Guarantee ''security'' by means of any appropriate locking system
+*Ensure rapid transport for urgent requirements and products with low stability.
+
+=Detention and storage=
+In pharmacies for internal use and dispensing pharmacies, there are several storage systems: shelving, columns of drawers, cupboards or automatic/robot systems.
+
+Storage methods vary depending on the type of health product:
+
+*Narcotics: dedicated, locked storage areas.
+*Heat-sensitive products'': refrigerated cabinet strictly reserved for these products, continuous temperature recording with alarms.
+*Flammable liquids and gases: premises complying with specific fire safety standards.
+*Packaged specialities and other products: standard controlled storage conditions (temperature, humidity, lighting, cleanliness, etc.).
+
+=Patient information=
+Patient information is a "shared activity" between the "prescribers", the "healthcare team" and the "pharmacist".
+
+Patient information is recorded by all those involved in the patient file, as is the traceability of the benefit/risk assessment. The "quality" of this information determines the patient's "consent to their care", and in particular to the "therapeutic choices" that concern them and their implementation.
+
+What's more, whether in a hospital or outpatient setting, providing information to patients is an essential step in avoiding errors in administration.
+
+=Administration=
+In the city, when patients are ''autonomous'' and ''well informed'', they are able to take their treatment as prescribed; they understand the usefulness of the treatment; and they are aware of the side-effects and risks associated with taking medication.
+
+In ''institutions'', administration is often part of the ''nurse's role'' and includes: reading the prescription, checking the preparation, verifying the patient's identity, recording that the medication has been taken (name of product, form, dose, route of administration, date, time, infusion solution, duration and stop date if applicable, difficulties or failure to take, etc.).
+
+=Patient monitoring=
+In the home, this starts with "self-monitoring" by the patient themselves, after appropriate information on any adverse effects or signs of drug ineffectiveness.
+
+In the community, depending on the patient's level of autonomy and pathology, the patient is seen regularly for a "consultation" and follow-up is scheduled with the same "general practitioner" or "specialist". Any difficulties in taking the medication (compliance, administration techniques, side effects, etc.) are discussed in a "climate of trust", with the ongoing aim of improving care.
+
+In certain situations, a ''[[Define the basis of pharmacological therapeutic monitoring 2C-321-PC-A01|pharmacological therapeutic monitoring]]'' is also necessary.
+
+In institutions, monitoring is carried out by carers, involving the patient and their relatives as much as possible. Monitoring of clinical and biological parameters is recorded in the medical record.
+
+In all cases, the occurrence of ''adverse reactions'' may be reported to the ''[[Knowing how to detect, report and take into account an adverse reaction 2C-321-PC-A02|regional pharmacovigilance centre]]'''.

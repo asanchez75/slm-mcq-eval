@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-296-02-B
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=B
+|Title=Knowing the mechanisms of drug-induced agranulocytosis
+|Description=Central origin: bone marrow toxicity - peripheral origin: immunoallergic.
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+'''2 main types:'''
+
+'''- central origin: spinal cord toxicity'''
+
+'''- peripheral origin: immuno-allergic'''

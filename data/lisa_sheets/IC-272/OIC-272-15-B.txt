@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-272-15-B
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=B
+|Title=Know the main types of gastritis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=15}}
+It is customary to separate gastritis according to 3 criteria:
+
+- The cause: (see below)
+
+- Location of lesions in the stomach: antral, fundic, pangastric
+
+- Type of anatomopathological lesions: glandular atrophy, metaplasia, presence or absence of pathogens, etc.
+
+For example: atrophic antral gastritis without metaplasia linked to H. pylori
+
+It should be noted that dyspepsia and gastroparesis are separate entities related to functional and motor disorders of the stomach; they are not gastritis.

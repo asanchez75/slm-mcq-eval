@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-303-09-A
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=A
+|Title=Knowing the different stages of clinical examination
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+'''In the case of an uncomplicated localised lesion, the physical examination is usually normal.'''
+
+- Examination of the abdomen for :
+
+§ ascites (dullness of the flanks)
+
+§ a palpable epigastric mass
+
+§ nodular hard hepatomegaly (metastases);
+
+§ abdominal parietal nodules of peritoneal carcinosis.
+
+- Palpation of lymph nodes (supra-clavicular +++)
+
+- Assessment of nutritional status (weight, height, weight loss over the last 6 months), HAS 2019 recommendation: <nowiki>https://www.has-sante.fr/upload/docs/application/pdf/2019-11/fiche_outil_diagnostic_denutrition.pdf</nowiki>
+
+- On clinical examination, the search for other associated pathologies (co-morbidities)
+
+In the case of an uncomplicated localised lesion, the physical examination is usually normal.

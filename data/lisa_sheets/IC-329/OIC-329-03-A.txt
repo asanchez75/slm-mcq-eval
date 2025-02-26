@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-329-03-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Intitle=Knowing the characteristics of blood products
+|Description=Definitions of the different labile blood products (red cell concentrates, plasma, platelets): origin, type, storage, ABO compatibility, etc.
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+Labile blood products are derived from ''donated blood''.
+
+In France, blood donation is based on "ethical principles": voluntary, anonymous, unpaid and not for profit. It is organised on a monopoly basis by the Etablissement Français du Sang. Criteria for suitability for donation are defined by ministerial decree to ensure the safety of both donor and recipient.
+
+This donation will undergo a process designed to transform it into an "effective and safe" injectable product. This process has three parts (diagram 1):
+
+- 1) '''The definition of the biological characteristics of the product'' (blood groups and phenotypes) and '''the screening for diseases transmissible by blood'' (hepatitis B and C, HIV, syphilis and, under certain conditions, malaria, dengue fever, Zika, West Nile Virus ....) which, in the event of a positive result, requires the product to be destroyed and the donor to be informed.
+
+- 2) ''preparation proper'', which consists of 1) eliminating a large proportion of the leukocytes (leukoreduction) in order to reduce certain risks such as those associated with CMV, 2) separating the whole blood into ''Red Blood Cell Concentrate'', ''Plasma'' and a ''platelet layer'', then 3) labelling the products. The RBC concentrate is then ready for use. The platelet layer from a whole blood donation does not contain enough platelets to be transfused on its own. It is then mixed with 6 to 8 others to obtain a "platelet concentrate mixture". This mixture then undergoes a final step known as "pathogen attenuation", which involves injecting an intercalating agent (Amotosalen) into the product to reduce the risk of infection. Plasma can either be sent to the Laboratoire Français du Fractionnement (LFB) to produce plasma-derived medicinal products such as immunoglobulins, or used directly for therapeutic purposes. In the latter case, in order to reduce the risk of infection, it will either undergo the same process as platelets (Amotosalen) or undergo a 2-month quarantine period before being used, subject to further detection of transmissible diseases, which must be negative.
+
+- 3) a quality control phase to check the conformity (volume, active ingredient, leukoreduction, etc.) of the products prepared in this way
+
+In addition to whole blood donations, apheresis donations can be used to prepare two other labile blood products: platelet concentrate from apheresis, for which the concentration of platelets allows a therapeutic dose to be obtained from a single donor, and plasma concentrate from apheresis, which has a larger volume than that obtained from whole blood.
+
+Diagram 1
+[[File:Blood donation.png|vignette]]
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+All of these products have regulatory characteristics which are summarised in the following table:
+[File:Characteristics PSL.png|vignette]]
+<br />

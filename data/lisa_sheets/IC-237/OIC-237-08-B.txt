@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-237-08-B
+|Item_parent=Palpitations
+|Item_parent_short=Palpitations
+|Rank=B
+|Title=Identifying Wolff Parkinson White
+|Description=ECG diagnosis
+|Rubric=Etiologies
+|Contributors=Arnaud Bisson
+|Order=8}}
+
+
+* Presence of an '''atrio-ventricular accessory pathway'' connecting the atria to the ventricles (Kent's bundle) '''responsible for junctional tachycardias.'''
+* ECG manifestations: ventricular pre-excitation is evoked in sinus rhythm in the presence of the triad:
+** '''Short PR''' (<120ms)
+** wide QRS
+** QRS initial phase thickening (''delta wave'' (δ))
+
+[[File:Ventricular pre-excitation.png|centric|vignette|900x900px|ECG inter critical revealing a short PR interval and a delta wave]]
+<br />

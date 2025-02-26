@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-094-14-A
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=A
+|Title=Differential diagnosis: knowing the extrarachidian causes of low back pain
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=14}}
+
+'''Extra-spinal causes of low back pain = referred low back pain'''
+
+(of abdominal-pelvic origin)
+
+- vascular pathology: abdominal aortic aneurysm
+
+- urinary tract pathology: lithiasis, hydronephrosis, tumour
+
+- digestive pathology: gastric, rectocolic or pancreatic tumour; chronic pancreatitis
+
+- gynaecological pathology: pelvic tumour, endometriosis
+
+- other pathologies: retroperitoneal adenopathy or fibrosis

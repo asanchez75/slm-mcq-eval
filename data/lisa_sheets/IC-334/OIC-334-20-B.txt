@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-334-20-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Knowing the principles of management of fire smoke inhalation syndrome
+|Description=Oxygen therapy, Hydroxocobalamin, protective mechanical ventilation, bronchial fibroscopy
+|Rubric=Management
+|Contributors=
+|Order=20}}
+When smoke is inhaled from enclosed fires, cyanide poisoning (CHN) often coexists with carbon monoxide (CO) poisoning. Cyanide or hydrocyanic acid binds to metal ions (haemoglobin and cytochrome of the mitochondrial respiratory chain): it causes a failure in the use of O<sub>2</sub> by the cells (like carbon monoxide due to its binding to haemoglobin) and a halt in energy production by the mitochondria.
+
+This is a serious form of poisoning, particularly when the cyanide is in gaseous form in fire fumes (produced by the combustion of natural polymers such as wool, or more frequently by synthetic polymers, plastics and insulation materials).
+
+The signs suggestive of CO intoxication are neurological ("''[[Coma and consciousness disorders SD-028|coma and consciousness disorders]]''') with disorders of vigilance, consciousness and convulsions, whereas hydrocyanic intoxication is often accompanied by cardiovascular repercussions with arterial hypotension or collapse, or even cardio-circulatory arrest, or ECG abnormalities, but also hyperpnoea which may reflect metabolic acidosis due to hyperlactataemia.
+
+Treatment should be administered as a matter of urgency when there are neurological (Glasgow ≤ 13, confusion), haemodynamic (cardiac arrest, shock) or respiratory (respiratory arrest, polypnoea, stridor or hoarse voice) problems:
+
+* 100% oxygen ventilation;
+* IV administration of hydroxocobolamine (vitamin B12, Cyanokit®) for hydrocyanic poisoning;
+* the use of the hyperbaric chamber for carbon monoxide (CO) poisoning is not recommended for patients with severe burns because of the difficulty of ensuring satisfactory resuscitation, but is still useful for isolated carbon monoxide poisoning.
+
+As far as smoke inhalation itself is concerned, bronchial fibroscopy is by far the most effective diagnostic test, finding soot along the tracheobronchial tree. (figure 15).
+
+In intensive care, there is no specific treatment apart from the protective ventilation recommended for ARDS, combined with detection of pulmonary superinfection, which is almost always present.

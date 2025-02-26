@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-114-09-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Knowing that erythroderma is an emergency and knowing how to manage it.
+|Description=Hospitalisation and preparation of the patient (rewarming, fluid and electrolyte balance, detecting infection, etc.).
+|Rubric=Emergency identification
+|Contributors=
+|Order=9}}
+Erythroderma is a clinical situation at risk of complications and a genuine medical emergency.
+
+requiring immediate treatment in a specialised facility to investigate the underlying aetiology,
+
+implement rapid symptomatic measures (emollients, protection against heat loss)
+
+and to detect/treat any extracutaneous complications (hydro-electrolytic disorders, hypoprotidemia),
+
+metabolic, cardiovascular/hemodynamic, pulmonary decompensation, infectious complications and
+
+decubitus in particular)

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-272-18-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Title=Know the principles of gastritis treatment
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=18}}
+In all cases, the treatment is that of the cause: eradication of HP, stopping alcohol or, if possible, NSAIDs.
+
+           There is no cure for autoimmune Biermer's gastritis: treatment consists of parenteral supplementation with vitamin B12 and, if necessary, iron to prevent complications, and endoscopic surveillance in relation to the risk of neoplasia. Biermer's disease is not usually associated with symptoms.
+
+           In the event of symptomatic gastritis despite effective treatment of the cause, gastric dressings or PPIs are usually prescribed (except in the case of Biermer's disease, due to the reduction/suppression of gastric acid secretion).

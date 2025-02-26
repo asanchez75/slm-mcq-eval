@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-114-16-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Savoir évoquer une rouge chez l'enfant et chez l'adulte (Knowing how to suspect measles in children and adults)
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=16}}
+Measles (linked to a paramyxovirus) should be routinely suspected in adults and children.
+
+for any febrile morbilliform exanthema, and the vaccination context should be clarified and a search made for a possible
+
+infection, as well as the cardinal clinical signs of the disease (oculonasal catarrh, Köplick's sign, etc.),
+
+conjunctivitis, respiratory signs)
+
+cf [[Infectious eruptive diseases: measles 2C-164-ET-A01]]

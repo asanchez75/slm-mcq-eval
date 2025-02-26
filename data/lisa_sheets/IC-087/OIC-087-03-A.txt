@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-087-03-A
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=A
+|Title=Know what to look for in an interview and clinical examination in the presence of epistaxis
+|Description=Know what to look for in an interview to assess the useful context and severity of epistaxis - Know what to look for in a general clinical examination to guide the diagnosis of the severity and aetiology of epistaxis.
+|Rubric=Positive diagnosis
+|Contributors=Geoffrey Mortuaire
+|Order=3}}
+
+'''The first stage of management aims to assess the severity of the epistaxis by specifying:'''
+
+Through questioning :
+
+*Abundance (a few traces of blood in one or more glasses),
+*Duration (from a few seconds to several minutes),
+*Repetition of episodes (over several hours or days),
+*Risk factors (age, pre-existing impairment of general condition),
+*Risk history (cardiovascular disease, haemostasis disorders, arterial hypertension, antithrombotic treatment, Rendu Osler disease).
+
+Clinical examination :
+
+*Signs of haemorrhagic shock (tachycardia, arterial hypotension, confusion, pallor, mottling),
+*Signs of bronchial congestion related to possible inhalation (cough, sputum, bronchial rales, polypnoea, desaturation, sweating, agitation).
+
+'''The second stage of management aims to find the etiology of the epistaxis:'''
+
+*Accidental or polytraumatic context,
+*Recent nasosinus surgery,
+*Malignant tumour pathologies (pre-existing unilateral nasal obstruction, involvement of the cranial pairs, altered general condition, high-risk profession (woodworking)), or benign (nasopharyngeal fibroma in adolescents),
+*Rendu Osler disease (frequent epistaxis since childhood, family history, mucocutaneous telangiectasia).
+
+'''The third stage of management is to look for comorbidities likely to aggravate epistaxis:'''
+
+*Antithrombotic treatment (anti-vitamin K, platelet anti-aggregants, new anticoagulants such as "xabans"),
+*Diseases responsible for haemostasis disorders (haemopathies, liver failure, kidney failure, coagulation factor deficiencies, autoimmune diseases).
+*Arterial hypertension (current anti-HA treatments).

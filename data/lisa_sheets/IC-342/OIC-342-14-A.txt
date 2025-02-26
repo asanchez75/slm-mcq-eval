@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-342-14-A
+|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Identify the clinical and paraclinical elements justifying an emergency cardiological, neurological or resuscitation opinion.
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=14}}
+Clinical elements justifying a cardiological opinion within 24 hours:
+
+* loss of consciousness during physical effort
+* recent or unexplained dyspnoea
+* heart failure
+* family history of sudden cardiac death in people aged < 40 or known family heart disease
+* heart murmur
+* any significant electrocardiogram (ECG) abnormality (detailed below)
+
+Electrocardiogram (ECG) abnormalities requiring a cardiological opinion within 24 hours:
+
+* sustained atrial arrhythmia,
+* persistent inappropriate bradycardia (''SDD-159 bradycardia''),
+* conduction abnormality: complete right bundle branch block, left bundle branch block, atrioventricular block of any degree
+* right or left ventricular hypertrophy,
+* long QT interval (corrected > 450 ms),
+* short QT interval (corrected < 350 ms),
+* pathological Q wave,
+* ventricular pre-excitation
+* any ventricular arrhythmia (including ventricular extrasystoles),
+* Brugada syndrome,
+* entrained cardiac rhythm (pacemaker),
+* any ST segment or T wave abnormality.
+
+Clinical elements justifying a neurological opinion within 2 weeks:
+
+* tongue biting
+* deviation of the head when unconscious
+* no memory of abnormal behaviour, although abnormal behaviour was observed before, during or after the loss of consciousness
+* unusual posture
+* limb movements
+* confusion after brief loss of consciousness
+* prodromal symptoms such as a feeling of déjà vu or never having seen anything before or any other symptom suggestive of a focal onset
+
+NB: in the event of prodromal symptoms such as a feeling of déjà vu or never having seen anything before, or any other symptom suggestive of a focal onset, brain imaging ('''[[Discovery of a brain abnormality on medical imaging examination SDD-226]]''') must be carried out as a matter of urgency and a neurological opinion sought as a matter of urgency in the event of an abnormality.
+
+Clinical elements justifying an emergency resuscitation opinion:
+
+* persistent coma
+* status epilepticus
+* state of shock
+* rhythmic storms
+* failure of one or more vital organs, requiring the use of an artificial support technique (circulatory assistance, respiratory assistance, extra-renal purification)

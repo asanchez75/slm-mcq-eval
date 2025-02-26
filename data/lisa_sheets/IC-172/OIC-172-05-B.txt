@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-172-05-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, taeniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know the clinical and epidemiological circumstances that should suggest anguillulosis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=5}}
+
+'''''<big>Epidemiological circumstances</big>'''''
+
+History of a stay, even a very long one, in a hot, humid area, particularly a tropical one (including overseas departments): endogenous re-infestations ensure that the infection lasts for several decades. A patient can therefore remain infected for the rest of his or her life. Rare outbreaks of anguillulosis have been described in mainland France.
+
+'''''<big>Clinical circumstances:</big>'''''
+
+- <u>Often asymptomatic</u>, discovered during exploration of a fluctuating [[Hypereosinophilia SD-219|eosinophilia]].
+
+- <u>When symptomatic</u>:
+
+*Possibility of Löffler's syndrome during the invasion phase (more rarely than with ascariasis).
+*Recurrent episodes of "epigastric abdominal pain" and/or diarrhoea during the state phase. A normal eosinophilia at this stage does not rule out infection.
+*'''''Larva currens''''' '':'' pathognomonic skin involvement, reflecting the subcutaneous migration of larvae: pruritic creeping linear dermatitis of around ten centimetres, moving rapidly (several cm/hour) before disappearing spontaneously, which may recur at a more or less regular rate (endogenous cycle). These "larva currens" may take the form of urticaria.
+
+- <u>Possibility of severe forms</u>, linked to '''hyperinfection (disseminated anguillulosis) following administration of [[Prescribe systemic or local corticosteroids SD-251|corticosteroids]]''', even at low doses, on an immunocompromised (organ transplants, oncohaematological conditions, HTLV-I retrovirosis) or debilitated (malnutrition, cachexia) terrain :
+
+*Potentially fatal.
+*Associated with deep-seated infections caused by Gram-negative or anaerobic bacilli, translocated by larvae that spread throughout the body (septicaemia, meningeal infections, pulmonary infections, etc.).
+
+'''Anguillulosis should be investigated before starting corticosteroid therapy in any patient who has spent time in a tropical area. Systematic preventive treatment is recommended, even in the absence of a proven diagnosis.''

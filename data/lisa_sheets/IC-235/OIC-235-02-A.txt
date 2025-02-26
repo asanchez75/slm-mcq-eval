@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-235-02-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Knowing the symptoms and clinical signs of acute pericarditis
+|Description=Understand the diagnostic issue in relation to acute coronary syndromes
+|Topic=Positive diagnosis
+|Contributors=Jennifer Cautela
+|Order=2}}
+
+
+* <u>General signs</u>:
+
+Moderate fever, sometimes absent or present from the outset, associated with myalgias and asthenia.
+
+* <u>Functional signs</u>:
+** '''Chest pain''', retrosternal or left precordial, permanent, resistant to trinitrate, '''increased in supine position''', on deep inspiration and coughing (impulsive), '''calmed by sitting bent forward'''t (anteflexion).
+** Dyspnoea'' also relieved by sitting bent forward or dry cough, Dysphonia and hiccups, rarer
+
+* <u>Physical signs</u>:
+** '''Pericardial friction''' early, raspy, systolo-diastolic, varying in time and position, resembling a squeak of new leather or rustle of silk, inconstant and fleeting. '''Its absence does not eliminate the diagnosis'''
+** Signs of pleural effusion'' sometimes associated: disappearance of vesicular murmur, dullness on percussion, etc.
+
+* The presence of at least two of the following criteria is necessary to confirm the diagnosis:
+** '''Evocative chest pain'''
+** '''Pericardial friction'''
+** '''Typical ECG changes (Stage I or sub-PQ)'''
+** '''Pericardial effusion'''

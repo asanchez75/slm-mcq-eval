@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-237-06-A
+|Item_parent=Palpitations
+|Item_parent_short=Palpitations
+|Rank=A
+|Title=Identify sinus tachycardia
+|Description=Adaptive sinus tachycardia conditions
+|Rubric=Etiologies
+|Contributors=Arnaud Bisson
+|Order=6}}
+
+
+* Sinus tachycardia is defined as an acceleration of the normal sinus rhythm.
+
+* It is most often ''reactionary or adaptive'':
+** physiological context: effort, emotion, stress
+** cardiac context: heart failure, pulmonary embolism, pericardial effusion (''dyspnoea, chest pain'')
+** extracardiac context : fever, sepsis (''hyperthermia/fever''); anaemia ('''melena/rectorrhagia, drop in haemoglobin''), hypovolaemia ('''acute haemorrhage''); hypoxaemia ('''dyspnoea''); hyperthyroidism (''goitre or thyroid nodule''); pregnancy; alcoholism (''acute drunkenness''); withdrawal syndrome (''management of forced alcohol withdrawal''); drugs.
+
+* Exceptionally, it occurs in isolation, and is known as ''inappropriate'' sinus tachycardia.
+
+[[File:Sinus tachycardia.png|center|thumb|900x900px|sinus tachycardia at 115/min with signs of acute pulmonary heart (right bundle branch block *, S1Q3 <sup>#</sup>)]]]
+<br />

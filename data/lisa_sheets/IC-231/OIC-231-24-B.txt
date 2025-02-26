@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-231-24-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Title=Identifying acute pericarditis
+|Description=ECG differences between acute pericarditis and acute coronary syndromes
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=24}}
+
+
+* Early stage I :
+** ST segment elevation concave upwards, without mirror, without Q wave.
+** Positive T waves,
+** Diffuse PQ sub-shift,
+
+* Stage II:
+** Flat T waves,
+**isoelectric T waves,
+
+* Stage III: Negative T waves,
+
+* Stage IV (< 1 month): Progressive normalisation,
+
+* Electrical alternation in case of tamponade
+
+* QRS ''microvoltage'' (QRS amplitude <5mV in peripheral leads).
+
+* ''Supraventricular rhythm disorders are frequent'' in cases of pericarditis
+
+[[File:Isolated pericarditis.jpg|vignette|alt=|centered|900x900px]]

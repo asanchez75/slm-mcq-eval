@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-043-05-A
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=A
+|Title=Knowing the indication for imaging of genital haemorrhage in women
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=5}}
+
+- Pelvic ultrasound is performed abdominally and endovaginally as the 1st line of defence, to look for myomas, adenomyosis, uterine polyps, ovarian cysts, arteriovenous malformations, and to assess the thickness and regularity of the endometrium (particularly in post-menopausal women).
+
+- Pelvic MRI is useful in the 2nd<sup>nd</sup> intention''', to map a polymyomatous uterus, to characterise an ovarian cyst that is undetermined or suspicious on ultrasound, in cases of histologically proven endometrial or cervical cancer (locoregional extension), to assess the uterine cavity when this is inaccessible by hysteroscopy.
+
+Related starting situations :
+
+'''[[Request for an imaging examination SD-231|request for an imaging examination]], [[Discovery of a pelvic abnormality on medical imaging examination SD-229|discovery of a pelvic abnormality on medical imaging examination]], [[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232]]'''''

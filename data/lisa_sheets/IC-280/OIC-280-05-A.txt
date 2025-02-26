@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-280-05-A
+|Item_parent=Ascite
+|Item_parent_short=Ascite
+|Rank=A
+|Title=Knowing first-line imaging examinations for ascites
+|Description= Abdominal ultrasound as 1st line . If the cause is not known and ultrasound does not reveal it, a CT scan or MRI with injection of contrast medium should be performed.
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+Because of its safety and ease of access, abdominal doppler ultrasound is the first-line radiological examination for ascites.  It can detect very small volumes of fluid and look for signs of portal hypertension and cirrhosis. Abdominal ultrasound is also useful for guiding paracentesis (ascites puncture), to avoid complications, particularly in cases of diagnostic doubt (obesity) or in cases of small or compartmentalised ascites.
+
+Cross-sectional imaging is not indicated as a first-line investigation of ascites, but it will be useful in making an aetiological diagnosis, particularly in the absence of cirrhosis. In this case, an abdominal-pelvic CT scan with injection of contrast medium (taking into account renal function) or hepatic MRI may be requested.
+
+Further investigations will be ordered depending on the suspected cause of the ascites, or if no cause emerges from the clinical examination.

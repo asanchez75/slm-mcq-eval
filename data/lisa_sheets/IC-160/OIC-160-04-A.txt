@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-160-04-A
+|Item_parent=Tetanus
+|Item_parent_short=Tetanus
+|Rank=A
+|Title=Know the main clinical signs to suspect tetanus
+|Description=Evoke tetanus in the presence of trismus
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Tetanus should be suspected in the presence of any ''trismus'', whether or not a tetanogenic wound has been identified.
+
+Tetanus then most often progresses to a form of generalised contraction, with signs of dysautonomia and no fever.
+
+
+The main differential diagnoses to consider are ([[Localized or generalized muscle contracture SD-029|'''Localized or generalized muscle contracture''')]] :
+
+*In the case of isolated trismus: look for local-regional pathologies of the temporomandibular joint (arthritis) or of dental origin (abscess).
+*Other causes of localised or generalised hypertonia: consider neuroleptic malignant syndrome, phenothiazine dystonia (1st generation neuroleptic), exposure to strychnine (rat poison) and the exceptional stiff man syndrome (often paraneoplastic).

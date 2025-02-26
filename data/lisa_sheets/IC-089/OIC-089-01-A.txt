@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-089-01-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Know the definition of a tonal hearing test
+|Description=None
+|Rubric=Definition
+|Contributors=Dr Damien Bonnard, Prof Virginie Escabasse, Prof Valérie Franco Vidal
+|Order=1}}
+'''Pure tone audiometry''' = subjective measurement of the '''detection threshold of pure tones between 125 and 8000 Hz''', presented in silence, in bone and air conduction for each ear.
+
+Determines the type of hearing loss (sensorineural, conductive or mixed) and the level of hearing impairment<br />.

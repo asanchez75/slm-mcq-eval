@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-028-04-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Title=Pregnant urinary tract infection: principles of screening and treatment
+|Description=Knowing the principles of treating gravidial urinary tract colonisation
+|Rubric=Management
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=4}}
+The principles are as follows:
+
+- '''No probabilistic treatment in the absence of symptoms'' (otherwise cf. acute cystitis)
+
+- '''Adapted to the results of the ECBU''' '''and the antibiogram''' (which must be waited for!)
+
+- Choice in order according to Table 1 - 255. [Prescribing an anti-infective SD-255|Prescribing an anti-infective
+
+- The risk of gestational ANP alone justifies the treatment of urinary colonisation in all pregnant women.
+
+
+Monitoring includes:
+
+- '''[[Analysis of a control urine cytobacteriological examination (ecbu) SD-189|ECBU 8 to 10 days]]''' after the end of treatment;
+
+- '''[[Analysis of a urine cytobacteriological examination (ecbu) SD-189|ECBU monthly]]''' until delivery;
+
+- In the event of group B streptococcus (GBS) in the urine: per-partum prevention identical to that for patients with vaginal GBS;
+
+- Hygienic and dietary rules: plenty to drink (2 litres per day), frequent urination and urination after sexual intercourse, good perineal hygiene (wiping from front to back after urination).
+
+
+If left untreated, two risks are feared: progression to cystitis or even acute pyelonephritis, and the threat of premature delivery.

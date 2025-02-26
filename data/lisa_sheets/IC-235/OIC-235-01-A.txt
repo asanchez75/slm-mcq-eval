@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-235-01-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Know the definition of acute pericarditis
+|Description=None
+|Rubric=Definition
+|Contributors=Jennifer Cautela
+|Order=1}}
+
+
+* Acute inflammation of the leaflets of the pericardium
+* Accompanied by pericardial effusion or not ("dry pericarditis")
+* If associated with elevated troponin = myopericarditis

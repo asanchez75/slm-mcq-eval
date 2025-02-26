@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-277-26-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=To know the delay in surgical management of cholecystitis
+|Description=Emergency (as soon as possible)
+|Rubric=Management
+|Contributors=
+|Order=26}}
+- emergency cholecystectomy (as soon as possible)

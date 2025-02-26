@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-038-09-B
+|Item_parent=Infertility of the couple: conduct of the first consultation
+|Item_parent_short=Infertility of the couple: conduct of the first consultation
+|Rank=B
+|Title=Knowing the main causes of infertility in women
+|Description=None
+|Rubric=Etiologies
+|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet
+|Order=9}}
+'''Broadly speaking, around 30% of infertility cases are of female origin and 30% are of male origin. In 30% of cases, both members of the couple are responsible for the infertility and in 10% of cases there is no identified cause (this is known as unexplained or idiopathic infertility)'''
+{| class="wikitable"
+| colspan="2" |'''Causes of female infertility (30%)'''
+|-
+|[[Menstrual Cycle Disorders SD-094|Ovulatory Causes]] (40%)
+|<nowiki>- Polycystic ovary syndrome</nowiki>
+
+- Hyperprolactinemia
+
+- Premature ovarian failure
+
+- Functional hypopthalamic amenorrhoea
+
+- Other causes of ovulation disorders (congenital or acquired hypogonadotropic hypogonadism, idiopathic eugonadotropic dysovulation/anvulation...)
+|-
+|Tubo-peritoneal etiology (30%)
+|<Distal or proximal tubal obstruction</nowiki>.
+|-
+|Endometriosis (15%)
+|
+|-
+|Uterine or cervical pathology (8%)
+|<Congenital pathologies (uterine malformations, etc.)</nowiki>.
+
+- Acquired pathologies (synechiae, fibroids, conization, cervicitis, etc.)
+|-
+| Other (7%)
+|<Sexological disorders</nowiki>.
+|}

@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-334-46-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Heading=Circumstances, functional and physical signs, how to carry out a complete neurological examination and fill in the ASIA scale.
+|Description=The ASIA scale is not to be learned but used
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=46}}
+
+1 '''Circumstances, functional and physical signs:'''
+
+*A spinal injury should be suspected in the event of :
+**Evocative context: polytrauma patient, unconscious injured person.
+**Spinal syndrome = localised pain on palpation of the spinous processes + segmental stiffness.
+**Perception of a cracking noise in the spine
+**Existence of stiffness or, on the contrary, perception of instability, particularly in the cervical region
+**On inspection: ecchymosis, localised deformity, protrusion of a spine.
+**Paraesthesia or weakness in the limbs, or even paralysis.
+*A neurological lesion:
+**Must be sought in any patient with spinal trauma and a clinical examination recorded and time-stamped is systematic.
+**May be medullary or radicular.
+**The examination must be repeated over time, particularly after any mobilisation.
+**During the clinical examination, note the vertebral level and the neurological level when there is such an impairment.
+
+2 ''Neurological examination of a spinal injury and determination of the ASIA score''
+
+*The neurological examination must be exhaustive and complete.
+*The ASIA score: a rapid bilateral coded neurological examination to determine :
+**Neurological level
+**whether it is complete or incomplete
+**Partial preservation zone (partially innervated territory)
+*Motor examination :
+**ASIA score: rating of muscle strength (from 0 to 5) of 10 muscles or muscle groups (score /100).
+**Also looks for phrenic paralysis and damage to the intercostal muscles.      
+*Sensitivity study (superficial, proprioceptive, thermoalgesic):
+**ASIA score: scoring of ''algic sensitivity and epicritic tact'' (0 to 2) over 28 metamers (score /112 per modality tested).
+**Complex or even impossible in the event of anaesthesia for intubation or in the event of vigilance disorders.
+*Examination of the perineum:
+**ASIA score: '''anal sensitivity''', '''voluntary contraction of the anal sphincter.'''
+**Essential for diagnosing incomplete damage or in cases of trauma to the sacral region.
+*It is also necessary to :
+**Search for osteotendinous reflexes.
+**Look for pyramidal signs (absent in cases of spinal shock).
+**Look for pejorative signs (complete spinal cord injury) in an unconscious patient:
+***Priapism
+***Anal hollowness, anal sphincter atonia''.
+
+[[File:Score ASIA.jpg|focused|thumbnail|600x600px|Score ASIA]]

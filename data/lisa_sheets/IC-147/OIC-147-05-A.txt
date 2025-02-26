@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-147-05-A
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=A
+|Title=Knowing the indications for urgent antibiotic therapy for fever without a precise diagnosis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+An [[Prescribe an anti-infective SD-255|probabilistic urgent antibiotic therapy]] is indicated even without a clear etiological orientation in cases of :
+
+- Presence of signs of severity (sepsis, septic shock)
+
+- Fever in a neutropenic ([[Blood count interpretation SD-223|neutrophils < 500/m3]]) or asplenic patient
+
+- Suspicion of serious infection (e.g. "purpura fulminans": indication for antibiotic therapy at home, before any samples are taken)
+
+In all other situations, the urgency is to make the diagnosis in order to implement the appropriate treatment, sometimes very quickly after the diagnostic procedure (e.g. purulent meningitis after LP).

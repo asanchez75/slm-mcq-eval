@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-332-04-A
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=A
+|Title=Know the clinical signs of shock
+|Description=Recognise arterial hypotension and know how to look for signs of organ failure, know how to look for hyperlactataemia.
+|Rubric=Positive diagnosis
+|Contributors=Julien Poissy
+|Order=4}}
+
+The diagnosis of shock is clinical and is based on the following elements:
+
+1°) arterial hypotension, defined as :
+
+- PAS<90 mmHg
+
+- MAP<65 mmHg
+
+- Variation of more than 30% in chronically hypertensive patients
+
+/Blood pressure may be normal in the initial phase of shock, even though cellular damage has already begun. Importance of lactataemia +++
+
+/Tachycardia precedes arterial hypotension in haemorrhagic shock and hypovolaemic shock. This is a clinical point of attention.
+
+2°) signs of peripheral hypoperfusion :
+
+- Asthenia
+
+- Marbling, particularly on the knees. Correlated with gravity
+
+- Polypnoea >22 cycles/min
+
+- Skin recolouration time > 3s
+
+- Confusion, agitation
+
+- Oliguria

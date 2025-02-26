@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-034-06-A
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=A
+|Title=Knowing how to diagnose venous thrombosis in the post-partum period according to aetiology
+|Description=Knowing how to treat post-partum deep vein thrombosis
+|Rubric=Positive diagnosis
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=6}}
+
+The basic principle is prevention: early lifting of all newborns, venous restraint for a wide range of indications (particularly if the venous condition is poor), preventive treatment with heparin depending on the extent of the risk factors.
+
+Treatment of thrombotic complications in the post-partum period :
+{| class="wikitable"
+|Type of thrombophlebitis
+|Treatment
+|-
+|Superficial
+|Local anti-inflammatories
+
+Venous restraint. Anticoagulants are not routinely used.
+|-
+|Deep
+|Low molecular weight heparin, venous restraint (force III), early relay with antivitamin K*.
+|-
+|Pelvic
+|Appropriate antibiotic therapy (intravenous, broad spectrum including staphylococcus), hypocoagulant dose heparin therapy (effective for the duration of antibiotic therapy, over a minimum period of 7 to 14 days). Recourse to VKA therapy will be assessed according to the location and extent of the thrombus.
+|-
+|Cerebral
+|Anticoagulation and symptomatic management of cerebral oedema (mannitol, corticosteroid therapy).
+|}
+<nowiki>*</nowiki> The minimum duration of VKA treatment is 3 months in cases of deep thrombophlebitis.
+
+Warfarin (Coumadin<sup>®</sup>) and acenocoumarol (Sintrom<sup>®</sup>) do not diffuse into breast milk and can therefore be used during breastfeeding, unlike fluindione (Préviscan<sup>®</sup>).
+
+
+248. [Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants SD-248|Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants]].

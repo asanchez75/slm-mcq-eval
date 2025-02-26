@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-214-01-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Know the definition of thrombocytopenia
+|Description=None
+|Topic=Definition
+|Contributors=
+|Order=1}}
+Thrombocytopenia = blood platelet count less than 150 G/L (or 150,000/mm<sup>3</sup> or 150 x10<sup>9</sup>/L depending on the units used) (''[[Platelet abnormality SD-215|platelet abnormality]]'').
+
+It is therefore based on the ''''[[Interpretation of the SD-223 blood count|interpretation of the blood count]]'''.

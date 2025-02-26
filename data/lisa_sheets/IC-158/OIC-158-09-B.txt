@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-158-09-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Know the additional tests to be carried out to diagnose the complications of shock
+|Description=Assess organ failure
+|Rubric= Complementary examinations
+|Contributors=
+|Order=9}}
+In addition to microbiological examinations, the first-line work-up in sepsis or septic shock is used to ''assess organ failure'', in order to adapt resuscitation manoeuvres.
+
+The balance sheet must include the following information:
+
+*Arterial gasometry (or venous or capillary in children) with lactate levels to look for respiratory failure, as well as cellular suffering (hyperlactatemia) '''([[Bicarbonate analysis SD-197|bicarbonate analysis]], [[Analysis of a blood gas result SD-192|analysis of a blood gas result]])'''''
+*Blood ionogram, urea, creatininaemia: search for renal failure.
+*Liver count with bilirubinemia: to check for renal failure
+*Blood count with platelet count, and possibly an extended coagulation test: to check for haemodynamic failure.
+*Chest X-ray is systematic (to check for pulmonary oedema, the gold standard of imaging), as is the electrocardiogram.
+*Troponin and BNP (or NT-pro-BNP) may be requested if cardiac failure is suspected.

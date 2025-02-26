@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-219-17-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Knowing the tests to be performed as first-line treatment for martial deficiency in children
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=17}}The etiological investigation is above all clinical and must look for :
+
+* nutritional deficiencies: duration of breastfeeding, insufficient consumption of infant formula, aberrant diet, etc;
+* neuropsychiatric disorders (ADHD, depression, difficulties at school);
+* eating disorders (pica);
+* heavy menstrual periods in adolescents
+* transit disorders suggestive of malabsorption (malnutrition, weight loss) or inflammatory disease of the digestive tract in older children (perianal abscesses, mouth ulcers).
+
+Depending on the aetiological orientation, the complementary examinations to be carried out will be
+
+* CRP (IBD, chronic inflammatory disease)
+* faecal calprotectin (IBD)
+* anti-transglutaminase IgA assay (coeliac disease)
+* vitamin assessment to look for other deficiencies (malabsorption)
+* oeso-gastro-duodenal endoscopy (EOGD) / colonoscopy (on specialist advice)

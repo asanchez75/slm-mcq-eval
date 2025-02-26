@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-250-05-A
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=A
+|Title=Knowing the diagnostic criteria for undernutrition in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+As children are still growing, the IOTF (International Obesity Task Force) curves for weight and weight for height and weight for age (BMI) are used in the child's health record.
+
+
+''Phenotypic criteria for children'' (< 18 years) (one criterion is sufficient)
+
+
+- Weight loss ≥ 5% in 1 month
+
+- Weight loss ≥ 10% in 6 months
+
+- Weight loss ≥ 10% of the usual weight before the onset of the disease
+
+- BMI < IOTF curve 18.5 (HAS link)
+
+- Weight stagnation leading to a weight 2 lanes below the usual lane (weight curve)
+
+
+Aetiological criteria'' (one criterion is sufficient) :
+
+- Reduction in food intake ≥ 50% for more than 1 week, or any reduction in intake for more than 2 weeks in relation to quantified usual food consumption or estimated protein-energy requirements
+
+- Reduced absorption (maldigestion/malabsorption).
+
+- Situation of aggression (protein hypercatabolism with or without inflammatory syndrome): acute pathology or evolving chronic pathology or evolving malignant pathology.
+
+
+'''Once the diagnosis of undernutrition has been made, its severity must be established:'''
+<br />
+{| class="wikitable"
+|Moderate undernutrition
+
+(1 criterion is sufficient)
+|Severe undernutrition
+
+(1 criterion is sufficient)
+|-
+|- Weight loss ≥ 5% and ≤ 10% in 1 month
+
+- Weight loss ≥ 10% and ≤ 15% in 6 months
+
+- IOTF17 curve < BMI < IOTF18.5 curve
+
+- Weight stagnation leading to a weight between 2 and 3 lanes below the usual lane (weight curve)
+|- Weight loss > 10% in 1 month
+
+- Weight loss > 15% in 6 months
+
+- BMI ≤ IOTF 17 curve
+
+- Weight stagnation resulting in a weight at least 3 lanes below the usual lane (weight curve)
+
+- Statural decline (with loss of at least 1 lane compared to usual height)
+<br />
+|}
+{| class="wikitable"
+|
+|}

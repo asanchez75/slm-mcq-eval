@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-267-03-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Heading=Know the definition of an acid-base disorder, its metabolic or ventilatory nature.
+|Description=Know the situations requiring arterial blood gas measurement (shock, tissue damage, acute and chronic respiratory failure, decompensated diabetes, intoxications that may cause metabolic acidosis).
+|Rubric=Definition
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=3}}
+
+A.    Measurement of pH and circulating blood gas (Table 1)
+
+Table 1: Normal values for acid-base balance variables
+{| class="wikitable"
+|
+|pH
+|H+ (nmol/L)
+|PCO2 (mmHg)
+|HCO3- (mmol/L)
+|-
+|Arterial
+|7,38 - 7,42
+|37 - 43
+|36 - 44
+|22 - 26
+|-
+|Veinous
+|7,32 - 7,38
+|42 - 48
+|42 - 50
+|23 - 27
+|}
+
+
+B.    Analysis of a blood gas result (Table 2)
+
+1.     Acidosis or alkalosis?
+
+*Acidaemia (or decompensated acidosis): arterial pH < 7.38 or venous pH < 7.32.
+*Alkalaemia (or decompensated alkalosis): arterial pH > 7.42 or venous pH > 7.38.
+
+Note that a pH abnormality is not necessary to diagnose an acid-base disorder. For example, a low bicarbonate level with a normal pH may correspond to metabolic acidosis associated with respiratory alkalosis.
+
+2.     Metabolic or respiratory?
+
+*Primary PCO2 abnormalities: acidosis (high PCO2) or alkalosis (low PCO2) known as "respiratory".
+*Primary HCO3<sup>-</sup> abnormalities: so-called "metabolic" acidosis ([HCO3<sup>-</sup>] low) or alkalosis ([HCO3<sup>-</sup>] high).
+
+3.     Compensatory renal or respiratory responses
+
+*''decrease in HCO3<sup>-</sup> if metabolic acidosis --> compensatory hyperventilation with parallel decrease in PCO2''; The compensatory response can be predicted: expected PaCO2 (mmHg) = 1.5 × [HCO3<sup>-</sup>] + 8 ± 2
+
+*'''increase in PCO2 if chronic respiratory acidosis (> 24-48 h) -->compensatory generation of HCO3<sup>-</sup> by the kidney''' ;
+*'''increase in HCO3<sup>-</sup> if metabolic alkalosis --> compensatory hypoventilation with increase in PCO2;''''
+*'''decrease in PCO2 if respiratory alkalosis --> parallel compensatory decrease in HCO3<sup>-</sup> .'''''
+
+Table 2: Simple acid-base disorders
+{| class="wikitable"
+|
+|pH
+|HCO3<sup>-</sup>
+|PCO2
+|-
+|Metabolic acidosis
+|↓
+|↓
+|↓
+|-
+|Metabolic alkalosis
+|↑
+|↑
+|↑
+|-
+|Respiratory acidosis
+|↓
+|↑
+|↑
+|-
+|Respiratory alkalosis
+|↑
+|↓
+|↓
+|}

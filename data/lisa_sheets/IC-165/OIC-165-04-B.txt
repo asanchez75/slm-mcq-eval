@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-165-04-B
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=B
+|Title=Knowing how mumps develops
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=4}}
+
+Asymptomatic infection in 1/3 of cases
+
+Spontaneous cure of parotiditis in 10 days
+
+Long-lasting immunisation after infection

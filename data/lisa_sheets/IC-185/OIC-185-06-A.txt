@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-185-06-A
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=A
+|Title=Knowing the biological manifestations of the inflammatory reaction
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Gilles Kaplanski
+|Order=6}}
+
+'''1- Serum protein electrophoresis:''''
+
+The hyper-alpha1 and 2-globulinaemia shows an inflammatory syndrome.
+
+Electrophoresis can also identify hypergammaglobulinaemia. <gallery>
+File:Electrophorese.jpg
+</gallery>'''2- The sedimentation rate (VS) of red blood cells:'''
+
+-Simple, sensitive and inexpensive method of detecting inflammatory syndrome, but not very specific.
+
+-The SV varies with age and sex. Normal values are :
+
+Age (year)/2 in men, with mean values of 15 mm before age 50 and 20 mm after age 50
+
+Age (year) + 10/2 in women, with mean values of 20 mm before age 50 and 30 mm after age 50
+
+
+'''3- Blood count (CBC):''''
+
+it shows
+
+normocytic, normochromic anaemia'', non-regenerative
+
+Neutrophil hyperleukocytosis, which is very rare.
+
+Hyperplateletosis
+
+
+4- '''Direct assay of proteins from the acute phase of inflammation:''''
+
+Fast, inexpensive and specific. A good inflammatory protein in clinical practice is one with a high level of variation, rapid kinetics and simple, reproducible assay.
+
+We generally combine the assay of 2 proteins with a high degree of variation and different kinetics, for example C-reactive protein and fibrinogen.
+
+<br />

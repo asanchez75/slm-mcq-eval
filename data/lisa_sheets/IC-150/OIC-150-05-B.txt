@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-150-05-B
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=B
+|Title=Knowing the indication for imaging examinations for infectious otitis in adults and children
+|Description=Uncomplicated otitis
+|Section=Complementary examinations
+|Contributors=
+|Order=5}}
+
+
+*No imaging in the absence of suspected complications.
+*If complications are suspected:
+**mastoiditis
+**Facial paralysis
+**Intracranial complication
+**Vertigo
+
+*CT scan as first-line treatment
+
+*Cerebral MRI if intracranial complications are suspected
+
+In children, an injected CT scan is necessary if mastoiditis, thrombophlebitis secondary to acute otitis media or mastoiditis, meningitis, empyema or brain abscess is suspected. MRI is only indicated in cases of focal neurological deficit.

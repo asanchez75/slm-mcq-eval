@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-265-07-A
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=A
+|Title=Knowing the clinical aspects of simple renal colic
+|Description=Pain, radiation, nausea...
+|Rubric=Positive diagnosis
+|Contributors=Romain Boissier
+|Order=7}}
+
+Renal colic is said to be "simple" when it occurs :
+
+* without fever or chills,
+* no biological renal failure or oligo-anuria
+* and that it subsides with analgesic treatment with NSAIDs.
+
+<br />

@@ -1,0 +1,200 @@
+{{knowledge objective
+|Identifiant=OIC-139-09-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=A
+|Title=Knowing how to treat the symptoms most frequently encountered in the palliative phase of serious, chronic or fatal illnesses: respiratory, digestive, neurological, psychiatric, ENT, etc.
+|Description=None
+|Rubric=Management
+|Contributors=Guillaume Economos
+|Order=9}}
+
+
+*'''See also:'''' [[Know the stages of a treatment approach for the patient and his or her entourage during the situations most frequently encountered in the palliative or terminal phase of serious, chronic or lethal illnesses 2C-139-PC-B02]].
+Treatment that is primarily aetiological, when <u>reasonable.</u> *<u>Symptomatic treatment, when <u>reasonable</u>.
+*<u>Symptomatic treatment systematically</u> associated in palliative situations.
+
+==<small>''1. Respiratory symptoms''</small>==
+
+===<small>'''a) Dyspnoea''</small>===
+<small>'''<u>Table 1. Aetiological and symptomatic treatments for dyspnoea in the palliative setting</u>'''</small> <small>(adapted from Référentiel national de soins palliatifs (Medline Éditions, 2021)</small>
+{| class="wikitable"
+|'''Identified etiology (frequent examples in palliative situations)'''
+|'''Etiological treatment'''
+|-
+|'''Bronchial obstructive syndrome'''
+|Bronchodilators (beta-mimetics, anticholinergics).
+
+Rational discussion of Non-Invasive Ventilation or high-flow nasal oxygen therapy.
+|-
+|Left heart failure
+|loop diuretics.
+
+Cardiological treatment: beta-blockers, amiodarone, etc.
+
+Reduction in water intake linked to treatments to avoid water restriction (palliative specificity).
+|-
+|Carcinomatous lymphangitis.
+|Corticosteroid therapy.
+
+Discuss palliative chemotherapy.
+|-
+|Pleurisy
+|Evacuation puncture or drainage.
+|-
+|Infection
+|Antibiotics.
+|-
+|Anemia
+|Transfusion.
+
+Discuss erythropoietin.
+|-
+| colspan="2" |'''Symptomatic treatment''''
+|-
+| Morphine (bradypneic effect and lowering of the response threshold to hypercapnia).
+
+Non-medicinal means: installation, adapted breathing techniques, ventilation of the room, etc.
+
+Discuss oxygen therapy (patient's subjective opinion of benefit, no saturation target, risk of mucous membranes drying out).
+
+Anxiolytic treatment if anxiety (short half-life benzodiazepine).
+
+Anticholinergic treatment if associated congestion (scopolamine).
+|}
+
+===<small>'''b) Agonic rales''</small>===
+
+*Anti-secretory anticholinergics (scopolamine) and reduced water intake.
+*Appropriate positioning (patient comfort position, half-seated or lateral decubitus) and mouth care.
+*Tracheobronchial aspirations inappropriate for palliative situations.
+
+==<small>'''2. Digestive symptoms''</small><big></big>==
+
+===<small>'''a) [[Nausea SD-012|Nausea and vomiting]]'''</small>===
+
+*<u>Non-medicinal treatments</u>: mouth care, fractionated, cold and light diet, transcutaneous electrostimulation of the vagus nerve, acupuncture.
+
+*<u>Medicinal treatments :</u>
+
+<small>'''<u>Table 2. Drug treatments for nausea-vomiting according to pathophysiology</u>'''</small> <small>(adapted from National Palliative Care Reference (Medline Editions, 2021)</small>
+{| class="wikitable"
+|'''Physiopathology'''
+|'''Treatment'''
+|-
+|'''Stimulation of the Chemoreceptor Trigger Zone (CTZ)''''
+|Neuroleptic antidopaminergic (e.g. chlorpromazine, metoclopramide, metopimazine).
+
+Setrons.
+
+Substance P inhibitors (aprepitant).
+|-
+|Stimulation of the vestibular system
+|Anticholinergics: scopolamine, diphenhydramine.
+
+Antihistamines (e.g. hydroxyzine).
+|-
+|''Stimulation of peripheral pathways'''
+|Gastric prokinetic neuroleptics (e.g. metoclopramide, metopimazine, domperidone).
+
+Gastric emptying stimulator: erythromicin IV.
+|-
+|'''<u>Central stimulation</u>''''
+|Depending on aetiology:
+
+- Anti-odematous: corticosteroids, mannitol, diuretic (e.g. acetazolamide), SSH
+
+- Tumour mass: discuss radiotherapy
+
+- Anticipatory chemotherapy vomiting: benzodiazepines.
+|}
+
+===<small>'''b) Constipation''</small>===
+(See: [[Knowing the principles of managing chronic constipation 2C-283-PC-B01]])
+
+'''Constipation on opioids:'''
+
+*<Systematic prophylaxis with an osmotic or stimulant laxative (not a ballast laxative) and hygiene and dietetic instructions.
+
+*<In the event of failure</u> of a well-administered preventive treatment (or poor tolerance):
+
+~ Peripheral morphine antagonists (e.g. methylnaltrexone, naloxegol): second-line, contraindicated in cases of known or suspected intestinal obstruction or patients at risk of obstruction (e.g. peritoneal carcinosis).
+
+~ Absence of stool for 4 days: dual laxative therapy, discussion of a rectal laxative (if stool on rectal examination) and discussion of a peripheral antagonist.
+
+~ If unsuccessful after 48 hours: treatment with colonic preparation or large enema.
+
+===<small>'''c) Intestinal occlusion''</small>===
+(see also: [[Knowing the principles of the therapeutic charter management of an occlusion in adults 2C-354-PC-A01]])
+[[File:Therapeutic approach to palliative occlusion.jpg|vignette|1001x1001px|[https://www.afsos.org/wp-content/uploads/2016/09/Occlusion_digestive_AFSOS.pdf Adapted from the AFSOS Digestive Occlusion on Peritoneal Carcinosis referential of 19/12/13]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+
+'''<big>3. Symptoms of the oral sphere</big>''''
+
+Always: 1.4% bicarbonate mouthwash + tooth brushing (soft bristles) / denture hygiene +/- cold food.
+{| class="wikitable"
+|'''Symptom''''
+|'''Adapted mouth care'''
+|-
+|Dry mouth
+|Artificial saliva, application of grease, moistening.
+|-
+|Mycosis
+|Antifungals (e.g. amphotericin B, miconazole).
+|-
+|Painful mouth
+|Systemic analgesics.
+
+Local analgesic mouthwash (e.g. lidocaine).
+
+Acetylsalicylic acid mouthwash.
+
+Sucralfate mouthwash (if ulceration)
+|-
+|Bleeding
+|Tranexamic acid mouthwash.
+|}
+
+==<small>'''4. Neuropsychological symptoms '''</small>==
+<small>(see: [[Confusion, dementia (see item 132)]]; [[Prescription and monitoring of psychotropic drugs (see item 330)]])</small>
+
+===<small>'''a) Palliative confusion''</small>===
+
+*Aetiological treatment as early as possible (prognosis).
+*Regular clinical monitoring.
+*Non-drug measures: adapting the environment, providing security, reassuring the patient and carers, avoiding physical restraints.
+*Symptomatic treatment: neuroleptics (unless delirium tremens: benzodiazepines).
+
+===<small>'''b) Anxiety''</small>===
+
+*<u>Non-medicinal measures</u>: psychotherapy, support, complementary approaches.
+*<u>Medicinal treatments</u> possible if disabling anxiety:
+
+~ Benzodiazepines: start at a low dose, increase gradually, give preference to molecules with a short half-life.
+
+<u>NB</u>: in palliative care, the risk of addiction should not be a brake on their use.
+
+~ Hydroxyzine: primarily sedative action, to be avoided in the elderly (anticholinergic effect).
+
+~ Neuroleptics: if benzodiazepines fail or associated delusions (hallucinations, nightmares, etc.).
+
+~ Imipraminic antidepressants and SSRIs: especially if pathological anxiety.

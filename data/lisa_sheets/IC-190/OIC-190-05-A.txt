@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-190-05-A
+|Item_parent=Prolonged fever
+|Item_parent_short=Prolonged fever
+|Rank=A
+|Intitle=Cite the main non-infectious causes of prolonged fever
+|Description=Malignant diseases, systemic diseases, drugs, rare causes
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+
+
+'''-'''' cancers (including haemopathies)
+
+- inflammatory or autoimmune diseases: giant cell arteritis and rheumatoid arthritis, other vasculitides, systemic lupus, chronic inflammatory bowel disease, rheumatoid arthritis, Still's disease, etc.
+
+- medicines
+
+- various causes: hyperthyroidism, venous thrombo-embolic disease, auto-inflammatory syndromes
+
+
+In children
+
+- cancer: primarily haemopathy, but also neuroblastoma, lymphoma and nephroblastoma
+
+- Inflammatory or autoimmune diseases: KAWASAKI +++ to be suspected in the presence of a fever lasting more than 5 days, Crohn's disease (in older children) and more rarely PIMS (paediatric multisystem inflammation syndrome following SARS-Cov2 -COVID infection), systemic form of juvenile chronic arthritis (Still's disease), lupus.
+
+- drug-related causes
+
+- auto-inflammatory syndrome
+
+<br />

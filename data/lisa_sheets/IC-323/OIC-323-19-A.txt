@@ -1,0 +1,30 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Knowing the transferability of results (external validity or extrapolation)
+|Description=Know the different methodological elements that influence the external validity of randomised clinical trials, Know how to explain clinical transposability and the evaluation of drugs beyond study groups.
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Jérôme Lambert (CIMES),Agnès Dechartres (CUESP)
+|Order=19
+|Identifiant=OIC-323-19-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+'''External validity'''
+
+*Elements of a clinical study enabling the reader to judge the applicability and generalisability (transposability) of the results to his/her patients.
+*For a clinical trial: elements guaranteeing that the efficacy of the treatment evaluated, as estimated in the trial, can be extrapolated to real-life conditions of use.
+
+'''External validity analysis''''
+
+*Clinical relevance of results
+*Characteristics of the individuals included: close to the population suffering from the disease (definition, severity, co-morbidities, etc).
+**selection criteria that are too restrictive reduce the generalisability of the results
+**a "pragmatic" trial defines broad selection criteria that are not very selective, as used in everyday practice.
+**in contrast, an "explanatory" trial defines more stringent non-inclusion criteria (absence of co-morbidities, co-medications, age restriction, etc).
+*Management methods in the study are close to those used in real-life conditions.
+*Characteristics of the doctors/investigating centres included: experience, level of expertise, etc.
+*Method of recruitment :
+**Types of centres included (practices, general hospitals, university hospitals).
+**Multicentre study vs. monocentre study
+*Adherence to treatment: feasibility of administration and monitoring methods in daily practice.

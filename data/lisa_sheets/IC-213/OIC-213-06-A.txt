@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-213-06-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short= Anaemia in adults and children
+|Rank=A
+|Title=Knowing emergency measures in the event of poor tolerance of anaemia
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=6}}
+
+ 
+Emergency measures in the event of anaemia with signs of severity
+
+*''Blood transfusion ([[Prescribe and perform a blood transfusion SD-272|prescribe and perform a blood transfusion]])''' of red blood cells as an emergency in the event of :
+**haemodynamic instability ;
+**Significant and rapid deglobulation''([[Acute haemorrhage SD-060|acute haemorrhage]])'''';
+**Signs of poor tolerance, in particular angina or electrical signs of myocardial ischaemia, lipothymia;
+**Hb < 8 g/dL in a patient at risk (cardiovascular pathologies).
+
+*Associated "symptomatic measures":
+**Bed rest ;
+**Nasal oxygen therapy;
+**Placement of a peripheral venous line;
+**Monitoring: alertness, pulse, blood pressure, respiratory rate, SpO<sub>2</sub>, ECG.
+
+* Treatment of the cause depending on the situation (endoscopic haemostasis procedure, interventional radiology or surgery, and discontinuation of anti-aggregant or anticoagulant treatment ([[Prescription and monitoring of anticoagulant and/or anti-aggregant treatment SD-248|prescription and monitoring of anticoagulant and/or anti-aggregant treatment]])'' in the event of bleeding, management of the cause of acute haemolysis, etc.).
+
+
+External source HAS : https://www.has-sante.fr/upload/docs/application/pdf/2015-02/transfusion_de_globules_rouges_homologues_-_produits_indications_alternatives_-_recommandations.pdf<ref>https://www.has-sante.fr/upload/docs/application/pdf/2015-02/transfusion_de_globules_rouges_homologues_-_produits_indications_alternatives_-_recommandations.pdf</ref>

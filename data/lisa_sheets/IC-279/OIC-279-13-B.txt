@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-279-13-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Title=Knowing that cirrhotic patients are at risk of hepatocellular carcinoma (HCC)
+|Description=None
+|Rubric=Management, Follow-up
+|Contributors=
+|Order=13}}
+The annual incidence of hepatocellular carcinoma (HCC) in cirrhosis is of the order of 1 to 5%. This justifies systematic screening of all patients with cirrhosis.
+
+Screening is essentially based on liver ultrasound and the systematic measurement of alpha-fetoprotein (AFP) every 6 months.
+If the screening ultrasound scan is inconclusive, particularly in cases where the radiologist has indicated technical limitations (small sub-costal liver difficult to examine, digestive interpositions, etc.), it should be supplemented by a thin-slice examination with injection of contrast medium (CT scan and/or MRI).
+
+The appearance of a nodule in a cirrhotic liver should raise the suspicion of hepatocellular carcinoma. Ultrasound should then be systematically supplemented by a thin-slice examination with contrast medium injection: CT scan with iodine injection and/or MRI with gadolinium injection.
+The characteristic features of HCC on cross-sectional imaging (CT and/or MRI) are its hypervascular appearance when arterial (wash-in) and hypovascular when venous (portal, wash-out) in relation to the adjacent liver parenchyma.
+
+When the nodule or nodules are not characteristic on imaging, an ultrasound-guided biopsy of the nodule is required, always in conjunction with a biopsy of the non-tumourous liver.

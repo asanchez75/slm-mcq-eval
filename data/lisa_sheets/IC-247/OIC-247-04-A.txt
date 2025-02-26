@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-247-04-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Knowing the target populations and methods of screening for type 2 diabetes mellitus (T2DM).
+|Description=None
+|Section=Definition
+|Contributors=Gaetan Prévost,Hélène Bihan,Claire Briet,Eva Feigerlova,Etienne Larger
+|Order=4}}
+
+'''Methods of screening for T2D:'''
+
+mainly fasting venous glycaemia, diabetes if >1.26g/l on 2 occasions.
+
+For some (not consensual), an HbA1c >6.5% is also diagnostic of diabetes.
+
+
+'''Target populations for T2D screening:'''
+
+1/ patients with symptoms
+
+2/ asymptomatic patients and
+
+over 45 years of age, every 3 years if no FDR
+
+patients with FDR every year
+
+FDR for T2DM: metabolic syndrome, vascular or renal disease, family history of diabetes in the 1st<sup>degree, history of gestational diabetes or child with macrosomia, history of temporarily induced diabetes, geographical origin, sedentary lifestyle, history of delivery of a low-birth-weight child or pregnancy with IUGR.
+
+<br />

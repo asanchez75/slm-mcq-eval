@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-304-10-A
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=A
+|Title=Knowing the clinical presentation of biliary tumours
+|Description=Tumours of the bile ducts
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+With rare exceptions, '''tumours of the bile ducts are malignant''', mainly represented by '''cholangiocarcinoma'''.
+
+The diagnosis of cholangiocarcinoma is made in the following circumstances:
+
+- most often at an advanced stage in a symptomatic patient: jaundice, hepatomegaly, weight loss, right hypochondrium pain, fever;
+
+- sometimes fortuitously during an assessment of biological anicteric cholestasis or during an abdominal X-ray examination.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-213-01-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short= Anaemia in adults and children
+|Rank=A
+|Title=Know the definition of anaemia
+|Description=Adult/child variable normals, pregnancy, false anaemia
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+ 
+Anemia = pathological state resulting from a ''decrease in the total mass of intra-erythrocyte haemoglobin'' (Hb), causing a defect in the normal transport of oxygen to the various tissues.  
+
+Definition based solely on the Hb assay ([[Haemoglobin decrease SD-217|haemoglobin decrease]], [[Haemogram interpretation SD-223|haemogram interpretation]])'''. It is defined in adults by an Hb level '''< 12 g/dL in women'' or '''< 13 g/dL in men.''' Red cell count and haematocrit are not included in the definition of anaemia '''([[Anomaly of erythrocyte indices (haemoglobin level, haematocrit...) SD-214|anomaly of erythrocyte indices (haemoglobin level, haematocrit...)]]).''''
+
+In the event of pregnancy= haemodilution=> anaemia is defined by an Hb level < 11 g/dL (10.5 g/dL from the 2nd trimester).
+
+In the case of large [[Splenomegaly SD-058|splenomegaly]] or [[Serum protein electrophoresis analysis SD-193|monoclonal gammopathy]], a false anaemia secondary to haemodilution may be observed.

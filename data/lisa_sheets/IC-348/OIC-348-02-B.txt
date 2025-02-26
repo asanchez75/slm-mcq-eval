@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-348-02-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the main types and mechanisms of acute renal failure
+|Description=Know the mechanisms of obstructive AKI, functional AKI and parenchymal AKI. Understand the role of glomerular haemodynamics in the mechanisms of AKI.
+|Rubric=Physiopathology
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=2}}
+
+==Main types and mechanisms of ARF===
+Glomerular filtration decreases or is cancelled when :
+
+*renal plasma flow (RPF) decreases (hypovolaemia or shock in particular),
+*ultrafiltration pressure (P<sub>UF</sub>) decreases (arterial hypotension, hypovolaemia),
+*efferent arteriolar resistance decreases (vasodilatation) or afferent resistance increases (vasoconstriction),
+*in the event of an intratubular or excretory tract obstruction.
+
+IRAs are classified into 3 groups:
+
+*Obstructive ARF related to an obstacle in the excretory tract,
+*functional ARF associated with a reduction in DPR and P<sub>UF</sub>,
+*parenchymal ARF, due to tubular, glomerular, interstitial or vascular lesions.
+
+
+A. '''Obstructive ARF''' due to a bilateral ureteral obstruction (or unilateral on a single kidney), or at the level of the bladder or urethra. The obstruction may be incomplete and is therefore not always associated with a '''[[Decreased diuresis SD-022|decreased diuresis]]'''. These ARFs are secondary to lithiasis (young patients) or tumour pathologies (elderly subjects). Imaging SD-231|Ultrasound]]'' of the urinary tree reveals dilatation of the pyelocaval cavities.
+
+B. Functional ARF (ARFRI) due to a reduction in renal plasma flow and ultrafiltration pressure as a result of true hypovolaemia (haemorrhage, dehydration) or "effective" hypovolaemia (cardiac or hepatic failure, sepsis, etc.). The renal parenchyma is intact. Renal hypoperfusion stimulates compensatory neuro-hormonal systems (renin angiotensin system, sympathetic nervous system, ADH) designed to maintain glomerular filtration (efferent vasoconstriction) and blood volume (water and salt reabsorption). Functional AKI "is reversible, but if the process persists it may lead to renal ischaemia and progress to ATN".
+
+C. Parenchymal AKI is caused by anatomical lesions of kidney structures.The most common are ''acute tubular necrosis'' (ATN, 80%), but AKI can also complicate interstitial, glomerular or acute vascular nephropathy.
+
+
+Three mechanisms are often involved and associated in APN: ischaemic, inflammatory and toxic.
+
+'''Ischaemic NTA''' :
+
+*Reduced renal blood flow during shock causes ischaemia in the outer zone of the medulla.
+*The accumulation of necrotic cellular debris in the lumen of the tubes increases intra-tubular pressure, which tends to reduce glomerular filtration even further.
+*The anuria observed in severe forms of ATN is due to the drop in glomerular filtration, tubular obstruction and back-diffusion of urine through the damaged epithelium.
+
+'''Mechanisms of other parenchymal ARF:''''
+
+*In non-ischaemic tubular nephropathy:
+
+- Intratubular precipitation of myoglobin (rhabdomyolysis), haemoglobin (massive haemolysis), immunoglobulin light chains (myeloma), or drugs (acyclovir or tenofovir, for example);
+
+- Direct toxicity of drugs (aminoglycosides, cisplatin, etc.) or iodinated contrast products on tubular cells.
+
+*During glomerulonephritis or thombotic microangiopathies, due to the decrease in filtration surface (decrease in K<sub>f</sub>).
+*During acute interstitial nephritis, interstitial oedema increases intra-renal pressure, thus decreasing blood flow and glomerular filtration pressure.

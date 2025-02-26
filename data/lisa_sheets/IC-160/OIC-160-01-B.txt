@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-160-01-B
+|Item_parent=Tetanus
+|Item_parent_short=Tetanus
+|Rank=B
+|Title=Knowing the mechanisms of tetanus
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+The players :
+
+* Clostridium tetani, an environmental bacterium
+* Tetanospasmin, a toxin produced by Clostridium tetani, internalised in neurons where it prevents the release of neurotransmitters.
+* Spinal inhibitory interneurons, neurons in the spinal cord that regulate neuronal excitation.
+
+
+The sequence of events (see figure) :
+
+* Exposure to the Clostridium tetani toxin, tetanospasmin (1)
+* Passage into the bloodstream (2)
+* Retrograde transport via peripheral motor neurons
+* Release at the 1<sup>er</sup> synaptic relay in the spinal cord.
+* Internalisation into inhibitory interneurons
+* Blockage of membrane proteins required for exocytosis (3)
+* Loss of the inhibitory action of these interneurons
+** Increase in muscle tone
+** Painful spasms
+** Dysautonomia
+
+[File:Physiopathology of Tetanus.jpg|centred|thumb|1 : Exposure to the toxin of ''Clostridium tetani'', tetanospasmin; 2 : Passage of tetanospasmin into the blood; 3 : Blockage of membrane proteins necessary for excocytosis]]
+<br />

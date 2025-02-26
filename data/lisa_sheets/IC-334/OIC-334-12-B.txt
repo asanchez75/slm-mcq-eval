@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-334-12-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Understanding the mechanism of complications following burns
+|Description=Inflammation, oedema, damage to the endothelial barrier, contraction of intravascular volume, loss of the skin barrier, compartment syndrome and consequences of ischaemia, immunodepression.
+|Rubric=Physiopathology
+|Contributors=
+|Order=12}}
+The 2 pathophysiological diagrams summarise the mechanisms of local and systemic burn injury (Figures 6 and 7).
+[[File:Item 334 Figure 6 Mechanisms of cutaneous oedema in a skin burn.jpg.png|vignette|Figure 6. Mechanisms of cutaneous oedema in a burn]]
+The formation of oedema in the early phase in the burned areas makes it possible to understand the movement of water explaining acute hypovolaemia, and the state of shock when the burned skin surface is ≥ 30%. The cardinal sign is haemoconcentration. The main event is the destruction of the extracellular matrix, with a drop in interstitial pressure and local impairment of vascular permeability. The exudate formed contains plasma, albumin and immunoglobulins. This phenomenon does not last longer than 12 hours in burnt areas (figure 6).
+[[File:Item 334 Figure 7 Mechanisms of shock in extensive burns.jpg.png|thumb|Figure 7. Mechanisms of shock in extensive burns]]
+This local injury, if sufficiently extensive, will lead to a systemic inflammatory response syndrome (SIRS), with an increase in generalised vascular permeability due to endothelial damage and leakage of plasma into the interstitial tissue. Vascular filling and hypoalbuminemia aggravate the generalised oedema. This phenomenon begins after the 12<sup>th</sup> hour and lasts for approximately 48-72 hours (Figure 7).

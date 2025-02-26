@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-277-13-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Ultrasound examination of acute cholecystitis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+
+
+
+
+Ultrasound image centred on the gallbladder showing cholecystitis with thickened gallbladder wall (10 mm for a standard of less than 3 mm). In this circumstance, there is usually an ultrasound Murphy sign with pain in the right hypochondrium when the probe passes.<gallery widths="500" heights="500">
+File:Ultrasound appearance of acute cholecystitis.jpeg
+</gallery>

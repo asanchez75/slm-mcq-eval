@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-188-13-B
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=B
+|Title=Knowing the indications for immunoallergic tests
+|Description=Use of specific IgE and provocation tests
+|Rubric=Additional tests
+|Contributors=
+|Order=13}}
+[Prescription and interpretation of allergological tests (patch tests, prick tests, i dr) SD-237|Indication of immuno-allergic tests (prick test and specific IgE assay)
+
+o When asthma is diagnosed
+
+o Diagnosis of chronic rhinitis of suspected allergic origin.

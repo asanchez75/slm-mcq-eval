@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-287-05-A
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=A
+|Title=Know the differential diagnosis of a diverticulum, diverticulosis, diverticulitis and complicated diverticulitis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Frédérique PESCHAUD
+|Order=5}}
+
+Differential diagnoses of diverticulitis include all causes of pain in the left iliac fossa. Among the most frequent and/or most serious are a number of inflammatory conditions:
+
+- colic: ectopic appendicitis, colon cancer (abscessed), ischaemic colitis, bacterial colitis, IBD ;
+
+- extra-colonic: salpingitis, ectopic pregnancy, etc.

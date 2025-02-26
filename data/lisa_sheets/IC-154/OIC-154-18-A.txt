@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-154-18-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Knowing the hygiene measures to adopt in the community
+|Description=Mask, hand washing, etc., particularly during an influenza pandemic.
+|Rubric=Prevention
+|Contributors=
+|Order=18}}
+Individual and collective prevention of the transmission of infectious agents involved in lower respiratory infections (essentially viruses and intracellular bacteria excluding Legionella) is based on :
+
+*''''' For outpatients
+**Time off work
+**Rest at home
+**Hygiene: covering the mouth and nose when coughing, single-use tissues in a closed bin, hand washing, recommendation to wear a mask when leaving home.
+*'''For hospitalised or institutionalised patients:''''
+**Hospitalization in an individual room with additional respiratory precautions depending on the agent involved (e.g. "droplet" precautions for influenza; "air" precautions for tuberculosis).
+**Hygiene: covering the mouth and nose when coughing, single-use tissues in a closed bin, recommendation that the patient wear a mask when leaving the room, hand washing or friction with hydro-alcoholic solution, disinfection of surfaces.
+
+
+- If ''grouped cases of influenza in institutions for the elderly'': discuss post-exposure prophylaxis
+
+
+Infant bronchiolitis
+
+- eviction from the community
+
+- if hospitalised: isolation in a single room or grouped cases, with "droplet" precautions
+
+- hand hygiene: decontamination of surfaces and objects in the community.

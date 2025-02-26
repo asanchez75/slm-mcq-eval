@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-086-02-A
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=A
+|Title=Recognising entropion and its complications
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Entropion:''' tilting of the eyelid towards the conjunctiva, caused by relaxation of the cutaneous tissues (senile entropion) or retraction of the conjunctival tissues (cicatricial entropion due, for example, to trachoma or bullous pathology).
+
+
+'''Complications:''' trichiasis (rubbing of the eyelashes on the cornea)

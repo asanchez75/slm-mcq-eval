@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-243-02-B
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=B
+|Title=Knowing the prevalence of hypothyroidism
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Eva Feigerlova,Igor Tauveron,Stéphanie Espiard
+|Order=2}}
+
+Peripheral hypothyroidism is the most common, particularly in women (1 in 13 women and 1 in 30 men), and increases with age.
+
+Some pathologies predispose to peripheral hypothyroidism: autoimmune endocrinopathies, Turner syndrome and trisomy 21.
+
+In less than 1% of cases, hypothyroidism is linked to thyroid insufficiency.

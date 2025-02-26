@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-320-07-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Know the additional tests to detect monoclonal gammopathy in serum or urine
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''Demonstration of a serum or urinary monoclonal gammapathy'''
+
+- Serum protein electrophoresis (SPE)
+
+Narrow band peak corresponding to the presence of monoclonal immunoglobulin
+
+Migrating most often into the gamma globulin zone, less frequently into the beta zone)
+
+If light chain myeloma (20% of cases): absence of monoclonal peak, hypogammaglobulinaemia
+
+
+- Immunofixation (IF)
+
+Confirms the presence of monoclonal immunoglobulin
+
+Enables its heavy chain and light chain to be typed (isotype)
+
+Myeloma: IgG++, IgA+ (D, E, M exceptional)
+
+                 Light chain κ in 2/3 of cases, λ in one third of cases.
+
+
+- Determination of serum free light chains
+
+Essential for light chain myeloma (diagnostic and follow-up value) and for the assessment of indolent myeloma (theoretical criterion for treatment if ratio >100).
+
+Imbalance in the κ/λ ratio. Quantification of light chain produced in excess
+
+
+- Bence-Jones proteinuria.
+
+Systematic urinary sediment analysis for the diagnosis of monoclonal gammopathy
+
+Bence Jones proteinuria: abnormal presence of monotypic light chains in the urine
+
+In myeloma, in the event of glomerular-type proteinuria (albuminuria greater than 1 g/24 h): suspect associated glomerular nephropathy (e.g. AL amyloidosis or other Ig deposition disease (Randall's disease, etc.).
+
+<br />

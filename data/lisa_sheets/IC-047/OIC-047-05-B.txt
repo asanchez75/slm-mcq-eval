@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-047-05-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Knowing the main risk situations for visual disorders
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+'''Personal risk factors''''
+
+* in utero exposure to toxic substances (cocaine, alcohol), certain infectious agents (embryofoetopathies linked to toxoplasmosis or syphilis, for example)
+* prematurity, perinatal anoxia, low birth weight (under 1500g)
+* Neuromotor disorders, cerebral palsy
+* Chromosomal abnormalities (trisomy 21)
+* Malformation of the skull or face (craniostenosis, craniofacial dysostosis, etc.)
+* Deafness
+
+'''Family risk factors''': strabismus; severe refractive disorders: severe and early myopia; amblyopia; astigmatism; hereditary ophthalmological disease, etc.

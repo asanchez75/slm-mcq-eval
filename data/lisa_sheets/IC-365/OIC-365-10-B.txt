@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-365-10-B
+|Item_parent=Surveillance of a patient in plaster/resin
+|Item_parent_short=Surveillance of a patient in plaster/resin
+|Rank=B
+|Title=Knowing the emergency management of venous thrombosis under restraint
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+'''As soon as phlebothrombosis is clinically suspected'' :
+
+*The cast must be bivalved or completely removed.
+*A clinical examination is carried out without looking for the Homans sign, which could displace a fracture.
+*A venous Doppler ultrasound examination is carried out as a matter of urgency to confirm the diagnosis.
+*A pulmonary embolism should be suspected in the presence of abnormal anxiety, chest pain or a drop in arterial oxygen saturation (SaO2), and an angioscanner should be performed as a matter of urgency.
+
+'''Recommendations give priority to the use of subcutaneous LMWH (see item 226)'''
+
+For patients with a strong clinical suspicion, anticoagulant treatment is started before the diagnosis is confirmed by imaging.

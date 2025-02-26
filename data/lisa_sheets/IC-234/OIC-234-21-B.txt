@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-234-21-B
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=B
+|Title=Knowing the main complications of heart failure and their management
+|Description=Death, decompensation, rhythm disorder, embolism, hypotension, renal failure.
+|Section=Follow-up and/or prognosis
+|Contributors=Olivier Huttin
+|Order=21}}
+- Heart failure is a serious disease
+
+- Deaths: average mortality of 50% at five years
+
+
+Causes of death :
+
+- Chronic refractory heart failure, cardiac cachexia, cardiogenic shock leading to multivisceral failure
+
+- End-stage renal failure: cardiorenal syndrome
+
+- Episodes of acute heart failure
+
+- Sudden death secondary to ventricular rhythm disturbances (VT, VF); sudden death due to electromechanical dissociation
+
+- Thromboembolic complications: systemic embolism (stroke), pulmonary embolism (episodes of bed rest).

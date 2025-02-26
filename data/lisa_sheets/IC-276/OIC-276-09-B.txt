@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-276-09-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Intitle=Typical hepatic cyst modelling
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=9}}
+<gallery perrow="1">
+File:Kystesbilport.png|TDM time portal
+</gallery>

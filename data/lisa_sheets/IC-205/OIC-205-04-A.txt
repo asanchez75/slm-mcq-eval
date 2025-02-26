@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-205-04-A
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=A
+|Title=Know how to initiate symptomatic treatment in an emergency
+|Description=Know how to initiate oxygen therapy (item 359)
+|Heading=Management
+|Contributors=
+|Order=4}}
+The seriousness of haemoptysis is related to the risk of asphyxia induced by the flooding of the airways, and not to the spoliation of blood. The more the patient has an underlying respiratory pathology, the more difficult it is to tolerate haemoptysis. The aim of initial symptomatic management is therefore to ensure haematosis.
+
+Symptomatic treatment is initially based on
+
+* Oxygen therapy: guided by transcutaneous oximetry, with the aim of maintaining SpO2 > 90%. The devices used (O2 goggles, mask with or without reservoir, high-flow oxygen, etc.) depend on the flow rate required to guarantee sufficient saturation.
+* Intravenous vasoconstrictor agents (terlipressin): widely used (off-label), subject to contraindications (particularly cardiovascular, especially ischaemic heart disease).
+* Airway protection (only necessary in the event of massive haemoptysis)
+** lateral decubitus position on the side of the bleeding when this is known, to avoid flooding of the healthy side
+** intubation with mechanical ventilation may be necessary, ideally with a double-lumen tube for selective intubation.
+* ''''embolisation of the bronchial arteries''': for medium to heavy and/or recurrent haemoptysis. This is the first-line treatment in severe cases:
+** identify the bronchial artery(s) involved in the bleeding
+** identify any abnormalities (enlargement, hypervascularisation, etc.)
+** inject material to obstruct the artery responsible.
+* Endoscopic treatment: injection of cold saline or vasoconstrictor agent locally during bronchial fibroscopy. No longer used in current practice, in favour of arterioembolisation.
+* Surgical treatment is discussed as a last resort. Removal of the lesion responsible for the bleeding stops the haemoptysis and prevents recurrence. Respiratory function must be sufficiently preserved and the aetiological cause localised.
+
+Etiological treatment is started as soon as possible.

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-193-04-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Title=Know the main differential diagnoses to be considered in cases of suspected vasculitis.
+|Description=infections, toxic or drug-induced causes, cancer, haemopathy, secondary vasculitis
+|Rubric=Positive diagnosis
+|Contributors=Luc Mouthon
+|Order=4}}
+
+'''<big>- Secondary vasculitis:</big>'''''
+
+* systemic lupus or rheumatoid arthritis
+* infection
+* medication
+* haemopathies and solid cancers
+* toxic substances (tobacco, cannabis, cocaine)
+* cholesterol emboli.
+
+'''<big>- Other differential diagnoses (variable depending on the type of vasculitis):</big>''''
+
+* bronchial cancer or metastases in the presence of one or more pulmonary nodules (GPA)
+* compressive or diabetic-related neurological damage in the presence of multiple mononeuropathy
+* other causes of glomerulonephritis with glomerular proteinuria and/or haematuria SDD-102|''haematuria''']].

@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-314-01-A
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder tumours
+|Rank=A
+|Title=Know the main histological type of bladder tumour
+|Description=Urothelial carcinoma
+|Section=Definition
+|Contributors=Mathieu Roumiguié
+|Order=1}}
+
+
+*Urothelium is the lining epithelium of the entire urinary tract, so urothelial carcinoma can affect, synchronously or metachronously:
+**calyces
+**pyelons
+**ureters
+**bladder
+**urethra
+
+*A bladder tumour is a urothelial carcinoma in over 95% of cases.
+
+
+'''Starting situations''' :
+
+- '''Symptoms and clinical signs:''' 4 [[Abdominal pain SD-004|abdominal pain]], 8 [[Abdominal mass SD-008|abdominal mass]], 16 [[Single or multiple adenopathies SD-016|single or multiple adenopathies]], 17 [[Weight loss SD-017|weight loss]], 21 [[Asthenia SD-021|asthenia]], 23 [[Voiding abnormality SD-023|voiding abnormality]], 36 [[Lumbar region pain SD-036|lumbar region pain]], 96 [[Urination burning SD-096|urination burning]], 99 [[Pelvic pain SD-099|pelvic pain]], 102 [[Haematuria SD-102|haematuria]], 106 [[Pelvic mass SD-106|pelvic mass]]
+
+- '''Paraclinical data :''' 180 [[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]], 181 t[[Malignant tumours on surgical specimen/biopsy SD-181|malignant tumours on surgical specimen/biopsy]], 182 [[Urinary strip analysis SD-182|analysis of a urinary strip]], 196 [[Urinary sediment analysis SD-196|urinary sediment analysis]], 199 [[Creatinine increased SD-199|creatinine increased]], 217 [[Haemoglobin decreased SD-217|haemoglobin decreased]], 216 [[Platelet abnormality SD-215|platelet abnormality]], 224 [[Abdominal abnormality found on imaging SD-224|abdominal abnormality found on imaging]], 229 [[Discovery of a pelvic abnormality during a medical imaging examination SD-229|discovery of a pelvic abnormality during the examination]], 230 [[Writing the request for an imaging examination SD-230|writing an imaging examination]], 231 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|request for an imaging examination]], 232 [[Request for an explanation from a patient about the procedure, the risks and expected benefits of an imaging examination SD-232|request for a patient's explanation of the procedure]], the risks and expected benefits of an imaging examination, 233 [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]].
+
+- '''Acute and chronic management :''' 239 [[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure,]] 242 [[Management of forced smoking cessation SD-242|management of forced smoking cessation]], 250 [[Prescribing analgesics SD-250|prescribing analgesics]], 258 [[Prevention of pain associated with health care SD-258|prevention of pain associated with health care]], 259 [[Assessment and management of acute pain SD-259|assessment and management of acute pain]], 260 [[Assessment and management of chronic pain SD-260|assessment and management of chronic pain]], 297 [[Oncology follow-up consultation SD-297|oncology follow-up consultation]],
+
+- '''Prevention :''' 303 [[Prevention/screening of adult cancers SD-303|prevention screening of adult cancers]], 314 [[Prevention of tobacco-related risks SD-314|prevention of tobacco-related risks]], 315 [[Prevention of occupational risks SD-315|prevention of occupational risks]],
+
+- '''Miscellaneous situations:''' 342 r[[Writing a prescription/medical letter SD-342|writing a prescription/medical letter]], 352 [[Explaining a treatment to the patient (adult/child/adolescent) SD-352|explaining a treatment to the patient,]] 355 [[Organising discharge from hospital SD-355|organising discharge from hospital]]

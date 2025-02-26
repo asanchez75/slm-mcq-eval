@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-004-09-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Know how to antiseptically treat healthy skin, injured skin and mucous membranes.
+|Description=Know how to adapt the choice of antiseptic solution to the clinical situation.
+|Rubric=Management
+|Contributors=
+|Order=9}}
+'''Modalities'''
+
+- Check the tolerance of the application site: healthy skin, damaged skin, mucous membranes, etc.
+
+- Check for incompatibilities between products
+
+- Avoid inactivation of the product by organic matter (blood, pus, etc.): a detersion phase may be necessary prior to application.
+
+- Respect the action time (contact time required for the activity).
+
+-Scrupulously respect the conditions of use of products (concentrations and instructions for use) to avoid the emergence of resistant strains.
+
+'''Precautions for use'''
+
+- Application site: healthy skin, mucous membranes, other tissues
+
+- Contraindications or precautions for use: allergy, age (newborn, premature), pregnancy, etc.
+
+- Its spectrum of action (favour broad-spectrum products)

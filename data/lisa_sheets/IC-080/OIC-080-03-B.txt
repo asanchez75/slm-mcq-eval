@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-080-03-B
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=B
+|Title=Knowing the main doping substances and methods
+|Description=Glucocorticoids; Anabolic agents; Stimulants; Diuretics and masking agents; Beta-2 agonists; Peptide hormones, growth factors and related substances; Narcotics; Hormonal antagonists and modulators; Class SO
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+
+
+
+1. the main substances
+
+* '''Substances prohibited in and out of competition'''
+** <u>S0. Unapproved substances</u>
+*** Any pharmacological substance not included below and not approved for therapeutic use in humans by a government health authority (e.g. drugs in preclinical or clinical development).
+** <u>S1. Anabolic agents (Androgenic anabolic steroids, other anabolic agents)</u>
+*** Increase in muscle mass, action on performance and resistance to fatigue.
+** <u>S2. Peptide hormones, growth factors and related (Erythropoietin (EPO))</u>
+*** Increases erythropoiesis => increases O2 transport => improves endurance
+** <u>S3. Beta-2-agonists: Ban on all beta-2 agonists (except salbutamol, formoterol, salmeterol)</u>
+*** Improved respiratory function / Increased effort and resistance.
+** <u>S4. Hormonal and metabolic modulators (Aromatase inhibitor, oestrogen receptor modulators)</u>
+*** Suppression of adverse effects from misuse of anabolic agents / Increase in muscle mass.
+** <u>S5. Diuretics and masking agents (Details available on the AFLD website)</u>
+*** Weight loss aid / Masking other doping products
+* '''Substances prohibited in competition'''
+** <u>S6. Stimulants (Amphetamines, cocaine, cathinones, methylphenidate, modafinil, etc.)</u>
+*** Reduced fatigue / Improved reaction time / Increased attention and concentration.
+** <u>S7. Narcotics (Analgesics derived from opiates: morphine, buprenorphine, methadone, etc.)</u>
+*** Pain reduction / Sedative effect / Euphoriant.
+** <u>S8. Natural and synthetic cannabinoids (Natural or synthetic Cannabis / Synthetic cannabinoids except CBD)</u>
+*** Improved muscle relaxation / Decreased anxiety / Improved sleep.
+** <u>S9. Glucocorticoids (All glucocorticoids)</u>
+*** Psychostimulant / Increased endurance and pain tolerance
+* '''Substances prohibited in certain sports'''
+** <u>P1. Beta-blockers (In competition: motoring, billiards, darts, golf, skiing, underwater sports/ In and out of competition: shooting, archery)</u>
+*** Anxiety, reduced heart rate and reduced tremor.
+
+
+'''2. The main methods used for doping purposes'' (prohibited in and out of competition)
+
+* The "manipulation of blood or blood components".
+** Both methods are prohibited:
+*** Administration or reintroduction of any quantity of blood
+*** Artificial enhancement of oxygen consumption, transport or release.
+* Chemical and physical manipulations
+** Use of substances and procedures that alter doping control samples (catheterisation, substitution, alteration, infusions, injections).
+Genetic doping'' ** Use of nucleic acids for doping tests
+** Use of nucleic acids to modify genomic sequences
+** Use of normal or genetically modified cells
+
+<br />

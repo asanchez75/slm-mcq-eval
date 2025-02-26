@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-292-15-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Heading=Know the clinical prognostic features
+|Description=Describe the main clinical prognostic factors.
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=15}}
+In addition to stage or TNM classification, other prognostic factors may be taken into account in the therapeutic decision and may affect the proposed treatment. These include :
+
+- patient-specific clinical prognostic factors: performance status, undernutrition, comorbidities;
+
+- clinical prognostic factors specific to the clinical impact of the cancer: presence of bone metastases with or without neurological complications, metastases at risk of bleeding or organ dysfunction linked to tumour invasion.

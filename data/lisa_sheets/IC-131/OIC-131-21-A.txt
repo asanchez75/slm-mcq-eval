@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-131-21-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Savoir proposer une attitude thérapeutique au décours d'une chute (HAS) et les mesures de prévention de récidive.
+|Description=Treatment of the consequences and causes of a fall
+|Rubric=Management
+|Contributors=
+|Order=21}}
+A care plan must be drawn up
+
+
+The aim is to avoid or reduce the risk of falls recurring:
+
+- deal with emergencies.
+
+- correct the precipitating factor(s), whether intrinsic or extrinsic.
+
+- manage the ameliorative component linked to predisposing factors.
+
+- implement systematic measures :
+
+* review of all medication
+* wearing closed shoes with low, wide heels (2 to 3 cm), thin, firm soles and high uppers (to stimulate proprioception)
+* regular walking and/or other physical activity (at least 30 minutes a day)
+* correction of any vitamin D deficiency, and investigation and management of osteoporosis (see osteoporosis section)
+* prevention or investigation and management of any malnutrition or sensory deficiencies
+* Home assessment by the family for simple measures or by an occupational therapist,
+* motor physiotherapy if necessary, to be continued as self-education between sessions supervised by a professional
+* prescription of a walking aid if necessary

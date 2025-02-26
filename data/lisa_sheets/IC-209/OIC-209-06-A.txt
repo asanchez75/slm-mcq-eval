@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-209-06-A
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Knowing the paraclinical signs of severity
+|Description=Know how to request an arterial GDS and interpret it according to the reference GDS, looking for hypoxaemia (< 60 mmHg), marked hypercapnia and respiratory acidosis.
+|Rubric=Additional tests
+|Contributors=
+|Order=6}}
+'''Signs of COPD severity in a stable state:''' the assessment of COPD severity is primarily clinical (classification A, B, C, D based on the level of dyspnoea and the frequency and severity of exacerbations). It is supplemented by a functional classification based on the measurement of FEV1 (in % of predicted values).
+{| class="wikitable"
+|'''TVO'''
+|'''Severity'''
+|Definition
+|-
+| rowspan="4" |'''VEMS/CVF''''
+
+< 70%
+|GOLD 1 grade
+
+Mild bronchial obstruction
+|FEV1≥80
+|-
+|GOLD grade 2
+
+Moderate bronchial obstruction
+|FEV1 50-80
+|-
+|GOLD grade 3
+
+Severe bronchial obstruction
+|FEV1 30-49
+|-
+|GOLD grade 4
+
+Very severe bronchial obstruction
+|FEV1<30
+|}
+
+
+'''Paraclinical signs of severity of a COPD exacerbation:'''
+
+Signs of seriousness will be sought on blood gas analysis ([[Analysis of a blood gas result SD-192|analysis of a blood gas result]])
+
+* Respiratory acidosis (pH<7.35; PaCO2>45mmHg)
+* Severe hypoxaemia (Pa02<60 mmHg)

@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-013-04-B
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=B
+|Title=Knowing and identifying basic traumatic injuries in forensic medicine and knowing how to differentiate between them
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=4}}
+When drawing up an initial medical certificate, each lesion should be described according to an identical plan, taking care to mention: ''type of lesion, colour, size and shape, location (in relation to anatomical landmarks)''.
+
+
+'''<u>Elemental lesion types</u> :'''
+
+o '''Erythema:''''
+
+Redness, lasting only a few hours, due to vasodilatation of superficial vessels without subcutaneous haemorrhagic suffusion.
+
+Mechanism of injury: flat blunt (caused by crushing a blunt object against the skin), e.g. a slap.
+
+o '''Contusions:''''
+
+*Ecchymosis:
+
+Subcutaneous haemorrhagic suffusion, with no neoformed blood cavity. Palpation may reveal soft oedema, but no neoformed cavity.
+
+Mechanism of injury: blunt (the bruise may reproduce the shape of the blunt object), crushing, crushing.
+
+*''Haematoma'' :
+
+Subcutaneous haemorrhagic suffusion, with a neoformed blood cavity. The relief of the neoformed blood cavity is perceptible when the skin is palpated.
+
+Mechanism of injury: blunt, crushing, crushing.
+
+
+The colouration of contusions is linked to the cycle of haemoglobin degradation by macrophagic cells. There is no absolute rule for the development of this colouration. A bluish, reddish or purplish contusion is more likely to be recent, whereas a yellowish, greenish or brownish contusion is more likely to be old. A contusion should never be dated precisely on the basis of clinical description alone.
+
+
+o '''Abrasion / erosion / excoriation''' :
+
+Loss of the superficial part of the skin covering. The abrasion may become crusty within a few hours.
+
+Mechanism of injury in the case of fine, linear or arciform abrasion: rubbing or movement of a stinging/sharp/cutting object on the skin.
+
+Mechanism of injury in the case of more extensive abrasion: friction.
+
+
+o '''Wounds'''
+
+Break in the continuity of the skin covering ("opening" of the skin).
+
+A distinction is made between superficial wounds (reaching the hypodermis) and deep wounds. Care should be taken to examine the edges of these wounds.
+
+*Wounds with clean edges:
+
+Mechanism: prickly, sharp, cutting.
+
+*Wounds with contused edges:
+
+Mechanism: blunt, crushing, tearing.
+
+*Ballistic wounds:
+
+A distinction is usually made between an inlet port and an outlet port.  
+
+
+o '''Visceral lesions, fractures'' :
+
+These injuries can result from a variety of mechanisms, including blunt trauma (e.g. hepatic fracture) or stabbing (e.g. lung injury following thoracic stabbing). They are most frequently described on the basis of imaging examinations.
+
+
+o '''Scarring lesions'''
+
+Abrasions, excoriations and various wounds may develop into scarring lesions. These lesions are particularly important to describe in the context of chronic violence ([[Child, adolescent: identifying the basic traumatic lesions in maltreatment|maltreatment for example]]). Scar lesions may be pinkish (beginning of healing), then hyper- or hypo-pigmented, flat or keloid.

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-227-05-A
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=A
+|Title=Knowing the factors favouring CVI
+|Description=Knowing how to identify the factors favouring the onset of varicose veins and CVI
+|Rubric=Etiologies
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=5}}
+Chronic venous insufficiency and varicose veins have several factors in common:
+
+* Heredity (major factor),
+* Primary prevention through nutrition in adults and children - sedentary lifestyle,
+* age
+* female gender
+* multiple pregnancies,
+* [[Obesity in children and adults (see item 71)|overweight and obesity]] (''SDS-[[Prevention of overweight and obesity SD-319|prevention of overweight and obesity]]''),
+* exposure to heat
+* prolonged orthostatism,
+* chronic constipation.

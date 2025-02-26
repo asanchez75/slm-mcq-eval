@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-195-07-A
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=A
+|Title=Knowing the common biological signs of CAG
+|Description=Inflammatory syndrome
+|Section=Additional tests
+|Contributors=
+|Order=7}}
+- '''Inflammatory syndrome ([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]])''' (> 95% of cases):
+
+o Elevation of 2 inflammation proteins ([[Elevation of c-reactive protein (cr) SD-203|'''elevation of C-reactive protein (CRP)''']] and fibrinogen for example)
+
+o Increased sedimentation rate (ESR) and an inflammatory protein
+
+'''- [[Haemogram in adults and children: indications and interpretation|Haemogram]]''' : anaemia and/or thrombocytosis of inflammatory origin
+
+'''- Liver work-up''': anicteric cholestasis (elevated gamma-GT and alkaline phosphatase with normal bilirubin)

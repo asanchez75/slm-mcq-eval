@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-300-10-A
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=A
+|Title=Analytical epidemiology: citing risk factors for cancer of the corpus uteri
+|Description=Cite the main risk factors for endometrial cancer
+|Rubric=Etiologies
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=10}}
+
+The main cause of endometrial cancer is oestrogen exposure which is not, or is poorly, compensated for by a progestin sequence:
+
+- oestrogen treatment alone
+
+- tamoxifen treatment
+
+- ''[[Obesity and overweight SD-051|obesity]]'' android
+
+- '''[[Hypertension SD-042|hypertension]]''''
+
+- diabetes
+
+- precocious puberty
+
+- '''[[Follow-up consultation of a menopausal woman SD-278|menopause]]''' late menopause with prolonged perimenopausal period
+
+- polycystic ovaries
+
+- poverty
+
+
+Genetically, Lynch II syndromes have been described in which endometrial cancers are represented.
+
+The protective factors for endometrial cancer are: use of oestroprogestogenic "contraception", "contraception" using a 52 mg levonorgestrel intrauterine device, multiparity (≥4 pregnancies), and late puberty (≥15 years).

@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-106-05-B
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=B
+|Title=Knowing the manifestations of the motor complications phase
+|Description=Motor fluctuations and dyskinesias
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+
+
+Motor complications of dopaminergic treatment: appear on average 4 to 5 years after the onset of the disease.
+
+*The young age of onset of the disease, the duration of progression and the dose of L-dopa are risk factors for the early appearance of motor complications.
+*A distinction is made between fluctuations in treatment efficacy and dyskinesias ([[Abnormal movements SD-126|abnormal movements]]).
+
+=== <u>Fluctuations in treatment efficacy:</u> reappearance of parkinsonian signs at a distance from drug intake (blockages); ===
+
+*<u>Akinesia at the end of the dose</u>.
+
+Parkinsonian signs appear before the next dopaminergic treatment is taken.
+
+*<u>Akinesia at night and in the early morning</u>.
+
+In addition to sluggishness, the symptoms include calf and toe cramps and difficulty turning in bed.
+
+*<On/off phenomenon
+
+This is reflected in sometimes fairly abrupt changes from a non-parkinsonian state ("on") to a severe parkinsonian state ("off").
+
+=== <u>Involuntary movements: dyskinesias</u> ([[Abnormal movements SD-126|abnormal movements]]) ===
+
+* <u>Mid or peak dose dyskinesias</u>.
+
+Involuntary choreic movements of the limbs and trunk, occurring during the phase of maximum efficacy of dopaminergic treatment.
+
+*<u>Bi-phasic dyskinesias</u>.
+
+Involuntary, rather dystonic movements of the lower limbs (often painful) ([[Pain in a limb (upper or lower) SD-071|pain in a limb]]), occurring during the transition between the parkinsonian state and the non-parkinsonian state (beginning or end of dose).
+
+
+In the advanced stages, the patient oscillates between a severe parkinsonian state and phases of corrected parkinsonian symptomatology complicated by the presence of dyskinesias.

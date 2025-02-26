@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-228-14-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Knowing local care, exudate management, detersion
+|Description=Bulging and epithelialization by medical means (know the different types of dressings), skin grafts, analgesic treatment.
+|Rubric=Management
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=14}}
+
+
+== '''Local treatment''' ==
+The sole aim of local treatment is to encourage the detersion of necrotic tissue and subsequent healing. Local treatment does not dispense with etiological treatment.
+
+== Exudate management ==
+Exudate must be managed using dressings that are sufficiently absorbent. Inadequate exudate management leads to peri-ulcer maceration dermatitis, a factor in ulcer extension.
+
+== '''Detersion''' ==
+Cleaning is done with water or physiological saline, avoiding antiseptics and local antibiotics. Detersion is mechanical, using a curette, brush, etc. It is necessary but must not cause pain. It will be carried out with an appropriate analgesic treatment and/or after local anaesthesia ('''''[[Prevention of pain associated with treatment SD-258|prevention of pain associated with treatment]]'''''). The extent of lesions or pain may justify detersion in the operating theatre.

@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-313-01-A
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=A
+|Title=Know the three main histological types of testicular tumours, including germ cell tumours of the testis.
+|Description=Position germ cell tumours within the classification of testicular tumours and understand the difference between seminomatous and non-seminomatous germ cell tumours and their different components.
+|Rubric=Definition
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=1}}
+
+
+
+
+==A/ Main histological classes of testicular tumours (according to WHO classification 2016)==
+
+*Seminomatous and non-seminomatous germ cell tumours (germ cells in the epithelium of the seminiferous tubules). Mosaic or mixed tumours (several of the above contingents). 98% of testicular tumours
+*Germ cell tumours not derived from germ cell neoplasia "in situ".
+**prepubertal teratoma
+**Squamous cell cyst (benign)
+*Sex cord tumours
+**Leydig cell tumours (10% malignant)
+**Sertoli cell tumours
+*Tumours with a stromal and germinal contingent
+**Gonadoblastoma
+*haematolymphoid tumours
+**B-cell lymphoma, acute leukaemia
+*Tumours of the rete testis
+*Other: haemangiomas, metastases, etc.
+
+==B/ Two types of germ cell tumour (GCT)==
+
+*Non-seminomatous (NSMT) 40% (embryonal carcinoma, choriocarcinoma, yolk sac tumour, post-pubertal teratoma)
+*Seminomatous (TGS) 60% (AFU 2022-2024 Cancer Committee recommendations)
+
+==C/ Note: a TGS is always "pure"; a mixed tumour with a seminomatous contingent is classified as a TGNS==.

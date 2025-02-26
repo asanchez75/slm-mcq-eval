@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-177-27-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescribing and monitoring anti-infectives in adults and children (see item 330)
+|Rank=B
+|Intitle=Cite the main antiparasitic molecules and their indications
+|Description=None
+|Rubric=Management
+|Contributors=Jean-Philippe Lavigne
+|Order=27}}
+
+{| class="wikitable"
+|
+|'''Molecules'''
+|'''Indications'''
+|-
+|'''Anti-protozoal''''
+|<nowiki>-Quinine, chloroquine, mefloquine</nowiki>
+
+-atovaquone-proguanil
+
+-artemisinin derivatives
+
+-doxycycline
+|Malaria
+|-
+|
+|<Antibiotics: macrolides, sulphonamides, clindamycin</nowiki>.
+
+-pyrimethamine
+|Toxoplamosis
+|-
+|
+|Metronidazole
+|Amoebiasis, Giardiasis, Trichomoniasis
+|-
+|''Anti-helminthes'''
+|Flubendazole
+|Oxyurosis, hookworm, ascariasis
+|-
+|
+|Albendazole
+|Oxyurosis, hookworm, ascariasis, anguillulosis, taeniosis, hydatidosis and ecchinococcosis, trichinosis, cysticercosis
+|-
+|
+|Praziquantel
+|Schistosomiasis, distomatosis, taeniosis, cysticercosis
+|-
+|
+|Ivermectin
+|Anguillosis, larva migrans, filariasis
+|-
+|
+|Diethylcarbamazine
+|Filariasis
+|}

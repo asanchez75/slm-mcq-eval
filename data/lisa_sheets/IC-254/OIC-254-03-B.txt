@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-254-03-B
+|Item_parent=Nutritional needs of pregnant women
+|Item_parent_short=Nutritional needs of pregnant women
+|Rank=B
+|Title=Knowing how to prevent spina bifida
+|Description=Vitamin B9
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+Folic acid (vitamin B9) supplementation is systematically recommended at a rate of 400 µg/d, 28 days before conception and up to 12 weeks gestation.

@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-152-04-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Know the main infectious agents causing IE (bacteria, yeasts)
+|Description=None
+|Rubric=Etiologies
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=4}}
+Bacteria are the main cause of IE (Table). Gram+ cocci in clusters (staphylococcus aureus and coagulase-negative staphylococci) and in chains (streptococci and enterococci) are the most frequently identified micro-organisms.  
+{| class="wikitable"
+|+Table: '''main infectious agents responsible for infective endocarditis'''
+|'''<big>Infectious agent</big>''''
+|'''<big>Distribution (%)</big>''''
+|-
+|'''''Staphylococcus aureus'''''
+|30
+|-
+|'''Oral Streptococci''''
+|20
+|-
+|'''''Streptococcus gallolyticus (group D)'''''
+|13
+|-
+|'''Enterococci''''
+|10
+|-
+|'''Staphylococci coagulase negative''' (proportion increasing with [[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care. Quality approach and evaluation of professional practices|care-related infections]])
+|10
+|-
+|'''Other'''
+
+- Bacteria of the HACEK group
+
+- Intracellular bacteria (''Coxiella burnetii'', Bartonella spp.,...)
+
+- Candida
+|8
+|-
+|'''[[Know the microbiological diagnosis when initial blood cultures are negative 2C-152-DP-B01|Endocarditis with negative blood cultures]]'''''
+|5-10
+|}

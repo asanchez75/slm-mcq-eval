@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-047-11-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Knowing the main risk situations for hearing problems in children depending on their age.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+Reference = guide pratique SFP/DGS <ref>[https://solidarites-sante.gouv.fr/IMG/pdf/Depistage_des_troubles_de_l_audition_chez_l_enfant.pdf Guide pratique de dépistage des troubles de l'audition chez l'enfant]</ref>
+
+Family risk factors
+
+* deafness: hearing aid before the age of 50
+
+Personal risk factors
+
+* In utero: exposure in utero to toxic substances and certain infectious agents (e.g. embryofoetopathies linked to rubella, CMV and syphilis).
+* Neonatal: prematurity, perinatal anoxia, low birth weight, neuromotor disorders, cerebral palsy, chromosomal abnormalities (trisomy 21, 22q11), cranial or facial malformations (craniostenosis), severe jaundice with blood transfusion, severe infection and/or ototoxic treatment.
+
+* Post-neonatal period: rock trauma, bacterial meningitis (pneumococcus ++), chronic otitis

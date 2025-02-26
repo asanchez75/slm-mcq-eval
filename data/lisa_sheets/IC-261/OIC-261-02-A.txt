@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-261-02-A
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=A
+|Title=Knowing the different types of glomerular syndromes
+|Description=Recurrent macroscopic haematuria syndrome, Chronic glomerulonephritis syndrome, Chronic glomerulonephritis syndrome, Nephrotic syndrome, Acute nephritic syndrome, Rapidly progressive glomerulonephritis syndrome
+|Rubric=Definition
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=2}}
+
+'''B. Know the different types of glomerular syndrome'''
+
+By combining these signs, five glomerular syndromes can be identified, as shown in table 1. The renal diseases most frequently expressed by these syndromes are also indicated.
+
+Table 1: The 5 glomerular syndromes
+{| class="wikitable"
+|Syndrome
+|Signs
+|Kidney damage
+|-
+|Recurrent macroscopic haematuria syndrome
+|- Recurrent macroscopic haematuria
+
+- Microscopic haematuria
+
+between episodes
+
+- ± Proteinuria
+
+- ± HYPERTENSION
+|- Primary IgA nephropathy (Berger's disease),
+
+- Alport syndrome
+|-
+|Chronic glomerulonephritis syndrome
+|- Glomerular proteinuria
+
+- Haematuria,
+
+- ± HTA
+
+- Renal insufficiency
+|- All chronic glomerulopathies
+|-
+|Nephrotic syndrome
+|- Proteinuria ≥ 3 g/24 h
+
+- Albumin levels < 30 g/L
+
+- Haematuria,
+
+- ± HTA
+
+- Renal failure
+|- Idiopathic nephrotic syndrome (LGM, primary HSF), GEM, lupus-induced GN, amyloidosis, diabetic nephropathy
+|-
+|Acute nephritic syndrome
+|- Sudden onset, within a few days
+
+- Edema, anasarca
+
+- TAH
+
+- Microscopic or macroscopic haematuria
+
+- Proteinuria
+
+- ARI (moderate)
+
+- Oliguria
+|- Acute post-infectious GN (> 12 days after a bacterial infection not or inadequately treated with antibiotics)
+|-
+|Rapidly progressive glomerulonephritis syndrome = ''Emergency''.
+|- Rapidly progressive renal failure
+
+- Proteinuria
+
+- Haematuria
+|- Microscopic polyangiitis
+
+- Granulomatosis with polyangiitis (ex-Wegener)
+
+- Goodpasture's disease
+
+- Or any other extra-capillary proliferative GN (including lupus)
+|}
+<br />

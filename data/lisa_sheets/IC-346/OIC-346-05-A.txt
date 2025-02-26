@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-346-05-A
+|Item_parent=Convulsions in infants and children
+|Item_parent_short=Convulsions in infants and children
+|Rank=A
+|Title=Know the principles of first-line therapeutic management of a convulsive seizure in infants and young children.
+|Description=Emergency treatment and administration of diazepam, aetiological management
+|Rubric=Management
+|Contributors=
+|Order=5}}
+o Ensuring a free airway
+
+o Put in PLS
+
+o Scoper
+
+o If seizures have not subsided after 5 minutes: intra-rectal diazepam 0.5 mg/kg (max 10 mg)
+
+o Positioning the approach
+
+o If persistent 5 minutes after the first dose, repeat a dose of IV benzodiazepine (clonazepam) or intra-rectal diazepam 0.5 mg/kg if no access is available
+
+o If persistent, see management of the malignant state (long-acting anticonvulsant phenytoin<ins> </ins>or phenobarbital)

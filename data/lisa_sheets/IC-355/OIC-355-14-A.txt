@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-355-14-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Know the principles of emergency therapeutic management of digestive haemorrhage and its complications, including in cirrhotic patients.
+|Description=Know how to initiate oxygen therapy (item 359), filling (item 332) and prepare for an emergency transfusion (item 329).
+|Heading=Management
+|Contributors=
+|Order=14}}
+1) Emergency measures :
+
+If urgent and/or serious (see above): hospitalisation and immediate prescriptions:
+
+*Diagnostics: Biological work-up with CBC, Rh group RAI, haemostasis (PT, aPTT), blood ionogram, creatinine, discuss blood gases depending on clinical condition.
+
+*Therapeutics:
+
+General measures: admit the patient to a specialised unit (intensive care unit or resuscitation unit). Perfusion with a good calibre venous line, oxygen therapy, continuous monitoring of blood pressure, heart rate, oxygen saturation, filling and transfusion according to haemodynamics and haemoglobinaemia.
+
+*If there is a suspicion of upper GI haemorrhage, because of the frequency of the main causes, portal hypertension and ulcer, intravenous treatments can be started before the GI endoscopy: proton pump inhibitor (PPI) electric syringe and/or vasoactive treatment (octreotide, somatostatin or terlipressin) as detailed below.
+
+*The recommended target haemoglobin level is debated in cases of upper GI haemorrhage. The recommendations are to achieve a haemoglobin level of 7 to 9 gr/dl, with a higher threshold in the case of cardiovascular co-morbidities above 9 gr/dl. In the case of ruptured oesophageal varices, the threshold is 7 to 8 gr/dl.
+
+
+2) Specific management of haemorrhage other than that associated with portal hypertension
+
+   - Oesogastroduodenal endoscopy allows haemostasis procedures to be performed.
+
+   - IVSE proton pump inhibitors: it is recommended that they be started before the endoscopic procedure.
+
+
+3) Specific management of haemorrhage associated with portal hypertension :
+
+- Endoscopic mechanical haemostasis: ligation of oesophageal varices and/or glue sclerosis of gastric varices
+
+- Reduction in splanchnic blood flow to reduce the porto-cava pressure gradient: vasoactive treatment (octreotide, somatostatin or terlipressin) intravenously.
+
+- Prevention of infections (swallowing pneumonia, ascites) by antibiotic prophylaxis for 5 to 7 days (3rd generation cephalosporin)
+
+
+ In the event of haemorrhage caused by uncontrollable rupture of oesophageal or gastric varices, nasal catheters or balloon tamponades (Blakemore or Linton catheters) can be inserted. These are life-saving procedures while awaiting other treatments. It is also possible to fit a liver prosthesis to relieve portal hypertension (shunt between the portal system and the vena cava = TIPS (Transjugular Intra Hepatic Portosystemic Shunt)).
+
+
+4) Prevention of recurrent haemorrhage
+
+Secondary prevention of ruptured oesophageal varices: There are two treatments to be combined
+
+- Eradication of oesophageal varices by iterative ligation until they disappear
+
+- Combined with non-cardio selective beta blockers
+
+- Discuss preventive TIPS (Child C or Child B patients with active bleeding on endoscopy during the haemorrhagic episode)
+
+Prevention of recurrence of ulcer haemorrhage:
+
+- Eradicate Helicobacter pylori (Hp) if the ulcer lesion is linked to Hp.
+
+- Stopping gastrotoxic drugs (NSAIDs) in Hp-negative ulcers

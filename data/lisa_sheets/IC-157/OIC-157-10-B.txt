@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-157-10-B
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=B
+|Title=Knowing the indications for additional tests during bacteremia/fungemia
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=10}}
+'''Depending on microbial identification:'''
+
+* Staphylococcus aureus: systematic echocardiography
+* Candida: systematic echocardiography and fundus examination
+* Enterobacteriaceae, enterococci: ECBU +/- abdominal imaging
+* Anaerobes: abdominal imaging
+* Bacteria associated with endocarditis (see item 152: S. aureus, oral streptococcus, Streptococcus gallolyticus): echocardiography
+* Streptococcus pneumoniae: chest X-ray +/- lumbar puncture (if meningeal syndrome or normal chest imaging)

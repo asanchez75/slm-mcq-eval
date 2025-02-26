@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-195-12-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Know the main complementary tests useful for diagnosis
+|Description=None
+|Rubric=Supplementary tests
+|Contributors=
+|Order=12}}
+Main complementary examinations useful in the diagnosis of PPR
+
+Blood count
+
+C-reactive protein (CRP), fibrinogen (or VS) '''([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]], [[Elevation of c-reactive protein (cr) SD-203|elevation of C-reactive protein]])'''''
+
+'''[[Serum protein electrophoresis analysis SD-193|Serum protein electrophoresis]]''''
+
+Creatine kinase
+
+Ultra-sensitive thyroid stimulating hormone (TSH)
+
+Rheumatoid factor
+
+Anti-cyclic citrullinated peptide (CCP) antibodies
+
+Joint X-rays (shoulders, pelvis)

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-208-08-A
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=A
+|Title=Knowing the consequences of CKD: acute respiratory failure, polycythemia, pulmonary hypertension, fluid and sodium retention.
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=8}}
+Related to hypoxaemia
+
+* Polycythemia (inconstant, other mechanisms including inflammation associated with chronic pathologies can counteract this phenomenon).
+* Group 3 pulmonary hypertension
+** Related to chronic hypoxic pulmonary vasoconstriction.
+** Can be looked for on cardiac ultrasound (assessment of systolic pulmonary artery pressure) and clinical examination (signs of right ventricular failure grouped under the term chronic pulmonary heart disease in this context).
+**
+** Related to hypercapnia
+*** Asthenia, somnolence, impairment of higher functions

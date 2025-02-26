@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-042-02-B
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=B
+|Title=Knowing the regulation of the hypothalamic-pituitary-ovarian axis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Sophie Catteau-Jonard
+|Order=2}}
+
+The ''hypothalamic-pituitary-ovarian axis'' comprises first of all the GnRH neurons of the hypothalamus, which secrete GnRH in a pulsatile fashion in the hypothalamic-pituitary portal system. The hormone binds to the gonadotropic cells of the anterior pituitary, which then secrete LH and FSH. The targets of the gonadotropins (LH and FSH) are the gonads (ovaries in women), which are responsible for gonadal steroidogenesis (production of the hormones oestrogen, progesterone and androgens) and gametogenesis (in this case, folliculogenesis).
+
+The hypothalamic-pituitary complex is negatively influenced by sex steroids (oestrogen and progesterone) and inhibins A and B. Neurons secreting kisspeptin peptides, located upstream of GnRH,e/neurokinin B (Kp/NkB) neurons, mediate negative and positive feedback and regulate hypothalamic GnRH neurons. This complex system of neuronal interaction is also involved in triggering puberty and certain pathologies of the menstrual cycle.
+
+In a normal menstrual cycle, everything starts with luteolysis (destruction of the corpus luteum) during the previous ovarian cycle: this causes progesterone to fall (and menstruation to begin) as well as a fall in oestradiol, which exerts a negative feedback effect on FSH, so its fall leads to an increase in FSH.
+
+This is known as the opening of the FSH window, when FSH rises, allowing around ten small antral follicles to be "recruited" and ready at that time (follicular cohort) to start growing. FSH stimulates the production of oestrogen (by aromatase), which then exerts a negative feedback effect on FSH. During the late follicular phase (D8 to D13), the FSH window closes, FSH levels fall and the follicles that still need a lot of FSH to develop go into atresia. In this way, only 1 follicle (or rarely 2) is "selected" and continues to grow: it is the most sensitive to FSH. This phenomenon results in a single "dominant" follicle and therefore a single pregnancy.
+
+The dominant follicle continues to grow, leading to high levels of oestradiol for at least 48 hours (200 pg/ml in peripheral blood). Estrogen feedback becomes positive at the hypothalamic-pituitary level. The frequency of GnRH pulses then accelerates, causing a peak in LH (combined with FSH) which triggers ovulation. The oocyte is retrieved through the pinna of the fallopian tube and can then be fertilised if intercourse has taken place. In the absence of pregnancy, the corpus luteum has a genetically programmed lifespan, limited to 12-14 days, after which it enters apoptosis (luteolysis) and a new menstrual cycle begins. The fall in progesterone induces menstruation.

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-360-08-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Knowing the elements for diagnosing the severity of a pneumothorax
+|Description=Refer to question on acute respiratory distress and acute respiratory failure. Item 355/356
+|Item=Identification of the emergency
+|Contributors=Julien Poissy
+|Order=8}}
+
+These elements are systematically sought on clinical examination.
+
+- Respiratory signs: signs of acute respiratory distress/desaturation.
+
+- Haemodynamic signs in the event of gas tamponade: right heart failure, shock, cardiac arrest.
+
+They do not necessarily correlate with the size of the pneumothorax. A partial pneumothorax may be poorly tolerated from a respiratory point of view in a patient already suffering from respiratory insufficiency.

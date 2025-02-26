@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-164-11-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Title=Infectious eruptive diseases: chickenpox
+|Description=epidemiology (A), clinical features (A), contraindication aspirin (A), complications (A), knowing the subjects at risk (A)
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=11}}
+
+'''Epidemiology'''
+
+           - Primary infection linked to the VZV virus (Varicella Zoster Virus), ''Herpesviridae'', subfamily ''alpha-herpesvirinae''.
+
+'' -'' Very frequent infection in children
+
+           - Human-to-human contagiousness: airborne (aerosol) or contact with vesicles
+
+           - primary infection with VZV results in chickenpox, reactivation results in shingles
+
+
+Clinical features
+
+           - Incubation 2 weeks
+
+           - Contagion 2 days before rash until lesions crust over (about 1 week)
+
+           - Most often a benign infection in children, but more severe in infants under 1 year of age and adolescents.
+
+           - Classic form: 2-stage evolution
+
+                      - pre-eruptive: fever
+
+                      - eruptive: vesicles appearing in successive outbreaks (lesions of different ages), all over the body, possibly reaching the mucous membranes (mouth), progressing to crusting, accompanied by pruritus which is sometimes very intense. A fever accompanies the eruption (fever as long as there are new vesicle outbreaks, if fever when there are no new lesions beware of bacterial superinfection).
+[[File:Varicella.jpg|neant|thumb]]
+
+           - Severe forms (subjects at risk)
+
+                      - neonatal: chickenpox in the mother with a rash from 5 days before to 2 days after delivery = children need to be treated with anti-VZV immunoglobulin and aciclovir, even if asymptomatic, because of the severity ++.
+
+                      - in immunocompromised patients: risk of severe pneumonia, fulminant hepatitis, multiple organ failure = systematic treatment
+
+                      - Pregnant women: foetopathy before 20 weeks' gestation, pneumonia in pregnant women
+
+                      - Adolescents and adults: profuse form, respiratory involvement
+
+
+'''Complications'''
+
+           - Viral (see subjects at risk above): pneumonia, hepatitis, encephalitis
+
+           - Bacterial superinfections :
+
+                      - cutaneous (Streptococcus A and Staphylococcus aureus): dermohypodermatitis, fasciitis, toxic shock. Promoting role of NSAIDs
+
+                      - respiratory: acute otitis media, pleuropneumonia
+
+           - Post-infectious: cerebellar ataxia (cerebellite), thrombocytopenic purpura
+
+           - Metabolic: Reye's syndrome in association with aspirin use
+
+
+Treatment and prevention
+
+Treatment is symptomatic, with severe forms or chickenpox occurring in subjects at risk warranting the prescription of IV aciclovir.
+
+Prevention is based on avoiding subjects at risk. In the event of exposure to a subject at risk, treatment with a specific immunoglobulin is indicated.
+
+Post-exposure vaccination is justified in cases where it is not contraindicated (live vaccine therefore contraindicated in pregnant women and immunocompromised patients), i.e. in adolescents over 11 years of age and non-immune adults within 72 hours of contact.
+
+
+See also [[Herpes virus infections in immunocompetent individuals]]
+
+SDD related to [[Vesicles, vesicular rash (mucocutaneous) SD-093]]

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-163-08-A
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=A
+|Title=Knowing the notification procedures
+|Description=Prevention
+|Section=Management
+|Contributors=André Birgy
+|Order=8}}
+
+* Notification of cluster cases (≥ 2) occurring in communities (schools, boarding schools, crèches, etc.) to the ARS
+
+* ''Notification of nosocomial cases'' in maternity wards, hospitals and nursing homes: declaration to the ARS and to the CLIN (nosocomial infection control committee) of the establishment.

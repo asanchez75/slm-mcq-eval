@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-356-13-B
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=B
+|Title=Knowing the particularities of the clinical presentation of appendicitis in elderly patients
+|Description=The symptoms of acute appendicitis are less obvious, delaying diagnosis. The course is more torpid. Ileus is often present.
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=13}}
+
+Clinical variability in the elderly :
+
+- Symptoms of acute appendicitis are less obvious, delaying diagnosis
+
+- The evolution is more torpid
+
+- Ileus is often present
+
+- Differential diagnosis of cancer
+
+- No more complicated or delayed forms
+
+- In polypathological patients, the prognosis is worse.

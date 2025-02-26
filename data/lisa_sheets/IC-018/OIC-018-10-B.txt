@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-018-10-B
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=B
+|Title=Knowing how to integrate decision support tools in medicine into one's practice by being able to critically evaluate their contribution, risks and constraints (for example, medical service rendered (SMR), improvement in medical service rendered (ASMR)).
+|Description=None
+|Section=Management
+|Contributors=CIMES
+|Order=10}}
+Reminder:
+
+For a medicine, the criteria on which the assessment of the medical service rendered is based are defined by law:
+
+* the efficacy and adverse effects of the drug,
+* its place in the therapeutic strategy, particularly in relation to other available therapies,
+* the seriousness of the condition for which it is intended,
+* the preventive, curative or symptomatic nature of the medicinal treatment
+* its benefit to public health.
+
+In practice, however, the SMR is now mainly based on the "quantity of effect" (in terms of efficacy and safety), which is judged from the outset in comparison with existing alternatives. This assessment of efficacy and safety involves :
+
+* the quality of the demonstration and of the scientific evidence provided: relevance of the endpoint (final mortality-morbidity endpoint or intermediate endpoint), of the comparator
+* the clinical relevance of the demonstrated effect, i.e. the real improvement it represents for the patient (a statistically significant difference may not be clinically significant),
+* the transferability of the results observed in clinical trials to real-life situations.
+
+When it comes to digital health, business software (used by doctors, nurses, physiotherapists, etc.) includes various components, some of which provide decision support functions.
+
+
+Prescription assistance software (PAS) is software with at least one function for preparing and editing medical prescriptions. There are two types of PAD:
+
+* the hospital LAP, used in health establishments, which limits the choice of medicines to defined lists (therapeutic booklet)
+* the outpatient LAP
+
+
+Dispensing assistance software (DAS) is software with at least one function for recording the dispensing of medicines (analysis of prescriptions, advice and dispensing of medicines). There are two types of DAS:
+
+* the dispensary LAD
+* the in-house pharmacy LAD (PUI)
+
+
+This software uses a drug database (BdM). This is an electronic database containing information on medicines, in particular that produced by the official authorities or reference institutions (Thériaque, Banque Claude Bernard, Vidal, for example).
+
+
+The HAS is responsible for establishing software certification procedures. In particular, it draws up guidelines setting out all the requirements to be met. The certification of LAPs and LADs essentially deals with the prescribing and dispensing of medicines. The main aims of certification are to :
+
+* Participate in improving practices;
+* ensure that software complies with minimum security requirements
+* and make the user's work easier.
+
+
+The safety functions of a LAP or LAD are only truly effective if the information on medicines is of a high quality, so :
+
+* In order to apply for certification, a software publisher must use a BdM approved by the HAS for the scope of its software (LAP or LAD, town or hospital);
+* software wishing to apply for certification with another BdM must undergo a new audit to ensure that these security functions remain assured, whatever the environment;
+* loss of the BoM's approval will result in the withdrawal of the certificate for the LAPs and LADs based on it.
+
+
+A decree published in August 2019 defined the new certification procedure. The new standards describe all the functions that LAPs must meet in order to satisfy minimum requirements in terms of the safety, quality and efficiency of drug prescriptions. It includes 130 criteria, 109 of which directly target functions useful to GPs in the course of their practice, while the remaining 21 concern LAP publishers. The certification procedure in France is complementary to the CE marking. In the case of software that has been awarded the CE mark, only those criteria that do not fall within the scope of the CE mark will be checked for compliance when applying for HAS certification: those validated when the CE mark was awarded will thus be deemed to have been met. The functional criteria of the standard, which are specific to the French healthcare system, are as follows:
+
+* Informing the prescriber that the medicinal product belongs to the repertoire of generic groups or the reference list of biosimilar groups, and proposing the conversion of the prescription lines concerned.
+* Particular attention should be paid to restricted prescription medicines.
+* The addition of an obligation to specify the reasons for non-substitution
+* The inclusion of different reimbursement rates
+* The inclusion of bizone prescriptions for drugs reimbursed at 100% for long-term conditions (ALD) and other drugs reimbursed at a lower rate.
+
+Certification is implemented and issued by certification bodies accredited by the French Accreditation Committee (Cofrac).
+
+
+LAPs are also considered to be medical devices (European Court of Justice ruling of 07/12/2017). Also, software that collects data specific to a patient must allow this data to be used (cross-referenced and analysed jointly with other data) for a specific medical purpose such as treating, diagnosing or assisting in diagnosis in order to qualify as a DM. To qualify as a medical device, software must be assessed on a case-by-case basis.
+
+
+Software for medical purposes may be medical devices (MD) or in vitro diagnostic medical devices (IVDMD). As such, it must be CE marked like all medical devices and IVDDs. The CE mark attests to their compliance with regulations. They then fall within the scope of ANSM surveillance. To qualify as a medical device or IVD, the software must meet all of the following criteria:
+
+* be intended for use for medical purposes within the meaning of the definition of a medical device or IVD medical device. For example, it must enable diagnosis, aid diagnosis, treatment or aid treatment.
+* provide a specific result for the benefit of a single patient
+* perform an action on the incoming data, such as an analysis to provide new medical information. For example, an application for analysing physiological signal data specific to a patient and equipped with alert functions for medical purposes would qualify as a DM. This action must be different from storage, communication or simple research, such as a database or digital library integrating data for the sole purpose of archiving it without using it.

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-089-07-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Knowing the characteristics of conductive hearing loss (CHD)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Damien Bonnard, Pr Virginie Escabasse, Pr Valérie Franco Vidal
+|Order=7}}
+'''Characteristics of conductive hearing loss:'''
+
+*mechanical sound transmission defect in the outer or middle ear
+*moderate hearing loss (max 60 dB) but never total, without distortion, often predominantly in the bass range
+*Weber lateralized on the deaf side, Rinne negative (CO>CA)
+*tonal audiogram: normal CO and low CA
+*tympanogram (retro-tympanic effusion, tubal dysfunction, ossicular dislocation) and stapedial reflex investigation (otosclerosis), and otoscopy (acute otitis media, seromucosal otitis, cholesteatoma, etc.).
+*surgical treatment often possible, effective hearing aid
+
+<br />

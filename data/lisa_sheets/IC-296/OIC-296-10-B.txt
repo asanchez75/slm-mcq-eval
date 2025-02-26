@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-296-10-B
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=B
+|Title=Knowing the prognosis of agranulocytosis in the setting of accidental medullary aplasia
+|Description=
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=10}}
+'''- immediate and definitive discontinuation of the drug in question'''
+
+'''- in the absence of spontaneous haematopoietic restoration, treatment is that of severe medullary aplasia'''

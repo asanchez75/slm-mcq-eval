@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-069-03-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the risk factors predisposing to psychological disorders in pregnancy and the post-partum period
+|Description=Risk factors linked to psychiatric vulnerability, gynaecological or obstetric factors, environmental factors, etc.
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=3}}
+
+* Psychiatric vulnerability: psychiatric or family history of [[Sexual violence SD-350|personal]], substance use disorder.
+* Gynaecological or obstetric factors: age <20 and >35, primiparity, unwanted pregnancy, foetal malformation or pathology, gestational diabetes, pregnancy-induced hypertension, complicated delivery, prematurity, hypotrophy.
+* Environmental factors: isolation, relationship difficulties, economic insecurity, low level of education, history of [[Psychological and/or physical violence SD-351|trauma]], migration.

@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-156-12-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Know the principles of treatment of septic arthritis including first-line antibiotic therapy
+|Description=None
+|Rubric=Management
+|Contributors=Dr Florent Valour
+|Order=12}}
+- '''Joint puncture:''' at the time of diagnosis, is an integral part of the treatment (evacuation puncture), and may be repeated in the event of secondary reconstitution of the effusion.
+
+- '''Surgery:''' arthroscopy for joint lavage (+/- synovectomy) not systematic:
+
+           . sepsis / septic shock to rapidly control the source of infection
+
+           . major effusion in large joints (particularly the hip)
+
+           . unfavourable evolution after 5-7 days of appropriate antibiotic therapy, despite repeated punctures whenever possible
+
+In children, septic arthritis is punctured, washed and surgically drained in the operating theatre under general anaesthetic.
+
+[Prescribe an anti-infective SD-255|- '''Prescrire un anti-infectieux'''']]
+
+           . probabilistic antibiotic therapy started as a matter of urgency after blood cultures and joint puncture, targeting the germs most frequently implicated
+
+In adults: ''S. aureus'' sensitive to methicillin: C1G (cefazolin) or penicillin M (oxacillin, cloxacillin) IV (+ gentamicin in case of sepsis / septic shock)
+
+In children: meticillin-sensitive S. aureus and K. kingae: C1G (cefazolin) or amoxicillin-clavulanic acid (+ gentamicin in case of sepsis/septic shock).
+
+           . targeted antibiotic therapy: adaptation of treatment as soon as bacteriological results are received
+
+In adults, in the case of ''S. aureus''<nowiki> sensitive to methicillin: [C1G (cefazolin) or penicillin M (oxacillin, cloxacillin)] IV + [clindamycin, fluoroquinolone or rifampicin] per os for at least 2 weeks, then followed by dual therapy per os (clindamycin, fluoroquinolones, rifampicin, fusidic acid)</nowiki>
+
+In adults, in the case of streptococcus: amoxicillin IV for 2 weeks, followed by amoxicillin by mouth.
+
+In children: can be taken orally after 3 to 5 days if progress is favourable (disappearance of fever and pain). In the absence of documentation, an oral course of amoxicillin-clavulanic acid may be taken (effective against S. aureus and K. kingae).
+
+Total duration of antibiotic treatment: 4 to 6 weeks in adults, 2 weeks in children.

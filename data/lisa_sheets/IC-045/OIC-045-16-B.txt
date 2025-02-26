@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-045-16-B
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=B
+|Title=Knowing the main principles of the management of cystic fibrosis.
+|Description=Nutrition. Infection prevention. Supplementation
+|Rubric=Management
+|Contributors=Claude Férec,Elise Launay,Caroline Schluth-Bolard
+|Order=16}}
+
+Clinical care is provided by the Cystic Fibrosis Resource and Competence Centres (CRCM).
+
+The main principles of clinical management are based on :
+
+- Combating salt loss by regular supplementation;
+
+- Management of gastrointestinal disorders: a high-calorie, low-fat diet with digestive enzymes and fat-soluble vitamins;
+
+- Management of pulmonary pathology: high-dose antibiotics to reduce chronic respiratory infection, mucolytic treatments and respiratory physiotherapy.
+
+- In severe cases, a lung and/or liver transplant may be performed.
+
+- Male infertility is treated by medically assisted procreation (in vitro fertilisation).
+
+
+New therapies known as "specific mutations" have recently been developed. These are small molecules, called modulators, which aim to correct the defective CFTR protein.

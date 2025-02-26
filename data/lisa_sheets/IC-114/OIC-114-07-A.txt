@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-114-07-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Know how to diagnose staphylococcal epidermolysis.
+|Description=Terrain (newborn and cord infection), young child and impetigo, fever and AEG, periorificial lesions, bullous detachments, etc.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+                        Linked to "Staphylococcus aureus", producer of exfoliating toxins (leading to lysis of desmosomes).
+
+                      This entity mainly affects (very) young children and immunocompromised adults. It is
+
+                      clinically characterised by a patchy exanthema that is often quite diffuse, starting and predominating
+
+                      in the large folds and periorificial areas, particularly the umbilicus, associated with the infected site
+
+                      The original S aureus infection may not be clinically evident. The erythema rapidly evolves into
+
+                      bullous detachments in very superficial flaps without mucosal involvement.
+
+                      The diagnosis is confirmed by bacteriological samples taken from the initial infection site.
+
+cf [[Febrile exanthemata in children: diagnostic guidelines 2C-164-DP-A02]]

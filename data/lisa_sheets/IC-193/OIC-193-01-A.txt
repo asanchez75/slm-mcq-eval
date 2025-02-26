@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-193-01-A
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=A
+|Intitle=Know the definition of systemic vasculitis
+|Description=None
+|Rubric=Definition
+|Contributors=Luc Mouthon
+|Order=1}}
+
+'''Systemic vasculitis''': conditions characterised by '''inflammatory damage to arterial, capillary and/or venous blood vessels'' leading to damage to the vascular wall.
+
+Classified according to the calibre of the vessels affected:
+
+* Large-calibre vessels (aorta and its dividing branches),
+* Medium-calibre vessels (main visceral arteries and their dividing branches),
+* small-calibre vessels (arterioles, capillaries and venules).

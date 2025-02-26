@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-221-08-B
+|Item_parent=Atheroma: epidemiology and pathophysiology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=B
+|Title=Knowing the imaging exploration strategy for atheromatous disease
+|Description=Screening and positive diagnosis: arterial Doppler ultrasound of the lower limbs with measurement of the SPI.
+|Rubric=Additional examinations
+|Contributors=
+|Order=8}}
+
+
+== <u>Choice of examination modality</u> ==
+- as a first-line option: ultrasound exploration (ultrasound-Doppler) because it is non-invasive, non-irradiating, with no allergic risk,
+
+- as a second-line treatment: magnetic resonance imaging (MRI) or angiocomputed tomography (CT) with injection of a contrast agent (gadolinium for MRI, iodine for CT). The choice between these 2 imaging techniques depends on the vascular territory being explored and the technical resources available. MRI tends to increase the degree of stenosis and does not show calcifications.
+
+== <u>Choosing which vascular territory to explore</u> ==
+The typical example of the polyatheromatous patient is the patient with obliterative arteriopathy of the lower limbs, in whom the choice of vascular territories to be explored will be made in order of the frequency of arterial damage in these patients.
+
+- Coronary arteries, even in asymptomatic patients. The cardiologist will decide which diagnostic strategy to adopt,
+
+- the arteries destined for the brain (TSA), even in asymptomatic patients, by Doppler ultrasound of the TSA,
+
+- renal arteries, in the case of hypertension resistant to a triple combination of drugs at optimal doses, including a thiazide, by ultrasound-Doppler of the renal arteries,
+
+- the digestive arteries, in the case of mesenteric angina, by a Doppler ultrasound of the digestive arteries.

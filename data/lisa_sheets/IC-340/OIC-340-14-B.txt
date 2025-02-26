@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-340-14-B
+|Item_parent=Strokes
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Modensitometry of acute deep haemorrhagic stroke
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=14}}
+
+[[File:Figure 2 Deep haemorrhagic stroke.jpg|vignette|Example of deep haemorrhagic stroke: spontaneous left capsulothalamic hyperdensity]]
+'''Figure 2:''' Example of deep haemorrhagic stroke: spontaneous left capsulothalamic hyperdensity

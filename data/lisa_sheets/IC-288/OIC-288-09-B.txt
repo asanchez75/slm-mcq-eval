@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-288-09-B
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=B
+|Title=Awareness of other possible manifestations of internal haemorrhoids
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+
+Iron deficiency anaemia due to chronic bleeding is very rare. Another cause must first be ruled out before attributing it to haemorrhoids. Cf [[2C-355|i''tem digestive haemorrhage 355''']]

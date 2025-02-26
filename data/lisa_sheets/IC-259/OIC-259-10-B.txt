@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-259-10-B
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=B
+|Title=Know the aetiological investigation of proteinuria and nephrotic syndrome and the indications for renal biopsy in adults and children.
+|Description=None
+|Rubric=Additional tests
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=10}}
+
+The general treatment of proteinuria is summarized in the [[:File:Diagnostic tree for proteinuria.jpg|Figure]]
+[[File:Arbre diagnostique devant une protéinurie.jpg|vignette|Arbre diagnostique devant une protéinurie]]
+
+== Transient proteinuria
+These are intermittent proteinurias associated with certain physiological or pathological circumstances:
+
+* orthostatic proteinuria (see below)
+* exercise-induced proteinuria, observed after prolonged intense physical exercise
+* high fever
+* urinary tract infections
+* congestive heart failure
+
+Orthostatic proteinuria is observed during puberty (12-16 years) and disappears spontaneously before the age of 20. It is characterised by the "disappearance of clinostatic proteinuria" (urine collected after 2 hours' rest in a supine position). Orthostatic proteinuria is not pathological and requires no further investigation once confirmed.
+
+== Permanent proteinuria ==
+Diagnostic orientations depend on the rate of proteinuria, its composition and associated abnormalities (hypertension, haematuria, renal failure, any ultrasound abnormalities).
+
+Nephrological advice should be sought in the presence of permanent proteinuria > 0.5 g/d and in the presence of associated abnormalities.
+
+The main situations leading to an ''indication for renal biopsy'' are presented in the [[:Fichier:Arbre diagnostique devant une protéinurie.jpg|Figure]]. In practice, renal biopsy is always essential in cases of nephrotic syndrome, except in the following cases:
+
+* in children aged between 1 and 10 years if the nephrotic syndrome is pure and there are no extrarenal signs: on the basis of frequency, this is a nephrotic syndrome with minimal glomerular lesions (lipoid nephrosis)
+* in long-standing diabetic patients with diabetic retinopathy and nephrotic syndrome without haematuria: based on frequency, this is nephrotic syndrome due to diabetic glomerulopathy
+* in adults suspected of having amyloidosis if a biopsy of the accessory salivary glands establishes this diagnosis: amyloidosis is a systemic, diffuse disease, and the nephrotic syndrome is due to deposits similar to those seen in the salivary glands
+* in cases of hereditary glomerulopathy already identified in the family, if no specific treatment can be proposed
+* if the biopsy is dangerous (single kidney, haemostasis disorder, etc.).

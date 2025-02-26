@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-267-13-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the ECG abnormalities associated with hyperkalaemia
+|Description=None
+|Section=Additional tests
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=13}}
+
+
+*Cardiac symptoms are manifested by progressive electrocardiographic changes which are, successively and in order of severity:
+**Accelerated repolarisation with an increase in the amplitude of the T waves, which are sharp and symmetrical and may exceed the peak of the R wave, clearly seen in the anterior (V2 to V4) and posterior (DII and DIII) leads.
+**Atrial conduction abnormalities (decrease then disappearance of the P wave), auriculo-ventricular conduction abnormalities (sino-auricular and auriculo-ventricular blocks).
+**Then intraventricular conduction abnormalities with widening of the QRS complexes.
+**Then bradycardia with wide QRS (known as the "sine wave pattern") preceding asystole.
+*Ventricular arrhythmias (idiopathic ventricular rhythm, ventricular tachycardia, ventricular fibrillation) may occur if hyperkalaemia is associated with myocardial ischaemia, severe hypocalcaemia, hypothermia, severe acidosis, digitalis intoxication or severe vagal stimulation.

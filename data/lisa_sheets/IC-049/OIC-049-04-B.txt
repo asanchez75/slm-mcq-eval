@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-049-04-B
+|Item_parent=Normal and pathological puberty
+|Item_parent_short=Normal and pathological puberty
+|Rank=B
+|Title=Knowing the different Tanner stages
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+'''Tanner stages'''
+
+It is rated from 1 (no sign) to 5 (adult appearance).
+{| class="wikitable"
+| colspan="2" |Girl breast development (S)
+|-
+|S1
+|No breast development
+|-
+|S2
+|Small breast bud with enlarged areola
+|-
+|S3
+|mammary gland extending beyond the surface of the areola
+|-
+|S4
+|Protrusion of areola and nipple over gland, submammary fold
+|-
+|S5
+|Mature appearance
+|-
+| colspan="2" |
+|-
+| colspan="2" |Development of boys' OGE (G)
+|-
+|G1
+|Testicles and penis of infantile size (testicular volume < 4 ml or testicular length < 25 mm)
+|-
+|G2
+|Testicular volume between 4 and 6 mL (or testicular length between 25 and 30 mm)
+|-
+|G3
+|Testicular volume between 8 and 10 mL and growth of the penis
+|-
+|G4
+|Testicular volume between 12 and 15 mL and growth of the penis
+|-
+|G5
+|Adult appearance
+|-
+|colspan="2" |Pubic hairiness (P)
+|-
+|P1
+|No hair
+|-
+|P2
+|Some pubic hair
+|-
+|P3
+|Pubic hair above the symphysis
+|-
+|P4
+|Triangular pubic hair not reaching root of thighs.
+|-
+|P5
+|Adult appearance (triangular in women, diamond-shaped in men, extending to the roots of the thighs).
+|}
+
+
+OGE: external genitalia
+
+Drawings Tanner Girls and Boys

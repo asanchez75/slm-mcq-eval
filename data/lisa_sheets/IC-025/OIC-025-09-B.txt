@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-025-09-B
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=B
+|Title=Know the principle of surgical treatment in the case of a positive diagnosis of EP
+|Description=None
+|Rubric=Management
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=9}}
+
+Surgical treatment indicated if :
+
+* Unstable hemodynamics
+* Significant abdominal pain
+* Plasma beta-hCG > 10,000 IU/l
+* Haematosalpinx > 4 cm on ultrasound scan
+* Hepatic or renal insufficiency (contraindication to methotrexate treatment)
+* Impossibility of outpatient follow-up
+
+
+Pre-operative conditioning : Peripheral venous lines, analgesia, vascular filling (in case of haemoperitoneum) +/- transfusion of packed red blood cells '''([[Prescribe analgesics SD-250|prescribe analgesics]], [[Assessment and management of acute pain SD-259|assessment and management of acute pain]], [[Prescribe and carry out a blood transfusion SD-272|prescribe and carry out a blood transfusion]], [[Pre-anaesthetic consultation SD-300|pre-anaesthetic consultation]], [[Explain a treatment to the patient (adult/child/adolescent) SD-352|explain a treatment to the patient]])''''
+
+
+Principles of surgical treatment :
+
+- Laparoscopy under general anaesthetic is the surgical approach of choice
+
+- Laparotomy from the outset in cases of haemodynamic instability
+
+- 1<sup>er</sup> objective: exploration
+
+o Diagnostic confirmation, specifying the location
+
+o Search for contributing factors: adhesions / IGH sequelae
+
+o Assess contralateral tubal status.
+
+- 2<sup>th</sup> objective: treatment
+
+o Conservative treatment: salpingotomy
+
+§ Aspiration of tubal contents after incision of the tube
+
+§ Post-operative monitoring BHCG decrease to negativity
+
+o Non-conservative treatment: salpingectomy
+
+§ In the event of heavy bleeding or excessive tubal damage
+
+§ Coagulation - progressive sectioning of the mesosalpinx
+
+§ No indication for monitoring beta-HCG decay
+
+Systematic anatomopathological analysis of the suction product from the tube or salpingectomy specimen

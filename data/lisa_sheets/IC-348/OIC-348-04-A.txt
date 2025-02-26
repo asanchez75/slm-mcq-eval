@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-348-04-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing the procedures for prescribing and interpreting the results of complementary examinations useful in the diagnosis of ARF.
+|Description=Know how to order a renal and pelvic ultrasound scan to look for an obstacle in the excretory tract, order a blood and urine ionogram to differentiate between functional AKI and AKI caused by acute tubular necrosis, know how to interpret proteinuria and urine sediment in the context of AKI.
+|Rubric=Additional tests
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=4}}
+
+Complementary tests play an important role in the diagnostic strategy for ARF, but most of the information is provided by the interview and the history.
+
+==Additional tests useful for the diagnosis of ARF:==
+
+*Increased creatinine SD-199|plasma creatinine]'': rising rapidly in AKI.
+*Urinary tract imaging SD-231|imaging]''', preferably by ''[[Urinary tract imaging SD-231|ultrasound]]'', to ensure the presence of 2 kidneys in a normal anatomical situation, to assess their size and the thickness of the renal parenchyma (these two parameters are usually reduced in CKD) and to rule out an obstruction.
+*Urine ionogram and plasma urea to differentiate functional AKI from organic AKI due to acute tubular necrosis (table 1).
+*Urine dipstick analysis SD-182|urine dipstick analysis]]'' to look for albuminuria and/or "blood" in the urine, to be supplemented by a urinary sediment analysis SD-196|urinary sediment analysis]] and [[Analysis of a cytobacteriological examination of the urine (ecbu) SD-189|ECBU]]''' and a coupled determination of '''[[Increased creatinine SD-199|creatinine]] and [[Proteinuria SD-212|urinary protein]]''' on a sample (table 4).
+*Renal biopsy in certain specific situations.
+
+'''Table 1: Main plasma and urine indices used to distinguish between F ARF and organic ARF (NTA)''''
+{| class="wikitable"
+|'''Index'''
+!'''IRA F'''
+!'''NTA'''
+|-
+|Urea/Creatinine P (in µmol/L)
+!> 100
+!< 50
+|-
+|Na<sup>+</sup> U
+!< 20 mmol//L (without diuretics)
+!> 40 mmol/L
+|-
+|Na<sup>+</sup>/K<sup>+</sup> urine
+!< 1
+!> 1
+|-
+|U/P urea
+!> 10
+!< 10
+|-
+|U/P creatinine
+!> 30
+!< 30
+|}
+Calculation of the fraction of sodium excreted (''FE Na<sup>+</sup>'' = ClNa/Clcr = (UNa/PNa)/(Ucr/Pcr) x 100 ; < 1% in ARFs) or urea ('''FE Urea''' = ClUrea/Clcr = (UUrea/PUrea)/(Ucr/Pcr) x 100 ; < 35% in ARFU) is sometimes useful in distinguishing ARFU of functional origin from certain parenchymal ARFU, notably NTA.
+
+Particularities of some ARFU: persistence of natriuresis when taking diuretics, hypoaldosteronism, hypercalcaemia or osmotic diuresis... In these cases, a urea EF < 35% is a better indicator of functional ARF.
+
+==Differential diagnosis: ARF or CKD===
+In the presence of '''[[Increased creatinine SD-199|elevation of plasma creatinine]],''' three elements point to the acute nature of renal failure:
+
+*Anamnestic: history of renal disease, clinical context and previous creatinine levels;
+*Morphological: kidneys of normal size on ultrasound. However, kidneys of normal size (or even increased size) are observed in certain CKD, amyloidosis, polycystic kidney disease and diabetes;
+*Biological: hypocalcaemia or anaemia, generally associated with advanced chronic renal failure, are frequently observed in acute inflammatory situations (sepsis, acute inflammatory disease).
+
+Finally, AKI can complicate an underlying CKD.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-354-01-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Know the definition of occlusal syndrome, differentiate between high and low occlusion
+|Description=Stop of gas; Know that the stop of matter can be absent
+|Rubric=Definition
+|Contributors=Laure BEYER-BERJOT
+|Order=1}}
+
+Occlusive syndrome is defined as the cessation of transit, which may be functional or organic/mechanical in origin, and which, in the latter case, results in a physical obstacle that may be intra-luminal, parietal or extra-luminal. The term "high occlusion" is used if the digestive segment affected by the occlusion is the small intestine, and "low occlusion" if the segment affected is the colorect. Ileus corresponds to a functional occlusion of the small intestine and Ogilvie syndrome to a functional occlusion of the colon.

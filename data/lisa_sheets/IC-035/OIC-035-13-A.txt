@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-035-13-A
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=A
+|Title=Recognising emergency situations in the event of uterine bleeding
+|Description=Knowing how to assess blood loss
+|Rubric=Identifying the emergency
+|Contributors=Antoine Netter
+|Order=13}}
+
+Bleeding is quantified by :
+
+*questioning: number of pads, clots, clothing stained by bleeding, etc. ;
+*Higham score for menorrhagia;
+*speculum examination: visualisation of active bleeding;
+*assessment of blood spoliation: HemoCue®, CBC (haemoglobin level). '''([[Anomaly of erythrocyte indices (haemoglobin level, haematocrit...) SD-214|Anomaly of erythrocyte indices (haemoglobin level, haematocrit...]]), [[Haemoglobin decrease SD-217|haemoglobin decrease]])'''''
+
+
+Clinical assessment of the impact is carried out by looking for :
+
+*signs of poorly tolerated anaemia:
+**'''[[Tachycardia SD-166|Tachycardia]]'''''
+**Mucocutaneous and conjunctival pallor
+**'''[[Dyspnée SD-162|Dyspnée]]'''
+**'''[[Asthenia SD-021|Asthenia]]''''
+**Vertigo ('''[[Vertigo and dizziness SD-064|vertigo and dizziness]]''')
+*signs of shock:
+**Hypotension
+**Malaise (''[[Malaise/loss of consciousness SD-050|malaise/loss of consciousness]]'')
+**Sweating
+**Cold extremities
+**Marbling.

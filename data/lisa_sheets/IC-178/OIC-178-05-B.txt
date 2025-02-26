@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-178-05-B
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=B
+|Intitle=Cite the main infectious agents responsible for highly transmissible diseases
+|Description=None
+|Rubric=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=5}}
+
+{| class="wikitable"
+|'''Viral haemorrhagic fevers'''
+|Ebola virus, Marburg virus, Lassa virus, Crimean-Congo virus
+|-
+|'''Serious emerging infections with Coronavirus'''
+|SARS-CoV, MERS-CoV, SARS-CoV-2
+<br />
+|-
+|'''Multidrug-resistant tuberculosis'''
+|MDR: multidrug resistant, XDR: extensively drug resistant
+|-
+|'''Emerging influenza strains'''
+<br />
+|
+|-
+|''Smallpox and other orthopoxviruses'' (Monkeypox)
+|
+|-
+|'''''Yersinia pestis'''''
+|pulmonary form
+|}

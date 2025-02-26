@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-296-08-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=A
+|Title=Knowing the key elements of management
+|Description=
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=8}}
+'''- Therapeutic emergency: immediate hospitalisation'''
+
+blood cultures ± other samples
+
+'''- empirical antibiotic therapy (β-lactam) by emergency venous route'''

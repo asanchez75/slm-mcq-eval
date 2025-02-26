@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-090-02-A
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Salivary gland pathology
+|Rank=A
+|Title=Know the three main causes of salivary gland pathology
+|Description=Sialitis, sialosis, parotid tumour
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The three main causes of salivary gland pathologies are :
+
+- Sialitis: inflammatory diseases of the gland (sialadenitis) and/or the excretory canal (sialodochitis),
+
+- tumours: localized benign or malignant proliferation of the gland,
+
+- sialosis: non-infectious diffuse pathology of the parenchyma.
+
+<br />

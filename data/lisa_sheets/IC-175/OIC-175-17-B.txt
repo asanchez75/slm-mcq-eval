@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-175-17-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Know how to prescribe parasitological investigations in suggestive contexts (schistosomoses, digestive helminthoses, digestive protozooses).
+|Description=Parasitological examination of stools and urine, immunodiagnostics (serology and Ag detection).
+|Section=Additional tests
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel
+|Ordre=17}}
+
+<big>'''1. <u>Parasitological examination of stools</u>'''</big> is justified in the presence of any digestive signs on return from a trip to a tropical zone or in the presence of an eosinophilia. It can detect most digestive parasites (except anguillaria, cryptosporidia). If amoebiasis or giardiosis is suspected, the sample must be sent to the laboratory quickly. In all cases, parasitological examination of the faeces should be repeated 3 times, 3-4 days apart, and at a later date (2-3 months).
+
+<big>'''<u>2.  Testing for cryptosporidia</u>''</big> should be prescribed '''specifically''' in cases of frequent and persistent diarrhoea (>1 week) or if the patient is immunocompromised.
+
+Please note:
+
+DNA testing is used to detect the main protozoan pathogens, including cryptosporidia (performance varies depending on the method). It can provide a definite diagnostic advantage in the diagnosis of amoebosis, particularly where there is a delay in transporting stool samples.
+
+- Antigenic tests exist for cryptosporidia and Giardia, but their performance varies.
+
+
+<big>'''3. <u>The search for anguillules</u>'''</big> must be prescribed '''specifically''' because it requires a special enrichment technique. In systematic screening, '''serology''' '''anguillulosis'''' has very interesting performances, compared with stool examination, which must be repeated several times, but may present cross-reactions with other nematodoses.
+
+<big><u>'''4. Parasitological examination of urine'''</u></big> ''':'''' is to be prescribed in the case of any haematuria on return from a urinary schistosomiasis endemic area (not forgetting Corsica). It should be performed on complete morning micturition after exertion (stair climbing, hopping) or on 24-hour urine. A small number of laboratories carry out PCR tests on morning urine, with excellent sensitivity.
+
+'''<u><big>5. Serologies:</big></u>'''
+
+'''- Schistosomiasis serology''': to be prescribed in the event of clinical signs or suggestive anamnesis (notion of freshwater bathing ± itching, febrile episode, hepatomegaly, haematuria, etc.), to be repeated if negative.
+
+      '''-'''' '''Amoebosis serology: key examination''' in the case of liver abscesses.
+
+      '''- Other serologies according to clinical signs and history'' ([[eosinophilia]], fever, hepatomegaly, myalgias, oedema...) ''': distomatosis''', '''trichinellosis'''.

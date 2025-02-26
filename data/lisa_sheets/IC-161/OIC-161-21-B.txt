@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-161-21-B
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=B
+|Title=Knowing the principles of treatment of recurrent cystitis (curative, medical, preventive)
+|Description=including post-coital cystitis, hygiene and dietary measures, indication and monitoring of prolonged treatment.
+|Rubric=Management
+|Contributors=Maxime Vallée, Alice Faure
+|Order=21}}
+
+
+*Above all, you need to be certain of the diagnosis, and not hesitate to send a referral centre if in doubt.
+*Long-term antibiotic treatment should be the exception rather than the rule, and is only necessary in very specific cases. The introduction of such treatment should prompt the patient to seek the advice of a referral centre''.
+*Treatment is largely guided by questioning, which often enables risk factors specific to each patient to be identified.
+
+==Hygienic and dietary measures should be proposed, but:==
+
+*Only increasing oral hydration has been formally proven to be effective.
+*Post-coital micturition and micturition not retained seem interesting; but it is above all the "micturition catalogue" which will provide information on the "errors" made by the patient.
+*Constipation in children and adults|regularisation of transit 283]], wearing cotton underwear, wiping from front to back... are all measures, sometimes restrictive for some patients, which have not yet been proven to be effective in the scientific literature.
+
+==The risk factors identified in the literature are:==
+
+*Frequency of intercourse (OR = 5.8)
+*1<sup>first</sup> cystitis under the age of 15 (OR=3.9)
+*new partner (OR=1.9)
+*spermicide (OR=1.8); the only truly modifiable factor
+
+==Non-antibiotic treatments that have been shown to be effective are:==
+
+*cranberry, but low level of evidence. Only oral supplements with a minimum dose of 36 mg/day of type A proanthocyanidin appear to be effective (no benefit from cranberry juice or derivatives).
+*Immunoactive prophylaxis = vaccine (not available in France), which has been shown to be effective in studies with a high level of evidence.
+*Local oestrogen therapy has also been shown to be effective, but in more specific populations, particularly post-menopausal women.
+
+==If these measures fail and there is more than 1 episode per month, long-term antibiotic prophylaxis may be offered as follows:==
+
+*Continuous trimethoprim
+*or Fosfomycin-tetamol, one sachet per week
+*or taken only in the pericoital period when sexual intercourse is the triggering factor (without exceeding the usual doses = not taken with each act of intercourse if there is a lot of sexual activity).
+*The need for long-term antibiotic prophylaxis should be regularly reassessed.
+
+<br />

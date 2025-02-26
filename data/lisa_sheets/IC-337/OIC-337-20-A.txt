@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-20-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Knowing the principles of protection in the event of a large-scale chemical event
+|Description=Knowing how to protect oneself and isolate the victim outdoors
+|Rubric=Taking charge
+|Contributors=Dominique Vodovar
+|Order=20}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 1.jpg
+</gallery>

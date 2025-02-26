@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-290-25-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitulé=Cancer screening: understanding the conditions for organised screening
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=25}}
+The characteristics of a disease justifying the introduction of screening are as follows:
+
+- The screening programme must meet an identified need,
+
+- The objectives of the screening must be defined in advance,
+
+- The target population must be defined,
+
+- The effectiveness of the screening programme must be scientifically proven,
+
+- It must include education, the test, what to do afterwards and how to organise it,
+
+- There must be quality assurance, with techniques to reduce the risks associated with screening,
+
+- The programme must allow for an informed decision, confidentiality and respect for autonomy,
+
+- The programme must promote equity and access to the programme for the entire target population,
+
+- The evaluation of this programme must be planned in advance,
+
+- The benefit-risk balance must be favourable.

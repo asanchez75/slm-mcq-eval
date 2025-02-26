@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-076-05-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Knowing how to diagnose harmful use and dependence according to ICD 11 criteria
+|The diagnosis of harmful use requires the elimination of the diagnosis of dependence (they are mutually exclusive).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Harmful use:''' alcohol consumption is responsible for physical damage (cirrhosis; neuropathy) or psychological damage (depressive disorder secondary to alcohol consumption, suicide) but there are no criteria for dependence
+
+
+'''Dependency:''' at least three of the following have occurred at the same time over the past year
+
+1. powerful or compulsive desire to use a psychoactive substance (craving) ;
+
+2. difficulties in controlling the use of the substance ;
+
+3. physiological withdrawal syndrome when the subject reduces or stops taking a psychoactive substance (onset of a characteristic withdrawal syndrome or use of the same substance (or a related substance) to relieve or avoid withdrawal symptoms);
+
+4. tolerance: the subject needs more of the substance to obtain the desired effect;
+
+5. progressive abandonment of other sources of pleasure and interest in favour of use of the psychoactive substance, and an increase in the time spent obtaining the substance, using it, or recovering from its effects;
+
+6. continuing to use the substance despite the occurrence of clearly harmful consequences (the subject being aware of the link between consequence and use).
+
+
+Harmful use and dependence are two diagnoses that exclude each other by convention.

@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-351-10-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the indications and implementation of complementary examinations in the context of agitation
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+
+
+== '''Systematic examinations''' ==
+
+* Minimum biological work-up: blood glucose, ionogram, blood calcium, CBC, CRP, coagulation test (for possible IM injection).
+* ECG (for possible antipsychotic treatment, search for long QT)
+
+<br />
+
+== '''On the basis of the history and clinical examination findings:''' ==
+
+* Blood alcohol
+* Urinary toxicology
+* Liver function tests
+* Renal function
+* TSH US
+* Cerebral imaging
+* Lumbar puncture
+* EEG
+* ECBU
+* Thick Gout
+* Chest X-ray

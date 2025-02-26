@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-272-10-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Item_parent_short=Gastric andodenal ulcer.
+|Description=Strict fasting / nasogastric tube / PPI / emergency surgery / no endoscopy
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=10}}
+- Hospitalisation in a surgical department
+
+- Depending on the circumstances :
+
+o Emergency intervention (Cf ITEM Acute peritonitis)
+
+o Conservative medical treatment rarely, in the case of a blocked perforated ulcer with no signs of severity (Taylor's method): PPI + Naso-Gastric tube aspiration + Antibiotic therapy

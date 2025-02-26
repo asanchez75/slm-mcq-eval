@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-071-23-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the indications for hospitalisation
+|Description=Know the severity criteria justifying hospitalisation.
+|Heading=Management
+|Contributors=
+|Order=23}}
+
+{| class="wikitable"
+|
+'''Anamnestics'''
+|
+* Sudden change in weight or break in the growth curve.
+* Severity of attacks and high frequency (>8/week).
+* Failure'' of outpatient strategy.
+* '''Compensatory behaviours endangering the patient's life.'''
+|-
+|
+Clinical
+|
+* Clinical signs of ''undernutrition.
+* Clinical signs of malnutrition.
+* '''Hypotension''' or '''heart rhythm disorder.'''
+* '''Inability to control seizures''' which occur several times a day.
+* Inability to control compensatory behaviour (physical activity or vomiting).
+* '''ECG abnormalities.'''
+|-
+|
+'''Paraclinical'''
+|
+* Severe liver damage.
+* Severe hydroelectrolytic or metabolic disorders.
+* Renal failure and dehydration.
+|-
+|'''Risk'''
+
+'''suicidal'''
+|
+* Suicide attempt or explicit suicide plan.
+* Repeated self-injury.
+|-
+|
+'''Comorbidities'''
+|May alone justify hospitalisation if severe:
+
+* characterised depressive episode ;
+* substance abuse and conduct disorder;
+* severe anxiety
+* psychotic symptoms.
+|-
+| colspan="2" |'''Environmental and social criteria'''
+|-
+|'''Availability'''
+
+'''de l'entourage'''
+|
+* Family problems or absence of family.
+* Exhaustion of family and friends.
+|-
+|Stress
+
+'''Environmental'''
+|
+* High environmental criticism.
+* Severe social isolation.
+|}

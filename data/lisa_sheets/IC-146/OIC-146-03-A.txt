@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-146-03-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Title=Vaccination in everyday practice, adults and children: practical procedures for administering vaccines (route of administration, simultaneous number of doses); adverse effects; benefit/risk ratio; contraindications; information for parents; the main players involved in vaccination.
+|Description=None
+|Rubric=Care
+|Contributors=Laurence Morand-Joubert
+|Order=3}}
+
+'''Methods''' : With the exception of the BCG vaccine, which is injected intradermally, vaccines are injected deep under the skin or intramuscularly. The preferred injection site is the anterolateral aspect of the thigh in infants under 12 months old (before walking age), then in the deltoid muscle after 1 year. Several different injections are possible on the same day, with different injection sites.
+
+'''Undesirable effects:'''
+
+*Local: at the injection site: pain, redness, oedema, induration.
+*General: usually benign, rapid or remote from the injection: fever, headache, nausea, malaise, thrombocytopenic purpura, etc. Severe general adverse reactions (anaphylactic shock, autoimmune diseases, Guillain-Barré, etc.) are very rare.
+*Adverse reactions attributed to adjuvants used to boost immune response have no conclusive scientific basis.
+
+
+Vaccine benefit/risk ratio'': this is explained to the patient or his or her parents and is based on its individual and collective effectiveness, the prevalence of serious adverse events, and the medico-economic benefit compared with other interventions.
+
+'''Contraindications:''' known serious allergies to a vaccine, to the excipients contained in the vaccine or to substances used in its manufacture (eggs, chicken proteins, certain antibiotics, etc.). Immunosuppression contraindicates live attenuated vaccines because of the risk of generalised infection. Pregnancy contraindicates live attenuated vaccines, and it is recommended that you avoid pregnancy for 2 to 3 months after a live attenuated vaccine. There is no contraindication to breast-feeding.
+
+/The presence of a mild viral infection or low-grade fever in an infant '''IS NOT A CONTRAINDICATION'' to vaccination and '''therefore should not delay vaccination''.
+
+Information for parents'': clear and fair, this should explain the planned schedule and the currently very favourable benefit/risk ratio of the vaccines included in the children's vaccination schedule.  Do not avoid providing information about possible side effects. Encourage people to consult the official websites presenting the level of evidence for the recommendations.
+
+'''A vaccination can be carried out by''' :
+
+*A doctor, for all vaccinations.
+*A midwife for vaccines given to women as part of their gynaecological check-up and to infants under 2 months of age and those around them.
+*A nurse on prescription only (flu vaccines can be given without a prescription).
+*A volunteer pharmacist working in a pharmacy (only for influenza and Covid).
+
+(A number of other professionals may be called in as back-up in the event of a pandemic, such as in 2021).

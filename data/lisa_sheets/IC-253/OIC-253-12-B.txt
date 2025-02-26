@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-253-12-B
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=B
+|Title=Knowing the indications and contraindications of bariatric surgery
+|Description=Know the principles of this surgery and its effects.
+|Rubric=Management
+|Contributors=
+|Order=12}}
+Bariatric surgery is a therapeutic strategy of last resort, to be proposed after assessment of the potential benefits and risks and the patient's ability to adhere to follow-up.
+
+
+'''Indications:'''
+
+- Age: 18 to 60
+
+- BMI ≥ 40 or 35 ≤ BMI with at least one severe comorbidity likely to improve after surgery (type 2 diabetes, steatohepatitis, OSA...)
+
+- After failure of a well-managed nutritional and psychotherapeutic treatment for about 6-12 months
+
+- Well-informed patients who have benefited from multidisciplinary preoperative assessment and management; indication validated at a multidisciplinary consultation meeting.
+
+- Patients who have understood and accepted the need for lifelong post-operative medical and surgical follow-up
+
+- Acceptable operating risk
+
+==== Contraindications ====
+- Non-stabilised psychiatric disorders
+
+- Alcohol and drug abuse
+
+- Severe eating disorders (binge eating)
+
+- Impossibility of medical follow-up
+
+- Major anaesthetic risk
+
+- Life-threatening conditions
+<br />
+
+==== Principle ====
+Bariatric surgery alters the anatomy of the digestive tract:
+
+- gastric restriction: gastric band, sleeve gastrectomy;
+
+- ± associated with intestinal malabsorption: Y-shaped gastric bypass
+<br />

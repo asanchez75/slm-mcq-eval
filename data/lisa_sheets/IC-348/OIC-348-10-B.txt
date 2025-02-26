@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-348-10-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the causes of ARF associated with acute tubulointerstitial damage
+|Description=Know the causes linked to a direct toxic mechanism (in particular drugs and myeloma-cell nephropathy, etc.) or immunoallergic or infectious mechanisms.
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=10}}
+
+'''Acute interstitial nephritis (AIN):'''
+
+- Profile of organic ARF, usually with preserved diuresis,
+
+- With urinary signs: ''haematuria'', leucocyturia (± eosinophiluria in drug-induced causes), sparse ''proteinuria'' (tubular) < 1 g/L,
+
+- Associated general and laboratory signs, depending on the cause of the AIN:''' hypereosinophilia, fever, skin rash or hepatic cytolysis (AIN of immuno-allergic origin)'''''''.
+
+'''Table 6 ''': '''Main causes of Acute Interstitial Nephritis''''
+{| class="wikitable"
+| rowspan="2" |Infectious
+|Ascending (bilateral acute pyelonephritis)
+|-
+|Leptospirosis and viral haemorrhagic fevers
+|-
+|Immuno-allergic drug reactions
+|Sulphonamides
+|-
+|Ampicillin and other betalactam antibiotics
+|-
+|Non-steroidal anti-inflammatory drugs
+|-
+|Fluoroquinolones, rifampicin, fluindione
+|-
+|Proton pump inhibitors
+|-
+|Certain anti-neoplastic immunotherapies
+|}
+<br />

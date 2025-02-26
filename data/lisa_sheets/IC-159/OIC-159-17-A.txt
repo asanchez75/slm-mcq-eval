@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-159-17-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing how to prevent tuberculosis vaccination
+|Description=None
+|Heading=Management
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=17}}
+
+'''Summary''' : '''BCG vaccination is no longer compulsory, but remains strongly recommended for children at high risk of tuberculosis'''
+
+BCG is a live, attenuated vaccine which is injected intradermally. It mainly protects against miliary forms of tuberculosis and tuberculous meningitis.
+
+It is only recommended for children at high risk of tuberculosis:
+
+* children born in a highly endemic country,
+* children of parents born in a highly endemic country,
+* children expected to spend more than one month in one of these countries,
+* a family history of tuberculosis,
+* children living in Île-de-France or French Guiana
+* any other situation deemed risky by the doctor.
+
+Vaccination should be carried out from the age of 1 month, ideally during the 2nd month, and can be co-administered with the other vaccines scheduled for this age.
+
+Neonatal vaccination, before leaving the maternity hospital, is still recommended for children from French Guiana or Mayotte, or who have a family member with recent tuberculosis (less than 5 years old).
+
+Children at risk who have not been vaccinated can be vaccinated up to the age of 15.

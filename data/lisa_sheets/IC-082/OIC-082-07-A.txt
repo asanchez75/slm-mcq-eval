@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-082-07-A
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=A
+|Title=Knowing what to do in the event of a sudden drop in vision with white eye and identifying emergencies
+|Description=None
+|Rubric=Emergency identification
+|Contributors=
+|Order=7}}
+
+[File:CAT BAV brutal.jpg|vignette]]
+In the event of a decrease in visual acuity with a white, painless eye, a fundus examination guides the diagnosis and treatment.
+
+1. fundus not visible or poorly visible: intravitreal haemorrhage.
+
+The cause of the haemorrhage is easy to recognise when the retina remains visible. A massive haemorrhage renders the retina invisible on fundus examination. If the retina is not visible, B-ultrasound should be performed to rule out retinal detachment.
+
+The main causes of intravitreal haemorrhage are as follows:
+
+*proliferative diabetic retinopathy;
+*occlusions of the central retinal vein or one of its branches;
+*retinal tearing, whether or not complicated by retinal detachment
+*Terson's syndrome: uni- or bilateral intravitreal haemorrhage associated with meningeal haemorrhage due to rupture of an intracranial aneurysm (Terson's syndrome may also be associated with meningeal haemorrhage of traumatic origin).
+
+'''2. Clearly visible and abnormal fundus:''''
+
+*Occlusion of the central retinal artery or one of its branches: This is a cerebrovascular accident (CVA) and, as such, the patient should be admitted urgently to a neurovascular unit to prevent another life-threatening vascular event. It should look for carotid atheroma and embologenic heart disease. In a young patient, a carotid dissection should also be sought.
+*Occlusion of the central retinal vein or one of its branches
+*AMD complicated by macular choroidal neovessels: this requires rapid initiation (within a few days of diagnosis) of treatment with intravitreal injections of anti-VEGF.
+*Rhegmatogenous retinal detachment (RD): The spontaneous evolution is very negative, with the detached retina suffering irreversible damage within a few weeks. A recent DR is a surgical "semi-emergency", justifying an operation within a few days of diagnosis, often less than a week when the macula is detached and even more urgent when the macula is still flat.
+*Anterior ischaemic optic neuropathy (NOIA): this must be ruled out as an emergency.
+
+'''3. Visible and normal fundus:''''
+
+*Retrobulbar optic neuritis (RORB)
+*Damage to the chiasmatic and retrochiasmatic optic tracts: sudden onset should suggest a vascular cause.

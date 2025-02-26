@@ -1,0 +1,102 @@
+{{knowledge objective
+|Identifiant=OIC-329-01-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Intitle=To know the erythrocyte blood groups
+|Description=ABO and Rhesus systems, phenotype
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+Erythrocyte blood groups are ''antigens'' expressed on the surface of the red blood cell membrane. They are "genetically" induced and recognised by specific "antibodies". When antigens are encoded by different allelic forms of the same gene, they are said to belong to the same "blood group system". For example, antigens A and B, respectively encoded by the A and B alleles of the ABO gene, belong to the ABO blood group system. The immunogenic nature of these molecules "prevents" transfusion, pregnancy and sometimes incompatible transplantation. There are currently almost 380 blood group antigens in 43 different systems. All these antigens can be grouped, according to their biochemical nature, into two main categories:
+
+- 1) "Carbohydrate" antigens, led by the ABO system. There are 2 common antigens, A and B, coded by 2 alleles, "A" and "B" respectively. An individual with group A therefore has the "A" allele, which codes for the A antigen on the red blood cell. The same applies to group B. A person with type AB has both the "A" and "B" alleles, and therefore both antigens. Finally, a group O subject with a double dose (homozygosity) of a non-functional "O" allele expresses neither of the two antigens. The ''A'' and ''B'' alleles are said to be codominant with each other and dominant with respect to ''O''. These antigens are considered to be "eritable tissue groups", because they are not restricted to the red blood cell but are shared by other tissues such as the vascular endothelium or epithelium of many organs (kidneys, liver, heart, lung), requiring ABO compatibility in the context of transplantation. Lastly, these antigens are "not unique to humans", but are shared by many other species, including microorganisms such as viruses and bacteria, particularly those in the microbiota. It is exposure to these bacterial antigens that explains the presence of ABO antibodies outside any inter-human stimulation by transfusion or pregnancy, as defined in Table 1. These antibodies, which are said to be "natural" (environmental stimulation) and "regular" (constant presence), represent a "constant danger" from the first incompatible transfusion. They are detected by ABO grouping.
+
+Table 1
+{| class="wikitable"
+|ABO groups
+|Antigens in red blood cells
+|Antibodies in plasma
+|Genotypes
+|-
+|A
+|A
+|Anti-B
+|A/A or A/O
+|-
+|B
+|B
+|Anti-A
+|'B/B or B/O
+|-
+|AB
+|A and B
+|Any
+|''A/B''
+|-
+|O
+|Neither A nor B
+|Anti-A and Anti-B
+|''O/O
+|}
+- 2) ''Protein'' antigens, led by RH, formerly Rhesus. As these antigens are unique to humans, the corresponding antibodies can only arise after an "inter-human stimulation", transfusion or incompatible pregnancy (e.g. a D- ("Rhesus-negative") mother carrying a D+ ("Rhesus-positive") foetus). They are said to be ''immune'' and '''irregular'' (inconsistent) and are detected by irregular antibody tests (RAI). They represent a ''potential danger'' in the event of an incompatible transfusion or pregnancy.
+
+In routine transfusion, 14 antigens and their corresponding antibodies belonging to 6 blood group systems are investigated by specific tests. In addition to the ABO system, the following are investigated
+
+- 1) The RH system, which currently includes 56 antigens, 5 of which are routinely tested;
+
+o The D antigen, for which a distinction is made between the D+ phenotype (RH:1, 85%) (the famous "Rhesus positive") or the D- phenotype (RH:-1, 15%) (the famous "Rhesus negative"). It is determined in conjunction with ABO grouping as part of the "ABO-RH/D grouping" analysis.
+
+o C (RH2) and c (RH4) antigens, which distinguish between C+ and c+ (RH:2,4), C+ and c- (RH:2,-4) and C- and c+ (RH:-2,4) individuals.
+
+o E (RH3) and e (RH5) antigens, which distinguish between E+ and e+ (RH:3.5), E+ and e- (RH:3.-5) and E- and e+ (RH:-3.5) individuals.
+
+- 2) The KEL system, which currently includes 36 antigens, 1 of which is routinely investigated, the K antigen (KEL1), for which a distinction is made between the K+ (KEL:1, 9%) or K- (K:-1, 91%) phenotype.
+
+Determination of the C/c, E/e and K antigens is carried out as part of an analysis known as the "RH-KEL1 phenotype".
+
+- 3) The Duffy (FY) system, which currently includes 5 antigens, 2 of which are routinely tested: the Fy<sup>a</sup> (FY1) and Fy<sup>b</sup> (FY2) antigens, which determine the phenotypes: Fy(a+b+) (FY:1,2), Fy(a-b+) (FY:-1,2), Fy(a+b-) (FY:1,-2). It should be noted that there is a Fy(a-b-) (FY:-1,-2) phenotype specific to populations originating from sub-Saharan Africa, which can pose complex transfusion problems, particularly in sickle-cell patients.
+
+- 4) The Kidd system (JK), which currently includes 3 antigens, 2 of which are routinely tested: antigens Jk<sup>a</sup> (FY1) and Jk<sup>b</sup> (FY2), which determine the phenotypes: Jk(a+b+) (JK :1,2), Jk(a-b+) (JK :-1,2), Jk(a+b-) (JK :1,-2).
+
+- 5) The MNS system, which currently includes 50 antigens, 2 of which are routinely tested: the S (MNS3) and s (MNS4) antigens, which determine the phenotypes: S+s (MNS:3,4), S-s+(MNS:-3,4), S+s- (MNS:3,-4).
+
+The antigens belonging to these 3 systems are determined as part of an analysis known as the "extended phenotype".
+
+Table 2
+{| class="wikitable"
+|'''Systems'''
+|Antigens
+|'''Antigen detection assay'''
+|'''Antibody detection assay'''
+|-
+|ABO
+|A and B
+|Grouping ABO-RH1/D
+|ABO grouping
+|-
+| rowspan="2" |RH
+|D (RH1)
+| rowspan="6" |
+
+
+
+RAI
+|-
+|C (RH2), E (RH3), c (RH4), e (RH5)
+| rowspan="2" | RH-KEL1/Rh-Kell phenotype
+|-
+|Kell (KEL)
+|K (KEL1)
+|-
+|Duffy (FY)
+|Fy<sup>a</sup> (FY1), Fy<sup>b</sup> (FY2)
+| rowspan="3" | Extended phenotype
+|-
+|Kidd (JK)
+|Jk<sup>a</sup> (JK1), Jk<sup>b</sup> (JK2)
+|-
+|MNS
+|S (MNS3), s (MNS4to
+|}
+() : international nomenclature

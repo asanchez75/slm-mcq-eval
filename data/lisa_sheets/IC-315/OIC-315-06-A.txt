@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-315-06-A
+|Item_parent=Acute leukaemia
+|Item_parent_short=Acute leukaemia
+|Rank=A
+|Title=Knowing how to identify the signs suggestive of the diagnosis of LA on the haemogram
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=6}}
+The blood count is always abnormal. It reflects bone marrow failure:
+
+- normo- or macrocytic anaemia, almost constant and sometimes severe
+
+- thrombocytopenia, almost constant and sometimes severe
+
+- neutropenia, almost constant and sometimes severe
+
+- circulating blasts, inconstant, may represent the majority of leukocytes

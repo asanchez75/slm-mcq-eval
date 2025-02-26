@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-163-01-A
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=A
+|Title=Knowing the epidemiological characteristics and transmission of whooping cough
+|Description=None
+|Rubric=Epidemiology
+|Contributors=André Birgy
+|Order=1}}
+
+Pertussis is a cosmopolitan disease caused by the bacterium Bordetella pertussis.
+
+Transmission is strictly human-to-human and occurs via the airborne route (droplets or aerosols).
+
+The attack rate is high in cases of close and repeated contact (75%).
+
+Transmission is mainly within families and communities.
+
+In industrialised countries, vaccination against pertussis is compulsory. In France, vaccination coverage is >90% in children. The persistence or even resurgence of pertussis is due to the decline in immunity to the vaccine over time. Neither vaccination nor natural disease provides lifelong protection. It has been shown that transmission very often occurs via adults and the elderly (=reservoir) who, vaccinated during childhood, are no longer protected in adulthood and can therefore transmit the bacterium to children.
+
+In developing countries, vaccination coverage is low, giving rise to major whooping cough epidemics against a backdrop of endemic disease. Children are the reservoir of contamination, leading to high infant mortality (malnutrition, respiratory complications).

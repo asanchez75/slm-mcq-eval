@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-086-03-A
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=A
+|Title=Recognising ptosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Ptosis''' too low position of the free margin of the upper eyelid. It can be measured by the position of the upper eyelid in relation to the upper sclero-corneal limbus: Normally the eyelid covers the cornea physiologically by only 1 to 2 mm.
+
+Ptosis should be distinguished from ''dermachalasis'' (excess eyelid skin), which is very common in the elderly. In this case, the skin fold covers the visual axis, while the free edge of the upper eyelid is well positioned.
+
+<br />

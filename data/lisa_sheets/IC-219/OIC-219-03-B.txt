@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-219-03-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Know the general principles of iron metabolism
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+Iron is divided into two categories in the body:
+
+- Iron is said to be functional because it is used in a physiological process, the main one being erythropoiesis, iron being a constituent of haem. Erythrocytes contain around 80% of total iron, or 3g.
+
+- Unused iron, which can either be stored at cellular level or present in the bloodstream. At cellular level, it is stored in the form of ferritin in hepatocytes and macrophages. Plasma ferritin is the circulating form of ferritin. In the bloodstream, iron is bound to a transport protein, transferrin. In a situation of martial homeostasis, 20% to 45% of transferrin binding sites are occupied by iron: this is the transferrin saturation coefficient. Transferrin distributes iron to cells (mainly bone marrow erythroblasts) via a transferrin receptor.
+
+
+Iron metabolism works in a closed circuit: it is recovered by macrophages from senescent erythrocytes, then reused mainly for erythropoiesis (erythropoiesis requires 20 to 30 mg of iron per day).
+
+
+Physiological losses of iron are therefore minimal, mainly through the digestive tract, urine and skin (desquamation). In men, these losses are around 1 to 2 mg/day, whereas they are twice as high in women of childbearing age, due to the menstrual cycle.

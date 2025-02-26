@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-210-02-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Intitle=Pneumoconiosis: how to diagnose it
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Pneumoconiosis is a lung disease caused by chronic inhalation of mineral dust. They are mainly represented by silicosis (chronic inhalation of silica) and asbestosis (chronic inhalation of asbestos fibres).
+
+The search for exposure to mineral dusts during questioning is therefore essential. Exposure is most often occupational, and can therefore be the subject of a declaration of occupational disease, but exposure can also be domestic.
+
+The clinical presentation is aspecific.
+
+In a suggestive context, thoracic imaging, especially CT scans, can be used to suspect the diagnosis of pneumoconiosis.
+
+* Silicosis gives rise to micronodular interstitial anomalies, more or less coalescent, which predominate in the upper parts of the thorax. Calcified "eggshell" adenopathies may be associated.
+* Asbestosis gives rise to interstitial abnormalities predominating in the subpleural and at both bases, with centrilobular micronodules and branching opacities, curved subpleural lines, ground-glass opacities and even honeycomb images. Calcified pleural plaques may be associated.
+
+Testing for mineral particles in invasive samples (BAL or lung biopsy) can help with the diagnosis.

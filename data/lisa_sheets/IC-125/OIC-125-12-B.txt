@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-125-12-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Know the principles of treatment for the main causes of dysuria in men and women.
+|Description=None
+|Topic=Management
+|Contributors=B. Peyronnet
+|Order=12}}
+
+
+*Hygienic and dietary measures ([[Therapeutic lifestyle modifications (diet and physical activity) in adults and children and how to present them to patients|lifestyle diet 249]], [[Obesity in children and adults (see item 71)|obesity 253]]) are the first-line treatment for all UABS.
+
+*In the case of emptying BPH, it must be determined whether it is due to subvesical obstruction or detrusor hypoactivity. In the case of obstructive BPH in men [[Benign prostatic hyperplasia|127]], pharmacological treatment (alpha blockers, blockers, phytotherapy or 5ά reductase inhibitors) and if this fails, [[Benign prostatic hypertrophy|prostatic surgical removal 127]] (transurethral resection of the prostate, prostatic laser vaporisation, endoscopic enucleation of the prostate or adenomectomy).
+* For other causes of obstruction, treatment of the cause will be proposed (e.g. urethrotomy or urethroplasty if urethral stricture; alpha blockers if bladder neck disease; etc.).
+*In the case of detrusor hypoactivity (male, female), treatment may involve intermittent self-catheterisation or sacral neuromodulation.
+
+<br />

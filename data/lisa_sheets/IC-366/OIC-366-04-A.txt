@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-366-04-A
+|Item_parent=Accidental exposure to biological fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=A
+|Title=Describe immediate local care in the event of a blood exposure accident (BSE)
+|Description=Immediate care
+|Heading=Management
+|Contributors=Docteur Lefèvre Benjamin
+|Order=4}}
+'''EMERGENCY : Cleaning the wound'''
+
+- not to cause bleeding
+
+- clean immediately with soap and water
+
+- rinsing followed by antisepsis (dakin, chlorine or alcohol solution)
+
+- if mucous spray: rinse for 5 minutes with plenty of saline solution

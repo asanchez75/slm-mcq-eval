@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-349-08-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Knowing the most common complications
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Pierre-Marie Roy
+|Order=8}}
+<gallery>
+File:Common Complications.png
+</gallery>
+
+* Fistulisation
+* Spread of infection :
+** Locally: phlegmon, cellulitis, arthritis, osteitis
+** Distant: lymphangitis, septicaemia
+* Recurrence
+
+
+Even if these complications are rare:
+
+* Uncontrolled infection: amputation
+* Functional prognosis: tendon necrosis, sequelae of stiffness, nail dystrophy, etc.
+
+<br />

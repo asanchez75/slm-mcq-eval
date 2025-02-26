@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-285-03-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the therapeutic principles of the management of celiac disease in adults and children
+|Description=Strict, lifelong gluten-free diet, social management, familiarity with the frequent "pitfalls" of the diet.
+|Rubric=Management
+|Contributors=
+|Order=3}}
+see [[Understanding the principles of treatment for coeliac disease 2C-285-PC-A02|'''2C-285-PC-A02''']]

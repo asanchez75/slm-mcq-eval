@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-118-08-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Title=Know the definition of the main cognitive functions.
+|Description=attention, memory, language, praxis, gnosis, executive and behavioural functions.
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+([[Attention disorders SDD-129|129-attention disorders]], [[Memory disorders/cognitive decline SDD-131|131-memory disorders/cognitive decline]], [[Language and/or phonation disorders SDD-134|134-language and/or phonation disorders]] [[Consultation and follow-up of a patient with cognitive disorders SDD-298|298-consultation and follow-up of a patient with cognitive disorders]], [[Discovery of a brain abnormality on medical imaging examination SDD-226|226-discovery of a brain abnormality on medical imaging examination]])
+
+
+''Cognitive impairment'' = substantial, lasting or permanent impairment of one or more cognitive functions (attention, memory, executive functions, language, etc.).
+
+
+''Attention'': the function of selecting information and maintaining it in the field of consciousness.
+
+
+Memory: the ability to record, store and retrieve information.
+
+
+''Language'': all language skills, receptive (understanding oral and written language) and expressive (speaking and writing).
+
+
+'''Gnosies''': the ability to perceive an object using the different senses (vision, hearing, touch), and to recognise it.
+
+
+'''Praxias''': the ability to perform simple movements or sequences of movements voluntarily.
+
+
+'''Executive functions''': elaborate cognitive functions enabling behaviour to be managed and organised.

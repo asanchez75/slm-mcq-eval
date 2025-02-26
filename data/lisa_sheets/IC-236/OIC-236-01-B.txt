@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-236-01-B
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=B
+|Title=Know the pathophysiology of sinus dysfunction, atrioventricular block (AVB) and bundle branch block (BB).
+|Description=anatomy, vascularisation, tissue characteristics
+|Section=Physiopathology
+|Contributors=Vincent Galand
+|Order=1}}
+Anatomical reminder :
+
+-The sinus node is located on the roof of the right atrium, close to the ostium of the superior vena cava.
+
+-The atrioventricular node is located in the right atrium above and in front of the ostium of the coronary sinus. It extends from the His bundle, which divides into two branches, the right and left. The left branch divides into an anterior and posterior bundle. All of its branches then reach the Purkinje network, allowing depolarisation and contraction of the ventricles.
+
+
+A sinus dysfunction is therefore associated with either a sinus node arrest or a sinoatrial block corresponding to the non-transmission of its activity to the right atrium. It corresponds to inappropriate sinus bradycardia (in relation to the body's physiological needs).
+
+
+-Atrioventricular block (AVB) corresponds to damage to the atrioventricular node or His bundle. A distinction is made between supra- and infra-Hissian block.
+
+
+-Bundle branch block (BB) is defined as an interruption or delay in conduction of a branch of the His bundle. It may be complete, incomplete, permanent or intermittent.

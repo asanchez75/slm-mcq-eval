@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-325-03-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Know the definition of inappropriate prescribing of medicines (PMI)
+|Description=None
+|Topic=Definition
+|Contributors=Marie Briet
+|Order=3}}
+
+==Definition==
+Inappropriate prescribing refers to prescribing that creates more risks than benefits for the patient.
+
+Inappropriateness may relate to :
+
+*Prescribing without a clinical indication, not complying with the marketing authorisation (MA) or the official recommendations of learned societies.
+*Failure to take into account the patient's characteristics when choosing the active ingredient, dose, galenic form or route of administration of the drug: age, weight, co-morbidities (chronic renal failure, hepatocellular insufficiency, etc.), pregnancy, breast-feeding, for example.
+*Failure to take account of potential drug interactions.

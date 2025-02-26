@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-007-04-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Title=Knowing the main principles of medical information
+|Description=None
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=4}}
+The right to information, enshrined in the law of 4 March 2002 on patients' rights and the quality of the healthcare system, is governed in particular by :
+
+- Article L.1111-2 of the French Public Health Code: ''... everyone has the right to be informed about their state of health ...'';
+
+- Article R. 4127-35 of the French Public Health Code: "'... the doctor must provide the person he is examining, treating or advising with fair, clear and appropriate information about his condition, the investigations and the care he is proposing. Throughout the course of the illness, he shall take account of the patient's personality in his explanations and ensure that they are understood ...''.
+
+
+A distinction is made between :
+
+*'''Information before the act:''''
+
+This information is necessary to obtain consent. Its aim is to obtain informed consent or, failing that (as a corollary of the obligation to consent) informed refusal. It is given by all healthcare professionals (article L.1112-1 of the French Public Health Code), within the scope of their competence.
+
+-In its form, this information must be "clear" (intelligible, simplified, without superfluous detail, etc.), "fair" (without lies or concealment), "appropriate" to the circumstances and the individual, and delivered during a "personal interview". The role of active listening and reformulation are essential to good quality information, as is checking that the patient understands it.
+
+-Its content (article L.1111-2 of the Public Health Code) covers the various investigations, treatments or preventive actions proposed, their usefulness, their possible urgency, their consequences, the frequent or serious risks normally foreseeable that they entail, as well as the other possible solutions and the foreseeable consequences in the event of refusal.
+
+-In the event of a dispute, the healthcare professional may be held liable (lack of humanity). Since the Hédreul ruling of 25 February 1997, the onus of proof has been on the healthcare professional or establishment. Proof of information may be provided by any means (written document, letter "dictated in the presence of the patient", several consultations "traced" in the file, etc.).
+
+-Beyond the legal and ethical aspects, information "plays a role" in the relationship between healthcare provider and patient:
+
+- From a moral point of view: this is a legitimate expectation on the part of the patient, as part of respect for the human person;
+
+- On a practical level: it helps to establish a climate of trust conducive to discussion, reassurance and compliance.
+
+<u>There are special cases:</u>
+
+- Urgency'': this is a limit to the provision of information. This information must of course be adapted to the "degree" of medical urgency and to the patient's clinical condition;
+
+- The impossibility of informing a person with "altered consciousness". In this case, we will consider :
+
+          * The role of the trusted support person: Article L. 1111-6 of the French Public Health Code stipulates that: "... "any person of full age may designate a trusted support person ... who will be consulted in the event that he or she is unable to express his or her wishes and to receive the necessary information for this purpose" ... ";
+
+           * The need to provide delayed information;
+
+- The patient's "wish" not to be kept informed;
+
+- The case of the "minor patient": in this case, the information must be adapted to the minor's maturity and degree of understanding. This information is given to the minor and to the holders of parental authority;
+
+- In the event of a "serious diagnosis or prognosis", medical confidentiality does not prevent the patient's family, close friends or trusted support person from receiving the necessary information to enable them to provide direct support to the patient, unless the patient objects.
+
+<br />
+
+*'''Information after the act:''''
+
+This involves access to medical records for both living and deceased patients.
+
+'''''Concerning living patients''''', this right is governed by article 1111-7 of the French Public Health Code.
+
+- Any person has access to all information concerning his or her health contained in medical records, with the exception of information stating that it has been collected from or concerning a third party not involved in therapeutic care. Patients may therefore access and obtain this information either directly or through the intermediary of a doctor they designate. The statutory time limit for obtaining this information is 48 hours after a period of reflection, at the earliest, and 8 days after the request, at the latest. This time limit is extended to two months when the information is more than five years old and in the event of a referral to the Commission départementale des soins psychiatriques (Departmental Commission for Psychiatric Care) in response to a request for access to the file by a patient being treated under psychiatric restraint. The doctor who drew up certain information may recommend that a third party be present when the information is consulted, for reasons relating to the risks to the patient of knowing the information.
+
+- Patients who are minors do not have direct access to their medical records. The right of access is exercised by the holder(s) of parental authority, at the minor's request and through the intermediary of a doctor. This right of access may be adjusted to take account of the minor's possible opposition as provided for in article L. 1111-5 (see below).
+
+As far as practical arrangements are concerned, information can be consulted on site free of charge. In this case, the establishment must arrange for a doctor to be present. However, if the patient wishes to obtain a copy of his or her file, the cost is borne by the patient, but may not exceed the cost of reproducing and, where applicable, sending the documents.
+
+'''''Concerning the deceased patient''''', this right is governed by article 1110-4 of the French Public Health Code.
+
+- Beneficiaries, cohabitees and PACS partners do not have access to the entire medical file. They do have access to the information contained in the file, enabling them to :
+
+- Knowing the causes of death ;
+
+- Defending the memory of the deceased ;
+
+- Assert their rights.
+
+In these 3 cases, information can be communicated unless the person expresses a wish to the contrary before his or her death.
+
+- In the case of a deceased minor, the holders of parental authority retain their right of access to all medical information concerning the minor. This does not include information in respect of which the minor has exercised his or her right of opposition under article L. 1111-5.
+
+<br />

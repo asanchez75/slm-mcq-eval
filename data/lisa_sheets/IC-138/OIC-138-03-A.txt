@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-138-03-A
+|Item_parent=Pain in vulnerable persons
+|Item_parent_short=Pain in vulnerable persons
+|Rank=A
+|Title=Knowing how to screen for pain in psychiatry
+|Description=To know the main principles of pain screening in patients suffering from a psychiatric disorder
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Rank A'''
+
+'''Positive diagnosis''' heading
+
+'''Title: Screening for pain in psychiatry.'''
+
+'''Description : Understanding the main principles of pain screening in patients suffering from a psychiatric disorder'''
+
+- Pain screening is systematic in vulnerable populations.
+
+- Pain can modulate psychiatric disorders and vice versa.
+
+- Any change in behaviour should prompt a search for pain and its cause. Clinical examination is the first step.
+
+- In communicating patients, self-assessment is preferred (Simple Verbal Scale EVS, Numerical Scale EN, EVA, face scale, Saint Antoine Pain Questionnaire, HADS, DN4 depending on the situation) (see item 134).
+
+- For dyscommunicating patients, in the productive phase (delirium) or the deficit phase (withdrawal), "hetero-evaluation tools" are necessary: EDD (Evaluation of Pain Expression in Dyscommunicative Subjects), EDAAP (Evaluation of Pain Expression in Adolescents and Adults with Multiple Disabilities), ESDDA (Simplified Pain Evaluation Scale for Dyscommunicative Patients with Autism Spectrum Disorders), GED-DI for children (Pain Evaluation Grid - Intellectual Disability).
+
+- Post-treatment assessment and re-assessment are carried out with the help of teams and family members as required.
+
+- The therapeutic principles are identical to those used for people without psychiatric disorders.
+
+- In cases of ''co-morbidity of pain and psychiatric disorders'', joint treatments are favoured, and ''combine analgesic drugs with non-medicinal treatments'': serotonin and noradrenaline reuptake inhibitors, gabapentinoids, adapted physical activities, relaxation, hypnosis, cognitive-behavioural therapies, etc.

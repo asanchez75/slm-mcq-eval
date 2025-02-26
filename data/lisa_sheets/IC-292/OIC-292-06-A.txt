@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-292-06-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Knowing the general signs in oncology
+|Description=Describe the main general clinical signs suggestive of cancer.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+The main general clinical pictures suggestive of cancer are :
+
+- Changes in general condition: asthenia, anorexia, weight loss, even malnutrition and sarcopenia;
+
+- Fever and night sweats.
+
+- Painful symptoms.
+
+Other signs may be classified by system (vascular, neurological, digestive, respiratory, etc.) and correspond to tumour mass syndrome, paraneoplastic syndrome or cachectic and inflammatory syndrome.

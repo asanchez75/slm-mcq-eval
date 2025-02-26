@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-281-06-B
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=B
+|Title=Know the clinical manifestations of the main complications of chronic pancreatitis
+|Description=Acute pancreatitis and the main complications of chronic pancreatitis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+- '''Acute pancreatitis'''
+
+the main cause of alcohol-related chronic pancreatitis (see Item 358).
+
+- '''Necrotic collections and pseudocysts'''
+
+These 2 types of collection are common, and occur by different mechanisms: liquefaction of necrosis (necrotic collections), or collections of pancreatic fluid (pseudocysts). They may form in the aftermath of an acute attack (necrosis) or as a result of ductal retention (clear fluid).
+
+The evolution is stabilisation, regression or complications: superinfection, compression of a neighbouring organ (portal vein, superior mesenteric vein, common bile duct, digestive tract), haemorrhage linked to a pseudoaneurysm, or rupture in a neighbouring organ (pleurisy) or in the peritoneal cavity (pancreatic ascites).
+
+- Biliary complications
+
+Stenosis of the main bile duct in the pancreatic head results from pericanal fibrosis, pancreatic inflammation or extrinsic compression by a collection (see above). It manifests itself as clinical cholestasis (jaundice, pruritus rarely) and biological cholestasis (increased LAP and GGT, sometimes bilirubin).
+
+- '''Exocrine pancreatic insufficiency (EPI)'''
+
+A late complication, associated with steatorrhea and weight loss, it is confirmed by a lowered faecal elastase assay on a stool sample.
+
+- Diabetes secondary to pancreatic endocrine insufficiency
+
+A frequent late complication, diabetes is initially non-insulin-requiring and then requires insulin.
+
+
+- '''Denutrition'''
+
+Multiple sclerosis exposes the patient to overall malnutrition in nutrients, vitamins (fat-soluble A, D and K, as well as B vitamins including B12 and B9) and trace elements (calcium, zinc and selenium). CP increases the risk of osteoporosis.
+
+- '''Degeneration'''
+
+CP is a moderate risk factor for pancreatic adenocarcinoma. This risk is low and does not justify specific screening.

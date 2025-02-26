@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-337-25-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Acute poisoning in children: knowing the principles of management
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=25}}
+
+
+
+First and foremost: preventing accidents in the home
+
+Principles of treatment in the event of intoxication :
+
+* Thorough questioning and clinical examination
+* Call the poison control centre
+* Immediate management of the life-threatening emergency according to the ABC algorithm
+* Symptomatic management of the various malfunctions
+* Specific management according to the toxic agent involved (CO, paracetamol, opioids, etc)
+
+<br />

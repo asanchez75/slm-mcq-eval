@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-003-02-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing how to define the concepts of knowledge, know-how and uncertainty.
+|Description= Know how to identify, differentiate and articulate different types of knowledge: medical, scientific, expert/profane and experiential knowledge.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+- 70% of consultations in general practice are situations that are not characteristic of an illness. The doctor finds himself in a situation of ''diagnostic uncertainty''.
+
+- Knowledge is not simply an accumulation of knowledge.
+
+Examples of knowledge:
+
+- '''Medical'''
+
+- '''Scientists'''
+
+- '''Profanes/Experts'''
+
+'''Experiential'''

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-104-11-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing how to treat an MS attack
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+- If disabling attack = high-dose methylprednisolone (1 g per day), intravenously or by mouth, for 3 days. ([[Prescribe systemic or local corticosteroids SD-251|prescribe systemic or local corticosteroids]])
+
+- Allows faster recovery (anti-inflammatory effect). Has no effect on preventing new attacks.
+
+- If the flare-up is not bothersome = abstention from treatment should be discussed.

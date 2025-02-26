@@ -1,0 +1,17 @@
+<br />{knowledge objective
+|Identifiant=OIC-248-01-A
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention through nutrition in adults and children
+|Rank=A
+|Title=Knowing the definition of physical activity, physical inactivity, sedentary lifestyle and physical condition
+|Description=None
+|Rubric=Definition
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=1}}
+- Physical activity (PA): any movement produced by skeletal muscles, responsible for an increase in energy expenditure above the resting value.
+
+- Physical inactivity: insufficient level of moderate to high intensity physical activity, below the recommended threshold.
+
+- Sedentary lifestyle <nowiki>: a set of behaviours while awake, sitting or lying down, characterised by little or no energy expenditure for example: watching television, sitting in an office (activity ≤ 1.5 Metabolic Equivalent of Task [MET]).</nowiki>
+
+- Physical fitness: the general capacity of the body to carry out everyday activities without excessive fatigue and to respond favourably to physical effort. Physical fitness covers a range of physical qualities such as cardiorespiratory endurance, balance and flexibility, as well as muscular strength, endurance and flexibility. An individual's physical condition determines his or her PA capacity and level of intensity.

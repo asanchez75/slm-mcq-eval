@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-218-11-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the main parasitic etiologies of eosinophilia in patients who have not travelled outside mainland France.
+|Description=Cosmopolitan elminthoses: oxyurosis, taeniasis, toxocariasis
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+
+
+'''In case of hypereosinophilia > 1,500/mm<sup>3</sup> (invasive phase) (serological diagnosis):'''
+
+- toxocariasis (''Toxocara canis'' or ''cati'', ingestion of food soiled with dog or cat faeces, sandboxes), which may be completely asymptomatic, or manifest itself as ''[[Pruritus SD-088|pruritus]]''', digestive or respiratory signs, or a visceral ''larva migrans'' syndrome (all organs may be affected, parasitic impasse). Ocular and cerebral localisations can be severe.
+
+
+'''In cases of more moderate eosinophilia (< 1,500/mm<sup>3</sup>, digestive parasitoses without tissue cycling or tissue parasitoses of long-standing establishment)''''''':'''''
+
+- oxyurosis (''Enterobius vermicularis''), manifested by anal ''[[Prurit SD-088|prurit]]'', particularly in children. Diagnosis is based on the ''scotch-test''.
+
+- taeniasis (''Taenia saginata'', ingestion of raw or undercooked beef), manifested by digestive signs (dyspepsia).
+
+Other parasitoses can cause eosinophilia, particularly during the invasion phase: ascariasis, bilharziosis or shistosomiasis, echinococcosis, etc.
+
+<br />

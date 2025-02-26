@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-308-03-A
+|Item_parent=Pancreatic tumours
+|Item_parent_short=Pancreatic tumours
+|Rank=A
+|Title=Knowing the main clinical signs of adenocarcinoma of the pancreas and neuroendocrine tumours
+|Description=Adenocarcinoma
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''The symptoms of any pancreatic tumour'''
+
+General but late:
+
+- Impaired general condition (decrease in daily activity score), asthenia, anorexia
+
+- Weight loss (often significant at diagnosis)
+
+- Imbalance of a known diabetes
+
+- Deep vein thrombosis (which requires a search for cancer in adults aged over 50)
+
+Linked to the location of the tumour :
+
+- Head of the pancreas :
+
+o Jaundice, often without fever, with discolouration of the stools; may be preceded by the appearance of pruritus, Large palpable gallbladder
+
+o More rarely, signs of upper digestive obstruction due to duodenal compression or invasion.
+
+- Body and tail of the pancreas :
+
+o Epigastric, transfixing, sleepless, severe pain requiring rapid treatment with level 3 analgesics (morphine)
+
+o Back pain, often investigated as dorsalgia
+
+o Late symptoms such as occlusive syndrome of the small intestine due to peritoneal invasion (carcinosis)
+
+<br />Specific symptoms of a secretory pancreatic neuroendocrine tumour (Gastrin: Zollinger-Ellison syndrome associating diarrhoea and multiple duodenal ulcers; Insulin: severe hypoglycaemic malaise; VIP responsible for secretory diarrhoea ....).

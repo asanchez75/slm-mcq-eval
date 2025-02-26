@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-195-03-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Know the main epidemiological features of CAG and PPR
+|Description=Infrequent disease, after the age of 50, 4 women for 1 man.
+|Rubric=Prevalence
+|Contributors=
+|Order=3}}
+ACG = most common vasculitis in adults
+
+Hits 4 women for 1 man.
+
+
+Pseudo-polyarthritis rheumatica (PPR) = 3 times more common than CAG.
+
+Hits 4 women for 1 man.
+
+PPR = present in 40 to 60% of CAG patients.
+
+
+ACG = present in 20% of patients with PPR.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-193-07-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Title=Photograph of a vascular purpura
+|Description=Photograph of vascular purpura
+|Rubric=Multimedia content
+|Contributors=Luc Mouthon
+|Order=7}}
+
+<gallery widths="400" heights="400">
+File:Vascular purpura of the lower limbs at the diagnosis of granulomatosis with polyangiitis (GPA).PNG|Vascular purpura_of_the_lower_limbs_at_the_diagnosis_of_granulomatosis_with_polyangiitis_(GPA)
+</gallery>

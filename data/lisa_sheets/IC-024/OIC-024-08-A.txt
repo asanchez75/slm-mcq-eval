@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-024-08-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing the definition of gestational arterial hypertension (GAAH)
+|Description=Know the blood pressure and proteinuria thresholds
+|Rubric=Definition
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=8}}
+
+'''Hypertension during pregnancy = systolic blood pressure (SBP) ≥ 140 mmHg and/or diastolic blood pressure (DBP) ≥ 90 mmHg on at least two occasions. (Cf. [[Hypertension during pregnancy SD-053|53. Hypertension during pregnancy]])''''
+
+We define :
+
+- Pregnancy-induced hypertension: hypertension appearing after 20 weeks' gestation, without associated proteinuria and disappearing before the end of the 6th week postpartum.
+
+- Preeclampsia: association of gestational hypertension with proteinuria (300 mg/24 h). It is said to be "added" when it occurs in a patient with chronic hypertension (Cf. [[Urine dipstick analysis SD-182|182. Urine dipstick analysis]] / [[Proteinuria SD-212|212. Proteinuria]])''''
+
+- Chronic hypertension: hypertension prior to pregnancy but sometimes unrecognised. It should be considered if the hypertension is discovered before 20 weeks' gestation or if it persists for more than 6 weeks post-partum.
+
+A distinction is made between :
+
+- Moderate hypertension: SBP: 140-159 mmHg and DBP: 90-109 mmHg
+
+- Severe hypertension: SBP ≥ 160 mmHg and/or DBP ≥ 110 mmHg.

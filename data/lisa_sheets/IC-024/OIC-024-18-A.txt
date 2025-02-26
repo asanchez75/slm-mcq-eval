@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-024-18-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Defining and diagnosing the threat of preterm birth.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=18}}
+
+Menace d'accouchement prématuré (MAP) = association de '''modifications cervicales''' et de '''contractions utérines''' (CU) régulières et douloureux '''avant 37 SA,''' soit entre '''22 SA et 36 SA + 6 jours.''' ''(Cf. [[Uterine contraction in a pregnant woman SD-098|09. Uterine contractions in a pregnant woman]] / [[Pelvic pain SD-099|99. Pelvic pain]])''''
+
+Regarding changes to the cervix: assessed by TV and/or ultrasound of the cervix (more objective and reproducible vs TV. A shortened cervix is defined by a length < 25 mm.
+
+If the birth occurs before 22 weeks' gestation, it is known as a "late miscarriage".

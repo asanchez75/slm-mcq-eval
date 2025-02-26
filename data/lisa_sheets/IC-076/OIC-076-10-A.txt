@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-076-10-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Knowing the main social complications of alcohol misuse and the link with precariousness
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+[[Precarious social situation and isolation SD-347|Alcohol misuse: risk factor for precariousness]]
+
+Precariousness can encourage relapse.
+
+
+
+
+
+ 
+
+Social complications:
+
+- family: [[Sexual violence SD-350|violence]] intra-family [[Psychological and/or physical violence SD-351|psychological]] or physical, separations, [[Suspected abuse and child endangerment SD-321|child endangerment]], repercussions on the mental health of family members. 
+
+- professional: warning, dismissal, absenteeism, unemployment. 
+
+- financial: debts, neglect or abandonment of administrative or social obligations, housing problems.
+
+- judicial: [[Acute drunkenness SD-049|drunk driving]], [[Acute drunkenness SD-049|public drunkenness]], violence or offence under the influence of alcohol.

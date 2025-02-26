@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-278-08-B
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=B
+|Title=Knowing the causes of obstruction of the main bile duct
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+This is the most common mechanism leading to jaundice. The three main causes are: cancer of the pancreas (by extrinsic compression), primary cancer of the main bile duct (cholangiocarcinoma) and lithiasis of the main bile duct. Less common causes are post-operative stenosis of the bile ducts and compression of the main bile duct by chronic calcifying pancreatitis or by adenopathy (tumour or inflammatory). More rarely, primary sclerosing cholangitis, an inflammatory disease of the bile ducts, leads to stenosis of the main bile duct.

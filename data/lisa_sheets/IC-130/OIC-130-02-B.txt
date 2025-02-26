@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-130-02-B
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=B
+|Title=Knowing standardised geriatric assessment
+|Description=Know the different elements of the EGS
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+'''Standardised geriatric assessment = multidimensional assessment + management proposal'''
+
+The standardised geriatric assessment (EGS) is carried out, at best, outside an acute situation, on a stable patient. The assessment is medical, social and functional, and involves several different professions: doctor, nurse/carer, physiotherapist, social worker, occupational therapist, etc.
+
+It provides the most accurate possible description of the various dimensions of the elderly patient. The main dimensions assessed are as follows
+
+- Cognitive functions (Mini-Mental State Examination - MMSE) and risk of confusion (Confusion Assessment Method - CAM)
+
+- Autonomy and functional independence (Activities of Daily Living -ADL, Instrumental ADL IADL)
+
+- Risk of falls (unipodal support, Timed Up & Go)
+
+- Nutritional status (Mini Nutritional Assessment - MNA)
+
+- Depression (Geriatric Depression Scale - GDS)
+
+- Risk of bedsores (Norton or Braden scale)
+
+- Comorbidities, renal function and treatment (creatinine clearance), reconciliation
+
+- Social environment
+
+- Screening for sensory disorders
+
+this assessment stage is inextricably linked with proposals for care management (medication reconciliation, optimising the management of chronic pathologies and undernutrition, adapting the environment and aids....,)

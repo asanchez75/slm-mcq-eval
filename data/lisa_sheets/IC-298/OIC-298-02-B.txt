@@ -1,0 +1,79 @@
+{{knowledge objective
+|Identifiant=OIC-298-02-B
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the Oral Cavity, Naso-Sinuses, Cavum and Upper Aerodigestive Tract
+|Rank=B
+|Title=Know the main histological types of benign and malignant ENT tumours by location (excluding salivary glands).
+|Description=Naso-sinusal polyp and papilloma/squamous cell carcinoma ++ and depending on the site: undifferentiated nasopharyngeal carcinoma, ethmoid adenocarcinoma, lymphomas of the oropharynx and rhinopharynx.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+
+{| class="wikitable"
+|TOPOGRAPHY
+|REPARTITION
+|HISTOLOGICAL TYPE
+|MAIN RISK FACTORS
+|-
+|Oral cavity
+|20-25 %
+|
+Squamous cell carcinoma
+|Combination of alcohol and tobacco (synergistic effect), poor dental condition
+|-
+|Oropharynx
+|10-15 %
+|Squamous cell carcinoma
+|Alcohol and tobacco (synergistic effect)
+
+Oncogenic HPV (genotype 16 +++ )
+|-
+|Hypopharynx
+|25-30 %
+|Squamous cell carcinoma
+|Combination of alcohol and tobacco (synergistic effect)
+|-
+|Larynx
+|30-35 %
+|Squamous cell carcinoma
+|Mainly tobacco, alcohol
+|-
+|Sinus
+
+Ethmoid
+|< 1 %
+|
+Adenocarcinoma
+|Occupational exposure to the following factors
+
+Wood dust, nickel, formaldehyde, chromic acid
+|-
+|Maxillary sinus
+|< 1 %
+|Squamous cell carcinoma
+|Elderly smoker
+|-
+|Nasopharynx
+
+(or rhinopharynx or cavum)
+|< 1 %
+|Nasopharyngeal carcinoma
+
+(ex Undifferentiated Carcinoma of Nasopharyngeal Type, UCNT)
+|Epstein Barr virus (EBV)
+
+Geographical origin: Mediterranean basin, Southeast Asia
+|}
+
+
+NB The absence of alcohol or tobacco intoxication should not rule out the diagnosis of squamous cell carcinoma for cancers of the oral cavity, oropharynx, hypopharynx and larynx.
+
+
+The growing incidence of lymphoma (the seventh most common cause of cancer in France), the second most common tumour pathology, means that VADS specialists will have to deal with this pathology more often. After the digestive tract, the VADS is the most frequent site of extraganglionic disease. They affect Waldeyer's ring (palatine tonsils +++, lingual tonsils, cavum) but also the sinuses.  
+
+
+Tumours of the accessory salivary glands are mainly found in the oral cavity (palate++) and oropharynx. They appear as nodules or swellings that may ulcerate. All the histological types of tumours of the main salivary glands are represented, but since the accessory salivary gland secretes mainly mucous, 50-60% of tumours are malignant.
+
+
+Other benign or malignant tumours are rare. These include chondroma (benign tumour) or chondrosarcoma of the cricoid cartilage (slow tumour evolution), sarcomas of the VADS (often radio-induced), mucosal melanoma present in all anatomical locations, including the sinuses.  Inverted papilloma is a benign tumour present in the facial sinuses, which may develop into a carcinoma, warranting specific treatment and monitoring.  
+<br />

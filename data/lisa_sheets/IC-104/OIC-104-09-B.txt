@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-104-09-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the general prognosis of MS
+|Description=None
+|Rubric=Monitoring and/or prognosis
+|Contributors=
+|Order=9}}
+- Inter-individual variability +++ = symptoms and prognosis are different from one person to another.
+
+- From benign or mildly symptomatic forms to severe forms, rapidly leading to complete dependence.
+
+- Little change in average life expectancy.
+
+- Without any fundamental treatment, a third of patients would one day have to use a wheelchair, while a quarter had a benign course of the disease, compatible with a virtually normal personal and professional life. The other patients, while remaining independent, gradually developed permanent after-effects that limited their activities. Since the introduction of immunotherapy, the disease has become less severe.
+
+- Unpredictable prognosis at individual level.
+
+- Some factors with a better prognosis = young age of onset, initial relapsing-remitting course, long interval between the first two attacks, inaugural optic neuritis, low lesion load at diagnosis (number of T2 lesions).

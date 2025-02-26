@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-228-08-B
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=B
+|Title=Photograph of necrotic angiodermatitis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Marie-Antoine Sevestre Pietri, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=8}}
+
+[[File:Necrotic angiodermatitis.jpg|vignette|601.133x601.133px|Necrotic angiodermatitis]]
+'''Necrotic angiodermatitis'''
+
+The diagnosis is made in the presence of an ulcer:
+
+*of the anterolateral aspect of the leg;
+*with areas of superficial necrosis ;
+*with irregular margins
+*with a cyanotic and livedoid peri-ulcer halo;
+*very painful, sleepless.
+
+We are looking for :
+
+*high blood pressure, diabetes;
+*pulses are present (there is no arteriopathy in pure angiodermatitis).

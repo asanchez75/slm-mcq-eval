@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-277-23-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Know the principles of treatment of acute cholecystitis
+|Description=Pain, antibiotics and surgery
+|Rubric=Management
+|Contributors=
+|Order=23}}
+
+Acute cholecystitis :
+
+- analgesic treatment
+
+- first-line broad-spectrum antibiotic therapy directed at digestive tract germs, with secondary adaptation to an antibiotic susceptibility test
+
+- cholecystectomy

@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-245-12-A
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=A
+|Title=Know the general principles of the management of acute adrenal insufficiency.
+|Description=Implementation of pharmacological treatment
+|Topic=Management
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=12}}
+
+This is an "extreme emergency". Treatment is started as soon as the diagnosis is suspected.
+
+'''At the patient's home:'''
+
+*Administration of 100 mg hydrocortisone IV or IM or, failing that, SC.
+*Then medical transport to hospital.
+
+'''At the hospital:'''
+
+*Emergency transfer to intensive care.
+*Non-specific measures in the event of coma, fever, pain, hypoxia, etc.
+*Correct haemodynamics and fluid and electrolyte disorders:
+**refill with 0.9% NaCl to compensate for dehydration;
+**no potassium supplementation, because of hyperkalaemia (+++);
+**administration of glucose to compensate for hypoglycaemia.
+*Hydrocortisone :
+**after an initial dose of 100 mg IV or IM (or, failing that, SC);
+**100 mg every 24 hours by continuous IV infusion using an electric syringe (failing this, 50 mg IV or IM every 6 hours).
+*Treat the triggering factor (++).
+*Haemodynamic and clinical monitoring and control of the ionogram.
+
+<br />

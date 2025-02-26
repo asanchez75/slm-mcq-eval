@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-285-16-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Knowing the rare association with IgA deficiency, a source of false negative serology
+|Description=Knowing how to request a weighted immunoglobulin assay
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=16}}
+In the case of IgA deficiency (3 to 5% of patients with coeliac disease), IgA-type anti-transglutaminase antibodies are negative. IgG-type anti-transglutaminase antibodies are measured in association with duodenal biopsies.

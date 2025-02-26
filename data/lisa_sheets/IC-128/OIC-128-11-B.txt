@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-128-11-B
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=B
+|Title=MRI of osteoporosis with vertebral fracture
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+
+[[File:IRM rachis.jpg|vignette|60-year-old postmenopausal woman. Fall from height with persistent lumbar pain. MRI: fracture of the upper plateau of the L1 vertebral body with persistent bone oedema in T2 Fat-Sat hypersignal consistent with a semi-recurrent osteoporotic fracture .]

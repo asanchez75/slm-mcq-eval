@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-354-13-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Knowing the principles of therapeutic management of occlusion in children
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=13}}
+This is a therapeutic emergency. Etiological treatment of intestinal obstruction is the priority.
+
+For certain aetiologies, a therapeutic procedure will be attempted immediately:
+
+* Reduction of a strangulated inguinal hernia
+* Nursing of a patient with Hirschsprung's disease
+
+Otherwise, general principles are applied before surgery:
+
+* Fasting
+* Intravenous rehydration (the younger the child, the greater the risk of dehydration)
+* Nasogastric tube (or orogastric tube before the age of 6 months) suctioning
+* Analgesics
+
+Some operations are vital emergencies:
+
+* Reduction of a hailstone volvulus and placing in a safe position
+
+Other pathologies will be operated on after correction of hydroelectrolytic disorders:
+
+* Extra-mucosal pylorotomy as a treatment for hypertrophic pyloric stenosis
+
+Certain pathologies are only operated on after medical treatment has failed:
+
+* Adhesiolysis for flange occlusion

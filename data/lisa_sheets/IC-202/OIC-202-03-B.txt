@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-202-03-B
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=B
+|Title=Knowing the mechanisms of action of biomedicines and targeted therapies
+|Description=Describing the mechanisms of action of biomedicines and targeted therapies
+|Rubric=Physiopathology
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=3}}
+
+
+
+'''Monoclonal antibodies act by at least 3 mechanisms:'''
+
+*Blocking or activating the function of the recognised molecule,
+*Lysis of the targeted cell by activating complement.
+*antibody dependent cell cytotoxicity.
+
+'''Cytokines and interferons:''' these are recombinant human proteins designed to provide large quantities of physiologically active molecules in order to '''stimulate the haematopoietic system or the immune system.'''
+
+Molecules acting on signalling pathways: these are synthetic molecules designed to inhibit tyrosine kinase pathways, MAP kinase and Janus kinase (JAK) pathways and B-RAF pathways when they are abnormally activated.
+
+'''Cell and gene therapy:''' these are autologous or allogeneic cells, possibly manipulated ex vivo before injection, used to '''compensate for a defective haematopoietic system (haematopoietic stem cell transplants) or immune system (adoptive transfer of T lymphocytes, NK cells)''. The "ex vivo" modification of these cells makes it possible either to "correct a gene deficiency" (e.g. gene therapy for primary immune deficiencies) or to "confer new functions" on the genetically modified cell (e.g. CAR-T cells).
+
+'''Genetic vaccines:''' they are composed of defective recombinant viruses into which sequences coding for antigens of interest are introduced, or synthetic DNA or RNA coding for antigens of interest, or antigenic particles. Their injection, which usually has to be repeated (boosters), enables the in vivo synthesis of vaccine antigens whose capture by antigen-presenting cells will ''induce an innate and adaptive immune response (T and B lymphocytes) as well as an immune memory''.
+
+The development of ''targeted genome editing tools'', which is developing very rapidly, can call on ribonucleoprotein complexes composed of proteins and nucleic acids, more or less associated with chemical cell transfer agents (lipids, for example). These products can be administered "in vivo" or "ex vivo".

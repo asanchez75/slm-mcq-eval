@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-042-09-B
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=B
+|Title=Know how to diagnose functional hypothalamic amenorrhea and its main etiologies
+|Description=None
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=9}}
+
+'''Functional hypothalamic amenorrhoea''' (FHA) is diagnosed in the context of ''''[[Amaigrissement SD-017|amaigrissement]] (anorexia nervosa)''', malnutrition or general illness (renal failure, tumour, etc.).
+
+AHF is mainly seen in girls or young women, and very often after voluntary weight loss and/or after a phase of restrictive eating with ''[[Eating disorders (anorexia or bulimia) SD-132|eating disorders (anorexia or bulimia)]]'''. AHF is secondary to an unbalanced energy balance caused by inadequate nutritional intake (particularly lipid intake) and/or intensive physical exercise. These patients are therefore frequently underweight or at the lower limit of the normal range. Amenorrhoea in this case is secondary to a reduction in the frequency and amplitude of GnRH secretion peaks, leading to a drop in FSH and especially LH secretion. Leptin may play a critical role in the hypothalamic dysregulation of this syndrome. Erythrocyanosis of the extremities is frequently observed.  This is a diagnosis of elimination and pituitary MRI, routinely performed to search for an organic cause of hypothalamic amenorrhoea, is normal. A dietary investigation is essential.

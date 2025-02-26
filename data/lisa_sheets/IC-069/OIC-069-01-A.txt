@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-069-01-A
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychological disorders of pregnancy and the post-partum period
+|Rank=A
+|Title=Know the definition of the main disorders concerned, including post-partum blues and post-traumatic stress disorder in relation to pregnancy.
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=1}}
+
+Any mental disorder related to pregnancy, birth and the child's first year, in the form of decompensation of a psychiatric disorder prior to pregnancy or a first psychiatric episode.
+
+== Main disorders concerned
+
+*Recurrence of previous disorders: [[Bipolar disorders I and II 2C-064-DE-B01|bipolar]], recurrent [[Sad mood/moral pain SD-123|depressive]] disorder, schizophrenia, addictive disorders, [[Anxiety SD-116|anxious]] disorders.
+*During pregnancy: anxiety disorders, depressive episode, denial of pregnancy.
+*Post-partum psychiatric disorders SD-137|Post-partum disorders]]: post-partum blues (non-pathological), major depressive episode, manic episode, brief psychotic episode, anxiety disorders, post-traumatic stress disorder.

@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-194-07-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=Know the diagnostic criteria for APS
+|Description=Know the main clinical and biological manifestations.
+|Topic=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''Diagnosis of SAPL = presence of at least one clinical criterion AND at least one biological criterion.'''
+
+== '''Clinical criteria''' ==
+A single criterion is sufficient
+
+- '''Venous, arterial or microcirculation thrombosis''' '''(management of a patient suspected of having thrombophilia)'''; except for superficial thrombosis.
+
+- ''Obstetric manifestations'': at least 3 spontaneous, consecutive early miscarriages (before 10 weeks' amenorrhoea (SA)), with no other cause identified, or at least one foetal death ''in utero'' (> 10 SA) or at least one unexplained prematurity (''difficulty in procreating'').
+
+== Biological criteria ==
+Persistent presence (on at least two occasions at least 12 weeks apart) of at least one autoantibody detected by various techniques (one is sufficient). These may include :
+
+- ''high titre IgG or IgM isotype anti-cardiolipin antibodies'' (ELISA technique).
+
+- ''high titre IgG or IgM isotype anti-beta2 glycoprotein 1 antibodies'' (ELISA technique)
+
+- Identification of a circulating anticoagulant by haemostasis tests before heparin treatment: isolated APTT prolongation (normal prothrombin rate), uncorrected when patient plasma is mixed with control plasma (eliminates a coagulation factor deficiency), corrected by an excess of phospholipids (neutralisation: adsorption of anti-phospholipid antibodies).
+
+== Non-classifying clinical or laboratory manifestations of APAS ==
+- Cardiac: mitral or aortic valve disease with diffuse or localised thickening (''Libman-Sacks endocarditis'').
+
+- Cutaneous: ''livedo'' (dark erythematous, or blue-purple, net-like discolouration of the skin).
+
+- Renal: thrombosis of the intra-renal arteries
+
+- Thrombocytopenia

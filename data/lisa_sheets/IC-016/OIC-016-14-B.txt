@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-016-14-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Intitulé=To know the expenditure items from the most to the least important in France (hospital, town medicine then drugs)
+|Description=Know the respective percentages
+|Section=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=14}}
+
+In terms of healthcare provision, the '''<nowiki/>'hospital'''' is by far '''the largest item of healthcare expenditure''', accounting for '''just under half''', followed by '''outpatient''' (ambulatory) medicine, which accounts for '''a quarter''', and '''drugs''', which account for '''a fifth'''. The result is a system that remains highly hospital-centric, a characteristic of European insurance systems.

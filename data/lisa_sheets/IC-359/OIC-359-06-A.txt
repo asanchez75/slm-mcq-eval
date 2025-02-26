@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-359-06-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Recognise the signs of clinical and gasometric severity
+|Description=Recognise and know how to record abnormalities in RF, desaturation, cyanosis, signs of draught, rocking, signs in favour of hypercapnia (sweating, cardiovascular signs, encephalopathy), asphyxial bradypnoea. Know the gasometric criteria for severity
+|Rubric=Emergency identification
+|Contributors=Guillaume Carteaux
+|Order=6}}
+
+1°) Signs of clinical severity
+
+o Cyanosis, decrease in SpO<sub>2</sub>.
+
+o Acute respiratory distress
+
+o Signs of circulatory insufficiency (e.g. arterial hypotension, mottling)
+
+o Neurological signs (agitation, anxiety, confusion, convulsions, coma)
+
+2°) Signs of gas severity
+
+o Degree of hypoxemia (hypoxemia = PaO<sub>2</sub> < 80 mm Hg in AA): degree of decrease in PaO<sub>2</sub>/FiO2 ratio (hypoxemia if < 300)
+
+o Degree of hypercapnia (hypercapnia = PaCO<sub>2</sub> > 42 mm Hg): take care if this indicates respiratory exhaustion.
+
+o Hyperlactatemia > 2 mmol/L

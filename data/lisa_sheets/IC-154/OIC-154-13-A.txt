@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-154-13-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Know the principles of first-line treatment of lower respiratory infections in adults and children
+|Description=Overview of symptomatic treatment (prioritisation of oxygenation techniques, physiotherapy, etc.) and aetiology: knowing how to prescribe treatment for lower respiratory infections (criteria for choosing molecules (antibiotics, etc.), routes of administration, duration of treatment) according to the patient's condition and radio-clinical presentation; not including dosage. Knowing not to prescribe antibiotics (bronchitis, bronchiolitis).
+|Rubric=Management
+|Contributors=
+|Order=13}}
+'''Fundamental principles of antibiotic therapy during acute community-acquired pneumonia (CAP):'''
+
+1. antibiotic therapy is probabilistic and urgent ;
+
+2. the choice of molecules depends on the terrain, the radio-clinical and biological presentation, and the severity of the disease;
+
+3. Pneumococcus is the most frequently implicated bacterium: it is systematically taken into account (except for non-severe CAP in young subjects with a presentation suggestive of atypical bacteria);
+
+4. treatment must be re-evaluated after 48-72 hours for :
+
+*extend antibiotic coverage in the absence of improvement,
+*adjust the spectrum according to the results of microbiological samples or improvement under antibiotic therapy that does not cover the germ;
+
+5. Treatment usually lasts 7 days (5 days for uncomplicated CAP in children with no previous history).
+
+
+'''Choice of antibiotic therapy for CAP (in adults):'''
+
+*1- ''PAC managed on an outpatient basis
+**Young patient with no co-morbidity:
+***Amoxicillin (oral) or related macrolide (pristinamycin) if atypical bacteria suspected.
+***if unsuccessful within 48 hours: switch
+**subject > 65 years (physiological age) or comorbidity:
+***Amoxicillin + clavulanic acid (oral route) or ceftriaxone (if oral route not possible) or anti-pneumococcal fluoroquinolone (FQAP) if allergic to beta-lactams.
+***if unsuccessful within 48 hours: hospitalisation
+
+*2- ''PAC hospitalised in the conventional sector
+**Pneumococcus suspected or confirmed :
+***Amoxicillin (IV)
+***If unsuccessful within 48 hours: reassessment (complication?)
+**Pneumococcus not suspected :
+***''Young subject'' :
+****''Amoxicillin'' (IV)
+****Failure after 48 hours: reassessment and combination or switch with macrolide
+***Elderly or with co-morbidity:''''Amoxicillin
+****''Amoxicillin + ac. clavulanique'' (IV) or ceftriaxone or anti-pneumococcal fluoroquinolone (FQAP) if allergic to beta-lactams
+**** ''If unsuccessful within 48 hours: reassessment''
+
+*3- ''CAP hospitalised in intensive care or resuscitation:''
+**General case: cefotaxime or ceftriaxone IV + macrolide IV or levofloxacin
+**Pseudomonas aeruginosa outbreak: piperacillin / tazobactam or C4G or carbapenem + amikacin or tobramycin (3-5 days) + IV macrolide or levofloxacin.
+
+'''Special cases''' :
+
+*''documented CAP with'' ''Legionella'' :
+**''without sign of severity'': macrolide PO for 8 days
+**with signs of severity or immunocompromised: levofloxacin for 21 days
+
+*CAP with abscess": amoxicillin/clavulanic acid IV OR C3G IV + metronidazole (uncodified duration: 3 to 6 weeks)
+
+*Superinfected influenza pneumonia'': Amoxicillin/clavulanic acid or pristinamycin or FQAP (the antibiotic therapy covers pneumococcus and Staphylococcus aureus oxacillin-S).
+
+
+Choice of antibiotic therapy for CAP in children
+
+*With no signs of seriousness
+**under 3 years = suspect pneumococcus first:
+***amoxicillin 80 to 100 mg/kg/day PO, not to exceed 3g/day
+***in case of allergy to penicillin: 3rd generation cephalosporin IV (cefotaxime or ceftriaxone)
+***in the event of widespread allergy to beta-lactams: hospital paediatric opinion
+**After 3 years of age
+***if the presentation is suggestive of mycoplasma infection, a "macrolide" may be used as a first-line treatment, but the possibility of a viral aetiology should also be considered before initiating antibiotic therapy.
+***in the event of an acute presentation suggestive of pneumococcus: amoxicillin 80 to 100 mg/kg/day PO, but not more than 3g/day
+****if allergy: pristinamycin
+*In severe cases: beware of pneumococcus, Staphylococcus and group A Streptococcus, especially if there is pleural effusion for Staphylococcus and GAS.
+
+'''Associated treatments:''''
+
+- Respiratory physiotherapy (adults)
+
+- Probabilistic anti-influenza treatment for suspected influenza in hospitalised adult patients (oseltamivir PO - 5 days)
+
+
+There is no indication for antibiotic therapy except in cases of bronchitis and bronchiolitis, which are most often viral in origin.

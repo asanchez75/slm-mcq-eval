@@ -1,0 +1,57 @@
+<br />{knowledge objective
+|Identifiant=OIC-248-11-B
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention through nutrition in adults and children
+|Rank=B
+|Title=Knowing the recommendations for physical activity in children and adults
+|Description=At least 30 minutes of moderate PA per day on one or more occasions / ≈ 10,000 steps/day, equivalent to brisk walking/cycling/swimming, accelerated breathing without breathlessness
+|Rubric=Management
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=11}}
+'''Physical activity recommendations''' (Source ANSES 2016)
+{| class="wikitable"
+!'''Population'''
+!'''Recommendations on physical activity'''
+!'''and sedentary lifestyles'''
+|-
+Children
+< 5 years
+|3 h/day of physical activity, i.e. 15 min/h for 12 hours of wakefulness
+|Do not exceed 60 minutes continuous sedentary activity
+|-
+Children
+
+6 to 17 years old
+|At least 60 min/day of moderate to high intensity PA
+
+Every 2 days, incorporate at least 20 minutes of intense activity and muscle-strengthening and flexibility activities.
+|Do not exceed 120 minutes of continuous sedentary activity.
+|-
+Adults
+<br />
+|30 minutes of moderate to high intensity physical activity, at least 5 days a week, avoiding 2 consecutive days without physical activity.
+
+Include short periods of high-intensity physical activity
+
+Strength training 1 to 2 times a week with 1 to 2 days' rest between 2 sessions
+
+Stretching: 2 to 3 times a week
+|Interrupt sedentary periods, at least every 90 to 120 minutes, with a 3 to 5 minute walk, with muscle mobilisation.
+|-
+Elderly people
+
+> 65 years
+|30 min of moderate-intensity PA (low breathlessness) per day
+
+Strength training at least 2 non-consecutive days a week
+
+Stretching: 2 to 3 times a week
+
+Balance exercises at least 2 non-consecutive days a week
+|Interrupt sedentary periods, at least every 90 to 120 minutes, with a 5-minute muscular activity.
+|}
+
+
+Physical activity and a sedentary lifestyle are two complementary dimensions.
+
+Any increase in physical activity and breaking the sedentary lifestyle should be encouraged; the recommendations are targets that individuals should gradually achieve, but even small changes have been associated with a significant improvement in all-cause mortality. The greatest observed gain in health is for inactive subjects who become at least moderately active.

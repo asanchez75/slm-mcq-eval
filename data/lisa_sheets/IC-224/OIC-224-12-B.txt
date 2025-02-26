@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-224-12-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the definition of resistant hypertension
+|Description=Know the resistance factors (non-compliance, salt, sleep apnoea syndrome, hypertensive drugs or substances, etc.)
+|Section=Definition
+|Contributors=
+|Order=12}}
+Resistant hypertension is defined as uncontrolled hypertension despite [[Atheroma: epidemiology and pathophysiology. The polyatheromatous patient|adapted lifestyle hygiene]] and triple anti-hypertensive therapy at optimal doses comprising a [[Diuretics/know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A02|thiazide diuretic]] and usually a [[https://sides.uness.fr/lisa/M%C3%A9dicaments_du_syst%C3%A8me_r%C3%A9nine-angiotensine:_connaitre_les_m%C3%A9canismes_d%27action,_indications,_effets_secondaires_interactions_m%C3%A9dicamenteuses,_modalit%C3%A9s_de_surveillance_et_principales_causes_d%27%C3%A9chec_2C-330-PC-A04 ACE inhibitor/ARB2]] and a [[Calcium channel antagonists|calcium channel blocker]].
+
+Resistance factors must be sought:
+
+- Therapeutic education, compliance and self-medication|Therapeutic non-adherence
+
+- [[Drug interactions 2C-322-PC-A12|drug interactions]] or use of hypertensive substances
+
+- Atheroma: epidemiology and pathophysiology. The polyatheromatous patient|excessive sodium intake]]
+
+- [[Alcohol addiction.|excessive alcohol consumption]]
+
+- Sleep disorders in children and adults|obstructive sleep apnoea-hypopnoea syndrome]]

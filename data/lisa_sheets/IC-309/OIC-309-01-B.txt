@@ -1,0 +1,105 @@
+{{knowledge objective
+|Identifiant=OIC-309-01-B
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=B
+|Title=Knowing the main histological types of bronchopulmonary cancer
+|Description=adenocarcinoma, squamous cell carcinoma, small cell carcinoma, metastasis
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''SDS:'''
+
+'''016 ''' [[Single or multiple adenopathies SD-016|Single or multiple adenopathies]]
+
+'''017 ''' [[Weight loss SD-017|Weight loss]]
+
+'''327''' [[Announcement of a diagnosis of serious illness to the patient and/or family SD-327|Announcement of a diagnosis of serious illness to the patient and/or family]]
+
+'''021''' [[Asthenia SD-021|Asthenia]]
+
+'''297''' [[Cancer follow-up consultation SD-297|Cancer follow-up consultation]]
+
+'''238''' [[Request and preparation for endoscopic examinations (bronchial, digestive) SD-238|Request and preparation for endoscopic examinations (bronchial, digestive)]]
+
+'''178''' [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]
+
+'''161''' [[Chest pain SD-161|Chest pain]]
+
+'''200''' [[Dyscalcemia SD-200|Dyscalcemia]]
+
+'''202''' [[Dysnatremia SD-202|Dysnatremia]]
+
+'''146''' [[Dysphonia SD-146|Dysphonia]]
+
+'''162''' [[Dyspnea SD-162|Dyspnea]]
+
+'''020''' [[Discovery of anomalies on pulmonary auscultation SD-020|Discovery of anomalies on pulmonary auscultation]]
+
+'''226''' [[Discovery of brain abnormality on medical imaging examination SD-226]]
+
+'''227''' [[Discovery of a spinal cord or vertebral anomaly on medical imaging examination SD-227|Discovery of a spinal cord or vertebral anomaly on medical imaging examination]]
+
+'''228''' [[Discovery of a bone and joint abnormality on medical imaging examination SD-228|Discovery of a bone and joint abnormality on medical imaging examination]]
+
+'''121''' [[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]
+
+'''030''' [[Denutrition/malnutrition SD-030|Denutrition/malnutrition]]
+
+'''160''' [[Acute respiratory distress SD-160|Acute respiratory distress]]
+
+'''260''' [[Assessment and management of chronic pain SD-260|Assessment and management of chronic pain]]
+
+'''163''' [[Expectoration SD-163|Expectoration]]
+
+'''239''' [[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]
+
+'''352''' [[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient]]
+
+'''337''' [[Identifying, caring for and monitoring a patient in a palliative situation SD-337|Identifying, caring for and monitoring a patient in a palliative situation]]
+
+'''180''' [[Interpretation of an anatomopathology report SD-180|Interpretation of an anatomopathology report]]
+
+'''009''' [[Parietal mass/tumefaction SD-009|Parietal mass/tumefaction]]
+
+'''250''' [[Prescribe analgesics SD-250|Prescribe analgesics]]
+
+'''254''' [[Prescribing care associated with the initiation of chemotherapy SD-254|Prescribing care associated with the initiation of chemotherapy]]
+
+'''314''' [[Tobacco risk prevention SD-314|Tobacco risk prevention]]
+
+'''315''' [[Occupational risk prevention SD-315|Occupational risk prevention]]
+
+'''303 ''' [[Prevention/screening of adult cancers SD-303|Prevention/screening of adult cancers]]
+
+'''167''' [[Cough SD-167|Cough]]
+
+'''181''' [[Malignant tumours on surgical specimen/biopsy SD-181|Malignant tumours on surgical specimen/biopsy]]
+
+'''158''' [[Cervicofacial swelling SD-158|Cervicofacial swelling]]
+
+'''014''' [[Blood emission through mouth SD-014|Blood emission through mouth]]
+
+'''151''' [[Face and neck oedema SD-151|Face and neck oedema]]
+
+
+Two main histological types:
+
+1- ''non-small cell carcinomas'' (which account for almost 80% of cases), including
+
+*Adenocarcinomas:
+**the most common, mostly peripheral in location;
+**histology: glandular differentiation; marking for Thyroid Transcription Factor-1 (TTF1) in immunohistochemistry.
+*Squamous cell carcinomas:
+**rather proximal location ;
+**histology: squamous differentiation; marking for p40 in immunohistochemistry.
+*Undifferentiated carcinomas
+
+
+2- small cell carcinomas (15%):
+
+*proximal location with frequent mediastinal invasion
+*histology: of neuroendocrine origin, poorly differentiated; immunohistochemistry positive for neuroendocrine markers (CD56; synaptophysin)
+
+
+'''Metastasis''': a secondary tumour site resulting from the dissemination of tumour cells from the primary tumour via the lymphatic and blood systems, followed by implantation at a distance.

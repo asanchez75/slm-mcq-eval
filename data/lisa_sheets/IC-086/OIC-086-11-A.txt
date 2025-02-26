@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-086-11-A
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=A
+|Title=Stye treatment
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+Treatment consists of an antibiotic eye drop or ointment for 8 days. In cases resistant to treatment or in encysted forms, incision at the free edge may be necessary. This is carried out under local anaesthetic on an outpatient basis.

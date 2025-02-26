@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-104-18-A
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=A
+|Title=Knowing that NORB threatens visual prognosis and is a diagnostic emergency
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=18}}
+- Optic neuritis, particularly during a first episode, is a diagnostic emergency. Although the prognosis in MS is generally good, certain differential diagnoses with a much worse prognosis should not be overlooked (optic neuritis in neuromyelitis optica, for example, or reduced visual acuity in intracranial hypertension).
+
+Urgent treatment with high-dose corticosteroids should be offered as soon as the diagnosis is confirmed (intravenous or oral boluses of methylprednisolone, but not small doses of oral corticosteroids) ([Prescribe systemic or local corticosteroids SD-251|prescribe systemic or local corticosteroids]).

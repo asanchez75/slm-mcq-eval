@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-243-05-A
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=A
+|Title=Knowing abnormal hormone levels
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Eva Feigerlova,Igor Tauveron,Relecture Stéphanie Espiard
+|Order=5}}
+
+
+
+[Thyroid workup analysis SD-194
+
+'''1)''' <u>The diagnosis of peripheral hypothyroidism (involvement of the thyroid gland) is made on an increase in '''TSH'''</u>.
+
+In a second step, if TSH is high, free T4 is measured
+
+*Normal free T4: mild or subclinical hypothyroidism (low TSH, between 4 and 10 mIU/l)
+*low free T4: hypothyroidism (TSH > 10 mIU/l)
+
+<u>2) The diagnosis of thyroid insufficiency is based on the measurement of '''T4L,''' and TSH.</u>
+
+T4L is always low. TSH is normal or low, unsuitable for the low T4 value.
+
+*Pituitary adenoma
+
+<br />
+<references />

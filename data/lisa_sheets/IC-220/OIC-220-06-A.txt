@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-220-06-A
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=A
+|Title=Know the specific aetiologies of acute, subacute and chronic cervical adenitis in children and adults.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+'''1) Infectious causes:'''
+
+- Viral or bacterial ENT infection
+
+- Systemic infection (EBV, CMV, Toxoplasmosis)
+
+- Oral and dental infections
+
+- HSV
+
+- Pyogenic adenitis (staphylococcus and streptococcus)
+
+- Tuberculosis or atypical mycobacteria
+
+- Cat scratch disease
+
+- Pasteurellosis
+
+- Tularemia
+
+-
+
+'''2) Tumour causes:''''
+
+- Leukaemia
+
+- Hodgkin's or non-Hodgkin's lymphoma
+
+- Lymph node metastasis
+
+'''3) Inflammatory causes:''''
+
+- Granulomatosis
+
+- Castelman's disease
+
+- Histiocytosis
+
+- Periodic fevers (hyper IgD, others...) , other autoimmune inflammatory diseases (Still...)

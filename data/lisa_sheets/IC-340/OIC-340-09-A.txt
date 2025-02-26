@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-340-09-A
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the main causes of ischemic stroke
+|Description=None
+|Rubric=Etiologies
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=9}}
+[[Hypertension SD-042|Table]] 2 : Main causes of ischaemic stroke
+([[Performing and interpreting an electrocardiogram (ecg) SD-185|performing and interpreting an electrocardiogram (ECG)]]; [[Arterial hypertension SD-042|arterial hypertension]]; [[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]]; [[Hyperthermia/fever SD-044|hyperthermia/fever]]; [[Palpitations SD-165|palpitations]]; [[Chest pain SD-161|chest pain]]; [[Lipid profile analysis SD-195|lipid profile analysis]]; [[Hyperglycaemia SD-208|hyperglycaemia]]; [[Discovery of a brain abnormality on medical imaging SD-226|discovery of a brain abnormality on medical imaging]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]])
+
+<br />
+{| class="wikitable"
+| colspan="5" |'''Main causes of Ischemic Stroke''''
+|-
+|'''Atherosclerosis'''
+|'''Lacunar or linked to small artery disease'''
+|'''Emboligenic heart disease'''
+|Origin undetermined
+|Other identified causes''
+|-
+|30%
+|20%
+|20%
+|25%
+|5%
+|-
+|<nowiki>-Macroangiopathy</nowiki>
+
+-Presence of "significant" stenosis if > 50% of an artery upstream of the cerebral infarction and presence of vascular risk factors
+|<Microangiopathy -Small deep infarct less than 20 mm in diameter associated with lipohyalinosis. Main risk factor: hypertension</nowiki>.
+|<Numerous causes divided according to their embolic risk (high and moderate or poorly determined).
+
+-Atrial fibrillation in 50% of cases.
+<br />
+|<Etiology not found despite exhaustive investigation</nowiki>.
+
+- Incomplete balance sheet
+
+-Multiple causes
+<br />
+|<Dissection of the cervical arteries is one of the most frequent causes of cerebral infarction in young people (approximately 20%).
+
+- rare causes of macro- and microangiopathies (inflammatory, haematological, metabolic, genetic, etc.) to be investigated according to the clinical and anamnestic context and complementary examinations.
+<br />
+|}

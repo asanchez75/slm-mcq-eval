@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-280-02-A
+|Item_parent=Ascite
+|Item_parent_short=Ascite
+|Rank=A
+|Title=Knowing the two most common causes in France
+|Description=cirrhosis and peritoneal carcinosis
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+The main causes of ascites are listed in table 1. The two most common causes in France are cirrhosis and peritoneal carcinosis.

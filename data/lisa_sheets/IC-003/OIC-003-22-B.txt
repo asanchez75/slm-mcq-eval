@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-003-22-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Know the definition and main characteristics of a controversy.
+|Description=Controversy
+|Rubric=Definition
+|Contributors=
+|Order=22}}
+- Controversy = public disagreement about knowledge (its veracity, stability or applicability).
+
+- The 'normal' state of research, in contrast to the stabilised state of knowledge
+
+- Regularity of controversy in media societies
+
+- ''Fake news'' throughout history, battles of authority
+
+- Knowing how controversy works :
+
+o Publication and counter-publication
+
+o Debate and contestation
+
+o Various 'arenas' for controversy (journals, congresses, media platforms, courts, parliaments)
+
+o Variable, but relatively stable sociological players (medical researchers, practitioners, patients, industry, public authorities)

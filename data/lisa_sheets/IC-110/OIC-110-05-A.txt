@@ -1,0 +1,79 @@
+{{knowledge objective
+|Identifiant=OIC-110-05-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the main causes of sleep disorders
+|Description=hypersomnolence, insomnia, parasomnia
+|Rubric=Etiologies
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=5}}
+
+The 6 main categories of sleep disorders according to ICDS-3 are :
+
+*Insomnia due to difficulty in falling asleep and/or maintaining sleep (10%)
+*Sleep-disordered breathing, of which obstructive sleep apnoea syndrome is the most common (5 to 10% of the adult population, of which 2 to 5% are symptomatic and require treatment).
+*Central hypersomnolence, including narcolepsy types 1 and 2, idiopathic hypersomnia and drug-induced hypersomnolence.
+*Disorders of the circadian sleep-wake rhythm, including delayed phase syndrome (common in adolescents and young adults) and early phase syndrome (common in the elderly).
+* Parasomnias, including sleepwalking and night terrors (especially in children) and behavioural disorders during REM sleep (in adults).
+*Abnormal movements during sleep, including restless legs syndrome (with a prevalence of 5 to 15%)
+
+
+Insomnia is a complaint of difficulty in falling asleep or staying asleep (difficulty in maintaining sleep or waking up too early) or sleep time < 6 hours, in an adequate context of night sleep and which has repercussions on daytime functioning (fatigue, attention, memory, mood and behaviour problems, daytime sleepiness). It may be chronic if it occurs at least 3 times a week for at least 3 months, or acute if it has lasted less than 3 months.
+
+The prevalence of chronic insomnia in the general population is 10%, more common in women and older people.
+
+The predisposing factors for insomnia are female gender, genetic predisposition, low income and a perfectionist personality.
+
+Insomnia can be triggered by bereavement, separation, unemployment, a change in sleep-wake rhythm and the use of medication (corticosteroids, beta-blockers) or stimulants (caffeine, nicotine).
+
+The comorbidities of insomnia are psychiatric disorders (depression, anxiety) and medical pathologies (sleep apnoea, pain, disability, restless legs syndrome, nocturnal asthma, gastro-oesophageal reflux, head trauma).
+
+
+'''Understanding the particularities of insomnia in children'''
+
+The prevalence of insomnia is high at ''25-50% of children under 5, 16-27% of school-age children aged 6 to 12 and 17-39% of adolescents''.
+
+Insomnia is characterised by a sleep maintenance disorder (frequent nocturnal awakenings) in children under the age of 2 and by sleep onset insomnia (difficulty falling asleep) in children over the age of 2.
+
+The causes of insomnia in children are :
+
+1. behavioural insomnia
+
+a. linked to the family or cultural lifestyle: noise, parents' schedules (work rhythm, getting up and going to bed), co-sleeping, time spent in front of screens, especially when falling asleep
+
+b. abnormal sleep conditioning linked to parental behaviour (70% of the aetiologies of insomnia in young children):
+
+-at bedtime due to inappropriate lullabies (presence of parents or child in parents' bed or in arms, rocking, bottle feeding, TV)
+
+-misunderstanding (early intervention < 5min)
+
+c. absence of limits: opposition to going to bed and waking up at night
+
+d. dietary errors
+
+-Quantitative: insufficient food intake (hunger) or excessive food intake (gastro-oesophageal reflux, vomiting, full bladder, etc.) or low number of meals.
+
+-qualitative: prolonged breastfeeding, nocturnal feeding or unbalanced content (insufficient fat, excessive sugar (diarrhoea, colic) or protein (bedwetting, thirst))
+
+e. poorly organised naps (from the age of 2, there is a negative correlation between daytime sleep duration and night-time sleep duration).
+
+
+'''2. Symptomatic insomnia:''''
+
+''a. organic causes''':''''' pain (colic, teething), gastro-oesophageal reflux, ENT infections (ear infections), urinary tract infections, hernias, tumours, neurological diseases (mental retardation, neuro-sensory deficits), dermatological diseases (eczema, pruritus), respiratory diseases (asthma, OSA), food allergies (cow's milk protein allergy, food intolerances), psychostimulant drugs (corticosteroids, β2mimetics, Ritalin) restless legs syndrome: 0.5% children, 1% adolescents
+
+''b. psychological causes:'' psycho-affective factors, anxiety, depression
+
+
+'''In adolescents:'''
+
+In adolescence, there may be difficulties falling asleep with "phase delay" and a tendency to "sleep deprivation" (an average of 2 hours less sleep than physiologically required), associated with daytime tiredness and morning sleepiness.   
+
+This period is characterised by a physiological phase delay, a physiological tendency to go to bed late and get up late, linked to the psychosocial and emotional changes brought about by puberty. It is accompanied by a decrease in deep sleep and an increase in light slow wave sleep and sleep onset latency. There is a tendency for the sleep debt to be recovered at the weekend, with people going to bed late and waking up late, which reinforces the phase delay and the sleep debt during the week.
+
+Phase delay is initially physiological but, in the absence of lifestyle and sleep hygiene measures, it could become pathological with neuropsychological and metabolic consequences linked to insufficient sleep.
+
+Contributing factors include reduced family control (fewer rules), pressure from school and society, the use of screens and the consumption of stimulants.
+
+''Particularities of insomnia in children'': cognitive-behavioural therapy, no drug treatment other than melatonin.

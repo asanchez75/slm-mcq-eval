@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-162-03-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Know the preventive measures for STIs
+|Description=Conservative, vaccination
+|Section=Management
+|Contributors=
+|Order=3}}
+- Protecting sexual relations by using condoms
+
+- Preventive vaccination for HPV and hepatitis B (and hepatitis A in men who have sex with men)
+
+- Identify the contaminated or contaminating partner(s) and propose screening, diagnosis and/or probabilistic treatment;
+
+- Systematically offer :
+
+- HIV serology,
+
+- treponemal test,
+
+- hepatitis B serology
+
+- Urinary or genital PCR for Neisseria gonorrhoeae and Chlamydia trachomatis
+
+- Pharyngeal and anal PCR according to sexual practices
+
+- Emphasise the risks of recontamination (education)
+
+- Consider PrEP (Pre-Exposure Prophylaxis) type treatment against HIV if you take risks too regularly

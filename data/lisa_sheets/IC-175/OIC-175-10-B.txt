@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-175-10-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Knowing the signs of aetiological orientation according to incubation periods
+|Description=None
+|Rubric=Etiologies
+|Contributors=MORAND-JOUBERT Laurence ; Alexandre DUVIGNAUD
+|Order=10}}
+
+Knowledge of the usual incubation periods can help guide the aetiological diagnosis.
+
+'''Short incubation period: < 7 days'''
+
+- Infectious diarrhoea (Shigellosis, Salmonellosis minor, Cholera)
+
+- Arboviroses (Yellow fever, Dengue, Chikungunya, Zika)
+
+'''Incubation between 7 and 14 days'''
+
+- Malaria,
+
+- Typhoid
+
+- Borreliosis, Leptospirosis, Rickettsial disease
+
+- HIV
+
+'''Long incubation > 14 days'''
+
+- Malaria,
+
+- Viral hepatitis
+
+- Amoebose
+
+- Bilharzia
+
+In most cases, it is only possible to establish a range for the assumed incubation period, based on the dates of entry to and exit from the country or countries visited and the date of onset of symptoms.
+
+This information, combined with a meticulous clinical-biological syndromic approach, enables us to narrow down the field of possible diagnoses.
+
+For example:
+
+*A fever associated with an algo-syndrome (headache, myalgias, arthalgias) and eruption (maculo-papular exanthema) occurring less than 7 days after returning from a tropical zone is highly suggestive of an arbovirosis such as dengue.
+*A fever associated with an algesic syndrome (headaches, myalgias, arthalgias), digestive disorders (nausea, abdominal pain, diarrhoea) and jaundice occurring more than two weeks after returning from a destination in sub-Saharan Africa should raise the diagnosis of malaria as a first step. In unvaccinated patients, acute viral hepatitis A may also be suspected.
+*A dysenteric syndrome without fever occurring several months after returning from a tropical destination should raise the suspicion of acute intestinal amoebosis (amoebic colitis).

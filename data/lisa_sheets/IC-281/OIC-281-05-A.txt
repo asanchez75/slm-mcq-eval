@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-281-05-A
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=A
+|Title=Knowing the characteristics of chronic pancreatitis pain
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+- Epigastric in location, radiating posteriorly (transfixing), it is typically triggered by food or alcohol intake. The pain may be due to a flare-up of acute pancreatitis on PC, or to chronic inflammation.
+
+- The course of the pain varies, from several hours to a few days.
+
+- Secondary weight loss is partly linked to pain, with patients restricting the diet that triggers pain

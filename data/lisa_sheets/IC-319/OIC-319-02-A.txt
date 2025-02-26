@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-319-02-A
+|Item_parent=Malignant lymphomas
+|Item_parent_short=Malignant lymphomas
+|Rank=A
+|Title=Knowing emergency situations in lymphomas
+|Description=Superior cava syndrome, compressive abdominal mass, spinal cord compression, ICH picture
+|Rubric=Emergency identification
+|Contributors=
+|Order=2}}
+Three conditions requiring urgent diagnostic and therapeutic management may indicate lymphoma:
+
+- superior vena cava syndrome associated with a mediastinal mass of varying size that is compressive (peregrine oedema, turgidity of the jugular veins, thoracic collateral venous circulation, orthopnoea, cough).
+
+- a rapidly progressive abdominal mass, particularly indicative of Burkitt's lymphoma in children or young adults (abdominal pain, occlusive syndrome, compression). It is important to look for spontaneous tumour lysis syndrome in this setting.
+
+- neurological syndrome of radiculomedullary compression.

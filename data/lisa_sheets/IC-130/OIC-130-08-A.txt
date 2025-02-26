@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-130-08-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Knowing the consequences of polypathology on the diagnostic approach
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+Certain illnesses can be more difficult to diagnose when the patient has a polypathology, which is a constant background noise in their lives. For example, patients may talk about chronic osteoarthritis pain, chronic dyspnoea or cough in connection with COPD, etc. It is therefore essential to refocus the questioning from the outset on the reason for consultation or hospitalisation. "For what reason are you coming for a consultation today?" "What new medical factor has given me the pleasure of seeing you in consultation today?
+
+Within the polypathology, the presence of neurocognitive disorders represents an additional difficulty, requiring the relatives to be questioned.
+
+Polypathology therefore requires:
+
+- list all pathologies
+
+- target the pathologies involved in the reason for consultation or hospitalisation;
+
+- target poorly defined pathologies that also need to be rapidly treated
+
+- list quiescent pathologies (known, well managed, stable in the current acute context)
+
+- list all treatments prescribed, anticipate any new treatments required in the light of the usual treatments, and apply a systematic approach to assessing the risk of adverse drug events.
+
+
+This systematic approach is the only way to prioritise the management, investigation and treatment of pathologies.

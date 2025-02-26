@@ -1,0 +1,49 @@
+<br />{knowledge objective
+|Identifiant=OIC-135-02-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Know how to evaluate analgesic treatment
+|Description=Know how to set the objectives of medicinal and non-medicinal treatment. Know how to assess its effectiveness and risks.
+|Rubric=Management
+|Contributors=
+|Order=2}}
+'''<u>Evaluating the effectiveness of a treatment</u>'''
+
+Analgesic treatment is considered effective when the pain is of an acceptable intensity for the patient in relation to the expected adverse effects, which as a general rule corresponds to a reduction of at least 30% in the initial intensity of the pain The therapeutic objectives for acute and chronic pain are not the same
+
+'''In acute pain'''
+
+- Most often it is a nociceptive pain (traumatology, post-operative).
+
+- The assessment of pain intensity (numerical scale, visual analogue scale, etc.) is of prime importance.
+
+- Objective: zero pain or finding the acceptable pain threshold
+
+
+'''In a situation of chronic pain'''
+
+- Chronic pain is "multidimensional", with an emotional, cognitive and behavioural component and an impact on quality of life.
+
+- Pain is often amplified by "central sensitisation".
+
+- '''The goal of "zero pain" is not usually achievable.'''
+
+- Assessment of the patient's quality of life (using appropriate questionnaires) and global evaluation (Global Clinical Impression) are of prime importance.
+
+
+'''<u>Evaluating tolerance</u>''''
+
+There are two types of adverse reaction:
+
+- Foreseeable and curable side-effects: for example, constipation on opioids, which should be prevented systematically.
+
+- Transient side effects: for example, nausea and digestive problems with certain antidepressants, which last around 15 days.
+
+It is also important to ensure that the analgesic effect lasts (to check that analgesia remains effective), and in particular to assess any tolerance with opioids (need to increase doses to obtain the same analgesic effects).
+
+'''<u>Evaluating compliance</u>''''
+
+- Evaluate doses taken, times and deadlines
+
+- Factors affecting compliance: emotional and affective disorders, cognitive factors.

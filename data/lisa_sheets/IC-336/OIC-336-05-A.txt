@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-336-05-A
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=A
+|Title=Knowing how to look for clinical and anamnestic signs of coma
+|Description=Fever, meningeal syndrome, local signs, scalp examination, circumstances...
+|Rubric=Positive diagnosis
+|Contributors=Nicolas Weiss
+|Order=5}}
+
+- onset: abrupt, rapidly progressive, gradual
+
+- presence of fever, purpura
+
+- presence of meningeal syndrome
+
+- presence of oculomotor disorders
+
+- trauma (bruising, haematoma in the eyeglass or retroauricular area)
+
+- convulsions, myoclonus
+
+- context :
+
+o chronic intoxication: alcohol, illicit substances
+
+o farewell letter, empty blister packs
+
+o Empty syringes, injection marks
+
+o prescriptions for oral antidiabetics or insulin
+
+o dilapidated accommodation, heating methods (CO ...)

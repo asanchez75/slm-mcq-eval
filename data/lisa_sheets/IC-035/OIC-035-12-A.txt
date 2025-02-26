@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-035-12-A
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=A
+|Title=Knowing the work-up to be carried out for uterine bleeding (menometrorrhagia)
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=Antoine Netter
+|Order=12}}
+
+'''([[Request/reasoned prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]])''''
+
+'''Bilan biologique''' :
+
+*Systematic plasma or urinary β-hCG tests in all patients of childbearing age ([[Genital bleeding during pregnancy SD-111|Genital bleeding during pregnancy]]);
+*NSF ([[Haemoglobin decrease SD-217|haemoglobin decrease]]);
+*Martial assessment: ferritinemia + CRP (because an inflammatory syndrome can mask hypoferritinemia); ([[Ferritin: decrease or increase SD-207|ferritin: decrease or increase]])
+*Haemostasis test (PT, APTT), Willebrand factor assay to look for Willebrand's disease (broad indication in adolescents).
+
+'''Bilan d'imagerie''' : ([[Demande d'un examen d'imagerie SD-231|demande d'un examen d'imagerie]], [[Découverte d'une anomalie pelvienne à l'examen d'imagerie médicale SD-229|découverte d'une anomalie pelvienne à l'examen d'imagerie médicale]])
+
+*Pelvic ultrasound is performed abdominally and endovaginally as a 1st-line procedure to look for myomas, adenomyosis, uterine polyps, ovarian cysts, arteriovenous malformations, and to assess the thickness and regularity of the endometrium (particularly in post-menopausal women).
+*Pelvic MRI '''' is useful as a 2nd<sup>intention</sup>''', to map a polymyomatous uterus, to characterise an ovarian cyst that is undetermined or suspicious on ultrasound, in cases of histologically proven endometrial or cervical cancer (locoregional extension), to assess the uterine cavity when this is inaccessible by hysteroscopy.
+
+'''Histological samples:''''
+
+*Endometrial biopsy:
+**This should be carried out in any patient over the age of 45 or if there is a risk factor for endometrial cancer.
+**The sample is taken with a Cornier® pipelle or by directed hysteroscopy.
+**The aim of the biopsy is to diagnose endometrial cancer or atypical glandular hyperplasia.
+**'''A biopsy cannot rule out endometrial cancer with certainty, even if it is normal ([[Malignant tumours on surgical specimen/biopsy SD-181|malignant tumours on surgical specimen/biopsy]], [[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]])'''. In the case of post-menopausal metrorrhagia, an operative hysteroscopy must be performed.
+*Cervico-uterine smear'':'''' The result of a cervico-uterine smear is distorted by the presence of blood ([[Interpretation of a pathology report SD-180|interpretation of a pathology report]]).
+*Biopsy of the uterine cervix: This is carried out systematically in the event of a suspicious appearance of the uterine cervix on speculum examination, or guided by colposcopy in the context of an abnormal cervico-uterine smear.
+
+
+Diagnostic hysteroscopy:
+
+*It is preferably carried out in the 1st part of the cycle and in the absence of pregnancy.
+*It allows the uterine cavity to be visualised: appearance of the endometrium, presence of a polyp or myoma.
+*It should be carried out if there is an abnormality on ultrasound or if drug treatment has failed with a normal ultrasound.
+
+<br />

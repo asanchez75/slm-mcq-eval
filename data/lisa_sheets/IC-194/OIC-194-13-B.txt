@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-194-13-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=Know the indications for renal biopsy and the main renal lesions
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=13}}
+
+
+Percutaneous or trans-jugular renal biopsy indicated in cases of ''proteinuria greater than 0.5 g/g creatinine (or 0.5 g per 24 hours) and/or renal failure'' (unless contraindicated).
+
+Predominant disorders: ''glomerulonephritis'' (interstitial and vascular disorders less common)
+
+
+Light microscopy analysis to determine the stage of glomerulonephritis and whether lesions are active or chronic.
+
+Direct immunofluorescence analysis: deposits of immunoglobulins of all classes and complement
+
+Class I: normal appearance of glomeruli under light microscopy but mesangial immune deposits in immunoflurescence
+
+Class II: mesangial hyperplasia (light microscopy) + immunoflurescent mesangial immune deposits
+
+Classes III and IV: endo- and/or extra-capillary hypercellularity and/or immune deposits in the glomerular capillaries in less than 50% and 50% or more of the glomeruli respectively.
+
+Class V: may be associated with classes II, III or IV; extra-membranous immune deposits
+
+
+Class VI: predominance of glomeruli (over 90%) made of sealing bread (fibrous): kidney destroyed by lupus nephropathy

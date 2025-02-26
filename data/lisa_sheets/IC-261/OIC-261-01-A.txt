@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-261-01-A
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=A
+|Title=Know how to diagnose glomerular nephropathy
+|Description=Know how to identify glomerular proteinuria and haematuria of glomerular origin.
+|Rubric=Positive diagnosis
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=1}}
+
+I. Diagnosing glomerular nephropathy
+
+A. Suggest a glomerular syndrome if one or both of the following signs are present:'''
+
+*[[Proteinuria SD-212|Proteinuria]] glomerular ''':''''
+**detected by dipstick ;
+**confirmed by assay (in g/g creatinine or mg/mmol creatinine or g/24 hours);
+**composed of at least 60% albumin.
+*Haematuria :
+**microscopic (red blood cells > 10/mm3 or 104/ml) +/- deformed red blood cells or red blood cell cylinders;
+**total macroscopic, painless, without clots.
+**Three other signs may be associated:
+*HTA ;
+*Peripheral oedema;
+*acute or chronic renal failure.

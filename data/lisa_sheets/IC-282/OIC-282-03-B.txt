@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-282-03-B
+|Item_parent=Chronic inflammatory bowel disease (IBD) in adults
+|Item_parent_short=Inflammatory bowel disease (IBD) in adults
+|Rank=B
+|Title=Knowing the pathophysiological principles of Crohn's disease and ulcerative colitis
+|Description=Genetic predisposition CARD 15- NOD 2 gene
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+
+Their cause has not been identified and their pathophysiology is still poorly understood. The inflammatory reaction that induces intestinal and extra-intestinal lesions involves genetic and environmental factors, factors linked to the faecal microbiota, and abnormalities in the immune response. In some patients, there is a genetic predisposition, in particular polymorphisms of the CARD 15-NOD 2 gene in CD (of no diagnostic use), but other genes may be involved. Smoking promotes CD and its complications, whereas it protects against UC. Smoking cessation is therefore a priority in the treatment of CD. Current medical treatments for IBD are mainly immunosuppressive agents that target, more or less specifically, the various inflammatory pathways involved in the pathophysiology.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-299-02-A
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=A
+|Title=Know the definition of primary intracranial tumours: central nervous system and adnexa
+|Description=Know the distinction between tumours originating in the CNS and tumours originating in its adnexa
+|Rubric=Definition
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=2}}
+
+- Primary brain tumour =''' intra-axial, developed within the brain itself (i.e. brain, trunk, cerebellum), e.g. glioblastoma
+
+- Primary adnexal tumour = extra-axial, developed from the meninges and cranial nerves, e.g. meningioma and schwannoma/neuroma of the vestibular nerve.

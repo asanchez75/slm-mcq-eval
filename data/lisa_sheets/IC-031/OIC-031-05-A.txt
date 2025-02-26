@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-031-05-A
+|Item_parent=Childbirth, delivery and normal postnatal care
+|Item_parent_short=Childbirth, delivery and normal postnatal care
+|Rank=A
+|Title=Know the definitions of the different types of childbirth
+|Description=Know the definitions of the different types of childbirth
+|Rubric=Definition
+|Contributors=Vincent Dochez,Philippe Deruelle
+|Order=5}}
+
+'''Definitions of childbirth'''.
+{| class="wikitable"
+|'''Childbirth'''
+|All the phenomena that lead to the expulsion of the foetus and its appendages (placenta, amniotic fluid and membranes).
+|-
+|'''Eutoctal or normal delivery''''
+|A delivery which, through the influence of natural phenomena alone, results in the expulsion of the child by vaginal delivery.
+|-
+|'''Dystocic childbirth'''
+|This is a delivery which leads to difficulties or impossibility of delivery by vaginal route.
+|-
+|Premature delivery
+|A delivery that occurs before 37 weeks' gestation.
+|}

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-006-05-A
+|Item_parent=The organisation of clinical practice and the methods used to secure the patient's care pathway
+|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway
+|Rank=A
+|Title=Multidisciplinary consultation meetings (RCP): understanding the principles and objectives of a RCP
+|Description=None
+|Rubric=Definition
+|Contributors=Virginie Migeot
+|Order=5}}
+
+<Multidisciplinary consultation meetings (RCP) are ''collegial'' meetings attended by ''at least three doctors from different specialities'' to reach a decision on the best way to treat a patient, based on the state of the art at the time. RCPs are used to validate the continuing professional development (CPD) obligation.
+
+They are systematically organised in the field of "oncology" to define the diagnostic, therapeutic and follow-up strategy for cancer patients. They can be organised in other fields whenever the patient's care is complex and requires a concerted and collegial opinion, guaranteeing the best strategy for the patient.
+
+'''Related to item 295''' Care and support for cancer patients at all stages of the disease, including the palliative care stage, addressing technical, relational, social and ethical issues.

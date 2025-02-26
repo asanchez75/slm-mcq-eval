@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-184-04-A
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definitions and issues
+|Rank=A
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Description=None
+|Rubric=Definition
+|Contributors=Barbara Charbotel, Bénédicte Clin-Godard, Frédéric Dutheil, Sébastien Hulo, Marie-Pascale Lehucher, Nathalie Nourry
+|Order=4}}
+An occupational disease (OD) is a pathological condition that develops gradually as a result of habitual exposure to a specific risk in the course of work. "It is an illness which, in all likelihood, would not have occurred in any other occupation" (P. Mazel).
+
+Any disease listed in one of the tables of occupational diseases and contracted under the conditions mentioned in that table is presumed to be work-related.
+
+'''a- ''Title'''''
+
+mention of the risk and/or pathology, sometimes also specifying the mechanism causing the disease.
+
+'''b- ''Left-hand column or 1st column'' "Designation of diseases"''''
+
+specifies the medical conditions to be fulfilled (e.g. Table 57, the need for an MRI scan for partial or transfixing rotator cuff tears) and/or the symptoms (the list is always exhaustive)
+
+'''c- ''Colonne du milieu ou 2eme colonne'' ''Délai de prise en charge''''
+
+representing the maximum time that may have elapsed between the end of exposure to the risk and the first medical finding of the condition, for the condition to be recognised as a PM under the table. Minimum duration of exposure for certain tables.
+
+'''d- ''Colonne de droite ou 3eme colonne'': ''Liste limitative ou indicative de travaux''''
+
+list of possible professional situations (limitative list), in the case of an indicative list, the situation responsible may not be listed.  
+
+
+In the MP table system, '''the worker benefits from the presumption of origin if''''
+
+*the illness,
+*the period of coverage, possibly the minimum period of exposure,
+*his or her occupation or occupational exposure
+
+'''meet the criteria imposed by the table and the title of the table.'''
+
+This means that his condition is then systematically "presumed" to be of occupational origin, without it being necessary to establish proof of the link between occupational exposure and the disease, and without taking into account any non-occupational factors.

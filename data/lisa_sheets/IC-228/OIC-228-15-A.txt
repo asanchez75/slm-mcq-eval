@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-228-15-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Knowing the complications of ulcers: skin allergies (contact eczema), infection and malignant transformation.
+|Description=None
+|Rubric=Follow-up and/or prognosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=15}}
+
+Various complications can arise in the event of an ulcer.
+
+== '''Skin allergies''' ==
+Skin allergies to the topicals used are very common ( '''''[[Erythema SD-085|erythema]] [[Acute big red leg SD-087|acute big red leg]]'''''). The usual treatment is based on the use of dermocorticoids ('''''[[Prescribe general or local corticosteroids SD-251|prescribe general or local corticosteroids]]''''') and avoidance of the allergen, most often a product present in the dressing (balsam of Peru, iodine).
+
+== '''Infection''' ==
+The presence of bacteria on an ulcer is a normal phenomenon of bacterial colonisation. Bacteriological samples are therefore not taken systematically.
+
+A combination of certain criteria may suggest local superinfection (emergence of a pathogenic strain), which may lead to specific local treatment such as a silver dressing, the duration of which is regulated at a maximum of 4 weeks.
+
+There is no indication for the use of antibiotic ointments. Infections such as erysipelas, cellulitis and lymphangitis should be treated with systemic antibiotics ('''''[[Acute big red leg SD-087|acute big red leg]]''''').
+
+== '''Malignant transformation''' ==
+Any abnormal budding of a chronic ulcer that does not heal should raise the suspicion of carcinomatous transformation. A skin biopsy of the suspected area should be performed if there is the slightest doubt.
+
+== '''Tetanus''' ==
+Tetanus vaccination must be checked. Nearly two-thirds of cases of tetanus are caused by leg ulcers.
+----<br />

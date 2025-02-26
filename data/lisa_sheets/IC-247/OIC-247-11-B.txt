@@ -1,0 +1,64 @@
+{{knowledge objective
+|Identifiant=OIC-247-11-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Knowing the different types of damage observed in diabetic retinopathy
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST
+|Order=11}}
+
+Classification table :
+{| class="wikitable"
+|'''Classification'''
+|'''Name'''
+|'''Fundus signs'''
+|'''Monitoring rhythm'''
+|-
+| rowspan="3" |'''Non-proliferative RD''''
+
+'''(RDNP)''''
+|RDNP minimal
+|Microaneurysms
+|1-2 years depending on BP, HbA1c
+|-
+|Moderate RDNP
+|Exudates, haemorrhages
+|Annual
+|-
+|Severe RDNP (pre-proliferative)
+|Venous changes, extensive haemorrhage
+|3-4 months
+|-
+| rowspan="4" |'''proliferative RD''''
+
+'''(RDP)''''
+|RDP minimal
+| rowspan="3" |Neo-vessels
+| rowspan="4" |3 months
+
+
+
+2-3 months
+|-
+|RDP moderate
+|-
+|Severe PDR
+|-
+|Complicated PDR
+|Intravitreal haemorrhage
+
+Retinal detachment
+
+Neovascular glaucoma
+|}
+Risk of progression at 5 years: 15% for minimal RDNP, 33% if moderate, and 60% if severe.
+
+Diabetic maculopathy'' includes: Exudates, cystoid or non-cystoid macular oedema, ischaemic maculopathy, etc.
+
+
+
+
+
+<br />

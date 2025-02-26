@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-318-06-B
+|Item_parent=Chronic lymphocytic leukaemia
+|Item_parent_short=Chronic lymphocytic leukaemia
+|Rank=B
+|Title=Knowing the principles of CLL treatment
+|Description=
+|Rubric=Management
+|Contributors=
+|Order=6}}
+In the absence of ''progressive criteria'' defined mainly by the appearance of ''adenopathies of significant volume'' or increasing rapidly in size, ''significant splenomegaly'' or ''cytopenias'' (anaemia, thrombocytopenia), there is no need to institute specific treatment. Such treatment should be reserved for progressive patients.
+
+
+Nevertheless, the infectious risk secondary to the hypogammaglobulinemia frequently associated with CLL justifies anti-pneumococcal and anti-haemophilus influenzae vaccination of all patients as soon as they are diagnosed, as well as vaccination against seasonal influenza. More recently, a 3-injection "anti-SARS CoV2" primary vaccination schedule has been offered to all patients with CLL.
+
+
+Until recently, specific first-line treatment consisted of a combination of an anti-CD20 antibody and chemotherapy, but the development of targeted therapies has profoundly transformed the management of patients with CLL, and the indications for chemotherapy are rapidly being reduced.

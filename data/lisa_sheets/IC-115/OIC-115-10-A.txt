@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-115-10-A
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=A
+|Title=Knowing how to attribute a drug to a cutaneous manifestation
+|Description=Intrinsic imputability: chronology, semiology, favouring factors (MNI), elimination of other causes, tests; extrinsic imputability: notoriety
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+'''Imputability score makes it possible to discuss the potential role of a drug.'''
+
+- '''Extrinsic imputability:''' this is the reputation of the drug; knowledge of identical accidents involving this drug
+
+- '''Intrinsic imputability: it is the patient's history:''' compatible chronology (see Table "Understanding the different types of drug-induced skin lesions"), favourable evolution on discontinuation of the suspect drug, history of toxidermia with the same drug; compatible semiology (see Table "Understanding the different types of drug-induced skin lesions") which evaluates, in a given patient, the causal link between the drug taken, the clinic and the chronology of events.
+
+At the end of this process, the suspect drug or drugs are identified and contraindicated (an allergy card is issued).

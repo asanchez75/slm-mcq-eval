@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-023-03-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=Term determination
+|Description=To know how to define the date of the start of pregnancy. Know how to calculate term and gestational age.
+|Heading=Management
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=3}}
+
+The date of onset of pregnancy is calculated using the ultrasound measurement of craniocaudal length (CCL), which must be taken between 11 and 13 weeks' gestation + 6 days.
+
+In the case of IVF with fresh (not frozen) embryo transfer, the date of the start of pregnancy is defined by the puncture date, which corresponds to the day of fertilisation.
+
+Gestational age in weeks of amenorrhoea is calculated by adding 14 days to the date of the start of pregnancy.
+
+The calculation of the term is based on the date of the start of pregnancy plus 9 months, i.e. 41SA + 0 days.

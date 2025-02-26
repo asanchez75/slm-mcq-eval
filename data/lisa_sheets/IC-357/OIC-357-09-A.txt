@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-357-09-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Knowing the biological tests for suspected peritonitis
+|Description=None
+|Rubric=Additional tests
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=9}}
+
+Biological tests are of little use in establishing the diagnosis, and are mainly used to assess the impact of the infection.
+
+*Pre-operative work-up (blood ionogram, haemostasis test, blood grouping, IAR, CBC/platelets, arterial blood gases, liver work-up).
+*blood cultures+++
+
+Note: the main purpose of biological tests is to assess the impact and severity of the infection. If they are negative (particularly for inflammatory biomarkers), the diagnosis should not be called into question''.

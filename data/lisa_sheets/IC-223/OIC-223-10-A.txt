@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-223-10-A
+|Item_parent=Dyslipidaemia
+|Item_parent_short=Dyslipidemia
+|Rank=A
+|Title=Knowing the rules of hygiene and diet
+|Description=Adapted dietary recommendations in the case of dyslipidaemia
+|Rubric=Management
+|Contributors=Laurence Duvillard, Bruno Vergès, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=10}}
+
+
+*Hypercholesterolaemia:
+**daily fat intake <35% of total calorie intake,
+**reduce saturated fatty acids (<10%),
+**prefer monounsaturated and polyunsaturated omega-3 fatty acids,
+**encourage consumption of fruit and vegetables.
+
+*Moderate hyperglyceridemia:
+**weight reduction (diet + physical activity),
+**reduction (or even elimination) of alcohol,
+**reducing carbohydrate intake, particularly simple sugars.
+
+*Severe hyperglyceridemia:
+**low-fat diet,
+**use of oil based on medium-chain triglycerides.

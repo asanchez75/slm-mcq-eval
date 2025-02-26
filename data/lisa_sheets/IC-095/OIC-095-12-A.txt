@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-095-12-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and canal syndrome
+|Rank=A
+|Title=Knowing how to recognise the signs of serious ductal syndrome
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=12}}Severity if motor deficit associated with nerve compression
+
+For thoraco-brachial crossing syndrome, the severity is linked to vascular compression during the passage of the scalenes (venous thrombosis or arterial ischaemia).

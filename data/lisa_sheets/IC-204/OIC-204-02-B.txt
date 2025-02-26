@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-204-02-B
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=B
+|Title=Knowing the mechanism of the cough reflex
+|Description=Receptors, description of the reflex, origin of the chronic rate
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+Activation of sensory neuroreceptors located in the upper and lower airways (nociceptors: chemical irritants; mechanoreceptors: mechanical stimuli).
+
+Information transmitted by afferent pathways to the brainstem (nucleus solitarius) which coordinates the efferent response (inspiration, pressurisation with the glottis closed, then expulsion).

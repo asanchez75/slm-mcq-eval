@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-325-02-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Understand the issues concerning the risks associated with medicines and biomaterials.
+|Description=None
+|Section=Definition
+|Contributors=Marie Briet
+|Order=2}}
+
+== There are two types of risk associated with medicines ==
+
+=== Individual issues: ===
+
+* at patient level to ensure proper use of medicines and appropriate management.
+
+=== Public health issues: ===
+
+* The need for a system for monitoring, detecting and analysing signals in real life
+* To fine-tune information and regulatory decisions relating to medicines
+
+<br /><br />

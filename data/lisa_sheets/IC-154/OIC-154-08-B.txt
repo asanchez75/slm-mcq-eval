@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-154-08-B
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=B
+|Title=Knowing the procedures for microbiological documentation of infection according to the clinical picture and the terrain
+|Description=First-line tests to be known and prioritised according to severity and epidemiology (antigenuria, blood cultures, NP swab for influenza PCR).
+|Rubric=Additional tests
+|Contributors=
+|Order=8}}
+In the event of acute community-acquired pneumonia (CAP), tests to document the infectious agent responsible are indicated according to :
+
+- severity, and therefore the patient's referral,
+
+- whether or not the patient is immunocompromised.
+
+
+For example
+
+*for acute community-acquired pneumonia (CAP) without severity criteria, managed on an outpatient basis: no microbiological examination
+*
+*for CAP requiring hospitalisation in the conventional sector:
+**at least :
+***Blood cultures
+***Sputum cytobacteriological examination in adults (ECBC)
+**depending on the context:
+***Syndromic PCR (multiplex) on nasopharyngeal swab during epidemics (only useful if this leads to a change in management).
+***Legionella antigenuria in adults if suggestive signs or context
+***Pneumococcal antigenuria if suggestive signs or context (of no value in children under 5 as it does not distinguish between carriage and infection)
+***Atypical bacteria PCR if suggestive sign or context (often included in syndromic PCR / asymptomatic carriage of Mycoplasma pneumoniae is common in children).
+***Pleural fluid: if effusion (possibility of testing for pneumococcal Ag in pleural fluid).
+*
+*for CAP "requiring ICU/resuscitation hospitalisation":
+**as a minimum
+***blood cultures
+***ECBC or bronchial aspiration
+***Multiplex PCR on nasopharyngeal swabs during epidemic periods
+***Legionella antigenuria in adults
+***Pneumococcal antigenuria after 5 years of age
+**depending on context:
+***PCR atypical bacteria if suggestive sign or context
+***Pleural fluid: if effusion
+*
+*In immunocompromised patients:
+**as a minimum
+***Blood cultures
+***ECBC
+***Multiplex PCR on nasopharyngeal swab (especially during epidemics)
+**depending on the context:
+***Legionella antigenuria if suggestive sign or context
+***Pneumococcal antigenuria if suggestive sign or context
+***PCR atypical bacteria if suggestive sign or context
+***Pleural fluid: if effusion
+***Pneumocystis" test on induced sputum or bronchial fibroscopy
+***ß-D-glucan antigen
+***bronchial fibroscopy for directed deep sampling.

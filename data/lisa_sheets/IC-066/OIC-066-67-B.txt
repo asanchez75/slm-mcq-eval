@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-67-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for pharmacological treatments
+|Description=Refer to item 74
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=67}}
+
+Symptomatic treatment, in particular anxiolytic benzodiazepines or hydroxyzine (Item 74) or hypnotics (zolpidem or zopiclone) for severe insomnia in adults.

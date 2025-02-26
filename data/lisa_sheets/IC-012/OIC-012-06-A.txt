@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-012-06-A
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=A
+|Title=Identifying situations requiring a judicial report
+|Description=Knowing how to identify situations requiring a report, whatever the age (minor/adult) and vulnerability of the victim.
+|Rubric=Identifying emergency situations
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=6}}
+
+The medical situations covered by legal reporting are listed in article 226-14 of the French Penal Code and summarised in Table 4. At present, there is no legal obligation for doctors to report cases. However, the French national medical association (Conseil national de l'ordre des médecins) considers that doctors must report any situation of abuse of a minor<ref>https://www.conseil-national.medecin.fr/medecin/exercice/medecin-face-maltraitance#:~:text=Le%20m%C3%A9decin%20doit%20signaler%20directement,rev%C3%AAtent%20un%20caract%C3%A8re%20de%20gravit%C3%A9.</ref>.[[File:Tableau 4.jpg|vignette|644x644px|'''Tableau 4 :'''' Medical situations covered by a judicial report]]
+
+
+A person of full age who is not in a position to protect himself or herself is defined in law as "not in a position to protect himself or herself because of his or her physical or mental incapacity" (Art. 226-14 of the French Penal Code). There is no criterion/scale defining incapacity [[Assessing a motor impairment (clinical examination, diagnostic approach)|physical]] or [[Definition of mental disability|psychic]], the assessment is up to the doctor.
+<references />

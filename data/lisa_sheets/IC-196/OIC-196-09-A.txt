@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-196-09-A
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=A
+|Intitle=Photograph of a hand and foot of rheumatoid arthritis in the state phase
+|Description=Beginning rheumatoid arthritis
+|Rubric=Multimedia content
+|Contributors=
+|Order=9}}
+<gallery widths="300" heights="300">
+File:Photograph hand PR.PNG
+</gallery>

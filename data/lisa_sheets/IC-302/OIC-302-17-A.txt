@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-302-17-A
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=A
+|Title=Photography of a melanoma
+|Description=Photograph of a typical melanoma
+|Rubric=Multimedia content
+|Contributors=
+|Order=17}}
+
+[[File:Figure E.jpg|vignette|typical melanoma: asymmetric pigmented lesion with irregular margins, heterogeneously coloured, 18mm in diameter and recently changed. ]]

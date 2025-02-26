@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-224-21-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Know the definition of hypertension in children and the existence of paediatric standards.
+|Description=None
+|Topic=Definition
+|Contributors=
+|Order=21}}
+Hypertension in children is defined :
+
+- by a BP ≥ 95<sup>th</sup> percentile
+
+- in relation to BP charts based on age, height and sex
+
+- on several measurements over time, carried out under good conditions. If the reading is higher, it will be checked at the next consultation, together with "dietary hygiene" advice.
+
+A calcium channel blocker (the sublingual form is contraindicated in children) may be prescribed as an emergency measure while waiting for a 2nd or 3rd specialist opinion.

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-154-14-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Know the principles of treatment for acute bronchitis (no antibiotics, no non-steroidal anti-inflammatory drugs (NSAIDs), no cough suppressants).
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=14}}
+Treatment of acute bronchitis is symptomatic only.
+
+There is no indication for antibiotic therapy
+
+Non-steroidal anti-inflammatory drugs (NSAIDs) and cough suppressants should be avoided.
+
+<br />

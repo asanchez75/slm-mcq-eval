@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-265-13-B
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=B
+|Title=Knowing the main metabolic abnormalities associated with calcium lithiasis
+|Description=Primary hyperparathyroidism, chronic hypercalcaemia, idiopathic hypercalciuria
+|Rubric=Etiologies
+|Contributors=Romain Boissier
+|Order=13}}
+
+'''The main metabolic abnormalities associated with calcium lithiasis are:''''
+
+* Hyperparathyroidism
+* Hypercalciuria
+* Hyperoxaluria
+* Renal tubular acidosis
+* Nephrocalcinosis
+* Granulomatosis
+
+<br />

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-267-19-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the clinical symptoms of hypokalaemia
+|Description=Recognising the muscular signs of hypokalaemia
+|Rubric=Positive diagnosis
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=19}}
+1.     Muscular clinical signs
+
+*cramps ;
+*myalgias;
+*muscular weakness or even paralysis beginning in the lower limbs and progressing upwards, gradually reaching the trunk and diaphragm.
+*Rhabdomyolysis in cases of severe potassium depletion.
+
+2.     Digestive signs
+
+*This is essentially constipation, paralytic ileus (Ogilvie syndrome), or even a delay in the resumption of post-operative transit.
+
+3.     Kidney signs
+
+*polyuro-polydipsic syndrome (tubular resistance to ADH)
+*metabolic alkalosis
+*chronic interstitial nephropathy (long-term)

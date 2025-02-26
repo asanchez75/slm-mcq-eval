@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-103-11-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Savoir évoquer un accident vasculaire ischémique dans le territoire vertébrobasilaire devant un syndrome vestibulaire central
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=11}}
+The main differential diagnosis of vestibular neuronitis is cerebellar infarction in the territory of the posteroinferior cerebellar artery, vascularising the vestibular cerebellum. The clinical picture is dominated by severe vertigo, nausea and vomiting. Clinical examination may reveal a homolateral kinetic cerebellar syndrome or dysarthria. However, these may be absent, and the picture may consist solely of an isolated acute vestibular syndrome.
+
+The red flags that should raise the suspicion of a vestibular cerebellar infarction in the acute phase of a vestibular syndrome are as follows:
+
+*cardiovascular risk factors;
+*headache SD-118|headache]] or [[neck pain SD-144|cervicalgia]] (vertebral dissection);
+*normal response to Head Impulse Test;
+*Diplopia SD-143|diplopia]] (vertical) and vertical strabismus;
+*nystagmus changing direction with gaze (gaze nystagmus), or pure vertical nystagmus.
+
+Acute vertigo can also be associated with stroke in other territories, as in Wallenberg syndrome, but in this case the neurological signs are in the foreground.

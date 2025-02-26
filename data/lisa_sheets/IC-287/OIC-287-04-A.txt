@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-287-04-A
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=A
+|Title=Know how to diagnose a diverticulum, diverticulosis, diverticulitis or complicated diverticulitis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Frédérique PESCHAUD
+|Order=4}}
+
+Diverticula and diverticulosis are by definition asymptomatic, discovered by chance (colonoscopy, CT scan).  
+
+The diagnosis of diverticulitis or complicated diverticulitis is evoked clinically but must be confirmed by an abdomino-pelvic CT scan.
+
+The usual clinical signs are pain in the left iliac fossa, fever and transit disorders (constipation, sometimes diarrhoea). The presence of defensiveness and pain on decompression suggest the presence of an abscess. Contracture suggests diverticulitis complicated by generalised peritonitis.
+
+Functional urinary signs (pollakiuria, dysuria) are common due to the proximity of the bladder and sigmoid. However, urinary burning, pneumaturia and sometimes faecaluria, combined with a multi-microbial ECBU and significant leucocyturia (>10/mm<sup>3</sup>), should suggest a sigmoido-vesical fistula. Sigmoidovaginal fistulae are rare and only occur in cases of hysterectomy.
+
+The recommended blood work-up includes a haemogram, CRP and creatinine levels. Hyperleukocytosis with elevated CRP is usual.
+
+
+Diverticular haemorrhage accounts for around a third of all causes of lower digestive haemorrhage. It affects men and women, often over the age of 60. It presents as a profuse discharge of red blood with clots from the anus (haematochezia or formerly "rectorrhagia"), or more rarely melena (haemorrhagic diverticulum located upstream of the left colonic angle), unrelated to an effort to exonerate and with variable haemodynamic repercussions. Haemorrhage ceases spontaneously in 80% of cases, but recurs in over 15% of cases (see Digestive haemorrhage item).

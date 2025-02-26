@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-129-16-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Knowing how to assess osteoarthritis
+|Description=Know the names of the questionnaires used to assess symptomatic osteoarthritis (WOMAC, KOOS)
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=16}}
+It is essential to assess the impact of pain and functional discomfort in all osteoarthritis patients.
+
+We will assess :
+
+- Pain intensity using the visual analogue or digital scale
+
+- The presence of stiffness on clinical examination (limitation of amplitude)
+
+- The presence of a knee effusion or synovitis in the hands, which is a poor prognostic factor
+
+- Walking, in the case of lower limb damage, with a search for limping and quantification of the walking perimeter.
+
+- Functional discomfort can also be quantified using algofunctional indices specific to each location: Lequesne index for gonarthrosis and/or coxarthrosis, WOMAC index for gonarthrosis and/or coxarthrosis, KOOS score for gonarthrosis, etc.
+
+- Radiographic damage may also be considered. However, it is not a prognostic factor in itself, as symptoms are imperfectly correlated with those of radiographic damage in osteoarthritis.

@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-123-14-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Heading=Know the Fried definition of frailty (criteria) and functional decline.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=14}}
+Fried frailty criteria
+
+1.     Unintentional weight loss in the last year
+
+2.     Subjective impression of fatigue
+
+3.     Reducing physical activity
+
+4.     Decreased walking speed (slowness of gait)
+
+5.     Decreased muscle strength (measured by hand grip)
+
+Fragile: at least 3 criteria
+
+pre-fragile: 1 or 2 criteria
+
+robust: no criteria
+
+
+''Functional decline'' refers to the notions of ''autonomy'' and ''dependence'':
+
+* It presupposes a capacity for judgement (the ability to foresee and choose) and the freedom to act, accept or refuse according to one's judgement, in compliance with the laws and common customs.
+
+* Dependency'' or loss of functional independence is defined as the partial or total inability of a person to carry out the activities of daily living, whether physical, mental or social, without human assistance, and to adapt to their environment.
+Functional decline is characterised by a loss of functional independence, which may concern the basic activities of daily living (dressing, toileting, walking, continence, etc., usually measured by the ADL Activities of Daily Living score) or instrumental activities (managing treatment, accounts, using public transport, the telephone, etc., measured by the Instrumental activities of daily living IADL score).
+
+<br />

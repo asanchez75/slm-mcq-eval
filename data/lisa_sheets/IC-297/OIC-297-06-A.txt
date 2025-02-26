@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-297-06-A
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=A
+|Title=Knowing the circumstances and clinical signs that should raise the suspicion of a bone tumour in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Virginie Gandemer
+|Order=6}}
+The two types of malignant bone tumour in children are osteosarcoma or osteogenic sarcoma and Ewing's sarcoma. They are mainly found in adolescents.
+
+The preferred sites are the metaphyses of the long bones ("near the knee and far from the elbow") for osteosarcomas, whereas Ewing's sarcomas affect the diaphyses of the long bones, but also the pelvis and ribs, as well as the flat bones.
+
+
+When faced with persistent pain, children should not be over-assuming a benign diagnosis (sprain, tendonitis). The main warning sign is deep, localised pain in a limb that lasts but varies in intensity, progresses slowly and then becomes inflammatory. Sometimes a benign trauma may reawaken a previously neglected pain. More rarely, the tumour will be revealed by a swelling opposite the affected bone or a pathological fracture.
+
+SDS link
+
+.       [Announcement of a diagnosis of serious illness to the patient and/or family SD-327]]
+
+- SD-068 lameness
+
+- Bone and joint abnormality discovered on medical imaging examination SD-228.
+
+- Writing a request for an SD-230 imaging examination
+
+- Malignant tumours on surgical specimen/biopsy SD-181
+
+- Chronic pain SD-035

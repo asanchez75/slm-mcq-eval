@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-101-11-A
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=A
+|Intitle=Clinical iconography of a typical example of unilateral PFP
+|Description=Visualise facial asymmetry to mimicry with immobility of superior and inferior territory
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+Please refer to the CEN website: www.cen-neurologie.fr where videos are available.

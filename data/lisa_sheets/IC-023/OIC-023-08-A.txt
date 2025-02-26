@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-023-08-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=T21 screening
+|Description=Know how to explain and prescribe screening tests for T21; know the principle of informed consent for this screening.
+|Heading=Management
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=8}}
+
+During the first consultation, the patient '''must''' receive '''information''' on trisomy 21 and the possibility of screening for it by calculating the combined risk of trisomy 21 (decree of 23 June 2009) [[Prenatal screening for trisomy 21 SD-307|'''Prenatal screening for trisomy 21''']]. She signs a consent form if she wishes to undergo the test, having been informed of the possible consequences according to the risk threshold. The calculation is made by combining the measurement of nuchal translucency between 11 and 13 SA + 6 days with a blood test for free β-hCG and PAPP-A (''Pregnancy Associated Plasma Protein A'') and maternal age.

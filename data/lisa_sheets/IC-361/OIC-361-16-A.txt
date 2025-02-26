@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-361-16-A
+|Item_parent=Periarticular and ligament injuries of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=A
+|Title=Knowing the indication and interest of imaging examinations for periarticular and ligamentary lesions of the ankle
+|Description=Know how to request an X-ray only when justified in the case of an ankle sprain. Search for associated fracture
+|Rubric= Complementary examinations
+|Contributors=
+|Order=16}}
+'''<u>Radiographs:</u>'''
+
+*Indications: in trauma with sprains, X-rays have no diagnostic value, but they are requested in the presence of at least one of the Ottawa criteria (consensus conference 1995) in search of an associated injury or a differential diagnosis:
+**age < 18 years or > 55 years
+**6 centimetres of pain on palpation of the medial or lateral malleoli
+**pain on palpation of the base of the 5th metatarsal or the navicular bone
+**inability to take 4 steps with full weight-bearing
+*Incidences:
+**A frontal view of the ankle in 20° medial rotation, known as the "mortise" view.
+**A lateral view of the ankle encompassing the calcaneus and the lateral Lisfranc joint.
+
+'''<u>Echography:</u>''' enables ligament damage to be clearly visualised and a lesion assessment to be carried out, currently little used but of increasing indications especially to determine whether or not a rupture of the Achilles tendon is complete, or in cases of persistent pain after treatment for ankle sprains.
+
+'''<u>Scanner:</u>''' if there is any doubt about a fracture that is difficult to visualise during a traumatic sprain mechanism (osteochondral fracture of the dome of the talus, fracture of the lateral tubercle of the talus).
+
+MRI is not indicated in the acute phase, but can be used to carry out an exhaustive assessment of lesions in chronically painful ankles.

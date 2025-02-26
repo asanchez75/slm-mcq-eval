@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-324-15-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Knowing that self-medication concerns the majority of patients and must be taught by the doctor
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=15}}
+The ten-year health survey carried out by INSEE in 2002-2003 (there has been no further survey since) showed that 20% of individuals had purchased at least one non-prescription medicine (compared with 53% who had purchased a prescription medicine).
+
+Encouraging the use of self-medication seems legitimate in the case of frequent benign situations. Doctors are unable to see all these patients in consultation, especially as patients with chronic illnesses know each other well, and guided and educated self-medication seems to be the best way of limiting the misuse of medicines and recourse to the family pharmacy. GPs or specialists who regularly follow patients can educate them to use certain treatments in well-defined clinical situations. Controlled self-medication is eminently desirable.

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-334-24-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Savoir reconnaître un hémothorax et un pneumothorax sur une radiographie
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=24}}
+'''Radiographic signs of pneumothorax:'''
+
+*partial peripheral hyperclarity (particularly at the apex on a standing or sitting film) or complete hyperclarity of a lung hemichamber
+*visualisation of the visceral pleura in the form of a fine linear opacity
+*signs of severity (tension pneumothorax): retraction of the lung parenchyma in the form of a dense opacity around the hilum, mediastinal deviation contralateral to the pneumothorax, flattening of the homolateral diaphragmatic dome.
+
+'''Radiological signs of haemothorax:'''
+
+*dense, homogeneous, sloping opacity, effacing the diaphragmatic dome, with concave upper edge (Damoiseau's line) in the standing or sitting position
+*asymmetric transparency of the pulmonary hemifields with diffuse greying of the affected side in the supine position
+*sign of severity (compressive haemothorax): contralateral mediastinal deviation
+*in the case of pneumothorax associated with a haemothorax (haemopneumothorax): the fluid effusion (in the standing or sitting position) is delimited on its upper surface by a horizontal hydroaeric level.

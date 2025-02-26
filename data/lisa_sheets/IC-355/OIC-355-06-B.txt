@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-355-06-B
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=B
+|Title=Knowing the diagnostic elements and aetiologies of lower digestive haemorrhage in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+It is important to characterise rectal bleeding and whether or not it is associated with a change in the stool.
+
+The main cause of rectal discharge in children is fissure on constipation: emission of red blood during exoneration, not mixed with the stools. Diagnosis is based on the history and clinical examination ([Constipation in children and adults]).
+
+/! In the case of anal fissures in older children, it is advisable to ask about signs and symptoms that could point to Crohn's disease (break in the curve, transit problems, mouth ulcers, etc.).
+
+The other causes are
+
+- in newborns: necrotising ulcerative enterocolitis (premature babies), infectious diarrhoea ('Campylobacter')
+
+- in infants and children :
+
+*2 urgent diagnoses: acute intestinal intussusception (3 months-3 years)([[Knowing the aetiologies of abdominal pain in infants and children 2C-269-DP-A02]]) and Meckel's diverticulum.
+*Other causes: colitis and infectious diarrhoea ([[Infectious diarrhoea in adults and children]]), Crohn's disease in older children, traumatic causes.

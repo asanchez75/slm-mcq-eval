@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-047-09-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Knowing the functional and physical signs suggestive of poor vision in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+Call points
+
+* abnormalities on external examination of the eye, including leukocoria
+* Strabismus (may be physiological if intermittent before 4 months, always pathological if constant or after 4 months)
+* Nystagmus
+* Torticollis
+* Behavioural abnormalities
+** before 4 months: no reaction to visual stimuli, no fixation at 1 month, no blinking at threat after 3 months, no eye pursuit at 4 months, delayed acquisition in grasping objects, gaze levelling off or wandering, infant pressing on his eyes.
+** 6 months-2 years: indifference to surroundings, eyelid wrinkling, discomfort in the sun, after walking age: falls frequently, bumps into things.
+** 2-5 years: language delay, tiredness, performance difficulties
+** after 6 years: difficulty and tiredness when reading, headaches, redness and discomfort in the eyes, eyelid wrinkling

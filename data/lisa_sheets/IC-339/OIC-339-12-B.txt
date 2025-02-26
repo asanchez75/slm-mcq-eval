@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-339-12-B
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=B
+|Title=Knowing the principles of long-term therapeutic strategy in stable angina
+|Description=None
+|Heading=Management
+|Contributors=Mathieu Kerneis
+|Order=12}}
+
+
+* In all cases, the therapeutic strategy includes:''''
+** Platelet anti-aggregation monotherapy (aspirin or clopidogrel) on a long-term basis (double anti-platelet aggregation for 6 months only in the case of angioplasty).
+** High-dose statin to reduce LDL > 50% and LDL < 0.55g/L
+** Anti-anginal agents: Beta-blocker as first-line treatment, calcium channel blocker and/or nitrate derivatives if residual angina or IC to beta-blockers.
+** Treatment and correction of any risk factors (smoking cessation, control of hypertension, management of diabetes where appropriate).
+** Therapeutic education (warning signs, Mediterranean diet)
+** Regular follow-up by a cardiologist and the treating physician.
+** 100% reimbursed
+* Revascularisation by angioplasty or coronary artery bypass grafting is not systematic.
+* Revascularisation is indicated:'''
+** In the case of residual angina which is incapacitating under medical treatment.
+** In cases of extensive ischaemia during an ischaemia test, in cases of Common Trunk lesion, in cases of tritruncular lesion, particularly in cases of left ventricular dysfunction, in cases of proximal interventricular artery lesion, etc.
+* The choice of revascularisation method depends on age, co-morbidities and the anatomical aspect of the lesion(s).

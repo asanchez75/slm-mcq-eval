@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-158-15-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Knowing how to prescribe appropriate antibiotics at an early stage
+|Description=Know how to prescribe a broad-spectrum beta-lactam antibiotic plus or minus a second antibiotic depending on the suspected route of entry for common community infections.
+|Rubric=Management
+|Contributors=
+|Order=15}}
+Antibiotic therapy for sepsis should be started as soon as possible, after taking samples (at least blood cultures), but without waiting for the results.
+
+It must be probabilistic, meaning that one or more antibiotics are chosen according to the germ(s) thought to be responsible for the infection. This is based on our knowledge of the bacteria most frequently encountered in the infection in question. The following table shows the microbial ecology of the main community bacterial infections, and the resulting antibiotic therapy '''([[Prescribe an anti-infective SD-255|prescribe an anti-infective]])'''.
+
+Table 2 Bacteria most frequently implicated in serious community infections, and probabilistic antibiotic therapy according to the infected site.
+{| class="wikitable"
+|+
+|'''Infected site'''
+|'''Most frequent bacteria'''
+|'''Probabilistic antibiotic therapy of 1st<sup> intention</sup>'''
+|-
+| rowspan="3" |Severe cases of pneumonia<br /> Infected site
+|
+*Streptococcus pneumoniae
+*Legionella pneumophila
+*Less frequently: Haemophilus influenzae, Enterobacteriaceae, Staphylococcus aureus
+
+<br />
+|3rd</sup> generation cephalosporin (C3G; cefotaxime, ceftriaxone)
+
++ macrolide (spiramycin, clarithromycin) OR anti-pneumococcal fluoroquinolone (levofloxacin)
+|-
+|Patients with severe underlying respiratory disease (cystic fibrosis, advanced COPD): also target Pseudomonas aeruginosa
+|Piperacillin / tazobactam
+
++ aminoside
+
++ macrolide OR anti-pneumococcal fluoroquinolone
+|-
+|Inhalation pneumonitis
+|C3G + metronidazole
+|-
+|Pyelonephritis or severe male urinary tract infection
+|Enterobacteriaceae (''Escherichia coli'' +++)
+|C3G + aminoglycoside (amikacin)
+<br />Amikacin
+|-
+|Severe extra-biliary intra-abdominal infection
+|Enterobacteriaceae, anaerobes, enterococci
+<br />
+|Piperacillin / tazobactam
+
++ aminoside
+|-
+|Severe biliary infection (usually angiocholitis)
+|Enterobacteriaceae, anaerobes
+|Ceftriaxone + metronidazole
+|-
+|Bacterial meningitis
+|
+*Streptococcus pneumoniae
+*Neisseria meningitidis
+*Listeria monocytogenes (to be considered in cases of progressive onset of signs, advanced age, underlying co-morbidities (immunodepression) or rhombencephalitis).
+*Streptococcus group B in newborns
+|To be adapted according to the results of direct CSF examination (cf [[Meningitis, meningoencephalitis, brain abscess in adults and children|item 151]]).
+
+If direct examination negative or LP not done:
+
+*No risk of listeriosis: Dexamethasone + C3G
+*If risk of listeriosis: Dexamethasone + C3G + amoxicillin + gentamicin
+|-
+| rowspan="2" |Severe bacterial dermo-hypodermatitis
+|Involvement of limbs, face or neck: ''Streptococcus pyogenes'' +++, ''Staphylococcus aureus,'' anaerobes (dental origin)
+|Amoxicillin / clavulanic acid
+
++ clindamycin
+
++ gentamicin
+|-
+|Perineal injury: enterobacteria, anaerobes
+|Piperacillin / tazobactam
+
++ amikacin
+|}

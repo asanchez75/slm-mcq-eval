@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-027-21-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Title=Knowing the additional tests to prescribe in the event of suspected listeriosis MF
+|Description=Prescription of blood cultures in mothers
+|Section=Additional tests
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=21}}
+During pregnancy, blood cultures should be taken in all pregnant women with [[Hyperthermia/fever SD-044|fever]] (specifying the search for listeriosis).
+
+During childbirth, bacteriological examination of the placenta and lochiae is carried out, and is almost always positive when collected under good conditions. An anatomopathological examination, showing infectious granulomas, may be useful.
+
+In neonates, the germ is easily isolated in pure culture from blood and cerebrospinal fluid samples. It is always isolated from gastric fluid obtained by aspiration.

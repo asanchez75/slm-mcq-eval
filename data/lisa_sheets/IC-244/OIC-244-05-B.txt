@@ -1,0 +1,76 @@
+{{knowledge objective
+|Identifiant=OIC-244-05-B
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=B
+|Title=Knowing how to prescribe a "static" ante-hypophyseal hormone test
+|Description=Prolactin, IGF1, cortisol at 8 h and ACTH at 8 h, FSH,LH, 17 B estradiol (F) or Testo (H),
+|Rubric=Additional tests
+|Contributors=CAZABAT LAURE,CHABRE OLIVIER
+|Order=5}}
+
+'''The indication for an antehypophyseal hormone test perhaps'''
+
+1.     Tumour syndrome leading to discovery of a lesion in the saddle region
+
+2.     Symptoms suggestive of pituitary hypersecretion (Acromegaly, Cushing's syndrome). The only symptom of prolactin hypersecretion is secondary gonadotropic insufficiency.
+
+3.     Signs of ante-pituitary insufficiency.
+
+4.     Incidental discovery of a pituitary lesion.
+
+'''The assays required will of course depend on the clinic and the size of the lesion'''.
+
+
+'''The clinical diagnosis of a tumour syndrome was detailed in chapter 1 row A.'''
+
+The essential static hormonal assessment in this case is the <u>dose of prolactin +++</u> '''(cf chapter 7 row B).''' A tumour syndrome implies rapid treatment; in the case of a pituitary adenoma it is a macroadenoma. A value of >200 ng/ml of prolactin confirms the prolactinic nature (prolactin macroadenoma). In this case, medical treatment with a dopaminergic agonist started quickly will allow the adenoma to shrink rapidly and the tumour syndrome to disappear.
+
+If prolactin is <200 ng/ml, this is hyperprolactinaemia due to the disconnection of a lesion of another nature, which should be treated surgically. '''(cf chapter 7 row B)''''
+
+As the lesion is a macroadenoma or other lesion compressing neighbouring structures, the<u>biological search for anteropituitary insufficiency is essential +++</u>.
+
+Corticotropic insufficiency is detected by measuring 8-hour cortisol. An elevated cortisol at 8 o'clock eliminates corticotropic insufficiency, a collapsed cortisol confirms the diagnosis Caution in the event of a state of stress in the patient ( acute headache, discovery of a mass with a cystic contingent, an apoplectic picture) do not wait until 8 o'clock in the morning for the cortisol assay but take it quickly before emergency treatment with hydrocortisone . [Adrenal insufficiency in adults and children
+
+''If the cortisol value has not collapsed (and is not elevated!), a dynamic stimulation test is necessary (Synacthen test); the absence of a sufficient response confirms corticotropic insufficiency''.
+
+Gonadotropic insufficiency is investigated in men with an assay of <u>testosterone and gonadotropins FSH and LH.</u> A low testosterone value with non-elevated FSH and LH confirms gonadotropic insufficiency.
+
+Gonadotropic insufficiency is detected in women on questioning with cycle disorders and secondary amenorrhoea, and biologically with an assay of <u>17 beta oestradiol with FSH and LH.</u> In amenorrhoea, a low value of 17 beta oestradiol with non-elevated FSH and LH confirms gonadotropic insufficiency.[[Amenorrhoea]]
+
+Thyrotropic insufficiency is investigated with a <u>T4l and TSH</u> assay. A low T4l value with normal TSH, not elevated, confirms thyrotropic insufficiency.[[Hypothyroidism]]
+
+For somatotropic insufficiency: the dosage of I<u>GF1,</u> if low, is in favour of somatotropic insufficiency, all the more so if the patient has other antehypophyseal insufficiencies. An elevated <u>GH</u> value above a threshold eliminates somatotropic insufficiency.
+
+Nevertheless, to diagnose somatotropic insufficiency, a dynamic stimulation test is essential: for example, insulin hypoglycaemia on growth hormone.  
+
+'''The clinical diagnosis of hypersecretions was detailed in chapter 2 row A.'''
+
+Diagnosis of <u>acromegaly</u> during static pituitary workup is a <u>IGF1</u> assay which will be elevated compared with the norm for the patient's age; several GH samples are also informative and no value will be low (<1 mIU/L) unlike in healthy subjects.
+
+''Diagnosis is completed with a dynamic braking test: GH measurement under OGTT''.
+
+The diagnostic elements of <u>hypercortisolism</u> during a static pituitary work-up are an assay of <u>cortisol at midnight</u> which will not be low unlike in the healthy subject, and the <u> 24h urinary free cortisol,</u> related to creatininuria, which will be increased (FLU).
+
+The other diagnostic element is a dynamic braking test: minute braking with dexamethasone, which can be carried out on an outpatient basis.
+
+Diagnosis of hypercortisolism made, static <u>ACTH</u> assay, not low, confirms ACTH-dependent origin.
+
+Diagnosis of a pituitary cause of secretion and not ectopic secretion is made with dynamic tests: strong dexamethasone braking, CRH test, desmopressin test''.
+
+
+'''The clinical diagnosis of anteropituitary insufficiency was detailed in chapter 3 row A.'''
+
+The work-up is the same as above in the context of a tumour syndrome, with the need for a biological investigation of antehypophyseal insufficiency.
+
+<u>Cortisol 8h, Testosterone in men and 17 beta oestradiol in women, FSH, LH, T4, TSH, Prolactin, +/- IGF1 GH.</u>
+
+''Be careful if the cortisol value has not collapsed (and is not elevated), a dynamic stimulation test, a Synacthen test on cortisol, is necessary; the absence of a sufficient response confirms corticotropic insufficiency. If the synthesis test shows a response but the clinical suspicion is strong, an insulin hypoglycaemia test may be necessary to rule out moderate corticotropic insufficiency.
+
+And to diagnose somatotropic insufficiency, a dynamic stimulation test is essential: for example, insulin hypoglycaemia on growth hormone.  
+
+'''In the event of incidental discovery of a pituitary lesion, the work-up depends on the clinic and the size of the lesion'''.
+
+'''In case of microadenoma: look for hypersecretion but not insufficiency (except gonadotropic insufficiency in case of microprolactinoma)'''
+
+'''In case of macroadenoma: look for hypersecretion and insufficiency'''

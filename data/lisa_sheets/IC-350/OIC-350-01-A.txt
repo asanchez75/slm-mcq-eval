@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-350-01-A
+|Item_parent=Big acute red leg
+|Item_parent_short=Big acute red leg
+|Rank=A
+|Item_parent_short=Large acute red leg
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Presence of a painful, oedematous, well-limited, sometimes extensive, usually unilateral ''erythematous placard''.

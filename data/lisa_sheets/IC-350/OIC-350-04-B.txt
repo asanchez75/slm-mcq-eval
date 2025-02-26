@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-350-04-B
+|Item_parent=Big acute red leg
+|Item_parent_short=Big acute red leg
+|Rank=B
+|Item_parent_short=Acute large red leg
+|Description=Other infectious dermo-hypodermatitis (pasteurellosis after a bite), attacks of venous insufficiency, acute eczema.
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+'''Prevalence and context guide the primary care physician (general practitioner or emergency doctor) in his reasoning.'''
+
+'''Stasis dermodermatitis (due to venous insufficiency) is a frequent differential diagnosis. It has a less abrupt onset, is often bilateral, without fever, and resolves spontaneously with rest and elevation of the lower limbs.'''
+
+'''Necrotising dermo-hypodermatitis is rare, but serious, and the primary care physician keeps it in mind. Pain and sepsis are both intense and precede the necrotic plaques.'''
+
+'''Many other bacteria can be responsible for erythematous plaques, and the context of the questioning guides the primary care physician. For example, a rabbit farmer may be diagnosed with tularemia, a hunter or walker with Lyme borreliosis, etc.''
+
+'''Many other situations can be evoked depending on the context, from the simplest such as "sunburn" or insect bites, to the most complicated with autoimmune diseases requiring third-line advice such as''' TRAPS (tumor necrosis factor receptor-1 associated periodic syndrome).
+
+
+The special case of venous thrombosis. Differentiating between erysipelas and venous thrombosis is often a problem for primary care physicians, mainly because of the potential severity of the thrombosis. Biological and paraclinical tests can help the doctor if the clinic and scores are not enough.

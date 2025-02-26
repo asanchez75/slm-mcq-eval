@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-027-45-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Title=Knowing the mechanisms of action of irradiation on the foetus
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=45}}
+There are two main conditions to be aware of, and their consequences:
+
+- '''Cell death''', which can occur from a threshold of 100-200 mGy :
+
+- in the central nervous system, neurons are sensitive from the threshold of 100-200 mGy (no repercussions below 100 mGy), with a dose-effect relationship from 500 mGy. The main consequences of severe irradiation, such as Hiroshima or high direct abdominal irradiation, come from their death: reduced IQ, microcephaly, cataracts, IUGR. The period of greatest sensitivity is between 10 and 27 weeks' gestation, depending on where you are:
+
+- between 10 and 17 weeks' gestation (neuronal multiplication): severe reduction in IQ: -30 points, risk of 40% of profound mental retardation from 1000 mGy,
+
+- between 18 and 27 ADT (neuronal migration): smaller reduction in IQ;
+
+- the other organs are better preserved. At very high doses, however, severe irradiation causes IUGR; in extreme cases, death in utero;
+
+- DNA damage'', which can lead to a 40% increase in the risk of leukaemia or cancer (i.e. × 1.4), with no really known threshold effect and a dose-response relationship (the risk starts with low levels of radiation, and rises with the dose). Insofar as the risk of leukaemia/cancer in children is spontaneously between 0.2 and 0.3%, foetal irradiation raises this gross risk to 0.3 to 0.4%, which remains low for a given individual.

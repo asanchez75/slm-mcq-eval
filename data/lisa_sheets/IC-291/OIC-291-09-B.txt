@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-291-09-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the clinical and anamnestic situations that should lead to suspicion of Lynch syndrome
+|Description=Knowing the situations (clinical and anamnestic) that should lead to the suspicion of Lynch syndrome - distinguishing between MSI tumour phenotype and Lynch syndrome
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+This genetic predisposition syndrome greatly increases the risk of developing cancer of the colorectum, endometrium, urinary excretory tract, small intestine, stomach, bile ducts and ovaries. It is linked to germline inactivation of one of the DNA mismatch repair genes (MMR): MLH1, MSH2, MSH6 and PMS2. It is transmitted in the ''autosomal dominant'' mode. Biallelic inactivation of an MMR gene leads to a tumour phenotype known as "d-MMR" (MMR deficient), detected by microsatellite instability (MSI) and/or loss of MMR protein expression on immunohistochemistry. This d-MMR phenotype is ''not specific to Lynch syndrome'' and is ''also observed in sporadic cancers''. In this case, it is linked to hypermethylation of the MLH1 promoter in the tumour. This phenotype is currently widely researched in oncology as it is a major prognostic factor for a good "response to immunotherapy". When a d-MMR phenotype is detected in a colorectal or endometrial tumour by molecular analysis (MSI) and/or immunohistochemistry (loss of MMR protein expression), somatic inactivation of "MLH1" should be ruled out (making it possible to confirm the sporadic nature of the disease), before looking for a germline mutation in an MMR gene as part of an oncogenetic consultation.
+
+The following elements should lead to an analysis of the MMR status of the tumour to detect a possible Lynch syndrome (INCa recommendations):
+
+- colorectal or endometrial cancer in a patient under 60 years of age
+
+- multiple cancers of the Lynch syndrome spectrum in the same patient (synchronous or metachronous)
+
+- family history of cancers on the Lynch syndrome spectrum (1 first-degree relative before the age of 50 or 2 first- or second-degree relatives)
+
+The diagnosis of Lynch syndrome leads to specific surveillance.

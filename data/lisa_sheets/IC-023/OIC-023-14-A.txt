@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-023-14-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=Knowing the medicinal and non-medicinal measures for the minor aches and pains of pregnancy
+|Description=Favour above all hygienic and dietary changes, explain the role of paracetamol, warn about NSAIDs, limit the use of antiemetics.
+|Rubric=Management
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Ordre=14}}
+
+==Vomiting
+Dietary measures may be sufficient: split meals; drink at mealtimes, in small quantities and often; freely adapt food. Pyidoxine and ginger can be used in mild forms. More severe forms require drug treatment: anti-emetics (H1-receptor antagonist antihistamines, dopamine receptor antagonists, 5-HT3 serotonin receptor antagonists), etc.
+
+==Constipation
+Non-medicinal measures are most often effective: adequate hydration, a diet rich in dietary fibre, regular physical activity. If this fails, a laxative treatment may be suggested.
+
+==Haemorrhoids ==
+Non-medicinal measures and treatment of constipation are useful. Local treatment with a lubricant or local anaesthetic can sometimes bring relief. When medication is necessary, paracetamol seems to have the best benefit-risk balance. In the event of persistent pain, specialist advice may be useful.
+
+==Gastro-oesophageal reflux disease ==
+Non-medicinal measures are useful: dividing up meals, adapting posture, avoiding exertion after meals. Antacids can be used for short periods. A proton pump inhibitor may be suggested.
+
+==Cramps
+Non-medicinal measures are indicated: adequate hydration, physical activity, muscle stretching. Magnesium supplementation may also be suggested.
+
+==Pain management
+Paracetamol is the first-choice tier 1 analgesic for pregnant women, whatever their term.
+
+'''All NSAIDs are contraindicated''' (including Aspirin except at anti-aggregating dose <160mg)) from 24 ADT. Before 24 ADT, even in the absence of data, it seems preferable to avoid them. Corticosteroids may be used in pregnant women, irrespective of the route of administration, dosage and term of pregnancy (precautions in the case of diabetes).
+
+If a Tier 2 analgesic is required, codeine is preferable, although its safety in the first trimester of pregnancy has not been clearly established. Prolonged treatment or high doses may lead to respiratory depression and withdrawal syndrome in the newborn.

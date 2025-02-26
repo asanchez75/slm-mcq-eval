@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-105-02-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Knowing the definition of status epilepticus
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Threatening seizure = seizure lasting more than 5 minutes - delay in administration of first line of treatment
+
+Permanent seizure disorder = seizure lasting more than 30 minutes (life-threatening in the case of a tonic-clonic generalised seizure ([[Convulsions SDD-120|convulsions]]) or seizures that recur without regaining consciousness ([[Coma and disturbed consciousness SDD-028|coma and disturbed consciousness]]).

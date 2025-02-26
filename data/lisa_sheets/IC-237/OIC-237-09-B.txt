@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-237-09-B
+|Item_parent=Palpitations
+|Item_parent_short=Palpitations
+|Rank=B
+|Title=Identifying cardiac neurosis
+|Description=Psychiatric causes, panic attacks
+|Rubric=Etiologies
+|Contributors=Arnaud Bisson
+|Order=9}}
+
+
+* It is a diagnosis of elimination based on a strictly normal percritical ECG, often obtained using long-term monitoring.
+* Know how to evoke the diagnosis when :
+** clinical and paraclinical examinations are all normal
+** there is no identified cardiac or extracardiac pathology
+** the patient shows signs of depression (''sad mood/moral pain'') or anxiety (''anxiety'')

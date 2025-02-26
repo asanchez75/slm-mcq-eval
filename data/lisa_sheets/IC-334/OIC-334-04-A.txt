@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-334-04-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing the criteria for trauma severity
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+[[File:Item 334 Algorithme de Vittel.jpg|vignette|Figure 1. Vittel's algorithm]]
+Application of the Vittel algorithm (figure 1) to define the severity requiring transfer to a specialised centre ('''''''). [[Coma and disorders of consciousness SD-028|coma and disorders of consciousness]] " " [[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]] " " [[Acute haemorrhage SD-060|acute haemorrhage]] " " [[Acute respiratory distress SD-160|acute respiratory distress]] " " [[Abdomino-pelvic trauma SD-171|abdomino-pelvic trauma]] " [[Acute haemorrhage SD-060|acute haemorrhage]] " [[Acute respiratory distress SD-160|acute respiratory distress]] " [[Abdomino-pelvic trauma SD-171|abdomino-pelvic trauma]] " [[Abdomino-pelvic trauma SD-171|abdomino-pelvic trauma]] " [[Acute haemorrhage SD-060|acute haemorrhage]pelvic trauma]]" " [[Head trauma SD-172|head trauma]]" " [[Limb trauma SD-173|limb trauma]]" " [[Facial trauma SD-174|facial trauma]] " " [[Spinal trauma SD-175|spinal trauma]] " " [[Severe trauma SD-176|severe trauma]] " " [[Thoracic trauma SD-177|thoracic trauma]] "''')

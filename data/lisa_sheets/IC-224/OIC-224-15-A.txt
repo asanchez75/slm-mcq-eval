@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-224-15-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing the main side effects and contraindications of anti-hypertensive treatments
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=15}}
+
+{| class="wikitable"
+|''Therapeutic classes''
+|Absolute contraindications
+|Relative contraindications
+|Frequent adverse reactions
+|-
+|''Thiazide diuretics''
+|
+|Pregnancy
+Hypercalcaemia
+
+Hypokalemia
+|Hypokalemia
+Hyponatremia
+
+Metabolic disorders
+|-
+|Beta blockers
+|Asthma
+
+Atrioventricular block 2<sup>e</sup> and 3<sup>e</sup> degree
+|
+|Asthenia
+
+Sinus bradycardia
+
+Acrosyndrome
+
+Libido disorders
+
+Erectile dysfunction
+|-
+|Calcium channel blockers (dihydropyridines)
+|
+|Tachyarrhythmia
+Uncontrolled heart failure
+|Edema of the lower limbs
+Headache
+
+Dizziness
+
+Flushes
+|-
+|Calcium channel blockers (verapamil, diltiazem)
+|Atrioventricular block, 2nd</sup> and 3rd</sup> degree
+
+Severe heart failure (LVEF < 40%)
+|Constipation
+|Sinus bradycardia
+Headache
+
+Dizziness
+
+Flushes
+
+Oedema of the lower limbs
+|-
+|Converting enzyme inhibitors (ACE inhibitors)
+|Pregnancy
+
+Angioneurotic oedema on ACE inhibitors
+|Women of childbearing age without effective contraception
+Hyperkalaemia (> 5.5 mmol/L)
+|Cough
+
+Hyperkalaemia
+
+Functional renal failure
+|-
+|Angiotensin 2 AT1 receptor antagonists (ARB2)
+|Pregnancy
+|Women of childbearing age without effective contraception
+Hyperkalaemia (> 5.5 mmol/L)
+|Hyperkalaemia
+Functional renal insufficiency
+|-
+|Mineralocorticoid receptor antagonists (spironolactone)
+|Stage 4-5 renal failure or acute renal failure
+hyperkalaemia
+|Pregnancy
+|Hyperkalaemia
+Gynecomastia
+
+Dysmenorrhea
+|}

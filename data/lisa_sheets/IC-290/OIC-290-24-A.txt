@@ -1,0 +1,81 @@
+{{knowledge objective
+|Identifiant=OIC-290-24-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Know the definition of cancer screening, its methods and principles
+|Description=Organised versus individual screening - general concepts of screening - systematic, organised, opportunistic screening, main biases
+|Rubrique=Definition
+|Contributors=
+|Order=24}}
+
+
+1.1 General information
+
+'''There are 4 types of prevention:'''
+
+- Primary: prevent the onset of the disease by acting on the risk factors (e.g. alcohol, tobacco, obesity, sun exposure, vaccination),
+
+- secondary: detect the disease at an early stage (''i.e.'' before the onset of clinical signs) or even at a precancerous stage (''e.g.'' precancerous lesions in cervical cancer screening) and treat as early as possible. Screening falls into this category,
+
+- tertiary: acting on the chronic effects of disease treatment, and in particular preventing and limiting sequelae of functional disability (e.g. rehabilitation after surgery, plans for professional reintegration, monitoring of patients after the course of treatment in order to detect a relapse),
+
+- quaternary: act to identify and limit the risk of over-medicalisation and of invasive and disproportionate procedures that will not improve the patient's condition.
+
+
+Screening is therefore part of secondary prevention and aims to detect the disease at the earliest possible stage, when the patient does not feel ill (= total absence of symptoms).
+
+
+So, as soon as there are the slightest symptoms, we are not in a situation of screening but of diagnosis (more or less early)!
+
+
+Organised mass screening is a public health measure, organised by the health authorities, which specifically targets a well-defined population at greater risk, without the indication for screening coming from a given doctor for a given individual.
+
+
+In addition, the performance of this screening is regularly evaluated. The absolute criterion for judging a screening campaign for a given disease is the reduction, in the population screened, of the specific mortality linked to this disease, or even of overall mortality if its impact on this is major.
+
+In some cases, screening will lead to a reduction in incidence in the population screened (e.g. screening for cervical cancer in the precancerous lesion stages, which will be treated).
+
+
+This is the exact opposite of individualised screening, which is initiated by a doctor in a given context (e.g. a patient's personal/family history and lifestyle in particular) and in the course of a shared medical decision.
+
+
+A few comments:
+
+- A sick person asks to be examined and an obligation of means is imposed (sometimes with the need to put the brakes on therapeutic approaches!) In a screening situation, patients "don't feel ill" and are asked to "submit" to a battery of tests, the purpose of which is to achieve a result, namely a reduction in mortality.
+
+- As a reminder, according to the latest INCa figures (2019), around 40% of cancers are preventable! This is achieved by modulating patients' lifestyles and maximising organised screening measures.
+
+- Screening only concerns asymptomatic patients... a mammary nodule, rectal discharge or pelvic pain during sexual intercourse should not be a reason to undergo organised mass screening!
+
+- For the same cancer disease, there may be organised mass screening and individual screening.
+
+
+
+By 2022, three cancer sites in France will be covered by organised mass screening: breast, colorectal and cervical. Other sites could be added in the coming years.
+
+
+
+1.2 Criteria for organised mass screening campaigns
+
+A number of criteria need to be met:
+
+- Concerning the cancerous disease => it must be high (in absolute terms or within a well-defined target population) and have a sufficiently long development phase (including a long pre-clinical phase). In addition, an effective therapeutic arsenal must be available.
+
+- The screening test => must have been validated, particularly in terms of its performance. It must be highly sensitive (ideal situation = detection of all cases) while having adequate specificity (since a positive result will lead to a more invasive examination for confirmation). Finally, there is a recognised and validated screening test.
+
+- Finally, the real-life performance of organised mass screening campaigns needs to be evaluated (in particular the rates of: participation, cases detected, true positives/false positives, diagnostic tests per positive case detected; mainly: number of deaths avoided).
+
+
+
+1.2 Main biases in organised mass screening
+
+'''The main bias in evaluating a screening campaign would be to consider the survival time of patients screened (versus those not screened).'''
+
+This is artificially increased by 3 mechanisms:
+
+- Advance diagnosis: as a reminder, the disease is detected "x" number of months/years before it becomes clinically apparent. So an increase in survival time since diagnosis is quite "normal",
+
+- Progression bias'': the screening procedure repeated at regular intervals, set by a given protocol, will tend to "detect" cancers that are more indolent and therefore have a better prognosis. Explosive" cancers will have time to develop during the interval between two screenings and will therefore slip through the net,
+
+- over-diagnosis bias'': this refers to the consideration of illnesses that would not have manifested themselves clinically without the depsiting measure.

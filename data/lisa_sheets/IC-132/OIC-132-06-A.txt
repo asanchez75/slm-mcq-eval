@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-132-06-A
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=A
+|Title=Know the main causes of a neuro-cognitive disorder.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+According to the DSM 5, the possible etiologies of major or mild neurocognitive disorders are :
+
+
+Alzheimer's disease,
+
+Frontotemporal degeneration
+
+Lewy body disease
+
+Neurovascular encephalopathy
+
+Secondary to cerebral trauma
+
+Secondary to substance use
+
+Secondary to HIV infection
+
+Parkinson's disease
+
+Prion disease
+
+Huntington's disease
+
+Multiple etiologies

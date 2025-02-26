@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-158-06-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Know how to diagnose septic shock (excluding microbiology)
+|Description=Know how to request a GDS with lactate measurement in the event of suspected serious infection/sepsis.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+The diagnosis of septic shock is primarily clinical.
+
+Diagnosing septic shock in a patient presenting with an infection requires :
+
+*identify "haemodynamic failure": mean arterial pressure ≤ 65 mmHg despite sufficient volume expansion
+*measure the concentration of lactate in the blood
+**The lactate level is in most cases obtained by arterial gasometry.
+**By definition, the lactate level is increased (≥ 2 mmol/L) in septic shock.

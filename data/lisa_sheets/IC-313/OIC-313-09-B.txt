@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-313-09-B
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=B
+|Intitle=Knowing the extension work-up: thoraco-abdomino-pelvic CT scan and the three serum markers: alpha-feto-protein (AFP), total gonadotrophic chorionic hormone (HCG) and lactic acid dehydrogenase (LDH)
+|Description=None
+|Section=Additional tests
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=9}}
+
+<br />
+
+*A thoraco-abdomino-pelvic CT scan is used to look for lymph node (retroperitoneum) or lung metastases.
+*Markers are measured before and after orchiectomy for prognostic evaluation and follow-up (taking into account their respective half-lives).
+**Alpha-fetoprotein (AFP): present in vitelline tumours and embryonal carcinoma. Half-life: 5-7 days
+**Total human chorionic gonadotropin hormone (HCG): present in all choriocarcinomas and in 10-20% of seminomas (at low levels). Half-life: 24-36 hours.
+**Lactate dehydrogenase (LDH): non-specific (cell proliferation, tumour mass, metastatic forms, etc.).
+*In case of clinical signs: brain MRI, bone scan.
+
+
+'''Starting situations''' : [[Single or multiple adenopathies SD-016|single or multiple adenopathies]] (16) [[Bursal abnormality SD-108|bursal abnormality]] (108) , [[Testicular pain SD-100|testicular pain]] (100) , [[Gynecomastia SD-041|gynecomastia]], [[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]] (178) [[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]] (180) [[Discovery of an abdominal anomaly during a medical imaging examination SD-224|discovery of an abdominal anomaly during a medical imaging examination]] (224) [[Writing the request for an imaging examination SD-230|writing the request for an imaging examination]] (230) [[Request for an imaging examination SD-231|request for an imaging examination]] (231) [[Oncology follow-up consultation SD-297|oncology follow-up consultation]] (297) [[Announcement of a diagnosis of serious illness to the patient and/or family SD-327|announcement of a diagnosis of serious illness to the patient and/or family]] (327)

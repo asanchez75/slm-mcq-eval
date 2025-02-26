@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-278-05-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Know the definition of jaundice in adults
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+Yellow colouration of the integuments or conjunctivae due to an increase in the concentration of bilirubin (conjugated or unconjugated) in the blood. Cutaneous jaundice generally appears when bilirubin levels exceed 50 micromol/l.
+
+Jaundice is said to involve unconjugated bilirubin when unconjugated bilirubin is greater than 70% of total bilirubin. In other cases, it is conjugated or mixed bilirubin jaundice.

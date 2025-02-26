@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-027-37-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Knowing the consequences of alcohol abuse during pregnancy: Foetal Alcohol Syndrome (FAS) and Foetal Alcohol Spectrum Disorder (FASD).
+|Description=None
+|Rubric=Diagnosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=37}}
+Foetal Alcohol Syndrome (FAS) is the main complication of chronic and heavy alcohol consumption during pregnancy. Its incidence in France is around 1 to 2/1000 in its complete form, and it is often under-diagnosed. This syndrome combines four elements, to varying degrees:
+
+- Moderate intrauterine growth retardation
+
+- Typical facial dysmorphia including :
+
+o Abnormalities of the upper lip (thinness) and philtrum (bulging)
+
+o Pronounced nasal bridge, short nose
+
+o Narrow palpebral fissures, epicanthus and hypertelorism
+
+o Bilateral Ptosis
+
+o Hypertrichosis with synophrisis
+
+o Cleared chin with retrognathism
+
+o Low and badly hemmed ears
+
+- Malformations: present in 10 to 30% of severe forms: mainly neurological (spina bifida, agenesis of corpus callosum, cerebellar anomalies, hydrocephalus, etc.), cardiac (mainly CIA and CIV), skeletal (scoliosis, radio-ulnar synostosis, clinodactyly, etc.) and facial (cleft lip and palate).
+
+- delayed acquisition, combining cognitive and behavioural problems of varying intensity. In the most severe forms, the delay in acquisition may be referred to as mental retardation and prevent the child from having a conventional education or even being independent (living in an institution). These disorders may appear even though there is no growth retardation or dysmorphia, particularly in cases where alcohol consumption is more moderate. In these cases, we prefer to use the term FASD (Foetal Alcohol Spectrum Disorder) rather than FAS, which can occur at a rate of up to 5/1000 births. There may also be an isolated drop in intelligence quotient (IQ), behavioural problems such as aggression, hyperactivity, fine motor skills or tone disorders, and delayed acquisition of language and writing;
+
+'''115. [[Psychomotor development abnormality SD-115|Psychomotor development abnormality]]''''
+
+'''293. [[Addictology follow-up consultation SD-293|Addictology follow-up consultation]]''''
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''313. [[Prevention of alcohol-related risks SD-313|Prevention of alcohol-related risks]]''''
+<br />

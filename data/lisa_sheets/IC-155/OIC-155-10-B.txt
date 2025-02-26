@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-155-10-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the principles of treating panariasis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+Local antiseptics in twice-daily baths
+
+Incision and drainage in the event of a purulent collection or complication (sheath phlegmon)
+
+Oral anti-staphylococcal antibiotic therapy in case of resistance and/or complication

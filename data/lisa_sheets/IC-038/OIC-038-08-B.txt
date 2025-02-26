@@ -1,0 +1,97 @@
+{{knowledge objective
+|Identifiant=OIC-038-08-B
+|Item_parent=Infertility of the couple: conduct of the first consultation
+|Item_parent_short=Infertility of the couple: conduct of the first consultation
+|Rank=B
+|Title=Knowing the principles of interpreting a spermogram
+|Description=Collection conditions, compliance with pre-analytical conditions, main anomalies...
+|Section=Additional tests
+|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet
+|Order=8}}
+
+
+
+The sperm is collected for the spermogram
+
+- in a specialised laboratory
+
+- by masturbation
+
+- after a period of abstinence of 2 to 7 days
+
+- after intimate cleansing before collection
+
+Once the sperm has been collected, it is necessary to
+
+- check that there is no loss of ejaculate (particularly the first fraction, which is the richest in spermatozoa).
+
+- Ask if there have been any particular events in the 3 months preceding the collection, in particular a febrile episode.
+
+Then, 30 to 60 minutes after collection, several parameters are analysed:
+
+- Measuring ejaculate volume
+
+- Evaluation of ejaculate viscosity
+
+- Measuring the pH of the ejaculate
+
+- Evaluation of sperm mobility according to WHO recommendations, in 3 categories: progressive mobility (PR), non-progressive mobility (NP), immobile spermatozoa (I).
+
+- Search for agglutinates (attachments of motile spermatozoa)
+
+- Calculation of concentration (spermatozoa and round cells)
+
+- Vitality assessment using vital dyes
+
+- Spermocytogram to assess sperm morphology after staining on slides (several classifications are possible with different normality thresholds: strict criteria classification known as the Krüger international classification or the modified David French classification).
+
+The reference values were defined by the WHO after analysing over thousands of ejaculates from fertile men (spontaneous pregnancy within 12 months) from all over the world. It is important to point out to patients that lower values do not necessarily mean infertility or sterility.
+<br />
+{| class="wikitable"
+|'''Parameters'''
+|'''Standards'''
+|'''Anomalies'''
+|-
+|Sperm volume
+|N ≥ 1.4 mL
+|Absence of ejaculate: aspermia
+
+↓: Hypospermia
+|-
+|pH of sperm
+|7,2 ≤ N ≤ 8
+|↓: Acid semen
+
+↑: Alkaline sperm
+|-
+|Numeration
+|N ≥ 16 million/mL (concentration)
+
+
+N ≥ 39 million/ejac
+|↓ : Oligozoospermia
+
+Absence of spz = Azoospermia
+|-
+|Mobility
+
+at 1 hour
+|total (PR+NP) ≥ 42%
+
+progressive (PR) ≥ 30%
+|↓: Asthenozoospermia
+|-
+|Vitality
+|N ≥ 58%
+|↓: Necrozoospermia
+|-
+|Morphology
+|Typical Spz ≥ 4% (according to Krüger classification)
+
+Typical Spz ≥ 23% (according to modified David classification)
+|↓ : Teratozoospermia
+|-
+|Leukocytes
+|N < 1 million/mL
+|↑ Leukospermia
+|}

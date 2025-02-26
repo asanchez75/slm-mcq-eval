@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-348-11-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the main causes of vascular ARF
+|Description=Thrombotic microangiopathy syndrome, malignant hypertension, cholesterol crystal embolism disease and causes of HUS in children
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=11}}
+
+'''Vascular nephropathies (cf item 263)''' associated with damage to small-calibre arteries and capillaries in :
+
+* Haemolytic uraemic syndrome (HUS)
+* Scleroderma renal crisis
+* Cholesterol crystal embolism disease
+* Malignant hypertension
+
+Or linked to damage to the main renal arteries or veins:
+
+* Arterial embolisms, atheromatous arterial thrombosis, renal artery dissection or venous thrombosis (bilateral or in a single kidney).

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-267-34-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know when to prescribe blood calcium levels and define hypocalcaemia.
+|Description=Threshold, interpretation according to albumin level, ionised calcaemia
+|Rubric=Definition
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=34}}
+
+
+*Definitions
+**Total hypocalcaemia is defined as a plasma concentration of less than 2.20 mmol/L, and ionised hypocalcaemia as a concentration of less than 1.15 mmol/L.
+**<A distinction must be made between true hypocalcaemia, with a decrease in ionised calcium (regulated fraction), and false hypocalcaemia due to a decrease in the protein-bound fraction. More than 40% of serum calcium is bound to proteins, mainly albumin. In the case of hypoalbuminemia: corrected Ca = (40 - albumin) × 0.025 + [total Ca].
+
+<br />
+
+*Calcemia measurement to look for hypocalcemia when :
+**symptoms suggestive of hypocalcaemia (neuromuscular disorders, cardiac disorders)
+**pathology at risk of hypocalcaemia (chronic renal failure, history of parathyroid surgery).

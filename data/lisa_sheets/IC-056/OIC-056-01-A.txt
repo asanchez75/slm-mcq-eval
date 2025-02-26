@@ -1,0 +1,32 @@
+345{{knowledge objective
+|Identifiant=OIC-056-01-A
+|Item_parent=The disabled child: orientation and care (see items 118, 121)
+|Item_parent_short=The disabled child: orientation and care (see items 118, 121)
+|Rank=A
+|Title=Knowing the definition of disability
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''- Using the ICF (International Classification of Functioning)'''
+
+Disability in children ([[Situation of disability SD-345]]) = situation resulting from the interaction between state of health, activities, participation, environmental and personal factors.
+
+A child with a disability has one or more impairments and does not have the activities and participation of children in his or her age group.
+
+Specific features to be taken into account:
+
+- Notion of learning (maturing brain) ([[Anomaly of psychomotor development SD-115]])
+
+- Age-related activities
+
+- Notion of musculoskeletal growth (secondary deformations) ([[Joint deformation SD-070]])
+
+- Paediatric pathologies ([[Paediatric follow-up consultation SD-296]])
+
+- Participation: family, schools, leisure
+
+- Environment: importance of family support ([[Overall support for a carer SD-330]])
+
+
+Convention on the Rights of Persons with Disabilities (CRPD): Children with disabilities have the ''same rights as other children'' - for example, to health care, nutrition, education, social inclusion and protection from violence, abuse and neglect. ([[Suspected child abuse and children at risk SD-321]])

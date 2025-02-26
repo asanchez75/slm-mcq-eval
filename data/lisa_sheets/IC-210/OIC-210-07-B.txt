@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-210-07-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Title=Knowing the initial diagnostic strategy for IDP
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=7}}
+'''Police interview:''' reason for consultation, personal (medical, surgical, gynaeco-obstetric) and family history, past and current treatments, lifestyle (past and current profession(s), smoking, alcohol, other, domestic exposures, animals, hobbies, allergies, etc.), functional signs of all systems (skin, neurological, joint, muscle, etc.).
+
+'''Thorough clinical examination:''' particularly looking for signs of systemic disease (connective tissue disease or vasculitis).
+
+'''Additional examinations:'''
+
+* Blood biology: see below
+* EFR (see below) +/- arterial blood gas +/- 6-minute walk test;
+* Bronchial fibroscopy with BAL (microbiology, cytology) or even staged bronchial biopsies or transbronchial biopsies or bronchial echo-endoscopy (puncture of mediastinal adenopathy);
+* Extra-thoracic biopsy: BGSA, skin biopsy, kidney biopsy, etc. ;
+* Surgical lung biopsy.

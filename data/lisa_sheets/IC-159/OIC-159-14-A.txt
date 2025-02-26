@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-159-14-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Know the main characteristics of anti-tuberculosis drugs (toxicity, drug interactions, contraindications, monitoring, precautions for use).
+|Description=None
+|Topic=Management
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=14}}
+
+'''Summary: The 3 major anti-tuberculosis drugs are rifampicin, isoniazid (INH) and pyrazinamide (PZA). They are bactericidal; PZA and INH are hepatotoxic, and isoniazid is also neurotoxic. Ethambutol is bacteriostatic, but its ocular toxicity needs to be monitored.'''
+
+'''Rifampicin:''''
+
+* Bactericide, best absorbed on an empty stomach
+* Side effects: digestive intolerance (nausea, vomiting), hypersensitivity (rare: flu-like syndrome, thrombocytopenia, haemolytic anaemia, renal failure, etc.), liver toxicity (rare) potentiated by other anti-tuberculosis drugs.
+* Notable effects: red-orange colouration of biological fluids (compliance monitoring), drug interactions (enzyme inducer).
+
+'''Isoniazid:''''
+
+* Bactericide
+* Side effects: hepatic cytolysis (frequent), peripheral neuropathy (malnutrition, pregnancy, alcoholism: prevention with vitamin B6), psychological disorders.
+
+'''Pyrazinamide:'''
+
+* Bactericide
+* Side-effects: hepatic cytolysis (very frequent, requiring close monitoring of liver function).
+* Notable effect: almost constant hyperuricaemia (compliance monitoring), no treatment in the absence of gout symptoms.
+
+Ethambutol :
+
+* Bacteriostatic, prescribed mainly to prevent the emergence of resistance.
+* Side-effects: optic neuritis, requiring systematic ophthalmological monitoring (FO, visual field and colour vision).
+
+
+The initial clinical situations related to a [[Suspicion of an adverse drug reaction or care SD-348|suspicion of an adverse drug reaction]] (antituberculosis drugs) are recalled here: [[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], transaminase elevation without cholestasis (PZA and INH, rifampicin to a lesser extent), [[Abdominal pain SD-004|abdominal pain]], [[Epigastric burning SD-168|burning]], cramps and paresthesias (isoniazid).
+
+(renal insufficiency, hepatic insufficiency, pregnancy, the elderly...) SD-264|Adaptation of treatments to particular conditions]] (renal insufficiency, hepatic insufficiency, pregnancy, the elderly...): ''beware of drug interactions linked to the enzyme-inducing effect of rifampin'' (oestroprogestative contraception, oral anticoagulants, etc.).): ''beware of drug interactions linked to the enzymatic inducing effect of rifampin'' (oestroprogestative contraception, oral anticoagulants, etc.), prevention of peripheral neuropathy with INH by vitamin B6 supplementation, etc.
+
+[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient]] (adult/child/adolescent): warn the patient of the orange-red colour of all body secretions (urine in particular, an effect linked to rifampicin and enabling compliance to be monitored).

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-173-09-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Lyme disease: knowing the principles of primary phase management
+|Description=None
+|Rubric=Management
+|Contributors=Carole Eldin,Florence Robert-Gangneux
+|Order=9}}
+
+The primary phase is also known as the "early localised phase" of Lyme disease, or "Erythema migrans".
+
+The clinical finding of erythema migrans requires treatment to be prescribed straight away, without the need for further examination.
+
+Because of poor sensitivity at this stage, serology is not recommended in the presence of erythema migrans.
+
+Curative treatment involves 14 days' "per os" antibiotic therapy with doxycycline in adults, and amoxicillin in children under 8.
+
+<br />

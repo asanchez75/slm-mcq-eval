@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-091-08-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Know the main causes of recent peripheral neurological deficits.
+|Description=Peripheral nerve compression, Guillain-Barré syndrome, multiple mononeuropathy, myasthenia gravis, cauda equina syndrome.
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+The main causes of recent permanent peripheral neurological deficits are listed in the following table:
+{| class="wikitable"
+|'''Peripheral Nervous System Impairment''''
+| Cauda equina syndrome (lumbar hernia, metastasis, epiduritis, etc.)
+
+            - Paralysing sciatica, other uniradicular compressive disorders
+
+            - Guillain-Barré syndrome, meningoradiculitis (infectious, neoplastic, etc.)
+
+            - Plexopathy (traumatic, neoplastic, Parsonage-Turner syndrome)
+
+            - Multifocal neuropathy (vasculitis, diabetes)
+
+            - Unifocal neuropathy (traumatic compression, postural, ischemia...)
+<br />
+|-
+|Impairment of the neuromuscular junction and muscles'''
+| Myasthenia and other causes of myasthenic syndromes
+
+            - Myositis (inflammatory, infectious...), toxic myopathy, metabolic myopathy (dyskalaemia)
+
+            - Rhabdomyolysis
+<br />
+|}
+<br />

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-334-56-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Savoir demander à bon escient l'examen d'imagerie pertinent devant un traumatisme crânien à la phase aiguë
+|Description=Indications for cerebral tomography
+|Rubric=Additional examinations
+|Contributors=
+|Order=56}}
+'''Trans-cranial Doppler:''' at initial management, as part of the FAST ultrasound: search for signs of intracranial hypertension (Figure 3, [[2C-334-PC-B02]]).
+
+'''Brain scan:''''
+
+*initially without injection, then with injection of the polygon of Willis and supra-aortic trunks (to look for carotid or vertebral dissection)
+*systematically combined with a CT scan of the cervical spine
+*to be repeated if initial brain scan very early, if clinical or para-clinical worsening (trans-cranial doppler) or if usual treatment with anticoagulants.
+
+("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]'''") ("''[[Head injury SD-172|head injury]]'''")<br />

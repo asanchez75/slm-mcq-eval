@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-275-01-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Intitle=Know the definition of splenomegaly
+|Description=Palpable date
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Splenomegaly''' = enlarged spleen
+
+Semiological consequence = palpable on clinical examination (a spleen of normal size is not palpable in adults).
+
+Confirmation = by abdominal imaging in cases of clinical doubt (in obese patients, for example).

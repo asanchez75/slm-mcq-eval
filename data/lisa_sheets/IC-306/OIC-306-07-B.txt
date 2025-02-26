@@ -1,0 +1,74 @@
+{{knowledge objective
+|Identifiant=OIC-306-07-B
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=B
+|Title=Knowing the indications for imaging an ovarian tumour
+|Description=Echo: detects and characterises the majority of ovarian tumours. Additional MRI if adnexal masses are undetermined or complex. CT scan for diagnosis of carcinosis/ascites or teratoma. Limited indications for 18FDG PET-CT.
+|Rubric=Additional examinations
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=7}}
+'''Additional imaging tests:''''
+
+'''Pelvic ultrasound'''' '''by abdominal then endovaginal route.''''
+
+This is the first-line examination, not only for diagnostic purposes, but also to determine the size, bilaterality, location, shape, echostructure and vascularisation of the cyst. Associated signs such as ascites or other masses are also investigated.
+
+The following ultrasound criteria should be interpreted according to the patient's menopausal status and age:
+{| class="wikitable"
+|Ultrasound criteria in favour of a ''functional cyst''.
+|Ultrasound criteria in favour of an "organic cyst".
+|Ultrasound criteria in favour of malignancy
+|-
+|Unilocular</nowiki>
+
+- Pure liquid
+
+- In a non-menopausal patient
+|<Existence of a septum</nowiki>.
+
+- Thickened walls
+
+- Heterogeneous content
+
+- Irregular contours
+
+- Doppler vascularisation
+
+- Large lesion
+|<Endo or exo cystic vegetations</nowiki>.
+
+- Ascites
+
+- Adenopathies
+
+- Associated pelvic mass
+|}
+'''Abdominal-pelvic MRI''''
+
+In the case of a localised form or an ovarian mass that is indeterminate or complex on ultrasound, pelvic and abdominal MRI down to the renal pedicle can be used to better characterise the tumour (value of perfusion and diffusion sequences) and to assess local-regional extension.
+
+An international classification system, the Ovarian-Adnexal Reporting & Data System (O-RADS), helps to identify suspicious ovarian masses.
+
+'''Thoraco-abdomino-pelvic computed tomography'''
+
+A thoracic-abdominal-pelvic CT scan with injection (particularly in the case of an advanced form) is used to assess the pre-therapeutic extension and resectability of peritoneal carcinosis of ovarian origin.
+
+18-FDG Positron Emission Tomography
+
+18-FDG (fluorodeoxyglucose) PET-CT is an option for extension assessment in advanced stages.
+
+
+'''Associated starting situations:''''
+
+178 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]
+
+224. [Discovery of an abdominal anomaly on medical imaging examination SD-224|Discovery of an abdominal anomaly on medical imaging examination]]
+
+229. [Discovery of a pelvic anomaly on medical imaging examination SD-229|Discovery of a pelvic anomaly on medical imaging examination]]
+
+231. [Request for an imaging examination SD-231|Request for an imaging examination]]
+
+232. [Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]
+
+233. [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]]

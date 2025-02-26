@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-123-15-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=Knowing the biological mechanisms at the origin of ageing
+|Description=To know and be able to briefly define the main biological systems and mechanisms at the origin of ageing.
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=15}}
+ 
+
+'''''Genomic instability'''''
+
+Accumulation of nuclear and mitochondrial DNA lesions over time that can compromise genomic stability and integrity. Imbalance between lesions and damage induced by aggression and the capacity for repair and correction.
+
+'''''Telomere shortening'''''
+
+Telomeres are the end parts of chromosomes that shorten with each cell replication. Telomere length is fixed at birth (9 kbases). Telomerase is an enzyme capable of replacing the telomeric part.  Telomere shortening in patients is associated with an increased risk of mortality and age-related degenerative diseases.
+
+'''''Epigenetic alterations'''''
+
+Epigenetic modifications (such as DNA methylation) play an important role in ageing.  
+
+'''''Loss of proteostasis'''''
+
+Proteostasis concerns the correct organisation and folding of proteins. It can be altered by numerous stress factors and modify the way proteins function.  
+
+'''''Deregulation of nutrient sensing: the TOR protein kinase'''''
+
+Imbalance between nutrition and cellular needs and metabolic function (leading to obesity, diabetes and other metabolic diseases).
+
+'''''Mitochondrial dysfunction'''''
+
+Mitochondrial dysfunction results in increased production of free radicals (endogenous aggression factors).
+
+'''''Cellular senescence'''''
+
+Cellular senescence can affect both the organism's repair capacity and the development of mutations and other lesions. Replicative senescence limits the number of divisions undergone by cells (Hayflick theory).
+
+'''''Stem cell depletion'''''
+
+Reduced tissue regeneration potential is one of the most marked features of ageing (e.g. depletion of haematopoietic stem cells), resulting in reduced regeneration of damaged tissue.
+
+''''' Impaired intercellular communications'''''
+
+Ageing is accompanied by difficulties in communication between cells (endocrine, neuronal, inflammatory, etc.).

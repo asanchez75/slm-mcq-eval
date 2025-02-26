@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-055-13-B
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=B
+|Title=Knowing how to diagnose a learning disability
+|Description=Call signs and characteristics of the main learning disabilities
+|Rubric=Diagnosis
+|Contributors=
+|Order=13}}
+
+==Definition==
+Specific learning disabilities are neurodevelopmental disorders characterized by cognitive abnormalities that disrupt acquisition (reading, spelling, mathematics) without this disruption being explained by intellectual development disorders, sensory abnormalities or environmental circumstances (serious environmental deficiencies, lack of schooling, etc.).
+
+==Main specific disorders==
+
+*Specific oral language disorders (SOLD)
+*Specific written language disorders: affecting reading (formerly "dyslexia") and/or spelling (formerly "dysorthographia").
+*Mathematical cognition disorders
+
+==Main differential diagnoses===
+
+*Sensory anomalies
+*Severe environmental deficiencies
+*Other [[Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)|neurodevelopmental disorders]]

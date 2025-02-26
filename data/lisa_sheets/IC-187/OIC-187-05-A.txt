@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-187-05-A
+|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Rank=A
+|Title=Knowing how to recognise anaphylaxis
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=5}}
+In a minority of cases, acute urticaria may be secondary to an allergy or immediate hypersensitivity called anaphylaxis.
+
+This is not the case with chronic urticaria, which is never secondary to anaphylaxis.
+
+
+In the case of anaphylaxis, urticaria may be isolated, but more often than not there are associated signs that suggest the diagnosis of anaphylaxis;
+
+- Respiratory signs: dysphonia, dyspnoea, bronchospasm
+
+- Cardiovascular signs: tachycardia, bradycardia, arterial hypotension
+
+- Digestive signs: nausea, vomiting, diarrhoea
+
+- Neurological signs: headaches, convulsions
+
+In extreme cases, anaphylactic shock with cardiorespiratory arrest may occur.

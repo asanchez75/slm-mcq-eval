@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-226-11-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Knowing the indications and contraindications of elastic compression (DVT of the lower limbs)
+|Description=None
+|Heading=Management
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=11}}
+In cases of DVT of the lower limbs, class 3 elastic compression is indicated. It allows :
+
+- in the acute phase, to reduce oedema and pain.
+
+- outside the acute phase, compression (mainly socks) can reduce post-thrombotic syndrome and is indicated for a minimum of 6 months, after which it should be reassessed
+
+Elastic compression should not be used if the ankle systolic pressure index is < 0.60.

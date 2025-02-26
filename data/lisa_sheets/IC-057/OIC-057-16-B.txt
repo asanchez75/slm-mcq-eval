@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-057-16-B
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=B
+|Intitulé=Infant, child: to know the differential diagnoses and lesion mechanisms to be eliminated
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=16}}
+The main differential diagnosis for multiple fractures is constitutional bone disease (abnormal bone transparency on X-ray). For the record, constitutional bone disease is much rarer than trauma-inflicted situations.

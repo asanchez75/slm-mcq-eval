@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-12-B
+|Item_parent=Sickness, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=B
+|Title=Know the indications for an electroencephalogram in the event of malaise or loss of consciousness presumed to be of epileptic origin.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+cf item 105

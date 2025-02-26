@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-131-05-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Heading=Know the definition of a fall and a repeated fall (HAS)
+|Description=Know the definition of a fall
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+A fall is the "involuntary landing on the ground or in a position lower than the starting position" (WHO).
+
+Repeated falls are defined as at least 2 falls over a 12-month period (HAS).

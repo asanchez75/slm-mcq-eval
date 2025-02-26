@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-190-04-A
+|Item_parent=Prolonged fever
+|Item_parent_short=Prolonged fever
+|Rank=A
+|Title=Cite the main infections responsible for prolonged fever
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+
+
+'''Frequent infections'''
+
+- viral infections (Epstein Barr virus (EBV), Cytomegalovirus (CMV), dengue fever)
+
+- tuberculosis
+
+- endocarditis (particularly if foreign material++)
+
+- malaria
+
+
+'''Rarer infections'''
+
+- bartonellosis
+
+- brucellosis
+
+- typhoid fever
+
+- deep abscess
+
+- urinary tract infection
+
+- HIV infection
+
+- osteoarticular infection
+
+- rickettsiosis
+
+- leptospirosis
+
+- viral hepatitis A, B, E
+
+- Whipple's disease
+
+- mycobacterial infections excluding tuberculosis
+
+
+'''In children'''
+
+'''Frequent infections'''
+
+/A distinction must be made between prolonged fever and repeated fevers, the latter being by far the most frequent and may correspond to a series of viral infections. Careful attention must therefore be paid to the notion of a free interval and to associated respiratory signs suggestive of viral infection
+
+Viral: EBV, CMV
+
+Parasites: toxoplasmosis, malaria (recurrence)
+
+Bacterial: tuberculosis, urinary tract infections, Bartonellosis (systemic form more common than in adults)
+
+
+'''Rarer infections'''
+
+Viral infections: HIV
+
+Bacterial infections: osteoarticular infections, deep abscesses, endocarditis (rarer than in adults)
+
+Much rarer: Rickettsial disease, coxiellosis, chlamydiosis, Mycoplasma pneumoniae infections (extra pulmonary form), typhoid fever, leptospirosis, viral hepatitis A, B and E, Whipple's disease, etc.
+
+<br />

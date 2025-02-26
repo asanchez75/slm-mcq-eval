@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-020-09-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Title=Relevance of the data collected
+|Description=Ability to assess the relevance of the data collected
+|Rubric=Definition
+|Contributors=Josiane Warszawski (CIMES),Alexandra Rouquette (CIMES)
+|Order=9}}
+
+Among all the data collected, it is necessary to isolate precisely :
+
+* The ''primary endpoint'': the relevance of this endpoint is judged by assessing its appropriateness to the study's primary objective and must meet a consensus definition. Relevance is also judged by the clinical significance of the endpoint. Criteria such as mortality, quality of life, occurrence of complications, etc. are of significant clinical relevance, but it is not always feasible to collect the most clinically relevant criterion. In such cases, a "surrogate endpoint" is used (for example, cholesterol levels as a surrogate for cardiovascular mortality) to improve feasibility, at the cost of reduced clinical relevance. In some cases, considering only one type of event is not relevant to the question posed, and a "composite criterion" (composed of several events, the occurrence of one or other of which marks the positivity of the composite criterion) is used. For example, "death OR stroke OR myocardial infarction". Note that in the vast majority of cases, it is recommended to favour one and only one primary endpoint.
+* <u>Optionally</u>: '''secondary endpoints''' defined in order to support the primary endpoint, or to explore various aspects of the pathology and thus evaluate the secondary objectives.
+* <u>For analytical or experimental studies</u>:
+** one or more '''exposure factors''' (risk factors, experimental intervention, cf. [[Risk factor, etiological factor, prognostic factor, health determinants, exposure factor 2C-020-DE-A04]]), the relevance of which is assessed by adequacy with the primary objective and any secondary objectives.
+** adjustment variables", the relevance of which is assessed by identifying all the factors which could theoretically (on the basis of data in the literature) confound the link between the exposure factor and the endpoint (see [[Understanding the concept and role of adjustment. Knowing how to interpret and read an adjusted result 2C-020-DE-B11]])
+* <u>For studies evaluating the performance of diagnostic or screening test(s)</u>: the result of the '''test(s) to be evaluated''' (the result of the reference test being the primary endpoint)
+* <u>For all studies</u>: the '''characteristics of the individuals making it possible to describe the sample'' included and thus to judge its representativeness and potential selection biases.

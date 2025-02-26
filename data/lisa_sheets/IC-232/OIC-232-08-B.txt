@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-232-08-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Unusual clinical forms
+|Description=Valvular AF, atrial disease
+|Rubric=Etiologies
+|Contributors=Jean-Baptiste GUICHARD
+|Order=8}}
+
+
+* Valvular AF = AF associated with moderate to severe rheumatic mitral stenosis or mechanical valve replacement.
+* Atrial disease = successive association of episodes of paroxysmal AF and sinus bradycardia.

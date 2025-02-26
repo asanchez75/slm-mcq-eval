@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-161-17-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Knowing how to evoke a urinary infection in children: clinical investigation
+|Description=Situations and symptoms that should prompt the diagnosis, diagnostic criteria for a urinary infection in children (upper, lower), knowing how to eliminate differential diagnoses.
+|Rubric=Positive diagnosis
+|Contributors=Maxime Vallée, Alice Faure
+|Order=17}}
+
+
+==Circumstances that should raise the suspicion of a urinary tract infection=
+
+====Acute pyelonephritis====
+
+*Isolated fever
+**in children under 3 months of age
+**lasting 48 hours or more
+**in a child with uropathy or a history of urinary tract infection
+
+/! A thorough paediatric clinical examination is necessary to exclude any other cause of fever.
+
+*febrile urinary tract signs
+*In newborns/ young infants <3 months: feeding difficulties, poor weight gain, jaundice, vomiting, etc.
+*febrile low back pain in older children
+
+<br />
+
+====Lower urinary tract infection====
+
+*In older children, urinary tract infections (UTIs) are manifested by symptoms such as dysuria, pollakiuria, burning of the bladder, urgency, foul-smelling urine, urinary incontinence, haematuria and suprapubic pain. Fever and back pain are signs of upper urinary tract involvement.
+*The diagnosis of lower urinary tract infection is based on the existence of [[micturition disorders in children|SBAU 51]] associated with a positive urine dipstick.
+
+<br />
+
+==SEVERITY SIGNS OF PNA===
+
+*Risk factors for severe ANP
+**history of uropathy: increased risk of complications
+**history of recent ANP: increased risk of resistant bacteria
+**< less than 3 months: risk of associated bacteremia
+**immunodepression
+**lithiasis: obstruction
+*Signs of severity = signs of sepsis (tachycardia, polypnoea, impaired consciousness, peripheral perfusion anomaly, oliguria), signs of dehydration or dietary repercussions in infants.

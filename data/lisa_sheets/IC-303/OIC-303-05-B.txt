@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-303-05-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Intitle=Bacterial infection: knowing the indications for HP research
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+o HP infection should be sought in the gastric mucosa of patients with gastric adenocarcinoma.
+
+o It is recommended that all 1st degree relatives of patients with adenocarcinoma or lymphoma of the stomach should be screened for HP infection and eradicated.

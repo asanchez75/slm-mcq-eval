@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-310-03-A
+|Item_parent=Prostate tumours
+|Item_parent_short=Prostate tumours
+|Rank=A
+|Title=Knowing the main risk factors for prostate cancer
+|Description=Know how to name the recognised risk factors (chapter headings), Know that there is no chemoprevention for prostate cancer.
+|Rubric=Etiologies
+|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU
+|Order=3}}
+
+
+
+<br />
+
+==The known risk factors are:==
+
+*Age: the incidence of cancer increases with age (rare before the age of 50).
+*Genetic factors: a hereditary form is suspected when there are cases in 1st or 2nd degree relatives (2 cases diagnosed before the age of 55 or 3 cases whatever the age). The inheritance may also be monogenic (approximately 5% of cases). A history of breast or ovarian cancer should also be sought to justify a possible oncogenetic consultation (BRCA mutation).
+*Ethnic origin, particularly African ancestry, increases the risk of prostate cancer. Conversely, prostate cancer is less common in the Asian population.
+*Environmental factors, such as pesticides and endocrine disruptors (e.g. chlordecone pollution in the West Indies is recognised as a possible risk factor for prostate cancer; occupational exposure to chlordecone was recognised as an occupational disease in 2021).
+*Metabolic syndrome is associated with an increased risk of prostate cancer (AFU 2022-2024 Cancer Committee recommendations).
+
+<There is no chemoprevention method for prostate cancer.

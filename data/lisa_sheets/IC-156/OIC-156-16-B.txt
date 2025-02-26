@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-156-16-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Knowing the additional examinations to be carried out for spondylodiscitis
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Dr Florent Valour
+|Order=16}}
+'''Biologie :'''' inflammatory syndrome ([[Elévation de la protéine c-réactive (cr) SD-203|élévation de la CRP]], hémogramme), pre-therapy work-up (hepatic and renal functions)
+
+'''Imaging:'''
+
+- MRI: reference diagnostic examination systematically requested to look for inflammatory disc damage with mirror erosion of the adjacent vertebral plates (T1 hyposignal with gadolinium enhancement, T2 hypersignal), and complications
+
+''As signal abnormalities may persist for many weeks, MRI is not indicated for monitoring spondylodiscitis in cases where the clinical course is favourable''.
+
+- CT scan: for diagnosis in cases where MRI is contraindicated, with injection of contrast medium, and coupled with functional imaging (scintigraphy). Remotely to assess spinal statics in the most advanced forms (without injection).
+
+- Bone scintigraphy: if MRI is contraindicated, combined with CT scan
+
+- Cardiac ultrasound: to search for infective endocarditis, systematically in cases of clinical suspicion, bacteria frequently implicated in IE (''S. aureus'', oral and digestive streptococci, enterococci), presence of equipment (mechanical valve, intracardiac stimulation equipment), or persistent bacteraemia (> 72 hours under appropriate treatment).
+
+'''Microbiology:'''
+
+- Systematic blood cultures (positive blood cultures SD-190 in 70% of cases in adults, rarely positive in children)
+
+- Disco-vertebral biopsy: if blood cultures are negative, guided by CT scan (systematic in adults, rarely performed in children).

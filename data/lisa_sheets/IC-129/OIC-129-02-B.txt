@@ -1,0 +1,11 @@
+Osteoarthritis is the most common osteoarticular disease. It mainly affects adults over the age of 40 {{objective of knowledge
+|Identifiant=OIC-129-02-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Knowing the prevalence of osteoarthritis
+|Description=Global prevalence of osteoarthritis
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Osteoarthritis is the most common osteoarticular disease. It mainly affects adults over the age of 40.

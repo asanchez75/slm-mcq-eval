@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-130-09-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Knowing the specific semiological features of the elderly subject
+|Description=Know and explain the notion of borrowed symptomatology.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+The clinical presentation of pathologies is ''heterogeneous'' in the elderly population. The symptomatology is most often identical to that of younger patients, but can sometimes be "atypical", particularly in patients with polypathology and/or major neurocognitive disorders, i.e. characterised by :
+
+- '''L'absence de signe spécifique''' :
+
+o less frequent chest pain in myocardial infarction or fever in infections,
+
+o absence of muscle defence or contracture in the case of peritonitis;
+
+o absence of a focus of pulmonary crackles due to dehydration, which will become audible with rehydration.
+
+- '''The presence of non-specific signs''' :
+
+o falls favoured by asthenia and/or dehydration in the context of pneumonia,
+
+o confusion and/or functional decline as the main symptoms of any acute event in a patient with CMND: only a rigorous systematic clinical examination can identify the precipitating factor,
+
+- The presence of signs associated with organ decompensation ("borrowed semiology"):
+
+o PAO on anaemia: signs of PAO predominate over those of anaemia
+
+o confusion with pyelonephritis
+
+
+Atypical symptoms can therefore be responsible for a delay in diagnosis and require a redoubling of efforts when examining elderly patients. Most patients have a "mixed" symptomatology, with the presence of both non-specific and specific signs requiring a rigorous clinical examination.

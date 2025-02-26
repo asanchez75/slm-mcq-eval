@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-231-03-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Knowing the signs of ECG severity
+|Description=Electrocardiographic abnormalities requiring an urgent therapeutic response
+|Rubric=Identification of the emergency
+|Contributors=Victor Waldmann
+|Order=3}}
+
+ECG abnormalities corresponding to short-term life-threatening situations:
+
+* Rhythm disorders (ventricular fibrillation, ventricular tachycardia, torsade de pointes, supraventricular arrhythmias with rapid ventricular rate: Super-Wolff (atrial fibrillation with ventricular pre-excitation), accelerated nodal conduction (1/1 atrial flutter).
+* Bradycardias (asystole, high-grade atrioventricular block, sinus dysfunction)
+
+Differential diagnosis: electromechanical dissociation (cardiac arrest without rhythm disorders), for example secondary to a poorly tolerated pericardial effusion (tamponade).
+
+* Acute coronary syndrome (ACS): ST-segment elevation ACS, non-ST-segment elevation ACS.
+* Main intoxications and hydro-electrolytic disorders: Major QT interval prolongation, Hypo/hyperkalaemia, Hypercalcaemia, Drug intoxications.

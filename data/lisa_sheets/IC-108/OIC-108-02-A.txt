@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-108-02-A
+|Item_parent=Confusion, dementia. (see item 132)
+|Item_parent_short=Confusion, dementia. (see item 132)
+|Rank=A
+|Heading=Know the definition of confusion and dementia.
+|Description=Description of the main symptoms
+|Heading=Definition
+|Contributors=
+|Order=2}}
+Confusion (mental confusion, confusional syndrome) ('''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]]'''):
+
+- Attention deficit disorder''([[Attention Deficit Disorder SDD-129|attention deficit disorder]])'''' severe associated with moderate impairment of alertness''([[Coma and Consciousness Disorder SDD-028|coma and consciousness disorder]])''''''
+
+- acute or subacute, fluctuating (reversal of nycthemeral rhythm) '''([[Sleep disorders, insomnia or hypersomnia SDD-135|sleep disorders, insomnia or hypersomnia]])''''
+
+- leading to disorganised thinking (mental confusion/disorientation) and behavioural disorders (agitation; apathy; hallucinations; delusions)
+
+
+Dementia (or major neurocognitive disorder): a syndrome defined by
+
+- a lasting and acquired deterioration in one or more cognitive and/or behavioural functions (impression of decline felt by the patient, an informant or the clinician AND cognitive impairment on neuropsychological assessment)
+
+- a consequential impairment (= having no other cause than the cognitive disorder) of autonomy in daily life '''([[Progressive loss of autonomy SDD-031|progressive loss of autonomy]])''''
+
+- the disorders are not linked to a confusional syndrome or another mental disorder (mental retardation, psychiatric disorder)

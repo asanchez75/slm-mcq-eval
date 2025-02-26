@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-147-01-A
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=A
+|Title=Know the definition and measurement of fever in children and adults
+|Description=Know the definitions: fever, acute or prolonged and the methods of measurement
+|Rubric=Definition
+|Contributors=Kevin Bouiller
+|Order=1}}
+
+
+''[[Hyperthermia/fever SD-044|Fever]]''' :
+
+*defined in adults as a core body temperature ''≥ 38°C in the morning, and 38.3°C in the evening'', ideally measured at rest and away from meals.
+*defined in children as a temperature ''[https://www.has-sante.fr/upload/docs/application/pdf/2016-10/fiche_memo_-_prise_en_charge_de_la_fievre_chez_lenfant.pdf ≥38°C whatever the time of day]''.
+
+'''Measurement method''' :
+
+*In adults: tympanic route using an infra-red thermometer (may fail if the external auditory canal is obstructed), axillary or buccal route using an electronic thermometer (add 0.5°C to obtain core temperature).
+
+*In children: rectal measurement using an electronic thermometer, although repeated anal measurement can be traumatic. The temperature can therefore also be measured buccally or axillary. Ear or forehead measurements (although practical) are less reliable. The temperature should be taken without any intense physical exercise in a normally covered child at a moderate ambient temperature.
+
+''Acute fever'': fever lasting less than 5 days, infectious in the vast majority of cases.
+
+''Prolonged fever'': fever lasting > 20 days, with an infectious cause found in only half of cases
+
+'''A few important points:'''
+
+- It is important to authenticate the fever
+
+- A fever is not synonymous with infection
+
+- An infection does not always cause a fever:
+
+o Certain infections: whooping cough, tetanus, toxic infections, colonic amoebiasis
+
+o Certain conditions: neonates, the elderly, immunocompromised patients,
+
+- Some infections may be associated with hypothermia (gram-negative bacteremia)
+
+- The degree of fever is not in itself a serious factor<br />.

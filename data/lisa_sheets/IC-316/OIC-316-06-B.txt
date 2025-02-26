@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-316-06-B
+|Item_parent=Myelodysplastic syndromes
+|Item_parent_short=Myelodysplastic syndromes
+|Rank=B
+|Title=Knowing the evolutionary profile of MDS
+|Description=Evolution to AML, knowing that the curative treatment is allogeneic transplantation
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=6}}
+
+
+=<1.   Elements of prognosis</small>=
+IPSS and IPSS-R prognostic scores are based on:
+
+- the number and depth of cytopenias
+
+- karyotype results
+
+- The % of medullary blasts
+
+Defines "low-risk" MDS (prolonged survival and low risk of progression to AML) and "high-risk" MDS (short survival and high risk of transformation to AML)<br />.
+
+=<2.   Complications</small>=
+- Related to bone marrow failure
+
+o anaemia
+
+o Bleeding thrombocytopenia (causes 15% of deaths)
+
+o febrile neutropenia
+
+- Linked to disease progression
+
+o low-risk to high-risk MDS
+
+o from MDS to AML: risk of transformation of 30% in general, but +++ in high-risk MDS
+
+- Linked to iron overload
+
+o as a result of ineffective haematopoiesis
+
+o transfusions (and other complications of transfusions)
+
+- Linked to treatment<br />.
+
+=<3.   Therapeutic concepts</small>=
+- Low-risk MDS
+
+o Objective: combat cytopenias
+
+o Means: transfusion, EPO
+
+- High-risk MDS
+
+o Objective: improve survival
+
+o Means: hypomethylating agents, chemotherapy for AML (sometimes), allograft (the only curative treatment, but reserved for the youngest patients).

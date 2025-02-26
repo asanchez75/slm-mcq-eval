@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-045-01-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Know the basic rules of genetic counselling
+|Description=Explain the basics of genetic counselling, the possibilities of prenatal diagnosis (methods and options for management in the context of a particularly serious disease) and prenatal screening in the context of trisomy 21.
+|Rubric=Definition
+|Contributors=Elise Launay,Damien Sanlaville,Marie-Bérengère Troadec,
+|Order=1}}
+
+'''Basics of genetic counselling'''
+
+Genetic counselling consists of informing the patient and/or parents and/or family members of the risk of occurrence or recurrence of a genetic disease.
+
+Genetic counselling is the process by which patients or relatives at risk of a hereditary disease are advised and informed:
+
+- the nature and consequences of this disease,
+
+- the likelihood of developing it or passing it on to their offspring,
+
+- the options available to them in terms of life and family planning, so as to prevent illness or improve their situation.
+
+This process can be broken down into two parts: diagnosis (risk assessment) and a second, more complex, part involving advice based on the diagnosis.
+
+Genetic counselling can take place
+
+- Before conception (when one or both parents are carriers of a certain genetic trait or when a relative has a genetic disease),
+
+- During pregnancy (if an abnormality is detected on ultrasound or if a risk of genetic disease is identified; risk of trisomy 21 following screening, for example),
+
+- After birth (if a congenital disorder or malformation is found),
+
+- During childhood (if the child shows signs of developmental delay),
+
+- In adulthood (for genetic diseases that manifest themselves in adulthood, such as Huntington's disease or hereditary cancers),
+
+- Post-mortem for family members.
+
+
+Since 2011, in France, the Bioethics Act on information to relatives stipulates that the doctor or genetic counsellor must inform the patient/parents, prior to the genetic examination, that if a genetic anomaly is found, they must inform the family members potentially concerned.
+
+
+'''Possibilities of prenatal diagnosis (management methods and options in the case of a particularly serious disease)'''
+
+Prenatal diagnosis is part of foetal medicine. It involves examinations carried out on pregnant women to diagnose a disease (infectious, haematological, genetic, etc.) in the foetus.
+
+If a risk has already been identified in the family, the couple can decide to
+
+- the absence of any particular action and the assumption of the stated risk;
+
+- adoption ;
+
+- a request for prenatal diagnosis ;
+
+- a request for pre-implantation diagnosis.
+
+Antenatal diagnosis can also be carried out following the identification of an anomaly during pregnancy monitoring (biological or ultrasound). The couple's proposal for an examination is discussed at the CPDPN (Multidisciplinary Centre for Prenatal Diagnosis). The couple is then offered genetic tests ([[Request/reasoned prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]) which require invasive sampling to collect foetal material (cells, DNA), most often by chorionic villus puncture or amniocentesis.
+
+o Fetal karyotype if an abnormality in chromosome number is suspected;
+
+o Chromosomal analysis on a DNA chip (ACPA or CGH array) in cases of suspected unbalanced chromosomal abnormality other than an abnormal number;
+
+o Targeted sequencing/analysis in cases of suspected gene syndrome or genetic disease identified in the family;
+
+o Some centres are beginning to offer exome testing in cases where there is a suspicion of a gene syndrome but no clear indication;
+
+
+If a woman is diagnosed with a particularly serious illness that is incurable at the time of diagnosis, she may request a medical termination of pregnancy (IMG) on medical grounds, regardless of the term. This request is discussed at a CPDPN and may be accepted if the illness meets the 2 criteria mentioned above:
+
+- Particular gravity ;
+
+- Incurable at the time of diagnosis.
+
+The CPDPN can also suggest drug therapies and, in rare cases, surgery to treat the foetus, as in the case of diaphragmatic hernia.
+
+
+'''Prenatal screening for trisomy 21'''
+
+Doctors must inform patients of the possibility of [[Prenatal screening for trisomy 21 SD-307|prenatal screening for trisomy 21]], which is covered by the health insurance scheme. This screening must be preceded by information to the patient about trisomy 21 and the screening procedures, and requires her prior written consent. The screening process is not compulsory and the patient may withdraw from the process at any time.
+
+Screening enables a risk to be assessed, but does not provide a definitive diagnosis. In the event of positive screening, the definitive diagnosis will be made by carrying out a foetal karyotype.
+
+In the event of a confirmed diagnosis of trisomy 21, it is essential to arrange a systematic consultation with a geneticist to provide information on the prognosis and genetic counselling, prior to any decision to terminate a pregnancy for medical reasons, even if the parents decide to do so in advance.

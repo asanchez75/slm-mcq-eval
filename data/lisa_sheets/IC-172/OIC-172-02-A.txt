@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-172-02-A
+|Item_parent=Digestive parasites: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Know the two parasitoses responsible for liver damage and name the pathogens.
+|Description=None
+|Rubric=Definition
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=2}}
+
+
+*'''Hepatic amoebosis caused by ''Entamoeba histolytica''''''':'' protozoan haematophage capable of lysing and crossing the digestive mucosa, and disseminating via the bloodstream. The main secondary site is the liver, where abscesses form.
+
+*'''Hydatidosis or echinococcosis caused by Echinococcus granulosus''''' (see [[Zoonoses|item 173]] - Zoonoses): the larval form develops in humans (accidental intermediate host and parasitic impasse of a dog taenia) and causes hydatid cysts, the most frequent location of which is the liver. This imported parasite is cosmopolitan and is present in countries with extensive livestock farming, particularly of sheep, such as North Africa.

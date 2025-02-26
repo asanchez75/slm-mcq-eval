@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-020-29-A
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=A
+|Title=Judgment of statistical significance, level of significance and confidence interval
+|Description=Knowing how to define and interpret
+|Rubric=Definition
+|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)
+|Order=29}}
+
+The ''statistical significance judgement'' concerns random error (error due to chance, linked to sampling fluctuation phenomena, cf. [[Basic knowledge of sources of error and bias 2C-020-DE-A12]]). The result of a test is said to be significant if the value of p (= ''degree of significance'', ''p-value'' in English) is less than a threshold determined ''a priori'' (risk of first kind alpha) generally 0.05.
+
+In a statistical test which seeks to demonstrate a difference, the alpha risk is the risk, fixed "a priori", of concluding falsely that there is a difference (see [[Statistical tests: principles of hypothesis testing 2C-020-DE-B09]]). The p-value is calculated "a posteriori" from the observed data and is the probability of observing a difference that is at least as large if in reality this difference does not exist. The conclusion of the test is based on the comparison of the value of p with the alpha risk (accepted "a priori").  If p is greater than alpha, then nothing can be concluded: the probability of observing a difference that is at least as large if in reality this difference does not exist is too great compared with the a priori accepted risk of wrongly concluding that there is a difference.
+
+Because of sampling fluctuations, the estimation of a parameter (e.g. a difference in mean, an RR, an OR, an HR, etc.) must always be accompanied by a ''confidence interval''. This is an interval of possible values of the true value of the parameter in the population. Generally, we present the 95% confidence interval (CI<sub>95%</sub>) of a parameter, i.e. the level of confidence associated with the fact that the true parameter of interest belongs to this interval is 95%. In other words, if 100 samples are drawn at random from the same population, the estimate of the parameter will fall within this interval of values for 95 of the 100 samples.

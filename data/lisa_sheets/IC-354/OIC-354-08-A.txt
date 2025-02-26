@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-354-08-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Knowing the indication for imaging examinations in the presence of occlusive syndrome in adults
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Laura BEYER-BERJOT
+|Order=8}}
+
+Apart from strangulated hernia, which is diagnosed clinically and is an immediate surgical emergency, any occlusive syndrome is an indication for an abdomino-pelvic CT scan, ideally with contrast medium injection if there are no contraindications (beware of acute renal failure, which is common in this context!) This is the reference examination. In the event of contraindication, a non-injected scan is performed.
+
+The unprepared abdominal X-ray (UAP) is no longer appropriate in adults for initial diagnosis.

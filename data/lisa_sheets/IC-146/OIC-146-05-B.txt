@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-146-05-B
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=B
+|Title=Catch-up vaccination in children and adults: learning about catch-up vaccination procedures according to current national recommendations.
+|Description=Conduct in the event of an interrupted, delayed or unknown vaccination schedule
+|Section=Management
+|Contributors=Laurence Morand-Joubert
+|Order=5}}
+
+In the event of a delay in vaccination, it is not necessary to repeat all the injections. The schedule should be resumed at the stage at which it was interrupted, and the vaccination completed by giving the expected number of injections for the patient's age. In the case of children, it is necessary to respect the time between doses in the event of a change in the schedule.

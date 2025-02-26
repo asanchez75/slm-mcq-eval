@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-198-06-B
+|Item_parent=Microcrystalline arthropathies
+|Item_parent_short=Microcrystalline arthropathies
+|Rank=B
+|Title=Radiography of the pelvis: calcifications of the pubic symphysis and femoral cartilages
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+<gallery widths="401" heights="400">
+File:Pelvis radiography femoral cartilage calcifications .PNG|Pelvis radiography: femoral cartilage calcifications.
+</gallery><gallery widths="400" heights="400">
+File:Radiography of pelvis calcifications of the pubic symphysis .PNG|Radiography of pelvis: calcifications of the pubic symphysis
+</gallery>

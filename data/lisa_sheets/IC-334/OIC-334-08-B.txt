@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-334-08-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Knowing the principles of therapeutic management on arrival at hospital
+|Description=Perform resuscitation manoeuvres, organise the planning of surgical interventions with specialist teams, know how to request a urological opinion in the event of any urethrorrhage with a view to urinary catheterisation.
+|Rubric=Management
+|Contributors=
+|Order=8}}
+Application of "damage control resuscitation": implementation of immediately necessary therapies without delaying the management of a haemorrhage: "golden hour" principle (figure 4).
+[File:Item 334 Figure 4 Principles of therapeutic management on arrival at hospital.jpg|vignette|Figure 4. Principles of therapeutic management on arrival at hospital]]
+Application of "damage control surgery": surgical treatment limited to that strictly necessary to stop the bleeding and control the coagulopathy (figure 4).
+{| class="wikitable"
+|Indications for orotracheal intubation
+|-
+|Respiratory distress
+|-
+|Circulatory distress
+|-
+|Neurological distress with Glasgow score ≤ 8
+|-
+|Painful traumatic injury or urgent surgery
+|-
+|Acute agitation
+|}
+('''" [[Coma and disorders of consciousness SD-028|coma et troubles de la conscience]] "''' '''" [[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]] "'' '''" [[Acute haemorrhage SD-060|acute haemorrhage]]"" [[Acute respiratory distress SD-160|acute respiratory distress]]"" [[Abdominal-pelvic trauma SD-171|abdominal-pelvic trauma]]" " [[Head trauma SD-172|head trauma]]" " [[Limb trauma SD-173|limb trauma]]" " [[Facial trauma SD-174|facial trauma]]" " [[Spinal trauma SD-175|spinal trauma]]" " [[Severe trauma SD-176|severe trauma]]" " [[Thoracic trauma SD-177|thoracic trauma]]" " [[Assessment and management of acute pain SD-259|assessment and management of acute pain]]"'')

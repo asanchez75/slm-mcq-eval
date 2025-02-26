@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-105-08-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Knowing the differential diagnoses of epileptic seizures
+|Description=Malaise, syncope, transient ischemic attack,...
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+A number of steps are required to establish the diagnosis.  
+
+===1 /Positive diagnosis of an acute non-symptomatic epileptic seizure===
+- Confirm the epileptic nature of the initial malaise.
+
+- Confirm that it is unprovoked.
+
+For acute symptomatic seizures see item 342 (Malaise, loss of consciousness, epileptic seizure) and 346 (Convulsions in children).
+
+===2/ Differential diagnosis of an epileptic seizure===
+When faced with a ''suspected tonicoclonic generalised seizure'', two main diagnoses may be discussed:
+
+- '''the [[Malaise/loss of consciousness SDD-050|syncopes]]:''' particular context (effort, micturition, cough, pain...), associated lipothymic signs, may include tonic version phenomena, possible repeated tremulations (not as rhythmic as clonics), but rapid recovery of consciousness, absence of post-critical confusion. Loss of urine and biting of the tongue (classically pointed) are possible;
+
+- psychogenic non-epileptic seizures (CNEP): Particular psychological context to be sought with old psycho-traumas (physical, sexual, psychological abuse...), polymorphous and very prolonged critical symptomatology ([[Abnormal movements SDD-126|movement]] of negation of the head, rocking of the pelvis, crying, persistence of closed eyes, resistance to opening the eyes, asynchronous and irregular motor activity...). Sometimes CNEP can be difficult to differentiate from an epileptic seizure on the semiological level and only simultaneous video-EEG recording allows the diagnosis to be made by showing the absence of epileptic activity on the EEG concomitant with the clinical manifestations ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]).
+
+When faced with a "suspected focal seizure", 3 main differential diagnoses must be discussed:
+
+- '''migraine aura:''' context of migraine most often known, migrainous course more progressive and longer than an epileptic seizure: over a period of 5 to 60 minutes, more or less complete succession of visual hallucinations such as phosphenes then [[Sensory and/or motor neurological deficit SDD-121|sensory disorders]] such as lateralized paresthesias then [[Speech and/or phonation disorders SD-134|phasic disorders]] (lack of word, paraphasias...). The [[Headache SD-118|headaches]] appear at the end of the sequence and may then persist for several hours to several days;
+
+- '''transient ischaemic attack''''''':'''' context of cardiovascular risk factors, transient neurological deficit corresponding to a vascular territory with normal cerebral imaging, setting in immediately (no temporal dynamics as in seizures), lasting longer than the seizure. Repetition of a stereotyped neurological deficit with a transient ischaemic appearance, but with a strictly normal MRI scan, should raise the suspicion of a focal epileptic seizure and prompt a specialist opinion, or even prolonged video-EEG.
+
+- '''malaise hypoglycémique''' ''':''' context of diabetes, insulin intoxication...; [[Déficit neurologique sensitif et/ou moteur SDD-121|déficitaires neurologiques]] phenomena up to coma may be observed during severe hypoglycaemia. Hyperadrenergic phenomena are also observed: agitation, tremors, sweating, tachycardia and hypertension. Re-sugaring corrects all the neurological problems and confirms the diagnosis. Hypoglycaemia can also manifest itself in the form of an epileptic seizure (acute symptomatic seizure).
+
+===3/Positive, syndromic and etiological diagnosis of epilepsy===
+- '''anamnesis:''' search for previous events suspected of causing undetected seizures or predisposing antecedents
+
+- '''intercritical neurological examination:''' looking for signs of focalization, delayed acquisitions
+
+- '''EEG or even prolonged video-EEG if the early EEG was normal:''' search for paroxysmal epileptic features.
+
+- '''brain imaging:'''' Brain MRI (depending on syndromic diagnosis)
+
+- other possible complementary examinations: lumbar puncture (for metabolic or inflammatory diseases), genetic work-up, metabolic work-up, neuropsychological work-up, etc.

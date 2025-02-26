@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-02-B
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=B
+|Title=Know the main pathophysiological mechanism of malaise
+|Description=Cerebral hypoperfusion or dysfunction of cerebral activity.
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+cerebral hypoperfusion (syncope/lipothymia) or cerebral activity dysfunction (epileptic seizure)

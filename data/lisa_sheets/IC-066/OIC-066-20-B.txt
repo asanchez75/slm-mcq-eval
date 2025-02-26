@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-066-20-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the prevalence of major disorders, age of onset of disorders
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=20}}
+
+GAD has a high lifetime prevalence of 5% in the general population, with a predominance of women (2:1). GAD can begin at any age, with a peak around the age of 35-45. It is the most common anxiety disorder in the elderly (Item 70).
+
+PD has a lifetime prevalence of 1-3% in the general population, with a predominance of women and a peak age of onset between 20 and 30.
+
+In children, phobic disorders are more common (>20%). Anxious school refusal affects 1% of children, and between 5 and 30% of children and adolescents will have a period of anxious school refusal. The most common phobias concern animals (zoophobia), natural elements (storms, vacuum, water), medical procedures or particular situations (tunnels, bridges, enclosed spaces, heights).
+
+Simple phobias are part of a child's normal development, usually before the age of 8, in the form of fear of imaginary creatures, natural phenomena, the dark, animals, etc. The intensity, duration and impact of the fear determine its pathological nature. Remember to look for an associated neurodevelopmental disorder (items 55 and 67).

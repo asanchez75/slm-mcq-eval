@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-329-14-B
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=B
+|Intitle=To know the other delayed complications of transfusion
+|Description=Infectious, overload, other immunological complications
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=14}}
+Post-transfusion purpura: This very rare reaction occurs 5 to 12 days after transfusion (of RBCs or platelets), with the sudden onset of bleeding such as cutaneous-mucosal purpura and gastrointestinal or urinary haemorrhage. The platelet count shows a significant drop to less than 10 G/l or 20-80% compared with pre-transfusion levels within 12-24 hours. The pathophysiology is poorly understood, but involves anti-HPA antibodies.
+
+
+Iron overload: Each RBC provides 200 to 250 mg of iron which cannot be eliminated by the body. Above 20 RBCs, iron overload may occur, with the same clinical and biological consequences as haemosiderosis. It is therefore strongly recommended that polytransfused patients monitor their ferritinaemia and prescribe iron chelation above 20 transfused RBCs and/or a ferritinaemia > 1000 ng/ml.
+
+
+The risk of infection : Several infectious agents are likely to be transmitted by transfusion, including viruses (HBV, HCV, HIV, HEV, Parvovirus B19, CMV as well as insect-borne viruses such as Zika, Chikgungunya, Dengue and West Nile virus), bacteria (Treponema, Rickettsi), parasites (Plasmodium, Trypanosoma, Babesia) and non-conventional agents (variant Creutzfeldt-Jacob disease), with associated diseases developing at a distance.
+
+For the most part, these risks are under control, and in particular are extremely low for the major viruses (HIV, VCV, HBV), thanks to preventive blood donor selection measures, whether at the pre-donation interview (postponement of donors with high-risk situations, return from travel, etc.), active leukoreduction for intra-cell viruses (CMV), biological qualification of donations (viral genomic diagnosis, anti-infectious serology) and, more recently, preventive measures for the selection of blood donors.), active leukodepletion for intra-cell viruses (CMV), the biological qualification of donations (viral genomic diagnosis, anti-infectious serology) and, more recently, the inactivation of pathogens in PCs and plasma.  Cases of seroconversion to hepatitis E and hepatitis A persist. However, plasma tested negative for hepatitis E is available for at-risk individuals.
+
+<br />

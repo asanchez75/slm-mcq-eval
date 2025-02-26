@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-144-01-A
+|Item_parent=Normal and pathological bereavement
+|Item_parent_short=Normal and pathological bereavement
+|Rank=A
+|Title=Knowing the characteristics of normal and pathological bereavement
+|Description=None
+|Rubric=Definition
+|Contributors=Marie Tournier
+|Order=1}}
+
+==Normal grief==
+This is a normal emotional, cognitive and behavioural process in response to the death of a loved one, the aim of which is to come to terms with the loss. It varies according to the individual's culture. It lasts 2 to 3 months, sometimes longer depending on the closeness of the bond with the deceased, their age and the context of the death. It evolves spontaneously towards improvement.
+
+It comprises three types of reaction which are superimposed or follow one another:
+
+*Shock, denial of loss
+*Sadness, [[Sad mood/moral pain SD-123|moral pain]]
+*Feeling of absence with lack, anger, anxiety, perplexity.
+*A reorganisation corresponding to the acceptance of the loss and a reinvestment in daily life in the absence of the deceased.
+
+<Behaviour can help the grieving process by channelling emotions, organising memories, adapting to the loss and giving meaning to life without the deceased.
+
+==Pathological bereavement==
+Bereavement can become pathological if the mourning process does not progress towards appeasement (persistent complex bereavement) or if a psychiatric disorder occurs.
+
+===Persistent complex grief; Diagnostic criteria (from DSM 5)===
+
+*Death of a loved one
+*Sad mood/emotional pain SD-123|Intense sadness, emotional pain]], preoccupation with the deceased or their death.
+*Difficulty in accepting the death, avoidance of anything reminiscent of the death ([[Anxiety SD-116|anxiety]])
+*Social or identity rupture: [[Suicidal ideation or behaviour/self-inflicted injury SD-125|suicidal ideation]] to join the deceased, distrust, loss of meaning.
+*These symptoms do not correspond to the individual's culture.
+*Psychosocial dysfunction
+*Duration of more than 12 months (6 months in children)
+
+<br />
+
+===Concomitant psychiatric disorders===
+All psychiatric disorders can occur or recur in the context of bereavement (major environmental stress factors).
+
+*Characterised depressive episode (see item 66): most frequent
+*Major suicidal ideation or behaviour/self-harm SD-125|Suicidal risk, particularly in the first week (see item 353)
+*Post-traumatic stress disorder (see item 66)
+*Anxiety disorders, in particular generalised anxiety disorder (see item 66)
+*Alcohol or substance use disorder (see items 75-78)

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-334-30-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to order imaging tests to diagnose abdominal trauma
+|Description= Abdominal ultrasound, abdominal CT scan with contrast injection
+|Rubric=Additional examinations
+|Contributors=
+|Order=30}}
+Management is similar to that for severe trauma (figure 3)([[2C-334-PC-B02]]).
+
+*FAST ultrasound:'''' look for fluid effusion in Morrisson's space, in the left spleno-renal recess and in the pouch of Douglas.
+*Front X-ray of the pelvis:'''' look for a fracture or disjunction, referring the patient for emergency arterioembolisation in the event of a haemorrhagic syndrome that cannot be explained by another cause.
+*Body scan or whole-body CT scan as soon as possible after stabilisation.
+
+The combination of haemodynamic instability, a positive FAST scan and a pelvic X-ray showing no bone fracture of the pelvic ring indicates emergency surgical haemostasis (damage control surgery).
+
+("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]''''")("''[[Abdominal-pelvic trauma SDD-171|abdominal-pelvic trauma]]'''")

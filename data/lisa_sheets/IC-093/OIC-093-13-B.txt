@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-093-13-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Knowing how to make a radiological diagnosis of cauda equina syndrome
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=13}}
+
+'''Positive diagnosis''': confirm compression of the spinal roots of the horsetail, locate it and specify its extent and severity (deformation of the dural sac, disappearance of the peri-medullary CSF border, T2 intramedullary hypersignal testifying to its suffering)
+
+Aetiological diagnosis: this is based on the topographical origin of the compression, i.e. vertebral, disc, epidural or intradural.
+
+Biomechanical assessment: search for instability criteria (damage to the posterior wall, pedicle, fracture) before deciding on possible osteosynthesis.
+
+Assessment of lesion extension: status of the vertebrae above and below in the case of diffuse spinal metastases, search for other threatening lesions, etc.

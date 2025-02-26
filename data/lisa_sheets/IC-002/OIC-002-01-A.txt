@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-002-01-A
+|Item_parent=Professional values of doctors and other health professions
+|Item_parent_short=Professional values of doctors and other health professions
+|Rank=A
+|Intitle=Identify the professionals, skills and resources associated with a particular role in a healthcare organisation
+|Description=2.10 Professional roles and resources in a healthcare organisation
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Whatever their mode of practice, doctors work with a large number of healthcare professionals. The quality of care and patient safety are no longer considered to depend essentially on individual knowledge and skills, but are recognised as being dependent on the organisation of care and the ability of the players involved to work together.
+
+Experiments in cooperation between healthcare professionals, transfers of skills and delegation of medical acts to other healthcare professionals have been developed to optimise care and monitoring, and to make up for shortfalls in medical demography (for example, monitoring patients undergoing chemotherapy or dialysis).

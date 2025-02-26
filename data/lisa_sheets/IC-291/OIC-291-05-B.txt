@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-291-05-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Know the definition of an oncogene and a tumour suppressor gene
+|Description=Know the definition and role in the cancerisation process of an oncogene and a tumour suppressor gene.
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+Molecular alterations leading to tumour transformation involve genes known as oncogenes (genes which promote the development of cancers) or tumour suppressors (genes which oppose the development of cancers). They lead to "activation of oncogenes (gain of function)" and "inactivation of tumour suppressor genes (loss of function)". Inactivation of tumour suppressor genes (''TP53, BRCA1/2, CDKN2A...'') requires 2 deleterious events (one on each allele). For example, the loss of one copy of the gene is frequently associated with the acquisition of a nonsense mutation (creating a STOP codon) or a mutation that shifts the reading frame on the second allele. This ''bi-allelic inactivation'' mechanism explains the increased risk of cancer in patients who have inherited an already inactivated allele (Knudson model). In contrast, the activation of oncogenes (such as BRAF or EGFR) is generally linked to a single activating event.

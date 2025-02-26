@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-302-11-A
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=A
+|Title=Knowing the clinical signs of melanoma
+|Description=Know how to look for the 5 characteristics (ABCDE rule) pointing to a malignant melanoma tumour - know how to obtain a diagnosis of certainty.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+Melanoma is suspected clinically by examination of the entire integument. A lesion is suspicious (figure e) when :
+
+- a pigmented lesion is different from the others: the "ugly duckling" theory.
+
+- a lesion has several of the following characteristics (ABCDE rule):
+
+               - '''A'''symmetry
+
+               - '''B'''ords irréguliers
+
+               - '''C'''ouleur inhomogène
+
+               - '''D'''iameter ³ 6 mm
+
+               - '''E'''volutivity, i.e. a change in the lesion
+
+Dermoscopy can help screen for melanoma (improving the sensitivity and specificity of the clinical examination).
+
+
+The diagnosis, suspected clinically, is confirmed histologically after complete excision of the lesion. Biopsies are not taken.
+
+Anatomopathological examination confirms the diagnosis of melanoma and determines the essential histoprognostic criteria:
+
+* The Breslow index, which corresponds to the maximum thickness of the tumour and is the most relevant prognostic criterion.
+* Ulceration, which is a poor prognostic criterion.
+* Mitotic index (number of mitoses/mm<sup>2</sup>).

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-25-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Intitulé=Connaître la Haute Autorité de Santé : ses missions dans la qualité et sécurité des soins
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=25}}
+
+The Haute Autorité de Santé is an independent public authority whose main role is to ensure the quality of the healthcare system.
+
+Although it is not responsible for regulated vigilance, the Haute Autorité de Santé (HAS) contributes to health safety through a number of different missions.
+
+In particular, it is responsible for promoting quality and patient safety by managing the continuing professional development of healthcare professionals, drafting guidelines and best practice guides, and implementing the certification of healthcare establishments and the accreditation of medical teams practising high-risk specialities.

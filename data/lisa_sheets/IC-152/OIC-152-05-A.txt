@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-152-05-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing the entry points according to the infectious agent
+|Description=None
+|Topic=Physiopathology
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=5}}
+Identification of the <nowiki/>'''infectious agent''' causing the IE conditions management.
+
+Each infectious agent is associated with one or more "port(s) of entry" (Table), which it is vital to seek out and eradicate in order to avoid recurrence of the IE or other complications.
+
+{| class="wikitable"
+|+'''Table:'''' main routes of entry for infective endocarditis depending on the infectious agent.
+|'''Infectious agent''''
+|'''Port of entry''''
+|-
+|Staphylococcus aureus
+
+Coagulase-negative staphylococci
+|'''[[Wound SD-170|Cutaneous]]''' ([[Mucocutaneous and phaneral bacterial and mycotic infections of adults and children|furuncles]], [[Burn SD-168|burns]], dermatoses, [[Wound SD-170|wounds]]...)
+'''Endovascular equipment''' ([[Prescription and monitoring of a vascular approach SD-271|venous catheters]], pacemaker, haemodialysis catheter...)
+
+'''[[Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs (see item 322)|Intravenous drug addiction]]'''''
+|-
+|Oral Streptococcus
+|'''Buccodental''' (outbreak of dental infection, dental surgery)
+|-
+|Streptococcus gallolyticus (group D)
+|'''Digestive''' (polyps or tumours of the colon and rectum, diverticulosis, biliary tract infection...)
+|-
+|Interococci
+|'''Digestive'''
+
+'''[[Urinary tract infections in children and adults|Urinary]]''''
+|-
+|Candida spp.
+|'''Endovascular material''''
+
+'''[[Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs (see item 322)|Intravenous drug addiction]]'''''
+
+'''Digestive Surgery''''
+|}
+In half of all cases, the infectious route of entry is not found.

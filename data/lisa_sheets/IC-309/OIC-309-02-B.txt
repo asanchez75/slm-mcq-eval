@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-309-02-B
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=B
+|Intitle=Knowing descriptive epidemiology
+|Description=Know the incidence and mortality of lung cancer (absolute and relative; France and worldwide; trends) as well as the main sociodemographic and prognostic data on the subject - Know the importance of lung cancer in terms of public health, the main histological types and the frequency of tumours discovered at the metastatic stage - Characterise the importance of tobacco in the aetiology of lung cancer (in terms of risk and modes of toxicity).
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+'''Incidence:'''
+
+*More than 46,000 new cases/year in France (3rd most common cancer; 2nd most common solid cancer in men and 3rd most common in women).
+*2.1 million new cases/year worldwide
+
+
+'''Mortality:'''
+
+*1<sup>rst</sup> cause of cancer mortality in France: more than 33,000 deaths/year in France (i.e. 20% of cancer deaths),
+*1<biggest</biggest> cause of cancer death worldwide: 1.8 million deaths/year.
+*5-year survival rate: 17%.
+*60-75% of cases are discovered at a locally advanced (stage III) or metastatic (stage IV) stage.
+
+
+'''Evolution:'''
+
+*Follows the trend in smoking: slight decrease in men, increase in women.
+
+
+Main risk factor: active and passive smoking, responsible for 85% of cases:
+
+The risk of carcinogenesis increases with the onset and duration of smoking
+
+The risk is linked more to the length of time you smoke than to the quantity smoked
+
+The risk decreases when you stop smoking, but never returns to the level of a non-smoker
+
+<br />

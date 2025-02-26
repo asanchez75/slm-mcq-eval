@@ -1,0 +1,122 @@
+{{knowledge objective
+|Identifiant=OIC-083-07-A
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=A
+|Title=Knowing how to diagnose keratitis
+|Description=Semiology / etiologies / treatment
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+
+
+Keratitis= single or multiple corneal lesions with epithelial alteration, superficial ulceration or tissue infiltration, with a sudden or rapid onset and very symptomatic in its acute presentation or more torpid and with optical consequences that are often increased in chronic forms.
+
+Acute keratitis is manifested by :
+
+*a drop in visual acuity of varying severity depending on the location of the corneal damage in relation to the visual axis;
+*ocular pain, which may be intense, with a sensation of a foreign body, stinging, tearing or superficial tearing;
+*reflex tearing
+*photophobia, which may be severe
+*blepharospasm, which is difficult to suppress.  Slit-lamp examination is facilitated by the occasional instillation of one or two drops of topical anaesthetics (oxybuprocaine or tetracaine), but under no circumstances should these be prescribed repeatedly or for prolonged periods, otherwise serious complications such as corneal perforation may occur. Erosions or ulcerations of the cornea, a reduction in corneal transparency often located opposite the ulceration and a perikeratic circle are found; the anterior chamber is of normal depth and appearance or may be the site of an inflammatory reaction in severe cases.
+
+
+'''1. <u>Infectious keratitis</u>''''
+
+Adenovirus keratitis
+
+It may complicate adenovirus conjunctivitis (see "viral conjunctivitis" above): this is known as adenovirus keratoconjunctivitis or epidemic keratoconjunctivitis.
+
+It is characterised by small disseminated ulcerations which take up fluorescein (fig. 6.30). The course is often favourable, but the initial lesions may give way to anterior stromal opacities (figure 6.31) and be accompanied by a lasting reduction in visual acuity in the case of central scarring opacities.
+
+The basic treatment is the same as for adenovirus conjunctivitis. Slowly tapering local corticosteroid therapy is often offered to help dissipate symptomatic central opacities.
+
+
+Herpetic keratitis
+
+It usually takes the form of a unilateral corneal ulceration of typical appearance, with a "fern leaf" shape corresponding to the dendritic herpetic ulcer, or is sometimes more extensive and less specific, with angulations that are nonetheless suggestive of a herpetic infection, known as a "geography map".
+
+Sampling for molecular virological detection may be necessary in atypical forms or in cases of proven therapeutic resistance.
+
+Treatment consists of taking a general course of antivirals (valaciclovir or aciclovir) for 7 to 10 days, with or without initial debridement of the viral lesion. Alternatively, depending on the situation, antivirals can be applied topically for the same length of time, either as an ointment (aciclovir), gel (ganciclovir) or eye drop (trifluridine).
+
+Herpetic keratitis is likely to worsen significantly under the effect of inappropriate local corticosteroid therapy, leading in the worst case to corneal perforation. The diagnosis of active herpetic keratitis (and more generally that of infectious keratitis) must therefore be systematically ruled out before starting local corticosteroid therapy on an inflamed eye.
+
+With appropriate treatment, herpetic keratitis develops favourably in the majority of cases.
+
+However, there is a non-negligible risk:
+
+- recurrence of the virus, in which case oral anti-herpetic prophylaxis is required;
+
+- and on the other hand of evolution towards a deeper keratitis with inflammatory stromal damage
+
+disciforme, this time requiring the application of local corticoids;
+
+to avoid corneal opacification with definitive optical consequences.
+
+
+zoster keratitis
+
+Ophthalmic shingles can also cause corneal lesions:
+
+*Superficial dendritiform keratitis (also known as viral plaques), contemporaneous with the acute episode of shingles, directly linked to the viral attack and responding to its treatment;
+*neurotrophic keratitis (also known as neuroparalytic keratitis), more distant from the shingles eruption, secondary to sequelae corneal anaesthesia and more difficult to treat.
+
+Initiated early in the first 3 days of ophthalmic shingles, treatment with valaciclovir (Zelitrex® or generic) at a dose of 3 x 1g/day not only treats the viral infection but also reduces the frequency and duration of shingles pain. Local corneal protection using tear substitutes is systematically combined with the treatment.
+
+As with herpes, post-herpes stromal inflammatory complications are possible.
+
+
+Bacterial, mycotic and parasitic keratitis
+
+These infectious keratitises most often occur in conditions that have been weakened by inappropriate contact lens wear, recent corneal epithelial trauma (nail impact, tree branch, foreign body), disorders of the palpebral anatomy (entropion, ectropion, paralytic corneal exposure) or local immunological changes of iatrogenic origin (prolonged corticosteroid therapy, immunosuppression), which reduce the effectiveness of the ocular surface's defences.
+
+The most frequently encountered practical situation is that of a corneal infection caused by an obvious failure to wear or maintain a soft lens.
+
+Infectious pyogenic keratitis is characterised by the presence of a whitish patch of corneal infiltration giving a picture of corneal abscess. An ulceration is found in contact with the abscess and becomes coloured after instillation of fluorescein. It may also be accompanied by a reactive hypopyon, indicating contiguous intraocular inflammation.
+
+A sample is taken from the abscess for direct examination, culture and antibiotic susceptibility testing or antifungal susceptibility testing.
+
+Among bacterial infections under contact lenses, the pyocyanic bacillus is predominant and often causes symptomatic and destructive lesions. The usual gram-positive cocci (staphylococci, streptococci) are also frequently involved.
+
+In all cases, treatment must be initiated early. It is initially empirical and then adapted to the microbiological results if necessary. Topical antibiotics administered several times a day are often sufficient in early, mild forms. In the case of large abscesses (surface, deep or central), it is preferable to admit the patient to hospital for intensive, regular (hourly) treatment with eye drops containing selected active ingredients and concentrations known as "fortified eye drops". In some cases, systemic antibiotic therapy may be combined with the treatment.
+
+Fungal infections with Fusarium, Candida and Aspergillus are rarer, but more likely to be severe, as they infiltrate the cornea from the surface and deep down.
+
+The therapeutic approach is similar, but in this case requires intense and prolonged specific anti-fungal treatment.
+
+Amebic keratitis is also common among contact lens wearers. Insidious in onset, it initially gives rise to simple linear epithelial infiltrations that regress under intensive antiseptic treatment, but it can also develop into the dreaded annular sclerokeratitis, which is more complex to treat.
+
+
+The course of infectious keratitis can be unfavourable:
+
+- or in the acute phase:
+
+*posterior extension of the infection, leading to endophthalmitis,
+*corneal perforation (possible indication for a "hot" corneal graft);
+
+- or at a distance, with scarring of the cornea resulting in a permanent reduction in visual acuity
+
+when it is located in the visual axis (possible indication for a "cold" corneal graft).
+
+
+'''2. <u>Non-infectious keratitis</u>''''
+
+Non-infectious inflammatory infiltrates
+
+Preferentially peripheral in location, whitish in appearance and often ulcerated on the surface, they are the main differential diagnosis for corneal abscesses and are more often the consequence of local inflammatory phenomena (such as ocular rosacea) than the reflection of an associated systemic disease.
+
+
+'''- Dry syndrome keratitis'''
+
+As we saw above, dry eye syndrome can lead to the development of KPS, or even a corneal ulcer, which can then become superinfected.
+
+
+- '''Exposure keratitis'''
+
+In facial paralysis, poor palpebral occlusion is responsible for corneal exposure, leading to epithelial damage in the area of the palpebral fissure.
+
+The treatment lies in corneal protectors, which are also prescribed as a preventive measure in all situations of inocclusion.
+
+These keratitises may require tarsorrhaphy (bringing the two free edges together by placing vertical sutures to reduce the extent of the palpebral fissure), to ensure that the corneal epithelium is protected by the palpebral conjunctiva.

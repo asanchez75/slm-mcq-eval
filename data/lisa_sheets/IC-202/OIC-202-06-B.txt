@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-202-06-B
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=B
+|Title=Knowing how to prescribe a check-up prior to initiating a targeted treatment
+|Description=Interpretation of a quantiferon and hepatitis B and C serologies
+|Section=Additional tests
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=6}}
+
+'''Pathology activity report'''
+
+'''Assessment of co-morbidities and collection of associated treatments'''
+
+Assessment of vaccination status
+
+'''Pre-therapeutic assessment, adapted to the treatment being implemented and aimed at identifying any contraindications. This assessment generally includes'''
+
+* The search for active or latent infections (dental outbreaks, tuberculosis, viral infections including HBV, HCV, HIV, parasitic infections, etc.) through questioning, a clinical examination and additional tests (chest X-ray, HBV, HCV and HIV serologies, interferon release test (such as QuantiFERON TB® or T-spot®), etc.).
+* The search for current or recent neoplasia through questioning, a clinical examination and additional tests if necessary.
+* Investigation of allergies through questioning
+* Cardiovascular check-up
+* Assessment of renal function
+* A transaminase assay
+* A haemogram
+* Serum protein electrophoresis
+* A lipid profile
+* In some cases, a pregnancy test

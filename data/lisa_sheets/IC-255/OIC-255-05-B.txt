@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-255-05-B
+|Item_parent=Gestational diabetes
+|Item_parent_short=Gestational diabetes
+|Rank=B
+|Title=Knowing the principles of lifestyle management and the use of insulin therapy
+|Description=Multidisciplinary management. Hygienic and dietary rules. Physical activity. Indications for insulin therapy. Monitoring procedures
+|Rubric=Management
+|Contributors=Louis Potier,Philippe Deruelle
+|Order=5}}
+
+Women presenting with hyperglycaemia discovered during pregnancy should be treated as soon as the diagnosis is made. Positive screening in early pregnancy is not repeated after 24 weeks' gestation, once the diagnosis has been made and treatment has been initiated.
+
+'''Self-monitoring of blood glucose:''' 6 times a day (before and after each meal)
+
+'''Glycemic targets:'''
+
+           Fasting blood glucose < 0.95 g/l
+
+           Blood glucose 2 hours after meal < 1.20 g/l
+
+The basis of treatment is ''[[Therapeutic lifestyle modification (sleep, physical activity, diet...) SD-324|therapeutic lifestyle modification]]''' :
+
+'''Dietetics''' :
+
+30 to 35 kcal/kg if normal weight and 25 kcal/kg if overweight or obese
+
+Meal splitting to control postprandial glycaemia
+
+Moderate and regular physical activity unless contraindicated by obstetrics
+
+Insulin: if therapeutic lifestyle modifications fail. Oral hypoglycaemic treatments contraindicated during pregnancy.

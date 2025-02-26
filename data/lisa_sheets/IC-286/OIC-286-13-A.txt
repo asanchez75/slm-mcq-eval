@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-286-13-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults: identifying emergency situations
+|Description=None
+|Rubric=Identifying emergencies
+|Contributors=
+|Order=13}}
+In a child presenting with diarrhoea, it is essential to look for signs of hypovolaemic shock (tachycardia, cold extremities, elongated CRT, mottling, oliguria, arterial hypotension) and signs of severe dehydration (skin folds, weight loss > 10%, hypotonia of the eyeballs, etc). Weight measurement is essential. It must be compared with the last known weight and the theoretical weight.

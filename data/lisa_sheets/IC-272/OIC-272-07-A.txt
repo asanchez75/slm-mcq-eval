@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-272-07-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Item_parent_short=Gastric and duodenal ulcer.
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=7}}
+'''There is no criterion for the severity of ulcer pain''', there is no anatomo-clinical parallelism. The signs associated with a complication are as follows:
+
+- Abdominal defence or contracture (perforation)
+
+- Haematemesis (or initial malaise), blood on rectal examination (only performed if there are signs suggestive of haemorrhage)
+
+- Drop in blood pressure, tachycardia (haemorrhage)
+
+- Presence of a melena
+
+- Weight loss, left supraclavicular adenopathy (cancer)

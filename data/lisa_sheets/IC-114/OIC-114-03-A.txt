@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-114-03-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Knowing how to recognise the three semiological types of exanthema
+|Description=exanthema roséoliforme, morbilliform, scarlatiniforme
+|Rubric=positive diagnosis
+|Contributors=
+|Order=3}}
+       The three main clinical types of exanthema are as follows:
+
+- scarlatiniform' in the form of diffuse bright red or darker patches, sometimes slightly granulated on palpation, usually in one piece (no interval of healthy skin), which may be reinforced in the folds and often progress to terminal desquamation in large flaps, particularly on the extremities
+
+- morbilliform'' lesions made up of erythematous macular or especially maculopapular lesions which may coalesce into larger plaques, but always separated by areas of healthy skin,
+
+- roseoliforms'' or ''rubeoliforms'': small, pale pink macules, well separated, without relief (or minimal relief)
+
+In practice, combinations are possible with different aspects depending on the area of skin under consideration.

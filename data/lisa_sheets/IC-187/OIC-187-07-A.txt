@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-187-07-A
+|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Rank=A
+|Title=Knowing how to treat acute urticaria
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=7}}
+- '''Etiological treatment'''
+
+Avoidance of favouring/triggering factors
+
+- '''Symptomatic treatment'''
+
+2<sup>th</sup> generation anti-H1 antihistamines 1 to 2 tablets/day.
+
+In the event of chronic acute urticaria and/or poor response; 2nd<sup>th</sup> generation anti H1 antihistamines may be increased to 4 tsp/day.
+
+
+In the event of associated signs of anaphylaxis, treatment should be guided by the symptoms presented;
+
+Ø Parenteral adrenaline in cases of anaphylactic shock or asphyxiant angioedema,
+
+Ø Oxygen therapy if desaturation,
+
+Ø vascular filling if anaphylactic shock,
+
+Ø administration of inhaled beta-2 mimetics in the event of bronchospasm.

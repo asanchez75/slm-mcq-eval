@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-087-02-A
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=A
+|Title=Know the diagnostic and differential diagnostic criteria
+|Description=Know the criteria for positive diagnosis and severity of epistaxis and differential diagnosis
+|Rubric=Positive diagnosis
+|Contributors=Geoffrey Mortuaire
+|Order=2}}
+Epistaxis is active bleeding from the nasal cavity (anterior epistaxis) and/or the posterior pharyngeal wall (posterior epistaxis).
+
+The severity of epistaxis depends on :
+
+*Abundance and duration of bleeding,
+*Repetition of haemorrhagic episodes,
+*Fragility of the patient (age, cardiovascular condition, pre-existing blood depletion induced by another aetiology).
+
+When epistaxis is accompanied by respiratory signs (cough, dyspnoea, sputum) or digestive signs (vomiting, nausea), the differential diagnoses to be ruled out are haemoptysis and haematemesis respectively.

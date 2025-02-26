@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-354-12-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Knowing the cardinal signs of occlusion
+|Description=Knowing the clinical signs
+|Rubric=Positive diagnosis
+|Contributors=Laura BEYER-BERJOT
+|Order=12}}
+
+The positive diagnosis of intestinal obstruction is primarily clinical and is based on the cessation of gas. The other cardinal signs contributing to the positive diagnosis are cessation of bowel movements, abdominal pain, nausea/vomiting, which is not always present initially, and abdominal meteorism.
+
+Stoppage of bowel movements is absent in 1/3 of cases, due to misleading evacuation of the digestive segment located downstream of the obstruction. The lower the site of the obstruction (colonic obstruction), the sooner the bowel will stop. Abdominal pain is rarely the initial symptom; its onset may be sudden or progressive, depending on the occlusive mechanism, but it is most often intense; it develops paroxysmally in the absence of digestive distress, due to abdominal peristalsis.

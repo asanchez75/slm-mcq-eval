@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-338-12-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Title=Knowing how to prevent relapse
+|Description=Information and patient education, prescription of adrenaline kit
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=12}}
+
+
+*prevention of the biphasic reaction (which occurs 4 to 12 hours after the first symptoms): oral prednisone or IV methylprednisolone
+*prevention of recurrence in the event of further exposure to the allergen:
+**allergen eviction
+**adrenaline auto-injector in the event of anaphylaxis
+**desensitisation for certain allergies

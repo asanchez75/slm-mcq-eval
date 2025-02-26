@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-090-08-B
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Salivary gland pathology
+|Rank=B
+|Title=Knowing the principles of treatment of submandibular and parotid lithiasis
+|Description=
+|Rubric=Management
+|Contributors=Jegoux Franck
+|Order=8}}
+==Means==
+Salivary gland lithiasis can be treated by :
+
+- Surgery
+
+- Sialendoscopy
+
+- Extracorporeal lithotripsy
+
+'''<u>Surgery</u>''' is performed endobuccally and involves incising the duct of the gland to extract the lithiasis. When the lithiasis is located in the anterior third the operation can be performed under local anaesthetic or general anaesthetic. When it is located in the middle and posterior thirds, a general anaesthetic is required, as well as manipulation of the gland by external palpation.
+
+'''<u>Sialendoscopy</u>''' requires specific equipment and consists of introducing an endoscope inside the canal and then using dedicated instruments, (basket probe, forceps...) extract the stone. Laser surgery can be used to fragment large stones.
+
+<u>''Extracorporeal lithotripsy''</u> is used for stones smaller than 8 mm.<br />
+
+==Indications==
+The choice of technique depends on the precise location and size of the stone:
+
+*For stones larger than 8 mm: treatment is surgical.
+*For stones smaller than 8 mm:
+**For stones in the anterior part of the canal, endobuccal surgery is possible.
+**For stones in the posterior part of the canal
+***< 4 mm: sialendoscopy.
+***> 4 mm and < 8 mm: extraction by sialendoscopy is more difficult and may require prior fragmentation by extracorporeal lithotripsy before sialendoscopy or by laser during sialendoscopy.
+
+<br />

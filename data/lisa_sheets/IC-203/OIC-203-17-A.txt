@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-203-17-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the indirect signs of a bronchial foreign body on a radiograph
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=17}}
+A foreign body should never be considered absent on a normal X-ray, which studies have shown to be the case in up to 30% of cases. The foreign body is more often located on the right.
+
+Radiopaque foreign bodies are the least frequently encountered (10% of cases).
+
+Radiological signs are therefore usually indirect signs:
+
+             Asymmetry of lung transparency
+
+Lobar or segmental pulmonary atelectasis: a retractile, systematised opacity which draws the mediastinum towards the atelectasis side (in favour of complete obstruction). If present for a long time, this is the anomaly most often visualised.
+
+              Lobar or segmental pulmonary emphysema: systematised hyperclarity which pushes back the mediastinum on the contralateral side
+
+Pneumothorax or pneumomediastinum may be seen as a result of coughing.

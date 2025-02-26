@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-092-07-B
+|Item_parent=Motor and/or sensory deficit of the limbs
+|Item_parent_short=Motor and/or sensory deficit of the limbs
+|Rank=B
+|Title=Knowing the often multifactorial origin of a motor deficit of one or more limbs in an elderly subject
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+A limb motility disorder can sometimes be of multifactorial origin, particularly in an elderly subject.
+
+Rheumatological disorders in the elderly (osteoarthritis, rotator cuff tears, etc.) are particularly common ([Joint pain SD-067|joint pain]]).
+
+Similarly, the frequency of central disorders (stroke and stroke sequelae, vascular leukopathy, degenerative disorders) increases rapidly with age.
+
+Finally, the frequency of peripheral nerve damage also increases exponentially with age, particularly in the form of predominantly sensory polyneuropathy with a length-dependent distribution.
+
+The analysis of a motor and/or sensory deficit in an elderly subject may therefore be disrupted by the concomitant presence of central and peripheral neurological causes, as well as rheumatological disorders.
+
+A history of S1 sciatica may abolish the Achilles reflex on the side of the lesion, despite central damage to this limb due to a stroke.
+
+Sometimes rheumatological lesions are secondary to neurological damage, for example scapulohumeral periarthritis on hemiparesis.

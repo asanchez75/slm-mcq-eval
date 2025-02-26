@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-243-08-B
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=B
+|Title=Knowing the risk factors of hypothyroidism
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Eva Feigerlova,Igor Tauveron
+|Order=8}}
+
+
+*women (particularly after the age of 50)
+*dietary iodine deficiency
+*pregnancy
+*personal or family history of thyroid disease or autoimmune disorders
+*medications such as lithium, amiodarone and antithyroid drugs used to treat hyperthyroidism
+*treatments with a thyroid tropism (radioactive iodine, thyroid or cervical surgery), cervical or cerebral radiotherapy, etc.
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>

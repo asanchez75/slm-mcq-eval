@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-202-08-B
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=B
+|Title=Knowing the general principles of haematopoietic stem cell (HSC) autotransplantation
+|Description=None
+|Rubric=Physiopathology
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=8}}
+
+
+
+HSC express the CD34 antigen (1 to 3% of bone marrow cells, BM). The HSC used in cell therapy are present in the BM, in cord blood and in very low concentrations in peripheral blood. However, by treating patients with G-CSF, with or without chemotherapy, it is possible to mobilise HSC from the BM to the peripheral blood; this is the major source currently used for autologous HSC transplants.
+
+Autologous HSC transplants (or autologous transplants) involve removing HSC from a patient at a time when their disease is in remission, and reinjecting them after the patient has undergone conditioning with chemotherapy to induce a period of aplasia. The purpose of this conditioning is twofold: to eradicate any residual malignant cells, and to create aplasia that will allow the injected HSC to recolonise the haematopoietic system.  During the deep aplasia phase, patients are exposed to the risk of infection, requiring extensive isolation and very close monitoring.
+
+Autografts are mainly indicated to treat haematological malignancies such as non-Hodgkin's lymphoma, Hodgkin's disease or multiple myeloma, but also for severe autoimmune diseases or certain solid tumours (breast, ovarian or testicular cancer).
+
+HSC autografts are not a cure for a disease, but a means of reconstituting haematopoiesis after intensive chemotherapy.

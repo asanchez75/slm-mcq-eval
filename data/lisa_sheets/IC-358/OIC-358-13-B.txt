@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-358-13-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Knowing aetiological management: knowing the principles of management of biliary pancreatitis
+|Description=Know how to discuss endoscopic retrograde pancreatic cholangiography with surgical teams.
+|Rubric=Management
+|Contributors=
+|Order=13}}
+
+'''PA of biliary origin'''
+
+Biliary calculi should be detected by imaging as a matter of urgency, in order to make an aetiological diagnosis and treat any lithiasis embedded in the ampulla of Vater (although 80% of choledocholiths evacuate spontaneously). When they are large, they can be seen on abdominal ultrasound or CT scan.
+
+Treatment of biliary calculosis of the common bile duct is essential to prevent a recurrence of unpredictable severity.
+
+It includes :
+
+* Extraction of stones lodged in the common bile duct'' : Endoscopic retrograde cholangiography (ERCP) with endoscopic sphincterotomy '''(" [[Request and preparation for endoscopic examinations (bronchial, digestive) SD-238|request and preparation for endoscopic examinations (bronchial, digestive)]]", "[[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]"''): 
+** as a matter of urgency (< 24 h) in the event of initially associated angiocholitis
+** otherwise at a distance
+
+* Probabilistic antibiotic therapy after blood cultures if associated angiocholitis
+
+* '''Systematic cholecystectomy''' (''''" [Pre-operative explanation and consent for an invasive diagnostic or therapeutic procedure SD-239|pre-operative explanation and consent for an invasive diagnostic or therapeutic procedure]"''). In most cases, it is carried out ''before'' resumption of oral feeding, which encourages vesicular contractions and increases the risk of recurrence of biliary AP or other lithiasis complications:
+** during the same hospital stay in the case of non-severe BP
+** depending on the patient's clinical condition in the case of severe BP (often deferred for 3 to 6 weeks after the initial episode).
+
+
+'''Non-biliary PA''''
+
+They involve treating the cause (managing excessive alcohol consumption, treating a metabolic or tumour-related cause, etc.) and managing the aggravating factors (stopping smoking).

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-291-03-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the pathophysiology of sporadic cancers and risk factors
+|Description=Tobacco sun alcohol chronic inflammation...
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+The initiation and promotion stages of sporadic cancers can be accelerated by the direct action of mutagenic agents such as UV rays, tobacco, asbestos, chemical solvents, radon, etc.''' By creating DNA alterations that are difficult to repair, favouring replication errors, these mutagens greatly increase the probability of the emergence of an oncogenic alteration. For example, excessive exposure to UV rays favours the development of melanoma, a tumour with one of the highest mutational loads (number of somatic mutations per megabase of sequenced DNA). Environmental factors (endocrine disruptors, pollution, diet, etc.) also play a role in accelerating tumorigenesis. This is also the case with chronic inflammatory conditions (gastritis, gastro-oesophageal reflux disease) or certain viral infections (papillomavirus, etc.), which promote the development of intra-epithelial dysplasia.

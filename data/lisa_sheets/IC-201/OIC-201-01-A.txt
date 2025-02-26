@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-201-01-A
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=A
+|Intitle=Know the definition of potential donors
+|Description=None
+|Rubric=Definition
+|Contributors=Dany Anglicheau
+|Order=1}}
+
+There are 3 categories of [[State of apparent death SD-038|organ donors]] :
+
+*donors in a state of brain death, who represent the majority of donors;
+*donors who have died after circulatory arrest (DCAD). A distinction is made between donors who have suffered an "uncontrolled" out-of-hospital cardiac arrest and donors who have suffered a circulatory arrest in intensive care following a decision to stop active treatment;
+*Living donors.

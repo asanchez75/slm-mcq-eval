@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-361-09-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Knowing the four presentations of periarticular and ligament injuries of the shoulder
+|Description=Simple tendinopathy, calcific tendinopathy with hyperalgic shoulder (with subacromial bursitis), rotator cuff rupture and retractile capsulitis.
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=9}}
+
+
+== '''Diagnosis of simple tendinopathy:''' ==
+'''clinical picture of a functional but painful shoulder'''.
+
+X-rays will help refine the diagnosis if they reveal calcification (calcific tendinopathy). A clinical assessment using the previous tests will enable the diagnosis to be redirected towards rotator cuff tendinopathy if one or more tests are positive.
+
+== '''Diagnosis of calcific tendinopathy with hyperalgic shoulder:''' ==
+This pathology is linked to a '''type B hydroxyapatite deposit'', not calcium, accumulated in the tendon in the form of a paste. The cause of calcific tendinopathy is unknown, but it most often affects women aged between 30 and 40. There is no relationship between this pathology and professional activity, falls, osteoporosis or diet.
+
+This mass of paste may spontaneously drain away from the tendon. The substance is then released into the subacromial space: a sudden and brutal inflammatory crisis.
+
+Symptoms :
+
+Pain (main cause of consultation). It is felt in the shoulder and may radiate down the arm. The ''pain varies in intensity'' depending on movement and activity, but leaves a ''constant background of pain''.
+
+The acute crisis:
+
+This sudden and brutal attack usually occurs the day after repeated exertion (''thunderbolt in a blue sky''). The pain is due to the evacuation of calcification accompanied by a sudden inflammatory reaction. No movement is possible due to the intensity of the pain. Once the material has been 'digested' by the shoulder, the pain subsides over a few days.
+
+== Diagnosis of rotator cuff tendinopathy:''' ==
+Diagnosis of a rotator cuff tear is based on a clinical examination involving 4 steps: ''questioning'', ''inspection/palpation'', ''passive and active range of motion'', and ''testing of the cuff''.
+
+Inspection: look for ''amyotrophy of the supraspinatus and/or infraspinatus fossae'', suggestive of a rupture of the supraspinatus and/or infraspinatus tendons.
+
+Analysis of '''passive amplitudes:''' best performed on a patient in the supine position to eliminate compensations, fundamental to the '''verification of the freedom of the glenohumeral joint''' and the '''absence of capsular retraction'''.
+
+Active amplitude analysis performed on a seated patient.  
+
+= L''''association of complete passive mobility and deficient active mobility''' points to a rotator cuff tear.
+
+In order to clinically pinpoint the location of the tendon rupture, it is necessary to use the tests described in the item "Yocum, Neer, Hawkins, Jobe, Patte, Gerber and Palm up test".
+
+The clinical examination should be supplemented by imaging tests to determine the location and extent of the rupture.
+
+== '''Diagnosis of retractile capsulitis:''' ==
+Diagnosis '''essentially clinical:''' '''limitation of all active and passive joint amplitudes of the glenohumeral joint'''.
+
+However, a simple radiographic assessment must not reveal any other cause of restricted mobility (glenohumeral osteoarthritis in particular).
+
+'''Main cause of consultation''' = '''pain particularly marked at night, insomniac (first phase)'''. It is located opposite the deltoid stump and may radiate into the arm, forearm and wrist. This "pain phase" is almost constant and lasts from a few weeks to a few months. During this painful period, the shoulder remains mobile.  
+
+'''Second phase:''' onset of '''stiffness''': the''''shoulder progressively freezes'''. This stiffness is particularly easy to detect by the ''loss of external rotation elbow to body'' but it also affects abduction and antepulsion. It will be necessary to analyse only the mobility of the glenohumeral joint by neutralising the scapulothoracic joint during the clinical examination in order to eliminate compensation phenomena. This ''stiffening phase'' may take a ''few weeks'', before giving way to a ''long period of stability''. During this phase, the pain gradually disappears.
+
+During the ''second year of evolution'', the stiffness tends to disappear until a ''generally total recovery''.

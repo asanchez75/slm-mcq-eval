@@ -1,0 +1,333 @@
+{{knowledge objective
+|Identifiant=OIC-212-06-A
+|Item_parent=Hemograms in adults and children: indications and interpretation
+|Item_parent_short=Hemogram in adults and children: indications and interpretation
+|Rank=A
+|Title=Know the abnormalities of the different blood lines and their main aetiologies
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+'''1. abnormalities of the erythrocyte lineage:'''
+
+1.1 Anaemia
+
+- '''Hb <13g/dL in men'''
+
+- '''Hb <12g/dL in women'''
+
+- '''Hb <10.5g/dL in pregnant women'''
+
+- '''Hb <14g/dL in newborns'''
+
+- '''Microcytic anaemias (GMV < 80 fl in adults, < 70 fl in children) reflect a disorder in haemoglobin synthesis'''.
+
+'''Etiologies:'''
+
+Martial deficiency (very common in children)
+
+Inflammatory syndromes
+
+Thalassaemic syndromes
+
+
+- Macrocytic anaemias (GMV > 100 fl in adults, and depending on the age group in children) '''in the majority of cases reflect a disorder in DNA synthesis''.
+
+
+'''Rule out macrocytosis related to bone marrow regeneration'' (when reticulocytes are increased >200 x10<sup>9</sup>/L).
+
+
+'''Etiologies of anaemia, most often macrocytic:'''
+
+- ethylism ;
+
+- cyanocobalamin (vitamin B12) or folic acid (vitamin B9) deficiency ;
+
+- taking certain medicines ;
+
+- myelodysplastic syndromes
+
+- constitutional bone marrow failure (Fanconi anaemia, etc.)
+
+-
+
+'''Etiologies of anaemia most often normocytic, sometimes macrocytic'''
+
+- hypothyroidism (clinical, TSH),
+
+- Hepatopathies other than ethylism (adults and children),
+
+- haematological malignancies
+
+- '''Regenerative anaemias (>150 x10<sup>9</sup>/L reticulocytes):'''
+
+'''Etiologies:'''
+
+- Repair phase of central anaemia
+
+- Haemorrhagic syndrome
+
+- Haemolytic anaemia
+
+1.2 Polycythemia
+
+The haemogram shows a proportional increase in haemoglobin and haematocrit.
+
+The figures at which polycythemia may be suspected are :
+
+- men: haemoglobin > 165 g/L ;
+
+- female: haemoglobin > 160 g/L.
+
+The haematocrit is often used to refer to polycythemia because it is a more accurate reflection of the level of blood glucose.
+
+increase in blood cell mass. The thresholds defined by the WHO are 48% in the case of women.
+
+women and 49% in men.
+
+By definition, isotopic determination of blood volume, if carried out, shows an increase of 25% above the normal value.
+
+'''2.     Anomaly of the granulocytic lineage:''''
+
+'''2.1 Neutrophil polynucleosis:'''
+
+'''In adults: neutrophils > 7 x10<sup>9</sup>/L''''
+
+o '''Known physiological causes must be eliminated such as:''''
+
+- physical effort
+
+- postprandial period
+
+- end of pregnancy, post-natal care
+
+- post-operational effects
+
+
+o '''Training''' neutrophil polynucleosis due to hyperstimulation of bone marrow production can be easily recognised: haemolysis, treatment with growth factor (G-CSF).
+
+
+o ''Isolated neutrophil polynucleosis'' (without anaemia, thrombocytopenia or myaemia) is primarily suggestive of a bacterial infection:
+
+- generalised: septicaemia ;
+
+- localised: sore throats, dental infections, other ENT infections, urinary tract infections, biliary tract infections, osteomyelitis, appendicitis, etc.
+
+
+o '''Other pathological causes:''''
+
+- smoking
+
+- inflammatory diseases
+
+- tissue necrosis (infarction, pancreatitis)
+
+- cancers
+
+- lymphomas
+
+- medication (corticosteroids, lithium)
+
+- myeloproliferative disorders
+
+
+2.2 Myelimiasis
+
+''Myeloma is the passage of immature granular forms (bone marrow precursors) into the blood'': metamyelocytes, myelocytes and, more rarely, promyelocytes.
+
+'''Physiological in the first week of life (0-1.5 x10<sup>9</sup>/L)'''
+
+'''Myelmia > 2% is pathological.'''
+
+'''Main etiologies:''''
+
+- transitional :
+
+- serious infections (septicaemia)
+
+- haemolytic anaemias
+
+- period of "repair" after a haemorrhage
+
+- bone marrow regeneration following chemotherapy or bone marrow failure with or without treatment with growth factors
+
+- chronicles :
+
+- myeloproliferative disorders
+
+- osteomedullary metastases.
+
+Blood erythroblastosis (''erythroblastemia'') is the passage of erythroblasts (precursors of red blood cells in the marrow) into the blood.
+
+Physiological in the first week of life (<1 x10<sup>9</sup>/L) and then regresses completely.
+
+'''PRCA is the combination of myeloma and erythroblastosis of the blood.'''
+
+
+'''2.3 Neutropenia:'''
+
+'''In adults: neutrophils < 1.5 x10<sup>9</sup>/L.'''
+
+'''Main etiologies:''''
+
+- medicines
+
+- infections
+
+- typhoid, brucellosis
+
+- severe septicaemia
+
+- viral hepatitis
+
+- hypersplenism
+
+- haematological malignancies
+
+- other :
+
+o distribution problems (increase in the marginal pool of NPs)
+
+o constitutional origin (congenital neutropenia)
+
+o connective tissue diseases
+
+o ionising radiation.
+
+
+'''2.4 Hypereosinophilia:'''
+
+'''Eosinophilic polymorphs > 0.5 x10<sup>9</sup>/L''''
+
+'''Main etiologies:''''
+
+- Allergy
+
+- Parasitic infection
+
+- Haemopathies
+
+Physiological and transient in the newborn (premature).
+
+
+'''2.5 Hyperbasophilia:'''
+
+'''Basophil Polynuclear > 0.1 x10<sup>9</sup>/L''''
+
+'''Main etiologies:''''
+
+- Allergy
+
+- Parasitic infection
+
+- Haemopathies (myeloproliferative disorders)
+
+'''2.6 Hyperlymphocytosis:'''
+
+'''In adults: > 4 x10<sup>9</sup>/L''''
+
+True hyperlymphocytosis is defined as an increase in the absolute number of blood lymphocytes. The term "leucocyte count inversion" has no precise meaning and should be avoided. There are many different causes of hyperlymphocytosis, depending on the age and morphology of the lymphocyte cells.
+
+'''Hyperlymphocytosis made up of morphologically normal cells:'''
+
+- in children, are a reaction to an infection and are benign: whooping cough, viruses, etc.
+
+- in adolescents and children: mononucleosis syndrome
+
+- in adults, especially after the age of 40:
+
+o lymphoproliferative syndrome (chronic lymphocytic leukaemia or CLL)
+
+o leukaemic lymphomas (abnormal cells, rarer than CLL)
+
+'''Any chronic hyperlymphocytosis in adults - i.e. persisting or increasing after a check-up six to eight weeks later - requires immunophenotyping of blood lymphocytes. This is an essential test for diagnosing lymphoproliferative syndromes.'''
+
+'''2.7 Lymphopenia:'''
+
+'''In adults: Lymphocytes < 1.5 x10<sup>9</sup>/L''''
+
+The search for an aetiology should be systematic when lymphocytes are < 1.0 x10<sup>9</sup>/L.
+
+'''Main etiologies:''''
+
+- viral infections (all types of virus, including human immunodeficiency virus), sometimes bacterial (sign of severity)
+
+- lymphomas
+
+- cancer, radiotherapy, chemotherapy and immunosuppressive treatments
+
+- corticosteroid therapy
+
+- primary immune deficiencies
+
+- autoimmune diseases (lupus)
+
+- chronic renal failure
+
+- rare idiopathic forms
+
+==2.8 Monocytosis (hypermonocytosis)==
+'''Monocytes > 1 x10<sup>9</sup>/L''''
+
+'''The main etiologies are as follows:'''
+
+- '''reactional monocytosis:''''
+
+- bacterial: tuberculosis, brucellosis, endocarditis, typhoid
+
+- parasitic: malaria, leishmaniasis
+
+- cancers
+
+- inflammation
+
+- tissue necrosis
+
+- repair phase of agranulocytosis
+
+- '''primitive monocytosis:'''
+
+- chronic myelomonocytic leukaemia (CMML) in elderly subjects ;
+
+- juvenile myelomonocytic leukaemia (JMML) in children (very rare)
+
+- acute monoblastic leukaemia.
+
+
+'''3.     Platelet lineage abnormality:''''
+
+==3.1 Hyperplateletosis or thrombocytosis==
+'''Platelets > 450 x10<sup>9</sup>/L'''
+
+There may be a risk of thrombosis and haemorrhage.
+
+They are reactive (levels generally < 800 x10<sup>9</sup>/L):
+
+- stress: surgery, childbirth,
+
+- an inflammatory syndrome,
+
+- martial deficiency,
+
+- splenectomy.
+
+More rarely, they are primary in myeloproliferative syndromes.
+
+
+3.2 Thrombocytopenia
+
+'''Platelets < 150 x10<sup>9</sup>/L''''
+
+'''Eliminate false thrombocytopenia induced by EDTA or coagulated sample (blood smear reading: presence of platelet clusters and fibrin network respectively)'''
+
+Thrombocytopenia may be discovered systematically or revealed by a haemorrhagic syndrome (mucocutaneous purpura, petechial and diffuse, sometimes associated with spontaneous haematomas).
+
+Value of myelogram in the investigation of thrombocytopenia :
+
+- when thrombocytopenia is isolated and has no obvious cause, a myelogram can help to pinpoint the cause:
+
+- central (megakaryocytes absent or dysmorphic, or even presence of abnormal cells in the bone marrow);
+
+- peripheral (marrow rich in normal megakaryocytes, no abnormal cells in the bone marrow);
+
+- when thrombocytopenia is not isolated, it is a case of bi- or pancytopenia, for which a myelogram is often necessary.

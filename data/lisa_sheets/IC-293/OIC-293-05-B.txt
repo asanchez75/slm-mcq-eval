@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-293-05-B
+|Item_parent=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles for taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=B
+|Title=Know molecular biology techniques on tissue/cellular samples
+|Description=Know the main indications for non-morphological molecular biology techniques on tissue/cell samples: diagnosis, prognosis, theranostics, etc.
+|Rubric=Additional tests
+|Contributors=Arnaud Uguen
+|Order=5}}
+
+'''''" How can we justify the use of molecular biology analyses on pathological anatomy and cytology samples? '''''
+
+
+Additional analyses may be required to clarify the diagnosis of a lesion, the patient's prognosis or to guide therapy (theranostics). Among the additional analyses that can be performed on Pathological Anatomy and Cytology samples, immunohistochemistry (to identify proteins) and "in situ" hybridisation (to identify nucleotide sequences) can be performed on the tissue itself for morphological analysis (see knowledge objective 2C-293-EC-B03).
+
+
+Nevertheless, the collection of certain diagnostic, prognostic or theranostic parameters requires analysis of the <u>nucleotide sequence itself at RNA or DNA level</u> which is not accessible to morphological ''in situ'' analysis. These techniques require extraction of DNA/RNA from the tissue of interest to enable the search for <u>point mutations</u>, but also gene rearrangements or gain/loss of genomic material (NB: gene rearrangements and gain/loss of genomic material may also be accessible for diagnosis by ''in situ'' hybridisation). One advantage of these nucleic acid extract analysis techniques is their ability to carry out several searches for different molecular alterations in several genes of interest in a single analysis, which is an advantage over morphological techniques, which are often dedicated to a given target per analysis. This advantage of "multiplexing</u>" the analyses is particularly interesting in the case of low-abundance samples requiring multiple analyses and at risk of tissue exhaustion (e.g. non-small cell lung cancer samples from bronchial biopsies). The use of these complementary molecular biology analyses generally requires several days of technique and analysis within technical platforms with expertise in these non-morphological analyses.
+
+
+The <u>morphological qualification of the sample</u> nevertheless remains essential upstream of nucleic acid extraction to ensure that the sample contains cells of interest (e.g. selection of an area rich in tumour cells in the case of molecular analysis of a cancer sample).
+
+
+These molecular biology analyses are applicable to tissue samples and cytological samples provided that they contain sufficient cells of interest.
+
+[[File:Pour 2C 293 EC B04 bio mol.jpg|vignette|Analysis of nucleic acids extracted from formalin-fixed, paraffin-embedded tumour tissue. A stained slide is used to qualify the tissue, identify the cells of interest and quantify them. The area of interest is then marked on an unstained slide used to dissect the tissue for tube extraction of the nucleic acids. These extracted nucleic acids can thus be used for molecular biology analyses, in particular to search for mutations conditioning the prescription (or contra-indicating the use) of targeted therapies in various cancer pathologies].
+
+
+Formalin fixation leads to fragmentation of the nucleic acids, which partially hinders the polymerase chain reaction (PCR) amplification often required in molecular biology analyses. Targeted analysis of smaller sequences is still possible, however, using fragmented nucleic acids from formalin-fixed, paraffin-embedded samples. However, for analyses requiring a better quality of nucleic acids, the extraction of RNA/DNA from tissue samples frozen in liquid nitrogen and preserved at -80°C will be preferred and even recommended in certain tumour types (''cf knowledge objective 2C-293-EC-B06'').

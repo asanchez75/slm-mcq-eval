@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-334-40-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to look for early complications
+|Description=Vascular (popliteal artery in particular): Doppler, angioscanner; respective roles of kalaemia, creatininaemia, CPK and myoglobin.
+|Rubric=Additional tests
+|Contributors=CFCOT
+|Order=40}}
+
+'''Locoregional complications:'''
+
+* nerve lesions (particularly fractures of the middle third of the humerus, which can damage the radial nerve)
+* vascular lesions: in addition to the clinical examination: Doppler, injected CT scan
+* compartment syndrome -> pressure in all the aponeurotic compartments
+
+'''Systemic complications:''''
+
+* fat embolism -> Gurd's triad, fundus
+* acute post-traumatic rhabdomyolysis -> CPK, myoglobin, blood and urine ionogram, urine sediment
+
+("''[[Limb trauma SD-173|limb trauma]]'''")

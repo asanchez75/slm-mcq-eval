@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-052-01-B
+|Item_parent=Strabism and amblyopia in children
+|Item_parent_short=Strabism and amblyopia in children
+|Rank=B
+|Title=Knowing the stages in the development of binocular vision in children
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+The development of binocular vision takes place progressively in different stages. These are given as a guide, but there are physiological variations in dates:
+
+- ''First week of life'': light reflex, photomotor reflex
+
+- 2-4 weeks: pursuit reflex, which becomes established at around 2 months of age
+
+- 4-12 weeks: fusion reflex, binocular coordination
+
+- 3 months: vision of shapes. The convergence reflex and the fixation reflex on a fixed object appear.
+
+- 4 months: hand-eye coordination
+
+- From the age of 2: measurable visual acuity. First binocular vision
+
+- '''From the age of 6:''' end of the critical phase. The risk of amblyopia becomes much lower

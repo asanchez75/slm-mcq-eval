@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-234-18-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Knowing the emergency treatment of cardiogenic OAP
+|Description=Know how to prescribe symptomatic treatment: loop diuretics, nitrate derivatives, oxygen therapy, etc.
+|Rubric=Management
+|Contributors=Olivier Huttin
+|Order=18}}
+Therapeutic emergency
+
+- Hospitalisation in a continuous care unit
+
+- seated position
+
+- placement of a venous supply line
+
+- monitoring (heart rate, blood pressure, saturation, scope)
+
+- oxygen therapy by nasal tube or mask, target Sa02 > 90%,
+
+- Prescription of diuretics: injection of furosemide (Lasilix 1 mg/kg), then adjusted according to diuresis;
+
+- injection of nitrate derivatives (trinitrine 1 mg/h to be adapted according to blood pressure) if systolic blood pressure > 100 mmHg;
+
+- in the event of severe uncontrolled anxiety or chest pain, offer i.v. morphine;
+
+- treatment of a triggering factor: i.v. digoxin and effective anticoagulation if rapid atrial fibrillation, treatment of a hypertensive attack;
+
+- systematic preventive anticoagulation.
+
+- If there is no reply,
+
+o CPAP ventilation (continuous positive airway pressure).
+
+o If signs of acute respiratory failure and respiratory exhaustion persist: nasotracheal intubation and invasive ventilation.
+
+
+- With regard to disease-modifying treatments
+
+o Beta-blocker treatment to be introduced at a distance from the episode of PAO (weaning from oxygen)
+
+o ACE inhibitors can be started rapidly, particularly if hypertension co-exists.

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-222-07-B
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=B
+|Title=Knowing the role of psychosocial factors in cardiovascular risk
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=7}}
+
+
+* '''Physiopathological bases of exposure to stress (professional or private life):''''
+** '''Responses to stress:''''
+*** Neuroendocrine activation / autonomic system dysfunction.
+*** Haemodynamic changes: increase in BP and heart rate.
+*** Activation of coagulation.
+*** Pro-inflammatory effect.
+** '''Possible consequences in terms of pathophysiological effects and clinical events:''''
+*** Rhythmic instability: ventricular tachycardia, ventricular fibrillation, atrial fibrillation.
+*** Atheromatous plaque rupture and thrombotic reaction: ACS, ischaemic stroke, etc.
+* In the general population, exposure to stress in adults multiplies the relative risk by 1.1 to 1.6, which is much less than the excess risk inherent in major CV risk factors.
+* The excess CV risk associated with stress appears to be greater in patients considered to be at high CV risk and in those already suffering from established atheromatous CV pathology. In this population, exposure to stress seems to act as a trigger for events marking the onset of the disease or accelerating the progression of an established pathology (relative risk > 2).
+* Stress is a factor to be taken into account, particularly in primary and secondary prevention.

@@ -1,0 +1,148 @@
+{{knowledge objective
+|Identifiant=OIC-100-04-B
+|Item_parent=Unusual acute and chronic headache in adults and children
+|Item_parent_short=Unusual acute and chronic headache in adults and children
+|Rank=B
+|Heading=State the main causes of chronic headache (episodic or daily) and the specific clinical characteristics of each.
+|Description=In adults and children
+|Heading=Etiologies
+|Contributors=
+|Order=4}}
+- '''Chronic headache''': has been present for at least 3 months, and generally lasts for months or years.
+
+o It is most often a primary headache.
+
+o Assess the number of headache days per month over the last three months.
+
+- '''Episodic chronic headache (<15 headache days / month)''''
+
+o Migraine (known as episodic)
+
+o Episodic tension headache
+
+- '''Chronic daily headache (CCQ, 15 days or more / month) subdivided into'''
+
+o ''Long-term QCC'' (seizures > 4 hours)
+
+§ Chronic migraine if the headache has the characteristics of a migraine for at least 8 days a month
+
+§ Chronic tension headache, if no migraine characteristic
+
+§ Both may or may not be associated with drug abuse, which is a complication and/or aggravating factor in the underlying primary headache.
+
+o ''Short-term QCC'' (attacks < 4 hours): facial vascular angina (FVA) and other trigeminal-autonomic headaches, mainly to be distinguished from painful cranial neuropathy (trigeminal neuralgia).
+
+- Etiological diagnosis is based on questioning: in the presence of a chronic headache (long-standing and habitual), determine the duration of untreated attacks, the characteristics of the headache and associated signs (table). This is most often a primary headache. A distinction is made between
+
+o '''Migraine (<u>item 99</u>)'''
+
+§ Migraine without aura
+
+§ Migraine with aura: progressive, successive and transient neurological disorders (< 1 hour) preceding or accompanying the headache at its onset, most often visual signs, sometimes sensory, rarely language disorders.
+
+o '''Tension headache (<u>item 99</u>)''''
+
+o '''Algie vasculaire de la face'''''(<u>item 99)</u>''' to be distinguished from trigeminal neuralgia
+
+- '''Chronic post-traumatic headache:''' Long-term QCC that persists >3 months after a head injury, follows acute post-traumatic headache (< 3 months), and may be accompanied by a post-traumatic syndrome (vertigo, sleep disorders, difficulty concentrating, mood disorder). Resembles a chronic migraine or chronic tension headache.
+
+
+- Chronic headache of cervical origin'': certain rheumatological conditions can cause headaches (severe osteoarthritis and/or disco-radicular conflict, sequelae of fracture/dislocation of a cervical vertebra, rheumatoid arthritis, etc.). Headaches are generally posterior with paravertebral muscle contractures.
+
+{| class="wikitable"
+|
+|'''Migraine'''
+|'''Tension headache'''
+|'''Algie vasculaire de la face'''
+|Classic trigeminal neuralgia
+|-
+|Sex ratio
+|Women >> Men
+|Women > Men
+|Men >> Women
+|Women > Men
+|-
+|Duration of seizures
+|4-72 hours
+
+Child sometimes shorter 1-2h
+|Hours or days, or continuous
+|15 - 180 minutes
+|A few seconds to 2 minutes
+|-
+|Laterality of pain
+|Usually unilateral
+|Usually bilateral
+|Strictly unilateral
+<br />
+|Strictly unilateral
+|Strictly unilateral
+|-
+|Location
+|Usually frontal and temporal, sometimes lateral.
+
+occipital or diffuse
+|Helmet-like or bitemporal or occipital
+|Occipital and/or temporal
+|V2/V3>> V1
+|-
+|Type of pain
+|Generally pulsatile
+<br />Type of pain
+|Generally pressure or squeezing type
+|Generally intolerable, excruciating
+|Electric discharge, throbbing, stabbing or pricking
+|-
+|Effects of physical activity (walking, climbing stairs)
+|Often aggravated by physical activity
+<br />Not aggravated by activities
+|Not aggravated by activities and sometimes improved
+|Not aggravated by activity
+<br />Not aggravated by activities
+|Aggravated by speech, chewing, facial movements
+|-
+|Behaviour during an attack
+|Seeks calm and darkness
+|
+|Impatience and agitation
+|Brief immobilisation in a painful attitude
+|-
+|Intensity
+|Moderate to severe
+|Mild to moderate
+|Severe to very severe
+|Severe to very severe
+|-
+|Digestive disorders
+|Often nausea, vomiting
+
+Sometimes predominant (children)
+|Absent
+|Sometimes nausea, vomiting
+|Absent
+|-
+|Sensory disorders
+|Generally phonophobia and phonophobia
+|Usually none; sometimes phonophobia OR phonophobia (not both)
+|Sometimes phonophobia and phonophobia
+|Occasional
+|-
+|Dysautonomic signs
+|Possible
+|Never
+|Significant, on same side as pain
+|Absent
+|-
+|Other characteristics
+|Cranial and cervical muscle pain
+
+Pallor (child)
+|Cranial and cervical muscle pain
+|Cranial and cervical muscle pain
+
+Circadian periodicity
+|provoked by normally painless stimuli in the affected V territory
+|}
+<nowiki>*</nowiki>Tearing, [[Red and/or painful eye SD-152|eye redness]], palpebral oedema, frontal and facial sweating, nasal obstruction, [[Rhinorrhea SD-155|rhinorrhea]], [[Palpebral abnormalities SD-139|ptosis]], miosis
+
+<br />

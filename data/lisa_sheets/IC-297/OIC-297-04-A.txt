@@ -1,0 +1,86 @@
+{{knowledge objective
+|Identifiant=OIC-297-04-A
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=A
+|Title=Knowing the circumstances and clinical signs that should raise the suspicion of an abdominal tumour in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Virginie Gandemer
+|Order=4}}
+The symptoms are different from those of adult abdominal tumours, with a recent evolution (a few weeks) and without AEG unless there is an osteomedullary metastasis. However, they are often ''aspecific'', although real emergencies may occur. There is usually an increase in abdominal volume.'''
+
+Neuroblastoma, nephroblastoma and high-grade B lymphoma each account for 30% of the aetiologies of abdominal tumours in children.
+
+{| class="wikitable"
+|
+|'''Nephroblastoma or Wilms' tumour''''
+|Neuroblastoma
+|Lymphoma
+|-
+|Demography
+|<Less than 5 years
+|60% under 2 years
+|Boys, 5-10 years
+|-
+|Signs of discovery
+
+special
+|hypertension, haematuria, urinary tract infection
+|High blood pressure, spinal cord compression, metastatic sites present in 50% of cases (orbit, skin, bone marrow, liver), paraneoplastic syndrome (diarrhoea, opsomyoclonus).
+|Acute intestinal invagination
+|-
+|Predisposing factor
+|Congenital syndromes involving WT1 or 2
+|NF1
+|Immune deficiency
+|-
+|Location
+|Renal
+
+Bilateral possible
+|Sympathetic ganglia and adrenal medulla
+|Peritoneal
+
+often extraganglionic
+|-
+|Locoregional imaging features
+|Renal retroperitoneal (spur sign)
+
+Vascular backflow
+
+Multilobular or cystic
+
+Venous thrombus
+|Retroperitoneal (suppressed kidney)
+
+Perivascular infiltrative disease
+
+Calcifications
+
+Spinal canal infiltration
+|Multiple digestive damage with dedifferentiation of the mucosa
+
+Non-mesenteric lymph node involvement
+
+Ascites
+|}
+Linked SDS:
+
+.       [Announcement of a diagnosis of serious illness to the patient and/or family SD-327]]
+
+- Abdominal abnormality discovered on medical imaging examination SD-224
+
+- Haematuria SD-102
+
+- Vomiting SD-013
+
+- Interpretation of a pathology report SD-180
+
+- Abdominal mass SD-008
+
+- Writing a request for an SD-230 imaging examination
+
+- Malignant tumours on surgical specimen/biopsy SD-181
+
+- Chronic pain SD-035

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-277-24-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Know the principles of treatment of acute angiocholitis and the procedures for endoscopic retrograde cholangiopancreatography (ERCP).
+|Description=Antibiotherapy and biliary deobstruction
+|Rubric=Management
+|Contributors=
+|Order=24}}
+
+The principles of treatment for acute angiocholitis are :
+
+- analgesic treatment
+
+- first-line broad-spectrum antibiotic therapy for digestive tract germs, with secondary adaptation to an antibiotic susceptibility test
+
+- emergency clearance of the bile duct (by endoscopy or radiology).
+
+Endoscopic retrograde cholangio-pancreatography (ERCP) is an interventional endoscopic procedure performed under general anaesthetic using dedicated endoscopic equipment (side-view duodenoscope).
+
+ERCP allows the main bile duct to be accessed, followed by endoscopic sphincterotomy before instrumental extraction of the stone.
+
+- cholecystectomy:
+Secondary cholecystectomy depends on the patient's condition (physiological age) and the presence or absence of cholecystitis.

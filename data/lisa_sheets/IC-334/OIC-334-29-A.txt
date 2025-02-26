@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-334-29-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to suspect abdominal trauma
+|Description=Identify suggestive signs: history, inspection (belt sign, contusion, wound).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=29}}
+'''Palpation:'''' provoked pain ('''[[Abdominal pain SD-004|abdominal pain]]'''''), defensiveness and contracture
+
+'''Percussion:''' concave upward dullness (haemoperitoneum) or tympany (pneumoperitoneum)
+
+Search for :
+
+* syndromic associations (peritoneal syndrome, occlusive syndrome, abdominal compartment syndrome)
+* signs of haemorrhagic shock ("''[[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]'''')

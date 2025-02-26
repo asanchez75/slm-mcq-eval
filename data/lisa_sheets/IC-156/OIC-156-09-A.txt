@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-156-09-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Identifying septic arthritis (= therapeutic emergency)
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Dr Florent Valour
+|Order=9}}
+Urgent hospital management to limit the risk of complications

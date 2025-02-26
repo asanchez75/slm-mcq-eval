@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-294-15-B
+|Item_parent=Cancer treatment: main procedures, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=State the main classes and principles of action of targeted therapies.
+|Description=Monoclonal antibodies and peptidomimetics
+|Rubric=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=15}}
+
+
+
+Targeted therapies can act :
+
+- on growth factors (which are messengers that trigger the transmission of information within a cell);
+
+- on their receptors (which enable the transfer of information within the cell) at different levels (extracellular and intracellular domains);
+
+- on elements inside the cell.
+
+Targeted therapies block tumour growth or spread by interfering with :
+
+- one of the ''mechanisms of cancer growth''; e.g. angiogenesis inhibitors;
+
+- a molecular anomaly specific to a type of cancer ("driver mutation"); e.g. EGFR mutation in non-small cell lung cancer, BRAF V600 mutation in metastatic melanoma.
+
+===Large classes===
+
+==== Monoclonal antibodies (MAb)====
+All have the suffix - mab (''monoclonal antibody'').
+
+Their terminology helps us to understand their structure:
+
+- omab: murine AcMo (e.g. ibritumomab) ;
+
+- ximab: chimeric mAb (e.g. rituximab) ;
+
+- zumab: humanised mAb (e.g. bevacizumab) ;
+
+- mumab: human mAb (e.g. panitumumab).
+
+They bind either to the extra-cellular domain of the targeted receptor, preventing ligand binding (e.g. cetuximab on the epidermal growth factor receptor, EGFR), or directly to the ligand, preventing binding to its receptor (e.g. bevacizumab on the vascular endothelial growth factor, VEGF): bevacizumab on the vascular endothelial growth factor (VEGF), or on the dimerisation domain of the receptor, preventing its activation (e.g. pertuzumab, which blocks heterodimerisation of HER2 with HER3).
+
+These drugs are directed against :
+
+- the VEGF pathway (e.g. bevacizumab);
+
+- the EGF pathway (e.g. cetuximab);
+
+- the HER2 pathway (e.g. trastuzumab, pertuzumab);
+
+====Pharmacological inhibitors====
+Pharmacological inhibitors are small molecules that - unlike monoclonal antibodies - act inside the cell.
+
+Most are directed against membrane receptors with tyrosine kinase activity and bind to the ATP binding site, thereby blocking the phosphorylation mechanisms at the origin of the signalling cascades that carry the signal to the cell nucleus. They carry the suffix - inib.
+
+Others have a cytoplasmic action (e.g. directed against KRAS for sotorasib).
+
+They are administered orally. Their safety profile is generally more favourable than chemotherapy, but requires therapeutic education of the patient.
+
+These drugs are used, for example, against :
+
+- EGF receptor (e.g. erlotinib);
+
+- ALK translocation (e.g. crizotinib);
+
+- BRAF V600 mutation (e.g. vemurafenib);
+
+- the CDK4/6 pathway (e.g. palbociclib);
+
+- other pathways such as TRK, MET, ROS1, KIT...<br />.

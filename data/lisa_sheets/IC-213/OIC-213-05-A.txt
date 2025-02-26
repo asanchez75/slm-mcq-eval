@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-213-05-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short=Anemia in adults and children
+|Rank=A
+|Title=Knowing the criteria for the severity of anaemia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+Beyond the Hb value alone (''depth'' of the anaemia), the severity and degree of urgency of anaemia management are linked:
+
+*the "patient's" "background" (age, presence or absence of comorbidities, etc.) and "tolerance" of the anaemia from a general and cardiovascular point of view:
+**signs of '''coronary insufficiency''' (clinical with angina '''([[Chest pain SD-161|chest pain]]])''' or electrocardiographic: ST segment elevation or sub-shift in a coronary territory,Q wave ('''[[Performing and interpreting an electrocardiogram (ecg) SD-185|performing and interpreting an electrocardiogram]]''' (ECG)),
+**dyspnoea'' at the slightest effort,
+**poorly tolerated tachycardia,
+**hypotension '''([[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]])''',
+**lipothymia (''[[2C-342|discomfort/loss of consciousness]]''),
+**confusion ('''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]'''),
+**neurovascular deficit signs.
+**
+
+*The "mechanism" of the anaemia, which determines how quickly it sets in and therefore influences its tolerance and the time taken to treat it. There are two types of emergency:
+**Acute haemorrhage : acute bleeding ('''[[Acute haemorrhage SD-060|acute haemorrhage]]''') abundant externalised ([[Digestive haemorrhage]] '''([[Melena/rectorrhagia SD-010|melena/rectorrhagia]], [[Blood emission through the mouth SD-014|blood emission through the mouth]])''', gynaecological '''([[Abnormal genital bleeding (outside known pregnancy) SD-112|abnormal genital bleeding (outside known pregnancy)]], [[Abnormal postpartum genital bleeding SD-110|abnormal postpartum genital bleeding]], [[Genital bleeding during pregnancy SD-111|genital bleeding during pregnancy]]....)'' or not (deep haematoma, post-operative context...).
+**L''''hémolyse aiguë intravasculaire''' : hyperthermia with chills, intense malaise, nausea, abdominal pain, back pain, ''[[Ictère SD-047|ictère]]''' and dark urine, intense pallor and signs of acute anaemia, state of shock which may precede coma.

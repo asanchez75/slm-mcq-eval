@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-020-24-A
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=A
+|Title=Factors likely to influence the power of a study
+|Description=Know how to define/recognise
+|Rubric=Definition
+|Contributors=Jérôme Lambert (CIMES),David Hajage (CIMES)
+|Order=24}}
+
+The ''power'' of a study is its ability to reject the null hypothesis when it is false (see [[Statistical tests: principles of hypothesis testing 2C-020-DE-B09]]). This is most often the ability to show a difference if it exists (in a randomised superiority trial), or an association if it exists (in a cohort or case-control study). More rarely, power may be the ability to show an absence of difference (non-inferiority trial or equivalence trial).
+
+The power of a statistical test is influenced by several parameters:
+{| class="wikitable"
+|'''Parameter'''
+|'''Influence on power''''
+|-
+|Size of sample analysed N
+|If N increases, power increases
+|-
+|Difference to be detected d
+|If d increases, power increases
+|-
+|Variability of observations (variance)
+|If variance increases, power decreases
+|-
+|Alpha risk
+|If alpha increases, power increases
+|-
+|One-tailed or two-tailed test
+|If the test is one-tailed, the power increases.
+|}
+In practice, the only parameters that can really be controlled in a biomedical study are the alpha risk (which is set), the construction of a one- or two-tailed test, and the sample size (determined by calculating the number of subjects required).

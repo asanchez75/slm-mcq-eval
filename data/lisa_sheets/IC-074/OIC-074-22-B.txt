@@ -1,0 +1,141 @@
+{{knowledge objective
+|Identifiant=OIC-074-22-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Title=Thymoregulators: knowing the indications, non-indications and contra-indications at all stages of life, particularly in patients with Alzheimer's disease.
+|Description=Notably valproic acid and other teratogenic products and women of childbearing age
+|Rubric=Management
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Ordre=22}}
+
+== Indications
+Bipolar disorder, the most common indication :
+
+* Curative treatment of a manic or depressive episode,
+* Treatment to prevent recurrence of mania or depression.
+
+{| class="wikitable"
+|+
+|}
+{| class="wikitable"
+|+
+{| class="wikitable"
+|'''Treatment'''
+|'''Lithium'''
+|'''Carbamazepine''''
+|'''Valpromide'''
+
+Valproate
+|Lamotrigine
+|-
+|'''Absolute contraindications'''
+|
+
+
+Severe renal insufficiency
+
+Sodium depletion, hyponatremia
+
+Salt-free or low-salt diet
+
+Severe coronary artery disease
+
+Combination with salidiuretics
+
+Unstable heart failure,
+
+Breastfeeding
+|Cardiac conduction disorders (atrioventricular block)
+
+History of acute intermittent porphyria
+
+History of bone marrow aplasia
+
+Known hypersensitivity
+
+Pregnancy
+|Known hypersensitivity
+
+Acute hepatitis
+
+Chronic hepatitis
+
+Personal or family history of severe hepatitis
+
+Hepatic porphyria
+
+Association with mefloquine
+
+Association with St John's Wort
+
+Pregnancy
+|Known hypersensitivity
+|-
+|Relative contraindications
+|Moderate renal impairment
+
+HTA
+
+Epilepsy
+
+Hypothyroidism
+
+Pregnancy in the 1st trimester
+|Breastfeeding
+
+Severe liver failure
+
+Angle-closure glaucoma
+
+Prostate adenoma
+
+Women of childbearing age
+
+|Association with lamotrigine
+
+Breastfeeding
+
+Women of childbearing age
+
+|History of allergy to other antiepileptic drugs
+|}
+|'''Class'''
+|Molecules
+|'''Treatment of manic episodes'''
+|'''Treatment of depressive episodes'''
+|'''Treatment to prevent recurrence'''
+|'''Practical aspects'''
+|-
+|'''Lithium salts'''
+|Lithium salts
+|X
+|X
+|X
+|Reference Thymoregulator
+|-
+| rowspan="4" |'''Anticonvulsant thymoregulators''''
+|Valproate
+|X
+|X
+|X
+|1<sup>rst</sup> line
+|-
+|Lamotrigine
+|
+|X
+|X
+|1st line
+|-
+|Valpromide
+|X
+|X
+|X
+|2<sup>of</sup> line
+|-
+|Carbamazepine
+|X
+|
+|X
+|2<sup>of</sup> line
+|}

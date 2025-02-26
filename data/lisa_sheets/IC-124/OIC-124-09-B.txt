@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-124-09-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Know the principles of hormonal treatment of the menopause (THM)
+|Description=None
+|Heading=Management
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=9}}
+
+== '''Menopausal hormone therapy (MHT)''' ==
+- correct the functional symptoms of climacteric symptoms (hot flushes, vaginal dryness, mood and sleep disorders, etc.)
+
+- prevent the long-term tissue consequences of estrogen deficiency (osteoporosis, development of atherosclerosis).
+
+It is based on the administration of ''oestrogens, which must be combined with a progestogen in non-hysterectomised women'', due to the risk of endometrial cancer induced by oestrogen treatments alone.
+
+The human estrogen 17ß-estradiol is the reference estrogen for HRT, which has made it possible to remove most of the metabolic contraindications (smoking, obesity, diabetes, hypercholesterolaemia) to the oestroprogestogenic pill.
+
+It can be administered orally, but preferably parenterally (percutaneously, transdermally), which avoids digestive catabolism and the first-pass hepatic effect, and therefore avoids the increased risk of venous thromboembolism and stroke associated with oral estrogens.
+
+The progestogens to be used because of their better risk profile in terms of venous thrombo-embolic risk and especially breast cancer are natural progesterone and retroprogesterone or dydrogesterone.
+
+== The different treatment regimens ==
+Estrogens can be administered either discontinuously, 21 days or preferably 25 days a month, or continuously. To prevent endometrial hyperplasia, the progestogen sequence should not be less than 12 days per treatment cycle. Depending on whether the progestin is administered sequentially or continuously, a distinction is made between treatment regimens known as "with menstruation" and those known as "without menstruation".
+[File:THM.jpg|thumbnail]]
+<br />

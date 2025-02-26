@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-291-07-A
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=A
+|Title=Knowing the distinction between sporadic cancer, familial cancer and genetic cancer predisposition syndrome
+|Description=General information on familial or individual forms of cancer
+|Section=Definition
+|Contributors=
+|Order=7}}
+The ''vast majority'' of cancers occur '''sporadically'''. They may be linked to exposure to environmental or lifestyle carcinogens. In 10-20% of cases, questioning may reveal a family history. This ''aggregation of cases'' of cancer may reflect inherited genetic factors favouring the development of tumours. 5 to 10% of all cancers occur in the context of ''genetic predisposition syndromes''. These syndromes are linked to ''constitutional (transmissible) molecular alterations'' and are most often ''monogenic''. These predisposition syndromes are associated with the inactivation of tumour suppressor genes involved in DNA repair processes (homologous recombination genes including BRCA1/2, MMR (mismatch repair) genes involved in Lynch syndrome, etc.), leading to increased genomic instability. Identification of a ''constitutional mutation'' in the ''index case'' (the affected patient in whom the genetic investigation is initiated) means that a ''predictive test'' can then be ''offered to asymptomatic relatives'' in order to identify whether they are carriers of the deleterious molecular alteration and offer them appropriate follow-up. In the case of a proven familial form suggestive of a predisposition syndrome, but with no germline alteration found in the index case, only monitoring adapted to the context will be offered to family members.
+
+The diagnosis of a solid adult cancer at an "early age" in relation to the average age for the type of cancer (generally before the age of 40) should prompt a search for a family history as part of a specialist oncogenetic consultation.

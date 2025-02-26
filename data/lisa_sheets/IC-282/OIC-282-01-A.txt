@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-282-01-A
+|Item_parent=Chronic inflammatory bowel disease (IBD) in adults
+|Item_parent_short=Inflammatory bowel disease (IBD) in adults
+|Rank=A
+|Title=Knowing the definition of Crohn's disease and haemorrhagic rectocolitis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+Crohn's disease (CD) and haemorrhagic rectocolitis (UC) are the 2 chronic inflammatory bowel diseases (IBD). These 2 diseases are both very similar (sometimes similar symptoms, ulcerated digestive lesions, similar treatments) and very different in terms of risk factors (particularly smoking), location, anatomopathological abnormalities and complications. In less than 10% of cases, the diagnosis hesitates between these two entities, i.e. indeterminate colitis.
+
+IBD is characterised by chronic lesions of the digestive tract, sometimes associated with extra-intestinal lesions. They evolve through phases of relapse and remission (spontaneous or induced by treatment), with a risk of intestinal destruction.
+
+They predispose to colorectal cancer if the colon is affected.
+
+They tend to affect young people (children, young adults), with a second peak in UC in people aged 60.
+
+
+The main characteristics of the 2 diseases and the ways in which they can be differentiated are shown in table 1.
+<br />
+{| class="wikitable"
+|
+|'''UC'''
+|'''Crohn's disease''''
+|-
+|● Smoking
+|Protective
+|Aggravating
+|-
+|● Chest pain
+|Constant
+|Inconstant
+|-
+|Macroscopic lesions
+|
+|
+|-
+|● Continuous damage
+|Constant
+|Sometimes
+|-
+|● Rectal involvement
+|Constant
+|Constant
+|-
+|● Intervals of healthy mucosa
+|Never
+|Frequent
+|-
+|ileal involvement
+|Never
+|Frequent
+|-
+|Anoperineal involvement
+|Never
+|Common (30%)
+|-
+|Stenosis, fistulas, abscesses
+|Never
+|Common
+|-
+|Microscopic lesions
+|
+|
+|-
+|● Inflammation
+|Superficial, homogeneous
+|Transmural, heterogeneous
+|-
+|Epithelioid granulomas
+|Never
+|30%
+|}

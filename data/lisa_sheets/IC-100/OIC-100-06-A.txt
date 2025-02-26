@@ -1,0 +1,131 @@
+{{knowledge objective
+|Identifiant=OIC-100-06-A
+|Item_parent=Unusual acute and chronic headache in adults and children
+|Item_parent_short=Unusual acute and chronic headache in adults and children
+|Rank=A
+|Title=Discuss the indication for hospitalisation and lumbar puncture in the presence of acute headache, knowing the relevance of this examination.
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=6}}
+- '''In practice:'''
+
+o Any sudden acute [[Headache SD-118|headache]] is investigated as an aneurysmal SAH.
+
+o Any acute progressive headache should be investigated as HTIC.
+
+o Any acute headache [[Hyperthermia/fever SD-044|febrile]] is investigated as meningitis.
+
+o investigations carried out in the emergency department, sometimes after the patient has been transferred to a centre with the necessary imaging capabilities (angioscanner)
+
+
+- '''The patient is hospitalised if'''
+
+o A diagnosis of severe secondary headache is made, and the assessment and aetiological treatment are continued.
+
+o If the diagnosis has not been established and the severe headache persists, to continue investigating the aetiology and adapting the treatment, following specialist advice.
+
+
+- Investigations are normal in 30 to 70% of patients seen in emergency departments for a recent unusual headache. If the patient is relieved, they can go home. This is often the first severe migraine attack.
+
+
+- Indications for a lumbar puncture in the event of an acute headache'': this allows the cerebrospinal fluid (CSF) to be analysed and the intracranial pressure to be measured. LP must be performed ([[Request/reasoned prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]) :
+
+o '''Suspicion of SAH''': If the imaging is normal, an LP must be performed, even if the headache has disappeared. A xanthochromia of the supernatant ([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]]) in spectrophotometry is present in 100% of aneurysmal SAHs when the CSF is taken between 12 hours and 14 days after the onset of the headache.
+
+o '''When infectious meningitis is suspected''': '''PL from the outset WITHOUT prior imaging or blood tests.''' There are few indications for brain imaging prior to LP. A blood test is carried out at the same time (blood culture and systematic blood glucose to interpret the glycorrhaphy).
+
+o '''When there is a suspicion of HTIC''' and '''AFTER''' non-diagnostic brain imaging, an LP must be performed to confirm the diagnosis by measuring pressure in the left lateral decubitus position (HTIC if >25 cm of water), to look for chronic meningitis and to relieve the headache by subtracting CSF. A fundus examination will also be carried out.
+
+o After imaging in all other acute headaches without a definite aetiological diagnosis after imaging ([[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]]).
+
+.
+{| class="wikitable"
+|'''Lumbar puncture is the key emergency test for any suspected case of infectious meningitis (severe headache + fever)''''
+|- It must be carried out within one hour of the patient's admission to the emergency department, without any prior brain imaging or biological work-up.
+
+- Isolated [[Coma and disorder of consciousness SD-028|disorder of consciousness]] is NOT a contraindication to LP.
+
+- Indications for brain imaging prior to LP are rare
+
+- If an LP cannot be performed as quickly as possible, dexamethasone and antibiotics should be started immediately after a pair of blood cultures have been taken.
+|-
+|LP is NOT contraindicated if
+|- [[Coma and disturbed consciousness SD-028|Disturbed consciousness]] isolated
+
+- Taking anti-platelet agents
+|-
+|LP is contraindicated if
+
+è '''LP performed as soon as the contraindication is lifted'''
+|- Extensive cutaneous infection of the puncture site
+
+- Haemodynamic or respiratory instability
+
+- Known haemostasis disorders (coagulopathy including haemophilia, platelets < 50,000/mm3)
+
+- Effective anticoagulant treatment (heparin, VKA or direct oral anticoagulants)
+
+- Spontaneous bleeding suggestive of DIC
+|-
+|If meningitis is suspected, the indications for imaging before LP are limited.
+
+è '''LP performed after imaging if possible'''
+|
+
+
+- Signs suggestive of an expansive process: signs of localisation and/or recent focal epileptic seizures
+
+- '''Signs of cerebral involvement''': [[Coma and disorders of consciousness SD-028|troubles de la vigilanc]]<nowiki/>e AND pupillary abnormalities, dysautonomia, posterior tonic seizures, areactivity, decerebration or decortication reaction
+
+- '''[[Convulsions SD-120|Crises convulsives]] persistence'''
+<br />
+|}
+
+
+{| class="wikitable"
+|'''LCS'''
+|'''Normal'''
+|'''HSA'''
+|'''Infectious meningitis''''
+|-
+|'''Appearance before centrifugation'''
+|Clear, rock water
+|Hemorrhagic and bloodless
+
+Yellow after a few days
+|Blue or clear
+|-
+|Leukocytes
+|0 to 5/mm<sup>3</sup>
+<br />Sometimes increased
+|Sometimes increased
+<br />Sometimes increased
+|> 10 mm<sup>3</sup>
+<br />
+|-
+|Red blood cells
+|Absence
+|Very high
+|Absence
+|-
+|Proteinorachy
+|< 0.40-0.45 g/L adult
+|Increased
+|Increased or normal
+|-
+|Glycorrhaphy
+|> ⅔ blood glucose
+|Normal
+|Lowered or normal
+|-
+|'''Pigments'''
+|Absent
+|Xantochromia of supernatant
+
+Biliary pigments
+|Absents
+|}
+'''Paediatric specificity''''
+
+Normal CSF opening pressure < 28 cm H2O in children

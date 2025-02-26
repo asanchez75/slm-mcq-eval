@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-21-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Intitle=Knowing that the etiology is multifactorial
+|Description=Send item 60
+|Rubric=Etiologies
+|Contributors=El-Hage Wissam
+|Order=21}}
+
+The aetiology of GAD involves a number of genetic (anxious temperament, sensitivity to stress) and environmental (occupational stress, other stresses) vulnerability factors.
+
+The aetiology of PD is linked to genetic, neurobiological and environmental factors.
+
+The aetiology of phobic disorders is also multifactorial, involving psychological (low self-esteem and perfectionism in SAD), genetic, neurobiological and environmental factors. Environmental risk factors include traumatic life events, social learning by imitating models (e.g. a phobic parent) or the integration of warning messages (e.g. a pathological anxious parent).

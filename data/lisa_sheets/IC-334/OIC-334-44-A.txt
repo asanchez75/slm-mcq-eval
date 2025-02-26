@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-334-44-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and assessment of complications on arrival at hospital for: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the definition of spinal fracture and associated spinal cord injury
+|Description=None
+|Rubric=Definition
+|Contributors=CFCOT
+|Order=44}}
+
+When a spinal or cord injury is clinically suspected (item 2C-334-DP-A07, 2C-334-EP-B07, 2C-334-IU-A05), imaging must be performed (item 2C-334-EC-A06) to visualise the injury and determine its stability and the extent of displacement, and to visualise the damage to nerve structures. Taken together, these data will guide management (item 2C-334-PC-B10).
+
+In the cervical spine, if a spinal injury is responsible for displacement, then instability is proven. In the case of non-displaced fractures, a cervical MRI or dynamic X-rays taken on the 10th day after the trauma will provide information on possible spinal instability. For the thoraco-lumbar spine, precise imaging analysis can identify the stability of a traumatic spinal injury.
+
+
+1. spinal fractures
+
+
+'''a.      Fractures of the upper cervical spine'''
+
+*Fractures of C1 (Atlas): stable fractures unless the transverse ligament is ruptured.
+*C2 (Axis) fractures: bipedicular fractures, fractures of the body of the odontoid and serious C1-C2 entroses are unstable.
+
+
+'''b.     Lower cervical spine
+
+
+Fractures are classified according to the mechanism of injury, either axial compression, flexion/extension + distraction, or rotation. Only anterior corporal compression and benign sprains are stable; all other injuries are unstable.
+
+
+'''c.      Fractures of the thoraco-lumbar spine (Magerl classification)''''
+
+
+Fractures are also classified according to the mechanism of injury, either axial compression (Magerl A), flexion or extension + distraction (Magerl B), or rotation (Magerl C). Only vertebral compression and compression separation fractures are stable; all other lesions are unstable.
+[[File:Fracture vertébrale en compression.jpg|gauche|vignette|Fracture en compression]]
+[[File:Fracture vertebrale en extension distraction antérieure.jpg|centre|vignette|Fracture en extension + distraction antérieure]]
+[[File:Spinal fracture in flexion + posterior distraction.png|left|vignette|Fracture in flexion + posterior distraction]]
+[[File:Rotational vertebral fracture.png|center|vignette|Rotational fracture]]
+
+
+'''2.      Spinal cord injuries
+
+
+From a clinical point of view, not all spinal injuries present a spinal cord lesion, but this should be sought as a matter of principle and recorded. The neurological examination (items 2C-334-DP-A07, 2C-334-IU-A05), the examination of the perineum and the cardiovascular and respiratory examinations (item 2C-334-EP-B07) should make it possible to determine the extent of the neurological lesion and its location. Imaging will enable the lesion to be visualised and determine whether decompression surgery should be considered.
+
+'''a.       Complete spinal cord injury
+
+
+In cases of complete neurological damage, spinal shock is always associated with the initial phase.
+
+*Complete tetraplegia:
+**Loss of all voluntary motor skills and muscle tone in all 4 limbs.
+**Complete sensory impairment affecting all modes.
+**Abolition of all reflexes, both osteotendinous and bulbo-cavernous.
+**No sign of pyramidal irritation initially, flaccid involvement (spinal shock).
+**Triapism = poor prognosis.
+**Involvement above C2 is usually fatal, otherwise involvement of cranial pairs IX, X, XI is possible, linked to bone involvement by compression at the level of the emergence of the nerves from the base of the skull in the posterior torn hole.
+**Involvement of the C4 roots (emergence of the phrenic nerves) leads to diaphragmatic paralysis and complete ventilatory dependence, requiring controlled ventilation.
+
+*Complete paraplegia (lesions located below C7).
+**Loss of all voluntary motor skills and muscle tone in the 2 lower limbs.
+**Complete sensory impairment with involvement of all modes.
+**The higher the level of involvement, the greater the respiratory impairment.
+**T1 paraplegia retains the diaphragm and part of the scalene and pectoral muscles.
+**T7 to T12 lesion: involvement of the abdominal muscles.
+
+
+'''b.      Incomplete neurological lesions''''
+
+In cases of incomplete tetraplegia or paraplegia, various syndromes have been described depending on the anatomical location of the spinal cord or radicular lesion.
+
+*Brown-Séquard syndrome (hemi-moel): unilateral lesion of the medullary axis.
+**Homolateral motor deficit and posterior cord syndrome.
+**Contralateral thermo-algesic deficit.
+*Anterior cord contusion syndrome'': compression of the anterior bundles of the spinal cord, usually as a result of hernia expulsion or posterior wall recoil with comminution of the vertebral body (burst fracture).
+**Complete motor impairment.
+**Tactile sensitivity more or less completely preserved.
+*Central spinal cord contusion syndrome'': more commonly seen in elderly subjects following trauma to cervical osteoarthritis. Incomplete tetraplegia with variable involvement of the lower and upper limbs.
+*Posterior cord contusion syndrome (posterior cordo<s>n</s>nal): predominantly sensory involvement.
+**Superficial hyperaesthesia.
+**Epicritic fine touch anaesthesia.
+**Sometimes a simple loss of deep sensitivity.
+*Monoplegia: Real monoplegia may exist. In an emergency, the differential diagnosis with a plexus-type disorder may be difficult.
+*Medullary cone syndrome'': similar to cauda equina syndrome, but distinguished by the presence of pyramidal signs.
+**Sensory disorders: anaesthesia of the urethral and rectal mucosa, cutaneous anaesthesia of the perineal and rectal regions.
+**Motor disorders:
+**Flaccid paralysis of the psoas and adductors (due to L1 involvement, lesion syndrome).
+**Spastic paralysis under L1 with pyramidal signs (Babinski sign and vivid ROT).
+**Genito-sphincter disorders due to destruction of reflex centres (no recovery of subsequent automatism): hypotonia of the anal sphincter, dysuria, absence of erection and ejaculation.
+*Cauda equina syndrome" = radicular damage which, depending on the level of injury, affects all or part of the roots from L2 to S5. The roots are less sensitive to trauma than the spinal cord (and particularly the terminal cone), so the chances of recovery are greater (but the prognosis remains poor).
+**Sensory disorders: pain, paresthesia, anaesthesia of the lower limbs, in the saddle in the case of sacral involvement only.
+**Motor disorders: pluriradicular topography with flaccid paralysis and abolition of reflexes (peripheral motor involvement).
+**Genito-sphincter disorders: dysuria and urinary incontinence, anal incontinence, erectile dysfunction and loss of ejaculation, loss of perineal reflexes.
+
+<br />

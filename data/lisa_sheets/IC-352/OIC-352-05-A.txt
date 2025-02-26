@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-352-05-A
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=A
+|Title=Knowing psychiatric and non-psychiatric differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=5}}
+
+These are essentially non-psychiatric pathologies and intoxication by psychoactive substances, which must be ruled out before a diagnosis of PA can be made.
+
+- Non-psychiatric conditions : cardiovascular (acute coronary episode, [[Adult heart failure|heart failure]], aortic dissection, [[Hypertension SD-042|hypertension]], rhythm disorders), respiratory (asthma, pulmonary embolism, pneumopathy), neurological (epilepsy, migraine, ischaemic stroke), endocrine (hypoglycaemia, pheochromocytoma, hyperthyroidism, Cushing's syndrome, hypoparathyroidism). 
+
+- Intoxication and withdrawal from psychoactive substances can trigger PA (alcohol addiction, cannabis, cocaine, ecstasy, benzodiazepines, corticosteroids, thyroid hormones).

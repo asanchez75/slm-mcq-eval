@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-359-02-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Know the diagnostic criteria, variations with age
+|Description=None
+|Rubric=Definition
+|Contributors=Guillaume Carteaux,Guillaume Mortamet
+|Order=2}}
+
+- Acute respiratory distress (inspection diagnosis):
+
+o Dyspnoea
+
+o Tachypnoea (N.B: normal respiratory rate varies according to age*. Apnoeas can be a sign of respiratory distress in young infants)
+
+o Signs of struggle: pulling, thoraco-abdominal rocking (+ xiphoid funneling, expiratory whining and nasal flapping in infants)
+
+o Signs of hypoxaemia (cyanosis, SpO<sub>2</sub>) and/or hypercapnia (sweating, asterixis, hypertension, hypovigilance).
+
+- Acute respiratory failure: hypoxaemia and/or hypercapnia (excluding metabolic alkalosis)

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-177-06-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the second generation cephalosporins.
+|Description=Cefuroxime
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=6}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Cephalosporins of 2nd<sup>th</sup> generation (molecules: cefuroxime, cefoxitin)''''
+|Antibioprophylaxis in surgery
+
+Mild ENT infections (if allergic to amoxicillin).
+|Hypersensitivity to cephalosporins or to one of the excipients, history of severe immediate hypersensitivity to another beta-lactam.
+|Gram-positive bacteria (streptococci, SAMS), group 0 and 1 Enterobacteriaceae
+|Allergic reactions
+
+
+Interactions: probenecid, oral contraceptives
+|}
+SASM, methicillin-sensitive Staphylococcus aureus

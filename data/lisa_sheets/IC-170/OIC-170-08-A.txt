@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-170-08-A
+|Item_parent=Malaria
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Know how to treat a simple malaria attack
+|Description=Know 1st line treatments
+|Rubric=Management
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=8}}
+
+====Anti-malarial drugs available====
+{| class="wikitable"
+|'''Anti-malarial drugs'''
+|'''Administration'''
+|-
+|Artemether - lumefantrine
+|PO
+|-
+|Dihydroartemisinin - piperaquine
+|PO
+|-
+|Atovaquone - proguanil
+|PO
+|-
+|Quinine
+|PO or IV
+|-
+|Mefloquine
+|PO
+|}
+
+====[[Management of a malaria attack SD-262|Treatment of a simple attack of ''P. falciparum'']]====
+
+======<sup>st</sup> intention: Artemisinin-based combination therapy (ACT) ======
+
+*Artemether - lumefantrine
+*Dihydroartemisinin - piperaquine
+
+======2<sup>th</sup> intention: Atovaquone - proguanil or mefloquine in children======
+
+======3<sup>th</sup> intention: Quinine======
+
+====[[Management of a malaria attack SD-262|Treatment of a simple non-"falciparum" attack]]====
+
+======1<sup>ère</sup> intention======
+
+*Artemisinin-based combination - 3 days
+*OR Chloroquine - 3 days
+
+======Prevention of relapses (following an outbreak of P. vivax or P. ovale)======
+
+*Primaquine - 14 days
+*The absence of G6PD deficiency must be checked beforehand.

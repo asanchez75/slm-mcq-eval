@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-178-02-A
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=A
+|Intitle=Knowing the definition of an emerging infection
+|Description=None
+|Rubric=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=2}}
+
+[Public health actor|Exceptional health situation SD-346]<br /><u>''Infectious or suspected infectious disease that is both new and increasing in humans, animals or both''.</u>
+
+*Newly emerged infectious entity (SARS-CoV, MERS-CoV, SARS-CoV-2),
+*or a known infectious disease with a rapidly increasing incidence (Zika Virus, Ebola),
+*or an identified disease for which the conditions for expansion have been met (Chikungunya in areas where Aedes albopictus is present).
+
+-
+
+'''<u>Factors favouring the emergence or re-emergence of infectious pathologies:</u>''''
+
+'''Factors linked to the infectious agent:''' ''(Examples)'''
+
+*''High mutation rate of RNA viruses (influenza, coronavirus, HIV ...)'''
+*''Recombination of non-segmented RNA virus genomes (coronavirus, enterovirus, hepatitis C virus ...)''
+*''Reassortment of segmented RNA virus genomes (influenza viruses, rotaviruses, bunyaviruses)''
+*''Selection of multi-resistant bacteria (enterobacteria, enterococci)''
+
+'''Host factors:''' ''(Examples)'''
+
+*Immunodepression
+*Aging
+*Inappropriate immune response (e.g. haemorrhagic dengue)
+*''Genetic background''
+
+'''Environment-related factors:''' ''(Examples)'''
+
+*In relation to climate (global warming, abundant rainfall, drought, etc.).
+*In relation to human activity (population migration, movement of domestic animals, changes in hydrology, air transport, bioterrorism, nosocomial risk, etc.)''.
+
+The unusual presentation of an infection or the sudden appearance of clustered cases of severe infection may suggest the presence of an emerging pathogen. Fever on return from an epidemic zone for an emerging infection should prompt the diagnosis and the implementation of additional hygiene precautions. To keep up to date with the latest news, visit https://promedmail.org/

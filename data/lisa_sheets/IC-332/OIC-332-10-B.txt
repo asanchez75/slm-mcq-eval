@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-332-10-B
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=B
+|Title=Know the principles of management of septic shock
+|Description=Cf item created
+|Rubric=Management
+|Contributors=Pierre Asfar
+|Order=10}}
+
+<gallery widths="300" heights="300">
+File:Septic shock algorithm.pdf
+</gallery>

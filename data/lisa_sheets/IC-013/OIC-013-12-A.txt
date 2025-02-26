@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-013-12-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Title=Knowing the definition of death
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=12}}
+'''<u>Death:</u>'''
+
+Complete and definitive cessation of an organism's vital functions, followed by the progressive destruction of its tissues and organs. The diagnosis of death is based on the simultaneous observation of [[Knowing how to diagnose death 2C-013-DP-A01|negative signs of life and positive signs of death]].

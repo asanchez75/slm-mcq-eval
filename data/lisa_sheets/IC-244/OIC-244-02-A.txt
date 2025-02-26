@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-244-02-A
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=A
+|Title=Identify clinical signs pointing to anteropituitary hypersecretion
+|Description=signs of hyperprolactinemia, dysmorphic sd related to GH excess, cushing's sd or a revealing hypersecretory comorbidity such as sleep apnea, hypertension, etc.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Signs of hyperprolactinaemia'''
+
+*In women: menstrual cycle disorders (oligomenorrhoea, secondary amenorrhoea), spontaneous or induced galactorrhoea.
+*In men: erectile dysfunction. Gynecomastia may complete the clinical picture.
+*In both sexes: decreased libido, infertility ([[Infertility of the couple: conduct of the first consultation|Infertility of the couple: conduct of the first consultation]].
+*''The combination of amenorrhoea and galactorrhoea'' in women of childbearing age should systematically lead to the diagnosis of hyperprolactinaemia.'''''''
+
+'''Clinical signs of excess secretion of growth hormone (GH): acromegaly''''
+
+Clinical picture of progressive onset (previous comparative images) with :
+
+*Enlargement of the extremities (hands, feet): ring sign, change in shoe size.
+*Facial dysmorphia: enlarged, thickened nose, prominent forehead bumps, marked nasolabial folds, prognathism, macroglossia, loss of dental articulation (see EDMM college illustrations).
+*Skeletal damage (less frequent): dorsal kyphosis, anterior projection of the sternum.
+*Functional and general signs include to varying degrees: sweating (nocturnal), paresthesias of the hands (carpal tunnel syndrome), arthralgia, high blood pressure, unrefreshing sleep with asthenia and daytime tiredness.
+*Associated comorbidities which should raise suspicion of acromegaly: sleep apnoea, arterial hypertension, diabetes mellitus, goitre.
+
+'''Clinical signs of ACTH hypersecretion by corticotropic adenoma (Cushing's disease), responsible for an excess of cortisol: Cushing's syndrome'''
+
+Acquired morphological abnormalities (previous comparative images) secondary to the catabolic and anti-anabolic properties of glucocorticoids (see EDMM college illustrations):
+
+*Myotrophy of the pelvic and scapular girdles, easy bruising, large purple stretch marks, telangiectasia/reddening of the face, faciotruncal obesity (due to changes in fat distribution) with "buffalo hump" and filling of the supra-clavicular hollows.
+*Associated signs: mood disorders (depression, irritability, even acute psychosis), anxiety, reduced libido/impotence in men, spanio- or amenorrhoea in women. In cases of associated hyperandrogenism: moderate hirsutism, facial seborrhoea.
+*Associated comorbidities that should raise suspicion of Cushing's syndrome: diabetes mellitus and/or arterial hypertension that is difficult to control and requires multiple medications, osteoporosis.
+
+
+'''Clinical signs of excess secretion of pituitary thyroid-stimulating hormone (TSH): rare'''
+
+Thyrotoxicosis syndrome ([[Hyperthyroidism|hyperthyroidism]]) with homogeneous goitre and pituitary tumour syndrome.
+
+'''Clinical signs of excess secretion of pituitary gonadotropins (LH/FSH):''''
+
+Exceptionally, ovarian hyperstimulation in women with pelvic pain that may reveal ovarian macrocysts, macro-orchidism in men. Gonadotropic adenomas represent the majority of pituitary adenomas but present as clinically non-functional adenomas (non-pulsatile secretion of inactive subunits).

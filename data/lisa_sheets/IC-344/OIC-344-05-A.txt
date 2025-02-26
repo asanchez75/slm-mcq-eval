@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-344-05-A
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=A
+|Title=Knowing the elements of the clinical assessment of pre-eclampsia
+|Description=None
+|Rubric=Diagnosis
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=5}}
+
+- Questioning to look for signs of severity: headaches, tinnitus, phosphenes, myodesopsia, consciousness disorders, etc.
+
+- Measurement of blood pressure, heart rate and respiratory rate in the event of dyspnoea
+
+- Osteotendinous reflexes in search of pyramidal irritation
+
+- Foetal vitality: active foetal movements, foetal heart sounds
+
+- Measurement of uterine height
+
+- Uterine contractions

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-221-04-B
+|Item_parent=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=B
+|Title=Know the major trends in mortality and morbidity of ischaemic heart disease, stroke, obliterative arteriopathy of the lower limbs (AOMI), abdominal aortic aneurysm (causes of mortality, influence of age and sex, changes over time, north-south gradient).
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=4}}
+Atherosclerosis
+
+- is more common in men, but is underestimated in women,
+
+- begins around the age of 50 in men and around 10 years later in women, with its frequency increasing with age,
+
+- progressively worsens over time if left untreated,
+
+- is responsible for 500 cases/100,000 inhabitants in Finland, compared with 125 cases/100,000 inhabitants in South-Eastern Europe, reflecting a North-South gradient.

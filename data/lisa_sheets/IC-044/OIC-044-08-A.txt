@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-044-08-A
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Knowing how to differentiate between functional and organic cysts
+|Description=None
+|Rubric=Etiologies
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=8}}
+
+Functional cysts of the ovary are the most common pelvic swelling in women during genital activity. They are follicular cysts or luteinic cysts (of the corpus luteum), liquid and unilocular on imaging, which usually regress spontaneously.
+
+
+Organic cysts are usually benign. Unlike functional cysts, they do not regress spontaneously and may include a tissue component.
+
+
+Pelvic ultrasound is the first-line imaging test.
+
+The organic nature of the cyst is suggested by the presence of one of the following signs:
+
+- One or more intracystic vegetations
+
+- Cyst diameter greater than or equal to 6 cm regardless of ultrasound appearance
+
+- Solid component
+
+- Multilocular nature
+
+- Thick wall
+
+An organic cyst with one or more of the following signs on ultrasound should be considered suspicious of malignancy:
+
+- Ascites
+
+- Importance of the solid component
+
+- Existence of vegetation
+
+- Central vascularisation and a low resistance index

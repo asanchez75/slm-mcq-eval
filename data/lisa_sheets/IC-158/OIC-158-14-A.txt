@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-158-14-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Know the basics of managing septic shock in adults and children (see item 332)
+|Description=Fill, O2 if necessary, antibiotics quickly, call resuscitator.
+|Section=Management
+|Contributors=
+|Order=14}}
+Management of septic shock must be initiated without delay and then referred to a resuscitator.
+
+The main lines of immediate treatment are as follows:
+
+1- '''Preparing the patient:'''
+
+* Perfusion with one or two good calibre venous lines '''([[Prescription and monitoring of a vascular approach SD-271|prescription and monitoring of a vascular approach]])''''
+* Placement of a urinary catheter in the event of haemodynamic or renal failure.
+* Close monitoring of vital parameters (arterial pressure, heart rate, respiratory rate, SpO<sub>2</sub>) using a monitor.
+
+
+2- '''Introduce antibiotic therapy quickly:''' any delay in initiating antibiotic therapy active against the causative germ leads to an increase in mortality ''([[Prescribe an anti-infective SD-255|prescribe an anti-infective]])'''.
+
+
+3- '''Initiate the treatment of failures'' :
+
+* Haemodynamic failure: start volume expansion by intravenous infusion of crystalloid solution (physiological saline).
+* Respiratory failure: in the event of hypoxaemia, supply oxygen at an appropriate rate, to achieve an SpO<sub>2</sub> ≥92%.
+* Management of other failures requires the intervention of a resuscitator.
+
+
+The management of serious infections in children follows the same principles. The particularities are as follows:
+
+* Monitoring of diuresis using a collector
+* As it may be difficult to insert a venous line, intraosseous infusion is more frequently used.

@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-359-20-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Know the different means of managing a patient in acute respiratory failure.
+|Description=Know the main principles of symptomatic treatment: high flow oxygen, CPAP, NIV, invasive ventilation, etc.
+|Rubric=Management
+|Contributors=Guillaume Carteaux
+|Order=20}}
+
+{| class="wikitable"
+|
+|Flow rate (L/min)
+|FiO<sub>2</sub> (%)
+|Indication
+|-
+|Nasal cannula
+|1-6
+|24-40
+|Hypoxemia and stable condition
+|-
+|Simple mask
+|4-8
+|40-60
+|Moderate hypoxemia and stable condition
+|-
+|High concentration mask
+|8-15
+|40-90
+|Acute hypoxaemic respiratory failure (1st line)
+
+Severe hypoxemia
+|-
+|High-flow nasal oxygen therapy
+|10-70
+
+(1 to 2 L/kg/min in children)
+|21-100 (adjustable)
+|Severe hypoxaemia, pre-oxygenation
+
+Children: bronchiolitis, pneumopathy
+|-
+|Non-invasive ventilation
+|variable
+|21-100 (adjustable)
+|COPD decompensation
+
+OAP
+
+Children: bronchiolitis
+
+Pre-oxygenation
+|-
+|Invasive ventilation
+|Variable
+|21-100 (adjustable)
+|Persistent acute respiratory distress or respiratory exhaustion, cardiopulmonary arrest, shock, coma,
+|}
+
+
+Monitoring :
+
+- SpO<sub>2</sub> and continuous heart rate
+
+- Blood pressure, respiratory rate

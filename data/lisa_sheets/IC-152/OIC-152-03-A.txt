@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-152-03-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing situations at risk of IE (group A cardiopathy, presence of intra-cardiac material, gram-positive cocci bacteremia)
+|Description=None
+|Topic=Epidemiology
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=3}}
+The appearance of lesions in the valve endothelium favours colonisation and infection of the valve leaflet during [[Sepsis/Bacteremia/Fungemia in adults and children|bacteremia]] or [[Sepsis/Bacteremia/Fungemia in adults and children|fungemia]]. Local bacterial proliferation may lead to the formation of vegetations, abscesses or destruction of the valve. The presence of foreign material (monitoring of valve wearers and vascular prostheses|valvular prostheses, pacemaker leads) also encourages microbial grafting.
+
+There are two factors that favour the occurrence of an AE:
+
+1) '''The presence of a constitutive or acquired lesion of the endocardium.''' There are heart diseases considered to be at high risk (''group A heart diseases,'' table 1) and others at intermediate risk ([[Connaitre les cardiopathies à risque d'EI du groupe B 2C-152-EP-B01|cardiopathies du groupe B]]).
+{| class="wikitable"
+|+'''Table 1:''''High-risk heart disease (group A)
+|'''[[Know that any patient with a valve prosthesis is at risk of infection (infective endocarditis, graft) 2C-153-IU-A01|Valve prosthesis]]''' (mechanical, biological or homograft)
+|-
+|'''History of infective endocarditis'''
+|-
+|Congenital heart disease:''''
+- Any cyanogenic congenital heart disease
+
+- Congenital heart disease repaired with prosthetic material for 6 months after the procedure, or for life if there is a residual shunt.
+|}
+However, in 40% of cases, AR occurs in subjects with apparently healthy hearts. AR is also sometimes indicative of an unrecognised valve anomaly.
+
+
+2) '''The blood circulation of a [[Know the main infectious agents causing infective endocarditis (bacteria, yeasts) 2C-152-ET-A01|infectious agent]]''' from a ''[[Know the portals of entry according to the infectious agent 2C-152-EP-A01|infectious portal of entry]]''''
+
+Example : ''[[Positive blood culture SD-190|Bacteremia]]'' Gram-positive cocci (''Streptococcus, Staphylococcus'') favoured by the presence of an '''infectious entry point'' (respectively a dental infection, a skin lesion).

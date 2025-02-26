@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-231-06-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying left ventricular hypertrophies
+|Description=recognise the two main forms
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=6}}
+
+
+* Most reliable sign = ''Sokolow index SV1 or V2 + RV5 or V6 > 35 mm'',
+* If there is significant LVH, there are negative T waves laterally (DI, aVL, V5, V6) and sometimes a left axial deviation,
+* Not applicable in cases of anterior necrosis,
+* Systolic and diastolic LVH: historically, a distinction was made between systolic LVH (hypertension, aortic stenosis) with negative T waves and diastolic LVH with positive T waves (e.g. aortic insufficiency).
+
+[[File:LVH.png|thumbnail|703x703px|left ventricular hypertrophy]]
+<br />

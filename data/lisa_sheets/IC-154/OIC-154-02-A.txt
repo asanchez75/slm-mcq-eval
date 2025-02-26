@@ -1,0 +1,118 @@
+{{knowledge objective
+|Identifiant=OIC-154-02-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Know the main infectious agents responsible for lower respiratory infections and their relative frequency, in adults and children: pneumonia, bronchiolitis and bronchitis.
+|Description=Pneumococcal/Flu. RSV in bronchiolitis
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+'''Main infectious agents responsible for acute community-acquired pneumonia (CAP):'''
+
+CAPs account for around 500,000 cases per year (excluding influenza and COVID-19).
+
+
+'''''- Streptoccocus pneumoniae''''' (pneumococcus):
+
+- Pathogen most frequently found in hospitalised CAP
+
+- Typically responsible for acute frank lobar pneumonia (AFLP)
+
+- No human-to-human contamination
+
+- Pneumonia with a potentially rapid and severe course: it should always be considered in the probabilistic treatment of severe CAP.
+
+
+
+'''''2-''''' '''''Mycoplasma pneumoniae''''' '''and "atypical germs" (intracellular)''' '':'''
+
+- 2<sup>th </sup> in terms of frequency
+
+- Causes CAP, preferentially affecting young adults; epidemics
+
+- Slightly marked respiratory picture, associated with extra-thoracic signs: ENT signs, flu-like syndrome, skin rash, etc.
+
+- Radiological appearance: multi-focal opacities
+
+
+'''''3- Legionella spp''''' (legionellosis)
+
+- 3<sup>th</sup> in terms of frequency (does not concern children)
+
+- Occurs after high-risk exposure (contaminated water or aerosols), usually in vulnerable individuals. There is no human-to-human contamination, but cluster cases are possible (exposure to the same source).
+
+- Typically rapidly progressive with marked respiratory and infectious signs. Pulse/temperature frequently dissociated; extra-thoracic signs present (no ENT signs, but digestive and neurological signs).
+
+- Causes potentially severe CAP: must be systematically taken into account in the probabilistic treatment of severe CAP. Notifiable disease
+
+- Radiological appearance: systematised condensation(s) or confluent multi-focal opacities
+
+- Notifiable disease
+
+
+4- Respiratory viruses
+
+- Represent nearly a quarter of the agents responsible for CAP (before the COVID-19 pandemic in adults), frequently implicated in children (RSV, influenza, metapneumovirus, adenovirus, rhinovirus).
+
+- Combine respiratory signs and flu-like symptoms
+
+- Variable severity depending on the terrain and virus responsible
+
+
+A special case of "SARS-CoV-2 viral pneumonia" (COVID-19), which has been evolving in a pandemic mode since the beginning of 2020:
+
+- Initial flu-like symptoms ;
+
+- Frequent extra-respiratory symptoms including ENT (anosmia, dysgeusia), digestive, cutaneous (pseudo-engelure) and ocular signs;
+
+- The course of the disease varies widely, from the absence of symptoms to ARDS;
+
+- Radiological appearance: non-systematised areas of ground glass, predominantly subpleural, progressing to condensation.
+
+- Effective vaccination, rolled out worldwide from early 2021.
+
+
+A special case of 'flu:
+
+- Due to "Myxovirus influenzae", mainly types A and B
+
+- Evolves through seasonal epidemics, affecting 2 to 8 million people each year in France and causing 10 to 15,000 deaths per year.
+
+- Initial symptoms: sudden flu-like illness, and respiratory signs: dry cough
+
+- Severe form possible, especially in fragile subjects: the elderly and infants, diabetics, immunocompromised subjects, subjects with chronic cardiovascular or respiratory co-morbidities, etc.
+
+- Radiological appearance: non-systematised bilateral reticular or reticulo-nodular opacities, sometimes confluent in the hilar region
+
+- Possible bacterial superinfections: pneumococcus; Staphyloccocus aureus; Haemophilus influenzae
+
+
+Special case of infant pleuropulmonary staphylococcal disease:
+
+- due to Staphylococcus aureus
+
+- respiratory or haematogenous route of entry
+
+- rare, but often severe
+
+- Necrotizing form with appearance of bullae on chest X-ray
+
+
+'''Main infectious agents responsible for bronchiolitis:''''
+
+Bronchiolitis mainly affects young children (< 2 years), and is mainly caused by the respiratory syncitial virus (RSV), which is responsible for 50 to 80% of cases during epidemics:
+
+*Initial picture: ENT signs
+*Frequent progression to bronchiolitis (in 2-3 days), with signs of respiratory struggle and auscultatory abnormalities (wheezing, crackles).
+*Severe forms may occur, especially in :
+**young infants (< 2 months);
+**immunodepression
+**prematurity
+**cardiac or pulmonary co-morbidity
+
+Other viruses involved include influenza viruses (A and B), adenoviruses, human metapneumoviruses, rhinoviruses, etc.
+
+'''Main infectious agents responsible for bronchitis:'''
+
+Bronchitis is very common (around 10 million cases per year in France). They are viral in origin in 90% of cases (rhinovirus, influenza, para-influenza, adenovirus, respiratory syncytial virus, human metapneumovirus, etc).

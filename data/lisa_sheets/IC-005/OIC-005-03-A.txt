@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-005-03-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Knowing the definition of civil liability
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=3}}
+
+Self-employed professionals and private healthcare establishments may be held civilly liable before the courts: tribunal de grande instance, cour d'appel, cour de cassation.
+
+Doctors employed by private establishments, services or organisations are not personally liable for damage caused to a patient, provided that they do not exceed the scope of the mission entrusted to them by their employer. This is the application of the system of liability of the principal (the employer) in respect of his proposed (the doctor), which is not incompatible with the principle of the doctor's professional independence in the practice of his art.
+
+Hospital practitioners incur professional civil liability for damage caused in the course of their private practice within a public health institution.

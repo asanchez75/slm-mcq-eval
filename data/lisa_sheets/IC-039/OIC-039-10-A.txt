@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-039-10-A
+|Item_parent=Medical assistance for procreation: the main biological, medical and ethical aspects
+|Item_parent_short=Medical assistance in procreation: the main biological, medical and ethical aspects
+|Rank=A
+|Title=Knowing the main indications for female and male fertility preservation (child, adolescent, adult)
+|Description=None
+|Rubric=Etiologies
+|Contributors=Patricia Fauque,Fabrice Guerif,Charlotte Sonigo,Geoffroy Robin,Pierre-Emmanuel Bouet,Stéphanie Huberlant,Nathalie Rives
+|Order=10}}
+
+The main medical indications for female fertility preservation are
+
+*Gonadotoxic treatments (chemotherapy, radiotherapy and surgery), used in the ''treatment'' of ''cancer'' and which can alter the stock of primordial follicles:
+**Haematological diseases (leukaemia, Hodgkin's lymphoma, non-Hodgkin's lymphoma)
+**Breast cancer
+**Other cancers
+*Gonadotoxic treatments (chemotherapy, radiotherapy and surgery), used in the "treatment of non-cancerous pathologies" and which may alter the stock of primordial follicles:
+**Non-malignant haematological diseases requiring chemotherapy or bone marrow transplantation.
+**Systemic diseases requiring chemotherapy
+**Ovarian diseases: bilateral benign ovarian tumours, severe or recurrent ovarian endometriosis, diseases at risk of ovarian torsion, etc.
+*Conditions at risk of premature ovarian failure: high-risk genetic anomalies (e.g. Turner syndrome, FMR1 gene pre-mutation).
+
+
+The main medical indications for male fertility preservation are
+
+*in pubescent adolescents and adult men
+**chemotherapy or any drug treatment which may destroy spermatogonial stem cells (SSCs) or alter the sperm genome.
+**radiotherapy, which can have the same toxic effect on germ stem cells and sperm as chemotherapy if the irradiation field is close to or directly on the testicles
+**testicular surgery (e.g. testicular cancer, benign testicular tumour, testicular torsion)
+**surgery to the spermatic excretory tract, including vasectomy
+**any surgery that may result in irreversible dysfunction of erection and ejaculation (anejaculation or retrograde ejaculation) (e.g. radical prostatectomy, bladder neck surgery)
+**congenital anomalies of the testicle, most often genetic in origin, responsible for sperm damage which may worsen over time and lead to non-obstructive azoospermia (severe oligozoospermia, Klinefelter's syndrome, AZF microdeletion of the Y chromosome, etc.).
+
+*In prepubertal boys, most testicular tissue is preserved prior to allogeneic haematopoietic stem cell (HSC) transplants in the cancer field for acute leukaemia, or outside the cancer field for non-malignant haematological diseases (sickle cell anaemia, medullary aplasia, etc.), or even prior to HSC autografts for lymphomas or central nervous system tumours.

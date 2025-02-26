@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-358-03-A
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=A
+|Intitulé=Savoir faire le diagnostic de pancréatite aiguë : sémiologie de la douleur pancréatique et biologie (lipase)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The positive diagnosis of AP is based on the association of:
+'''Evocative abdominal pain + Lipasemia greater than 3 times normal (3N)'''
+
+
+*'''''[[Evocative abdominal pain SDD-004|Evocative abdominal pain]]''''':
+Pancreatic pain is present in over 90% of cases and is usually typical with :
+
+- location: mainly epigastric, rarely extending to the hypochondria
+
+- rapid onset, increasing within a few hours
+
+- very intense
+
+- with dorsal radiation, transfixing
+
+- with inhibition of inspiration
+
+- pain-relieving "gun dog" position
+
+
+Abdominal pain may be accompanied by other clinical manifestations:
+
+- vomiting due to reflex ileus
+
+- frequent aural meteorism on clinical examination
+
+- general signs: fever, tachycardia, hypotension
+
+
+*'''[[Elevation of lipasemia greater than 3 times normal (3N) SDD-205|Elevation of lipasemia greater than 3 times normal (3N)]] ''''
+
+- The peak in lipasemia is sometimes brief, peaking 24 to 48 hours after the onset of pain. After 48 hours, blood lipase levels may fall below 3N.
+
+- the level of lipasemia does not correlate with the severity of acute pancreatitis and has no prognostic value.

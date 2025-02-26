@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-247-30-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Know the principles of prevention and treatment of hyperosmolar coma.
+|Description=redundant with question coma ?
+|Rubric=Management
+|Contributors=Claire Briet
+|Order=30}}
+'''<u>TREATMENT</u>'''
+
+* Rehydration 0.9% saline (10% of body weight), slow and careful to avoid centropontic myelinosis and heart failure, then oral rehydration.
+
+* Insulin therapy 0.5 to 1 IU/kg/h but not more than 7 IU/h to achieve blood sugar levels >2.5 g/l
+
+* Potassium supplements as soon as kalemia is < 5 mmol/l :
+
+* Clinical monitoring pulse, BP, temperature, diuresis, consciousness
+
+* Prevention of decubitus complications (caution renal insufficiency: LMWH contraindicated).
+
+'''<u>PREVENTION</u>'''
+
+Resumption of the oral hypoglycaemic agent or simplified insulin therapy in the elderly (basal insulin) to allow nursing care at home with glycaemic control and avoid recurrence.

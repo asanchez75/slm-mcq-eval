@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-220-09-A
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=A
+|Title=Knowing the indication for a cytopsy, biopsy or excision in the presence of adenopathy
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=9}}
+'''Cytopuncture of lymph nodes'''
+
+'''Cytopuncture''''' is a procedure that is '''easy''' to perform, gives a '''rapid''' result (a few hours) and enables a '''microbiological study'' to be carried out. It is also often used to find lymphoma cells or Sternberg cells (Hodgkin's lymphoma) in cases of specific involvement.
+
+It is a useful test for ''rapid orientation''. It may require ultrasound guidance if the lymph node cannot be palpated, or if a lymph node or part of a lymph node needs to be targeted.
+
+However, a normal cytopsy ''does not rule out lymphoma'', and a lymph node biopsy is always necessary to confirm lymphoma and specify its histological type, even if lymphoma cells are found on cytopsy.
+
+lymph node biopsy
+
+Lymph node biopsy ''requires prior organisation'', and can be carried out under general anaesthetic (if deep) or local anaesthetic, increasingly by radio-guided biopsy (bearing in mind that the material brought back is smaller and may require biopsy-exeresis at a later stage if the diagnosis is uncertain).
+
+It enables a ''histological study'' to be carried out, as well as ''immunohistochemistry'', ''molecular biology'' and a ''karyotype''. This is the only test that allows histological classification of lymphoma (>70 different entities in the WHO classification)''. The tumour tissue removed must be ''frozen''. This procedure ''must be carried out by a specialised team'' to ensure that the material is transported in the conditions required for the various examinations (some of it in a fresh state).
+
+''A lymph node biopsy is essential for any chronic adenopathy (> 3-4 weeks) in adults to rule out tumour pathology''.
+
+It is performed as a second-line treatment in children in the absence of a clear referral:
+
+- If isolated adenopathy: < 1-2 cm: monitoring
+
+                                                                              > 1-2 cm: if inflammatory: trial treatment with antibiotics or lymph node puncture
+
+                                                                                                             if painless: puncture or even biopsy (GA)

@@ -1,0 +1,106 @@
+{{knowledge objective
+|Identifiant=OIC-092-03-A
+|Item_parent=Motor and/or sensory deficit of the limbs
+|Item_parent_short=Motor and/or sensory deficit of the limbs
+|Rank=A
+|Title=Hierarchy of complementary tests for motor and/or sensory deficit of a limb
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=3}}
+
+
+===A- Complementary examinations===
+No additional tests are routinely carried out. Their request and the order in which they are carried out depend on the aetiological hypotheses developed on the basis of the history and clinical examination. ''([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]])'''
+
+====1.  Imaging the central nervous system====
+MRI is the reference examination for central nervous system disorders''([[Request for an imaging examination SD-231|request for an imaging examination]])''. The level of exploration (brain, spinal cord) depends on the topographical hypotheses. The MRI sequences to be performed are determined by the diagnostic hypotheses. In the event of contraindication (pacemaker, claustrophobia, etc.), MRI may be replaced by a CT scan.
+
+MRI can be used to detect :
+
+- In the brain: a vascular lesion (ischaemia or haematoma), tumour, infection or inflammation explaining the deficit. The presence of other lesions may help in the diagnosis (e.g. multiple periventricular hypersignals in multiple sclerosis);
+
+- In the spinal cord: an extra-axial lesion (compression in cervicoarthrosic myelopathy), an intra-axial but extramedullary lesion (meningioma, schwannoma) or an intramedullary lesion (glial tumour, ependymoma, demyelinating plaque, vascular lesion).
+
+====2.   Electroneuromyogram====
+The electroneuromyogram (ENMG) is the reference test for damage to the peripheral nervous system ''([[Rational request/prescription and choice of a diagnostic test SD-178|rational request/prescription and choice of a diagnostic test]])''. It is used to confirm the existence of peripheral nerve damage, an abnormality of the neuromuscular junction or muscle damage.
+
+====a.    Suspicion of peripheral nervous system involvement====
+The ENMG confirms the neuropathic nature of the damage and specifies :
+
+- The extent of the lesions (roots, nerve trunk, multiple mononeuropathy, length-dependent, etc.).
+
+- The mechanism of nerve damage :
+
+- Axonal damage: reduced motor and sensory potentials, preserved conduction velocities
+
+- Demyelinating disease: reduced conduction velocities; distal potentials preserved, but conduction blocks or temporal dispersions.
+
+- The level of nerve damage: (e.g. damage to the carpal tunnel for the median nerve)
+
+====b.    Suspicion of neuromuscular junction damage====
+The ENMG looks for neuromuscular block by repeated stimulation:
+
+- Fall in motor amplitude (decrement) during repetitive stimulation at 3 Hz.
+
+''In the case of presynaptic damage (Lambert-Eaton syndrome, botulism) there is a sharp increase in amplitude (''increment'') when stimulated at high frequency (or after brief effort)''.
+
+====c.    Suspected muscle damage====
+The ENMG looks for myogenic damage:
+
+- In detection, myogenic tracings: ''too rich for effort'', ''low amplitude'', ''brief'' and polyphasic potentials.
+
+- In stimulodetection: low motor amplitudes, but normal sensory amplitudes.
+
+====3.  Lumbar puncture====
+This is performed in cases of proximal involvement, suspected inflammatory or infectious involvement of the PNS (acute polyradiculoneuritis, meningoradiculitis) or inflammatory or infectious involvement of the CNS (multiple sclerosis, in particular). ''([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]])'''
+
+====4.  Biological blood tests====
+Requested on a case-by-case basis. They are very diverse, but depending on the context, they can be decisive for the diagnosis (high muscle enzymes for muscle damage) or the aetiology (diabetes revealed by polyneuropathy; specific antibodies for encephalitis, etc.) ''([[Hyperglycaemia SD-208|hyperglycaemia]])''.
+
+====5.  Biopsies====
+Muscular or neuromuscular, they allow histological confirmation of a peripheral neurogenic or myogenic syndrome and provide key arguments for the aetiological diagnosis.
+
+A neuromuscular biopsy should only be performed if there is evidence of sensory damage on clinical examination and ENMG. Unlike muscle biopsy, it can be a source of complications (sequelae of hypoesthesia on the dorsal surface of the foot after biopsy, healing difficulties, etc.). It is discussed in a neurological environment, on a case-by-case basis, depending on age, the extent of the damage and diagnostic hypotheses (accessibility of treatment).
+
+===B- Examination strategy===
+They are chosen according to the topographical and aetiological hypothesis. ''([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]])'''
+
+====1.     Hemiplegia====
+Brain imaging (MRI) should be carried out in all cases.
+
+====2.     Central tetraplegia and paraplegia====
+A targeted MRI of the spinal cord, possibly supplemented by a lumbar puncture (in the absence of spinal cord compression and depending on the suspected aetiological mechanism). If spinal cord MRI is normal, brain MRI should be ordered to rule out bilateral involvement.
+
+In the case of peripheral paraplegia, an MRI centred on the ponytail is performed.
+
+Spinal cord involvement is usually located higher than the sensory level, especially initially.
+
+====3.    Simultaneous or rapidly progressive involvement of several nerve trunks====
+Emergency ENMG to confirm multiple mononeuropathy; diabetes and vasculitis investigated; neuromuscular biopsy discussed.
+
+====4.    Rapid, symmetrical, ascending sensory/motor involvement of the limbs====
+ENMG and lumbar puncture are performed to look for acute polyradiculoneuritis, although these tests may be normal for the first few days.
+
+====5.    Fluctuating limb fatigue====
+The ENMG looks for a neuromuscular block in favour of myasthenia.
+
+====6.    Other====
+Other frequent situations require less urgent investigations:
+
+=====Progressive and symmetric sensory/motor impairment of the limbs=====
+ENMG to confirm polyneuropathy and biological tests for aetiology
+
+=====Proximal, progressive and symmetrical motor impairment of the limbs=====
+ENMG to look for muscle damage or neuromuscular block, muscle enzyme assay, discussion of muscle biopsy.
+
+===C- Special diagnostic situation: transient motor and/or sensory disorders===
+Transient motor or sensory disorders (not observed by a doctor) pose a problem:
+
+- Transient ischaemic attack (TIA): the therapeutic and prognostic implications are such that any transient motor or sensory deficit of sudden onset, with no other obvious cause, must be investigated as a TIA as a matter of urgency (cerebral MRI, arterial, cardiac and haemostasis work-up).
+
+- Migraine'': the sensory aura classically follows the visual aura and the onset of the disorder is progressive with a characteristic succession of symptoms (migraine march).
+
+- '''Epileptic seizure''' '''partial''': rarer; stereotyped nature of the attacks.
+
+Negative symptoms (deficits) suggest an ischaemic origin, whereas positive symptoms suggest epilepsy or migraine. Sudden onset and maximum onset in the case of TIA; rapidly progressive over a few seconds in the case of epilepsy; over several minutes in the case of migraine.

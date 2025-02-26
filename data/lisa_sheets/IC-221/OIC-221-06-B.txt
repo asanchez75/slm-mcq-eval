@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-221-06-B
+|Item_parent=Atheroma: epidemiology and pathophysiology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=B
+|Title=Knowing the particularities of the physiopathology of atheroma (targets and players)
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=6}}
+ 
+{| class="wikitable"
+|Modifiable risk factors
+|Non-modifiable risk factors
+|-
+|diabetes
+|age
+|-
+|smoking
+|male sex
+|-
+|high blood pressure
+|Family history of cardiovascular disease (sudden death or myocardial infarction in a first-degree male relative before the age of 55 or in a first-degree female relative before the age of 65).
+|-
+|hypercholesterolaemia
+|
+|}

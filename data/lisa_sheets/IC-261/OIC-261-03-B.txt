@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-261-03-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Knowing the frequency and epidemiology of the main glomerular diseases
+|Description=Know that SNLGM is the leading cause of SN in children, that GEM is the leading cause of SN after the age of 50, that N IgA is the leading cause of NG, that diabetes is the leading cause of secondary NG, and that lupus nephropathy occurs in 50% of lupus patients...
+|Rubric=Epidemiology
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=3}}
+
+'''C. Frequency and epidemiology of the main glomerular diseases'''
+
+'''Nephrotic syndrome with minimal glomerular lesions (SNLGM)'''
+
+*Main cause of nephrotic syndrome in children (90% before the age of 8);
+*rarer in adults (10% of adult nephrotic syndromes);
+*predominantly male.
+
+
+Extra-membranous glomerulopathy
+
+*The leading cause of nephrotic syndrome in adults (40% of cases), apart from diabetic nephropathy;
+*predominantly male.
+
+
+IgA nephropathy
+
+*the most common primary glomerulonephritis (with no extrarenal cause).
+*5th cause of chronic end-stage renal disease in France.
+*Predominantly young adults, predominantly men.
+
+
+Diabetic nephropathy
+
+*the most common secondary glomerular nephropathy
+*1<sup>rst</sup> or 2nd leading cause of end-stage renal disease in France.
+
+
+Lupus nephropathy
+
+*Renal involvement is observed in 40% of patients with systemic lupus.

@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-045-15-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Knowing the signs of cystic fibrosis
+|Description=Know the symptoms of cystic fibrosis. Knowing when to make the diagnosis
+|Rubric=Positive diagnosis
+|Contributors=Claude Férec,Elise Launay,Caroline Schluth-Bolard
+|Order=15}}
+
+Cystic fibrosis can appear at different ages. 10-20% of cases appear in newborns, 80% in infants and 10-20% later in children, adolescents and adults. Penetrance is complete, but expressivity and severity are extremely variable. The disease combines pulmonary involvement with external pancreatic insufficiency.
+
+'''Manifestations in the neonatal period'''
+
+Delayed release of meconium or meconium ileus (occlusion).
+
+Manifestations in infants
+
+- Digestive signs
+
+Steatorrhea ([[Diarrhea SD-002|diarrhea]] greasy and foul), associated with [[Abdominal pain SD-004|abdominal pain]] and malnutrition.
+
+Staturo-ponderal retardation ([[Staturo-ponderal growth anomalies SD-026|anomalies of staturo-ponderal growth]]), hypoprotidemia, fat-soluble vitamin deficiency
+
+[Constipation SD-001|Constipation, which may be complicated by rectal prolapse
+
+- Respiratory signs
+
+Chronic [[Cough SD-167|Cough]]
+
+Recurrent respiratory infections: bronchitis, pneumonitis, rhinosinusitis
+
+
+Manifestations in children, adolescents and adults
+
+-Chronic respiratory disease
+
+[[Dyspnea SD-162|Dyspnea]], wheezing, [[Cough SD-167|cough]], [[Expectoration SD-163|expectoration]] mucopurulent
+
+Repeated (chronic) bronchial infections: the germs most often involved are Haemophilus influenzae, Staphylococcus aureus and Pseudomonas aeruginosa.
+
+- Damage to the upper airways
+
+Recurrent sinusitis
+
+Nasal polyps
+
+- Pancreatic and digestive disorders
+
+[[Constipation SD-001|Constipation]]
+
+[[Abdominal pain SD-004|Abdominal pain]]
+
+Exocrine pancreatic insufficiency: steatorrhea, malabsorption, malnutrition, pancreatitis, diabetes
+
+Hepatobiliary disease: jaundice, biliary cirrhosis ([[Hepatomegaly SD-006|hepatomegaly]])
+
+- Damage to the genital tract
+
+In men: atresia of the vas deferens (98%), leading to obstructive azoospermia and infertility ([[Difficulty procreating SD-033|difficulty procreating]]).
+
+In women: inconstant hypofertility (thick cervical mucus).
+
+- Other symptoms
+
+Joint pain secondary to arthritis
+
+Salt loss syndrome: dehydration, metabolic alkalosis

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-200-07-B
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. New-onset arthritis
+|Rank=B
+|Title=Know the main cause of arthralgia without arthropathy
+|Description=Fibromyalgia
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+'''Fibromyalgia''' : diffuse pain in joints and tendon-muscle insertion zones, of progressive onset, disabling, associated with other symptoms (asthenia, sleep disorders, headaches, digestive disorders, anxiety-depressive disorders), with a strictly normal somatic examination and no differential diagnosis explaining the pain.

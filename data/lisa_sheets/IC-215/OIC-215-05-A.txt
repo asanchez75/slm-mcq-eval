@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-215-05-A
+|Item_parent=Purpuras in adults and children
+|Item_parent_short=Purpuras in adults and children
+|Rank=A
+|Title=Know how to perform a clinical examination on a patient with purpura
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Clinical examination based on the type of purpura.
+
+== Vascular purpura ==
+- in favour of vasculitis: fever ([[Hyperthermia/fever SD-044|fever/hyperthermia]])'', ENT signs, peripheral neuropathy, ''[[Proteinuria SD-212|proteinuria]]'' on urine dipstick, haemoptysis ;
+
+- in favour of endocarditis: fever ([[Hyperthermia/fever SD-044|fever/hyperthermia]])''', heart murmur ('''[[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]]''') ;
+
+- in favour of ''scurvy'': signs of malnutrition.
+<br />
+
+== Thrombocytopenic purpura ==
+- taking medication
+
+- tumour syndrome ([[Hepatomegaly SD-006|h'''epatomegaly'']]'', [[Splenomegaly SD-058|splenomegaly]], [[Single or multiple adenopathies SD-016|adenopathies]]''), the presence of which necessitates the performance of the myelogram '''([[Interpretation of a myelogram SD-221|interpretation of a myelogram]])'''.

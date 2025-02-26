@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-340-01-A
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Know the definition and classification of stroke
+|Description=ischaemic (constituted and transient), haemorrhagic and venous
+|Rubric=Definition
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=1}}
+
+
+Strokes are characterised by the sudden onset of a focal neurological deficit ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]).
+
+- The term stroke covers all cerebrovascular pathologies of arterial or venous origin:
+
+* arterial cerebral ischaemia (80%):
+** transient: transient ischaemic attack (TIA),
+** constituted: cerebral infarction;
+* Cerebral or intraparenchymal haemorrhage (20%) ([[Acute haemorrhage SD-060|acute haemorrhage]]);
+* Cerebral venous thrombosis (rare).
+
+- Around a quarter of cerebral haemorrhages (5% of all strokes) are subarachnoid haemorrhages, which are managed in a completely different way (neurosurgery or interventional radiology).

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-205-02-A
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=A
+|Title=Know how to diagnose haemoptysis and argue the differential diagnosis
+|Description=Know how to differentiate haemoptysis from an extra-pulmonary cause (haematemesis, epistaxis).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Haemoptysis corresponds to subglottic bleeding. The emission of blood is therefore associated with a "coughing effort", which should be investigated on questioning. Blood emitted from the mouth is bright red and aerated.
+
+
+The 2 differential diagnoses are :
+
+- Haematemesis" = vomiting of blood: we look for efforts to vomit; digestive history
+
+- Bleeding of ENT origin": epistaxis or bleeding of pharyngeal or laryngeal origin
+
+
+If the cause of the bleeding cannot be identified on questioning, additional tests (bronchial or ENT fibroscopy; chest CT scan) are indicated to identify the cause and guide investigations with a view to etiology.
+
+<br />

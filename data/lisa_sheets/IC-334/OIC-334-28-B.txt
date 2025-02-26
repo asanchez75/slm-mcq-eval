@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-334-28-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Know the pathophysiology of abdominal organ damage (intra- and retroperitoneal) following trauma.
+|Description=To describe the mechanisms of damage to intra- and retroperitoneal organs and the incidence of damage.
+|Rubric=Physiopathology
+|Contributors=
+|Order=28}}
+'''Closed trauma (85%):'''
+
+*Contusion/crushing of solid viscera mainly (spleen, liver, kidney, pancreas) but also hollow viscera (small intestine and colon) between the blunt object and the hard surface formed by the spine, ribs or pelvic girdle.
+*sudden deceleration, which causes pedunculated organs (spleen, kidneys, small bowel, mobile parts of the colon, mesentery) to be torn off, resulting in immediate haemorrhagic lesions and delayed ischaemic lesions with perforation; disinsertion of solid organs (spleen, liver); pedicle tearing or vascular elongation.
+*bursting due to hyperpressure of hollow organs in replenishment (stomach, bladder)
+
+'''Penetrating trauma (15%):''''
+
+*Potential damage to all organs (including vascular structures) as soon as the peritoneum is crossed. In addition to direct injuries (blunt objects whose trajectory must be established, sometimes thoraco-abdominal), there may also be blasts from high-velocity projectiles.
+
+("''[[Abdominal-pelvic trauma SDD-171|abdominal-pelvic trauma]]''")

@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-231-07-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Intitle=Identifying complete branch blocks, hemiblock and bifascicular blocks
+|Description=Identifying complete bundle branch blocks, hemiblock and bifascicular blocks
+|Topic=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=7}}
+
+
+*Organic branch block vs. functional branch block (conduction aberration for fast frequencies).
+*Secondary repolarisation abnormalities with ST segment shift and T wave orientation opposite to the QRS axis.
+*Complete right bundle branch block:
+**QRS > 120 ms,
+**positive QRS in V1-V2 with RsR' aspect.
+**In DI, V5 and V6 enlarged S wave (> 40 ms or > R wave duration).
+**Delayed onset of intrinsecoid deflection in V1 > 50 ms.
+*Complete left bundle branch block:
+**QRS > 120 ms,
+**Negative QRS in V1-V2 with QS (or rS) appearance,
+**Loss of the physiological q wave in DI, V5 and V6 with rR appearance,
+**Delay in onset of intrinsecoid deflection in V5-V6 > 60 ms.
+*The left branch has 2 hemibranches (anterior and posterior). The left posterior hemiblock is rarer because its diameter is larger and most often indicates severe damage to the conductive tissue, particularly if it is associated with a right bundle branch block.
+*Left anterior hemiblock:
+**Left axial deviation beyond -45° (negative QRS in aVF and DII),
+**Aspect qR in DI, aVL, rS in DII-DIII-aVF,
+**QRS < 120 ms (unless associated with complete right bundle branch block).
+*Left posterior hemiblock:
+**Right axial deviation beyond +100°,
+**RS or rS in DI, aVL, qR in DII-DIII-aVF ("S1Q3"),
+**QRS < 120 ms (unless associated with complete right bundle branch block).
+*Bifascicular block:
+**Association of right bundle branch block with left anterior hemiblock or left posterior hemiblock,
+**Significant risk of complete AVB if bifascicular block with left posterior hemiblock,
+**In the case of bifascicular block with PR > 200ms, we speak of bifascicular block with first degree AVB and not trifascicular block,
+*The term ''alternating block'' is used when a patient has alternating complete left bundle branch block and complete right bundle branch block (major risk of complete AVB, indication for pacemaker).
+
+[[File:Bloc des branches, hémi bloc.jpg|vignette|alt=|centré|900x900px]]

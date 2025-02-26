@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-356-15-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Knowing the biological tests to order and their limits
+|Description=NFS, CRP, BU, B-HCG
+|Rubric=Additional tests
+|Contributors=Cyrille PERRENOT
+|Order=15}}
+
+The biological tests to be requested are: NFS, CRP, BU, B-HCG
+
+Normal biology does not exclude the diagnosis of acute appendicitis: disturbed CBC in 80% of cases, normal CRP in 50% of cases.

@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-359-07-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing how to recognise the signs of respiratory distress following inhalation of a foreign body in children and adults, or in cases of epiglottitis in children and adults.
+|Description=Foreign body (penetration syndrome... symptomatology according to age)
+|Rubric=Identification of the emergency
+|Contributors=Guillaume Carteaux,Guillaume Mortamet
+|Order=7}}
+
+Inhalation of foreign body :
+
+- Notion of penetration syndrome
+
+- Sounds suggestive of airway obstruction
+
+o Inspiratory = Stridor, horn = glottic or supraglottic obstruction
+
+o 2-stage = tracheal obstruction
+
+o Expiratory = wheezing = subtracheal obstacle
+
+- +/- hypersialorrhoea depending on the location of the foreign body
+
+
+Acute epiglottitis :
+
+- Signs of respiratory distress
+
+- Marked deterioration in general condition
+
+- Fever
+
+- Hypersialorrhoea

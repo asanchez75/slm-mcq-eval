@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-181-22-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the Anses
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=22}}
+
+The French National Agency for Food, Environmental and Occupational Health Safety (ANSES) is responsible for monitoring, assessment, research and reference in various areas of human, animal and plant health. In particular, it manages declarations of toxicovigilance and nutrivigilance, and is also responsible for veterinary pharmacovigilance and phytopharmacovigilance.

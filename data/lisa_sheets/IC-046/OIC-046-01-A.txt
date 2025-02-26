@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-046-01-A
+|Item_parent=Genomic medicine
+|Item_parent_short=Genomic medicine
+|Rank=A
+|Intitle=Know the definition of genomic medicine
+|Description=Definitions : Predictive, preventive and personalised medicine: what are we talking about? What impact will this have on medical practice?
+|Rubric=Definition
+|Contributors=Damien Sanlaville,Christel Thauvin,Michel Vidaud,Martin Krahn
+|Order=1}}
+
+Genomic medicine: The National Human Genome Research Institute (NHGRI), an American institution, defines genomic medicine as "an emerging medical discipline that includes the use of genomic information about individuals as part of their clinical management (e.g. for diagnosis or therapeutic choice) as well as the health consequences and implications for recommendations of this clinical use".
+
+When it comes to genomic medicine, the terms predictive, preventive and personalised medicine are frequently used. What are these terms?
+
+According to the HAS, the term ''personalised medicine'' is a misuse of language, as the validation of treatment is always based on a classic population approach. Moreover, its use can be surprising, as all good medical practice is, by its very nature, personalised. For centuries, medicine has tried to adapt to each situation, to each case, to the whole person. Until recently, this did not take into account the genetic component which, thanks to technological developments in genomics, is now playing a major role in the overall care of patients. In this context, the term genomic medicine should be preferred.
+
+Predictive medicine", according to Professor Axel Kahn, is "that which makes it possible to predict a particular susceptibility to certain diseases or to the action of certain pathogenic agents on the basis of individual genetic or other health determinants". The aim is to know in advance what diseases a person is likely to develop before the first symptoms appear (pre-symptomatic). As well as passing on information to the individual and offering genetic counselling, this type of medicine tries to help patients benefit from preventive measures concerning the disease for which they are predisposed. Predictive medicine is associated with the notion of risk and the probability of developing a disease. It should be remembered that non-genetic differences linked to social structure, lifestyles and the environment must be taken into account and may be at the forefront in explaining greater risks of disease.
+
+Preventive medicine'' is an integral part of school, university, occupational and community medicine, and is aimed at people who appear to be in good health, in order to identify any risk factors for the onset of disease. Apart from vaccinations, its aim is to screen for prevention. In the field of genetics, it is at the forefront of pre- and neonatal medicine with [[Prenatal screening for trisomy 21 SD-307|prenatal screening for trisomy 21]], neonatal screening for 6 diseases, 5 of which are hereditary, and early screening for permanent neonatal deafness ([[Systematic neonatal screening SD-308|systematic neonatal screening]]).
+
+These terms are often used interchangeably in everyday language, but what impact does genomic medicine have on medical practice?
+
+The rise of genomic medicine is based on the so-called 4Ps:
+
+- Customised,
+
+- Preventive,
+
+- Predictive
+
+- Participatory
+
+Genomic medicine makes it possible to
+
+- Reduce the number of patients suffering from rare genetic diseases who are misdiagnosed. These patients must therefore be referred to a centre of reference or competence for rare diseases;
+
+- Offering reliable genetic counselling ;
+
+- Propose prenatal diagnosis in cases where it is feasible;
+
+- Adapting care, including preventive care, for patients and their relatives;
+
+- Personalised care (targeted therapy), particularly in cancerology.
+----<br />

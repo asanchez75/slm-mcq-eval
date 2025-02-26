@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-259-06-A
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=A
+|Title=Knowing the initial assessment of nephrotic syndrome in adults and children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=6}}
+
+==Circumstances of diagnosis==
+The diagnosis of nephrotic syndrome is generally straightforward in adults and is made in two main circumstances:
+
+*rapid or progressive onset of oedema syndrome
+**soft, white, painless, cup-shaped oedemas
+**predominates in declining areas and areas of low extravascular pressure (eye orbit).
+**transudative pleural effusion (pleura, pericardium, peritoneum) may be observed, resulting in anasarca
+**weight gain'' is constant and enables the extent of fluid retention to be quantified
+*the discovery of abundant proteinuria during a systematic examination (occupational medicine, school medicine, follow-up of a systemic pathology).
+*In children:
+**The usual age of onset of idiopathic nephrotic syndrome is 1 to 10 years, with a higher incidence in boys.
+**Sudden onset of oedematous syndrome, sometimes revealing complications
+**Triggering factor sometimes found: infection, allergy, etc.
+
+==Biological tests==
+
+===In urine===
+
+*Proteinuria, possibly detected by the use of urine strips at the patient's bedside, is confirmed in the laboratory. It is ''permanent and abundant (> 3 g/d)''.
+*Analysis of the urine sediment is used to check for possible association with microscopic ''[[Haematuria SD-102|haematuria]]'''. Examination of the urine pellet looks for '''haematic cylinders''', which indicate the glomerular origin of the haematuria.
+
+===In the blood===
+
+*Hypoalbuminemia < 30 g/L.
+*Analysis of the [[Biological abnormalities (haemogram and protein electrophoresis) 2C-192-EC-A01|plasma protein electrophoresis]] shows a change in the distribution of globulins with :
+**an increase in α2-globulins, β-globulins and fibrinogen
+**a decrease in gamma globulins
+*L''''[[Dyslipidaemias|hyperlipidaemia]]''' is common with elevated cholesterol and triglyceride levels.
+*Hypoproteinemia is associated with total hypocalcaemia due to a decrease in the fraction of calcium bound to albumin (normal ionised calcium).
+*Elevated creatinine levels vary according to the cause of the nephrotic syndrome and whether it is associated with organic or functional renal failure.
+
+==Initial diagnostic orientation==
+When faced with a nephrotic syndrome, one must :
+
+*Establish whether the nephrotic syndrome is ''pure'' or ''impure
+*Study the onset and duration of oedema (a few days or several weeks).
+*Look for a ''triggering factor'':
+**taking certain medications (non-steroidal anti-inflammatory drugs, lithium, interferon, etc.)
+**Vaccinations in adults and children SD-322|vaccination]]
+**recent infectious syndrome
+
+*Look for ''extrarenal signs'' suggestive of a general illness:
+**Angina in adults and children and nasopharyngitis in children|angina]]
+**Purpura/ecchymosis/haematoma SD-089|purpura]], skin lesions
+**[[Joint pain SD-067|arthralgia]]
+**Single or multiple adenopathies SD-016|adenopathies]], ...

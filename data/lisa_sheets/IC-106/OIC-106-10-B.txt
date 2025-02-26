@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-106-10-B
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=B
+|Title=Knowing the principles of treatment in the initial phase of the disease
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+<br />
+
+=== Before 65-70 ===
+
+* LP dopamine agonist monotherapy (delays onset of motor complications) or monoamine oxidase B inhibitor (MAOI-B). These two therapies may be combined. If there is a history of addiction, dopamine agonists should be prescribed with great caution (potential risk of impulse control disorders).
+* If control is unsatisfactory, increase the dosage of the dopamine agonist. If unsatisfactory control or poor tolerance, combination with L-dopa or B-AMI.
+* Treatment with L-dopa and a DDC inhibitor may be started immediately in cases of motor disability and impairment of quality of life, which must be assessed on a case-by-case basis. Gradually propose 3 to 4 doses per day (as ½ life is short) before meals to facilitate absorption and efficacy.
+* In the event of nausea or vomiting (nausea, vomiting), treatment with domperidone may be prescribed (reduction in side-effects due to stimulation of peripheral dopamine receptors; contraindicated if QTc time is prolonged), limiting prescription to the shortest duration of treatment (usually 7 days maximum).
+* Anticholinergics: see above.
+
+=== After 65-70 years ===
+
+* L-dopa with DDC inhibitor as initial monotherapy or MAOI-B.
+* If control is unsatisfactory, increase dosage of L-dopa or combine with MAOI-B.
+* Co-prescription of domperidone as recommended above.

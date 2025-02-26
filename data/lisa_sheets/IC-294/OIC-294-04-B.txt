@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-294-04-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the factors influencing the effect of X-rays
+|Description=Describe the different factors influencing the effect of radiation.
+|Rubric=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=4}}
+
+'''Intrinsic radiosensitivity''' is a cell's ability to repair or not to repair radiation damage, making it radiosensitive (if it does not repair the damage) or radioresistant (if it does repair the damage).
+
+The cell cycle: radiosensitivity is maximal during the G2 and M phases and minimal during the S phase. Irradiation slows DNA synthesis, lengthening the S phase, and temporarily blocks cells in the G2 phase, delaying mitosis and cell synchronisation.
+
+The oxygen effect: the presence of oxygen is essential for the biological action of ionising radiation. Very short-lived (10-5 s) free radicals are formed by charged particles passing through matter. In the presence of O2, they pro- vide the formation of peroxides responsible for DNA damage (breaks). This process is most effective if oxygen is present at the time of irradiation.
+
+In the absence of oxygen (hypoxia), cells are less sensitive to radiation. The dose needed to destroy a cell in hypoxia is 2.5 to 3 times greater than that needed to destroy the same cell in the presence of oxygen.
+
+The ''time factor'': ''fractionation'' and ''spreading'' govern the course of an irradiation.
+
+- Fractionation is the number of fractions (or sessions) of an irradiation. It also defines the time interval between two fractions. It is possible to modify the biological effectiveness of an irradiation by acting on the components of the time factor.
+
+Conventional fractionation delivers a daily fraction of 2 Gy to restore the DNA of normal cells.
+
+Bi-fractionation (2 sessions per day) delivers a low dose at each session, which is less toxic for normal cells that are capable of repairing themselves, and more toxic for tumour cells that repair poorly. This method of irradiation therefore protects healthy tissue while delivering an effective dose of radiation (provided that the two sessions are at least 6 hours apart).
+
+Different treatment protocols use either an increase in the number of fractions (hyper-fractionation) for curative treatments, or a decrease in the number of fractions (hypo-fractionation) for palliative treatments that rapidly seek the desired effect (analgesic, for example) with few treatment sessions. Hypofractionation is also increasingly used in curative situations.
+
+- Spreading is the total duration of treatment. By reducing the spread (acceleration), the proliferation of tumour cells is overcome, allowing greater destruction.
+
+Prolongation of the treatment time (protraction) is used in palliative treatments known as en
+
+"split-course".
+
+The ''dose effect'': ''In vitro'', tumour cells are not surrounded by healthy tissue, and very high doses of irradiation can achieve 100% sterilisation. In the clinic, increasing doses comes up against the limited tolerance of healthy tissue. Nevertheless, it has been shown (bronchial, ENT and gynaecological cancers) that increasing the total dose of irradiation for the same tumour improves the chances of sterilisation. This effect is constantly sought in the clinic for radio-resistant tumours.

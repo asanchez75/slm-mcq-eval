@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-316-05-A
+|Item_parent=Myelodysplastic syndromes
+|Item_parent_short=Myelodysplastic syndromes
+|Rank=A
+|Heading=Know the other elements of the biological work-up that can be used to suggest a differential diagnosis
+|Description=Normal B12 and Folates
+|Section=Additional tests
+|Contributors=
+|Order=5}}
+'''Differential diagnoses (tests to suggest them):'''
+
+*Medullary aplasia (poor marrow on myelogram, BOM will help make the diagnosis)
+*deficiency anaemia (vitamin B9, vitamin B12) (serum levels of vitamins B9 and B12)
+*Bone marrow infiltration by another haematological malignancy or solid tumour metastasis (myelogram and/or BOM).
+*Acute leukaemia (>19% blasts) (seen on myelogram)
+*Myelofibrosis (poor marrow on myelogram, BOM will enable diagnosis)
+*Any other cause of central anaemia (see dedicated question).

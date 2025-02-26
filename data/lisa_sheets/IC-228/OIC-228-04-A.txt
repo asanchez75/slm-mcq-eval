@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-228-04-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Photograph of a typical venous ulcer
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Marie-Antoine Sevestre Pietri, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=4}}
+
+[[File:Venous ulcers.jpg|vignette|611x611px|Venous ulcers]]
+A venous ulcer is typically
+
+* peri-malleolar,
+* extensive and superficial
+* little or no pain
+* with irregular, unclear edges,
+* chronic venous insufficiency.

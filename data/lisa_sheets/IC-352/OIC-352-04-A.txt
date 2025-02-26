@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-352-04-A
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=A
+|Title=Knowing how to diagnose a panic attack
+|Description=Semiology
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=4}}
+
+PA has a sudden onset, intense symptoms quickly, of limited duration (20-30 min), with gradual reduction until relief or post-crisis fatigue. PA is accompanied by variable symptoms:
+
+- Physical : respiratory ([[Dyspnoea SD-162|dyspnoea]], choking, respiratory blockage, hyperventilation), cardiovascular ([[Tachycardia SD-166|tachycardia]], palpitations, chest weight), neurovegetative (sweats, tremor, pallor, dizziness, vertigo), digestive (pain, nausea, vomiting, diarrhoea), genitourinary (pollakiuria) or neurological ([[Tremor SD-128|tremor]], pseudo-paralysis). 
+
+- Psychic: thoughts of impending disaster (fear of dying or going mad), intense fear without an object, impression of losing control, depersonalisation (strangeness of oneself, detachment from oneself/one's body, spectator of the scene), and derealisation (impression of unreal strangeness).
+
+- Behavioural: variable behaviour, [[Agitation SD-114|agitation]], inhibition, stupor, [[Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01|risk of self-harm]].

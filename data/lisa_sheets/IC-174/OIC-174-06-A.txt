@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-174-06-A
+|Item_parent=Infectious pathology in adult and child migrants
+|Item_parent_short=Infectious pathology in adult and child migrants
+|Rank=A
+|Title=Knowing the principles of prevention for migrants
+|Description=None
+|Rubric=Management
+|Contributors=Johan Courjon
+|Order=6}}
+
+
+====Sexual health prevention====
+Screening for and prevention of STIs including HIV, use of male and female condoms, pre-exposure prophylaxis for HIV (PrEP), vaccination (against HBV).
+
+====If you return to your country of origin (e.g. on holiday) ====
+Anti-malarial prophylaxis and prevention of malaria (impregnated mosquito net) as there is no lasting immunity.
+
+Do not bathe in freshwater at sites known to transmit bilharziasis
+
+====In the event of immunosuppressive treatment====
+Systematic Ivermectin for the prevention of disseminated anguillulosis in any patient who has lived in a tropical zone before starting treatment.
+
+====Vaccinations ([[2C-174-PC-B01]])====
+
+====Cancer====
+The epidemiology of cancers is specific to the country of origin. In countries with limited resources, cancers caused by infectious agents are much more common: HBV-HCV for the liver, HPV for the cervix, H. pylori for the stomach and schistosomiasis for the urinary tract. Screening should be stepped up.

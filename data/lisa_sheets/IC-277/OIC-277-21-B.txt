@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-277-21-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Know the paraclinical examinations that can be carried out in search of a stone in the main bile duct (MBD).
+|Description=Scanner, MRI, ERCP, Cholangio perop
+|Section=Additional tests
+|Contributors=
+|Order=21}}
+see previous question

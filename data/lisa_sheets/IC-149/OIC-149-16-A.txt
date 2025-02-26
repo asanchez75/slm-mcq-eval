@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-149-16-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Knowing the aetiologies of vesicular angina
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=16}}
+They are always of ''viral'' origin, caused either by ''herpes simplex virus'' or by ''enteroviruses (echovirus and coxsackie)''.
+
+In children under the age of 7, they are usually caused by the Coxsackie A virus, and have a sudden onset, but heal rapidly in 2 to 4 days. Involvement of the extremities can lead to hand-foot-and-mouth syndrome.
+
+In adults, vesicular angina is often associated with marked and very painful gingivostomatitis, usually due to a primary herpes infection (HSV1). Very rarely, a unilateral vesicular sore throat associated with severe pain is suggestive of glosso-pharyngeal herpes zoster.

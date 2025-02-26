@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-08-B
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the principles of health safety: the principle of transparency
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=8}}
+
+The principle of transparency is one of the four main principles of health safety.
+
+It affirms the need for effective communication of health knowledge, whether in terms of information for the general public or exchanges and controversies between scientists, associations and health authorities.
+
+Its aim is to give everyone, in every situation, every opportunity to make the right decisions in the light of current knowledge, and to review these decisions whenever necessary.

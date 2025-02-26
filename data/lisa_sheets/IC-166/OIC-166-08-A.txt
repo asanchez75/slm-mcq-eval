@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-166-08-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Knowing the indications for hospitalisation
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=8}}
+
+
+=== The decision is shared according to: ===
+- Clinical expertise
+
+- General condition
+
+- The patient's preferences and social environment.
+
+
+Membership of a risk group :
+
+- Less than 6 months
+
+- Over 65s
+
+- Heart failure
+
+- Respiratory failure
+
+- Renal failure
+
+- Diabetic
+
+- Immunodepression
+
+- Sickle cell disease.
+<br />
+
+=== Presence of signs of complication: ===
+- Pneumonia
+
+- Cardiac signs
+
+- Neurological signs

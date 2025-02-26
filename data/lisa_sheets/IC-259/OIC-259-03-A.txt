@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-259-03-A
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=A
+|Title=Know the methods for analysing proteinuria
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=3}}
+
+== Quantitative analysis
+
+=== Semi-quantitative method''' ''': urine dipstick ===
+
+* This is the most widely used screening technique. It detects the presence of albumin when it exceeds 50-100 mg/L.
+* This method does not detect immunoglobulin light chains or other low molecular weight proteins.
+* Interpretation of the strip:
+** Normal or non-significant result: absence of proteinuria, traces or 1 + (< 0.3 g/L).
+** Abnormal results: 2 + (about 1 g/L) or 3 + (about 3 g/L)
+
+=== Proteinuria weight measurement ===
+It is expressed :
+
+* in g/24 hours,
+* in g/g or g/mmol on a urine sample by the proteinuria/creatinuria ratio
+
+The presence of [[Haematuria SD-102|haematuria]] or abundant [[Urinary tract infections in children and adults|pyuria]] may interfere with the interpretation of proteinuria. Macroscopic haematuria (not microscopic haematuria) is the cause of abundant proteinuria (1-2 g/d, due to haemolysis of red blood cells in the urine).
+
+== Qualitative analysis
+
+=== Urinary protein electrophoresis ===
+This provides a qualitative study of proteinuria, useful for identifying its origin:
+
+* Glomerular proteinuria: albumin is the main protein present in the urine in cases of glomerular damage (>60% of total proteinuria).
+* Tubular proteinuria'': consists essentially of low molecular weight proteins and results from a proximal tubular reabsorption disorder. Isolated tubular proteinuria is rare and is usually accompanied by other signs of proximal tubular dysfunction (Fanconi syndrome).
+* Overload proteinuria: results from an increase in synthesis (Kappa or Lambda light chain during [[Biological abnormalities (haemogram and protein electrophoresis) 2C-192-EC-A01|dysglobulinemia]]) or release (myoglobin in rhabdomyolysis) and an excess of tubular reabsorption capacity. Immunofixation of urinary proteins is necessary to characterise the monoclonal protein in question (Kappa or Lambda light chain).
+
+=== Microalbuminuria (or moderately increased albuminuria) ===
+
+* It is a marker of early ''[[Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetic nephropathy]]. S'''a measurement should be carried out once a year in patients with type 1 or type 2 diabetes mellitus.
+* In the general population and particularly in cases of arterial hypertension SD-042|arterial hypertension]], microalbuminuria is also an independent marker of high cardiovascular risk.

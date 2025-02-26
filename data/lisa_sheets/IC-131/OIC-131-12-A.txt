@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-131-12-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Define and describe post-fall syndrome
+|Description=None
+|Heading=Positive diagnosis
+|Contributors=
+|Order=12}}
+'''Post-fall syndrome is a geriatric emergency. It is characterised by the presence of:'''
+
+*Retropulsion, often making standing impossible without human assistance
+*Major anxiety component triggered by standing ("phobia of walking", or even "phobia of standing up");
+*Disorder of walking with human assistance: small slipping steps, with heel support and no rolling of the step on the ground, with possible widening of the sustentation polygon, and delayed initiation of walking or "freezing";
+*Oppositional hypertonia, impaired postural adaptation reactions and parachute reactions;
+*Not explained by traumatic or neurological lesions caused by the fall;
+*Not correlated with the traumatic or frequent nature of the fall.
+
+This syndrome has a poor functional prognosis and requires rapid, multidisciplinary treatment (functional rehabilitation, psychological support).

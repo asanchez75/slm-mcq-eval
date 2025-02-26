@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-299-05-A
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=A
+|Title=Know the main clinical pictures that should suggest an intracranial tumour
+|Description=Know the main clinical pictures that should raise the suspicion of an intracranial tumour
+|Rubric=Positive diagnosis
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=5}}
+
+'''1 / Intracranial hypertension syndrome (HTIC)''' :
+
+- Consequence of the increase in one or more volumes in a closed inextensible enclosure, i.e. the skull: tumour +/- peri-tumoral vasogenic oedema +/- hydrocephalus (obstacle to the free circulation of the CSF) +/- intra-tumoral bleeding.
+
+- Symptoms :
+
+o '''Headache''' :
+
+- No location value
+
+- Unusual
+
+- Gradual worsening
+
+- Poorly soothed by the usual painkillers
+
+- Recurrence at the end of the night or in the morning, and during exertion with the glottis closed
+
+- Relieved by vomiting
+
+o '''Nausea and [[Vomiting in infants, children and adults|vomiting]] "jet"'''''
+
+o '''Paresis of the abducens nerve (VI):''''
+
+- No locating value +++
+
+- Convergent squint
+
+- Horizontal [[Diplopia]]
+
+- (VI = long, thin nerve, particularly susceptible to increased intracranial pressure)
+
+o '''Decreased visual acuity:''''
+
+- Optic nerve damage caused by HTIC
+
+- Can lead to blindness
+
+- Fundus (FO) = bilateral papilledema due to stasis
+
+- Complications :
+
+o '''Psychic slowing down, vigilance disorders'''
+
+- from drowsiness to coma (Glasgow score +++)
+
+o '''Cerebral involvement leading to death'''
+
+
+'''2/'''' '''Focal neurological deficits:''''
+
+o Location function, e.g. :
+
+- Occipital lobe = homonymous lateral hemianopia
+
+- Frontal lobe = contralateral hemiparesis
+
+- Temporal lobe of dominant hemisphere for language = aphasia
+
+o Gradual onset, with worsening in an "oil stain" pattern
+
+o More frequent in rapidly progressive tumours
+
+'''[[Childhood and adult epilepsy|3 / Epilepsy]] :''''
+
+o Focal/partial seizures with a localising value +++, or immediately generalised seizures
+
+o More frequent in tumours with cortical contact and slow evolution (low-grade glioma, meningioma)
+
+
+'''4/'''' '''Endocrine disorders:''''
+
+o In the case of a tumour of the sellar region, e.g. [[pituitary adenoma]] or craniopharyngioma
+
+o Hypersecretion, e.g. Cushing's syndrome, acromegaly, hyper prolactinaemia with amenorrhoea/galactorrhoea
+
+o Anterior and/or posterior pituitary insufficiency: one or more hormonal sectors, e.g. hypothyroidism, diabetes insipidus.

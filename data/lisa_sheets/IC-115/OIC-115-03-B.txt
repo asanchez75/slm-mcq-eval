@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-115-03-B
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=B
+|Title=Know the frequency of occurrence of toxidermia, the most frequent type of toxidermia, the usual prognosis.
+|Description=1 to 3% of drug intakes; maculopapular exanthema; benign in 90% of cases.
+|Topic=Prevalence, Epidemiology
+|Contributors=
+|Order=3}}
+'''Prevalence''' of toxidermia, assessed in a hospital setting, is between '''0 and 8%''' of patients exposed to a drug.
+
+Most frequent immuno-allergic clinical forms:
+
+- maculopapular exanthema'': 40 to 60% of reports of toxidermia;
+
+- Urticaria: 20 to 30% of notifications.
+
+Over 90% of toxidermia is benign
+
+Life-threatening forms are exceptional (1 case per 10,000 to 1,000,000 patients treated).

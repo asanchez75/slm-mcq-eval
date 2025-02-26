@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-146-08-B
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=B
+|Intitle=Apply the vaccination schedule (compulsory and recommended) in force in France to special populations: premature and immunocompromised babies and asplenics, professionals, non-healthcare professionals, etc.
+|Description=None
+|Rubric=Support
+|Contributors=Laurence Morand-Joubert
+|Order=8}}
+
+Premature: Premature babies respond to vaccines from the age of 6 to 8 weeks, whatever the degree of prematurity. The same procedures apply as for the general population, except for pneumococcus, for which an additional dose is given at 3 months. Flu vaccination is recommended after 6 months (2 half-doses 1 month apart). On an individual basis, oral vaccination against rotavirus may be suggested due to the increased risk of severe forms of infection in this population, taking into account the risk of acute intestinal intussusception which seems to be associated with this vaccine.
+
+'''Immunosuppressed or asplenic''' :
+
+*Patients undergoing chemotherapy and up to 6 months afterwards: influenza, COVID-19*, pneumococcus and live attenuated CI vaccine are recommended.
+*Transplant patients undergoing immunosuppressive therapy: recommended (6 months post-transplant) influenza, COVID-19*, hepatitis A and B, pneumococcus. CI live attenuated vaccine.
+*Stem cell transplant: recommended ''Haemophilus influenzae'' type B, pneumococcus, influenza, COVID-19*. CI live attenuated vaccine.
+*Treated autoimmune disease: recommended influenza, COVID-19*, pneumococcus; CI live attenuated vaccine.
+*HIV infection: influenza, pneumococcus, hepatitis A and B recommended.
+*Asplenia or spleen deficiency: recommended influenza, pneumococcus, meningococcus, Haemophilus B.
+
+(COVID-19*: additional dose if no response)
+
+
+'''Vaccination related to a specific occupational risk (excluding healthcare professionals):''''
+
+*Hepatitis A: early childhood professionals in crèches or nursery assistants, catering staff.
+*Yellow fever: for laboratory technicians in French Guyana, with a second dose recommended 10 years after the primary vaccination.
+*Leptospirosis: frequent contact with places infested by rodents:
+**Cleaning and/or maintenance of canals, ponds, lakes, rivers, waterways and riverbanks;
+**Activities related to freshwater fish farming;
+**Work in sewers, in certain exposed areas of water treatment plants;
+**Certain specific freshwater activities carried out by professional fishermen, professional divers, fishery wardens;
+**fire-fighters
+
+*Meningococcus: staff in research laboratories working specifically on meningococcus.
+*Rabies: recommended for staff of veterinary services, laboratory staff handling contaminated material, renderers, pound staff, naturalists, taxidermists, gamekeepers, forest wardens, slaughterhouse staff.
+*Measles/rubella: for early childhood workers born before 1980 who have not been vaccinated and have no known history of measles or rubella.
+*Varicella: for early childhood professionals with negative serology.

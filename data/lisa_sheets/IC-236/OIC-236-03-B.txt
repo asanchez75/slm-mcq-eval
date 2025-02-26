@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-236-03-B
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=B
+|Title=Knowing the main aetiologies of TDC
+|Description=ionic, drugs, infarction, degenerative, valvulopathies
+|Rubric=Etiologies
+|Contributors=Vincent Galand
+|Order=3}}
+ 
+
+- The main cause of conductance disorders in the elderly is degeneration by fibrosis +/- calcification of the conduction system (=Lev's and Lenègre's disease).
+
+- Always look for a secondary cause before suggesting degeneration (= curable aetiology).
+
+''List of secondary causes to look for:''
+{| class="wikitable"
+|Ischaemia (inferior infarction ++)
+|-
+|'''Hyperkalaemia''''
+|-
+|'''Médicamenteuse'' (''Bêtabloquant, Amiodarone, digitalis, inhibiteur calcique bradycardisant'')
+|-
+|'''Tight aortic stenosis''''
+|-
+|Infection:
+
+-Lyme disease
+
+-Bacterial endocarditis (aortic endocarditis with annulus abscess)
+
+-Rheumatic fever (''disappeared in France, but present in Eastern Europe'')
+|-
+|Surgical complications (valve surgery, TAVI)
+|-
+|Other :
+
+-Post-radiotherapy
+
+-Neuromuscular diseases
+
+-Overload diseases
+
+-Congenital
+
+-Genetic mutation
+
+-Vagal reflex
+|}

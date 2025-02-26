@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-004-39-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the rules for preventing surgical site infections
+|Description=Measures for preventing HCAI; main risk factors
+|Rubric=Management
+|Contributors=
+|Order=39}}
+In scheduled surgery
+
+- Limiting the length of pre-operative hospitalisation (<24 hours)
+
+- Stop smoking perioperatively (preferably 6 weeks before)
+
+- Assessing diabetes control using HBA1c assays
+
+- Treat infectious sites remotely and postpone until the infection is cured
+
+- In cardiac surgery, systematic decolonisation (without prior screening) for S aureus carriage
+
+For skin preparation before surgery :
+
+- Take at least one shower, with simple soap or antiseptic (shampoo not necessary unless the head is in the field)
+
+- Do not depilate unless there are technical difficulties; if depilation is required: do not use a razor, use clippers or depilatory cream; depilation is not permitted in the operating theatre.
+
+Before the operating theatre :
+
+- Take at least one shower, with simple soap or antiseptic (shampoo not necessary unless the head is in the field)
+
+- Do not depilate unless there are technical difficulties; if depilation is required: do not use a razor, use clippers or depilatory cream; depilation is not permitted in the operating theatre.
+
+In the operating theatre
+
+- Surgical SHA friction of operators, failing which: surgical hand washing
+
+- Operators' clothing: sterile impermeable non-woven gown, sterile gloves (in the case of surgery where there is a risk of puncture, a double pair of gloves), surgical mask, cap or balaclava.
+
+- Air-handling system with filtration of incoming air, air renewal, and maintenance of the room at overpressure (requires keeping the room doors closed and limiting comings and goings).
+
+- Limiting the number of people in the room
+
+- Antibiotic prophylaxis for surgery, if necessary, in accordance with the indications and principles of the consensus conference of the Société Française d'Anesthésie Réanimation (2018).
+
+- Maintaining the patient's normothermia intraoperatively
+
+- Maintenance of blood glucose levels < 2g/l in the early post-operative period.

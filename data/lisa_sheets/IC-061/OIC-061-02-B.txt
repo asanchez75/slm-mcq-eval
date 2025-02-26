@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-061-02-B
+|Item_parent=Know the basic classifications of mental disorders from children to the elderly
+|Item_parent_short=Know the basic classifications of mental disorders from children to the elderly
+|Rank=B
+|Title=Knowing the categorical approach in psychiatry
+|Description=The concept of mental disorder
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notre-Dame
+|Order=2}}
+
+'''2.   Categorical approach in psychiatry (rank B)'''
+
+In psychiatry, the term "disorder" is preferred to "illness" because of the complexity of the aetiology (illness refers to a lesion model).
+
+The categorical approach classifies signs and symptoms into entities with prognostic value = diagnostic categories.
+
+Interests of the categories: information sharing, epidemiological/therapeutic studies, access to care/financial regulation, recognition of the disorder/communication.

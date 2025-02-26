@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-177-24-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Title=Knowing the main mechanisms at the origin of resistance
+|Description=Emergence of resistance; selection of resistance; examples of resistance mechanisms.
+|Rubric=Physiopathology
+|Contributors=Jean-Philippe Lavigne
+|Order=24}}
+
+-Decrease in membrane permeability (e.g. mutation of a porin)
+
+-Increase in antibiotic efflux mechanisms (e.g. AcrAB-TolC pump in enterobacteria)
+
+-Enzymatic inactivation of the antibiotic (e.g. beta-lactamases which destroy certain penicillins (penicillinases) or cephalosporins (cephalosporinases)).
+
+-Modification of the target (e.g. modification of bacterial gyrases leading to resistance to quinolones, appearance of a new PLP (PLP2a) in S. aureus, making this bacterium resistant to all beta-lactam antibiotics = MRSA).
+
+<br />

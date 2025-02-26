@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-136-12-B
+|Item_parent=Local, locoregional and general anaesthesia
+|Item_parent_short=Local, locoregional and general anaesthesia
+|Rank=B
+|Title=Early rehabilitation after surgery (RAC) and ambulatory surgery
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+Ambulatory surgery is defined as all surgical or medical, diagnostic or therapeutic procedures carried out under the technical safety conditions of an operating theatre, under variable anaesthesia and with no increased risk for the patient, enabling patients to be discharged on the same day as their admission, without overnight accommodation. In order to ensure the safety of this care, the selection criteria used to validate outpatient care must be assessed prior to surgery ("''[[Information and monitoring of a patient undergoing outpatient surgery SD-356|information and monitoring of a patient undergoing outpatient surgery]'').
+
+Ambulatory surgery is part of the more global concept of early rehabilitation after surgery (RAC), which is a comprehensive approach to patient care that ''promotes early recovery of the patient's abilities after surgery''. The key points of an EPR are :
+
+* informing patients and training them in the process
+* anticipate the organisation of care and the patient's discharge
+* reduce the consequences of surgical stress
+* controlling pain in all situations
+* encouraging and stimulating patient autonomy

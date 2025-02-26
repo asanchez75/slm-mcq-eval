@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-257-03-B
+|Item_parent=Localised or generalised oedema of the lower limbs
+|Item_parent_short=Localised or generalised oedema of the lower limbs
+|Rank=B
+|Title=Knowing the pathophysiology of generalised oedema
+|Description=Know the mechanisms of oedema in nephrotic syndrome, heart failure and cirrhosis.
+|Rubric=Physiopathology
+|Contributors=Jean-Jacques Boffa,Bruno Moulin
+|Order=3}}
+
+A. General mechanisms of oedema formation
+
+1.      Alteration of capillary haemodynamics (figure 1) linked to
+
+*Increase in capillary hydrostatic pressure (Starling force);
+*Decrease in plasma oncotic pressure;
+*Increase in capillary permeability.
+
+
+2.      Mechanisms of sodium and water retention
+
+The amount of sodium, not its concentration, determines the extracellular volume. The body's sodium capital is regulated by the kidneys.
+
+*Two main types of phenomenon may be responsible for oedema formation:
+*true hypervolaemia: primary sodium retention by the kidney during renal failure;
+*relative or "effective" hypovolaemia: right or global cardiac insufficiency, oedema-ascitic decompensation of cirrhosis, hypoalbuminaemia, particularly in nephrotic syndrome.
+
+
+'''B.    Specific mechanisms of oedema formation''''
+
+1.      Renal insufficiency
+
+During acute or severe chronic renal failure, the sodium balance becomes positive''',''''
+
+2.      Nephrotic syndrome and glomerular nephropathy
+
+*In the filling deficit theory, the fall in oncotic pressure is the cause of hypovolaemia and activation of the renin-angiotensin aldosterone system.
+*In the overfilling theory, a primary excess of distal sodium reabsorption is responsible for the positive sodium balance.
+
+3.      Heart failure
+
+*Effective hypovolaemia secondary to the reduction in cardiac output, and therefore renal blood flow, stimulates the antinatriuretic systems (renin angiotensin aldosterone system, etc.) responsible for sodium and water reabsorption.
+
+4.      Cirrhosis of the liver
+
+*Effective hypovolaemia results from sequestration of blood in the splanchnic territory upstream of the liver and a reduction in peripheral vascular resistance and systemic arterial pressure, leading to activation of the water and sodium reabsorption systems.

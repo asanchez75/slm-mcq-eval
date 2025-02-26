@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-043-09-B
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=B
+|Title=Knowing the principles of management of genital haemorrhage
+|Description=None
+|Topic=Management
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=9}}
+
+==General treatments (whatever the aetiology) ==
+These include :
+
+- an antifibrinolytic: tranexamic acid ;
+
+- per os or IV martial therapy;
+
+- a [[Prescribe and carry out a blood transfusion SD-272|transfusion]] if necessary.
+
+==''Etiological treatment'''==
+
+Polyp === ===
+The polyp is resected by hysteroscopy and may be combined with endometrectomy if there is no desire to become pregnant.
+
+===''Adenomyosis''===
+Treatment is based on a levonorgestrel IUD in the 1st<sup>rst</sup> intention, or a systemic hormonal treatment (progestin, estroprogestin or GnRHa) or surgery in the 2nd<sup>rst</sup> intention (endometrectomy or hysterectomy in case of failure or refusal; in the absence of desire for pregnancy).
+
+===''Myoma''===
+The type of treatment will depend on the location of the fibroids, their number and size, and whether the woman wishes to become pregnant.
+
+- Medical treatment is often based on amenorrhea: levonorgestrel IUD, estrogen-progestin or macro-progestin pill or GnRH agonists.
+
+- Surgical treatment: hysteroscopic resection, myomectomy or hysterectomy.
+
+- Arterial embolisation (interventional radiology).
+
+===''Endometrial glandular hyperplasia without atypia''===
+Treatment is medical with oral progestins or a levonorgestrel IUD. If this fails and there is no desire to become pregnant, conservative surgical treatment such as endometrectomy (resection of the endometrium by hysteroscopy) may be considered.
+
+===Atypical glandular hyperplasia ===
+- If there is no desire to become pregnant, treatment consists of total hysterectomy ± bilateral adnexectomy because of the risk of endometrial cancer being overlooked.
+
+- If pregnancy is desired, treatment is conservative with progestins, GnRH agonists or a levonorgestrel IUD, with hysteroscopic monitoring and endometrial biopsy at 6 months. In the absence of conception or at 6 months post-partum, total hysterectomy is recommended because of the risk of progression to endometrial adenocarcinoma.
+
+===Arteriovenous malformation ===
+This is treated by radiological embolisation (which is not harmful to ovarian function and preserves fertility).
+
+===''Induced (or post-coital) menometrorrhagia''===
+These should be investigated for cervical pathology (cervical cancer, ectropion). If a cervical mass is found on speculum examination, biopsies +/- colposcopy should be performed.
+
+===''Idiopathic menometrorrhagia''===
+These are treated with oral contraceptives (progestins and oestroprogestins) or levonorgestrel IUDs, tranexamic acid if hormonal treatments are contraindicated or if pregnancy is desired ('''[[Prescribe contraception and emergency contraception SD-257|prescribe contraception and emergency contraception]]'''). If pregnancy is not desired, surgical treatment may be proposed (endometrectomy by hysteroscopic resection or thermodestruction, or hysterectomy if previous treatments have failed). The possibilities for surgical treatment are limited if pregnancy is desired.
+
+===Special case of patients on anticoagulants or with coagulopathy ====
+- Multidisciplinary management
+
+- In the event of [[Prescription and monitoring of anticoagulant and/or anti-aggregant treatment SD-248|anticoagulant treatment]], an INR measurement must be carried out as a matter of urgency and measures to correct the INR must be implemented in the event of overdose (in accordance with HAS recommendations).
+
+- Organic uterine pathology should be sought, as in patients without anticoagulant treatment.
+
+- Desmopressin is administered to patients with type 1 Willebrand disease.

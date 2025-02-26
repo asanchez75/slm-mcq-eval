@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-125-08-A
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=A
+|Title=Knowing the first-line assessment of a UTI (after diagnosis, quantification and repercussions)
+|Description=ECBU - Cytodiagnostic urinaire - Débimetrie mesure de residu
+|Rubric=Diagnosis
+|Contributors=B. Peyronnet
+|Order=8}}
+
+
+*As mentioned above, the diagnosis of LUTS and urinary incontinence is clinical and complementary examinations are not systematic.
+
+==However, certain additional tests may be prescribed as part of the initial assessment:==
+
+*Urine Cytobacteriological Examination (UCE) to rule out a urinary tract infection (UTI) (161) responsible for the symptoms.
+*Measurement of post-micturition residual (PMR) using ultrasound or a bladder scan.
+*Urinary cytology to detect a [[bladder tumour|bladder tumour 314]] responsible for SBAU, may be requested as 1st line if there are arguments in favour of a bladder tumour (micro or macroscopic haematuria, smoking, urgency, age > 50 years, occupational or toxic exposure, history of bladder tumour, radiotherapy, stay in a bilharzian endemic zone....).
+
+==Some tests may be necessary for certain SBAUs and urinary incontinence, but only in the 2nd<sup> intention:==
+
+*Urodynamic assessment, which involves measuring bladder and sphincter pressures using a probe fitted with a sensor to pinpoint the mechanism responsible for the incontinence or UTES.
+*Cystoscopy, which consists of exploring the bladder using an endoscope to rule out a local factor contributing to urge incontinence (stone, tumour, foreign body), urethral stricture, prostatic obstruction or vesico-vaginal fistula.
+*Certain imaging examinations (see "Complementary examinations" section of the item).
+
+<br />

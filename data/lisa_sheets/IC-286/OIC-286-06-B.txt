@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-286-06-B
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=B
+|Title=Knowing the characteristics of nosocomial acute diarrhoea
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=6}}
+Nosocomial diarrhoea is defined as diarrhoea that occurs within 3 days of hospitalisation.
+
+Infectious causes are at the forefront, in particular viruses +++ and Cl. Difficile.
+Covid 19 infection, which can manifest as acute diarrhoea, should also be considered.
+
+Risk factors: prolonged length of stay, advanced age, large number of antibiotics received.

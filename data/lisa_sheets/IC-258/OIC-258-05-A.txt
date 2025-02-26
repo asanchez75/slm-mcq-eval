@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-258-05-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Knowing the arguments in favour of chronic renal failure
+|Description=When creatinine is elevated, name the arguments in favour of chronic renal failure.
+|Rubric=Positive diagnosis
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=5}}
+
+There are 3 criteria for chronic renal failure:
+
+'''1. '''anamnestic criteria :
+
+a history of kidney disease,
+
+evidence of increased creatinine levels several months or years previously,
+
+no clinical context leading to acute renal failure (shock, resuscitation, effective hypovolaemia, medication, etc.);
+
+'''2.    '''morphological criteria (ultrasound) :
+
+reduction in kidney size: < 10 cm on ultrasound ;
+
+Exceptions: Diabetes (++), Bilateral hydronephrosis, Autosomal dominant polycystic fibrosis, Amyloidosis, HIV-associated nephropathy (HIVAN).
+
+'''3.    '''biological criteria: two abnormalities point to CKD:
+
+- Aregenerative normocytic normochromic anaemia (lack of EPO production),
+
+Exceptions: haemolytic uraemic syndrome, haemorrhagic shock
+
+- hypocalcaemia due to deficiency of active vitamin D (calcitriol, lack of hydroxylation to 1 α).
+
+Exceptions: CKD without hypocalcaemia: myeloma, sarcoidosis or granulomatosis
+
+Exceptions: ARF with hypocalcaemia: rhabdomyolysis, tumour lysis syndrome

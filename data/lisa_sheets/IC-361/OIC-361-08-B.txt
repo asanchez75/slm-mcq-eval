@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-361-08-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Know how to diagnose rotator cuff tendinopathy
+|Description=Yocum, Neer, Hawkins, Jobe, Patte, Gerber and Palm up test
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=8}}
+
+'''Search for subacromial-deltoid impingement:'''
+
+- NEER: pain felt during passive anterior elevation associated with pressure on the acromion is a sign of anterosuperior impingement<gallery>
+File:361 3.png|NEER test (Conflict)
+</gallery>- YOCUM: pain felt during active elevation against resistance, limb adducted signs anteromedial impingement<gallery>
+File:361 4.png|YOCUM test (Conflict)
+</gallery>- HAWKINS: does pain felt during passive internal rotation with limb in anterolateral elevation sign anteromedial impingement<gallery>
+File:361 5.png|Hawkins test (Conflict)
+</gallery>'''Looking for a supraspinatus rupture:'''
+
+           - JOBE: antero-lateral elevation at 30° of antepulsion against resistance, arm in internal rotation (thumb down). The test is positive if the patient cannot resist the examiner's lowering force. <gallery>
+File:361 6.png|JOBE test (supraspinatus rupture)
+</gallery>'''Search for a rupture of the infraspinatus and Teres Minor:'''
+
+''' '''- PATTE: testing of strength against resistance in RE2 (External rotation in abduction)<gallery>
+File:361 9.png|PATTE test (infraspinatus rupture and Teres minor)
+</gallery>'''Looking for subscapularis rupture:'''
+
+''' '''- GERBER's Lift off test: This test is carried out actively and passively. In active mode, it looks for an inability to lift off the hand placed at the lumbosacral junction. In passive, it looks for an inability to keep the hand passively unstuck by the examiner. <gallery>
+File:361 7.png|Lift off GERBER test (subscapular rupture)
+</gallery>'''Search for pathology of the long portion of the biceps:'''
+
+           - Palm up Test (GILCREEST) : This test looks for pain opposite the bicipital groove during opposing anterolateral supination elevation. <gallery>
+File:361 8.png|Palm up Test (pathology of the long portion of the biceps)
+</gallery>

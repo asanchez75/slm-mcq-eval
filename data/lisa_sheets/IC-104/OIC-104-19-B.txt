@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-104-19-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the evolutionary potential of NORB
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=19}}
+- Recovery of visual function is usually favourable and complete in 80% of cases at 6 months in MS.
+
+- An Uhthoff phenomenon may be observed, manifesting itself after recovery from optic neuritis as a transient drop in visual acuity lasting a few minutes ([[Vision abnormality SD-138|Vision abnormality]]), occurring with exertion or an increase in body temperature. It is important to explain this to the patient so that they do not see it as a flare-up.

@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-271-05-B
+|Item_parent=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Item_parent_short=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Rank=B
+|Title=Know the indication for oesogastroduodenal endoscopy if atypical symptoms or onset after the age of 50.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+'''Complementary examinations to explore GERD: oesogastroduodenal endoscopy +++ , pH-metry, and/or impedance-metry, oesophageal manometry (the last examinations are never indicated as 1st intention)'''
+
+
+1) Oesogastroduodenal endoscopy (EOGD)
+
+a) Indications :
+
+-always indicated from the age of 50 for "typical" uncomplicated GERD symptoms
+
+-always indicated regardless of age in the event of warning signs (dysphagia, weight loss, digestive haemorrhage, anaemia)
+
+-to be discussed in the case of atypical signs of GERD
+
+-not necessary for diagnosis if typical symptoms with no warning signs before the age of 50
+
+Normal EOGD does not rule out GERD!
+
+
+2) Second-line tests (pH-metry and pH-impedancemetry)
+
+Dedicated nasogastric tube for continuous measurement of intra-oesophageal pH for 24 hours and impedancemetry to measure fluid or gas reflux. Minimally invasive, low-risk examination.
+
+-This examination is used to formally establish the diagnosis of
+
+                - Pathological acid GERD for simple pH-metry
+
+                - Acid, non-acid, neutral or gaseous GERD for pH-impedancemetry.
+
+In practice, the patient comes in the morning on an empty stomach for the nasal insertion of the probe and returns the next day after 24 hours of recording under normal living conditions.
+
+- Technically, the patient notes the symptoms experienced during the recording: in addition to determining the duration of acid exposure of the lower oesophagus over 24 hours (i.e. the percentage of time spent with an oesophageal pH below 4), we can also determine whether there is a correlation between reflux episodes and the symptoms reported by the patient.
+
+Depending on the circumstances, impedance-metry may be performed with or without anti-secretory treatment.
+
+-The indications are :
+
+      Atypical signs of GERD,
+
+      GERD resistant to well-managed medical treatment
+
+      pre-operative assessment when the question of GERD surgery arises
+
+
+3) Esophageal manometry
+
+- The examination studies the peristalsis, pressure and relaxation of the lower oesophageal sphincter using pressure sensors placed along a dedicated nasogastric tube (manometry tube), during an examination lasting approximately 30 minutes.
+
+- With the probe in place, the patient swallows water, and the probe measures and records the propagation of the oesophageal peristaltic wave and the relaxation of the lower oesophageal sphincter.
+
+- Indications are the search for an oesophageal motor disorder and the pre-operative assessment for GERD surgery.

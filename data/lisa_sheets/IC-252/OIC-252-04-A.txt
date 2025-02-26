@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-252-04-A
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=A
+|Title=Knowing the diagnostic criteria for undernutrition and severe undernutrition in the elderly
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''+++++++++ NEW CRITERIA HAS 2021 +++++++++''''
+
+Definition of undernutrition: the state of an organism with a nutritional imbalance. Nutritional imbalance is characterised by a negative energy and/or protein balance.
+
+'''<u>Denutrition: presence of at least 1 phenotypic criterion AND at least 1 etiological criterion.</u>'''
+
+'''PHENOTYPIC CRITERIA (1 criterion is enough)'''
+
+- Weight loss ≥ 5% in 1 month OR ≥ 10% in 6 months OR ≥10% from usual weight before onset of illness ;
+
+- BMI<22kg/m2;
+
+- Confirmed sarcopenia.
+
+How to determine the presence of ''SARCOPENIA'': Reduction in ''muscle strength'' (at least 1 criterion: 5 chair lifts or grip strength (dynamometer)) '''AND''' Reduction in '''muscle mass'' (at least 1 criterion: appendicular muscle mass or appendicular muscle mass index in kg/m2 or calf diameter).
+
+'''ETIOLOGICAL CRITERIA (1 criterion is sufficient)'''
+
+- Reduction in food intake ≥ 50% for more than 1 week OR any reduction in intake for more than 2 weeks compared with usual food consumption or protein-energy requirements;
+
+- Reduced absorption (malabsorption/maldigestion) ;
+
+- Pathological situation (with or without inflammatory syndrome): acute pathology (infection, fracture, etc.), or chronic pathology (heart failure, etc.), or progressive malignant pathology.
+
+
+Once the diagnosis has been made, the severity is assessed:
+
+The criteria for severe undernutrition are as follows (1 criterion is sufficient):
+
+- BMI<20kg/m2;
+
+- Weight loss: ≥10% in 1month OR ≥15% in 6months OR ≥ 15% compared to the usual weight before the onset of the disease ;
+
+- Albuminemia ≤ 30 g/L (with or without inflammatory syndrome).

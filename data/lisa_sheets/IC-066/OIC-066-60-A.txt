@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-066-60-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing semiology
+|Description=Emotional and behavioural symptoms Clinical forms
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=60}}
+
+BP is defined as clinical symptoms following stressful or repeated life events. The stress factor is identifiable, single or multiple, recurrent or continuous, professional or personal, often associated with life transitions or illness, or even apparently positive events (birth, moving house, promotion), requiring the subject to adapt. Bereavement-related disorders are not classified as LD but as pathological bereavement (Item 144).
+
+The emotional or behavioural symptoms observed in LD do not meet the diagnostic criteria for a characterised psychiatric disorder, despite a disturbance in functioning. Symptoms appear no later than 3 months after the onset of stress and disappear 6 months after the stress has ceased.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-149-07-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Know how to prescribe treatment for group A streptococcal angina.
+|Description=None
+|Section=Management
+|Contributors=
+|Order=7}}
+Current recommendations are to treat ''erythematous or erythematopulmonary angina'' only if it is ''proven to be GAS''.
+
+As a first-line treatment for acute group A streptococcal angina, in the absence of allergies, it is recommended to prescribe :
+
+- in children aged over 3: ''amoxicillin, 50mg/kg/24h'' taken twice a day for 6 days
+
+- in adults: ''amoxicillin at a dose of 1g*2/d per 24 hours'', 6 days.
+
+In the event of allergies, treatment with cephalosporins or macrolides may be considered.

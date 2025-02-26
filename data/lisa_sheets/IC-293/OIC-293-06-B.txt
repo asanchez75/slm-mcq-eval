@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-293-06-B
+|Item_parent=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles of taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=B
+|Title=Know the definition and main indications of extemporaneous examination.
+|Description=The definition and main indications of extemporaneous examination, its principles and limitations.
+|Rubric=Additional examinations
+|Contributors=Arnaud Uguen
+|Order=6}}
+
+'''''" How to justify and prescribe an extemporaneous examination of a pathological anatomy and cytology sample "'''''
+
+An extemporaneous examination of a pathological anatomy and cytology sample consists of an examination of the sample to provide a result in less than 30 minutes.
+
+The time taken to carry out an extemporaneous examination does not allow an exhaustive, optimal morphological technique to be performed, and even less for additional analysis techniques. Also, <u>the result of an extemporaneous examination is not definitive and must always be verified by continuing the analyses according to the standard process</u> for analysing a Pathological Anatomy and Cytology sample (''cf knowledge objective 2C-293-EC-B03'').
+
+
+'''<u>An extemporaneous examination is only justified if the response to that examination has an immediate impact on a procedure in progress.</u>''''
+
+For example, in the course of a surgical operation, it may be necessary to define the tumoral nature (or otherwise) of a lesion, to determine whether it is malignant or benign, to determine the extent of a tumoral lesion (whether or not there is sufficient surgical margin, whether or not the cancer has spread to the "sentinel lymph node"), or to ensure that the sampling procedure has involved sufficient material to allow the analyses to continue.
+
+
+The need for an extemporaneous examination, its justification and the information expected, must be mentioned in writing on the <u>information sheet</u> sent with the sample (''cf knowledge objective 2C-293-EC-A01''). The <u>sample in question must be sent immediately in a fresh (unfixed)</u> state to the Pathological Anatomy and Cytology department (''cf knowledge objective 2C-293-EC-B02''). The extemporaneous examination is most often histological with hardening of the sample by freezing at -20°C and microtome sectioning in freezing to produce a rapidly stained tissue section for immediate observation under the microscope. However, depending on the information required, this examination may also be macroscopic (e.g. assessment of the limits of removal of a tumour lesion) or cytological (cytoponctions, tissue appositions or biological fluids).
+[[File:Pour 2C 293 EC B05.jpg|thumbnail|Illustration of a cryomicrotome tissue section of pancreatic tissue stained with toluidine blue as part of an extemporaneous examination to determine whether the pancreatic surgical section was healthy or cancerous during the operation (photo A, x 10) and of an HES-stained tissue section of the same tissue fragment after formalin fixation and paraffin embedding (photo B, x 10). More morphological detail can be seen in photo B].
+
+The extemporaneous examination process is illustrated by the following video: https://www.youtube.com/watch?v=kH1Z0A_TxTE&t=3s

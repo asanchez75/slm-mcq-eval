@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-155-40-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing first-line examinations
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=40}}
+Must not delay management
+
+Infectious diseases, including blood cultures
+
+Injected cervico-facial scan in case of diagnostic doubt (allows, at the collected stage, to visualize the size of the collection, and its impact on the VADS), eliminate thrombophlebitis of the [[Anatomy:Cavernous sinus|cavernous sinus]] in case of suspicion of malignant staphylococcal disease of the face

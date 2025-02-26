@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-047-14-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Deaf child
+|Description=A better definition?
+|Rubric=Definition
+|Contributors=
+|Order=14}}
+See also ''[[item 89]]''
+
+Definition according to
+
+* the degree assessed on four conversational frequencies: 500, 1,000, 2,000 and 4,000 Hertz (Hz) of the better ear
+** mild (hearing loss of 21 to 40 decibels (dB))
+** moderate (41 to 70 dB loss)
+** severe (71 to 90 dB loss)
+** profound (loss of more than 90 dB) where nothing is perceived even when the voice is loud
+
+* organs affected
+** sound transmission (mostly acquired): outer ear and middle ear
+** perception (mostly congenital, sometimes acquired as after certain bacterial meningitis): inner ear, more rarely the central auditory system.
+** mixed

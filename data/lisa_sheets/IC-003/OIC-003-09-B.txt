@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-003-09-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing therapeutic logic
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+The '''therapeutic approach''' is part of the broader medical approach.
+
+- '''Naming the clinical situation'' (e.g. results of a consultation in general practice)
+
+- '''Decide''', in a '''negotiated''' way with the patient, according to :
+
+o The clinical situation described.
+
+o Patient preferences and characteristics.
+
+o Characteristics of the doctor.
+
+o Economic factors.

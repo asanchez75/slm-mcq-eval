@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-028-07-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Intitulé=Acute gravidic cystitis: knowing the biological diagnosis
+|Description=Know the microbiological criteria for acute gestational cystitis
+|Rubric=Biological diagnosis
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=7}}
+
+
+The biological diagnosis is based on '''the performance of a [[Analysis of a urine cytobacteriological examination (ecbu) SD-189|ECBU]]'''[[Analysis of a urine cytobacteriological examination (ecbu) SD-189|.]]
+
+An ECBU should be carried out regardless of the result of the urine dipstick in the presence of clinical signs of acute cystitis.  
+
+The microbiological criteria for acute cystitis are :
+
+- '''Leukocyturia threshold > 10<sup>4</sup>/mL'''
+
+- '''And bacteriuria threshold:''''
+
+- '''≥ 10<sup>4</sup> CFU/mL for most bacteria except ''E. coli'''''
+
+- '''≥ 10<sup>3</sup> CFU/mL for E. coli (and Staphylococcus saprophyticus)'''
+
+cf Understanding the treatment and follow-up of urinary tract infections during pregnancy [[Understanding the treatment and follow-up of urinary tract infections during pregnancy 2C-161-PC-A04|2C-161-PC-A04]]

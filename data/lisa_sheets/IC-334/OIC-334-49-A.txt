@@ -1,0 +1,31 @@
+*knowledge objective
+|Identifiant=OIC-334-49-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and assessment of complications on arrival at hospital for: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing the indications for imaging in patients with spinal or vertebro-medullary trauma
+|Description=The respective roles of CT and MRI scans and the precautions to be taken.
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=49}}
+
+* The imaging assessment must fulfil a ''triple objective'': establish a diagnosis, formulate a prognosis and guide the therapeutic strategy.
+* Precautions'' to be taken when carrying out imaging in the case of vertebro-medullary trauma until the diagnosis has been ruled out or specific treatment has been given:
+** Clearance on a hard surface or shell mattress
+** Maintenance of the head-neck-trunk axis, mobilisation en bloc
+** Presence of a neck brace with sternal and chin support until a cervical injury has been ruled out.
+* Standard X-rays: in the supine position, front and side views to visualise the injury (deformity, loss of height) and provide information on bone quality.
+* Computed tomography (CT)'' = first-line examination:
+** Identification of the lesion(s) and its evaluation using reconstructions in the 3 planes: loss of vertebral height, kyphotic deformity in the sagittal axis, recession of the posterior wall in contact with the spinal cord, damage to the posterior arch, comminution of the vertebral body.
+** Diagnosis of associated lesions in the context of polytrauma (body scan).
+* MRI of the spine:
+** Allows assessment of neurological elements (spinal cord, nerve roots), ligaments and intervertebral discs.
+** Used to diagnose fractures not seen on the CT scan and to confirm whether or not they are recent.
+** It should not delay patient management in the event of neurological disorders.
+
+[[File:Vertebral compression.jpg|left|vignette|307x307px|Radiography of spine in profile with vertebral compression]]
+[[File:Spine scan.png|centred|vignette|490x490px|Scan of spine fracture with sagittal, frontal and transverse images]]
+
+
+[[File:MRI of vertebral fracture.jpg|left|vignette|MRI of spine, T2 sequence, with visualization of fracture]]
+<br />

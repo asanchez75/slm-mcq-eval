@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-237-02-A
+|Item_parent=Palpitations
+|Item_parent_short=Palpitations
+|Rank=A
+|Title=Know the signs of seriousness and urgent ECG diagnoses
+|Description=Know the alarming symptoms and urgent ECG diagnoses of ACS and VT
+|Topic=Emergency identification
+|Contributors=Arnaud Bisson
+|Order=2}}
+The elements of seriousness are the '''terrain''', the '''poor haemodynamic tolerance''' and the '''ventricular tachycardia''' which we look for by:
+
+'''The Interrogation:'''
+
+*Personal history:
+**underlying cardiac disease (ischaemic, dilated, hypertrophic, congenital...),
+**rhythm disorders, particularly ventricular,
+**pacemaker or cardiac defibrillator
+*family history
+**sudden death in infancy or before the age of 35 in the family pointing to arrhythmias with a genetic cause (family tree).
+*symptoms :
+**lipothymia, syncope (''Malaise/loss of consciousness)''
+**signs of low output (cerebral: confusion, digestive: abdominal pain)
+**heart failure signs (''dyspnoea'')
+**angina (linked to acute or functional coronary syndrome) (''chest pain'')
+
+'''The electrocardiogram:'''
+
+*Evoking an absolute emergency (risk of cardiorespiratory arrest):
+**Any regular tachycardia with wide QRS is suggestive of ventricular tachycardia until proven otherwise.
+**repolarisation disorder suggestive of acute coronary syndrome
+*ECG elements of severity:
+**fine QRS tachycardia with poor clinical tolerance
+**signs of underlying heart disease (sequelae, primary electrical disease)
+
+[[File:Ventricular tachycardia.png|centric|vignette|900x900px|Regular tachycardia (160/min) with wide QRS (right delay aspect) with ventriculo-atrial dissociation * and capture/fusion complexes <sup>#</sup>)]]

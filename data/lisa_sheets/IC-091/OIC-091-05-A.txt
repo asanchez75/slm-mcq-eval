@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-091-05-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Know the syndromic and topographical diagnostic approach to a recent neurological deficit.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+A syndromic and topographical diagnosis can be made by analysing the symptoms and the clinical examination:
+
+The "mode of onset" of the deficit is a major factor in the diagnosis:
+
+- sudden (seconds or minutes) :
+
+- in the case of a sudden maximal deficit, the mechanism is primarily vascular;
+
+- a deficit lasting a few tens of seconds may suggest an epileptic mechanism ("epileptic walking"), or a migraine mechanism over a few tens of minutes ("migraine walking"), but a vascular mechanism is also possible for these modes of onset;
+
+- Acute/subacute (a few hours or a few days): this points to an inflammatory, infectious or toxic mechanism; certain cerebrovascular diseases can also have this type of onset;
+
+- rapidly progressive (a few weeks): rapid expansive process (malignant tumour, abscess, subdural haematoma), infectious, metabolic.
+
+
+There are several "evolutionary profiles":
+
+- a "transient" neurological deficit: this is not observed by the doctor, the clinical examination is normal, and the history must therefore be particularly meticulous (patient, witnesses); these deficits are linked to central damage in the vast majority of cases;
+
+- a "persistent" neurological deficit: the clinical examination allows a syndromic diagnosis to be made;
+
+- a "spontaneous improvement" profile: this can be observed in cases of vascular or inflammatory mechanisms (multiple sclerosis relapses);
+
+- an "oil stain" deficit: if the condition worsens, an expansive process is likely.
+
+It is also necessary to take into account ''the terrain, the context and the associated signs''.
+
+The older the patient, the more frequent the vascular causes. Multiple sclerosis most often starts in young people. However, caution should be exercised in this orientation, as younger patients are also at risk of stroke. Past history: vascular risk factors, immunodepression, foreign residence, toxic substances: alcohol, drugs, treatments taken.
+
+Context, associated signs: fever, vital signs, other general signs, trauma, external signs of cranial contusion, other neurological signs associated with the deficit: headache ([[Headache SD-118|Headache]]), intracranial hypertension syndrome (ICHT), meningeal syndrome, neurogenic pain, myalgia, triggering factors, toxic intake. Associated systemic disease: cardiac disease, skin disease (purpura), etc.

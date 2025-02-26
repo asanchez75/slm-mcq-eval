@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-224-19-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the long-term care plan and monitoring procedures for a patient with hypertension.
+|Description=Know how to assess the efficacy of treatment, tolerance of treatment and patient compliance.
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=19}}
+
+
+=== Follow-up schedule ===
+Hypertensive patients should be monitored :
+
+- every month for the first 6 months of treatment
+
+- every 3 to 6 months after the first 6 months of treatment and once the blood pressure target has been reached
+
+=== Monitoring points to watch out for ===
+This individualised, patient-centred monitoring includes :
+
+- BP measurements at the doctor's surgery, to be confirmed by ambulatory BP measurements (AMT or MAPA)
+
+- monitoring patient compliance with antihypertensive treatment and lifestyle changes
+
+- an assessment of the efficacy and safety of anti-hypertensive treatments
+
+- reassessment of the risk of drug interactions
+
+- looking for orthostatic hypotension
+
+- adapting antihypertensive treatment to specific situations:
+
+* reduce treatment in the event of persistent orthostatic hypotension, weight loss due to malnutrition or in certain frail patients
+* temporary discontinuation of treatment in the event of marked hypovolaemia or an intercurrent event, particularly in the elderly (diarrhoea, dehydration, infection, etc.).
+
+- screening for target organ damage
+
+=== Additional examinations ===
+The complementary examinations to be carried out are:
+
+o a biological check of creatinine levels and a proteinuria test every 1 to 2 years, or more frequently in elderly, diabetic, renal or cardiac patients
+
+o biological control of fasting glycaemia and investigation of lipid abnormalities every 3 years, in the absence of diabetes or dyslipidaemia
+
+o an ECG every 3 to 5 years, or more frequently if there are cardiac symptoms or underlying heart disease

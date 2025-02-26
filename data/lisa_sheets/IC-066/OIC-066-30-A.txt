@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-30-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing how to manage panic attacks
+|Description=Refer to item 352
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=30}}
+
+Treatment of the crisis with a rapid-acting anxiolytic such as [[Benzodiazepines|benzodiazepine]] or hydroxyzine on an occasional basis, temporarily in combination with SSRIs (background treatment). Prevent the risk of dependence on [[Benzodiazepines: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A09|benzodiazepines]] and include behavioural management (reassurance, abdominal breathing and therapeutic education).

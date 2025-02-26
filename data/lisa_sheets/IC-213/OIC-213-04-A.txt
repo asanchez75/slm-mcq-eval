@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-213-04-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short= Anaemia in adults and children
+|Rank=A
+|Title=Know how to diagnose anaemia
+|Description=Know the positive clinical elements that allow the diagnosis to be made
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+== '''Anemia syndrome''' (inconstant and non-specific)'''':'''==
+All the signs or symptoms that may indicate anaemia, including mucocutaneous pallor (''Figures 1 and 2''), unusual ''asthenia'', headache, palpitations, ''tachycardia'', functional heart murmur '''(discovery of abnormalities on cardiac auscultation)''', and/or exertional '''dyspnoea''' of variable intensity. Anaemia may also be revealed by signs associated with ''tissue hypoxia'' (e.g. angina ''(chest pain), lipothymia ''([[Malaise, loss of consciousness, convulsive seizure in adults (see item 105)|malaise/loss of consciousness]]), confusional syndrome ''([[2C-131|mental confusion/disorientation]])'').<br /><gallery caption="Figure 1 and 2">
+File:Figure 1 Cutaneous pallor Anemia 8g.png|'''''Figures 1 and 2. Skin pallor in a patient with anaemia 8 g/dL (face, hand)'''''
+File:Figure 2 Skin pallor hand Anaemia 8g.jpg
+</gallery>
+
+==Anaemia secondary to haemolysis:==
+Jaundice of varying intensity (''Figure 3'') may be observed. In the case of massive "intravascular" haemolysis, dark or even "port-red" urine, a "flu-like" syndrome and/or low back pain may be observed. In cases of persistent intra-tissue haemolysis, splenomegaly is frequently observed.

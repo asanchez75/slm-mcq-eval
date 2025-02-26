@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-339-06-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Knowing the electrocardiographic signs of ST+ ACS and confirming its location; knowing the electrocardiographic signs of non-ST+ ACS
+|Description=For ST+: ST elevation, mirror, territories, left bundle branch block
+|Section=Positive diagnosis
+|Contributors=Mathieu Kerneis
+|Order=6}}
+
+
+* '''Knowing the location of an ST+ ACS = knowing the ST segment elevation territory:'''
+** V1-V4 = anterosepto-apical (anterior)
+** V5, V6 = low lateral
+** D1,aVL = high lateral
+** V1-V6 = extended anterior
+** DII,DIII,aVF = inferior
+** V7,V8,V9 = posterior
+** V3R, V4R = right ventricle
+
+[[File:Location ecg.png|focused|thumbnail|900x900px|Location of ECG abnormalities during ACS]]
+
+* '''ECG signs of ST+ ACS (in order of appearance):''''
+** large T wave, broad and symmetrical,
+** then at least 1mm supershift in two contiguous leads, encompassing the T wave,
+** then Q wave of necrosis.
+** The overshift is associated with a mirror ST segment undershift in the opposite leads (e.g. anterior for a posterior infarct).
+
+'''The appearance of a left bundle branch block has the same diagnostic value as an overshoot if associated with chest pain suggestive of an ACS.'''
+<br />
+[[File:ACS ST+.png|centred|vignette|900x900px|'''Example of ECG of ACS ST+ in the inferior territory with anterior mirror (Q wave of necrosis from V1 to V3 and Pardee wave from V1 to V4, mirror in DII, DIII, aVF)''']]
+
+* '''ECG sign of ST- ACS:'''
+** '''The ECG may be normal.'''
+** The following abnormalities may also be found: ST segment undershift, negative T wave, biphasic T wave (positive and negative).
+** These abnormalities must be systematised within a territory.
+
+[File:ECG SCA ST-.png|centric|vignette|900x900px|Example of ECG of SCA ST- with negative T wave in the anterior territory and biphasic laterally (V5-V6) in association with a thrombotic lesion responsible for partial obstruction of the proximal IVA]].

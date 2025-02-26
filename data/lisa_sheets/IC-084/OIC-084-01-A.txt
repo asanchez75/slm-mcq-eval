@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-084-01-A
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=A
+|Title=Knowing the definition of primary open-angle glaucoma
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Primary open-angle glaucoma (formerly chronic glaucoma) is defined as ''progressive optic neuropathy'' with characteristic alterations of the optic nerve head and corresponding alterations of the visual field, in the presence of an open iridocorneal angle.  
+
+Maintaining low intraocular pressure is an effective treatment for the worsening of primary open-angle glaucoma, but normal-pressure glaucoma also exists.  
+
+It is a disease that initially causes few or no symptoms and progresses slowly, which is why it is so serious.

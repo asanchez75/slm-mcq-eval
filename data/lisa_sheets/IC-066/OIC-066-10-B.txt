@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-10-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the main psychiatric and non-psychiatric differential diagnoses
+|Description=None
+|Rubric=Differential diagnosis
+|Contributors=El-Hage Wissam
+|Order=10}}
+
+Psychiatric etiologies: [[Bipolar Disorder I and II 2C-064-DE-B01|Bipolar Disorder Type I or II]], [[Persistent Delusional Disorder|Delusional Disorder]] persistent (associated psychotic symptoms), schizophrenia, [[Personality Personality Disorder (DSM-5 General Diagnostic Criteria) 2C-066-DE-A06|personality]] disorder, [[Anxiety SD-116|anxious]] disorder, [[Obsessions ; Compulsions; Obsessive-compulsive disorder 2C-066-DE-A03|obsessive-compulsive disorder]] (Item 66), [[Alcohol addiction.|Addictive disorders.
+
+Non-psychiatric etiologies: use of psychoactive substances ([[Alcohol, tobacco, sedentary lifestyle, overweight, obesity, low-fibre diet 2C-290-ET-A09|alcohol]], [[Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs (see item 322)|cannabis]], amphetamines, cocaine, hallucinogens), neurological (brain tumour, multiple sclerosis, stroke, onset of dementia, focal epilepsy, encephalitis), endocrine (hypothyroidism, Cushing's disease), metabolic (hypoglycaemia, ionic disorders, Wilson's disease), iatrogenic (corticosteroids, interferon-alpha, beta-blockers, antipsychotics, oestroprogestogenic pills etc).
+
+<br />

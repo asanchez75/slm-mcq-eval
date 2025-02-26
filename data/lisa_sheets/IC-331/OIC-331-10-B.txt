@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-331-10-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Know the drug treatment (adrenaline) for the initial management of a non-shockable rhythm.
+|Description=Know the indications, dosage and sequence of the reference vasopressor (adrenaline) and the reference anti-arrhythmic agent (amiodarone).
+|Rubric=Management
+|Contributors=
+|Order=10}}
+Adrenaline is used in a bolus of 1 milligram every 3 to 5 minutes during cardiopulmonary resuscitation.
+
+Its introduction is recommended immediately in the event of an initial non-shockable rhythm.
+
+Its use is recommended on a delayed basis in the event of an initial shockable rhythm, after the 3rd defibrillator analysis.
+
+The use of amiodarone is recommended in the event of an initial shockable rhythm, after the 3rd defibrillator analysis.

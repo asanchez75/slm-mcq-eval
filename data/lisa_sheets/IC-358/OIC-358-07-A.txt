@@ -1,0 +1,106 @@
+{{knowledge objective
+|Identifiant=OIC-358-07-A
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=A
+|Title=Knowing the indications and objectives of imaging examinations for acute pancreatitis
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=7}}
+
+
+In the event of a combination of suggestive pain + liposaemia greater than 3N, no examination is necessary for a positive diagnosis of AP.
+
+The two main tests are abdominal ultrasonography (for aetiological purposes) and abdomino-pelvic CT scan with contrast injection (for prognosis and differential diagnosis): they are complementary (Table 1).
+
+Abdominal ultrasound is only used for aetiological orientation, essentially looking for vesicular lithiasis, more rarely for dilatation of the main bile duct and very rarely for lithiasis of the main bile duct (ultrasound is not very sensitive for lithiasis of the main bile duct). It should be carried out systematically, ideally within 48 hours (risk of vesicular sludge induced by fasting), and abdomino-pelvic CT cannot replace it as it is less effective in diagnosing gallbladder disease.
+
+Abdominal and pelvic CT scans with injection of contrast medium are mainly used to assess the severity of the disease (although they may identify differential diagnoses). Performed after creatinine measurement, it should not be done too early, as it may minimise the severity of the pancreatitis. It is carried out approximately 72 hours after the onset of pain. If there is any uncertainty (patient seen after the peak of lipasemia or atypical pain), an abdomino-pelvic CT scan can confirm AP if it shows characteristic lesions.
+Abdominal and pelvic CT scans show :
+
+- The presence and extent of pancreatic necrosis (lack of enhancement of the pancreas in the early stages) or peripancreatic necrosis.
+
+- The presence and location of necrosis collections
+
+- Complications such as ascites, pleural effusion, fistula, haemorrhage or perforation of a hollow organ.
+
+Abdominal and pelvic CT scans are used to calculate a severity score known as the CTSI (Computed-Tomography Severity Index), which combines the extent of necrosis and enhancement of the pancreas (Table 2). A score of 4 or more indicates severe pancreatitis, with a higher risk of death and severe complications.
+
+
+'''Table 1. Indications and objectives of imaging examinations for acute pancreatitis (''[[Reasoned request/prescription and choice of diagnostic examination SD-178|reasoned request/prescription and choice of diagnostic examination]]''), ''[[Discovery of an abdominal abnormality on medical imaging examination SD-224|discovery of an abdominal abnormality on medical imaging examination]]'', ''[[Writing the request for an imaging examination SD-230|writing the request for an imaging examination]]'', ''[[Request for an imaging examination SDD-231|request for an imaging examination]]'').'''
+{| class="wikitable"
+|
+|'''Abdominal ultrasound''''
+|'''Abdominal-pelvic scanner with contrast injection'''
+|-
+|'''Indication'''
+|Aetiological diagnosis
+|Diagnosis of severity
+
++/- Positive diagnosis if atypical presentation
+
++/- Eliminates a differential diagnosis
+|-
+|'''Delay''''
+|Emergency: < first 48 hours after onset of pain
+|72 hours after onset of pain
+|-
+|Anomalies to look for
+|Vesicular lithiasis
+
+Dilatation of the main bile duct
+
+Lithiasis of the main bile duct
+|Pancreatic necrosis and collections of necrosis allowing calculation of the CTSI<sup>(1)</sup> score (severe AP if CTSI ≥ 4)
+
+Complications: ascites, pleural effusion, fistula, haemorrhage (''''''[[Acute haemorrhage SD-060|acute haemorrhage]]''''), perforation of a hollow organ
+|}
+<sup>(1)</sup>CTSI: Computed-Tomography Severity Index (severity score).
+
+
+'''Table 2: Computed-Tomography Severity Index - Acute Pancreatitis Severity Score''''
+{| class="wikitable"
+|'''Scannographic criteria at 72 hours from onset of pain'''
+|'''Points'''
+|-
+|'''PANCREATIC INFLAMMATION''''
+*Normal pancreas
+*Pancreatic enlargement (focal or diffuse)
+*infiltration of peripancreatic fat
+*A peripancreatic collection
+*>or equal to 2 collections OR a single collection with gas bubbles
+|
+
+
+0
+
+1
+
+2
+
+3
+
+4
+|-
+|'''PANCREATIC NECROSIS''''
+*0
+*< 30%
+*30-50%
+*> 50%
+|
+
+
+0
+
+2
+
+4
+
+6
+|}
+Classification Mild pancreatitis: 0-3
+
+Moderately severe pancreatitis: 4- 6
+
+Severe pancreatitis 7-10<br />.

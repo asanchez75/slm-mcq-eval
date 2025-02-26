@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-229-06-B
+|Item_parent=Venous access monitoring and complications
+|Item_parent_short=Venous access monitoring and complications
+|Rank=B
+|Title=Knowing the conditions for inserting a central venous line
+|Description=Link to a video filming and explaining the insertion of a CVV
+|Section=Management
+|Contributors= Philippe Lacroix, Simon Rickenbach
+|Order=6}}
+[https://videotheque.uness.fr/w/2byuuZFUNHTbN2VR81yvZa Know the conditions for inserting a central venous line]

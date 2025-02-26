@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-266-02-B
+|Item_parent=Polycystic kidney disease
+|Item_parent_short=Polycystic kidney disease
+|Rank=B
+|Title=Knowing the autosomal dominant mode of transmission
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot
+|Order=2}}
+
+The disease is inherited in the dominant autosomal dominant mode.
+
+Two genes are involved in the vast majority of cases, ''PKD1'' and ''PKD2''.
+
+The disease is similar in these 2 cases, with one exception: the mean age of end-stage renal failure (54 years ''PKD1'' ''vs'' 69 years ''PKD2'')''.''

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-334-36-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to suspect vascular and neurological complications
+|Description=None
+|Rubric=Emergency identification
+|Contributors=CFCOT
+|Order=36}}
+
+'''Vascular:'''
+
+* ischaemic lesions: pallor, increased skin recolouration time, measurement of the ankle-arm systolic pressure index, reduction or abolition of distal pulses, expansive and/or compressive haematoma; ischaemic lesions may be part of a compartment syndrome.
+* haemorrhagic lesions: haemodynamic instability, haemorrhage whether external or not (beating haematoma).
+
+'''Neurological:'''' epicritic or thermo-algesic tactile sensitivity deficit, functional impotence.

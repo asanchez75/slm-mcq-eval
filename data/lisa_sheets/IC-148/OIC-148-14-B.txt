@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-148-14-B
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Nasosinus infections of adults and children
+|Rank=B
+|Title=Knowing the main causes of chronic sinusitis
+|Description=Dental maxillary sinusitis, fungal ball, fungal sinusitis.
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+The onset of chronic sinusitis is '''favoured by''':
+
+Ø Inappropriate treatment during an acute episode
+
+Ø Recurrent acute episodes
+
+Ø Local anatomical factors (dental granuloma, dental amalgam in the back of a maxillary sinus, malformations, septal deviation, foreign bodies, tumour).
+
+Ø Terrain (allergies, nasosinus polyposis)
+
+Ø Environmental factors (pollution, air conditioning, smoking...)
+
+
+As well as the usual bacteria (streptococcus, staphylococcus, haemophilus influenzae, etc.), the germs involved include anaerobes, BGN and moulds (most commonly Aspergillus fumigatus).
+
+
+If the patient presents with chronic sinusitis, a CT scan of the sinuses should be performed, and a dental check-up carried out if maxillary sinusitis is present.

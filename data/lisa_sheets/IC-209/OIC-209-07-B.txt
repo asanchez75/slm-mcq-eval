@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-209-07-B
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=B
+|Title=Knowing the indications for imaging tests for COPD
+|Description=RP
+|Section=Complementary examinations
+|Contributors=
+|Order=7}}
+'''SDD 178 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]''''
+
+'''In stable condition:'''
+
+- Chest X-rays are of no value in the positive diagnosis of COPD, but they are performed at the time of diagnosis and may reveal co-morbidities (heart disease, cancer). It may show signs of distension in cases of severe disease (see example of a COPD chest X-ray).
+
+- Chest CT is not performed routinely. It may be indicated in severe forms. It can determine the type and extent of emphysema lesions, look for bronchiectasis and detect bronchopulmonary cancer.
+
+'''Exacerbation of COPD:'''
+
+- In the case of outpatient treatment, no further examination is necessary if the picture is typical and does not present any signs of seriousness.
+
+- Chest X-rays are routinely performed in cases of severe exacerbation requiring hospitalisation, or where there is any doubt about the diagnosis.
+
+- An angio-CT scan may be discussed depending on the initial indications (suspicion of pulmonary embolism).

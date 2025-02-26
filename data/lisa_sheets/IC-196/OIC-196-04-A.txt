@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-196-04-A
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=A
+|Title=Knowing the additional tests for rheumatoid arthritis
+|Description=Biological, immunological, radiographic and ultrasound signs
+|Rubric=Additional tests
+|Contributors=
+|Order=4}}
+
+[[File:Image PR2.jpg|vignette]]
+'''Biological signs -''' Inconsistent elevation of C-reactive protein or even sedimentation rate ([[Acute or chronic inflammatory syndrome SD-186]]; [[Elevation of c-reactive protein (cr) SD-203]]). Inconsistent positivity of rheumatoid factor and anti-citrullinated protein autoantibodies (however, at a high specificity threshold, ACPA also has very good sensitivity). Sterile inflammatory synovial fluid without microcrystals if joint puncture.
+
+'''Radiographic signs -'''' Systematic initial X-rays of the hands and wrists from the front, the forefeet from the front and the forefeet from three-quarters, normal or revealing bone erosions or diffuse pinching of the joint spaces ([[Discovery of a bone and joint anomaly on medical imaging examination SD-228]]) '''(Image 2).'''''
+
+'''Ultrasound signs -'''' Joint ultrasound in cases of clinical doubt, consistently revealing intra-articular fluid effusion, synovial thickening with or without synovial hyperhaemia (active synovitis), tenosynovitis and/or bone erosions.

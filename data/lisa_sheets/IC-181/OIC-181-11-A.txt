@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-11-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing haemovigilance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=11}}
+
+Haemovigilance is one of the health monitoring activities carried out by the French National Agency for the Safety of Medicines and Health Products (ANSM).
+
+This is the continuous process of collecting, identifying, evaluating and investigating potential adverse events occurring throughout the labile blood product transfusion chain, from donor collection to post-transfusion follow-up of the recipient.

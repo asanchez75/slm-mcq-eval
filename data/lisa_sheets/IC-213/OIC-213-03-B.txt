@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-213-03-B
+|Item_parent=Anemia in adults and children
+|Item_parent_short= Anaemia in adults and children
+|Rank=B
+|Title=Knowing the principles of erythropoiesis
+|Description= RBC shape, lifespan, erythropoiesis, EPO, globin chains, 02, reticulocytes
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+
+'''Red blood cell''' (RBC), or haematocyte: anucleated cell in the shape of a biconcave disc 7 μm in diameter, giving it great deformability properties. Lifespan: 120 days. RBCs are destroyed either by an intracellular phagocytosis mechanism (spleen, liver and bone marrow macrophages, 85%) or in vessels (intravascular physiological haemolysis, 15%).
+
+The RBC is derived from the erythroblast which, at the end of the medullary differentiation and maturation process of the erythroblastic lineage, gives rise to the reticulocyte, the last stage before the RBC.
+
+Erythropoiesis: dependent on a number of factors, in particular erythropoietin (EPO), synthesised mainly by renal tubular cells.
+
+'''Haemoglobin''' (Hb): pigment consisting of heme molecules which bind iron molecules and 4 globin chains (2 α chains and 2 β chains in adults); main constituent of RBC. Plays a vital role as a transporter of O<sub>2</sub> from the lungs to target tissues.

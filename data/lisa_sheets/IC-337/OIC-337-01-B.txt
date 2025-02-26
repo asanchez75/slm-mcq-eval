@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-01-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing the main acute intoxications in adults and children
+|Description=To understand the toxicity of drugs encountered in emergency departments by clinicians in deliberate drug intoxications: benzodiazepines, opioids, neuroleptics, non-tricyclic antidepressants, paracetamol, alcohol, etc.
+|Rubric=Physiopathology
+|Contributors=Dominique Vodovar
+|Order=1}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 2.jpg
+</gallery>

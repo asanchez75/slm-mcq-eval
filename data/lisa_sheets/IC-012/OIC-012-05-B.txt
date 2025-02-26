@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-012-05-B
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=B
+|Title=Know the definition of a judicial report and a judicial requisition
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=5}}
+
+o '''Judicial reporting:''' legal term: bringing to the attention of the competent authorities ''serious facts requiring appropriate measures''. In the case of a report made by a doctor, [[Identify situations covered by a judicial report 2C-012-IU-A01|its purpose will be to protect a victim or prevent the commission of a murder or suicide]].
+
+Reporting is a legal exception to medical confidentiality. Doctors may not be prosecuted for making a report, unless it is established that they did not act in good faith (Art. 226-14 of the Code of Criminal Procedure<ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193510/</ref>).  Reports must be "objective" and must not implicate third parties by name. Numerous templates are available on the Internet to help doctors draw up their reports [https://www.conseil-national.medecin.fr/documents-types-demarches/documents-types-medecins/pratique, in particular on the website of the French Medical Council (Conseil de l'ordre)]. The report should be sent to the ''Procureur de la République'' (Public Prosecutor), by telephone and then by e-mail as a matter of urgency, with a copy to the Cellule de Recueil des Informations Préoccupantes (CRIP) if it concerns a minor. Contact details are available on the Internet.
+
+o '''Réquisition judiciaire:''' legal term: document by which a judicial police officer requests any qualified person to carry out '''technical or scientific findings or examinations''' (Art. 60 of the Code of Criminal Procedure<ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311848/</ref>). The purpose of a judicial requisition cannot be to obtain medical information.<ref>https://solidarites-sante.gouv.fr/IMG/pdf/dgos_onvs_fiche_35.pdf</ref>
+<references />

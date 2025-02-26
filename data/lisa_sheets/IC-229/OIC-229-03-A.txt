@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-229-03-A
+|Item_parent=Venous access monitoring and complications
+|Item_parent_short=Venous access monitoring and complications
+|Rank=A
+|Title=Knowing the technique for inserting a peripheral venous line
+|Description=Link to a video filming and explaining the insertion of a VVP
+|Topic=Management
+|Contributors= Philippe Lacroix, Simon Rickenbach
+|Order=3}}
+[https://videotheque.uness.fr/w/8kikHuJrr7kTcLQJ4QuY7y Learn how to insert a peripheral venous line]

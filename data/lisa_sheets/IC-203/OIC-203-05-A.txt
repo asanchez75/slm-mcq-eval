@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-203-05-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the elements of diagnostic orientation in the face of chronic dyspnoea
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+The clinical elements will allow an initial etiological orientation:
+
+* Dyspnoea with wheezing
+** Asthma: young subject, atopy, variability of symptoms, usually nocturnal
+** COPD: smoking, everything, bronchial rales
+** Heart failure: history and CV risk factors, orthopnoea.
+* Dyspnoea with tele-inspiratory crackles:
+** o Diffuse infiltrative pneumonitis: dry cough, search for systemic disease.
+** Heart failure: history and CV FDR, orthopnoea.
+* Normal auscultation:
+** Ventilatory pump disease (neuromuscular, skeletal, obesity)
+** Pulmonary vascular disease (PAH)
+** Anaemia
+* Asymmetric auscultation: pleural pathology

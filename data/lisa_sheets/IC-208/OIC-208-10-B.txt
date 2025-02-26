@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-208-10-B
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=B
+|Title=Know the main mechanisms responsible for hypoxaemia and those responsible for hypercapnia
+|Description=None
+|Rubric=Physiopathology, Etiologies
+|Contributors=
+|Order=10}}
+
+
+*Hypoxaemia with normo or hypocapnia (increase in the alveolar-arterial difference)
+**Diseases of the pulmonary exchanger (see above)
+*predominantly alveolar hypoventilation
+**Diseases of the ventilatory pump
+*COPD is above all a disease of the exchanger with hypoxaemia and normo/hypocapnia initially. At a later stage, alveolar hypoventilation may appear in the most severe patients.

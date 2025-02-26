@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-131-16-B
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=B
+|Title=Knowing the factors favouring HTO with age
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=16}}
+Ageing itself favours the onset of OHT through damage to the baroreceptor, ageing of the arterial wall and reduced aldosterone and renin levels.
+
+HTO is often multifactorial and its aetiologies are numerous, but its aetiological diagnosis must include at least the following:
+
+* IATROGENIA'' +++ to be sought as a priority by tracking down any recent introduction or change in dosage: nitrate derivatives, combination of antihypertensives, alpha-blockers, tricyclic antidepressants and MAOIs, L-dopa, anticholinergics, phenothiazine, morphine, etc.
+* Hypovolaemia, dehydration: look for any acute pathology that may contribute to this,
+* Anaemia'': HTO is a symptom of poor tolerance of anaemia which may justify a transfusion,
+* Cardiac failure due to inadequate haemodynamic response to orthostatism,
+* More rarely endocrinopathies (pheochromocytoma, dysthyroidism, adrenal insufficiency, ante-hypophyseal insufficiency),
+* Dysautonomia due to :
+** neurodegenerative pathologies, in particular Lewy body disease, Parkinson's disease, Parkinson's +,
+** prolonged bed rest,
+** peripheral neurological impairment (diabetes, amyloidosis, alcohol, connective tissue diseases, renal insufficiency, vitamin deficiencies).

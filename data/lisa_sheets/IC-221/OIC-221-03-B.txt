@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-221-03-B
+|Item_parent=Atheroma: epidemiology and pathophysiology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=B
+|Title=Knowing the prevalence and incidence of atheroma (including subclinical conditions)
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+The main cause of cardiovascular disease, atheroma is, after cancer, the second leading cause of death in France and in high-income countries, and the leading cause of death in other countries.
+
+There is a North/South and East/West gradient. Incidence is lowest in Southern Europe, China and Japan.
+
+The incidence of symptomatic atherosclerosis increases progressively with age in Western countries. A cardiovascular event can occur in a patient with no known atheroma.
+
+For the French population, the incidence of stroke and ischaemic heart disease is in the region of 120,000 to 130,000 cases per year. The death rate attributable to cardiovascular disease is 230 per 100,000 population.
+
+It should be noted that in the United States and Western Europe, complications of atherosclerosis have fallen by 30% over the last 30 years, thanks to progress in the prevention of cardiovascular risk factors and advances in drug and interventional therapies.

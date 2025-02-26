@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-334-35-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know how to suspect a bone lesion on the basis of the history and clinical examination.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=35}}
+
+'''Anamnesis:'''
+
+* search for the sequence ''trauma - pain - deformity - functional impotence'', highly suggestive of a bone or joint lesion
+* mechanism and intensity of pain
+* associated sensory-motor disorders
+* significant history (metastatic neoplasia, osteoporosis, vaccination status)
+
+Checking vital signs for general signs of seriousness.
+
+Bilateral and comparative physical examination:
+
+* inspection: bruise, wound, loss of substance, contamination, recolouring time, deformity, shortening
+* palpation: peripheral pulses, compartment tension, assessment of muscle strength and sensitivity
+* passive mobilisation in an analgesic patient.
+
+("''[[Pain in a limb (upper or lower) SD-071|pain in a limb (upper or lower)]'''")("''[[Wound SD-170|wound]'''")("''[[Limb trauma SD-173|trauma to limbs]'''")("'[[Assessment and management of acute pain SD-259|assessment and management of acute pain]'''")

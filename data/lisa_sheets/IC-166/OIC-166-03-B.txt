@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-166-03-B
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=B
+|Title=Know the agent, characteristics of the virus
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+- Enveloped RNA viruses
+
+- Orthomyxoviridae family
+
+- Genus of Myxovirus influenzae
+
+- Three types A, B and C
+
+- Types A and B responsible for seasonal epidemics in humans
+
+- Group A majority
+
+- Type C are only responsible for sporadic cases
+
+
+Type A and B viruses are separated into several subtypes on the basis of two surface proteins:
+
+- Haemagglutinin (H1 to H17)
+
+- Neuraminidase (N1 to N9)
+
+
+Type A and B viruses vary regularly as a result of changes to their RNA through two mutation mechanisms (breaks and slips).

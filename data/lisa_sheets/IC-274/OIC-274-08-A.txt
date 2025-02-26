@@ -1,0 +1,79 @@
+{{knowledge objective
+|Identifiant=OIC-274-08-A
+|Item_parent=Vomiting in infants, children and adults
+|Item_parent_short=Vomiting in infants, children and adults
+|Rank=A
+|Heading=Know the principles of medicinal (indication, non-indication) and non-medicinal management.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=8}}
+'''In adults'''
+
+Treatment depends on the severity and complications of the vomiting:
+
+''''' Vomiting with severity criteria (generally requiring hospitalisation).
+
+Gravity is linked to two factors:
+
+a. The cause of vomiting :
+
+- The cause may be a medical emergency (e.g. acute pancreatitis, acute adrenal insufficiency, etc.), a surgical emergency (e.g. occlusive syndrome) or an obstetric emergency (e.g. hyperemesis gravidarum).
+
+
+b. Complications of vomiting
+
+i. Only the most common complications are listed in this document:
+
+- Severe hydro-electrolytic disorders complicating severe dehydration leading to acute functional renal failure requiring parenteral treatment: hypovolaemia, hypokalaemia, hypochloraemia and metabolic alkalosis.
+
+- Inhalation: inhalation pneumonitis, generally of right basal origin, sometimes life-threatening (Mendelson's syndrome); severe forms are often observed in cases of associated disorders of consciousness, for example in cases of severe acute alcohol intoxication or associated neurological disorders.
+
+- Digestive haemorrhage (Mallory-Weiss syndrome). This is a longitudinal tear in the mucosa of the cardia as a result of trauma caused by repeated vomiting, causing upper digestive haemorrhage, usually in the form of haematemesis. The clinical context provided by the history should raise suspicion of this diagnosis, which will be confirmed by oeso-gastro-duodenal endoscopy.
+
+- Decompensation of associated comorbidities
+
+- Unable to take fluids and food orally: requires parenteral nutrition
+
+- Malnutrition in cases of chronic vomiting
+
+
+'''''2.  Therapeutic management will generally involve two aspects:'''''
+
+- Aetiological treatments specific to the cause of vomiting
+
+- Symptomatic treatments, generally non-specific for vomiting, and more specific treatments for possible complications
+
+
+a.  Vomiting is mainly treated aetiologically (treatment of hypercalcaemia, surgery for occlusive syndrome, etc.).
+
+
+b.  The main symptomatic treatments for vomiting are as follows:
+
+- Treatment of any fluid and electrolyte disorders based on "per os" or intravenous (or even subcutaneous) rehydration.
+
+- Nasogastric tube aspiration for acute vomiting: the gastric tube can provide relief and reduce the risk of inhalation, particularly in cases of :
+
+Consciousness disorders,
+
+Severe vomiting
+
+Surgical emergency
+
+- Administration of "per os", IV or even rectal anti-emetic drugs of the neuroleptic class only in cases of very troublesome vomiting or where there is a risk of serious complications.
+
+o List of medicines: domperidone, metoclopramide or metopimazine
+
+There is a small risk of serious cardiac side effects linked to QT interval prolongation (ventricular arrhythmias, sudden cardiac death) and neurological disorders (extrapyramidal syndrome).
+
+o Their use should be avoided in the elderly.
+
+Chronic vomiting exposes patients to the risk of undernutrition associated with deficiencies in various nutrients that need to be managed.
+
+
+c.   Clinical (signs of dehydration, weight, diuresis, haemodynamic constants) and biological (blood ionogram, creatininemia) monitoring is necessary, as is the interruption of any usual oral treatments.
+
+
+d.  Special cases of chemotherapy-induced vomiting
+
+In the case of chemotherapy-induced vomiting, other therapeutic drug classes are used: anti-5-HT3 (setrons), aprepitant, alizapride and corticosteroids, generally in the form of combinations adapted to the level of emetogenic risk of the anti-cancer chemotherapy regimen prescribed.

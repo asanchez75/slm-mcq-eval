@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-124-05-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Knowing the symptoms of climacteric syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=5}}
+
+Climacteric symptoms are essentially linked to oestrogen deficiency.
+
+The main symptoms are
+
+- '''[[Hot flushes SD-024|troubles vaso-moteurs]] and sleep disorders''' (more or less associated with night sweats)
+
+In 80% of women, the average duration of symptoms is 5 to 7 years, but BVM can sometimes be observed up to 15 years after the onset of the menopause.
+
+'''-[[Sad mood/moral pain SD-123|mood disorders]]''' frequent, (irritability, thymic lability and/or a depressive tendency)
+
+'''-arthralgias''' '''of the inflammatory type associated with a morning shake-off''''
+
+
+Main symptoms reported in relation to the menopause. Symptoms directly attributable to estrogen deficiency are shown in bold.
+{| class="wikitable"
+!PHYSICAL SIGNS
+!MENTAL SIGNS
+|-
+|
+=== <small>Vasomotor flushing</small> ===
+|'''Sleep disorders'''
+|-
+|Night sweats
+|Insomnia
+|-
+|Vulvovaginal dryness
+|Asthenia
+|-
+|Weight gain
+|Loss of attention, loss of memory
+|-
+|Arthralgia, myalgia
+|Depression
+|}

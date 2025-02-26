@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-164-06-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Intitle=Infectious eruptive diseases: megalerythema epidemic
+|Description=epidemiology (B), clinical features (A), risk for pregnant women (A)
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=6}}
+
+'''Epidemiology:''''
+
+- '''Parvovirus B19''', DNA virus, belongs to the Parvoviridae family
+
+- Human-to-human transmission by respiratory route (saliva, droplets) (or transplacental)
+
+- very frequent infection, generally from childhood to school age, 40 to 80% of adults are immune
+
+
+Clinical features
+
+- incubates for 6 to 18 days
+
+- In 2 phases
+
+           - pre-eruptive (invasion): low fever and aspecific general signs, short (48h-72h)
+
+           - eruption: appearance of a "maculopapular eruption" starting on the cheeks (very red and infiltrated cheeks), then affecting the trunk and limbs with an "arabesque" appearance (erythema reticulata) which may persist for up to 3 weeks. The rash may be accompanied by a low-grade fever.
+[[File:Megalerythema.jpg|neant|thumb]]
+
+
+Other eruptive forms include "socks and gloves" syndrome, erythema multiforme or, more rarely, livedo or erythema nodosum.
+
+Joint involvement such as arthralgia or arthritis may accompany the rash, and is more common in adults.
+
+
+'''Complications/ Risks for pregnant women'''
+
+Infection of erythrobastic precursors by the virus can lead to haematological complications in the foetus (hydrops, death in utero) and in children with underlying red cell disease (aggravated chronic haemolytic anaemia with erythroblastopenia).

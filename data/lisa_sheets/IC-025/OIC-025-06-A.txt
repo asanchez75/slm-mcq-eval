@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-025-06-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the additional tests to order in the event of a suspected EP
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=6}}
+
+Imaging : Pelvic ultrasound '''([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]], [[Discovery of a pelvic anomaly on medical imaging examination SD-229|discovery of a pelvic anomaly on medical imaging examination]]):'''
+
+- Systematic extension of the clinical examination
+
+- Suprapubic route:
+
+o Search for an effusion in Morrison's space (interhepato renal space), identification of the haemoperitoneum
+
+o Search for an extra uterine pregnancy (tubal or non-tubal)
+
+- And Endovaginal :
+
+o Indirect signs :
+
+§ Uterine vacuity +++ / "Pseudo sac".
+
+§ Thickened uterus
+
+§ Effusion in the cul de sac of Douglas / Morrisson
+
+o Direct signs :
+
+§ Lateral uterine mass
+
+§ Extra uterine gestational sac with vitelline vesicle / embryo (+/- cardiac activity)
+
+
+Haemocue in case of signs of clinical or ultrasound severity ('''[[Haemoglobin decrease SD-217|haemoglobin decrease]])''''
+
+BU (beta-hCG test) systematically performed in emergency departments
+
+Blood test '''([[Request/reasoned prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]):''''
+
+- Nfs, platelets, PT, APTT, plasma fibrinogen, ABO blood group, Rhesus, RAI '''[[Blood count interpretation SD-223|(blood count interpretation]], [[Haemoglobin decrease SD-217|haemoglobin decrease]], [[Prothrombin rate decrease (tp) SD-218|prothrombin rate decrease]])''''
+
+- Qualitative and quantitative plasma beta-hCG
+
+- Pre-methotrexate if MTX treatment is being considered (ASAT, ALAT, GGT, Bili, BP, urea and creatinemia)

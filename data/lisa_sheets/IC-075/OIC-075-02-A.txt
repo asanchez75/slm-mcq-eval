@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-075-02-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Title=To know the main types of dependence caused by tobacco and how to assess this dependence.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+'''Nicotine is the main agent responsible for addiction'''
+
+'''Tobacco use harmful to health (ICD-10 criteria)'''
+
+* Consumption that is harmful to health but does not meet the criteria for dependence.
+* Complications may be physical or psychological, but the patient is unaware of the links between harm and consumption.
+
+'''Tobacco dependence (ICD-10 criteria): at least 3 of the following criteria:'''
+
+* Strong or compulsive desire to smoke
+* Difficulty controlling tobacco use (initiation or cessation of consumption or levels of use);
+* Withdrawal syndrome when cutting down or stopping
+* Tolerance (increasing doses to obtain the same effects)
+* Giving up other sources of pleasure and interest in favour of tobacco use or increasing the time spent obtaining the substance, consuming it or recovering from its effects.
+* Continued use of the substance despite the occurrence of harmful consequences.
+
+Assessment of dependence: 6-question Fagerström test (1 and 4 are the most characteristic of tobacco addiction).
+{| class="wikitable"
+| colspan="2" |'''1 - In the morning, how long after waking up do you smoke your first cigarette?''
+|-
+|a. Within 5 minutes
+|3
+|-
+|b. 6 to 30 minutes
+|2
+|-
+|c. 31 to 60 minutes
+|1
+|-
+|d. More than 60 minutes
+|0
+|-
+| colspan="2" |'''2 - Do you find it difficult to refrain from smoking in places where it is prohibited?'''
+|-
+|a. Yes
+|1
+|-
+|b. No
+|0
+|-
+| colspan="2" |'''3 - Which cigarette would you find hardest to give up?'''
+|-
+|a. The first one of the day
+|1
+|-
+|b. To another
+|0
+|-
+| colspan="2" |'''4 - How many cigarettes do you smoke a day, on average?'''
+|-
+|a. 10 or less
+|0
+|-
+|b. 11 à 20
+|1
+|-
+|c. 21 to 30
+|2
+|-
+|d. 31 or more
+|3
+|-
+| colspan="2" |'''5 - Do you smoke at closer intervals in the early hours of the morning than during the rest of the day?'''
+|-
+|a. Yes
+|1
+|-
+|b. No
+|0
+|-
+| colspan="2" |'''6 - Do you smoke when you are so ill that you have to stay in bed most of the day?'''
+|-
+|a. Yes
+|1
+|-
+|b. No
+|0
+|}
+<br />

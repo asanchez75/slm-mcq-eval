@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-247-08-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Knowing the pathophysiology of type 1 diabetes mellitus (T1DM), including in children.
+|Description=including elements of genetic predisposition
+|Topic=Physiopathology
+|Contributors=Eva Feigerlova
+|Order=8}}
+
+Type 1 diabetes is characterised by a lack of insulin secretion by the pancreas as a result of autoimmune destruction of pancreatic beta cells.
+
+Several factors are involved in the pathophysiology:
+
+- genetic predisposition
+
+- environmental factors
+
+- autoimmune processes
+
+The following autoantibodies are used as markers of autoimmune disease:
+
+- anti-islanding (ICA),
+
+- anti-insulin (in children)
+
+- anti-GAD (glutamic acid decarboxylase)
+
+- anti-IA2 (Islet Antigen Number 2, related to a tyrosine phosphatase)
+
+- anti-ZnT8 (β-cell zinc transporter).
+
+
+Other autoimmune diseases and/or organ-specific antibodies may be associated with type 1 diabetes: thyroidopathies, slow adrenal insufficiency, gastric atrophy, coeliac disease and vitiligo.
+
+<ref>CEEDMM, 2019</ref>
+<references />

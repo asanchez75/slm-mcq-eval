@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-329-15-B
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=B
+|Title=Know how to prescribe a RGC for children
+|Description=None
+|Section=Management
+|Contributors=
+|Order=15}}
+-Parental consent
+
+-Amount to be transfused = ΔHb x 3-4 x weight (kg), not to exceed 20 mL/kg
+
+Systematically: isogroup and iso-Rhesus, leukocyte-depleted
+
+-Particularities: phenotyped if iterative transfusions, compatibilised if RAI + or sickle cell disease, irradiated if cancer under treatment, transplanted or other immune deficiency.

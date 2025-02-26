@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-072-03-B
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=B
+|Title=General prevalence
+|Description=From 5 to 10% of positive doping tests (variations between disciplines)
+|Section=Epidemiology
+|Contributors=
+|Order=3}}
+Prevalence of medically unexplained symptoms in primary care: between 40 and 49%.

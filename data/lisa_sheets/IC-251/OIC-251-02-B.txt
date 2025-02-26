@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-251-02-B
+|Item_parent=Lack of weight at all ages
+|Item_parent_short=Lack of weight at all ages
+|Rank=B
+|Title=Knowing the four main causes of weight loss
+|Description=Organic, psychiatric, socio-environmental, iatrogenic
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+There are '''four major generic causes''' of weight loss (which are not mutually exclusive and '''may therefore be associated''):
+
+- '''Organic'''': a very large number of organic diseases are accompanied by weight loss. The pathophysiological mechanisms are those described in the paragraph above.
+
+- '''Psychiatric''': weight loss in this case is frequently linked to a drop in food intake, sometimes to an increase in physical activity or the existence of purging manoeuvres (vomiting, taking laxatives or, more rarely, diuretics).
+
+- ''Socio-environmental'': these can be linked to a lack of access to food (famine, poverty), or neglect of food (addiction, loneliness); it is sometimes difficult to distinguish between these and psychiatric causes.
+
+- Iatrogenic'': many drugs can reduce appetite (chemotherapy, morphine, antidepressants, etc.). Polymedication" is also a cause of weight loss (elderly++). Repeated fasting and skipping meals for paramedical examinations can also cause weight loss during hospitalisation.
+
+Apart from these involuntary, non-psychiatric causes, "weight loss can be voluntary": a reduction in food intake with or without an increase in physical activity, whether for medical reasons (treatment of overweight diseases) or for "aesthetic" reasons. Weight loss secondary to bariatric obesity surgery is linked to a reduction in ingesta (gastric banding and longitudinal gastrectomy) and for certain surgical set-ups to digestive malabsorption ('gastric bypas').
+
+<br />

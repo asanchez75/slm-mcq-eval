@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-075-04-B
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=B
+|Title=Knowing the toxicity of nicotine, tars and tobacco smoke
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=4}}
+
+
+* One cigarette = 7,000 compounds, 69 of which are carcinogenic.
+* Nicotine is not considered to be carcinogenic.
+* Nicotine is the main agent responsible for addiction.
+* Tars (carcinogenic) cause epithelial cell changes (but will be replaced by healthy cells if you stop).
+* Free radicals from smoke stimulate degradation of the alveolar wall and inhibit protective enzymes.
+* Carbon monoxide (CO) causes cardiovascular problems.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-290-14-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing the risk factors for colon and rectal cancers and their risk levels
+|Description=High impact: polyps; low impact: diet
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+The main risk factors for colorectal cancer are :
+
+́
+
+- '''Age:''' The risk of colorectal cancer increases significantly after the age of 50. More than 50% of cases are diagnosed between the ages of 50 and 74;
+
+- '''Personal or family history of colorectal adenoma or cancer.'''
+
+The risk depends on the size, histological type and degree of dysplasia of the polyp.
+
+- '''Personal history of Inflammatory Bowel Disease (IBD)''''
+
+- '''Genetic mutations:'''
+
+o ''Familial adenomatous polyposis'' is an autosomal dominant genetic disease. Patients develop numerous colonic adenomas, around the age of 15 in 50% of cases. If left untreated, all of these patients will develop colorectal cancer before the age of 40.
+
+o '''For Lynch syndrome or HNPCC ('''hereditary non-polyposis colorectal cancer), the risk of developing colorectal cancer during one's lifetime is around 10% at age 50 and 40% at age 70.
+
+- '''Modifiable risk factors''' '''':'''' high consumption of red meat, alcohol, tobacco, physical inactivity, overweight, low fibre intake

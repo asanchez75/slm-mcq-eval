@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-065-01-A
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=A
+|Title=Knowing the definition of delusions
+|Description=
+|Rubric=Definition
+|Contributors=Pierre Vandel
+|Order=1}}
+
+A delusional idea corresponds to an alteration in the content of thought, leading to a loss of contact with reality. Delusional ideas are the subject of an unshakeable conviction, inaccessible to reasoning or challenge by the facts. It is an "internal evidence" which, in persistent delusional disorders, may initially seem entirely plausible, but which is generally not shared by the subject's socio-cultural group.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-210-06-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Title=Chest CT scan of idiopathic pulmonary fibrosis (common interstitial lung disease)
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+
+[[Fichier:FPI - TDM.jpg|vignette|'''Scanner thoracique :''' axial sections, parenchymal window, honeycomb, traction bronchiectasis, and reticulations predominantly subpleural and basal ]]
+Common interstitial lung disease is manifested on CT by predominantly subpleural and basal lesions: honeycomb, traction bronchiectasis and reticulations.

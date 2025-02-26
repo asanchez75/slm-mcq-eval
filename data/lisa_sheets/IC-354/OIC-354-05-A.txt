@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-354-05-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Knowing the signs of biological severity
+|Description=Acute renal failure, acidosis, inflammatory syndrome
+|Rubric=Identification of the emergency
+|Contributors=Laura BEYER-BERJOT
+|Order=5}}
+
+- ''Functional renal failure'' due to extra-cellular dehydration associated with the third sector and vomiting. It may therefore be associated with an increase in haematocrit and protidemia, but also with ionic disorders linked to vomiting (hypokalaemia, hypochloraemia);
+
+- Inflammatory syndrome'', indicative at least of bacterial translocation or even peritonitis;
+
+- Metabolic acidosis, a sign of intestinal ischaemia.

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-110-01-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the architecture of normal adult sleep and the sleep-wake rhythm
+|Description=None
+|Rubric=Definition
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=1}}
+
+A distinction is made between slow wave sleep and REM sleep.
+
+1- Slow wave sleep is organised into 3 stages in the same order after each period of wakefulness and characterised by specific EEG elements:
+
+- Stage 1: the individual can still be aware of their environment, slow eye movements; theta (rapid) EEG activity
+
+- Stage 2: light sleep, theta EEG activity + specific grapho-elements
+
+- Stage 3: the individual is no longer aware of their environment, slow synchronised EEG activity of large delta amplitude,
+
+
+2- REM sleep: rapid eye movements, muscle atonia, rapid desynchronised EEG activity close to the waking state (dream stage).
+
+
+This succession defines a sleep cycle lasting 90 minutes. There are three to five sleep cycles in a single night. These cycles are separated by physiological nocturnal awakenings, generally lasting less than 10 minutes. These arousals tend to increase with age and become more conscious.

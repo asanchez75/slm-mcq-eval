@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-172-09-B
+|Item_parent=Digestive parasites: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know how to diagnose intestinal and hepatic amoebiasis
+|Description=None
+|Rubric=Additional tests
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=9}}
+
+'''''<big>Intestinal amoebosis</big>'''''
+
+Parasitological examination of freshly passed stools (examination within 3 hours of passing stools, due to the fragility of the haematophagous forms of the parasite, ''Entamoeba histolytica'', which are the only forms that can be used to make a definitive diagnosis).
+
+Non-haematophagous forms and cysts whose morphology alone does not distinguish between "E. histolytica" and non-pathogenic amoebae may be found, even in healthy carriers. Specific PCR techniques and antigen detection techniques offer diagnostic advantages.
+
+
+'''''<big>Hepatic amoebosis</big>'''''
+
+- paraclinical diagnosis of a hepatic abscess: hepatic ultrasound (hypo- or anechogenic image) and/or CT scan (hypodense image).
+
+- Serological diagnosis: if negative, repeat after 7-10 days, but do not delay treatment if there is a strong clinical, epidemiological or radiological suspicion.
+
+- puncture of the abscess: usually of little diagnostic value. Vegetative forms cannot be visualised, but detection of parasitic DNA is possible, easily confirming the diagnosis.

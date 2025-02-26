@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-355-10-B
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=B
+|Title=Knowing the indications for imaging examinations for digestive haemorrhage
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+Imaging tests are part of the diagnostic flowchart, but are not first-line tests:
+
+
+Any digestive haemorrhage should be investigated endoscopically as a first line of defence
+
+See the section on the role of digestive endoscopy. In the vast majority of cases, there is no indication for a cross-sectional imaging examination (CT scan).
+
+
+The endoscopy should be performed on a patient who is haemodynamically stable.
+
+In case of melena and/or profuse rectal bleeding:  
+
+If upper GI endoscopy does not find a cause for the bleeding, the first two diagnostic options are :
+
+- If the patient is haemodynamically stable (the most frequent case): organise a colonoscopy with optimum preparation (delayed emergency).
+
+- If the patient is not haemodynamically stable (rare case): carry out an emergency abdominopelvic CT scan with early and late arterial times in order to find the source of the bleeding (leakage of contrast product).
+
+
+In case of rectorrhagia :
+
+- Organising a colonoscopy with optimum preparation (delayed emergency)

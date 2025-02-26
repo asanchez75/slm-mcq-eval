@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-339-10-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Knowing the different methods of coronary revascularisation
+|Description=angioplasty, stent, bypass and thrombolysis
+|Rubric=Management
+|Contributors=Mathieu Kerneis
+|Order=10}}
+
+
+* '''There are 3 methods of revascularisation:'''
+** Thrombolysis =''' this is a fibrinolytic treatment administered intravenously and is only useful in ST+ ACS for which the time to revascularisation by angioplasty is >120 minutes.
+** Percutaneous coronary angioplasty =''' It is performed after coronary angiography and consists of inflating a balloon at the coronary lesion, followed by placement of a stent.
+** Coronary artery bypass grafting =''' This surgical technique consists of anastomosing a mammary artery or saphenous vein downstream of the coronary stenosis or occlusion in order to revascularise the heart downstream of the lesion.
+
+* '''In ST+ ACS:'''
+** '''Coronary angioplasty performed in the acute phase is the reference method of revascularisation for ST+ ACS.'''
+** Thrombolysis is only indicated for patients with ST+ ACS if the time between first medical contact and reopening of the artery by angioplasty is > 120 minutes.
+** Except in exceptional circumstances, coronary artery bypass surgery is not performed in the acute phase of ST+ ACS.
+
+* '''In ST- ACS:''''
+** Coronary angiography is performed within 24-48 hours of admission.
+** There is no indication for thrombolysis in ST-ACS.
+** The choice of revascularisation method (bypass versus angioplasty) depends on the severity and complexity of the lesions, the presence of diabetes and LV dysfunction.
+
+* '''In stable angina:'''
+** The choice between a conservative strategy (medication alone) and an invasive strategy to propose revascularisation (bypass, coronary angioplasty) depends on numerous parameters.
+** On the other hand, numerous studies comparing optimal medical treatment with or without a systematic revascularisation strategy have shown no significant difference between the 2 strategies.
+** The main reasons for proposing an invasive strategy and a revascularisation procedure are :
+*** The severity of symptoms and their refractory nature to medical treatment
+*** The existence of left ventricular dysfunction
+*** Extensive ischaemia under treatment

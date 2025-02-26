@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-110-06-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing the principles of the management of sleep disorders in adults and children
+|Description=None
+|Rubric=Management
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=6}}
+
+Exploring the disorder to characterise it. Look for organic causes in the history and clinical examination. Carry out a paraclinical assessment in the event of an anomaly suggestive of an organic disorder (polysomnography, ENT examination).
+
+In children: Above all, a preventive approach. If there is an organic cause, treat the cause.
+
+Sleep diary and exploration of family habits to encourage behaviours that improve the quality of sleep. Explore the sleep environment, evening activities, bedtime rituals and intra-family relationships.
+
+Refer parents to a 2nd<sup>e</sup> or 3rd<sup>e</sup> recourse consultation in the event of organic or psychiatric pathology.
+
+Rarely drug treatment (sleeping pills, anti-histamines, even melatonin) and only as a 2nd or 3rd resort.

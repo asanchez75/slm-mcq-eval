@@ -1,0 +1,37 @@
+<br />{knowledge objective
+|Identifiant=OIC-103-04-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Knowing the elements of the interrogation of a patient with vertigo
+|Description=Know how to look for the semiological elements: character, duration, mode of onset, evolution, accompanying signs, history, etc.
+|Rubric=Positive diagnosis
+|Contributors=Sébastien Schmerber, Cyril Page, Valérie Franco Vidal
+|Order=4}}
+Diagnosis is essentially based on <nowiki/>'''interrogation''', which must be meticulous and directive in order to clarify:
+
+#'''Characteristics of [[Vertigo and vertiginous sensation SD-064|vertigo]]''':
+#*confirm vertigo ?
+#*rotatory ? linear displacement ?
+#*or instability, pitching, balance disorders?
+#'''Duration of attack:''''
+#*a few seconds (e.g. BPPV - benign paroxysmal positional vertigo)
+#*several hours or minutes (e.g. Ménière's disease)
+#*several days
+#Mode of onset:''''
+#*spontaneous, not triggered by movement
+#*triggered by movement (change of position, rotational movement of the head) e.g. BPPV
+#*Triggered by noise (Tullio phenomenon) or nose blowing e.g. labyrinthine fistula
+#'''Evolution, repetition:''''single or repeated attacks? permanent vertiginous sensation? in 2 tps with free interval (stroke)?
+#'''Accompanying signs'' :
+#*<u>[[Decreased hearing/deafness SD-140|hypoacusis]], tinnitus, ear fullness</u> (Menière), uni or bilateral
+#*<u>Neurovegetative tr.</u> : [[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], pallor, [[Hypersudation SD-025|sueurs]], accelerated transit ([[Diarrhoea SD-002|diarrhoea]])
+#*<u>[[Headache SD-118|headache]]</u>: look for migraines and intracranial hypertension
+#*<u>[[Neck pain SD-144|cervicalgia]]</u>: often related to [[Balance disorder SD-130|balance disorder]] (neck muscle contractions). Intense and unilateral. Beware of vertebral artery dissection +++.
+#*if dysmetria, [[Sensory and/or motor neurological deficit SD-121|motor or sensory disorders]], [[Diplopia SD-143|diplopia]], [[Visual abnormality SD-138|low visual acuity]], cranial pair involvement: attention NEURO CAUSE
+#Antecedents: otological, cardiovascular, head trauma, migraine, ototoxic or psychotropic treatments.
+#Effectiveness of antivertiginous treatments already undertaken
+
+ 
+
+<br />

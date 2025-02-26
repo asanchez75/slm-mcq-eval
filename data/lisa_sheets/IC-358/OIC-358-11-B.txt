@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-358-11-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Awareness of other causes of acute pancreatitis
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+
+
+* Tumour: this is the 1st cause to be considered for non-alcoholic, non-biliary PA over the age of 50. It results from extrinsic compression of the main pancreatic duct (Wirsung), most often by an adenocarcinoma. Abdominal imaging may reveal direct signs (tumour obstruction) or indirect signs (segmental dilatation of the pancreatic ducts).
+* Medication: certain drugs may be responsible for AP (>100, the most frequently implicated; ACE inhibitors; most often not serious), although it is often difficult to establish the cause. Questioning and the chronology of drug intake in relation to BP help to make the diagnosis, thanks in particular to pharmacological databases (e.g. Pancreatox<sup>®</sup>).
+* Metabolic :
+** hypertriglyceridaemia > 10 mmol/L (9 g/L); triglyceride levels must be systematically measured during the initial BP work-up as they fall rapidly after fasting;
+** hypercalcaemia > 3 mmol/L (whatever the cause); blood calcium levels should be systematically measured during the initial BP work-up;
+* Traumatic :
+** closed abdominal trauma, particularly during a road accident with epigastric shock.
+** iatrogenic: endoscopic retrograde cholangio-pancreatography (ERCP) in 5% of cases involving injection of contrast into the main pancreatic duct (Wirsung), endoscopic sphincterotomy, etc.
+* Infectious: rare and mainly of viral origin (mumps, CMV, EBV, echovirus and coxsackie). Parasites can cause AP during the migration of larvae through the sphincter of Oddi (ascariasis).
+* Ischaemic: in the context of intensive care or after abdominal or cardiac surgery, linked to low flow and very serious.
+* Auto-immune: usually not serious, sometimes with a pseudo-tumour appearance, +/- associated with IgG4 elevation or IBD.
+* Genetic: recurrent AP from childhood.
+* Idiopathic: despite a full aetiological investigation, AP may remain undiagnosed in 15% of cases.

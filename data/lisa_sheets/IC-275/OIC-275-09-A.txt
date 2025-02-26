@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-275-09-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Title=Know the main haemopathies responsible for splenomegaly
+|Description=Hereditary haemolytic anaemias (except adult-onset sickle cell disease), acquired haemolysis, lymphoproliferative sd, myeloproliferative sd.
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+- Myeloproliferative syndromes (primary polycythemia, essential thrombocythemia, myeloid splenomegaly (= myelofibrosis), chronic myeloid leukemia)
+
+- B lymphoid haemopathies (= lymphoproliferative syndromes: Hodgkin's or non-Hodgkin's lymphomas, chronic lymphocytic leukaemia, Waldenström's disease...) except myeloma

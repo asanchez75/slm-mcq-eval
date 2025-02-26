@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-105-11-B
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=B
+|Title=Knowing the main principles of treating convulsive seizures
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+
+
+===''Principles of treatment of tonic-clonic generalised status epilepticus'' ===
+
+Tonic-clonic generalised status epilepticus is a life-threatening emergency.
+
+=== 1. in case of intervention before 30 minutes===
+'''1.''' ''First line of treatment'': slow intravenous benzodiazepine (clonazepam 1 mg) repeated once if unsuccessful after 5 minutes.
+
+'''2.'''' ''Second line of treatment'': if unsuccessful 5 minutes after the second benzodiazepine injection (or 10 minutes after the first benzodiazepine injection), long-acting antiepileptic by IV electric syringe: phenitoin (before the age of 4) or fosphenitoin (Prodilantin®) or phenobarbital (Gardénal®) - - other usable injectable drugs: levetiracetam (Keppra®), valproic acid (Depakine®), lacosamide (Vimpat®).
+
+3...''' ''Third line of treatment'': if status epilepticus persists 30 minutes after administration of the second line, hospitalisation in an intensive care or monitoring unit, sedation (propofol or midazolam or thiopental) with orotracheal intubation. This situation corresponds to refractory status epilepticus.
+
+=== 2. If intervention after 30 minutes===
+Second-line IV benzodiazepine and long-acting antiepileptic.
+
+=== 3. In all cases===
+- Condition the patient (lateral safety position, free upper airway, oxygen therapy, peripheral venous line, monitoring in continuing care or even in medical intensive care (SaO<sub>2</sub>, HR, FR, BP, blood glucose, blood ionogram, pH).
+
+- Etiological treatment.
+
+- Rapid initiation of antiepileptic treatment to replace the loading dose.

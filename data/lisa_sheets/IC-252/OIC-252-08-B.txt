@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-252-08-B
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=B
+|Title=Knowing the biological criteria for malnutrition in the elderly
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=8}}
+The criteria for undernutrition are mainly CLINICAL++.
+
+Certain markers are used:
+
+Albumin :
+
+* Diagnostic criterion for undernutrition (HAS 2007, outside any inflammatory context)
+* Robust marker of poor prognosis and mortality.
+* Relatively long half-life of 21 days in a stable metabolic situation.
+* Levels influenced by inflammation and fluid status.
+* Used outside the inflammatory syndrome as a diagnostic criterion for undernutrition (<35 g/L) and severe undernutrition (<30 g/L).
+* Should not be monitored more than once a month and is therefore unsuitable for monitoring in acute situations.
+
+
+Transthyretin (or prealbumin) :
+
+* It is not used in current clinical practice.
+* useful for shorter-term nutritional monitoring during nutritional management.
+* Very short half-life of 2 days.
+* undernutrition suspected from a plasma level < 0.2 g/l.

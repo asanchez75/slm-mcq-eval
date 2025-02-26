@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-173-11-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing the elements of the clinical and biological diagnosis of Q fever
+|Description=including mode of contamination
+|Rubric=Positive diagnosis
+|Contributors=Carole Eldin
+|Order=11}}
+Coxiella burnetii'' is an intracellular bacterium present in the placentas of infected animals (ruminants in particular). Humans are contaminated either by digestion (consumption of raw milk) or inhalation (inhalation of aerosols from elements contaminated by the bacteria: straw, manure, etc.). Ticks may also transmit the bacteria. This is a cosmopolitan disease, more common in rural areas.  
+
+Acute Q fever is the most common clinical form of the disease. Three clinical forms have been described after an incubation period of around 3 weeks:
+
+-Acute febrile hepatitis
+
+-Pneumopathy
+
+-Isolated fever, usually prolonged
+
+Chronic Q fever occurs in patients with a history of valvulopathy, mainly in the form of endocarditis with negative blood cultures.
+
+In pregnant women, Q fever can lead to spontaneous miscarriages
+
+Biological diagnosis is based on serology, and the type of antibody indicates an acute or chronic form.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-232-07-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Knowing the usual clinical forms
+|Description=Atrial fibrillation in the normal heart, atrial fibrillation in heart failure, atrial fibrillation and stroke
+|Rubric=Etiologies
+|Contributors=Jean-Baptiste GUICHARD
+|Order=7}}
+
+
+* Isolated AF = AF without associated heart disease or co-morbidity.
+
+* AF and heart failure" = the relationship between AF and heart failure is a two-way street:
+AF can be the cause of heart failure, responsible for ''rhythmic heart disease'' ** Heart failure is a risk factor for AF.
+** Heart failure is a risk factor for AF.
+
+* AF and stroke": AF can be diagnosed when one of its complications, such as ischaemic stroke, occurs, particularly if it is asymptomatic.

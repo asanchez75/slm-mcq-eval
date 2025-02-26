@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-232-11-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Title=Knowing first-line assessment
+|Description=ECG, echocardiography, biological tests
+|Section=Additional tests
+|Contributors=Jean-Baptiste GUICHARD
+|Order=11}}
+
+[[File:Initial assessment.png|centric|thumb|900x900px]]

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-146-02-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Title=Knowing the principles of vaccine protection
+|Description=Justification of vaccine regimens (number of doses and intervals): immunity and protection induced by live, killed or subunit vaccines and specificities of the immune response to protein and polysaccharide antigens.)
+ Assessment of vaccine efficacy: indications for measuring vaccine antibodies
+ Role of vaccine adjuvants
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+Vaccine protection is based both on humoral immunity through the production of antibodies designed to destroy the antigen and on cellular immunity through the activation of T lymphocytes (cytotoxic CD8 which destroy infected cells and helper CD4 which stimulate the production of antibodies by B lymphocytes).

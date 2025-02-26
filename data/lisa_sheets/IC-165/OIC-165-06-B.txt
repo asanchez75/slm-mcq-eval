@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-165-06-B
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=B
+|Title=Knowing the indications for additional tests in cases of suspected mumps
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=6}}
+
+'''Useful additional examinations:''''
+
+- CBC: no hyperleukocytosis
+
+- Amylasemia: increased in cases of parotitis or pancreatitis
+
+- CSF analysis in cases of meningitis/encephalitis: lymphocytic meningitis

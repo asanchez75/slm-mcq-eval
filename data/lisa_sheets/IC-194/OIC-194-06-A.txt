@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-194-06-A
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=A
+|Title=To understand the frequency and clinical presentation of renal involvement in systemic lupus: oedema, positive urine dipstick, etc.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+
+
+
+==Renal manifestations = 40% of LS ==
+Often at the beginning of the disease
+
+==Major prognostic importance ==
+Urine dipstick screening ('''[[SDD-182|urine dipstick analysis]]''''): to be done regularly during follow-up to identify '''[[Proteinuria SDD-212|proteinuria]]'''.
+
+Possible presentations:
+
+*asymptomatic
+*isolated proteinuria
+*nephrotic syndrome
+*renal insufficiency of variable degree (''increased creatinine'') with ''proteinuria'' and often ''haematuria'' (''urinary sediment analysis'')
+*rapidly progressive glomerulonephritis syndrome: oedema, proteinuria, haematuria, even arterial hypertension in adults and children and acute renal failure.
+
+Analysis of the renal biopsy essential (''interpretation of an anatomopathology report'') to diagnose and classify the type of lupus nephropathy (prognostic and therapeutic implications).

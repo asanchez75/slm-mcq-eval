@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-341-09-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Knowing the urgency of a meningeal haemorrhage
+|Description=Identify the diagnostic urgency and the need for urgent referral to a specialist department: neurosurgery, interventional neuroradiology, etc.
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=9}}
+Any non-traumatic SAH (spontaneous SAH) is a vital diagnostic and therapeutic emergency, requiring urgent referral to a centre specialising in neurosurgery and interventional neuroradiology.

@@ -1,0 +1,159 @@
+{{knowledge objective
+|Identifiant=OIC-322-13-A
+|Item_parent=Personalised therapeutic decision making: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Drug interactions: identifying the main mechanisms of drug interactions
+|Description=Knowing the main drug classes involved
+|Topic=Management
+|Contributors=
+|Order=13}}
+
+== '''Definition''' ==
+A ''drug interaction'' can be defined as a change in the activity of a drug when one or more other drugs are taken. These changes in activity may be related to the drug's "pharmacokinetics" or "pharmacodynamics". Their consequences will vary greatly depending on which drug is the 'victim' and which drug is involved in the interaction.
+
+Characteristics of high-risk "victim" drugs:
+
+*Narrow therapeutic range (small difference between effective and toxic concentrations)
+*Strong substrates of metabolic pathways
+*Significant morbid or lethal risk
+*High prescription volume
+
+Characteristics of "risk-taking" drugs :
+
+*Inducer or inhibitor of metabolic enzymes (cytochromes, UGT)
+*Hidden providers (drug generating an interaction via a side effect)
+*High prescription volume
+
+=='''Classification'''==
+Drug interactions are classified into '''4 categories''' of constraints (according to the ANSM): https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1
+
+*'''Contraindication ''''
+**The contraindication is absolute.
+**It must not be contravened.
+*'''Unadvisable combination'''
+**An inadvisable combination should generally be avoided, except after careful consideration of the risk/benefit ratio.
+**It requires close monitoring of the patient
+*'''Precaution for use'''
+**This is the most frequent case
+**Combination is possible as long as simple recommendations are followed, particularly at the start of treatment, to prevent the interaction from occurring (dose adjustment, increased clinical, biological and ECG monitoring, etc.).
+*'''To be taken into account''''
+**The risk of drug interaction exists
+**It most often corresponds to an addition of undesirable effects.
+**No practical recommendations can be made.
+**It is up to the doctor to assess the appropriateness of the combination.
+
+==''Main principles of pharmacokinetic interactions'''==
+Changes may occur at different stages in the fate of the drug: '''absorption''', '''metabolism''', '''excretion'''. The consequences will be visible on the ''exposure'' to the victim drug (area under the concentration curve: AUC), determined by the level of concentrations reached and the profile of their evolution as a function of time.
+
+===='''Absorption'''====
+
+* chelation'' phenomena;
+** example: ions (calcium, iron, magnesium, aluminium, etc.) greatly reduce the absorption of fluoroquinolones
+* modification of gastric pH;
+** example: proton pump inhibitors, by increasing gastric pH, increase the absorption of raltegravir, which is poorly soluble at acid pH
+* adsorption of the active ingredient;
+** example: activated charcoal is known for its ability to adsorb many drugs, and can be used in cases of mass drug administration
+* modification of intestinal motility;
+** example: stimulant laxatives will increase intestinal motility and generally reduce the absorption of drugs from the intestine by reducing the time they are present in the intestine
+* activation or inhibition of "intestinal transporters";
+** example: induction of P-gp by rifampicin leading to a decrease of more than 30% in the absorption of digoxin
+* modification of the ''first-pass'' effect by induction or inhibition of enterocytic and hepatic enzymes;
+** examples: induction of cytochromes by rifampicin; inhibition of cytochromes P450 3A4/5 by grapefruit juice or voriconazole, increasing concentrations of immunosuppressants, etc.
+
+===='''Métabolisme'''====
+
+* '''induction''' or '''inhibition''' of '''liver enzymes''''.
+** ''examples'': inhibition of cytochrome CYP2C19 by proton pump inhibitors increasing exposure to voriconazole; Induction of cytochromes P450 3A4/5 by phenytoin and reduction in concentrations of the oestroprogestogenic pill.
+* Inhibition or induction of hepatic transporters.
+** (e.g. inhibition of the OATP1B1 transporter by ritonavir and increased statin concentrations)
+
+===='''Excrétion'''====
+
+* Induction or inhibition of renal transporters.
+** example: probenecid is an inhibitor of OAT-type transporters formerly used to maintain high penicillin concentrations.
+* modification of urinary pH. Drugs that are sufficiently ''lipophilic'' can be ''reabsorbed at tubular level'' if they are in a ''non-ionised'' form. Weakly acidic drugs will be poorly ionised if the urinary pH rises, which is why it is recommended to alkalinise the urine with bicarbonate in cases of intoxication by certain drugs such as phenobarbital. The increase in pH will block the reabsorption of phenobarbital, which will then be in ionised form.
+
+==The main principles of pharmacodynamic interactions ==
+Pharmacodynamic interactions modify the pharmacological properties of drugs, without affecting pharmacokinetics or exposure (i.e. without altering drug concentrations in the patient's body). They are generated by the simultaneous action of 2 drugs on the same target. These interactions may be "desirable" (for an additive or potentiating effect) or, on the contrary, "to be avoided" because of the risk of inhibiting or amplifying a potentially dangerous effect.
+
+In addition to obvious interactions, such as the combination of 2 drugs with known opposite effects (anti-parkinsonian and anti-psychotic; beta-blocker and beta2-mimetic, etc.), or the addition of drugs causing the same undesirable effects (nephrotoxicity induced by aminoglycosides and amphotericin B; torsades de pointes induced by hydroxyzine and quinidine, etc.), there are a number of less obvious interactions that deserve the full attention of prescribers.
+
+==Some examples of high-risk interactions ==
+
+==='''Victims at risk'''===
+'''♦ Oral anticoagulants, including direct oral anticoagulants (DAAs)''''
+
+*''Pharmacodynamic interactions:''
+**With NSAIDs or aspirin in anti-inflammatory doses → gastric mucosal bleeding
+
+*Pharmacokinetic interactions
+**AVK and CYP2C9 inhibitors (valproic acid, azole antifungals, imatinib, fluvastatin, metronidazole, phenytoin...)
+**AOD and CYP3A4 and/or P-gp inhibitors (amiodarone, cyclosporine, azole antifungals, erythromycin, clarithromycin, diltiazem, verapamil, HIV antiretrovirals, grapefruit juice...)
+
+♦ '''Statins'''
+
+*''Pharmacodynamic interactions:''
+**Daptomycin → common muscle toxicity, increased risk of rhabdomyolysis
+**Fusidic acid → common muscle toxicity, increased risk of rhabdomyolysis
+
+*Pharmacokinetic interactions: substrates of CP3A4 and the OATP1B1 transporter.
+**CYP3A4 inhibitors: impaired metabolism of statins with increased risk of rhabdomyolysis and acute renal failure.
+**Inhibitors of the OATP1B1 transporter (ciclosporin, ritonavir, gemfibrozil, etc.) reduce the hepatic uptake of statins, allowing them to be metabolised.
+**Inducers of the OATP1B1 transporter (rifampicin) → increase in hepatic uptake contributing to increased metabolism.
+
+
+♦ '''Colchicine'''
+
+*Pharmacokinetic interactions: CYP3A4 and P-gp substrates
+**CYP3A4 inhibitors → risk of potentially fatal overdose (macrolides)
+**P-gp inhibitors → risk of overdose
+
+
+♦ '''Anti-migraine drugs: ergot derivatives and triptans'''
+
+*Pharmacodynamic interactions'': ergot derivative + triptan combination: increased vasoconstrictor effect.
+*Pharmacokinetic interactions: CYP3A4 substrates
+**Triptans and MAOIs: defective metabolism of triptans with increased cardiovascular risk
+
+'''♦ Fluoroquinolones'''
+
+*Pharmacokinetic interactions
+**Cations: salts of Mg, Al, Ca, Fe: significant reduction in the absorption of fluoroquinolones with loss of antibiotic efficacy; increased risk of resistance selection.
+
+'''♦ Anticancer drugs'''
+
+*Pharmacokinetic interactions
+**Alkylating agents cyclphosphamide and iphosphamide and CYP3A4 inhibitors
+**Vinca alkaloids (vincristine, vinblastine) and CYP3A4 inhibitors
+**Tyrosine kinase inhibitors and cytochrome inhibitors
+**Taxanes and CYP3 and P-gp inhibitors
+**Tamoxifen and CYP2D6 inhibitors: decrease in the effect of tamoxifen due to reduced formation of endoxifen, the active molecule.
+
+==='''Providers at risk'''===
+♦ '''Enzyme inducers:''' risk of the victim being ineffective due to increased metabolism (examples of enzyme inducers: rifampicin, St John's wort, carbamazepine...)
+
+♦ '''Enzyme inhibitors:''' increased risk of adverse effect due to decreased metabolism and overexposure (examples of enzyme inhibitors: fluvoxamine, fluoxetine, paroxetine, azole antifungals, amiodarone, diltiazem, verapamil, ritonavir...).
+
+For information on substrates, inducers and inhibitors of cytochromes and P-gp: https://www.hug.ch/sites/interhug/files/structures/pharmacologie_et_toxicologie_cliniques/a5_cytochromes_6_2.pdf
+
+♦ '''Hidden anticholinergics''' (anti-H1 anti-histamines, clozapine, imipramine...)
+
+♦ '''Hidden serotoninergics''' (tramadol, hidden MAOIs such as linezolid)
+
+♦ '''Drugs with a hyponatremiant effect''':
+
+*Antidepressants: imipraminics; Serotoninergics
+*Neuroleptics: haloperidol, risperidone
+*Anti-epileptics: carbamazepine
+*Antiparkinsonian drugs: bromocriptine
+*Anticancer drugs: vincristine, vinblastine, cyclophosphamide
+*ADH analogues: desmopressin, terlipressin
+*Opioids, especially tramadol
+*Miscellaneous: clofibrate, NSAIDs, thiazides, hypoglycaemic agents: chlorpropamide, tolbutamide, PPIs, etc.
+
+====Some websites worth checking out:====
+
+* https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1
+* https://www.hug.ch/sites/interhug/files/structures/pharmacologie_et_toxicologie_cliniques/a5_cytochromes_6_2.pdf
+* https://www.hiv-druginteractions.org/<br />

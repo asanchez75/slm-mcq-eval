@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-156-19-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Know the principles of management of acute osteitis and osteomyelitis.
+|Description=None
+|Rubric=Management
+|Contributors=Dr Florent Valour
+|Order=19}}
+'''Chronic osteitis in adults:'''
+
+- Imaging
+
+           . plain radiographs: systematic, delayed signs (2-3 weeks), geodes, osteolysis, periosteal appositions, intraosseous abscesses (Brodie abscess), bone sequestration
+
+           . scanner and/or MRI: precise assessment of bone structures, extent of diaphyseitis, soft tissue involvement
+
+- Microbiology: blood cultures (rarely positive, to be taken in cases of [[Hyperthermia/fever SD-044|fever/hyperthermia]]), surgical samples taken during trimming, scan-guided bone biopsies in the absence of surgery.
+
+- Surgery: paring/scouring of infected areas and taking of microbiological samples. Systematically consider the question of bone stabilisation (external fixator, osteosynthesis, plaster cast immobilisation, etc.) and skin coverage in the event of major changes (a covering flap may be necessary).
+
+- Prescribe an anti-infective SD-255|Prescribe an anti-infective]]: probabilistic antibiotic therapy started post-operatively after microbiological samples have been taken, and subsequently adapted according to documentation. Total duration of 6 to 12 weeks
+
+'''Special case of osteitis of the diabetic foot:''''
+
+- diabetes assessment and control
+
+- wound management: discharge, local care, debridement
+
+- vascular assessment and management (revascularisation if necessary)
+
+- Imaging: routine plain X-rays, CT and/or MRI scans
+
+- Microbiology: complex diagnosis, protected deep sampling (curette sampling after debridement, needle puncture of a collection, bone biopsy passing through healthy skin with X-ray/scanno-guidance, surgical sampling if operative indication). Superficial samples (wound swabs) should be avoided.
+
+- Prescribe an anti-infective SD-255|Prescribe an anti-infective]]: antibiotic therapy adapted to samples when available. In the absence of documentation, choice depends on the age and appearance of the wound. Usually lasts 6 weeks.
+
+- Update of tetanus vaccination status
+
+- Education and prevention of recurrences: daily foot inspection, appropriate footwear, etc.
+
+'''Acute osteomyelitis in children:'''
+
+- Diagnostic and therapeutic urgency
+
+- Systematic initial hospitalisation
+
+- Imaging :
+
+           . plain X-rays: systematic in emergencies, bone abnormalities after 8-10 days (periosteal appositions, cortical osteolysis, intraosseous abscesses (Brodie's abscess))
+
+           . ultrasound: as an emergency in the event of severe pain, to look for a complication (subperiosteal abscess)
+
+           . MRI: best examination in the first few days to confirm the diagnosis, in an emergency to look for complications (subperiosteal abscess, soft tissue abscess, arthritis).
+
+           . bone scintigraphy: useful in the first few days (as an alternative to MRI) to confirm the diagnosis, especially in young children for whom MRI is difficult to carry out (need for sedation) or where there are clinical difficulties in locating the infection. It shows a focus of bone hyperfixation
+
+- Microbiology: blood cultures, deep samples
+
+- Surgery: systematic surgical advice, drainage of purulent collections (subperiosteal or soft tissue abscesses)
+
+- [[Prescribe an anti-infective SD-255|Prescribe an anti-infective]]
+
+           . probabilistic antibiotic therapy: as a matter of urgency, after microbiological samples have been taken, intravenously, targeting S. aureus and K. kingae: cefazolin or amoxicillin-clavulanic acid (+ gentamicin in the event of sepsis/septic shock).
+
+           . adaptation secondary to the germ identified and the antibiogram, with per os relay possible after 3 to 5 days in the event of a favourable outcome (disappearance of fever and pain). In the absence of documentation, an oral course of amoxicillin-clavulanic acid may be started (effective against S. aureus and K. kingae). Total duration of antibiotic treatment: 3 weeks.

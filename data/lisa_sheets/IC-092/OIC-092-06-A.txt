@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-092-06-A
+|Item_parent=Motor and/or sensory deficit of the limbs
+|Item_parent_short=Motor and/or sensory deficit of the limbs
+|Rank=A
+|Title=Know the main spinal cord syndromes responsible for motor and sensory deficits
+|Description=Brown-Sequard syndrome (hemi-moel), syringomyelia syndrome
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+''Certain clinical syndromes have a strong localising value, linked to the particular organisation'' of the sensory bundles within the medulla.
+
+The large-calibre fibres carrying epicritic and proprioceptive sensitivity enter via the posterior horn of the medulla, but ascend directly via the posterior cords of the medulla to the cuneiform and gracilis nuclei located in the bulb (lemniscal pathway).
+
+Conversely, the small-calibre fibres carrying thermal and nociceptive sensitivity enter via the posterior horn of the medulla, but relay there before passing to the other side of the medulla and ascending via the anterolateral cords (extra-lemniscal route).
+
+This particular organisation makes it possible to locate the lesion in the spinal cord when comparing epicritic and nociceptive sensitivities.
+
+Brown-Sequard syndrome (damage to half of a segment of the spinal cord):
+
+As the lesion affects half the spinal cord on one segment, motor control and homolateral epicritic information are interrupted at the level of the spinal cord lesion. Homolateral nociceptive information passing to the other side of the spinal cord will be able to provide its information without being interrupted. However, nociceptive information from the opposite side, also passing through the other side of the spinal cord, will be interrupted.
+
+In clinical terms, therefore, we have :
+
+Below the lesion :
+
+§ Central motor impairment on the side of the lesion
+
+§ Epicritic and proprioceptive sensitivity on the side of the lesion
+
+§ Nociceptive and thermal sensitivity on the side opposite the lesion
+
+Syringomyelic syndrome (centromedullary involvement):''
+
+§ "Suspended" nociceptive and thermal sensory deficit (corresponding to the spinal cord level of involvement)
+
+§ No sensory involvement above or below the spinal cord involvement
+
+§ No epicritic or proprioceptive damage
+
+§ Sometimes, peripheral motor deficit at the site of the lesion in cases of severe damage.

@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-282-04-A
+|Item_parent=Chronic inflammatory bowel disease (IBD) in adults
+|Item_parent_short=Inflammatory bowel disease (IBD) in adults
+|Rank=A
+|Title=Knowing the clinical situations revealing chronic inflammatory bowel disease (IBD)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The clinical manifestations depend on the type of IBD and the location, intensity and age of the lesions. The presence of nocturnal symptoms (pain and diarrhoea) waking the patient should raise the suspicion of an organic disease, in particular IBD. The disease often progresses in flare-ups lasting a few weeks, interspersed with periods of remission.
+
+
+'''Crohn's disease'''
+
+The 3 most common symptoms are diarrhoea, abdominal pain and weight loss. Fever may also occur. Due to the preferential ileal or right ileocolic location, pain is often localised in the right iliac fossa and may be associated with Koenig's syndrome in the case of small bowel stenosis.
+
+A "mass" may be palpated in the right iliac fossa, linked either to an abscess (pain, fever) or to ileocaecal involvement with thickening of the wall and mesos. In this case, the mass is sometimes painless.
+
+The association of ''anoperineal'' involvement (⅓ of patients) is ''very suggestive'' of a diagnosis of CD. In children, there may be a delay in growth and weight.
+
+Jaundice is sometimes observed.
+
+There may also be "extra-intestinal manifestations" isolated or associated with digestive signs (psoriasis, arthritis/arthralgias, mouth ulcers, uveitis, erythema nodosum). Finally, CD may be "revealed by an inaugural complication".
+
+
+'''RCH'''
+
+The main sign of UC is ''rectorrhagia'', which is constant.
+
+Rectitis'' is expressed by ''rectorrhagia'', sometimes isolated, often associated with a rectal syndrome, sometimes major in cases of severe involvement (numerous bloody-glassy evacuations, afecals, tenesmus, epithelium).
+
+When there is "colonic involvement", the symptoms are colicky abdominal pain, bloody or bloody-glue diarrhoea (dysenteric syndrome) and sometimes weight loss. In the "severe form", there may be fever, an inflammatory syndrome and anaemia. As in CD, there may be "extra-intestinal manifestations" and the disease may be "revealed by a complication".
+
+
+'''Main extra-intestinal manifestations of IBD'''
+
+A distinction is made between conditions associated with relapsing IBD and those that are independent of it.
+
+Associated with IBD in thrust:''''
+
+* Arthralgia, arthritis
+* Erythema nodosum
+* Mouth ulcers
+* Uveitis
+* Pyoderma gangrenosum
+
+
+'''Dissociated from IBD activity:'''
+
+* Ankylosing spondylitis
+* Primary sclerosing cholangitis (more common in UC)
+
+
+Diagnosis is based on a range of clinical, biological, endoscopic, anatomopathological and radiological factors.
+
+If IBD is suspected, the existence of anoperineal involvement (see above), of the small or upper digestive tract, of heterogeneous lesions with intervals of healthy mucosa or granulomas on biopsies, is highly suggestive of CD. The absence of rectal involvement rules out UC. Stopping smoking a few weeks or months before the first attack of IBD is suggestive of UC.
+
+
+'''Differential diagnosis'''
+
+Apart from the differential diagnosis between CD and UC (table 1), the other diagnoses to be considered are :
+
+* Infectious colitis: clinical context, bacteriological examination of stools and biopsies, absence of chronic lesions on histological analysis of biopsies,
+* Pseudomembranous colitis associated with Clostridioides infection,
+* Acute ileitis due to Yersinia enterocolitica (febrile appendicitis revealing ileitis),
+* Sexually transmitted infections (STIs) in cases of rectitis,
+* Intestinal tuberculosis (ileo-caecal involvement): to be considered but very rare in France.

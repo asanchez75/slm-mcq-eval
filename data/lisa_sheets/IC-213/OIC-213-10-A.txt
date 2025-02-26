@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-213-10-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short=Anemia in adults and children
+|Rank=A
+|Title=Conducting an aetiological investigation of anaemia in children
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=10}}An essential element to know before carrying out the aetiological investigation is to know that the haemoglobin threshold varies with age. the haemoglobin level is highest at birth (foetal Hb) then decreases until 3-6 months before rising again to reach adult values.<ref>[[Chapter anaemia and iron pathologies. Paediatrics, 8th edition, by Grégoire Benoist, Antoine Bourrillon, Christophe Delacourt and Christèle Gras-Le Guen. Elsevier Masson SAS]]</ref>
+
+Anemia should be suspected in the presence of pallor (pallor in children SDD-055), asthenia that varies according to age, cardiac signs (notably tachycardia, murmur) and/or weight loss (chronic anemia).
+
+It is also important to know how to identify the signs of severe anaemia (Hb<7g/dL, the patient's condition, haemodynamic impact, haemopathy, acute haemolysis, haemorrhage) and how to manage severe anaemia (monitoring, stopping the cause if it is obvious - haemorrhage - filling, transfusion, surveillance).
+
+The most common cause of anaemia in children is martial deficiency. However, an etiological investigation should not rule out other causes.
+
+The etiological investigation includes
+
+* careful history-taking concerning the context:
+** personal history: prematurity, maternal hypotrophy or anaemia during pregnancy (for infants), known haematological disease (sickle cell anaemia, thalassaemia, other red blood cell disease-haemolysis, etc.), chronic diseases at risk of bleeding, etc.
+** family history of red blood cell disease
+** growth
+** diet
+** taking medication
+** travel (malaria)
+* history-taking regarding the history of the anaemia
+** chronic versus sudden onset (in which case tolerance is often much poorer)
+** associated signs in favour of malabsorption or blood spoliation
+** diarrhoea, high-risk food consumption (raw milk, undercooked minced beef, etc.) (HUS)
+
+* a physical examination to look for signs of referral: malnutrition, tumour syndrome, signs of damage to other blood lines (recurrent infection, gingival ulceration, purpura), signs of haemolysis (urine discolouration, jaundice of varying severity depending on the speed of onset, general signs if acute, splenomegaly if chronic), signs of martial deficiency, signs of inflammatory disease, particularly of the digestive tract (mouth ulcers, perianal abscesses, etc.).
+
+<br />
+
+* complementary examinations: first of all blood count [[Fichier:Figure enquête etiologique anémie de l'enfant.jpg|néant|vignette|600x600px|Arbre de l'enquête étiologique paraclinique en cas d'anémie chez l'enfant d'après [https://www.pedia-univ.fr/deuxieme-cycle/referentiel/hematologie-cancerologie/anemie-pathologies-du-fer&#x20;8e&#x20;édition,&#x20;par&#x20;Grégoire&#x20;Benoist,&#x20;Antoine&#x20;Bourrillon,&#x20;Christophe&#x20;Delacourt&#x20;et&#x20;Christèle&#x20;Gras-Le&#x20;Guen. Paediatrics, 8th edition, by Grégoire Benoist, Antoine Bourrillon, Christophe Delacourt and Christèle Gras-Le Guen]]]<br />

@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-081-03-A
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=A
+|Title=Know how to interpret a direct and consensual photomotor reflex (see item 82)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The ''photomotor reflex'' (PMR) is the pupillary constriction (miosis) which occurs when one eye is illuminated; it functions in a similar way to the automatic diaphragm of a camera:
+
+* The pupillomotor fibres travel along the optic nerves to the chiasma, where they undergo hemidecussation, and then along the optic bands to the external genitalia; they do not follow the optic radiations but reach the two nuclei of the III;
+* the "parasympathetic efferent pathway" of the RPM follows the course of the III and ends at the sphincter of the iris;
+* in a "normal subject", when one eye is illuminated, there is reflex miosis on the same side: this is direct RPM; but, because of the hemidecussation of pupillomotor fibres at the chiasma, there is also miosis of the opposite eye via the contralateral III pathway: this is consensual RPM;
+* in "sensory mydriasis" secondary to severe visual impairment (e.g. occlusion of the central retinal artery, optic neuropathy):
+
+- to the illumination of the affected eye, the afferent pathway of the RPM being "suppressed" as a result of the drop in
+
+vision, the direct RPM was abolished, as was the consensual RPM,
+
+- to the illumination of the other eye, conversely, the afferent pathway being normal in this eye and the afferent pathway being normal in the other eye.
+
+is normal in both eyes, the RPM is preserved in both eyes;
+
+* in the case of "paralytic mydriasis" (mydriasis caused by paralysis of the III):
+
+- with illumination of the affected eye, the afferent pathway of the RPM is preserved, there is an abolition of the direct RPM (linked to paralysis of the iris sphincter) but the consensual RPM is preserved,
+
+- Conversely, when the other eye is illuminated, the direct RPM is preserved, but the consensual RPM (RPM of the affected eye) is abolished;
+
+'''Thus:'''
+
+'''- in "sensory" mydriasis (due to blindness), both direct and consensual RPM are abolished when the affected eye is illuminated, whereas they are both preserved when the other eye is illuminated;''''
+
+'''- in "paralytic" mydriasis, the direct and consensual RPMs of the affected eye are abolished, whereas those of the healthy eye are preserved.''''
+
+- the "sympathetic efferent pathway", unlike the parasympathetic pathway, ensures pupillary dilation (mydriasis); it originates in the hypothalamus, then follows a complex pathway passing through the superior cervical ganglion and the primitive carotid artery; It then reaches the orbit and the dilator muscle of the iris; a branch detaches in the orbit and reaches an intrapalpebral muscle, the "retractor muscle of the upper eyelid" or Müller muscle (to be distinguished from the levator muscle of the upper eyelid, dependent on the III).
+
+'''Thus, any lesion along this pathway will result in miosis and ptosis on the same side (Claude-Bernard-Horner syndrome)'''.

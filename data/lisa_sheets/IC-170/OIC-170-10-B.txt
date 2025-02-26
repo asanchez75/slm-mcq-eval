@@ -1,0 +1,43 @@
+{{knowledge objective
+|Item_parent=Malaria
+|Rank=B
+|Heading=Know the treatment and principles of monitoring a severe malaria attack.
+|Description=Management of severe malaria attacks
+|Rubric=
+|College=Parasitology (ANOFEL), Infectious and Tropical Diseases (CMIT)
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=10
+|Identifiant=OIC-170-10-B
+|Item_parent_short=Paludism
+}}
+- '''Intensive care unit or intensive care unit'''
+
+- '''Treatment with IV artesunate as first-line treatment'''
+
+o ATU
+
+o At least 24 hours
+
+- Treatment with IV quinine if artesunate is contraindicated
+
+- '''Relai ''per os'' as soon as possible, always, regardless of the duration of artesunate treatment'''
+
+o ACT: artemether - lumefantrine OR dihydroartemisinin - piperaquine
+
+o 3 days
+
+- Symptomatic management (filling, correction of hypoglycaemia and fluid and electrolyte disorders, etc.)
+
+- Surveillance
+
+o Clinical improvement and search for signs of haemolytic anaemia (treatment with artesunate)
+
+o ECG before treatment and daily thereafter
+
+o Normalisation of haematological and biochemical tests, in particular
+
+§ CBC, haptoglobin, LDH (delayed haemolytic anaemia 14 to 21 days after treatment with artesunate)
+
+§ Blood glucose (quinine treatment)
+
+§ Parasitaemia check at D3, D7, and D28

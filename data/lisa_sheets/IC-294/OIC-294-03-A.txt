@@ -1,0 +1,253 @@
+{{knowledge objective
+|Identifiant=OIC-294-03-A
+|Item_parent=Cancer treatment: main procedures, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=A
+|Title=Knowing the main drug therapies specific to cancer treatment: antitumour chemotherapy, targeted therapy, hormone therapy, immunotherapy, etc.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+'''1 General principles'''
+
+With the exception of a few counter-examples for which arguments may suffice (e.g. nodule over 1 cm in histologically proven cirrhosis showing early wash in/wash out on injected imaging), the rule is that histological proof is required before any systemic treatment (per os or IV) can be introduced.
+
+In addition, any systemic treatment will require a pre-treatment check-up to ensure that there are no contraindications; furthermore, the initial consultation before the treatment is started will be the time to assess the benefit/risk balance.
+
+
+There are two distinct situations to consider:
+
+- Curative phase of the disease: treatment may be given neoadjuvantly, adjuvantly or perioperatively. In this phase, the general aim of the treatment will be to maximise the probability of prolonged remission, in particular by acting on micro-metastases not detected by the imaging techniques used during the extension work-up. More specifically, treatment given prior to surgery (e.g. neoadjuvant therapy) will also aim to treat the primary tumour, reduce the tumour mass (downstaging) and the morbidity of the surgical procedure, and in some cases even make an initially unresectable disease operable.
+
+- Palliative phase of the disease: the aim of treatment in this phase is to slow the progression of the disease, or even to reduce the tumour mass, without having the primary aim of achieving remission. In this context, the patient's quality of life should be the primary consideration, over and above quantity of life.
+
+There is an important difference: curative treatment is not synonymous with localised disease, just as palliative treatment is not synonymous with metastatic disease. In fact, certain metastatic situations require curative treatment (''e.g.'' germ cell tumours of the testicle) whereas other anatomically localised neoplastic diseases require palliative treatment (''e.g.'' glioblastoma multiforme). Similarly, it is important not to confuse the palliative phase of the disease (disease that cannot be "cured" but for which active care such as systemic treatments can be undertaken) with the phase of exclusive supportive care (phase of the disease for which active care is not started because of an unfavourable benefit/risk balance).
+
+In addition, systemic treatments may be given concomitantly (''e.g.'' immunochemotherapy in the treatment of certain bronchopulmonary tumours). Certain chemotherapies may be given concomitantly with a radiotherapy protocol in order to act synergistically ('radiosensitising' aspect).
+
+'''2.      Conventional chemotherapies'''
+
+2.1 General information
+
+Conventional" or "cytotoxic" anti-tumour chemotherapies are based on the principle of a cytostatic and/or cytotoxic effect (cell cycle arrest and cell death, respectively).
+
+Conventional chemotherapy is based on a number of theoretical principles:
+
+- a constant fraction of tumour cells is killed in each therapeutic cycle,
+
+- cancer cells will be all the more sensitive to treatment if it is administered at a high dosage ('e.g.' linear dose/effectiveness relationship), justifying high dosages with short intervals between two administrations ('dose intensity' concept),
+
+- In a similar way to antibiotic therapies and the emergence of resistant bacteria justifying the introduction of multiple treatments (e.g. tuberculosis disease), and based on the Goldie-Coldman hypothesis that tumours have a spontaneous mutation rate of around one cell per 100,000 per gene, it would seem appropriate to propose multiple chemical therapy regimens in order to maximise anti-tumour efficacy.
+
+Chemotherapy protocols are established on the basis of the results of clinical trials conducted by national and international groups. To help clinicians choose protocols according to tumour location and clinical situation, guidelines and recommendations are published and regularly updated by international (''e.g.'' ESMO, ASCO) or national (''e.g.'' under the aegis of INCa) learned societies.
+
+Conventionally, a 'cycle' is the duration corresponding to the treatment dispensing phase and the subsequent rest phase. For example, we talk of a D1-J14 cycle when a protocol is dispensed every 14 days. As a nuance of nomenclature, the course of treatment corresponds to the phase in which the molecule is dispensed (a cycle is therefore the course of treatment + the subsequent break).
+
+Chemotherapy protocols are often referred to by acronym: FOLFOX (doublet 5-Fluorouracil + OXaliplatin combined with levofolinate) for digestive cancers, AC (Adriamycin + Cyclophosfamide) for breast cancers.
+
+'''''2.2. Pre-chemotherapy assessment'''''
+
+Any cytotoxic chemotherapy treatment will require a checklist to be drawn up:
+
+- application for long-term care (ALD 30), made by the doctor treating the patient,
+
+- placement of a central venous line. This may be a PICC-line (i.e. a central catheter with peripheral access at the elbow) if the planned duration of treatment is less than 3 months. Otherwise, an implantable venous device (or PAC) will be preferred,
+
+- clinical assessment of major vital functions: nutritional assessment (weight and search for malnutrition) and assessment of physical activity and sedentary lifestyle, ECG
+
+- minimum biological work-up of the major vital functions: kidney (blood ionogram, creatininaemia), liver (ASAT/ALAT, GGT/PAL, bilirubinaemia), blood (CBC +/- search for the cause of anaemia if applicable)
+
+
+This should be completed according to the planned chemotherapy protocol:
+
+- if treated with anthracyclines or trastuzumab => cardiac ultrasound,
+
+- if treated with bleomycin => EFR,
+
+- in non-menopausal women => beta-hCG,
+
+- if the patient is young and/or of childbearing age => referral to a fertility clinic and to the CECOS (for gamete conservation).
+
+In principle, chemotherapies are administered via a central venous line (except for certain molecules) because of their venous toxicity and their effect on perivascular tissues in the event of extravasation of the product. The dose administered will be adjusted according to the patient's weight and height (determining body surface area) or even creatinine clearance (''e.g.'' carboplatin).
+
+'''''2.3. Pre-chemotherapy assessment'''''
+
+In addition to setting up a chemotherapy protocol, the administration of each course of treatment must be validated according to a checklist for dispensing ("OK chemo"):
+
+- absence of neutropenia with PNN < 1 G/L, thrombocytopenia with platelets < 100 G/L. This rule is not an absolute standard and will depend on the situation (e.g. carcinological emergency) and the haematotoxic aspect of the compounds,
+
+- concomitant infectious syndrome,
+
+- impaired general condition (''e.g.'' WHO score >2)
+
+- first trimester of pregnancy or breastfeeding
+
+- acute/chronic renal failure (depending mainly on the compound administered).
+
+'''''2.4. Different classes of chemotherapy'''''
+
+'''2.4.1. Classification'''
+
+Generally speaking, chemotherapy agents intervene at various points in the cell cycle: inhibition of the synthesis of the building blocks that are nitrogenous bases (anti-metabolites), DNA damage (alkylating agents and platinum salts), inhibition of proteins involved in the conformational stability of the DNA double helix (anti-topoisomerases I and II), blockage of mitosis (spindle poisons).
+
+'''2.4.1.1 ''Alkylating agents and platinum salts'''''
+
+The alkylation reaction consists of attaching a hydrocarbon chain to an acceptor radical by means of a covalent bond. The main target of alkylating agents is the DNA molecule. The attachment of an alkylating agent (or adduct formation) to DNA can take place on a single strand ("intra-strand bridge") or between two complementary strands ("inter-strand bridge").
+
+Alkylating agents are said to be "cycle-dependent", since they only affect cells in the process of division. They are characterised by a wide variety of molecules and indications. They mainly include nitrogen mustards (mainly used in onco-haematology), oxazaphosphorines (''e.g.'' cyclophosphamide and ifosfamide), nitrosoureas (with the suffix ''-mustine''). There is also temozolomide (a triazene), which has the advantage of crossing the blood-brain barrier (used in the treatment of glioblastoma).
+
+Although they have a similar mechanism, platinum salts are sometimes classified separately from alkylating agents, since they do not strictly speaking involve alkylation, but more generally the formation of adducts, which is why the term "alkylating-like" is sometimes used.
+
+Platinum salts have a very broad range of indications, since almost half of all patients treated with chemotherapy protocols receive a compound from this class. There are 3 main molecules: cisplatin and carboplatin (which have very broad indications) and oxaliplatin (restricted to digestive cancers). Cisplatin is used in combination with radiotherapy (concomitant radio-chemotherapy) for radiosensitisation.
+
+'''''2.4.1.2. Topoisomerase I and II inhibitors'''''
+
+When the DNA double helix is unwound (''e.g.'' during replication or transcription) the adjacent unopened DNA is wound more tightly (''i.e.'' formation of ''supercoils''). The stress caused by this "supercoil" is resolved by enzymes known as topoisomerases (I and II). These enzymes produce single-strand breaks (I) or double-strand breaks (II) in the DNA, thereby reducing the "relaxation" of the DNA strands to prevent them from breaking. Topoisomerase inhibitors are drugs that affect the activity of topoisomerases.
+
+Topoisomerase I inhibitors are mainly irinotecan and topotecan (camptothecin derivatives).
+
+Topoisomerase II inhibitors can be divided into 2 sub-groups: intercalators (mainly represented by the anthracyclines, led by doxorubicin) and non-intercalators (e.g. etoposide).
+
+'''''2.4.1.3. The poisons of the spindle'''''
+
+Spindle poisons are drugs active on microtubules, whose main role is to inhibit their function. One of the key activities of microtubules (highly dynamic molecules) is the separation of chromosomes during mitosis. This microtubule dynamic is hindered in two distinct ways: inhibition of polymerisation or depolymerisation. Polymerisation inhibitors include vinca alkaloids (grouped together with the prefix "vin-"; ''e.g.'' vinorelbine) and eribulin, as opposed to depolymerisation inhibitors such as taxanes (grouped together with the suffix "-taxel"; ''e.g.'': paclitaxel).
+
+
+'''''3.1.4.1.4. Antimetabolites'''''
+
+This class of drugs includes molecules that are similar to the endogenous compounds required for nucleic acid synthesis, acting as molecular decoys. This inhibits the synthesis of DNA, RNA and, ultimately, proteins.
+
+Antimetabolites mainly include :
+
+- pyrimidine analogues (''e.g.'' 5-fluorouracil, capecitabine),
+
+- purine analogues (''e.g.'' mercaptopurine, azathioprine, fludarabine),
+
+- antifolates (''e.g.'' methotrexate).
+
+
+'''3. Targeted therapies
+
+'''''3.1 General information'''''
+
+Knowledge of the molecular mechanisms at work in the carcinogenesis process has led to the identification of new therapeutic targets. The transduction of cell growth signals is one of the key players. Broadly speaking, transduction involves the transmission of information from the extracellular environment (via a ligand, which may be a growth factor) to the interior of the cell (leading to downstream cellular effectors), via a transmembrane receptor (enabling passage through the barrier represented by the lipid bilayer). Cancer cells are frequently marked by a deregulation of these cell growth activation signals (in particular constitutive activation).
+
+Targeted therapies can therefore act on each of these players: growth factors (''e.g.'' bevacizumab, a VEGF inhibitor), receptors (''e.g.'' cetuximab, an EGFR inhibitor) or intracellular effectors (''e.g.'' vemurafenib, a specific inhibitor of the V600 mutated BRAF protein kinase).
+
+In addition, a number of pharmacological inhibitors have been developed based on activating mutations recurrently found in cancer cells, leading to constitutively active proteins and therefore aberrant proliferation and survival signals. One example is sotorasib, which is specific for the KRAS protein with a G12C mutation.
+
+The toxicity profiles of targeted therapies will be very different from those of conventional chemotherapies, and much more "molecule-specific".
+
+There are two main classes of molecules to be aware of: monoclonal antibodies and pharmacological inhibitors.
+
+'''3.2. Monoclonal antibodies (mAb)''''
+
+All mAbs carry the suffix -mab, to which a presuffix is added depending on their nature: -momab (murine mAb); -ximab (chimeric mAb); -zumab (humanised mAb); -mumab (human mAb). It should be noted that the further away the mAb is from the human repertoire, the higher the risk of allergic reaction.
+
+As these are large molecules, they generally do not penetrate cells, so their role is either to bind to the ligand (e.g. bevacizumab to VEGF) or directly to the receptor (e.g. trastuzumab to HER2). The aim remains to prevent activation of the transduction signal.  In addition, the binding of mAb to its target enables the recruitment of soluble effectors such as complement, or cellular relays such as NK cells.
+
+More recently, a new class of 'super mAb' has emerged, known as antibody-drug conjugates. This involves covalent coupling of a conventional cytotoxic molecule to a mAb, enabling the specificity of the antibody to be used to deliver the cytotoxic molecule directly and specifically to cancer cells expressing a given receptor. This mechanism is akin to a Trojan horse.
+
+3.2 Pharmacological inhibitors
+
+Pharmacological inhibitors (generally bearing the suffix "-inib") are small, synthesised molecules that can penetrate the cell and be taken "per os". Most are directed against the intracellular part of membrane receptors with kinase activity (mainly tyrosine kinase). They bind to the ATP anchoring site, thereby blocking the phosphorylation mechanisms at the origin of the intracellular signalling cascades that carry the signal to the cell nucleus. Other inhibitors act directly in the cytoplasm.
+
+Pharmacological inhibitors are classically single-target agents (specific to a single receptor), although some have a "multi-target" action.
+
+Their safety profile is generally more favourable than that of chemotherapy, but the fact that they are taken daily by the patient implies the need for therapeutic education and a risk of non-compliance.
+
+Their action is limited in time. Indeed, as they are designed to specifically target a given alteration, this leads to the emergence of secondary resistance mutations.
+
+For example, many pathways have been targeted by pharmacological inhibitors (non-exhaustive list): the EGF receptor (''e.g.'' erlotinib); angiogenesis (''e.g.'' sorafenib); ALK translocation ('''e.g.'' crizotinib); BRAF V600 mutation (''e.g.'' vemurafenib); MEK pathway (''e.g.'' trametinib); mTOR pathway (''e.g.'' everolimus, temsirolimus); CDK4/6 pathway (e.g. palpociclib).
+
+
+3.3 Hormone therapy
+
+3.3.1 General information
+
+Tumour cells from prostate cancer, breast cancer and endometrial cancer (as well as other more anecdotal sites) express hormone receptors, making them sensitive to anti-hormonal treatments. The term 'hormone therapy' is therefore a misnomer, as it refers to anti-hormonal treatment, the principle of which is to prevent this hormonal stimulation by two main methods: either by reducing hormone production or by directly blocking the tumour hormone receptor (using 'anti-hormones').
+
+Homonal production can be reduced centrally (''e.g.'' LH-RH agonists that inhibit pituitary LH secretion) or peripherally (''e.g.'' suppression of ovarian or testicular hormone production). More specifically, peripheral hormonal suppression can be irreversible (through surgery or radiotherapy) or reversible through a chemical castration mechanism. It should also be noted that in post-menopausal women with breast cancer, temporary suppression of hormone production targets adrenal and adipocyte production through the use of aromatase inhibitors.
+
+'''3.3.2. Prostate cancer
+
+'''3.3.2.1. Medicines active on LH-RH''''
+
+LH-RH is secreted by the hypothalamus and regulates the synthesis of FSH and LH by the anterior pituitary gland. LH is the main stimulus for the synthesis and secretion of testosterone by the testicular Leydig cells. The use of LH-RH agonists (''e.g.'' leuprorelin) and antagonists (''e.g.'' degarelix) leads to reversible medical castration.
+
+In the first few days of treatment, LH-RH agonists (or analogues) stimulate pituitary secretion of LH and FSH, leading in turn to an increase in testosterone synthesis, with the risk of causing an initial increase in symptoms (the so-called "flare-up" phenomenon). Secondly, they cause the ligand-receptor complexes to be internalised in the cell, reducing the number of receptors and ultimately suppressing testosterone secretion.
+
+The risk of flare-up is particularly high in patients with obstruction of the urinary excretory tract and in those with vertebral metastases. It is therefore essential to co-administer an anti-androgen at the start of treatment with an LHRH agonist, until testosterone levels reach medical castration levels (≤ 0.5 ng/ml).
+
+LHRH antagonists cause direct and immediate blockade of LHRH receptors, leading to rapid suppression of LH and FSH, and testosterone secretion. There is therefore no risk of flare-up when using LHRH antagonists.
+
+3.3.2.2 Anti-androgens
+
+Androgen receptor antagonists (otherwise known as anti-androgens or A.A.) inhibit the effects of testosterone at its peripheral receptors, particularly in prostate cells (including cancer cells).
+
+A.A.s include several types of molecule: an anti-androgenic progestogen (cyproterone acetate) and 3 first-generation non-steroidal anti-androgens (bicalutamide, flutamide and nilutamide). These molecules compete with androgens by inhibiting their binding to the receptor, thereby preventing translocation of the receptor to the cell nucleus. As a result, they do not reduce LH production or testosterone levels, which may remain normal or even increase. The impact of treatment on libido and sexual potency is therefore less marked.
+
+'''3.3.2.3. New generation hormone therapies (NGH)'''
+
+At the end of an initial phase of remission obtained by medical castration (attested by collapsed testosterone levels), the cancer cells start to proliferate again, leading to a re-increase in PSA levels +/- associated with clinical signs. This phase of biological +/- clinical progression of the disease defines castration-resistant prostate cancers.
+
+This has led to the development and advent of a new generation of AAs:
+
+- enzalutamide, apalutamide and darolutamide, molecules which bind to the androgen receptor with a much higher affinity than conventional AAs,
+
+- abiraterone acetate, an irreversible inhibitor of cytochrome P450 CYP17 (involved in the "in situ" synthesis of androgens in the testicles, adrenals and prostate). It is prescribed in combination with corticosteroids (because it inhibits the synthesis of adrenal corticosteroids).
+
+A key point is that these two drugs must be prescribed in conjunction with medical castration using an LHRH analogue (unless the latter has been performed surgically). The latest studies have led to the positioning of these two drugs in the first line of metastatic disease (always in combination with an LHRH analogue), i.e. at the stage of hormone-sensitive metastatic prostate cancer.
+
+
+For prostate cancer, hormone therapy (chemical castration or sometimes surgery, possibly combined with AA or HNG) is indicated:
+
+- in locally advanced non-metastatic forms: in combination with prostate radiotherapy (=hormono-radiotherapy)
+
+- in metastatic disease: alone or in combination with radiotherapy or chemotherapy, depending on the severity of the metastatic disease.
+
+
+'''''3.3.3. Breast cancer'''''
+
+'''3.3.3.1. Anti-estrogens
+
+They are in fact selective oestrogen receptor modulators. A distinction is made between :
+
+*- Selective estrogen receptor modulator''''''''''''''''' (or SERMs), the historical leader of which is tamoxifen. Their structure enables them to bind to oestrogen receptors and compete with endogenous oestrogens. They have a strong antagonistic effect on the breast but a weak agonistic effect on other target tissues (including the endometrium), which explains many of their side effects (notably the increased risk of thrombo-embolic disease and endometrial cancer);
+*- fulvestrant is a selective estrogen receptor downregulator (SERD); with a steroidal structure, it is a pure anti-estrogen with no weak agonist effect.
+
+'''3.3.3.2. Aromatase inhibitors (I.A)''''
+
+Breast cancer, a typically hormone-dependent tumour, develops mainly in the post-menopausal period, constituting an apparent paradox. In fact, as mentioned above, despite the cessation of hormone production by the ovaries, several peripheral tissues continue this production via aromatase, a ubiquitous enzyme. Several drugs have therefore been developed to counteract this effect: exemestane, anastrozole and letrozole.
+
+These drugs are therefore the cornerstone of treatment for breast cancers expressing hormone receptors in post-menopausal women. The adverse effects most frequently observed with these drugs are myalgia and arthralgia, which means that patients need to be informed. Poor tolerance is a recipe for non-compliance. What's more, these drugs accelerate post-menopausal bone loss (leading to an increased risk of fracture), which is why bone densitometry should be monitored and patients should be provided with sufficient calcium and vitamin D (or even a biphosphonate).
+
+3.4 Immunotherapy
+
+'''3.4.1. General information'''
+
+Unlike previous therapies that directly target cancer cells, immunotherapy acts primarily on the patient's immune system to restore its ability to neutralise cancer cells.
+
+Immunotherapy is based on mAbs (in particular immune checkpoint inhibitors or ICPIs), bispecific antibodies, adoptive cell transfer and anti-tumour vaccination, which is still highly experimental (apart from preventive anti-HPV vaccination for cervical cancer).
+
+'''3.4.2. Immune checkpoint inhibitors (ICPI)''''
+
+In physiological conditions, immunological brakes (or "checkpoints") are present on the surface of T lymphocytes, to avoid an excessive immune response and thus prevent the development of autoimmune diseases.
+
+Among the many players characterised, the Cytotoxic T lymphocyte-associated protein 4 (CTLA-4) and Programmed cell death receptor 1 (PD-1) receptors are therapeutic targets. Binding of their respective ligands (''e.g.'' PD-L1 for PD-1) inhibits the antigen receptor signalling pathway in T lymphocytes. This apparent beneficial effect when the autoimmune risk is considered becomes deleterious when it is hijacked by the tumour to lead to immune evasion. The binding of the PD-L1 protein (present on tumour cells) to the PD-1 receptor (on T lymphocytes) leads to the inactivation of the latter. Blocking this immunological synapse by blocking the PD-1 receptor or the PD-L1 protein (with anti-PD-1 or anti-PD-L1, respectively) leads to the reactivation of T lymphocytes.
+
+Drugs now routinely used include anti-PD-1 (nivolumab, pembrolizumab), anti-PD-L1 (atezolizumab, avelumab, duvarlumab) and anti-CTLA-4 (ipilimumab).
+
+The adverse effects of ICPI are very different from the classic toxicities of chemotherapy. The reactivation of the immune response will have the beneficial effect of anti-tumour activity and the deleterious effect of autoimmune activity. The latter, grouped together under the term "immune related adverse events" (or IRAE), can potentially affect all the patient's organs. However, the main toxicities reported in terms of frequency concern endocrine disorders (in particular dysthyroidism and pan-hypophysitis), gastrointestinal disorders (autoimmune colitis and hepatitis) and skin disorders (rash and vitiligo). Most of these symptoms appear during the induction phase of treatment, but they may also be delayed.
+
+Early diagnosis and management of RAEIs (involving teams of internal medicine and organ specialists) are therefore essential.
+
+Derived from classic ICPIs, bispecific antibodies have the particularity, as their name suggests, of being able to target two distinct types of target (and therefore two cell types). By bringing these two cell types together, the antibody facilitates the elimination of cancer cells by T lymphocytes.
+
+'''3.4.4. Adoptive cell transfer
+
+These treatments aim to stimulate the patient's immune system by giving the immune cells the information they need to better recognise tumour cells. To do this, the patient's immune cells are harvested, then selected/modified/expanded in the laboratory and finally the modified cells are reinjected into the patient.
+
+Within this category, T lymphocytes genetically modified to obtain chimeric antigenic receptors (CAR-T cells) are those that have achieved the most convincing success in onco-haematology.
+
+<br />

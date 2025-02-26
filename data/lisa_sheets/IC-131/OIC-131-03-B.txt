@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-131-03-B
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=B
+|Item_parent_short=Gait and balance disorders.
+|Description=Know the different tests, how they are performed and how they are interpreted (Unipodal support, FTSS, TUG test, Stop walking while talking test).
+|Section=Additional tests
+|Contributors=
+|Order=3}}
+'''Walking and posture tests are only part of the assessment of walking and balance disorders'''
+
+*They are not a substitute for clinical examination and have no diagnostic or aetiological properties;
+*They should only be used after rigorous questioning and clinical examination of balance and walking, which will lead to an aetiological diagnosis;
+*They are used to detect vulnerability to walking and a risk of falling.
+
+They include :
+
+# the unipodal station (recommended by HAS 2012)
+# Timed up and go test (recommended by HAS 2012)
+# Stop walking while talking test (recommended by HAS 2012)
+# Five times sit-to-stand test
+
+
+'''Interpretation of the Unipodal Station test''': the inability to stand on one foot (of one's choice) for more than 5 seconds or the need to spread the arms to maintain balance is associated with a very high risk of a fall with trauma. Conversely, a time of more than 30 seconds is predictive of a very low risk of falling.
+
+Interpretation of the Timed up and go test: the inability to stand up from a chair with armrests, walk 3 metres in a straight line, turn around and sit down again in less than 20 seconds is associated with the risk of a further fall.
+
+Interpretation of the ''Stop walking while talking test'': the inability to perform an attentional task (answering a question, counting from 1 to 1, from 3 to 3, or listing animal names) without stopping while walking in a straight line at one's usual speed is associated with an increased risk of falls.
+
+Interpretation of the Five times sit-to-stand test: the inability to perform a sequence of 5 chair lifts in less than 15 seconds without using the arms is associated with a risk of falls.
+
+'''→ whatever the aetiologies of balance and gait disorders, the inability to successfully perform at least one of these 4 tests predicts a risk of falling.'''

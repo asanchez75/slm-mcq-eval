@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-264-07-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the different stages of CKD
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=7}}
+
+{| class="wikitable"
+|Stadium
+|Description
+|DFG (ml/min/1.73 m2 )
+|-
+|1
+|Chronic kidney disease* with normal or increased GFR
+|≥ 90
+|-
+|2
+|Chronic kidney disease* with slightly decreased GFR**.
+|60-89
+|-
+|3A
+|Moderate chronic kidney disease
+|45-59
+|-
+|3B
+|Moderate chronic renal failure
+|30-44
+|-
+|4
+|Severe chronic renal failure
+|15-29
+|-
+|5
+|End-stage renal disease
+|< 15
+|}
+<nowiki>*</nowiki> With markers of renal damage: clinical proteinuria, haematuria, leukocyturia, or morphological or histological abnormalities or markers of tubular dysfunction, persisting for more than 3 months.
+
+<nowiki>**</nowiki> A GFR between 60 and 89 ml/min can be considered normal in an elderly subject.

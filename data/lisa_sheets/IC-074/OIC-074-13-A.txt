@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-074-13-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Anxiolytics: knowing the indications, non-indications and contraindications at all stages of life, particularly in elderly patients.
+|Description=None
+|Rubric=Management
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=13}}
+
+== '''Indications''' ==
+The main indications are as follows:
+
+*Symptomatic treatment of intense and/or incapacitating anxiety;
+*Preventive treatment for alcohol withdrawal: prevention of withdrawal syndrome (delirium tremens);
+*Treatment of convulsive seizures and epilepsy (partial or generalised).
+*Neuropathic pain
+
+When prescribing benzodiazepine anxiolytics to elderly patients, particular care must be taken and the usual prescribing rules must be followed:
+
+* maintain a low dosage
+* Regularly reassess the need for treatment,
+* reassess its efficacy and safety.
+
+== '''Contraindications''' ==
+There are absolute and relative contraindications
+
+=== Absolute contraindications ===
+
+*Known hypersensitivity
+*Severe respiratory insufficiency
+*Hepatic impairment (with the exception of oxazepam)
+*Obstructive sleep apnoea syndrome not treated by continuous positive airway pressure CPAP
+*Myasthenia
+
+=== Relative contraindications ===
+
+*Pregnancy and breast-feeding
+*Renal insufficiency
+*History of addictive disorders
+*A history of paradoxical reactions
+
+<br />

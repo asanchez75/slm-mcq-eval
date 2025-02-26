@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-306-08-B
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=B
+|Title=Knowing the diagnostic and prognostic value of anapathy
+|Description=Know that a definite diagnosis of ovarian cancer requires histological evidence - know how to obtain histological evidence.
+|Rubric=Additional examinations
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=8}}
+'''Anatomopathological examination :'''
+
+Prior to any chemotherapy, it is recommended that the positive diagnosis of ovarian carcinoma (histological type and grade of carcinoma) be made on ''biopsy material'' (not cytological material) 181. [Malignant tumours on surgical specimen/biopsy SD-181|Malignant tumours on surgical specimen/biopsy]]. Biopsies with multiple samples from different tumour sites and of good size are recommended.
+
+The microscopic study should specify the histological type of the tumour (WHO 2014 classification), the tumour grade, the possible presence of tubal intraepithelial serous carcinoma (TISC), tumour locations, peritoneal cytology, lymph node status and FIGO classification with the year of classification. If there is any diagnostic doubt about the type or histological grade of ovarian carcinoma, an immunohistochemical study using an optimal panel of antibodies is recommended. 180. [[Interpretation of a pathology report SD-180|Interpretation of a pathology report]]
+
+In the event of somatic mutation of the BRCA genes, the patient must be referred to an oncogenetic consultation.

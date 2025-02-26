@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-320-02-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Identify a monoclonal peak and diagnostic criteria for monoclonal gammopathy of undetermined significance (MGUS)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Peak of monoclonal appearance
+
+- Narrow band peak on serum protein electrophoresis
+
+- Corresponding to the presence of monoclonal immunoglobulin
+
+- Migration more often in the gamma globulin zone, less frequently in the beta zone
+
+- Immunofixation confirms the presence of a monoclonal immunoglobulin and identifies the isotype: heavy chain (G, A, M, D, E) and light chain (kappa or lambda).
+
+
+Criteria for defining monoclonal gammopathy of undetermined significance (MGUS)
+
+- Presence of monoclonal immunoglobulin secretion in blood < 30 g/L
+
+'''And'''
+
+- Bone marrow plasmacytosis < 10
+
+'''And'''
+
+- Absence of "CRAB" symptoms (hypercalcaemia, renal failure, anaemia, bone lesions)
+
+
+Incidence of monoclonal gammopathies of undetermined significance
+
+Very common: 3% after age 50, 5 to 10% after age 70
+
+
+Evolutionary risk of monoclonal gammopathies of undetermined significance :
+
+1% risk of progression per year to: multiple myeloma (MGUS IgG or IgA), Waldenstrom's disease (MGUS IgM), other low-grade lymphoma, AL amyloidosis)

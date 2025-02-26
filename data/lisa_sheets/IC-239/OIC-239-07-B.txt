@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-239-07-B
+|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Rank=B
+|Title=Photography of frostbite
+|Description=None
+|Rubric=Multimedia content
+|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello
+|Order=7}}
+[[File:Engelures.jpg|vignette|Engelures d'orteils]]

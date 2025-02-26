@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-200-06-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know how to diagnose septic arthritis
+|Description=Know how to diagnose septic arthritis
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=6}}
+All monoarthritis is septic arthritis until proven otherwise!
+
+'''Clinical:'''
+
+-Most often acute monoarthritis with varying degrees of fever, local inflammatory signs (redness, heat) and total functional impotence.
+
+-Search for a possible infectious route of entry
+
+-Favouring factor: immunodepression
+
+'''Paraclinical:''''
+
+-Biological inflammatory syndrome: high CRP and neutrophil hyperleukocytosis
+
+-Joint puncture should be performed systematically in the event of any suspicion of septic arthritis
+
+Joint fluid analysis :
+
+Inflammatory joint fluid cloudy (> 2000 leukocytes/mm3) or puriform (> 50000 leukocytes/mm3), rich in neutrophils which are often altered
+
+Identification of the pathogen by direct examination and/or culture

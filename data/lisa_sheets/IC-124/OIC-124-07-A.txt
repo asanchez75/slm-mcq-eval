@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-124-07-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Knowing the signs of hypoestrogenism, hyperoestrogenism.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=7}}
+
+== Hypoestrogenism ==
+The main ''functional symptoms of climacteria'' are the consequences and clinical expression of hypoestrogenism, such as vaginal dryness or urinary or sexual problems with dyspareunia, characteristic of ''menopausal genitourinary syndrome'' (MGUS).
+
+Main symptoms reported in relation to the menopause.
+
+Symptoms directly attributable to estrogen deficiency are shown in bold.
+{| class="wikitable"
+!PHYSICAL SIGNS
+!MENTAL SIGNS
+|-
+|
+=== <small>Vasomotor flushing</small> ===
+|'''Sleep disorders'''
+|-
+|Night sweats
+|Insomnia
+|-
+|Vulvovaginal dryness
+|Asthenia
+|-
+|Weight gain
+|Loss of attention, loss of memory
+|-
+|Arthralgia, myalgia
+|Depression
+|}
+
+== Hyperoestrogenism ==
+Signs of hyperoestrogenism are common during the perimenopause, and may also be linked to an overdose of menopausal hormone treatment:
+
+bilateral mastodynia
+
+'''- pelvic pain''''
+
+'''- weight gain with a feeling of swelling'''
+
+'''-[[Leucorrhoea SD-104|"white" vaginal discharge]]''''
+
+- irritability

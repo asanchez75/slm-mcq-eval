@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-334-10-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the definition of a burn and its depth
+|Description=Know the different types of burn (thermal, chemical, electrical) and their depth (histological damage, natural evolution).
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+A burn ("''[[Burn SD-168|burn]]'''') is defined as the traumatic destruction of the skin and underlying tissues by a process that is :
+
+*Thermal in 90% of cases, caused by: liquids >flames >> explosions > solids > vapours,
+*electrical in <5% of cases (high voltage, low voltage, flash, lightning),
+*chemical (<3% of cases)
+*mechanical (dermabrasion, traumatic skin avulsion)
+*exceptionally, radiation.
+
+Different types of burn depending on depth (Figure 5):
+
+*1<sup>er</sup> degree, characterised by painful erythema
+*2<sup>th</sup> degree, characterised by damage to the epidermal basement membrane and dermis with phlyctenes and epidermal detachment
+*[[File:Item 334 Figure 5bis 1st to 3rd degree burns.jpg|alt=|thumbnail|Figure 5. 1st to 3rd degree burns]]3<sup>th</sup> degree, characterised by destruction of the dermis and skin appendages with disappearance of discolouration on in vitro pressure, and atonic, dry, cardboardy, insensitive and painless skin with loss of the phanera.

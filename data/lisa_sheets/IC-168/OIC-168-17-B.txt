@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-168-17-B
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=B
+|Title=Knowing the main toxicities of treatments active against HSV and VZV
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=17}}
+Main treatments : Aciclovir ointment, Aciclovir IV, Valaciclovir PO (metabolic precursor of aciclovir) or Famciclovir PO.
+
+Risk of acute renal failure due to precipitation of crystals in the renal tubules, neuropsychological disorders (headaches, dizziness, agitation, confusion or even encephalopathy).
+
+If pregnant, aciclovir is preferable.

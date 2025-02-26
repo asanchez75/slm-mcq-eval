@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-328-05-A
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=A
+|Heading=General knowledge of orthoses
+|Description=Different types and indications
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=5}}
+
+'''Orthosis''': a device that supplements a limb or segment of limb that is deficient or the spine.
+
+It can be small or large equipment.
+
+
+'''Objectives of orthotic treatment''' ''(different from orthopaedic treatment after trauma or surgery)'''
+
+- downtime
+
+- rest
+
+- stabilisation
+
+- correction
+
+- substitution

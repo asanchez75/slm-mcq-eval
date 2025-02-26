@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-115-06-A
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=A
+|Title=How to recognise toxic epidermal necrolysis (Steven-Johnson and Lyell)
+|Description=Beginning 7 to 21 days after the start of inducing treatment; multifocal mucosal erosions and skin bullae; large flaps of detached epidermis; Nikolsky's sign; visceral damage; life-threatening.
+|Rubric=Emergency identification
+|Contributors=
+|Order=6}}
+Onset 4 to 28 days after the start of inducing treatment
+
+- Initial nonspecific symptoms: fever, deterioration in general condition, initial mucocutaneous signs: burning eyes, pharyngitis, painful erythematous rash.
+
+- Rapid evolution (a few days) towards the state phase (Figures 1&2) and a typical clinical picture: multifocal mucosal erosions and cutaneous bullae, accompanied by a Nikolsky sign (flakes of epidermis detaching when rubbed against 'healthy' skin); fever; possible visceral damage: necrosis of the bronchial epithelium or intestinal epithelium.
+
+- '''Re-epithelialisation''' in 10 to 30 days, with frequent sequelae (reduced visual acuity, photophobia, pigmentary disorders and scarring, post-traumatic stress syndrome).
+<gallery>
+File:Figure 1 toxidermia.jpg|'''''Figure 1''''' Vesiculo-bullous lesions with intervals of healthy skin. Stevens-Johnson syndrome (toxic epidermal necrolysis with a detachment of less than 10% of the body surface area).
+File:Figure2 toxidermie.jpg|'''''Figure 2.a'''''. Vesiculo-bullous lesions with tattered detachments. Lyell syndrome (toxic epidermal necrolysis in which the detachment covers at least 30% of the body surface).
+File:Lyell lisa.jpg|'''''Figure 2.b''''' Vesiculo-bullous lesions with flaky detachments. Lyell syndrome (toxic epidermal necrolysis in which the detachment reaches at least 30% of the body surface).
+</gallery><br />

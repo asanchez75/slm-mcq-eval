@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-258-12-B
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=B
+|Title=Know the additional tests to be carried out when creatinine levels are elevated, presumed to be of parenchymal origin.
+|Description=Know the paraclinical elements in favour of the parenchymal nature of an increase in creatininaemia
+|Rubric=Additional tests
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=12}}
+
+Complementary tests should be carried out as a first line of defence:
+
+Blood: protein electrophoresis, fasting blood sugar, ionogram (Na, K, Cl, bicarbonates)
+
+Urinary: 24-hour proteinuria or proteinuria/creatininuria ratio on urine sample, urine cytology to detect haematuria or leucocyturia.
+
+Imaging: renal ultrasound (measure the size of the kidneys and look for asymmetry, bumpy contours, polycystic kidneys, nephrocalcinosis, urinary stones, hydronephrosis)
+
+Ultrasound examination of the bladder: looking for pathology of the lower apparatus and post-void residue
+
+Nephrological advice is recommended for the indication of a renal biopsy, additional functional (tubulopathy, lithiasis) or morphological investigations, genetic investigations, etc.
+
+
+SDS links:
+
+[Analysis of a urine cytobacteriological examination (ecbu) SDD-189|189]] Analysis of a urine cytobacteriological examination,
+
+[Haematuria SDD-102|102]] Urine dipstick analysis
+
+[[196]] Urine sediment analysis
+
+[Increased creatinine SDD-199|199]] Increased creatinine
+
+[[SDD-178|178]] Reasoned request/prescription and choice of diagnostic test
+
+[[Hematuria SDD-102|102]] Hematuria
+
+[Proteinuria SDD-212|212]] Proteinuria
+
+[[SDD-290|290]] Follow-up of a patient in chronic renal failure <br />
+
+'''A detailed description of the chapter is available at: http://cuen.fr/manuel2/spip.php?rubrique16''''
+
+<br />

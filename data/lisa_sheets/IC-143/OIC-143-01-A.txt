@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-143-01-A
+|Item_parent=Know the specific aspects of palliative care in the intensive care unit
+|Item_parent_short=Know the specific aspects of palliative care in the intensive care unit
+|Rank=A
+|Title=Describe the process of limiting or stopping treatment in the intensive care unit.
+|Description=Know the procedure and purpose of LAT in a patient capable of consenting and in a patient incapable of consenting.
+|Rubric=Definition
+|Contributors=Thomas Perrin
+|Order=1}}
+
+In situations where the patient can express his or her wishes, the ''principle of autonomy'' provides that the patient's decision prevails. ([[Know the definitions of autonomy 2C-007-DE-A05]]; [[Respect for autonomy 2C-009-DE-A05]])
+
+If the patient is unable to do so, advance directives 2C-009-DE-B03|''directives anticipées'']] enable the patient's previously expressed wishes to be exercised. ([[Know the definition, conditions of collection, validity and situations in which to consult advance directives 2C-007-PC-A03]])
+
+When the patient is not capable of expressing his/her wishes, decisions to limit or stop treatment (LAT) are taken during a [[Collegial procedure 2C-009-PC-B05|'''procédure collégiale''']] defined by [[Unreasonable obstinacy and limitation. Legislative framework, philosophical and ethical foundations* 2C-009-PC-A06|''la loi Léonetti du 22 avril 2005'']]. The LAT may relate to all or part of the treatment carried out. ([[Know the principles of personal and collective deliberation and decision-making in situations where questions arise about the proportionality of investigations and treatments 2C-140-PC-A02]])
+
+Unreasonable obstinacy and limitation. Legislative framework, philosophical and ethical foundations* 2C-009-PC-A06|Limitation of treatment]]'' is used to define the judicious degree of intensiveness for a given patient, at a given time. In intensive care, the limitation may concern certain organ supplements without limiting supplements for other failures (treating a state of shock but not dialysis, for example). ([[Know the ethical, legal and societal issues raised during the advanced or terminal palliative phases of a serious, chronic or lethal illness 2C-140-DP-A05]])
+
+Discontinuation of treatment" means stopping one or more of the treatments being given, particularly when they are merely maintaining life artificially. It is important to note that the discontinuation of life-sustaining treatment that is deemed unreasonable at a given stage of care is not the same as [[2C-141-DE-A01 Understanding the distinction between sedation at the patient's request, sedation for terminal distress and euthanasia|'''euthanasia''']], even if it has the effect of hastening death (e.g. discontinuation of mechanical ventilation).
+
+The ''basic care'' that contributes to the patient's comfort must be maintained regardless of the decision to limit or stop the treatment.

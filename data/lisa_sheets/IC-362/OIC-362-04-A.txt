@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-362-04-A
+|Item_parent=Prostheses and osteosynthesis
+|Item_parent_short=Prostheses and osteosynthesis
+|Rank=A
+|Title=Knowing how to identify urgent complications of osteosynthesis (clinical, biological, imaging indications)
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=CFCOT
+|Order=4}}
+
+'''<u>1) Infection:</u>'''
+*Clinical:
+**Acute: fever, redness, pain, discharge not the scar, abscess, septic shock.
+**Chronic: the clinic is less noisy with pain, recurrent problems healing the surgical approach, fistula with purulent discharge, pseudarthrosis.
+*Biology:
+**CBC: hyperleukocytosis with PNN and in the case of acute infection, normal or inflammatory anaemia in the case of chronic infection.
+**CRP very high in acute infection, close to normal in chronic infection.
+**Local bacteriological samples taken during the operation to identify the pathogenic bacteria. Do not take antibiotics indiscriminately before taking bacteriological samples.
+*Imaging: not very helpful, but X-rays should be taken systematically to look for secondary displacement, pseudarthrosis and osteosynthesis material rupture.
+*Diagnosis is mainly clinical
+
+'''<u>2) Dressing room syndrome</u>''''
+
+*Clinical:
+**Intense pain not relieved by analgesics.
+**Induration of the affected compartment(s)
+**Very painful mobilisation
+**Sensory then late motor problems (hypoesthesia of the 1st</sup> commissure in the case of deep fibular nerve damage).
+**Preserved pulses
+*Biology and imaging: the diagnosis is clinical +++, there are no additional tests to rule out the diagnosis.
+
+'''<u>3) Post-operative nerve palsy</u>''''
+
+*Clinical: systematic neurological examination in postoperative osteosynthesis before discharge. If there is a deficit, determine the sensory territory and carry out motor testing.
+*Paraclinical: an electromyogram may be carried out if the deficit persists for more than 3 months.
+
+'''<u>4) Secondary displacement</u>''''
+
+*Clinical: sometimes pain and deformity, often asymptomatic.
+*Imaging: post-operative and regular follow-up X-rays, comparison of immediate post-operative X-rays and follow-up X-rays.
+
+'''<u>5) Wound healing disorders:</u>''' clinical diagnosis, prescribe dressing care until complete healing by an IDE.
+
+<br />

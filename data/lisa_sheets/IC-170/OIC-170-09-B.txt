@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-170-09-B
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=B
+|Title=Knowing the principles of monitoring a simple malaria attack
+|Description=cf consensus conference 2017
+|Section=Monitoring and progress
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=9}}
+
+* Clinical monitoring: apyrexia, clinical improvement, no vomiting
+* Biological monitoring:'''
+** normalisation of haematological and biochemical tests if initially abnormal
+** parasitaemia check at D3, D7 and D28 (smear and thick drop)

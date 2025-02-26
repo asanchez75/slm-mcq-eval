@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-355-16-B
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=B
+|Title=Lower GI haemorrhage in children: how to treat it
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=16}}
+
+Treatment is based on finding the cause
+
+- fissure on constipation = treatment of constipation (laxatives)
+
+- acute intestinal intussusception: reduction by enema
+
+- Meckel's diverticulum: surgery
+
+In the event of severe haemorrhage with haemodynamic repercussions: intensive care, venous line, filling or even transfusion.

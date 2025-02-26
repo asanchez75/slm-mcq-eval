@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-030-03-B
+|Item_parent=Prematurity and intrauterine growth retardation: risk factors and prevention
+|Item_parent_short=Prematurity and intrauterine growth retardation: risk factors and prevention
+|Rank=B
+|Title=Knowing the definition and risk factors of intrauterine growth retardation (IUGR)
+|Description=Know the definition, risk factors
+|Rubric=Diagnosis
+|Contributors=Julie Blanc,Philippe Deruelle
+|Order=3}}
+
+'''Definition:'''
+
+- Low weight for gestational age or LBW is defined as a weight (estimated in utero weight or birth weight) below the 10th percentile, in isolation. Severe LBW corresponds to a LBW below the 3rd percentile.
+
+- IUGR most often corresponds to PAG associated with arguments in favour of a pathological growth defect: longitudinal growth arrest or inflection (at least 2 measurements 3 weeks apart).
+
+'''Risk factors:''''
+
+1 Foetal pathologies
+
+In 10-20% of cases, IUGR has a foetal cause: chromosomal anomaly, malformative syndrome, foetal infection (especially CMV). IUGR tends to be early (onset in the 2nd trimester) and severe (BP < 3rd percentile), and is often associated with morphological abnormalities.
+
+''2.    Vascular pathologies''
+
+They account for 35-50% of IUGR. IUGR most often occurs late (in the 3rd trimester), but can occur early in severe forms. IUGR can recur in subsequent pregnancies.
+
+In the case of IUGR, the arguments in favour of a vascular cause are :
+
+- association with hypertension or even pre-eclampsia ('''[[Hypertension during pregnancy SD-053|Hypertension during pregnancy]]''' and '''[[Proteinuria SD-212|Proteinuria]]'''). This association is frequent and very suggestive, but inconstant;
+
+- association with a chronic maternal pathology: chronic ''[[Arterial hypertension SD-042|Arterial hypertension]]''', nephropathy (''[[Increased creatinine SD-199|Increased creatinine]]'''), lupus, antiphospholipid syndrome, diabetes with vascular complications (''[[Prevention of cardiovascular disease SD-320|Prevention of cardiovascular disease]]''');
+
+- a history of vascular IUGR in a previous pregnancy.
+
+- association with oligohydramnios (reduced amniotic fluid);
+
+- abnormal uterine or umbilical Doppler, reflecting disturbances in maternal-foetal exchanges. These Doppler anomalies result in a quantifiable increase in circulatory resistance in the uterine and/or umbilical arteries (resistance index, pulsatility index) and spectral disturbances.
+
+''3.    Other causes and risk factors''
+
+These are the following factors:
+
+- maternal age < 20 or > 35 ;
+
+- '''[[Malnutrition/malnutrition SD-030|Malnutrition/Denutrition]]'''', low weight gain during pregnancy ;
+
+- low socio-economic level ('''[[Precarious social situation and isolation SD-347|precarious social situation and isolation]]''') ;
+
+- smoking (''''[[Prevention of tobacco-related risks SD-314|prevention of tobacco-related risks]]'''), alcoholism, drug addiction ;
+
+- uterine malformations, multiple or large fibroids ('''[[Discovery of a pelvic anomaly on medical imaging examination SD-229|Discovery of a pelvic anomaly on medical imaging examination]]''');
+
+- Placental abnormalities, such as a chorioangioma
+
+- velamentous insertion of the cord which must be systematically sought.
+
+Finally, a third of IUGRs remain poorly explained.
+
+<br />

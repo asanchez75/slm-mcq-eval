@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-081-06-A
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=A
+|Title=Knowing the definition of age-related macular degeneration (AMD)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+'''Age-related macular degeneration (AMD)''' is damage to the macula, occurring in subjects over the age of 50, involving one or more of the following retinal abnormalities: ''drusen'', alterations to the retinal pigment epithelium (PE), geographical atrophy of the pigment epithelium or choroidal neovascularisation.
+
+The damage is uni- or bilateral, but may be asymmetric. The term age-related maculopathy (AMD) refers to the early stages. The term AMD refers to the advanced stages (atrophic or exudative AMD), characterised in functional terms by reduced visual acuity and/or metamorphopsia. In English, the following terms are used: ''early age-related macular degeneration (MLA)'' and ''advanced AMD including atrophic AMD and exudative AMD (DMLA)''.
+
+'''MLA (age-related maculopathy):''' early stages with little or no functional impact, with :
+
+*drusen" (lipid deposits under the retinal pigment epithelium);
+*pigmentary alterations consisting of a coexistence of proliferation and atrophy of the cells of the pigmentary epithelium.  These forms are compatible with normal or slightly reduced visual acuity.
+
+''Advanced AMD'' corresponds to two aspects that may coexist:
+
+*the "atrophic form", also known as the "dry form";
+*the exudative or neovascular form, initially known as the "wet form".

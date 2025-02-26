@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-047-13-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Know the indications for referring a child to an ENT specialist.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=13}}
+Refer to ENT if
+
+* a family history of deafness
+* parental concern about hearing
+* abnormality in a screening test
+* warning signs:
+** absence of reaction to noises, strong reactions to vibrations or touch, absence of reaction to being called or given a name, etc.
+** Language disorders at these different stages: crying instead of melodic sounds, delay or absence of vocal emission/language, regression, articulations that are difficult to understand.
+** comprehension difficulties, learning difficulties, concentration difficulties
+** Behavioural and social interaction problems, indifference to others or agitation/aggression.

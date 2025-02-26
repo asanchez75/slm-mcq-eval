@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-183-03-B
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=B
+|Item_parent_short=Organisation of occupational medicine.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+The occupational health physician's tools concern :
+
+1. employee health monitoring, organised in partnership with occupational health nurses (see specific objective)
+
+2. actions in the field, organised in partnership with the multidisciplinary team (workstation studies, adaptation of workstations, advice on preventing occupational risks)

@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-228-02-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=How to diagnose a venous, arterial or mixed ulcer
+|Description=Identification of vascular ulcers
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=2}}
+
+
+The distinction between venous, arterial or arteriolar origin (necrotic angiodermatitis) is made according to :
+
+*extension (area and depth),
+*pain,
+*location,
+*associated signs,
+*co-morbidities.
+
+In some cases, the origin may be both arterial and venous.
+
+== ''Venous ulcers'' ==
+[[File:Venous ulcers.jpg|thumb|388.133x388.133px|Venous ulcers]]
+
+===The venous origin of the ulcer is suggested by:===
+
+*peri-malleolar location;
+*little or no pain;
+*superficial extension (no digging, no joint or tendon exposure);
+*exudative character;
+*often extensive, sometimes circumferential;
+*irregular, unclear edges.
+
+===In the presence of a venous ulcer, we look for:===
+
+*a history of [[Deep vein thrombosis and pulmonary embolism (see item 330)|deep vein thrombosis]] (DVT) or superficial vein thrombosis (SVT)
+*Chronic venous insufficiency (varicose veins);
+*skin complications of venous insufficiency ([[Localised or diffuse oedema SD-054|oedema]], eczema, white atrophy, ochre dermatitis, lipodermatosclerosis);
+
+The pulses are present and the [[Skin ulcer SD-092|ankle systolic pressure indices]] (SPIs) normal.    
+
+A deep and superficial venous Doppler ultrasound confirms the venous origin and can guide etiological treatment.     
+
+== ''Arterial ulcer'' ==
+[[File:Arterial ulcers.jpg|vignette|486x486px|Arterial ulcers]]
+
+===The arterial origin of the ulcer is suggested by:===
+
+* pain ('''''[[Chronic pain SD-035|chronic pain]]; [[Pain in a limb (upper or lower) SD-071|pain in a limb]]''''');
+* often recent ;
+*small in size;
+* typically located in the foot;
+* digging with risk of exposure of joints and tendons;
+* with an atonic background
+*with clean, regular margins.
+
+===In the presence of an ulcer of arterial origin, we look for:===
+
+* Atheroma: epidemiology and pathophysiology. The polyatheromatous patient|cardiovascular risk factors]];
+* arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms|a history of exertional ischaemia]] (intermittent claudication);
+* decubitus pain;
+* a reduction in skin warmth
+* prolonged pulp recolouration time;
+* a dishabitation of the digital pulps and the heel and heel shells (empty pulp syndrome, withered fruit appearance);
+* declivity erythrocyanosis;
+*abolition of peripheral pulses.
+
+When faced with an arterial ulcer, we ask :
+
+- A systolic ankle pressure index (SAPI) < 0.90 confirms the presence of obliterative arteriopathy of the lower limbs and justifies an echo-Doppler test. In cases of mediacalcosis, the ankle pressure may be falsely normal or elevated (diabetes, renal failure, advanced age). In this case, the toe pressure should be measured.
+
+- A haemodynamic measurement is essential to attribute the trophic disorder to AOMI: ankle pressure < 50 mmHg; toe pressure < 30 mmHg; TcPO2 < 30 mmHg.
+
+- A Doppler ultrasound of the aorta and arteries of the lower limbs: this test locates significant arterial lesions.
+
+- If revascularisation is indicated, this is completed by arterial cross-sectional imaging (angiosanner or angiomRI) ('''''[[Writing the request for an imaging examination SD-230|writing the request for an imaging examination]]''''' ).
+
+==Mixed ulcer ==
+This is an ulcer combining several aetiological components (for example venous and arterial) which occurs in a patient with arterial disease with resting ischaemia. It is often necessary to consider arterial revascularisation. Clinically, the ulcer is usually venous in appearance, unresponsive to local treatment, with an abolished pulse and low toe pressure. We look for cardiovascular risk factors, pulse suppression and ochre dermatitis. GPIs or toe pressure are measured in subjects at risk of mediacalcosis.
+
+Venous and arterial Doppler ultrasound is performed, and arterial cross-sectional imaging (by angioscanner or MRI) when arterial revascularisation is envisaged.

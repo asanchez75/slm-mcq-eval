@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-56-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for long-term pharmacological treatments in adults
+|Description=Refer to item 74
+|Heading=Management
+|Contributors=El-Hage Wissam
+|Order=56}}
+
+SSRIs are not a first-line treatment, but should be prescribed in cases of severe or chronic symptoms, or when psychotherapy is not possible. Benzodiazepines should be avoided after trauma. Other anxiolytics (hydroxyzine, sedative antipsychotics) can be used to treat insomnia or anxiety.

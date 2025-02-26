@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-317-04-B
+|Item_parent=Myeloproliferative syndromes
+|Item_parent_short=Myeloproliferative syndromes
+|Rank=B
+|Title=Knowing the biological abnormalities observed at the time of diagnosis of CML, PV and TE
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=4}}
+Chronic Myeloid Leukaemia in chronic phase
+
+- Hyperleukocytosis with neutrophils (predominantly), eosinophils and basophils
+
+- Balanced myelogenesis
+
+- Demonstration of the BCR-ABL1 transcript in blood or bone marrow
+
+- Myelogram: rich marrow without excess blasts or maturation disorders (chronic phase)
+
+- Karyotype: translocation t(9 ;22), additional anomalies possible
+
+
+Vaquez polycythaemia: 3 major criteria or 2 major criteria and 1 minor criterion
+
+Major criteria
+
+1.      Haemoglobin > 16.5 g/dL or haematocrit > 49% in men
+
+Haemoglobin > 16 g/dL or haematocrit > 48% in women
+
+or
+
+Increase in blood levels by more than 25% of normal levels
+
+2.     Medullary biopsy with hypercellularity and compatible anatomopathological appearance
+
+3.      JAK2 V617F mutation or JAK2 exon 12 mutation
+
+Minor criteria
+
+1.      Normal or low erythropoietin levels
+
+
+Essential thrombocythemia: 4 major criteria or 3 major criteria and 1 minor criterion
+
+Major criteria
+
+1.      Platelets > 450 G/L
+
+2.     Medullary biopsy with hypercellularity and abnormalities of the megakaryocytes (mega numerous, large, hyperlobulated nuclei). Maximum grade 1 reticulin fibrosis.
+
+3.     Elimination of CML with thrombocytosis (BCR-ABL1), PV, MF and myelodysplasia with thrombocytosis
+
+4.      JAK2, CLAR or MPL mutation
+
+Minor criteria
+
+1.      No cause of reactive thrombocytosis or presence of a clonality marker
+
+
+Primary myelofibrosis: 3 major criteria and 1 minor criterion
+
+Major criteria
+
+1.      Medullary biopsy with abnormalities of megakaryocytes and reticulin and/or collagen fibrosis grade > 1
+
+2.     Elimination of CML (BCR-ABL1), PV, TE and myelodysplasia
+
+3.      JAK2, CLAR or MPL mutation
+
+Minor criteria
+
+1.      Anaemia with no other cause
+
+2.     Leukocytosis ≥ 11 G/L
+
+3.     Splenomegaly
+
+4.     Increase in LDH
+
+5.      Erythromylemia

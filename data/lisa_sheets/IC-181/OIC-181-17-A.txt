@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-17-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Infectiovigilance knowledge
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=17}}
+
+<Infectiovigilance is the ongoing process of collecting, identifying, assessing and investigating potential healthcare-associated infections.
+
+It is one of the health monitoring missions of the national public health agency, Santé Publique France, based on networks of local correspondents.

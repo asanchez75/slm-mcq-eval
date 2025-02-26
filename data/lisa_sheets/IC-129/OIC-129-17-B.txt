@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-129-17-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Knowing how to interpret blood results and analyse joint fluid in osteoarthritis
+|Description=Know that there is no biological inflammatory syndrome in primary osteoarthritis and that the fluid is mechanical, sterile and free of microcrystals.
+|Rubric=Additional examinations
+|Contributors=paccou
+|Order=17}}
+No biological examination is necessary for the diagnosis of osteoarthritis.
+
+In the event of knee effusion or rapid destructive coxarthrosis, joint fluid will be punctured for analysis to rule out differential diagnoses.
+
+The fluid will then be mechanical, often < 1,000 cells/mm<sup>3</sup>, sterile, without microcrystals.
+
+<br />

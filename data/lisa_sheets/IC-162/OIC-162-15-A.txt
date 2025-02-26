@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-162-15-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Know the additional examinations to be carried out in the case of STIs: genital ulcerations, urethritis, orchitis, lower female infections, upper female infections, extragenital locations, etc.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=15}}
+STI test :
+
+- Serologies : HIV, HBV, treponemal test +/- non-treponemal test
+
+- PCR: Gonococcus and chlamydia (on 1st urine stream, urethral discharge, vaginal, pharyngeal and anal self-sampling depending on sexual practices)
+
+- Pharyngeal and anal PCR according to sexual practices
+
+- Culture: systematic for gonococcus, urethral discharge, vaginal self-sampling, depending on symptoms
+
+- Upper respiratory tract infection in women: CRP, CBC, samples taken with a speculum for direct examination + standard culture + PCR, surgical or radioguided samples if complicated infection for culture + PCR + to look for mycoplasma.
+
+- Examination of the cervix if there is a condyloma in the patient or her partner

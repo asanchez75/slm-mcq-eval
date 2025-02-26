@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-157-04-A
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=A
+|Title=Know the infectious agents that cause bacteraemia, as well as their route of entry and the associated terrain.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+'''Main infectious agents of community-acquired bacteremia:''''
+
+- Staphylococcus spp. (especially aureus +++): 30%.
+
+- Escherichia coli: 30%.
+
+- Other Gram-negative bacilli: 20%.
+
+- Streptococcus pneumoniae: 10%.
+
+- Other: 10% of sales
+
+- In infants under 1 month and sometimes up to three months: group B streptococcus, Escherichia coli, etc.
+
+- In children and infants aged 2 months and over, Neisseria meningitidis and Streptococcus pneumoniae predominate, followed by other streptococci and staphylococci.
+
+- Vaccination status influences the distribution of infectious agents.
+
+'''Entry point to look for according to the associated microorganism/infectious source:'''
+
+- Oral Streptococcus: oral cavity
+
+- Streptococcus pneumoniae: lung, meninges, ENT
+
+- Anaerobes: colon, pelvis, oral cavity
+
+- Streptococcus pyogenes: skin, ENT
+
+- Staphylococcus aureus and coagulase-negative staphylococci: skin and vascular catheter
+
+- ''Escherichia coli,'' other enterobacteria, enterococci: urinary tract, digestive tract, biliary tract, vascular catheter if patients are perfused
+
+- ''Candida:'' digestive tract, vascular catheter if patients are perfused

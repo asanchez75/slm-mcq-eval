@@ -1,0 +1,64 @@
+{{knowledge objective
+|Identifiant=OIC-351-11-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the principles of the management of acute delirium and agitation.
+|Description=Physical restraint
+Cross-reference item 74
+|Rubric=Management
+|Contributors=
+|Order=11}}
+
+
+== Agitation ==
+
+=== Prevention of a possible suicidal risk or dangerousness ===
+
+=== Psychiatric hospitalization ===
+Initially treated in the emergency department (clinical and paraclinical assessment)
+
+Psychiatric hospitalisation will be necessary if there is an acute episode of an underlying psychiatric disorder.
+
+=== Pharmacological treatments (see item 2C-074) ===
+The aim is to calm the state of agitation without sedating the patient.
+
+Ideally, the patient should be involved in the choice of product and route of administration. Always suggest oral treatment as the first line of treatment.
+
+Look for the minimum effective dose and favour monotherapy.
+
+Take into account the time to onset of action before retreating the patient, and assess the effects of treatment already received in order to avoid delayed cumulative effects on alertness.
+
+Monitor adverse effects on alertness and vital functions, as well as efficacy.
+
+Classes used: benzodiazepines, antipsychotics
+
+* Non-psychiatric or unknown etiology
+** Treatment that targets the aetiology is curative. Sometimes a psychotropic treatment may be combined for symptomatic purposes: short half-life benzodiazepines as first-line treatment, antipsychotics in cases of severe agitation and, if possible, after an ECG (risk of long QT).
+* Psychiatric etiology
+** Symptomatic treatment of agitation in the first instance: short half-life benzodiazepines in the first line, antipsychotic in cases of severe agitation and, if possible, after ECG (risk of long QT).
+** Specific treatment for the psychiatric disorder will be instituted secondarily after a diagnostic and pre-therapeutic assessment.
+
+=== Non-pharmacological treatments ===
+
+==== Systematic relationship management ====
+
+* Verbal contact to establish a climate of trust and a therapeutic alliance.
+* Empathetic behaviour.
+* De-escalation techniques
+* Environment: quiet, well-lit room, removal of dangerous objects, closing of windows, etc.
+
+==== Physical or mechanical restraint ====
+These are used as a last resort, only if other strategies fail or if there is an imminent and significant danger to the patient or others. They can aggravate agitation and confusion and cause real psychological trauma.
+
+Always combined with pharmacological treatment and limited in duration to the time needed to obtain drug efficacy.
+
+They must be accompanied by the provision of clear and repeated information on the objectives of the restraint, its duration, regular monitoring of vitals and vigilance and medical surveillance.
+
+== Acute delirium
+The management of acute delirium is similar to that of agitation:
+
+* Psychiatric hospitalisation after ruling out a non-psychiatric diagnosis
+* Prevention of acts against self or others
+* Pharmacological treatment of anxiety and, where appropriate, agitation
+* Non-pharmacological treatment: reassuring relational support

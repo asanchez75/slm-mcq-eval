@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-165-03-A
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=A
+|Title=Know how mumps is diagnosed
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=3}}
+
+'''The diagnosis is essentially clinical (presence of parotitis)''' to be evoked in case of contagion and/or absence of vaccination
+
+* Invasive phase: moderate fever, headache, earache
+* Status phase: usually unilateral or bilateral parotitis (pear-shaped face), possibly associated with adenopathy and involvement of the submaxillary and sublingual glands.
+* Clinical presentations associated with complications of the infection (meningitis, orchitis and/or oophoritis, pancreatitis) may also point towards a diagnosis of mumps.

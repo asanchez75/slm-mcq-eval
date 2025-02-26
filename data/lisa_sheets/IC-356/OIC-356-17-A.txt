@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-356-17-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Know the principles of therapeutic management of acute uncomplicated appendicitis
+|Description=Emergency surgical treatment by appendectomy (Mac Burney or laparoscopy), treatment option: antibiotic therapy with amoxicillin and clavulanic acid (1 gram x 3/day).
+|Rubric=Management
+|Contributors=Cyrille PERRENOT
+|Order=17}}
+
+The deadline must be short:
+
+- less than 4 hours in forms with severe clinical signs or in fragile patients
+
+- less than 24 hours in the absence of serious clinical signs (HAS)
+
+Treatment of uncomplicated forms :
+
+- urgent surgical treatment by appendectomy (Mac Burney or laparoscopy)
+
+- one dose of intraoperative antibiotic prophylaxis is often sufficient
+
+Option under evaluation: medical treatment alone with amoxicillin-clavulanic acid antibiotics (not currently recommended).

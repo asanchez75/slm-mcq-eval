@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-062-05-A
+|Item_parent=Describe the organisation of psychiatric care, from children to the elderly
+|Item_parent_short=Describing the organisation of psychiatric care, from children to the elderly
+|Rank=A
+|Item_parent_short=Describe the organisation of psychiatric care from children to the elderly.
+|Description=Elderly psychiatrist (cross-reference item 70) Prison psychiatry
+|Section=Definition
+|Contributors=Pierre Vidailhet,Pierre Vandel
+|Order=5}}
+
+Emergency psychiatry
+
+Most of these services are organised by general hospitals with emergency services.
+
+In some areas, other responses have been put in place: mobile teams, telephone hotlines, doctors/other professionals working in associations (telephone response, home visits).
+
+Liaison psychiatry
+
+Liaison psychiatry teams are multidisciplinary (psychiatrists, psychologists and nurses) and work in non-psychiatric hospital wards to provide psychiatric care.
+
+Addictology
+
+CSAPAs (addiction treatment, support and prevention centres) have multidisciplinary teams made up of doctors, psychologists and socio-educational professionals. They are open to anyone having problems with their consumption (alcohol, tobacco, cannabis, opiates and others) or addictive behaviour (gambling, internet, etc.), as well as their families.
+
+The "CAARUD" (reception and support centres for harm reduction for drug users) welcome anyone in difficulty with the use of illicit substances who is not yet in care.
+
+The ''CJCs'' (consultations jeunes consommateurs) are aimed at minors or young adults with difficulties linked to behaviour with or without substances.
+
+The "hospital care" system is based on various structures (the organisation is more or less complete depending on the region):
+
+<nowiki>*</nowiki> addictology consultations;
+
+<nowiki>*</nowiki> hospital addiction care and liaison teams (''ELSA'');
+
+<nowiki>*</nowiki> inpatient facilities that include hospital consultations, ELSAs, simple withdrawal beds, sometimes complex withdrawal beds (i.e. offering adapted therapeutic activities) or a day hospital.
+
+<nowiki>*</nowiki> '''addictology follow-up and rehabilitation care (ASRC)''' are post-hospitalisation facilities that aim to prevent or reduce the functional, physical, cognitive, psychological or social consequences of patients' impairments and capacity limitations and to promote their rehabilitation and reintegration.
+
+Self-help groups are patient associations based on the principle of "peer support". They promote mutual support and facilitate social links, both within and outside the group. The main aim is to combat isolation. These groups are not intended to provide medical or social services, but they can help their members access care and medical and social support, in particular by developing relationships and networks with the relevant institutions.

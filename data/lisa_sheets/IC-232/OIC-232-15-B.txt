@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-232-15-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Identifying poor tolerance and the principles of its management
+|Description=Indications for cardioversion
+|Heading=Identifying the emergency
+|Contributors=Jean-Baptiste GUICHARD
+|Order=15}}
+
+* ''A patient with atrial fibrillation may experience haemodynamic instability'', responsible for :
+** Arterial hypotension / Cardiogenic shock / Cardiac decompensation
+** Syncope
+
+* Management'' :
+** '''Rare''' indication for emergency cardioversion, regardless of the duration of effective anticoagulation prior to cardioversion.
+** Implement effective anticoagulation as soon as possible.

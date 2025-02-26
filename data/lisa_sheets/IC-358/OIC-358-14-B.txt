@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-358-14-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Knowing how to manage complications: knowing the principles of managing a necrosis flow
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=14}}
+The elements for suspecting or identifying a pancreatic necrosis flow are presented in paragraph '''<u>[[2C-258-DP-B01|2C-258-DP-B01.]]</u>''''
+
+Diagnosis and management :
+
+* puncture-drainage (percutaneous radioguided or endoscopic) of necrosis flows (indicated only if superinfection is suspected): for bacteriological documentation and therapeutic purposes ('''""). [Pre-operative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|pre-operative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]"'')
+* antibiotic therapy adapted to bacteriological samples and blood cultures (probabilistic antibiotic therapy before receipt of bacteriological results in the event of severe sepsis or septic shock) ('''" [Prescribe an anti-infective SD-255|prescrire un anti-infectieux]] "''')
+* surgical necrosectomy as a last resort in the event of failure
+
+Differential diagnoses: other causes of infection: value of multi-site bacteriological sampling in the initial phase (ECBU, catheter swab, pulmonary sample)
+
+Potential complications :
+
+* vascular erosion in contact with the flow of necrosis responsible for a pseudoaneurysm (or false aneurysm): risk of rupture in a hollow organ or in the peritoneum ('''''' [[Acute haemorrhage SD-060|acute haemorrhage]]''''')
+* portal or mesenteric thrombosis

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-130-03-B
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=B
+|Title=Knowing the "1 + 2 + 3" or "1 + 3" model for decompensation in geriatric medicine.
+|Description=Know how to describe the concept or model
+|Topic=Physiopathology
+|Contributors=
+|Order=3}}
+Jean Pierre Bouchon's "1 + 2 + 3" or "1 + 3" model aims to be effective in geriatric medicine in order to optimise the management of elderly patients. It represents the basis of the reasoning to be followed when faced with acute decompensation in geriatric medicine.
+
+- This 1+2+3 reasoning makes it possible to implement a "structured intervention": correct the precipitating factor (factor 3), assess the underlying organ pathology and review its basic treatment (factor 2), and implement measures to improve the consequences of ageing (factor 1).
+
+When faced with an acute pathology, it is advisable to
+
+1 ''Detecting situations of vulnerability
+
+Organ function declines progressively over time BUT ageing alone cannot explain organ failure (ageing cannot explain dyspnoea, confusion or a fall) - line 1. This progressive loss of function explains the decrease in organ function reserve.
+
+2. diagnosing chronic pathologies
+
+Organ function is all the more important when there is a chronic pathology (neurodegenerative disease, aortic valve disease....). Chronic disease can lead to organ failure, especially if it is not optimally managed. The reserve is even more diminished in the presence of chronic pathologies
+
+3.     Track down the precipitating factor = the acute event responsible for the decompensation. Its treatment makes organ failure reversible!
+[File:Bouchon.png|vignette]]
+<br />

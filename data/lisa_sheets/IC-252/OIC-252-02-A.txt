@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-252-02-A
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=A
+|Item_parent_short=Nutritional disorders in the elderly
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The population nutrient reference (PNR) is the daily intake that covers the needs of almost all (97.5%) of the healthy population.
+
+Energy intake 30 kcal/kg/day
+
+Protein intake 1 to 1.2 g/kg/day
+
+Carbohydrate intake 50% of total energy intake
+
+Fat intake 40% of total energy intake
+
+Essential fatty acids 9-10 g/day
+
+Water intake 40 ml/kg/day
+
+Fibre intake 30 g/day
+
+Calcium intake 1 g/day
+
+Vitamin D intake 15 µg/day
+
+* A stable weight (apart from hydration problems) means that energy intake is meeting requirements.  
+* It seems important to maintain an intake of animal proteins, as their amino acid composition is richer in essential amino acids.
+* Half of the daily water requirement is provided by drinks and the other half by food. The intake compensates for water losses of around 1.5 litres per day in urine, 900 ml per day in insensible losses through perspiration and 100 ml per day in faeces.

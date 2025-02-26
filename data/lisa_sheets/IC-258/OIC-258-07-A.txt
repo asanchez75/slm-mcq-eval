@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-258-07-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Know the arguments in favour of the obstructive nature of an increase in creatininemia.
+|Description=Know the clinical evidence (questioning and physical examination) in favour of the obstructive nature of an increase in creatininemia.
+|Rubric=Etiologies
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=7}}
+
+Significant dysuria or micturition by overflow on questioning,
+
+Look for a bladder globe on percussion, a large kidney or tenderness in the lumbar fossa on two-hand palpation (look for lumbar contact);
+
+Pelvic touch (subvesical obstruction+++: prostate adenoma, bladder neck disease)

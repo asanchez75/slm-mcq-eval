@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-004-08-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Know the definition of antisepsis
+|Description=Know the main antiseptics
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+Antiseptic: a product designed to destroy micro-organisms present on living tissue (healthy skin, mucous membranes, wounds) used under defined conditions. Antiseptics used on wounds are medicines with Marketing Authorisation (MA).
+
+
+Antisepsis is used to reduce the microorganisms present on the skin, mucous membranes or other living tissues at the time of the procedure, thereby eliminating or killing microorganisms and/or inactivating undesirable viruses, depending on the objectives set, whether medical or surgical.
+
+It is defined as the application of an antiseptic to living tissues, resulting in an action on the structure or metabolism of micro-organisms at a level deemed appropriate to prevent and/or limit and/or treat an infection of these tissues (NF EN 14885: 2006).
+
+
+The so-called "major" antiseptics that can be used in healthcare settings are: biguanides (chlorhexidine), iodine derivatives (povidone-iodine), chlorine derivatives (sodium hypochlorite) and alcohols (ethanol).
+
+Biguanides and iodine derivatives are available in aqueous or alcoholic solution. Antiseptics in alcoholic solution should be preferred for invasive procedures (unless the skin is damaged or mucous) such as surgery or vascular catheterisation.

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-339-08-B
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=B
+|Title=Knowing the contribution of coronary angiography and coroscanning
+|Description=Interest, limitations and risks
+|Section=Additional examinations
+|Contributors=Mathieu Kerneis
+|Order=8}}
+
+
+* Coronary CT scans are used for diagnostic purposes only.
+* Coronary angiography can lead to revascularisation by coronary angioplasty. It is therefore a diagnostic and therapeutic examination.
+* Coronary angiography and coroscanner allow the coronary arteries to be visualised and any arterial stenosis or occlusion to be identified.
+
+* Indications :
+** For ST+ ACS = emergency coronary angiography for coronary revascularisation
+** For ACS ST- troponin + = coronary angiography within 24-48 hours
+** For ACS ST- troponin - = depending on the patient's co-morbidities and the likelihood of coronary lesion = coronary angiography or coroscanner or other non-invasive assessment modalities
+** For stable angina = coroscan or coronary angiography depending on the initial probability (established on the basis of age, history and pain characteristics).
+
+* How do you choose between coronary angiography and coroscanner in a patient with stable angina? The choice is not a simple one and is based on the following parameters: the probability that there is significant coronary disease, the probability of obtaining quality images and the expertise of the centre carrying out the examination. In practice, the coroscanner is the examination of first choice for young patients whose probability of coronary disease is not high. Conversely, elderly patients with known atheromatous disease and a high probability of coronary stenosis should undergo coronary angiography.
+
+[[File:Coronary angiography.png|focused|vignette|900x900px|Iconography example: coronary angiography]]
+[[File:Coroscanner.png|focused|vignette|900x900px|Iconography example: coroscanner]]
+<br />

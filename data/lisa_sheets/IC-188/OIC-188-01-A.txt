@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-188-01-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Intitle=Know the definition of asthma and allergic rhinitis (in adults and children, according to age in children)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Asthma'''
+
+*Chronic inflammatory disease leading to changes in the structure of the lower airways associating :
+**respiratory symptoms varying in time and intensity ([[Dyspnoea SD-162|dyspnoea]], [[Chest auscultation abnormalities SD-020|whistling]], chest tightness and/or [[Cough SD-167|cough]])
+**AND lower airway obstruction that varies over time and/or is totally or partially reversible with rapid-acting bronchodilators.
+
+'''Allergic rhinitis:''''
+
+Chronic inflammatory disease of the upper airways defined by the presence of "PAREO" symptoms (Pruritus, Anosmia, Rhinorrhoea, Sneezing, Nasal obstruction). Allergic rhinitis (AR) is the clinical expression of rhinitis and an immuno-allergic finding (IgE-dependent inflammation that can be linked to allergen exposure).

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-063-11-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Title=Knowing the negative syndrome
+|Description=Semiology
+|Rubric=Positive diagnosis
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=11}}
+
+The negative syndrome corresponds to clinical signs indicating a deficit in psychic life, which can lead to poor relationships.
+
+* Affective: blunting of affect, little facial expression of emotion, tone of voice, fixed gaze, rigid appearance.
+* Thoughts: poor speech or alogia, communication difficulties with short, imprecise answers.
+* Behaviour: apragmatism, social withdrawal and [[Apathy SD-117|apathy]].
+
+Disturbances in cognitive functions coexist with psychotic symptoms. They are responsible for a significant proportion of patients' psychosocial dysfunction. They correspond to disturbances in executive functions, verbal episodic memory, attention disorders (SD-129|attention) and the speed with which information is processed.

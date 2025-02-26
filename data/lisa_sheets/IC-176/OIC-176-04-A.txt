@@ -1,0 +1,167 @@
+{{knowledge objective
+|Identifiant=OIC-176-04-A
+|Item_parent=Infectious diarrhoea in adults and children
+|Item_parent_short=Infectious diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the elements of aetiological orientation of acute infectious diarrhoea
+|Description=Elements of referral according to the context of onset
+|Rubric=Positive diagnosis
+|Contributors=Alexis de Rougemont,Christophe Deschamps, Johann Cailhol
+|Order=4}}
+
+There are a number of factors in the history that can point to a particular pathogen:
+
+'''The context'''
+
+*in a humanitarian context, Vibrio cholera
+*in a TIAC context, ''Bacillus cereus,'' in addition to those in the table.
+
+{| class="wikitable"
+|Context
+|Staphlycoccus aureus
+|Salmonella enterica non Typhi
+|Shigella spp.
+|E. Coli
+|Campylobacter spp
+|Yersinia
+|Clostridium
+|Viruses
+|-
+|returning from tropical areas
+|
+|X
+and S. Typhi
+|X
+|ETEC, EAEC, EPEC, EIEC, EHEC
+|X
+|X
+|
+|
+|-
+|> 2 cluster cases with exposure to the same food (TIAC)
+|X
+|X
+|
+|ETEC, EAEC, EPEC, EIEC, EHEC
+|X
+|X
+|botulinum, perfringens
+|Norovirus, Rotavirus, Sapovirus
+|-
+|Post antibiotic
+|
+|
+|
+|
+|
+|
+|''difficile''
+|
+|-
+|Epidemic
+|
+|
+|
+|
+|
+|
+|
+|Norovirus, rotavirus, astrovirus, adenovirus,
+|-
+|Isolated aboriginal
+|
+|X
+|X
+|EPEC, EIEC, EHEC
+|X
+|
+
+
+X
+<br />
+|
+|Norovirus, rotavirus, astrovirus, adenovirus, sapovirus, parechovirus, bocavirus
+|}
+'''The patient's age'''
+
+*In children, watery diarrhoea should first point to a viral cause (most often rotavirus), while invasive diarrhoea (bloody stools, general signs) should point to a bacterial cause ('Salmonella non'' Typhi, ''Shigella spp'', ''Campylobacter jejuni'', ''Yersinia spp'' (most often ''Y. enterocolitica''), ''E. coli EHEC'')
+*Regardless of age, or in elderly people living in institutions, norovirus is most common.
+*Certain circumstances, such as contact with cold-blooded animals (tortoises, reptiles), can lead to infection with non-typhi Salmonella.
+
+'''The incubation period,'''
+
+*short (24 to 48 hours) for ''Salmonella non'' typhi, ''Shigella spp'', rotavirus, norovirus
+*longer (7 days on average) for Salmonella typhi and paratyphi, Campylobacter jejuni, Yersinia spp.
+
+'''The offending food''' :
+
+Consumption of undercooked minced beef or unpasteurised dairy products can lead to infection with enterohaemorrhagic E.coli (EHEC, in particular O157H7), which can cause haemolytic uraemic syndrome (HUS).
+
+Poultry consumption: Campylobacter jejuni
+
+Any food contaminated by handling or contaminated water (enteric viruses, most frequently norovirus)
+
+'''Macroscopic examination of the stools'' (table 2: characteristics of the 3 main syndromes)
+{| class="wikitable"
+|
+|choleriform
+|Gastroenteritis
+|Dysenteric
+|-
+|Diarrhoea
+|Liquid
+|Specific
+|Glary-bloody
+|-
+|Mechanisms
+|Interaction with H2O electrolyte secretion mechanisms
+|Invasion of submucosal lymphoid tissue
+|Epithelial cell destruction, cytotoxin
+|-
+|Accompanying signs
+|No fever
+|Vomiting, abdominal pain, sometimes fever
+|Fever (except for amoebiasis), abdominal pain, tenesmus, epithelium
+|-
+|Evolving risk
+|Dehydration
+|Sepsis and bacteremia if immunocompromised
+|Sepsis, colitis, colectasis
+|-
+|Examples
+|Vibrio cholerae
+
+E. coli (ETEC, EPEC)
+
+C. perfringens
+
+Bacillus cereus
+
+S. aureus
+
+
+rotavirus
+
+norovirus
+
+and other enteric viruses
+
+
+Giardia intestinalis
+
+Cryptosporidium spp.
+
+Microsporidia
+|Campylobacter spp.
+
+Yersinia spp.
+
+Salmonella enterica
+|E. coli (EHEC, EIEC)
+
+Shigella spp
+
+
+''Entamoeba histolytica''
+|}
+<br />

@@ -1,0 +1,74 @@
+{{knowledge objective
+|Identifiant=OIC-298-09-B
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=B
+|Title=Knowing the indication for imaging in VADS cancers
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=9}}
+
+{| class="wikitable"
+| colspan="2" |IMAGERIE IN DISEASE ASSESSMENT, RISK FACTORS AND PRETHERAPEUTIC TREATMENT
+|-
+|Oral cavity/ oropharynx/
+
+Maxillary sinus
+|Cervico-thoracic CT scan (extension of the mass to soft tissue and bone, search for a synchronous tumour, lymph node and lung metastases).
+
+MRI of the oral cavity and mandible (medullary extension if bone involvement, tongue extension, better if dental artefact on the scan)
+
+MRI of the oropharynx (veil extension, masticatory muscles, tongue)
+
+PET-CT if ≥N2b, adenopathy in sectors IV and V, search for secondary sites, second primary, unknown primary in the case of adenopathy without an entry site, particularly in the oropharynx.
+|-
+|Larynx/ Hypopharynx
+|Cervico-thoracic CT scan (extension of the mass to soft tissue and cartilage, search for a synchronous tumour, lymph node and lung metastases).
+
+PET-CT if ≥N2b, adenopathy in sectors IV and V, search for secondary sites, second primary site
+|-
+|Nasopharynx
+|Skull base and cervical CT or MRI (extension of mass: soft tissue, bone, orbital cavity, [[Anatomy:Cavernous sinus|cavernous sinus]], lymph node metastases)
+
+Systematic PET-CT to look for secondary sites, particularly lymph nodes Sensitivity ++.
+|-
+|ethmoidal sinus
+|Cervico-thoracic CT (extension of the mass to soft tissue and bone, lymph node metastases more rarely, lung exceptional)
+
+MRI (orbital cavity extension, [[Anatomy:Cavernous sinus|cavernous sinus]], brain)
+|-
+|If reconstruction by bone flap
+|Arteriography of the lower limbs
+|}
+<br />
+{| class="wikitable"
+| colspan="3" |IMAGERIE IN THE MONITORING OF VADS CANCER
+|-
+|
+|Systematic
+|Call points or risk factors
+|-
+|Oral cavity/oropharynx
+
+Larynx/hypopharynx/
+
+Maxillary sinus
+|Cervico-thoracic scan at 3 months (reference imaging)
+
+Low-dose chest scan every year for 5 years
+|Cervico-thoracic scan, MRI, Pet if recurrence suspected
+
+Low-dose chest CT scan after 5 years if smoking has recently stopped or if intoxication continues
+|-
+|Nasopharynx
+|MRI at 3 months then every 6 months for at least 3 years
+Petscan to be discussed at 3 months
+|MRI
+Petscan to be discussed
+|-
+|Ethmoid sinus
+|MRI at 3 months then according to expert opinion
+|IRM
+|}
+<br />

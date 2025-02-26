@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-313-04-B
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=B
+|Title=Knowing the risk factors for germ cell tumours of the testis
+|Description=Know the classically recognised risk factors
+|Rubric=Etiologies
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=4}}
+
+*Personal or family history (1st degree)
+*[[2C-050|Cryptorchidism 50]] even if operated by testicular lowering (allows easier monitoring of the testicle)
+*Testicular atrophy (<12 ml) (torsion, infection, trauma, syndromic diseases: Klinefelter, Down)
+*[[2C-050|Testicular dysgenesis syndrome 50]]: infertility, atrophy (<12 ml), cryptorchidism, hypospadias
+*Syndromic diseases: Down, Klinefelter
+*Regular use of [[2C-078|cannabis 78]].
+*Under study: exposure to pesticides, endocrine disruptors, organic solvents, etc.
+*Isolated testicular microlithiasis is not a risk factor but requires biannual ultrasound monitoring when associated with risk factors for testicular cancer.
+
+<br />

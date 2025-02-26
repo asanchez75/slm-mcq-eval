@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-335-29-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Knowing the examinations to be carried out in the case of a Le Fort fracture
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=29}}
+The facial CT scan, without injection, with reconstruction in 3 planes and 3D, allows a precise assessment of fractures, while limiting patient radiation. It can be performed at the same time as a whole-body scan in polytrauma patients; a brain scan is often combined with the injection of iodinated contrast.
+
+In addition to assessing the lesions, CT scans can detect an associated intra-orbital or intracranial haematoma, a pneumocele indicating a meningeal breach, and provide a precise assessment of intra-orbital and nasal lesions prior to surgical reconstruction.
+
+The scanner is the basis for computer-assisted surgical procedures sometimes used to treat Le Fort fractures (Planning, Navigation and Customised Implantable Medical Devices).
+
+Haemostasis and anaemia tests, and pre-transfusion tests are often required in this context.

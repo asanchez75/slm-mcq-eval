@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-292-13-B
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=B
+|Title=Knowing the clinical pre-therapeutic assessment
+|Description=Know the WHO performance status and its correlation with prognosis, as well as the overall oncogeriatric assessment.
+|Rubric=Definition
+|Contributors=
+|Order=13}}
+General condition, assessed by performance status (PS according to WHO / ECOG) is correlated with prognosis in all oncological diseases.
+
+- PS 0: the patient is asymptomatic (normal activity: no restrictions on carrying out activities prior to the condition).
+
+- PS 1: symptomatic patient (impaired in sustained physical activity but able to move around independently and do light or sedentary work, for example office work or housework).
+
+- PS 2: symptomatic patient, bedridden less than 50% of the day (able to move about independently and look after himself but unable to do light work).
+
+- PS 3: symptomatic patient, bedridden or confined to a chair for more than 50% of the day (capable of limited self-care).
+
+- PS 4: bedridden patient (totally dependent, unable to take care of himself).
+
+Certain treatments (surgical, radiochemotherapeutic or chemotherapeutic) are only possible if the patient is in good general condition. If the PS is greater than 2, in the case of an incurable disease, it is usual to stop specific treatments because of the risk of toxicity and death in the medium or short term.
+
+Elderly cancer patients have specific characteristics, particularly in relation to their co-morbidity and any associated geriatric syndromes. After the age of 70, it is advisable for patients to be assessed by a specialist geriatrician in order to determine whether treatment can be considered and/or adapted to facilitate tolerance. There are several frailty scores, including the G8 score which, depending on the result, indicates whether or not the patient should be referred to an oncogeriatrician for further assessment.

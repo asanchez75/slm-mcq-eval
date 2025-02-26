@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-074-16-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Anxiolytics: knowing how to prescribe in emergency situations
+|Description=Preferred molecules, pre-therapeutic assessment, route of administration
+|Rubric=Management
+|Contributors=
+|Order=16}}
+
+==Preferred molecules / route of administration===
+
+*The "usual" route of administration is '''''.
+*The IM route has "no advantage" for benzodiazepines (with generally poor bioavailability by IM route). In the event of major agitation, antipsychotics should be used (see chapter).
+*In certain situations, such as severe alcohol withdrawal syndrome, benzodiazepines may be administered IV.
+
+==Pre-therapy assessment==
+
+*Research into personal or family history to rule out any ''contraindications'' (questioning and clinical examination);
+*Search for drug treatments taken to anticipate any ''drug interactions'';
+*Search for ''psychiatric'' ''comorbidities'' and substance use disorders;

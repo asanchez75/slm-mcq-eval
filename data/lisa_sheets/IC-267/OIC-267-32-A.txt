@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-267-32-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=A
+|Title=Know the main etiologies of hypernatremia
+|Description=Know the main causes of intracellular dehydration (and diabetes insipidus), particularly in the elderly (diagnostic tree for hypernatremia).
+|Rubric=Etiologies
+|Contributors=P. Rieu,B. Moulin,M. Flamant
+|Order=32}}
+
+Depending on the state of the extracellular volume, 3 situations can be distinguished:
+
+*'''''Global dehydration (hypovolaemia associated with a water deficit more marked than the sodium deficit)''':'''
+**lack of water and NaCl intake, with water intake lower than NaCl intake
+**digestive, cutaneous or renal loss of water and NaCl, with greater water loss than NaCl loss.
+
+*''''' Isolated intracellular dehydration (associated extracellular euvolaemia)'''.''' They are linked to :
+**Uncompensated water loss of :
+***Extrarenal "insensitive" (the renal response here is normal, urine is concentrated (U/P osm > 1) and there is no polyuria):
+****cutaneous: heat stroke, burn;
+****respiratory: polypnoea, prolonged hyperventilation, hyperthermia;
+****digestive: osmotic diarrhoea.
+***Renal: Hypotonic polyuria (U/P osm ≤ 1) with plasma hyperosmolality, characteristic of diabetes insipidus (Table 4). Induced polyuria is compensated by polydipsia (polyuro-polydipsic syndrome), hypernatremia occurs when the patient has reduced access to water:
+****to diabetes insipidus of central origin linked to the complete or partial absence of ADH secretion
+****nephrogenic diabetes insipidus characterised by a reduced or abolished renal response to ADH. Urinary osmolality is low and unaffected by the administration of synthetic ADH (dDAVP= minirin®).
+**A deficit in water intake:
+***hypothalamic abnormalities: primary hypodipsia
+***lack of free access to water: infants, dependent elderly subjects, comatose patients (stroke)
+***lack of water (desert areas)
+*'''''Extracellular hyperhydration and intracellular dehydration'': '''Massive sodium intake'''''
+**especially in children, when hypertonic bicarbonate solution is used or after resuscitation from cardiac arrest.
+**NaCl poisoning

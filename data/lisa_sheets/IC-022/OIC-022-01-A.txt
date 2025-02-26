@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-022-01-A
+|Item_parent=Rare diseases
+|Item_parent_short=Rare diseases
+|Rank=A
+|Title=Knowing the definition of a rare disease
+|Description=A rare disease has a prevalence of < 1/2000. 80% of rare diseases are genetic in origin.
+|Rubric=Definition
+|Contributors=Sylvie Odent
+|Order=1}}
+
+Rare disease: a disease that affects less than one person in 2,000 in the general population (definition from the European Regulation on Orphan Medicinal Products).

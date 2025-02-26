@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-328-08-A
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=A
+|Title=General information on prostheses
+|Description=Description of the general components of a prosthesis
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=8}}
+
+'''Limb prosthesis''': a device that replaces a missing limb or limb segment
+
+''NB: residual limb = remaining limb segment''
+
+'''Components:'''
+[[File:Prosthesis.png|frame|Femoral prosthesis]]
+
+* Sleeve (slipped over the residual limb)
+* Socket (accommodates residual limb + sleeve)
+* Intermediate effectors
+** Connecting pieces
+*** Articular
+*** Non-articular
+* End effector
+** foot, pestle...
+** hand, hook...
+* Aesthetic trim
+
+
+
+
+
+''Pour aller plus loin, rang B'' '':'' '''Règles générales pour la rééducation des sujets amputés :'''
+
+- Early fitting of orthopaedic devices as part of rehabilitation in a specialised centre
+
+- Choice of equipment according to the patient's life plan
+
+- Significant and early interactions with the patient's environment
+
+- In the lower limb: fittings for functional purposes, rarely for aesthetic purposes
+
+- For the upper limb: devices for functional and aesthetic purposes

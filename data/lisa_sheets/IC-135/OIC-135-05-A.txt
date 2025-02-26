@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-135-05-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Know how to prescribe level 1 analgesics.
+|Description=Modification of paracetamol, non-steroidal anti-inflammatory drugs and nefopam: efficacy, side effects, risks.
+|Rubric=Management
+|Contributors=
+|Order=5}}
+Level 1 analgesics (WHO reference 1986) correspond to the historical non-opioid analgesics: ''paracetamol, nefopam, non-steroidal anti-inflammatory drugs.''
+
+=Paracetamol=
+- First-line analgesic alone or in combination; the most widely administered analgesic in the world.
+
+- Reference antipyretic, although not very effective (maximum -0.5°C)
+
+- Available in oral, injectable or rectal form; from birth
+
+- Mode of action unclear (effect on serotonergic controls and probably on calcium channels); no anti-inflammatory effect
+
+- Onset of action: 1 hour, duration of action: 6 hours
+
+
+'''Efficiency '''
+
+- Mild acute or chronic pain, except neuropathic (ineffective)
+
+- Moderate to severe pain in combination with opioids and other non-opioid analgesics
+
+'''Undesirable effects, risks:'''
+
+- '''Hepatotoxicity''' : '''exceptional under normal conditions of use.'''
+
+- Linked to depletion of the liver's glutathione reserves. Risk factors: regular overdosing, chronic alcoholism, malnutrition, severe renal failure, weight < 50kg, low glutathione reserves, etc.
+
+- In the event of massive overdose: fulminant hepatitis leading to death, associated with acute tubular necrosis and rhabdomyolysis
+
+- Management of an overdose: measurement of paracetamol levels + administration of N-acetyl-cysteine (specific antidote). In the event of fulminant hepatitis, transfer to a referral centre to consider liver transplantation as part of a "super-emergency".
+
+- Hypersensitivity and anaphylaxis: exceptional
+
+- Renal toxicity and thrombocytopenia if overdosed
+
+- If paracetamol is used as a treatment for headache attacks, it is possible to develop chronic daily headaches as a result of drug abuse if it is taken for more than 15 days a month.
+
+=Nefopam=
+- Non-opioid analgesic with a central action (inhibition of mono-amine reuptake), with no anti-inflammatory or anti-pyretic action. Probable anti-hyperalgesic effects.
+
+- Only available by injection (oral administration not covered by the MA).
+
+- Dosage: 20 mg per dose, repeated 4 to 6 times a day, not to exceed 120 mg/24h. IVSE administration is possible to improve tolerance.
+
+
+'''Efficiency'''
+
+- Post-operative analgesia in combination with other opioid or non-opioid analgesics.
+
+- Analgesic potency at least comparable to weak opioids (codeine, tramadol, opium powder).
+
+
+'''Most frequent adverse reactions, risks:'''
+
+- Probable anticholinergic effects: tachycardia, urinary retention, acute glaucoma, confusion
+
+- Nausea and vomiting
+
+- Drowsiness
+
+- Convulsions (lowering of the epileptogenic threshold)
+
+- Malaise with flushing if the drug is administered rapidly
+
+
+'''Contraindications:'''
+
+- Children (aged < 15), pregnant women
+
+- Epilepsy
+
+- High risk of urinary retention or acute glaucoma due to angle closure
+
+- Elderly subjects (aged 75 and over): relative contraindication due to probable anticholinergic effects

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-063-09-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Title=Knowing how schizophrenic disorders develop
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=9}}
+
+The illness begins with an acute psychotic episode in 50% of cases
+
+Insidious onset with gradual social withdrawal, atypical signs evolving over several months or years, a drop in school results and a delay in diagnosis
+
+There are early-onset forms (before the age of 18) and late-onset forms (after the age of 35, frequent hallucinations, few negative syndromes or disorganisation).

@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-199-06-B
+|Item_parent=Complex regional pain syndrome (ex algodystrophy)
+|Item_parent_short=Complex regional pain syndrome (ex algodystrophy)
+|Rank=B
+|Title=Knowing the imaging tests to order when CRPS is suspected
+|Description= X-rays (mandatory as 1st line); MRI and bone scintigraphy are the reference examinations after X-rays.
+|Section=Additional examinations
+|Contributors=
+|Order=6}}
+
+
+'''Rang B'''
+
+'''Section: Additional examinations'''
+
+'''Entitulé : Knowing the imaging tests to order when there is a suspicion of CRDS'''
+
+'''Descriptif : Radiographies (en 1ère intention) ; IRM et scintigraphie osseuse'''
+
+- '''The diagnosis of CRDS is clinical.'''
+
+- '''There is no additional pathognomonic test for CRDS'''
+
+- Additional tests are carried out to rule out differential diagnoses.
+
+- Biological tests were normal, ruling out an infectious or inflammatory etiology (normal ESR and CRP).
+
+- Joint fluid is a mechanical fluid.
+
+- Imaging examinations may be normal without rejecting the diagnosis. They are of no use in monitoring the course of the disease and should not influence the indication for treatment.''
+
+
+1- X-rays
+
+'''.     X-rays must be comparative''''
+
+.     Local and regional hypertransparency of the bone pieces may be observed due to trabecular rarefaction and cortical resorption.
+
+.     X-rays may be normal throughout the course of the disease. Since CRPS is a diagnosis of elimination, it is important to remember the importance of negative signs: absence of pinching of the joint space, absence of erosions, etc.
+
+.     Radiological healing may be accompanied by "ad integro" restitution, but pseudo-dystrophic anomalies may persist after healing.  
+
+
+2- Technetium bone scan
+
+- Scintigraphy is of no benefit either for the clinical diagnosis of CRDS or for assessing the progression of the disease.
+
+- However, hyperfixation can be observed in the early vascular phase and late hyperfixation in the bone phase.
+
+- Scintigraphy can assess locoregional extension.
+
+- Scintigraphic hypofixation may occur, particularly in children and adolescents, in so-called cold forms from the outset, and may be encouraged by under-use of the limb (off-loading, plaster cast).
+
+- It ensures that an underlying cause, in particular a crack or fracture, is not overlooked.
+
+- A normal scintigraphy does not rule out the diagnosis of CRDS.
+
+3- MRI
+
+- MRI in CRPS should remain the exception and may be performed to rule out differential diagnoses of bone oedema or other joint pathologies.
+
+- During CRDS, certain non-specific MRI abnormalities may be observed: bone oedema (T1 hyposignal, T2 STIR hypersignal, T2 FAT SAT), intra-articular effusion (T2 hypersignal), soft tissue oedema (T2 FAT SAT hypersignal, enhanced by gadolinium).
+
+'''A normal MRI does not rule out the diagnosis of CRDS.'''
+
+[https://videotheque.uness.fr/w/2bAXL8H61tKzfJaFZq7H7H 12 mn CERF Imagerie SDRCI]

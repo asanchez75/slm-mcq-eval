@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-211-11-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing the indications for imaging examinations in sarcoidosis
+|Description=RP, Chest CT
+|Rubric= Complementary examinations
+|Contributors=
+|Order=11}}
+
+
+=='''In all patients'''==
+- '''[[Request for an imaging examination SDD-231|Chest imaging]]''' (chest X-ray and/or thoracic computed tomography (CT)) systematically at diagnosis, and repeated during follow-up (chest X-ray, or even thoracic CT but more radiating).
+
+*abnormal in 90% of cases
+*mainly mediastinal and hilar lymphadenopathy, bilateral, symmetrical and non-compressive
+*interstitial syndrome predominantly in the upper lobes, with a predominance of lymphatically distributed micronodules, and sometimes fibrosis.
+*'''5 stages''' (with prognostic value) on a standing chest X-ray
+**'''Stage 0:'''' Normal chest X-ray
+**Stage I:'''' Bilateral mediastinal and hilar adenopathy without lung parenchymal involvement
+**'''Stage II:'''' Mediastinal adenopathy and interstitial involvement
+**Stage III:'''' Interstitial involvement without mediastinal adenopathy
+**Stage IV:'''' Radiological signs of pulmonary fibrosis
+
+
+==Depending on clinical signs ==
+- Echocardiography and ECG holter at the slightest sign / doubt of cardiac damage
+
+- '''[[Request for an SD-231|CT abdomino-pelvic imaging test]]'''': to identify liver or spleen involvement, or deep adenomegalia
+
+- Positron emission tomography (PET) with <sup>18</sup>F-fluorodeoxyglucose (PET-CT): limited indications (= useless in all patients) ('''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]''')
+
+*search for cardiac damage
+*search for a biopsiable target
+*certain stages IV, in particular to look for signs of disease activity
+*identification of sarcoidosis activity in the presence of non-specific clinical signs (asthenia)
+
+- '''[[Request for an imaging examination SD-231|Magnetic Resonance Imaging (MRI)]]''' cerebral, cardiac, spinal cord
+
+- Electromyogram (if peripheral neurological damage)

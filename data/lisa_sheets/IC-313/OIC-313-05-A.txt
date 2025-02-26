@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-313-05-A
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=A
+|Title=Know the clinical presentations of testicular tumours
+|Description=To know the most frequent circumstances of discovery of a testicular tumour
+|Rubric=Positive diagnosis
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=5}}
+
+
+*An asymptomatic testicular mass may be detected by clinical examination or autopalpation.
+*[[2C-050|Testicular mass 50]]
+*[[2C-038|Infertility test 38]]
+*More rarely (<5% of cases): in a young man.
+**[[2C-050|Testicular pain 50]]
+**Abdominal mass
+**Respiratory distress (in multiple lung metastases)
+**[[2C-246|Gynecomastia 246]]
+**Troisier ganglion
+**Inaugural brain metastases

@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-278-02-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Knowing urgent situations in newborn jaundice
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+There are 3 urgent situations to be aware of:
+
+- jaundice with free bilirubin and neurological symptoms = kernicterus = ''hyperbilirubinaemic encephalopathy''.
+
+o Occurs at high levels of free bilirubin (= unconjugated and not bound to albumin), which is neurotoxic. Symptoms in newborns: lethargy, extrapyramidal hypertonia.
+
+o Risk of long-term sequelae: severe encephalopathy, extrapyramidal hypertonia/abnormal movements due to damage to the basal ganglia, deafness, etc.
+
+
+- jaundice with free bilirubin, with a risk of rapid progression due to haemolysis:
+
+o maternal-fetal incompatibility: essentially in the ABO system (mother O, child A or B) / Rhesus incompatibility rarer since maternal prevention with anti-D human immunoglobulins)
+
+o constitutional haemolysis: G6PD deficiency, hereditary spherocytosis (Minkowski-Chauffard disease)
+
+o Risk of rapid progression to neurotoxic levels of free bilirubin / risk of anaemia
+
+
+- Conjugated bilirubin jaundice due to biliary atresia
+
+o signs of cholestasis: firm hepatomegaly, dark urine, discoloured stools
+
+o treatment: vitamin K supplementation, early surgery
+[[File:Icterus causes.pdf|vignette]]
+
+
+Etiologies of jaundice in newborns

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-028-09-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Intitulé=Pyélonéphrite aiguë gravidique : connaître le diagnostic clinique
+|Description=Knowing the clinical diagnosis of acute pyelonephritis in pregnancy
+|Rubric=Clinical diagnosis
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=9}}
+
+
+Symptoms begin abruptly and are usually noisy, associating :
+
+- '''[[Hyperthermia/fever SD-044|fever]] ± chills''' ;
+
+- '''urinary functional signs (pollakiuria, [[Urinary burning SD-096|burning]])''' ;
+
+- Unilateral lumbar pain, most often on the right, with pain on palpation of the lumbar fossa and in the ureteral pathway.
+
+Functional urinary signs are sometimes absent. However, there are frustrated forms of the disease which should be avoided (gradual onset, mild signs, isolated fever, etc.). Uterine contractions in pregnant women SD-098|Uterine contractions]] may be present.
+
+A [[SD-182 urine dipstick analysis|urinary dipstick]] with leucocytes and nitrites +/- haematuria
+
+Understanding the treatment and follow-up of urinary tract infections during pregnancy [[Understanding the treatment and follow-up of urinary tract infections during pregnancy 2C-161-PC-A04|2C-161-PC-A04]]

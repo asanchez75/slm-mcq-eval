@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-214-12-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Knowing the tests to prescribe for thrombocytopenia in children and adults
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=12}}
+o '''haemogram''' ('''[[Interpretation of haemogram SD-223|interpretation of a haemogram]]''') : with analysis of the other blood lines (isolated thrombocytopenia pointing to a peripheral cause; association with anaemia ('''[[Haemoglobin decrease SD-217|haemoglobin decrease]]''') and/or leuco-neutropenia ('''[[Leukocyte abnormality SD-216|leukocyte abnormality]]''') pointing to a central cause or hypersplenism). Analysis of the leucocyte count ('''[[Leucocyte abnormality SD-216|leucocyte abnormality]]''') is also an element of orientation (neutrophil hyperleucocytosis in the context of bacterial sepsis; lymphocytosis during viral infections or chronic lymphocytic leukaemia; lymphopenia during HIV infection or systemic lupus, etc.). Analysis of the mean corpuscular volume (MCV) may also provide an indication (macrocytosis with MCV > 100 fl during myelodysplastic syndromes or vitamin deficiencies).
+
+o '''blood smear''' ('''[[Prescription and analysis of blood smear SD-222|prescription and analysis of blood smear]]'''). Analysis of the blood smear by the medical biologist is essential, in particular to look for :
+
+- false thrombocytopenia (platelet agglutination in the presence of EDTA);
+
+- abnormal circulating cells (blasts in acute leukaemia, hyperbasophilic lymphocytes in mononucleosis syndrome in primary EBV, CMV or HIV viral infection);
+
+- of schizocytes (during thrombotic microangiopathies).
+
+o ''haemostasis work-up'': PT / APTT / fibrinogen: abnormal ('''[[Prolongation of activated partial thromboplastin time (APTT) SD-213|PTT prolongation]]'''', '''[[Decrease in prothrombin rate (PRT) SD-218|PTT decrease]]''') in the context of DIC.
+
+o '''hepatic work-up''': ASAT/ALAT/gGT/alkaline phosphatases/bilirubin (disturbances of the hepatic work-up in the case of chronic hepatopathy, acute hepatitis in the course of certain viral hepatitis, etc.) and '''abdominal ultrasound''' (hepatopathy? ''[[Hepatomegaly SD-006|hepatomegaly]]'''? '''[[Splenomegaly SD-058|splenomegaly]]'''?).
+
+o HIV, HBV and HCV serology: in the event of isolated thrombocytopenia without explanation, to look for a chronic viral infection. Other viral serologies (EBV, CMV, etc.) will only be carried out if there is a suggestive clinical or biological sign.
+
+o '''serum protein electrophoresis''' ''([[Serum protein electrophoresis analysis SD-193|serum protein electrophoresis analysis]])'''': to look for a possible monoclonal peak (myeloma, lymphoma), polyclonal hypergammaglobulinaemia (chronic viral infections, systemic lupus) or hypogammaglobulinaemia (CVID).
+
+o ''anti-nuclear antibodies'': screening for possible systemic lupus associated with immunological thrombocytopenia, the presence of isolated positive anti-nuclear antibodies alone not indicating the existence of lupus (''Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment|Autoimmune diseases'').

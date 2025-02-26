@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-318-04-A
+|Item_parent=Chronic lymphocytic leukaemia
+|Item_parent_short=Chronic lymphocytic leukaemias
+|Rank=A
+|Title=Knowing the biological circumstances of the diagnosis of CLL
+|Description=
+|Rubric=positive diagnosis
+|Contributors=
+|Order=4}}
+ Any ''persistent hyperlymphocytosis'' in adults, especially those aged over 60, should prompt immunophenotyping of blood lymphocytes.
+
+This hyperlymphocytosis is ''most often isolated'' but may sometimes be accompanied by signs of bone marrow failure such as anaemia or thrombocytopenia'''.
+
+Rarely, a complication may be the cause of the diagnosis (autoimmune cytopenias, hypogammaglobulinaemia).

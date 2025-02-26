@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-343-07-A
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=A
+|Title=Know the main aetiologies and risk factors for confusional syndromes in adults and children.
+|Description=Toxic, metabolic, neurological causes, bacterial, viral or parasitic infections, urinary retention, faecal impaction (Knowing how to look for a medicinal cause, the main cause of confusional syndrome).
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+'''Neurological causes''' (refer to the corresponding items)
+
+- Meningeal haemorrhage.
+
+- Meningitis and meningoencephalitis (bacterial, viral, parasitic [neuromalaria] and prion).
+
+- Intracranial expansive processes (tumours, brain abscesses, haematomas).
+
+- Head trauma (subdural, extradural and intraparenchymal haematomas).
+
+- Cerebral infarcts (located in the brain stem, basal ganglia and large infarcts).
+
+- Generalised epilepsy (post-critical phase or non-convulsive malignant state).
+
+In fact, confusion can occur in the course of any chronic neurological pathology (multiple sclerosis, Parkinson's disease, Alzheimer's disease) in the presence of physical stress (see Understanding the main non-neurological causes of mental confusion). The underlying neurological pathology is then more of a risk factor than the cause of the confusion.
+
+'''Non-neurological causes'''
+
+- Toxic causes:
+
+o alcohol (acute drunkenness or withdrawal/delirium tremens) ('''[[Prevention of alcohol-related risks SD-313|prevention of alcohol-related risks]]''')
+
+o drugs
+
+o medication, particularly psychotropic drugs (beware of hidden psychotropic drugs and anticholinergics), in the event of acute intake or withdrawal
+
+o toxic substances (pesticides, solvents, CO) ('''[[Voluntary or involuntary intake of a toxic substance or a potentially toxic drug SDD-340|voluntary or involuntary intake of a toxic substance or a potentially toxic drug]]'''')
+
+- Metabolic causes
+
+o Hydroelectrolytic disorders (hyper/hyponatremia, hypokalemia, hypercalcemia, dehydration) '''([[Dyscalcemia SD-200|dyscalcemia]]; [[Dyskalemia SDD-201|dyskalemia]]; [[Dysnatremia SDD-202|dysnatremia]])'''''
+
+o Hypoglycaemia '''([[Hypoglycaemia SDD-209|hypoglycaemia]])''''
+
+o Endocrinopathies: metabolic decompensation of diabetes mellitus, acute adrenal insufficiency, hypothyroidism, acute anteropituitary insufficiency '''([[Thyroid balance analysis SDD-194|thyroid balance analysis]], [[Hyperglycaemia SDD-208|hyperglycaemia]], [[Dysnatraemia SDD-202|dysnatraemia]])''''
+
+o Chronic decompensated or acute renal, hepatic and cardiorespiratory failure '''([[Cholestasis SD-198|cholestasis]], [[Increased creatinine SDD-199|increased creatinine]], [[Elevated transaminases without cholestasis SD-206|elevated transaminases without cholestasis]])''''
+
+o Vitamin deficiencies: thiamine (Gayet-Wernicke) and/or PP (pellagra) as part of chronic alcoholism (and its consequences: Korsakoff syndrome) or undernutrition; B12/folate deficiencies '''([[Amaigrissement SD-017|amaigrissement]]; [[Asthénie SD-021|asthénie]]; [[Dénutrition/malnutrition SDD-030|dénutrition/malnutrition]]; [[Prévention des risques liés à l'alcool SD-313|prévention des risques liés à l'alcool]])''''
+
+- Infectious causes : Any cause of fever (urinary tract infections, lung infections), especially if there is an underlying neurocognitive disorder '''([[Urine dipstick analysis SDD-182|urine dipstick analysis]]; [[Analysis of a urine cytobacteriological examination (ecbu) SDD-189|analysis of an ECBU]] ; [[Acute or chronic inflammatory syndrome SDD-186|acute or chronic inflammatory syndrome]]; [[Elevation of c-reactive protein (cr) SD-203|elevation of c-reactive protein (CRP)]]; [[Leukocyte abnormality SDD-216|leukocyte abnormality]])''''
+
+- Other causes (faecal impaction, acute urinary retention, pain) (''[[Constipation SDD-001|constipation]]; [[Acute urinary retention SDD-097|acute urinary retention]]; [[Assessment and management of acute pain SD-259|assessment and management of acute pain]]''')
+
+
+'''The main risk factors for confusional syndrome are:'''
+
+- neurosensory disorders (abnormal vision; hearing loss/deafness)
+
+- chronic psychiatric pathologies ('''[[Follow-up consultation and basic treatment for a patient suffering from a chronic psychiatric disorder (excluding depression) SDD-269|Follow-up consultation and basic treatment for a patient suffering from a chronic psychiatric disorder (excluding depression)]]; [[Follow-up consultation and basic treatment for a depressive patient SDD-288|Follow-up consultation and basic treatment for a depressive patient]]''')
+
+- consumption of alcohol and psychotropic drugs '''([[Prevention of alcohol-related risks SD-313|prevention of alcohol-related risks]])''''
+
+- immobilisation (hospitalisation, resuscitation, post-operative recovery phase) (''[[Management of a patient in prolonged decubitus SDD-276|management of a patient in prolonged decubitus]]''')
+
+- pre-existing chronic pathology (''''[[Follow-up consultation for a polymorbid patient SD-266|follow-up consultation for a polymorbid patient]] ; [[Follow-up consultation for a polymorbid patient SD-267|follow-up consultation for a polymorbid patient]] ; [[Follow-up consultation for a chronic pathology SDD-279|follow-up consultation for a chronic pathology]] ; [[Follow-up consultation for a geriatric patient SD-295|follow-up consultation for a geriatric patient]]''')
+
+- underlying neurocognitive disorder +++: it is justified to reassess the cognitive status of patients at a distance (6 months) from the confusional episode '''([[Memory disorders/cognitive decline SD-131|memory disorders/cognitive decline]]; [[Consultation and follow-up of a patient with cognitive disorders SD-298|consultation and follow-up of a patient with cognitive disorders]])''''

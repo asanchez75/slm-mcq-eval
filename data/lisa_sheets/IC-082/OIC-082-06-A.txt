@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-082-06-A
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=A
+|Title=Know the main causes of optic tract and optic nerve damage and identify the aetiologies requiring urgent treatment (acute anterior ischaemic optic neuritis (AIAON), papilledema).
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+
+
+== Optic nerve damage
+
+=== '''Anterior ischaemic optic neuropathy (NOIA)''' ===
+NOIA is caused by acute ischaemia of the optic nerve head due to occlusion of the posterior ciliary arteries (PCA) or their branches. It is characterised by a sudden unilateral drop in visual acuity, associated with papilledema and visual field damage, typically in the form of an altitudinal deficit.
+
+Horton's disease or gigantocellular arteritis (also known as arteritic optic neuropathy) is the cause to be considered first, even though it is not the most common cause, due to the need for systemic corticosteroids to be administered as an "emergency". A systematic search should therefore be made for evidence of Horton's disease: systemic signs of the disease; changes in the temporal arteries; suggestive ocular signs (episode(s) of fleeting amaurosis preceding the onset of NOIA, choroidal filling defect on fundus angiography, indicative of choroidal ischaemia), biological signs (accelerated sedimentation rate and elevated C-reactive protein), temporal artery biopsy (this should be performed as soon as possible, but there is no reason to wait for it before starting corticosteroid therapy). The risk of bilateralisation and complete, bilateral, permanent blindness means that any suspected case of Horton's disease must be treated with high-dose corticosteroids as a matter of urgency.
+
+Arteriosclerosis (also known as non-arteritic optic neuropathy) is the most common cause of NOIA, due to occlusion of the PCAs or one of their branches by in situ thrombosis. One or more risk factors are generally present: smoking, high blood pressure, diabetes, hypercholesterolaemia.
+
+The differential diagnosis includes other causes of papilledema.
+
+=== '''Papilledema''' ===
+This is a swelling of the optic nerve head following an increase in intracranial pressure. In the presence of papilledema, malignant arterial hypertension (if bilateral) and intracranial hypertension (if bilateral) should be ruled out, followed by inflammatory optic neuropathy.
+
+Symptoms of intracranial hypertension include headache, nausea/vomiting, transient visual disturbances such as visual eclipses and VI nerve paralysis. Initially, there is no loss of visual acuity and no visual field abnormalities other than enlargement of blind spots.
+
+In cases of inflammatory optic neuritis with papillitis, visual acuity is predominantly impaired.
+
+=== '''Retro-bulbar optic neuritis (RBON)''' ===
+Damage is often rapidly progressive (over a few hours to a few days) and can cause a drop in visual acuity of varying severity. This is associated with the appearance of a scotoma, usually central or caecocentral. Visual impairment is often accompanied by retro-orbital pain, which increases when the eyeballs are moved. Retrobulbar optic neuritis should be investigated first and foremost for multiple sclerosis, which is the main cause, particularly in young patients.
+
+
+Other causes of optic nerve damage include:
+
+- Toxic and drug-induced optic neuropathies: these neuropathies have in common that they are bilateral and progressive. They are dominated by four causes: ethylic optic neuropathy, optic neuropathies related to anti-tuberculosis treatments (ethambutol and isoniazid), occupational optic neuropathies (e.g. lead), metabolic optic neuropathies (diabetes).
+
+- Tumoral optic neuropathies, linked to intra-orbital tumours or tumours in the anterior part of the skull (sphenoid meningioma, etc.).
+
+== Damage to the optic chiasm ==
+Compression of the optic pathways at the level of the chiasma results in a very specific aspect of the visual field known as "chiasmatic syndrome" which, in its typical form, results in a bitemporal hemianopia, i.e. a deficit in the temporal hemifields (corresponding to damage to the nasal fibres which decussate at the level of the chiasma). Sometimes the compression is partial (particularly in the early stages) and a bitemporal quadranopsia is observed.
+
+In terms of aetiology, the main cause of chiasmatic syndrome is pituitary adenoma. Chiasmatic syndrome is often progressive in onset, beginning with superior bitemporal quadranopsia.
+
+== Retrochiasmatic disease ==
+This results in a sensory deficit in one hemifield, right or left (the same on both sides), called homonymous lateral hemianopia, with the deficit on the opposite side to the lesion. Damage to the optic radiations, where the upper and lower fibres travel in two clearly separated bundles, is more likely to result in homonymous lateral quadranopsia, usually superior.
+
+In terms of aetiology, there are three main causes: vascular (stroke, compressive haematoma), tumour and trauma.
+
+A sudden onset of hemianopsia or homonymous lateral quadranopsia caused by damage to the retrochiasmatic optic pathways suggests a vascular etiology, whereas a progressive onset suggests a tumour etiology.

@@ -1,0 +1,137 @@
+{{knowledge objective
+|Identifiant=OIC-094-12-A
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=A
+|Title=Knowing the main principles of management of a patient suffering from acute or chronic spinal pain.
+|Description=No rest...
+|Rubric=Management
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=12}}
+
+''Table common to headings 12 and 13''
+{| class="wikitable"
+| rowspan="2" |'''POUSSEE AIGUËE DE LOMBALGIE'''
+
+<br />
+|''Great principles (rank A)'''
+
+- REASSURE = explain the favourable evolution of symptoms in > 90% of cases within ten days.
+
+- THERAPEUTIC EDUCATION = to prevent the transition to chronicity
+
+- REMAIN PHYSICALLY ACTIVE = continue activities, adapting them to the intensity of the pain''',''''''''''''''''''[[Prescrire un arret de travail SDD-339|(prescrire un arrêt de travail)]]'''''''
+
+- DON'T: orderly bed rest, prolonged work stoppage
+|-
+|''To go further (row B)'''
+
+- Level 1 or 2 analgesics '''[[Prescribe analgesics SDD-250|(prescribe analgesics)]]'''; Level 3: not recommended
+
+- NSAIDs: in the absence of contraindication ''[[Prescribe NSAIDs SDD-249|(prescribe NSAIDs)]]''''
+
+- ceinture lombaire : possible ''[[Prescription d'un appareillage simple SDD-245|(prescription d'un appareillage simple,]] ''[[Installation and monitoring of a mechanical restraint SDD-244|installation and monitoring of a mechanical restraint)]]''''
+
+- physiotherapy: not indicated for an isolated acute episode
+
+- muscle relaxants: not recommended
+
+- nefopam and corticosteroids: no evidence of efficacy
+
+- follow-up consultation at 2 to 4 weeks ''[[Follow-up consultation for a patient with acute or chronic low back pain SDD-277|(follow-up consultation for a patient with acute or chronic low back pain)]]''''
+
+- follow-up in 6 and 12 weeks if risk factors for progression to chronicity, then treatment similar to that for chronic low back pain if necessary.
+|-
+| rowspan="2" |'''LOMBALGIE CHRONIQUE COMMUNE '''
+
+'''[[Follow-up consultation for a patient with acute or chronic low back pain SDD-277|(follow-up consultation for a patient with acute or chronic low back pain)]]'''<br />
+|''Main principles (rank A)'''
+
+- THERAPEUTIC EDUCATION: reassurance, combating a sedentary lifestyle, the benefits of regular physical activity (therapeutic modification of lifestyle (sleep, physical activity, diet...)''[[Prevention of overweight and obesity SDD-319|, prevention of overweight and obesity)]'''''
+
+- MAINTAINING PHYSICAL ACTIVITY: choices based on pain and patient preferences
+
+- KINESITHERAPIE (active work, stretching of the sub-pelvic planes)
+
+- PSYCHOLOGICAL support
+
+- ANTALGIA: same if acute attack of low back pain
+
+- RESUMING PROFESSIONAL AND SOCIAL ACTIVITIES as soon as possible
+
+- '''2<sup>ème</sup> intention : programme de restauration fonctionnelle du rachis (réentraînement à l'effort)''' : multidisciplinary programmes, usually in groups, combining dry and balneotherapy physiotherapy, occupational therapy, adapted physical activity, dietary management, psychological support, social support for socio-professional reintegration and therapeutic education.
+|-
+|''Further information (row B)''
+
+- physiotherapy '''[[Prescription of a rehabilitation SDD-247|(prescription of a rehabilitation)]]''''
+
+o active work (limiting passive work)
+
+o stretching of the sub-pelvic planes
+
+o muscle strengthening (spinal ++)
+
+o lumbar locking, self-exercise
+
+o proprioception
+
+o Overall physical reconditioning and aerobic work
+
+- '''2<sup>ème</sup> intention: programme for functional restoration of the spine (exercise retraining)''''
+
+Pre-programme assessment : measurement of muscle retractions (quadriceps and hamstrings), mobility of the lumbar spine (Schöber index), ''[[Identifying a situation of deconditioning SDD-353|identifying a situation of deconditioning to effort]]''', search for the emotional component (Hospital Anxiety and Depression scale [HADs] self-questionnaire), inappropriate beliefs (Fear-Avoidance Beliefs Questionnaire [FABQ]), impact on activities of daily living (Quebec, Dallas or Owestry self-questionnaires), quality of life assessment, weight lifting test.
+
+- if associated neuropathic pain: tricyclic antidepressants, NARIs, gabapentinosteroids and transcutaneous electrical neurostimulation (TENS) possible
+
+- if associated radiculalgia: epidural corticosteroid infiltration as second-line treatment
+
+- spinal tractions, back school: effectiveness not proven
+|-
+| rowspan="2" |'''Cervicalgia''''
+
+'''AIGUË'''
+
+'''commune'''
+
+<br />
+|''Great principles (rank A)'''
+
+- reinsurance
+
+- Level 1 or 2 analgesics; Level 3: not recommended
+
+- NSAIDs: in the absence of contraindication
+
+- immobilisation by cervical collar: not indicated
+|-
+|To go further (row B)
+
+- physiotherapy: not indicated for an isolated acute episode
+|-
+|'''Cervicalgia CHRONIQUE commune''''
+'''[[Consultation for follow-up of a chronic pathology SDD-279|(consultation for follow-up of a chronic pathology)]]''''
+|''Main principles (rank A)''
+
+- level 1 or 2 analgesics, no level 3
+
+- THERAPEUTIC EDUCATION: reassurance, the fight against a sedentary lifestyle, the benefits of regular physical activity
+
+- KINESITHERAPY: stretching, isometric muscle strengthening, proprioception, self-exercise and active work ++ ''(rank B)'''
+
+- PROHIBIT: continuous and prolonged cervical immobilisation
+|-
+|Dorsalgia
+
+'''AIGUË'''
+
+'''commune'''
+
+''(after systematic x-ray + search for visceral cause)''
+|<nowiki>- reassurance</nowiki>
+
+- Level 1 or 2 painkillers, not Level 3
+
+- NSAIDs: in the absence of contraindication
+
+- physiotherapy: not indicated for an isolated acute episode
+|}

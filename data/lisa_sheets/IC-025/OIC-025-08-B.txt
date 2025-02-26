@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-025-08-B
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=B
+|Title=Knowing the preoperative biological work-up in case of diagnosis of EP
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=8}}
+
+Preoperative assessment :
+
+- Severity work-up: CBC and platelet count, PT/PTT, plasma fibrinogen '''([[Interpretation of haemogram SD-223|Interpretation of haemogram]], [[Decrease in haemoglobin SD-217|decrease in haemoglobin]], [[Decrease in prothrombin rate (tp) SD-218|decrease in thrombin rate]])'''''
+
+- Pre-transfusion work-up: Rh group (2 determinations), RAI ''([[Prescribe and carry out a blood transfusion SD-272|prescrire et réaliser une transfusion sanguine]])''''

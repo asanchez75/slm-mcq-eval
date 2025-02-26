@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-233-07-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Knowing the evolution and complications of MI, RA, IA, MR
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Myriam Akodad and Florence Leclercq
+|Order=7}}
+
+
+* Mitral insufficiency: The course depends on severity, aetiology, chronicity, LVEF, associated lesions:
+** Acute: rapid progression to ''''OAP, cardiogenic shock and death in the absence of intervention.
+** Chronic: ''left heart failure'', ''AF, endocarditis, thromboembolic complications''.
+
+* ''Aortic stenosis:'' usually slow progression with reduction in aortic surface area of 0.1 cm<sup>2</sup>/year on average
+** Good prognosis in cases of asymptomatic narrow aortic stenosis (risk of sudden death < 1%/year).
+** Poor prognosis from the onset of symptoms in the absence of intervention.
+** Complications :
+*** '''heart failure,'''
+*** Conduction disorder
+*** Rhythm disorders'' (AF),
+*** '''sudden death''',
+*** more rarely: '''infective endocarditis'', '''calcareous embolism'', '''anaemia (Heyde syndrome:''' coagulopathy induced by AR by acquired Willebrand syndrome leading to digestive bleeding by angiodysplasia'')'''
+
+[[File:RA Prognosis.png|centric|thumb|900x900px]]
+<br />
+
+* Aortic insufficiency:''''
+** Acute: very rapid progression to cardiogenic shock and death in the absence of intervention.
+** Chronic: ''cardiac insufficiency, rhythm disorders,'' mortality 10-20%/year if symptoms, '''endocarditis, aortic dissection'' if associated aortic dilatation.
+
+* Mitral narrowing:''''
+** Prognostic factors: age, symptoms, fixed or unfixed PAH, feasibility of percutaneous commissurotomy.
+** Complications: ''AF, heart failure, PAH'', ''thromboembolic'', cardiac decompensation in the event of pregnancy.

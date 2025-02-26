@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-218-10-A
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=A
+|Title=Identifying severe drug hypersensitivity syndrome
+|Description=DRESS
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=10}}
+'''Differentiate:'''
+
+- drug-induced eosinophilia = often asymptomatic or associated with a non-severe skin rash ;
+
+- DRESS, defined by the association of a cutaneous rash which may not be severe (''[[Erythema SD-085|erythema]]'''), a hypereosinophilia > 1,500/mm<sup>3</sup>, general signs (fever '''([[Hyperthermia/fever SD-044|fever/hyperthermia]])''', adenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]]''')'') and visceral involvement which may be severe (fulminant hepatitis or '''[[Acute renal failure - Anuria|acute renal failure]]''' related to immuno-allergic interstitial nephropathy).
+
+Eosinophilia + medication
+
+- onset after introduction of suspect drug: 2 to 8 weeks ;
+
+- monitor creatinine levels and liver function tests (transaminases and prothrombin levels) until eosinophilia disappears, even if the rash is not severe, to identify DRESS.

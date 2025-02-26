@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-231-09-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying atrioventricular blocks in sinus rhythm
+|Description=Recognise AVB of all 3 degrees and all types, high degree blocks and rhythmic blocks
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=9}}
+
+'''BAV 1''' :
+- PR > 200 ms.
+
+'''BAV 2 Mobitz 1 (Luciani-Wenckebach):'''
+- Progressive prolongation of the PR followed by a blocked P wave,
+- Most often nodal block.
+
+'''BAV 2 Mobitz 2 :'''
+- Blocked P wave not preceded by progressive PR lengthening
+- Unstable PR and RR intervals
+- Most often infra-nodal block (Hissian or infra-Hissian).
+
+'''BAV 2 for 1 (2/1):'''
+- 1 P wave blocked out of 2,
+- Stable PR interval for driven P waves,
+- Constant PR and RR intervals when BAV is installed.
+- May correspond to a Mobitz 1 or 2. To differentiate, the patient can be asked to make an effort: worsening of BAV in Mobitz 2 (infra-nodal block) or improvement in Mobitz 1 (nodal block).
+
+'''BAV 3 (complete):'''
+- Atrioventricular dissociation, no conducted P waves
+- Unstable PR interval; constant RR interval when escape is stable,
+- Inconsistent escape :
+o Junctional (QRS identical to sinus QRS so fine QRS unless associated bundle branch block),
+o Ventricular (wide QRS different from the sinus rhythm originating from a ventricular focus of escape).
+[[File:Bav.jpg|vignette|alt=|centred|900x900px]]

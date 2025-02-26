@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-246-06-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Knowing the causes of drugs and toxic substances
+|Description=None
+|Rubric=Etiologies
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=6}}
+
+Medicinal causes account for 10-25% of gynaecomastia.
+
+[Suspicion of an adverse drug reaction or SD-348 treatment]<br />
+[[File:Table of medicines causing gynaecomastia.pdf|vignette|Table of medicines causing gynaecomastia]]
+
+<br />

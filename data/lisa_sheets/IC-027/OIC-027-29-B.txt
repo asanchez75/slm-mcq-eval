@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-027-29-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Title=Knowing how to prevent antierythrocytic alloimmunisation in the post-partum period
+|Description=None
+|Rubric=Follow-up and/or prognosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=29}}
+The RhD phenotype of the newborn must be known. If genotyping was carried out during pregnancy (ideally in the 1st trimester) and if the rhesus was negative, a neonatal check is carried out.
+
+If the rhesus was positive at genotyping, there is no verification.
+
+If the child is RhD+, a Kleihauer test will be carried out on a sample of maternal blood taken at least 30 minutes after delivery.
+
+The mother will be offered anti-D prophylaxis. The dosage and route of administration will be adapted according to the Kleihauer test.
+
+If immunoglobulin administration is forgotten within the first 72 hours, the injection can still be given up to 30 days after delivery, preceded by an IAT.
+
+If the mother is systematically injected with anti-D immunoglobulin at 28 weeks' gestation, the Coombs test may be positive in RhD+ newborns (in almost 10% of cases). In the absence of associated symptoms (jaundice, anaemia), no further investigations are required (elution, identification of fixed antibodies). Contact with the neonatologist is useful.
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-069-05-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the specific symptoms of a psychological disorder in the postnatal period
+|Description=Depressive disorders, mania, psychotic disorders, anxiety disorders
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=5}}
+
+- Post-partum depressive episode: These are symptoms of a characterised depressive episode without psychotic features, a symptomatology that is often minimised or hidden. Sadness of mood is associated with feelings of inability to care for the baby, complaints of fatigue, headaches, abdominal pain, and anxiety of the impulse phobia type centred on the baby. Check for symptoms of hypomania, the quality of early mother-child interactions, and the baby's psychomotor development. The presence of psychotic symptoms usually centred on the baby (denial of filiation, persecution) confers a risk of suicide and infanticide.
+
+- Post-partum manic episode: These are symptoms of a classic manic episode with more frequent symptoms of confusion, bizarreness, mixed or psychotic features (polymorphic mechanisms, themes centred on pregnancy, birth, the baby or the couple). Assess the risk of suicide and infanticide.
+
+- Brief psychotic episode: These are symptoms of a classic psychotic episode with symptoms of confusion and affective involvement such as emotional lability. The mechanisms are polymorphic and the themes centred on pregnancy, birth, the baby or the couple. Assess the risk of suicide and infanticide.
+
+- Anxiety disorders: These are anxiety symptoms isolated or linked to other postnatal disorders. Impulse phobias are conscious fears of harming the baby, without being dangerous. Post-traumatic stress disorder can result from a traumatic birth (e.g. obstetric complications).

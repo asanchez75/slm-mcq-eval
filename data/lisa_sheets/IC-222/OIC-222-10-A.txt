@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-222-10-A
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=A
+|Title=Knowing the benefits of physical activity in the management of cardiovascular risk
+|Description=None
+|Rubric=Management
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=10}}
+
+
+* Physical activity (PA) is defined as any bodily movement produced by skeletal muscles, resulting in an energy expenditure greater than that of the resting metabolism. PA includes physical activities of daily living, physical exercise and sporting activities.
+* Regular physical activity (at any age) can reduce cardiovascular mortality by 30% (dose-dependent response) in primary, primary-secondary and secondary prevention.
+* '''Beneficial effects of physical activity on risk factors:''''
+** Lower blood pressure.
+** Reduction in LDL-c and triglycerides, increase in HDL-c.
+** Weight loss.
+** Improved glycaemic control through reduced insulin resistance.

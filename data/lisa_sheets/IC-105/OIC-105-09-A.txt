@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-105-09-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Identify febrile convulsions and their prognosis according to severity criteria
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+'''Syndromes'''' '''special: simple hyperthermic seizure and complicated hyperthermic seizure''''
+
+- Often genetic in origin.
+
+- They meet very strict diagnostic criteria.
+
+- Age of onset after one year.
+
+- [[Convulsions SDD-120|Crisis]] occurring in a context of [[Acute fever in children and adults|fever]] > 37.5°C, with symmetrical motor manifestations, lasting less than 15 minutes, without post-critical deficit, remaining unique for a given febrile episode.
+
+- Less than three episodes in total.
+
+- If these conditions are met, there is no indication for further tests, in particular no EEG ([[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]), and no indication for long-term anti-epileptic treatment. Prevention is achieved by monitoring hyperthermia.
+
+- When one of these criteria is not met, the seizures are referred to as complicated hyperthermic seizures, in which case an aetiological assessment and background antiepileptic treatment are warranted.  
+
+<br />
+====Medial temporal epilepsy due to hippocampal sclerosis====
+- History of complicated hyperthermic seizures frequent but may be absent.
+
+- Age of onset of first non-febrile seizures: 5 to 15 years.
+
+- Predominant seizure types: focal internal temporal seizures (see positive diagnosis above).
+
+- Generally no secondary generalised focal seizures under antiepileptic treatment.
+
+- Prognosis: poor with drugs alone, with frequent drug resistance, but accessible to surgical treatment, which leads to a cure in 70% of cases.
+
+- MRI: appearance of unilateral hippocampal sclerosis.
+
+- Specialist hospital advice (centre of reference or competence for rare epilepsies) is essential as soon as drug resistance is established.

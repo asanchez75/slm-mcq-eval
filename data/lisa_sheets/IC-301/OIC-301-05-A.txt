@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-301-05-A
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=A
+|Title=Knowing the adenoma cancer lineage
+|Description=None
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=5}}
+An adenoma is a benign tumour lesion that can progress to degeneration. Its prevalence increases with age, reaching 30-50% after the age of 50. A minority (5%) of adenomas will develop into adenocarcinomas.
+
+In the case of adenomas which develop into adenocarcinomas, the histological abnormalities follow the sequence of low-grade dysplasia, then high-grade dysplasia, then adenocarcinoma. The average duration of the healthy mucosa-adenoma-adenocarcinoma sequence is around 10 years.
+
+o The risk of degeneration into adenocarcinoma is linked to certain factors:
+
+§ The size of the adenoma: for an adenoma larger than 1 cm, the risk is 8% at 10 years and 25% at 20 years. In adenomas smaller than 1 cm, the risk of finding a focus of adenocarcinoma is estimated at 0.3%.
+
+§ The number of adenomas: the risk is significantly higher if the number is greater than 5.
+
+§ The histological type with, in ascending order of risk: tubular (lowest risk) then tubulovascular (intermediate risk) then vascular (highest risk).
+
+§ The degree of dysplasia with increasing risk: low grade; high grade
+
+§ The form with a particular risk for flat and/or scalloped adenomas.

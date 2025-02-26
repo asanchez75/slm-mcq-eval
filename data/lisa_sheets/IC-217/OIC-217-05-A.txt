@@ -1,0 +1,120 @@
+{{knowledge objective
+|Identifiant=OIC-217-05-A
+|Item_parent=Mononucleosis syndrome
+|Item_parent_short=Mononucleosis syndrome
+|Rank=A
+|Title=Know the main infectious causes of mononucleosis syndrome and how to diagnose them (Epstein Barr virus (EBV), Cytomegalovirus (CMV), Human Immunodeficiency Virus (HIV), Toxoplasmosis).
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+<blockquote>''Majority of mononucleosis syndromes = primary infection with Epstein Barr virus (EBV).''</blockquote><br />
+
+== '''Primary EBV infection''' ==
+- 80% of mononucleosis syndromes
+
+- Infectious agent responsible for infectious mononucleosis (IM).
+
+- Primary EBV infection, usually asymptomatic.
+
+=== Symptoms ===
+- General signs: '''[[Hyperthermia/fever SD-044|hyperthermia/fever]]'''' high, persistent, '''[[Asthenia SD-021|asthenia]];''''
+
+- Angina or pharyngitis;
+
+- Polyadenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]])''' ;
+
+- Other signs: '''[[Splenomegaly SD-058|splenomegaly]]''' frequent; headache; maculo-papular rash (occurring most often after administration of ampicillin); '''[[Myalgias SD-077|myalgias]]'''; digestive disorders.
+<br />
+
+=== Possible biological abnormalities in primary EBV infection ===
+- Mononucleosis syndrome ;
+
+- Thrombocytopenia '''([[Platelet abnormality SD-215|platelet abnormality]])''', haemolytic anaemia ;
+
+- Frequent hepatic cytolysis '''([[Elevation of transaminases without cholestasis SD-206|elevation of transaminases without associated cholestasis]])'''.
+<br />
+
+=== Diagnosis of certainty ===
+'''- MNI test''' ± '''EBV serologies''' '''([[Interpretation of an SD-236 serology result|interpretation of a serology result]])'''.
+
+- EBV PCR = no indication in immunocompetent patients in the absence of diagnostic difficulties.
+<br />
+
+== Cytomegalovirus (CMV) primary infection ==
+- Primary CMV infection = 10% of mononucleosis syndromes.
+
+- Mainly in children and young adults.
+
+- Most often asymptomatic.
+
+=== In case of symptoms ===
+- General signs ''': [[Hyperthermia/fever SD-044|hyperthermia / fever]]''', '''[[Asthenia SD-021|asthenia]]'''' ;
+
+- Joint pain '''([[Joint pain SD-067|joint pain]])'''', '''[[Myalgia SD-077|myalgia]]''' ;
+
+- '''Splenomegaly'''
+
+- Polyadenopathy''([[Single or multiple adenopathies SD-016|Single or multiple adenopathies]])'', hepatomegaly and angina are rare.
+<br />
+
+=== Possible biological abnormalities in cases of primary CMV infection ===
+- Mononucleosis syndrome ;
+
+- Hepatic cytolysis '''([[Elevation of transaminases without cholestasis SD-206|elevation of transaminases without associated cholestasis]])'''.
+<br />
+
+=== Diagnosis of certainty ===
+'''- CMV serology''', with '''IgM''' '''positive''' '''([[Interpretation of a serology result SD-236|interpretation of a serology result]]).''''
+
+
+== '''Toxoplasmosis''' ==
+
+
+- Primary infection by the protozoan parasite Toxoplasma gondii
+
+- Common and often asymptomatic.
+<br />
+
+=== Symptoms ===
+- General signs '''([[Hyperthermia/fever SD-044|hyperthermia/fever]], [[Asthenia SD-021|asthenia]])''' ;
+
+- '''Polyadenopathy''' generalized '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]])''' ;
+<br />
+
+=== Diagnosis of certainty ===
+'''- Toxoplasmosis serology''' '''([[Interpretation of a serology result SD-236|interpretation of a serology result]]):''' anti-toxoplasmosis IgM positivity, in the absence of IgG
+<br />
+
+== '''Primary HIV infection''' ==
+
+=== In case of symptoms ===
+- Primary infection is often "symptomatic": half of all patients present with symptoms:
+
+- General signs: ''[[Hyperthermia/fever SD-044|hyperthermia/fever]]''', ''[[Asthenia SD-021|asthenia]]''' ;
+
+- '''Joint pain''' '''([[Joint pain SD-067|joint pain]])''' and '''[[Myalgia SD-077|myalgia]]''' ;
+
+- Generalized polyadenopathy '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]])''' ;
+
+- Angina and/or ulcerations of the oral and genital mucosa;
+
+- Maculo-papular rash '''([[Erythema SD-085|erythema]]]''' ;
+
+- Neurological symptoms: lymphocytic meningitis, encephalitis, mononeuropathy;
+
+- '''[[Splenomegaly SD-058|Splenomegaly]]'''.
+<br />
+
+=== Possible biological abnormalities in primary HIV infection ===
+- Mononucleosis syndrome '''([[Prescription and analysis of blood smear SD-222|prescription and analysis of blood smear]])''' ;
+
+- Thrombocytopenia '''([[Platelet abnormality SD-215|platelet abnormality]])''' ;
+
+- Hepatic cytolysis '''([[Elevation of transaminases without associated cholestasis SD-206|elevation of transaminases without associated cholestasis]])''' ;
+
+- Other abnormalities: polyclonal hypergammaglobulinaemia ''([[SD-193 serum protein electrophoresis analysis|serum protein electrophoresis analysis]]),''' lymphocytic meningitis.
+<br />
+
+=== Diagnosis of certainty ===
+- HIV PCR, associated with HIV serology with combined detection of the p24 antigen '''([[Interpretation of an SD-236 serology result|interpretation of a serology result]])''': the presence of HIV PCR and/or a positive p24 antigen with negative serology or less than 5 bands in the western blot defines primary infection.

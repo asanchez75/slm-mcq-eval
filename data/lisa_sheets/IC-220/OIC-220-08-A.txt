@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-220-08-A
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=A
+|Title=Knowing the common aetiologies of superficial adenopathy in children
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+Adenopathy is frequently found in children, ''particularly cervical polyadenopathy, particularly in winter, in the context of episodes of rhinopharyngitis''.
+
+The most common causes are infectious.
+
+Fear of a malignant cause or one linked to a systemic disease should, however, dictate a rigorous approach and consultation with specialists, particularly in the case of isolated adenopathy, chronic symptoms or associated general symptoms. Do not hesitate to see your child again in consultation
+
+The main causes are :
+
+Infectious causes:
+{| class="wikitable"
+|Isolated adenitis
+|Polyadenitis'''
+|-
+|- Pyogenes (strepto, staph)
+|'''With eruption'''
+
+- Rubella, HIV, adenovirus, measles, chickenpox
+|-
+|- Cat scratch disease, BCGitis, Shingles, Toxoplasmosis, BK, atypical mycobacteria
+|With splenomegaly
+
+- Kala-Azar, trypanosomiasis, leishmaniasis
+|-
+|- Pasteurellosis, tularemia, leishmaniasis
+|''With mononucleosic sd'''
+
+- NIDs, HIV, CMV, toxoplasmosis
+|}
+- Kawasaki syndrome or chronic juvenile arthritis (Still's disease) among inflammatory causes
+
+- Haematological malignancies are rarer but should be systematically considered: acute lymphoblastic leukaemia and lymphoma.
+<br />

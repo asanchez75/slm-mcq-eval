@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-027-10-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Knowing the consequences of measles during pregnancy
+|Description=None
+|Rubric=Follow-up and/or prognosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=10}}
+Maternal measles is thought to be more serious during pregnancy, particularly because of the increased frequency of pneumonia and heart failure.
+
+Rate of hospitalisation for pneumonia among pregnant women contracting measles = 30%.
+
+'''Fetal consequences'''
+
+Increased risk of miscarriage, foetal death 'in utero' and prematurity
+
+No increase in the risk of congenital malformations
+
+'''Neonatal consequences'''
+
+Perinatal measles ("congenital" measles) = [[Rash in children SD-037|eruption]] occurring in a newborn within the first 10 days of life.
+
+Increased risk if maternal infection occurs in the 3 weeks prior to birth.
+
+Risk :
+
+- Death (frequent)
+
+- Subacute sclerosing panencephalitis

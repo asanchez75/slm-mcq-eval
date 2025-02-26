@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-211-03-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Know the mechanisms of the inflammatory reaction leading to granuloma
+|Description=Knowing the involvement of the environment and the innate immune system
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+
+- Accumulation of epithelioid and giganto-cellular granulomas: histological structures formed by epithelioid cells and giant cells from the monocyto-macrophagic lineage, a T lymphocyte infiltrate with a predominance of CD4<sup>+</sup> T cells, and non-constant fibrosis.
+
+- Never caseous necrosis (caseous necrosis = mycobacterial infection)
+
+- Mechanism of granuloma accumulation not known: probably a reaction to one or more environmental antigens (mycobacteria or other bacteria, inert particles) in a predisposed genetic background.
+
+- Presence of CD4 T lymphocytes<sup>+</sup> in the organs but circulating CD4 T lymphopenia<sup>+</sup> (responsible for tuberculin anergy)

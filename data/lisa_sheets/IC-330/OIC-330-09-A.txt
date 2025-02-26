@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-330-09-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Rank=A
+|Title=Benzodiazepines: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=
+|Order=9}}
+See ITEM 74

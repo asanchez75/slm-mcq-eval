@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-206-02-A
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=A
+|Title=Knowing how to look for clinical and radiological signs of seriousness
+|Description=Look for polypnoea > 30/min, signs of struggle, vigilance disorders, signs of shock, right ventricular signs (item 359 and item 332).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+The signs of severity are essentially clinical and therefore the classic signs of poor respiratory tolerance: polypnoea > 30/min, signs of struggle, impaired alertness, signs of shock, signs of right ventricular failure (items 359 and 332).
+
+The signs on the chest X-ray are a deviation of the mediastinum, but these must be interpreted in the light of the clinical condition.

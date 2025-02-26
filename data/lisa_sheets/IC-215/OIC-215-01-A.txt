@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-215-01-A
+|Item_parent=Purpuras in adults and children
+|Item_parent_short=Purpuras in adults and children
+|Rank=A
+|Title=Knowing how to define and recognise purpura
+|Description=Semiological description (multimedia support in the questions vasculitis and thrombocytopenia (189 and 210)
+|Topic=Definition
+|Contributors=
+|Order=1}}
+Purpura ('''[[Purpura/ecchymosis/hematoma SD-089|purpura/ecchymosis/hematoma]]''')
+
+* red or purplish skin lesions
+* separated by an interval of healthy skin
+* do not disappear with vitro-pressure
+* associated with extravasation of blood into the dermis
+* variable in appearance: punctiform, "pinhead" (petechial purpura), in the form of linear streaks (vibices) or larger lesions (ecchymotic purpura).

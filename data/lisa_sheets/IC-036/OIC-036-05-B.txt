@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-036-05-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Know the mechanisms of action of estroprogestative, progestative, emergency and intrauterine contraception.
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Geneviève Plu-Bureau
+|Order=5}}
+
+
+== '''Mechanisms of action of COP''' ==
+'''- Anti-gonadotropic action'' of the progestogen compound principally (amplified by the estrogen suppressing the ovulatory LH peak and inhibiting follicular growth)
+
+'''- Change in cervical mucus''', thicker and less abundant (progestogen compound)
+
+'''- Atrophy of the endometrium'' making it more or less incapable of implantation (progestogen compound)
+
+== '''Mechanisms of action of progestin-only contraception''' ==
+'''- Modification of the cervical mucus'' (thick and therefore unsuitable for the passage of spermatozoa), hence the importance of continuous use. This is the main effect
+
+'''- Possible atrophy of the endometrium'', unsuitable for implantation (major for the levonorgestrel IUD)
+
+Reduced tubal mobility
+
+For desogestrel and drospirenone: ''antigonadotropic action,'' which varies from woman to woman
+
+== '''Mechanisms of action of copper intrauterine contraception''' ==
+Endometrial inflammatory reaction due to the presence of copper and probable direct sperm toxicity.
+
+== '''Mechanisms of action of emergency contraception''' ==
+
+=== Method using levonorgestrel ===
+o ''Interference with peak LH'' and inhibition of ovulation only if prescribed in the pre-ovulatory phase
+
+o '''delays or inhibits follicular growth'''
+
+=== Method using ulipristal acetate ===
+o '''inhibition of follicular growth'' in the first part of the cycle
+
+o '''delay or inhibition of the LH peak'''
+
+o ''delayed follicular rupture'' 3 to 5 days after intake, even after the LH peak
+
+=== Method using a copper IUD ====
+o '''direct toxic effect of copper on gametes'''
+
+o ''inflammatory'' action on the endometrium, making it unsuitable for implantation

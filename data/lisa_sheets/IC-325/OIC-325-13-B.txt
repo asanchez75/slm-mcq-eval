@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-325-13-B
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=B
+|Title=Know the objectives and principles of material vigilance (see item 181)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=13}}
+
+
+=Know the objectives and principles of materiovigilance=
+
+==Definition and objectives of materiovigilance===
+The aim of materiovigilance is to monitor incidents or risks of incidents resulting from the use of medical devices (MDs) after they have been placed on the market. It applies to all medical devices, regardless of their class or state of sterility.
+
+The aim of material vigilance is to ensure the safety of patients and users:
+
+*by monitoring medical devices after they have been placed on the market
+*preventing the (re)occurrence of incidents and risks of incidents involving medical devices
+*taking appropriate preventive and/or corrective action
+
+==Organisation of materiovigilance===
+Materiovigilance is organised at 3 levels: national, regional and local.
+
+===At national level, materiovigilance is the responsibility of the French National Agency for the Safety of Medicines and Health Products (ANSM). THE ANSM:===
+
+*records and investigates incidents and potential incidents reported to it
+*informs manufacturers and takes public health decisions if necessary, and informs the various parties involved
+* handles downstream alerts (batch withdrawals, safety information, etc.) from manufacturers
+* maintains its national register of local pharmacovigilance correspondents
+
+===Regional level, the regional materialovigilance coordinator. the CRMRV:===
+
+*ensures the regional assessment of material vigilance and reactovigilance reports
+*alerts the ANSM in the event of a potential signal constituting a threat to public health
+*coordinates and leads the regional network of local material vigilance correspondents (CLMV) and reactovigilance correspondents (CLRV)
+*provides expertise and support to Regional Health Agencies, CLMVs and CLRVs, and healthcare professionals in the field of material vigilance
+*takes part in the ANSM's permanent scientific committee on material vigilance
+*leads or participates in investigations or work carried out by the ANSM
+
+===Local material safety correspondents. The CLMV:===
+
+*Report incidents related to a medical device
+*Raise awareness of material vigilance among users
+*Record and disseminate downstream alerts
+
+
+
+<br />

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-116-07-A
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=A
+|Title=Knowing the decision tree for the aetiological diagnosis of pruritus
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+
+[[File:Fig 3 Prurit algorithm.jpg|vignette|Etiological diagnosis of pruritus]]

@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-151-15-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing the immediate management of suspected meningitis
+|Description=None
+|Rubric=Management
+|Contributors=Dr Olivier Robineau
+|Order=15}}
+'''In the absence of any contraindication to LP:''''
+
+1) Emergency LP and blood cultures
+
+2) If CSF cloudy: dexametasone (DXM) + immediate antibiotic therapy
+
+3) If CSF is clear: wait for cytobiochemistry:
+
+a.    In favour of a bacterial cause: DXM+ antibiotic therapy
+
+b.    In favour of another cause: no treatment (except clear liquid meningoencephalitis)
+
+'''In case of contraindication to LP:'''
+
+1) blood cultures (40 to 60 mL: 2 to 3 pairs, if necessary on a single venipuncture)
+
+2) DXM + antibiotic therapy
+
+3) Cerebral scan if neurological contraindication to LP
+
+4) Correction of non-neurological contraindications to LP (haemodynamic instability, etc.)
+
+5) PL as soon as the contraindication is lifted
+
+In all cases'': adapt antibiotic therapy to microbiological results

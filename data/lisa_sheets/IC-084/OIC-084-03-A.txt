@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-084-03-A
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=A
+|Title=Knowing the risk factors for primary open-angle glaucoma
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+The pathophysiological mechanisms of optic neuropathy in primary open-angle glaucoma (POAG) are not yet fully understood. However, a number of factors associated with a high risk of developing glaucoma have been clearly identified:
+
+- Age: the prevalence of CAPM is less than 0.5% between the ages of 40 and 50, rising to around 10% after the age of 85;
+
+- ocular hypertonia: an increase in intraocular pressure (IOP) of more than two standard deviations (2.5 mmHg per standard deviation) from the statistically normal value (15.5 mmHg) is a risk factor but not the cause of POAG;
+
+- family history: a direct family history confers a 3-fold increased risk of developing GPAO in offspring. Genes have been identified but their research has no clinical application for the moment;
+
+- ethnicity: melanoderma patients, mainly black people of African origin, have a 3 times higher risk of developing GPAO than other ethnic groups;
+
+- myopia: myopia of any degree triples the risk of developing GPAO.
+
+Other risk factors such as diabetes and cardiovascular disease have been described, but with much less evidence than those listed above.

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-109-03-B
+|Item_parent=Gait and balance disorders
+|Item_parent_short=Gait and balance disorders
+|Rank=B
+|Title=Knowing the scales for analysing balance and walking (clinical examination, diagnostic approach)
+|Description=Berg scales, 6-minute walking tests, etc.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+- Walking barefoot in an open corridor
+
+- Romberg test
+
+- Postural tests
+
+- Get up and go test
+
+- Frontal and sagittal posture
+
+.        6-minute walk test
+
+.        Functional ambulation classification (FAC)
+
+.        Berg equilibrium scale

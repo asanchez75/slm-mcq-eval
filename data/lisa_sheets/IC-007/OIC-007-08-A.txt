@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-007-08-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Title=Knowing the definitions of autonomy
+|Description=None
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=8}}
+The Greek etymology of autonomy is "autos" meaning "oneself" and "nomos" meaning "rule" or "law". Autonomy is the ability to define and follow one's own rules.
+
+*'''According to Tom Beauchamp and John Childress:''''
+
+Autonomy is one of the 4 major ethical principles, recalling the fundamental moral expectations of every human being, along with beneficence, non-maleficence and justice. These principles were conceptualised by Tom Beauchamp and John Childress in their book "Principles of Biomedical Ethics", published in the United States in 1979. According to this principle of autonomy, patients participate in the deliberation and decision-making process concerning their health. There is a rational dimension, which can be recognised by its regularity over time and by the fact that it can be debated on the basis of reliable information. Respecting this principle takes time (several consultations, for example) and can only be achieved through a [[Know the main principles of medical information 2C-007-DE-A02|information loyale]].
+
+*'''According to the Comité Consultatif National d'Éthique (CCNE):''''
+
+In its 2005 opinion No. 87 on "refusal of treatment and personal autonomy", the CCNE defined 3 levels of meaning of increasing complexity:
+
+- <u>Autonomy of action</u>: this dimension corresponds to the ability to "move in space by means of the forces with which one's body is endowed". It is a physical independence that enables people to move where they want, when they want, and therefore to adapt to life's situations and meet their needs. It means being able to carry out the acts and activities of daily life. From this point of view, technical aids to compensate for disability help to increase the independence of people who need them;
+
+- <u>Autonomy of thought</u>: this dimension corresponds to the ability to "conduct a coherent and considered argument" and therefore, from a medical point of view, for patients to exercise their critical faculties with regard to the information they are given. From this point of view, it is essential that patients are given clear, fair and accurate information. This autonomy contributes to good compliance with treatment, because it helps to ensure consistency between the objective we set ourselves (to remain in good health) and the means we use to achieve it (to reduce exposure to modifiable risk factors).
+
+- <u>Autonomy of will</u>: this dimension corresponds to "''suspending the impulsive spontaneity that mechanically determines one's action, in order to decide on the basis of a conscious and personalised resolution''. From this point of view, it involves a relationship with decision-making over a long period of time, and is reflected in the patient's ability to draw up a care plan. This is particularly important in the case of chronic illnesses, where the decision is constantly being reiterated.

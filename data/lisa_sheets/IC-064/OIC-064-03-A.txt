@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-064-03-A
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=A
+|Intitle=Knowing the definition of a bipolar depressive episode
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+''Bipolar depressive episode'': A depressive episode may occur in isolation or in the context of recurrent depressive disorder or bipolar disorder. It combines a loss of vital drive (overall reduction in drive, motor activity and intellectual processes: [[Asthenia SD-021|asthenia]] and psychomotor slowing) and a depressed mood (pessimistic view of the world and oneself). The term "characterised" means that it meets all the diagnostic criteria for a depressive episode and "bipolar" means that it occurs during the course of a bipolar disorder.

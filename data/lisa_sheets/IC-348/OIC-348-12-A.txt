@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-348-12-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing the main drugs or products responsible for ARF
+|Description=aminosides, cisplatin, anticalcineurins, PCI...and the principles of preventing their toxicity.
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=12}}
+
+==Toxic ARF: causes and management==
+The main drugs responsible for toxic ARF are (some examples):
+
+- Antibiotics: Aminosides (++), sulphonamides, antifungals: amphotericin B, antivirals (acyclovir)
+
+- Anti-cancer drugs: Cisplatin, methotrexate, protease inhibitors
+
+- '''[[AINS]]''''
+
+- Anticalcineurins: Ciclosporin, tacrolimus
+
+
+'''Preventive measures are essential'''
+
+*Risk situations: ''pre-existing chronic renal failure'', effective hypovolaemia (heart failure, cirrhosis, etc.), elderly subjects, diabetes, dehydration (''diuretics'', gastroenteritis, etc.).
+*Prevention of iodinated contrast nephropathy (ICN) in subjects at risk (the elderly, diabetics, cardiac patients, patients with severe renal insufficiency or myeloma, and those receiving arterial ICP) is based on the following:
+
+- prior discontinuation of NSAIDs and diuretics,'''''
+
+- l'''' adapted hydration'''''per os''' or by infusion of '''NaCL solution''' or '''isotonic sodium bicarbonate''' (1 ml/kg/h during the 12 h preceding the examination and the following 12 hours),
+
+- the use of low osmolarity or iso-osmolar PCI by limiting the volume administered.
+
+*Prevention of drug-induced nephrotoxicity: adapt drug dosage to renal function and, in the case of prolonged prescriptions, to residual plasma concentrations of the drug (e.g. aminoglycosides). Dehydration and the use of diuretics increase the risk of nephrotoxicity.
+*Prevention of drug-induced ARF: RAAS blockers (ACE inhibitors, ARB-2) and NSAIDs: increased risk in elderly patients and those at vascular risk (creatinine and kalaemia monitoring). Discontinue in cases of dehydration (+++).

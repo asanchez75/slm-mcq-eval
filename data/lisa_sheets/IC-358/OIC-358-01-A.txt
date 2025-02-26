@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-358-01-A
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=A
+|Intitle=Know the definition of acute pancreatitis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Definition:''' acute inflammation of the pancreas combining interstitial oedema and cytosteatonecrosis (necrosis of the pancreas and surrounding tissues).
+
+'''Mechanism:''' pancreatic autodigestion by proteolytic pancreatic enzymes.
+
+'''Two forms:'''
+
+* benign oedematous acute pancreatitis (AP) (80% of cases)
+* severe necrotising AP (20% of cases): 1 or more organ failures and/or local complications (necrosis, abscess, pseudocyst).
+
+<br />

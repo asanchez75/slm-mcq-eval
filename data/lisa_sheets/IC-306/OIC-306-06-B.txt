@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-306-06-B
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=B
+|Title=Knowing the indications for laparoscopy
+|Description=Strategy for the use of laparoscopy in the initial diagnostic work-up of a suspected ovarian mass.
+|Rubric=Diagnosis
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=6}}
+Ovarian cancer is one of the few cancers whose diagnosis is not usually known prior to surgery. For this reason, laparoscopy is essential and recommended to establish the diagnosis and complete the extension work-up by assessing peritoneal carcinosis.
+
+'''Laparoscopy for diagnostic, prognostic and staging purposes = key element of the initial work-up:'''
+
+- Obtaining a histological diagnosis :
+
+In case of carcinosis: ''biopsy'' of carcinosis nodules
+
+In the absence of carcinosis: adnexectomy and peritoneal cytology
+
+- Accurate assessment of peritoneal carcinosis by laparoscopy to evaluate the risk of non-resectability in primary or interval surgery: peritoneal carcinosis scores
+
+- Laparoscopy for staging purposes
+
+
+'''Associated starting situations:''''
+
+239. [Preoperative explanation and consent for an invasive diagnostic or therapeutic procedure SD-239|Preoperative explanation and consent for an invasive diagnostic or therapeutic procedure
+
+300 [[Pre-anaesthetic consultation SD-300|Pre-anaesthetic consultation]]
+
+352. [Explaining a treatment to a patient (adult/child/adolescent) SD-352|Explaining a treatment to a patient (adult/child/adolescent)]]

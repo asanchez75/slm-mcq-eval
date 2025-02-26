@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-347-02-B
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=B
+|Title=Knowing the pathophysiology of acute urinary retention
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Jonathan Olivier
+|Order=2}}
+
+*Normal micturition requires:
+**a voluntarily opening bladder neck
+**an un-narrowed urethra
+**a bladder that contracts thanks to the detrusor muscle
+**a nervous system that allows simultaneous detrusor contraction and sphincter relaxation.
+
+*Acute retention of urine can therefore be caused by :
+**mechanical obstruction
+**abnormal detrusor contraction

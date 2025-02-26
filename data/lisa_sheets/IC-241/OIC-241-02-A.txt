@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-241-02-A
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=A
+|Title=Knowing the indications for imaging examinations for goitre and nodules
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Eva Feigerlova,Camille Buffet,Stéphanie Espiard,Arnaud Jannin
+|Order=2}}
+
+To explore a thyroid nodule and/or goitre, the following imaging examinations are recommended depending on the context. [Reasoned request/prescription and choice of diagnostic examination SD-178]]:
+
+1. ''''' Thyroid ultrasound''''' is a first-line examination to look for nodular images, allowing :
+
+o Assess the volume of the thyroid gland and confirm the presence of a goitre;
+
+o Assess the thyroid parenchyma for signs of thyroiditis (hypoechoic parenchyma with varying degrees of hypervascularity),
+
+o Confirm the presence of nodules
+
+o Monitor the progress of one or more lesions
+
+2'''''. A cervico-thoracic CT scan''''' is indicated in cases of plunging goitre. It is used to assess the endothoracic extension and/or tracheal impact of a goitre.
+
+3. Thyroid scintigraphy'' is an examination indicated for the aetiology of hyperthyroidism. [Hyperthyroidism
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-159-06-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the clinical presentation of primary tuberculosis infection
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=6}}
+
+'''Summary: the body's first contact with a mycobacterium, usually asymptomatic.'''
+
+Primary tuberculosis infection is the result of the body's first contact with a mycobacterium of the tuberculosis complex. It is usually latent, meaning that there are no clinical or radiological signs, and only immunological tests are positive.
+
+The disease may also progress to the appearance of radiological signs and symptoms. This progression to full-blown disease is particularly common in young children and immunocompromised individuals. It can occur very rapidly, in the weeks following infection, and lead to disseminated forms (miliary or meningitis).

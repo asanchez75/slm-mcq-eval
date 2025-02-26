@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-055-01-A
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=A
+|Title=Knowing the normal psychomotor development of infants (3 weeks - 2 years)
+|Description=None
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame,Sylvie Nguyen Le Tich
+|Order=1}}
+
+Children's development is the result of interactions between their individual characteristics and their environment. Acquisitions'' in different areas such as language, motor skills, reasoning and socialisation are independent of formalised teaching (school), unlike ''learning'' (reading, writing, arithmetic).
+
+==Main stages of normal motor development==
+
+*gradual disappearance of axial hypotonia and limb hypertonia
+*voluntary motor skills emerge
+*muscle tone and control progress in the cephalo-caudal and proximo-distal directions
+*archaic reflexes disappear before 6 months
+
+==Main acquisitions of the infant up to 2 years of age===
+The following table shows the main ''acquisitions of the infant up to 2 years'', taking into account the normal variability of development.
+{| class="wikitable"
+|Age
+|Gross motor skills
+|Fine motor skills
+|Communication
+|Language
+|-
+|0-3 months
+|Holds head
+|Follows an object
+|Smile-response-2 months
+|Vocalizes
+|-
+|3-6 months
+|Turns, crawls
+|Catches object
+|Smiles spontaneously; laughs at 4 months
+|Giggles
+|-
+|6-9 months
+|Sits without support, 4 legs
+|Puts object in mouth
+|Turns when called
+|Canonical babbling (bisyllables)
+|-
+|9-12 months
+|Walks while holding on, squats, bends over
+|Thumb/finger pinch
+|Communication gestures
+
+Proto-imperative scoring (request) then declarative (sharing)
+
+Fear of foreigners
+|Jargon
+|-
+|12-18 months
+|Walks without support, rolls a ball
+|Drinks from a cup
+|Makes requests
+|First words; 10 words by 15 months
+|-
+|18-24 months
+|Climbs stairs; walks backwards; runs
+|Stacks cubes
+
+Undresses
+|Imite
+|Lexical explosion
+
+Match two words
+|}

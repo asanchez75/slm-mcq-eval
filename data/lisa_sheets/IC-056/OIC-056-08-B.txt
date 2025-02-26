@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-056-08-B
+|Item_parent=The disabled child: orientation and care (see items 118, 121)
+|Item_parent_short=The disabled child: orientation and care (see items 118, 121)
+|Rank=B
+|Title=Knowing the aetiological approach to disability
+|Description=Know how to search for a cause of disability
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+An aetiological approach to be carried out in parallel with the implementation of treatment.
+
+Aetiological orientation is based on the systems affected (central or peripheral motor impairment, sensory impairment, cognitive impairment), the age of onset of the disorders (antenatal/neonatal/post-natal), and their course (stability, improvement, regression).
+
+A distinction must be made between genetic causes (malformations, chromosomal or gene abnormalities, etc.) and accidental causes (perinatal anoxia, cranial trauma, meningitis, etc.).
+
+Depending on the diagnostic hypotheses, brain imaging (MRI), genetic tests and electroencephalograms may be carried out.

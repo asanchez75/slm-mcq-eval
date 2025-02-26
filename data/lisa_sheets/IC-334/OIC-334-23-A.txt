@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-334-23-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to order additional tests to diagnose thoracic trauma
+|Description=Pleuropulmonary ultrasound, thoraco-abdominal CT scan with injection of contrast product, chest X-ray, electrocardiogram.
+|Rubric=Additional examinations
+|Contributors=
+|Order=23}}
+The decision tree for prescribing additional tests in the management of thoracic trauma is shown in figure 18.
+[[File:Item 334 Figure 18 Decision tree for prescribing additional tests in the management of thoracic trauma.jpg|vignette|Figure 18. Decision tree for prescribing additional tests in the management of thoracic trauma]]
+("''[[Chest trauma SD-177|chest trauma]]'''")("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]''''")

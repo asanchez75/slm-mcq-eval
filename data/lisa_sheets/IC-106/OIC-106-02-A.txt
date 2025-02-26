@@ -1,0 +1,11 @@
+See previous text{{knowledge objective
+|Identifiant=OIC-106-02-A
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=A
+|Intitle=Describing the clinical signs of Parkinson's disease
+|Description=Parkinson's triad
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Refer to previous text

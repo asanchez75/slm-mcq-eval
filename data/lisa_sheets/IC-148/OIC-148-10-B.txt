@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-148-10-B
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Nasosinus infections of adults and children
+|Rank=B
+|Title=Knowing the indication for imaging examinations for acute nasosinus infections in adults and children
+|Description=Identify situations requiring additional investigations (ethmoiditis in children or infants).
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+A sinus CT scan is systematically indicated in cases of suspected ethmoidal, frontal or sphenoidal sinusitis for diagnostic confirmation and to screen for complications.
+
+
+A sinus CT scan is not indicated for acute maxillary sinusitis unless there is a suspected complication, or more rarely if there is diagnostic doubt or antibiotic therapy has failed to confirm the diagnosis.
+
+If a dental cause is suspected, the dental examination is completed by a dental panoramic or a Dentascan.
+
+
+No imaging test is indicated for acute rhinopharyngitis or rhinitis.
+
+X-rays are never indicated in children if sinus infection is suspected. The CT scan must take into account the variations in pneumatisation of the sinus cavities with age.

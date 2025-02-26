@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-034-01-B
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=B
+|Title=Knowing the clinical elements of monitoring during the postnatal period
+|Description=Knowing how to monitor a patient following childbirth
+|Rubric=Screening
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=1}}
+
+The post-natal period begins 2 hours after childbirth and ends with the return from childbirth, approximately 6 weeks later (40 days) if the patient is not breastfeeding.
+
+The main post-partum maternal complications are haemorrhage (of uterine origin), infection (endometritis, urinary tract infection, breast infection, scar infection), thromboembolism and psychosis (item 67).
+
+
+The main clinical features to look out for are :
+
+- General signs: heart rate, BP, temperature, general condition and pain;
+
+- Breasts: tension, pain, cracks, signs of inflammation (item 33) ;
+
+- Involution of the uterine globe: height and consistency of the uterus ;
+
+- perineal healing ;
+
+- Lochia (bloody post-partum vaginal discharge): abundance, appearance, odour ;
+
+- Lower limbs: look for signs of phlebitis;
+
+- The urinary system: functional signs, appearance of urine, resumption of micturition;
+
+- After a caesarean section: scarring, pain, resumption of bowel movements, urination.
+
+
+34. [[Acute postoperative pain SD-034|Acute postoperative pain]] ; 44. [[Hyperthermia/fever SD-044|Hyperthermia/fever]]; 71. [[Pain in an extremity (upper or lower) SD-071|Pain in an extremity (upper or lower)]]; 99. [[Pelvic pain SD-099|Pelvic pain]]; 110. [[Abnormal genital bleeding (outside known pregnancy) SD-112|Abnormal genital bleeding in post-partum]].

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-335-17-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Know the definition of an orbital floor fracture
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=17}}
+The inferior wall of the orbit, or floor, which is schematically triangular in shape with an anterior base, is the wall most vulnerable to trauma due to its very thin thickness. Isolated fractures of the floor of the orbit can result from a direct, anteroposterior impact on the orbital rim ("stress" mechanism) or an impact on the eyeball ("hydraulic" mechanism). Depending on the displacement of the bone fragments and the resulting clinical signs, a distinction is usually made between two types of floor fracture: "blow-out" and "trapdoor" fracture.

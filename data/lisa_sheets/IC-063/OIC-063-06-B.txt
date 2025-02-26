@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-063-06-B
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=B
+|Title=Knowing the risk factors, prognosis and course of schizophrenia
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=6}}
+
+== Risk factors ==
+Factors which modify the level of risk, statistically associated with the occurrence of the disease.
+
+* Biological/genetic: male sex, family history, etc.
+* Pre- and perinatal factors: obstetric complications, starvation, folate deficiency, infection, stress, paternal age, born in winter or spring, etc.
+* Lifestyle factors: cannabis
+* Socio-economic factors: migration, job insecurity, stressful events, etc.
+* Environmental factors: being born and growing up in an urban environment.
+
+== Evolution
+Generally chronic, fluctuating with acute episodes
+
+Usually starts between the ages of 18 and 25
+
+== ''Prognosis'' ==
+5% of patients suffering from schizophrenia die by suicide.
+
+Complete remission in 20 to 25% of cases
+
+Preservation of a generally satisfactory quality of life, even if socio-professional functioning deteriorates most of the time
+
+Good prognostic factors: female gender, favourable environment, good pre-morbid functioning, late onset (after age 35), good awareness of the disorder, early management and good adherence to antipsychotic treatment.

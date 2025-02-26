@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-286-08-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Title=Know the main germs involved in food poisoning (Staphylococcus aureus, Clostridium perfringens, Salmonella, Campylopbacter, Escherichia Coli, Yersinia).
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+
+{| class="wikitable"
+|'''Germination'''
+|Incubation
+|'''''Mechanism/symptoms'''''
+|Food
+|-
+|'''''Salmonella'''''
+
+'''''enteritidis, typhi murium'''''
+
+'''''Salmonella typhi'''''
+|12-24 h
+
+
+
+
+
+7-14 days
+|Entero-invasive
+
+Dysenteric syndrome, fever (sepsis)
+|Meat, poultry, eggs, seafood, pastries, creams, undercooked foods
+|-
+|'''''Campylobacter jejuni'''''
+|2 to 3 days
+|Entero-invasive
+
+Diarrhoea with or without dysenteric syndrome, headache, myalgia, fever possible
+
+
+Frequent in cases of immunodepression, hypogammaglobulinemia
+|Dairy products, pastries, poultry
+|-
+|'''''Staphylococcus aureus'''''
+|2-4 h
+|Toxin
+
+Vomiting, abdominal pain, diarrhoea without fever
+|Dairy products, ready meals, inadequate refrigeration, preparer carrying the germ (panariasis)
+|-
+|'''''Clostridium perfringens'''''
+|8-24 h
+|Toxin
+
+abdominal pain, diarrhoea without fever, vomiting (rare)
+|Prepared dishes, insufficient cooking or refrigeration
+|-
+|'''''Bacillus cereus'''''
+|1-10 h
+|Toxin
+
+Vomiting, abdominal pain, diarrhoea without fever
+|Reheated prepared dishes, cooked rice++, etc.
+|-
+|'''''Yersinia'''''
+
+'''''enterocolitica, pseudotuberculosis'''''
+|7 days
+|Entero-invasive
+
+Diarrhoea with or without dysenteric syndrome, ileitis, erythema nodosum
+|Meat (pork), raw vegetables
+|}
+Norovirus (shellfish) is one of the most common causes of CFTI, with an incubation period of 24-48 hours, and a presentation of vomiting, abdominal pain and rarely febrile diarrhoea.
+
+Shigella", responsible for dysenteric syndrome, and "Vibrio cholerae", causing major watery secretory diarrhoea with a toxin mechanism, mainly affect developing countries. Diarrhoea associated with fever, especially if there are neurological disorders, on return from an endemic region, should rule out malaria. Traveller's diarrhoea/turista is frequently linked to Escherichia coli (enteroinvasive or enterotoxigenic strains), Salmonella, Norovirus and amoebae.

@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-263-08-B
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=B
+|Title=Diagnosis of renal artery stenosis
+|Angio-CT/MRI: number of renal arteries, location of stenoses, morphological study of the kidneys and the aorta (state of the wall) and the iliac axes;
+|Rubric=Positive diagnosis
+|Contributors=Jean-Jacques Boffa
+|Order=8}}
+
+Diagnostic tests
+{| class="wikitable"
+|'''Examination'''
+|'''Interest'''
+|Limitations
+|-
+|'''Renal ultrasound''''
+|Kidney size asymmetry
+|
+|-
+|Renal Artery Doppler
+|Easily available.
+
+Good sensitivity.
+
+Flow analysis (degree of stenosis).
+
+Measurement of resistance indexes (predictive of response to treatment).
+|Obese subjects.
+
+Radiologist's experience.
+|-
+|'''Spiral computed tomography''''
+|Direct visualisation of the renal arteries (trunk + dividing branches).
+
+Demonstration of calcifications.
+
+Good definition
+|Large quantities of iodinated contrast products (renal toxicity).
+
+Irradiation.
+|-
+|'''Angio-MRI''''
+|Direct visualisation of the renal arteries.
+
+No renal toxicity (gadolinium).
+|More restricted access.
+
+Overestimation of lesions.
+|-
+|Renal arteriography
+|Reference examination.
+
+Diagnostic and therapeutic interest.
+|Iodine injection (renal toxicity).
+
+Cholesterol crystal emboli.
+|}
+<br />

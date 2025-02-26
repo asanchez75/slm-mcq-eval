@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-345-04-A
+|Item_parent=Severe discomfort in infants and unexpected infant death
+|Item_parent_short=Severe discomfort in infants and unexpected infant death
+|Rank=A
+|Intitulé=Severe malaise in infancy: knowing the definition
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+Unexpected and sudden accident leading to changes in tone and/or colour with or without loss of consciousness.
+
+<br />

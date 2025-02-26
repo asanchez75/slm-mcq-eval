@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-044-10-A
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Knowing how to evoke adnexal torsion
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=10}}
+
+- Torsion of appendix
+
+It occurs mainly in heavy cysts (dermoid, mucinous), or cysts with a very fine pedicle (para-ovarian cyst). It may affect 5% of women consulting for acute pelvic pain.
+
+It may occur during pregnancy.
+
+Endometriotic cysts are the least frequently associated with adnexal torsion.
+
+- Adnexal torsion is achieved by torsion on the axis defined by the lumbo-ovarian ligament and the tubo-ovarian ligament. It may involve the tube and ovary, the ovary alone or, less frequently, the tube alone. Torsion is defined as a rotation of at least 1 turn of the adnexa. Ischaemia is a direct consequence of the number of turns of the adnexa and may progress to necrosis if left untreated. It is the consequence of the interruption of arterial flow. Necrosis will lead to loss of the ovary or adnexa and may reduce subsequent fertility in young patients ([[Difficulty in procreating SD-033|Difficulty in procreating]]).
+
+- The clinical picture is characteristic with acute pelvic pain ([[Pelvic pain SD-099|Pelvic pain]]): it is like a thunderclap in a serene sky. The abdomino-pelvic pain starts suddenly from one second to the next and does not subside, becoming worse. It is associated with vomiting and nausea. Often, episodes of subtorsion have preceded the acute event. Pain intensity is often very high (8 to 10 out of 10 on a simple numerical scale). The pain may radiate to the lumbar region.
+
+- Abdominal examination reveals a picture of abdomino-pelvic defence ([[Localised or generalised muscular contracture SD-029|Localised or generalised muscular contracture]]). The vaginal touch is extremely painful, particularly when the adnexa concerned is mobilised. There is no sign of infection, nor any sign that might suggest occlusion.
+
+- Ultrasound often shows a latero-uterine fluid image (adnexal mass, often cystic). Doppler may show cessation of vascularisation at the level of the utero-ovarian and infundibulo-pelvic pedicles, but this is an inconstant sign. The ovary may be ascended. Emergency surgery is required to untwist the ovary or adnexa and remove the cyst ([[Preoperative explanation and consent form for an invasive diagnostic or therapeutic procedure SD-239|Preoperative explanation and consent form for an invasive diagnostic or therapeutic procedure]]). It is important to be conservative in young women, even in the case of a late procedure and even if the appearance of the ovary is worrying. Late controls have shown recovery of subnormal function.
+
+Differential diagnosis of adnexal torsion :
+
+- Ectopic pregnancy (positive beta-hCG, haemoperitoneum)
+
+- Renal colic (red blood cells on urine dipstick, dilated pyelocalic cavities and no adnexal mass)
+
+- Intracystic haemorrhage
+
+- Fibroid necrobiosis
+
+- ...

@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-323-12-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of effect size
+|Description=Know the distinction between the significance of an effect and its size, know how to choose the right measure depending on the type of endpoint. Know how to interpret the effect size of a quantitative or qualitative criterion.
+|Rubric=Definition
+|Contributors=APNET,Jérôme Lambert (CIMES),David Hajage (CIMES),Alexandra Rouquette (CIMES)
+|Order=12}}
+
+'''Comparison of two (or more) groups of individuals in a sample'''
+
+*Purpose: to determine the existence and magnitude of a difference between groups (cf. effect size).
+*Risk: falsely asserting that the difference observed between the groups in the sample exists in the study's target population (cf. significance).
+
+'''Effect size'''
+
+It is generally expressed as a difference or ratio, may be absolute or relative, and depends on the nature of the assessment criterion being evaluated (qualitative, quantitative, censored data).
+
+The table below sets out the main measures of effect size, but is not exhaustive
+
+*See [[Crude or adjusted measures of association, difference of means, Absolute risk reduction (ARR), Relative risk reduction (RRR), Number needed to treat (NNT) and Crude incidence rate ratio 2C-020-DE-A08]].
+*cf. [[Odds ratio, relative risk: estimation 2C-020-DE-A09]]<br />
+
+{| class="wikitable"
+| colspan="4" |Table 1. Examples of effect size measures
+|-
+|Conditions of use
+|Parameter
+|Description
+|No effect value
+|-
+| rowspan="2" |'''Study of the relationship between 2 quantitative variables'''
+
+(e.g. the relationship between weight and height)
+
+|Linear correlation coefficient (r)
+|Takes on a value between -1 and 1.
+The closer to 1 (in absolute value) the relationship between the variables is linear (y = a x + b with a ≠ 0).
+|0
+|-
+|Coefficient of determination (r²)
+|Takes values between 0 and 1.
+Corresponds to the square of the correlation coefficient. Evaluates the proportion of the variability of one variable explained by the other.
+|0
+|-
+| rowspan="2" |'''Étude du lien entre 1 variable quantitative et 1 variable qualitative'' (ex: comparaison de l'âge entre les hommes et les femmes)
+|Average difference between the two groups
+|Difference in the value of the variable between the 2 groups (average age for men - for women)
+|0
+|-
+|Average difference between the two groups, related to the standard deviation (Cohen's coefficient).
+|Allows the observed difference to be interpreted in terms of the variability of the measurement
+|0
+|-
+| rowspan="2" |'''Study of the relationship between 2 qualitative variables'''
+(e.g. comparison of cancer risk according to exposure to tobacco)
+|Odds Ratio
+|Approximation of the relative risk, the more precise the rarer the event studied. This is the ratio of the odds of being sick or not sick according to the existence or absence of exposure.
+Always positive, < 1 if there is a protective factor, > 1 if there is a risk factor.
+|1
+
+|-
+|Relative risk
+|Ratio of the probability of being ill (or of the event studied) if exposed to the probability of being ill if not exposed.
+Always positive, < 1 if there is a protective factor, > 1 if there is a risk factor
+|1
+|-
+|'''Study of the link between a judgment criterion of the censored variable type and a qualitative or quantitative variable'''
+(e.g. comparison of survival according to two different treatments for pancreatic cancer)
+|Hazard Ratio
+|Ratio of the instantaneous risks of occurrence of the event of interest between exposed and non-exposed individuals. Interpreted as a relative risk.
+Always positive, < 1 if there is a protective factor, > 1 if there is a risk factor.
+|1
+|}
+'''Significance'''
+
+*Represents the probability that a difference as large as or larger than that observed will occur under the null hypothesis of no difference (see item 20).
+*Depends on the amplitude of the difference (called the effect size) and the variance of the measurement, and therefore the size of the sample (thus, a very small effect size, which is not clinically relevant, may be statistically significant if it is observed on a very large sample).

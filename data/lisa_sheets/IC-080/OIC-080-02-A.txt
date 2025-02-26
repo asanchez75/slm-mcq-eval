@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-080-02-A
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=A
+|Title=Knowing how a product is classified as doping, how a method is classified as doping.
+|Description=The products and methods considered to be doping substances are those on a list published annually by the World Anti-Doping Agency.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+'''Substances and methods used for doping purposes in sport'''
+
+'''The different substances'''
+
+* Products and methods considered to be doping substances are those on a list published annually by the World Anti-Doping Agency (WADA).
+* Some substances are banned permanently, others only during competitions.
+* The full list of banned substances is available on the AFLD website.
+* '''The exception to the rule''': the <u>Therapeutic Use Exemption</u> (TUE) procedure.
+** Allows athletes to undergo treatment with medication containing a prohibited substance.
+* Categorisation of different substances
+** Substances banned in and out of competition
+** Substances banned in competition
+** Substances banned in certain sports
+
+'''The main methods used for doping purposes'''
+
+* Handling blood or blood components
+* Chemical and physical manipulation
+* Genetic doping

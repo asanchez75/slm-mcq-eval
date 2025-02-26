@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-344-03-B
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=B
+|Title=Knowing the incidence and risk factors of pre-eclampsia
+|Description=Before and at the beginning of pregnancy to identify the risk factors for pre-eclampsia, genetic, immunological, physiological, maternal pathological, environmental and pregnancy-related factors.
+|Rubric=Epidemiology
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=3}}
+
+- Prevalence: 1 to 2% of pregnant women in our countries and up to 10% in developing countries.
+
+- Risk factors :
+
+o age <20 and >35
+
+o obesity
+
+o type 1 or type 2 diabetes
+
+o Chronic hypertension
+
+o Chronic kidney disease
+
+o Antiphospholipid syndrome
+
+o multiple pregnancy
+
+o personal and family history of pre-eclampsia,
+
+o hydatidiform mole
+
+o hydrops fetalis

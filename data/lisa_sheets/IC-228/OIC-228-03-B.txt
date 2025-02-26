@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-228-03-B
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=B
+|Title=Knowing the main pathophysiological mechanisms of arterial, venous and mixed leg ulcers
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=3}}
+
+
+==Venous ulcer ==
+Venous ulcers are caused by hyper-pressure of the skin due to venous stasis. This is generally secondary to a varicose disease [[Chronic venous insufficiency. Varicose veins|(incontinence of the superficial venous network]] or [[Post-thrombotic syndrome 2C-227-DE-A02|a post-thrombotic disease]] (devalvulation or occlusion of the deep venous network).
+
+This venous hyperpressure leads to tissue damage at the microcirculatory level with
+
+*Alteration of the endothelial barrier, with the passage of plasma, macromolecules and figurative elements from the blood into the interstitial sector,
+*leukocyte diapedesis leading to inflammatory phenomena,
+*formation of pericapillary fibrin mantles.
+
+This leads to local tissue hypoxia, which is the cause of chronic skin loss.
+
+==Arterial ulcer ==
+The arterial ulcer is secondary to ischaemic tissue hypoxia following [[Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms|severe ischaemia]] (at the stage of chronic critical ischaemia).
+
+== ''Mixed ulcer (ulcer with arterial component)'' ==
+This is an ulcer combining several aetiological components. For example, a venous ulcer which does not heal because of associated arterial disease.

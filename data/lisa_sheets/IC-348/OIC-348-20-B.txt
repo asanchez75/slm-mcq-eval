@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-348-20-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the indications for emergency dialysis
+|Description=Know that dialysis is required in cases of organic ARF, whether anuric or not, associated with signs of visceral failure (PAO) and metabolic failure (hyperkalaemic acidosis).
+|Rubric=Management
+|Contributors=Gabriel Choukroun, Bruno MOULIN
+|Order=20}}
+
+Dialysis is indicated as an emergency treatment in cases of life-threatening complications and when ARF is refractory to medical treatment:
+
+*''''[[Dyskalaemia SD-201|Hyperkalaemia]]'''' symptomatic (> 6.5 mmol/L),
+*'''[[Analysis of a blood gas result SD-192|Metabolic acidosis]]''' severe (pH < 7.15),
+*And/or ''[[pulmonary oedema]]''' resistant to diuretics,
+*Urea > 50 mmol/L,
+*Decreased diuresis SD-022|Oligo-anuria]'' for more than 72 hours.
+
+In anuric patients, complications such as hyperkalaemia, acidosis and hyperhydration can appear very quickly.

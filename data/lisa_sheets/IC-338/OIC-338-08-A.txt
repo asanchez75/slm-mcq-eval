@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-338-08-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Title=Know symptomatic treatment
+|Description=Know how to administer oxygen and start filling (item 359 and item 332)
+|Heading=Management
+|Contributors=
+|Order=8}}
+
+
+* anti-H1 antihistamines, active on the mucocutaneous symptoms of anaphylaxis

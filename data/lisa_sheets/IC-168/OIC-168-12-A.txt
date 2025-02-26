@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-168-12-A
+|Item_parent=Herpes virus infections in immunocompetent subjects
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Title=Photograph of a herpes labialis
+|Description=P-UE6-164-1
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+<gallery widths="300" heights="300">
+File:Photo 03 herpes labialis.jpg
+</gallery>

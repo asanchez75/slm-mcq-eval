@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-235-07-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Electrocardiogram (ECG) of acute pericarditis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Jennifer Cautela
+|Order=7}}
+
+[[File:Ecg typique.jpg|centré|vignette|900x900px|Sus décalage de ST, diffuse, non-systematisé, concave vers le haut, sans miroir ni onde Q ET sous décalage PQ]]

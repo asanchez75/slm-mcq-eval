@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-361-18-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Knowing the indication for imaging examinations for anteroinferior shoulder dislocation
+|Description=None
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=18}}
+
+'''Before reduction:'''
+
+An imaging examination will be systematically requested before any attempt at reduction.
+
+It should include a ''LAMY + GARTH'' frontal and lateral view (requiring no painful mobilisation for the patient).
+
+It confirms the diagnosis and classifies the dislocation according to the position of the humeral head (extra, sub or intracoracoid).
+
+It can also be used to look for an "associated fracture line" (humeral neck, major tubercle or glenoid).
+
+
+'''After reduction:'''
+
+An imaging examination will be systematically requested after reduction.
+
+It should include a frontal view and a LAMY + GARTH profile view (requiring no painful mobilisation for the patient).
+
+It allows you to "check the reduction".
+
+It can be used to ''detect a bone lesion that is more easily visible after reduction'' (humeral notch, inferior glenoid fracture, fracture of the major tubercle).
+
+A CT scan may be required to explore these associated bone lesions.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-224-08-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing the signs of secondary hypertension
+|Description=Know how to carry out a clinical examination and prescribe additional tests to suggest secondary hypertension.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+Secondary hypertension is suspected when :
+
+- initially severe hypertension (BP > 180/110 mmHg)
+
+- of hypertension before the age of 40
+
+- hypertension associated with hypokalaemia
+
+- suggestive clinical situations: resistant hypertension, disproportionate target organ damage in relation to the age of the hypertension.

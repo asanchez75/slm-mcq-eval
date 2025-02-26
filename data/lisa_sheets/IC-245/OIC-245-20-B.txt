@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-245-20-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the principles of prevention of acute adrenal insufficiency
+|Description=Therapeutic education, not stopping treatment
+|Rubric=Management
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=20}}
+
+
+* In the event of potential decompensation factors: increase hydrocortisone doses (see chapter on "Understanding the principles of pharmacological adaptation in acute adrenal insufficiency in the event of stress").
+
+<br />
+
+* Inform the attending physician:
+** increase hydrocortisone doses in case of intercurrent pathology
+** recognise acute adrenal insufficiency
+** start treatment at home before referring the patient to hospital.
+
+<br />
+
+* The emergency doctor or anaesthetist receiving a patient with adrenal insufficiency in a stressful situation must :
+** be aware of the risk of acute adrenal insufficiency
+** know how to prevent it: if oral treatment is impossible: hydrocortisone IM or IV: 25 mg every 6 hours or 100 mg continuous IV at SAP.
+
+<br />
+
+* In the event of surgery, the following may be offered:
+** 100 mg IV or IM initially ;
+** then, in the case of major surgery, 100 mg/24 hours continuous IV to the SAP until feeding is resumed;
+** then return to treatment with hydrocortisone "per os" by tripling the usual dose (minimum 60 mg per 24 hours in three or four doses (including one taken at night), then gradually reducing over a few days to the usual doses.
+
+<br />
+
+* In patients with primary adrenal insufficiency, fludrocortisone should not be increased.

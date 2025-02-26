@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-003-14-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing patients' representations, expectations, preferences and demands
+|Description=Knowledge, collection methods, factors to be taken into account (experiences, cultural and social context, field of possibilities, etc.).
+|Rubric=Management
+|Contributors=
+|Order=14}}
+ The management of a complaint expressed by the patient can be achieved at the cost of a '''negotiation''' around several dimensions for the patient:
+
+o Its ''expectations'': healing, reparation, etc.
+
+o Its r'''eprésentations'''
+
+o Its '''standards
+
+o Its '''information or knowledge'''

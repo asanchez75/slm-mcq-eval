@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-087-01-A
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=A
+|Title=Know the definition of epistaxis
+|Description=Definition
+|Rubric=Definition
+|Contributors=Geoffrey Mortuaire
+|Order=1}}
+
+Epistaxis SD-147|epistaxis]] is bleeding from the nasal or sinus cavities. It comes from a mucous or vascular lesion located between the nostril orifice and the nasopharynx.

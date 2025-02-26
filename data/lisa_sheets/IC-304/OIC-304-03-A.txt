@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-304-03-A
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=A
+|Title=To know the list of the main liver diseases that increase the risk of developing primary liver cancer at a later stage.
+|Description=cirrhosis, steatohepatitis
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+In France, ''primary liver cancers develop in the majority of cases (90%) from chronic liver disease''. The most common causes are hepatitis B virus, hepatitis C virus, excessive alcohol consumption and metabolic syndrome. The chronic liver disease underlying the cancer is most often at the stage of cirrhosis or advanced fibrosis, but HCC can occur in the absence of advanced fibrosis in cases of chronic hepatitis B or metabolic syndrome. The risk factors for HCC in patients with cirrhosis are male sex, advanced age, duration of cirrhosis, disease control, hepatitis B virus, and the combination of several causes of chronic liver disease (alcohol, hepatitis C virus, metabolic syndrome, etc.). The risk is higher in cases of chronic infection with the hepatitis B virus because of its direct carcinogenic action, linked to the integration of the virus into the hepatocyte genome.
+
+In patients with cirrhosis, the annual incidence of HCC is around 2-5%. The high risk of HCC associated with cirrhosis, the possibility of curative treatment when applied at an early stage of HCC, the poor prognosis in the case of advanced HCC, and the possibility of detecting HCC at an early stage by repeated ultrasound scans, justify a strategy of "biannual screening by liver ultrasound and serum AFP assay" in "patients with cirrhosis", to be adapted to the terrain (age, co-morbidities).
+
+If the cause of chronic liver disease is controlled, the risk of HCC decreases but persists. This justifies continued screening (e.g. cirrhotic patients cured of hepatitis C virus infection).
+
+Biannual screening for HCC is also indicated in patients infected with the hepatitis B virus without established cirrhosis, systematically if there is a first-degree family history of HCC, and conditional on age and sex in other cases.

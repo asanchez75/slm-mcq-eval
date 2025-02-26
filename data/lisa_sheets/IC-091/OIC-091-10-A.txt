@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-091-10-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Hierarchy of complementary non-radiological examinations for recent neurological deficit.
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=10}}
+Non-radiological examinations depend on the aetiological orientation: blood tests (infectious samples, muscle enzymes, toxic assays, etc.), ECG ([[Performing and interpreting an electrocardiogram (ecg) SD-185|Performing an electrocardiogram (ECG)]])...
+
+
+- Electromyogram (EMG) in cases of suspected damage to the peripheral nervous system (roots, plexuses, nerve trunk), neuromuscular junction or muscles.
+
+- EEG in case of suspected epileptic seizure.
+
+- '''Lumbar puncture for study of CSF''' ([[Analysis of cerebrospinal fluid (lcs) SD-183|Analysis of cerebrospinal fluid (CSF)]]):
+
+- if polyradiculoneuritis is suspected;
+
+- if an infectious or inflammatory process is suspected: this should be carried out after brain (or spinal cord) imaging, given the presence of a focal neurological deficit.

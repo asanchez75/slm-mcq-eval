@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-004-13-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the definition and rules of decontamination and sterilisation.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=13}}
+Decontamination: the first treatment to be carried out on objects and materials soiled by organic matter in order to reduce the micro-organism population and facilitate subsequent cleaning.
+
+Decontamination is also designed to protect staff when handling instruments, and to prevent contamination of the environment. (Guide pour la décontamination, le nettoyage et la stérilisation des instruments de chirurgie. AFNOR 1992)
+
+Sterilisation: the process of rendering a product sterile and packaging it so that it can be kept in this state for a defined period of time.
+
+The procedure consists of eliminating or killing all micro-organisms carried by contaminated inert media, the result being a state of sterility (AFNOR NF T 72-101).
+
+Note: the disinfection and sterilisation of reusable instruments (surgical equipment, fiberscopes) must comply with standards and a timetable defined by the manufacturers.

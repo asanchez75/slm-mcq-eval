@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-290-04-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing the most common cancers
+|Description=Lung, Colorectal, Breast, Prostate
+|Rubric=Epidemiology
+|Contributors=
+|Order=4}}
+Taking all sexes together, the most common cancers in France are breast, lung, prostate and colorectal.
+
+The most common cancer in men is prostate cancer.
+
+The most common cancer in women is breast cancer.

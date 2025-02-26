@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-016-09-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Intitulé=To know the "three components" of the offer of care
+|Description=To know that these three components are : Healthcare establishments, healthcare professionals and the biomedical industry. Know the difference between a bed and a place (term used for day hospitals). Understand the trends, with a fall in the number of full hospitalisation beds and an increase in the number of day hospital places.
+|Rubrique=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=9}}
+
+In France''', healthcare provision includes healthcare establishments, healthcare professionals and the biomedical industry''''
+
+The ''care providers'' include :
+
+- '''medical and pharmaceutical professions and medical auxiliaries''' with various statuses and modes of practice: self-employed, salaried or mixed''''.''''' In 2015, there were 1.9 million healthcare professionals working in France. According to the French Public Health Code (CSP), healthcare professionals fall into three categories:
+
+ü ''the medical professions'': doctors, midwives and odontologists (art. L4111-1 to L4163-10) ;
+
+ü ''Pharmacy professions'': dispensing pharmacists (practising in towns) and hospital pharmacists (art. L4211-1 to L4244-2);
+
+ü ''the professions of medical auxiliaries'' (nurses, masseur-physiotherapists, chiropodists, occupational therapists and psychomotor therapists, speech therapists and orthoptists, medical electroradiology manipulators and medical laboratory technicians, audioprosthetists, opticians, prosthetists and orthotists, dieticians), nurses' aides, nursery nurses, ambulance drivers and dental assistants (art. L4311-1 to L4394-4).
+
+Some professions have a codified practice decree containing a list of acts that the professionals concerned are authorised to perform: this is the case for nurses, masseur-physiotherapists, chiropodists, occupational therapists, psychomotor therapists, speech therapists, orthoptists and medical electroradiology manipulators.
+
+In addition, seven self-employed healthcare professionals (doctors, pharmacists, midwives, dental surgeons, nurses, masseur-physiotherapists and chiropodists) are members of a professional association. These orders are corporate bodies established by law. They not only represent the profession, but also provide a public service by helping to regulate the profession and acting as a disciplinary body for their members. Membership of the professional association is compulsory in order to practise.
+
+* health establishments covering different fields of activity (hospital, medical-social), with statuses that may be public or private, profit-making or non-profit-making;
+
+- '''Producers of healthcare goods and services''', such as the pharmaceutical industry, which obey market economic logics.
+----[[Knowing the ''three components'' of healthcare provision 2C-016-DE-B05#%20ftnref1|[1]]] <nowiki>https://drees.solidarites-sante.gouv.fr/publications-documents-de-reference/panoramas-de-la-drees/les-etablissements-de-sante-edition-2021</nowiki>

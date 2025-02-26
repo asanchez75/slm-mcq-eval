@@ -1,0 +1,160 @@
+{{knowledge objective
+|Identifiant=OIC-294-07-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing radiation-induced side effects
+|Description=Describe the different types of radiation-induced side effects.
+|Rubric=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=7}}
+
+<Their severity varies according to the organ irradiated, but they are becoming less frequent as irradiation techniques improve (''Table 1''). The main factor to consider is the limited tolerance of healthy organs located in the volume to be irradiated: most healthy tissues are damaged for a dose lower than that required to sterilise the tumour.
+
+==== A distinction is made between stochastic and deterministic effects, which are described in more detail below.====
+'''''2.4.1 Stochastic side effects'''''
+
+They are also called probabilistic: the probability of the effect occurring increases with the dose. The main ones are
+
+- '''carcinogenic effects:''' the (very low) risk of secondary cancer after radiotherapy appears to be directly related to the extent of irradiation and the associated therapies (chemotherapy);
+
+- '''genetic effects:''' they remain very theoretical in a radiotherapy context. The doses received by the gonads are often low, or even very low, because the volumes irradiated are at a distance. This genetic risk should only be taken into account when therapeutic irradiation delivers a dose of more than 0.5-1 Gy to the testicles or ovaries (lower than the doses that lead to castration).
+
+'''''2.4.2 Deterministic side effects'''''
+
+They all have one thing in common:
+
+- appear from a "threshold dose" (which varies according to the organ or tissue);
+
+- The higher the dose, the more severe the effects.
+
+These are tissue effects, with immediate or delayed clinical effects.
+
+A distinction must be made between ''early effects'' (transient and reversible) occurring during treatment and in the first 6 months thereafter and ''late effects'' (most often definitive) occurring after 6 months (Table 1).
+<br />
+{| class="wikitable"
+|
+{| class="wikitable"
+| colspan="3" |'''Table 1. DIFFERENTIATION BETWEEN EARLY AND LATE REACTIONS'''
+|-
+|'''Organ'''
+|'''Early reactions'''
+|'''Late reactions'''
+|-
+|'''Skin'''
+|Epilation Erythema
+
+Skin pigmentation Dry radiodermatitis Exudative radiodermatitis Radionecrosis of the skin
+|Skin atrophy
+
+Cutaneous-subcutaneous sclerosis
+
+Pigmentation disorders (hypo or hyper) Telangiectasia
+
+Radionecrosis Functional discomfort
+
+Secondary skin cancers
+|-
+|Lung
+|Edema and superinfection (bacterial, mycotic or viral)
+
+Clinical signs: cough, fever, dyspnoea
+|Interstitial fibrosis
+
+Retractile sclerosis +/- aspergillosis superinfection
+|-
+|'''Brain''''
+|edema
+
+Intracranial hypertension
+|Radiation encephalopathy with :
+
+- Drowsiness
+
+- Cognitive disorders
+
+- Memory problems
+
+- Hydrocephalus
+
+- Dementia
+
+- Radionecrosis
+|-
+|'''Spinal cord''''
+|Edema
+
+Lhermitte sign
+
+Brown-Sequard +/- complete
+|Radiation myelitis
+
+Brown-Séquard +/- complete
+|-
+| Nerves
+|-
+|Radicular plexitis with sensory and/or motor signs
+|-
+|Oesophagus
+|Dysphagia Nausea
+|Dysphagia Haemorrhage Ulceration
+|-
+|Heart
+|Acute pericarditis
+|Rhythm and conduction disorders Constrictive pericarditis
+
+Coronary artery stenosis
+|-
+|Pancreas
+|Nausea, vomiting Diarrhoea
+|-
+|-
+|Stomach
+|Nausea, vomiting
+|Bleeding
+|-
+|Liver
+|Hepatomegaly
+|Veno-occlusive disease
+|-
+|Intestine
+|Diarrhoea Meteorism Pain
+|Ulceration
+
+Stenosis of the wall Sclerosis of the wall
+|}
+<br />
+|}
+{| class="wikitable"
+|
+{| class="wikitable"
+|'''Kidney'''
+|-
+|Radiation nephropathy (hypertension, renal insufficiency, proteinuria)
+
+Chronic renal failure Hypertension due to renal artery stenosis Hydronephrosis
+
++/- retroperitoneal fibrosis
+|-
+|Bladder
+|Cystitis
+|Haematuria Bladder atrophy
+|-
+|Rectum
+|False Needs Fingerprints Tenesmus
+|Stenosis Rectorrhagia
+|-
+|ENT
+|Mucositis Epidermitis
+|Radicular larynx (dysphonia, dyspnoea) Asialia, pain
+
+Jabot, + ''cf''. skin
+
+Trismus, Osteo-radio-necrosis and fracture
+|-
+|'''Crystalline''''
+|-
+|Cataract
+|}
+<br />
+|}

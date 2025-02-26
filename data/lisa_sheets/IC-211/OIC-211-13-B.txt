@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-211-13-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing typical respiratory function test abnormalities
+|Description=Typical EFR abnormalities
+|Section=Additional tests
+|Contributors=
+|Order=13}}
+- Sometimes normal
+
+- Most frequent anomaly: diffusion disorder (lower carbon monoxide diffusion capacity (DLCO))
+
+- The following are possible: restrictive, obstructive (of various mechanisms) or mixed ventilatory disorders
+
+- Possibility of carrying out exercise tests such as the 6-minute walk test or the respiratory exercise test (VO2max).

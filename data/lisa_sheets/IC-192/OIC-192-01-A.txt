@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-192-01-A
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Title=Knowing the definition of autoimmunity
+|Description=General definition of autoimmunity
+|Rubric=Definition
+|Contributors=Amélie Servettaz
+|Order=1}}
+
+'''<big>Autoimmunity, i.e. the recognition of self antigens is a natural phenomenon.</big>''''
+
+<big>The absence of immune response to self antigens is called '''tolerance''' to self antigens and depends on several processes active in primary lymphoid organs (central tolerance), and secondary lymphoid organs (peripheral tolerance).</big>
+
+<big>''An autoimmune disease occurs when this tolerance is broken''. The body then triggers a deleterious adaptive immune response against one or more self antigens, resulting in a '''clinical symptomatology'''.</big>
+
+'''<big>The tissue damage and therefore the symptoms that result from an autoimmune response depend on the location of the autoantigen.</big>''''
+
+* <big>If it is confined within a tissue or organ, the clinical repercussions are limited to that tissue and the term '''organ-specific autoimmune disease''' is used.</big>
+* <big>if the autoantigen is widely distributed in the body, lesions are disseminated within different tissues and this is referred to as '''non-organ-specific or systemic autoimmune disease''</big>.

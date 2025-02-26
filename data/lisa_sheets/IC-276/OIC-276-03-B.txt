@@ -1,0 +1,90 @@
+{{knowledge objective
+|Identifiant=OIC-276-03-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Title=Know the diagnostic approach to hepatomegaly and an abdominal mass
+|Description=Orient the approach according to the diffuse/sectorial or homogeneous/heterogeneous nature of the HMG, recognise chronic liver disease and a hepatic tumour (benign or malignant).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''a.    Hepatomegaly''
+
+Abdominal ultrasound should be performed as the 1st<sup>line</sup>, possibly supplemented by a CT scan or MRI of the liver.
+
+In the event of hepatomegaly without focal lesions, primary liver disease (acute or chronic) must be suspected as a priority.
+
+The diagnostic approach is largely dependent on the clinical context. The main distinguishing features are summarised in Table 3.
+
+
+In the case of hepatomegaly with focal lesion(s), the approach is that of characterising hepatic lesions (benign, malignant or infectious tumours) (Table 4).
+
+In this case, the diagnostic approach is based on the context and the appearance of the lesions on imaging, which enables the lesions to be characterised in the majority of cases.
+
+
+'''b.    Abdominal mass
+
+The approach is based in the 1st<sup>rst</sup> place on the location of the mass, making it possible to suspect the organ affected. The challenge is then to confirm the nature of the mass.
+
+
+Table 3 Diagnostic approach to hepatomegaly without focal lesions
+{| class="wikitable"
+|Cause
+|'''Evocative signs'''
+|-
+|Steatosis
+|Alcohol, metabolic syndrome
+
+Hyperechoic liver parenchyma
+|-
+|Cirrhosis
+|Causes/risk factors for cirrhosis
+
+Signs of liver failure and/or portal hypertension
+
+Liver hard to palpate
+
+Liver with bumpy contours on ultrasound
+
+Diffuse or sectorial hepatomegaly, sometimes absent
+|-
+|Heart failure
+|Risk factors, known heart disease
+
+Signs of heart failure (dyspnoea, oedema of the lower limbs, hepato-jugular reflux, etc.)
+
+Dilated hepatic veins on imaging
+|-
+|Chronic cholestasis
+|Pruritus, jaundice
+
+Dilatation of the bile ducts
+|-
+|Tumour infiltration
+|Haemopathies (lymphoma), breast cancer (rare)
+
+Impaired general condition
+|-
+|Budd-Chiari syndrome
+|Ascites
+
+Hepatic veins not visualized on imaging
+|}
+''Table 4.'' Elements of orientation in case of hepatomegaly with focal lesion(s)
+{| class="wikitable"
+|Primary liver tumour
+|Underlying chronic liver disease (cirrhosis)
+
+Increase in alpha-fetoprotein
+|-
+|Secondary liver tumour
+|Known cancer context
+
+Clinical signs associated with primary cancer
+|-
+|Hepatic abscess
+|Septic syndrome
+|-
+|Parasitosis
+|Stays in endemic areas
+|}

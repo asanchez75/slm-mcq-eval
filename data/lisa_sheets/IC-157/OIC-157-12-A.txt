@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-157-12-A
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=A
+|Title=Know the general principles of the probabilistic therapeutic management of bacteremia/fungemia
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=12}}
+- Hospital admission essential
+
+- Antimicrobial = therapeutic emergency
+
+- Choice of antimicrobial: ''probabilistic depending on the suspected clinical route of entry''.
+
+- Parenteral antimicrobial initially
+
+- Bactericide or fungicide
+
+- Combinations (dual therapy) have limited indications, mainly to broaden the spectrum of treatments.
+
+- Antimicrobial treatment is secondarily adapted to :
+
+* Direct examination of blood cultures (Gram stain)
+* Species identification
+* Antibiotic susceptibility testing / antifungal susceptibility testing

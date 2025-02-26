@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-359-18-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing first aid for adults with inhaled foreign bodies
+|Description=Describe the measures to be implemented in an emergency: actions (LVAS, position, etc.) and manoeuvres (Heimlich), immediate monitoring measures, patient orientation, etc.
+|Rubric=Emergency identification
+|Contributors=Guillaume Carteaux
+|Order=18}}
+
+- If complete obstruction: open airway, Heimlich manoeuvre
+
+- If obstruction incomplete: sitting position, oxygen therapy, monitoring and referral depending on severity/suspected location of obstruction

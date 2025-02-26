@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-231-04-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Title=Identifying atrial hypertrophy
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=V Algalarrondo
+|Order=4}}''The normal P wave'' lasts less than 120ms and measures less than 2.5mm (0.25mV). As the sinus node is located at the top of the right atrium, the axis of the P wave is around 60° (activation of the atria from top to bottom and from right to left).
+
+Electrical ''right atrial hypertrophy'' results in a wide, sharp P wave. The amplitude of the P wave is greater than 2.5mm (0.25mV) in D II or greater than 2mm (0.2mV) in leads V1 and V2.
+
+Electrical ''left atrial hypertrophy'' is defined by a P wave lasting more than 110ms (in practice 120ms or 3mm). A negative component longer than 40ms (1mm) appears in V1.

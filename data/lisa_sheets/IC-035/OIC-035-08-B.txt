@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-035-08-B
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=B
+|Title=Know the main causes of primary amenorrhoea
+|Description=None
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=8}}
+
+Ovarian causes are distinguished from central causes (hypothalamic-pituitary) and anatomical causes. Pregnancy must also be ruled out!
+
+'''Ovarian causes:'''
+
+*Polycystic ovary syndrome
+* Premature ovarian failure (due to iatrogenic, genetic, autoimmune or idiopathic causes). Turner syndrome in particular.
+
+'''Anatomical causes:''''
+
+*The absence of a uterus and thus the ''[[Discovery of a malformation of the genital tract SD-105|discovery of a malformation of the genital tract]]''' is an obvious cause of primary amenorrhoea. In this case, it is important to distinguish between two main possible causes: Müllerian agenesis (Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome is the most famous) and a severe anomaly in biosynthesis or receptivity to androgens (androgen insensitivity syndrome with, in this case, a 46, XY karyotype).
+*Hymeneal imperforation, fusion of the labia and a vaginal septum also lead to primary amenorrhoea.
+
+
+'''Causes of hypothalamic-pituitary origin'''
+
+Amenorrhoea is associated with impuberty if the pathology is present before puberty.
+
+*Functional hypothalamic amenorrhoea (FHA) is diagnosed in a context of ''[[Slimming SD-017|amaigrissement]]'' ([[Eating disorders (anorexia or bulimia) SD-132|eating disorders (anorexia or bulimia)]]'', malnutrition, general illnesses (renal, cardiac, respiratory, tumour, absorption disorders, coeliac disease, Crohn's disease, etc.).).
+*congenital hypogonadotropic hypogonadism (with or without anosmia), often associated with more or less complete impuberty. Amenorrhoea associated with anosmia is known as Kallmann de Morsier syndrome.
+*hypothalamic-pituitary tumours or lesions (adenoma, craniopharyngioma, granuloma, hypophysitis, etc.).
+
+<br />

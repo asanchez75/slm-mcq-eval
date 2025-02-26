@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-179-11-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=A
+|Title=Knowing how to prevent foodborne infections
+|Description=None
+|Section=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Ordre=11}}
+'''Preventive measures outside the context of a TIAC''' :
+
+The preventive measures consist of applying scrupulous hygiene rules throughout the food preparation chain (source of food, transport, preparation), with staff education and the principle of moving forward in collective kitchens.
+
+Prevention also involves medical surveillance of staff and the exclusion of certain agents depending on the risk, as well as routine microbiological sampling in the catering sector.
+
+'''Preventive measures in the presence of a TIAC''' :
+
+Consignment of suspect foodstuffs
+
+Eviction of the source as soon as it is identified
+
+Suspension of catering activities at an establishment pending the results of the investigation

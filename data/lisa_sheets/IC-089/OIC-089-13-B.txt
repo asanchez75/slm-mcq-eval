@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-089-13-B
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=B
+|Title=Indication of imaging tests for MS in children
+|Description=Couple CT (temporal bone) - MRI (temporal bone + brain)
+|Section=Additional examinations
+|Contributors=Dr Damien Bonnard, Prof Virginie Escabasse, Prof Valérie Franco Vidal
+|Order=13}}
+Sensorineural hearing loss in children, and particularly severe or profound hearing loss, should be assessed by CT scan (thin sections of bone) + MRI (brain and bone). This assessment is for aetiological and pre-operative purposes for children being considered for a cochlear implant.
+
+*CT scan of the rocks: to look for malformations of the inner ear, morphological assessment of the middle ear.
+*MRI of the brain and rocks: to look for a cochleovestibular malformation, to look for agenesis of the auditory nerve, to look for other associated brain abnormalities.

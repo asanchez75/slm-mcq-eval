@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-299-06-B
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=B
+|Title=Knowing the imaging exploration strategy for adult intracranial tumours
+|Description= CT scans and MRI scans without and with injections can be used to suggest the diagnosis of a tumour, but MRI is more effective for diagnosis and preoperative assessment.
+|Rubric=Additional examinations
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=6}}
+
+'''In emergency: brain scan without and with injection +++'''
+
+- Easy access
+
+- Enables positive and differential diagnosis (e.g. intracerebral haematoma)
+
+'''Etiological diagnosis and treatment planning:''' '''MRI +++''''
+
+- Tumour characteristics: number; volume; circumscribed or diffuse morphology; intra or extra parenchymal location; topography (supra or infra tentorial, ventricles, cerebellum, trunk, etc.); nature of contrast (absent, intense, homogeneous, heterogeneous).
+
+- Consequences of the tumour: mass effect, oedema, hydrocephalus, commitment, etc.
+
+- Possibility of acquiring multimodal images, providing additional non-morphological information:
+
+o Diffusion sequence: abscess = hypersignal diffusion with restriction of the apparent diffusion coefficient; tumour = hyposignal diffusion without restriction of the apparent diffusion coefficient (as the pus is thick, the water molecules are not very mobile and do not diffuse).
+
+o Perfusion sequence: hyperperfusion in malignant tumours
+
+o Spectroscopy: metabolites suggestive of abscess or malignant tumour
+
+o Functional: localisation of functionally eloquent cortexes (language, motor skills) for preoperative mapping purposes
+
+- An aetiological hypothesis can often be formulated on the basis of these MRI findings, but no feature is absolutely pathognomonic, and only anatomopathological examination can ultimately provide a histological diagnosis of "certainty".

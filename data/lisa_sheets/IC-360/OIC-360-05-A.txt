@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-360-05-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Frontal radiograph of medium-abundance spontaneous pneumothorax
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Julien Poissy
+|Order=5}}
+
+<gallery widths="300" heights="300">
+File:PNO average abundance.jpg
+</gallery>Example of a complete right pneumothorax with hydro-aeric level, testifying to the presence of a fluid effusion associated with the gaseous effusion (note that the detachment is complete, over the entire height, but the lung is not completely retracted).
+
+<br /><gallery widths="300" heights="300">
+File:Right pneumothorax COPD.jpg
+</gallery>Example of a right pneumothorax in a COPD patient.

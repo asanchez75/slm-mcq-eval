@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-219-18-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Know the principles of treatment of martial deficiency in adults and children
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=18}}
+'''In adults'''
+
+The first step is to treat the cause of iron loss or malabsorption whenever possible. It is also important to ensure an adequate dietary intake of iron.
+
+The reference treatment is oral martial supplementation with iron salts, for a minimum of 3 months and up to 6 months. Treatment is discontinued once ferritin levels have returned to normal, and should not be checked before 3 months of treatment. Possible side-effects of oral iron treatment include black stools and digestive problems.
+
+Intravenous martial supplementation is indicated in cases where the oral form is contraindicated or intolerant, or where iron stocks need to be replenished rapidly.
+
+
+'''In children'''
+
+Curative treatment
+
+Treating the cause
+
+Correcting dietary errors
+
+Iron supplementation for 3 to 6 months.  Parents and children must be informed of the potential side effects: black stools, digestive problems.
+
+Preventive treatment
+
+* Systematic iron supplementation for premature babies and exclusively or predominantly breastfed infants after the age of 6 months;
+* consumption of at least three bottles of follow-on formula (700 ml per day) up to the age of 1 year;
+* consumption of growing-up milk until at least 3 years of age
+* consumption of two meat products a day as soon as growing-up milk is stopped. <ref>[https://www.pedia-univ.fr/deuxieme-cycle/referentiel/hematologie-cancerologie/anemie-pathologies-du-fer Chapter anaemia and iron pathologies.Paediatrics, 8th edition, by Grégoire Benoist, Antoine Bourrillon, Christophe Delacourt and Christèle Gras-Le Guen. Elsevier Masson SAS]</ref>

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-063-16-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Title=Knowing the indications for pharmacological treatment in the acute phase
+|Description=Refer to item 74
+|Heading=Management
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=16}}
+
+Psychotic symptoms leading to suffering and/or dysfunction in an important area of life and/or the need for hospitalisation.

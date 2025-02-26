@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-267-11-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the indications for prescribing a kalaemia test and the definition of hyperkalaemia
+|Description=None
+|Rubric=Definition
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=11}}
+
+'''1- Definition of hyperkalaemia:'''
+
+*Hyperkalaemia is defined as a plasma potassium concentration greater than 5.0 mmol/L.
+*False hyperkalaemia is due to the release of potassium from the intracellular compartment into the extracellular compartment in the sampling tube:
+**Haemolysis during laborious sampling with a tight tourniquet;
+**Late centrifugation of the tube (sampling at the patient's home);
+**Major hyperleukocytosis (> 100,000/mm3) or thrombocythemia (> 1,000,000/mm3).
+
+
+'''2- Measurement of blood kalaemia to check for hyperkalaemia:'''
+
+*IRC
+*CRL
+*Prescription and monitoring of drugs that alter potassium metabolism (renin-angiotensin system blockers (ACEI-AR2), potassium-sparing diuretics, NSAIDs, etc.).
+*Acute muscle disorder
+*Heart conduction and rhythm disorders
+*Shock
+*Loss of consciousness

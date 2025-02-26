@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-111-10-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing the hygiene and dietary advice to give an acne sufferer
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+-Avoid comedogenic cosmetics
+
+-Do not handle lesions
+
+-Apply the topical treatment all over the face and combine it with an emollient.
+
+-No benefit from antiseptics
+
+-No diet to follow
+
+-Photoprotection if cyclins or isotretinoin are prescribed
+
+<br />

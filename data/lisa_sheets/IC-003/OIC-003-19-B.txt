@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-003-19-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing problem solving with ICT
+|Description=Problem-solving methods and technical approaches to health and biomedical contexts (e.g. information indexing, storage and retrieval).
+|Rubric=Taking charge
+|Contributors=
+|Order=19}}
+Problem-solving methods and technical approaches to health and biomedical contexts (e.g. indexing, information storage and retrieval).

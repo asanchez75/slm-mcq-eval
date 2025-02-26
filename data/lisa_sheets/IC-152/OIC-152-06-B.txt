@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-152-06-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing heart disease at risk of group B IE
+|Description=None
+|Topic=Physiopathology
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=6}}
+Group B heart diseases are considered to be at intermediate risk of AR, lower than those in group A :
+{| class="wikitable"
+|+'''Table 4:''''Group B heart diseases
+|''''[[Valvulopathies]]''': aortic insufficiency, mitral insufficiency, aortic stenosis...
+|-
+|'''[[Valvulopathies|Mitral valve prolapse]]''''
+|-
+|'''[[Valvulopathies|Aortic bicuspidity]]''''
+|-
+|'''Non-cyanogenic congenital heart disease'' (except isolated atrial septal defect)
+|-
+|Obstructive hypertrophic cardiomyopathy'' (murmur on auscultation)
+|}
+<br />

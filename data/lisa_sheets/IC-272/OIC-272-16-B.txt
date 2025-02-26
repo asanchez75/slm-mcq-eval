@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-272-16-B
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=B
+|Title=Knowing the causes of gastritis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=16}}
+A) Gastritis:
+
+
+- The most common cause is gastritis linked to H.pylori. Most often chronic, gastritis can be acute in the case of a primary infection.
+
+- Chronic gastritis of immunological origin :
+
+1. autoimmune chronic atrophic gastritis or "Biermer's disease": this is common in elderly subjects and may occur earlier, particularly in a family or personal context of autoimmunity. The anatomopathological appearance is typical, with damage limited to the fundus, the antrum being normal. Anti-intrinsic factor and anti-parietal cell antibodies may be present in the blood. One of the possible consequences is vitamin B12 deficiency, which is poorly absorbed due to the absence of intrinsic factor (secreted by the fundic parietal cells; absorption of the vitamin B12-intrinsic factor complex in the terminal ileum), and requires lifelong supplementation to avoid macrocytic anaemia and serious neurological damage. Gastric fundic atrophy also leads to iron malabsorption in the duodenum as a result of gastric acid hyposecretion (reduction in parietal cell mass linked to glandular fundic atrophy). Anemia due to martial deficiency is a frequent reason for the discovery of this disease.
+
+2. lymphocytic gastritis, very rare
+
+3. eosinophilic gastritis isolated or as part of a hypereosinophilic syndrome, very rare
+
+4. granulomatous gastritis: the presence of granulomas is primarily suggestive of gastric involvement in Crohn's disease; it is also observed in all granulomatous diseases and in certain rare innate immune deficiencies.
+
+- Acute infectious gastritis, viral gastritis (with herpes virus in immunodeficient patients) or phlegmonous gastritis of bacterial origin are rare.
+
+B) Gastropathies
+
+
+Other forms of gastric disease are referred to as gastropathies, because they do not have an inflammatory infiltrate documented on the basis of anatomopathological analysis of biopsies. Even if these are not gastritis "stricto sensu", it is important to know the causes:
+
+
+Gastropathy:
+
+- medicinal: mainly gastritis linked to NSAIDs.
+
+- chemical (alcohol, or duodenogastric alkaline reflux)
+
+- portal hypertension: this is a congestive gastropathy with a mosaic appearance on endoscopy; it may be a sign of isolated portal hypertension with no associated oesophageal or gastric varices
+ 
+- hypertrophic, very rare
+
+<br />

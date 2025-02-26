@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-175-15-A
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=A
+|Title=Knowing the diagnostic approach to diarrhoea on return from travel
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel
+|Order=15}}
+
+1 ''Interrogatory''. The aim of the interview is to establish the nature of the trip (place of stay, duration, living conditions and date of return), the symptoms and current treatment.
+
+2. bacteriological examination of stools ("standard coproculture")
+
+3.     Parasitological examination of stools (3 samples taken at least 3-4 days apart)
+
+4.     '''Specific research''': cryptosporidia and anguillaria

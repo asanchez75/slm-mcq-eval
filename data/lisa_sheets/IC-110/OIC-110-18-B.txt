@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-110-18-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing the signs suggestive of obstructive sleep apnoea syndrome in children
+|Description=None
+|Rubric=Definition
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=18}}
+
+'''Nocturnal symptoms:''' snoring, mouth breathing, sweating, bed-wetting, restless sleep, waking up at night.
+
+Daytime symptoms: morning headache, mouth breathing, behavioural problems, learning difficulties, fatigue, drowsiness, reduced growth in height and weight.
+
+'''Risk factors:''' obesity, frequent upper respiratory infections, chronic respiratory disease, adeno-amygdala hypertrophy, African-American ethnicity, GERD, craniofacial malformations (trisomy 21, Pierre Robin syndrome, etc.), neuromuscular disease <br />.

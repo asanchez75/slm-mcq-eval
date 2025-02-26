@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-020-33-A
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=A
+|Title=Evaluation of decision-making input
+|Description=Predictive values, prevalence, pre-test and post-test probabilities, Fagan nomogram
+|Section=Definition
+|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Jérôme Lambert (CIMES)
+|Order=33}}
+
+'''Extrinsic properties of the test''': depend on the prevalence of the disease in the population studied.
+
+* <u>Positive predictive value (PPV)</u> of a test: probability of being ill if the test is positive.
+* <u>Negative predictive value (NPV)</u> of a test: probability of not being ill if the test is negative.
+
+'''Intrinsic properties of the test''': do not depend on the prevalence of the disease in the population studied.
+
+* <u>Sensitivity of a test (Se)</u>: probability of having a positive test if one is ill.
+* <u>Specificity of a test (Sp)</u>: probability of having a negative test if one is not ill.
+* <u>Positive likelihood ratio (PLR)</u>: ratio of the probability of the test being positive in a sick patient to the probability of the test being positive in a healthy patient.
+* <u>Negative likelihood ratio (NLR)</u>: ratio of the probability that the test is negative in a sick patient to the probability that the test is negative in a healthy patient.
+
+'''Assessment of the decision-making input'''
+
+* <u>Pre-test probability</u> that an individual is ill: formed a priori (implicitly from the subjective impression of the doctor or explicitly from the estimated prevalence of the disease or clinical prediction models).
+* <u>Post-test probability</u> that an individual is ill: probability revised a posteriori, based on the results of the test.
+* <u>Fagan's nomogram</u>: graphically indicates the post-test probability of being ill from the pre-test probability, the test result and the likelihood ratios corresponding to this result (a way of expressing the intrinsic performance of the test, calculated from its sensitivity and specificity).
+
+[[File:FigureFagan.jpg|thumbnail|Nomogram of Fagan]]
+<br />

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-344-10-B
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=B
+|Title=Knowing the principles of monitoring pre-eclampsia
+|Description=Need for close monitoring after extraction (OAP, HELLP, eclampsia), Short-term monitoring and/or prognosis, Monitoring immediately after birth and in the weeks that follow.
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=10}}
+Cf algorithm management principles

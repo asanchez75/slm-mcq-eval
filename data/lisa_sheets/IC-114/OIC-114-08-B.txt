@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-114-08-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Knowing the clinical signs of Kawasaki syndrome
+|Description=Terrain, fever, lymphadenopathy, characteristic involvement of the mucous membranes.
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=8}}
+Kawasaki syndrome is an acute cutaneous-systemic vasculitis mainly affecting
+
+children under the age of 5 but also, more rarely, adults, and is characterised by the association of
+
+at least 5 of the following 6 clinical signs:
+
+- high fever > 38.5°C plateauing for more than 5 days
+
+- bilateral conjunctivitis with eyelid oedema
+
+- cheilitis and an edematous tongue with a "raspberry" appearance
+
+- oedematous erythema of the extremities, often progressing to "glove finger" desquamation
+
+- exanthema, often morbilliform and/or in large sheets (polymorphous), which may extend to the perineum
+
+- adenopathy, particularly cervical adenopathy, often asymmetric
+
+This is a genuine diagnostic and therapeutic emergency because of the risk of coronary aneurysms.
+
+cf [[Infectious eruptive diseases: Kawasaki disease 2C-164-ET-A07|Febrile exanthemata in children]]

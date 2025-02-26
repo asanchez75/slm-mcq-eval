@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-166-10-B
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=B
+|Title=Knowing sampling techniques for the detection of influenza
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+- PCR ''Myxovirus influenzae (nasopharyngeal or deep swabs)''
+
+- Alternative detection of viral antigens by rapid diagnostic tests (Elisa, immunofluorescence): poor sensitivity
+
+- Serologies of no interest

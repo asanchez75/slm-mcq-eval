@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-015-04-B
+|Item_parent=Psychiatric care without consent
+|Item_parent_short=Psychiatric care without consent
+|Rank=B
+|Intitulé=Hospitalisation par ordonnance de placement provisoire : connaître la définition
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre Vidailhet
+|Order=4}}
+
+The provisional placement order (OPP) is a measure defined by articles 375 et seq. of the Civil Code relating to educational assistance.
+
+It allows an unemancipated minor to be "placed" with a person (a family member or a trustworthy third party) or in a structure that can provide reception and accommodation (e.g. a departmental child welfare service or a child psychiatry service for assessment and/or specialised care).

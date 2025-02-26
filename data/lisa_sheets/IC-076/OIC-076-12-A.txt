@@ -1,0 +1,124 @@
+{{knowledge objective
+|Identifiant=OIC-076-12-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Knowing the main general medical complications of alcohol consumption
+|Description=cf specialty references, possibly a summary table
+|Heading=Positive diagnosis
+|Contributors=
+|Order=12}}
+Alcohol is a risk factor for many diseases, in synergy with tobacco for cancer.
+{| class="wikitable"
+|Cancer
+|* Strong risk factor:
+
+- Cancer of the upper aerodigestive tract and squamous cell carcinoma of the oesophagus
+
+- Hepatocellular carcinoma
+
+<nowiki>*</nowiki> Moderate risk factor:
+
+- Colorectal cancer
+
+- Breast cancer
+|-
+|Digestive system
+|* Alcohol-related liver disease
+
+(symptomatic alcoholic hepatitis, steatotic hepatomegaly, cirrhosis)
+
+<nowiki>*</nowiki> Acute pancreatitis, chronic calcific pancreatitis
+
+<nowiki>*</nowiki> Gastroesophageal reflux disease, esophagitis, peptic ulcer disease
+
+<nowiki>*</nowiki> Motor diarrhea and/or diarrhea due to enterocyte damage
+|-
+|Nervous system
+|* Alcohol-related cognitive disorders, including severe cognitive disorders: Korsakoff's syndrome (favoured by vitamin B1 deficiency), alcoholic dementia
+
+* Deficiency and metabolic encephalopathies:
+
+- Gayet-Wernicke encephalopathy (favoured by vitamin B1 deficiency)
+
+- Osmotic demyelination syndrome (promoted by too rapid a correction of hyponatremia, malnutrition and alcohol abuse)
+
+<nowiki>*</nowiki> Hepatic encephalopathy
+
+<nowiki>*</nowiki> Cerebellar atrophy
+
+<nowiki>*</nowiki> Convulsive withdrawal seizures, epilepsy
+
+<nowiki>*</nowiki> Sensitivomotor polyneuropathies
+
+<nowiki>*</nowiki> Optic neuropathy (retro bulbar optic neuritis)
+
+<nowiki>*</nowiki> Trauma: cerebral haematomas ;
+
+* Cerebral or meningeal haemorrhage (high blood pressure)
+|-
+|Cardiovascular
+|* Arterial hypertension
+
+<nowiki>*</nowiki> Rhythm disorders
+
+<nowiki>*</nowiki> Cardiomyopathies, left heart failure
+|-
+|Rheumatological
+|* Necrosis of the femoral head
+
+<nowiki>*</nowiki> Osteoporosis, osteomalacia
+|-
+|Trauma
+|* Fractures, head trauma
+|-
+|Haematological
+|*Macrocytosis, anaemia, thrombocytopenia, leukopenia (by direct toxicity, linked to alcoholic liver disease or nutritional deficiencies).
+|-
+|Metabolic
+|* Hypoglycaemia, alcoholic ketoacidosis, glucose intolerance.
+
+<nowiki>*</nowiki> Denutrition, and risk of inappropriate renutrition syndrome
+
+<nowiki>*</nowiki> Hypertriglyceridemia
+
+<nowiki>*</nowiki> Hyperuricemia and gout
+
+<nowiki>*</nowiki> Ionic disorders:
+
+- Hypokalaemia (and risk of heart rhythm problems)
+
+- Hyponatremia (and risk of osmotic demyelination syndrome if corrected too quickly)
+|-
+|Dermatological
+|* Aggravation of psoriasis
+
+<nowiki>*</nowiki> Rhynophyma
+|-
+|Psychiatric
+|* Symptoms even characterized depressive episode, secondary anxiety disorders
+
+<nowiki>*</nowiki> Psychotic disorder induced by a psychoactive substance
+
+<nowiki>*</nowiki> Aggravation of pre-existing psychiatric disorders (personality disorders, depressive and anxiety disorders, chronic psychotic disorders)
+
+<nowiki>*</nowiki> Suicidal behaviour
+
+<nowiki>*</nowiki> Behavioural disorders, risk behaviour
+|-
+|Obstetrical
+|* Foetal alcohol syndrome and other foetal alcohol spectrum disorders (including isolated mental retardation)
+|-
+|Genital
+|* Sexual dysfunction
+|-
+|Infectious
+|*Infectious complications linked to associated risk behaviour (risky sexual behaviour, sharing of equipment in the event of associated use of other substances): viral hepatitis B and C, HIV, other STIs, etc.
+|}
+In all cases of alcohol misuse, look for
+
+- Clinical signs of liver disease, neurological including cognitive, functional ENT symptoms
+
+- Undernutrition
+
+- Risk factors for hepatitis or sexually transmitted diseases

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-004-14-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the rules for the use of antiseptics
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=14}}
+'''Cf. Item ''Know the rules of antisepsis'' above.'''
+
+Note: Antiseptics should not be used for disinfecting equipment. However, in certain situations it is recommended to use an alcoholic antiseptic for the aseptic handling of devices: disinfection of bladder catheter sampling sites, catheter injection sites, vascular access devices with valves, perfusion plugs, etc.''.
+
+''In these limited indications, the use of an antiseptic on the surface of a medical device may expose it to a risk of deterioration: the manufacturer's recommendations on compatibility should be followed''.
+
+
+Healthcare procedures can be classified according to their level of infectious risk. Three levels of infectious risk (low, intermediate and high) are identified according to the type of associated procedure (contact with healthy skin, superficially injured skin or mucous membranes, '''contact with a sterile body site).''' For procedures with a high risk of infection because they involve contact with a sterile body site, the equipment used must be single-use or sterilised, or failing that (where single-use or sterilisation is not possible) undergo high-level disinfection. All sterilisable equipment used in contact with a sterile body site must be sterilised (and not disinfected).
+
+<br />

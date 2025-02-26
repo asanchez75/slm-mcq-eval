@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-243-04-A
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=A
+|Title=Knowing the clinical signs of hypothyroidism
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Eva Feigerlova,Igor Tauveron,Stéphanie Espiard
+|Order=4}}
+
+<u>Frank clinical signs of hypothyroidism are currently rare because TSH measurement, which is often carried out, enables screening at stages that are often asymptomatic or only mildly symptomatic.</u>
+
+Clinical symptoms depend on the age and depth of the hypothyroidism.
+
+*'''Signs of hypometabolism''' with asthenia [[Asthenia SD-021]], bradycardia, constipation [[Constipation SD-001]]<nowiki/>somnolence, hypothermia with chilliness, modest weight gain.
+
+*'''More rarely:''' cutaneous and phanere involvement (paleness or carotidoderma, depilation), mucocutaneous myxedema (hands, face and ENT), muscular involvement (myalgia cramps) and endocrine repercussions (cycle disorders, libido disorders).
+
+[[File:Myxedematous infiltration.png|alt=Myxedematous infiltration|thumbnail|Myxedematous infiltration]]
+<references />

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-168-03-B
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=B
+|Title=Knowing the main viral characteristics and the immune response to herpes virus infections
+|Description=DNA enveloped
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+Herpes viruses are DNA-enveloped viruses, of which there are more than 80, 8 of which are pathogenic for humans.
+
+Viruses HSV-1 and -2 (herpes simplex virus 1 and 2), CMV (cytomegalovirus), EBV (Epstein Barr virus), VZV (varicella zoster virus), human herpes virus (HHV-6,-7,-8).
+
+Infection is controlled by cell-mediated immunity: serious infections when this immunity is deficient (AIDS, transplant patients or immunosuppressive treatment).

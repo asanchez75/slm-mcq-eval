@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-016-17-A
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the healthcare system. Its regulation. Indicators. Care pathways
+|Rank=A
+|Intitulé=Connaître l'assurance maladie obligatoire (protection universelle maladie (PUMA))
+|Description=Knowing compulsory health insurance (universal health protection PUMA). Know that it is designed to reduce social inequalities in access to healthcare. Do not confuse compulsory health insurance (AMO), known as PUMA since 2016, with supplementary health insurance. How the PUMA is set up (who, how?) Access to AME (Aide Médicale d'Etat)
+|Rubrique=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=17}}
+
+In fact, '''recent policies''' aimed at '''reducing inequalities in health in France''' have most often focused on access to care, either through compulsory health insurance (basic universal health cover [CMU] replaced ...) or through health insurance.
+
+
+The ''protection universelle maladie (PUMa)'' covers the health costs of anyone working or residing in France on a stable and regular basis. As a result, the conditions for entitlement have been simplified:
+
+- employees (and those in a similar position) are no longer required to provide proof of a minimum level of activity, only that they are in employment;
+
+- self-employed workers (craftsmen, shopkeepers, self-employed professionals, etc.) are also entitled to cover their healthcare costs from the start of their professional activity.
+
+People who are not in employment are covered for their healthcare costs solely on the basis of their stable and regular residence in France.
+
+The ''protection universelle maladie'' (universal health protection) replaced the basic couverture maladie universelle (CMU) (universal health cover), which was designed to extend health insurance rights to people residing in France on a stable and regular basis who were not covered by any compulsory health insurance scheme.
+
+Its objectives are as follows:
+
+        '''- Simplifying the lives of insured persons''': since 2016, it has no longer been necessary to have worked sufficiently in order to benefit from entitlements, and in the absence of work, it is no longer necessary to be a beneficiary of an insured person or to apply each year for basic CMU. As a result, these administrative procedures - which could lead to a break in entitlement - are gradually being phased out. Only minors will continue to have "ayant droit" status.
+
+        - '''Ensuring continuity of entitlement to healthcare costs.'''
+
+        - '''Reduce administrative procedures to the strict minimum.'''
+
+        - Guarantee greater autonomy and confidentiality for all policyholders in the management of their healthcare costs.
+
+If you are moving abroad, a "declaration of transfer of residence outside France" form is available online and should be sent to your primary health insurance fund.
+
+'''Aide médicale de l'État (AME) may be granted to persons of foreign nationality''' in an irregular situation (without a residence permit or application receipt) residing in France on a stable basis for more than 3 months and subject to meeting the means test[1].par la '''Protection Universelle Maladie en 2016 (PUMa)''', aide médicale de l'État [AME]).
+----[1] <nowiki>https://www.service-public.fr/particuliers/vosdroits/F3079#:~:text=demand%C3%A9%20chaque%20ann%C3%A9e.-,Conditions,ne%20d%C3%A9passant%20pas%20certains%20plafonds</nowiki>.

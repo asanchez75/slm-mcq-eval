@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-132-01-A
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=A
+|Title=Know the definition of a neuro-cognitive disorder.
+|Description=DSM 5 definition
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''The DSM-5 definition distinguishes between minor (mild) and major neuro-cognitive disorders according to their impact on the patient's functional independence.'''
+
+'''Minor cognitive impairment'''
+
+A. Presence of moderate cognitive decline from a previous level of performance in one or more domains of cognition (complex attention, executive functions, learning and memory, language, perceptual-motor or social cognition) based on :
+
+B. ''Cognitive deficits do not interfere with autonomy in daily life'' (i.e. instrumental activities of daily living (IADLs) such as paying bills or taking medication are preserved, but require greater effort, compensatory strategies or adjustment).
+
+C. Cognitive deficits do not only occur in the context of delirium (confusional syndrome in French terminology).
+
+D. Cognitive deficits are not better explained by another mental disorder (e.g. major depressive episode, schizophrenia).
+
+
+'''Major neurocognitive disorder'''
+
+A. Presence of significant cognitive decline from a previous level of performance in one or more domains of cognition (complex attention, executive functions, learning and memory, language, perceptual-motor or social cognition) based on :
+
+B. ''Cognitive decline affects autonomy'' in daily activities (i.e. requires at least assistance with complex instrumental activities such as paying bills or managing medication).
+
+C. Cognitive deficits do not only occur in the context of delirium (confusional syndrome in French terminology).
+
+D. Cognitive deficits are not better explained by another mental disorder (e.g. major depressive episode, schizophrenia).

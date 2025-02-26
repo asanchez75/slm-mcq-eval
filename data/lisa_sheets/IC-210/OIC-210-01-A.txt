@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-210-01-A
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=A
+|Title=Know the definition of diffuse interstitial lung disease (DIP), know the main categories of DIP.
+|Description=(of known cause and of unknown cause)
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''SDS :'''
+
+20 [[Discovery of pulmonary auscultation abnormalities SDD-020|discovery of pulmonary auscultation abnormalities]]
+
+160 [[Acute respiratory distress SD-160|acute respiratory distress]]
+
+162 [[Dyspnea SD-162|dyspnea]]
+
+167 [[Cough SD-167|cough]]
+
+192 [[Analysis of a blood gas result SD-192|analysis of a blood gas result]]
+
+238 [[Request and preparation for endoscopic examinations (bronchial, digestive) SD-238|request and preparation for endoscopic examinations (bronchial, digestive)]]
+
+239 [[Preoperative explanation and consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and consent for an invasive diagnostic or therapeutic procedure]]
+
+178 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]
+
+230 [[Writing a request for an imaging examination SD-230|writing a request for an imaging examination]]
+
+231 [[Request for an imaging examination SD-231|request for an imaging examination]]
+
+232 [[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]
+
+233 [[Identify/recognise the different imaging tests (type/window/sequences/incidences/injection) SDD-233|identify/recognise the different imaging tests (type/window/sequences/incidences/injection)]]
+
+251 [[Prescribing general or local corticosteroids SD-251|prescribing general or local corticosteroids]]
+
+279 [[Chronic disease follow-up consultation SD-279|chronic disease follow-up consultation]]
+
+327 [[Announcement of a diagnosis of serious illness to the patient and/or family SD-327|announcement of a diagnosis of serious illness to the patient and/or family]]
+
+328 [[Announcement of a chronic illness SD-328|announcement of a chronic illness]]
+
+337 [[Identifying, caring for and monitoring a palliative patient SD-337|identifying, caring for and monitoring a palliative patient]]
+
+355 [[Organisation of hospital discharge SD-355|organisation of hospital discharge]]
+
+Diffuse infiltrative/interstitial pneumonitis (DIP) refers to a large number of diseases of varying aetiologies that result in diffuse infiltrative abnormalities on lung parenchymal imaging. The thoracic CT scan plays a vital role in characterising the elementary radiological lesions and orienting the diagnosis.
+
+They can be acute, sub-acute or chronic.

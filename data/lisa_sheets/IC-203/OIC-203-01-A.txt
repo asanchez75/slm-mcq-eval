@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-203-01-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Know the definition of dyspnoea in general and inspiratory/expiratory dyspnoea in particular.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Definition: perception of uncomfortable or painful breathing experienced during various situations (rest or exercise) which do not usually cause any discomfort.
+
+*Inspiratory dyspnoea suggests pathology of the upper airways (supracarinal).
+*Expiratory dyspnoea points to bronchial pathology (COPD, asthma).
+*Dyspnoea at both times points to a number of other diagnoses (alveolar, vascular, neuromuscular pathologies, etc.).

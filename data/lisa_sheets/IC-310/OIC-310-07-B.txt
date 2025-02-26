@@ -1,0 +1,153 @@
+{{knowledge objective
+|Identifiant=OIC-310-07-B
+|Item_parent=Prostate tumours
+|Item_parent_short=Prostate tumours
+|Rank=B
+|Title=Knowing the main principles of the different treatments for localised prostate cancer
+|Description=Know the modality of abstention-surveillance in fragile patients, active surveillance and its benefit/risk ratio, radical prostatectomy and its benefit/risk ratio, external radiotherapy and its benefit/risk ratio, management by interstitial brachytherapy and its benefit/risk ratio, management by focused ultrasound and photodynamic therapy.
+|Rubric=Management
+|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU
+|Order=7}}
+
+==D'Amico classification==
+
+*In the majority of cases, prostate cancer is localised/locally advanced, i.e. confined to the prostate and not metastatic.
+*The treatment strategy at this stage is curative according to the D'Amico classification of risk groups (see indications at the end of this objective).
+*
+<u>To remember about the D'Amico classification</u>:
+
+-prognostic classification
+
+for localized or locally advanced but non-metastatic prostate cancer
+
+-based on 3 criteria: digital rectal examination, PSA level and ISUP group
+
+-3 risk groups (progression, recurrence)
+
+* low risk
+* intermediate risk
+* high risk
+
+D'Amico's prognostic group depends on: extension work-up, treatment
+
+'''D'Amico classification''''
+{| class="wikitable"
+|Low risk
+|PSA ≤ 10 ng/ml, and ISUP score 1, and clinical stage T1c or T2a
+|-
+|Intermediate risk
+|PSA between 10 and 20 ng/ml, or ISUP score 2 or 3, or clinical stage T2b
+|-
+|High risk
+|PSA > 20 ng/ml, or ISUP score > 3, or clinical stage T2c
+|}
+TIc: normal rectal examination
+
+T2a: abnormality of less than half a prostate lobe on digital rectal examination
+
+T2b: abnormality of more than half of a single prostate lobe on rectal examination
+
+T2c: abnormality of the 2 prostatic lobes on rectal examination
+<br />
+==Abstention-surveillance===
+
+*For frail patients with serious co-morbidities and limited life expectancy, abstention and monitoring is indicated.
+*Patients are treated symptomatically when clinical signs related to cancer appear (pain).<br /> Patients are treated symptomatically when clinical signs related to cancer appear (pain).<br /> Patients are treated symptomatically when clinical signs related to cancer appear (pain).
+
+==Active surveillance==
+
+*For low-risk cancers, it allows the complications of more invasive treatments (urinary incontinence, erectile dysfunction, digestive transit disorders, etc.) to be avoided without loss of chance.
+*Active surveillance involves performing PSA, TR, pelvic and prostate MRI and iterative biopsies to ensure that the disease is not progressing.
+*Invasive curative treatment is indicated if the cancer progresses.
+*Theoretical low risk of allowing aggressive cancer to progress.
+
+==Total prostatectomy==
+
+*This is a curative surgical treatment.
+*It involves total removal of the prostate and seminal vesicles.
+*It is performed all at once, without neo-adjuvant or adjuvant treatment.
+*Can be part of a multimodal treatment combining radiotherapy and hormone therapy for the most aggressive cancers.
+*Exposes the patient to the risk of immediate surgical complications: haemorrhage, lymphocele if lymph node dissection, rectal wound, urinary fistula, thrombo-embolism, infection, etc.
+*Exposes the patient to the risk of long-term functional complications.
+**Erectile dysfunction (most frequent complication)
+**Urinary incontinence (common after surgery but recovers in most cases)
+**Constant infertility and anejaculation
+**Stenosis of the urethrovesical anastomosis (rare)
+
+==External radiotherapy==
+
+* Irradiation of the prostate cavity for curative purposes and of the pelvic lymph nodes for high-risk cancers.
+* May be combined with temporary adjuvant hormone therapy (potentiation) see [[Cancer treatment: main modalities, therapeutic classes and their major complications. The multidisciplinary therapeutic decision and patient information]] (2C-294 03-A, 2C-294-12-A and 2C-294-16-B)
+* Treatment method very different from surgery with daily radiotherapy for 4-6 weeks.
+* Exposes the patient to the risk of increased lower urinary tract symptoms, haematuria and rectal bleeding during treatment.
+*Exposes the patient to the risk of distant functional and post-radiation complications:
+**Stenosis of the urethra
+**Radiation-induced cystitis/rectitis
+**Erectile dysfunction (most frequent complication)
+**Secondary cancer
+**Urination problems
+**Digestive transit disorders
+
+==Interstitial brachytherapy==
+
+*Permanent implantation of radioactive seeds into the prostate via the perineal route. Unlike external radiotherapy, it can be performed in a single session.
+*Treatment with the lowest risk of causing erectile dysfunction.
+*Side effects are identical to those of radiotherapy.
+
+==Focused ultrasound (HIFU)
+
+*Allows prostate tissue to be destroyed by ultrasound.
+*Low morbidity.
+*Treatment of the prostate can be partial or total, with the possibility of a second session if necessary.
+*The procedure is performed under general anaesthetic in a single session.
+*Endoureteral resection is often associated with the procedure to reduce the risk of acute urine retention and severe dysuria.
+*Is a first-line treatment currently being evaluated.
+
+==Dynamic phototherapy==
+
+*Treatment under evaluation, not feasible outside clinical trials.
+
+
+
+'''<u>The indications according to D'Amico's group (CC-AFU 2022-2024)</u>''''
+
+Patients must be informed of: treatment modalities and complications, benefits/risks of treatment
+
+All files must be presented to the oncology RCP.
+
+<u>-localised low risk</u>.
+
+Active surveillance is the recommended treatment
+
+The options are: total prostatectomy, radiotherapy, brachytherapy, etc.
+
+In clinical trials only: cryotherapy, HIFU
+
+Hormonal treatment alone: not recommended
+
+<u>-localised intermediate risk</u>.
+
+Total prostatectomy +/- curage
+
+Radiotherapy +/- hormone therapy 6 months
+
+Brachytherapy
+
+Active surveillance: in selected cases
+
+Cryotherapy and HIFU: clinical trials only
+
+Hormonal treatment alone: not recommended
+
+<u>-localised high-risk</u>
+
+Long-term hormone therapy (18-36 months) with pelvic radiotherapy
+
+Total prostatectomy with curage
+
+Cryotherapy and HIFU: not recommended
+
+
+For hormone therapy for prostate cancer see Cancer treatments: [[2C-294]]: (2C-294-03-A, 2C-294-12-A and 2C-294-16-B)
+
+<br />

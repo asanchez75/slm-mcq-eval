@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-165-05-A
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=A
+|Title=Knowing the clinical signs of mumps complications
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=5}}
+
+Complications of urinary tract infection are mainly related to neurological damage, but also to damage to the testicles, ovaries and pancreas.
+
+Meningitis/Encephalitis'': urlian meningitis may precede parotitis. Neurological signs are reported in around 10% of cases, and the outcome is often favourable.
+
+Other neurological manifestations: paralysis or deafness
+
+'''Orchitis''': testicular pain following enlargement due to inflammation. Rare progression to testicular atrophy (sterility).
+
+Pancreatitis: nausea and vomiting accompanied by sudden epigastric pain

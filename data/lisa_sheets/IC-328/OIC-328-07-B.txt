@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-328-07-B
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=B
+|Title=Know how to prescribe orthoses
+|Description=General information on prescribing small and large orthoses
+|Rubrique=Prise en charge
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=7}}
+
+- '''cf "Small and large equipment"''''

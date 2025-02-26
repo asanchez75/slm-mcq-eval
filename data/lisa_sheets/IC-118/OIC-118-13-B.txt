@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-118-13-B
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=B
+|Title=Knowing the principles and main means of assessing limitations in activity and participation.
+|Description=None
+|Heading=Positive diagnosis
+|Contributors=
+|Order=13}}
+- Activity limitation : Assessment by interview and clinical examination, using generic and/or specific scales (Rankin Scale, Barthel Index, Functional Independence Measure, IADL, AGGIR grid) ([[Progressive loss of autonomy SDD-031|31-progressive loss of autonomy]], [[Appearance of difficulty walking SDD-066|66-appearance of difficulty walking]], [[Management of a patient in prolonged decubitus SDD-276|279-management of a patient in prolonged decubitus]], [[Identify the consequences of a pathology/situation on maintaining a job SDD-316|316-identify the consequences of a pathology/situation on maintaining a job]] and using instrumental analysis. Evaluation in a real environment = ecological.
+
+- Restriction of participation = social impact of the disease ([[Situation of disability SDD-345|345-Situation of disability]]). Assessment mainly through questioning.
+
+- Assessment of quality of life using questionnaires and generic or specific scales.

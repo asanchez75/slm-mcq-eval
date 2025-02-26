@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-307-03-B
+|Item_parent=Primitive and secondary bone tumours
+|Item_parent_short=Primitive and secondary bone tumours
+|Rank=B
+|Title=Knowing the biological work-up to be carried out when a bone tumour is suspected
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=3}}
+Search for inflammatory syndrome ('''acute or chronic inflammatory syndrome'', '''elevation of C-reactive protein (CRP))''''
+
+Search for signs in favour of bone marrow invasion: anaemia, leucopenia, thrombocytopenia (''interpretation of the blood count'')
+
+Search for hypercalcaemia (''Dyscalcaemia'')
+
+Protein electrophoresis: ruling out multiple myeloma (''Interpretation of a myelogram, Analysis of serum protein electrophoresis)''

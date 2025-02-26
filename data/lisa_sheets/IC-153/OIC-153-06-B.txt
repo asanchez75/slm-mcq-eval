@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-153-06-B
+|Item_parent=Surveillance of wearers of valvular prostheses
+|Item_parent_short=Surveillance of wearers of valvular prostheses
+|Rank=B
+|Title=Know how to diagnose the removal of a prosthetic valve, including haemolysis.
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Thomas SENAGE
+|Order=6}}
+There are two main causes of prosthesis deinsertion:
+
+- In the event of early onset: loosening of the suture of the prosthesis or paravalvular leakage due to significant calcification
+
+- In the event of medium- or long-term onset: deleterious infective endocarditis, which should be systematically investigated
+
+
+The clinical picture varies, depending in particular on the severity of the induced regurgitation and the speed at which it develops. Disinsertion may be completely asymptomatic, or it may progress to a state of cardiogenic shock.
+
+
+Physical examination revealed a regurgitant murmur, diastolic at the aortic site in the case of a prosthesis in the aortic position, and systolic at the mitral site in the case of a prosthesis in the mitral position.
+
+'''The key examination is first and foremost TTE, generally supplemented by TEE.''' Colour Doppler can be used to identify a paraprosthetic leak, i.e. a leak between the prosthesis and the native valve annulus. Ultrasound is used to quantify the leak and assess its impact, particularly on the left ventricle.
+
+Blood cultures should be taken systematically to avoid ignoring infective endocarditis.
+
+From a biological point of view, there is generally an aspecific inflammatory syndrome and sometimes haemolysis. In the case of haemolysis, LDH is increased and haptoglobin is reduced. The presence of schizocytes indicates the mechanical origin of the anaemia.
+
+
+Management is complex. If the deinsertion is moderate, stable, asymptomatic and has no impact on the TTE, simple monitoring may suffice. In the event of complications, interventional or surgical management may be required.

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-241-06-A
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=A
+|Title=Knowing the complementary examinations to be carried out in the first instance in the presence of a goitre
+|Description=TSH, ultrasound...
+|Rubric= Complementary examinations
+|Contributors=Eva Feigerlova,Camille Buffet,Stéphanie Espiard,Arnaud Jannin
+|Order=6}}
+
+In order to assess a goitre, the complementary examinations, which are indicated as first-line treatment, include: [[Reasoned request/prescription and choice of a diagnostic examination SD-178]]
+
+1/ ''TSH measurement'' to assess thyroid function (eu, hypo or hyperthyroidism).  [Hypothyroidism [Hyperthyroidism
+
+2/ '''Thyroid ultrasound''' allows :
+
+- to assess the volume of the thyroid gland and confirm the presence of a goitre;
+
+- assess the thyroid parenchyma for signs of thyroiditis (hypoechoic parenchyma with varying degrees of hypervascularity)
+
+- confirm the presence of nodules
+
+- monitor the progress of one or more lesions
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

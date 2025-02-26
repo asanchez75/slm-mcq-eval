@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-151-05-B
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=B
+|Title=Knowing how to clinically suspect a cerebral abscess
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Olivier Robineau
+|Order=5}}
+The diagnosis of brain abscess is difficult to make on clinical grounds alone:
+
+Fever is inconstant
+
+The absence of meningeal syndrome is the rule, but headaches are frequent, sometimes associated with signs of intracranial hypertension.
+
+The progressive appearance of focal signs points to this diagnosis

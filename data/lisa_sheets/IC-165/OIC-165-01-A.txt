@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-165-01-A
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=A
+|Title=Know the definition of mumps
+|Description=None
+|Rubric=Definition
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=1}}
+
+The mumps virus is an RNA virus belonging to the '''''Paramyxoviridae''''' family and the "Rubulavirus" genus. The mumps virus causes an acute, contagious infection in children and young adults.

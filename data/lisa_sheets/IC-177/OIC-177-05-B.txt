@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-177-05-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the penicillins.
+|Description=Penicillin V, G, delayed form, amoxicillin, amoxicillin-clavulanic acid, oxacillin, cloxacillin
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=5}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|Penicillins G/V
+|<Late penicillins: primary, secondary or latent syphilis (excluding neurospyphilis), antibiotic prophylaxis of DHBN</nowiki>.
+
+-Oral penicillin V: Prophylaxis of pneumococcal infections in splenectomised patients
+
+-Penicillin G IV : Neurosyphilis
+|Hypersensitivity to penicillins or to one of the excipients
+|Streptococci, Corynebacterium diphteriae, Fusobacterium, Treponema
+|Allergic reactions
+
+
+Interactions: methotrexate
+<br />
+|-
+|'''Penicillins A (molecule: amoxicillin)''''
+|Acute streptococcal throat and pharyngitis, acute otitis media, acute maxillary sinusitis, pneumococcal pneumonia, acute exacerbation of chronic obstructive bronchitis, L. monocytogenes infections, penis-S meningococcal meningitis, penis-S pneumococcal meningitis, streptococcal and enterococcal penis-S endocarditis, prophylaxis of infective endocarditis, DHBN.
+|Hypersensitivity to penicillins or to one of the excipients, history of severe immediate hypersensitivity reaction to another beta-lactam.
+|Demo penicillin G and: peni-S pneumococci, beta-haemolytic streptococci, Enterococcus faecalis, Listeria monocytogenes, N. meningitidis, Borrelia spp, group 0 and 1 Enterobacteriaceae.
+|Allergic reactions
+
+Diarrhoea, Nausea
+
+
+Interactions: probenecid, allopurinol, methotrexate
+|-
+|'''Penicillin A + beta-lactamase inhibitor (molecule: amoxicillin + clavulanic acid)''''
+|Acute exacerbation of chronic obstructive bronchitis, non-severe community-acquired pneumonia in the elderly or with co-morbidity(ies), stomatological infections, acute bacterial sinusitis, acute otitis media, gynaecological infections, DHBN after a bite or traumatic wound, etc.
+|Hypersensitivity to penicillins or to one of the excipients, history of severe immediate hypersensitivity reaction to another beta-lactam.
+|Demo penicillin A and: meti-S staphylococcus, penicillinase-producing H. influenzae, M. catarrhalis, E. coli and other penicillinase-producing Enterobacteriaceae (group 2), Gram-negative anaerobic bacilli ('Bacteroides fragilis').
+|Allergic reactions, diarrhoea, nausea, vomiting.
+
+Interactions; methotrexate, probébécide, mycophenolate mofetil
+|-
+|'''Penicillin M (molecules: oxacillin, cloxacillin)''''
+|Systemic infections (bacteremia, endocarditis, osteoarticular, respiratory, ENT, renal, urogenital) or skin infections with SAMS.
+|Hypersensitivity to penicillin M or to another beta-lactam antibiotic or to one of the excipients.
+|Staphylococci (''S. aureus'' and others) meti-S
+|Allergic reactions, diarrhoea, nausea, vomiting.
+
+
+Interactions : methotrexate
+|}
+DHBN, non-necrotizing bacterial demohypodermatitis; PSDP, penicillin-susceptible pneumococcus; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-susceptible Staphylococcus aureus; MVAP, ventilator-associated pneumonia.

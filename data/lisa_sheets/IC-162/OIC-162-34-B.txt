@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-162-34-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Know how to treat trichomoniasis, Chlamydia trachomatis and Neisseria gonorrheae infection.
+|Description=Molecules, patient and partner(s) simultaneously
+|Rubric=Management
+|Contributors=
+|Order=34}}
+'''Gonococcus''':
+
+- Uncomplicated infection: ceftriaxone single dose IM or IV 1000 mg
+
+- Systematic anti-chlamydia treatment: doxycycline 7 days
+
+- If β-lactam allergy: single dose of azithromycin or gentamycin or ciprofloxacin
+
+- In pregnant women: single dose of ceftriaxone or cefixime
+
+
+'''-''' Orchi-epididymitis: ceftriaxone single dose (IM or IV 1000 mg) or cefixime
+
+- Sepsis, endocarditis, meningitis, endometritis, salpingitis: ceftriaxone +/- hospitalisation
+
+
+Chlamydia:
+
+- Uncomplicated infection: Doxycycline per os 200mg for 7 days or azithromycin 1g single dose (risk of resistance to other microorganisms)
+
+- 2nd</sup> intention: erythromycin or ofloxacin
+
+- In pregnant women: single-dose azithromycin
+
+- Newborn: eyrthromycin (if pneumopathy or opthalmia)
+
+'''-'''' Orchi-epididymitis: doxycycline 10 days
+
+- Endometritis, salpingitis: doxycycline 14 days
+
+
+Trichomoniasis:
+
+- Metronidazole PO 2g single dose or 500 mg 2x/d 7 days or Secnidazole 2g single dose

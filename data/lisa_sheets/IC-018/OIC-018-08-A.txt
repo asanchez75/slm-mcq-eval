@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-018-08-A
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=A
+|Title=Understanding the place and implications of digital self-measurement in monitoring people's health
+|Description=None
+|Rubric=Management
+|Contributors=CIMES
+|Order=8}}
+
+
+==Definition of digital self-measurement===
+The use by patients of digital tools to capture, measure and record personal parameters of interest in the field of individual and/or public health. This is also known as "quantify self".
+
+Consists of a physical part (e.g. sensor, electronics) and a software part (information/signal processing).
+
+==Finalities of digital self-measurement== (in French)
+Examples of parameters available for self-measurement: weight, temperature, blood pressure, subject movement (number of steps), blood glucose, INR, blood oxygen pressure, images of areas of the body, etc.
+
+Possible purposes: screening, prevention, therapeutic education, monitoring or better understanding of a chronic or acute disease, or more generally of an aspect of health status. Self-measurement of targeted parameters is an essential tool for optimising the monitoring of certain diseases. This is the case, for example, with self-measurement of blood pressure to monitor hypertension, or blood sugar to monitor diabetes.
+
+Contributing to the patient's ''autonomisation'' and ''empowerment''. But beware of the risk of moving towards "self-management", leading to patient isolation.
+
+==Context of self-measurement==
+Constantly evolving field (technology, legislation, economics/reimbursement, medical interest) → keep up to date with developments on a regular basis → information watch required.
+
+Quality + reliability + good understanding of use by the patient are necessary (especially when used for medical purposes).
+
+Favour validated devices + advice from a healthcare professional to explain the operating principle and proper use in the medical context.
+
+One type of digital self-measurement may be of no interest in a given medical context, but may be relevant in another.
+
+The appropriateness of digital self-measurement is always assessed in the light of the medical context, but also with regard to the potential risks of misuse, the patient's abilities and their environment.
+
+The medical value of digital self-measurement must be based on the results of evaluations carried out as part of methodologically sound scientific studies.
+
+==Digital self-measurement data
+Generates sensitive personal data (societal, ethical, strategic, scientific and industrial issues).
+
+Automesure numérique contributes to the increase in digital health data (Big Data, advanced processing methods including AI).
+
+The function and data of a self-measurement device must be integrated into the information system (IS), which supports the patient management and monitoring processes.
+
+Problems encountered:
+
+*Metrological aspects: the quality of sensors and the data generated can vary depending on the manufacturer and version. Favour devices that have been validated and comply with technical quality standards (CE marking, DM "medical device" regulations).
+*Interoperability with healthcare professionals' business software.
+*Data heterogeneity, silo management of applications/devices → difficulty in managing data flows and obtaining a coherent view of measurements.
+*Interoperability and integration with software used by healthcare professionals.
+*Ethical aspects: on the professional side (being able to measure, ensuring the pace of data flow analysis) and on the patient side (long-term commitment).
+
+==Practical guidelines (non-exhaustive):==
+
+*Identify the target population for which a type of digital self-measurement is relevant.
+*Analyse the medical context, the needs and expectations of the stakeholders (healthcare professionals involved and the patient).
+*Assess usability in terms of the patient's specific context (medical, but also cultural, economic, cognitive, social, geographical or technical).
+*Be able to assess the qualities of a device in the light of available evaluations.
+*Have guarantees regarding data security and confidentiality.
+*Clearly establish with those involved: the patient's degree of autonomy and the transfer of care to a healthcare professional.
+*Provide patients with the information they need to accept and make proper use of the digital self-measurement device.
+*Consider the uses of self-measurement devices in medical practice, taking into account their adaptability.

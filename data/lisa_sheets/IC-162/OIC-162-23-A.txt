@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-162-23-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Knowing the clinical signs of early syphilis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=23}}
+Early syphilis :
+
+- Primary: variable duration (usually 21 days)
+
+- Chancre: single ++, clean, indurated, genital background ++, spontaneous regression<blockquote>o Caution: not all syphilitic chancres fully meet these criteria</blockquote>§ Syphilis must be suspected until proven otherwise in the presence of any ulceration of the genitals.
+
+- Satellite ADP: non-inflammatory
+
+
+- Secondary: duration <1 year
+
+- Syphilitic roseola: pinkish macules on the trunk, no other functional symptoms
+
+- Papular syphilis: copper-coloured papules, variable number and location
+
+- General and extracutaneous signs: fever, headache, poly-ADP, etc.
+
+
+- Early latent: asymptomatic

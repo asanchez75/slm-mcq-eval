@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-016-08-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Intitulé=To know the missions of the communes: Communal services of hygiene and health (drinking water)
+|Description=None
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=8}}
+
+The local authority is traditionally involved in health and social matters. The mayor has both general and special policing powers. In particular, he is responsible for enforcing the departmental health regulations within the municipality. The mayor is responsible for enforcing certain public health provisions within the ''communal health and hygiene services''[1]'''''':
+
+- Quality and protection of water intended for human consumption (drinking water and bottled water) ;
+
+- Quality of leisure and spa waters ;
+
+- Combating substandard and unfit housing ;
+
+- Health safety in establishments open to the public;
+
+- Urban planning, development and health
+
+- Quality of the outdoor environment (outdoor air, polluted sites and soils).
+
+
+Finally, the local authority is also responsible for setting up ''health and medical aid centres'' and even ''personal services'' (home delivery of meals and medicines), which are optional tasks for the Centres Communaux d'Action Sociale (CCAS).
+----[1] <nowiki>https://www.vie-publique.fr/sites/default/files/rapport/pdf/094000429.pdf</nowiki>

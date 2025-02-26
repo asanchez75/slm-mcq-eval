@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-219-08-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Photographs of nail abnormalities associated with iron deficiency
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[[File:Nails and iron deficiency.png|vignette|nails]]

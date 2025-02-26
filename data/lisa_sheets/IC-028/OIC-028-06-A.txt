@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-028-06-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Intitulé=Cystite aiguë gravidique : connaître le diagnostic clinique
+|Description=Knowing the clinical signs of acute gestational cystitis
+|Rubric=Clinical diagnosis
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=6}}
+
+
+The clinical diagnosis will be evoked:
+
+*in the presence of '''urinary functional signs: variable pollakiuria, [[Burning micturition SD-096|burning micturition]], pelvic heaviness, cloudy urine, [[Haematuria SD-102|haematuria]] possible, ± [[Uterine contraction in a pregnant woman SD-098|uterine contractions]];'''
+*in the absence of signs suggestive of pyelonephritis: apyrexia, absence of chills, absence of spontaneous lumbar pain, absence of pain on palpation of the lumbar fossae,
+*a [[SD-182 urine dipstick analysis|urinary dipstick]] with leucocytes and nitrites +/- haematuria
+
+cf Urology: Understanding the treatment and follow-up of urinary tract infections during pregnancy [[Understanding the treatment and follow-up of urinary tract infections during pregnancy 2C-161-PC-A04|2C-161-PC-A04]]

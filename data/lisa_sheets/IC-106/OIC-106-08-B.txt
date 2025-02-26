@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-106-08-B
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=B
+|Title=Knowing the different classes of anti-Parkinson drugs
+|Description=Dopathotherapy, dopaminergic agonists, enzyme inhibitors
+|Rubric=Management
+|Contributors=
+|Order=8}}
+
+
+= L-dopa =
+It is a precursor of dopamine (converted intracerebrally into dopamine by dopa decarboxylase [DDC]). A peripheral DDC inhibitor is always added to L-dopa in order to limit peripheral side effects ([[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], [[Discovery of arterial hypotension SD-043|orthostatic hypotension]]) (nausea, vomiting, discovery of hypotension). L-dopa combined with carbidopa or benserazide is absorbed from the intestine and is the most effective treatment for Parkinsonian symptoms and the best tolerated.
+
+= Dopamine agonists =
+Sustained-release dopamine agonists (pramipexole, ropinirole, rotigotine, piribedil) act directly on dopamine receptors without involving dopamine synthesis. Their action is slightly less powerful than that of L-dopa and they are less well tolerated (nausea, vomiting and orthostatic hypotension are more frequent) ([[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], [[Discovery of arterial hypotension SD-043|discovery of hypotension]]). In addition, behavioural disorders are observed in 20% of patients (impulse control disorders: pathological gambling, eating disorders, compulsive buying, hypersexuality, collecting, etc.) ([[Eating disorders (anorexia or bulimia) SD-132|eating disorders]], [[Sexual disorders and erectile dysfunction SD-063|sexual disorders and erectile dysfunction]]). They may also induce hallucinations ([[Hallucinations SD-122|hallucinations]]), daytime drowsiness, sometimes with the onset of sleep attacks (risk of accident at the wheel) ([[Sleep disorders, insomnia or hypersomnia SD-135|sleep disorders, insomnia or hypersomnia]]) and oedema of the lower limbs. Patients must be systematically informed of the risk of these disorders occurring, which are reversible when treatment is reduced or stopped ([[Explain treatment to the patient (adult/child/adolescent) SD-352|Explain treatment to the patient]]). The use of dopaminergic agonists in the early stages of the disease can temporarily delay the onset of motor complications. However, the side-effects mentioned above and insufficient control of motor signs by tolerated doses very frequently lead to the use of L-dopa in the early stages of the disease, especially in cases of motor disability and impairment of quality of life, which must be assessed on a case-by-case basis.
+
+= Monoamine oxidase inhibitors of the B type (MAOIs-B) = MAOIs-B have a moderate dopaminergic action by inhibiting the metabolism of dopamine.
+B-MAOIs have a moderate dopaminergic action through inhibition of dopamine metabolism.
+
+= Inhibitors of catechol-O-methyltransferase (ICOMT) =
+Inhibitors of catechol-O-methyltransferase (ICOMT) reduce the peripheral metabolism of L-dopa, thereby prolonging its action.
+
+= Amantadine =
+Molecule with anti-glutamatergic action, used in particular for the treatment of dyskinesias ([[Abnormal movements SD-126|abnormal movements]]).
+
+= Anticholinergics =
+Less prescribed because of their side-effects, they may be of interest in young patients with tremor ([[Tremor SD-128|tremor]]) despite well-administered dopaminergic treatment.

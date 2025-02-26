@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-233-08-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Know the principles of surgical treatment of MI, RA, IA, MR
+|Description=Plasty or valve replacement
+|Heading=Management
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=8}}
+
+*
+
+* '''Mitral insufficiency:'''
+** Mitral plastic surgery as first-line treatment if feasible (prolapse+++)
+** Mitral valve replacement by mechanical or biological prosthesis (> 65 years)
+
+* Aortic stenosis :
+** Aortic valve replacement with mechanical or biological prosthesis (> 65 years)
+
+* Aortic insufficiency :
+** Aortic valve replacement: mechanical, biological or homograft prosthesis '''(endocarditis)''''
+** Ascending aortic replacement : Bentall procedure combining valve replacement and replacement of the ascending aorta in a valved tube with reimplantation of the coronary arteries (valvular and aortic damage) or Tirone David procedure allowing conservation of the native aortic valve (predominant aortic dilatation).
+
+* Mitral narrowing:
+** Open or closed heart surgical commissurotomy (post-rheumatic): rare
+** Mitral valve replacement by mechanical or biological prosthesis.

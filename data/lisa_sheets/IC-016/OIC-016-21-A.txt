@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-016-21-A
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Parcours de soins
+|Item_parent_short=Organisation of the healthcare system. Its regulation. Indicators. Care pathways
+|Rank=A
+|Title=Knowing the basics of health information processing (coding, management, publication, evaluation)
+|Description=Health information management
+|Rubric=Definition
+|Contributors=CIMES
+|Order=21}}
+Health information in France is synthesised using a number of data collection systems, which since 2016 have been brought together under the '''système national des données de santé''' (snds).  It is made up of different data collection systems with different objectives.
+
+1) The national health insurance inter-regime information system (sniiram)
+
+The sniiram is an anonymous data warehouse containing information from reimbursements made by all health insurance schemes for care provided in the private sector (1.2 billion care sheets for the entire population living in France). Information about the beneficiary includes age, sex and place of residence (département and commune), as well as whether the beneficiary has universal health cover, a long-term illness (ALD) or an occupational disease and, where applicable, the date of death.
+
+The SNIIRAM contains information on the healthcare professionals who provided the care and, where applicable, the prescribers: age, sex and place of practice, as well as the specialty and mode of practice. In terms of healthcare consumption, the database contains the dates of treatment as well as the amounts reimbursed by the health insurance scheme and paid by the patient. It also includes "detailed coding of drugs dispensed, technical procedures performed by doctors, medical devices and biological samples".
+
+'''2) Le programme de médicalisation des systèmes d'information (PMSI)'''
+
+The PMSI provides a summary and standardised description of medical activity in healthcare establishments. It is based on the recording of standardised medico-administrative data in a standard data collection system.
+
+It comprises 4 "fields":
+
+- Medicine, surgery, obstetrics and dentistry (MCO);
+
+- Follow-up or rehabilitation care (SSR) ;
+
+- The new "psychiatry" system is known as RIM-Psy (Recueil d'Information Médicale en Psychiatrie);
+
+- This is known as "hospitalisation at home" (HAH).
+
+The main purpose of the PMSI is to analyse the medical activity of hospitals for budget allocation purposes. Under the PMSI, every stay in a healthcare establishment, whether public or private, is the subject of a systematic and minimal collection of administrative and medical information, which is used primarily for the financing of healthcare establishments (activity-based pricing) and for the organisation of healthcare provision (planning).
+
+'''When a doctor performs a medical procedure in hospital, he identifies it by a code:'''
+
+- the disease from which the patient suffers;
+
+'''- the medical act carried out to treat it'': diagnostic (e.g. CT scan) and therapeutic (e.g. surgery).
+
+'''Catalogues, known as nomenclatures, list each illness and medical procedure using codes and wordings'''.
+
+Example:
+
+Disease: appendicitis
+
+Wording: Acute appendicitis
+
+Code: K35.8
+
+Medical procedure: operation to remove the appendix
+
+Wording : Laparoscopic appendectomy
+
+Code : HHFA016
+
+For coding diseases, the nomenclature is the International Classification of Diseases (ICD), drawn up by the World Health Organisation (WHO). For '''coding medical procedures, the nomenclature is the classification commune des actes médicaux (CCAM), created in 2002 by the Assurance maladie and the Agence Technique de l'Information Hospitalière.'''
+
+The information collected at hospital level is then centralised at national level in the form of an anonymous discharge summary (ASR). Each ASR contains medical information (related diagnoses, medical procedures carried out, etc.) as well as administrative information (identification of the hospital, length of stay, mode of admission and discharge, including death) and information about the patient (sex, age, geographical code of residence based on postcode). In addition to the RSAs, hospitals must produce information on the number of consultations and outpatient procedures performed, the consumption of certain drugs and implantable medical devices (prostheses, implants) used, and the removal of organs from deceased patients.
+
+3) Databases on medical causes of death
+
+The database of medical death certificates was established for :
+
+- disseminate regular death statistics,
+
+- answer specific questions,
+
+- conduct epidemiological research into a large number of specific diseases. These data are frequently used to characterise health disparities (by gender, age, region or department of death, etc.) or to describe trends. They help to prioritise health problems and evaluate public health initiatives,
+
+- take part in the surveillance and warning system (it was on the basis of these statistics that the 15,000 deaths due to the heatwave in August 2003, for example, were quickly identified).
+
+The content of the cause of death section of the death certificate complies with international recommendations issued by the World Health Organisation (WHO). The certificate includes the diseases or morbid conditions that caused the death, as well as other contributing factors. Identification of the initial cause of death is linked to the physician's declaration and to international classification rules.
+
+= Information about the deceased, such as age and sex, pregnancy status, date of death, département and commune of residence and of death, completes the database = The data from the database on medical causes of death were matched for the first time in 2017 with data from the Sniiram-PMSI perimeter within the SNDS.
+Data from the medical causes of death database were matched for the first time in 2017 with data from the SNIIRAM-PMSI perimeter within the SNDS.
+
+4) Data relating to disability
+
+Information relating to disability is the responsibility of the Caisse Nationale de Solidarité pour l'Autonomie (CNSA)[1]. This is a new database designed to collect data on applications made to the maisons départementales des personnes handicapées (MDPH) (departmental centres for the disabled) and the processing of these applications. The data will be matched with the snds in 2022. The aim of matching with the SNDS is to be able to observe the links between the support offered and the path taken by beneficiaries.
+
+= Health information processing has epidemiological purposes (medical causes of death database), management purposes (PMSI, sniiram) and health economics objectives (sniiram, pmsi). =
+<br />
+----[1] Since 1 January 2006, the ''Caisse nationale de solidarité pour l'autonomie (CNSA)'' has been responsible for ''financing aid'' for the elderly who are losing their independence and the disabled, and for ''guaranteeing equal treatment'' throughout France for all disabilities and situations involving loss of independence, to provide information and leadership for the network, to inform the elderly, disabled people and their families, and to provide expertise and research on issues relating to access to independence, whatever the age or origin of the disability. It has a budget of over €25 billion for this purpose.

@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-363-11-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=Knowing the main secondary and late complications of proximal femur fractures
+|Description=None
+|Heading=Follow-up and/or prognosis
+|Contributors=CFCOT
+|Order=11}}
+
+The mortality rate for these fractures in elderly patients is around 20% at one year.
+
+30 to 50% of patients suffer a "reduction in autonomy" and 25% of survivors return to an institution within a year.
+
+After a first fracture, the risk of a fracture on the contralateral side during a new fall is increased.
+
+
+Early surgical treatment aims to reduce the risk of complications associated with decubitus.
+
+Local complications differ according to the type of treatment and the location of the fracture.
+
+After osteosynthesis or arthroplasty, a "surgical site infection" may occur, either early or later.
+
+After osteosynthesis of an intracapsular femoral neck fracture:
+
+- Consolidation may be extended beyond 4 months in the event of delayed consolidation.
+
+- Progression towards consolidation may be interrupted, and if there is no progression after 6 months, this is a "pseudarthrosis".
+
+- The risk of ''non-union'' increases when the ''fracture line is vertical'', if there is ''comminution'' and in the event of ''reduction failure''.
+
+- Consolidation can sometimes occur with a ''vicious callus'', either as a result of imperfect initial reduction or secondary displacement. Some of these vicious calluses lead to shortening of the femoral neck, resulting in unequal lengths of the lower limbs. Some malunion changes the anatomical relationship of the proximal femur and can be complicated by accelerated wear, leading to coxarthrosis.
+
+- Osteonecrosis of the femoral head can also develop, especially in the case of an "initially displaced fracture". This osteonecrosis can lead to cephalic collapse, resulting in accelerated wear, which can also lead to osteonecrosis-induced coxarthrosis.
+
+
+When a proximal femur fracture is treated by arthroplasty, it may be complicated by dislocation. This may occur early, in the first few weeks, and may be facilitated by the surgical approach. It can also occur at a later stage, either as a result of genuine trauma, or as a result of wear and tear on the friction torque.
+
+Over time, the fixation of one or other component of an arthroplasty may become defective, leading to loosening of the prosthetic part in relation to the bone.
+
+The change in stresses around an arthroplasty can lead to a fracture around the implants in the event of further trauma: this is known as a "periprosthetic fracture".
+
+
+The main complication after an "operated extracapsular fracture" is the consolidation into a "vicious callus". This most often occurs in the direction of the initial displacement, resulting in a combination of shortening, adduction and external rotation. Vicious callus is more common in the case of an ''initially unstable fracture''.
+
+Extracapsular fractures usually lead to consolidation of the fracture site, but sometimes, particularly in the case of unstable fractures or in the absence of interfragmentary contact, ''consolidation may not occur and lead to a fatigue fracture of the osteosynthesis material''.
+
+Rigid osteosynthesis material can sometimes perforate the cephalic end, resulting in "articular protrusion of the osteosynthesis material" and accelerated wear of the cartilage.

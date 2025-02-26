@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-060-08-A
+|Item_parent=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Item_parent_short=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Rank=A
+|Title=Knowing the different types of prevention
+|Description=Knowing the different types of prevention
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+
+
+== Prevention
+
+=== WHO definition, 1948: All measures aimed at avoiding or reducing the number and severity of diseases, accidents and handicaps ===
+
+== Clinical approach to prevention
+
+=== Primary prevention ===
+All actions aimed at reducing the incidence of a disease in a population and reducing risks. The aim is to combat risk factors and educate the population about health behaviour.
+
+=== Secondary prevention ===
+Seeking to reduce the prevalence of a disease in a population. It covers actions taken at the very beginning of the onset of the disease to eliminate risk factors in the latency phase: screening, early diagnosis and treatment.
+
+=== Tertiary prevention ===
+The aim is to reduce mortality, chronic disability or relapses in a population and the complications, disabilities or relapses resulting from the disease (reintegration, compensation, avoiding relapses and recurrences).
+
+== Population-based approach to prevention ==
+
+=== Universal prevention: for everyone ===
+Preventive action that concerns the entire population.
+
+=== Selective prevention ===
+Preventive action aimed at specific population sub-groups at high risk of the disorder. The targeted characteristics are those of the group.
+
+=== Indicated prevention ===
+Preventive action aimed at specific population sub-groups with risk factors or manifestations related to the problem. The characteristics targeted and assessed are those of the individuals.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-044-06-B
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=B
+|Title=Knowing the etiologies of ovarian cysts
+|Description=None
+|Rubric=Etiologies
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=6}}
+
+Functional cysts of the ovary are the most common pelvic swelling in women during genital activity. They correspond to follicular cysts or luteinic cysts (of the corpus luteum) which usually regress spontaneously.
+
+Organ cysts are usually benign. Twenty percent of ovarian tumours are malignant or borderline, and the risk of cancer increases with age.

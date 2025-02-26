@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-329-13-B
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=B
+|Title=Know the delayed complications of transfusion: alloimmunisation
+|Description=Prescribe post-transfusion RAI accordingly.
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=13}}
+Transfusion of blood products (packed red blood cells, PRBC, and packed platelets, CP) exposes an individual to antigens that he or she does not carry on his or her own cells, and to a risk of alloimmunisation against these antigens. These may be erythrocyte antigens, platelet antigens (human platelet antigens), or HLA antigens, which are more ubiquitous as they are present on residual white blood cells and platelets. An incompatible pregnancy between the foetus and the mother can also lead to alloimmunisation against these different antigens.
+
+Anti-erythrocyte alloimmunisation: Of the 380 blood group antigens described, divided into more than 43 different systems (Heading 2C-329-EP-A01), the RH system antigens (D (RH1), C (RH2), E (RH3), c (RH4), e (RH5)) and the K antigen (KEL1) are the most immunogenic. These are followed by Duffy (FY) with Fy<sup>a</sup> (FY1) and Fy<sup>b</sup> (FY2), Kidd (JK) with Jk<sup>a</sup> (JK1) and Jk<sup>b</sup> (JK2) and MNS with S (MNS3) and s (MNS4).
+
+Anti-erythrocytic alloimmunisation has 2 stages: primary immunisation, after the first exposure, the primary immunisation antibody can be detected by IAT after 1 month; it is of the IgM type, with little haemolytic activity. Reintroduction of the antigen stimulates memory B cells, and the antibody is reactivated, with detection after 3 to 5 days. The transfused RBCs, still in circulation, then become the target of this reactivated antibody, with possible destruction of all the transfused RBCs, and clinico-biological consequences that vary from one individual to another, ranging from no transfusion yield to a life-threatening immuno-haemolytic accident.
+
+The immuno-haemolytic accident caused by alloimmunisation antibodies is therefore most often delayed, unlike the immuno-haemolytic accident caused by ABO incompatibility, which is always immediate because the associated antibodies are pre-existing any allogeneic exposure.
+[File:Allo-immunisation.jpg|vignette]]
+
+
+
+
+
+
+
+Prevention of immunohaemolytic accidents by alloimmunisation: based on
+
+- RAI before any transfusion'' (Title 2C-328-PC-A03): RAI makes it possible to identify alloimmunisation antibodies previously developed and still produced, and to take them into account in the choice of RGCs to prevent an immediate accident (phenotyped RGCs extended to antibody specificity).
+
+
+- ''Compatibility rules'': These rules prevent alloimmunisation,
+
+o Regulations for the D antigen (RH1) of the RH system
+
+o for the 4 other RH system antigens (C (RH2), E (RH3), c (RH4), e (RH5)) and for the K antigen (KEL1) (prescription of Rh-Kell phenotyped RBCs)
+
+§ Regulated in women up to the age of 50 to prevent haemolytic disease of the foetus and the newborn.
+
+§ Strongly recommended (HAS recommendations) for patients with multiple transfusions
+
+o In other systems for patients who have developed an antibody: compatibility may be extended to other FY, JK, MNS systems (prescription of extended phenotyped RGCs).
+
+
+- A distant post-transfusion IAT (> 1 month) is strongly recommended to demonstrate primary immunisation, which should be taken into account for subsequent transfusions in order to prevent restimulation and delayed haemolytic reactions.
+
+Anti-HLA alloimmunisation: its incidence has decreased since the systematic leukoreduction of PSL, but it persists, particularly in multiparous women, via pregnancies, and following transfusions of platelets carrying HLA class 1 antigens. It cannot be prevented, due to the extreme polymorphism of this system. However, when anti-HLA alloimmunisation is responsible for a refractory state (Designation 329-PC-B02), HLA apheresis PCs (Designation 2C-329-DE-A02) compatible with the recipient's anti-HLA antibodies are selected.
+
+Anti-HPA alloimmunisation: via platelet transfusion or an incompatible pregnancy (essentially for the HPA-1a antigen). There is no prevention, but in the event of a refractory state induced by this immunisation, HPA-compatible APCs will be transfused, as well as for a newborn suffering from immunological neonatal thrombocytopenia due to the mother's anti-HPA.  
+<br />

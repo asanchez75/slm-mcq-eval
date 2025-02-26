@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-292-09-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Knowing the role of the anatomopathological examination in oncology
+|Description=To understand the role of the anatomopathological examination in the diagnosis (notion of "anatomopathological proof") of cancer and the management of the disease (prognosis / theranostic).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+The diagnosis of cancer is made by histological or cytological examination of a sample of tumour tissue (see item 293), whether it is the primary tumour or a metastatic lesion. The choice of invasive diagnostic examination (cytological puncture, biopsy, surgical specimen) depends on the benefit/risk balance of the various possible examinations, which depends on the accessibility of the various tumour sites and the cost-effectiveness of the type of sample taken.
+
+The anatomo-cytopathological examination of the tumour sample provides answers to three major questions:
+
+1/ confirmation of the diagnosis ("anatomopathological proof"): benign/malignant tumour; tissue of origin of the cancer;
+
+2/ assessment of prognosis ;
+
+3/ theranostic evaluation, in search of a molecular anomaly in the tumour (targeted therapy) or evaluation of the response to treatment by immunotherapy, making it possible to personalise treatments: expression of hormone receptors and anti-hormonal treatment in breast cancer, EGFR mutation and treatment with EGFR inhibitors (tyrosine kinase activity inhibitors) in lung cancer for example, expression of PD-L1 and treatment with immunotherapy (anti-PD1 or anti-PD-L1) in lung cancer for example.

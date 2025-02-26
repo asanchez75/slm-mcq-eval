@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-071-19-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Knowing associated diagnoses
+|Description=Know that BN is frequently associated with psychiatric and addictive disorders
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=19}}
+'''Somatic Comorbidities :''''
+
+*Fluid and electrolyte disorders (hyponatremia, hypokalaemia, hypocalcaemia).
+*Functional renal failure and oedema, especially associated with vomiting.
+*<u>Hypertrophy of the salivary glands</u>, <u>dental erosions</u>, <u>peptic oesophagitis</u> and <u>Malory Weiss syndrome</u>.
+*Weight gain (even exceptionally obesity).
+*Poor nutritional status, even undernutrition.
+*Osteoporosis, particularly if amenorrhoea.
+*Pseudo-occlusive syndrome.
+
+'''Psychiatric and addictive comorbidities: they are frequent:'''
+
+*Substance use disorders,
+*Characterised depressive episode and bipolar disorder,
+*Borderline personality disorder,
+*Anxiety disorders.

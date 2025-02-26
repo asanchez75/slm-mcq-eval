@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-292-14-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Know the principles of TNM staging
+|Description=Know the principles of the international TNM classification, its objectives and the different methods of TNM evaluation.
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=14}}
+The classification of tumours makes it possible to adapt the therapeutic strategy to the clinical situation on the basis of recommendations based on these classifications, to predict the prognosis, and to compare therapeutic results in clinical trials with homogeneous groups.
+
+The TNM classification is international. It is based on the degree of extension of the primary tumour, local and regional lymph node involvement and distant metastatic disease:
+
+- T (Tumor): size of the primary tumor and/or invasion of underlying tissues, classified from T1 to T4 (scale specific to each tumor);
+
+- N (Node): degree of lymph node invasion, N0: uninvolved, N1 to N3 depending on the number and/or location of lymph nodes affected (specific to each tumour);
+
+- M (Metastasis): existence or absence of metastatic localisations ;
+
+When the T, N or M is not specified, an x is indicated: Tx, Nx or Mx.
+
+The TNM classification is generally preceded by a lower-case letter indicating the method used. A patient's file may therefore contain several TNM classifications depending on the assessment method: cTNM: clinical classification; pTNM: pathological classification (on surgical specimen, which explains the impossibility of giving an M score); usTNM: ultrasound classification; ypTNM: pathological classification after neo-adjuvant (pre-surgical) treatment.
+
+The letter R given after the pTN specifies the resection margins: R0 if the margins are microscopically healthy, R1 if the limits are reached microscopically, R2 if the limits are reached macroscopically.

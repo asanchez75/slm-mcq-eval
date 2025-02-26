@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-035-02-B
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=B
+|Title=Knowing the pathophysiology of premenstrual syndrome
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Sophie Catteau-Jonard
+|Order=2}}
+
+<br />Little is known about it. Relative (and sometimes even absolute) hyperoestrogenism is thought to be the founding element of premenstrual syndrome. It induces capillary hyperpermeability, which favours the formation of interstitial tissue oedema in a number of organs: in the breasts (mastodynia), in the brain (headaches, neuropsychological symptoms) and in the abdomino-pelvic viscera (pelvic congestion, transit disorders, etc.). Other mechanisms, such as disturbances in serotonin transmission, may occur as a result of this hyperoestrogenic state and may also contribute to the onset of neuropsychological disorders.

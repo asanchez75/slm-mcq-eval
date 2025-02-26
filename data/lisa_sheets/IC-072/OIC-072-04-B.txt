@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-072-04-B
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=B
+|Title=Knowing the prevalence of the main disorders
+|Description=Disorder with somatic symptoms; Excessive fear of having an illness; Conversion disorder / with functional neurological symptoms.
+|Rubric=Epidemiology
+|Contributors=
+|Order=4}}
+Prevalence of a one-off diagnosis of at least one FST: between 26.2 and 34.8%.
+
+The prevalence of an FMS varies with the FMS, for example 1.6% for fibromyalgia (INSERM 2020).

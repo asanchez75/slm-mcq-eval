@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-136-09-B
+|Item_parent=Local, locoregional and general anaesthesia
+|Item_parent_short=Local, locoregional and general anaesthesia
+|Rank=B
+|Title=Knowing the main local anaesthetics
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+The main local anaesthetics used are :
+
+           -lidocaine
+
+           -mepivacaine
+
+           -bupivacaine
+
+           -ropivacaine

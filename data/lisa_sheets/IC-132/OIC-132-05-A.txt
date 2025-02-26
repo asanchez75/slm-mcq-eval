@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-132-05-A
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=A
+|Title=Know the differential diagnoses of Alzheimer's disease and related disorders.
+|Description=Know the curable diseases that can lead to neuro-cognitive disorders.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+There are medical conditions that can lead to neuro-cognitive disorders that are possibly/partially reversible with appropriate treatment:
+
+
+- Vitamin deficiencies (B12, B9)
+
+- Subdural haematoma
+
+- Intracranial tumour
+
+- Hydrocephalus at normal pressure
+
+- Carbon monoxide poisoning (damage to the basal ganglia)
+
+- Endocrine disorders (hypothyroidism, chronic adrenal insufficiency)
+
+- Hyponatraemia/hypercalcaemia of progressive onset
+
+- Iatrogenicity: drug encephalopathy (valproate, lithium, etc.), anticholinergic drugs, psychotropic drugs, etc.
+
+- Systemic inflammatory diseases (vasculitis, etc.)
+
+- Paraneoplastic syndromes
+
+- Infections (neurosyphilis, HIV...)
+
+- ...
+
+<br />

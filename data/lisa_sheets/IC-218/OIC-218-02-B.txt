@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-218-02-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the deleterious role of excess eosinophils
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=2}}
+'''PNE''' = ability to release several types of inflammatory mediators in different tissues.
+
+'''Physiological role of these mediators''' = to alter or destroy a wide range of targets, including parasite larvae, viruses and tumour cells.
+
+Cytotoxic and prothrombotic effects of these mediators = damage to tissue infiltrated by PNE (cardiac damage, arterial and/or venous vascular thrombosis).

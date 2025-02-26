@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-209-05-B
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=B
+|Title=Knowing the precipitating factors of COPD decompensation/exacerbation
+|Description=Know how to look for bronchial superinfection, infectious lung disease, sedatives, pulmonary embolism, pneumothorax, heart failure or trauma.
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+'''Precipitating factors:'''
+
+*Infection, particularly bacterial: ''Haemophilus influenzae, Streptococcus pneumoniae and Moraxella catarrhalis; Pseudomonas aeruginosa'' in the most severe patients; but also viral (particularly in winter): influenza, Rhinovirus, RSV, SARS-CoV-2 ;
+*Pollution peaks, heavy smoking, impromptu discontinuation of inhaled background treatments for COPD;
+*The cause may remain unknown (1/3 of cases).
+
+'''Diagnoses to be systematically evoked''' (and guiding the prescription of any complementary examinations - [[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]):
+
+*Acute community-acquired pneumonia (CAP)
+*Pulmonary oedema
+*Pulmonary embolism
+*Pneumothorax
+*Thoracic or abdominal surgery, trauma

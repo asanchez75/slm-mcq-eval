@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-076-09-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=To understand the frequent association of alcohol misuse with other addictive and psychiatric pathologies, whether primary or secondary.
+|Description=Psychiatric disorders associated with alcohol misuse may be primary (existing before the onset of misuse, which may have a self-therapeutic function) or secondary (alcohol consumption leads to psychiatric symptoms or disorders, particularly anxiety or depression).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+Most common psychiatric comorbidities: [[Anxiety SD-116|anxiety disorders]] and depressive disorders.
+
+Association of alcohol misuse with schizophrenia (20-30%) and bipolar disorder (up to 40%).
+
+[Suicidal risk 2C-066-IU-A01|Risk]] of [[Suicidal ideation or behaviour/self-inflicted injury SD-125|suicide]] very strongly increased, (acute alcoholisations++)
+
+
+Primary psychiatric disorders: preceding misuse
+
+or secondary: occur as a result of acute or chronic consumption
+
+Diagnosis based on anamnesis and evolution after withdrawal
+
+
+Frequent association with other product addictions (tobacco +++) and behavioural addictions (pathological gambling +)

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-231-19-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying ventricular tachycardia
+|Description=Detecting VT
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=19}}
+
+
+*Any tachycardia with wide QRS (> 120 ms) is a ''ventricular tachycardia'' until proven otherwise,
+*However, ''supraventricular tachycardia may also present with wide QRS'' in the case of bundle branch block or ventricular pre-excitation (accessory pathway).
+
+2 pathognomonic signs in favour of ventricular tachycardia:
+
+*Atrio-ventricular dissociation'' (fewer P waves than QRS complexes),
+*''Capture or fusion complexes'': the capture complex is a fine QRS related to a P wave which leads to the ventricles during ventricular tachycardia. The fusion complex is a fusion between a fine QRS resulting from the conduction of a P wave to the ventricles and the wide QRS complex of ventricular tachycardia with an intermediate width,
+
+It is worth carrying out "long ECGs" to look for these signs,
+
+'''Other criteria''' in favour of ventricular tachycardia :
+
+*QRS > 160 ms,
+*Exclusive R wave in RV,
+*Positive concordance (exclusive R) or negative concordance (QS aspect) in precordial leads,
+
+Ventricular tachycardia is referred to as ''non-sustained'' if < 30 seconds or ''sustained'' if > 30 seconds or poorly tolerated.
+
+[[File:TV.jpg|vignette|alt=|centré|615x615px]]

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-359-13-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing how to recognise PAO on a chest X-ray
+|Description=cardiomegaly, pleural effusion often bilateral and symmetrical, vascular redistribution towards the apices, signs of interstitial damage (Kerley B lines) or alveolar damage (bilateral alveolar opacities predominantly perihilar).
+|Rubric=Multimedia content
+|Contributors=Guillaume Carteaux
+|Order=13}}
+
+<gallery widths="300" heights="300">
+</gallery><gallery widths="300" heights="300">
+File:OAP 2.jpg
+</gallery>- Bilateral butterfly wing alveolar-interstitial opacities +/- bilateral pleural effusions (blunting of pleural cul-de-sacs, Damoiseau line)
+
+Note the cardiomegaly on the 2nd x-ray, linked to underlying heart disease.

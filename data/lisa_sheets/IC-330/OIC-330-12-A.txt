@@ -1,0 +1,198 @@
+{{knowledge objective
+|Identifiant=OIC-330-12-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Rank=A
+|Title=Antiepileptic drugs: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=
+|Order=12}}
+
+
+== Drug classes ==
+Classically, the various anti-epileptic drugs are classified according to "two or even three generations", with a distinction being made between anti-epileptics marketed until the 1970s and those available from the 1990s onwards:
+
+* First-generation anti-epileptics: phenobarbital, phenytoin, primidone, ethosuximide, carbamazepine, valproic acid and, to a lesser extent, benzodiazepines.
+* Second and third generation anti-epileptics: vigabatrin, oxcarbazepine, lamotrigine, felbamate, gabapentin, tiagabine, topiramate, levetiracetam, pregabalin, stiripentol, zonisamide, rufinamide, lacosamide, eslicarbazepine, perampanel, brivaracetam.
+
+Many of these "second" and "third" generation anti-epileptic drugs were initially developed for use in combination, in order to meet the challenges of "drug-resistant epilepsy". For some of these drugs, use as ''monotherapy'' could be granted at a later stage.
+
+== Mechanisms of action ==
+Anti-epileptic drugs act essentially by ''limiting hyperexcitability'', which favours the triggering of seizures. These effects result in particular from an action on the ''ion channels'' involved in ''hyperexcitability'' or are consecutive to the restoration of the ''GABA / Glutamate balance''.
+
+There are ''several mechanisms of action'', some of which are common to many anti-epileptic drugs:
+
+* Blockade of voltage-gated sodium channels involved in neurotransmission:
+** Blockade of voltage-gated sodium channels is the main mechanism common to many anti-epileptic drugs (valproic acid, phenytoin, carbamazepine, oxcarbazepine, lamotrigine, felbamate, topiramate, zonisamide, rufinamide, lacosamide, eslicarbazepine).
+** Blockade of P/Q-type calcium channels (gabapentin, pregabalin), T-type calcium channels (valproic acid, ethosuximide, zonisamide) or potassium channels (levetiracetam) is probably more incidental.
+* Reduction of glutamatergic tone by inhibition of vesiculosynaptic protein 2A (levetiracetam, brivaracetam) or by glutamate receptor antagonism (felbamate, topiramate, perampanel, phenobarbital).
+* Reinforcement of GABAergic tone either directly ('valproic acid', 'gabapentin') or via GABA-A receptor agonists ('phenobarbital', 'benzodiazepines', topiramate'', ''felbamate''), ''GABA transaminase inhibitors'' (vigabatrin, stiripentol) or ''GABA reuptake inhibitors'' (''tiagabine'', ''stiripentol'').
+
+Most drugs are likely to exert an anti-epileptic effect by modulating several targets.
+
+== Indications
+The choice of treatment takes into account the activity profile of the compound, the syndromic type of epilepsy and any contraindications for the patient. For example, valproic acid is particularly effective in generalised epilepsy, while carbamazepine is most active in partial epilepsy. The prescription of some of these anti-epileptic drugs requires specialised management, particularly when several drugs are combined or when high-risk drugs are prescribed, especially in the case of drug-resistant partial epilepsies or specific epileptic syndromes.
+{| class="wikitable"
+|+
+|'''Broad-spectrum antiepileptics'''
+
+'''''Generalised and partial epilepsies'''''
+|Narrow-spectrum antiepileptics
+
+'''''Partial epilepsy with or without generalisation'''''
+|-
+|Valproic acid
+
+Benzodiazepines
+
+Perambanel
+
+Phenobarbital
+
+Lamotrigine
+
+Levetiracetam
+
+Topiramate
+
+Zonisamide
+
+Rufinamide
+
+Felbamate
+|Carbamazepine
+
+Phenytoin
+
+Gabapentin
+
+Pregabalin
+
+Lacosamide
+
+Oxcarbazepine
+
+Eslicarbazepine
+
+Tiagabine
+
+Vigabatrine
+|}
+Benzodiazepines, in particular clonazepam, are more commonly used on an occasional basis, particularly in the event of status epilepticus. In this particular context, second-line treatments consist of injectable fosphenytoin, valproic acid, phenobarbital or levetiracetam.
+
+Some anti-epileptic drugs also have indications in other fields. These include neuropathic pain (pregabalin, gabapentin, carbamazepine), the treatment of migraine (topiramate) and the regulation of mood disorders during bipolar illness (valproic acid, carbamazepine, lamotrigine).
+
+== Undesirable effects and contraindications ==
+All antiepileptic drugs have dose-dependent effects on the central nervous system (sedation, dizziness, visual disturbances, tremors). They also induce "cognitive disorders" and "psychiatric effects" (depression, anxiety, psychotic reactions), particularly with levetiracetam, topiramate, zonisamide, vigabatrin and perampanel. It should also be noted that idiosyncratic reactions (skin, hepatitis, bone marrow damage) can sometimes be severe.
+
+Weight gain is reported with several of these drugs (valproic acid, carbamazepine, gabapentin, pregabalin, perambanel), while other anti-epileptics (topiramate, zonisamide, felbamate, striripentol, rufinamide) cause weight loss.
+
+''Phenobarbital'', ''carbamazepine'', ''phenytoin'' and ''valproic acid'' are '''teratogenic''' drugs requiring '''precautions for use''' in '''<u>women of childbearing age</u>'''.
+
+=== Other side effects to consider ===
+{| class="wikitable"
+|+
+|'''Drug''''
+|Frequent adverse reactions
+|'''Serious adverse reactions'''
+|-
+|Valproic acid
+|Nausea, vomiting, alopecia
+|thrombocytopenia, aplasia, hepatitis, pancreatitis
+|-
+|Carbamazepine
+|Leukoneutropenia, rash
+|Hyperponatremia, BAV, Stevens-Johnson, hepatitis, agranulocytosis
+|-
+|Islicarbazepine
+|Leuconeutropenia
+|Hyponatremia, rash, Stevens-Johnson, hepatitis, agranulocytosis, AVB
+|-
+|Ethosuximide
+|Nausea
+|Bullous rash, agranulocytosis
+|-
+|Felbamate
+|Leukoneutropenia, rash
+|bone marrow aplasia, hepatitis, Lyell's disease
+|-
+|Lacosamide
+|Nausea, vomiting
+|stroke, atrial fibrillation, flutter
+|-
+|Lamotrigine
+|Leukoneutropenia
+|Rash, Stevens-Johnson, hepatitis
+|-
+|Levotetracetam
+|Nausea
+|Hematologic disorders
+|-
+|Oxcarbazepine
+|Nausea, leukoneutropenia
+|Hyperponatremia, rash, Stevens-Johnson, BAV
+|-
+|Phenobarbital
+|Rash
+|Dupuytren's disease, scapulohumeral periarthritis, hepatitis, megaloblastic anaemia
+|-
+|Phenytoin
+|Rash, gingival hypertrophy
+|Stevens-Johnson, hepatitis, pseudo-lymphoma, lupus syndrome
+|-
+|Rufinamide
+|Nausea, vomiting
+|QT depression, hypersensitivity
+|-
+|Topiramate
+|Anorexia, oligohydrosis
+|Renal lithiasis, acidosis, glaucoma
+|-
+|Vigabatrin
+|Digestive disorders
+|Visual field narrowing
+|-
+|Zonisamide
+|Anorexia, oligohydrosis
+|Stevens-Johnson, renal lithiasis, bone marrow aplasia, hyperthermia
+|}
+
+== Drug interactions ==
+Anti-epileptic drugs pose a number of difficulties in terms of ''drug-drug interactions'', as several of them are capable of ''modifying the metabolism of other drugs''. For example, several anti-epileptics (''phenobarbital'', ''carbamazepine'', ''phenytoin'') are '''<u>enzyme inducers</u>'' while valproic acid'' is a '''<u>enzyme inhibitor</u>''' drug.
+
+In addition to the problem of the interaction of anti-epileptic drugs with other drugs, it is important to stress the "risk of interaction between anti-epileptic drugs" leading to a risk of "ineffectiveness" or "toxicity" by "reduction" or "increase" of plasma concentrations. Certain combinations are particularly inadvisable, such as the valproic acid/lamotrigine combination (skin toxicity). Finally, it should be noted that phenytoin and stiripentol are metabolised by CYP2C9 and CYP2D6 respectively, two enzymes which are subject to genetic polymorphism, and are both subject to variability of effect and a significant risk of drug interactions.
+
+== Monitoring methods ==
+The monitoring of epileptic patients undergoing treatment must take into account ''several dimensions''.
+
+=== Clinical monitoring ===
+
+* The patient's '''overall progress''', '''efficacy''' and '''adverse effects''' of anti-epileptic treatments must be assessed at '''each consultation''' and '''<u>at least once a year</u>''':
+** Nutritional status and measurements (particularly in children) ;
+** The presence/persistence of attacks ;
+** Compliance with treatment and adherence of the carer;
+** The most common co-morbidities: anxiety syndrome, depression, suicidal risk, attention disorders, neurodevelopmental disorders and cognitive disorders;
+** Undesirable effects potentially linked to treatment;
+** Social repercussions.
+* Treatments'' must be ''regularly re-evaluated'' to ensure that patients are not being treated inappropriately (prolonged, unnecessary, ineffective, poorly tolerated or incorrectly dosed treatment).
+* The use of ''tools'' such as a ''crisis monitoring calendar'' to facilitate management is recommended.
+
+=== Biological monitoring ===
+
+* Blood tests for drugs are "not recommended" on a "systematic" basis and should only be carried out "if clinically indicated".
+* Minor asymptomatic biological abnormalities (discreet elevation of transaminases, etc.) are not a formal indication for a change in antiepileptic treatment, but do require biological monitoring.
+* The monitoring of adverse biological reactions must be "adapted" according to each antiepileptic drug used and the patient's condition.
+
+=== Electrophysiological monitoring ===
+
+* The ''''EEG can be ''useful'' for the ''follow-up'' and ''monitoring'' under treatment of patients with epilepsy.
+* The frequency with which it is performed depends mainly on the patient's epileptic syndrome.
+
+== Main causes of failure ==
+There are several reasons for treatment failure:
+
+* Inappropriate drug prescription'' due to a syndromic ''diagnostic error''.
+* Compliance failure'' which can be reduced by therapeutic education'' '''' of the patient and those around him in the context of a complex chronic disease.
+* Occurrence of undesirable effects, the impact of which can be partly limited by "progressive titration" (reduction in dose-dependent undesirable effects) and above all by informing the patient in advance and close monitoring.
+* Drug resistance, which potentially affects 20% of patients and requires treatment in an expert centre.

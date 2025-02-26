@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-173-15-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the modes of transmission of toxoplasmosis
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Carole Eldin,Florence Robert-Gangneux
+|Order=15}}
+
+People become infected by ingesting water or food contaminated with oocysts (produced in the faeces of cats and other felids and highly resistant in the outside environment). In practice, the foods at risk are fruit, herbs and raw vegetables that have not been properly washed and are contaminated with soil containing these oocysts, as well as tap water in certain regions. Shellfish eaten raw are also at risk. Note that freezing does not destroy oocysts.
+
+Consumption of raw or undercooked meat (especially pork and beef, but all meats are at risk if undercooked) containing cysts can also be the cause of infection.
+
+Finally, transplacental transmission is possible in the event of infection during pregnancy (congenital toxoplasmosis).
+
+Organ transplants (heart, kidney, liver) can also transmit toxoplasmosis if the donor is HIV-positive, as toxoplasma cysts persist over time in many organs.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-149-06-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Knowing the indications for additional tests in cases of angina (including rapid diagnostic test)
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=6}}
+Before the age of 3, the probability of bacterial angina is very low, angina is rare and almost always viral, and no test is indicated.
+
+In the case of erythematous sore throat from the age of 3, it is advisable to perform a rapid diagnostic test (RDT). In clinical evaluation studies, these tests have a specificity of around 95%, while their sensitivity varies from 80 to 98% depending on the culture technique used.
+
+In adults, the Mac Isaac clinical score can be taken into account when deciding not to carry out the RDT test if the score is strictly less than 2. A score of 2 or more means that an RDT is routinely carried out.
+
+The Mac Isaac score takes into account the following 4 criteria:
+
+'''- fever > 38°C,''''
+
+'''- presence of exudate,''''
+
+painful cervical adenopathy
+
+'''- absence of cough'''.
+
+Each criterion is worth one point, giving a score ranging from 0 to 4. Mac Isaac suggests ''removing -1 point if > 45 years'', giving a score of -1 to + 4.
+
+A clinical Mac Isaac score < 2 has a negative predictive value of over 95% to rule out strep throat. Patients with a Mac Isaac score of 1 have a maximum probability of GAS infection of 5%. A score of less than (or equal to) 1 in adults means that the test should not be carried out and antibiotics should not be prescribed.
+
+The RDT is performed in the presence of clinical signs of erythematous or erythematopulmonary angina. It consists of ''a 4-step test'': 1) Sampling; 2) Bringing the product into contact with the reagents; 3) Immersion of the test; 4) Reading of the test. '''A positive RDT justifies antibiotic therapy.'''

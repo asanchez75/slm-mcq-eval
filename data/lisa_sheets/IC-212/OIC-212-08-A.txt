@@ -1,0 +1,71 @@
+{{knowledge objective
+|Identifiant=OIC-212-08-A
+|Item_parent=Hemograms in adults and children: indications and interpretation
+|Item_parent_short=Hemograms in adults and children: indications and interpretation
+|Rank=A
+|Intitulé=Hémogramme chez l'enfant : connaître les normes des autres lignées
+|Description=idem for the kinetics of other bloodlines
+|Section=Definition
+|Contributors=
+|Order=8}}
+  
+
+{| class="wikitable"
+|
+| colspan="2" |'''Standards'''
+|-
+| rowspan="4" |'''White blood cells'''
+|10 - 26 x10<sup>9</sup>/L
+|Newborn
+|-
+|6 - 12 x10<sup>9</sup>/L
+|3 months
+|-
+|6 - 15 x10<sup>9</sup>/L
+|1 to 6 years
+|-
+|4.5 - 13.5 x10<sup>9</sup>/L
+|6 to 12 years
+|-
+| rowspan="3" |'''Neutrophils''''
+|6-26 x10<sup>9</sup>/L
+|Newborn
+|-
+|1-8 x10<sup>9</sup>/L
+|1 month to 1 year
+|-
+|1.5-9 x10<sup>9</sup>/L
+|1 to 4 years
+|-
+|Eosinophilic Polynuclear Cells
+|0.05-0.5 x10<sup>9</sup>/L
+|Newborns and children
+|-
+|Basophil Polynuclear''
+|0.01-0.05 x10<sup>9</sup>/L
+|Newborn and child
+|-
+| rowspan="2" |'''Lymphocytes'''
+|2-11 x10<sup>9</sup>/L
+|Newborn
+|-
+|2-10 x10<sup>9</sup>/L
+|1 to 4 years
+|-
+| rowspan="3" |'''Monocytes''''
+|0.4-3.1 x10<sup>9</sup>/L
+|Newborn
+|-
+|0.2-1.5 x10<sup>9</sup>/L
+|Up to 1 year
+|-
+|0.2-1 x10<sup>9</sup>/L
+|Until adulthood
+|-
+|Platelets
+|150-600 x10<sup>9</sup>/L
+|Between 15 days and 6 months
+|}
+'''After the cut-off ages, values tend towards those of adults.'''
+
+Remember that fluctuations in the number of leukocytes are very common in children due to frequent infectious stimuli (so be sure to check a result that deviates from normal within 15 days) and that a basal blood count contains 2/3 lymphocytes before the age of 6.

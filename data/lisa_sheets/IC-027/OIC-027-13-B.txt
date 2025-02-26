@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-027-13-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Title=Knowing the mechanisms of maternal-fetal transmission of the most frequently implicated viruses
+|Description=HSV, HBV, HIV, VZV
+|Topic=Physiopathology
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=13}}
+'''HSV'''
+
+Severe neonatal herpes is rare, with 20-30 cases per year, but more than half of children die or suffer serious neurological sequelae. The main route of infection (80%) is through the infected genital tract during childbirth. In exceptional cases, the infection may occur during the mother's pregnancy, or postnatally from a maternal herpes infection or in the family.
+
+The risk of contamination during childbirth is approximately :
+
+- 50% if the primary infection occurred in the month preceding labour ;
+
+- 2 to 5% if the recurrence occurred in the week preceding the work ;
+
+- 1/1,000 in cases of a history of genital herpes without visible lesions ;
+
+- 1/10,000 in the absence of a history of genital herpes.
+
+The risk is therefore minimal in the absence of a known history of herpes, but requires further investigation. However, as this is the most common case, the majority of cases of neonatal herpes are ultimately observed in this situation. This is because :
+
+- 3 to 5% of women have a known history of recurrent genital herpes;
+
+- but 20% of women are seropositive for the HSV2 virus and may excrete the virus intermittently: genital herpes is commonplace but often goes unrecognised.
+
+VHB
+
+One per cent of pregnant women are affected. Vertical transmission is mainly intra- and post-natal. Its frequency depends on viral replication, assessed by measuring the maternal plasma viral load:
+
+- 90% in the presence of viral DNA (PCR test);( if the viral load is very high (> 200,000 copies/ml), a hepatologist's opinion is recommended.
+
+- 10 to 20% if the viral DNA test is negative but in the absence of anti-HBe antibodies; close to 0% in the presence of anti-HBe antibodies[VFC(2] .
+
+- In the event of a high viral load, antiviral treatment should be initiated.
+
+Transmission does not depend on the mode of delivery (vaginal delivery or caesarean section). Infected newborns can develop hepatitis, with a 90% risk of becoming chronic, and a high risk of cirrhosis and hepatocellular carcinoma.     
+
+Sero-vaccination of the child at birth is recommended and the neonatologist should be informed.
+
+'''HIV'''
+
+Mother-to-child transmission, which is 15-20% in the absence of prenatal treatment, is now around <1% with current antiretroviral (ARV) triple therapy. The virus is not teratogenic.
+
+Vertical transmission of HIV can occur in three stages:
+
+- pre-partum (infection during pregnancy), where HIV passes from the mother to the foetus via the placenta.
+
+- intrapartum (infection during childbirth)
+
+- post-partum (via breast-feeding). 2/3 of contaminated children are infected during childbirth.
+
+Transmission can be influenced by several factors:
+
+- Maternal: transmission is increased before childbirth in highly immunocompromised women with clinical signs (AIDS), a high viral load and low CD4 lymphocyte levels;
+
+- Obstetric: transmission is increased in cases of premature rupture of the membranes, placental abruption, premature delivery and intra-uterine infection (chorioamniotitis);
+
+- Breastfeeding: a major factor in postnatal contamination in developing countries ;
+
+- Associated maternal infections: genital infections, STIs and especially HCV-HIV-HSV co-infection.
+
+'''VZV'''
+
+Transmission of chickenpox during pregnancy exposes you to the risk of
+
+- ''Embryofetopathy'': the risk is estimated at 2-2.5% for contaminations mainly before 20 days' gestation: amniotic bridges, skin lesions following a dermatome, anomalies of the extremities, intrauterine growth retardation, muscular hypotrophies, limb hypoplasia, microphthalmia, cataract, chorioretinitis, microcephaly, polymicrogyria, hydrocephaly, cortical atrophy.
+
+- Shingles'' in the 1<sup>rst</sup> year of life: when chickenpox is contracted between 21 and 36 weeks' gestation (and > 3 weeks of childbirth)
+
+- '''Varicella neonatorum''': for a birth occurring during maternal varicella in the days surrounding the birth. '''93. [[Vesicles, vesicular rash (cutaneous-mucosal) SD-093|Vesicles, vesicular rash (cutaneous-mucosal)]]'''''
+
+- In the case of maternal varicella, there is still a risk of potentially serious pulmonary varicella, which warrants monitoring and awareness-raising by the attending physician (fever, pulmonary auscultation, etc.). Adults of childbearing age with no history of chickenpox should be vaccinated+++.

@@ -1,0 +1,294 @@
+{{knowledge objective
+|Identifiant=OIC-212-01-A
+|Item_parent=Hemograms in adults and children: indications and interpretation
+|Item_parent_short=Hemograms in adults and children: indications and interpretation
+|Rank=A
+|Title=Knowing the quantitative data of the haemogram
+|Description=Normal values and definitions of pathological thresholds
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Key points'''
+
+- The haemogram is the most widely prescribed biological test in France.
+
+- It should be carried out before any treatment that could alter the data and interpretation.
+
+- Normal values vary according to age, sex and ethnic origin.
+
+- It is the haemoglobin value that defines anaemia or suspected polycythaemia.
+
+- The haemogram gives haemoglobin values in concentration. There are therefore false anaemias due to haemodilution and pseudopolyglobulias due to haemoconcentration.
+
+- The leucocyte formula expressed as a percentage is of no use: each of the leucocyte lines must be interpreted as an absolute value.
+
+'''The haemogram, or blood count (CBC) includes:'''
+
+- The following erythrocyte indices :
+
+o measurement of haemoglobin concentration (in g/L)
+
+o calculation of the haematocrit corresponding to the volume occupied by red blood cells in relation to the volume of plasma (in %)
+
+o the number of red blood cells (in tera (x10<sup>12</sup>)/L)
+
+o Mean corpuscular volume (in femtolitres-fl)
+
+o Mean Corpuscular Haemoglobin Concentration (MCHC) (in g/dL)
+
+o Mean Corpuscular Haemoglobin Content (MCHC) (in pg/cell)
+
+- Platelet count (PLT) (in giga (x10<sup>9</sup>)/L)
+
+- White blood cell count (in giga (x10<sup>9</sup>)/L)
+
+- The leucocyte count (expressed as an absolute value for each category of leucocyte).
+
+
+- '''Normal values vary according to age, sex and ethnic origin.'''
+<br />
+{| class="wikitable"
+|
+|'''Standards'''
+|
+| colspan="2" |'''Pathological thresholds'''
+|-
+| rowspan="4" |'''Hb'''
+|13-18 g/dL (130-180 g/L)
+|Adult male
+|Anaemia
+
+<13 g/dL
+|Polycythemia
+
+>18 g/dL
+|-
+|12-16 g/dL
+
+(120-160 g/L)
+|Adult women
+|Anaemia
+
+<12 g/dL
+|Polycythemia
+
+>16 g/dL
+|-
+|10.5-16 g/dL
+
+(105-160 g/L)
+<br />
+|Pregnant women
+
+After the 2nd<sup>nd</sup> trimester
+|Anemia
+
+<10.5 g/dL
+|Polycythemia
+
+>16 g/dL
+|-
+|14-23 g/dL
+
+(140-230 g/L)
+|Newborn
+|Anaemia
+
+<14 g/dL
+|Polycythemia
+
+>23 g/dL
+|-
+| rowspan="2" |'''VGM''''
+|82-98 fl
+|Adult
+|Microcytosis
+
+<80 fl
+|Macrocytosis
+
+>100 fl
+|-
+|100-120 fl
+|Newborn
+|Microcytosis
+
+<93 fl
+|Macrocytosis
+
+>125 fl
+
+And up to 140 fl in premature babies
+|-
+|CCMH
+|32-36 g/dL
+<br />
+|Regardless of age or sex
+|Hypochromia
+
+<32 g/dL
+|Hyperchromia
+
+>36 g/dL
+|-
+| rowspan="2" |'''TCMH'''''
+|27-32 pg/cell
+|Adult
+|Martial deficiency
+
+If <24 pg/cell with HSCC <32 g/dL
+|
+|-
+|31-36 pg/cell
+|Newborn
+|
+|
+|-
+| rowspan="2" |'''White blood cells or leukocytes'''
+|4-10 x10<sup>9</sup>/L
+|Adult
+|Leukopenia
+
+<4 x10<sup>9</sup>/L
+|Hyperleukocytosis
+
+>10 x10<sup>9</sup>/L
+|-
+|10 to 26 x10<sup>9</sup>/L
+|Newborns
+|Leukopenia
+
+<10 x10<sup>9</sup>/L
+|Hyperleukocytosis
+
+>26 x10<sup>9</sup>/L
+|-
+| rowspan="2" |'''Neutrophils''''
+|1.5-7 x10<sup>9</sup>/L
+|Adult
+|Neutropenia
+
+<1.5 x10<sup>9</sup>/L
+
+Profound neutropenia
+
+<0.5 x10<sup>9</sup>/L (same clinical value as agranulocytosis-Emergency)
+
+Agranulocytosis
+
+<0.2 x10<sup>9</sup>/L
+|Neutrophil Polynucleosis
+
+>7 x10<sup>9</sup>/L
+|-
+|6-26 x10<sup>9</sup>/L
+|Newborn
+|Neutropenia
+
+Threshold varies and fluctuates according to lifestyle and mode of delivery
+
+Profound neutropenia
+
+<0.5 x10<sup>9</sup>/L (same clinical value as agranulocytosis-Emergency)
+
+Agranulocytosis
+
+<0.2 x10<sup>9</sup>/L
+|Neutrophil Polynucleosis
+
+>26 x10<sup>9</sup>/L
+|-
+|''Eosinophilic Polynuclear'''
+|0.05-0.5 x10<sup>9</sup>/L
+|Adult/newborn
+|
+|Eosinophilia
+
+>0.5 x10<sup>9</sup>/L
+|-
+|Basophil Polynuclear Cells
+|0.01-0.05 x10<sup>9</sup>/L
+|Adult/newborn
+|
+|Basophilia
+
+>0.1 x10<sup>9</sup>/L
+|-
+| rowspan="2" |'''Lymphocytes''''
+|1.5-4 x10<sup>9</sup>/L
+|Adult
+|Lymphopenia
+
+<1.5 x10<sup>9</sup>/L
+|Hyperlymphocytosis
+
+>4 x10<sup>9</sup>/L
+|-
+|2-11 x10<sup>9</sup>/L
+|Newborn
+|Lymphopenia
+
+<2 x10<sup>9</sup>/L
+|Hyperlymphocytosis
+
+>11 x10<sup>9</sup>/L
+|-
+| rowspan="2" |'''Monocytes''''
+|0.1-1 x10<sup>9</sup>/L
+|Adult
+|Monocytopenia
+
+<0.1 x10<sup>9</sup>/L
+|Monocytosis
+
+>1 x10<sup>9</sup>/L
+|-
+|0.4-3.1 x10<sup>9</sup>/L
+|Newborn
+|Monocytopenia
+
+<0.4 x10<sup>9</sup>/L
+|Monocytosis
+
+>3.1 x10<sup>9</sup>/L
+|-
+| rowspan="2" |'''Plaquettes'''
+|150-450 x10<sup>9</sup>/L
+<br />
+|Adult
+
+
+|Thrombocytopenia
+
+<150 x10<sup>9</sup>/L
+|Thrombocytosis
+
+>450 x10<sup>9</sup>/L
+<br />
+|-
+|150-600 x10<sup>9</sup>/L
+|Between 15 days and 6 months
+<br />
+|Thrombocytopenia
+
+<150 x10<sup>9</sup>/L
+|Thrombocytosis
+
+>600 x10<sup>9</sup>/L
+|}
+
+
+'''The reticulocyte count should be requested in addition to the CBC.''' Normal values between 20 to 120 x10<sup>9</sup>/L in adults and children in the absence of anaemia and up to 350 x10<sup>9</sup>/L in neonates. '''In anaemia, a reticulocyte count >150 x10<sup>9</sup>/L defines a regenerative anaemia and a count < 150 x10<sup>9</sup>/L defines an aregenerative anaemia.'''
+
+
+Anomalies requiring urgent treatment by a specialist :
+
+- '''haemoglobin < 60 g/L in adults and children, or < 110 g/L in neonates, or poorly tolerated'' ;
+
+- '''haematocrit > 60% (adult)''' ;
+
+- '''profound neutropenia < 0.5 x10<sup>9</sup>/L;'''
+
+- '''thrombocytopenia < 20 x10<sup>9</sup>/L, even in the absence of haemorrhagic syndrome'';
+
+- '''hyperleukocytosis with immature cells > 20 x10<sup>9</sup>/L'''.

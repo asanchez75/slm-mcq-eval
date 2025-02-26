@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-019-13-B
+|Item_parent=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Item_parent_short=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Rank=B
+|Title=Knowing health insurance benefits in cash and in kind
+|Description=None
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=13}}
+Cash benefits are a replacement income. They are provided, for example, in the form of daily allowances (IJ) and constitute a replacement income for employees who are off work.
+
+The ''benefit in kind'' is the total or partial reimbursement by the health insurance scheme of all or part of the healthcare costs incurred as a result of illness, maternity or an accident at work.
+{| class="wikitable"
+|Risks
+|Risks
+|-
+|Sickness risk
+|1. Cash benefits (socially insured)
+
+Daily benefits paid from the 4th day of sick leave
+|-
+|
+|2. Benefits in kind (insured persons and dependants)
+
+Reimbursement of costs incurred with the application of a co-payment :
+|-
+|
+| variable according to the services
+<br /> - variable according to services
+|-
+|
+| increased for treatment outside the coordinated care pathway (preferred doctor)
+<br /> - variable according to services
+|-
+|
+| exemption for long-term conditions (ALD)
+|-
+|
+|''Limits:''
+
+          - fixed contribution of €1; payable by the patient for each consultation, biological analysis or radiology procedure (up to a maximum of €50 per year)
+
+          - medical deductible payable by the patient for medicines, paramedical procedures and medical transport
+
+          - daily charge payable by the patient in the event of hospitalisation (20 Euros per day)
+
+          - third-party payment system (no need to pay in advance)
+<br />
+|-
+|Maternity cover
+| 1. Cash benefits (social security)
+
+Daily benefits during statutory maternity leave (6 weeks before childbirth and 10 weeks afterwards)
+|-
+|
+| 2. Benefits in kind
+
+          - 100% cover for prenatal examinations
+
+          - 100% cover from the 6th<sup>month</sup> until the 12th<sup>day</sup> after the birth of medical examinations, ultrasounds, birth preparation sessions, costs related to the birth, postnatal examination, perineal rehabilitation sessions (except for the daily hospital charge).
+<br />
+|-
+|Invalidity risk
+
+Conditions
+
+          - age less than 62.5, according to the schedule for the gradual increase in the retirement age
+
+          - ability to work or earn an income reduced by at least two thirds
+<br />
+| 1. Cash benefits (insured persons)
+
+Invalidity pension calculated on the basis of income, residual capacity to work and the possible need for a third person
+
+          2. Benefits in kind
+
+Exemption from co-payment
+|-
+|Death benefit
+|Death benefit paid to beneficiaries under certain conditions and if the person dies while in active employment.
+|}

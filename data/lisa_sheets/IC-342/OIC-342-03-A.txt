@@ -1,0 +1,42 @@
+<br />{knowledge objective
+|Identifiant=OIC-342-03-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the elements of the questioning and clinical examination of a patient who has suffered from malaise or loss of consciousness.
+|Description=Trospective diagnosis of a generalised seizure; questioning the family and friends.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Objectives:
+
+* distinguish a syncope/lipothymia from a generalised epileptic seizure: the main diagnostic criterion is the duration of the loss of consciousness
+* identify the factors that will help in making an aetiological diagnosis
+
+The importance of detailed questioning of the patient and/or one or more witnesses:
+
+* characterise the malaise or loss of consciousness:
+** confirmation of loss of consciousness
+** duration of loss of consciousness
+** search for prodromes
+** circumstances of onset: search for triggering factor(s)
+** onset of abnormal movements, type of abnormal movements, and timing of their onset in relation to the loss of consciousness (simultaneous or delayed).
+* look for elements that may help with the aetiological diagnosis:
+** if the patient has a pacemaker or a mechanical valve prosthesis
+** history of a disease causing dysautonomia
+** history of cardiovascular risk factors
+** family history of heart disease and/or sudden death
+** personal history of primary or secondary cardiomyopathy (whatever the cause)
+** personal history of seizures and/or epilepsy
+** usual treatment: compliance, recent change in treatment
+** psychiatric history and/or history of taking toxic substances (narcotics, alcohol, psychotropic drugs)
+** look for associated signs: chest pain, body aches
+
+Clinical examination:
+
+* look for elements to guide the aetiological diagnosis:
+** vital signs: heart rate, blood pressure when lying and standing
+** cardiovascular examination: irregular pulse, heart murmur, signs of heart failure
+** neurological examination: state of consciousness, signs of deficits
+** loss of urine, tongue biting
+* look for traumatic lesions secondary to loss of consciousness and/or abnormal movements

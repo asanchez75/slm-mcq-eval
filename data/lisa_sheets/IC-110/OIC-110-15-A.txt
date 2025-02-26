@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-110-15-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the risk factors for SAS and associated co-morbidities and complications
+|Description=None
+|Rubric=Etiologies
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=15}}
+
+Sleep fragmentation, as well as intrathoracic pressure abnormalities, are responsible for the cardiovascular and metabolic consequences of SAS: it is a risk factor for hypertension (80% of resistant hypertension), cardiac arrhythmia and coronary insufficiency (50% of patients with cardiac insufficiency), stroke (x2 to 3 times), and diabetes (30% of diabetic patients).
+
+In terms of metabolism, 30% of obese people (and 77% of morbidly obese patients) have an AS. 70% of SAS patients are overweight.
+
+Prevalence increases with age (peaking between the ages of 50 and 70).
+
+It may be associated with abnormalities of the upper airways:
+
+- retrognathia, micromandibulia
+
+- tonsillar hypertrophy
+
+- macroglossia associated with acromegaly and hypothyroidism
+
+It is predominantly male, but at the menopause women are at the same risk as men.

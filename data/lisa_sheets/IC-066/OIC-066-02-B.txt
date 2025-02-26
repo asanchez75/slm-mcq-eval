@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-02-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the prevalence
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=2}}
+
+Common disorder, 10% of adults, 2 times more in women from adolescence onwards.
+
+EDC increases the risk of suicide: 30-50% of suicide attempts are the result of an EDC, and more than 80% of suicide victims have an EDC at the time of the [[Suicide, suicidal, suicidant, suicidaire 2C-353-DE-A01|suicide]].
+
+The first EDC can occur at any age, but more often in young adults (median age 25), regardless of culture, level of education or socio-economic status.

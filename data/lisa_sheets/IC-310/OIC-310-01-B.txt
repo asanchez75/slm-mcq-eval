@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-310-01-B
+|Item_parent=Prostate tumours
+|Item_parent_short=Prostate tumours
+|Rank=B
+|Title=Knowing the main benign and malignant lesions of the prostate gland
+|Description=Benign prostatic hyperplasia (adenomyomatous), adenocarcinoma
+|Rubric=Definition
+|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU
+|Order=1}}
+
+<br />
+
+*The most common tumour in men over the age of 50. It is usually asymptomatic at the time of diagnosis and progresses slowly in most cases.
+
+*Benign prostatic hyperplasia 127]] should not be confused with prostate cancer. It develops at the expense of the transition zone.
+*Adenocarcinoma is the most common form (95% of prostate cancers) and develops preferentially in the peripheral zone of the prostate.
+*Other very rare histological forms include neuroendocrine carcinoma, lymphoma and sarcoma.
+*The ISUP histo-pronostic score (formerly Gleason) characterises the degree of differentiation of the tumour. Tumours with a score of 1 are the best differentiated (least aggressive) and tumours with a score of 5 are the least differentiated (most aggressive).
+
+<br />
+
+*
+
+'''Prognostic groups of the ISUP 2016 classification'''
+{| class="wikitable"
+|'''Group 1'''
+|Formerly Gleason score 6 (3+3)
+|-
+|'''Group 2'''
+|Gleason score 7 (3 majoritarian) (3+4)
+|-
+|'''Group 3'''
+|Gleason score 7 (4 majority) (4+3)
+|-
+|'''Group 4'''
+|Gleason score 8 (4+4, 3+5, or 5+3)
+|-
+|'''Group 5'''
+|Gleason score 9 or 10
+|}

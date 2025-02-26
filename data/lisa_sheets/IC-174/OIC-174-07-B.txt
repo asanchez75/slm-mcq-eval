@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-174-07-B
+|Item_parent=Infectious pathology in adult and child migrants
+|Item_parent_short=Infectious pathology in adult and child migrants
+|Rank=B
+|Title=Know the main vaccines to be updated
+|Description=None
+|Rubric=Management
+|Contributors=Johan Courjon
+|Order=7}}
+
+
+
+
+===Conduct===
+Determine, for each valency, the number of doses that the individual should have received, taking into account age at the time of catch-up, previous doses received with proof of vaccination, ensuring that the <u>minimal</u> interval between previous doses received (primary vaccination and booster) has been respected, regardless of how long ago the doses were administered.
+
+===Examinations to adjust the indications and implementation of catch-up in the context of migration===
+
+======Hepatitis B serology======
+For results with only positive anti-HBs, there are three possibilities:
+
+-level greater than or equal to 100IU/l, no indication for vaccination
+
+-between 10 and 99 IU/l, single additional dose
+
+less than 10IU/l, subject considered to be non-immune
+
+A result with positive anti-HBs and positive anti-HBc is not an indication for vaccination.
+
+======VZV serology======
+
+======Hepatitis A serology======
+
+======Post-vaccination serologies for hepatitis B and tetanus (4 to 8 weeks after vaccination)======
+Depending on the level of antibodies detected, these serological tests can help avoid unnecessary injections of vaccine.
+
+For children under one year of age, the French vaccination schedule should be implemented without post-vaccination serology.
+
+======Screening for tuberculosis disease and LTI ([[2C-174-DP-A01]])======
+
+===Vaccines to be updated===
+Children aged 1 to 5: valences corresponding to the 11 compulsory valences + BCG according to the French vaccination calendar if screening negative
+
+Children aged 6 to 13: diphtheria, tetanus, whooping cough, polio, hepatitis B, MMR, meningococcal C, HPV, chickenpox (if serology negative) and BCG according to the French vaccination schedule if screening negative.
+
+Children aged 14 to 18 and adults: diphtheria, tetanus, whooping cough, polio, hepatitis B, MMR (born from 1980 onwards and women of childbearing age), meningococcus C (up to the age of 24), HPV (girls aged 14 to 19, MSM up to the age of 26), chickenpox (if serology negative).
+
+Hepatitis A from 1 to 18 years of age vaccination indication for children born into families where one of the members is from a highly endemic country and who are likely to stay there (if serology negative)
+
+===General principles of catch-up vaccination for first-time migrants===
+To be carried out as soon as possible after entry into the country and within 4 months of arrival at the "health appointment".
+
+Ensuring traceability is essential to the success of the catch-up process
+
+All doses of vaccine received are counted regardless of the time elapsed since the last dose received, provided that the minimum age, minimum interval between doses and recommended antigen dose for the age have been respected.
+
+Up to four injections can be given during a vaccination session, with the agreement of the person being vaccinated.
+
+After a BCG vaccination, do not vaccinate the same limb for 3 months.
+
+All vaccines can be administered on the same day or at any interval with the exception of live viral vaccines, which must be administered on the same day or 4 weeks apart. However, co-administration between a yellow fever vaccine and an MMR vaccine should be avoided and a minimum delay of 4 weeks is recommended between these vaccines. If an IDR or IGRA is indicated, the MMR vaccine should be administered <u>after</u> these tests.
+
+It is not dangerous to administer vaccines to a person who may already be immune to this disease, so a catch-up vaccination is indicated in cases of unknown status.
+
+Catch-up vaccinations must also comply with current vaccination requirements and ensure that the vaccinations required for children to enter or remain in school (11 vaccinations for children born since 1 January 2018 and 3 vaccinations - DTP - for children born before that date) are carried out.
+
+[https://www.has-sante.fr/upload/docs/application/pdf/2020-01/fiche_synthese_exemples_rattrapage_migrants_vf.pdf Catch-up example for new arrivals]

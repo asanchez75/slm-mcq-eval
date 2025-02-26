@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-197-09-A
+|Item_parent=Spondyloarthritis
+|Item_parent_short=Spondyloarthritis
+|Rank=A
+|Title=Photography of a spondylitis
+|Description=How to recognise dactylitis
+|Rubric=Multimedia content
+|Contributors=
+|Order=9}}
+
+[[File:Dactylitis.jpg|vignette|'''Dactylitis of the 2<sup>th</sup> toe''']]

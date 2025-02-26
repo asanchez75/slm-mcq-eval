@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-052-05-B
+|Item_parent=Strabism and amblyopia in children
+|Item_parent_short=Strabism and amblyopia in children
+|Rank=B
+|Title=Knowing the main causes of strabismus in children
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+Most of the time, a child's strabismus is linked to a disturbance in the acquisition of binocular vision. When the brain incorrectly associates retinal images from each eye, the alignment of the visual axes breaks down.
+
+The various causes of disturbed binocular vision in children are as follows:
+
+'''- Organic pathology''', which disturbs the vision of one eye: in particular, retinoblastoma or congenital cataract are to be feared.
+
+'''- Uncorrected refractive error:''' Hyperopia, which can lead to excessive convergence due to excessive accommodation, or Anisometropia (strong unilateral myopia, for example).
+
+'''- more rarely, dysfunction of an oculomotor muscle.'''

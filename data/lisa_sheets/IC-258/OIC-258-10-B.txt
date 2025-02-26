@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-258-10-B
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=B
+|Title=Know the additional examinations to be carried out when creatinine levels are presumed to be of functional origin.
+|Description=Know the paraclinical elements in favour of the functional nature of an increase in creatinine levels.
+|Rubric=Additional tests
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=10}}
+
+In favour of the functional origin of renal failure:
+
+- ratio (1000 × plasma urea mmol/L/creatinine µmol/L) > 100 ;
+
+- signs of concentrated urine :
+
+U/P osmolar > 2,
+
+U/P urea > 10,
+
+U/P creatinine > 30.
+
+- Urinary Na < 20 mmol/L, Na excretion fraction < 1% (except in the case of renal sodium losses, for example when diuretic treatment is instituted);
+
+- low excreted urea fraction (< 35%) indicating increased tubular reabsorption;
+
+reversal of the urinary Na/K ratio (secondary hyperaldosteronism).

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-232-12-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Title=Knowing how to assess thromboembolic and haemorrhagic risk
+|Description=Adapted scores
+|Rubric=Identification of the emergency
+|Contributors=Jean-Baptiste GUICHARD
+|Order=12}}
+
+[[File:Thromboembolic risk assessment.png|centre|vignette|900x900px]]
+The CHA<sub>2</sub>DS<sub>2</sub>-VASc score is used '''only in the absence of valvular AF''':
+[[File:CHA2DS2-VASc score .png|centred|thumb|900x900px]]
+'''Assessment of bleeding risk''' in the setting of AF:
+
+*Various clinical scores are available, including the HAS-BLED score.
+
+*Assessment of the risk of haemorrhage has no place in the decision to institute anti-thrombotic treatment: a high HAS BLED score is not in itself a contraindication to anticoagulant treatment.
+
+*Assessing the risk of haemorrhage makes it possible to identify patients at risk so that they can be monitored more closely''.

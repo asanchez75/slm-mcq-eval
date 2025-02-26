@@ -1,0 +1,71 @@
+{{knowledge objective
+|Identifiant=OIC-214-09-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Knowing the main causes of thrombocytopenia in children and adults
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+
+
+== '''Central thrombocytopenia''' ==
+
+* defective platelet production in the bone marrow
+* usually associated with other cytopenias (anaemia, leuko-neutropenia).
+
+<br />
+
+=== Causes of central thrombocytopenia ===
+- bone marrow invasion by abnormal cells: acute leukaemia (invasion by blasts), lymphoma (invasion by lymphoma cells), myeloma (invasion by monoclonal plasma cells), bone metastases of solid cancers (invasion by non-haematopoietic tumour cells); or bone marrow invasion by fibrosis: myelofibrosis;
+
+- qualitative bone marrow failure: myelodysplasias; or quantitative: bone marrow aplasia (idiopathic or toxic/drug-induced);
+
+- vitamin deficiency necessary for DNA synthesis / haematopoiesis: folate deficiency (= vitamin B9) or vitamin B12 deficiency.
+<br />
+
+== '''Peripheral thrombocytopenia''' ==
+
+* platelets normally produced in the bone marrow, but destroyed in peripheral blood
+* thrombocytopenia, usually isolated (no associated anaemia or leukopenia).
+
+<br />
+
+=== Causes of peripheral thrombocytopenia ===
+
+==== '''Consumption''' '''of platelets''' ====
+o '''by disseminated intra-vascular coagulation (DIC)''', itself secondary to various serious pathological situations (severe sepsis, haemopathies and cancers, polytrauma, serious obstetric complications). All the coagulation factors are also consumed in this situation ('''[[Decrease in prothrombin rate (tp) SD-218|decrease in PT]]''', '''[[Prolongation of activated partial thromboplastin time (tca) SD-213|longation of APTT]]''', decrease in fibrinogen);
+
+o '''by thrombotic microangiopathy (TMA)''': platelets are consumed within micro-thrombi, and thrombocytopenia is associated with a mechanical haemolytic anaemia (presence of schizocytes) ('''[[Prescription and analysis of blood smear SD-222|prescription and analysis of blood smear]]''''). Organ failure (neurological or myocardial in thrombotic thrombocytopenic purpura; renal failure in haemolytic uraemic syndrome) is associated with these types of TAM, which are life-threatening emergencies.
+<br />
+
+==== ''Immuno-allergic mechanism'' ====
+o mainly drug-induced causes, including heparin-induced thrombocytopenia (HIT)
+<br />
+
+==== '''Immunological mechanism''' ====
+= immunological thrombocytopenia
+
+* primary (immunological thrombocytopenic purpura (ITP)), related to anti-platelet autoantibodies, and diagnosed in the presence of isolated thrombocytopenia only in the absence of any other cause of thrombocytopenia
+* secondary thrombocytopenia, in particular secondary to an autoimmune disease (systemic lupus), a haemopathy (chronic lymphocytic leukaemia), an immune deficiency (common variable immunodeficiency virus, CVID), or a viral infection (human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV), Epstein Barr virus (EBV), Cytomegalovirus (CMV), etc.).
+
+<br />
+
+==== '''Mixed mechanisms''' ====
+Thrombocytopenia associated with certain infectious conditions: malaria, dengue fever, sepsis.
+<br />
+
+== '''Splenic sequestration thrombocytopenia'''' ==
+Any cause of ''[[Splenomegaly SD-058|splenomegaly]]''' may be associated with splenic sequestration thrombocytopenia. This is known as hypersplenism, and thrombocytopenia is frequently associated with moderate anaemia and leukoneutropenia.
+
+Especially in cases of liver disease with portal hypertension (liver cirrhosis, whatever the cause) or haematological disorders (myeloproliferative or lymphoproliferative syndromes).
+
+== Thrombocytopenia in pregnancy ==
+The occurrence of thrombocytopenia during pregnancy may be unrelated to pregnancy (all the causes already mentioned) or related to pregnancy.
+
+Causes specific to pregnancy:
+
+o gestational thrombocytopenia: most frequent cause of thrombocytopenia during pregnancy, moderate thrombocytopenia (> 70 G/L), usually appearing in the 2nd<sup>trimester</sup>, maximum in the 3rd<sup>trimester</sup>, spontaneously favourable evolution in the postpartum period and without risk of foetal or neonatal thrombocytopenia;
+
+o pre-eclampsia and HELLP syndrome (Hemolysis, Elevated Liver Enzyme, Low Platelets): thrombocytopenia in the 2nd or 3rd trimester, associated with hypertension and proteinuria, as well as haemolysis and elevated liver enzymes in the case of HELLP syndrome. These are obstetric emergencies that can be life-threatening for both mother and foetus.

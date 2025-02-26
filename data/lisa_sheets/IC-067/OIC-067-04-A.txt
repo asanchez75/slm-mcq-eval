@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-067-04-A
+|Item_parent=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Item_parent_short=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Rank=A
+|Title=Know the definition and semiology of attention deficit hyperactivity disorder (ADHD)
+|Description=Description of the clinical expression and diagnostic approach to ADHD, a neurodevelopmental disorder common to all ages.
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame
+|Order=4}}
+
+=='''DSM-5 Diagnostic Criteria (Rank B)'''==
+The DSM-5 requires a sufficient number of symptoms of ''inattention'' (cf. [[Attention Deficit Disorder SD-129|attention disorder]]) and/or ''hyperactivity'' (cf. [[Agitation SD-114|agitation]]) with an impact on at least two areas of functioning. The symptoms must have begun ''before the age of 12 and are long-lasting'' (> 6 months).
+
+The positive diagnosis of ADHD is supported by :
+
+*A clinical examination
+*A developmental history and a description of current symptomatology (which may be supported by semi-structured interviews or questionnaires) - cf. [[Psychomotor development abnormality SD-115|psychomotor development abnormality]]
+*Observation of the child and characterisation of his/her behaviour and achievements in different contexts (school questionnaires/ report cards/school achievements).
+*An analysis of the functional impact of the symptoms
+
+
+The "diagnosis of ADHD is clinical". Neuropsychological tests and IQ tests - which are often impaired - can help to characterise the child's cognitive profile, but have no diagnostic value.
+
+The DSM-5 distinguishes several clinical presentations, which may evolve over time:
+
+*Predominantly inattentive
+*Hyperactivity/impulsivity predominant
+*Combined form
+
+==Comorbidities and differential diagnoses==)
+
+=== Main comorbidities ===
+
+*Other neurodevelopmental disorders (50-80%) - see [[Psychomotor development abnormality SD-115|developmental abnormality]], [[Language and/or phonation disorders SD-134|language disorders]], [[Item 55]]
+*Behavioural disorders in children and adolescents SD-133|behavioural disorders]] - cf [[Behavioural disorders in children and adolescents|Item 68]]
+**Oppositional Defiant Disorder
+**Conduct disorder
+*Anxiety disorders (33%) - see [[Anxiety SD-116|anxiety]] and Item 66
+*Obsessive-compulsive disorder
+*Mood disorders - see [[Sad Mood/Moral Pain SD-123|Sad Mood]].
+*Sleep disorders, insomnia or hypersomnia SD-135|sleep disorders]]
+*Substance abuse disorders - cf. [[First addictology consultation SD-292|first addictology consultation]]
+
+=== Main differential diagnoses ===
+
+*Other neurodevelopmental disorders
+*Mood disorders ([[Bipolar disorder I and II 2C-064-DE-B01|Bipolar disorder]] in particular) - cf. [[Sad mood/Moral pain SD-123|Sad mood]]
+*Iatrogenic causes
+
+
+ADHD is associated with a higher frequency of ''risky behaviour, accidents'' at home/public thoroughfares, criminal and suicidal behaviour'' compared with the general population - cf. [[Suicidal risk 2C-066-IU-A01|suicidal risk]]; [[Suicide, suicidal, suicidal, suicidal 2C-353-DE-A01|suicide]]; [[Accidents in children: knowing the means of prevention 2C-047-PC-A05|accidents in children]]

@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-163-07-A
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=A
+|Title=Know the rules for eviction of family and friends and the community
+|Description=Prevention
+|Heading=Management
+|Contributors=André Birgy
+|Order=7}}
+
+1.      Avoidance rules for close contacts and/or the community
+
+Only the index case patient must comply with eviction
+
+If patient at home :
+
+*No antibiotic therapy = 21 days isolation
+*Azithromycin: 3 days' isolation
+*Clarithromycin or cotrimoxazole: 5 days' isolation
+
+If in hospital :
+
+*Single room
+*Additional droplet precautions (surgical mask)
+*Duration of isolation similar to that of a patient at home.
+
+In the event of a case of pertussis, and because it is highly contagious, it is advisable to prescribe antibiotic prophylaxis for contacts.
+
+2.      Antibiotic prophylaxis
+
+Same antibiotic regimen as the curative regimen
+
+Must be prescribed as soon as possible after contact and no more than 21 days after the last contact with the index case.
+
+2 different situations:
+
+*Close contact (people living under the same roof, children and staff at the crèche, etc.): antibiotic prophylaxis unless the subject has been fully vaccinated for less than 5 years.
+*Occasional contact (particularly at school or work): antibiotic prophylaxis only if the subject is at risk and not or incompletely vaccinated (infant, respiratory failure, immunodepression, pregnancy) but also for subjects in contact with infants (maternity or paediatric staff).

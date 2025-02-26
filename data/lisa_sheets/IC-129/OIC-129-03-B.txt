@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-129-03-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Knowing the epidemiology of osteoarthritis sites
+|Description=To know the prevalences of the principal osteoarthritic localizations (hip-knee and hands)
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+The most common form of peripheral osteoarthritis (non-spinal) is gonarthrosis, which causes pain in around 10% of the population. Coxarthrosis occurs in 50% of cases in an architectural defect (dysplasia) and affects 1 to 5% of the population. Digital osteoarthritis is also very common and predominates in the distal and proximal interphalangeal joints.  

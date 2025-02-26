@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-177-31-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Understanding the correct use of antibiotics in children
+|Description=Understand the need to initiate and not to initiate antibiotic therapy; understand the individual and collective risks of unnecessary antibiotic therapy.
+|Rubric=Management
+|Contributors=Elise Launay
+|Order=31}}
+
+cf [[Prescribing antibiotic therapy for infants and children 2C-177-PC-A03|Prescribing antibiotic therapy for infants and children 2C-177-PC-A03]]
+
+There are still too many unjustified antibiotic prescriptions in paediatrics, particularly for viral infections or spontaneously resolving bacterial infections that do not require antibiotics in immunocompetent patients (AOM after the age of 2, for example).
+
+Some indications, on the other hand, are urgent and life-threatening (sepsis, meningitis). It is therefore important to learn to recognise the signs of severe bacterial infections in children, and to use diagnostic tests when in doubt, so as not to overlook a severe bacterial infection or unnecessarily over-treat children with viral infections. Adherence to the infant vaccination schedule is also a good way of avoiding antibiotic prescriptions by reducing the risk of severe bacterial infection.
+
+The risks of antibiotic therapy are
+
+- individual: disruption of the microbiota with long-term effects (allergy, inflammatory disease, etc.); digestive side-effects, allergy (or, more frequently, false diagnosis of allergy on rashes of viral origin, etc.).
+
+- collective: selection of resistant bacteria
+
+
+to find out more: therapeutic education website for children and teenagers to raise awareness of the correct use of antibiotics https://www.e-bug.eu/index.html#France

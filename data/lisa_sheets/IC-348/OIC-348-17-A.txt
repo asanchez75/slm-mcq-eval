@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-348-17-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing how to manage functional renal failure linked to extra-cellular dehydration
+|Description=Know how to use filling solutions (crystalloid)
+|Rubric=Management
+|Contributors=Gabriel Choukroun, Bruno Moulin
+|Order=17}}
+
+Treatment is based on restoring normal blood volume.
+
+To estimate the amount of volume lost, you can use :
+
+*Weight variation,
+*echocardiography of the heart and vena cava to estimate vascular filling.
+
+Isotonic saline (NaCl 9 ‰) is most often used IV. In mild ARF, oral rehydration (saline diet and copious drinks) is often sufficient.
+
+Monitoring: weight curve, heart rate, blood pressure, resumption of diuresis and blood and urine ionograms.

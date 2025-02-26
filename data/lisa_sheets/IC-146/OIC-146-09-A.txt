@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-146-09-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Title=Vaccination in everyday practice: how to control the pain associated with vaccine injections; how to be notified that a vaccination has been given; the benefits of the electronic vaccination record.
+|Description=None
+|Rubric=Support
+|Contributors=
+|Order=9}}
+'''Managing injection-related pain'''
+
+In infants and children, a local anaesthetic using a combination of lidocaine and prilocaine (Emla®, Emla patch®) one hour before vaccination. The combination of Emla<sup>®</sup> cream and the sucking of a teat with sucrose appears to be a more effective alternative to lidocaine alone for infants, regardless of its form or sucking alone. Breastfeeding also helps to reduce pain.
+
+Distraction techniques (breathing exercises, songs, cartoons, etc.) can be used with children.
+
+'''Notify a vaccine'''
+
+Record the vaccine administered in the vaccination booklet/health record. Specify its commercial name, date of administration and batch number. Identify the person who carried out the vaccination by u, n stamp and signature. Also note the date of the next booster. Record these same elements in the patient's computer file, if possible with a vigilance alert to facilitate follow-up.
+
+The advantages of the electronic vaccination record (CVE)
+
+<nowiki>https://www.mesvaccins.net/web/media</nowiki>
+
+The mes vaccins.net server allows patients to record the vaccinations they have had, share this information with their carers, and receive an e-mail alert to notify them of any booster shots they need to have. The DGOS plans to eventually integrate it into the electronic personal medical file.

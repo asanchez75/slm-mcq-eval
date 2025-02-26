@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-103-14-B
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=B
+|Title=Knowing the principle of diagnostic and therapeutic manoeuvres for BPPV
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=14}}
+
+ 
+'''<u><big>General principles</big></u>''''
+
+*Diagnosis of BPPV = in a patient with a typical history of positional vertigo, no abnormalities on otoneurological examination, no spontaneous nystagmus: search for vertigo with nystagmus triggered by positional manoeuvres.
+*Diagnostic stage: each semicircular canal is associated with a manoeuvre that places the canal in a vertical position (sedimentation of otoconia). In the case of BPPV, it triggers vertigo with nystagmus in the plane of the canal tested, which is best seen under videonystagmoscopy.
+*For BPPV of the posterior semicircular canal (the most common and easiest to treat): Dix and Hallpike manoeuvre.
+
+'''<big><u>Treatment</u></big>''':
+
+* The ENT specialist or vestibular physiotherapist performs a release manoeuvre corresponding to the incriminated canal.  
+* A single manoeuvre is generally sufficient.
+* For the posterior canal: Semont manoeuvre (fast) or Epley manoeuvre (slow).
+
+[[File:Vppb.png|thumbnail|Work by Dix and Hallpike]]
+
+
+<br />

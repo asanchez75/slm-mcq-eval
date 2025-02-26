@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-159-03-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the risk factors for tuberculosis
+|Description=None
+|Rubric=Etiologies
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=3}}
+
+'''Summary: 5 risk factors to remember: undernutrition, precariousness, coming from an endemic area, immunodepression, extreme ages.''''
+
+The [[Denutrition/malnutrition SD-030|denutrition]]: a low ''<u>body mass index (BMI)</u>'' is associated with an increased risk of acquiring tuberculosis
+
+Precariousness ([[Precarious social situation and isolation SD-347|precarious social situation and isolation]]) and more generally unfavourable socio-economic conditions (poverty, prison environment, etc.) due to promiscuity and difficulty in accessing care.
+
+Coming from an endemic area: patients from Africa, South-East Asia, Central Asia, South America, Central and Eastern Europe are particularly at risk of developing TB disease on arrival in the country, with the added potential risk of multi-drug resistance depending on their country of origin.
+
+Immunosuppression :
+
+- <u>''iatrogenic:''</u> anti-TNFα biotherapies, chemotherapy, corticosteroids, ...
+
+- <u>''infectious:''</u> HIV/AIDS (to be sought systematically),
+
+- <u>''neoplastic:''</u> cancer <u>''solid or''</u> haemopathies
+
+- Extreme ages: children under 5 years of age, particularly under 2 (immature immune system) and the elderly (immunosenescence).

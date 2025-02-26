@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-172-07-A
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Know the clinical manifestations associated with intestinal and hepatic amoebiasis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=7}}
+
+Intestinal infection by Entamoeba histolytica is often asymptomatic (healthy carriers). Clinical symptoms may appear months or even years after infection.
+
+
+''<big><u>Acute intestinal amoebosis:</u></big>''
+
+'''1.''' '''Typical form''': sudden onset of a typical dysenteric syndrome associating :
+
+*afaecal diarrhoea (10 to 15 stools per day), with the presence of mucus and blood.
+*abdominal pain in the form of pressure and tenesmus;
+*no fever in general.
+*the general condition is initially well preserved
+*The disease progressively worsens, sometimes going into remission.
+
+Clinical examination :
+
+*Tender abdomen (++ iliac fossae), no hepatomegaly,
+*Painful rectal examination.
+
+'''2. Mild form'': the most frequent, with episodes of blood-streaked stools, which may go unnoticed.
+
+
+''<u><big>Hepatic amoebosis</big></u>''
+
+The main site of tissue amoebosis, a complication of untreated intestinal amoebosis. Hepatic manifestations may appear several months or years after contamination.
+
+'''1.''' '''Progressive onset,''' in the immediate aftermath or at a distance from an episode of intestinal amoebosis, sometimes ignored,
+
+'''2.''' '''Triad''' characteristic symptoms: '''[[Hepatomegaly SD-006|Hepatomegaly]] painful and febrile'''', with altered general condition:
+
+*pain in the right hypochondrium radiating towards the shoulder
+*early, constant, plateau fever of 39 to 40°C
+*hepatomegaly, smooth, painful on shaking.
+
+'''3. Possible pulmonary manifestations at the right base'''
+
+All in all, a severe liver abscess (visible on imaging: ultrasound or CT scan), requiring "rapid management". The outcome is always unfavourable in the absence of treatment.

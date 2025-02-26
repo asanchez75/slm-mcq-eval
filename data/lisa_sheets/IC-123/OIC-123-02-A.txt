@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-123-02-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Intitle=To know the definition of gerontology
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Gerontology is the study of ageing in its biomedical, sociological, geographical, economic, cultural and demographic aspects.

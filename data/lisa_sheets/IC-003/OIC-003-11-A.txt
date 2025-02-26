@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-003-11-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing the definition of a medical decision
+|Description=Context; care environment; decision-makers
+|Rubric=Definition
+|Contributors=Jacques Bouaud,Brigitte Seroussi
+|Order=11}}
+
+'''Definition''': decision is defined as "the action of deciding, or the result of that action" and refers to the verb decide. To decide is "to stop, to determine what one is going to do or think". Its synonyms give a clearer idea of the concept: to arbitrate, to stop, to choose, to order, to conclude, to decree, to decide, to dictate, to order, to foresee, to take sides, to prescribe, to resolve, to solve, to rule, to decide. A decision is an abstract concept; making a decision is first and foremost a conceptual operation. On the other hand, implementing a decision is generally a concrete operation, in the sense that it will have an impact on the state of the world.
+
+- Medical decisions are diverse, ranging from the introduction of treatment to making a report.
+
+- Not introducing treatment or carrying out additional tests are also medical decisions.
+
+<br />

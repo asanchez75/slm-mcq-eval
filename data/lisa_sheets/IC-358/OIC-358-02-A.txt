@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-358-02-A
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=A
+|Title=Knowing how to identify situations of immediate severity in acute pancreatitis
+|Description=Know how to look for signs of shock, hypoxia and oliguria/anuria in acute pancreatitis (item 332).
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=2}}
+The immediate severity of the BP is assessed on the basis of the following elements:
+
+* the presence of a Systemic Inflammatory Response Syndrome (SIRS)
+* the presence of one or more organ failures (shock, consciousness disorders, acute renal failure, acute respiratory distress, disseminated intravascular coagulation)
+* the patient's history: risk of decompensation of a chronic disease
+
+The presence of criteria of immediate severity requires hospitalisation in an intensive care unit (absence of organ failure) or in intensive care (1 or more organ failures).

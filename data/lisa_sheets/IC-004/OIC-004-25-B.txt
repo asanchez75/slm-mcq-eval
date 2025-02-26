@@ -1,0 +1,179 @@
+{{knowledge objective
+|Identifiant=OIC-004-25-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the principles of safety culture
+|Description=Knowing the principle of risk management, its coordination and the culture of safety at individual and collective levels; defining CREX; health vigilance; the role of ARS and ANSM.
+|Rubrique=Management
+|Contributors=
+|Order=25}}
+'''1. safety culture:'''
+
+- Is the set of ''ways of doing and thinking'' which contribute to improving patient safety and which are ''shared'' by teams (healthcare professionals) and organisations (particularly healthcare establishments).
+
+- It can't eliminate all errors, but it can help to manage them effectively and "improve from mistakes".
+
+
+It is based on four components:
+
+
+1. the reporting culture for adverse events associated with healthcare
+
+2. the learning culture or how to learn collectively from team mistakes (and personal mistakes too)
+
+3. a culture of teamwork and adaptability to change ('flexible culture')
+
+4. the ''fair management'' culture (''just culture''), which is based in particular on the preponderance of organisational and teamwork dysfunctions in the constitution of undesirable events associated with care, and allows their 'non-punitive' reporting.<gallery perrow="1">
+File:4 components.png
+</gallery>(in Enquêtes sur la culture de sécurité, HAS, May 2019).
+
+'''2.    The risk management approach:''''
+
+- Its aim is to ensure patient safety, and in particular to reduce the risk of adverse events associated with care.
+
+- It forms part of the establishment's policy and is set out in an evolving action programme, modulated according to the specific risks of the establishment and the priorities adopted.
+
+
+Risk management and safety culture at individual and collective levels:
+
+
+- Is ''governed'' by the establishment's management and by the Commission Médicale d'Établissement (CME), which has this as one of its primary functions
+
+- Is ''coordinated'' by a person appointed jointly by the director of the establishment and the chair of the CME. This ''risk and safety management coordinator'' :
+
+o Contributes to defining the guidelines and action programme for quality and risk management
+
+o Disseminate the corresponding methodological expertise
+
+o Participates in "a priori" risk assessment (mapping)
+
+o Organises the collection of internal safety data (indicators, audits)
+
+o Ensures "a posteriori" analysis of undesirable events
+
+o Coordinates regulatory and scientific monitoring
+
+- Is ''implemented'' by the various working groups and people involved.
+
+
+
+'''3.    Experience feedback committees (CREX)'''
+
+- These are ''collective analysis'' processes, the aim of which is to ask questions as a team about its practices and organisation in order to improve patient safety and increase awareness of risks.
+
+- Their method includes:
+
+o The "reporting" by a professional of an undesirable event associated with care, whether or not it has had consequences.
+
+o A generally monthly review of reported cases, with the ''choice'' :
+
+- A '''priority''' event
+
+- The pilot in charge of the investigation
+
+o L''''investigation''' using a systemic analysis method, e.g. the ALARM method (see above)
+
+o The drafting of a "report" presented and discussed by the team at the next CREX meeting.
+
+o Drawing up and monitoring an "improvement plan".
+
+
+CREX is a "short loop" in risk management. It involves the healthcare professionals directly concerned as part of a "multi-professional team". For example, feedback after the influx of victims of the November 2015 attacks: problem of identifying victims, how to improve it afterwards [[Connaître les principes de la Culture de la sécurité 2C-004-PC-B06#%20msocom%201|[FR1]]].
+
+
+
+
+'''4.    Health monitoring:'''
+
+- Enable the collection, analysis and dissemination of data relating to undesirable health events
+
+- They all involve :
+
+o The ''declaration'' of serious adverse reactions
+
+o Recording and evaluation of the data
+
+o Carrying out '''' studies on product safety
+
+o Carrying out and monitoring corrective actions''''''.
+
+
+Eight are coordinated by the French National Agency for the Safety of Medicines and Health Products (ANSM):
+
+
+1 ''Pharmacovigilance'' (medicinal products for human use)
+
+2 ''Drug dependence - addictovigilance'' (substances with psychoactive effects, excluding ethanol and tobacco)
+
+3.    Haemovigilance (transfusion chain)
+
+4.    '''Matériovigilance''' (medical devices)
+
+5.    Reactovigilance (in vitro diagnostic medical devices)
+
+6.    Biovigilance (elements and products derived from the human body: organs, cells, milk)
+
+7.    Cosmetovigilance (cosmetic products)
+
+8.    Vigilance of tattoo products
+
+
+There are also four other vigilances:
+
+
+1 ''Toxicovigilance'' (natural or synthetic substances or mixtures), coordinated by ANSES
+
+2. infectiovigilance (nosocomial infections), coordinated by the nosocomial infection alert, investigation and surveillance network (RAISIN)
+
+3.    '''AMP-vigilance''' (gametes, embryos and germline products in the context of medically assisted procreation), coordinated by the Agence de biomédecine (French Biomedicine Agency).
+
+4.    Radiovigilance (radioelements), coordinated by the French Nuclear Safety Authority (ASN)
+
+
+They have national, regional and local levels.
+
+
+5.    '''ANSM:'''
+
+- Coordinates eight of the health vigilance agencies (see above)
+
+- Its main mission is to ensure the safety of health products:
+
+o By regularly checking that the benefit/risk balance remains positive over time, in real life (after marketing).
+
+o By proposing measures to reinforce the safety of health products
+
+o By controlling the quality of healthcare products (dedicated laboratory)
+
+o By inspecting products and practices
+
+o Ensuring the availability of medicines and medical devices (risk of stock-outs)
+
+
+6.    ARS'' :
+
+- Their regional health project includes a "health emergency monitoring, alert and management component" (VAGUSAN).
+
+- To this end, they have a health monitoring, alert and management unit (CVAGS), which is on call 24 hours a day (regional focal points).
+
+- In conjunction with government departments, prefectures and the Regional Intervention Units (CIRe), which are the regional extension of Santé Publique France
+
+- Covers risks related to healthcare activities, health products and food, and living environments (air, water, soil).
+
+- This monitoring covers in particular :
+
+o "Notifiable" diseases
+
+o Chronic illnesses
+
+o Infectious diseases
+
+o Diseases linked to the environment ''''
+
+o Work-related illnesses.
+
+
+----[[Know the principles of safety culture 2C-004-PC-B06#%20msoanchor%201|[FR1]]]For example, feedback after the influx of victims of the November 2015 attacks: problem of identifying victims, how to improve it afterwards.
+
+<br />

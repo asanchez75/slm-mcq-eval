@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-274-04-B
+|Item_parent=Vomiting in infants, children and adults
+|Item_parent_short=Vomiting in infants, children and adults
+|Rank=B
+|Title=Knowing the aetiological treatment of vomiting in children
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=4}}
+The first thing to do is to assess the impact of vomiting on hydration levels and manage any dehydration.
+
+Treatment is primarily aetiological (see [[Understanding the diagnostic approach to vomiting in children 2C-274-DP-A01|Understanding the diagnostic approach to vomiting in children 2C-274-DP-A01]]).

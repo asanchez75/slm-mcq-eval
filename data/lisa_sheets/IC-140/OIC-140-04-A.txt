@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-140-04-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Item_parent_short=Multidisciplinary palliative care for patients in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Rank=A
+|Title=Knowing the clinical, relational and legal points of reference when a patient refuses treatment.
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Laure Serresse
+|Order=4}}
+
+
+==<small>''Clinical landmarks''</small>==
+
+*Eliminate associated factors that may impair judgment (cognitive, psychiatric disorders, etc.) or be responsible for the refusal (physical, psychosocial, spiritual suffering, etc.).
+
+*Ensure that refusal of treatment is informed
+
+*Reassess the situation and, if necessary, enlist the help of outside experts (psychiatrist, neurologist, palliative care team, etc.).
+
+*Implementing an appropriate care plan (refusing treatment is not the same as refusing care; a patient can refuse one treatment but not others).
+
+==<small>''Relationship benchmarks''</small>==
+
+*Maintaining communication, even if refusing treatment has an emotional impact on both the doctor and the patient, which can alter the quality of the relationship of trust.
+
+*Understanding the patient's motivations and respecting the personal, ideological, philosophical or religious values that motivate the refusal of treatment, even if these may conflict with rationality and medical experience.
+
+==<small>'''Legal benchmarks''</small>==
+[[Refusal of care 2C-009-PC-A02|The right to refuse treatment]] is recognised by the French Public Health Code:
+
+''" Everyone has the right to refuse or not to receive treatment. However, the patient's care remains the responsibility of the doctor, including palliative care.''
+
+''The doctor is obliged to respect the wishes of the person after informing him or her of the consequences of his or her choices and of their seriousness. If, by refusing or interrupting treatment, the person's life is endangered, he must repeat his decision within a reasonable time. He or she may call on another member of the medical profession.
+
+The entire procedure is recorded in the patient's medical record. The doctor safeguards the dignity of the dying person and ensures the quality of his or her end of life by providing the palliative care mentioned in article L. 1110-10.''
+
+''No medical procedure or treatment may be carried out without the free and informed consent of the person concerned, and such consent may be withdrawn at any time''.
+
+See: [[Refusal of care 2C-009-PC-A02]]; [[Respect for autonomy 2C-009-DE-A05]]; [[Right and duty to inform 2C-009-PC-A01]]; [[Know the definitions of autonomy 2C-007-DE-A05]]; [[Know the definition of refusal of care 2C-007-PC-A02]].

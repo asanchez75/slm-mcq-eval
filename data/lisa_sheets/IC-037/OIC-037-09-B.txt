@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-037-09-B
+|Item_parent=Voluntary termination of pregnancy
+|Item_parent_short=Voluntary termination of pregnancy
+|Rank=B
+|Title=Knowing the contraindications of different methods
+|Description=None
+|Rubric=Taking charge
+|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini
+|Order=9}}
+
+There are contraindications to mifepristone and misoprostol (see table).
+
+There are also contraindications to the medicated technique:
+
+- coagulation disorders, anticoagulant treatment (no control of haemorrhage)
+
+- profound anaemia (Hb < 9-10 g/dL)
+
+- IUD in place
+
+- patient isolated, did not understand the information, control visit impossible, travel after the procedure "in a risky health zone".
+
+There are no absolute contraindications to the instrumental method.
+{| class="wikitable"
+|Mifepristone
+|'''Misoprostol''''
+|-
+|chronic adrenal insufficiency
+|hypersensitivity to misoprostol
+|-
+|severe asthma not controlled by treatment
+|history of allergy to prostaglandins
+|-
+|hereditary porphyria
+|asthma / spasmodic bronchitis
+|-
+|hypersensitivity to the active substance
+|Cardiovascular history: angina pectoris,
+|-
+|
+|rhythm disorders, Raynaud's disease,
+|-
+|Special precautions:
+|heart failure
+|-
+|malnutrition
+|and severe unbalanced hypertension
+|-
+|liver failure
+|
+|-
+|renal insufficiency
+|
+|}
+Table: contraindications for drugs used for abortions

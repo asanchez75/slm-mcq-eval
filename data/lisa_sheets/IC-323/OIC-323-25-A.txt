@@ -1,0 +1,41 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Knowing intention-to-treat and per-protocol analysis
+|Description=Know the definition of an intention-to-treat, modified intention-to-treat or per-protocol analysis and their respective roles.
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Jérôme Lambert (CIMES)
+|Order=25
+|Identifiant=OIC-323-25-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+=='''Intention-to-treat analysis (''ITT - Intent to Treat Analysis, or full set analysis'')''''==
+
+All randomised patients are analysed in the group assigned to them during randomisation, even if there has been a deviation from the protocol, for example: **Irregular taking of treatment, taking the other group's treatment, etc:
+**Irregular taking of treatment, taking the treatment of the other group, etc.
+**Premature discontinuation of treatment, premature study exit, lost to follow-up, etc.
+*Purpose: to maintain the initial comparability of groups created by randomisation and maintained if possible by double-blinding during the trial, and thus avoid attrition bias.
+*Missing data must be replaced ("imputed") by a value: most unfavourable value (death, failure), patient's baseline value, last known value for the patient if the measurement is repeated during the trial (''Last Observation Carried Forward, LOCF''), mean value of the patient's randomisation group, etc.
+*Analysis that tends to reduce the size of the difference observed between groups. This is the reference method for analysing data from a superiority trial. It is also a "pragmatic" estimate of the effect of prescribing a treatment, regardless of subsequent compliance.
+
+=='''Modified intention to treat analysis (m''ITT - modified Intent to Treat Analysis'')'''==
+It is sometimes accepted that certain patients should not be included in the analysis of a randomised trial without this calling into question the comparability of the groups too significantly :
+
+1/ patients wrongly included because they do not have the required diagnosis (for example, a patient whose diagnosis of cancer is finally ruled out after inclusion in a trial comparing two chemotherapies), or with exclusion criteria that were incorrectly assessed initially.
+
+2/ patients who did not take the drug at all (or did not have the surgery) and for whom no evaluation of the endpoints after randomisation was carried out
+
+=='''Per Protocol (PP) Analysis'''==
+
+*Analysis that excludes all patients with deviations from the protocol:
+**errors on one or more selection criteria
+**treatment compliance problems during follow-up (e.g. taking less than 75% of the planned medication during the trial), premature discontinuation of treatment, etc.
+**missing data on endpoint
+**premature study withdrawals, lost to follow-up
+**premature study withdrawals, lost to follow-up, etc.
+*Tendency to facilitate the demonstration of a difference between groups.
+*If too many patients are excluded, there is a risk that the comparability of the groups created by randomisation will be destroyed, leading to a bias that could undermine the conclusions of the study (attrition bias).
+*In a non-inferiority trial, it is recommended to perform ITT and PP analyses and check that their conclusions are concordant
+<gallery>
+</gallery><references />

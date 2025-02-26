@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-043-01-A
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=A
+|Title=Determine, by clinical examination, the origin of bleeding and quantify it
+|Description=None
+|Rubric=Diagnosis
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=1}}
+
+The origin of [[Abnormal genital bleeding (outside known pregnancy) SD-112|genital bleeding]] (bleeding from the vagina) is determined by speculum examination: vaginal, cervical or endo-uterine (metrorrhagia or menorrhagia).
+
+== '''Definitions'''==
+- ''Normal menstruation'': duration between 3 and 6 days and blood loss < 80 mL.
+
+- Menorrhagia: periods that are too heavy in volume or duration.
+
+- ''Metrorrhagia'': genital bleeding between periods.
+
+- ''Menometrorrhagia'': menorrhagia + metrorrhagia.
+
+==''Bleeding is quantified by'''==
+- questioning: number of fillings, clots, clothing stained by bleeding, symptoms of anaemia.
+
+- Higham score for menorrhagia ;
+[File:Higham score.png|vignette|Higham score]]
+- speculum examination: visualisation of active bleeding;
+
+- assessment of blood spoliation: HemoCue®, CBC (haemoglobin level).
+
+''[[Erythrocyte indices abnormality (haemoglobin level, haematocrit...) SD-214|Erythrocyte indices abnormality (haemoglobin level, haematocrit...)]], [[Haemoglobin decrease SD-217|haemoglobin decrease]]''''<br />

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-239-06-A
+|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Rank=A
+|Title=Photographs of Raynaud's phenomenon (syncopal phase)
+|Description=None
+|Rubric=Multimedia content
+|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello
+|Order=6}}
+
+[[File:Raynaud.jpg|vignette|Raynaud's phenomenon (syncopal phase)]]

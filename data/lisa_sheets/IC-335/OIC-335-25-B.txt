@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-335-25-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Know the definition of Le Fort fractures
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=25}}
+What Le Fort fractures have in common is that they separate the palatal plateau and the base of the skull at variable heights. They mobilise and displace the maxillary dental arch, creating an occlusal disorder: they are sometimes referred to as "occluso-facial" fractures.
+
+Depending on the height of the fracture, there are 3 Le Fort stages
+
+schematically:
+
+* Le Fort I: maxillary disjunction
+* Le Fort II: maxillary and nasal separation
+* The Fort III: complete craniofacial disjunction, with a line passing through the orbits;
+
+All involve the natural cavities of the face (nasal cavities, maxillary sinuses, ethmoidal cells). The pterygoid processes are systematically fractured.
+
+Only high-kinetic trauma can induce these fractures, in which case patients should be considered as having suffered head trauma until proven otherwise.

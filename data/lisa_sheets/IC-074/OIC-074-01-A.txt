@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-074-01-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Know the definition and main classes of psychotropic drugs
+|Description=Antipsychotics; Antidepressants; Anxiolytics; Hypnotics; Thymoregulators; Psychostimulants
+|Rubric=Definition
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=1}}
+
+'''Psychotropic drugs''': all chemical substances of natural or artificial origin which have a '''psychological''' effect, i.e. are capable of modifying mental activity.
+
+'''Main classes''' :
+
+* antipsychotics
+* antidepressants
+* anxiolytics
+* hypnotics
+* thymoregulators
+* psychostimulants.

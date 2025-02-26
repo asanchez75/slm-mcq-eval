@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-027-11-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Intitulé=Measles : Knowing the elements of foetal prevention
+|Description=Knowing vaccination / passive prevention
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=11}}
+Unvaccinated pregnant women who have never contracted measles are among those at risk of complications. It is essential to prevent and monitor the occurrence of infection in pregnant women.
+
+'''In the event of proven contagion''', it is advisable to :
+
+- Check the patient's vaccination status (health record)
+
+- Perform an emergency [[Interpretation of a SD-236 serology result|serology]] (check for the presence of IgG)
+
+- In HIV-negative pregnant women, IV immunoglobulins can be administered within 6 days of infection (protection for one month).
+
+- Following childbirth, vaccination with a trivalent vaccine (MMR) is indicated.
+
+In the event of a rash compatible with measles, it is advisable to :
+
+- Implement measures to prevent transmission: social distancing, wearing a mask, etc.
+
+- Search for a contact
+
+- Biological confirmation of the diagnosis: salivary RT-PCR and/or search for specific IgM in saliva/serum
+
+- If severe signs are present: hospitalisation (avoid maternity hospital)
+
+- Initiation of symptomatic treatment: antipyretics
+
+There is no reason to try to stop a patient going into labour.
+
+There is no reason to prescribe antibiotics routinely.

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-247-23-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Knowing the general principles of multifactorial management of T2DM and the patient-centred approach.
+|Description=None
+|Topic=Management
+|Contributors=Gaetan Prévost,Eva Feigerlova,Hélène Bihan,Claire Briet,Etienne Larger
+|Order=23}}
+
+Multifactorial management of T2DM means taking into account all the CV risk factors present in the patient.
+
+In addition to controlling blood sugar levels, therapeutic objectives will include stopping smoking, controlling lipid levels and blood pressure, and adhering to dietary rules, physical activity and taking medication.
+
+Therapeutic objectives (glycaemia, blood pressure, lipids) are tailored to the patient's clinical and biological profile.
+
+
+The factors to be taken into account when determining the glycaemic target (HbA1c) are the duration of diabetes, life expectancy, the existence of co-morbidities, the risk of hypoglycaemia [[Hypoglycaemia SD-209]] or other adverse drug reactions [[Suspicion of an adverse drug reaction or treatment SD-348]] and the patient's motivation.
+
+
+Lipid control targets are mainly adapted to cardiovascular risk (primary prevention, presence of FDR, secondary prevention), blood pressure targets to cardiovascular and renal risk (GFR, proteinuria).

@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-306-03-B
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=B
+|Title=Knowing the epidemiology and prognosis of benign and malignant tumours
+|Description=To understand the epidemiological and prognostic features of ovarian cancer
+|Rubric=Epidemiology
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=3}}
+'''Organic benign tumours''':
+
+- 5 to 10% of women will develop an ovarian tumour during their lifetime, most often a benign ovarian cyst.
+
+'''Malignant epithelial tumours''' :
+
+- 8<sup>th</sup> most common cancer in women and 2<sup>nd</sup> gynaecological cancer in order of frequency after endometrial cancer in 2018
+
+- 4<sup>th</sup> cause of cancer deaths in women in 2018
+
+- Mostly affect women after the ''menopause''.
+
+- ¾ of patients are diagnosed at an advanced stage (FIGO stage IIIc and IV)
+
+- Poor prognosis: overall survival at 5 years of 43% for all stages combined, 85% for stage I and less than 20% for stage IIIc-IV.
+
+- Around 10% of ovarian cancers occur in the context of a genetic "predisposition".
+
+Borderline tumours of the ovary (BTO):
+
+- 10 to 20% of malignant tumours
+
+- Almost a third of cases occur in women under the age of 40
+
+- In the majority of cases, OFDs are discovered at an early stage
+
+- High survival rate, with overall survival of over 94% at 10 years
+
+- Low risk of invasive recurrence (0.5% to 3.8%)

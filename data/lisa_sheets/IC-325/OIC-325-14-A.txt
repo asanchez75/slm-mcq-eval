@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-325-14-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Know how to report an adverse reaction suspected to be due to biomaterials.
+|Description=Know how to report an adverse reaction suspected of being due to biomaterials (what to report, to whom, by whom, how?).
+|Rubric=Definition
+|Contributors=
+|Order=14}}
+
+
+= Report of an adverse reaction suspected to be due to biomaterials =
+
+== What to report
+Any incident or risk of a serious incident resulting or likely to result in the death or serious deterioration in the state of health of a patient, third party or user relating to a medical device.
+<br />
+
+== To whom and how?
+To the local materials vigilance correspondent if the witness of the incident works in a health establishment or in an association distributing medical devices at home.
+
+Directly to the ANSM using the portal for reporting adverse health events (<nowiki>https://signalement.social-sante.gouv.fr</nowiki>) or by post (materiovigilance@ansm.santé.fr) with the corresponding Cerfa declaration form if the witness of the incident does not work in a health establishment, is a manufacturer, an agent or a private individual.

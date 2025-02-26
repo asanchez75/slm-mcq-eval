@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-245-18-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the causes of decompensation in treated adrenal insufficiency
+|Description=None
+|Rubric=Etiologies
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=18}}
+Any intercurrent pathology (vomiting, diarrhoea, infection, fracture, myocardial infarction, surgery, anaesthesia, invasive diagnostic procedure, major physical effort, intense psychological stress, etc.) is a cause of decompensation of treated adrenal insufficiency.
+
+And the patient's failure to adapt hydrocortisone treatment sufficiently to these situations: Importance of therapeutic education in adrenal insufficiency.

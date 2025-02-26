@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-033-05-B
+|Item_parent=Breastfeeding
+|Item_parent_short=Breastfeeding
+|Rank=B
+|Title=Knowing the mechanisms and factors favouring complications of breastfeeding
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Aurélien Matuzzi, Philippe Deruelle, Paul Guerby
+|Order=5}}
+
+
+== '''Insufficient milk''' ==
+Mechanisms and contributing factors :
+
+- '''Separation''' mother/child ;
+
+- Previous cosmetic breast surgery
+
+== '''Engorgement mammaire''' ==
+Mechanisms and contributing factors :
+
+- Delayed initiation of breastfeeding at birth;
+
+- '''Poor latch''' resulting in poor milk extraction and ineffective suckling;
+
+- '''Arbitrary limitation''' of the frequency or duration of feeds;
+
+- '''Complement''';
+
+- '''Blocked milk duct''' ('''73. [Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]''''[[Pain, burning, cramps and paresthesias SD-073|)]]]: associated with engorgement corresponding to the blocked duct area.
+
+== '''Crevasses''' ==
+Mechanisms and contributing factors: '''abnormal friction'' between the nipple and the newborn's mouth ('''poor latch on'', sucking problems or tongue curl that is too short).
+
+== '''Mastitis (lymphangitis or galactophoritis)''' ==
+Mechanisms and contributing factors :
+
+- '''Milk stasis and engorgement''' ;
+
+- '''Superinfected crevices.'''
+
+== '''Breast abscess''' ==
+Mechanisms and contributing factors :
+
+- '''Milk stasis and engorgement''' ;
+
+- '''Superinfected crevices.'''

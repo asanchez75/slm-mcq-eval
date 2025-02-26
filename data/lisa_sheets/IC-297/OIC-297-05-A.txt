@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-297-05-A
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=A
+|Title=Knowing the circumstances and clinical signs that should raise the suspicion of a thoracic tumour in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Virginie Gandemer
+|Order=5}}
+The clinical presentation of thoracic tumours varies greatly depending on the aetiology, with the most common being a suspicion of a mass on a chest X-ray. Malignant tumours are associated with more obvious clinical pictures linked to the invasion and compression exerted by the mass and are sometimes associated with an alteration in general condition.'''
+
+Bronchial or primary pulmonary tumours are exceptional. Thoracic tumours can develop at the expense of the chest wall (musculoskeletal sarcomas) but are most often found in the mediastinum. The aetiology and symptoms will differ depending on the area concerned, with 3 compartments: pre-vascular (anterior), visceral (middle) and paravertebral (posterior). In the anterior and middle mediastinum, there are germ cell tumours and lymphomas which can cause "superior cava syndrome" or obstructions of the respiratory airways with respiratory noises, and in the posterior mediastinum, there are tumours of the [https://sides.uness.fr/lisa/Chaine_Sympathique_Latéro-Vertébrale sympathetic system] (neuroblastoma) which can cause neurological signs of "spinal cord compression".
+
+<br />

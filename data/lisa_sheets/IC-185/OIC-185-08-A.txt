@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-185-08-A
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=A
+|Title=Knowing the main aetiologies
+|Description=None
+|Rubric=Etiologies
+|Contributors=Gilles Kaplanski
+|Order=8}}
+INFECTIONS (ACUTE AND CHRONIC)
+
+* Sepsis, pneumonia, acute pyelonephritis, acute prostatitis, meningitis, encephalitis, spondylodiscitis, arthritis, etc.
+* Osler's disease, tuberculosis, cold abscess, sigmoidal diverticulitis, Whipple's disease, Castleman's disease...
+
+NEOPLASIA AND HEMATOLOGICAL DISEASES
+
+* Kidney cancer, colon cancer, prostate cancer...
+* Non-Hodgkin's lymphoma, Hodgkin's disease...
+
+INFLAMMATORY AND AUTOIMMUNE DISEASES
+
+* Rheumatoid arthritis, ankylosing spondylitis, Still's disease, myositis and dermatomyositis, systemic lupus erythematosus, vasculitides (giant cell arteritis, periarteritis nodosa, micropolyangiitis, GPA, EGPA, Behçet), polychondritis, Crohn's disease or ulcerative colitis, retroperitoneal fibrosis, chronic aortic dissection, etc.
+* Genetic auto-inflammatory diseases: familial Mediterranean fever, cryopyrinopathies, TNF receptor-associated periodic syndromes ("TRAPS"), etc.

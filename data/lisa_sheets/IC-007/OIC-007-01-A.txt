@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-007-01-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Title=Knowing patients' individual rights
+|Description=None
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=1}}
+
+The law of 4 March 2002 on patients' rights and the quality of the healthcare system marks the transition from an "old", paternalistic system of healthcare provider-patient relations to a new system based on the desire for autonomy, with the patient at the centre of the healthcare relationship. This development is known as "health democracy" or "healthcare democracy".
+
+<u>'''The patient's individual rights include:'''</u>
+
+- '''Rights relating to health protection'''. Health protection is a fundamental right, the aim of which is to ensure the health of every individual. The rights relating to health protection are represented by :
+
+<nowiki>*</nowiki> the right to prevention, including in particular health education, improving quality of life, disease screening and vaccination ;
+
+<nowiki>*</nowiki> the right to equal access to care, concerning all crucial care and constituting the solidarity dimension of the healthcare system ;
+
+<nowiki>*</nowiki> the right to continuity of care, comprising a collective dimension (coordination and permanence of care) and an individual dimension (personal medical file and the obligation for carers, if they withdraw from their mission, to indicate the colleague to whom they should refer) ;
+
+<nowiki>*</nowiki> the right to health safety, represented by the rules governing the use of elements and products of the human body and organised by several French Health Safety Agencies;
+
+- Rights relating to treatment. Another fundamental right is that of having the right to quality care, i.e. to receive the "most appropriate care and therapies of recognised efficacy and which guarantee the best health security". The rights relating to treatment are mainly represented by :
+
+<nowiki>*</nowiki> the right to free choice of practitioner and establishment by the patient, which constitutes a right whose exercise must be facilitated by the healthcare provider. The limits of this right are represented by the urgency and technical capabilities of the establishments;
+
+<nowiki>*</nowiki> rights relating to pain management, access to palliative care and the end of life. These rights mark the legislator's desire to individualise the consideration of pain and the end of life in the Public Health Code. In particular, they include the right to appoint a trusted support person, the right to [[Know the definition, conditions for collection, validity and situations in which to consult advance directives 2C-007-PC-A03|draw up]] of [[Advance directives 2C-009-DE-B03|advance directives]], the right to receive treatment and care aimed at relieving suffering, the right not to receive care when it results from [[Unreasonable obstinacy and limitation. Legislative framework, philosophical and ethical foundations* 2C-009-PC-A06|Unreasonable obstinacy]] and the [[Ethics at the end of life 2C-009-DE-A06|Right to palliative care]];
+
+- '''Rights relating to the human person'''. They are underpinned by civil rights relating to respect for the human body and are represented by :
+
+<nowiki>*</nowiki> the right to respect for dignity. Article R4127-7 of the Public Health Code stipulates in particular that ''[t]he doctor must listen to, examine, advise or treat all persons with the same conscience, whatever their origin, morals and family situation, their membership or non-membership of a particular ethnic group, nation or religion, their disability or state of health, their reputation or the feelings he may have towards them''. This right, which establishes the principle of non-discrimination, includes in particular the right to respect for one's beliefs and convictions and the right to be able to participate in the exercise of one's religion during hospitalisation;
+
+<nowiki>*</nowiki> the right to respect for private life, in all acts of care, toilets, consultations, visits, teaching and the right to respect for the secrecy of information concerning the patient (professional secrecy) ;
+{|
+!''[[Know the rules for sharing health data between health professionals (medical confidentiality, sharing health data)|Professional confidentiality]]: this is essential to the practice of medicine and is justified by the need for a relationship of trust between patient and doctor. This confidentiality is governed by the Public Health and Ethics Code (articles L 1110-4 and R 4127-4) and by the Criminal Code (article 226-13). Breach of medical confidentiality may therefore be punishable under criminal law (délit) and by the professional code. Confidentiality covers all medical and personal information in the broadest sense: everything that comes to the doctor's knowledge in the exercise of his profession, i.e. not only what has been entrusted to him, but also what he has seen, heard and understood. The patient cannot release the doctor from secrecy, just as the patient's death does not release the doctor from secrecy.''
+|}
+
+
+<nowiki>*</nowiki> respect for bodily integrity (no one may violate the integrity of the human body), makes informed consent (after information) to care and therapeutic necessity necessary. Thus, the right to [[Know the main principles of medical information 2C-007-DE-A02|information]], the right to direct access to one's [[Know how to define the contents of a medical file, Know the obligations regarding the keeping of a medical file 2C-007-DE-A04|medical file]], the obligation to consent to care and [[Know the definition of refusal of care 2C-007-PC-A02|the right to refuse treatment or a medical procedure]] are all fundamental rights of the patient.
+<br />
+
+Figure 1 shows patients' individual rights.
+[[File:Item 7 - Figure 1 - Individual rights.jpg|vignette|Figure 1 - Individual patients' rights|542x542px]]

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-222-02-A
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=A
+|Title=Know the major, independent, modifiable (tobacco, hypertension, diabetes, dyslipidaemia) and non-modifiable (age, male sex, heredity) risk factors.
+|Description=None
+|Rubric=Definition
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=2}}
+
+
+* A cardiovascular risk factor is a clinical or biological factor associated with an increased risk of developing cardiovascular disease, with a causal relationship between the factor and the disease. For a cardiovascular risk marker, no causal relationship between the marker and the disease has been demonstrated.
+
+*'''Know the 4 major, independent, modifiable risk factors:''''
+**HYPERTENSION
+**Smoking,
+**Diabetes,
+**Hypercholesterolaemia
+*Know the 3 major, independent, non-modifiable risk factors:'''
+**Age,
+**Male gender,
+**Heredity: sudden death or myocardial infarction (MI) in a 1<sup>st</sup> degree male relative before the age of 55, or in a 1<sup>st</sup> degree female relative before the age of 65.
+
+<br />

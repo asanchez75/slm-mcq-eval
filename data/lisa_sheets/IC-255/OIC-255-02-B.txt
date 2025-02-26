@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-255-02-B
+|Item_parent=Gestational diabetes
+|Item_parent_short=Gestational diabetes
+|Rank=B
+|Title=Knowing the maternal, foetal and neonatal complications of gestational diabetes
+|Description=Know the main fetal and maternal risks associated with gestational diabetes
+|Rubric=Definition
+|Contributors=Louis Potier,Philippe Deruelle
+|Order=2}}
+
+'''In the short term'''
+
+Maternal complications
+
+Pregnancy-induced arterial hypertension ('''[[Hypertension during pregnancy SD-053|hypertension during pregnancy]]'''), pre-eclampsia ('''[[Proteinuria SD-212|proteinuria]]''')
+
+Caesarean section
+
+These complications are correlated with the degree of initial hyperglycaemia. The risk increases if the mother is overweight or obese.
+
+Fetal complications
+
+Macrosomia (shoulder dystocia)
+
+Neonatal hypoglycaemia
+
+Malformations (increased risk if type 2 diabetes unrecognised)

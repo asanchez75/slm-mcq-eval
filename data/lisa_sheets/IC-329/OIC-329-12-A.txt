@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-329-12-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Title=Know the principles of management of an immediate transfusion complication.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=12}}
+The occurrence of any of the warning signs described in 2C-329-IU-A01 requires immediate action to be taken in view of the risk of life-threatening complications. The immediate actions to be taken are as follows:
+
+- stopping the transfusion,
+
+- maintaining the venous line,
+
+- calling the local doctor, who must be contactable,
+
+- an assessment of vital parameters
+
+o temperature, pulse, blood pressure, cardiopulmonary auscultation,
+
+o volume of urine output and colour of urine,
+
+- symmetrical treatment; oxygen, diuretics, etc.
+
+- systematic search for patient or product errors
+
+o checking the patient-product-document link
+
+- inspection of the product (colour, haemolysis) in favour of an infectious accident
+
+- recovery
+
+o final checks for analysis
+
+o and injected products, avoiding any retrograde contamination (especially if there is a bacterial risk)
+
+After the immediate management of the incident, a "report without delay" of this undesirable recipient event (EIR) to the haemovigilance correspondent of the health establishment and that of the EFS, which must, if necessary, block other incriminated products.
+
+Two special cases
+
+- RFNH'': In the event of a minimal reaction (temperature shift or isolated fever with no other symptoms), the transfusion may be stopped temporarily, to allow time for investigations at the patient's bed (patient or product error, appearance of the injected product), for a sample to be sent to rule out haemolysis in particular, and for symptomatic treatment (antipyretic) to be given, followed by resumption of the transfusion at a slow rate and under direct observation.
+
+- ''A minimal allergic reaction'': in the case of minor symptoms (localised pruritus, with attention paid to rapid progression to more severe signs), the transfusion may be stopped temporarily, usually combined with symptomatic treatment (antihistamine), followed by resumption of the transfusion at a slow rate and under direct observation.
+
+<br />

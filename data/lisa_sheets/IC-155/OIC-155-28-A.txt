@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-155-28-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Heading=Know how to diagnose crusty impetigo, bullous impetigo, impetiginisation.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=28}}
+Clinical diagnosis.
+
+- Primary lesion: a vesiculo-bubble which ruptures rapidly, progressing to a crusty melicoid erosion (70% of clinical forms);
+
+- around the mouth, but all areas of the skin can be affected

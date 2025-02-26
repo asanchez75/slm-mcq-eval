@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-232-10-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Title=Knowing the triggers
+|Description=Acute AF and triggers
+|Rubric=Etiologies
+|Contributors=Jean-Baptiste GUICHARD
+|Order=10}}
+
+
+* Hydroelectrolytic and metabolic disorders:
+** Hypokalaemia
+** Hyperthyroidism
+
+* Inflammation:
+** General: '''infection'''
+** Local :
+*** Post-operative '''thoracic and cardiac surgery'''
+*** '''Pericarditis''''
+* Vagal reactions
+* Toxic :
+** Taking of''''alcohol,'''''caffeine, drugs'''(cocaine, amphetamines)
+** Medication: catecholamines, corticoids, chemotherapy, etc.

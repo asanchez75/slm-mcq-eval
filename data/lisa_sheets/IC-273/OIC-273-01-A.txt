@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-273-01-A
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=A
+|Title=Know the definition of dysphagia
+|Description=Sensation of an obstacle to the progress of the alimentary bolus
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+This is a semiological definition based on questioning: sensation of an obstacle to the progress of the food bolus, during swallowing or during passage through the oesophagus, ranging from simple discomfort to blockage.  Questioning is essential and enables the following differential diagnoses to be eliminated:
+
+- Odynophagia: pain when swallowing food, with no sensation of obstruction.
+
+- Anorexia: loss of appetite leading to reduced food intake (sometimes described as difficulty swallowing).
+
+- Globus Hystericus'': a manifestation of anxiety which results in a sensation of cervical compression. It is the sensation of a "knotted throat", heightened by stress.
+
+- Early satiety: the food bolus descends normally but hunger is quickly suppressed.
+
+- Rumination syndrome: food that normally goes down into the stomach comes back up, provoked by the patient; there is no food blockage.

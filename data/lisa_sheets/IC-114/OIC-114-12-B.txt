@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-114-12-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Know the four main causes of exanthema roséoliforme
+|Description=Sudden exanthema, rubella, primary HIV infection, secondary syphilis
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+The 4 main causes of roseoliform exanthema are:
+
+- rubella (15-25 years)
+
+- HHV6 infection or sudden exanthema (infants)
+
+- early secondary syphilis (syphilitic roseola) (young adults)
+
+- primary HIV infection (young adults)

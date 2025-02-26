@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-175-12-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Know how to diagnose viral haemorrhagic fever
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Alexandre DUVIGNAUD
+|Order=12}}
+
+When faced with a fever with haemorrhagic signs (upper or lower digestive haemorrhage, haemoptysis, haematuria, petechial or ecchymotic purpura, bleeding at puncture sites), the priority on returning from a malaria-endemic area is to look for malaria.
+
+Other possible causes include fulminant viral hepatitis, icterohaemorrhagic leptospirosis, dengue fever and other haemorrhagic arboviroses (including yellow fever in tropical Africa and South America), and viral haemorrhagic fevers.
+
+Viral haemorrhagic fever (Ebola, Marburg, Lassa, etc.) is suspected if there are symptoms suggestive of viral haemorrhagic fever AND you have been in an area where these viruses are circulating, or you have been in contact with a sick person suspected of having viral haemorrhagic fever.
+
+In the event of suspicion, additional measures to protect other patients, healthcare staff and the general public must be implemented without delay, in consultation with the National Reference Centre (CNR) for Viral Haemorrhagic Fevers and Santé publique France (SpF), in an approved centre (reference healthcare establishment: ESR).

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-331-09-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Knowing emergency vascular approaches
+|Description=Peripheral venous route, intraosseous route
+|Heading=Management
+|Contributors=
+|Order=9}}
+In the event of cardiac arrest, the peripheral route is preferred. The intraosseous (IO) route is rarely used as a second-line treatment. In paediatrics, the IO route is rapidly used. If a central line is available, it should be used in all cases.

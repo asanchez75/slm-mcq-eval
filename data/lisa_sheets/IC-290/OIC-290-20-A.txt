@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-290-20-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitle=Levels of prevention: understanding the definition and principles of primary, secondary and tertiary prevention
+|Description=Distinguish between the principles of primary, secondary and tertiary prevention
+|Rubric=Definition
+|Contributors=
+|Order=20}}
+'''Primary prevention''' is defined as actions aimed at reducing the frequency (incidence) of a disease or health problem in a healthy population, by reducing the causes and risk factors.
+
+Secondary prevention is defined as actions aimed at the early detection and treatment of a disease or health problem. Secondary prevention consists of identifying the disease or health problem at its earliest stage and applying rapid, effective treatment to limit its harmful consequences. Its aim is to reduce prevalence. Screening is at the heart of secondary prevention.
+
+Tertiary prevention is defined as actions aimed at reducing the progression and complications of an established disease or health problem. It consists of measures designed to reduce incapacity, disability and inconvenience and to improve quality of life. Tertiary prevention is an important aspect of medical care and rehabilitation.
+
+
+We can introduce the notion of "quaternary prevention", defined as actions taken to identify a patient or population at risk of over-medicalisation, to protect them from invasive medical interventions, and to propose ethically and medically acceptable care procedures. The principle of quaternary prevention may therefore mean not offering screening to people whose life expectancy is too short because of co-morbidities that are a priority in overall care.

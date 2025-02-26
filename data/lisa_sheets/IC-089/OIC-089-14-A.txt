@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-089-14-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Knowing the main causes of MS
+|Description=(sudden deafness) (other aetiologies) (neuroma of the VIII) (genetic deafness) (presbycusis) (sound trauma - ototoxicity)
+|Rubric=Etiologies
+|Contributors=Dr Damien Bonnard, Pr Virginie Escabasse, Pr Valérie Franco Vidal
+|Order=14}}
+'''Main causes of sensorineural hearing loss (in adults)'''
+
+#Unilateral deafness
+#*sudden unilateral deafness
+#*Acoustic neuroma (= vestibular schwannoma)
+#*post-traumatic deafness (translabyrinthine rock fracture, labyrinthine concussion)
+#*labyrinthitis (postoperative, complication of acute or chronic otitis media)
+#*Menière's disease and other pressure disorders of the inner ear (may be bilateral)
+#Bilateral deafness
+#*Presbycusis
+#*genetic deafness (progressive)
+#*acute or chronic sound trauma
+#*toxicity (aminoglycosides, antimitotics, quinine, retinoids)

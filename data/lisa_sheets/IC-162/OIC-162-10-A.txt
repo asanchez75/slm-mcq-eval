@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-162-10-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Knowing the clinical signs of a lower genital infection in women
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+- Cervicitis :
+
+- Leucorrhoea ;
+
+- Pelvic heaviness ;
+
+- Signs of associated urethritis ;
+
+- Cervix +/- inflammatory and discharge from the cervical os
+
+
+- Vulvovaginitis: pruritus, dyspareunia, leucorrhoea, oedematous vulva

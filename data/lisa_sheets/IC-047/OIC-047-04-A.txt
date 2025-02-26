@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-047-04-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental disorders. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Knowing systematic screening for visual disorders
+|Description=Recommended ophthalmological examinations in children.
+|Rubric=Definition
+|Contributors=Elise Launay
+|Order=4}}
+
+Systematic eye check at birth, 2 months, 4 months, between 9 and 24 months, 2-3 years, 5 years (6th<sup>year</sup>)
+
+Very frequent anomalies: 1 in 5 children under 6 years of age

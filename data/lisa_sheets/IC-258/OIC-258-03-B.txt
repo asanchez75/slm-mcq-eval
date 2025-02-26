@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-258-03-B
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=B
+|Title=Know the formulas for estimating renal creatinine clearance
+|Description=Cockcroft-Gault in adults and Schwartz in children
+|Rubric=Positive diagnosis
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=3}}
+
+{| class="wikitable"
+|The Cockcroft and Gault formula is an estimate of creatinine clearance, which is itself an estimate of GFR. It includes age, sex, weight and creatinine level.  The result obtained is in ml/min (not indexed to body surface area).
+
+Ccr = [(140 - age (years)) × weight (kg)] × k Creatininaemia (µmol/L)
+
+k = 1.23 for men - k = 1.04 for women
+
+
+In children (< 18 years) GFR is estimated using the Schwartz formula
+
+
+GFR ml/min/1.73m<sup>2</sup> = height (cm) x 36.5 / creatinine (µmol/l)
+
+
+
+Normal creatinine values are lower in children than in adults (up to the age of 5, creatinine levels are generally < 35 µmol/L).
+|}

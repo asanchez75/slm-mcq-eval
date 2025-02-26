@@ -1,0 +1,95 @@
+{{knowledge objective
+|Identifiant=OIC-227-07-A
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=A
+|Title=Identifying varicose veins and CVI
+|Description=Knowing the main clinical signs of chronic venous insufficiency
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=7}}
+
+
+=Clinical expression of chronic venous insufficiency (CVI)''=
+The symptoms of CVI are frequent, varied and not very specific.
+
+The intensity of symptoms and physical signs vary according to the degree of venous stasis.
+
+They increase when circumstances aggravate venous stasis and decrease when it improves.
+
+Neglected, CVI can cause [[Skin ulcer SD-092|trophic disorders]].
+
+The symptoms are integrated into the CEAP classification of the IVC ("C" for clinical, see table).
+
+==''Functional signs'''==
+
+*Pain or heaviness in the lower limbs: this is undoubtedly the most frequent symptom of CVI. They occur in the calves or legs and may be limited to simple discomfort or even tiredness,
+*cramping,
+*painful vein pathway or phlebalgia: exacerbated pain in the pathway of a vein,
+*intermittent venous claudication related to chronic obstruction of a major venous confluence. This is a painful heaviness or heaviness which does not prevent the patient from continuing to walk, which does not subside rapidly when walking is stopped, and which subsides progressively when the patient is decubitus.
+
+===Evidence in favour of a venous origin===
+- Increased symptoms in the following situations:
+
+*during the day,
+*after prolonged standing or sitting,
+*heat (underfloor heating) or exposure to the sun,
+*during pregnancy, when taking oestroprogestins or during the premenstrual period;
+
+- '''improvement''' of symptoms in the following situations:
+
+*cold,
+*elevation of the lower limbs,
+*Decubitus,
+*physical exercise,
+*elastic venous compression (socks, stockings, bands).
+
+===Differential diagnoses ===
+Other symptoms, such as impatience, tingling and skin redness may be present but must be differentiated from two other less well-known diagnoses:
+
+*nocturnal impatience'' (imperious need to move the legs), which may be part of the "restless legs syndrome": the patient describes a sensation of numbness of the limb in a position of immobility, rapidly intolerable, forcing him to move;
+*burning and redness of the foot after a few hours' sleep, waking the patient and forcing him to seek contact with the cold (tiles, cold water), corresponding to ''colour abnormalities of the extremities SD-015|erythermalgia]''.
+
+== '''Cutaneous signs'''==
+Trophic cutaneous signs (''SDS-[[Cutaneous ulcer SD-092|cutaneous ulcer]]; SDS-[[Wound SD-170|wound]]; SDS-[[Vaccinations in adults and children SD-322|vaccinations in adults]]'') linked to the development of venous insufficiency and varicose veins are represented by:
+
+*varicosities or telangiectasias: these are dilations of small-calibre veins (< 3 mm). When they are located on the ankle or plantar arch, they are known as corona phlebectatica and are a warning sign of the onset of a venous ulcer in the long term,
+*varicose veins,
+*l'''''''[[Localised or diffuse oedema SD-054|oedema]] of the foot: it is white, soft, takes on a cup-like appearance, with a clear increase at night, without redistribution to other areas,
+*pigmented dermatitis: this is caused by the passage of red blood cells into the dermis, releasing their iron pigments. Ochre dermatitis is irreversible and usually begins on the inside and lower side of the leg,
+*Eczema of the lower third of the leg is also a frequent complication of chronic venous stasis. The lesions are erythemato-vesicular or scaly in the pathological venous territory,
+*Milian's white atrophy takes the form of small porcelain-white areas, mainly located on the malleolus. It is surrounded by ochre dermatitis or telangiectasia. It reflects a rarefaction of capillaries within fibrous tissue, and therefore the presence of genuine cutaneous ischaemia, heralding the onset of a venous ulcer,
+*stasis dermo-hypodermatitis (lipodermatosclerosis) is localised to the lower third of the leg, initially taking on an inflammatory appearance with skin redness and pain, then progressing in flare-ups. These lesions are associated with extravasation of polymorphonuclear cells. Progressive evolution leads to a sheathing fibrosis inducing a rigid gaiter ("sclerotic hypodermitis"). Ankylosis of the ankle further impairs venous return. The diagnosis of erysipelas is an important differential diagnosis of inflammatory stasis hypodermatitis,
+*Lymphatic stasis is the consequence of advanced CVI, which alters the lymphatic network. It leads to permanent infiltrated oedema and thickened, cardboard-like skin. Lymphatic stasis is often aggravated by recurrent local superinfections,
+*skin ulcer SD-092|venous ulcer.
+
+==''CEAP classification of DVI ("C" for clinical)'''==
+{| class="wikitable"
+! colspan="2" | CEAP classification of CVI
+|-
+| colspan="2" |'''C: for clinical signs (grade 0-6)'''
+
+a for asymptomatic, s for symptomatic
+|-
+|0
+|no visible or palpable signs
+|-
+|1
+|Telangiectasias or reticular veins
+|-
+|2
+|Varicose veins
+|-
+|3
+|Edema
+|-
+|4
+|Trophic disorders: ochre dermatitis, eczema, hypodermatitis
+|-
+|5
+|Healed ulcer
+|-
+|6
+|Unhealed ulcer
+|}
+<br />

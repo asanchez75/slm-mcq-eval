@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-071-24-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the principles of psychotherapy
+|Description=Know the objectives of psychotherapy. Know the types of psychotherapy recommended in the AOS.
+|Rubric=Management
+|Contributors=
+|Order=24}}
+
+
+* Same objectives for anorexia nervosa,
+** with the addition of identifying the warning signs of the crisis and techniques for dealing with it (defusing).
+* Possible psychotherapies include :
+** CBT,
+** Therapeutic education,
+** Other
+*** Motivational interviewing,
+*** Supportive psychotherapy,
+*** Psychoanalytically inspired therapies
+*** Family therapy for children and adolescents

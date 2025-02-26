@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-111-06-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing how to recognise the different clinical forms of acne
+|Description=Photographs of retentional, papulopustular and nodular acne
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+<gallery>
+File:Nodular acne.jpg|Nodular acne
+File:Acne papulopustular.jpg|Acne papulo-pustular
+File:Acne retentionnelle.jpg|Acne retentionnelle
+</gallery>

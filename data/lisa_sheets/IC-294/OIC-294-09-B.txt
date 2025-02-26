@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-294-09-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Know the definitions of the different types of treatment.
+|Description=Define adjuvant, neo-adjuvant, concomitant or sequential.
+|Rubric=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=9}}
+
+Chemotherapy can be administered :
+
+====- In the curative phase:====
+➢ Neoadjuvant treatment: prior to surgical treatment of the tumour. This approach treats the existing primary tumour and any micro-metastases that may be present.
+
+➢ ''Adjuvant'' treatment: after surgery. It reduces (but does not eliminate) the risk of relapse and increases survival.
+
+- In the metastatic phase, the aim is no longer to cure, but to improve quality of life and control symptoms. This is known as ''palliative chemotherapy'' (although it is not administered at the end of life). In certain situations, chemotherapy used in the metastatic phase may be curative (e.g. metastatic germ cell tumours, oligometastatic colorectal cancer).
+
+- In conjunction with radiotherapy (a combination of radiotherapy and chemotherapy, known as radiochemotherapy), the aim of this combination is to reinforce the respective actions of each treatment. Chemotherapy has its own action of destroying cancer cells, but it also makes them more sensitive to radiation. Chemotherapy can also be administered sequentially (chemotherapy followed by radiotherapy''')'': this allows temporal and spatial cooperation between chemotherapy and radiotherapy.

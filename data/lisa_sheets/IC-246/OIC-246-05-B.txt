@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-246-05-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Know the general causes (chronic renal failure, cirrhosis)
+|Description=None
+|Rubric=Etiologies
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=5}}
+
+*
+
+<u>Evident conditions associated with gynecomastia</u>.
+
+*'''''Chronic renal failure''''' Gynecomastia may be multifactorial: linked to increased TeBG, hypogonadism secondary to hyperprolactinemia in cases of severe renal failure ([[Chronic renal failure in adults and children|Renal failure 264]]).
+*'''''Cirrhosis''''' Up to 8% of gynaecomastia aetiologies. Gynecomastia is common (40% of cases). It is often associated with signs of hypogonadism. The mechanism of gynaecomastia may be twofold: reduced production of androgens and increased concentrations of free oestradiol due to activation of hepatic synthesis of TeBG. Alcohol toxicity is also involved. Renutrition of a malnourished patient is sometimes accompanied by gynaecomastia by a mechanism similar to that of cirrhosis ([Cirrhosis and complications|Cirrhosis 279]]).
+
+*'''''Drugs ''''' (10 to 25% of gynaecomastia) <u>cf chapter drug-related causes</u>.

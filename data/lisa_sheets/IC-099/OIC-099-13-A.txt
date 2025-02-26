@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-099-13-A
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=A
+|Title=Knowing the existence of drug-induced headache in migraine sufferers
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=13}}
+Medication-abuse headache (MAC) [[Suspicion of an adverse drug reaction or care SD-348|(suspicion of an adverse drug reaction or care)]] is a headache occurring at least 15 days/month in the context of overuse of crisis treatments for more than 3 months (Table) in a patient with a pre-existing primary headache, either tension headache or migraine.
+
+o ''Opiates'' and ''combined analgesics'' confer the highest risk of CAM
+
+o Overuse of analgesics may be a ''consequence'' or a ''cause'' of the increased frequency of headaches, or ''both''.
+
+The ''role of overuse of analgesics'' in the onset of chronic migraine should not be overestimated, as this attitude can lead to patients being stigmatised as being responsible for their illness and to withdrawal being favoured as the sole treatment to the detriment of other, more effective therapeutic solutions.
+
+Chronic migraine may be diagnosed with associated drug abuse.
+
+
+CAM prevention is based on :
+
+o Proper diagnosis of migraine and tension headache in general practice
+
+o Prescription of recommended crisis treatments, avoiding opiates and combined analgesics
+
+o Informing patients about the role of overuse of analgesics in the increase in headaches
+
+o Advice to limit the number of days of crisis treatment to 2 days a week or 8 days a month
+
+o The introduction of prophylaxis for the primary headache (usually migraine) when crisis treatment becomes frequent and the attacks disabling.
+
+
+{| class="wikitable"
+|'''Table. ICHD-3 criteria for medication-abuse headache'''
+|-
+|'''A. Headache occurring ≥ 15 days/month in a patient with pre-existing headache''''
+
+'''B.      Regular overuse for > 3 months of one or more headache crisis treatments'''
+
+1 '''Non-opioid analgesics (NSAIDs, aspirin, paracetamol) taken ≥'' 15 days/month
+
+2. '''Triptans, ergotamine, opiates and/or combined analgesics taken ≥''' 10 days/month
+
+'''C.      Is not better explained by another diagnosis of ICHD-3.'''
+|}

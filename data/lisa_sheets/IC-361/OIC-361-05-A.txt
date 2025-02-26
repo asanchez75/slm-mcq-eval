@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-361-05-A
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=A
+|Title=Knowing the clinical diagnostic signs of tendinopathy
+|Description=Pain on insertion, passive stretching of the tendon and muscular contraction against resistance.
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=5}}
+
+'''Questioning:''' pain of precise location at the tendon insertion, usually periarticular, of mechanical or mixed origin, in the aftermath of trauma, repeated movement or factors favouring tendinopathy.
+
+'''Physical examination:'''
+
+*'''Precise pain:''''
+**opposite the insertion of the tendon, reproduced by palpation
+**when tension is applied to the tendon muscle: specific manoeuvres for each tendon, e.g. Finkelstein manoeuvre for De Quervain's tendonitis.
+**irradiating according to the path of the tendon.
+*''Sensation of painful hooking'' during movements involving the tendon: for example in the Neer or Hawkins manoeuvre in rotator cuff tendinopathies.
+*Nodosities of the tendon:'' for example in nodular tendinopathies of the Achilles tendon or in chronic tenosynovitis leading to fibrosis of the synovial sheaths (De Quervain's tendonitis).
+
+In case of ''tendon rupture'' :
+
+*functional deficit'' manifested by weakness, for example in the Jobe manoeuvre in tendinopathies of the supraspinatus, or by an absence of movement as in the case of the Thompson test in ruptures of the Achilles tendon
+*tendon vacuity'' in the case of tendon rupture
+*'''deformity:''' appearance of a muscular mouse by retraction of the muscle, or loss of the equilibrium position between agonist/antagonist muscles as in the loss of the physiological equinus in ruptures of the Achilles tendon
+
+
+[[File:Achilles tendon rupture 2.jpg|left|vignette|465x465px|Loss of physiological equinus following right-sided Achilles tendon rupture, top view]]
+<br />

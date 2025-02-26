@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-145-03-B
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=B
+|Title=To understand the main structures and organisations responsible for the surveillance of communicable infectious diseases in France.
+|Description=None
+|Rubric=Definition
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=3}}
+
+In France, infectious disease surveillance is mainly carried out by :
+
+*Learn about the 4 main missions of Santé Publique France in the field of infectious diseases 2C-145-DE-B05|Santé Publique France]]: a national public health agency under the supervision of the Ministry of Health. It is a centre of reference and expertise in public health which relies on the National Public Health Network (RNSP) and the [[Learn about the 4 main missions of Santé Publique France in terms of infectious diseases 2C-145-DE-B05|Cellules InterRégionales d'Epidémiologie (CIRE)]].
+*The Regional Health Agencies (ARS), in particular through the system of compulsory declaration of diseases (notifiable diseases).
+*2C-145-DE-B06|National Reference Centres (CNR): laboratories and clinical departments (located within public or private health, teaching or research establishments), one of whose missions is epidemiological surveillance.
+*National surveillance networks: [[Definition of a "sentinel" network 2C-145-DE-B07|réseaux Sentinelles]], RéPIAS ([[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Démarche qualité et évaluation des pratiques professionnelles|Réseau de Prévention des Infections Associées aux Soins]]), ...

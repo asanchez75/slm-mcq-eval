@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-088-04-A
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=A
+|Intitle=Know the definition of dysphonia
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+Dysphonia is a voice disorder, more specifically an abnormality in the vibration of the vocal cords.
+
+Not all speech abnormalities are dysphonia. A distinction is made between :
+
+*Weak voices in patients with respiratory insufficiency or in patients whose general condition is severely impaired;
+*voice abnormalities related to nasal obstruction (closed rhinolalia) or air leakage through the nasal turbinates (open rhinolalia);
+*voice timbre abnormalities caused by a basilingual or oropharyngeal tumour ("pharyngeal" voice);
+*dysarthria, in the context of neurological diseases (Parkinson's disease, amyotrophic lateral sclerosis).

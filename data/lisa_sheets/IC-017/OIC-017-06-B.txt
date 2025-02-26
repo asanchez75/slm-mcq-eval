@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-017-06-B
+|Item_parent=Telemedicine, telehealth and telehealth services
+|Item_parent_short=Telemedicine, telehealth and telehealth services
+|Rank=B
+|Title=Knowing evaluation methods
+|Description=Describe evaluation methods, including benefit-risk studies, cost-effectiveness studies, cost minimisation studies, cost-utility studies and economic viability studies.
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=6}}
+The evaluation seeks to determine the success or failure of the system based on the explicit and expected objectives, but also on the results not expected by the stakeholders:
+
+* determine the success or failure of the programmes in explicitly achieving the objectives,
+* check whether there are more effective and less costly alternative methods of achieving the same objectives,
+* determine whether the programme has undesirable and unintended effects,
+* to inform policy decisions on the continuation, termination or changes to the programme.
+
+The main dimensions assessed are :
+
+* The CLINICAL dimension. This covers care criteria such as quality of care, diagnostic reliability, continuity of care, quality of life and biometric measurements.
+* The PERCEPTION dimension of patients and professionals. This covers the acceptability of the technology, any changes in the work of practitioners and the redistribution of resources, culture, and the effects on consultation rates.
+* The ORGANISATIONAL dimension. This takes into account the different scenarios for the distribution of tasks and communication between healthcare professionals and patients. The measurement of the impact of change includes changes in existing operational processes, training and appropriate support for the adoption of new processes.
+* The EDUCATIONAL dimension. This attempts to assess the quality of training more specifically in terms of the content provided and the knowledge and skills of healthcare professionals. It seeks to determine the impact on staff recruitment and retention and the increase in knowledge of clinical disciplines.
+* The ADMINISTRATIVE dimension. This covers everything to do with improving access to care, cost-effectiveness and the redistribution of human and financial resources.
+* The ECONOMIC dimension. This looks at the economic viability of solutions (creation of new economic activities).
+* The TECHNICAL dimension. This concerns the reliability of use, the quality of sound and video and the reliability of the technologies.
+* The SOCIAL dimension. This seeks to demonstrate the geographical and cultural differences as well as the ethical issues that will impact on the acceptance of the service by patients and healthcare professionals.
+* The DEONTOLOGICAL dimension. This concerns the evaluation of technologies in terms of respect for the rights and duties of stakeholders, the clarity and reliability of contracts, and recourse.

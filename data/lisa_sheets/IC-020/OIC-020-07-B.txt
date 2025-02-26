@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-020-07-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Title=Sampling methods
+|Description=How to define sampling methods
+|Rubric=Definition
+|Contributors=Julie Berbis (CUESP),Josiane Warszawski (CIMES),Alexandra Rouquette (CIMES)
+|Order=7}}
+
+It is often impossible to study a given population as a whole.
+
+We then examine a subset of individuals (or sample, cf. [[Target population and source, sample 2C-020-DE-A05]]) in order to deduce (or infer), from the observations made on this sample, what exists in the target population.
+
+A sample must be selected to be as representative as possible of the source population from which it is drawn. To achieve this, there are various sampling methods:
+
+- <u>If a sampling frame (exhaustive list of individuals in the source population) is available:</u>
+
+*Exhaustive recruitment'': if possible, all the individuals listed are recruited.
+*Random draw:
+**'''simple random sampling'''
+**Stratified survey'': the source population is divided into sub-populations according to a categorical variable (for example, age categorised into 5 modalities, i.e. strata :  <18 years, 18-34 years, 35-49 years, 50-64 years, 65 years and over) and individuals are drawn at random within each sub-population. The aim is to ensure that all 5 age categories are represented in the sample drawn.
+**cluster sampling'': not individuals but collective units (clusters) are drawn (e.g. hospital services, departments, schools, etc.) and all the individuals in the collective unit drawn are included.
+
+- <u>No survey database available:</u>
+
+*Consecutive recruitment'': individuals are included as and when they are presented at the inclusion centres and throughout the inclusion period. Ensures good representativeness of the source population if refusals to participate or non-response are low.
+**Exhaustive if possible
+**Otherwise: random or systematic selection (1 in 2 or 3, etc.)
+*Quota method'': consists of ensuring that a sample is representative, by assigning it a similar structure (according to certain characteristics, for example: age, gender, department of residence, etc.) to that of the source population. This is a non-random method (widely used by survey institutes), which means that the probability of each individual belonging to the sample is unknown, which prevents the variance from being estimated correctly and therefore the precision of the estimates.
+*Sample of convenience'': individuals are included in the study for practical reasons of accessibility, cost, logistics, etc. This method should be avoided because it has the effect of increasing the probability of each individual belonging to the sample. This method should be avoided as it is very likely to result in a sample that is not representative of the source population.

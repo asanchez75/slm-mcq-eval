@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-174-01-A
+|Item_parent=Infectious pathology in adult and child migrants
+|Item_parent_short=Infectious pathology in adult and child migrants
+|Rank=A
+|Item_parent_short=Infectious pathology in migrant adults and children
+|Description=None
+|Rubric=Definition
+|Contributors=Johan Courjon
+|Order=1}}
+'''Étranger''': a person who does not have French nationality, a term used by the police and legal authorities.
+
+'''Immigré''': a person born abroad in a foreign country and now living in France. A person remains an immigrant even if they acquire French nationality. There are therefore 2 administrative categories of immigrant: foreign and French.
+
+'''Migrant''': in the sense of international migrant, a person who has lived abroad and now resides in France. Migrants born outside France are immigrants, whether French by birth or immigrants.
+
+The majority of migrants live in 3 regions: Ile de France, Rhône-Alpes-Auvergne, PACA
+[[File:Insee.png|vignette|763x763px|Population estimates 2019. Source: Insee|alt=|left]]
+<br />

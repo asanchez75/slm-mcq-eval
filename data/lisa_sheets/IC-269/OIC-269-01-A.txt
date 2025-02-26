@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-269-01-A
+|Item_parent=Acute abdominal pain in children and adults
+|Item_parent_short=Acute abdominal pain in children and adults
+|Rank=A
+|Title=Identifying abdominal pain in children
+|Description=Particularities of the examination of infants
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+In infants, abdominal pain should be suspected in the presence of crying, screaming or restlessness. These signs are not specific and abdominal pain must be confirmed by a complete physical examination on an undressed child.
+
+Larger children localise the pain in the abdomen, but the topography is often not very precise when the child is young.

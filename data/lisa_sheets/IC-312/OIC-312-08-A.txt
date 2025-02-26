@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-312-08-A
+|Item_parent=Breast tumours
+|Item_parent_short=Breast tumours
+|Rank=A
+|Title=Knowing the indications for mammography
+|Description=Indications and non-indications
+|Rubric=Additional examinations
+|Contributors=
+|Order=8}}
+
+
+* Mammography is the examination of choice for 1st-line screening, except in very young women (< 30 years of age).
+* It can be carried out as part of screening or in the event of symptoms, for diagnostic purposes.
+* Bilateral mammography and bilateral ultrasound of the breast and lymph nodes are performed systematically in the event of any abnormality on clinical examination of the breast.
+* Mammography is used to determine the location, size and characteristics of the abnormality (opacities with blurred contours, which may give a stellate image with short spicules), and the possible existence of focal microcalcifications.
+* Mammography can be used to guide biopsies or to locate non palpable lesions prior to excision.

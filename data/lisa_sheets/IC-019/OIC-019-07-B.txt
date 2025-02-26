@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-019-07-B
+|Item_parent=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Item_parent_short=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Rank=B
+|Title=Knowing the definition of the National Health Insurance Expenditure Target (ONDAM)
+|Description=Know
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=7}}
+
+The ONDAM represents the forecast amount that must not be exceeded for out-patient and in-patient care, whether provided in private or public establishments or in medical and social centres. It is set each year for health insurance expenditure in France. It is used to regulate health insurance expenditure and is set each year by the LFSS<sup><sup>[1]</sup></sup><sub>.</sub>.
+
+The ONDAM was created by ordinance in 1996 and is set each year by Parliament, in accordance with the provisions of the Social Security Financing Act (LFSS). It corresponds to revenue forecasts and social security expenditure targets:
+
+* Outpatient care,
+* public and private health establishments
+* medico-social establishments,
+* other care
+
+Within healthcare establishments, sub-targets are set for :
+
+* public and private establishments charged on an activity basis for their medical, surgical and obstetric activities (ODMCO: objectif des dépenses de MCO), and for their missions of general interest and assistance with contractualisation (MIGAC)
+* follow-up and rehabilitation care, psychiatry and long-term care: the ODAM (health insurance expenditure target) and the OQN (national quantified target)
+
+- The ''Comité d'alerte sur l'évolution des dépenses d'assurance maladie'' was created by the law of 13 August 2004 on health insurance reform (article 40). It is responsible for alerting Parliament, the Government and the national health insurance funds in the event of trends in health insurance expenditure that are incompatible with compliance with the national target voted by Parliament.
+
+- Each year, by 1 June at the latest, the committee issues an opinion on compliance with the national health insurance expenditure target (Ondam) for the current financial year. The Alert Committee reports to the Commission des Comptes de la Sécurité Sociale. It is made up of the Secretary General of the Commission des comptes de la sécurité sociale, the Director General of the Institut national de la statistique et des études économiques and a qualified person appointed by the Chairman of the Conseil économique et social.
+
+
+The health crisis has led to a sharp increase in the 2020 ONDAM. The same is true for 2021 and 2022 (graph 1).
+
+
+Graph 1: Levels of overspending on ONDAM since 2004<gallery>
+File:19 Gx Ondam.png
+</gallery>
+----[1] Source : <nowiki>https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/PLFSS/2021/PLFSS-2021-ANNEXE%207.pdf</nowiki>

@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-018-06-A
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=A
+|Title=Knowing the basics of health information processing (coding, management, publication, evaluation)
+|Description=Health information management
+|Rubric=Definition
+|Contributors=CIMES
+|Order=6}}
+
+1. health information representation
+
+Health data :
+
+*Are sensitive data produced during the care process by different players.
+*Comes from multiple sources and can be reused for different purposes (care, research, monitoring, vigilance).
+*Can be collected in different formats:
+**Unstructured": For example, free text reports. This is the form generally preferred by healthcare professionals.
+**Semi-structured": For example, forms in a computerised patient file. There is an explicit structure for classifying the various items of information (e.g. medical observations).
+**Structured'': For example, the forms used in the national database on rare diseases. Data entry is constrained by a predefined terminology which associates a number and/or a code with each item of information.
+
+To enable the data to be used automatically in the IS (Information System), the information must be coded and structured. For example, diseases are generally coded using ICD-10 terminology (International Classification of Diseases, version 10).
+
+Other contextual elements called "metadata" also help to specify the context of the information collected in the IS (e.g. timestamp, author, patient and stay identification numbers, etc.). These elements are necessary for the traceability and correct interpretation of medical information.
+<br />
+[File:Figure Coding2.png|centred|thumbnail|650x650px|Example of coding]]
+
+
+
+'''2.      Interoperability
+
+Interoperability is the ability of systems to communicate and exchange information with each other. In healthcare, it is based on norms and standards (e.g. FIHR, DICOM, OMOP), terminologies (e.g. CIM 10, CCAM, LOINC) and the use of common identifiers (e.g. National Health Identity for patients, unique RPPS identifier for doctors).
+
+
+'''3.      Integration and exploitation of data'''
+
+'''''Health data warehouses''''' make it possible to decompartmentalise the data produced during the healthcare process and integrate it into a single database, so that it can be reused for purposes other than healthcare (e.g. research, monitoring, management). These systems are necessary for the development of artificial intelligence techniques on large sets of real-life data (big data).
+
+'''''The national health data system''''' is a national system that integrates several databases, in particular: SNIIRAM data, PMSI* data, CépiDC data and data relating to disability.
+
+'''''*The PMSI (Programme de Médicalisation Des Systèmes d'Information)''''' is a medico-administrative database that describes all hospital stays. The information is coded according to prescribed terminologies, and is processed by the Medical Information Departments. The PMSI is used to financially compensate health establishments following the introduction of activity-based pricing (T2A).

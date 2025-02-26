@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-278-15-B
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=B
+|Title=To understand the purpose of ultrasound imaging in the investigation of icterus with conjugated bilirubin
+|Description=To confirm or exclude dilatation of the intra- and extrahepatic bile ducts, to detect gallbladder stones and sometimes to facilitate the diagnosis of a pancreatic head mass.
+|Rubric=Additional examinations
+|Contributors=
+|Order=15}}
+Non-invasive, safe, inexpensive examination, the quality of which varies with the operator and the patient's habitus. Information has variable sensitivity and specificity.
+
+The main objective in the context of jaundice is to look for ''dilatation of the bile ducts'' due to obstruction of the main bile duct and/or convergence of the right and left hepatic ducts.
+
+The other objectives are to look for evidence of lithiasis (vesicular calculi) or a tumour mass in the liver, lymph nodes or pancreas.

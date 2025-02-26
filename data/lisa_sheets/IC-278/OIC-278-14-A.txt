@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-278-14-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Knowing emergency situations for jaundice in adults
+|Description=angiocholitis and acute liver failure
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=14}}
+'''1 Angiocholitis'''
+
+cf biliary lithiasis item 277 : identifier '''2C-277-DP-A06'''
+
+
+'''2.    Hepatic insufficiency'''
+
+a. cirrhosis'': the appearance of jaundice in a cirrhotic patient should prompt a search for aggravating factors: exacerbation of viral, autoimmune or alcoholic hepatitis, primary cancer, bacterial infection, etc. cf item 279.
+
+b. Acute liver failure": in the case of acute liver failure with jaundice, transaminases are very high (> 20 times the upper limit of normal values). Severe liver failure is diagnosed by a fall in the prothrombin and factor V levels to below 50%, which can progress to severe liver failure (i.e. with encephalopathy) with a spontaneous mortalitý of around 80%. Referral to a liver transplant centre must be organised.

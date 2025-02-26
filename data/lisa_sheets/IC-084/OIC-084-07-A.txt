@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-084-07-A
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=A
+|Title=Knowing that the treatment for primary open-angle glaucoma is IOP reduction
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=7}}
+The treatment of primary open-angle glaucoma (POAG) is based on the correction of the only treatable risk factor, IOP. Lowering IOP has been shown in large clinical trials to be beneficial in halting the progression of POAG in both high and normal IOP POAG. With the exception of the most advanced cases, where surgery is required from the moment of diagnosis, treatment is primarily medical.

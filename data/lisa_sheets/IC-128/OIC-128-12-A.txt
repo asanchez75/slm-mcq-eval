@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-128-12-A
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=A
+|Title=Know the definition of osteomalacia
+|Description=None
+|Rubric=Definition
+|Contributors=Julien Paccou
+|Order=12}}
+This is a diffuse, rarefying, weakening osteopathy of bone tissue characterised histologically by a major "mineralisation defect" in the newly formed organic matrix, leading to an "accumulation of osteoid tissue". This excess of osteoid tissue makes the bone soft, thereby reducing its mechanical strength. An adequate concentration of calcium, phosphorus and vitamin D is necessary for bone mineralisation.
+
+Osteomalacia due to vitamin D deficiency (the most frequent cause) is the consequence of :
+
+- a lack of intake (insufficient sun exposure or deficient diet);
+
+- digestive malabsorption (coeliac disease, small bowel resection, bile salt deficiency, etc.).
+
+Then there is "osteomalacia due to phosphorus metabolism disorders". This is essentially due to renal leakage of phosphates as a result of a reduction in their rate of tubular reabsorption.

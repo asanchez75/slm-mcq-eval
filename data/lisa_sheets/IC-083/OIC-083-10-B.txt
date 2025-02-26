@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-083-10-B
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=B
+|Title=Knowing the frequency and aggravating factors of dry eyes
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=10}}
+Keratoconjunctivitis sicca or dry eye usually presents as moderate redness of the eye associated with a sensation of sand grains or superficial ocular pain; these signs are secondary to damage to the conjunctival epithelium, which may or may not be associated with damage to the corneal epithelium, as a result of altered trophicity of the epithelial cells. Severe dry syndromes may result in reduced visual acuity due to damage to the central corneal epithelium, or simply due to prolonged rupture of the tear film, affecting the quality of the corneal dioptre.
+
+<u>The diagnosis is based on:</u>
+
+*a quantitative examination of lacrimal secretion: the Schirmer test. Performed without anaesthetic, it consists of placing a graduated paper strip in the lower conjunctival cul de sac and measuring the moistened area after 5 minutes. Hyposecretion is considered definite if the impregnation is less than 5 mm;
+*a quantitative estimate of the quality of the tear film: the tear film break-up time (BUT). After a drop of fluorescein is instilled into the lower conjunctival cul-de-sac, it is distributed in the tear film during blinking, allowing it to be viewed with a blue filter. The stability of the tear film can then be analysed by asking the patient to stop blinking and timing the time taken for spontaneous breakage;
+
+*examination of the corneal surface by instillation of a drop of fluorescein, which shows punctate epithelial keratopathy when examined under blue light, and even more so if a yellow filter is used
+*an examination of the conjunctival surface using the same fluorescein technique which enables keratoconjunctivitis sicca to be graded (Oxford classification) or after application of lissamine green (rarely used in clinical practice) which colours the dying epithelial cells in the palpebral opening zone.
+
+<u>The causes of lacrimal hyposecretion are attached:</u>
+
+*most often due to age-related involution of the lacrimal glands, iatrogenic drug-induced causes or alteration of the reflex arc;
+
+* Sometimes progressive destruction of the lacrimal glands in Gougerot-Sjögren's syndrome,
+* more rarely, graft-versus-host disease or radiation damage.
+
+<u>The causes of qualitative lacrimal alterations are related:</u>
+
+*hyper-evaporation due to meibomian dysfunction in rosacea +++ or other chronic inflammatory meibomian conditions, prolonged application of preservatives or use of isotretinoin;
+*a deficiency of the mucosal component in inflammatory or fibrosing conjunctival diseases (ocular cicatricial pemphigoid, Steven-Johnson syndrome, chemical burns), extensive local infections or major environmental aggressions.

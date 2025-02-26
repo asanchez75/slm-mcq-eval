@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-036-06-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Knowing barrier contraception (particularly the male condom) and natural contraception.
+|Description=None
+|Rubric=Definition
+|Contributors=Geneviève Plu-Bureau
+|Order=6}}
+
+
+=== '''Barrier methods''' ===
+- Male condom (various sizes)
+
+- Female condom,
+
+- Diaphragm,
+
+- Cervical cap (one size and/or different sizes to suit anatomy)
+
+=== '''Natural methods''' ===
+These methods consist of '''spotting ovulation''' to '''avoid having unprotected intercourse in the days around ovulation'''.
+
+- Ogino (calendar method),
+
+- Temperatures (temperature curve),
+
+- Billings (observation of cervical mucus),
+
+- Symptothermia (combination of methods)...

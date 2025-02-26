@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-267-17-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the treatment of moderate chronic hyperkalaemia
+|Description=Dietetics, exchange resins, avoidance of high-risk drugs
+|Section=Management
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=17}}
+
+
+*reducing dietary and intravenous potassium intake;
+*adjustment of the dosage of hyperkalaemic drugs;
+*correction of moderate metabolic acidosis (oral sodium bicarbonate 2-4 g/d);
+*administration of ion exchange resins (sodium polystyrene sulphonate, KAYEXALATE®) may supplement treatment.
+*administration of hypokalaemic diuretics (loop or thiazide diuretics) in the event of hypertension or fluid overload.
+*Hyperkalaemia with hypoaldosteronism (adrenal insufficiency) is effectively treated with 9α-fluorohydrocortisone.

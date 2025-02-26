@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-042-06-B
+|Item_parent=Amenorrhoea
+|Item_parent_short=Amenorrhoea
+|Rank=B
+|Title=Knowing the main causes of ovarian failure
+|Description=Karyotype abnormalities, FRM1 pre-mutation, autoimmune, iatrogenic
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=6}}
+
+Premature ovarian failure is defined as the onset of amenorrhoea of more than 4 months before the age of 40, associated with an FSH of more than 25 IU/L on two separate tests performed a few weeks apart, and more or less marked signs of hypo-oestrogenism.
+
+Three main histological mechanisms have been described: abnormal formation of the follicular pool, early follicular depletion and blocked follicular maturation. The main known aetiologies are listed in Table 1. Idiopathic POI accounts for 80% of cases.
+
+Once iatrogenic causes have been eliminated, the most frequent known causes are:
+
+*Genetic causes: Turner syndrome (karyotype 45,X or mosaic 45,X/46,XX), X deletions or X translocations, autosomes, "FMR1" premutation,
+*autoimmune polyendocrinopathies.  
+
+Once an iatrogenic cause has been ruled out by questioning (radiotherapy, chemotherapy, ovarian surgery), a karyotype, a search for FMR1 premutation and a search for autoimmunity should be systematically carried out. An increasing number of genes that may be responsible for POI are also increasingly being tested for, thereby reducing the number of idiopathic POI.
+
+Table 1:<gallery perrow="1">
+File:PIO.png|Main known etiologies of premature ovarian failure.
+</gallery>

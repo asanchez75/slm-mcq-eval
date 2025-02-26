@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-336-01-A
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=A
+|Title=Coma in adults and children
+|Description=None
+|Rubric=Definition
+|Contributors=Nicolas Weiss
+|Order=1}}
+
+- Coma = acute impairment of alertness + impairment of consciousness
+
+
+- Demonstrated by the patient's lack of response despite verbal, tactile or painful stimulation (increasing intensity).
+
+
+- Vigilance = opening of the eyes and presence of an old-sleep rhythm (spontaneous alternation between opening and closing of the eyes, or after stimulation).
+
+
+- Consciousness = presence of interaction with the environment. By definition, eye tracking is sufficient to classify the patient as conscious, even if they are classified as minimally conscious.
+
+
+- NB: you have to be alert to be conscious; you can be alert without being conscious (vegetative state).

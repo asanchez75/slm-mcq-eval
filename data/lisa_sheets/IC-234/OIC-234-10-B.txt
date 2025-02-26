@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-234-10-B
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=B
+|Title=Knowing the main tests in the assessment of heart failure
+|Description=Know how to prescribe ECGs, biological tests and the indications for coronary angiography or coroscanner.
+|Rubric=Additional examinations
+|Contributors=Olivier Huttin
+|Order=10}}
+The aim of the work-up is to confirm the diagnosis, investigate the aetiology of the heart attack and assess its degree of severity.
+
+===== - Standard biological tests: =====
+- Natraemia; kalaemia; creatininaemia; liver function tests; TSH us
+
+- Blood count; serum iron, ferritin, transferrin capacity (to check for haemochromatosis, martial deficiency)
+
+- Troponin
+<br />
+
+===== - BNP (Brain Natriuretic Peptide) or NT-proBNP =====
+<br />
+
+===== - ECG =====
+o Insufficient on its own to establish the diagnosis but rarely normal in IC
+
+o Possible aetiological orientation (sequelae of MI, specific cardiomyopathy, rhythm disorder)
+
+o Frequent aspecific abnormalities: atrial fibrillation, left ventricular hypertrophy, left bundle branch block.
+[File:ECG recorded in IC patients.png|thumbnail|ECG recorded in IC patients. Top line: sinual rhythm, LVH; bottom line: slow ACFA LVH. ]]
+
+
+
+
+===== - Transthoracic echocardiography (TTE) =====
+o Reference test: should be performed in all patients with CHF
+
+o Geometry and segmental and global function of the left ventricle, measurement of LVEF value
+
+o Search for valvulopathy
+
+o Assessment of right ventricular function,
+
+o Haemodynamic assessment: cardiac output, diastolic function (relaxation, assessment of left ventricular filling pressures), assessment of pulmonary pressures including systolic pulmonary artery pressure by measuring tricuspid insufficiency flow, assessment of right ventricular filling pressures.
+
+o Assessment of the pericardium
+
+===== - Coronary angiography =====
+- proposed in case of systolic dysfunction, kinetic disorder or evidence of ischaemia (in case of normal LVEF), ventricular rhythm disorders (or after recovered sudden death).
+
+- Helps rule out coronary artery disease
+
+- In young patients, a coroscanner can be used to avoid coronary angiography.
+
+
+Other tests will be suggested depending on the clinical context: cardiac MRI, bone scan (amyloidosis), genetic investigation, right catheterisation, etc.
+<br />
+[[File:Examples of different types of cardiac imaging .png|vignette|482x482px|examples of different types of cardiac imaging that can be carried out in the presence of an IC: coronary angiography (A), thallium perfusion scintigraphy coupled with an exercise test (B), cardiac MRI (C), coroscanner (D), biphosphonate scintigraphy]]
+<br />

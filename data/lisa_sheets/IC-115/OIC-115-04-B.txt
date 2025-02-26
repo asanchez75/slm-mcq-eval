@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-115-04-B
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=B
+|Title=Knowing the two mechanisms of photosensitivity
+|Description=Photo-allergy and phototoxicity
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=4}}
+Skin eruption triggered by exposure to the sun; photodistributed lesions i.e. localised to exposed areas (face, décolleté, extremities).
+
+Two different mechanisms:
+
+- '''Phototoxicity''', eruption occurs in the hours following exposure to the drug, depends on both the dose of drug and the dose of UVA,
+
+- '''Photo-allergy''', rash surveint after 7 to 21 days following exposure to the drug, may be triggered by minimal sun exposure, starts in the exposed areas and may spread outside these areas.

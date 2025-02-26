@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-219-19-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Knowing the principles of treating iron overload
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=19}}
+The treatment of genetic haemochromatosis is based on repeated blood withdrawals (therapeutic bloodletting), the frequency of which is based on ferritinaemia values. Bleeding must be suspended in the event of anaemia (Hgb<11g/dl).
+
+A low-iron diet is not indicated, but limiting alcohol consumption is recommended.
+
+Iron chelators are mainly indicated for iron overload secondary to haematological diseases.
+
+In the case of genetic haemochromatosis, long-term monitoring is necessary to look for complications. Genetic counselling should also be offered, with screening of 1st degree relatives.

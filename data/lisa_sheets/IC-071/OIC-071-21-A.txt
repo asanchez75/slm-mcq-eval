@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-071-21-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Knowing the clinical and paraclinical assessment
+|Description=Know how to direct the clinical and paraclinical examination aimed at confirming the diagnosis and assessing its severity.
+|Rubric=Management
+|Contributors=
+|Order=21}}
+'''Anamnestic'''
+
+* Medical history.
+* Weight history, frequency and intensity of fluctuations.
+* Quantitative and qualitative assessment of attacks (food diary).
+* Search for associated compensatory behaviours.
+* Comorbidities to be investigated.
+* Assessment of social and family environment.
+
+'''Clinical'''
+
+* Weight, height, BMI, growth curve (P, T, BMI) for children and adolescents.
+* Assessment of Tanner's pubertal stage in adolescents.
+* Heart rate, blood pressure, temperature.
+* Signs of dehydration.
+* Skin condition: self-mutilation scars, oedema, etc.
+* Check for parotid hypertrophy, dental erosions, etc.
+* Thymic state, suicidal risk, co-morbidities with addictive disorders, etc.
+
+'''Biologique'''
+
+* CBC, platelets, PT, APTT.
+* Complete ionogram, urea, creatinine, creatinine clearance.
+* Blood calcium, phosphorus, 25OH-D3.
+* Liver function tests: ALT, ASAT, PAL and TP.
+* Protein levels, albumin, prealbumin.
+* CRP.
+* TSH, to be discussed if there is any doubt about hyperthyroidism.
+* Blood or urine tests if there is any doubt.
+
+'''Paraclinical'''
+
+* Bone densitometry.
+* Cerebral imaging to be discussed (to rule out a differential diagnosis).

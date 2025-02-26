@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-158-10-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Understanding the value (or otherwise) of measuring CRP and PCT in the context of sepsis and septic shock
+|Description=To understand the relevance of additional tests
+|Rubric=Supplementary tests
+|Contributors=
+|Order=10}}
+CRP and PCT levels are increased in most cases of bacterial infection ''[[Acute or chronic inflammatory syndrome SD-186|(acute or chronic inflammatory syndrome)]]''.
+
+However, the initial management of sepsis or septic shock will be guided by clinical assessment and will not depend on CRP or PCT levels. In most cases, therefore, these biomarkers are of no value.
+
+They can help in rare cases where the origin of a malfunction is not clearly identified. An elevated PCT level may point to a bacterial origin. CRP, which is less specific for infectious processes (its blood concentration may increase in any acute condition), is also of limited value.

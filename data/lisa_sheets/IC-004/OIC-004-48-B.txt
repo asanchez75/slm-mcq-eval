@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-004-48-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Evaluation: learning about the certification of healthcare establishments, principles and procedure
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=48}}
+The '''certification of health care facilities''' :
+
+- Is a mission of the French National Authority for Health (HAS)
+
+- Assesses the level of ''quality'' and ''safety of care'' in public and private health establishments
+
+- Is carried out by ''expert-visitors'', i.e. healthcare professionals trained and appointed by the HAS
+
+- Who assess the school during an ''on-site visit'', by reference to ''national targets''.
+
+- Is '''renewed''' periodically.
+
+
+The national objectives are grouped together in a "certification reference framework" structured into 15 objectives divided into three chapters (see below):
+
+- The patient
+
+- The care teams
+
+- The establishment
+
+
+These 15 objectives are broken down into "90 generic criteria" (common to all healthcare establishments) and "41 criteria specific to certain populations, types of care or sectors of activity".
+
+
+These 141 possible criteria correspond to "three levels of requirement":
+
+- 15 ''imperative criteria'' whose non-validation may result in refusal of certification
+
+- 111 ''standard criteria'' corresponding to certification expectations
+
+- 5 ''advanced criteria'', not yet required but desirable, likely to become standards in the future.
+
+<Each criterion is the subject of a "descriptive sheet".
+
+<br /><gallery>
+File:Chapter.png
+</gallery><gallery perrow="1">
+File:Chapter 2.png
+</gallery>The 15 objectives of the certification reference framework.
+
+<br /><gallery>
+File:Initially.png
+</gallery>The certification process.
+
+CCES = commission cde certification des établissements de santé; ES = établissement de santé ;
+
+HAS = haute autorité de santé; RG = recours gracieux.
+
+
+
+The surveyors use ''five assessment methods'':<gallery perrow="1">
+File:Patient tracer.png
+</gallery>At the end of the process the HAS takes one of four '''decisions''':<gallery perrow="1">
+File:Has.png
+</gallery>

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-110-14-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing the epidemiological importance of SAS
+|Description=None
+|Rubric=Prevalence, Epidemiology
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=14}}
+
+In France, nearly 2 million people are thought to suffer from it. It affects 2% of women and 4% of men between the ages of 30 and 60.

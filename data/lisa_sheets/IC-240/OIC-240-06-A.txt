@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-240-06-A
+|Item_parent=Hypoglycaemia in adults and children
+|Item_parent_short=Hypoglycaemia in adults and children
+|Rank=A
+|Title=Knowing the main causes of organic hypoglycaemia
+|Description=medications, insufficiencies (hepatic, renal, adrenal), REMOVE mesenchymal tumours, autoimmune, obesity surgery
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+'''A. In diabetic subjects'''
+
+*Poorly-adapted insulin treatment
+*Poorly-adapted treatment with insulin secretagogues (sulphonylureas and meglitinides).
+*mismatch between insulin dose and meal, or use of hypoglycaemic medication and no meal
+*gastroparesis
+
+Metformin, alpha-glucosidase inhibitors, dipeptidyl peptidase 4 (DPP4) inhibitors, SGLT2 inhibitors and GLP-1 receptor agonists alone cannot be responsible for hypoglycaemia.
+
+
+'''B.    In non-diabetic patients
+
+*Alcohol, especially in cases of acute and severe alcoholism.
+*Drug-induced, especially in elderly patients or those taking multiple medications (certain quinolones, quinine, pentamidine, indomethacin, etc.), but also unacknowledged use of insulin or insulin secretagogues in a psychiatric context.
+*Tumour: Insulinoma ++.
+*Visceral insufficiency: severe hepatic insufficiency; severe renal insufficiency.
+*Severe malnutrition
+*Deficiency in counter-regulatory hormones: peripheral or central adrenal insufficiency (in adults, deficiencies in other counter-regulatory hormones do not cause hypoglycaemia).
+
+
+'''In patients for whom the aetiological diagnosis is not obvious,''' for whom venous sampling during hypoglycaemia could not be performed and <u>after adrenal insufficiency has been ruled out,</u> the 72-hour young test is the reference test for diagnosing hypoglycaemia in the non-diabetic subject.
+
+In addition to the clinical context, measurement of blood glucose, insulin and C-peptide, in the event of an early test, will help to differentiate between these different aetiologies. will help to differentiate between these different aetiologies.
+
+This will highlight the following results <u>in venous hypoglycaemia</u>:
+
+- Insulinoma, ''hidden intake of insulin secretagogues'': insulin, elevated C-peptide
+
+- ''Hidden intake of insulin:''
+
+- If injection of exogenous insulin recognised by the insulin dosage kit used: high insulin, low peptide-C
+
+- If injection of exogenous insulin not recognised by the insulin dosing kit used: insulin, low C-peptide
+
+- Visceral insufficiency, adrenal insufficiency, severe malnutrition, alcohol: low insulin and peptide-C levels
+
+<br />

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-357-03-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Knowing the functional signs and elements of the clinical diagnosis of peritonitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Maksud Assadi,Philippe Montravers,David Moszkowicz
+|Order=3}}
+
+
+*Acute pain on examination of the abdomen ('''[[Abdominal pain SD-004|abdominal pain]]'''')
+*signs of peritoneal irritation
+**Localised or generalised tension and/or contracture
+**Pain on rectal examination or abdominal decompression
+*Infectious syndrome
+**Fever ≥ 38°5 C ("''[[Hyperthermia/fever SD-044|hyperthermia/fever]'''), respiratory rate > 20/min, tachycardia > 90/min
+**Organ failure
+*Other signs
+**Digestive signs (ileus, nausea ('''[[Nausea SD-012|nausea]]'''''), vomiting ('''[[Vomiting SD-013|vomiting]]''''), tenesmus, hiccups or dyspnoea, diarrhoea)
+**Urinary signs (dysuria, pollakiuria), in cases of pelvic abscess.
+
+
+Item 269 : Acute Abdominal Pain in Children and Adults

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-082-15-A
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=A
+|Title=Knowing how to evoke retinal detachment
+|Description=Semiological description
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=15}}
+
+[[File:DR AD.jpg|gauche|vignette]]
+The '''clinical signs''' suggestive of rhegmatogenous retinal detachment (RD) are:
+
+- myodesopsias followed by phosphenes corresponding to the onset of retinal tearing
+
+- amputation of the peripheral visual field, corresponding to the formation of the DR
+
+- when the DR lifts the macula, it causes a drop in visual acuity (white, painless eye).
+
+'''Fundus examination''' with examination of the peripheral retina enables:
+
+*make the diagnosis: the retina appears raised, mobile, forming voluminous folds
+*search for the causal tear: the surgeon must try to find several tears, as multiple tears are common and failure to identify one or more tears may lead to failure of the surgical treatment.

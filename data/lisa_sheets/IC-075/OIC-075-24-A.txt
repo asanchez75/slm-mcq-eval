@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-075-24-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Intitle=Withdrawal stage: find out about the proposed cessation aid each time you contact a healthcare professional
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=24}}
+'''Advice to stop''' : All healthcare professionals must suggest stopping (5A) at every consultation:
+
+# Ask: ask if the person smokes
+# Assess: assess their smoking habits
+# Advise: advise each smoker to stop smoking
+# Assist: discuss the range of aids and support available to help them achieve this goal
+# Arrange: offer written information to support this advice
+
+Motivational interviewing
+
+A patient-centred relational approach, the aim of which is to arouse or reinforce the patient's motivation to change, in order to help them change their behaviour.

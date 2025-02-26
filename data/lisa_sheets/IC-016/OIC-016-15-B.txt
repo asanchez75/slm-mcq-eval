@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-016-15-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Intitulé=To know the quantitative evolutions of the use of care
+|Description=To know that there is a transfer from the ambulatory sector to the hospital via the emergencies because problem of permanence of care and inadequate assumption of responsibility of the chronic diseases and polypathologies.
+|Rubrique=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=15}}
+
+According to a DREES study, 12 million people were admitted to short-stay hospitals in 2018. The average number of stays per person hospitalised was 1.5, representing 18 million hospitalisations[1].
+
+The rate of use, which is high before the age of 1, is low between the ages of 1 and 18. It then increases progressively with age, peaking in women during the maternity years, and reaches 500 per 1,000 population from the age of 70 for men and 75 for women.
+
+According to the International Classification of Diseases (10th revision: ICD-10), the most frequent reasons for referral, all ages combined, are :
+
+- diseases of the digestive system (including dentistry),
+
+- tumours and
+
+- diseases of the circulatory system.
+
+However, this hierarchy of reasons for seeking treatment changes with age: before the age of 15, diseases of the respiratory system predominate, followed by fertility-related treatment between the ages of 15 and 44, diseases of the digestive system between the ages of 45 and 64, tumours between the ages of 65 and 84, and diseases of the circulatory system for the oldest patients.
+
+
+Between 2010 and 2018, the number of short-stay inpatients rose by 8% and the number of hospital admissions by 10%. Age-standardised rates, which take into account the increase and ageing of the population, rose by 2% and 2.5% respectively.
+
+
+The national outpatient surgery rate in 2018 was 57.6%, up just 1.7 points on 2017. Compared with the increases observed from 2014 to 2017 (+2.1%, +1.9%, +2.2%, +1.8%), this result confirms the slowdown in growth in outpatient surgery between 2017 and 2018, the target set by the health authorities being 70%.
+
+
+
+
+In France, as in most European countries, there are ''social inequalities in the use of healthcare services'', i.e. ''differences in healthcare consumption between social groups in a given state of health''.
+
+In France, as in most European countries, there are social inequalities in the use of healthcare, i.e. differences in the consumption of healthcare for a given level of need. These differences are even greater for specialist care and preventive care. France is one of the countries with the highest levels of inequality.
+
+There are several reasons why less-educated people and those on lower incomes make less use of preventive care:
+
+- information barriers relating to the risks involved or lack of knowledge of care channels
+
+- cultural barriers, with a different relationship to the body and a greater preference for the present, combined with less aversion to risk. There may also be a lack of confidence in the healthcare system.
+
+- financial barriers, with the poorest people declaring more often that they have had to forego treatment for financial reasons.
+
+With regard to curative care, a survey carried out by the Opinionway Institute for the newspaper Les Echos and Harmonie Mutuelle found that ''59% of those questioned said they had given up medical care in the twelve months'' preceding the survey, including 29% for financial reasons ''in 2019''. Among the respondents, young working people aged 25 to 34 were the most likely (37%) to give this reason. People on the lowest incomes or with declining purchasing power were the most likely to give up healthcare. The most common reasons for foregoing treatment were dental care (61%), changing frames (55%), full medical check-ups (34%) and cardiology consultations (22%).
+
+There are several factors that can explain people giving up healthcare. On the one hand, there are factors linked to social protection and the provision of care: lack of supplementary health insurance, excess fees, increased patient co-payments, territorial organisation of provision. On the other hand, there may be factors linked to individuals, such as their personal relationship with health, the possibility of turning to alternative methods, etc.
+
+The authorities have introduced a number of measures to combat the practice of not seeking healthcare. These include
+
+* controlling the remaining cost of healthcare for households, by not using, or no longer using, measures to make households more 'responsible', which involve financial constraints or lower reimbursements (deductibles, lump-sum payments, delisting of treatments or drugs, for example);
+* making healthcare costs more affordable for those on the lowest incomes, so that they have access to supplementary healthcare (via schemes such as the complementary health insurance scheme);
+* the introduction of specific measures designed to freeze the prices of certain services provided by healthcare providers, so that they can control their costs through measures such as "100% health", or by requiring healthcare professionals not to charge extra fees.
+
+----[1] <nowiki>https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-12/er1168.pdf</nowiki>

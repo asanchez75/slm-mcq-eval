@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-287-03-B
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=B
+|Title=Know the pathophysiology of diverticular disease and its complications
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Frédérique PESCHAUD
+|Order=3}}
+
+The pathogenesis of diverticulosis is poorly understood. Diverticulosis is more common in Western Europe and North America, probably as a result of a lower-fibre diet responsible for intestinal motor disorders: excessive contractions and high pressure linked to the low volume of the faecal bolus.
+
+Certain factors are thought to be involved in the development of diverticulitis: smoking, obesity, constipation and a sedentary lifestyle. Certain drugs known as "diverticulo-toxic" (NSAIDs, corticoids, immunosuppressants, etc.) favour the onset of diverticulitis or its complications.
+
+Coagulation disorders increase the risk of diverticular haemorrhage, whether inborn or acquired, and particularly iatrogenic drugs (NSAIDs, platelet anti-aggregants and anticoagulants).

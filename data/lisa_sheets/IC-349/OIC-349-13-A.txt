@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-349-13-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Know the principles of medical and surgical management of a phlegmon of the sheaths.
+|Description=None
+|Topic=Management
+|Contributors=Pierre-Marie Roy
+|Order=13}}
+This is an EMERGENCY with a risk to the functional prognosis of the hand requiring hospitalisation in a specialised facility for medical and surgical management.
+
+* '''Systematic surgical management'''
+** Excision of the portal of entry
+** Incision proximal and distal to the sheath, more or less extensive throughout the sheath.
+** Bacteriological sampling
+** Abundant washing of the sheath with physiological saline.
+** If present, excision of necrotic tissue
+** Controlled wound healing
+* Probabilistic antibiotic therapy subsequently adapted to the results of the swabs
+* Physiotherapy: Mobilisation of the fingers

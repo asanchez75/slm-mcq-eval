@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-177-01-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Know the definition of an antibiotic
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=1}}
+
+Antibiotics are substances capable of destroying bacteria (bactericidal antibiotics) or inhibiting their growth (bacteriostatic antibiotics).

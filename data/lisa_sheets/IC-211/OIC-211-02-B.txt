@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-211-02-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing the epidemiology of sarcoidosis (age, sex of onset and variable prevalence according to ethnic group)
+|Description=To understand the basic epidemiology of sarcoidosis
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+
+
+*Affects people of all origins
+*Varying prevalence depending on country/region (more frequent in patients of Afro-Caribbean origin).
+*Can occur at any age, but most often begins between the ages of 20 and 50.
+*Rare disease (in France)

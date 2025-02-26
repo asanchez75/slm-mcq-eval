@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-340-04-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Knowing the pathophysiology of cerebral ischemia
+|Description=Central zone, peripheral zone (penumbra zone)
+|Topic=Physiopathology
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=4}}
+- Any acute reduction in cerebral arterial flow will be responsible for suffering in the cerebral parenchyma located downstream of the arterial occlusion. Thus, in the case of cerebral infarction, there are :
+
+- a "central zone", where necrosis sets in immediately. This zone is responsible for the neurological sequelae;
+
+- a ''peripheral zone'', known as the ''penumbra zone'', where tissue disturbances are reversible if cerebral blood flow is restored rapidly (in the first few hours). This zone is responsible for the symptoms presented by the patient and is the target for emergency treatment of cerebral ischaemia.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-48-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the prevalence
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=48}}
+
+The lifetime prevalence of PTSD is 5-10% of the general population, higher in at-risk populations up to 50% (rape victims, survivors of combat or terrorist acts). Sex ratio of 2 women to 1 man. Exposure to trauma is common in children and adolescents (25%), with 10% developing PTSD before the age of 18.

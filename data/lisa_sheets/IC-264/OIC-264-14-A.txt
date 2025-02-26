@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-264-14-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing the factors in the progression of CKD
+|Description=Away from etiological treatment: hypertension and proteinuria
+|Rubric=Management
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=14}}
+
+Apart from the etiological treatment of CKD, interventions to slow the progression of chronic kidney disease include :
+
+* strict control of blood pressure;
+* reducing proteinuria
+* prevention of acute renal failure and nephrotoxicity (iodine, drugs);
+* moderate protein restriction adapted to the patient;
+* control of diabetes, if present, and smoking cessation.

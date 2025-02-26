@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-195-04-A
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=A
+|Title=Knowing the clinical signs frequently observed in CAG
+|Description=General signs, headache, PPR, NOIAA
+|Topic=Positive diagnosis
+|Contributors=
+|Order=4}}
+Polymorphic, single or multiple clinical manifestations.
+
+<u>- '''General signs'''</u> '':'' '''fever''' '''([[Hyperthermia/fever SD-044|hyperthermia/fever]])''', '''[[Asthenia SD-021|asthenia]]''', anorexia, '''[[Weight loss SD-017|weight loss]]'''. Fever rarely exceeds 39°C.
+
+<u>- '''Cephalic signs'''</u> ''':'''''
+
+'''=> [[Headache SD-118|headache]]'''' uni or bilateral temporal, recent, and usually resistant to paracetamol.
+
+=> hyperesthesia of the scalp ("comb sign")
+
+=> intermittent claudication of the jaws
+
+=> anomaly(ies) on palpation of the temporal artery: indurated and/or tender; abolition or reduction of the temporal pulse
+
+<u>- '''Rheumatological signs'''</u> ''':'''''
+
+=> stiffness and inflammatory ''[[Joint pain SD-067|joint pain]]''' of the pelvic and scapular girdles (PPR)
+
+'''=> joint pain''' or arthritis
+
+'''<u>- Ophthalmological signs</u> ([[Vision abnormality SD-138|vision abnormality]])''' ''='' most frequent ischaemic complication of CAG.
+
+=> Acute anterior ischaemic optic neuropathy (AIAON)'' the most common form of optic neuropathy, linked to vascular damage to the short ciliary arteries, branches of the ophthalmic artery, which supply blood to the optic nerve head. Sudden drop in visual acuity with white eye, and papilledema and peripapillary flare haemorrhages on the fundus.
+
+'''<u>- Macrovascular complications</u>''''
+
+Aortic disease (aortitis): asymptomatic, aortic dissection, aneurysm or even diffuse dilatation of the aorta.
+
+=> A'''tteinte des artères des membres'' :
+
+- intermittent limb claudication'' (pain and/or weakness on exertion relieved by rest)
+
+- '''vascular murmur'''' '''([[Discovery of a vascular murmur SD-019|discovery of a vascular murmur]])'''' (subclavian, humeral or femoral in particular)
+
+- reduction or abolition of a peripheral pulse
+
+- blood pressure asymmetry
+
+'''=> Ischaemic strokes : '''[[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]'''''

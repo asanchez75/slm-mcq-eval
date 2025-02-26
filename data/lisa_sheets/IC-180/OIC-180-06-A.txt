@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-180-06-A
+|Item_parent=Risques sanitaires liés aux irradiations. Radiation protection
+|Item_parent_short=Risques sanitaires liés aux irradiations. Radiation protection
+|Rank=A
+|Title=Know the definition of patient information
+|Description=None
+|Rubric=Definition
+|Contributors=Eléonore Blondiaux,Damien Huglo,Jean-Philippe Vuillez,Jean-François Chateil
+|Order=6}}
+
+This information is being provided against a backdrop of 1) a low level of knowledge among the general public about the effects of ionising radiation, particularly scientific knowledge, and 2) a pejorative image of ionising radiation among the general public.
+
+This context is important to take into account because it leads to disproportionate irrational concerns in situations encountered in medical imaging. Knowing the average effective doses delivered by a given examination (table 1) puts the doses used in diagnostic imaging into perspective in relation to natural exposure levels (2.9 mSv per year on average), thereby reassuring patients by placing the radiation risk in a global context.
+<br />
+{| class="wikitable"
+|+'''Table 1''': Orders of magnitude of effective doses delivered and tolerance thresholds: effective doses vary according to equipment and settings and are therefore likely to evolve with technical progress (the data provided date from 2021).
+|Thoracic radiography
+|20 µSv
+|-
+|Paris-New York flight
+|50 µSv
+|-
+|Average natural radiation/year in France
+|2.9 mSv
+|-
+|Bone cintigraphy
+|5 mSv
+|-
+|Abdominal and pelvic CT
+|10 mSv
+|-
+|Exposure limit for workers/year
+|20 mSv
+|-
+|Threshold beyond which stochastic effects are proven
+|100 mSv
+|-
+|Threshold for myelotoxicity
+|1 Sv
+|-
+|Threshold for digestive toxicity
+|5 Sv
+|-
+|Threshold for radiodermatitis
+|10 Sv
+|-
+|Neurotoxicity threshold
+|20 Sv
+|-
+|Dose during targeted radiotherapy on a tumour
+|50 Sv
+|}
+- Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|In the context of patient information, it should be remembered that in "diagnostic medical imaging", no procedure delivers doses in excess of 100 mSv, and that doses therefore remain within a zone for which no deterministic effect can occur and no increase in the incidence of cancer has ever been formally proven. It is therefore essential to reassure patients (and their parents) by focusing information on the benefits/risks balance].
+
+- In "diagnostic nuclear medicine", where the patient will emit very low doses of IR for some time, there are no specific eviction measures for the family and close contacts, including young children and pregnant women, because the cumulative doses are always well below 1 mSv.
+
+- In "interventional radiology", patients are informed after the procedure of the need for any skin monitoring. When the procedure has delivered high doses of IR (which may exceed 3 Gy to the skin), there is a risk of erythema, alopecia or even more serious skin lesions.
+
+- In "paediatric imaging", greater vigilance is required both in terms of justifying examinations and optimising practices, due to the greater radiosensitivity of children. Whenever possible, the possibility of substitution by ultrasound or MRI should be considered.
+
+[Prevention of foetal risks: infection, drugs, toxic substances, irradiation|- Pregnancy is a special case in that the relationship between medical exposure and pregnancy is strongly influenced by anxiety and subjectivity. However, as in other situations, an objective explanation of the risks and possible effects should eliminate any form of anxiety. The effects of ionising radiation on the embryo and foetus are of 2 types:]]
+
+[Prevention of foetal risks: infection, drugs, toxic substances, irradiation|o malformations (teratogenicity) are the domain of deterministic effects. There are therefore dose thresholds above which these effects appear, and above which the severity increases with the total dose received. These thresholds are well known, and the lowest of them is 200 mGy whatever the phase of pregnancy].
+
+[In practice, an assessment of the dose delivered to the uterus, either by the establishment's medical physicist or by the Institut de Radioprotection et de Sûreté Nucléaire (IRSN) in the event of exposure to ionising radiation affecting the abdomen and pelvis and of an unknown pregnancy, will in the vast majority of situations provide perfect reassurance]].
+<br />

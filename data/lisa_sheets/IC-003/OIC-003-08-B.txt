@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-003-08-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing the information bases
+|Description=Knowledge of the principles, advantages and limitations of decision support tools (knowledge of databases, etc.).
+|Heading=Taking charge
+|Contributors=
+|Order=8}}
+Examples :
+
+o In general practice, for example, the SFMG has drawn up a "critical avoidable risk sheet" for each "consultation result".
+
+o The French National Authority for Health (HAS) publishes "transparency sheets" on which the "medical service rendered" (SMR) appears, setting out the "benefits/risks" of medicines.

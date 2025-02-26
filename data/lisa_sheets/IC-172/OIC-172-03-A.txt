@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-172-03-A
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Knowing the modes of transmission of digestive parasites
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=3}}
+
+{| class="wikitable"
+|Method of transmission
+|Circumstances of infection
+|Main parasitic diseases
+|-
+|Parasitosis acquired orally
+|Ingestion of eggs or cysts from hands, water, fruit and vegetables, soil (faecal peril).
+|Amoebiasis,
+
+Giardiasis
+
+Cryptosporidiosis
+
+Ascariasis
+
+Taenia solium cysticercosis
+|-
+|
+|Ingestion of eggs present on the edges of the anal margin or in the domestic environment (dirty hands, sheets, underwear, etc.).
+|Oxyurosis
+|-
+|
+|Ingestion of larvae through consumption of raw or undercooked meat.
+|Taeniasis caused by ''T. saginata'' (beef)
+
+T. solium taeniasis (pork)
+<br />
+|-
+|Transcutaneous parasitosis
+|Penetration of infesting larvae when walking barefoot
+|Anguillulosis
+
+Hookworm
+|}
+NB. Possibility of acquiring other helminths by eating raw fish.

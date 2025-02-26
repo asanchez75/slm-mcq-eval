@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-111-11-A
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=A
+|Title=How to diagnose rosacea
+|Description=Know the clinical features needed to diagnose rosacea in its vascular, papulopustular and hypertrophic forms.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+'''The diagnosis is clinical.'''
+
+'''Clinical elements to look for:''''
+
+=== 1. vascular form ===
+
+==== Paroxysmal phenomena: flushing in response to variable stimuli (heat, alcohol, spices) ====
+
+==== Permanent phenomena: erythematotelangiectatic rosacea ====
+Facial erythema and telangiectasias affecting the cheeks, nose, chin and forehead
+
+=== 2. Papulo-pustular form: papules and pustules without comedones. ===
+
+=== 3. Hypertrophic form: rhinophyma ===
+=== 4. Ocular form ===
+
+0-50% of rosaceas are accompanied by ocular involvement. It may precede the cutaneous form of rosacea by several years. It takes the form of ''conjunctivitis, blepharitis, keratitis, chalazions, telangiectasias of the eyelids''.

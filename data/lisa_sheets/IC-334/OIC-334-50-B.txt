@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-334-50-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Knowing the principles of spinal trauma management
+|Description=Vascular filling, vasopressors, indication for mechanical ventilation, surgery, no indication for corticotherapy
+|Rubric=Management
+|Contributors=CFCOT
+|Order=50}}
+
+1. initial pre-hospital care
+
+* Avoid any risk of neurological aggravation.
+** Stabilisation of the spine:
+*** Any polytrauma or head injury is a spinal cord injury until proven otherwise.
+*** Protective manoeuvres to maintain the head-neck-torso axis: release onto a "hard surface", use of a "shell mattress", application of a "semi-rigid neck brace" with sternal and chin support.
+** Control of factors aggravating neurological lesions: "glycaemic control", "absence of hypoxia", "normocapnia" if the patient is on mechanical ventilation and "temperature control".
+* Clinical signs of haemodynamic instability in 60% of patients:
+** One or even two safe venous access ports of good calibre to ensure PAS ≥ 100mmHg and MAP ≥ 85mmHg, with early initiation of vasopressors (norepinephrine, ephedrine) if necessary.
+** Exclude other causes of shock (haemorrhage, tamponade, tension pneumothorax).
+* Frequent respiratory impairment:
+** '''Control of the airway''': free the upper airway by subluxation of the mandible, Guedel oropharyngeal cannula, oro-tracheal intubation in case of respiratory distress or Glasgow ≤ 8: use of devices avoiding significant mobilisation of the cervical spine which would cause secondary displacement.
+** '''Control of ventilation and oxygenation:''' 0<sub>2</sub> high flow in case of hypoxia (objective SpO<sub>2</sub> ≥ 94%), ventilation assistance if necessary.
+
+
+2 ''Surgical management'' of spinal trauma
+
+* In a ''specialised'' centre treating complex trauma.
+* Depends on a number of parameters (type of injury, presence of neurological deficit, associated injuries, etc.) and the results of the radiological assessment carried out.
+* Objective:
+** '''Decompression of compressed neurological elements'' potentially recoverable in the event of neurological disorders.
+** Reduction of the fracture site in the event of significant displacement.
+** Restraint of the fracture site if there is a risk of secondary displacement (unstable fracture): immobilisation by corset, percutaneous or open surgical stabilisation.
+* Corticosteroid therapy for neuroprotective purposes is "not recommended".

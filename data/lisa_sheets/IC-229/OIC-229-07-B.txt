@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-229-07-B
+|Item_parent=Venous access monitoring and complications
+|Item_parent_short=Venous access monitoring and complications
+|Rank=B
+|Title=To know the principles of treatment of the most frequent complications of venous lines
+|Description=Treatment of venous line infection and thrombosis
+|Rubric=Management
+|Contributors= Philippe Lacroix, Simon Rickenbach
+|Order=7}}
+
+Infectious complications
+
+If there are any signs of infection, the equipment should be removed. The catheter is cultured.
+
+If there are general signs, blood cultures are taken ('''[[Positive blood culture SD-190|positive blood culture]]'''').
+
+The decision to introduce antibiotic therapy depends on whether the symptoms are local or general ('''[[Prescribe an anti-infective SD-255|prescribe an anti-infective]]'''):
+
+- in the event of fever, general signs of sepsis or even septic shock, antibiotic therapy is initiated
+
+- antibiotic therapy targets staphylococci aureus and epidermidis.
+
+- it is extended to Gram bacilli - in cases of immunodepression, neutropenia or other risk factors
+
+Thrombotic complications
+
+In the event of central venous thrombosis, the catheter may be left in place if it is functional, with prescription of curative anticoagulation adapted to the context.

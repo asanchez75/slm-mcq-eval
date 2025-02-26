@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-055-05-A
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=A
+|Title=Knowing the normal development of feeding, sleeping and sphincter control
+|Description=None
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame,Sylvie Nguyen Le Tich
+|Order=5}}
+
+<br />
+{| class="wikitable"
+|
+|'''Developmental benchmark''''
+|-
+|Sleep
+|Day/night periodicity acquired at 6 months
+|-
+|Feeding
+|Solid food plasticity at 12 months
+|-
+|Cleanliness
+|No daytime toilet training at 30 months
+|}

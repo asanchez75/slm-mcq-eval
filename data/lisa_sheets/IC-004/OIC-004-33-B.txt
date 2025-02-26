@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-004-33-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the diagnostic criteria for nosocomial pneumopathy
+|Description=Definition, diagnostic methods
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=33}}
+According to the CTINILS, the diagnosis of nosocomial pneumonia is based on the combination of :
+
+    - a radiological image (X-ray or CT scan) suggestive of pneumonia (if there is a history of cardio-respiratory disease, 2 X-ray examinations are required)
+
+'''AND at least one of the following signs:'''
+
+- hyperthermia > 38°C with no other cause,
+
+- leukopenia (<4000 GB/mm3) or hyperleukocytosis (>12,000 GB/mm3)
+
+'''AND at least one of the following signs:'''
+
+- appearance of purulent secretions
+
+- cough or dyspnoea or tachypnoea
+
+- suggestive auscultation
+
+- worsening of blood gases (desaturation) or increased need for oxygen or respiratory assistance
+
+Microbiological documentation is strongly recommended using a protected distal swab (PDP), brush, bronchoalveolar lavage (BAL), respecting the recommended positivity thresholds (10<sup>4</sup> CFU/ml for BAL, 10<sup>3</sup> CFU/ml for brush and PDP), or failing that, blood cultures.

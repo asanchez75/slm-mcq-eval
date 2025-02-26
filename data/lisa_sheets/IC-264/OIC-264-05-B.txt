@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-264-05-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the main causes of end-stage CKD and the main causes of chronic interstitial nephropathy (CIN)
+|Description=None
+|Topic=Epidemiology
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=5}}
+
+The main causes of end-stage CKD are :
+
+* Vascular nephropathy
+* Diabetic nephropathy
+* Chronic glomerulonephritis
+* Autosomal dominant polycystic kidney disease

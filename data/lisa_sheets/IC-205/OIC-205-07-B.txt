@@ -1,0 +1,74 @@
+{{knowledge objective
+|Identifiant=OIC-205-07-B
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=B
+|Title=Knowing the elements of the aetiological diagnosis of haemoptysis
+|Description=Consider bronchopulmonary cancer, infectious causes (including tuberculosis, aspergillary transplantation, etc.), bronchial dilatation and cardiovascular causes (PE, PAO, etc.), depending on the context and clinical examination.
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+The main causes of haemoptysis are :
+
+
+1- Bronchopulmonary cancer, evoked by :
+
+- a high-risk background (smoking),
+
+- altered general condition (AEG),
+
+- a paraneoplastic syndrome,
+
+- signs of local or loco-regional invasion (e.g. superior vena cava syndrome, etc.), metastases (peripheral adenopathies, skin metastases, etc.)
+
+- a suggestive radiological appearance: mass, atelectasis, mediastinal syndrome, etc.
+
+
+2- Tuberculosis, evoked by :
+
+- high-risk terrain (history of illness, contagious diseases, etc.)
+
+- AEG, night sweats, fever
+
+- a suggestive radiological appearance: cavern, infiltrates of the apices
+
+
+3- ''Bronchial dilatation (including cystic fibrosis)'' :
+
+- diagnosis often already known
+
+- long-standing daily cough and sputum with repeated infectious exacerbations
+
+- the radiological appearance on a CT scan helps to make the diagnosis
+
+
+4- Necrotizing infectious pneumonia (including fungal infections), evoked by :
+
+- high-risk terrain: immunocompromised; pre-existing respiratory pathology
+
+- signs of infection
+
+- suggestive radiological aspect: abscess; aspergilloma
+
+
+5- ''Vascular causes'' evoked according to the terrain and presentation:
+
+- pulmonary embolism ;
+
+- acute cardiogenic oedema ;
+
+- pulmonary arteriovenous malformations (Rendu Osler disease)
+
+
+6- Intra-alveolar haemorrhage:
+
+- multiple causes (infectious; drugs, immune causes (vasculitis, etc.)...)
+
+- suggestive radiological appearance: ground glass
+
+- confirmed by alveolar lavage
+
+
+In a certain number of cases (up to 25%), no cause is identified: haemoptysis is "idiopathic".
+
+<br />

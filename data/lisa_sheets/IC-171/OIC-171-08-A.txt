@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-171-08-A
+|Item_parent=Scabies and Pediculosis
+|Item_parent_short=Scabies and Pediculosis
+|Rank=A
+|Title=Knowing the association of a sexually transmitted infection (STI) test with the diagnosis of scabies or pediculosis of the body or pubis.
+|Description=None
+|Rubric=Additional tests
+|Contributors=M. P. BRENIER-PINCHART,G. ROBERT,M. HENTZIEN,A. ANGOULVANT,F. BOTTEREL,M. L. DARDE,F. ROBERT-GANGNEUX
+|Order=8}}
+Because scabies is transmitted by skin-to-skin contact, it is considered to be a Sexually Transmitted Infection (STI) and may lead to a search for other STIs, particularly in adults.
+
+The diagnosis of "pthirosis" requires a search for "high-risk" sexual behaviour and the systematic prescription of an STI biological test.

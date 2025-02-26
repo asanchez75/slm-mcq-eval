@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-200-03-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know the difference between mechanical pain and inflammatory pain
+|Description=Distinguish between mechanical and inflammatory pain
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Mechanical pain: joint pain'''
+
+- aggravated by or during exercise ;
+
+- calmed by rest;
+
+- maximum at the end of the day, with night-time awakenings when the position is changed;
+
+- associated with a morning wake-up <30 minutes.
+
+'''Inflammatory pain : Joint pain'''
+
+- improved by effort except in the case of hyperalgesic thrust;
+
+- not soothed by rest;
+
+- worsens in the second half of the night, waking up at night;
+
+- associated with a morning wake-up time >30 minutes.

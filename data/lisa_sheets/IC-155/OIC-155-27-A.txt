@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-155-27-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Heading=Know the definition, pathophysiology and epidemiology of impetigo and impetiginisation.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=27}}
+'''Impetigo:''' vesiculo-pustular skin lesions secondarily crusted due to a superficial non-follicular infection of the skin with ''Staphylococcus aureus'' and/or ''Streptococcus pyogenes''.
+
+The term "impetiginisation" refers to the infection of a pre-existing dermatosis with Staphylococcus aureus and/or Streptococcus pyogenes.
+
+Paediatric disease (peak prevalence between the ages of 0 and 10), predominantly in summer.

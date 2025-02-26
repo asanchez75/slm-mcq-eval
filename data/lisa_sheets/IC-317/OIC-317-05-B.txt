@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-317-05-B
+|Item_parent=Myeloproliferative syndromes
+|Item_parent_short=Myeloproliferative syndromes
+|Rank=B
+|Intitle=Knowing that the prognosis of myeloproliferative syndromes has been dramatically improved by the advent of tyrosine kinase inhibitors
+|Description=None
+|Rubric=Monitoring and/or prognosis
+|Contributors=
+|Order=5}}
+Chronic myeloid leukaemia. Treatment with tyrosine kinase inhibitors (leader: imatinib mesylate). Monitored by quantification of BCR-ABL transcript by RTq-PCR in blood. Prognosis: Progression to accelerated or transformed phase is very rare, and occurs mainly in patients who have failed tyrosine kinase inhibitors. Thanks to tyrosine kinase inhibitors, life expectancy is comparable to the general population.

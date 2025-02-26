@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-219-12-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Knowing the differential diagnoses of anaemia due to martial deficiency
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+These are the differential diagnoses for other microcytic anaemias.
+
+
+- Inflammatory anaemia
+
+A prolonged inflammatory syndrome, whatever its origin, leads to moderate anaemia with hyposideraemia, but this is predominantly normocytic (in 80% of cases).
+
+There is a clinical context of inflammation and a biological inflammatory syndrome (increased CRP). Ferritin levels are increased, while total transferrin binding capacity is reduced.
+
+Variations in martial status in cases of martial deficiency or inflammatory syndrome are shown in Table 1.
+
+
+Table 1: Variations in plasma martial markers in the context of anaemia in cases of martial deficiency or inflammatory syndrome
+<br />
+{| class="wikitable"
+|
+|Serum iron
+|CTF
+|CST
+|Ferritin
+|-
+|Martial deficiency
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|Inflammatory syndrome
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|=
+|<nowiki>+</nowiki>
+|}
+Abbreviations: CTF: total transferrin binding capacity; CST: transferrin saturation coefficient.
+
+
+- Haemoglobinopathies
+
+These are essentially minor or heterozygous thalassaemias. Elements pointing towards this diagnosis are geographical origin, increased serum iron and pseudo-polyglobulia (high red blood cell count with a subnormal haemoglobin level).
+
+The diagnosis is confirmed by haemoglobin electrophoresis in beta-thalassaemia.
+
+Such an anomaly does not justify any treatment and, in particular, no administration of iron.

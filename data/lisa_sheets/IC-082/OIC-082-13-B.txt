@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-082-13-B
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=B
+|Title=Photograph of Papilledema
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+
+[[File:OP.jpg|left|vignette|Papillary edema of the right eye. In this photo, the papilla appears blurred, in relief, and it is not possible to draw its border. When we say that the papilla is "sharp-edged", it is to express the absence of papilloedema.|434x434px]]

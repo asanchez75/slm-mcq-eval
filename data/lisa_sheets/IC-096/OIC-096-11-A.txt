@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-096-11-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=Understanding the urgency of the diagnosis and management of multiple mononeuropathies
+|Description=None
+|Rubric=Identifying the urgency
+|Contributors=
+|Order=11}}
+The diagnosis is urgent and relies on nerve biopsy. '''([[Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SD-239|preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure]]) ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]) ([[Interpretation of an anatomopathology report SD-180|interpretation of an anatomopathology report]])''''
+
+Treatment of multiple mononeuropathies is urgently required to limit the loss of nerve fibres in the nerve affected by the ischaemia.
+
+Treatment is based on corticosteroids and/or immunosuppressants.

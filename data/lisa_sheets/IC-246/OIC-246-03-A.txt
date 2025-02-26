@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-246-03-A
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=A
+|Title=Knowing the clinical signs of gynecomastia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=3}}
+
+*[[File:Gynécomastie clinique.jpg|vignette|Gynécomastie clinique]]Differentiate gynecomastia from adipomastia without glandular proliferation. [Anomaly of the clinical breast examination SD-164]]
+*The examination is performed in the supine position by squeezing the breast between the thumb and forefinger and bringing the fingers progressively closer together around the nipple. [Gynecomastia SD-041
+*Palpation of firm mobile tissue around the nipple confirms gynecomastia. In the case of adipomastia, no tissue is palpated.
+*In the case of gynaecomastia, the examination is completed by lymph node investigation and above all testicular palpation. [Bursal abnormality SD-108
+*Concentric pressure and expression of the nipple should also be used to look for galactorrhoea, suggestive of prolactin pathology [[Nipple discharge SD-040]].
+*Any doubt as to the diagnosis between gynaecomastia and adipomastia requires mammography. [Request for an imaging examination SD-231]]
+
+<br />

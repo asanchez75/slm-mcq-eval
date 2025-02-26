@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-172-17-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworm, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know the principle of post-therapeutic monitoring of intestinal parasitosis
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=17}}
+
+- Follow-up, where appropriate, of improvement in clinical and imaging signs
+
+- Parasitological examination of control stools, 1 month after the end of treatment (to be repeated)
+
+- Taenia saginata: no rings emitted within 3 months of treatment
+
+- Blood count check: normalisation of eosinophilia, if necessary

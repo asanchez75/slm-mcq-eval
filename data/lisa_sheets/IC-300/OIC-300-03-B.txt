@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-300-03-B
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=Know the main histological types of cervical cancer
+|Description=Squamous cell carcinoma, adenocarcinoma, others
+|Section=Definition
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=3}}
+
+Squamous cell carcinoma, HPV-associated adenocarcinoma and HPV-independent adenocarcinoma
+
+Others :
+
+- Neuroendocrine tumours
+
+- Carcinosarcoma
+
+- Adenosarcoma
+
+- Sarcoma
+
+- Melanoma
+
+- Lymphomas
+
+- Secondary tumours

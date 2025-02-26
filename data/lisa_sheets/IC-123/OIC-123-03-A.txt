@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-123-03-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Heading=To know the definition of geriatrics and geriatric reasoning (J.P. Bouchon diagram)
+|Description=Know the key elements of geriatric reasoning and Bouchon's organ decompensation cascade diagram.
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+Geriatrics is defined as the medicine of the elderly, which must consider the state of health of the elderly patient as a whole, by analysing the effects of ageing and of past (sequelae) and present illnesses, whether chronic or acute, and their consequences, primarily on autonomy and treatment.
+
+The geriatric reasoning proposed by JP Bouchon makes it possible to analyse, in the presence of a given acute situation, the role of the various factors leading to decompensation and the appearance of symptoms. It models the role of age (factor 1, physiological ageing of the organ), chronic disease(s) (factor 2, organ disease), and above all makes it possible to systematically consider the factor(s) which may have precipitated the situation, the precipitating factor(s) (factor 3), which are more amenable to intervention to improve the acute situation and prevent recurrence.
+[[File:Stopper.png|vignette]]

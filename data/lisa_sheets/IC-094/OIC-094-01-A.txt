@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-094-01-A
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=A
+|Title=Knowing the definitions of spinal pain: neck pain, back pain, low back pain
+|Description=Rachialgia: neck pain, back pain, low back pain
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=1}}
+
+'''Rachialgies''' : pain felt in the spinal region. '''[[Spinal pain (cervical, dorsal or lumbar) SDD-072|spinal pain (cervical, dorsal or lumbar)]]''''
+
+
+Sorted by location:
+
+- cervicalgia: pain in the posterior region of the cervical spine
+
+- back pain: pain felt over the thoracic spine (T1 to T12)
+
+- lumbago: pain located between the thoracolumbar hinge and the lower gluteal fold ''(HAS)''' '''[[Lower back pain SDD-036|(lower back pain)]]'''''
+
+
+Classification according to ''duration'' :
+
+- acute: < 6 weeks
+
+- sub-acute: 6 weeks to 3 months
+
+- chronic: > 3 months '''[[Assessment and management of chronic pain SDD-260|(chronic pain)]]''''
+
+
+Classification according to ''etiology'' :
+
+- common low back pain (non-specific)
+
+- symptomatic low back pain (secondary to an acute or chronic condition)
+
+
+Classification according to evolution'': new classification
+
+- ''acute attack of low back pain'': de novo or on chronic or recurrent low back pain
+
+- '''chronic low back pain''' : > 3 months '''[[Assessment and management of chronic pain SDD-260|(chronic pain)]]''''
+
+- ''recurrent low back pain'': recurrence within 12 months

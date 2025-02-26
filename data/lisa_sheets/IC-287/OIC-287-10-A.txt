@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-287-10-A
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=A
+|Title=Know the principles of medical management of acute uncomplicated diverticulitis.
+|Description= Analgesics, no systematic antibiotic therapy in the absence of abces
+|Section=Management
+|Contributors=Frédérique PESCHAUD
+|Order=10}}
+
+No treatment, and in particular no diet, is indicated for "uncomplicated diverticulosis".
+
+
+'''Uncomplicated diverticulitis, patient with no co-morbidity and no unfavourable social context:'''
+
+Outpatient symptomatic treatment in the absence of an unfavourable social context.
+
+Symptomatic treatment without antibiotics for uncomplicated diverticulitis confirmed by CT scan is recommended in the absence of :
+
+- signs of seriousness, in particular systolic blood pressure ≤ 100 mm Hg, respiratory rate ≥ 22/min or confusion;
+
+- immunosuppression (congenital or acquired immunosuppression, immunosuppressive or immunomodulatory treatment, systemic corticosteroid therapy, progressive cancer, end-stage renal failure);
+
+- ASA score > 3 (life-threatening, debilitating condition or dying patient)
+
+- pregnancy.
+
+
+If there is no response to this treatment, oral antibiotic therapy of no more than 7 days is recommended, using amoxicillin and clavulanic acid or, if there is a proven allergy to beta-lactams, a fluoroquinolone (levofloxacin or ciprofloxacin) - metronidazole combination.
+
+
+In the event of signs of seriousness, pregnancy, ASA score > 3 or immunosuppression, intravenous antibiotic therapy, identical to that given for complicated diverticulitis, is recommended.
+
+
+A non-restrictive diet is recommended during the treatment of non-perforated diverticulitis if it is tolerated.

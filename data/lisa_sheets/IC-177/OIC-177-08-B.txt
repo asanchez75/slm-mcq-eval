@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-177-08-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the third generation injectable cephalosporins.
+|Description=Ceftriaxone, cefotaxime
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=8}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Cephalosporins of 3rd<sup>th</sup> generation for injection (molecules: ceftriaxone, cefotaxime, ceftazidime, cefepime)''''
+|Purulent meningitis (probabilistic), severe forms of localised or systemic Gram-negative bacillus infections, extra-pulmonary pneumococcal infections (meningitis) with reduced susceptibility to penicillin, fever in neutropenic patients, pyelonephritis and male urinary tract infections, nosocomial infections, secondary and tertiary Lyme disease, typhoid fever, etc.
+|Hypersensitivity to the active substance or to one of the excipients, history of severe hypersensitivity to any beta-lactam antibacterial.
+|<Ceftriaxone, cefotaxime: Streptococci (including pneumococci), Neisseria spp., Enterobacteriaceae (unless acquired resistance), Haemophilus spp.
+
+-Ceftazidime and cefepime: ''P. aeruginosa,'' enterobacteria with certain resistances (cephalosporinases)
+|Allergic reactions,
+
+More rarely: leukopenia, neutropenia, eosinophilia, neurotoxicity, diarrhoea, increased liver enzymes
+
+
+Interactions: probenecid, aminoglycosides, furosemide
+|}

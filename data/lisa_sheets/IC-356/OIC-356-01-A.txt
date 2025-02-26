@@ -1,0 +1,18 @@
+<br />{knowledge objective
+|Identifiant=OIC-356-01-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Knowing the symptoms of appendicitis in children and its different clinical forms
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=1}}
+
+Symptoms and clinical forms in children are :
+
+- in older children: spontaneous pain in FID, recent: identical to adult symptoms
+
+- in young children: pain of less precise location, recent, with moderate fever, nausea or vomiting. It is important to carry out a clinical examination in search of the defences that characterise appendicitis, as opposed to the many differential diagnoses.
+
+- in infants: altered general condition, fever, vomiting, dehydration, abdominal distension, diarrhoea.

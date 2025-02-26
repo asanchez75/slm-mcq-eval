@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-191-03-A
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=A
+|Item_parent_short=Fever in immunocompromised patients
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Amélie Servettaz
+|Order=3}}
+
+'''<big>The clinical examination may initially provide little information and must therefore be thorough, complete and repeated.</big>''''
+
+<big>The clinical examination must include a careful examination of the following points, in an undressed patient:</big>
+
+<big>- '''Constants:''' Blood pressure, heart rate, respiratory rate, temperature, Glasgow score, HaemoglocuTest, diuresis: '''to quickly detect signs of severity'''</big>
+
+<big>- '''Interrogatory: onset of pain (thoracic, adominal), urinary or digestive functional signs, respiratory functional signs (cough, sputum ...), etc.'' </big>
+
+<big>- '''Pulmonary auscultation (appearance of a focus of crepitus?)'''</big>
+
+<big>- '''Cardiac auscultation (appearance of a murmur?)'''</big>
+
+<big>- '''Examination of the integuments: the entire skin covering and mucosa (buccal and genital)'''</big>
+
+<big>- '''Examination of intravenous catheter insertion points'''</big>
+
+<big>- '''Urinary catheter examination'''</big>
+
+<big>- '''Abdominal palpation (pain/defensiveness/contraction, meteorism, tympany)'''</big>
+
+<big>- '''Thorough examination of the perineum'''</big>

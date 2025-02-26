@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-070-10-B
+|Item_parent=Psychological disorders in the elderly
+|Item_parent_short=Psychological disorders in the elderly
+|Rank=B
+|Title=Knowing the specificities of the handling of psychotropic drugs in elderly patients
+|Description=AntipsychoticsAntidepressantsThymoregulators
+|Rubric=Management
+|Contributors=Pierre Vandel,Marie Tournier
+|Order=10}}
+
+'''General prescription rules to favour tolerance and avoid iatrogenicity:''''
+
+* Start at half the dose of a young adult;
+* increase gradually when necessary (the "start low, go slow" rule);
+* Only one psychotropic drug per class,
+* avoid combining psychotropic drugs
+* assess tolerance and efficacy
+
+'''Antidepressants:'''
+
+give preference to SSRI and SNRI antidepressants, mirtazapine and mianserin because they are well tolerated.
+
+Avoid tricyclics.
+
+'''Thymoregulators''' :
+
+same prescribing rules as for adults, but risk of more serious side effects.
+
+'''Antipsychotics''' :
+
+extrapyramidal tolerance to be monitored. Cardiovascular and cognitive risks.
+
+In neurodegenerative diseases, risk of adverse cerebrovascular effects.

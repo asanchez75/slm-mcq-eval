@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-232-01-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Title=Know the definition of atrial fibrillation (AF)
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Baptiste GUICHARD
+|Order=1}}
+
+
+* A ''supra-ventricular'' rhythm disorder resulting from ''anarchic electrical activity in the atria'' leading to a loss of atrial contraction.
+* Diagnosis of AF requires the presence of AF for ''more than 30 seconds'' on a surface ECG trace (Holter-ECG for example), or on the whole of a 12-lead ECG.

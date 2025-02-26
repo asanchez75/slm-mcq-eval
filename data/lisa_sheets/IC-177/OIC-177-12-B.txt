@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-177-12-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contra-indications, spectrum, side-effects and interactions) the main macrolide molecules.
+|Description=Erythromycin, spiramycin, clarithromycin, azithromycin
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=12}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Lincosamides'''
+
+'''(molecule: clindamycin)''''
+|Streptococcal angina in patients allergic to beta-lactam antibiotics, pneumonia caused by intracellular (including legionellosis) and atypical bacteria, whooping cough, skin infections, genital infections caused by Chlamydia trachomatis, certain Gram-negative bacillus infections (Salmonella, Shigella, Campylobacter), cat scratch disease, Toxoplasmosis in immunocompetent patients.
+|Hypersensitivity to the active substance, to other macrolides or to one of the excipients, history of prolongation of the QT interval or ventricular arrhythmia, patients with electrolyte disorders.
+|Intracellular bacteria, streptococci, meti-S staphylococci, Toxoplasma gondii, H. influenzae (species inconsistently susceptible).
+|Enzyme inhibitors, nausea, vomiting, abdominal pain, allergic reactions, immunoallergic hepatitis, QT interval prolongation.
+
+
+Interactions: very numerous; CYP3A4 inhibitors, ergot alkaloids, vasocontrictors, alfuzosin, astemizole, terfenadine, domperidone, cisapride, pimozide, colchicine, dapoxetine, ...
+|}

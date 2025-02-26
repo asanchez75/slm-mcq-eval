@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-303-11-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Title=Knowing the indications for endoscopic and paraclinical examinations
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=11}}
+'''They are indicated for the diagnosis of certainty and the assessment of extension of gastric cancer.'''
+
+1. oeso-gastro-duodenal endoscopy (EOGD) with biopsies of the tumour and a test for Helicobacter pylori is essential for diagnosis. Endoscopy (EOGD) determines the exact location (topography, description and measurements) of the tumour.
+
+'''2. A CT scan with contrast injection of the thoracic, abdominal and pelvic regions is the main and essential examination. At best, it should be performed with water ingestion to better define the parietal extension.
+
+
+Other examinations depend on the size of the lesion and the symptoms, but are not systematic:
+
+Laparoscopy to look for peritoneal carcinosis;
+
+Gastric echoendoscopy in the case of small tumours (to confirm that they are superficial before treatment by endoscopic resection) and/or with a submucosal appearance (diagnosis of GIST) or in the case of suspected linitis;
+
+Cerebral CT scan/bone scan if there are any warning signs.

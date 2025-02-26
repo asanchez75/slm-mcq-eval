@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-218-01-A
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=A
+|Title=Know the definition of eosinophilia
+|Description=Know how to define hypereosinophilia (including its persistent nature), and whether it is moderate or major.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Blood eosinophilia = '''leukocyte abnormality ([[Interpretation of haemogram SD-223|interpretation of haemogram]])''' corresponding to a number of circulating eosinophilic polymorphonuclear cells (PNE) > 500/mm<sup>3</sup>, and observed on several successive haemograms (persistent nature).
+
+Moderate" eosinophilia: between 500/mm<sup>3</sup> and 1,500/mm<sup>3</sup>.
+
+'''[[Hypereosinophilia SD-219|Hypereosinophilia]]:''' above 1,500/mm<sup>3</sup>.
+
+
+Trap = percentage of PNEs useless for the diagnosis or follow-up of an eosinophilia (it's the absolute number that counts)

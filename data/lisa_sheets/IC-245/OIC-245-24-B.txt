@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-245-24-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the specificities of the biological diagnosis of adrenal insufficiency in children
+|Description=None
+|Section=Additional tests
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=24}}
+The specificities concern the aetiological diagnosis with the determination of 17 OH progesterone in the context of 21 hydroxylase block. This assay has been performed systematically on blotting paper in all newborns in France since 1995 on the 3rd day of life. [Systematic newborn screening SD-308
+
+In adrenoleukodystrophy, long-chain fatty acids are measured.

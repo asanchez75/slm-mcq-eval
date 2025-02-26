@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-127-06-B
+|Item_parent=Benign prostatic hypertrophy
+|Item_parent_short=Benign prostatic hypertrophy
+|Rank=B
+|Title=Knowing the paraclinical investigations to be carried out in the first instance
+|Description=ECBU, flow meter, post-mictional residue
+|Rubric=Additional tests
+|Contributors=Alexandre Ingels, Jonathan Olivier
+|Order=6}}
+
+
+==The paraclinical investigations to be carried out as a first-line assessment of BPH are:==
+
+*''ECBU:''' is used to test for [[Haematuria|a haematuria 260]], [[Benign prostatic hyperplasia|urinary tract infection 161]] (differential diagnoses of BPH).
+
+<br />
+
+*Flowmetry:''' is used to identify urinary disorders and incontinence in adults and the elderly|dysuria 125]]. The key parameters in its interpretation are the maximum flow rate and the shape of the curve.
+**A urine volume >150mL provides a more reliable assessment.
+**A maximum flow rate < 15ml/s is considered pathological.
+**A normal curve is bell-shaped, whereas a flat curve indicates an emptying disorder.
+
+<br />[[File:Item 127.jpg|vignette|611x611px|alt=|neant]]
+
+*Post-micturition residue: the presence of a significant quantity of urine (more than 100ml) in the bladder after micturition. It is assessed using ultrasound or a device such as Bladder Scan©.
+
+A post-micturition residue is not in itself an indication for surgery, especially as a residue may be linked to subvesical obstruction or bladder hypoactivity.
+
+
+
+<br />

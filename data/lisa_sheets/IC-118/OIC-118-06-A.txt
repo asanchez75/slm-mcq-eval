@@ -1,0 +1,90 @@
+{{knowledge objective
+|Identifiant=OIC-118-06-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Title=Know how to assess sensory deficiencies (clinical examination, diagnostic approach).
+|Description=Know the definition of conductive, sensorineural and mixed deafness; Know how to describe the warning signs of deafness in children and adults; Know the principles of audioimetric exploration; Know how to describe the principles of management of hearing impairment in children and adults - assess other sensory impairments.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}'''Know the definition of conductive, sensorineural and mixed hearing loss:'''
+
+There are 3 types of deafness [[(Know the main types of deafness)]] :
+
+- Transmission = pathology of the outer and middle ear.
+
+- Perceptive = pathology of the inner ear, the auditory nerve or the central auditory pathways.
+
+- Mixed = combination of sensorineural and conductive hearing loss.
+
+Classification of hearing loss :
+
+- Mild: 20 to 39 dB hearing loss. Discomfort when the speaker speaks in a low voice or walks away.
+
+- Average: 40 to 69 dB hearing loss. Speech perceived if the voice is raised.
+
+- Severe: 70 to 89 dB hearing loss. Loud speech perceived close to the ear.
+
+- Profound: > 90 dB hearing loss. No speech perception.
+
+- Total (cophosis): average loss of 120db. No sound perceived.
+
+
+'''Know how to describe the warning signs of deafness in children and adults ([[Paediatric follow-up consultation SDD-296|Paediatric follow-up consultation SDD-296,]]  [[Systematic neonatal screening SDD-308]])''''
+
+*In infants: neonatal screening ([[To know the modalities of systematic screening for hearing disorders OIC-047-10-A|To know the modalities of systematic screening for hearing disorders]]), anomaly in the developmental calendar.
+
+*In pre-school children: delayed acquisition of language or delayed speech.
+
+*In school-age children: school delay, articulation problems, etc.
+
+*In adults: reduced audibility (can't hear) and/or reduced intelligibility (can't understand), particularly in noise.
+
+
+'''Know the principles of audiometric testing'''
+
+1.      <u>Acoumetric triad</u> [[(Know the criteria for acoumetric tests)]] :
+
+Weber test: the tuning fork is placed on the vertex.
+
+*Unilateral sensorineural hearing loss: Sound perceived louder in the healthy ear.
+
+*Unilateral conductive hearing loss: Sound perceived louder in the deaf ear.
+
+Rinne test: the tuning fork is placed on the mastoid and then in front of the external auditory canal:
+
+*Sound better perceived in air conduction than in bone conduction = positive Rinne = normal or sensorineural hearing loss.
+
+*Sound better heard through bone conduction than through air conduction = negative Rinne = conductive hearing loss.
+
+2.      <u>Tonal audiometry</u>: sound stimulation with pure tones of varying frequency (Hz) and intensity (dB) [[(Know the definition of a tonal hearing test)]].
+
+3.      <u>Vocal audiometry</u>: sound stimulation with complex meaningful sounds (monosyllabic or bisyllabic words, phrases) or non-meaningful sounds (logatomes) [[(Know the principles of performing tonal, vocal audiometry)]].
+
+4.      <u>Impedancemetry</u>: measurement of middle ear impedance [[(Know the principles of impedancemetry)]].
+
+5.      <u>Screening and assessment in children</u> [[(Know the procedures for systematic screening for hearing disorders)]] :
+
+#Automated early auditory evoked potentials (performed in neonatology or maternity wards),
+#Behavioural audiometry (before the age of 10 months), conditioned reflex audiometry (between 10 months and 5 years), classical audiometry (from 5 years),
+#Objective testing of early auditory evoked potentials and acoustic otoemissions possible at any age,
+#Impedancemetry.
+
+
+'''Be able to describe the principles of management of a hearing problem in children and adults'''
+
+- Treatment depends on the type of hearing loss and the aetiology.
+
+- Most conductive hearing losses can be treated surgically (ossicular surgery, implanted bone-anchored prosthesis, treatment of a sensorineural hearing loss).
+
+- Sensorineural hearing loss is usually treated with hearing aids (from 30 dB average hearing loss, speech therapy, cochlear implants in severe cases).
+
+- MDPH file
+
+- Prevention of hearing disorders (ototoxicity, noise trauma, cardiovascular risk factors)
+
+
+
+
+
+<br />

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-204-07-A
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=A
+|Title=Examples of typical chest radiographs
+|Description=Bronchial dilatation, interstitial lung disease, foreign body (attention already in 203)
+|Rubric=Multimedia content
+|Contributors=Marie-Pierre Revel
+|Order=7}}
+[[File:Interstitial fibrosis and oesophageal stasis (intra mediastinal hydroaeric level) .jpg|left|vignette|Interstitial syndrome in the setting of fibrosing interstitial lung disease and oesophageal stasis (hydroaeric level behind the cardiac silhouette)]]
+[[File:DDB pneumothorax G mucoviscidose.jpg|left|thumb|Bronchiectasis complicated by a pneumothorax G in a patient with cystic fibrosis]][[File:Inhalation of foreign body in a child.jpg|left|thumb|Inhalation of foreign body in a child, hyper transparency of the lung G reflecting air trapping ]]

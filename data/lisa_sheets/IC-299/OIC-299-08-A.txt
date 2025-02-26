@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-299-08-A
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=A
+|Title=Knowing how to evoke intracranial hypertension (ICHT) and epilepsy in a patient with an intracerebral tumour.
+|Description=Know the two main emergencies (ICHT, epilepsy) revealing or complicating the evolution of a brain tumour.
+|Rubric=Identification of the emergency
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=8}}
+
+'''HTIC:'''
+
+- In cases of large tumours, major oedema, obstructive hydrocephalus and/or intra-tumour bleeding
+
+- Screen for possible ophthalmological complications of HTIC (damage to the II, VI)
+
+- Monitor for the onset of drowsiness, loss of alertness (Glasgow score +++), which may lead to non-traumatic coma in adults and children and death due to cerebral involvement.
+
+'''[[Childhood and adult epilepsy|Epilepsy]] with''' '''état de mal:''''
+
+- Prolonged seizure or repeated seizures without inter-ictal return to consciousness
+
+- Risk of cardio-tension collapse, hypoxia, rhabdomyolysis, multi-visceral failure, cerebral ischaemia, death

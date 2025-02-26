@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-238-01-A
+|Item_parent=Heart murmur in children
+|Item_parent_short=Heart murmur in children
+|Rank=A
+|Title=Knowing cardiovascular semiology in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Pascal Amedro,Caroline Ovaert
+|Order=1}}
+
+'''Non-organic breath'''
+
+Table 1. Semiological characteristics in favour of a functional heart murmur
+
+{| class="wikitable"
+|Symptomatology
+|No functional symptoms
+|-
+|Time
+|Ref, mesosystolic
+|-
+|Intensity
+|Low (≤ 2/6), non-shuddering
+|-
+|Variability
+|Over time (present or not from one visit to the next), decreases when orthostatic or at rest, increases with fever or exertion
+|-
+|Maximum localisation
+|Endapexian, pulmonary focus
+|-
+|Irradiation
+|No or little radiation
+|-
+|Associated auscultatory abnormalities
+|Normal B1 and B2 bruits, free diastole
+|-
+|Rest of cardiovascular examination
+|Normal (femoral pulses, blood pressure, peripheral circulation)
+|}
+
+'''Organic breath'''
+
+A murmur that does not meet the criteria indicated in Table 1 should be considered organic until proven otherwise, and should lead to a cardiopaediatric opinion with cardiac ultrasound.

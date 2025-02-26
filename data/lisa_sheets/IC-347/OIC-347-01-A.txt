@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-347-01-A
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=A
+|Title=Know the definition of acute retention of urine
+|Description=None
+|Rubric=Definition
+|Contributors=Jonathan Olivier
+|Order=1}}
+
+
+== Definition of acute urinary retention ==
+Complete and sudden inability to urinate despite an urgent or painful need to do so
+
+== Know the main causes of acute urine retention ==
+'''Mechanical obstruction:''''
+
+* <u>In men</u> : [[2C-127|Benign prostatic hypertrophy 127 (BPH)]], [[2C-161|prostatitis 161]], [[2C-310|prostate cancer 310]]
+* <u>In women</u> : [[2C-044|Severe genital prolapse 44]], [[2C-300|cervical cancer 300]]
+* <u>In both</u>: [[2C-265|Lithiasis 265]]/bladder or urethral foreign body, fecal impaction, endovesical clotting, [[2C-314|bladder tumour 314]], [[2C-300|pelvic tumour 300]] and [[2C-301|301]], urethral stricture, [[2C-283|constipation 283]]
+
+'''Detrusor or sphincter contraction abnormality:''''
+
+* <u>Clapped bladder</u>
+* [[2C-092|<u>Peripheral neuropathies</u> 92]] : Diabetic/alcoholic polyneuropathy, Guillain-Barré syndrome, Cauda equina syndrome, Postoperative (pelvic surgery)
+* [[2C-093|<u>Central neuropathies</u> 93]] : [[2C-104|Multiple sclerosis 104]], [[2C-106|Parkinson's disease 106]], cerebral lesions, spinal cord lesions..<u>.</u>
+* <u>Latrogenic</u> : epidural analgesia, anticholinergic, opiate, antiparkinsonian, [[2C-074|benzodiazepines 74]]

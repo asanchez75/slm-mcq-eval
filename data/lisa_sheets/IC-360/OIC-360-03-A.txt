@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-360-03-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Knowing the elements of the positive diagnosis and differential diagnosis of pneumothorax
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Julien Poissy
+|Order=3}}
+
+The diagnosis can be made clinically, but thoracic imaging is essential (see radiological symptomology).
+
+The clinical elements of a positive clinical diagnosis are :
+
+- Functional signs :
+
+- sudden "stabbing" chest pain, accompanied by breathing and increased by coughing
+
+- dyspnoea, which may be severe
+
+- dry cough
+
+
+- Physical signs
+
+- Inspection: decrease in mobility and distension of the hemithorax affected by the pneumothorax ("grazing" view)
+
+- Percussion: frank tympany of the hemithorax affected by the pneumothorax.
+
+- Auscultation: decrease in the vesicular murmur of the hemithorax affected by the pneumothorax.
+
+-
+
+- Indirect signs: subcutaneous emphysema.

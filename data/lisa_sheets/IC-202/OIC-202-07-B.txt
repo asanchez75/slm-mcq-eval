@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-202-07-B
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=B
+|Heading=Knowing the situations (surgery, travel, pregnancy) requiring adjustment of background biological or targeted therapies
+|Description=Know when to stop targeted treatments. Vaccination
+|Heading=Management
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=7}}
+
+Occasionally, certain situations may require a temporary adjustment (travel, surgery, infection, etc.).
+
+Three situations may lead to a permanent adjustment of these treatments:
+
+
+'''Situation 1: insufficient efficiency'''
+
+           persistence of clinical, biological or imaging signs associated with inflammatory disease activity after a sufficient period of time has elapsed since the initiation of disease-modifying therapy (this period varies according to the treatment) and satisfactory compliance.
+
+           -reappearance of clinical, biological or imaging signs associated with inflammatory disease activity under treatment
+
+In this context, compliance with treatment must be assessed.
+
+In some cases, the serum concentration of the drug can be measured.
+
+Examples of adjustments: increase in dosage, closer together (if infusions or subcutaneous injections), combination with or replacement by another background treatment''.
+
+
+'''Situation 2: development of side effects or contraindications'''
+
+'''-'''Occurrence of one or more side effects related to background treatment
+
+'''-'''Appearance of a contraindication to maintaining current background treatment (infection, renal or hepatic insufficiency depending on the biomedicine, planned pregnancy, etc.)
+
+''Examples of adjustments: reduction in dosage, spacing of doses, discontinuation and replacement by another background treatment''.
+
+
+'''Situation 3: Complete and prolonged response (according to the objectives defined for each patient and each pathology)'''
+
+<nowiki>:</nowiki> in this case discussion of spacing out or even stopping certain treatments
+
+''Examples of adjustments: reducing dosage, spacing doses, stopping''

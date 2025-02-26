@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-206-01-A
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=A
+|Title=Know how to diagnose pleural fluid effusion
+|Description=Know how to make the diagnosis with dyspnoea, dullness and abolition of the vesicular murmur and vocal vibrations.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+The diagnosis of pleural effusion is suspected in a patient whose clinical symptoms may include a dry cough, dyspnoea or laterothoracic pain classically accompanied by breathing when the clinical examination suggests a liquid pleural syndrome: abolition of the vesicular murmur, dullness on percussion, and abolition of vocal vibrations, most often off-axis and unilateral ([[Discovery of anomalies on pulmonary auscultation SD-020|discovery of anomalies on pulmonary auscultation]]). This diagnosis is confirmed by radiography and/or ultrasound.
+
+Ultrasound can confirm the existence of a fluid effusion by showing an anechoic or hypoechoic image, depending on the composition of the effusion.
+
+The chest X-ray performed in the standing position ([[Request/reasoned prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]], [[Writing the request for an imaging examination SD-230|writing the request for an imaging examination]], [Requesting an imaging examination SD-231|requesting an imaging examination]]) reveals a dense, homogeneous, non-systematised opacity, blurring the contours of neighbouring elements (in particular the diaphragmatic dome), non-retractile, limited by a concave border line above and medially (Damoiseau's line). When the fluid effusion accompanies a pneumothorax, the upper limit of the fluid effusion appears as a horizontal line (hydroaeric level).
+
+If the effusion is small, there is simply a filling in of the costodiaphragmatic recess, visible earlier on the side view. If the effusion is very large, the chest X-ray will show a complete opacity of one hemithorax.
+
+The differential diagnosis is essentially the interpretation of a homogeneous opacity on the chest X-ray:
+
+*Lung atelectasis is a homogeneous systematised opacity with a deviation of the mediastinum, or even the diaphragmatic dome, towards the opacity, whereas the deviation is towards the healthy side in the case of pleurisy.
+*An alveolar syndrome is a homogeneous opacity which is generally systematised, but there is an air bronchogram within the opacity.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-088-09-B
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=B
+|Title=Knowing the indications for imaging examinations for dysphonia
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=9}}
+In the event of dysphonia, imaging will be carried out in the following contexts:
+
+- unilateral or bilateral laryngeal paralysis: examination of the thyroid gland and neck for adenopathy and injected CT scan from the base of the skull to the mediastinum
+
+- laryngeal malignant lesion with infiltration: cervico-thoracic CT scan with injection of iodinated contrast product

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-034-05-B
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=B
+|Title=Knowing how to treat genital haemorrhage during the postnatal period depending on the aetiology.
+|Description=Knowing how to treat post-partum haemorrhage depending on the aetiology
+|Rubric=Management
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=5}}
+
+Atonia: Obtain good uterine retraction by using uterotonics (oxytocin or prostaglandin analogues in the absence of contraindication), after ensuring that the uterus is empty. In the event of retention, curettage with or without hysteroscopy should be considered.
+
+Haemorrhagic endometritis: treatment of endometritis + uterotonics.
+
+Placental retention: careful curettage under ultrasound control +/- hysteroscopy. The main risk is uterine synechia. Antibiotic prophylaxis is generally prescribed in the event of placental retention remote from delivery.
+
+
+110 [[Abnormal postpartum genital bleeding SD-110|Abnormal postpartum genital bleeding]]; 255. [[Prescribe anti-infectives SD-255|Prescribe anti-infectives]].

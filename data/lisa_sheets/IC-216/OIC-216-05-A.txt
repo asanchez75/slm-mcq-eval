@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-216-05-A
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=A
+|Title=Knowing how to request a platelet count check on citrate in the event of thrombocytopenia without haemorrhagic syndrome
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=5}}
+Sometimes, abnormal aggregation of platelets in the presence of ethylene diamine tetra-acetic acid (EDTA), the anticoagulant used in haemogram tubes, results in a false thrombocytopenia which does not induce any bleeding, as it is an artefact. In practice, in the presence of any thrombocytopenia (especially if deep and asymptomatic), the absence of in vitro aggregates should be checked and a check on a citrated or heparinised tube or capillary tube will indicate the true platelet count in the event of false thrombocytopenia, after correction for any dilution factor.

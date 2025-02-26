@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-323-13-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of the therapeutic evaluation framework
+|Description=Know the different phases of therapeutic evaluation and their objectives. To be familiar with the different types of pre-clinical trial.
+|Rubric=Definition
+|Contributors=Hervé Devilliers (APNET),David Hajage (CIMES),Jerôme Lambert (CIMES)
+|Order=13}}
+
+Before a new medicine can be granted marketing authorisation (MA), it must undergo a series of pre-clinical tests and phase I, II and III clinical trials.
+
+'''<u>Preclinical phase: in vitro and animal model studies</u>''''
+
+*To obtain the information deemed necessary prior to initial administration in humans.
+*Carried out on animals or using in vitro tests.
+*Objectives :
+**Determination of acute single-dose toxicity, chronic or repeated-dose toxicity, effect on reproductive functions, mutagenic effect on cells, and carcinogenic effect.
+**Obtain initial pharmacodynamic and pharmacokinetic data to determine the compound's mechanism of action and the most appropriate route of administration.
+
+'''<u>Clinical phase: studies in humans</u>''''
+
+'''Phase I clinical trials: first administration to humans'''
+
+Objectives:
+
+*Determining the maximum tolerated dose
+*determine the best mode of administration
+*Determining the safety profile and adverse reactions
+*Obtain pharmacokinetic and pharmacodynamic data.
+*Which subjects?
+**Healthy volunteers: most often, if the expected toxicity is limited.
+**Sick patients: in the event of probable toxicity (oncology, AIDS, etc.).
+
+Terms and conditions :
+
+*Administration of the drug in increasing doses (dose escalation) or of a single dose repeated in a small number of subjects (generally 10 to 30 subjects).
+
+'''Phase II clinical trials: Pharmacological efficacy'''
+
+Objectives:
+
+*First estimate of efficacy in humans: to obtain initial data on the efficacy of a new treatment.
+*To clarify short-term safety in patients (= confirmation of safety assessed in phase I).
+*Sometimes :
+**Determine the optimal effective dose, dosage regimen and galenic formulation to be used in phase III.
+**Study dose-effect and concentration-effect relationships.
+**Obtain pharmacokinetic data from patients
+
+Terms and conditions :
+
+*Administration of the drug to patients in selected homogeneous groups.
+*Administration of several different doses, sometimes using several different formulations.
+*With or without a control group (most often without a control group).
+*The endpoint is often an intermediate endpoint that can be obtained quickly rather than a clinical endpoint (e.g. bone densitometry vs. femoral neck fracture).
+
+'''Phase III clinical trials: Therapeutic efficacy'''
+
+Objective:
+
+*Determine clinical efficacy compared with reference treatment or placebo.
+*To assess short- and medium-term safety.
+*Obtain the indication and marketing authorisation (MA) for the drug (sometimes MA is granted directly after a phase II trial, e.g. rare diseases, certain oncology situations).
+
+Terms and conditions :
+
+*A randomised, comparative study, ideally double-blind, carried out on a sufficient number of subjects to demonstrate clinically relevant efficacy in the target population for the potential indication of the medicinal product.
+*The duration of follow-up is usually long enough to assess a clinically relevant therapeutic effect.
+
+'''Phase IV trials: Post-marketing studies (see [[Definition, rationale, indications and interpretation of pharmaco-epidemiology studies 2C-323-DE-B01]])''''
+
+Pharmacovigilance objectives :
+
+*Monitor the safety of the drug under real conditions of use.
+*Detecting adverse reactions that are too rare or occur over too long a period to have been detected during the previous evaluation phase.
+*describe drug interactions
+*To specify the methods of administration under real conditions of use (population not studied in the trials).
+
+Terms and conditions :
+
+*Refers to all studies carried out on a drug after it has been granted marketing authorisation and marketed.
+*Observational approach involving a very large number of patients treated as part of their care.

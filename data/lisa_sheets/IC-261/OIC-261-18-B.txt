@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-261-18-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Know the principles of treatment of the main glomerulopathies (other than SNLGM)
+|Description=Know the principles of nephroprotective treatment of proteinuric nephropathies, GEM and NIgA, know that the principle of treatment of GNRP is based on corticoids and immunosuppressants, know the principles of treatment of a GNA.
+|Rubric=Management
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=18}}
+
+'''F.     Treatment of the main glomerular nephropathies (other than SNLGM)'''
+
+'''GEM treatment:''''
+
+*Progression of primary GEM without treatment:
+**25% of cases: spontaneous remission ;
+**50% of cases: partial remission with persistent proteinuria;
+**25% of cases: persistence of nephrotic syndrome and slowly progressive chronic renal failure;
+*Symptomatic and anti-proteinuric treatment.
+*Primary GEM with persistent nephrotic syndrome after 6 months of evolution and/or with renal failure should be treated with an immunosuppressant.
+*Treatment of secondary GEM is based on treatment of the cause.
+
+
+Treatment of primary NIgA
+
+No treatment has been codified:
+
+symptomatic and nephroprotective treatment +++ *corticosteroids +/- immunosuppressants are discussed in the most severe forms.
+*corticosteroids +/- immunosuppressants are discussed in the most severe forms.
+
+
+'''Treatment of GNRP'''
+
+*Therapeutic urgency
+*Symptomatic treatment (fluid and electrolyte disorders, ARF, respiratory failure, anaemia)
+*Specific treatment
+**High dose corticosteroids
+**Immunosuppressants or biotherapies (e.g. anti-CD20 antibodies)
+**Addition of plasma exchange for type I GNRP and certain severe forms of type III GNRP.
+*Associated treatments: adjuvant treatment of corticosteroid therapy, eradication of infectious sites (ENT, dental), prevention of opportunistic infections, etc.
+
+
+Treatment of acute post-infectious GN
+
+ Treatment is symptomatic.
+
+'''''<br />A detailed description of the chapter is available at: <nowiki>http://cuen.fr/manuel2/spip.php?rubrique12</nowiki>'''''

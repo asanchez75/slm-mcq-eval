@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-066-40-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the DSM-5 diagnostic criteria
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=40}}
+
+A. Presence of obsessions or compulsions or both.
+
+B. The obsessions or compulsions cause considerable loss of time or clinically significant distress, or impair social, occupational or other important functioning.
+
+C. Obsessive-compulsive symptoms are not attributable to the physiological effects of a substance or to another medical condition.
+
+D. The disturbance is not better explained by symptoms of another mental disorder.
+
+Specify if good, bad, or no awareness or insight.

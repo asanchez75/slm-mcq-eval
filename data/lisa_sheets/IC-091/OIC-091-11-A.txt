@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-091-11-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Heading=Face à un déficit neurologique récent, identifier une situation d'urgence et connaître les principes de prise en charge.
+|Description=None
+|Rubric=Identifying an emergency
+|Contributors=
+|Order=11}}
+In the event of a recent neurological deficit: identify the signs of severity that could be life-threatening. After urgent therapeutic measures, management to prevent thromboembolic complications, bedsores, stiffening, retraction and algodystrophy with appropriate rehabilitation ([[Prescription of rehabilitation SD-247|Prescription of rehabilitation]]) is always necessary.
+
+Stroke (see data sheet 340)
+
+- If ''cerebral infarction,'' possibility of'''''''indication of intravenous thrombolysis (<4H30) and/or thrombectomy (possible up to 24h in certain cases). Other situations: aspirin ([[Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants SD-248|Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants]]).
+
+- '''Transient ischaemic attack''': anti-platelet therapy ([[Prescription and monitoring of anticoagulant and/or anti-aggregant therapy SD-248|Prescription and monitoring of anticoagulant and/or anti-aggregant therapy]]) to prevent cerebral infarction, rapid identification of the cause and appropriate treatment.
+
+- '''Intraparenchymal haemorrhage ('''[[Acute haemorrhage SD-060|Acute haemorrhage]]): antihypertensive treatment if hypertension, correction of coagulation disorder if anticoagulant, rarely neurosurgery.
+
+- '''Cerebral venous thrombosis''': effective anticoagulant treatment ([[Prescription and monitoring of treatment with anticoagulant and/or anti-aggregant SD-248|Prescription and monitoring of treatment with anticoagulant and/or anti-aggregant]]), symptomatic treatment.
+
+- '''Meningeal haemorrhage''' ([[Acute haemorrhage SD-060|Acute haemorrhage]]): neurological deficit in cases of cerebromeningeal haemorrhage or vasospasm; interventional neurosurgery-neuroradiology.
+
+'''Traumatic brain injury (Cf. Item 334.)''''
+
+The presence of a neurological deficit following a cranial trauma ([[Cranial trauma SD-172|Cranial trauma]]) is a sign of seriousness. Neurosurgery if extra- or subdural haematoma.
+
+'''Infectious causes (Cf. Item 151.)''''
+
+- To be considered as an emergency in the event of any febrile neurological deficit. Infectious ''meningoencephalitis'' combines a meningeal syndrome, an infectious syndrome and focal neurological signs requiring at least an emergency cerebral scan ([[Request for an imaging examination SD-231|Request for an imaging examination]]) before the LP is carried out ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]], [Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]]). If purulent meningitis: immediate high-dose probabilistic intravenous antibiotic treatment; if clear-fluid meningitis with lymphocytic formula and normal glycorachy: intravenous anti-herpetic and/or anti-Listeria treatment; if mixed formula and/or hypoglycorachy: intravenous antibiotic treatment.
+
+- Cerebral abscesses" combine focal signs and infectious parameters. HTIC may be present if the lesion is large. Diagnosis evoked by brain imaging without and with injection (''lesion with annular contrast'') ([[Discovery of a brain abnormality on medical imaging examination SD-226|Discovery of a brain abnormality on medical imaging examination]]). Intravenous antibiotic therapy as an emergency treatment.
+
+'''Epilepsy (Cf fiche 105)'''
+
+If the neurological deficit is part of a partial or generalised ''état de mal'', intravenous anti-epileptic treatment must be started ''as a matter of urgency''.
+
+'''Deficiency and metabolic encephalopathies (Cf. Items 76, 108, 132 and 336.)''''
+
+Hypoglycaemic encephalopathy
+
+- Disturbed alertness or confusional syndrome with profuse sweating, sometimes epileptic seizures and neurological deficit in a treated diabetic.
+
+- Immediate capillary blood glucose: hypoglycaemia ([[Hypoglycaemia SD-209|Hypoglycaemia]]) to be corrected urgently.
+
+Gayet-Wernicke encephalopathy
+
+- The neurological deficits (cerebellar and oculomotor) are part of a picture of encephalopathy in a context of vitamin B1 deficiency.
+
+- High-dose parenteral B1 vitamin therapy without waiting for the results of additional tests; contraindication of glucose serum before vitamin supplementation.
+
+'''Acute spinal cord syndrome (Cf fiche 93)'''
+
+Spinal cord MRI to be carried out as a matter of urgency ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]) in the event of any spinal cord syndrome (or cauda equina syndrome) of recent onset in search of spinal cord (or cauda equina) compression ([[Discovery of a brain abnormality on medical imaging examination SD-226|Discovery of a brain anomaly on medical imaging]]), which is a therapeutic emergency requiring a neurosurgical opinion. In the absence of spinal cord compression, it may most often be myelitis (justifying a study of the cerebrospinal fluid (CSF) ([[Analysis of cerebrospinal fluid (CSF) SD-183|Analysis of cerebrospinal fluid (CSF)]]) and other complementary examinations (cerebral MRI, etc.) ([[Request for an imaging examination SD-231|Request for an imaging examination]]) or, more rarely, a spinal cord vascular accident.
+
+'''Guillain-Barré syndrome (Cf. card 97)'''
+
+- Clinically evoked by ascending sensory-motor impairment with abolition of tendon reflexes. Diagnosis confirmed by study of CSF (albuminocytological dissociation) ([[Analysis of cerebrospinal fluid (CSF) SD-183|Analysis of cerebrospinal fluid (CSF)]]) and EMG.
+
+- Identify signs requiring transfer to intensive care: swallowing disorders ([[Swallowing disorders or false swallowing SD-062|Swallowing disorders or false swallowing]]), respiratory (congestion, dyspnoea ([[Dyspnoea SD-162|Dyspnoea]]), ineffective cough), neurovegetative (blood pressure instability, cardiac rhythm abnormalities). Specific emergency treatment: venoglobulins or plasmapheresis.
+
+'''Myasthenia (Cf fiche 98)''''
+
+- Myasthenic crisis = life-threatening emergency which most often occurs in a known myasthenic patient. Severity linked to damage to the respiratory muscles ([[Acute respiratory distress SD-160|Acute respiratory distress]]) and swallowing ([[Swallowing disorders or false swallowing SD-062|Swallowing disorders or false swallowing]]).
+
+- Transfer to intensive care for symptomatic treatment (ventilatory support, etc.) and treatment with venoglobulins or plasma exchange.

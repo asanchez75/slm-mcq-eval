@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-012-03-B
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=B
+|Title=Knowing the medical applications of legislation relating to sexual violence
+|Description=Knowing the offences and crimes associated with sexual violence
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=3}}
+
+There are three types of criminal offence in France, depending on their seriousness. Depending on the type of offence, the competent court, the penalties incurred (fines, prison sentences and additional penalties) and the limitation period will differ (Table 1).
+
+'''Table 1:''' Types of offence in French criminal law
+{| class="wikitable"
+|'''Type of offence'''
+|'''Competent court'''
+|'''Prison sentence incurred'''
+|'''Additional penalties'''
+|'''Limitation period'''
+|-
+|Offence
+|Police
+|No
+|Deprivation or restriction of rights, awareness training courses, etc.
+|1 year
+|-
+|Offence
+|Criminal court
+|Yes
+|Imprisonment + citizenship training + constraints
+|6 years
+|-
+|Criminal
+|Assize court
+|Yes
+|Penalties (including prohibition, confiscation, treatment order, etc.)
+|20 to 30 years depending on the crime
+|}
+
+
+Sexual exhibition, sexual harassment and sexual assault are criminal offences.
+
+Rape is a crime.
+
+The penalties incurred are set out in the Criminal Code. They may be increased in a number of situations, particularly where there are aggravating circumstances (e.g. committed by an ascendant, on a minor under 15 years of age, by a person abusing his or her authority, with the use or threat of a weapon, by a spouse, by a person in a state of intoxication, on a person engaging in prostitution, etc.).

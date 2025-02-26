@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-230-07-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Knowing the electrocardiographic abnormalities of the four cardiovascular emergencies
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Vincent Roule
+|Order=7}}
+
+==''Know the electrocardiographic abnormalities of the 4 cardiovascular emergencies'''==
+Acute abnormalities are located on the ST segment and the T wave. They are associated with a myocardial territory (V1-V4: anteroseptoapical; DII, DIII, aVF: inferior; DI, aVL: high lateral and V5, V6: low lateral; V3R, V4R: right ventricle; V7 to V9: posterior). Classically, a distinction is made between two types
+
+*For '''acute coronary syndrome with ST-segment elevation:''''
+**ST elevation ≥ 2 mm in precordial and ≥ 1 mm in inferior and high lateral),
+**in at least 2 contiguous leads of the same coronary territory.
+**Usually associated mirror sub-shift.
+**A new left bundle branch block is considered equivalent to ST+ if associated with a suggestive acute presentation.
+
+[[File:Image1.jpg|thumbnail|586x586px|SCA ST+ lower and lower lateral|alt=|centered]]<br />
+
+*For acute coronary syndrome without ST-segment elevation (i.e. without persistent ST-segment elevation of more than 20 minutes):
+**may show ST-segment sub-shift (more reliable if horizontal or descending, see ECG 2),
+**negative T waves (see ECG 3)
+**or a normal ECG, particularly when post-critical.
+
+[[File:Image2.jpg|thumbnail|512x512px|SCA ST- |alt=|centered]]
+
+
+[[File:Image3.jpg|thumbnail|508x508px|SCA ST-|alt=|centered]]
+
+*for aortic dissection: ECG generally normal but may be ST+ if dissection extends to a coronary artery
+
+*For pulmonary embolism: (see ECG 4):
+**sinus tachycardia (>100/min),
+**S1Q3 appearance (S wave in DI and Q in DIII),
+**right bundle branch block,
+**negativation of T waves from V1 to V3 or even V4.
+**NB = ECG abnormalities may be absent.
+
+ 
+
+
+ 
+[[File:Image4.jpg|vignette|513x513px|Pulmonary embolism: sinus tachycardia, SI QIII |alt=|centric]]
+
+ 
+
+
+
+ 
+
+* for pericarditis with tamponade
+** diffuse ST segment elevation (not systematised to a coronary territory) and concave upward ST segment elevation, without mirror, without Q wave,
+** sub-shift of the PQ then progression to diffuse negativation of the T waves
+** and finally normalisation of the ECG over several weeks.
+** other anomalies suggestive of tamponade: microvoltage, electrical alternation (variation in the amplitude of the QRS, generally 1 in 2).
+
+[[File:Pericarditis.jpg|thumbnail|672x672px|Pericarditis|alt=|centered]]
+
+
+       
+
+
+       

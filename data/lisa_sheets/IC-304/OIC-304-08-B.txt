@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-304-08-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=Typical CT scan of liver metastases
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+Figure 3: Scannographic appearance (portal venous time) of synchronous liver metastases (*) from a sigmoid adenocarcinoma.
+[[File:Liver metastasis.png|vignette|hepatic metastases]]

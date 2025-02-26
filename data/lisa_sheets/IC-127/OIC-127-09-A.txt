@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-127-09-A
+|Item_parent=Benign prostatic hypertrophy
+|Item_parent_short=Benign prostatic hypertrophy
+|Rank=A
+|Title=Knowing the situations justifying specialist advice
+|Description=None
+|Heading=Follow-up and/or prognosis
+|Contributors=Alexandre Ingels, Jonathan Olivier
+|Order=9}}
+
+ 
+==Situations justifying a specialist opinioń according to the Association Française d'Urologie==
+
+*SBAU a priori unrelated to BPH: patient < 50 years, isolated urgency, isolated nocturia, urinary incontinence, particular context (neurological disease, known urethral stenosis, unbalanced diabetes mellitus, etc.), haematuria with risk factor for urothelial cancer (tobacco, profession, etc.).
+*Anomaly on clinical examination: palpable globe, nodule or induration on rectal examination (or rectal examination not possible), tight phimosis.
+
+*'''Abnormal ECBU'' (bacteriuria, leucocyte or haematuria).
+*Ineffective medical treatment (specialist advicé is recommended before starting anticholinergic treatment).
+*'''Increased PSA'''
+*'''Severe obstruction or occurrence of a complication'' (severe symptoms, acute urine retention, obstructive renal failure, acute prostatitis, bladder stone or diverticulum, post mictional residue > 100 ml).
+
+
+
+'''References''' :
+
+*H.A.S.: Recommendations for clinical practice; Diagnostic and therapeutic management of benign prostatic hyperplasia, 2003
+
+*AFU report 2018: benign prostatic hyperplasia, G. Robert, A. De La Taille, A. Descazeau, Prog Urol 2018 28, 803-812
+*Guide to the management in general practice of lower urinary tract symptoms in men associated with benign prostatic hyperplasia, A Descazeaud, N Barry
+
+Delongchamps, J-N Cornu , A R Azzouzi , D Buchon , A Benchikh , et al. Prog Urol 2015 Jun;25(7):404-12

@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-324-05-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Intitle=Argumenting a prescription and associated education, explaining compliance factors
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+
+
+=== '''1-Prescribing:''' ===
+- Doctors are free to make their own prescriptions, but the tacit contract between them and the patient makes them liable for all possible consequences.
+
+- Doctors must therefore constantly assess the risk/benefit ratio of their prescriptions, or even of not prescribing at all. This means taking into account patients' expectations, needs and beliefs, alongside an assessment of the disease, co-morbidities and possible treatments.
+
+- This assessment forms the basis for personalising any therapeutic decision, i.e. adapting the prescribed treatment to each patient's particular and individual needs.
+
+=== '''2-Le modèle de décision:''' ===
+'''The therapeutic decision can be made according to 3 models:'''
+
+* the paternalistic model:'' the doctor provides top-down information and makes decisions;
+* the autonomous patient model:''' the patient informs himself by his own means and decides, together with those close to him;
+* the shared decision model:''' everyone contributes their information, knowledge, needs and expectations, and a joint decision is reached by the carer and the patient
+
+=== '''3-L'observance:''' ===
+Definition: Compliance is the degree of concordance between the patient's behaviour and the recommendations of the carers, in terms of both prescription and therapeutic follow-up. It comprises two elements: adherence and maintenance of treatment.
+
+===== '''Factors for good compliance:''' =====
+- simple administration,
+
+- short-term treatment,
+
+- well-tolerated treatment,
+
+- effective treatment,
+
+- the patient has fully understood the expected benefits, how to take it, the risks of adverse effects and how to monitor it.
+
+===== '''Non-adherence factors:''' =====
+- the nature of the condition being treated, especially when the disease is non-symptomatic: over 60% of non-adherence for treatment of a single biological abnormality such as hypercholesterolaemia;
+
+- the complexity of the therapeutic strategy ;
+
+- poor tolerance of treatment ;
+
+- the physiological problems presented by the patient ;
+
+- the degree of motivation ;
+
+- patients not understanding the objectives ;
+
+- the involvement of carers ;
+
+- the absence of public or private insurance cover for care/treatment;
+
+- stress, depression and anxiety in patients.

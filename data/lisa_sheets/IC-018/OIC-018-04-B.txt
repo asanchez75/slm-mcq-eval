@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-018-04-B
+|Item_parent=Health and the Digital Age
+|Item_parent_short=Health and digital
+|Rank=B
+|Title=To understand the potential impact of digital health on the organisation of care and research, as well as on the jobs, functions and responsibilities of healthcare professionals.
+|Description=None
+|Rubric=Definition
+|Contributors=CIMES
+|Order=4}}
+1) Digital health is not just about mobile technologies (Internet of Things or IOT) and Internet technologies (World Wide Web or WWW). It encompasses e-health (health-related information, resources and services delivered electronically), developing fields (data warehouses, 'big data': large quantities of data from different sources can provide valuable information on the health of populations) and artificial intelligence (AI), which enables computer systems to perform tasks and aid decision-making. Digital health encompasses: telemedicine, telecare, telehealth, mobile phones and their applications, wearable devices (sensors), robotics, virtual or augmented reality, artificial intelligence and genomics.
+
+2) Digitalisation can help ''make healthcare systems responsive and sustainable''. Around the world, longer life expectancy, more people with chronic diseases and rising healthcare costs are putting pressure on healthcare systems. Digital health technologies can improve access to healthcare services, lower costs, improve the quality of care and increase the efficiency of healthcare systems. They can also offer opportunities for self-care (quantify-self). For example, remote monitoring devices (patient at home) and portable measuring devices are helping people to better manage their own health, thereby reducing the burden on healthcare systems. From the early detection of skin cancers by analysing moles to the assessment of a person's predisposition to certain diseases, via the development of medicines tailored to individuals, AI is having an impact on healthcare systems (early detection, personalised medicine, fewer adverse effects).
+
+3) Digital health enables a paradigm shift from curative to preventive medicine. Digital health technologies offer ways of taking charge of one's personal health, focusing on preventing illness rather than simply treating it. Digital devices are already helping to monitor heart rate and blood sugar levels. They can limit the number of costly emergency room visits by alerting a person to the need to see a healthcare professional. By providing the means to capture and exploit health-related information, these devices are helping people to lead healthier lives.
+
+4) Digital health systems require a ''transformation of the roles of healthcare professionals''. Thanks to digital health technologies, patients can receive care without having to visit a hospital or clinic in person. This means that healthcare professionals will need the skills to use digital health tools and to help patients understand and exploit digital solutions to improve their health. Digital health systems can empower patients and enable them to become involved, giving them a role in the organisation of care (patient empowerment). Shared decision-making between healthcare professionals and patients requires trust, a sense of partnership and transparency in the interactions between these two groups. Healthcare professionals accompany the patient, while continuing to show empathy and provide the necessary humanity to promote the patient's well-being.
+
+5) Digitisation gives healthcare professionals "more time to practise medicine". Innovations in digital health, especially AI, are helping to lighten the administrative burden on healthcare professionals (traceability, reporting) and limit other repetitive aspects of their work to leave them more time to practise medicine: digital solutions that automatically capture and analyse data; digital devices that help people monitor their medication intake or follow their post-operative protocol. Digital technology can also help address current and projected shortages of healthcare professionals.
+
+6) Digital health systems can help "combat health inequalities". Telemedicine offers remote medical services. It can help people living in isolated areas by giving them access to medical services that might otherwise be unavailable or too expensive. Digital technology facilitates access to high-quality health information, promotes health literacy, encourages healthy behaviour (digital coaching apps) and provides access to patient support networks. All these factors help to combat health inequalities.
+
+7) The "responsibility of the players in the "digital health" value chain" must address environmental impacts and control potential risks. In healthcare, an algorithm that cannot be explained is unlikely to be marketed, even if it is effective. The potential risks are too critical when human lives are at stake.
+
+* Existing environmental criteria need to be refined by taking into account the design chain of a connected object and the energy consumption of algorithms.
+* In the field of AI, for example, explainability begins with the analysis of the data used for learning, but also the study of the interface developed for users, including the architecture of the neural network that is likely to generate biases.
+* A study published in 2019 in the journal Science on the use of commercial algorithms in the US healthcare system demonstrated the presence of racial bias in the results of these tools. This discrimination between patients, or between different geographical areas, creates a first risk of unequal access to care.
+
+Generally speaking, in the field of research and innovation, researchers identify four principles that can be applied to digital health:
+
+* The first is ''anticipation'', to measure the potential benefits and risks upstream of the development phase.
+* A "reflexive" stance enables the designer to limit negative effects and integrate into the system itself an interface that makes it possible for doctors to understand how their technological innovation works.
+* The innovation must be "inclusive", i.e. reach all patients throughout the country.
+* A "reactive" innovation makes it easier to adapt quickly to the changing context of healthcare systems.

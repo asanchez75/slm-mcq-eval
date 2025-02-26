@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-163-06-A
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=A
+|Title=Know how to prescribe antibiotic therapy
+|Description=None
+|Topic=Management
+|Contributors=André Birgy
+|Order=6}}
+
+The aim of the treatment is to :
+
+* Reduce contagiousness
+* Shorten symptoms (only possible if administered early in the catarrhal phase. Treatment has no effect on symptoms if prescribed during the coughing phase.
+
+'''In first intention = Macrolides'''
+
+* Clarithromycin 7 days
+* Azithromycin 3 days
+
+Alternative if macrolides contraindicated = cotrimoxazole 14 days
+
+Note: beta-lactams are ineffective.
+
+Special information for pregnant women: azithromycin and clarithromycin can be used during pregnancy at any stage, and during breast-feeding.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-196-06-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Title=Knowing the parameters for monitoring patients with rheumatoid arthritis
+|Description=Elements of clinical, biological and radiographic monitoring
+|Heading=Monitoring and/or prognosis
+|Contributors=
+|Order=6}}
+'''Clinical monitoring -'''' Assessment of disease activity (DAS28), to check the effectiveness of current treatments; the tolerance of current treatments; the patient's general condition; any extra-articular or systemic manifestations; any co-morbidities, particularly cardiovascular, tumour or infectious diseases.
+
+'''Biological monitoring -'''' Regular monitoring of biological markers used to assess disease activity (sedimentation rate and/or C-reactive protein) and to detect any adverse events induced by current treatments (in particular haemogram, liver parameters, renal function).
+
+'''Radiographic monitoring -'''' X-rays of hands and feet every 6 months for the first year, then every year for the first three years,

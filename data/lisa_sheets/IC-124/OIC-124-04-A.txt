@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-124-04-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Know the positive clinical and/or biological elements that allow the diagnosis of menopause to be made.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Trémollieres - Anna Gosset
+|Order=4}}
+
+
+== Typical form ==
+In its typical form, the positive diagnosis is primarily clinical and is based on the association of
+
+- an ''[[amenorrhoea]]'' of at least 12 months
+
+- occurring around the age of 50
+
+- associated with climacteric symptoms. (but climacteric symptoms may be absent).
+
+'''In the typical form, there is no room for biological confirmation of the diagnosis.'''
+
+The search for ''[[Amenorrhoea|other diagnoses of amenorrhoea]]'' should be taken into account depending on the patient's age (necessary if under 40).
+
+== Special cases ==
+In the case of "hysterectomy", the diagnosis will be based on the conditions of the hysterectomy, the existence of climacteric symptoms and/or the patient's age.
+
+In the case of "oestroprogestogenic contraception" or amenorrhoea induced by certain contraceptives or hormonal treatments, the diagnosis of menopause can be made difficult and biological assays can be used (FSH > 30 IU/ml +estradiol < 10-20 pg/ml). However, these assays can be distorted by the use of hormonal contraception, and there is considerable variability in these assays during the perimenopausal phase.
+
+'''The strategy proposed is most often to stop the treatment in progress and monitor the clinical situation (onset of amenorrhoea)'''.

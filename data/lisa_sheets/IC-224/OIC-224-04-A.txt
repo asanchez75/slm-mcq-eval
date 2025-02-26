@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-224-04-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing how to measure blood pressure
+|Description=Know how to measure blood pressure (consultation, self-measurement, MAPA) and interpret the results.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+=== Clinical measurement ===
+BP in adult consultations is measured :
+
+- in a patient in a sitting or lying position who has been at rest for at least 5 minutes,
+
+- with a validated blood pressure monitor, preferably electronic, using a brachial cuff adapted to the circumference of the arm,
+
+- on at least 2 or 3 occasions, calculating the average of the measurements for each arm,
+
+- for the first measurement, take a measurement in both arms, then take the other measurements in the arm with the highest blood pressure.
+
+Repeat the measurements at least 2 or 3 times during each consultation, calculating the average of the measurements, ideally three measurements, and taking the average over the last two.
+
+=== Ambulatory measurement ===
+Two types of ambulatory BP measurement are currently validated:
+
+==== Self-measurement of blood pressure (SMBP) ====
+o performed by the patient themselves
+
+o using an electronic device validated on the arm
+
+o with 3 measurements in the morning before breakfast and before taking medication, and 3 measurements in the evening before going to bed, 3 days in a row ("rule of 3"), spacing the measurements a few minutes apart
+
+o in a seated position, at rest, with the forearm resting on a table
+
+==== ambulatory blood pressure measurement (ABPM) ====
+o performed using an automatic BP measurement device and a brachial cuff adapted to the patient
+
+o with systematic measurements over a 24-hour period, during the day and at night
+
+=== High blood pressure profiles ===
+These ambulatory BP measurements can be used to diagnose different blood pressure profiles:
+{| class="wikitable"
+|
+|Normal ambulatory measurement
+|High ambulatory measurement
+|-
+|Normal clinical measurement
+|Normotension
+|Masked hypertension
+
+(or isolated ambulatory hypertension)
+|-
+|High clinical measurement
+|White coat hypertension
+
+(or consultation hypertension)
+|'''Hypertension vraie''''
+|}

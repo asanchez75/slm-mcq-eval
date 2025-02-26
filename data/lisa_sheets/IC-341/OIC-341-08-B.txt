@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-341-08-B
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=B
+|Title=Knowing the strategy for complementary investigations with a view to etiology
+|Description=indication
+|Rubric=Complementary examinations
+|Contributors=
+|Order=8}}
+("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]'''")
+
+In 1st intention: cerebral angioscanner or cerebral scanner with injection to look for an arterial aneurysm.
+
+In case of doubt or if no aetiology is identified: cerebral angiography = reference test for the aetiological diagnosis of SAH.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-281-03-A
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=A
+|Title=Knowing the main cause and risk factor of chronic pancreatitis
+|Description=Role of excessive alcohol consumption and tobacco as independent risk factors
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+- More than 80% of CPs are linked to "excessive alcohol consumption" for more than 10 years, usually in excess of 100g per day. However, less than 5% of heavy drinkers will develop CP.
+
+The main independent risk factor for CP is "smoking", which is associated with more than 80% of cases of alcohol-related CP.  It is also a negative factor that worsens the course of the disease.

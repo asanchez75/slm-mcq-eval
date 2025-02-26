@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-263-09-A
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=A
+|Intitle=Knowing renal infarction, renal artery stenosis, benign nephroangiosclerosis, cholesterol crystal embolism disease
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Jacques Boffa
+|Order=9}}
+
+'''Renal infarction:'''
+
+* Acute occlusion of a renal artery or its branches may occur :
+** an abnormality in the vascular wall: dissection of the renal artery
+** by arterial embolism (atrial fibrillation, valvulopathy)
+** linked to thrombophilia.
+
+'''Cholesterol crystal emboli disease:'''
+
+* A disease linked to the obstruction of arterioles and capillaries by cholesterol crystals following the rupture of an atheromatous plaque, often revealed by cutaneous signs.
+
+
+'''Benign nephroangiosclerosis:'''
+
+* Chronic vascular nephropathy, a late consequence of long-standing, inadequately controlled hypertension.
+* This condition can lead to end-stage renal failure.
+* Anatomically, it corresponds to progressive obliteration of the small vessels by fibrous endarteritis.
+
+<br />

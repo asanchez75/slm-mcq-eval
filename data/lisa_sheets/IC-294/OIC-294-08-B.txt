@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-294-08-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=General considerations on anti-tumour chemotherapy and systemic anti-cancer treatments.
+|Description=Definition (action on cycling cells), concept of dose effect, need for histological proof.
+|Rubric=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=8}}
+
+<Anti-tumour chemotherapy uses drugs that cause cell cycle arrest (cytostatic effect) and/or cell death (cytotoxic effect), mainly through apoptosis.
+
+Chemotherapy is not possible without histological evidence. Only certain germ cell tumours can be treated without histological evidence on the basis of clinical, radiological and biological arguments.
+
+====Three principles govern the use of systemic chemotherapy:====
+- a constant fraction of tumour cells is killed with each therapeutic cycle. For example, if a therapeutic cycle kills 99% of cancer cells, a tumour mass of 1011 cells will be reduced to approximately 10 cells after 5 cycles;
+
+- neoplastic cells are assumed to respond to treatment according to a linear relationship between dose and efficacy, which justifies the use of the highest possible doses, administered at the shortest possible intervals;
+
+- The Goldie-Coldman hypothesis suggests that tumours have a spontaneous mutation rate of around one cell per 100,000 per gene. So a tumour containing 109 cells (about 1 gram) will spontaneously contain around 10,000 cells resistant to a given drug. But the simultaneous resistance of a cell to two drugs will only be observed in one cell out of 1010. This explains the superior efficacy of poly-chemotherapy.

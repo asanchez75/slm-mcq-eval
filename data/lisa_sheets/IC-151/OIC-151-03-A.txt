@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-151-03-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing how to identify the elements of an encephalitis syndrome and how to evoke herpetic meningoencephalitis.
+|Description=Know how to clinically suspect meningoencephalitis
+|Rubric=Positive diagnosis
+|Contributors=Dr Olivier Robineau
+|Order=3}}
+In the case of encephalitis, central neurological disorders are present:
+
+* Coma and disorder of consciousness SD-028|disorder of consciousness]]
+* [[Sensory and/or motor neurological deficit SD-121|focalisation]]
+* [[Mental confusion/disorientation SD-119|disorders of higher functions]]
+* [[Convulsions SD-120|seizures]]
+
+They can be present regardless of the type of pathogen.
+
+The main infectious cause is viral, linked to HSV1. Hyperthermia tends to be moderate. Personality disorders, frontal and/or temporal syndrome, memory problems and hallucinations are common in this infection.

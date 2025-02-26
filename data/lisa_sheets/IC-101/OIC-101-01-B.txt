@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-101-01-B
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=B
+|Title=Knowing the different functions of the facial nerve and how to search for an anomaly
+|Description=muscles, hypoesthesia, agueusia, hyperacusis, corneal reflex
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=1}}
+1) The different functions of the facial nerve :
+
+- Motor, main function: innervation of all the skin muscles of the face and neck, as well as the stapedial muscle of the middle ear.
+
+- Vegetative: secretion from the lacrimal and salivary glands.
+
+- Sensory: innervation of the skin of the concha of the ear (Ramsay-Hunt zone).
+
+- Sensory: gustation for the anterior two-thirds of the tongue.
+
+2) The search for an anomaly consists of :
+
+- Look for a muscular deficit in one hemiface ([[Muscular weakness SDD-074|muscular weakness]]; [[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]]; [[Facial paralysis SDD-127|facial paralysis]]) at rest, with spontaneous mimicry, and during movements on command:
+
+- Upper face: raise and frown the eyebrows (forehead crease), close the eyes against resistance ([[Palpebral anomalies SD-139|palpebral anomalies]])
+
+- Lower face: uncover teeth, puff out cheeks
+
+An asymmetry can be confirmed by comparison with a previous photograph. Facial muscles innervated by cranial nerves other than the facial nerve are examined normally: masticatory muscles (trigeminal nerve), muscles of the pharynx and soft palate (glossopharyngeal and vagus nerves), muscles of the tongue (greater hypoglossus nerve).
+
+- Testing sensitivity in the Ramsay-Hunt zone.
+
+- Test the quality of lacrimal and salivary secretions (Schirmer test) and taste function on the anterior two-thirds of the tongue (application of sweet, salty, acidic and bitter solutions).

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-259-01-A
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=A
+|Title=Know the definition of physiological proteinuria
+|Description=None
+|Rubric=Definition
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=1}}
+
+* ''Physiological [[Proteinuria SD-212|proteinuria]] is 100 to 150 mg/d'''
+* In the normal state, only low molecular weight proteins are freely filtered through the glomerulus. Physiological proteinuria is composed of :
+** 60% low molecular weight proteins filtered through the glomerulus and not reabsorbed in their entirety (lysozyme, β-2 microglobulin and kappa and lambda light chains).
+** 40% proteins secreted by the tubule (uromodulin or Tamm-Horsfall protein) or by the urothelium of the urinary tract.
+* Under physiological conditions, the amount of albumin present in urine is less than 30 mg/d.

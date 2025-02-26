@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-295-02-A
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=A
+|Title=Knowing the announcement system
+|Description=Describing how the cancer announcement system and town-hospital coordination work
+|Rubric=Management
+|Contributors=Laurent Zelek
+|Order=2}}
+
+As with any announcement of a diagnosis of a serious illness, the announcement of cancer is traumatic and marks the beginning of a life in which the patient will have to come to terms with the disease and its treatments. The images of death and suffering associated with cancer often leave the patient dumbfounded, unable to hear what the doctor has to say during the initial consultation. The patient's need for information evolves at a later stage, and new opportunities for discussion and explanation make it possible to provide information that is tailored, personalised, progressive and respectful. Information that is better experienced and understood will make it easier for patients to adhere to their treatment plan and help them to develop strategies for coping with the disease.
+
+This system, as defined by an official circular, is based on four phases:
+
+- '''Medical:''' diagnosis, proposed treatment strategy
+
+- Caregiver:'''' listening to the patient by a nurse, reformulation of what was said during the medical consultation, information on the course of care and referral to other professionals.
+
+- '''Access to supportive care:''' symptomatic management and identification of patients' specific needs, particularly in psychosocial terms (psychological support, patient associations, assessment of precariousness)
+
+- '''Relationship with general practitioners:''' the general practitioner must be informed in real time, in particular from the first stage of hospital treatment; he or she remains the patient's main contact and must be involved in the care pathway
+
+See: [[Understanding the issues and procedures involved in breaking bad news in healthcare 2C-001-PC-A03]]

@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-341-12-B
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=B
+|Title=Knowing the complications of a meningeal haemorrhage
+|Description=Intracranial hypertension, early and delayed acute hydrocephalus, haemorrhagic recurrence, cerebral vasopasm.
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=12}}
+
+
+
+'''Overall prognosis of spontaneous SAH:''''
+
+Aneurysmal SAH is a serious form of stroke. 20% of patients will die in the pre-hospital setting.
+
+For patients treated in hospital :
+
+- 60% will survive without major after-effects
+
+- 20% will have a severe disability
+
+- 20% will die
+
+'''Main complications of spontaneous SAH:''''
+
+*rebleeding of aneurysm before securing
+*acute obstructive hydrocephalus
+*vasospasm generating delayed cerebral ischaemia (equivalent to ischaemic stroke)
+*intracranial hypertension (ICHT): secondary to cerebral oedema, acute hydrocephalus or intracranial haematoma, which can lead to death due to injury
+*hyponatremia (SIADH)
+*epileptic seizure (or even status epilepticus)
+*communicating hydrocephalus (due to arachnoid felting, at a distance from the bleeding)
+
+'''Cerebral vasospasm:'''
+
+*onset between D4 and D14 after bleeding
+*to be suspected if there is a recurrence of headache, hyperthermia and/or changes in the neurological examination
+*daily trans-cranial doppler screening
+*positive diagnosis by cerebral perfusion scan and/or cerebral angiography

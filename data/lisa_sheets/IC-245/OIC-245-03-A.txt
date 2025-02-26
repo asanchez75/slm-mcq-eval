@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-245-03-A
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=A
+|Title=Knowing the clinical and biological signs of primary adrenal insufficiency
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=3}}
+'''1. clinical signs'''
+
+General signs are more marked in primary adrenal insufficiency (=peripheral adrenal insufficiency=affects both adrenal glands), particularly hypotension and digestive signs.
+
+<u>Glucocorticoid (Cortisol) and mineralocorticoid (Aldosterone) deficiency</u>.
+
+The 3 A's always present:
+
+*Asthenia [[Asthenia SD-021]]
+*Weight loss, [[Weight loss SD-017]]
+*Anorexia, but retained an appetite for salt
+
+Other signs :
+
+*Initially orthostatic arterial hypotension with tachycardia (due to extracellular dehydration).
+*Nausea. The appearance of vomiting, diarrhoea and abdominal pain should raise fears of acute adrenal insufficiency ;
+*'''<u>Melanoderma</u>''' and slate patches on the oral mucosa.
+*Symptoms of possible depression
+
+
+'''2.       Biological signs (see table in the semiology chapter)'''
+
+NB: apart from decompensations, hypoglycaemia is rare and the ionogram is normal or with a tendency to <u>hyponatraemia and hyperkalaemia.</u>

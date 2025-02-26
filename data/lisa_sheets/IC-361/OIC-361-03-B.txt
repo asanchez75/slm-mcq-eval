@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-361-03-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Knowing the factors favouring a bursopathy
+|Description=Mechanical, microcrystalline and infectious friction
+|Rubric=Physiopathology
+|Contributors=CFCOT
+|Order=3}}
+
+'''Repetitive strain injury''': repetitive movements associated with excessive pressure (tilers and knee hygroma, for example).
+
+'''Autoimmune diseases''': rheumatoid arthritis, scleroderma, disseminated lupus erythematosus
+
+'''Gout and diabetes'''.
+
+Wound and trauma: infectious bursitis.

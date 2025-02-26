@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-152-02-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing the epidemiology of IE
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=2}}
+With an annual incidence of around 35 cases/million inhabitants in France, IE is a "rare" but "serious" infection (hospital mortality close to 20%).
+
+The incidence of AR has not declined in recent years, but the profile of patients has changed, notably as a result of an ageing population, lifestyle changes, a decline in the incidence of post-rheumatic valve disease, and medical advances.
+
+The proportion of AEs linked to high-risk medical procedures (catheters, pacemaker implantation, endovascular procedures, etc.) has risen considerably in recent years, and is now between 25% and 30%.
+
+AR mainly affects ''middle-aged and elderly subjects'' (average age of onset 62 years).

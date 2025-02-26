@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-359-08-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing how to look for clinical and anamnestic signs of acute respiratory failure in adults and children.
+|Description=Decompensation of COPD, OAP, PE, PNP, asthma, bronchiolitis, pathologies of the upper airways.
+|Rubric=Positive diagnosis
+|Contributors=Guillaume Carteaux,Guillaume Mortamet
+|Order=8}}
+
+- Anamnesis: history, mode of onset, accompanying signs (cough, sputum, chest pain, orthopnea, fever, etc.), notion of penetration syndrome, etc.
+
+- Abnormalities on respiratory examination :
+
+o Characteristics (e.g. percussion: dullness/tympany; auscultation: crackles, tubal murmur, sibilants, etc.)
+
+o Symmetrical or asymmetrical
+
+- Extra-respiratory signs: fever, signs of right heart failure (IMO, jugular turgor, hepato-jugular reflux)

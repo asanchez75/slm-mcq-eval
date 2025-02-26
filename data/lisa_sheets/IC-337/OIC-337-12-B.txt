@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-12-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing the specific treatment of benzodiazepine intoxication (and related hypnotics)
+|Description=Know how to prescribe flumazenil. Be aware of contraindications (severe co-intoxications, epilepsy).
+|Rubric=Management
+|Contributors=Dominique Vodovar
+|Order=12}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 5.jpg
+</gallery>

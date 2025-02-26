@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-149-10-B
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=B
+|Title=Knowing the general complications of angina
+|Description=GNA, RAA
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=10}}
+'''Complications of streptococcal angina''' :
+
+- post-streptococcal syndromes: acute rheumatic fever (RAA) and acute post-streptococcal glomerulonephritis (GNA), which have become exceptional in France
+
+- streptococcal toxin complications: scarlet fever and streptococcal toxic shock
+
+'''Complications of pseudomembranous angina''' :
+
+- Complications of infectious mononucleosis: haemolytic anaemia, thrombocytopenic purpura, neurological damage, ruptured spleen, etc.
+
+- Diphtheria and its cardiac and neurological complications
+
+'''Complications of vesicular angina:''' '''Severe herpetic gingivo-stomatitis''' preventing feeding.
+
+'''Complications of ulcerative and ulcero-necrotic angina''': '''Vincent's angina''' can be complicated by a pulmonary angina-infarction syndrome '''or Lemierre syndrome'''.

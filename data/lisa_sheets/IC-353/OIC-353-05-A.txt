@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-353-05-A
+|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management
+|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management
+|Rank=A
+|Title=Savoir évaluer le risque, l'urgence et la dangerosité (RUD) à tous les âges de la vie (Knowing how to assess risk, urgency and dangerousness at all stages of life)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Pierre Vandel
+|Order=5}}
+
+Suicidal potential should be systematically assessed in psychiatry. It is based on a triple assessment: risk, urgency, dangerousness (RUD)
+
+==Risk assessment
+Risk assessment allows us to consider the factors that may influence the occurrence of death by suicide, based on individual, family, psychosocial and other factors.
+{| class="wikitable"
+! colspan="3" |Risk factors
+|-
+Individual factors
+Family factors
+! psychosocial factors
+|-
+|Psychiatric pathology :
+
+*depression
+*substance abuse, dependence
+*psychotic disorders
+*personality disorders
+
+Personal history of ST
+
+Low self-esteem
+|
+*Family history of death by suicide
+*abuse, deprivation
+|
+*history of abuse in childhood
+*Socio-economic situation: economic or professional difficulties;
+
+*Social isolation separation or recent loss;
+*difficulties with the law, failures;
+*Developmental difficulties;
+*The phenomenon of "contagion" following a suicide;
+*Triggering event: recent event leading to a state of crisis in a subject.
+|-
+! colspan="3" |Protective factors
+|-
+! individual factors
+Family factors
+! psychosocial factors
+|-
+|
+*Resilience = the ability to function adaptively in the face of stressful events and to cope with adversity,
+*Problem-solving ability
+|
+* perceived socio-familial support
+* having children at home
+* sense of responsibility towards family
+|
+* religious beliefs
+* social network
+|}
+
+==Estimacy assessment==
+Assess the urgency or imminence of the act: the suicidal scenario, the absence of an alternative to suicide
+
+*Low: thinking about suicide, no specific scenario, just flashes of inspiration
+*Medium: scenario considered, but postponed
+*High: clearly planned, act planned for the next few days
+
+==Dangerousness assessment
+Is based on the potential lethality and accessibility of the means envisaged.

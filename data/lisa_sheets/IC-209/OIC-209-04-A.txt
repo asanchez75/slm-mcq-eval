@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-209-04-A
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Identify a COPD exacerbation/decompensation, assess the signs of severity
+|Description=Know how to evoke the diagnosis of COPD decompensation in the event of acute respiratory failure in a patient with COPD or at risk of COPD (smoking), know how to look for signs of respiratory struggle, cyanosis, polypnoea > 25/min, signs of hypercapnic encephalopathy (agitation, sweating, flapping), (item 359 and item 332).
+|Rubric=Emergency identification
+|Contributors=
+|Order=4}}
+An exacerbation is an acute event with prolonged worsening of respiratory symptoms (> 24 hours) beyond their usual variations and requiring a change in treatment.
+
+COPD exacerbations are a frequent reason for seeking care in general practice and in hospital. Exacerbations have a major impact on a patient's prognosis.
+
+Recognition of the signs of severity (signs of struggle and signs of exhaustion, see item 359 [[Acute respiratory distress SD-160|acute respiratory distress]]) and the terrain will determine the place of care (outpatient, inpatient, intensive care).
+
+The main criteria justifying hospitalisation are :
+
+* Signs of immediate severity (i.e. [[Acute respiratory distress SD-160|acute respiratory distress]], see item 359)
+* Rapid worsening of symptoms
+* Dyspnoea in daily activities (dressing...) in basal state
+* No response to initial medical treatment
+* Diagnostic uncertainty
+* Advanced age, frailty
+* Lack of support at home
+* Respiratory assistance at home (long-term oxygen therapy, assisted ventilation)
+* Previous intensive care unit stay for exacerbation
+* Comorbidities: cardiovascular, alcoholism, neurological, psychiatric, etc.

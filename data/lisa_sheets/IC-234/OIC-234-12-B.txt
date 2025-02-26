@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-234-12-B
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=B
+|Title=Know the value and limitations of BNP or NT proBNP for diagnosis and follow-up
+|Description=Knowing the value and limitations of BNP or NT proBNP for diagnosis and follow-up
+|Rubric=Additional tests
+|Contributors=Olivier Huttin
+|Order=12}}
+- BNP (brain natriuretic peptide) and its precursor NT pro BNP are peptides secreted by atrial and ventricular cardiomyocytes when tissue is strained. Their value therefore reflects the average pressure regime in the heart chambers.
+
+- normal values of BNP (<100 pg/ml) or NT-proBNP (<300 pg/ml) very unlikely diagnosis in the presence of acute dyspnoea Figure 2
+
+- BNP > 300 pg/ml or NT-proBNP with age-dependent threshold values:
+
+o > 450 pg/ml in subjects under 50,
+
+o > 900 pg/ml between the ages of 50 and 75,
+
+o > 1800 pg/ml > 75 years of age).
+[[File:Interpretation of natriuretic peptides in the context of acute dyspnoea.png|vignette|369x369px|Interpretation of natriuretic peptides in the context of acute dyspnoea]]
+
+
+
+
+
+
+
+
+
+
+What you need to know to interpret the rates
+
+- Increases with age in women
+
+- Decreases with obesity
+
+- Increased in cases of renal insufficiency or atrial fibrillation
+
+- Treatment with ARNI (Angiotensin Receptor-Neprilysin Inhibitor), represented by the combination of Sacubitril and Valsartan (Entresto®), leads to an increase in BNP concentrations which cannot be interpreted. However, NT-proBNP is not a neprilysin substrate, so its concentration remains independent of drug intake.

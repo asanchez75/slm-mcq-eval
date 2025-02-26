@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-259-07-A
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=A
+|Title=Knowing the acute and chronic complications of nephrotic syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=7}}
+
+==Acute complications of nephrotic syndrome==
+
+===Acute renal failure===
+
+*Functional renal failure due to effective hypovolaemia, common in the initial phase of a nephrotic syndrome. Natriuresis is less than 20 mmol/L.
+*Acute tubular necrosis'', sometimes with oligoanuria, complicating certain severe nephrotic syndromes in children or the elderly in situations associated with effective and prolonged hypovolaemia responsible for severe renal hypoperfusion.
+*Unilateral or bilateral thrombosis of the renal veins (see below).
+
+===Vascular thrombosis and coagulation abnormalities===
+
+*Urinary losses of anticoagulant factors (antithrombin III, Protein S, etc.) and increased synthesis of procoagulant factors (factor V, VIII, fibrinogen, etc.) lead to a state of hypercoagulability.
+*Clinical:
+**Vascular thrombosis can involve all territories, '''venous especially and arterial.''' They are more frequent in adults than in children. Two varieties of venous thrombosis deserve special mention:
+***thrombosis of one or both ''renal veins'', particularly during deep nephrotic syndromes of extra-membranous glomerulonephritis or amyloidosis. It should be suspected in cases of unilateral or bilateral back pain or macroscopic haematuria. Renal failure is uncommon. Diagnosis is based on imaging (Doppler, CT or MRI angiography). Thrombosis may extend to the inferior vena cava and be complicated by pulmonary embolism.
+***the rare thrombosis of a cerebral venous sinus
+**Venous thrombosis may be complicated by deep vein thrombosis and pulmonary embolism (see item 330).
+
+*Treatment and prevention :
+**Curative treatment of venous [[Deep vein thrombosis and pulmonary embolism (see item 330)|thrombosis]] or pulmonary embolism: see dedicated item.
+**Preventive treatment of venous thrombosis:
+***avoid prolonged immobilisation, compression stockings, etc.
+***avoid [[Diuretics/know the mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A02|sudden hydrosodic depletion]] (< 1 kg/d)
+***prescribe [[Oral anticoagulants (VKA and AOD)|anticoagulant]] treatment if hypoalbuminemia is profound (< 20 g/L) and long-lasting.
+
+===Infectious complications===
+
+*They are favoured by hypogammaglobulinaemia, particularly for encapsulated bacteria (Pneumococcus, Haemophilus, Klebsiella).
+*The main infections observed in nephrotic syndrome are erysipelas, cellulitis, peritonitis, pneumopathy, etc.
+*Vaccinations for adults and children (SD-322|vaccinations) against influenza and pneumococcal disease must be carried out; antibiotic prophylaxis is not indicated. Corticosteroid therapy and immunosuppressive drugs contraindicate live vaccines.
+
+==Chronic complications of nephrotic syndrome==
+
+===Hyperlipidemia===
+
+*It is usually of the mixed type.
+*Dyslipidaemia|hypercholesterolaemia] can be very important. It is correlated with the severity of the nephrotic syndrome and linked to an increase in the production of lipoproteins in the liver (VLDL and LDL) and a decrease in their catabolism.
+*Severe hyperlipidaemia increases the risk of cardiovascular events.
+*Treatment of hyperlipidaemia is only indicated in cases of long-term nephrotic syndrome (> 6 months) resistant to specific treatment.
+
+===Denutrition and growth disorders===
+
+* Protein [[malnutrition SD-030|denutrition]] is common in chronic nephrotic syndromes.
+* Muscle atrophy is often observed when oedema disappears after prolonged corticosteroid therapy.
+* A "normal" protein diet, providing 1-1.5 g/kg/d of protein, is sufficient.
+* In children, staturo-ponderal growth retardation is mainly attributable to corticosteroid therapy. The impact of corticosteroid therapy is particularly significant at the peak of pubertal growth, which is completely blocked. Other immunosuppressive treatments should be discussed during this period.
+
+===Chronic renal failure===
+
+* Risk related to :
+** the type of [[glomerular nephropathy|glomerulopathy]]
+** a direct nephrotoxic effect of proteinuria on the tubular epithelium which promotes interstitial fibrosis
+** uncontrolled hypertension in adults and children, which is common in glomerular nephropathy.
+* Non-specific "nephroprotective" treatment (see chapter [[Chronic renal failure in adults and children|chronic renal failure]]).
+
+===Increased plasma free fraction of albumin-bound drugs===
+The fall in albumin levels is directly responsible for the increase in the free fraction of drugs (anti-vitamin K, non-steroidal anti-inflammatory drugs, statins, etc.). This increases the risk of overdose and toxic effects.

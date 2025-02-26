@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-335-08-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Know the definition of mandibular fracture
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+Fractures are distinguished according to their anatomical location:
+
+*Damage to the mandibular body, or horizontal branch (toothed portion and angle),
+*involvement of the mandibular ramus, or vertical branch ("retro-dentate" portion, condylar and coronoid processes).
+
+In particular, the number and location of fracture lines should be specified

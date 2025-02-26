@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-268-08-A
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=A
+|Title=Know the main causes of hypercalcaemia (diagnostic tree)
+|Description=Know the main causes of hypercalcaemia according to PTH results: primary hyperpathyroidism, myeloma, bone metastases, vitamin D intoxication, etc.
+|Rubric=Etiologies
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=8}}
+
+. The etiological diagnosis follows the mechanistic diagnosis
+
+. In the case of parathyroid hypercalcaemia with hypercalciuria and hypophosphataemia (Ph < 0.84 mmol/L), the diagnosis of primary hyperparathyroidism can be confirmed. This is the most frequent aetiology +++ and is a biological diagnosis +++.
+
+. The main characteristics of primary hyperparathyroidism are as follows :
+
+*Preferential occurrence in women over the age of 40
+*Potential complications
+**kidney (phosphocalcic lithiasis or nephrocalcinosis)
+**bone (bone loss leading to osteoporosis)
+*Nature of lesion
+adenoma of one of the 4 parathyroid glands +++ **hyperplasia (more than one parathyroid gland)
+**hyperplasia (rarer - consider isolated genetic forms or NEM1 or 2a, HRPT2)
+**parathyroid carcinoma (exceptional - poorly tolerated - major hypercalcaemia)
+*Morpho-functional examinations to aid diagnosis and localization
+**Cervical ultrasound and MIBI scintigraphy in 1st intention. Choline PET scan in case of discrepancy or if tests are non-contributory.
+**Only useful if surgical treatment is indicated.
+**Can help with localisation (if minimally invasive surgical treatment is envisaged).
+
+. Hypercalcaemic hyperparathyroidism in chronic renal failure: a progressive complication of hyperparathyroidism secondary to chronic hypocalcaemia (known as tertiary hyperparathyroidism rather than primary hyperparathyroidism), most often discovered after transplantation.
+
+
+. In the case of extra-parathyroid hypercalcaemia (low PTH), a distinction is made between :
+
+*Bone forms (associated with significant hypercalciuria)
+**bone metastases (breast lung kidney thyroid testis)
+**multiple myeloma or lymphoma
+**hyperthyroidism
+**vitamin A intoxication (intake of vitamin A or retinoic acid)
+**prolonged immobilisation (stroke, complicated pregnancy)
+
+*Digestive forms (associated with hypercalciuria)
+**native vitamin D intoxication (Sterogyl Dedrogyl)
+**active vitamin D intoxication (Rocaltrol, Un Alfa)
+**increased production of calcitriol outside the kidney (granuloma+++)
+**sarcoidosis +++
+**tuberculosis
+**Hodgkin's or non-Hodgkin's lymphoma
+**acromegaly
+
+*Renal forms (normal or low calciuria): thiazide diuretics or related products.
+
+*malignant humoral hypercalcaemia
+**paraneoplastic syndrome
+**linked to production of a PTH like substance (PTHrp) (small cell carcinoma +++).
+**primary hyperparathyroidism but with low PTH and no hypercalcitriolaemia.
+
+*Rarer forms
+**calcium intoxication (milk-drinking syndrome)
+**rhabdomyolysis corrections
+
+The diagnostic approach based on the results of the first-line tests (Total Ca - Ionised calcium - PTH - Vitamin D - Calcitriol - Calciuria) is presented in the table below [[Fichier:Diagnostic hypercalcémie.jpg|vignette|Principales causes d'hypercalcémie et présentation biologique, par mécanisme]].

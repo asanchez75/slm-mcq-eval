@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-189-01-A
+|Item_parent=Immune deficiency
+|Item_parent_short=Immune deficiency
+|Rank=A
+|Title=Knowing the difference between acquired and hereditary immune deficiencies
+|Description=Know the three main causes of secondary immune deficiency (ID): drugs, haemopathy, splenectomy, etc.
+|Rubric=Definition
+|Contributors=Olivier Lambotte,Capucine Picard,Jean-Daniel Lelièvre
+|Order=1}}
+
+There are many secondary immune deficiencies:
+
+infectious diseases:
+
+*human immunodeficiency virus (HIV) infection (+++);
+*measles ;
+*other viral infections (EBV, etc.);
+
+'''malignant pathologies''' :
+
+*myeloma;
+*chronic lymphocytic leukaemia;
+*solid tumours (rare, e.g. thymoma with hypogammaglobulinemia: Good's syndrome);
+
+'''autoimmune diseases''': mainly systemic lupus erythematosus;
+
+'''iatrogenic origin''': the context here is more obvious:
+
+*corticosteroid therapy;
+*immunosuppressive<s>s</s>, particularly post-transplant;
+*Biotherapies (anti-TNF-α, anti-IL-1);
+*any cytotoxic chemotherapy;
+
+'''other causes''' :
+
+*hypogammaglobulinaemia due to immunoglobulin leakage (nephrotic syndrome, exudative diarrhoea, burns) or immunoglobulin production failure (certain anti-comitic treatments);
+*diabetes, which in particular favours pyogenic bacterial infections;
+
+Surgical or functional asplenia, associated with an increased risk of encapsulated germ infections (''Streptococcus pneumoniae'', ''Haemophilus influenzae'', ''Neisseria meningitidis'') and severe malaria; there are also congenital asplenias which are part of hereditary immune deficiencies.
+
+'''Cushing's syndrome;'''
+
+'''Deep malnutrition;'''
+
+'''End-stage renal and hepatic failure...'''

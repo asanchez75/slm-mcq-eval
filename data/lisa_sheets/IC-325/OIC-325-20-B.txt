@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-325-20-B
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=B
+|Title=Defining the concept of no-fault liability and the role of the National Office for Compensation for Medical Accidents (ONIAM)
+|Description=Knowing how to refer a case to ONIAM
+|Rubric=Definition
+|Contributors=Clara Locher
+|Order=20}}
+
+==Reasons for referral==
+L''''ONIAM''' and the '''CCI''' are separate institutions, but they work towards the same goal within the same procedure: to compensate victims of medical accidents as fairly as possible.
+
+* ONIAM: Office National d'Indemnisation des Accidents Médicaux, des Affections Iatrogènes et des Infections Nosocomiales (National Office for Compensation for Medical Accidents, Iatrogenic Diseases and Nosocomial Infections).
+* CCI'': Commission de Conciliation et d'Indemnisation des accidents médicaux (Conciliation and Compensation Commission for Medical Accidents)
+
+The ICCs - which meet between one and four times a month - are chaired by a magistrate and are made up of members representing :
+
+* users,
+* healthcare professionals
+* health establishments
+* insurers,
+* ONIAM,
+* as well as qualified personalities.
+
+A case may be referred to the CCI if a patient (or his/her beneficiaries in the event of death) is the victim of a "medical accident", an "iatrogenic condition" or a "nosocomial infection" resulting in "serious harm".
+
+A medical accident is considered "serious" if it causes damage in excess of the following thresholds:
+
+*a rate of permanent physical or mental injury (AIPP) of more than 24%;
+*or "temporary cessation of professional activities" [ATAP] for a period of at least six consecutive months or six non-consecutive months in any twelve-month period;
+*or temporary discomfort constituting a ''functional deficit'' [DFT] equal to or greater than 50% for a period of at least six consecutive months or six non-consecutive months over a period of twelve months;
+
+Or exceptionally :
+
+*when the victim is declared ''definitively unfit'' to carry out the professional activity he/she was carrying out before the medical accident;
+*when the medical accident, iatrogenic condition or nosocomial infection causes "particularly serious problems", including economic problems, in the victim's living conditions.
+
+==Referral procedure==
+
+=====Step 1: Preparation of the file by the victim=====
+Within ''10 years'' of consolidation* of the state of health and as part of a ''free procedure'', the victim sends the '''CCI''' a claim form accompanied by various supporting documents.
+ <sup>*</sup>The '''''consolidation''''' is the date at which it can be considered that the victim's state of health is no longer likely to change, worsen or improve. In the absence of consolidation of the victim's state of health before his or her death, the starting point for the limitation period is the date of the victim's death.
+
+=====Step 2: assessment of the application by the ICC=====
+From the date of receipt of a complete file, the ICC has 6 months to give its opinion on the circumstances, causes, nature and extent of the damage suffered by the victim and on the applicable compensation scheme.  
+
+The ICC's assessment of cases is based on "expert opinions". These expert reports are requested by the Chairman of the CCI from medical experts in the discipline involved in the case under review, who are on the list of experts.
+
+=====Step 3: compensation offer=====
+The "Office National d'Indemnisation des Accidents Médicaux, des Affections Iatrogènes et des Infections Nosocomiales'' (ONIAM) or the insurer of the healthcare provider in question (depending on whether it concerns a therapeutic hazard or a fault) has a ''period of 4 months'' from receipt of the notice to make an ''offer of compensation'' to the victim and a period of 1 month to pay if the victim accepts the offer.
+
+=====Optional step=====
+If the insurer refuses or remains silent after the 4-month period, the victim may "ask ONIAM to take the place of the insurer". The ONIAM then has a "period of 4 months" from receipt of a valid request to inform the victim of its position and make a proposal for compensation. ONIAM can then take action against the insurer. <br />

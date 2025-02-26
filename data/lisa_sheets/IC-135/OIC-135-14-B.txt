@@ -1,0 +1,103 @@
+{{knowledge objective
+|Identifiant=OIC-135-14-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=List the main indications for local and locoregional anaesthetics.
+|Description=List the main indications for analgesia using local anaesthetics: patch for neuropathic pain, locoregional analgesia, etc.
+|Rubric=Management
+|Contributors=
+|Order=14}}
+- Local anaesthetics are widely used in dentistry, anaesthesiology, general medicine and many medical and surgical specialities.
+
+- All local anaesthetics have a common molecular structure and a similar mode of action.
+
+- They come in different forms (solutions, gels, plasters) and concentrations.
+
+- There are two main classes of local anaesthetics:
+
+- amides: in particular lidocaine, prilocaine, bupivacaine, ropivacaine
+
+- esters: in particular procaine and tetracaine.
+
+- The molecules available differ in their :
+
+- power
+
+- time to act
+
+- duration of action
+
+- toxicity
+
+
+Lidocaine (Xylocaine®) has a short onset of action (5 minutes) and a short duration of action (1 hour). It is the local anaesthetic most often used in everyday practice outside an anaesthetic environment. Lidocaine is available as a 1% (10 mg/ml) or 2% (20 mg/ml) solution.
+
+EMLA is a eutectic mixture of lidocaine and prilocaine used for skin contact analgesia in children or adults, or genital mucosa analgesia in adults''.
+
+
+'''Indications'''
+
+- Cutaneous or mucosal contact analgesia for painful invasive procedures (venipuncture, lumbar puncture, fibroscopy, urethral catheterisation, etc.):
+
+- Skin infiltration analgesia for minor surgical procedures (sutures, dermatology, etc.)
+
+- '''Anaesthesia for locoregional analgesia''' (peripheral nerve blocks and central blocks such as spinal anaesthesia and epidural anaesthesia)
+
+- '''Management of localised peripheral neuropathic pain, in the form of a lidocaine plaster''' (Versatis ®) as first-line treatment '''(neuropathic pain section, item 134) .''''
+
+'''Mechanisms'''
+
+- Action on nerve fibres by blocking sodium channels
+
+- Blocking the entry of sodium into the nerve cell
+
+- Blocking the propagation of the action potential
+
+- Reversible blockage of nerve conduction
+
+'''Principles of use'''
+
+- '''Allow time for action'''
+
+- '''For the transcutaneous route (patch), apply a thick layer of cream to the area to be treated at least 1 hour before the painful procedure, then cover it with a dressing'' and remove the cream with a compress after removing the dressing (the anaesthetic lasts for one to 2 hours).
+
+- For infiltrations into the skin, leave to act for at least 5 minutes before carrying out the procedure.
+
+- Lidocaine patches must be applied to healthy skin
+
+'''Undesirable effects, toxicity and monitoring'''
+
+- The toxicity of local anaesthetics depends on the potency of the local anaesthetic used, its route of administration and the peak blood concentration.
+
+- The adverse effects of topical local anaesthetics mainly involve a local reaction (redness, rarely itching or allergy).
+
+- Cardiovascular and neurological toxicity can be extremely serious: it can be seen when the drug is accidentally passed into the bloodstream or when there is significant blood resorption after an overdose.
+
+- The main signs of toxicity are :
+
+- Visual disorders
+
+- Metallic taste
+
+- Ringing in the ears
+
+- Yawning
+
+- Speech difficulties
+
+- Tingling around the lips
+
+- There is an "antidote to local anaesthetic poisoning": 20% lipid emulsion (e.g. Intralipide 20%®). Intralipids act as chelators. They should be kept in the emergency trolley in departments using local anaesthetics (recovery room, emergency department, operating theatre).
+
+'''Precautions for use'''
+
+To avoid toxicity, you should be aware of the following precautions:
+
+- Slow injection
+
+- Split injection
+
+- Aspiration test before each injection
+
+- Maximum dose of 5 mg/kg for lidocaine

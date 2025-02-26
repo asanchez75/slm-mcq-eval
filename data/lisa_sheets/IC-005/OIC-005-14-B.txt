@@ -1,0 +1,165 @@
+{{knowledge objective
+|Identifiant=OIC-005-14-B
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=B
+|Title=Prevention: understanding the prevention of errors, EIAS, the concept of the safety barrier.
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Bastien Boussat
+|Order=14}}
+
+The management of errors and complaints is an essential element in the prevention of risks associated with healthcare. It is an a posteriori approach to risk. A risk has occurred resulting in harm to a patient. This harm may be real or perceived by the patient.
+
+An in-depth analysis of errors and the reasons for complaints will enable us to identify ways of preventing further errors by implementing improvement measures.
+
+'''Basics of in-depth analysis of error causes'''
+
+'''Reason's model'''
+
+Reason's model (or the Swiss cheese model) is the model most often presented. It has the advantage of drawing attention to the latent causes of an accident, distinguishing between active and latent errors.
+
+This helps us to understand that human error is most often only a consequence of deeper organisational flaws. This model proposes an analysis of undesirable events in successive sequences in which the different levels of defence existing at each stage have been overcome. This concept of successive barriers has now been replaced by a systemic model, which is too complex to be detailed here.
+
+'''Safety barriers'''
+
+Barriers are in-depth defences (protections) against the risk of error. There are three types of safety barriers:
+
+- prevention barriers ;
+
+- recovery barriers ;
+
+- mitigation barriers.
+
+An effective safety system must have all three. Neither recovery nor mitigation barriers should be neglected.
+
+These three types of barriers can be :
+
+- intangible: laws and regulations, instructions, good safety practice, recommendations, procedures and protocols, training programmes, work organisation, etc. ;
+
+- material: physical coding (e.g. special design of medical gas and vacuum connection rings to prevent inappropriate connections of different colours).
+
+'''Prevention barriers'''
+
+They are designed to prevent errors and accidents from occurring: for example, the surgical checklist, an intangible barrier that breaks down into three stages (Box 5.4), or computerised prescribing in a system that provides alerts based on dangerous doses, the patient's clinical and biological condition, drug interactions, etc.
+{| class="wikitable"
+|'''Inset: Operating theatre checklist adapted from the HAS checklist grid, 2011 version''''
+|-
+|'''''Before anaesthetic induction'''''
+
+'''''Pause time before induction'''''
+
+- Verification of :
+
+. patient identity
+
+. procedure and surgical site (patient, records)
+
+. availability of clinical and paraclinical documentation
+
+. knowledge of the installation method, consistent with the site/intervention, not dangerous for the patient
+
+. skin preparation of the patient being operated on, documented in the department/operating theatre liaison sheet
+
+. equipment/materials required for the operation, with no malfunctions
+
+- Cross-check by the risk team :
+
+. allergic
+
+. inhalation
+
+. intubation difficulties
+
+. ventilation
+
+. bleeding
+
+'''Before surgery'''
+
+'''Pause time before incision'''
+
+- Ultimate" cross-check within the team, in the presence of the surgeon(s), anaesthetist(s)/IADE, IBODE/IDE :
+
+. patient identity
+
+. planned intervention
+
+. surgical site
+
+. correct installation
+
+. availability of the necessary documents
+
+- Sharing information orally within the team on the elements at risk/critical stages of the intervention (time out) in terms of :
+
+. surgical
+
+. anaesthetic
+
+- In accordance with current protocols:
+
+. administration of antibiotic prophylaxis
+
+. preparation of the operating field
+
+'''After surgery'''
+
+'''Break before leaving the operating theatre'''
+
+- Oral confirmation by staff to the team:
+
+. of the recorded intervention
+
+. the correct final count of compresses, needles, instruments, etc.
+
+. labelling of samples, operating theatres, etc.
+
+. if any undesirable events or medical risks have occurred: report/notification
+
+- Prescriptions for immediate post-operative care are made jointly by the surgical and anaesthetic teams.
+
+
+N.B: IADE: state-qualified nurse anaesthetist; IBODE: state-qualified operating theatre nurse; IDE: state-qualified nurse.
+|}
+'''Recovery barriers''''
+
+The mistake has been made but recovered before it has any consequences. For example, the patient is allergic to penicillin, which is the antibiotic prophylaxis prescribed before surgery, but the nurse reads about it in the medical record and alerts the prescriber, who changes the prescription.
+
+'''Mitigation barriers'''
+
+The error has been made and has not been recovered. The aim is to limit the consequences for the patient. For example, a patient suffers cardiac arrest as a result of an error in the route of administration made by a nurse. She notifies the senior doctor as soon as she realises the error. The medical team is on site and starts cardiac massage while the SOS cardiac arrest team called in immediately arrives. The electric shock restored cardiac function, and the patient was transferred to intensive care for stabilisation and monitoring. He was discharged the next day.
+
+Root cause analysis
+
+The root causes of a medical error should be sought in the overall context surrounding the undesirable event.
+
+The analysis methods are structured to avoid oversights. The most commonly used methods are the ALARM method and the Orion® method. Root cause analysis methods generally include the following six steps for proper application:
+
+1/ Data collection: semi-structured interviews with all the people present at the time of the event, files, any other documents needed to understand the events;
+
+2/ reconstructing the chronology of the event;
+
+3/ Identifying deviations from recommended practices, without judging against an existing benchmark;
+
+4/ identification of contributing factors: immediate and deep or root causes (boxes 5.5)
+{| class="wikitable"
+|'''Box: Typology of contributing factors or root causes (according to the ALARM method)''''
+|-
+|'''''Factors may be linked:'''''
+
+- the patient: state of health, seriousness of associated illnesses, communication difficulties (language, conflict with carers, etc.), vulnerability of certain patient populations (the elderly, patients with chronic illnesses, children, adolescents, people with disabilities, the underprivileged, etc.);
+
+- the tasks to be carried out ;
+
+- to the team: communication within the team and with the patient in the therapeutic relationship, traceability of information in the patient file, supervision of junior staff undergoing training;
+
+- the working environment: physical (premises, equipment, supplies, etc.) or organisational (availability of qualified human resources, work organisation, working hours, etc.);
+
+- organisation and management: policies for replacing absent staff (no replacement, temporary staff, travel), continuous training, equipment management, etc;
+
+- the institutional context: national and regional public health policies, adverse event reporting systems, etc.
+|}
+5/ Proposed actions to be implemented (accompanied by an action plan) ;
+
+6/ drafting the analysis report.

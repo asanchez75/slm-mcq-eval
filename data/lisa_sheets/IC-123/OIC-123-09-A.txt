@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-123-09-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Title=Knowing the concepts of vulnerability and frailty
+|Description=Knowing the concepts of frailty,
+|Rubric=Definition
+|Contributors=
+|Order=9}}
+The effects of ageing on the body are characterised by the vulnerability of the elderly to certain diseases or attacks, linked to a reduction in the body's reserve capacity. Under basal conditions, with no need to draw on their functional reserves, the elderly remain asymptomatic. However, stress to the body (exertion, stress or acute illness) can reveal the vulnerability of the elderly person, making them symptomatic or leading to a poorer prognosis. Not all elderly people are vulnerable. In addition to the vulnerability induced by ageing (see below), there is also the vulnerability induced by the after-effects of past illnesses and by the consequences of chronic diseases.
+
+Frailty is a measurable geriatric syndrome that provides a more comprehensive picture of the vulnerability of elderly people, based on the presence of at least 3 out of 5 Fried criteria (weight loss, subjective fatigue, reduced physical activity, walking speed, grip strength). Not all elderly subjects are frail. Frailty is associated with a poorer prognosis, functional decline and the risk of institutionalization. The great advantage of the concept of frailty is that it is sometimes reversible and can therefore be improved by targeted interventions such as nutrition, physical activity, social activity, treatment, etc.
+
+Finally, the reduction in functional capacity that occurs with ageing limits the body's responses in stressful situations that require the use of reserve functional capacity. This reduction may be limited and have no consequences for a fully autonomous person who is physically active and interacts well socially, as part of successful ageing. On the other hand, it can make the patient vulnerable to the slightest intercurrent event, particularly when various pathologies are added to the effect of age. This is known as pathological ageing, which is a misnomer and has no precise definition.

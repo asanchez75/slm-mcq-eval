@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-074-25-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Intitle=Psychostimulants: knowing the indications, non-indications and contraindications
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=25}}
+
+{| class="wikitable"
+|+
+|'''Treatment'''
+|'''Methylphenidate''''
+|'''Modafinil''''
+|-
+|'''Indications'''
+|
+*Attention deficit disorder with or without hyperactivity (ADHD) in children over 6 years of age.
+*ADHD in adults for one of the specialities (RITALINE LP)
+*Alternative treatment of narcolepsy when modafinil fails
+|
+*Narcolepsy
+*Idiopathic hypersomnia
+
+
+
+
+|-
+|'''Main CI''''
+|
+*Hypersensitivity
+*Heart failure
+*Heart failure
+*Cardiac arrhythmia
+*Moderate to severe hypertension
+*Angina
+*Cerebrovascular disorders
+*Unstable psychiatric disorders
+*Psychotic disorders
+*Children under the age of six
+*Treatment with MAOIs or sympathomimetics
+*Pregnancy and breast-feeding
+|'''Absolutes'''
+*Hypersensitivity
+*Breast-feeding
+*Cardiovascular disorders: heart valve disease, heart failure, arrhythmia, hypertension
+
+'''Relatives'''
+
+*Pregnancy
+*Dosage adjustment in high-risk areas (e.g. renal insufficiency)
+|-
+|Prescribing principles
+|
+*Initial prescription reserved for hospital doctors (paediatricians, child psychiatrists, psychiatrists, neurologists).
+*In adults, a ''cardiological opinion'' is required before starting treatment with Ritalin LP.
+*Prescription re-evaluated and renewed each year by the ''hospital specialist''.
+*Prescription limited to 28 days (narcotic)
+*Monthly prescription renewal possible by any doctor.
+*In the case of sportspeople, warn them that it is a doping product.
+|
+*Initial prescription limited to hospital doctors (neurologists, pulmonologists, sleep centre doctors).
+*Prescription reassessed and renewed annually by the hospital specialist.
+*Exceptional drug authorisation
+*Cardiovascular check-up with ECG before treatment
+*In the case of sportspeople, warn them that this is a doping product.
+
+
+
+<br />
+|}

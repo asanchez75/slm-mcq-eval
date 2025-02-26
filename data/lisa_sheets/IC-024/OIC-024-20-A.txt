@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-024-20-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing the assessment of a threat of premature delivery
+|Description=Exams to be carried out
+|Heading=Positive diagnosis
+|Contributors=
+|Order=20}}
+''External Tocometry'' and recording of the ''RCF.''
+
+
+Biology :
+
+- CBC, CRP (inflammatory syndrome, chorioamniotitis)
+
+- Bacteriological test: ECBU, cervicovaginal swab
+
+- Fetal fibronectin (for some - prediction of risk of delivery)
+
+- ''group/rhesus/phenotype/RAI:'' in the event of imminent childbirth.
+
+- If there is any doubt about premature rupture of the membranes: carry out a test to confirm rupture, such as IGFBP-1 or PAMG-1.
+
+'''(Cf. [[Reasoned request/prescription and choice of a diagnostic examination SD-178|178. Reasoned request/prescription and choice of a diagnostic examination]] / [[Acute or chronic inflammatory syndrome SD-186|186. Acute or chronic inflammatory syndrome]] / [[Analysis of a urine cytobacteriological examination (ecbu) SD-189|189. Analyse d'un examen cytobactériologique des urines (ECBU)]] / [[Anomalie leucocytes SD-216|216. Anomalie des leucocytes]] / [[Interprétation de l'hémogramme SD-223|223. Interprétation d'un hémogramme]])''
+
+Ultrasound examination :
+
+- fetal biometrics for "fetal weight estimation
+
+- quantity of amniotic fluid
+
+- Cervical ultrasound: measures the cervix for diagnostic (shortened cervix defined by a length < 25 mm) and prognostic purposes.

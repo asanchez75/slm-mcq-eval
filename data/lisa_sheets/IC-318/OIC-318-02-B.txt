@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-318-02-B
+|Item_parent=Chronic lymphocytic leukaemia
+|Item_parent_short=Chronic lymphocytic leukaemias
+|Rank=B
+|Title=Knowing the clonal nature of the disease and the simple means of proving clonality
+|Description=
+|Topic=Physiopathology
+|Contributors=
+|Order=2}}
+Lymphoid leukaemia is a haemopathy and is therefore clonal. This clonality is easily demonstrated by immunophenotyping of blood lymphocytes using flow cytometry, the reference test for diagnosing CLL.
+
+Flow cytometry is used to analyse the expression of membrane or intracellular antigens by cells in suspension, using antibodies coupled to fluorochromes. The clonal nature of the abnormal B population can be demonstrated by analysing immunoglobulin light chains. The normal distribution of light chains is 2/3 kappa and 1/3 lambda. If all the cells in a B population have the same light chain, i.e. expression is monotypic, this indicates the monoclonal nature of the B lymphoid proliferation.
+
+CLL lymphocytes express CD5, which is usually a T lymphocyte marker. The presence of this marker on the surface of the B lymphocyte population is suggestive.

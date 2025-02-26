@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-186-15-A
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Title=Know how to diagnose allergic conjunctivitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=15}}
+Allergic conjunctivitis is one of the most common eye diseases. Ocular symptoms are present in 80% of cases of allergic rhinitis: tearing, redness, itching, etc.
+
+painless'' (see item 83)
+
+Diagnosis is based on :
+
+- clinical signs
+
+- the presence of sensitisation (positive prick tests or detection of allergen-specific IgE antibodies)
+
+- conjunctival provocation testing with the suspected allergen (triggering acute conjunctivitis if allergic) is reserved for research purposes.

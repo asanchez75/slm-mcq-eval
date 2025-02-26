@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-178-07-B
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=B
+|Title=Know the classification of the main biological agents that can be used in a bioterrorism context
+|Description=None
+|Section=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=7}}
+
+Contamination by a bioterrorism agent can be airborne, digestive or cutaneous, depending on the agent. A distinction is made between lethal and incapacitating agents.
+{| class="wikitable"
+|'''Classification of bioterrorism agents'''
+
+'''according to the Centers for Diseases Control and Prevention (United States)''''
+<br />
+|-
+|'''Category A: Lethal disease, highly transmissible or easily disseminated agents'''
+
+Bacillus anthracis, Yersinia pestis, Francisella tularensis
+
+Smallpox virus, Filovirus (Ebola, Marburg), Arenavirus (Lassa, Junin)
+
+Clostridium botulinum toxins (Botulinum toxin)
+<br />
+|-
+|'''Category B: Moderate morbidity and mortality, less easily disseminated agents'''
+
+Coxiella burnetii, Brucella spp, Burkholderia mallei and pseudomallei
+
+Alphavirus (Venezuelan, Eastern and Western equine encephalitis)
+
+Ricin, Clostridium perfringens epsilon toxin, staphylococcal enterotoxin B
+
+Pathogens transmitted to water by food: ''Salmonella spp., Shigella dysenteriae, E.coli O157H7, Vibrio Cholerae, Crypstoridium parvum''.
+<br />
+|-
+|'''Category C: Emerging infectious diseases with potential use (possible production, potentially significant morbidity)'''
+
+Nipah virus, Hantavirus<br />.
+|}
+[[Exceptional health situation SD-346]]

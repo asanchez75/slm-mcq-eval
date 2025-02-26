@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-025-11-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the concept of possible medical treatment in case of asymptomatic EP
+|Description=None
+|Topic=Management
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=11}}
+
+- In asymptomatic patients with no formal indication for surgery
+
+- With an EP visible on ultrasound
+
+- Proposed treatment with an injection of methotrexate in the absence of contraindication:
+
+o Patient-related:
+
+§ Difficulties in understanding
+
+§ Monitoring difficulties (poor compliance, geographical distance or isolation)
+
+§ Breastfeeding
+
+§ Refusal: formal choice of surgical treatment
+
+§ History of homolateral EP treated medically or surgically (risk of failure)
+
+o Related to EP:
+
+§ Lateral uterine mass > 4 c m on ultrasound
+
+§ Tubal rupture, significant haemoperitoneum
+
+o Biological :
+
+§ BHCG > 10 000 IU / L
+
+§ Thrombocytopenia < 50,000 / mm<sup>3</sup>.
+
+§ Leukopenia < 2000 / mm<sup>3</sup>.
+
+§ Anemia with Hb < 9 g/dL
+
+§ Severe renal insufficiency with clearance < 30 mL / min
+
+§ Liver failure
+
+§ Coagulation disorders / anticoagulant treatment (IC injection IM)
+
+- Patient must be informed
+
+o Possible side effects of medical treatment (especially renal, hepatic, cutaneous and respiratory)
+
+o Need for urgent reconsultation in the event of severe abdominal pain or malaise
+
+o Risk of failure of around 25% :
+
+§ Possible need for a second injection OR surgical treatment
+
+§ Tubal rupture requiring emergency surgery
+
+o Post-treatment monitoring: mandatory until BHCG levels are negative
+
+§ Tolerance of methotrexate treatment
+
+§ Effectiveness: decrease with BHCG level at D7 strictly lower than D0 or strictly lower than 85% of β-hCG level at D4 if available.
+
+o There is no delay before trying to conceive again (plasma elimination half-life of 3 - 4 hours).
+
+
+'''([[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient]], [[Prescribe a work stoppage SD-339|prescrire un arrêt de travail,]] [[Writing a prescription/medical letter SD-342|writing a prescription/medical letter]]''''

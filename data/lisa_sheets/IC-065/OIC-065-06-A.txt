@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-065-06-A
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=A
+|Title=Knowing the clinical forms
+|Description=Erotomanic, megalomanic, jealousy, persecution, somatic (delusional hypochondria), mixed.
+|Rubric=Positive diagnosis
+|Contributors=Pierre Vandel
+|Order=6}}
+
+Depending on the theme, different clinical forms.
+
+* Erotomanic delirium: delusional belief in being loved by another person. More common in women.
+* Jealousy: delusional belief that one's partner is unfaithful. More common in men.
+* Megalomaniac delirium: Belief that one is gifted with a little-known talent or power, or that one has made an important discovery.
+* Persecutory delusions: belief in being the victim of a plot / espionage / conspiracy.
+* Somatic delirium: delusions about bodily sensations or functions.
+
+Mixed or undifferentiated forms possible.

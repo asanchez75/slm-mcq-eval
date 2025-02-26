@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-244-07-B
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=B
+|Title=Search for other causes of hyperprolactinaemia in cases of suspected prolactin adenoma
+|Description=To identify iatrogenic and functional hyperprolactinaemia
+|Rubric=Positive diagnosis
+|Contributors=CAZABAT LAURE,CHABRE OLIVIER,BRUE THIERRY
+|Order=7}}
+
+[[File:Diagnostic strategy for hyperprolactinemia.pdf|vignette]]
+  
+Hyperprolactinaemia is "common" (1 to 1.5% of adults)
+
+In the majority of cases, hyperprolactinaemia is caused by drugs.
+
+Diagnostic strategy :
+
+'''1 - Check that hyperprolactinaemia is real'''
+
+Prolactin levels must be checked in a specialist hormone laboratory.
+
+False hyperprolactinaemia is often observed: some assay kits measure aggregates of prolactin ("macroprolactinaemia") giving a falsely high value. Only monomeric prolactin is active.
+
+''And ask yourself '''why''' has prolactin been measured?'' Sometimes "systematically" ...
+
+'''2 - Eliminate pregnancy, medicinal and general causes'''
+
+'''Pregnancy''' (hCG marker) +++( [[Normal pregnancy]])
+
+'''''The most frequent causes of drug-induced illness'''''
+
+Careful history-taking +++ to check for the use of hyperprolactinemic drugs
+
+Table of the main hyperprolactinemic drugs
+{| class="wikitable"
+|Neuroleptics (phenothiazines, haloperidol, sulpride) +++
+|-
+|Antidepressants (Tricyclics and MAOIs)
+|-
+|Metoclopramide, domperidone
+|-
+|Estrogens
+|-
+|Morphinics
+|-
+|Verapamil
+|-
+|Methyldopa
+|}
+
+'''Physiopathology of the different etiologies of hyperprolactinaemia'''.
+
+PRL secretion by the lactotropic cell is permanently inhibited by hypothalamic ''dopamine''.
+
+'''-'''' '''Dopamine receptor antagonists''' (neuroleptics +++) oppose the effects of dopamine. [Suspicion of an adverse drug reaction or SD-348 treatment]]
+
+'''_ '''Disconnection hyperprolactinemia is related to '''interruption of dopamine trafficking'' in the pituitary stalk (section or compression of the pituitary stalk) by a non-lactotropic tumor.
+
+'''- '''Prolactin adenoma (prolactinoma) is a tumour of the lactotropic cells, leading to an '''excessive production of PRL'''
+
+<br />

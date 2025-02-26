@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-128-13-A
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=A
+|Title=Knowing the clinical and biological signs that should lead to a diagnosis of osteomalacia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=13}}
+Clinical manifestations are independent of aetiology.
+
+-Spontaneous pain of insidious onset, mechanical rhythm, initial pelvicrural topography with progressive worsening (increase in intensity, tendency to permanence and topographical extension to the thorax, scapula, spine and limbs).
+
+These pains are the result of :
+
+- fractures or cracks clearly visible on X-rays (Looser-Milkman striae) but also linked to myopathy (see below)
+
+- proximal myopathy in half the cases, with "muscle weakness" and no neurological deficits.
+
+In cases of osteomalacia due to vitamin D deficiency, "biological arguments" are of great diagnostic value and are characterised by :
+
+- a decrease in ''calcaemia'' and phosphataemia;
+
+- hypocalciuria;
+
+- an increase in alkaline phosphatases;
+
+- a drop in 25-hydroxyvitamin D (reserve form), usually < 5 ng/mL;
+
+- hyperparathyroidism secondary to hyperocalcaemia''''''hypocalcaemia''.

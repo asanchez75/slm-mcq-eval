@@ -1,0 +1,108 @@
+{{knowledge objective
+|Identifiant=OIC-131-07-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Knowing the factors contributing to, causes of and risk factors for falls in the elderly.
+|Description=Medications, cardiac, neurological, mechanical causes, intrinsic factors, etc.
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+'''Terminology:'''
+
+A-Favouring factors or risk factors are factors that predispose to falls. They''' represent a chronic vulnerability to the risk of falling. Some of them can be improved and their management can improve balance and walking, and reduce the risk of falling.
+
+B-The precipitating causes or factors represent the acute event responsible for the fall. They may be intrinsic (linked to an acute medical factor) or extrinsic (linked to the environment).
+
+→ More often than not, several favouring factors and several precipitating factors may be present, and it is difficult to know which factor is the primary culprit: all of them must then be corrected, but the chronology of events with the precise reconstruction of the anamnesis AT THE BEGINNING of the falls makes it possible to target the factor(s) most to blame.
+
+A-Predisposing factors
+
+*Age ≥ 80 years
+*Female
+*History of falls and traumatic fractures
+*Symptoms of depression
+*Neurocognitive disorders (see chapter)
+*Protein and energy malnutrition (see malnutrition section)
+*Co-medication (≥5 treatments)
+*drug addiction
+**Psychotropic drugs due to vigilance and attention disorders
+**Anticholinergics due to vigilance/attention disorders
+**Antihypertensives due to arterial hypotension
+**Beta blockers, calcium channel blockers, digoxin for bradycardia
+**Neuroleptics due to parkinsonian syndrome
+
+*Pathologies causing gait and balance problems
+**Neurological disorders (neurovascular, neurodegenerative, hydrocephalus, spinal cord injury, Parkinson's syndrome)
+**Arthrosis of the lower limbs and/or spine, abnormalities of the ankles and feet
+**Impairment of superficial and/or proprioceptive sensitivity of the lower limbs
+**Muscle weakness in the lower limbs
+**Sleep disturbances with possible use of psychotropic drugs
+**Decreased visual acuity and/or peripheral visual field alterations
+
+Examples of predisposing factors that can be improved:
+
+*Visual impairment through cataract surgery +++.
+*Attention deficit in a patient with neurocognitive disorders through cognitive stimulation.
+*Sleepiness and vigilance disorders by fitting a device for severe sleep apnoea syndrome.
+*Reducing the ideological impact of depression through treatment.
+*Lighter prescriptions to improve heart rate, blood pressure and alertness.
+*Parkinsonian rigidity by adapting treatment and physiotherapy.
+*Pain caused by gonarthrosis, with appropriate analgesics or even infiltration.
+*Age-related effort maladaptation by physiotherapy.
+
+'''B-Precipitating factors:''''
+
+These factors represent the "acute event" responsible for the fall (table). They can be intrinsic (linked to an acute medical factor) or extrinsic (linked to the environment). Among the intrinsic factors, behavioural elements should be sought because they can be improved through education.
+{| class="wikitable"
+| colspan="2" |'''1A. INTRINSEQUES'''
+|-
+|Cardiovascular
+|Rhythm or conduction disorders
+
+Acute coronary syndrome
+
+Pulmonary embolism,
+
+Syncope over a narrow aortic stenosis, carotid sinus syndrome, vagal malaise, situational syncope
+
+Orthostatic hypotension
+|-
+|Neurological
+|Stroke/TIA (transient or permanent sensory-motor deficit)
+
+Confusional syndrome
+
+Convulsive seizure
+|-
+|Vestibular
+|Vertigo, instability, nystagmus
+|-
+|Infectious diseases
+|Hyperthermia, hypovolaemia, dehydration, hypoxaemia
+|-
+|Metabolic diseases
+|Hypoglycaemia, Hyponatremia, Dehydration, Hypercalcaemia
+|-
+|Toxic
+|Alcohol intoxication, withdrawal
+|-
+|Drug abuse
+|'''Look for the recent introduction, cessation or change in dosage of a treatment'''
+
+Confusion, hypovigilance: introduction of an anticholinergic, neuroleptic or other psychotropic drug?
+
+Orthostatic hypotention, bradycardia, syncope: antihypertensives, beta blockers, calcium channel blockers, digoxin
+
+Dehydration: diuretics?
+|-
+| colspan="2" |'''1B. BEHAVIOURAL
+|-
+|Risk-taking
+|Lifting too quickly, using an unstable stepladder or stool
+|-
+| colspan="2" |'''2. EXTRINSEQUES'''
+|-
+|Unsuitable environment
+|Faulty lighting, wet floor, cluttered environment - unsuitable clothing/shoes...
+|}

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-267-38-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the main complementary tests useful in the aetiological diagnosis of hypocalcaemia
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=P. Rieu,B. Moulin,M. Flamant
+|Order=38}}
+
+*The reasoning behind hypocalcaemia is based on a few simple biological tests:
+**total calcium
+**ionised calcium and/or albumin
+**serum phosphate
+**plasma parathyroid hormone (PTH)
+**vitamin D (25 OH vitamin D) and calcitriolemia (1.25 OH vitamin D)
+**24-hour calciuria
+
+*The diagnostic approach consists of distinguishing
+**hypocalcaemia with low PTH (<10pg/mL) and therefore inadequate PTH. This is known as hypocalcaemia of parathyroid origin.
+**hypocalcaemia with high PTH (>65 pg/mL) and therefore adapted. This is referred to as hypocalcaemia of extraparathyroidal origin.
+
+<br />

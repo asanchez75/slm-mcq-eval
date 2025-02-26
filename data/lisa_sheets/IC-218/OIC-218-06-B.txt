@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-218-06-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the pathologies to consider when faced with an eosinophilia in the context of asthma
+|Description=EGPA, ABPA, Widal's triad, ...
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+'''Eosinophilia + asthma :'''
+
+- Fernand Widal syndrome (or triad): nasosinusal polyposis with asthma in association with acetylsalicylic acid or non-steroidal anti-inflammatory drugs (NSAIDs).
+
+- ''Eosinophilic granulomatosis with polyangiitis'' (GEPA, formerly Churg-Strauss vasculitis): severe asthma with late onset, pulmonary infiltrates on computed tomography (CT), nasosinus polyposis, then systemic manifestations of vasculitis.
+
+- Allergic bronchopulmonary aspergillosis (ABPA) (type I hypersensitivity (IgE mediated) to colonisation by Aspergillus fumigatus): long-standing asthma, cough and expectoration of bronchial moulds (mycelial plugs). Signs suggestive of the disease: very marked elevation of total serum IgE; massive hypereosinophilia; various chest X-ray images; presence of specific anti-Aspergillus IgE.
+
+- Löffler's syndrome'' (migration of larvae into the lung parenchyma): asthma or ''[[Dyspnoea SD-162|dyspnoea]]''', ''[[Cough SD-167|cough]]''', fever, labile radiological infiltrates, often peripheral.

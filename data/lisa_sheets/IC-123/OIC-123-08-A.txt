@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-123-08-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Title=Knowing the definition of ageism
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+Ageism can be defined as any form of age discrimination against older people. In medical practice, this attitude is characterised by an overemphasis on the importance of age in the discussion, without sufficiently and objectively taking into account the patient's resilience. The result is a loss of opportunity for the elderly patient. It is often encountered in a context of demand for so-called "heavy" care, such as intensive care or invasive exploration, and particularly during periods of health tension, when access to care is more difficult.  

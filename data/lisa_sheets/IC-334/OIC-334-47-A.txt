@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-334-47-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the symptoms to suspect spinal cord injury
+|Description=Injury syndrome, sub-injury syndrome
+|Rubric=Identification of the emergency
+|Contributors=CFCOT
+|Order=47}}
+
+Traumatic spinal cord injury may be complete or partial, resulting from compression or transection.
+
+1. lesion syndrome
+
+* Refers to the ''site of the lesion'': spinal cord and roots affected at the level of the lesion with absence of reflex circuit with a clinical picture of peripheral involvement :
+** '''Flaccid paralysis'' of muscles controlled from the affected spinal cord and/or the roots which originate from it
+** '''Sensory impairment'''
+** Abolition of osteotendinous reflexes.
+* The ''lesion level'' is assessed by examining epicritic sensitivity per dermatome, bilaterally, noting whether it is complete or incomplete. The lesion level corresponds to the ''first metamerism affected''.
+
+
+'''2.        Subinjury syndrome'''
+
+* Suffering of the spinal cord below the lesion, comprising in isolation or in various combinations:
+** A '''pyramidal syndrome'''
+*** Loss of fine voluntary movements.
+*** Diffuse sharp osteotendinous reflexes.
+*** Anomaly of cutaneous reflexes (Babinski sign, Hoffman sign).
+*** Spastic hypertonia.
+*** Epileptoid trepidation of the foot, clonus of the patella.
+** Motor deficit.
+** Posterior cord syndrome (proprioceptive deficit),
+** Spinothalamic syndrome (thermoalgesic deficit, sometimes with distortion, delay and diffusion of the stimulus).
+** Sphincter disorders: dysuria and reflex incontinence, constipation and recto-anal dyschesia.
+* Spinal shock:
+** '''Temporary spinal cord sideration''' (a few days) sometimes observed in the acute post-traumatic phase (always present in cases of complete spinal cord injury) associating flaccid para/tetraplegia, total sub-lesional anaesthesia and retention of urine and faeces.
+** Complete spinal cord injury can only be confirmed with certainty once the spinal shock has resolved.
+* Concussion: mimics acute spinal cord injury but recovers within a few hours. No anatomical lesion.

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-345-07-B
+|Item_parent=Severe discomfort in infants and unexpected infant death
+|Item_parent_short=Severe discomfort in infants and unexpected infant death
+|Rank=B
+|Item_parent_short=Severe malaise in infants and unexpected infant death
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+The aetiological investigation should begin with a thorough interview, including the following steps:
+
+- Personal and family history, allergies, treatments, lifestyle, childcare arrangements, eating habits, etc.
+
+- Depending on age: progress of pregnancy, childbirth, adaptation to life outside the womb, risk factors for maternal-foetal infection, etc.
+
+- Rigorous examination of the health record (weight curves, vaccinations, etc.)
+
+- Circumstances of the illness: notion of trauma, toxic intake. BEFORE (what was the child doing) DURING (precise description of the illness) AFTER (how did the child recover).
+
+- Associated signs: fever, respiratory signs, digestive signs
+
+This is followed by a rigorous device-by-device clinical examination

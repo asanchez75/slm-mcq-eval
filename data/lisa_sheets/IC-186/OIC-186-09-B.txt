@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-186-09-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the algorithm for the diagnostic and therapeutic management of food allergy to allergens crossing with pneumallergens
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=9}}
+Cross-allergies between respiratory and food allergens can be explained by the ''recognition, by a patient's specific IgE antibodies'', of '''similar'' or highly homologous allergens present in '''distinct allergenic sources'' (respiratory and food).
+
+The most common clinical picture is that of an "oral syndrome" (labial or lingual oedema, oral or pharyngeal pruritus, labial, lingual or palatal erythema) after eating fruit in a patient with a pollen allergy.
+
+
+For example: - birch, apple and other raw fruit and vegetable pollens ;
+
+- cypress, peach and sometimes citrus pollens.
+
+- egg-bird syndrome (induction of egg allergy by the respiratory route by feathers or bird droppings);

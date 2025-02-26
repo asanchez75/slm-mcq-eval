@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-240-04-A
+|Item_parent=Hypoglycaemia in adults and children
+|Item_parent_short=Hypoglycaemia in adults and children
+|Rank=A
+|Title=How to recognise a hypoglycaemic coma
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=4}}
+'''Characteristics of hypoglycaemic coma:'''
+
+* variable depth, up to very deep comas
+* sudden onset
+* often agitated
+* profuse sweating
+* signs of pyramidal irritation
+* hypothermia
+* rapid and complete disappearance of symptoms after re-sugaring with glucose
+
+[Coma and consciousness disorders SD-028

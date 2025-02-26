@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-116-03-A
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=A
+|Title=Knowing how to diagnose pruritus
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Pruritus is diagnosed clinically, based on questioning. It may be confirmed by the existence of non-specific skin lesions following scratching: excoriations, ulcerations. Prurigo is a disease secondary to the vicious circle of pruritus/scratching/pruritus and the autonomisation of pruritus, leading to nodule- or papule-like lesions.
+
+<br />

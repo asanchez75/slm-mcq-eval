@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-027-27-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Knowing the diagnosis of antierythrocyte alloimmunisation
+|Description=Biological tests and their indications for diagnosing alloimmunisation
+|Rubric=Positive diagnosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=27}}
+All pregnant women should have their rhesus group phenotype determined and irregular agglutinins (antibodies) tested (RAI) during the 1st trimester of pregnancy.
+
+In RhD-negative women (Rh-) or women who have previously received blood transfusions, IATs will be prescribed again at the 6th, 8th or 9th month.
+
+In the event of a positive IAT, the antibody must be identified and titrated. Identification is used to determine whether the antibody in question is a risk factor for foetal or neonatal complications (anti-D in particular, but also anti-Kell, anti-c, etc.). Titration and weight assay are used to assess the affinity and quantity of the antibody.
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''

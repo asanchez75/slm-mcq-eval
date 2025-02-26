@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-135-16-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=Knowledge of non-drug management
+|Description=Know the different non-drug analgesic approaches and their levels of evidence: acupuncture, hypnosis, manual and physical medicine, osteopathy, psychotherapy, cognitive-behavioural therapies/Principles inspired by conversational hypnosis for all: distraction, choice of words, approach to patients with pain or who have undergone a potentially painful procedure/neurostimulation.
+|Rubric=Management
+|Contributors=
+|Order=16}}
+'''<u>Neurostimulation techniques</u>''''
+
+- Neurostimulation techniques involve stimulating pain pathways to obtain analgesic benefits.
+
+- Their level of evidence based on clinical studies is considered acceptable ("weak for" according to current classification systems) in several pain indications.
+
+
+Non-invasive neurostimulation
+
+- '''Stimulation électrique transcutanée''' (transcutaneaous electrical nerve stimulation: TENS): technique using portable devices, consisting of transmitting electrical impulses close to the painful area via skin electrodes, available for self-use after therapeutic education. Mainly validated for: peripheral neuropathic pain (1st</sup> intention for this type of pain); lower level of evidence for: musculoskeletal pain, post-operative pain and headache. Reimbursement if prescribed by chronic pain structures.
+
+- '''Stimulation magnétique transcranienne répétitive du cortex moteur''' (repetitive transcranial magnetic stimulation: rTMS): repetitive stimulation of the primary motor cortex using transcranial magnetic pulses. Several sessions required in hospital. Mainly validated for: neuropathic pain and fibromyalgia refractory to analgesic treatments. No official indication for analgesia.  
+
+Invasive neurostimulation techniques
+
+- As part of multidisciplinary management following psychological advice, and concerns certain chronic pain refractory to 1st and 2nd<sup>line</sup> treatments. Includes:
+
+- Spinal cord stimulation: consists of inserting a stimulation electrode in the lumbar region, connected to a stimulator which is then implanted (if effective). Mainly validated for: chronic painful radiculopathies, painful neuropathies (especially diabetes), complex regional pain syndrome, ischaemic pain.
+
+- '''Occipital nerve stimulation''': Involves stimulating the occipital nerves using a subcutaneous electrode connected to a stimulator. Mainly used for: chronic migraines, facial vascular pain, Arnold's occipital neuralgia.
+
+- '''Other techniques''' (rare to very rare) : Peripheral nerve stimulation, epidural stimulation of the motor cortex, deep brain stimulation: may be offered in certain refractory neuropathic pain by specialised teams.
+
+'''<u>Psychotherapies</u>''''
+
+- Techniques designed to relieve the patient's psychological suffering within the framework of an interpersonal relationship that takes into account the multidimensional nature of pain.
+
+- Among these techniques, Cognitive Behaviour Therapy (CBT) and mindfulness meditation have the highest level of evidence for chronic pain.
+
+- First- and second-generation CBT approaches pain as a behaviour that is acquired and maintained, while 3rd-wave CBT adds mindfulness meditation, which helps to distinguish pain from the emotional suffering it generates and to improve sleep.
+
+
+'''<u>Manual and physical medicine</u>''''
+
+- A major therapeutic approach aimed at restoring motor function and mobility and combating pain through a personalised programme.
+
+- May include stress muscle reconditioning.
+
+- High level of evidence: fibromyalgia, spinal pain, painful spasticity, painful sequelae of nerve damage.
+
+
+'''<u>Complementary pain management techniques</u>''''
+
+- These include relaxation, hypnosis, acupuncture and osteopathy. Although often essential to a multimodal approach to pain, their level of evidence is generally low in chronic pain.
+
+'''Relaxation'''
+
+- Technique consisting of inducing a state of muscular relaxation and a more or less profound modification of the state and level of consciousness for therapeutic and preventive purposes. Mainly validated for musculoskeletal pain.
+
+'''Hypnosis'''
+
+- A state of psychological functioning in which a subject, in a relationship with a practitioner, experiences an expanded field of consciousness enabling the patient to defocus their attention from the pain or to modify their perceptions.
+
+- Often combined with relaxation.
+
+- Conversational" hypnosis consists of inducing a modified state of consciousness via conversation and using the principles of suggestion through the caregiver's speech. Mainly validated for acute pain, such as post-operative pain, or the prevention of prodecutal pain, less validated for chronic pain.
+
+'''Acupuncture'''
+
+- A technique based on the stimulation of specific points, using several physical techniques.
+
+- Validated for localised musculoskeletal pain (particularly common spinal pain)
+
+Osteopathy and osteopathic manual medicine
+
+- Practice aimed at diagnosing and treating a minor mechanical and/or reflex dysfunction of a joint or soft tissue structure.
+
+- Used for common spinal pain (without signs of severity) in the acute phase, and as adjunctive treatment for chronic spinal pain, but without proof of efficacy.
+
+- Contraindicated and sometimes dangerous in pathologies where there is a risk of neurological or vascular damage during handling.

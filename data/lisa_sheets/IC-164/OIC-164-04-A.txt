@@ -1,0 +1,107 @@
+{{knowledge objective
+|Identifiant=OIC-164-04-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Title=Infectious eruptive diseases: measles
+|Description=epidemiology (A), prevention (A), clinical features (A), signs of severity (A), complications (A), principles of case management (A)
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=4}}
+
+'''Epidemiology:''''
+
+- the measles virus is an RNA virus belonging to the Paramyxoviridae family and the Morbillivirus genus
+
+- human-to-human transmission by air (aerosol) ''highly contagious'' (R<sub>0</sub>= 15 to 20, which means that one infected person can be responsible for 15 to 20 secondary cases)
+
+- ''major cause of infant mortality in the world'' (death rare in high-income countries)
+
+- '''regular outbreaks of epidemics in France'' (cf public health)
+
+
+'''Prevention:'''
+
+- Vaccine prevention through MMR vaccination: compulsory for under-2s (12 and 16-18 months), then catch-up vaccination if not immune or incomplete in subjects born after 1980 (2 doses) (see vaccination).
+
+- around a case (see below)
+
+- community eviction: 5 days after the start of the rash
+
+- '''mandatory declaration'''
+
+
+Clinical features
+
+- incubation 10-12 days
+
+- Contagiousness: 5 days before to 5 days after the rash (important ++ for case investigation)
+
+- in 2 phases
+
+o invasion (preceding eruption by 2 to 4 days): fever, oculorespiratory ''catarrh'' (''TOUX++''), ''Koplik'' (inconstant)
+
+o eruptive (5-6 days): ''maculopapular'' rash with ''interval of healthy skin'', spreading from ''top to bottom'' (starts behind ear then face then rest of body)
+[[File:Measles.jpg|neant|thumb]]
+
+
+'''Complications'''
+
+Linked to the virus
+
+           - viral ''pneumonia
+
+           - '''early acute encephalitis'''
+
+           - late-onset encephalitis (up to 10 years after measles) = Van Bogaert's subacute sclerosing panencephalitis
+
+
+Linked to bacterial superinfection (!!! persistence or recurrence of fever)
+
+           - acute otitis media
+
+           - bacterial pneumonia
+
+
+'''!!! : Increased risk of complications before 1 year'''
+
+
+'''Signs of seriousness'''
+
+linked to infection
+
+- respiratory (respiratory distress due to lung damage)
+
+- neurological (consciousness disorders, convulsions, linked to encephalitis)
+
+related to the impact (risk of dehydration in infants)
+
+
+'''Treatment'''
+
+Symptomatic
+
+Antibiotics if bacterial superinfection
+
+
+'''CAT around a case'''
+
+           Adults: check status: disease or vaccine, vaccination within 3 days if not immune or incomplete vaccination according to recommendations (2 doses if born after 1980 or if healthcare or early childhood staff regardless of date of birth) (see vaccination).
+
+           Pregnant woman or immunosuppressed: contraindication to vaccination, IV polyvalent immunoglobulin (200 mg/kg) if non-immune, emergency serology if in doubt.
+
+           Child
+
+                      - < 6 months :
+
+                                  if mother is immune: nothing (baby protected by maternal antibodies, so no vaccine or IVIG)
+
+                                  if mother not immune: IVIG within 6 days of contact (then 9 months before starting vaccination)
+
+                      - from 6 to 11 months :
+
+                                  if seen within 3 days: vaccination (but this does not count in the calendar, so repeat doses according to the calendar at 12 and 16-18 months)
+
+                                  if seen after 3 days and before 6 days: IVIG (followed by a 9-month delay before starting vaccination)
+
+                      - 12 months and over: update of vaccination schedule according to recommendations ([[Vaccinations]])

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-078-13-B
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=B
+|Title=Know the indications for biological examinations
+|Description=None
+|Heading=Complementary examinations
+|Contributors=
+|Order=13}}
+No specific biological tests other than as part of a standard work-up
+
+Qualitative and quantitative urinalysis of toxic substances (cannabis, opiates, cocaine, amphetamines, benzodiazepines, etc.)

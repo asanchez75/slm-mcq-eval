@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-224-17-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing the particularities of anti-hypertensive treatment for patients over 80 years of age
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=17}}
+In patients aged 80 and over:
+
+- the blood pressure target is even more individualised, with a recommended threshold of BP < 140/90 mmHg, to be adapted to the patient's tolerance, particularly in the absence of orthostatic hypotension
+
+- dual therapy should be avoided from the outset
+
+- Iatrogenicity is kept to a minimum, with no more than 3 active antihypertensive agents.

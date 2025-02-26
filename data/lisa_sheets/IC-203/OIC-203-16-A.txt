@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-203-16-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the imaging exploration strategy for acute dyspnoea in children
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=16}}
+The aetiological diagnosis of acute respiratory distress in children is primarily clinical. Upper airway obstruction does not give rise to any imaging indications.
+
+A frontal inspiratory chest X-ray is not systematically indicated. It must be justified on the basis of clinical signs suggestive of parenchymal pathology (pneumopathy) or pleural pathology (pneumothorax, pleurisy), and is not systematic in cases of bronchiolar pathology (asthma). The indication for a CT scan and the way in which it is performed should be discussed by a multidisciplinary team, depending on the clinical data, the information provided by the imaging performed and the information expected from the CT scan.
+
+If there is any doubt about the presence of an intrabronchial foreign body, an inspiratory and expiratory frontal chest X-ray is essential.
+
+Cardiac ultrasound is performed on the basis of clinical evidence of tachycardia, hepatomegaly and murmur.

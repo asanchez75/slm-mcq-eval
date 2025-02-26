@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-365-08-B
+|Item_parent=Surveillance of a patient in plaster/resin
+|Item_parent_short=Surveillance of a patient in plaster/resin
+|Rank=B
+|Title=Knowing the emergency management of limb ischaemia under restraint
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=8}}
+In the event of a suspected complication in a cast, at the very least a wide opening should be made and, more often than not, the cast should be removed as a matter of urgency.

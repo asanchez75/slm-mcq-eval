@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-152-01-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Know the definition of infective endocarditis (IE)
+|Description=None
+|Rubric=Definition
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=1}}
+
+Infective endocarditis (IE)'' is an ''infection of the endocardium most often affecting one or more native heart valves'' but can also affect the parietal endocardium or prosthetic material (valve prosthesis, pacemaker leads, etc.).
+
+It is most often linked to a bacterial infection, and more rarely to a fungus.
+
+It is secondary to the ''blood circulation of the infectious agent'' ([[Sepsis/Bacteremia/Fungemia of adults and children|bacteremia]], [[Sepsis/Bacteremia/Fungemia of adults and children|fungemia]]), originating from a portal of entry, and secondarily infecting the cardiac valvular endothelium.
+
+There are [[Know how to identify the main visceral disorders of LS 2C-194-DP-B01|endocarditis of non-infectious origin]].

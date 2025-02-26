@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-13-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the main complementary tests for depressive syndrome
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=El-Hage Wissam
+|Order=13}}
+
+Blood work-up: [[Haemogram in adults and children: indications and interpretation|NFS]], platelets, blood glucose, ionogram, blood calcium, [[Acute or chronic inflammatory syndrome SD-186|CRP]], TSHus, complete liver work-up, urea, creatinemia. Urinary toxins ([[Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs (see item 322)|cannabis]], cocaine, opiates, amphetamines). Other tests as indicated by [[Clinical examination|clinical findings]] (brain MRI, EEG).

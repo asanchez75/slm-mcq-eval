@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-155-04-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Photographs of a typical example of these mycoses
+|Description=These images must be the most classic
+|Rubric=Multimedia content
+|Contributors=
+|Order=4}}
+<gallery>
+File:Fig 1 155.jpg|Figure 1. candidal perlchea
+File:Fig 2 155.jpg|Figure 2. Candida thrush
+File:Fig 3 155.jpg|Figure 3. Candidiasis vulvovaginitis
+File:Fig 4 155.jpg|Figure 4. Candida intertrigo of the great folds
+File:Fig 5 155.jpg|Figure 5. Candidiasis peri-onyxis
+File:Fig 6 155.jpg|Figure 6. Dermatophytes of the hairless skin
+File:Fig 7 155.jpg|Figure 7. Microsporic ringworm
+File:Fig 8 155.jpg|Figure 8. Dermatophytic intertrigo of the great folds
+File:Fig 9 155.jpg|Figure 9. Dermatophytic intertrigo between toes
+File:Fig 10 155.jpg|Figure 10. Onychomycosis
+</gallery>

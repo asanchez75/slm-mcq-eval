@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-352-03-B
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=B
+|Title=Knowing the risk factors and psychophysiological mechanisms
+|Description=Vulnerability, stress factors, anxiety disorders, hyperventilation
+|Rubric=Etiologies
+|Contributors=El-Hage Wissam
+|Order=3}}
+
+Genetic, environmental (stress, substance use) and temperamental (negative affectivity, sensitivity to stress) risk factors. PA involves biological factors such as dysfunction of certain neurotransmitters (cholecystokinin, sodium lactate), psychological factors (catastrophic cognitions) and environmental factors (anxiety of family and friends). Certain symptoms are linked to the hypocapnia secondary to hyperventilation (dizziness, paresthesias).

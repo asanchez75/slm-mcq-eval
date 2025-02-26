@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-103-08-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Knowing the main causes of single prolonged vertigo
+|Description=Vestibular neuritis, vertebro-basilar stroke, translabyrinthine fracture of the rock, infectious labyrinthitis
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+'''I Vestibular "neuritis": isolated vestibular syndrome'''
+
+- acute unilateral idiopathic vestibular deficit (most often presumed to be viral in origin)
+
+- abrupt onset of a purely "isolated" peripheral vestibular syndrome with no auditory or neurological signs other than involvement of the vestibular VIII with no vascular, infectious, traumatic or tumour-related cause found
+
+
+II Associated vestibular syndromes (vertigo + ....)
+
+*'''Vertigo + neurological signs: Vascular accident of the posterior cranial fossa (vertebral artery, basilar trunk)''''
+
+- acute unilateral vestibular deficit of ischaemic or haemorrhagic origin
+
+- sudden onset of central vestibular syndrome, most often associated with neurological signs (Wallenberg syndrome, cerebellar syndrome) and [[Headache SD-118|Headache]].
+
+- vertigo may be the first or only neurological sign
+
+*'''Vertigo + traumatic context:''' '''translabyrinthine fracture of the rock''''
+
+The diagnosis is made easily by the severe ''post-traumatic'' context, usually TC-PC (traumatic brain injury-loss of consciousness).
+
+Fracture of the labyrinth during a rock fracture causes total deafness and severe dizziness. [Otorrhea SD-154|Otoliquorrhea]], cerebrospinal rhinoliquorrhea, otorrhagia, very easily point to the diagnosis.
+
+<br />
+
+*Vertigo + otoscopic abnormality: Labyrinthitis
+
+- Acute cochleovestibular damage
+
+- Causes : Acute infectious labyrinthitis (AOM, infectious outbreak on cholesteatoma, cholestomatous labyrinth fistula)
+
+- Etiological diagnosis is by otoscopy +++.
+
+<br />

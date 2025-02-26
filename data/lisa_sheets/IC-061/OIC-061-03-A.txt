@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-061-03-A
+|Item_parent=Knowing the basic classifications of mental disorders from children to the elderly
+|Item_parent_short=Know the basic classifications of mental disorders from children to the elderly
+|Rank=A
+|Title=Know the criteria for defining a mental disorder
+|Description=Positive signs Temporal evolution Suffering and repercussions Elimination of a more probable diagnosis
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notre-Dame
+|Order=3}}
+
+'''3. Criteria for defining a mental disorder (rank A)'''
+
+
+- Semiological/diagnostic criteria generally grouped into syndromes
+
+- Temporal criteria: evolution over time (e.g. break with previous state)
+
+- Functional criteria (impact of symptoms)
+
+*Impact on autonomy → disability [[Childhood disability in France 2C-056-PE-B01]]
+*Psychological distress
+*Impairment of quality of life
+
+- Elimination of a differential diagnosis
+
+*Other mental disorder
+*Somatic pathology (may require additional tests)

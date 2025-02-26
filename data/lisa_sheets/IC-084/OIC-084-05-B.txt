@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-084-05-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Know the two clinical forms of primary open-angle glaucoma: elevated intraocular pressure (IOP) and normal IOP.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+In primary open-angle glaucoma (POAG), intraocular pressure (IOP) is generally high (70 to 80% of cases of POAG in the West), but sometimes within normal limits. This is known as "normal pressure OOPD": the IOP is normal throughout the day, and the damage is linked to circulatory problems in the optic nerve head. The diagnosis is based on the other clinical signs: papillary excavation and visual field alterations.

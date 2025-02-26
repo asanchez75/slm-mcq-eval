@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-194-11-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=Knowing the main autoantibodies (excluding AAN) and biological abnormalities in LS
+|Description=Standard blood and urine biology, autoantibodies and complement
+|Section=Additional tests
+|Contributors=
+|Order=11}}
+'''CRP (elevation of C-reactive protein (CRP))''' not very high during attacks of LS, except for seritis, infection or thrombosis ('''acute or chronic inflammatory syndrome'').
+
+'''Haemogram''': '''cytopenias (interpretation of the haemogram)''', most often of autoimmune origin: '''anaemia (drop in haemoglobin''') autoimmune haemolytic, '''thrombocytopenia''' immunological ('''platelet abnormality''') responsible for haemorrhagic syndrome primarily cutaneous ('''purpura/ecchymosis/haematoma'''), '''leucopenia''' moderate which may correspond to neutropenia and/or lymphopenia ('''leucocyte abnormality''). 
+
+'''Haemostasis''': '''prolongation of''' '''activated partial thromboplastin time (APTT)''' in the presence of a lupus-type circulating anticoagulant.
+
+'''Créatininémie''': '''élévation de la créatininémie''' in cases of kidney damage.
+
+Hypoalbuminemia
+
+''Hypocomplementaemia'' (decrease in CH50, C3 and C4 fractions) often observed during attacks of LS.
+
+'''Urinary tests:''' '''proteinuria''' '''> 0.5 g/g creatininuria''' ('''or > 500 mg per 24 h)''', microscopic '''haematuria''' ('''urinary sediment analysis''').

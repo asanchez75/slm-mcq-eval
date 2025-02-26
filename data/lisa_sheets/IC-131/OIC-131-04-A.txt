@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-131-04-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Description=Know the different clinical manifestations of a gait disorder and their etiologies.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The clinical examination of gait should be carried out systematically in the elderly, particularly and at least during an initial consultation, as gait disorders can :
+
+*- testify to pre-existing pathologies
+*- be at risk of complications
+*- require rehabilitation and/or technical aids, or even home help
+
+
+'''How to proceed:'''
+
+1- Have a space clear enough for the person to walk barefoot for a short distance in a straight line and turn around.
+
+2- Conduct of the examination and inspection of the walk'':
+
+*At the start of walking: astasia-abasia of frontal or lacunar origin, or linked to hydrocephalus at normal pressure.
+*Ataxic, lateralized and/or stellate gait of vestibular origin.
+*pseudo-ebriated ataxic walking of cerebellar origin
+*Ataxic heeling gait of proprioceptive origin
+*Spastic walking with mowing of unilateral pyramidal origin
+*Spastic spasmodic walking of bilateral pyramidal origin
+*Paretic walking with stepping of L4-L5 or SPE origin
+*Paretic waddling gait of pelvic origin
+*Parkinsonian walking (slow, small steps, loss of arm swing, decomposed U-turn, freezing, festination, kinetic entrapment)
+*Apraxic walking (small, shuffling steps stuck to the ground) associated with normal pressure hydrocephalus, frontal damage, subdural haematoma.
+*painful claudic gait with gait perimeter of vascular (AOMI) or spinal cord origin
+*Walking with an avoidance limp of painful osteoarticular origin
+*Walking with deficient limp due to neurological pathology
+
+3- Neurological examination:
+
+*focal motor and/or sensory deficit
+*unilateral (stroke) or bilateral (lacunar, spinal cord compression, etc.) pyramidal syndrome (SDS-121)
+*Parkinsonian syndrome
+*peripheral or central vestibular syndrome (SDD-064, SDD-130)
+*cerebellar syndrome (SDD-064, SDD-130)
+*radicular syndrome, polyneuropathy (motor skills, sensitivity)
+*myogenic or myasthenic syndrome or motor neuron syndrome.
+
+4- Osteoarticular examination to look for gonarthrosis, coxarthrosis (SDD-067, SDD-070).
+
+5- ''Search for a visual deficit, attentional problems''.
+
+<br />

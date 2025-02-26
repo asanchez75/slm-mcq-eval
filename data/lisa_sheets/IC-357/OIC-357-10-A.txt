@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-357-10-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Knowing the radiological examinations to be carried out when peritonitis is suspected
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=10}}
+
+
+*In adults, the only radiological examination to be carried out when peritonitis is suspected is an abdomino-pelvic CT scan, with contrast injection ("''[[Rational request/prescription and choice of a diagnostic examination SD-178|rational request/prescription and choice of a diagnostic examination]]'').
+
+*In children, abdominal ultrasound is the 1st-line examination.

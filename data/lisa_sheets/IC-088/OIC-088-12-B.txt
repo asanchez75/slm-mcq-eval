@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-088-12-B
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=B
+|Title=Identifying dysphonia and dysarthria in Parkinson's syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+In parkinsonian syndrome, dysarthria is in the foreground with a monotonous voice.

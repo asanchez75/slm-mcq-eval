@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-286-02-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Title=Know the definition of dysenteric syndrome
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+
+Dysenteric syndrome indicates the presence of lesions of the colonic or ileocolic mucosa (ulcers or ulcerations), most often caused by an infectious agent (entero-invasive germ), or more rarely by another inflammatory, toxic or ischaemic mechanism.
+
+Rectal syndrome is a sign that the disease is confined to the rectum.
+
+In both cases, there are pathological afecal evacuations: mucous and/or bloody and/or accompanied by mucus and/or pus with false needs.
+
+There may be tenesmus (painful tension in the anal region following or preceding evacuation) and a sensation of a rectal foreign body.
+
+If the sigmoid is affected, there may be epiduritis (spasm-like pain in the left iliac fossa) which precedes evacuation and is relieved by it.
+
+In the case of rectal syndrome, constipation may occur. In the case of more extensive involvement of the colon, diarrhoea (sometimes with blood) may occur.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-043-03-A
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=A
+|Title=Differentiating between organic and functional causes
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+Functional causes of genital haemorrhage are only considered once all organic aetiologies have been ruled out (diagnosis of elimination).

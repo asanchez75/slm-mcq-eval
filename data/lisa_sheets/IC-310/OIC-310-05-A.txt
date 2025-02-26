@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-310-05-A
+|Item_parent=Prostate tumours
+|Item_parent_short=Prostate tumours
+|Rank=A
+|Title=Knowing the main clinical presentations of prostate cancer
+|Description=Knowing that most prostate cancers are asymptomatic, knowing how to suspect advanced prostate cancer in the presence of urinary retention, renal failure or diffuse bone metastases, knowing that haemospermia is not a sign of prostate cancer.
+|Rubric=Positive diagnosis
+|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU
+|Order=5}}
+
+==Localized prostate cancer:==
+
+*Typically asymptomatic.
+*Normal DTR or finding of a nodule or induration.
+*Diagnosed on prostate biopsies taken for elevated PSA.
+*Urinary symptoms may be associated, generally with a concomitant prostate adenoma. These should be investigated as they may influence treatment.
+*Does not cause sexual problems
+*Does not generally lead to haemospermia
+
+==Locally advanced prostate cancer:==
+
+*Diagnosed by digital rectal examination or by an increase in PSA.
+*Micturition problems related to urethral obstruction by cancer
+*Beware of the risk of URO due to urethral obstruction and acute obstructive renal failure (due to URO or ureteral obstruction due to invasion of the trigone).
+
+==Metastatic prostate cancer:==
+
+*Impaired general condition, asthenia, anaemia due to bone marrow invasion
+*Bone pain that may indicate bone metastases
+*Non-traumatic spinal cord compression and cauda equina syndrome|Neurological signs due to compression 93 (paresthesia or even paraplegia of the lower limbs, cauda equina syndrome) related to spinal cord compression on spinal metastases.
+*Localised or generalised oedema of the lower limbs|Œdema of the lower limbs 257]] due to venous compression by adenopathies.

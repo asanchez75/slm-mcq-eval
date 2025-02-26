@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-005-04-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Knowing the definition of administrative liability
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=4}}
+
+There is no legal relationship between the doctor, a public hospital employee, and the patient. Both are only legally bound to the public health establishment. In the case of acts performed by hospital doctors, it is the responsibility of the public health establishment that is brought before the administrative courts: administrative tribunal, administrative court of appeal, Conseil d'Etat.
+
+Administrative jurisprudence has defined a typology of faults likely to engage the liability of the public service:
+
+- Official misconduct: this is misconduct committed by a public official in the performance of his or her duties, i.e. while on duty, using official resources and without any personal interest;
+
+- fault in the organisation and operation of the department: this may include inadequate supervision of patients or premises, poor maintenance of premises and equipment, poor coordination between doctors, etc.
+
+A distinction must be made between personal misconduct or misconduct detached from the service, which gives rise to personal civil liability on the part of the perpetrator. There are two possible scenarios:
+
+- or it was committed outside the service and has no connection with the service (e.g. misconduct committed by a doctor in providing care in a private setting);
+
+- or it was committed on the ward, but was not related to it because of the perpetrator's malicious intent or its exceptional seriousness (e.g. the refusal of the on-call surgeon to attend to a gunshot wounded patient even though he had been warned by the resident of the seriousness of the patient's condition).

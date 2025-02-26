@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-277-18-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the indication for imaging examinations for gallbladder disease
+|Description= Ultrasound in 1st intention, scanner or bili-MRI can be discussed in 2nd intention
+|Section=Additional examinations
+|Contributors=
+|Order=18}}
+The 1st<sup>intention</sup> imaging test for symptomatic biliary lithiasis is '''abdominal ultrasound.''' Abdominal scanner or bili-MRI may be discussed as the 2nd<sup>e</sup> intention.

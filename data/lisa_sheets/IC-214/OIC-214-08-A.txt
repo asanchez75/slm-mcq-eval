@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-214-08-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Knowing how to recognise false thrombocytopenia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+If thrombocytopenia without any mucocutaneous haemorrhagic signs
+
+* ensure the absence of platelet aggregates by agglutination in the presence of ethylene diamine tetra-acetic acid (EDTA) (the anticoagulant routinely used in haemogram tubes)
+* Aggregates lead to an underestimation of the platelet count, known as "false thrombocytopenia".
+* the count should be checked under the microscope (looking for platelet aggregates on the blood smear) ('''[[Prescription and analysis of blood smear SD-222|prescription and analysis of blood smear]]''') and checked on a citrate tube => normal platelet count.
+
+
+In the event of false thrombocytopenia (laboratory artefact)
+
+* no haemorrhagic signs
+* no further investigations are necessary.

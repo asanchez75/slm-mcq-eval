@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-230-04-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Savoir évoquer les quatre urgences cardio-vasculaires devant une douleur thoracique
+|Description=Aortic dissection, acute coronary syndromes, pericarditis with tamponade, pulmonary embolism
+|Rubric=Positive diagnosis
+|Contributors=Vincent Roule
+|Order=4}}
+
+'''The 4 cardiovascular emergencies that can cause chest pain are:'''
+
+- aortic dissection
+
+- acute coronary syndrome (ACS)
+
+- pulmonary embolism (PE)
+
+- pericarditis (tamponade)
+
+=> Mnemonic PIED (Pericarditis, Infarction, Embolism, Dissection)

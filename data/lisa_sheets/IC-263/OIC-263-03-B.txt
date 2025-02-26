@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-263-03-B
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=B
+|Title=Knowing the causes of thrombotic microangiopathy
+|Description=None
+|Rubric=Etiologies
+|Contributors=Jean-Jacques Boffa
+|Order=3}}
+
+Causes of MAT syndrome
+{| class="wikitable"
+|Typical (post-diarrhoeal) enterobacteria producing "Shiga-like toxins" (SLT): E.Coli O157:H7, Salmonella, Shigella...
+|-
+|Atypical HUS: mutation of genes coding for complement proteins (complement C3, factor H, factor I, CD46), or anti-factor H antibodies, mutation of the thrombomodulin gene, etc.
+|-
+|Infections: septicaemia, HIV virus, H1N1 influenza
+|-
+|Medications: mitomycin C, gemcitabine, cyclosporine, tacrolimus, anti-VEGF
+|-
+|Malignant hypertension
+|-
+|Eclampsia
+|-
+|Dysimmune disease: scleroderma, systemic lupus erythematosus,
+
+anti-phospholipid syndrome
+|-
+|Cancer
+|-
+|Thrombotic thrombocytopenic purpura: anti-ADAMTS13 (von Willebrand factor protease) autoantibodies or ADAMTS13 genetic deficiency
+|}
+<br />

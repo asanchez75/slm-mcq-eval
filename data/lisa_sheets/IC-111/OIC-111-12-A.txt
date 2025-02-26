@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-111-12-A
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=A
+|Title=How to recognise rosacea
+|Description=Photographs of the 3 forms of rosacea
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+<gallery>
+File:Vascular rosacea.jpg|Vascular rosacea
+File:Rosacee papulopustuleuse.jpg|Rosacea papulo-pustuleuse
+File:Rosacee hypertrophic rhinophyma.jpg|Rosacea hypertrophic: rhinophyma
+</gallery>

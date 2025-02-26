@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-050-05-B
+|Item_parent=Genito-scrotal pathology in boys and men
+|Item_parent_short=Genito-scrotal pathology in boys and men
+|Rank=B
+|Title=Knowing the additional examinations to be carried out in the case of orchi-epidydimitis
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Cédric Lebâcle, Alice Faure
+|Order=5}}
+
+
+* <big>The diagnosis is primarily clinical</big>.
+
+== Bacteriological test for aetiology: ==
+
+*ECBU with antibiotic susceptibility test (which may be sterile)
+*PCR of Chlamydia trachomatis and gonococcus on the 1st urine stream in young men.
+*Sampling of any urethral discharge (for C. trachomatis and gonococcus)
+*Blood cultures, rarely positive (mainly in cases of BGN infection).
+
+*If there is any doubt about the diagnosis and the spermatic cord has been twisted for more than 24 hours, a scrotal ultrasound scan may be useful.
+
+
+The disease can progress to abscess and purulent melting of the testicle, necrotising fasciitis, testicular atrophy, etc.

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-242-12-B
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=B
+|Title=Knowing the diagnostic criteria for iatrogenic hyperthyroidism
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Magalie Haissaguerre,Camille Buffet
+|Order=12}}
+
+Amiodarone-based drugs, iodinated contrast products and certain other drugs (anti-cancer drugs including interferon and immunotherapy; thyroid hormones) can cause thyrotoxicosis by various mechanisms.
+
+Amiodarone induces very prolonged saturation (9 to 12 months) of the thyroid with iodine, with dysthyroidism in 10% of patients treated, by 2 different mechanisms:
+
+- Type I hyperthyroidism or functional form (previously pathological thyroid) (excess synthesis, pre-existing nodular thyroid pathology)
+
+- Type II hyperthyroidism or lesional form (thyroiditis with release of preformed thyroid hormones, no pre-existing thyroid pathology, )
+
+In the absence of TSH receptor antibodies, the differential diagnosis between these 2 forms depends on ultrasound and thyroid scintigraphy.
+
+Patients treated with amiodarone have a non-pathological biological characteristic: a slightly elevated T4L concentration (due to inhibition of T4 deiodase) which contrasts with normal TSH and T3L concentrations.
+
+[Thyroid workup analysis SD-194
+
+A single injection of iodinated contrast product can saturate the thyroid with iodine for 4 to 6 weeks, sometimes inducing a transient hyperthyroidism that is generally not very symptomatic.
+
+Anti-cancer immunotherapy frequently leads to thyroiditis, with a transient phase of hyperthyroidism, often followed by a phase of hypothyroidism, sometimes permanent.

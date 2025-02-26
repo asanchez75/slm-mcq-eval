@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-218-09-A
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=A
+|Title=Identifying emergency situations in the presence of eosinophilia
+|Description=Anguillulosis?
+|Rubric=Identifying emergencies
+|Contributors=
+|Order=9}}
+'''Emergencies related to visceral lesions of eosinophilia:'''
+
+- respiratory failure '''([[Acute respiratory distress SD-160|acute respiratory distress]])''' ;
+
+- neurological failure (sometimes of arterial thrombotic origin) ;
+
+- heart failure (endomyocardial fibrosis).
+
+'''Emergencies linked to the need to identify the cause quickly:'''
+
+- parasitosis (Strongyloides infection or malignant anguillulosis, particularly in immunocompromised patients);
+
+- GEPA (myocarditis, intra-alveolar haemorrhage, rapidly progressive glomerulonephritis);
+
+- drug hypersensitivity syndrome (or DRESS, for ''Drug Reaction with Eosinophilia and Systemic Symptoms'') (''[[Suspicion of an adverse drug reaction or SD-348 care|suspicion of an adverse drug reaction]]'').

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-045-19-B
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=B
+|Title=Know the genetic mechanisms in Fragile X syndrome (premutation and full mutation in Fragile X)
+|Description=Know the genetic mechanisms in Fragile X syndrome
+|Rubric=Positive diagnosis
+|Contributors=Gaétan Lesca,Elise Launay
+|Order=19}}
+
+FMR1 gene ('Fragile X Mental Retardation 1'), in the Xq27 region.
+
+CGG trinucleotide repeat in the 5' untranslated region.
+
+Normal alleles < 45 CGG, with 1 to 4 AGG interruptions.
+
+Alleles of different sizes are found in families:
+
+* > 200 CGG, known as full mutations, in males and females with neurodevelopmental disorders (and some asymptomatic females). They are associated with abnormal methylation of the promoter region, leading to repression of gene transcription.
+* 55 to 200 CGGs, known as premutations, without hypermethylation, in healthy male drivers and the majority of female drivers.
+* 45 to 54 CGGs, known as intermediate alleles, which are also prone to instability and can progress to premutation within a few generations (depending on the number of AGG interruptions).
+
+Complete mutations favour breaks at the Xq27.3 end observed in 5 to 40% of mitoses on the karyotype (the origin of the syndrome's name).
+
+Premutations are unstable during transmission:
+
+* Tendency to expand, from a few trinucleotides to several dozen.
+* Passage from a premutation to a full mutation only during maternal transmission.
+* Risk of expansion to a full mutation in a single generation, correlated with the size of the maternal premutation.
+
+Molecular diagnosis using "specific techniques" (optimised PCR techniques and capillary sequencer migration, Southern blot) because CGG expansions are resistant to sequencing using current techniques.
+
+Some patients with fragile X syndrome do not carry the expansion but deletions of part or all of the FMR1 gene, or missense variants.

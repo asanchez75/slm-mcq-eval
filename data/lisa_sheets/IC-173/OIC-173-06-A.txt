@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-173-06-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the modes of transmission of Lyme disease
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Carole Eldin
+|Order=6}}
+Lyme disease is transmitted by the [[Bites and stings SD-169|bite of a hard tick]] of the genus ''Ixodes.''
+
+People are mainly bitten when walking in the forest, or when carrying out agricultural or forestry work.
+
+When a tick bites, it inoculates the bacteria belonging to the genus Borrelia (family of spirochetes) by regurgitation during a blood meal. Lyme disease is caused by infection with B. burgdorferi senso latus (group of species).

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-34-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Intitle=Know the definition of obsessions, compulsions, obsessive-compulsive disorders
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=34}}
+
+Obsessive-compulsive disorder (OCD) combines 2 types of symptoms, obsessions and compulsions.

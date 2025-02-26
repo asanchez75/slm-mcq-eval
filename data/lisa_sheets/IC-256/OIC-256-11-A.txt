@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-256-11-A
+|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)
+|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)
+|Rank=A
+|Title=Interview for risk factors and symptoms suggestive of cardiovascular pathologies
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+As the majority of sudden deaths during exercise are of cardiovascular origin, it is necessary to look for the following symptoms on questioning:
+
+
+- '''Cardiovascular risk factors:'''
+
+[Major, independent, modifiable risk factors (tobacco, hypertension, diabetes, dyslipidemia) and non-modifiable risk factors (age, male sex, heredity) 2C-222-DE-A02|Cf Item 222]]
+
+
+- '''Symptoms suggestive of cardiovascular pathology during exercise:'''
+
+*Chest pain
+*palpitations
+*Dyspnoea (breathlessness abnormal for the intensity of the exercise)
+*Discomfort and/or loss of consciousness

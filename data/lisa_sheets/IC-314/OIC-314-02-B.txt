@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-314-02-B
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder tumours
+|Rank=B
+|Title=Knowing the epidemiology and risk factors of bladder tumours
+|Description=incidence and prevalence, List the main risk factors, Smoking Smoking is the main risk factor and increases the risk of bladder tumours by a factor of 3.
+|Rubric=Epidemiology
+|Contributors=Mathieu Roumiguié
+|Order=2}}
+
+* Incidence in 2018 was 13,074 new cases in France.
+* 4th in terms of incidence and 7th in terms of deaths (5,000 deaths) for all cancers combined
+* Sex ratio: 6 men to 1 woman
+* Median age at diagnosis: 75
+* The recognised risk factors are :
+** [[2C-075|Smoking Intoxication 75]] is the main risk factor
+** 2C-182|Exposure to industrial carcinogens 182]]: the discovery of a bladder tumour should systematically suggest [[2C-184|occupational exposure 184]].
+*** polycyclic aromatic hydrocarbons (table 16 bis of the French general social security scheme)
+*** tars, oils and coal tar pitch
+*** coal combustion soot
+*** metallurgy
+** Exposure to arsenic (not recommended as an [[2C-184|occupational disease 184]])
+** Aromatic amines (Table 15 ter of the General Social Security Scheme):
+*** dyes
+*** rubber industry (car tyres)
+*** plastics industry (manufacture of plastics)
+*** pharmaceutical industry (laboratories)
+** Bladder inflammation/irritation :
+*** [[2C-175|urinary bacillary 175]]
+*** chronic bladder catheterisation
+*** pelvic irradiation
+*** exposure to certain chemotherapies (cyclophosphamide)

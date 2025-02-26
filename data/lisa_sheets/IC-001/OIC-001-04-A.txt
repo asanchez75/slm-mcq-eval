@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-001-04-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communication with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the principles of the "patient-centred approach".
+|Description=A partnership based on the complementary nature of the expertise of professionals and the experience of patients, resulting in personalised care (listening, dialogue, adaptation), the development of skills and continuity of care (HAS).
+|Rubrique=Definition
+|Contributors=
+|Order=4}}
+The patient-centred approach (PCA) is a partnership based on complementarity between the expertise of professionals and the experience of patients, resulting in personalised care (listening, dialogue, adaptation), the development of skills and continuity of care.
+
+The CPA combines perspectives:
+
+- the doctor: biomedical approach, clinical reasoning, diagnosis, treatment
+
+- the patient's experience of the disease
+
+The ACP clinical approach comprises 4 dimensions:
+
+- Exploring the illness and the patient's experience of it
+
+- Understand the individual in their biomedical, psychosocial and contextual context
+
+- Find common ground and a shared understanding of the health problem and the solutions, in order to reach a shared decision.
+
+- Developing an alliance with the patient (therapeutic alliance)<br />.

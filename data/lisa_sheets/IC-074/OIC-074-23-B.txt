@@ -1,0 +1,220 @@
+{{knowledge objective
+|Identifiant=OIC-074-23-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Title=Thymoregulators: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=23}}
+{| class="wikitable"
+|
+{| class="wikitable"
+|'''Treatment'''
+|'''Lithium'''
+|'''Carbamazepine'''
+|'''Valpromide, Valproate'''
+|Lamotrigine
+| colspan="4" |
+|-
+|'''Main AR''''
+|Neuropsychological
+
+- Trembling (frequent)
+
+- Asthenia
+
+'''Endocrine'''
+
+- Weight gain
+
+- Hypothyroidism
+
+- Goitre
+
+'''Renal'''
+
+- Polyuro-polydipsic syndrome
+
+- Nephrotic syndrome (Extra-membranous glomerulonephritis)
+
+- Tubulointerstitial nephropathy
+
+'''Digestive'''
+
+- Nausea
+
+- Metallic taste
+
+- Diarrhoea
+
+- Gastralgia
+
+Cardiovascular
+
+- Conduction disorders
+
+- Repolarisation disorders
+
+- Myocarditis
+
+'''Hématologiques'''
+
+- Hyperleukocytosis with lymphopenia
+
+'''Dermatological'''
+
+- Acne
+
+- Psoriasis
+|Neuropsychic disorders
+
+- Confusion
+
+- Drowsiness
+
+- Vertigo
+
+- Ataxia
+
+- Headaches
+
+'''Hepatic'''
+
+- Drug-induced hepatitis
+
+'''Hématologiques'''
+
+- Various cytopenias, even pancytopenia
+
+'''Dermatological'''
+
+- Skin rash
+
+- Lyell syndrome
+
+'''Neurovegetative'''
+
+- Lateral anticholinergic effects
+
+'''Metabolic'''
+
+- Hyponatremia
+
+
+
+
+
+|'''Neuropsychiques''''
+
+- Confusion
+
+- Drowsiness
+
+- Hypotonia
+
+'''Hepatic'''
+
+- Drug-induced hepatitis
+
+'''Hématologiques'''
+
+- Cytopenias
+
+'''Dermatological'''
+
+- Alopecia
+
+
+
+
+
+
+
+
+
+
+|'''Neuropsychic:''''
+
+- Aggressiveness,
+
+- Irritability
+
+- Headaches
+
+- Drowsiness
+
+'''Hepatic:'''
+
+- Drug-induced hepatitis
+
+'''Haematological:'''
+
+- Various cytopenias, even pancytopenia
+
+'''Dermatological:'''
+
+- Mild, transient skin eruptions
+
+'''Very rarely:'''
+
+- Serious skin eruptions (Stevens-Johnson syndrome and Lyell syndrome)
+
+'''Neurovegetative:''''
+
+- Diplopia, blurred vision
+
+'''Digestive:''' Nausea,
+
+- vomiting,
+
+- diarrhoea,
+
+- dry mouth
+
+'''Rheumatological:''''
+
+- Arthalgia
+| colspan="4" |
+|-
+|'''Main AMI''''
+|'''Increased lithaemia''''
+
+- NSAIDS
+
+- Diuretics and ACE inhibitors
+
+- 5-Nitro-imidazoles (metronidazole)
+
+- Cyclines
+
+'''Decreased concentration of other treatments due to lithium:'''
+
+- Antipsychotics
+|Numerous drug interactions linked to enzymatic induction, in particular oestroprogestogenic contraception''.
+
+
+
+|Risk of Lyell syndrome: lamotrigine
+
+Numerous other interactions, in particular with other psychotropic drugs, other anti-epileptics, alcohol, etc.
+
+
+|'''Increased concentration of lamotrigine: Valproate''''
+
+'''Decrease in lamotrigine concentration:'''
+
+Phenobarbital, Phenytoin, Carbamazepine
+
+'''Contraception oestroprogestative''''
+| colspan="4" |
+|-
+| colspan="5" | AE: adverse effects; MAI: drug interaction
+|
+|
+|
+|
+|}
+'''Knowledge objective'''
+|}

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-130-10-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Know the definition of polymedication (Polymedication)
+|Description=The regular daily consumption of at least 5 different molecules by a given elderly person.
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+Polymedication is the use of several drugs on a daily basis. Polymedication is defined as more than 5 therapeutic classes. However, while polymedication is a risk factor for adverse drug events, it is above all the therapeutic classes used (in particular antithrombotics, antidiabetics and antihypertensives) or the presence of inappropriate drug prescriptions within the prescription that pose a problem (overuse, misuse, underuse).

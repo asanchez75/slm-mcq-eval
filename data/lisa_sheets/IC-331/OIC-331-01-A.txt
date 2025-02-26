@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-331-01-A
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=A
+|Title=Know the definition of cardiac arrest
+|Description=Knowing the WHO definition and identification (positive diagnosis)
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+This is a sudden interruption of cardiac contractility.
+
+- Diagnosis:
+
+o For non-professionals: Unconscious + absent or abnormal breathing (gasp)
+
+o For professionals: unconscious + absence of carotid or femoral pulses

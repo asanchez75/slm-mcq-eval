@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-101-14-B
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=B
+|Title=Illustration of the functional anatomy of the facial nerve
+|Description=Visualise the motor, sensitive and secretory innervation of the facial nerve
+|Rubric=Multimedia content
+|Contributors=
+|Order=14}}
+Please refer to the CEN website: www.cen-neurologie.fr where videos are available.

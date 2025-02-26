@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-267-05-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know how to diagnose metabolic acidosis associated with renal failure, diarrhoea, lactic acidosis and ketoacidosis.
+|Description=Know how to take account of the clinical context and the diagnostic value of the plasma anion gap.
+|Rubric=Diagnostic approach
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=5}}
+
+'''1. first step: confirm metabolic acidosis'''
+
+*Acidosis = arterial blood pH < 7.38 (or venous pH < 7.32)
+*Metabolic = HCO3 < 22 mmol/L (with secondary fall in PCO2 by ventilatory compensation)
+
+'''2.     Second step: characterise whether the metabolic acidosis is simple, mixed or complex''''
+
+*Simple: PaCO2 = expected PaCO2
+*Mixed: PaCO2 > expected PaCO2
+*Complex: PaCO2 < expected PaCO2
+
+'''3.     Third step: determine the plasma anion gap: BP = [Na<sup>+</sup>] + [K<sup>+</sup>] - [Cl<sup>-</sup> + HCO3<sup>-</sup>] = 16 ± 4 mmol/L''''
+
+Variations in BP make it possible to assess whether the anion accompanying the excess H<sup>+</sup> (and therefore the loss of HCO3<sup>-</sup>) is chlorine (the anion measured) or indosed anions.
+
+*Acidosis with normal anion gap (HCl gain): renal or digestive loss of HCO3<sup>-</sup> -->decrease in HCO3<sup>-</sup> compensated by a proportional increase in Cl<sup>-</sup> (HCl gain) --> hyperchloremic metabolic acidosis.
+*Acidosis with high anion gap (BP > 20 mmol/L): addition of H+ associated with an indosed anion (AH gain)--> drop in [HCO3<sup>-</sup>] replaced by an unmeasured anion (eg lactate).
+
+'''4.     To diagnose metabolic acidosis with increased plasma anion gap:''''
+
+*Lactic acidosis (lactate assay): acidosis and BP secondary to lactic acid accumulation:
+**Shock with tissue hypoxia,
+**Biguanide toxicity (in the event of overdosage in renal failure)
+*Ketoacidosis (determination of ketonemia; ketonuria by urine dipstick): acidosis and BP secondary to accumulation of ketoacids:
+**Diabetic ketoacidosis,
+**Less common: alcoholic ketoacidosis, fasting ketoacidosis.
+*Severe renal failure (acute or chronic): acidosis secondary to failure of the kidney to eliminate H<sup>+</sup> ions and BP secondary to accumulation of anions not eliminated by the kidney (organic acids, phosphate ion, sulphate ion...). The BP is not very high (< 26 mmol/L).
+*Intoxication with an exogenous acid: acidosis and BP secondary to accumulation of the exogenous acid:
+**salicylate, ethylene glycol, methanol.
+
+'''5.     Make the diagnosis of hyperchloremic metabolic acidosis (normal plasma anion gap)'''
+
+*Digestive loss of bicarbonate: diarrhoea, ileostomy, etc.
+*Renal tubular acidosis.

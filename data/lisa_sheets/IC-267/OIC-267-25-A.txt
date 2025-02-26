@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-267-25-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the symptoms of severe hyponatremia
+|Description=Know the signs of moderate and severe hyponatremia.
+|Rubric=Identification of the emergency
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=25}}
+
+
+*Severe hyponatremia = < 120 mmol/L.
+*Clinical signs (Table 7):
+**non-specific and therefore not very suggestive,
+**correlated with the severity of the hyponatremia and its rapid onset.
+
+Table 7: Symptoms of hyponatraemia (ERBP classification 2014).
+{| class="wikitable"
+|Hyponatremia with moderately severe symptoms
+|Hyponatremia with severe symptoms
+|-
+|- Nausea (without vomiting)
+
+- Confusion
+
+- Headache
+|- Vomiting
+
+- Cardiorespiratory distress
+
+- Sleepiness (abnormal and profound)
+
+- Comitiality
+
+- Consciousness disorders
+
+- Coma (Glasgow ≤ 8)
+|}
+<br />

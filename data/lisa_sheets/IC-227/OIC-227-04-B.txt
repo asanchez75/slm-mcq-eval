@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-227-04-B
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=B
+|Title=Knowing the aetiologies of varicose veins and CVI
+|Description=Knowing the main causes of CVI
+|Rubric=Etiologies
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=4}}
+CVI results from the inability of the venous network to ensure correct drainage of the lower limb. Any phenomenon that reduces this will generate venous stasis, which is the cause of CVI. There are three main causes of venous return failure. The possible aetiologies are included in the CEAP classification of CVI ("E" for aetiology, see table).
+
+==Primary venous insufficiency ==
+
+===''Varicose disease or essential varicose veins or primary varicose veins'''===
+Varicose veins are defined as veins with pathological walls which become dilated and tortuous, with valvular incontinence. This is the most common aetiology. There are two types of varicose veins:
+
+*systemic varicose veins, which develop at the expense of the greater and lesser saphenous veins;
+*non-systematic varicose veins, known as non-saphenous varicose veins, which develop at the expense of perforating veins or pelvic veins.
+
+===''Primary deep valve insufficiency'''===
+Primary deep valve insufficiency results from a defect in valvular continence or valvular dysgenesis of the deep veins which leads to deep venous reflux. It is a rare condition.
+
+== ''Secondary venous insufficiency'' ==
+
+=== ''Post-thrombotic syndrome (PTS)'' ===
+The risk is particularly high in cases of iliofemoral thrombosis. It is estimated that 20-50% of deep vein thromboses will become complicated by PTS despite well-managed treatment (5-10% will develop severe PTS).
+
+===''Compressive venous syndromes'''===
+Cockett's syndrome is due to compression of the left common iliac vein by the right common iliac artery. It can range from simple compression to thrombosis or complete left iliofemoral occlusion. Other chronic extrinsic venous compressions are mainly due to pelvic tumours. They are usually responsible for iliofemoral thrombosis.
+
+==Functional venous insufficiency ==
+This term is currently reserved for venous return failure with morphologically normal veins. This situation may be linked to a reduction in walking ability, tibio-tarsal ankylosis, a loss of muscle volume, or an alteration in cardio-respiratory dynamics. It is frequently encountered in the elderly.
+
+==Other causes of venous insufficiency ==
+These represent only a very small proportion of the causes of venous insufficiency. These are simple or complex venous malformations. The most common malformative syndrome is Klippel-Trénaunay syndrome, which combines venous dysplasia, [[haemangiomas and cutaneous vascular malformations|capillary malformation]] and elongation/hypertrophy of the affected limb.
+{| class="wikitable"
+| colspan="2" | CEAP classification of CVI
+|-
+| colspan="2" |'''E: for aetiological classification'''
+|-
+|C
+|Congenital
+|-
+|P
+|Primitive
+|-
+|S
+|Secondary
+|}
+<br />

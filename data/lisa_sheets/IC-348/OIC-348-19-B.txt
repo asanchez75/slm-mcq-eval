@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-348-19-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the general principles of dialysis
+|Description=Knowing that extra-renal purification provides symptomatic treatment to overcome ARF
+|Rubric=Management
+|Contributors=Gabriel Choukroun
+|Order=19}}
+
+The main aim of dialysis is to purify the substances accumulated in the blood as a result of ARF and to remove excess plasma water. It provides the ''solutes'' necessary to maintain satisfactory homeostasis.
+
+Two dialysis techniques are possible: hemodialysis and peritoneal dialysis.
+
+o During haemodialysis, the blood circulates in an extracorporeal circuit before being purified through a semi-permeable membrane against a dialysis bath (dialysate) which circulates in counter-current.
+
+o Two types of exchange are used in haemodialysis: diffusive transfer based on a concentration gradient between the patient's blood and the dialysate across the semi-permeable membrane, and convective transfer by ultrafiltration resulting from the application of positive hydrostatic pressure across the membrane.
+
+o Peritoneal dialysis (PD) uses the patient's peritoneum as a dialysis membrane, with the dialysate being introduced into the peritoneal cavity via a catheter. PD is rarely used for ARF, except in paediatrics.
+
+Haemodialysis can be "intermittent", with sessions lasting between 4 and 6 hours and repeated several times a week as required, or continuous over several days. In intensive care, a slightly different "continuous" technique may be used, based solely on convective exchanges (continuous haemofiltration). These methods require the use of an anticoagulant treatment, either heparin-based or citrate-based, to prevent coagulation of the blood in the extracorporeal circuit, and a vascular approach, usually a catheter placed in the internal jugular or femoral vein.

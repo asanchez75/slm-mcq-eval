@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-241-01-A
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=A
+|Intitle=Know the definition of a goitre
+|Description=Defining a goitre and its different types
+|Rubric=Definition
+|Contributors=Camille Buffet,Stéphanie Espiard,Eva Feigervola,Arnaud Jannin
+|Order=1}}
+A goitre is a diffuse or localised increase in thyroid volume (nodular goitre).
+
+The simple goitre corresponds to an increase in thyroid volume without associated nodules in a patient with euthyroidism.
+[[File:Fig definition thyroid goitre.jpg|vignette|427x427px]]
+<br />

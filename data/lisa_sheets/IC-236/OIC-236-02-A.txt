@@ -1,0 +1,87 @@
+{{knowledge objective
+|Identifiant=OIC-236-02-A
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=A
+|Heading=How to evoke the diagnosis of sinus dysfunction or conduction disorder (CDD)
+|Description=symptoms, context and usual clinical forms
+|Section=Positive diagnosis
+|Contributors=Vincent Galand
+|Order=2}}
+'''Sinus dysfunction''' = bradycardia without visible P wave with junctional or atrial escape rhythm. Sinus dysfunction can sometimes take the form of a prolonged isolated sinus pause with asystole and return to sinus rhythm. When the pause between 2 P waves is equal to a multiple of the normal sinus cycle, this is known as 2nd degree sinoatrial block.
+[[File:Image1-236.jpg|vignette|510x510px|''Example of sinus dysfunction with significant bradycardia, no P waves and high junctional escape rhythm located in front of the fine QRS.'' ]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''Atrioventricular block''' = A distinction is made between different degrees of AVB: 1<sup>er</sup>, 2<sup>eme</sup> and 3<sup>eme</sup> degree and whether it is supra-Hissian (Nodal) or Hissian/infra-Hissian depending on the location of the block. The surface ECG is sometimes not sufficient to determine the location of the AVB.
+
+- BAV1 = generally nodal block with PR interval prolongation > 200ms. Asymptomatic.
+
+- BAV 2 = 2 entities. BAV 2 Mobitz 1 (supra Hissian) and BAV 2 Mobitz 2 (Hissian/Infra Hissian)
+
+- BAV 2 Mobitz 1 = Sinus rhythm with progressive lengthening of the PR interval until a blocked P wave (not followed by a QRS).
+[[File:Image2-236.jpg|thumbnail|478x478px|''Example of BAV 2 Mobitz 1 with prolongation of the PR interval (arrows in black) with a blocked P wave (star). The QRS are fine.'' ]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- BAV 2 Mobitz 2 = The PR interval is constant but accompanied by a blocked P wave. There is no variation in the PP interval and the pause including the blocked P wave is equal to two PP cycles.  The blocked P wave may occur 1 in 3 P waves (= BAV 2 Mobitz 2 type 2:1), 1 in 3 P waves (=BAV 2 Mobitz 2 type 3:1)....
+[[File:Image3-236.jpg|thumbnail|443x443px|''Example of BAV 2 Mobitz 2 with fixed PR interval and a blocked P wave.'' ]]
+
+
+
+
+
+
+
+- BAV 3 = complete BAV. Dissociation of atrial and ventricular activity. The ventricular rhythm is slower and associated with an escape rhythm. It can be nodal (fine QRS, high escape rhythm) or infra-hissian (wide QRS, low escape rhythm).
+[[File:Image4-236.jpg|thumbnail|548x548px|''Example of complete BAV with atrioventricular dissociation (P waves symbolised by the stars). No synchronisation between atria and ventricles with low situated ventricular escape rhythm (because wide QRS and slow escape rhythm).'' ]]
+
+
+
+
+
+
+
+
+
+
+<br />
+
+'''Bundle branch block =''' 2 types, right bundle branch block (RBBB) and left bundle branch block (LBBB) depending on the branch affected. QRS are widened (> 120ms)
+
+- BBD : RsR' aspect in V1
+[[File:Image5-236.jpg|thumbnail|453x453px|BBD ; RsR' aspect in V1 ; large S wave with lateral impasto]]
+
+
+
+
+
+
+
+
+
+
+
+- BBG : aspect rS or QS in V1, and exclusive R or RR' in V6
+[[File:Image6-236.jpg|thumbnail|472x472px|BBG : rS or QS aspect in V1, and exclusive R or RR' in V6]]

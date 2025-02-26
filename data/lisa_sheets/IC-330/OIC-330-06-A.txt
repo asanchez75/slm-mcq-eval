@@ -1,0 +1,197 @@
+{{knowledge objective
+|Identifiant=OIC-330-06-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Rank=A
+|Title=Anti-platelet agents: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=
+|Order=6}}
+
+==Mechanisms of action==
+{| class="wikitable"
+|'''Molecule'''
+|'''Mechanism of action''''
+|'''Reversibility'''
+|'''Duration of action'''
+|-
+|Acetylsalicylic acid (ASA)
+|Inhibition of platelet activation by inhibiting the synthesis of thromboxane A2
+|Irreversible
+|> 5 days
+|-
+|Thienopyridines
+
+Clopidogrel
+
+Prasugrel
+|Inhibition of the ADP-dependent platelet activation pathway (P2Y12 receptor antagonist)
+|Irreversible
+|> 5 days
+|-
+|Tricagrelor
+|Inhibition of ADP pathway (P2Y12 receptor antagonist)
+|Reversible
+|4 days
+|}
+
+==Directions==
+{| class="wikitable"
+|'''Molecule'''
+|'''Indications'''
+|'''Contraindications'''
+|-
+|ASA
+|Acute coronary syndrome (ACS) (in combination)
+
+Post-SCA (monotherapy)
+
+Secondary prevention of atherothrombotic ischaemic stroke
+
+Obliterative arterial disease of the lower limbs (AOMI)
+|Active peptic ulcer disease
+|-
+|Clopidogrel
+|Acute phase SCA, in combination
+
+Secondary prevention of atherothrombotic ischaemic stroke
+
+AOMI
+|Severe hepatic impairment
+|-
+|Prasugrel
+|Acute phase SAA, in combination with ASA
+|Previous stroke or transient ischemic attack, severe hepatic impairment
+|-
+|Tricagrelor
+|Acute phase SA combined with abciximab
+<br />
+|History of intracranial haemorrhage, moderate to severe hepatic impairment.
+|}
+
+==Secondary effects==
+{| class="wikitable"
+|'''Molecules'''
+|'''Undesirable effects'''
+|-
+|All
+|Risk of bleeding
+|-
+|ASA
+|Gastroduodenal ulcers, hypersensitivity reactions including asthma, hearing impairment.
+|-
+|Clopidogrel
+|Cytopenia, thrombotic thrombocytopenic purpura, dyspepsia, dysgeusia, confusion.
+|-
+|Prasugrel
+|Thrombotic thrombocytopenic purpura
+|-
+|Tricagrelor
+|dyspnea, bradycardia, increased creatinine, confusion, hyperuricemia, paresthesia
+|}
+
+==Drug interactions==
+{| class="wikitable"
+|'''Molecules'''
+|'''Pharmacodynamic interactions'''
+|'''Pharmacokinetic interactions'''
+|-
+|Aspirin
+|Other antiaggregants
+
+Heparins
+
+Fibrinolytics
+
+Direct oral anticoagulants
+
+VKA
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+|Not significant
+|-
+|Clopidogrel
+|Other antiaggregants
+
+Heparins
+
+Fibrinolytics
+
+Direct oral anticoagulants
+
+VKA
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+|''CYP450 (CYP2C19) inhibitors'''
+
+fluconazole, protease inhibitors, esomeprazole, omeprazole)
+|-
+|Prasugrel
+|Other antiaggregants
+
+Heparins
+
+Fibrinolytics
+
+Direct oral anticoagulants
+
+VKA
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+|Not significant
+|-
+|Ticagrelor
+|Other antiaggregants
+
+Heparins
+
+Fibrinolytics
+
+Direct oral anticoagulants
+
+VKA
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+|CYP450 and P-glycoprotein inhibitors
+
+Azoles, protease inhibitors, erythromycin, clarithromycin, amiodarone, quinidine, naproxen
+
+
+CYP450 and P-glycoprotein inducers
+
+Rifampicin, anticomitic drugs (phenytoin, phenobarbital, carbamazepine), St. John's wort
+<br />
+|}
+
+==Monitoring methods==
+Clinical monitoring
+
+- Compliance
+
+- Tolerance: sign of bleeding
+
+- Efficacy: no recurrence of cardiovascular or cerebrovascular events due to atherothrombotic mechanisms
+
+'''Biological monitoring'''
+
+No specific monitoring to detect toxicity, possible blood crase control (platelets)
+
+== Main causes of failure ==
+
+
+Intrinsic properties of the compound (partial reduction in the risk of recurrence)
+
+Non-compliance
+
+Insufficient control of other cardiovascular risk factors
+
+Other causes of vascular occlusive disease (embolism, dissection, etc.)

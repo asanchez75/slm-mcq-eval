@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-252-01-B
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=B
+|Title=Knowing the consequences of nutritional imbalance and undernutrition in the elderly (SA)
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+'''The nutritional balance is altered during the ageing process, with the following main consequences:'''
+
+*changes in body composition: reduction in muscle mass and increase in fat mass.
+*altered appetite regulation;
+*exposure to the risk of obesity and malnutrition;
+
+'''The functional consequences of a nutritional imbalance are aggravated by the coexistence:'''
+
+*other markers of ageing, such as sarcopenia and maladaptation to exercise, which contribute to reduced physical activity and appetite,
+*co-morbidities and/or treatments that can have an impact on taste and appetite, and encourage hypercatabolism.
+
+
+'''Undernutrition:'''
+
+*is the consequence of a reduction in intake linked to changes in appetite and physical activity
+*is also linked to episodes of hypercatabolism during intercurrent pathologies, leading to an increase in energy expenditure.
+*should be sought as part of any overall geriatric assessment and must be identified at an early stage, along with its mechanisms, so that it can be corrected.
+***is a co-morbidity and an independent risk factor for poor prognosis (autonomy, falls, infections and death);
+***is one of the major causes of vulnerability and frailty in the elderly.
+***is one of the causes of iatrogenic dependence (HAS recommendations).

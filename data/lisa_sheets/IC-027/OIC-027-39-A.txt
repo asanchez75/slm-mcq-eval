@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-027-39-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Alcohol and pregnancy: screening
+|Description=Methods of questioning - detection
+|Section=Follow-up and/or prognosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=39}}
+Questioning is the key to screening. It should be intensified in the following clinical situations:
+
+- history of FAS/malformative syndrome in the offspring (very high risk of recurrence);
+
+- drug addiction (30-50% of patients on drug substitutes drink alcohol);
+
+- context of domestic violence, sexual abuse ;
+
+- psychiatric disorders, depression ;
+
+- heavy smoking ;
+
+- ultrasound findings of growth retardation or malformations.
+
+It is important to adopt an empathetic attitude and a non-judgemental framework, preferring indirect and/or open-ended questions: "Before pregnancy, how many drinks did you have a day? And now?" or "Is it difficult for you not to drink alcohol now? A good method is to use validated self-questionnaires such as the T-ACE, which even seem to be more sensitive than questioning in detecting maternal alcohol consumption.
+{| class="wikitable"
+|T
+|How many drinks do you have to have before you feel the first effects of alcohol?
+|2 points if ≥ 3 drinks
+|-
+|A
+|Have you ever been bothered by people criticising you for your drinking?
+|1 point if yes
+|-
+|C
+|Do you sometimes feel the need to reduce your consumption?
+|1 point if yes
+|-
+|E
+|Do you sometimes have a drink as soon as you get out of bed in the morning to calm down or get rid of a hangover?
+|1 point if yes
+|}
+''High score = 2 points or more''
+
+'''293. [[Addictology follow-up consultation SD-293|Addictology follow-up consultation]]''''
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''313. [[Prevention of alcohol-related risks SD-313|Prevention of alcohol-related risks]]''''

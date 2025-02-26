@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-018-05-B
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=B
+|Title=Knowing the regulations governing the protection of health data and the legal issues relating to digital health
+|Description=None
+|Rubric=Definition
+|Contributors=CIMES
+|Order=5}}
+
+
+#'''<u>Know the regulations on health data protection and the legal issues related to digital health</u>''''
+
+'''Personal data''': ''Any information relating to an identified or identifiable natural person, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to that person's physical, physiological, genetic, mental, economic, cultural or social identity''.
+
+'''Pseudonymisation:'' this involves replacing identifying information with non-identifying or pseudonymous information (a serial number, for example), so that it is no longer possible to link a set of data directly to an individual.
+
+'''Processing of personal data''': any operation on data from its collection to its destruction.
+
+'''Purpose of processing''': main objective of data processing, for example "identification of factors influencing length of stay in intensive care".
+
+'''Data controller''': the natural or legal person who determines the purpose and means of the data processing. For example, the General Manager is responsible for setting up a computerised patient file. The same applies to private practitioners.
+
+'''RGPD''': ''European Regulation of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation)''. It sets out the rules to be followed when processing personal data. It applies to all processing of data of European citizens, in a Member State of the European Union or outside the Union, and to all processing of data carried out in a European country.
+
+'''Loi Informatique et libertés du 6 janvier 1978''': this has been amended several times. The latest version of June 2019 takes into account the provisions of the RGPD.
+
+'''CNIL :''' The Commission Nationale de l'Informatique et des Libertés is an independent authority created in 1978 by the Loi Informatique et Libertés. Since the implementation of the RGPD, the CNIL is the regulator of personal data in France.
+
+A privacy impact assessment (PIA) is a prerequisite for the processing of personal health data.
+
+<br />
+
+#'''<u>Know the rules for sharing healthcare data between healthcare professionals (medical confidentiality, sharing healthcare data)</u>''''
+
+'''Professionnel de santé :''' the list of health professions is determined by the '''code de la santé publique Articles L4001-1 à L4444-3.''' These include the medical professions, pharmacy and medical physics, medical auxiliaries, care assistants, nursery assistants and ambulance drivers. Social workers, psychologists and psychotherapists, osteopaths and chiropractors are not considered to be health professionals.
+
+'''Équipe de soins''' : '''l'article L1110-12 du code de santé publique''' defines the care team as :
+
+*a group of professionals who '''participate directly'' for the benefit of the same patient in the performance of a diagnostic or therapeutic act, the compensation of disability, the relief of pain or the prevention of loss of autonomy, '''or''' in the actions necessary for the '''coordination'' of several of these acts".
+*'''AND'''
+**'''Either''' practise within the same '''health establishment'', or the same '''social, medico-social establishment, cooperation or shared practice structure,''' or health or medico-social coordination structure;
+**'''Either''' have been recognised as members of the health care team by the patient who calls on them to carry out consultations and procedures prescribed by a doctor to whom the patient has entrusted his or her care;
+**'''Or'''' practise in a group, including at least one health professional, with a formalised organisation and practices that comply with a set of specifications laid down by an order of the minister responsible for health.
+
+'''Medical secrecy:''' professional secrecy applied to the practice of medicine.
+
+'''Professionals who may exchange information relating to a patient''': healthcare professionals and other members of the healthcare team involved in patient care as defined in article R1110-2 of the Public Health Code (unless the patient objects).

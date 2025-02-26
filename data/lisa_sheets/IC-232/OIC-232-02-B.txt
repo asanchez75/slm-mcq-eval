@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-232-02-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Knowing the pathophysiology of AF
+|Description=Mechanisms and evolution
+|Rubric=Pathophysiological elements
+|Contributors=Jean-Baptiste GUICHARD
+|Order=2}}
+Atrial fibrillation is a supraventricular rhythm disorder secondary to :
+
+*Focal ectopic activity in the pulmonary veins
+*Atrial remodelling, characterised by atrial dilatation and fibrosis, which can facilitate reentry arrhythmias.
+
+[[File:Pathophysiology of AF.png|centre|vignette|alt=|600x600px]]
+'''Ventricular response to atrial fibrillation'''
+
+*The atrio-ventricular node is physiologically the only structure providing an electrical connection between the atrial and ventricular stages.
+*The atrio-ventricular node filters out anarchic and rapid atrial activity (400 to 600 bpm), resulting in an irregular ventricular response of variable frequency depending on the patient.
+
+
+'''Complications of AF'''
+[[File:Complications of AF.png|centre|thumb|alt=|600x600px]]
+<br />

@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-227-02-B
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=B
+|Title=Know the main pathophysiological mechanisms responsible for CVI.
+|Description=Know the main principles of venous return physiology and the dysfunctions responsible for the onset of varicose veins and CVI.
+|Rubric=Physiopathology
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=2}}
+
+Arterial circulation is ensured by a powerful motor (contraction of the heart's ventricles) propelling the blood into the arteries, while venous return is ensured by the synergy of different suction and propulsion forces aided by the presence of centripetal and unidirectional venous valves, acting as anti-reflux devices. The complex cooperation of these different means explains why the slightest malfunction is the cause of venous return anomalies, expressed clinically by signs of chronic venous insufficiency and by the dilation of superficial veins known as varicose veins.
+
+== Deep venous network, superficial venous network ==
+There are 2 venous networks in the lower limbs:
+
+*the deep venous network: drains 90% of venous blood;
+*the superficial venous network (essentially the greater saphenous vein VGS and lesser saphenous vein VPS), which handles the remaining 10% of venous blood;
+*these 2 networks, separated by the superficial muscular aponeuroses, are connected by perforating veins.
+
+These data can be found in the CEAP classification ("A" for anatomy)
+{| class="wikitable"
+| colspan="2" |'''CEAP classification of DVI''''
+|-
+| colspan="2" |'''A: for anatomical distribution according to area of interest'''
+
+(these lesions may affect one or more sectors)
+|-
+|S
+|Superficial
+|-
+|D
+|Deep
+|-
+|P
+|Perforante
+|}
+
+== Venous reflux or venous obstruction ==
+Venous insufficiency is linked either to venous reflux or to venous obstruction following deep vein thrombosis and pulmonary embolism (see item 330). The 2 mechanisms may be isolated or associated. These pathophysiological mechanisms ("P" for pathophysiology, see table) are included in the CEAP classification.
+{| class="wikitable"
+| colspan="2" |'''CEAP classification of DVI''''
+|-
+| colspan="2" |'''P: for pathophysiological mechanism'''
+|-
+|R
+|Reflux
+|-
+|O
+|Obstruction
+|}
+
+== Venous return
+Venous return from the lower limbs takes place against orthostatic pressure due to gravity.
+
+The factors of venous return are :
+
+-left ventricular perfusion pressure (residual capillary pressure is higher than DO pressure)
+
+-atrial depression and diaphragmatic movements which cause venous blood to be drawn into the OD
+
+-the venom-muscular pump of the lower limbs

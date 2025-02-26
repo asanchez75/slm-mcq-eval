@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-196-08-A
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=A
+|Title=Knowing the principles of pharmacological and non-pharmacological management of rheumatoid arthritis
+|Description=Non-steroidal anti-inflammatory drugs, disease-modifying therapies, functional rehabilitation
+|Rubric=Management
+|Contributors=
+|Order=8}}
+
+[[File:Arbre décisionnel.png|vignette]]
+'''General principles -''' Coordination of the therapeutic management of patients by the rheumatologist, monitored jointly with the general practitioner. Information on therapeutic management, with particular emphasis on the risk/benefit ratio and the importance of compliance with medication ([[Follow-up consultation for a chronic pathology SD-279]] ; [[Follow-up of the immunosuppressed patient SD-291]] ;
+
+[[Identifying the consequences of a pathology/situation on job retention SD-316]]; [[Prevention of cardiovascular diseases SD-320]]; [[Announcement of a chronic disease SD-328]]; [[Assessment of therapeutic compliance SD-354|Assessment of therapeutic compliance SD-354]]).
+
+'''Objectives -''' Achievement of the objective of remission (DAS28 < 2.6) or, failing that, of a low level of activity (DAS28 ≤ 3.2) of the disease; prevention of structural lesions; prevention of functional disability; preservation of the patient's quality of life and socio-professional capacities.
+
+'''Education and information''' (Explain a treatment to the patient (adult/child/adolescent) SD-352
+
+'''Drug treatment'''
+
+- Non-steroidal anti-inflammatory drugs with possible rotation of NSAIDs ([[Prescribe non-steroidal anti-inflammatory drugs (NSAIDs) SD-249|Prescribe non-steroidal anti-inflammatory drugs (NSAIDs) SD-249]])
+
+- Analgesics avoiding the use of opioids ([[Assessment and management of acute pain SD-259]]; [[Assessment and management of chronic pain SD-260]]; [[Prescribing analgesics SD-250]])
+
+
+'''Local treatments:''' in the case of arthritis (corticosteroid infiltration, isotopic synoviorthesis) or enthesopathy (cortisone infiltration) (Prescribe general or local corticosteroids SD-25).
+
+'''First-line disease-modifying therapy -''' Methotrexate initiated as early as possible, in the absence of contraindication, taking into account the special warnings and precautions for use.
+
+Non-pharmacological treatments
+
+- stop smoking, regular physical activity. Therapeutic lifestyle modification (sleep, physical activity, diet, etc.) SD-324
+
+- physiotherapy - occupational therapy: to reduce pain, deformity and disability. In relapse: analgesic methods (application of cold), passive mobilisation, rest orthoses. Out of relapse: combating joint stiffening, muscle strengthening and functional work (walking, gripping, etc.). Appliances depending on the difficulties encountered ([[Prescription of a rehabilitation SD-247]]; [[Prescription of a simple appliance SDD-245|Prescription of a simple appliance SD-245]]).
+
+'''Surgery:''' prosthetic joint replacement if necessary
+
+'''Social cover:''' 100% cover (ALD) for severe or disabling forms<br />.

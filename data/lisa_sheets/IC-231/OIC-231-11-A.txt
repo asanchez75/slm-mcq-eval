@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-231-11-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Intitle=Identifying sinus dysfunction
+|Description=Identifying sinus dysfunction
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=11}}
+
+
+- Sinus dysfunction: bradycardia not adapted to physiological needs.
+
+- '''Sinus bradycardia''' < 60 bpm or pauses > 3 seconds
+
+- Multiple causes, often degenerative in the elderly
+
+- Not all bradycardia corresponds to sinus dysfunction (physiological bradycardia)
+
+- In young people, this is most often due to vagal hypertonia, particularly in athletes,
+
+- Exclude a secondary cause: iatrogenic (bradycardiac drugs), metabolic (hyperkalaemia), endocrine (hypothyroidism), etc.
+
+- The ''different types of sino-atrial block'' (SAB):
+
+* BSA type 1: prolongation of conduction time in the sinoatrial junction. Not visible Appears as simple sinus bradycardia on ECG
+
+* BSA type 2:
+** 1st degree: progressive lengthening of the PP delay until the disappearance of a P wave. The pause is less than twice the previous PP delay,
+** 2nd degree: disappearance of a P wave without prior lengthening of the PP delay. The pause is then equal to twice the atrial cycle,
+
+* BSA type 3:
+** no sinus activity,
+** junctional or ventricular escape rhythm.
+
+[[File:BSA.jpg|vignette|alt=|centré|900x900px]]

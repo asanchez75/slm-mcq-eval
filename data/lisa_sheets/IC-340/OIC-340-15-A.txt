@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-340-15-A
+|Item_parent=Strokes
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing what to do in the pre-hospital phase
+|Description=Pre-hospital notification of all those involved in the patient's care
+|Heading=Management
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=15}}
+Medical regulation by the SAMU-Centre 15 enables the stroke network to be activated, thereby limiting delays in diagnosis and treatment.        
+
+Actions in the pre-hospital phase can be broken down into 3 stages:
+
+# the alert,
+# calling the SAMU-centre 15,
+# transporting the patient to a hospital.
+
+== The warning ==
+<u>The first step</u> is to educate and inform the general public about the clinical signs of a stroke (sudden onset of facial deformity, speech impairment, loss of strength) ([[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]; [Appearance of difficulty walking SD-066|Appearance of difficulty walking]]; [[Facial paralysis SD-127|Facial paralysis]]) and what to do in the event of a suspected stroke (call the SAMU-centre 15). 
+
+== The call to the SAMU-centre 15 ==
+<u>The second stage</u> is medical regulation at the SAMU-centre 15 by healthcare professionals :
+
+'''Stroke is an absolute emergency.'''
+
+Medical regulation assistants must be able to identify the clinical signs of stroke on the call.
+
+Role of the regulating doctor:
+
+* confirm the stroke alert,
+* determine the time of onset of symptoms,
+* look for signs of seriousness (impaired consciousness, respiratory distress, haemodynamic instability),
+* decide whether or not to send a medical team,
+* take a history,
+* current treatment (in particular anticoagulation or anti-platelet aggregation),
+* search for contraindications to thrombolysis.
+
+Triggering of the neurovascular network previously established with the various players (neurologist, emergency doctor, neuroradiologist) at the local centre.
+
+Organisation of transport and destination in consultation with the neurologist on call.
+
+== Transporting the patient to a hospital centre ==
+<u>The third stage</u> is the '''transport of the patient''' :
+
+Choosing the most rapidly available and appropriate transport for the patient's situation.
+
+If signs of seriousness : send an SMUR medical team ([[Coma and consciousness disorders SD-028|Coma and consciousness disorders]]; [[Mental confusion/disorientation SD-119|Mental confusion/disorientation]]; [[Malaise/loss of consciousness SD-050|Malaise/loss of consciousness]] ; [[Convulsion SD-120|Convulsion]]; [[Bradycardia SD-159|Bradycardia]]; [[Discovery of arterial hypotension SD-043|Discovery of arterial hypotension]]; [[Acute respiratory distress SD-160|Acute respiratory distress]])
+
+If there are no signs of seriousness: do not call the emergency medical services
+
+Referral to a hospital with an emergency department with telestroke, a neurovascular unit and/or an interventional neuroradiology unit.

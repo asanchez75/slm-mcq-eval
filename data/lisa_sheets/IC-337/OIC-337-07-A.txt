@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-337-07-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Knowing how to suspect a large-scale chemical event
+|Description=Knowing how to suspect in the event of a repetition of toxidromes over a limited period of time
+|Rubric=Positive diagnosis
+|Contributors=Dominique Vodovar
+|Order=7}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 1.jpg
+</gallery><gallery widths="300" heights="300">
+File:Intox fig 2.jpg
+</gallery>

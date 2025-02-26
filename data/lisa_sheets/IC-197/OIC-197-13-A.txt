@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-197-13-A
+|Item_parent=Spondyloarthritis
+|Item_parent_short=Spondyloarthritis
+|Rank=A
+|Title=Knowing the principles of pharmacological and non-pharmacological management
+|Description=Non-steroidal anti-inflammatory drugs, disease-modifying treatments, functional rehabilitation
+|Rubric=Management
+|Contributors=
+|Order=13}}
+'''General principles'''
+
+Co-ordination of therapeutic management of patients by the rheumatologist, monitored jointly with the general practitioner. Information on therapeutic management, with particular emphasis on the risk/benefit ratio and the importance of compliance with drug treatment ([[Follow-up consultation for a chronic pathology SD-279]] ; [[Follow-up of immunosuppressed patients SD-291]] ; [Identifying the consequences of a disease/situation on job retention SD-316]]; Prevention of cardiovascular disease SD-320]]; Announcement of a chronic disease SD-328]]; Assessment of compliance with treatment SD-354]).
+
+'''. Education and information''' (352. Explaining treatment to the patient (adult/child/adolescent))
+
+'''. Drug treatment'''
+
+- Non-steroidal anti-inflammatory drugs with possible rotation of NSAIDs
+
+- Analgesics, avoiding the use of opioids (250. Prescribing analgesics)
+
+'''. Local treatments:''' in the case of arthritis (corticosteroid infiltration, isotopic synoviorthesis) or enthesopathy (cortisone infiltration).
+
+'''. Treatments known as "background treatments (Table 1)" (=DMARD: Disease Modifying Anti-Rheumatic Drug)''''
+[File:Table 1. Disease-modifying treatments with MA.png|vignette|'''Table 1. Disease-modifying therapies with marketing authorisation according to spondyloarthritis phenotype. CsDMARDs = conventional synthetic DMARDs, tsDMARDs = targeted synthetic DMARDs, bDMARDs = Biologic DMARDs''']]
+- '''Peripheral form:'''
+
+CsDMARDs: Methotrexate, Leflunomide
+
+bDMARDs: anti-TNF, anti-IL-17, anti-IL-23
+
+- '''Axial form:'''
+
+bDMARDs: anti-TNF, anti-IL-17
+
+'''. Non-pharmacological treatments'''
+
+- stopping smoking, regular physical activity (324. Therapeutic lifestyle changes (sleep, physical activity, diet, etc.)
+
+- physiotherapy :
+
+* Objectives: to reduce the risk of axial and peripheral ankylosis, i.e. loss of lumbar lordosis, increased dorsal kyphosis and cervical anteprojection, knee and hip flaccidity, and to maintain exercise capacity and function.
+* Means : Maintenance of joint amplitudes of the spine, thoracic cage and lower limbs, in active, assisted active and passive (postures). Exercise training. Self-rehabilitation +++
+
+- corset fitting only if spinal deformity is progressive.
+
+'''. Surgery: '''' prosthetic joint replacement (coxitis), rarely spinal osteotomy to correct major dorsal kyphosis.
+
+'''. Social cover: '''' 100% cover (ALD) for severe or disabling forms.

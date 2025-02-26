@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-148-12-A
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Naso-sinus infections in adults and children
+|Rank=A
+|Title=Photographs of a typical example of acute ethmoiditis in children
+|Description=These images must be the most classic and common of the two forms of externalised sinusitis.
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+<gallery widths="400" heights="400">
+File:Acute ethmoiditis in children.png
+</gallery>Computed tomography imaging not to be interpreted, but allowing the pathology to be understood

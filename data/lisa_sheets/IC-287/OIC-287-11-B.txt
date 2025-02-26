@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-287-11-B
+|Item_parent=Colonic diverticulosis and acute sigmoid diverticulitis
+|Item_parent_short=Colonic diverticulosis and acute sigmoid diverticulitis
+|Rank=B
+|Title=Knowing the initial medical management of complicated acute diverticulitis
+|Description= Analgesics, if necessary antibiotic therapy and drainage
+|Topic=Management
+|Contributors=Frédérique PESCHAUD
+|Order=11}}
+
+1/ diverticulitis
+
+Treatment of a complicated form of diverticulitis is primarily medical and is based on the following elements:
+
+- Hospitalization
+
+- Intravenous antibiotic therapy active against aerobic (Gram-negative bacilli, enterococci) and anaerobic colonic bacteria for 7 to 15 days, depending on the condition and progress:
+
+o amoxicillin-clavulanic acid + gentamicin
+
+o or 3rd<sup>th</sup> generation cephalosporin (cefotaxime, ceftriaxone) + metronidazole
+
+o if allergic to beta-lactams: levofloxacin + gentamicin + metronidazole.  
+
+- Radiological drainage of diverticular abscesses if technically feasible
+
+- Emergency surgery in case of peritonitis or failure of medical treatment
+
+
+2/ Diverticular haemorrhage :
+
+Depending on the existence of haemodynamic repercussions and local resources, imaging and upper and lower digestive endoscopy form part of the diagnostic and therapeutic approach at the same time as :
+
+- Supportive care (hospitalisation in an appropriate unit - ICU, filling, transfusion, vasopressive drugs, etc.),
+
+To confirm the diverticular origin, other causes of digestive haemorrhage must first be ruled out.
+
+- The ano-perineal examination to avoid ignoring an obvious ano-perineal cause ''(proctological examination)'''
+
+- If there are haemodynamic repercussions, an oeso-gastroduodenal endoscopy (OGD) should be considered, so as not to miss an upper gastrointestinal haemorrhage of low expression. In the case of a normal EOGD in a patient who continues to deglobulate, this situation is the best indication for a CT scan with injection in the case of a digestive haemorrhage: the bleeding is sufficiently abundant to hope to identify its origin on the CT scan. A colonoscopy will be performed rapidly after colonic preparation (using a nasogastric tube if necessary) for diagnostic or haemostatic purposes.
+
+- In the absence of haemodynamic repercussions, a total colonoscopy is indicated afterwards.

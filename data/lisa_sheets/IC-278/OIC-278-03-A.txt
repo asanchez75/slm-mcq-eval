@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-278-03-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Knowing the diagnostic strategy for jaundice in newborns
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''No work-up for simple jaundice.'''
+
+All other situations should be investigated after biological confirmation of jaundice (total bilirubinaemia)''.
+
+First-line treatment:
+
+- total and conjugated bilirubin: diagnostic confirmation of jaundice, orientation towards jaundice with free bilirubin or conjugated bilirubin
+
+- CBC and reticulocytes: look for anaemia in favour of underlying haemolysis
+
+- child's blood group: to be compared with the mother's blood group, to identify situations where there is a risk of foetomaternal incompatibility (e.g. ABO group mother O, child A or B or Rhesus system: mother Rh-, child Rh+).
+
+- Direct Coombs: tests for maternal antibodies in the child's blood. Direct Coombs is often positive in cases of incompatibility in the Rhesus system, but not always in cases of incompatibility in the ABO system.
+
+- CRP, blood culture: infectious work-up
+
+Depending on the context :
+
+- ECBU: if jaundice after D7 - infectious disease assessment
+
+- Liver function tests (ASAT, ALAT, gGT, PAL) and abdominal ultrasound: if cholestasis. Look for biliary atresia.
+
+- Enzyme tests: G6PD (especially in boys, X-linked pathology), pyruvate kinase: if jaundice with free bilirubin not explained by the 1st-line test
+
+- Smear test: look for hereditary spherocytosis - if jaundice with free bilirubin not explained by the 1st-line test or family history
+
+- T4, TSH: look for hypothyroidism

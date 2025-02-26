@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-004-31-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the distribution of the main microorganisms responsible for HCAIs by anatomical site.
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=31}}
+Main microorganisms isolated during national prevalence surveys :
+
+- Urinary tract infections: E. coli (47% of microorganisms isolated)
+
+- Surgical site infections: S. aureus (23%) or other micro-organisms (variable depending on the site of the operation)
+
+- Pneumopathy: S aureus (15%) and P. aeruginosa (14%)
+
+- Bacteremia: ''S. aureus'' (16%), ''E. coli'' (14%), ''S. epidermidis'' (14%), variable according to portal of entry)

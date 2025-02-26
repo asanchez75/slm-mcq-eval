@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-071-16-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Knowing the diagnostic approach
+|Description=Know the DSM-5 diagnostic criteria.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=16}}
+'''Semiology of bulimia (DSM-5 criteria)'''
+
+* Occurrence of recurrent episodes of uncontrolled hyperphagia''. That is to say:
+** Food intake well above average and in a short space of time ;
+** associated with a ''feeling of losing control'' over the quantities eaten or the ability to stop.
+* Compensatory behaviours to avoid weight gain.
+** Induced vomiting,
+** Taking laxatives or diuretics,
+** Fasting,
+** Excessive exercise
+* With an ''average frequency of at least once a week'' for at least 3 months.
+* Self-esteem is excessively disturbed by body shape and weight.
+* The disorder does not occur exclusively during a period of anorexia nervosa.

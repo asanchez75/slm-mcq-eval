@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-031-09-B
+|Item_parent=Childbirth, delivery and normal postnatal care
+|Item_parent_short=Childbirth, delivery and normal postnatal care
+|Rank=B
+|Title=Engagement of the fetal head
+|Description=Know the elements of the diagnosis of fetal head entrapment
+|Rubric=Multimedia content
+|Contributors=Vincent Dochez,Philippe Deruelle
+|Order=9}}
+
+== Definition
+It is the crossing of the DS by the largest circumference of the presentation.
+
+The presentation is then said to be engaged
+
+== Clinical ==
+Involvement is diagnosed by questioning, inspection, abdominal palpation and vaginal touch.
+
+=== Abdominal palpation ===
+
+=== Vaginal touch ===
+He is looking for :
+
+- Farabeuf's sign: the foetal head is engaged when only 2 fingers fit between the foetal cephalic pole and the sacrococcygeal plane;
+
+- Demelin's sign: the foetal head is engaged when the index finger, inserted perpendicular to the anterior surface of the pubic symphysis, comes up against the presentation.
+
+
+It is also possible to determine the descent of the presentation in relation to the level of the sciatic spines (level 0). If the vertex is 1, 2, 3, 4 or 5 cm above this level, the presentation is said to be at levels -1, -2, -3, -4 or -5. Below the level of the sciatic spines, it is level + 1, + 2, + 3, + 4 or + 5.

@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-247-18-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Identifying and treating emergency situations in children with diabetes.
+|Description=None
+|Rubric=Identifying emergencies
+|Contributors=Eva Feigerlova
+|Order=18}}
+
+1/ Ketoacidosis
+
+Ketoacidosis is the most frequent cause of death in children with type 1 diabetes.  It is often indicative of the disease.
+
+'''Clinical presentation''' :
+
+- cardinal syndrome associated with signs of dehydration, digestive, respiratory and neurological signs
+
+'''Biological confirmation:'''
+
+'''- '''See chapter on "Recognising hypoglycaemia, hyperosmolar coma and diabetic ketoacidosis".
+
+'''Other essential tests:'''
+
+- Blood ionogram: calculate corrected natraemia; assess kalaemia
+
+- CBC, CRP: sometimes hyperleukocytosis without infection
+
+- ECG: look for signs of dyskalaemia
+
+
+'''Immediate care:'''
+
+- emergency hospitalisation with cardiorespiratory monitoring
+
+- 2 peripheral venous lines and fasting
+
+- fluid and electrolyte rehydration and vascular filling (if collapse)
+
+- rapid-acting IV insulin
+
+- treatment of the triggering factor
+
+
+'''Surveillance:'''
+
+- vitals, diuresis, blood glucose and ketone levels, venous GDS, blood ionogram, renal function, ECG.
+
+- monitoring of the neurological examination in view of the risk of cerebral oedema
+
+
+2/ Hypoglycaemia
+
+''Minor hypoglycaemia'': recognised and correctable by ingestion of carbohydrates by the child
+
+Severe hypoglycaemia: signs of neuroglycopenia and need for intervention by a third party.
+
+
+'''Risk factors:''' errors in diabetes management, history of severe hypoglycaemia and failure to recognise signs of hypoglycaemia
+
+
+'''Triggering factor:''' insulin dose error, dietary error, prolonged physical effort.
+
+
+'''Diagnosis:''' see chapter on ''Recognising hypoglycaemia, hyperosmolar coma and diabetic ketoacidosis''.
+
+
+'''Taking charge:'''
+
+'''No disturbance of consciousness:'''
+
+- oral resugaring = 1 sugar cube (5 g) or 1/2 glass of fruit juice/soda per 20 kg of weight; then slow sugar (1-2 pieces of bread)
+
+'''If consciousness is impaired:''''
+
+- injection of glucagon IM or SC , then per os resugaring
+
+- if glucagon unavailable: serum G30% IV 10 mL/20 kg weight, then relay with G10%.
+
+
+'''Necessary therapeutic education:''' self-monitoring of blood sugar levels, prevention of hypoglycaemia

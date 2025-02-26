@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-315-04-A
+|Item_parent=Acute leukaemia
+|Item_parent_short=Acute leukaemia
+|Rank=A
+|Title=Knowing the clinical signs of bone marrow failure
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+- Anaemic syndrome, often rapid in onset and therefore poorly tolerated
+
+- Haemorrhagic syndrome secondary to thrombocytopenia (mucocutaneous bleeding, purpura, etc.) sometimes aggravated by disseminated intravascular coagulation secondary to the disease.
+
+- Infectious syndrome associated with neutropenia: fever, ulcerative colitis, pneumonia, etc. The clinical picture is usually poor.

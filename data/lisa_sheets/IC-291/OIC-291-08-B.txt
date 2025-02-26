@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-291-08-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the clinical and anamnestic situations that should lead to suspicion of a breast-ovarian syndrome
+|Description=Know the situations (clinical and anamnestic) that should raise the suspicion of a hereditary breast-ovarian syndrome.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+5 to 10% of breast cancers occur in the context of a genetic predisposition to cancer due to mutations in the BRCA1 or BRCA2 genes'''''. These genes code for proteins involved in the repair of DNA double-strand breaks by homologous recombination. They are inherited in an ''autosomal dominant'' fashion (the presence of a monoallelic alteration is sufficient to induce an increased tumour risk). These mutations increase the "risk of developing breast cancer at an early age, a second contralateral breast cancer or ovarian cancer". BRCA2 also increases the risk of prostate cancer, pancreatic cancer and melanoma.
+
+The INCa recommends looking for a hereditary breast and ovarian cancer syndrome in the following situations:
+
+- several cases of breast cancer in the same family branch (maternal or paternal)
+
+- early onset (before age 40)
+
+- diagnosis of a second cancer in the contralateral breast and/or multifocal cancer
+
+- presence of ovarian cancer
+
+- occurrence of breast cancer in a man
+
+These parameters are aggregated in the "Eisinger score", which is used to grade the risk of genetic predisposition on the basis of the family tree and to guide the indication for genetic testing.
+
+Knowledge of somatic or germline BRCA status also has therapeutic implications, conditioning the prescription of anti-PARP agents (poly(ADP-ribose) polymerase), which have been shown to be effective in ovarian and breast cancers. In this context, the INCa recommends an oncogenetic consultation for all patients with ovarian cancer, whatever their age.

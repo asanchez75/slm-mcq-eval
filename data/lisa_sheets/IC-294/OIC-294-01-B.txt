@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-294-01-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing diagnostic situations and extension assessments
+|Description=Describing diagnostic situations and extension assessments
+|Rubric=Management
+|Contributors=Jean-Pierre Lotz
+|Order=1}}
+
+The treatment of cancer may involve several therapeutic modalities, in isolation, simultaneously or successively (''Figure 1''). The therapeutic decision can therefore only be based on multidisciplinary consultation. Oncology support care [[Know the definition of oncology support care 2C-295-DE-B01|oncology support care]] is not reserved for the purely palliative phase at the end of life, but is an integral part of the patient's therapeutic management from the moment of diagnosis.
+
+
+{| class="wikitable"
+|'''Figure 1. cancer treatment: several therapeutic modalities'''
+
+'''Therapeutic methods'''
+|}
+{| class="wikitable"
+|'''Surgery'''
+|}
+{| class="wikitable"
+|'''Radiotherapy'''
+|}
+{| class="wikitable"
+|'''Medical treatments'''
+|}
+<br />
+{| class="wikitable"
+|'''Supportive Oncology Care'''
+|}

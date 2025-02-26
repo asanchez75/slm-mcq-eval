@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-279-06-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Title=Knowing the diagnostic methods for compensated cirrhosis
+|Description=PBH (indications/contraindications/pathways) and non-invasive fibrosis tests
+|Section=Additional tests
+|Contributors=
+|Order=6}}
+The clinical examination may be normal in patients with compensated cirrhosis.  In certain situations, there may be clinical, biological and morphological signs suggestive of cirrhosis (see item OIC-279-04-A).
+
+If compensated cirrhosis is suspected, non-invasive methods can be used to support the diagnostic hypothesis:
+
+- abdominal Doppler ultrasound may reveal ultrasound anomalies suggestive of cirrhosis (irregular liver contours and hepatic dysmorphia) and signs of portal hypertension (splenomegaly, porto-caval shunts);
+
+- Pulse elastometry - based on analysis of the propagation speed of a shear wave using an ultrasound probe - is the most effective non-invasive test. It measures the hardness of the liver expressed in kilo Pascals and thus gives a semi-quantitative estimate of the degree of fibrosis, either using a dedicated device (Fibroscan®) or a probe fitted to the most recent ultrasound scanners. The measurement must be taken on an empty stomach for at least 2 hours.
+
+- simple serum fibrosis tests (Fib4) or specialised tests (Fibrotest®, Fibromètre®...) give a semi-quantitative estimate of the degree of fibrosis but are not validated for all causes of chronic liver disease
+
+
+Liver biopsy is the gold standard for diagnosis, but it is not always essential.
+It can be used to confirm the diagnosis of cirrhosis when non-invasive tests have not been able to provide a definitive answer. It may also reveal lesions related to the cause of cirrhosis, thereby contributing to the aetiological assessment.
+The biopsy fragment may be obtained from a percutaneous or transjugular biopsy, depending on whether or not ascites and/or haemostasis disorders are present (see OIC-276-06-B).

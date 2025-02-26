@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-234-20-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Know the main drug classes for the treatment of heart failure with reduced EF
+|Description=Know the main classes of cardioprotective agents, use of loop and thiazide diuretics, cardiac rehabilitation.
+|Rubric=Management
+|Contributors=Olivier Huttin
+|Order=20}}
+
+
+====''Symptomatic treatment, in the event of signs of congestion: prescription of diuretics'''====
+- loop diuretics
+
+o improve symptoms and should be prescribed in appropriate doses,
+
+o target: minimum effective dose to control congestive signs,
+
+o monitoring of kalaemia, natremia and creatininemia
+
+- Thiazides are prescribed in combination in cases of oedema resistant to loop diuretics.
+<br />
+
+====''Standard cardioprotective treatments for CHF with reduced EF'''====
+<br />'''The 4 classes should be introduced progressively and simultaneously. They will reduce mortality, reduce re-hospitalisation for heart failure and improve patients' symptoms.'''
+
+=====- Converting enzyme inhibitors (ACEI)/angiotensin II antagonist in combination with a neutral endopeptidase inhibitor (sacubitril /valsartan - ARNi ) :=====
+o Initiated at low dose, with BP monitoring;
+
+o increased in successive stages, at intervals of at least 1 to 2 weeks, under control of blood pressure, renal function and kalaemia
+
+o up to the maximum recommended dose if tolerated, or up to the maximum tolerated dosage. The usual maintenance dose is usually reached in 1-2 months;
+
+o in cases of true intolerance to ACE inhibitors (cough, angioedema), prescription of ARB II.
+<br />
+
+=====- Beta-blockers:=====
+o first-line reference treatment for patients with stable IC
+
+o choice of specific beta-blockers: carvedilol, bisoprolol, nebivolol
+
+o Initiated at a very low dose, with monitoring of BP and HR;
+
+o increased in successive stages, at intervals of at least 1 to 2 weeks, up to the maximum recommended dose if tolerated,
+
+o Monitoring of bradycardia or conduction disorders, in particular atrio-ventricular block.
+<br />
+
+=====- Aldosterone receptor antagonists (spironolactone or eplerenone)=====
+o in patients with EF < 35% who remain symptomatic and who can be carefully monitored for renal function and kalaemia (only if creatinine < 20 - 25 mg/L and kalaemia < 5.0 mmol/L).
+<br />
+
+=====- Glifozines,=====
+o Inhibitors of sodium-glucose cotransporters type 2 (iSGLT2)
+
+o Prescription regardless of ejection fraction and diabetic status
+
+o Reduce ventricular preload and afterload mainly via a diuretic effect (osmotic diuresis) and arterial vasodilatation.
+<br />
+[[File:Table of treatments for CHF.png|alt=|vignette|480x480px|summary of the main treatments for CHF with impaired LVEF]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+
+====''Follow-up consultation and therapeutic education for a patient with a cardiovascular antecedent'''====
+o Learning warning signs Teaching the 4 principles (EPON) and the 4 warning signs
+
+o "EPON": Physical exercise, regular weighing, compliance with treatment and monitoring, and not too much salt.
+
+o "EPOF": Shortness of breath, Weight gain, Edema, Fatigue
+<br />
+
+===='''Réadaptation'''====
+o WHO definition: Cardiovascular rehabilitation is the set of activities necessary to favourably influence the evolutionary process of the disease, and to ensure that patients are in the best possible physical, mental and social condition, so that they can, by their own efforts, maintain or resume as normal a place as possible in the life of the community.
+
+o Enables : Physical re-training; Therapeutic optimisation; Therapeutic education
+
+o Indications :
+
+§ After an acute coronary syndrome; in stable angina or after scheduled angioplasty
+
+§ After heart surgery
+
+§ IC: at the start of treatment; after resynchronisation; after heart transplantation

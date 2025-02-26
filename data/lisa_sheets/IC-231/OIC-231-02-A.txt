@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-231-02-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Knowing how to interpret a normal ECG
+|Description=Normal morphologies and numerical parameters
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=2}}
+
+[[File:ECG normal|thumbnail|link=Special:FilePath/ECG_normal]]
+
+*Regular sinus rhythm between 60 and 100 bpm,
+*Axis between -30° and +90°,
+*No conduction disorder, PR between 120 and 200 ms, QRS ≤ 100 ms,
+*no repolarisation disorder,
+*normal QTc, (normal value 340ms ≤ QTc ≤440ms, long QTc if ≥480ms),
+*No atrial or ventricular hypertrophy,
+*no Q waves or planing of R waves,
+*no microvoltage.
+
+[[File:ECG_normal.jpg|alt=|centered|500x500px]]
+<br />

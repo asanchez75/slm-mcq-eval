@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-123-18-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=Knowing how to qualify ageing in its sociological and anthropological aspects.
+|Description=Knowing the societal impacts of ageing on individuals and populations
+|Section=Definition
+|Contributors=Anne-Laure Couderc,Olivier Guerin
+|Order=18}}
+The social and anthropological image of the elderly is complex and varies from one society, culture or period of history to another: a negative image of the elderly as 'weakened' and 'useless to society', and a positive image of the 'patriarch' or 'wise man', who is a real point of reference for the family and younger people.

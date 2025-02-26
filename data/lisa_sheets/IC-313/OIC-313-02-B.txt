@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-313-02-B
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=B
+|Intitle=Knowing epidemiological data
+|Description=To know the frequency rank within urological tumours, the mean age of onset of seminomas and TGNS.
+|Rubric=Epidemiology
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=2}}
+
+*Rare but the most common solid cancer in young men (<35 years)
+*Incidence: 8.7 new cases/100,000 men/year - number of new cases per year: 2,700 (in 2018)
+**Incidence rising: +28% expected by 2025
+*Median age at diagnosis: 35 years
+*Peak incidence:
+**TGNS between 30 and 34 years of age
+**TGS 39 years
+*Annual deaths: 90 patients

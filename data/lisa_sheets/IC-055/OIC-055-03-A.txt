@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-055-03-A
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=A
+|Title=Knowing the normal psychomotor development of the small child (2 years - 6 years)
+|Description=None
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame,Sylvie Nguyen Le Tich
+|Order=3}}
+
+== '''Normal psychomotor development of the child (2-6 years) (rank A) and identification of abnormal situations (rank A)''' ==
+{| class="wikitable"
+|Age
+|Gross motor skills
+|Fine motor skills
+|Socialisation
+|Language
+|-
+|2 to 3 years
+|Jumps in place, runs easily, climbs
+|Dresses with help, eats alone, throws ball
+|Plays with others
+|Names pictures
+
+Understands instructions
+|-
+|3 to 4 years
+|Climbs stairs alternately, jumps with feet together, rides tricycle
+|Stands on one foot, catches large ball
+|Share and pretend games
+|Understands the concepts of tiredness, hunger and cold
+|-
+|4-5 years
+|Hops on one foot, follows a line when walking, alternates walking down stairs
+|Dresses unaided, kicks a ball
+|Separates easily from parents
+|Knows colours and "on, under, in front of, behind" concepts
+|-
+|Age 5-6
+|Stands on one foot for more than 10 seconds
+|Draws a complete man
+|Understands social conventions
+
+Seeks approval from those around him
+|Can explain a word
+|}
+<br />

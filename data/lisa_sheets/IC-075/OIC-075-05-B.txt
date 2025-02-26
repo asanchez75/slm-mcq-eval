@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-075-05-B
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=B
+|Title=Knowing the mechanism of arterial damage (thrombogenicity, vasomotricity, inflammation)
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=5}}
+
+
+
+Tobacco smoke (median particle diameter = 0.3 microns)
+
+*penetrates the entire respiratory tree and the pulmonary alveoli
+*passes into the bloodstream and causes inflammatory phenomena
+*plays a role in arterial thrombosis (but not venous thrombosis)
+*causes endothelial dysfunction
+*promotes platelet aggregation, which ''increases the risk of arterial thrombosis''.

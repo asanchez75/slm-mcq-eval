@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-304-02-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=To understand the prevalence and epidemiology of different benign and malignant liver tumours
+|Description=Hepatocellular carcinoma
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+cf previous objective, the teachers of the discipline considered that the separation of the two objectives was not justified.

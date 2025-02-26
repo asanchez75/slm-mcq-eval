@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-359-16-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing how to recognise the most common causes in adults
+|Description=PAO, COPD exacerbation, asthma attack, pneumonia, pulmonary embolism
+|Rubric=Etiologies
+|Contributors=Guillaume Carteaux
+|Order=16}}
+
+<gallery widths="300" heights="300">
+File:Algorithm main causes.jpg
+</gallery>

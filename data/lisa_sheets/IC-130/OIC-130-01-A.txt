@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-130-01-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Knowing the overall management of the elderly subject
+|Description=General principles of comprehensive care for the elderly.
+|Rubric=Definition
+|Contributors=Boddaert Jacques, ROUBAUD Claire
+|Order=1}}
+The care of the elderly cannot be limited to the management of their medical pathologies, whether chronic or acute. It requires a global approach and includes the following elements:
+
+- Diagnose and manage acute and chronic pathologies
+
+- Prevent complications (malnutrition, confusion, falls, functional decline, etc.)
+
+- Assessing the functional impact of these pathologies
+
+- Maintaining patient autonomy
+
+- Adapting the patient's environment as best as possible (social development)
+
+- Include the patient's wishes in this care

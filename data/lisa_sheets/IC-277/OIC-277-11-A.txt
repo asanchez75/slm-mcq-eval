@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-277-11-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing how to diagnose complicated biliary lithiasis: acute angiocholitis
+|Description=Pain-fever-icterus triad, BIO: cytolysis and icteric cholestasis, infectious syndrome; ECHO: lithiasis and dilatation of VBP
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+The elements of the positive diagnosis of acute angiocholitis are typically but inconstantly the triad of biliary pain - fever - jaundice, appearing successively in 48 hours.
+
+When the characteristic triad is not present, the arguments in favour of the diagnosis are the combination of cholestasis (icteric or not) and an inflammatory or infectious syndrome.
+
+An ultrasound scan is performed as a first line of defence, to look for vesicular lithiasis and dilatation of the bile ducts (inconstant).
+
+In the event of a non-contributory ultrasound scan, an abdominal CT scan without and with injection is recommended.
+
+MRI and/or echo-endoscopy may be discussed in 3rd line.

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-024-24-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing the work-up for fever during pregnancy
+|Description=Biologies and complementary examinations according to clinical examination
+|Rubric=Positive diagnosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=24}}
+
+In all cases, we will carry out :
+
+- ECBU
+
+- ''NFS - CRP
+
+- blood cultures (if fever > 38.5°C with search for Listeria M)
+
+- serologies according to context (rubella, toxoplasmosis, hepatitis, CMV, HIV, PB19)
+
+- Others according to signs of orientation: PCR (COVID), rapid influenza test, streto test, etc.
+
+- RCF and tocometry
+
+- obstetrical ultrasound: EPF, foetal well-being and amount of LA.
+
+[[Reasoned request/prescription and choice of a diagnostic examination SD-178]]; [[Urine dipstick analysis SD-182]]; [[Acute or chronic inflammatory syndrome SD-186]]; [[Analysis of a urine cytobacteriological examination (ecbu) SD-189]]; [[Leukocyte abnormality SD-216]]; [[Interpretation of haemogram SD-223]]
+
+<br />

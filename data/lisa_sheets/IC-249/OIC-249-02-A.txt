@@ -1,0 +1,119 @@
+{{knowledge objective
+|Identifiant=OIC-249-02-A
+|Item_parent=Therapeutic changes in lifestyle (diet and physical activity) in adults and children
+|Item_parent_short=Therapeutic changes in lifestyle (diet and physical activity) in adults and children
+|Rank=A
+|Title=Knowing the positive effects of physical activity in chronic diseases and how to explain them to patients
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=2}}
+''Known beneficial effects of regular physical activity:''
+
+- Increased life expectancy
+
+- Reduction in overall cardiovascular risk and in the risk of hypertension, ACS and OSA
+
+- Reduced risk of type 2 diabetes and obesity
+
+- Reduced risk of certain cancers (breast, colon)
+
+- Psychological benefits (lower prevalence of depression and anxiety)
+
+- Prevention of cognitive disorders
+
+- Benefits for age-related pathologies (combating sarcopenia, reducing osteoporosis, maintaining independence, reducing the risk of falls)
+
+
+'''Table. Beneficial effects''' '''of physical activity in the main chronic diseases.''' (Source HAS, 2019)
+<br />
+{| class="wikitable"
+|'''Pre-existing pathology'''
+|'''The effects of physical activity'''
+|-
+|Cancer
+|Depending on location :
+
+Reduced risk of mortality and recurrence
+
+Reduced fatigue, improved tolerance of treatment and better quality of life
+
+Boosts immunity
+|-
+|Obesity
+|Reduction in weight and body fat (modest, a few kg), visceral abdominal fat, etc.
+
+Improved metabolic parameters (glycaemic balance, lipid profile)
+
+Reduced risk of weight regain
+|-
+|Type 2 diabetes
+|Reduced risk of mortality
+
+Improvement in markers of disease progression: HbA1C, blood pressure and lipid profile
+
+Reduction in abdominal circumference,
+
+Limiting the loss of muscle mass
+|-
+|High blood pressure
+|Reduced risk of progression of cardiovascular disease Reduced risk of increase in blood pressure over time
+|-
+|Ischaemic heart disease/chronic heart failure/lower limb arterial disease
+|Improved functional and vital prognosis
+
+Lower blood pressure
+
+Improved endothelial function
+
+Development of neovessels
+|-
+|Chronic respiratory diseases (particularly COPD)
+|Improvement in physical capacity and quality of life Improvement in dyspnoea and exercise tolerance
+
+Reduced anxiety
+
+Better control of COPD and asthma symptoms
+
+(No change in lung function in adults)
+|-
+|Parkinson's disease, Stroke, Schizophrenia Dementia, Hyperactivity disorder, Attention deficit disorder
+|Improved cognitive function
+<br />
+|-
+|Parkinson's disease, Stroke, Multiple sclerosis
+|Improved walking, muscle strength and balance
+|-
+|Depression and anxiety disorders
+|Reduced signs of anxiety and depression
+
+Mood enhancement
+|-
+|Schizophrenia
+|Improved quality of life
+|-
+|Rheumatic diseases, Osteoarthritis (hip and knee)
+|Reduced pain
+
+Improved functional capabilities
+
+Improving quality of life
+|}
+
+
+
+The beneficial effects observed have been widely proven and are due to changes in the major physiological systems:
+
+- Improvement in maximum ventilation and aerobic capacity (as opposed to the physiological reduction in VO2max)
+
+- Release of NO by the endothelium and reduced physiological damage to the vessel wall
+
+- Reduced insulin resistance and improved glucose metabolism
+
+- Increased muscle mass and power
+
+- Increased cerebral angiogenesis
+
+- Cellular action via mitochondria on oxidative stress
+
+- Improved bone mineral density

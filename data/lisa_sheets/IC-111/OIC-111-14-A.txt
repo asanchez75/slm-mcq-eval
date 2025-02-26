@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-111-14-A
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=A
+|Title=Know how to diagnose seborrhoeic dermatitis
+|Description=Know the positive clinical elements that allow the diagnosis of seborrhoeic dermatitis to be made according to age, topography of lesions and the terrain.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=14}}
+'''The diagnosis is clinical.'''
+
+'''Clinical elements to look for'''
+
+==1. In adults===
+Involvement of the face: most frequent topography. Erythematous patches covered with scales in seborrheic areas: nasolabial folds, eyebrows, glabella, anterior edge of the scalp, etc.
+
+Involvement of the scalp :'''' Sometimes isolated, non-adherent scales (dandruff). Sometimes severe forms with scaly helmet
+
+Involvement of the trunk: annular or circular lesions with a scaly border predominating in the median pre-sternal area
+
+==2. In newborns and infants ==
+Starts after birth, most often with yellow scabs on the scalp (cradle cap) and face. May affect the breech area. Rarely erythroderma.
+
+Severe forms: severe seborrhoeic dermatitis resistant to treatment should be tested for HIV.

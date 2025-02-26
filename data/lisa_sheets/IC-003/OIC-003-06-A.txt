@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-003-06-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=General knowledge of the clinical approach and clinical examination.
+|Description=Describe the 3 stages of the clinical approach and the objectives of the clinical examination.
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+  '''Clinical approach and hypothetico-deductive reasoning: Listening attentively''', then evocation of '''previous compatible clinical situations. Hypotheses'' to be confirmed or refuted by history-taking and clinical examination. The doctor then constructs a series of ''working hypotheses'' which will be reinforced or refuted by the ''history'' and ''clinical examination''.

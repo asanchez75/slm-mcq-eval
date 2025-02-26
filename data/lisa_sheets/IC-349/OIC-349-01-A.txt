@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-349-01-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Knowing the main soft tissue infections
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre-Marie Roy
+|Order=1}}
+The main acute soft tissue infections of the hand are abscesses, panaris and phlegmons of the finger sheaths.
+
+While panaris and phlegmon are specific to the hand and its anatomy, abscesses can occur at any level.

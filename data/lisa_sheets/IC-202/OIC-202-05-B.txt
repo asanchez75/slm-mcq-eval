@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-202-05-B
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=B
+|Title=Knowing how to monitor a patient treated with a background biological or targeted therapy
+|Description=NFS, CRP, VS, creatinine, ASAT/ALAT, lipid profile
+|Section=Additional tests
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=5}}
+
+The parameters and frequency of monitoring depend on the disease being treated, co-morbidities and the type of background treatment.
+
+In all cases, three fields must be regularly assessed:
+
+'''Treatment effectiveness'''
+
+* signs of inflammatory disease activity (clinical, biological and imaging signs in accordance with the recommendations for the disease in question)
+* concentration of the biomedicine in certain cases
+
+Tolerance and side effects
+
+* Infections: prevention and regular screening
+* Neoplasia: prevention and regular screening
+* Cardiovascular complications
+* Biological monitoring (non-exhaustive list)
+
+# adapted to the biomedicine prescribed
+# blood count
+# creatinemia
+# transaminases
+# lipid profile (certain biomedications modify the lipid profile)
+# serum IgG concentration (in the case of treatment targeting B lymphocytes)
+
+ '''Compliance with treatment'''

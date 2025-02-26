@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-264-12-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing how to suspect hereditary nephropathy
+|Description=polycystosis, Alport
+|Rubric=Physiopathology
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=12}}
+
+A family history of nephropathy must be systematically researched by building a family tree.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-088-06-A
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=A
+|Title=Know the four main causes of dysphonia
+|Description=Malignant or suspected CV lesion, benign lesion, unilateral immobility, bilateral immobility.
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+The four main causes of dysphonia found on examination are:
+
+- normal vocal cords but with impaired mobility (uni- or bilateral paralysis) (video 1)
+
+- suspicious vocal cords (malignant lesion): indication for laryngoscopy in suspension (LES) under general anaesthetic for biopsies
+
+- vocal cords with lesions that appear benign: monitoring and LES at the slightest doubt
+
+- normal, mobile vocal cords: referral to a phoniatrician (difficult functional diagnoses)

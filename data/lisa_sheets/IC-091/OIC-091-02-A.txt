@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-091-02-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Heading=Recognise a recent deficit of non-neurological cause (differential diagnosis)
+|Description=Osteoarticular, peripheral vascular, sensory impairment (ENT, ophthalmological)
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Loss of mobility may be of non-neurological origin. It is then a functional impotence which can be :
+
+- of osteoarticular origin: fracture, sprain, arthritis, cuff rupture, etc. :
+
+- pain (+++) ([[Chronic pain SD-035|Chronic pain]], [[Joint pain SD-067|Joint pain]]) is most often in the foreground;
+
+- Clinical examination and imaging can then be used to identify the bone or joint lesion involved;
+
+- of peripheral vascular origin: acute arterial occlusion (very painful, white or necrotic limb, peripheral pulse not felt), phlebitis, haematoma; here again, pain is almost constant.
+
+- for speech disorders ([[Speech and/or phonation disorders SD-134|Speech and/or phonation disorders]]), balance disorders ([[Balance disorders SD-130|Balance disorders]]) and vision disorders ([[Vision anomaly SD-138|Vision anomaly]]), the cause may be non-neurological, of local origin (ENT or ophthalmological).
+
+<br />

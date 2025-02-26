@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-116-01-A
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=A
+|Heading=Know the definition of pruritus, pruritus sine materia and aquagenic pruritus
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Pruritus is a functional sign defined as "a sensation that provokes the need to scratch". It can be localised or diffuse. It is most often secondary to a dermatosis (such as psoriasis, eczema or scabies). When it occurs without specific skin lesions (although there may be scratching lesions), it is known as ''sine materia'' pruritus. Aquagenic pruritus is defined as pruritus occurring after contact with water.
+
+<br />

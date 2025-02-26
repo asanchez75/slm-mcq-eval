@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-090-04-B
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Salivary gland pathology
+|Rank=B
+|Item_parent_short=Pathology of the salivary glands
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=4}}
+'''<u>Tumour pathology</u>''''
+
+*Ultrasound :
+**look for signs in favour of malignancy: heterogeneity, necrosis, irregular contours, adenopathies, high intratumoral resistance index,
+**diagnose contralateral lesions,
+**guide a cytopunction.
+*Parotid MRI :
+**systematic,
+**T1, T2 sequences, with and without injection of Gadolinium, FAT-SAT sequences, diffusion and perfusion curve,
+**The combination of an ADC coefficient <1.2 and a C-type perfusion curve is highly suggestive of malignancy.
+*Cervico-thoracic CT scan injected in cases where malignancy is highly probable (adenopathies, skin invasion, involvement of the VII).
+
+
+'''<u>Lithiasis</u>''''
+
+No imaging is necessary if the clinical picture is typical. Examinations will be requested at a distance from the painful episode, and infectious examinations in the event of diagnostic doubt or recurrence.
+
+*Ultrasound is the examination of choice,
+*Non-injected salivary CT scan,
+*Sialo-MRI.
+
+
+'''<u>Sialoses</u>''''
+
+*Ultrasound: to look for diffuse cystic lesions, areas of collection and ductal dilatation.
+*MRI: allows the same analysis as ultrasound but with much greater precision.

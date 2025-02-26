@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-064-04-B
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=B
+|Intitle=Knowing the definition of bipolar disorders I and II
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+''Bipolar disorders'' are chronic, severe psychiatric disorders characterised by recurrent episodes corresponding to abnormal elevations or reductions in mood, activity and energy.
+
+Type I bipolar disorder is defined by the occurrence of at least one manic episode in the course of a lifetime.
+
+Type II bipolar disorder corresponds to at least one hypomanic episode and at least one episode of major depression (BDD) in the course of a lifetime. These are the disorders associated with the highest [[Suicidal ideation or behaviour/self-harm SD-125|suicidal risk]].

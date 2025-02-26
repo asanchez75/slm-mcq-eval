@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-348-09-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Know the main causes of glomerular ARF, including vasculitis
+|Description=Know the etiologies of rapidly progressive glomerulonephritis requiring urgent specialist advice and treatment.
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=9}}
+
+'''Acute or rapidly progressive glomerulonephritis (GNRP)''' (cf item 261) ''':''''
+
+'''-'''' To be recognised early because of '''therapeutic emergencies'''.
+
+- Typically glomerular syndrome with ''proteinuria'' (> 1 g/g), and abundant ''haematuria'' (> 10<sup>5</sup>/mL) sometimes even macroscopic.
+
+- Urgent PBR, immunological work-up essential. The four types of cause :
+
+* Acute post-infectious glomerulonephritis or chronic infectious conditions: macroscopic haematuria, oedema, hypertension, renal failure (= nephritic syndrome) 10 to 15 days after an episode of ENT or cutaneous infection;
+* Pauci-immune necrotising glomerulonephritis with extra-capillary proliferation: anti-cytoplasmic cell antibody (ANCA) vasculitis, microscopic polyangiitis, granulomatosis with polyangiitis, or eosinophilic granulomatosis with polyangiitis;
+Glomerulonephritis with immune deposits and endo and extracapillary proliferation complicating lupus, mixed cryoglobulinaemia, rheumatoid purpura, etc.; * Goodyear's disease;
+* Goodpasture's disease, where glomerular AKI is often associated with haemoptysis revealing intra-alveolar haemorrhage.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-085-02-B
+|Item_parent=Refractive disorders
+|Item_parent_short=Refractive Disorders
+|Rank=B
+|Title=Knowing what ametropias are
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+The main ametropias are :
+
+- Myopia'': an eye that is too convergent or too long in relation to its convergence. The punctum remotum is at a finite distance from the eyeball and the image of a point at infinity is formed in front of the retina (blurred distance vision). On the other hand, the punctum proximum is closer to the eyeball than in an emmetropic subject and near vision is clear. All in all, a myopic patient sees blurred at a distance and sharp at close range.
+
+There are three types of myopia:
+
+Axial myopia: In the vast majority of cases, myopia is linked to an increase in the anteroposterior axial length of the eye.
+
+Index myopia: In some cases of nuclear cataract, myopia of up to 5 dioptres can occur as a result of an increase in the refractive index of transparent media.
+
+Curved myopia: Finally, myopia can be linked to an increase in the curvature of the cornea.
+
+Clinically, we describe :
+
+- mild myopia (less than 6 dioptres), which is a simple refractive anomaly or ametropia that begins in childhood, increases in adolescence and generally stabilises in young adults (aged 25-30)
+
+- severe myopia ("myopia disease", greater than 6 dioptres or axial length > 26 mm), a hereditary condition that begins in childhood and progresses over several years, manifested by a progressive elongation of the eyeball. Severe myopia is accompanied by serious ocular complications, such as chronic open-angle glaucoma, cataracts and, above all, retinal detachment and myopic maculopathy.
+
+- Hyperopia: this is an eye that is not convergent enough or is too short in relation to its convergence. The punctum remotum is located behind the retina (virtual image behind the retina), distance vision is blurred. The punctum proximum is further from the eyeball than in an emmetropic subject and near vision is also blurred. However, unlike myopes, hypermetropes are able to compensate for their optical defect by excessive accommodation. As a result, hypermetropic patients often present with headaches during visual effort (asthenopia), due to excessive accommodation.
+
+- astigmatism'': the eye's refraction is not the same depending on the plane in which the incident rays are located, most often due to a spherical defect in the anterior surface of the cornea (anterior corneal astigmatism). Astigmatism is said to be regular when there are two principal meridians, perpendicular to each other, and irregular (rarer) when there is no symmetry between the two principal meridians (for example after a corneal wound or corneal graft). Vision is blurred at both distance and near, and the patient may also suffer from asthenopia.

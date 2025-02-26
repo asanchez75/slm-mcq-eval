@@ -1,0 +1,23 @@
+[[Tremors SD-128]]{{objective of knowledge
+|Identifiant=OIC-106-01-A
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=A
+|Title=Knowing the symptoms that can lead to Parkinson's disease
+|Description=Motor and non-motor signs
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+<br />
+
+=== 1. Unilateral or asymmetric parkinsonian triad. Asymmetry persists throughout the disease. ===
+
+*Resting tremor ([[Tremor SD-128|tremor]]) disappearing during movement, slow (4-6 Hz), affecting the limbs, lips or chin, aggravated by emotions and mental calculation.
+*Plastic rigidity or hypertonia: stiffness of the extremities or neck, constant resistance to passive mobilisation, gives way by jerks, cogwheel phenomenon, sensitisation by Froment's manoeuvre ([Joint stiffness SD-056|joint stiffness]]).
+*Akinesia/bradykinesia/hypokinesia. Akinesia is defined as a slowing down of the initiation of a movement, bradykinesia as a slowing down of the movement, hypokinesia as a reduction in the amplitude of the movement. Mode of onset: difficulty in writing (micrographia), in performing activities of daily living (shaving, cutting meat, etc.), walking difficulties ([[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]]). On examination: hypomimia, slowing of rapid alternative movements (thumb-index opposition, beating time with the foot), loss of arm swing with, sometimes, slow walking (small steps), lack of spontaneous movements (blinking, etc.), monotonous voice.
+
+=== 2.  Other telltale signs may precede motor disorders by several years. ===
+
+*rheumatological signs ([[Joint pain SD-067|joint pain]], [[Limb pain (upper or lower) SD-071|limb pain]]) (stiffness of a limb, clinical picture resembling scapulohumeral periarthritis) or neuropsychological (slowing suggestive of depression, anxiety, apathy) ([[Sad mood/moral pain SD-123|sad mood/moral pain]], [[Anxiety SD-116|anxiety]], [[Apathy SD-117|apathy]]).
+*Deficit of the sense of smell due to damage to the olfactory nerve nucleus or behavioural disorders in REM sleep (vivid dreams and/or nightmares which may be responsible for auto- or hetero-aggressive acts) ([[Sleep disorders, insomnia or hypersomnia SD-135|sleep disorders]]).
+*Constipation ([[Constipation SD-001|constipation]]), weight loss ([[Weight loss SD-017|weight loss]]).

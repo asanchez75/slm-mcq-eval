@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-356-05-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Knowing the principles of management
+|Description=None
+|Rubric=Management
+|Contributors=Cyrille PERRENOT,David MOSZKOWICZ
+|Order=5}}
+
+The deadline must be short:
+
+- less than 4 hours in forms with severe clinical signs or in fragile patients
+
+- less than 24 hours in the absence of serious clinical signs (HAS)
+
+Treatment of uncomplicated forms :
+
+- urgent surgical treatment by appendectomy (Mac Burney or laparoscopy)
+
+- one dose of intraoperative antibiotic prophylaxis is often sufficient
+
+- option under evaluation: medical treatment alone with antibiotics
+
+Treatment of an abscessed form :
+
+- percutaneous radiological drainage by ultrasound or CT scan
+
+- 7-day antibiotic treatment
+
+- appendectomy at 3 months
+
+Treatment of a breastplate :
+
+- 7-day antibiotic treatment
+
+- appendectomy at 3 months
+
+Treatment of peritonitis :
+
+- very urgent surgical treatment with appendectomy, peritoneal cleansing and drainage of the peritoneal cavity (laparoscopy or laparotomy)
+
+- antibiotic therapy 5 days

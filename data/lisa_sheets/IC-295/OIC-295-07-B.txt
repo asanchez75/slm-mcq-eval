@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-295-07-B
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=B
+|Title=Know the definition of supportive care in cancerology
+|Description=Knowing the definition of supportive care (INCa definition)
+|Rubric=Definition
+|Contributors=Laurent Zelek
+|Order=7}}
+
+They are defined by the INCa as all the care and support required by patients throughout their illness, in conjunction with specific onco-haematological treatments. They ensure the best possible quality of life, and make it easier to manage the side-effects of treatment.
+
+All cancer patients must have access to supportive care, regardless of where they are treated. Needs assessment should be carried out as soon as the disease is diagnosed, and repeated throughout the course of the disease.

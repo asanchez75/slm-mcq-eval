@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-220-02-A
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=A
+|Title=Knowing the diagnostic orientation of superficial adenopathy in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Diagnostic orientation depends on whether the adenopathy is isolated or part of a polyadenopathy, and on the overall context.
+
+Isolated adenopathy should be investigated for tumour or infection in the drainage area.
+
+- '''Infectious orientation''' :
+
+o Fever
+
+o General or local regional inflammatory signs
+
+o Specific skin rashes (measles, rubella, chickenpox...)
+
+- '''Tumour orientation''' :
+
+o Cold adenopathy
+
+o Altered general condition, sweating, pruritus, bone pain<ins>s</ins>.
+
+o Signs of local compression or tumour syndrome,
+
+o Signs of bone marrow failure
+
+- '''Inflammatory orientation''': if general signs and/or affecting several organs with recurrences

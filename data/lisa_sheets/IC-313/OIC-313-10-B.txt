@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-313-10-B
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=B
+|Title=Knowing the differential diagnoses: benign testicular tumours, extra-testicular tumours
+|Description=Differential diagnosis: Knowing how to identify an extra-testicular scrotal tumour, a cystic tumour, a potentially benign tumour in order to avoid an undue total orchiectomy.
+|Rubric=Positive diagnosis
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=10}}
+
+* Testicular abscess
+* Orchi-epididymitis
+* Leydig cell tumours: 90% benign. Sex steroid secretion (testosterone, estrogen). Infertility, gynaecomastia. Small hypoechoic tumour on ultrasound.
+* Dermoid cyst, benign (child, characteristic "onion skin" appearance on ultrasound).
+* Pre-pubertal teratoma: benign.
+* Non-testicular scrotal tumours:
+** Epididymal tumours
+** Cord cyst
+** Liposarcoma of the cord
+
+<br />

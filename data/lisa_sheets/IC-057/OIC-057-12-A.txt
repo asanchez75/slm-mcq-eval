@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-057-12-A
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=A
+|Intitulé=Infant, child: to know the diagnostic behaviour in the event of suspicion of syndrome of Silverman
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+The discovery of an unexplained fracture or a fracture suspected of being inflicted should lead to a full radiological assessment of the bones, which should be supplemented by a second imaging test: either another radiographic assessment after 10 days, or a bone scan or MRI. In some cases, a CT scan may be discussed with specialists (suspected osteogenesis imperfecta, exploration of the ribs).
+
+This assessment of the skeleton enables the diagnosis of other fractures (of different ages) indicative of Silverman syndrome and also enables the differential diagnoses to be explored.

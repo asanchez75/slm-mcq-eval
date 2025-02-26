@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-162-14-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Knowing the extra-genital manifestations of STIs
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=14}}
+'''Gonococcus:'''
+
+- Anorectitis: asymptomatic +++, anal pruritus, anitis, purulent rectal discharge, diarrhoea, anorectal bleeding, rectal syndrome (tenesmus, epithelial discharge, mucopurulent diarrhoea) and/or feeling of incomplete defecation.
+
+- Oropharyngitis: asymptomatic +++
+
+- Gonococcal septicaemia: fever, skin involvement (petechial purpura; acral or periarticular papules or papulo-pustules), and/or joint involvement (septic mono- or oligo-arthritis; tenosynovitis).
+
+- Other: peri-hepatitis, endocarditis or meningitis.
+
+
+'''Chlamydia:''''
+
+- Pharyngitis
+
+- Anorectitis : asymptomatic +++
+
+- Oculourethro-synovial syndrome: acute or subacute reactive polyarthritis, urethritis, bilateral conjunctivitis, balanitis circinata, psoriasiform palmoplantar keratoderma, keratoconjunctivitis, arthritis.
+
+- In newborns: keratoconjunctivitis, pneumopathy
+
+- Other: peri-hepatitis
+
+
+'''Secondary syphilis:'''
+
+- Syphilitic roseola: 1st secondary syphilis rash, 6 weeks after the chancroid, pinkish macules on the trunk, no other functional symptoms
+
+- Syphilis: papular, palmoplantar
+
+- Other skin symptoms: false perlchea, acneiform papules on the chin, patchy depilation of the tongue, depilation of the eyebrows, etc.
+
+- General signs: fever, headache, poly-ADP, poly-arthralgia, neuro-syphilis, ophthalmic manifestations, etc.

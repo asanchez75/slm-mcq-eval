@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-367-02-B
+|Item_parent=Environmental impact on health
+|Item_parent_short=Environmental impact on health
+|Rank=B
+|Title=Knowing the epidemiology of environmental pathologies
+|Description=Knowing the fraction of respiratory, cardiac and cancer diseases attributable to pollution
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Epidemiological studies combined with toxicological analyses can provide information on the fractions of respiratory and cardiovascular diseases and certain cancers attributable to the environment. There is a large margin of uncertainty in the attributable fractions. They are mainly due to :
+
+- Uncertainties in the quantitative assessment of actual exposure,
+
+- Long delays (sometimes several years or decades) between exposure and clinical manifestations
+
+- Missing or non-monotonic dose-response relationships
+
+Despite this, it is generally estimated that environmental pollution is responsible for between 5% and 15% of the most common pathologies, particularly chronic non-communicable diseases, which have increased sharply over the last half-century (certain cancers, metabolic diseases, obesity, neurodegenerative diseases). However, the most recent data tends to show that these values are underestimated. For example, the WHO considers that general pollution (including air pollution, food and water, but not behaviour) is the most important determinant of global mortality, ahead of tobacco and AIDS/tuberculosis/malaria combined.

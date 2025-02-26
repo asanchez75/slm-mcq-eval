@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-095-06-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and canal syndrome
+|Rank=A
+|Title=Identifying emergency situations
+|Description=None
+|Rubric=Identifying emergencies
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=6}}Emergency situations requiring urgent spinal imaging and surgical advice:
+
+- Motor deficit ≤ 3/5
+
+- Ponytail syndrome
+
+- Hyperalgesia despite highly effective opioid treatment

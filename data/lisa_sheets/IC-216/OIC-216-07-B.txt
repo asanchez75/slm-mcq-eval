@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-216-07-B
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=B
+|Title=Identify the biological abnormalities that should suggest a constitutional or acquired coagulation factor deficiency.
+|Description=Refer to haemophilia
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+Severe ''constitutional haemophilia'' affects boys at walking age and the APTT is the most sensitive screening test, showing a prolongation. The diagnosis is then confirmed by measuring FVIII and FIX levels. Other constitutional deficiencies are very rare and are detected by prolongation of the APTT and/or prothrombin time.
+
+With regard to acquired coagulation deficiencies, when the prothrombin time is prolonged (or the PT is reduced), the factor V level can be used to distinguish "hypovitaminosis K" (where it is normal) from "hepatocellular insufficiency" (where it is reduced), which is more common in adults.
+
+DIC occurs in a suggestive clinical context and leads to progressive haemostasis abnormalities, combining, when decompensated, a decrease in platelets and plasma fibrinogen concentration with an increase in fibrin degradation products (PDF, fibrin monomers).
+
+Acquired haemophilia can rarely affect elderly patients or young post-partum women. The diagnosis is evoked in a patient by a recent haemorrhagic syndrome with a prolonged aPTT, uncorrected by the addition of normal plasma, and a lowered FVIII level.

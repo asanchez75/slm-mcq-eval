@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-129-07-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Knowing how to diagnose coxarthrosis, gonarthrosis or osteoarthritis of the fingers
+|Description=To know when to evoke these diagnoses of osteoarthritis, to know the clinical examination of each localization (topography, schedule of the pains, physical examination, functional repercussion with index of Lequesne)
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+The diagnosis of osteoarthritis should be made when :
+
+- Compatible background: age > 40, risk factors such as overweight or obesity.
+
+- Chronic joint pain, mechanical in nature, [[pain in a limb (upper or lower)]] and more particularly the knee, hip (typical groin pain) or hands.
+
+- Associated signs to look for: [[joint stiffness]], [[joint deformity]], for osteoarthritis of the lower limbs: repercussions with limping, onset of difficulty walking
+
+- No argument for another diagnosis
+{| class="wikitable"
+| colspan="2" |'''Semiology according to location in the lower limbs'''
+
+'''Bilateral and comparative examination'''
+
+'''Standing, static, walking then lying down'''
+|-
+|Coxarthrosis
+| Groin pain, anterior or anteromedial or even posterior
+
+- Key sign (painful hip roll)
+
+- Stiffness, difficulty squatting, limitation of walking perimeter
+
+- Ducking lameness and/or lameness due to loss of hind step
+
+- Vicious flaccid posture and external rotation in advanced forms
+|-
+|Femorotibial gonarthrosis
+|<Knee pain, cracking</nowiki>.
+
+- Reproduced pain on palpation of the medial or lateral joint space, cracking sound
+
+- Possible static disorder (genu valgum or varum)
+
+- Deformity with bone hypertrophy
+
+- Possible effusion (patellar shock, float sign)
+
+- Stiffness in flexion/extension, limitation of walking perimeter
+
+- Lameness (advanced gonarthrosis)
+|-
+|Femoropatellar gonarthrosis
+| Pain in the anterior aspect of the knee when walking and/or descending stairs, after prolonged sitting.
+
+- Reproduced pain: on counter-extension of the leg; on pressure of the patella on the bent knee; on palpation of the patella; on the "plane manoeuvre" (pain triggered by rubbing the patella against the trochlea); on the Zohlen manoeuvre (pain when the examiner opposes the ascent of the patella during contraction of the quadriceps).
+
+- Effusion (patellar shock, float sign)
+
+- Stiffness in flexion/extension, limitation of walking perimeter
+
+- Lameness (advanced gonarthrosis)<br />
+|}

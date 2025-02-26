@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-234-01-B
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=B
+|Title=Knowing the epidemiology of heart failure
+|Description=To understand the epidemiology of heart failure in the context of an ageing population and improved treatment of cardiovascular pathologies,
+|Rubric=Epidemiology
+|Contributors=Olivier Huttin
+|Order=1}}
+
+* Prevalence of 1 and 2%.
+* Average age: 70-80
+* Predominantly male
+* High mortality (10% at one year)
+* 50% of IC patients have preserved EF and have co-morbidities associated with cardiovascular ageing:
+** Renal failure
+** Metabolic syndrome - Type 2 diabetes - Obesity
+** Pulmonary pathology - Sleep apnoea syndrome
+** Anemia
+* The ageing of the population and better management of cardiovascular risk factors and coronary events are leading to a growing increase in the prevalence of cardiovascular disease.

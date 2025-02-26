@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-314-04-B
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder Smoke
+|Rank=B
+|Title=Knowing predisposing occupational exposures
+|Description=Industrial carcinogens The discovery of a bladder tumour should systematically raise the possibility of occupational exposure.
+|Rubric=Etiologies
+|Contributors=Mathieu Roumiguié
+|Order=4}}
+
+*Industrial carcinogens 182]]: the discovery of a bladder tumour should systematically suggest [[occupational exposure 184]].
+**Polycyclic aromatic hydrocarbons (''table 16 bis'' of the general social security scheme and '''35 bis'' of the agricultural scheme)
+**tars, oils and coal tar pitch
+**coal combustion soot
+**metallurgy
+
+*Aromatic amines and N-nitroso-dibutylamine (Table 15 ter of the General Social Security Scheme):
+**colouring agents (dyeing)
+**rubber industry (car tyres)
+**plastics industry (manufacture of plastics)
+**pharmaceutical industry (laboratories)

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-230-12-B
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=B
+|Intitle=Be aware of the main causes of functional angina in the event of exertional angina
+|Description=Tight aortic stenosis, hypertrophic cardiomyopathy, tachycardias (atrial fibrillation), anaemia, hyperthyroidism.
+|Rubric=Etiologies
+|Contributors=Vincent Roule
+|Order=12}}
+
+'''When faced with stress angina, know the main causes of functional angina'''
+
+- Tight aortic stenosis
+
+- hypertrophic cardiomyopathy
+
+- tachycardias (atrial fibrillation)
+
+- anaemia
+
+- hyperthyroidism

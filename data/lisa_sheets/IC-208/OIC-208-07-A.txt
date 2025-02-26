@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-208-07-A
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=A
+|Title=Identify decompensation of CKD and assess its severity
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=7}}
+
+
+*Every patient with CKD has a fragile respiratory system at risk of decompensation, either through an increase in the symptoms of the initial respiratory illness (exacerbations of obstructive CKD or idiopathic pulmonary fibrosis) or through intercurrent events which should be systematically investigated (pulmonary embolism, left ventricular failure, infectious or drug-induced pneumopathy, pneumothorax, etc.).
+*The severity of decompensation should be assessed by clinical signs (see item 359).
+*Blood gases can be used to determine severity by comparison with blood gases in a stable state, which should always be looked for in the file. The signs of seriousness systematically sought are
+**severe hypoxaemia (PaO2<60mmHg)
+**uncompensated respiratory acidosis (pH<7.35 with PaCO2>45mmHg)

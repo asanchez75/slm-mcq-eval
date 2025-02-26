@@ -1,0 +1,121 @@
+{{knowledge objective
+|Identifiant=OIC-053-02-A
+|Item_parent=Stunting of staturo-ponderal growth
+|Item_parent_short=Staturo-ponderal growth delay
+|Rank=A
+|Title=Knowing how to diagnose staturo-ponderal growth retardation
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Thomas Edouard
+|Order=2}}
+
+<br />Growth is a reflection of the child's health: any delay in growth should be considered as a warning sign (symptom) which always warrants assessment.
+
+
+Definitions
+
+* Delayed weight growth :
+
+BMI < IOTF 18.5 curve (curve corresponding to a BMI of 18.5 kg/m<sup>2</sup> at age 18)
+
+And/ or weight loss ≥ 5% in 1 month or ≥ 10% of usual weight
+
+And/or weight stagnation resulting in a weight below - 2 DS of the usual corridor (weight curve)
+
+<br />
+
+* Delayed statural growth :
+
+Height < - 2 DS according to general population curves
+
+And/or size < -1.5 DS compared with the genetic target size
+
+And/or slower growth rate (< 4 cm / year after 4 years)
+
+
+Diagnostic guidance for delayed growth in height and weight
+
+Analysis of the ''staturo-ponderal growth curve'' allows two situations to be distinguished:
+
+'''1) Underweight isolated or prior to statural delay'''
+
+Ø Imbalance in energy balance: lack of intake or malabsorption, increased energy expenditure, excessive losses.
+{| class="wikitable"
+|'''Mechanisms'''
+|'''Main causes'''
+|-
+|'''Lack of intake''''
+|- Neglect, deficient diets (veganism)
+
+- Psychogenic or organic anorexia
+
+- Vomiting, oral disorders
+|-
+|Malabsorption
+|- Celiac disease, cow's milk protein allergy (CMPA)
+
+- Inflammatory bowel diseases (IBD)
+|-
+|Increased energy expenditure
+|- Respiratory: obstructive dyspnoea, sleep apnoea syndrome, respiratory insufficiency
+
+- Cardiac: congenital heart disease, cardiomyopathy
+
+- Immune: repeated infections, immune deficiency
+
+- Inflammatory: systemic diseases
+
+- Hereditary metabolic diseases
+
+- Hyperthyroidism ''(only cause where underweight is associated with accelerated statural growth)''
+|-
+|Excessive losses
+|- Digestive: chronic diarrhoea, losses through stomas or aspirations.
+
+- Urinary: diabetes mellitus, diabetes insipidus, nephropathy
+
+- Cutaneous: burns, severe eczema, epidermolysis bullosa
+|}
+
+
+'''2) Predominantly delayed stature, associated with weight in relation to height or, on the contrary, excessive weight in relation to height'''
+
+Main causes of energy, hormonal, bone or genetic origin
+{| class="wikitable"
+|'''Mechanisms'''
+|'''Main causes'''
+|-
+|'''Energy deficiency''''
+|Stature delay most often secondary to underweight. Certain pathologies, particularly digestive (coeliac disease), may initially manifest as an isolated height anomaly (without underweight).''
+|-
+|Lack of care
+|- Psychosocial dwarfism
+
+''Lack of care/neglect can be responsible for a delay in weight gain due to a lack of nutrients but also a hormonal deficit of psychological origin''.
+|-
+|'''Hormonal causes''''
+|- Endocrine causes
+
+- Congenital or acquired growth hormone deficiency, isolated or associated with other pituitary deficiencies (always suggest a pituitary tumour such as a craniopharyngioma).
+
+- Congenital or acquired hypothyroidism (Hashimoto's thyroiditis)
+
+- Excess glucocorticoids (most often iatrogenic hypercorticism, more rarely Cushing's syndrome)
+
+- Delayed puberty ''(associated with a lack of pubertal acceleration in growth rate)''
+|-
+|Bone-related causes
+|- Constitutional bone diseases
+|-
+|Genetic causes
+|- Turner's syndrome (always to be considered in girls)
+
+- Other chromosomal or genetic abnormalities
+|-
+|Intrauterine growth retardation
+|- IUGR without postnatal statural recovery
+|-
+|Idiopathic short stature
+|Petite taille idiopathique, le plus souvent familiale ''(diagnostic d'élimination)''
+|}
+<br />

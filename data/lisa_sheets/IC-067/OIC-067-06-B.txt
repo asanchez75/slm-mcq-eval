@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-067-06-B
+|Item_parent=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Item_parent_short=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Rank=B
+|Title=Know the principles of psychosocial and drug treatments
+|Description=Multimodal treatment, psychoeducation, adjustments to schooling, treatment of co-morbidities, role of CBT and remediation; Psychostimulants (see item 74) and non-psychostimulants.
+|Rubric=Management
+|Contributors=Diane Purper-Ouaki,Charles-Edouard Notredame
+|Order=6}}
+
+==Impairment of intellectual development==
+
+===Psychosocial measures===
+
+*Psycho-education/therapeutic education
+*Re-education - see [[Prescription of re-education SD-247|Prescription of re-education]]
+*Schooling arrangements (PPS)
+*Transfer to ULIS or IME
+
+===Medicinal treatments===
+For certain associated disorders when their functional impact is significant.
+
+==Specific learning and acquisition disorders==
+The measures are psychosocial:
+
+*Psycho-education/therapeutic education
+*Rehabilitation
+*Augmentative communication tools in the event of limited verbal expression
+*Schooling adjustments according to the degree of impact (PPRE/PAP/PPS)
+*Orientation to ULIS or IME specific to specific learning and acquisition disorders
+
+==ADHD==
+
+===Psychosocial measures===
+
+*Psycho-education/therapeutic education
+*Programs to reinforce parenting skills
+*Cognitive re-education/remediation
+*2C-196-SP-B02|Cognitive-behavioural therapy]] individual or in groups
+*Schooling adjustments (PPRE/PAP/PPS)
+*Support for associations
+
+===Medication treatments===
+
+*Methylphenidate if psychosocial measures are inadequate (see [[Psychostimulants: Indications, non-indications, contraindications 2C-074-PC-B07|psychostimulants]]):
+**From 6 years of age
+**Improves 80% of people with ADHD
+**Initiated by a specialist (paediatrician/neuropaediatrician, child and adolescent psychiatrist/psychiatrist) + annual reassessment.
+**Renewal of the secure prescription, in full, mentioning the pharmacy every 28 days.
+*Non-psychostimulant drugs as second-line treatment
+
+==TSA==
+
+===Psychosocial measures===
+
+*Psycho-education/therapeutic education
+*Parenting programmes
+*Social-cognitive re-education/remediation - see [[Prescription of re-education SD-247]]
+**Specialised speech and language therapy
+**Pictograms/augmented communication
+**Social skills training programmes
+**Therapies focusing on interaction and socio-emotional synchronisation
+*Depending on severity and impact:
+**Ordinary schooling with special arrangements (PPRE/PAP/PPS)
+**Maternelle Autism Teaching Units (UEMA) or Elementary Autism Teaching Units (UEEA)
+**IME
+*Support from associations
+
+===Medication treatments===
+For certain disorders and associated symptoms :
+
+*Sleep: melatonin
+*Irritability/behavioural disorders: second-generation antipsychotics
+*Mood disorders/OCD: selective serotonin reuptake inhibitors
+*ADHD: methylphenidate
+
+==Tics==
+
+===Psychosocial measures===
+
+*Psycho-education/therapeutic education
+*Cognitive-behavioural therapy
+**Environmental modification
+**Alternative behaviour
+*Associative support
+
+===Medicinal treatments===
+Second-generation antipsychotics in severe forms

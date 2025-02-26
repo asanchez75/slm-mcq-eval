@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-349-04-B
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=B
+|Title=Knowing the microbiological specificities of bites
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Pierre-Marie Roy
+|Order=4}}
+
+
+* The bites are ''animal or human''.
+* Most often it is a polymicrobial infection.
+* ''''' Pasteurella multocida''''' (gram-negative bacillus) is the most common germ in cat and dog bites. Infection is rapid, with inoculation occurring within 24 hours. This germ is sensitive to amoxicillin.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-243-10-A
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=A
+|Title=Knowing the principle of hormone replacement therapy in hypothyroidism
+|Description=None
+|Rubric=Management
+|Contributors=Eva Feigerlova,Igor Tauveron,Stéphanie Espiard
+|Order=10}}
+
+'''1. means and objectives [[Principle of proper use of medicines and non-medicinal|therapeutic therapies]]  [[Follow-up consultation and therapeutic education for a patient with hypothyroidism SD-284]]''''
+
+Treatment is based on the use of marketed T4.
+
+Thyroid hormone requirements average 1 to 1.5 µg/kg per day.
+
+
+A. Primary hypothyroidism
+
+- Therapeutic balance is based on TSH monitoring: this is carried out 6 to 8 weeks after the start or modification of treatment and then every 6 months to 1 year.
+
+
+'''B. Thyrotropic insufficiency''''
+
+- therapeutic balance is based on monitoring T4L levels
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

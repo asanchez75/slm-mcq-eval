@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-226-04-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Know how to diagnose VTE (DVT, PE): clinical signs, diagnostic strategy including scores, paraclinical signs, main differential diagnoses.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=4}}
+
+Thromboembolic venous disease (TEVD) is a diagnostic and therapeutic emergency, as it can be life-threatening in the case of PE.
+
+==Clinical suspicion: clinical signs ==
+The clinical presentation of VTE is polymorphous.
+
+'''Suspicion of DVT:''''
+
+*Pain in the lower limb|Spontaneous pain in the lower limb;
+*Localised or generalised oedema of the lower limbs|unilateral oedema]];
+*Chronic venous insufficiency. Varicose veins|superficial venous dilatation in the absence of varicose veins]].
+
+The more abrupt the onset and the more unilateral the signs, the more valuable they are.
+
+DVT may also be asymptomatic and be discovered in the setting of PE or during routine screening.
+
+'''Suspicion of PE:''''
+
+*Chest pain SD-161|basi- or latero-thoracic pain;
+*Dyspnoea SD-162|dyspnoea]];
+*haemoptoic sputum ;
+*Tachycardia SD-166|tachycardia];
+*lipothymia ;
+*Syncope;
+*haemodynamic failure with signs of shock and right heart.
+*
+
+As in the case of DVT, these signs are not always present and may be encountered in other clinical situations.
+
+Dyspnoea is all the more suggestive if there is no other obvious cause (pneumopathy, OAP, etc.).
+
+Finally, PE can be asymptomatic, discovered by chance on a chest scan prescribed for another indication.
+
+==Clinical probability scores ==
+There are several clinical probability scores, in particular the Wells DVT score for the diagnosis of DVT, and the Wells PE and Geneva scores for PE. They are divided into 2 (not probable / probable) or 3 (low / intermediate / high) probability classes. In particular, they are used to guide the performance of additional tests, D-dimers and imaging.
+=='''D-dimer'''==
+- Fibrin degradation products.  
+
+- determination by ELISA or turbidimetric latex techniques
+
+- elevated levels in situations other than VTE (elderly subjects, pregnancy, infection, inflammation, cancer, COPD, etc.)
+
+- '''non-specific'''
+
+- but have a ''high negative predictive value''.
+
+==Imaging ==
+DVT:'''' venous Doppler ultrasound performed in decubitus position.
+
+'''EP:''' thoracic angioscanner.  
+
+- Certain situations may require ventilation/perfusion scintigraphy.  
+
+- If there is a contraindication to either of these tests, the diagnosis is made if there is a clinical probability of PE and evidence of proximal DVT on venous Doppler ultrasound.
+
+== ''Diagnostic algorithms'' ==
+[[File:VTE EP DVT.jpg|thumb|772x772px]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the case of a ''high clinical probability'' score
+
+- start anticoagulant treatment before the results of imaging tests
+
+- if the initial imaging is negative, further investigations should be carried out before completely ruling out the diagnosis of PE by performing a venous Doppler ultrasound or a ventilation/perfusion lung scan or a thoracic angioscanner which would not have been performed before considering stopping anticoagulant treatment.
+
+==''Differential diagnoses'''==
+Bilateral, comparative and exhaustive venous Doppler ultrasound can be used to identify differential diagnoses such as popliteal cyst rupture, intramuscular haematoma, muscle tear, etc.
+
+Thoracic angioscanner can be used to diagnose thoracic pathologies that mimic PE (pneumopathy, bronchopulmonary cancer, etc).

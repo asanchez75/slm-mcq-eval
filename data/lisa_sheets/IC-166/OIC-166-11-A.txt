@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-166-11-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Know symptomatic treatment
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+- Rest
+
+- 5-day sick leave
+
+- Hydration
+
+- Normal power supply
+
+- Analgesics, Antipyretics
+
+- Do not prescribe aspirin for children because of the risk of Reye's syndrome
+
+- Adapting background treatment for a chronic disease

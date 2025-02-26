@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-273-03-A
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=A
+|Title=Knowing the elements in the questioning that point to lesional or non-lesional dysphagia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+It is necessary to characterise the background, history and mode of onset of dysphagia:
+
+
+'''Terrain and antecedents:'''
+
+- Risk factors for ENT or oesophageal cancer: alcohol and/or tobacco consumption (squamous cell carcinoma), overweight/GER (adenocarcinoma).
+
+- Neurological or neuromuscular pathology: after-effects of a stroke, Parkinson's disease, etc.
+
+- Systemic disease (scleroderma), immunodepression (infectious oesophagitis), etc.
+
+- Risk factors for scarring of the oesophagus: history of caustic ingestion / radiotherapy / GERD (peptic stenosis)
+
+-Atopy or asthma (in young people), in association with eosinophilic oesophagitis (50% of patients).
+
+-Current treatments (biphosphonates, cyclins)
+
+
+'''Mode of onset of dysphagia:'''
+
+-Progressive dysphagia starting with solid foods, leading to a mixed or liquid diet and then to aphagia with salivary stasis, which is suggestive of oesophageal obstruction (particularly neoplastic).
+
+-Paradoxical dysphagia, predominantly with liquids, is classic, although inconstant, in cases of oesophageal motor disorder of the achalasia type.
+
+
+'''Associated symptoms:''''
+
+- ENT and/or respiratory signs, hiccups, hypersialorrhoea, miscarriage
+
+- altered general condition (anorexia, weight loss), melena
+
+
+'''All dysphagia is lesional (oesophageal cancer) until proven otherwise'''

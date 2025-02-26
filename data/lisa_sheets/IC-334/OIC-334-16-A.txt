@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-334-16-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and assessment of complications on arrival at hospital for: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to recognise the signs of a serious burn in adults and children
+|Description=Identify a deep burn (2nd degree deep, 3rd degree), circular, neck, face, orifices, surface > 10%), recognise an airway burn
+|Rubric=Emergency identification
+|Contributors=
+|Order=16}}
+Any medical history increases the prognosis of a burn, with 2 major factors: age and diabetes (due to healing difficulties).
+
+The circumstances in which the burn occurred must be clearly identified, and are essential in order to avoid overlooking associated trauma or intoxication that could worsen the prognosis.
+
+There is no official definition of severe burns. The experts suggest taking into account "serious burns with vital risk" and "serious burns with functional risk" (Recommendations for Professional Practice SFAR/SFB 2019).
+
+'''In adults:''''
+
+* burned skin area (BSA) > 20%, third-degree BSA > 5%, smoke inhalation syndrome, particular deep location (face, hands, feet, perineum), high-voltage electrical burn.
+* uu SCB < 20% AND special circumstances: age >75 years, severe co-morbidities, suspected or proven smoke inhalation, deep circular burn, particular deep location: face, hands, feet, perineum, folds, SCB > 10%, third degree SCB between 3 and 5%, low voltage electrical burn, chemical burn (hydrofluoric acid).
+
+'''In children:''''
+
+* SCB > 10%, third-degree SCB > 5% (see figure 3), infant < 1 year old, severe comorbidities, smoke inhalation syndrome, particular deep location (face, hands, feet, perineum, flexion creases), circular burn, electrical or chemical burn.

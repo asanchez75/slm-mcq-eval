@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-301-09-A
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=A
+|Title=Analytical epidemiology: knowing the risk factors
+|Description=List the risk factors for colon and rectal cancer
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+The risk factors for colorectal cancer are :
+
+- '''Exogenous:'''
+
+o Sedentary lifestyle, overweight
+
+o A diet rich in red meat and low in fibre
+
+o Tobacco, alcohol (modest role)
+
+- Endogenous
+
+o Personal history of colorectal adenoma or adenocarcinoma ++++
+
+o First-degree family history before the age of 65 of colorectal cancer or adenoma larger than 1 cm.
+
+o Inflammatory bowel disease (IBD) with colonic and/or rectal involvement for more than 20 years
+
+Hereditary predisposition (PAF, Lynch

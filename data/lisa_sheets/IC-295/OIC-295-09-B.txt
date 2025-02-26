@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-295-09-B
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=B
+|Title=Supportive care: understanding the concept of alternative medicine
+|Description=Knowing the concept of alternative medicine, its use and potential risks
+|Rubric=Definition
+|Contributors=Laurent Zelek
+|Order=9}}
+
+'''According to WHO terminology, Complementary and Alternative Medicine or CAM encompasses "approaches, practices, health and medical products, which are not usually considered to be part of conventional medicine".''' Complementary and Alternative Medicine, the term used by the WHO, covers "approaches, practices, health and medical products that are not usually considered to be part of conventional medicine (Western medicine, allopathic medicine)". Some teams (and many patients) use them. One example is acupuncture for CINV. A limited number of these complementary and alternative therapies have been the subject of well-conducted clinical trials and can help to control certain symptoms.
+
+'''NB:''' Care must be taken with self-medication, for example with phytotherapy products which may be responsible for pharmacological interactions (the classic example of St John's Wort), and with restrictive diets ("therapeutic fasting") which may increase undernutrition. In rarer cases, patients may have turned away from active treatments in favour of CAMs of unproven benefit. Sectarian aberrations may be associated with this. Therefore, only non-conventional practices or treatments used in a complementary way deserve attention.
+
+See: [[Principles of integrative medicine, usefulness and risks of non-drug interventions and complementary therapies]]

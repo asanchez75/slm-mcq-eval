@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-164-05-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Title=Infectious eruptive diseases: rubella
+|Description=epidemiology (B), prevention (A), clinical features (A), particular risk during pregnancy (A), foetopathy (B)
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=5}}
+
+'''Epidemiology:''''
+
+- the rubella virus is an RNA virus, belonging to the Togaviridae family and the Rubivirus genus
+
+- human-to-human transmission via the respiratory (or transplacental) route
+
+- most often benign infection (50% asymptomatic) but potentially severe during pregnancy (<18SA) because of the risk of foetopathy
+
+
+'''Prevention:'''
+
+- Vaccine prevention through MMR vaccination (see vaccination): compulsory for under-2s (two doses: 12 months then 16-18 months), catch-up if not immune or incomplete vaccination, particularly for women of childbearing age outside pregnancy (see vaccination).
+
+- '''mandatory declaration'''
+
+- no eviction from the community
+
+- avoid contact with non-immune pregnant women
+
+
+Clinical features
+
+'''-'''' incubation 15-20 days
+
+- contagiousness: 7 days before 14 days after rash
+
+- 2 phases
+
+           - pre-eruptive (invasion): fever and aspecific general signs
+
+           - eruptive: maculopapular exanthema with patches of healthy skin, paler than the measles rash, following the same kinetics (head to toe), fleeting, disappearing in 3 days. It is accompanied by moderate fever and inconstant lymphadenopathy, particularly in the retroauricular and posterior cervical regions.
+
+Complications are rare and include thrombocytopenia, joint damage (rare in children) and, more rarely, neurological damage.
+
+Treatment is symptomatic
+
+
+'''Risk during pregnancy/Fetopathy/Congenital rubella''''
+
+Transplacental passage of the virus during the "first months of pregnancy (before 18 weeks' gestation)" is responsible for a risk of death in utero or congenital malformations that is all the higher the earlier the pregnancy (70% to 100% risk if primary infection before 11 weeks' gestation, up to 80% between 12 and 18 weeks' gestation).
+
+Viremia during embryogenesis can cause damage to the central nervous system and/or the inner ear and/or the eye and/or the cardiovascular system.
+
+Congenital rubella can therefore result in growth retardation, sensory damage (deafness, eye damage), neurological damage (developmental delay, microcephaly) or even cardiac malformations (examination of the newborn at term SD-039).

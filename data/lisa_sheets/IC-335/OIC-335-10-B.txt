@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-335-10-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Knowing the risk of joint ankylosis after condylar fracture
+|Description=None
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=10}}
+
+
+Ankylosis of the temporomandibular joint after fracture of the condyle is possible, and is clinically manifested by a progressive and chronic limitation of mouth opening; it is more frequent in cases of intra-articular fracture.
+
+radiological evidence of ossification of the joint region
+
+Treatment is essentially preventive, with early mobilisation of these fractures; if ankylosis is present, surgery involves resection of the ankylosis block and interposition of a material/prosthesis to prevent recurrence.

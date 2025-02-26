@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-171-10-B
+|Item_parent=Scabies and Pediculosis
+|Item_parent_short=Scabies and Pediculosis
+|Rank=B
+|Title=Knowing the value of the dermatoscope for diagnosing scabies
+|Description=Identification of a furrow and observation of the Sarcopte mite
+|Rubric=Positive diagnosis
+|Contributors=M. P. BRENIER-PINCHART,G. ROBERT,M. HENTZIEN,A. ANGOULVANT,F. BOTTEREL,M. L. DARDE,F. ROBERT-GANGNEUX
+|Ordre=10}}
+<gallery widths="600" heights="600">
+Fichier:Dermatoscope.png| Dermatoscope observation: sign of the deltaplane wing (anterior part of the sarcoptes) at the end of a scabious furrow.
+</gallery>Cutaneous observation with a dermatoscope can support the clinical diagnosis and guide parasitological sampling. Carried out by an experienced practitioner, it enables the furrows and the anterior part of the sarcoptes to be visualised (hang-glider wing sign: small brown triangle visualised at the end of the arrows at one of the ends of the scabial furrow).
+
+<br /><gallery widths="500" heights="500">
+</gallery>

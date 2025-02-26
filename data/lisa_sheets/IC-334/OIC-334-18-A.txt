@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-334-18-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing the principles of local burn care
+|Description=Cooling the burned area, preventing hypothermia, dressings, analgesia, Escarrotomy
+|Rubric=Management
+|Contributors=
+|Order=18}}
+The first step is to remove clothing. Next, the burn should be cooled, ''but not the patient'': this is the preferred treatment for burns < 20% DBS without organ failure (15 minutes with water at 15°C or water gel such as Brulstop®, quickly after the accident, otherwise useless). Cooling also helps to limit pain, oedema and the deepening of burns. On the other hand, every effort should be made to keep the patient normothermic (heated environment, survival blanket, forced-air heating blanket).
+
+In hospital, once the patient has warmed up, a thorough cleansing is carried out with antiseptic soap (and shaving of the burned areas), followed by disinfection of the lesions with diluted polyvidone-iodine or chlorhexidine, then rinsing with water. The protective dressing will then include the only topical that can be used on a burn outside of specialist care: silver sulphadiazine (contraindicated in pregnancy or if allergic to sulphonamides).
+
+In the case of chemical burns, remove all clothing that may be contaminated, then wash thoroughly and for a long time (more than 30 minutes, especially for eye burns) to dilute the product, without cooling the patient, and protecting yourself.
+
+Probabilistic antibiotic therapy is only justified in the case of soiled burns (soil, soiled water, etc.) or perineal burns. Tetanus status should be systematically checked ("''[[Vaccinations for adults and children SD-322|vaccinations for adults and children]]'').
+
+'''Pain management:'''' In the case of conscious patients, assessment will be carried out using visual analogue scales and the treatment adapted accordingly using multimodal analgesia combining molecules from levels 1 to 3 ('''[[Assessment and management of acute pain SD-259|assessment and management of acute pain]]'', ''[[Prescribe analgesics SD-250|prescribe analgesics]]''').
+
+Pain in serious burns is often severe and requires Level 3 molecules, with intravenous morphine titration followed by continuous high-dose morphine maintenance. They are combined with co-analgesics, in particular MEOPA in consultation (equimolar mixture of oxygen and nitrous oxide), or ketamine in critical care for dressing ("''[[Prevention of pain associated with care SD-258|prevention of pain associated with care]]'''). An anxiolytic treatment may be used in cases of anxiety, with or without hypnosis techniques.
+
+If tracheal intubation is indicated, the patient is sedated with a continuous hypnotic-morphine combination.
+
+In the case of 3rd degree circular burns to segments of the body (neck, trunk, limbs), the oedema that develops rapidly during initial resuscitation may be responsible for neurovascular compression or impaired ventilation. Escharrotomy :
+
+* incision of the pressure sore with little pain and little bleeding because of the necrosis of the area (3rd degree burn, figure 13)
+* site: limbs; neck; trunk
+* trajectory along the external and internal edges (avoid nerve and vascular paths)
+* within 6 hours post-burn if deep circular lesion
+* clinical assessment (limb rigidity, ventilatory difficulties, etc.)
+* [[File:Item 334 Figure 16 Principles of local burn care.jpg|vignette|Figure 16. Principles of local burn care]]aponevrotomy for electrical burns (incision of muscle compartments)

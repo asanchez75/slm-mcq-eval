@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-152-16-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing how to manage the entry point of an IE
+|Description=None
+|Topic=Management
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Ordre=16}}
+The infectious '''[[Knowing the entry points according to the infectious agent 2C-152-EP-A01|entry point]]''' of an IE:
+
+-> must be ''systematically'' investigated by a ''targeted clinical examination'' and/or ''additional tests'' (some of which must be carried out as a matter of course).
+
+-> is guided by the type of "infectious agent" identified by blood cultures.
+
+Its discovery then requires ''specific therapeutic management,'' in order to eradicate it and ''prevent recurrence of the IE'' (Table).
+{| class="wikitable"
+|+'''Table:'''' Diagnostic and therapeutic management of the different routes of entry of infective endocarditis.
+|'''Infectious agents''''
+|'''Entry site'''
+|Clinical/paraclinical examination
+|Treatment/prevention
+|-
+|Staphylococcus aureus
+|'''Skin lesions''''
+|'''Examination of the entire skin surface'''
+|'''Local care of a skin lesion until healing'''
+
+'''Drainage of an abscess'''
+|-
+|''Staphylococcus aureus''
+
+coagulase-negative Staphylococcus
+|Endovascular equipment (valve prosthesis, pacemaker, implantable defibrillator, etc.) which constitutes a 1<sup>er</sup> vascular relay at the entry point.
+|TTE and TEE
+|Removal of endovascular material (as far as possible)
+
+'''Surgical/ cardiological opinion'''
+|-
+|Staphylococcus aureus
+
+coagulase negative ''Staphylococcus
+
+''Candida spp.''
+|'''[[Prescription and monitoring of a vascular approach SD-271|Central venous catheter]]''''
+|Catheter removal and culture (systematic)
+
+Vascular Doppler to look for associated thrombosis
+|Catheter removal (systematic)
+|-
+|Oral Streptococcus
+
+Bacteria of the HACEK group
+|'''Teeth, oral cavity''''
+|Orthopantomogram and odontological examination (systematic)'''
+|'''Treatment of all infectious outbreaks'''
+|-
+|''Streptococcus gallolyticus''
+
+Enterococcus
+|Digestive tract
+
+Biliary tract
+|'''Total colonoscopy (systematic)'''
+
+'''Abdominal and biliary tract imaging'''
+|''Removal of polyps, treatment of digestive neoplasia'', '''Drainage of an obstructed bile duct''...
+|-
+|Enterococcus
+|Urinary tract
+|ECBU, urinary tract imaging
+|'''Treatment of a urinary tract infection'''
+|}
+<br />

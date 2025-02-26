@@ -1,0 +1,74 @@
+{{knowledge objective
+|Identifiant=OIC-020-30-A
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=A
+|Title=Criteria for judging causality and level of evidence in different studies
+|Description=Knowing how to define / recognise / interpret
+|Section=Definition
+|Contributors=Julie Berbis (CUESP),David Hajage (CIMES),Alexandra Rouquette (CIMES)
+|Order=30}}
+
+The existence of a statistically significant association does not prejudge the causal nature of the relationship between an exposure and a health phenomenon. While experimental studies can provide proof of causality, observational studies can only discuss the plausibility of this causality, in the light of the "Bradford Hill causality criteria":
+{| class="wikitable"
+| colspan="2" |'''BRADFORD HILL CAUSALITY CRITERIA''''
+|-
+|Criteria '''internal''' to the study
+|Statistical association between exposure and the phenomenon studied
+
+Strength of the association
+
+Dose-effect relationship
+
+Specificity of the relationship
+
+Minimisation of selection and ranking bias. All known confounding factors are correctly taken into account.
+
+Absence of temporal ambiguity (exposure must precede the phenomenon studied)
+|-
+|Criteria "external" to the study
+|External consistency: consistency between study results
+
+Biological plausibility (known pathophysiological mechanism)
+
+Consistency with in vitro and animal studies
+
+Parallel geographical gradients in exposure and the phenomenon studied
+
+Decrease in the incidence of the phenomenon studied when exposure is eliminated or reduced
+|}
+<small>*The criterion of specificity of the relationship between exposure and the phenomenon studied is very convincing when it is present but is absent most of the time even if the causal relationship is very plausible. It is now accepted that an effect can be multi-causal (environment, genetic, etc.) and therefore the specificity of the relationship is no longer an essential causality criterion</small>
+
+
+The different types of study therefore do not have the same demonstrative value in terms of causality, which translates into ''a different level of evidence'' (classification proposed by the Haute Autorité de Santé, cf [[Argumenter les niveaux de preuve des principales sources d'information 2C-323-PE-A03]]):
+{| class="wikitable"
+|'''Grade des recommandations''''
+|'''Level of scientific evidence provided by the literature'''
+|-
+|'''A Scientific evidence established'''
+|'''Level 1'''
+
+* high-powered randomised controlled trials
+* meta-analysis of randomised controlled trials
+* decision analysis based on well-conducted studies
+|-
+|'''B Scientific presumption'''
+|'''Level 2'''
+
+* low-power randomised controlled trials
+* well-conducted non-randomised comparative studies
+* cohort studies
+|-
+| rowspan="2" |'''C Low level of scientific evidence'''
+|'''Level 3'''
+
+* case-control studies.
+|-
+|'''Level 4'''
+
+* comparative studies with significant bias
+* retrospective studies
+* case series
+* descriptive epidemiological studies (cross-sectional, longitudinal)
+|}
+<br />

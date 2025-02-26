@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-363-10-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=Know the main immediate complications of proximal femur fractures and their prevention
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=CFCOT
+|Order=10}}
+
+The main immediate complications of proximal femur fractures must be prevented in the pre-operative period.
+
+
+- Pressure sores: the risk of occurrence should be assessed using a validated scale. Prolonged immobilisation on a stretcher in the emergency department should be avoided, and the patient should be placed early on a suitable support and regularly mobilised.
+
+- Acute confusion: identify acute confusion in the face of sudden cognitive or behavioural changes. Screen for pre-existing cognitive problems by taking a history from the family and carers, as soon as the patient is admitted. Implement early measures to prevent acute confusion, especially in subjects at risk (high age, numerous co-morbidities, previous cognitive disorders, sensory disorders, poorly controlled pain, etc.).
+
+- Pain: systematic, early and repeated assessment from the outset, using a scale adapted to communicating and non-communicating patients. Optimised use of morphine does not increase the risk of confusion.
+
+- ''co-morbidities'': identify and treat rapidly correctable co-morbidities without delaying surgery
+
+- Infections: antibiotic prophylaxis at induction of anaesthesia by a single dose of antibiotic, in the absence of contraindication. Antibiotic prophylaxis reduces the risk of deep surgical site infections.
+
+- Anemia: iron supplementation for patients with anemia. Transfusion if Hb< 8g/dl or clinically poorly tolerated.
+
+- Fluid and electrolyte disorders: optimising hydration. Preventing, detecting and treating pre- or post-operative hyponatraemia, which is often iatrogenic.
+
+- Thromboembolic risk: first-line prescription of LMWH at a prophylactic dose for 35 days. Elastic venous restraint should be used in the absence of critical OAMI.
+
+- '''postoperative myocardial ischaemia''': acute coronary pathologies are the 2<sup>nd</sup> cause of death after proximal femur fracture. Continue platelet anti-aggregation if treatment is justified.
+
+- postoperative urinary complications (infection, retention, incontinence). Systematically detect postoperative bladder retention (measured by bladder scanner). Avoid unnecessary urinary catheters and reassess at 48 hours. Avoid anticholinergic drugs postoperatively.
+
+- '''pulmonary infections''': 1<sup>rst</sup> cause of death at 30 days after proximal femur fracture. Mobilise the patient early. Detect swallowing disorders and adapt textures. Prescribe respiratory physiotherapy for patients at risk (COPD).
+
+- Undernutrition: assess nutritional status and intake. Protein and energy supplements if necessary.
+
+- '''Constipation:''' Measures to prevent constipation. Daily monitoring of transit.

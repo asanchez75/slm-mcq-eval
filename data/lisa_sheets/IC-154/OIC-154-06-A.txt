@@ -1,0 +1,100 @@
+{{knowledge objective
+|Identifiant=OIC-154-06-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Knowing how to look for and recognise clinical and paraclinical signs of seriousness
+|Description=Signs of acute respiratory distress and shock + Know how to request a chest X-ray (bilateral, extensive, pleural effusion) and an arterial GDS with lactates (deep hypoxaemia, hypercapnia, hyperlactacidaemia). Familiarity with paediatric clinical semiology
+|Rubric=Emergency identification
+|Contributors=
+|Order=6}}
+'''Signs of severity of acute community-acquired pneumonia (CAP):'''
+
+The signs of clinical severity determine :
+
+the patient's *'''' orientation;
+*the choice of ''complementary examinations;'''
+*the choice of initial probabilistic ''antibiotic therapy''.
+
+The CRB65 score is purely clinical, and is used to assess immediate severity and guide patient management.
+
+If only one of the following 4 criteria is present, an inpatient assessment is recommended:
+
+*Confusion ;
+*Respiratory rate > 30 ;
+*Systolic BP < 90 mmHg or diastolic BP ≤ 60 mmHg,
+*Age (physiological) > 65 years
+
+
+Assessing the severity of CAP involves looking for :
+
+*signs of respiratory distress:
+**Respiratory rate >30/min
+**cyanosis or SpO2 < 90% on O2
+**Need for assisted ventilation (respiratory failure or respiratory acidosis)
+*Signs of sepsis severity:
+**Impaired alertness
+**Heart rate > 120 bpm
+**Systolic blood pressure < 90 mmHg
+**septic shock
+**Oliguria
+**Other organ failure
+*Radiological extension and evolution:
+**multilobar damage; rapid evolution of lesions
+*Biological signs of severity:
+**Acute renal or hepatic failure
+**Metabolic acidosis; hyperlactataemia
+**thrombocytopenia (< 100 G/L)
+**Leukopenia (< 4 G/L)
+**CVD
+
+If one or more of the signs of seriousness are present, the patient should be considered for admission to an intensive care unit.       
+
+In addition to the signs of seriousness, the patient may need to be hospitalised because of :
+
+- prior failure of outpatient treatment
+
+- decompensation of a comorbidity
+
+- a situation at risk of not taking treatment (including a precarious social situation)
+
+
+'''Signs of severity of acute pneumonia in children:'''
+
+*field-related":
+**age < 6 months;
+**cardiac and/or pulmonary comorbidities;
+**immunodepression; sickle cell anaemia.
+*signs of severity
+**AEG , high fever
+**Increased respiratory rate for age
+**Signs of significant respiratory struggle
+**cyanosis
+**SpO2 < 95% on room air
+**Sweating; disturbed consciousness
+**difficulty feeding
+**Extent of pneumonia: more than 2 lobes; inter-tracheobronchial adenopathy
+**Local complications: pleurisy, abscesses
+
+'''Signs of severity of bronchiolitis (in infants)'''
+
+*''Linked to the terrain and environment:''
+**Age < 6 weeks
+**Preterm < 34 SA, corrected age < 3 months
+**cardiac disease
+**Chronic respiratory disease
+**Immunodepression
+**History of severe bronchiolitis
+**Environment not conducive to monitoring or access to care
+*
+*Clinical signs of severity:''
+**AEG , high fever
+**Shortness of breath
+**cyanosis (hypoxaemia)
+**Sweating (hypercapnia)
+**malaise
+**Respiratory rate > 60 / min
+**SpO2 < 94% on room air
+**Signs of severe respiratory distress
+**Risk of dehydration (digestive signs; food refusal)
+**Atelectasis (on chest X-ray)

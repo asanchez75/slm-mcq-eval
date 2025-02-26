@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-167-10-B
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral Hepatitis
+|Rank=B
+|Title=Knowing the principle of treatment
+|Description=s: virus B virosupressor, virus C direct antiviral agents
+|Rubric=Management
+|Contributors=
+|Order=10}}
+'''Acute hepatitis:'''
+
+
+Treatment of acute hepatitis is primarily symptomatic. All aggravating factors must be "contraindicated", in particular the use of potentially hepatotoxic drugs such as paracetamol, and potentially sedative drugs such as antiemetics.
+
+When acute hepatitis is severe, with a PT of less than 50%, the patient must be referred to a liver transplant centre without delay. The only treatment for fulminant hepatitis is liver transplantation.
+
+
+
+'''Chronic viral hepatitis:'''
+
+
+In all cases, general measures must be taken, whatever the virus involved:
+
+- Eliminate all aggravating factors (alcohol consumption, management of metabolic syndrome)
+
+- Investigating, preventing and treating complications in patients with cirrhosis (see Item 279)
+
+- Vaccinate patients against other hepatotropic viruses (HAV and HBV in the absence of acquired immunity markers)
+
+- Introduce 100% cover for long-term conditions (ALD)
+
+
+'''Principles of HBV and HDV treatment'''
+
+There is generally no indication for treatment of acute hepatitis B or acute hepatitis D.
+
+Treatment of chronic HBV infection is based on daily use of a direct-acting antiviral.
+The treatment of chronic hepatitis delta is based on new anti-virals which have recently been granted marketing authorisation.
+
+Sustained virosupression is associated with an improvement in liver damage and a significant reduction in liver complications.
+
+For both HBV and HDV, the indication for anti-viral treatment is not systematic and depends essentially on the severity of liver damage (inflammation and fibrosis) and the viral load.
+
+
+'''Principles of HCV treatment'''
+
+In the case of acute or chronic C viral infection, virological cure is achieved in over 95% of cases using combinations of direct-acting antivirals. Cured patients will retain a positive serology (Ac) and are not protected against re-infection.

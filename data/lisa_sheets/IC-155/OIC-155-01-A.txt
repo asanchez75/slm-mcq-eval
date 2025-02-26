@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-155-01-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Know the definition of a superficial mycosis
+|Description=CMIT
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Mycosis''':''''' infection caused by microscopic fungi or mycota ;
+
+'''Superficial mycosis''': mycoses affecting the skin, skin appendages (nails, hair and body hair) and mucous membranes, particularly in the digestive and genital areas.

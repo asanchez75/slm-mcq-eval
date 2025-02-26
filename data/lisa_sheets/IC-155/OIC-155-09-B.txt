@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-155-09-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Know the principles of abscess treatment
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+Incision and drainage of the abscess.
+
+Antibiotic therapy for 5 days against Staphylococcus aureus (oral route: clindamycin or pristinamycin, IV route: oxacillin/cloxacillin or cefazolin, in children: amoxicillin/clavulanic acid or 1st generation cephalosporin).

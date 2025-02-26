@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-089-08-B
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=B
+|Title=Indication of imaging tests for ST
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Dr Damien Bonnard, Prof Virginie Escabasse, Prof Valérie Franco Vidal
+|Order=8}}
+The examination of choice for the exploration of conductive hearing loss (CHD) is the ''thin-section CT scan of the rocks''. It allows precise visualisation of the ossicles, pneumatisation or a tissue opacity of the middle ear, an otosclerosis focus, etc.
+
+*cholesteatoma: otoscopic diagnosis but extension and preoperative assessment by CT scan essential
+*chronic noncholesteatomatousotitis, suspected ossicular involvement: CT scan can be used to assess the ossicular involvement in order to determine the origin of the ST
+*otosclerosis: CT scan required to confirm the presence of the otosclerosis focus and rule out a differential diagnosis
+*seromucosal otitis in children: no imaging necessary as first-line treatment

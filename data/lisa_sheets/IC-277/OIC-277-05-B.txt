@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-277-05-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Knowing the pathophysiology of cholesterolic and pigmentary lithiasis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=5}}
+see previous objective

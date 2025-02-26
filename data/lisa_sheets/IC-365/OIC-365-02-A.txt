@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-365-02-A
+|Item_parent=Surveillance of a patient in plaster/resin
+|Item_parent_short=Surveillance of a patient in plaster/resin
+|Rank=A
+|Title=Knowing the main causes of pain in plaster casts
+|Description=None
+|Rubric=Diagnosis
+|Contributors=
+|Order=2}}
+'''Main etiologies of pain in plaster''' :
+
+* Compartmental syndrome (compartment syndrome) due to increased pressure in inextensible muscle compartments.
+* Local compression:
+** Skin and infectious complications: bedsores, arthritis, osteitis of the fracture site, compression of the cast on a bone protrusion, etc.
+** Compression of an arterial axis: ischaemia
+** venous compression: oedema, cyanosis
+** Truncal neurological compression: pain, sensory-motor disorders
+
+* Phlebo-thrombosis
+* Fracture site insufficiently immobilised

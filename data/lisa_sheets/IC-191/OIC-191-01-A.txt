@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-191-01-A
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=A
+|Title=Know the definition of febrile neutropenia
+|Description=Fever and neutropenia <500
+|Rubric=Definition
+|Contributors=Amélie Servettaz
+|Order=1}}
+
+<big>Definition neutropenia: PNN < 1500/mm3 but the infectious risk is major if PNN < 500/mm3</big>.
+
+<big>The definition of '''febrile neutropenia''' is therefore:</big>.
+
+<big>- '''Fever''': T°≥38°C on 2 occasions or for more than 1 hour or any T°≥38.3°C)</big>
+
+<big>- In a patient with '''Neutrophil Polynuclei (PNN) <0.5G/L'''</big>
+
+<big>- '''It's a therapeutic emergency'''</big>

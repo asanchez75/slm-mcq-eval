@@ -1,0 +1,106 @@
+{{knowledge objective
+|Identifiant=OIC-074-26-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Intitle=Psychostimulants: knowing the frequent or serious adverse effects, main drug interactions
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=26}}
+
+{| class="wikitable"
+|+
+|'''Treatment'''
+|'''Methylphenidate''''
+|'''Modafinil''''
+|-
+|'''Main AMIs'''
+|Tricyclic antidepressants
+
+Volatile anaesthetics
+
+Vasopressor agents
+|Inactivation by modafinil :
+
+* oral contraceptives
+* ciclosporin
+|-
+|'''Main AEs''''
+|Neurological and psychological
+
+* Headaches
+* Tics
+* Anxiety, nervousness
+* Sadness of mood
+* Insomnia
+* Psychotic symptoms
+
+'''Digestive'''
+
+* Nausea
+* Anorexia (weight loss)
+* Abdominal pain
+
+Cardiovascular
+
+* Tachycardia
+* Palpitations
+* Arterial hypertension
+* Arteritis, Raynaud's phenomenon
+
+Musculoskeletal
+
+* Possible slowing of weight and height
+* Cramps, trismus
+* Arthralgia
+
+'''Haematological'''
+
+* Cytopenias
+
+'''Allergies'''
+
+* Anaphylactic reaction
+
+'''Misuse''''
+|Neurological and psychological''
+
+* Headaches
+* Nervousness
+* Insomnia
+* Confusion
+* Dyskinesias
+* Visual disturbances
+
+'''Digestive'''
+
+* Nausea
+* Anorexia
+* Dry mouth
+
+Cardiovascular
+
+* Tachycardia
+* Palpitations
+* Hypertension
+* Hypotension
+* (also possible)
+
+Musculoskeletal
+
+* Myalgias
+
+'''Haematological'''
+
+* Eosinophilia
+
+'''Allergies'''
+
+* Urticaria or angioedema
+
+'''Misuse''''
+<br />
+|-
+| colspan="3" |IAM: drug interactions; AE adverse reactions
+|}

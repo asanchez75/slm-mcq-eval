@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-131-20-B
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=B
+|Title=Know how to describe other complementary examinations in an elderly patient who has just had a fall.
+|Description=Know the investigations to be carried out in the etiological assessment of a fall (excluding imaging).
+|Rubric= Complementary examinations
+|Contributors=
+|Order=20}}
+The additional tests required to assess the seriousness of a fall depend on the various factors analysed in the approach and include :
+
+A. consequences of a fall
+
+B. repeated nature of the fall
+
+C. Causes of falls
+
+D. medical and social situations at risk of complications
+
+Depending on the consequences of the fall :
+
+* ECG (almost systematic), particularly in the event of malaise, loss of consciousness, cardiovascular risk factors or underlying heart disease, suspicion or assessment of the severity of hyperkalaemia, or a fall in unknown circumstances.
+* Bone X-rays if fracture suspected
+* CPK and serum creatinine measurement if on the ground for > 1 hour
+* Blood glucose if diabetic
+* Cerebral imaging (cerebral CT) in emergency is only indicated in the event of neurological symptoms (cerebral MRI in the first instance if stroke suspected and thrombolysis or thrombectomy delayed) or in the event of head trauma under antithrombotic treatment (anticoagulant or antiplatelet).
+* because of the frequency of hydroelectrolytic disorders, anaemia and dehydration, "routine" biological tests will be easily carried out, particularly in the absence of a recent reference.
+
+Depending on the etiology of the fall and the situations at risk of complications :
+
+* ECG, cardiac ultrasound, coronary angiography in cases of cardiac rhythm or conduction disorders, myocardial infarction, etc.
+* Cerebral imaging in cases of stroke (SDD-121)
+* Etiological investigation of infectious pathology
+* Blood glucose, particularly in the case of treatment with insulin or hypoglycaemic oral antidiabetics.
+* Haemostasis test in the event of treatment with anticoagulants.
+* Serum measurement of vitamin D (25OHD) for fracture risk, and assessment of osteoporosis.
+* confusion is a frequent precipitating factor in falls, and its aetiological assessment is an emergency (cf.
+
+There is no need to carry out the following tests as a matter of routine: HbA1c , EEG, brain imaging, echo-Doppler examination of the supra-aortic arteries, Holter-ECG, cardiac ultrasound. These tests should only be carried out on the basis of the patient's history and clinical examination, including the ECG.

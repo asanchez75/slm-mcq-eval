@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-203-15-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the serious signs of acute dyspnea
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=15}}
+'''See item 359'''
+
+'''See ''Knowing the signs of seriousness when faced with acute dyspnoea'''''
+
+'''See "Identifying the signs of seriousness requiring immediate therapeutic decisions"''''

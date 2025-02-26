@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-358-15-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Knowing the prognosis of benign and severe pancreatitis, evolution and mortality
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=15}}
+Overall mortality in AP is less than 5%.
+
+The rate of benign AP is less than 1%.
+
+In the case of severe AP, mortality is around 10% but is higher in the case of infected necrosis '''(" [[Announcement of a diagnosis of serious illness to the patient and/or his/her family SD-327|announcement d'un diagnostic de maladie grave au patient et/ou à sa famille]]"'').
+
+The initial prognosis is conditioned by immediate complications (shock, respiratory distress, multi-visceral failure syndrome).
+
+The delayed prognosis is linked to superinfection of necrosis, which most often occurs between the 2<sup>th</sup> and 4<sup>th</sup> week.
+
+In the longer term, exocrine or endocrine pancreatic insufficiency (diabetes) may develop. These two complications are more frequent in cases of severe BP.

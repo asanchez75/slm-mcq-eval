@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-266-04-B
+|Item_parent=Polycystic kidney disease
+|Item_parent_short=Polycystic kidney disease
+|Rank=B
+|Title=Knowing the diagnostic criteria for polycystic kidney disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot
+|Order=4}}
+
+The diagnosis is generally based on a combination of :
+
+*'''Family history''' of autosomal dominant polycystic kidney disease.
+*Renal cysts on abdominal imaging. This typically shows two enlarged kidneys deformed by multiple cysts and often associated polycystic liver disease (present in 30-70% of patients). The number and size of cysts increase with age. In children and young adults, the diagnosis may be uncertain if the cysts are few in number or small in size. After the age of 40, a finding of 0-1 cysts rules out the disease.
+
+It is not currently indicated to systematically search for a [[Specificity of genetic diseases|genetic variation]] of ''PKD1'' or ''PKD2'', except in special cases (diagnostic doubt in the absence of a family history or atypical presentation).

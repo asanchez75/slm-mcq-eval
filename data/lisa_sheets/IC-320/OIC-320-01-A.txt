@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-320-01-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Know the definition of myeloma
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+-Definition :
+
+- Belongs to lymphoid haematological malignancies
+
+- tumour proliferation of plasma cells in the bone marrow
+
+- secretion of monoclonal immunoglobulin
+
+
+The plasma cell is derived from the differentiation of the B lymphocyte, and its function is to synthesise an immunoglobulin.
+
+
+-Diagnostic criteria for symptomatic multiple myeloma :
+
+- Presence of monoclonal immunoglobulin secretion in the blood and/or urine
+
+- Bone marrow plasmacytosis > 10
+
+- Presence of at least one CRAB symptom (hypercalcaemia, renal failure, anaemia, bone lesions)
+
+'''and/or''''
+
+Presence of one of the following 3 criteria: (1) bone marrow plasmacytosis > 60%, (2) light chain ratio > 100, (3) presence of more than one focal lesion on MRI or PET.
+
+
+-Impact :
+
+1% of cancers, 10% of haematological malignancies
+
+4000 to 5000 new cases per year in France
+
+Affects adults, with an average age at diagnosis of close to 70.
+
+
+-Encouraging environmental factors (pesticides)

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-325-06-B
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Rank=B
+|Title=Know the epidemiology of iatrogenic risks
+|Description=Knowing the main results of the national study of adverse events related to healthcare
+|Rubric=Epidemiology
+|Contributors=Marie Briet
+|Order=6}}
+
+== Epidemiology of iatrogenic risks
+
+
+An adverse event related to healthcare is an unfavourable event for the patient as a result of diagnostic, treatment, prevention or rehabilitation strategies and procedures.
+
+Risks related to healthcare are regularly assessed, in particular through the national study of adverse events related to healthcare in healthcare establishments (ENEIS). The main results of this ENEIS study (<nowiki>https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-10/er398-3.pdf</nowiki>) are as follows:
+
+* 3 to 5% of medical and surgical admissions were due to a serious adverse event.
+* Approximately 50% of serious adverse events leading to hospitalisation were associated with healthcare products, half of which were avoidable.
+* The observed incidence of serious adverse events during hospitalisation in medicine or surgery is around 7%.
+* 2 out of 5 serious adverse events occurring during hospitalisation are considered to be avoidable.
+* In 2 out of 5 cases, serious adverse events occurring during hospitalisation lead to prolonged hospitalisation.

@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-053-01-A
+|Item_parent=Stunting of staturo-ponderal growth
+|Item_parent_short=Staturo-ponderal growth delay
+|Rank=A
+|Title=Know the definition of normal growth in children
+|Description=None
+|Rubric=Definition
+|Contributors=Thomas Edouard
+|Order=1}}
+'''Main landmarks''''
+{| class="wikitable"
+|Age
+|Height (cm)
+|Weight (kg)
+|CP (cm)
+|-
+|Birth (full term)
+|50
+|3,5
+|35
+|-
+|4 months
+|60
+|'''7 (= Pn × 2)'''
+| rowspan="3" |PC = (Size / 2) +10
+|-
+|9 months
+|70
+|9
+|-
+|1 year
+|75
+|'''10 (= Pn × 3)'''
+|-
+|4 years
+|'''100 (= Tn × 2)'''
+|16
+|50
+|}
+Tn: Birth height; Pn: Birth weight; PC: Head circumference.
+
+
+'''Normal statural growth'''
+
+- Takes place in the growth plates (endochondral ossification mechanism)
+
+- Under the control of psycho-affective, nutritional and energy, hormonal, bone and genetic factors
+
+- The 4 phases of statural growth :
+
+o ''Foetal growth'' reflected by birth parameters: fastest growth phase (50 cm in 9 months)
+
+o ''From birth to 4 years of age'': high growth rate which gradually decreases (25 cm in the first year of life, then around 10 cm/year for the following 2 years) with a focus on the genetic growth corridor (reflected by the target height).
+
+o ''From age 4 to the onset of puberty'': linear growth phase (approximately 5-6 cm/year, pathological if < 4 cm/year after age 4)
+
+o ''During puberty'': acceleration in growth rate (8-10 cm/year) with an average gain during puberty (pubertal growth peak) of 20-25 cm in girls and 25-30 cm in boys.
+
+- Average adult height of 177 cm for men and 165 cm for women (according to French curves updated in 2018)
+
+
+'''Main parameters needed to interpret the growth curve'''
+
+- '''Birth measurements (weight and height):''' reflects foetal growth
+
+o Expression of these parameters in standard deviations (SD) as a function of gestational age using appropriate curves
+
+- '''Weight and height'''
+
+o Expression of these parameters in SD as a function of age and gender using curves adapted to the population (in France, curves updated in 2018 available in the health record).
+
+o "Normal" values (in the statistical sense of normal or Gaussian distribution) between - 2SD (2.5<sup>th</sup> percentile) and + 2SD (97.5<sup>th</sup> percentile).
+
+o 95% of children are within ± 2 SD of the mean
+
+- '''Target size:''' reflects genetic potential
+
+o = (average of parental heights) + 6.5 cm if male or - 6.5 cm if female
+
+o 95% of children are within ± 1.5 DS of their target height
+
+- '''Statural and weight growth rate'''
+
+o May be regular, slowed or accelerated
+
+- Calculating the '''' body mass index (BMI):''' reflects the ratio between weight and height
+
+o = weight (in kg) / height (in metres) <sup>2</sup>.

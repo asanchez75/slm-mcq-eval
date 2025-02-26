@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-334-33-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Knowing the mechanisms of injury
+|Description=None
+|Rubric=Physiopathology
+|Contributors=CFCOT
+|Order=33}}
+
+*Direct" mechanism, from the outside inwards, close to the fracture site, frequently associated with soft tissue damage and skin opening.
+*Indirect" mechanism exerted by bending or twisting stresses, usually from medial to lateral, frequently associated with damage to the overlying and underlying joints.

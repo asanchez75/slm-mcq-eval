@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-334-09-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the main complications of severe trauma in the short, medium and long term
+|Description=Infectious, thromboembolic, psychological, pain...
+|Heading=Management
+|Contributors=
+|Order=9}}
+
+
+* Short-term complications :
+** multi-visceral failure syndrome
+** infectious complications: open fracture, perforation of hollow organs, inhalation syndrome
+** bleeding complications
+** thromboembolic complications
+** death: brain death, multivisceral failure syndrome
+
+* Medium-term complications :
+** complications of decubitus: bedsores, vicious attitudes
+** infectious complications: nosocomial infections
+** undernutrition, sarcopenia
+
+* Long-term complications :
+** somatic sequelae: functional physical disability
+** psychological sequelae: anxiety-depression syndromes, post-traumatic stress disorder

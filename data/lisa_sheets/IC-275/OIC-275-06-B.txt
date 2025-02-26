@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-275-06-B
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=B
+|Title=Knowing the main complementary examinations (including imaging) to guide the aetiological diagnosis
+|Description=Portal hypertension/associated ADP
+|Rubric= Complementary examinations
+|Contributors=
+|Order=6}}
+'''Radiological examinations to guide the aetiological diagnosis:'''
+
+- Abdominal Doppler ultrasound: size of splenomegaly, associated abnormalities (hepatomegaly and signs of portal hypertension, adenopathies, etc.). Doppler ultrasound is used to determine portal flow, to look for portal hypertension and to identify portal thrombosis or thrombosis of the suprahepatic veins.
+
+- '''Thoraco-abdominal CT''': confirmation of splenomegaly, analysis of its structure, vascularisation and neighbouring organs, detection of any associated deep adenopathies ''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]]''').

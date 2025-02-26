@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-175-03-A
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=A
+|Intitle=Identifying people with particular vulnerabilities
+|Description=None
+|Rubric=Taking charge
+|Contributors=Florence Robert-Gangneux,Marie-Laure Dardé,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie Robert,Françoise Botterel,
+|Order=3}}
+
+- Young children (<5 years)
+
+- Elderly (>65 years)
+
+- Pregnant woman
+
+- Immunosuppressed persons
+
+- People with chronic somatic or psychiatric illnesses

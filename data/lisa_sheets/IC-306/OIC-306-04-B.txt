@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-306-04-B
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=B
+|Title=Knowing the pathophysiology of ovarian cancer
+|Description=Wound healing theory, STIC (Serous Tubal Intraepithelial Carcinoma) - Knowledge of the existence of genetic forms
+|Rubric=Pathophysiological elements
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=4}}
+- '''Wound healing theory''': each ovulation creates a minor trauma in the form of a break in the epithelial surface. During the healing process, inclusion cysts of ovarian epithelium can form in the stroma, leading to proliferation and then neoplastic transformation.
+
+
+- More recent hypothesis: ''Tubal origin of neoplastic cells'' through invasion of tubal dysplastic cells of the ovarian cortex (Serous Tubal Intraepithelial Carcinoma or STIC). Anatomopathological studies of prophylactic adnexectomy specimens have shown a high rate of pre-invasive lesions in the tubal horn.
+
+- Extension of ovarian cancer through the natural flow of peritoneal fluid (rapid passage from a localised stage to a stage covering the entire peritoneal cavity), through lymphatic drainage (pelvic and lumbo-aortic) and, more rarely, haematological dissemination (lungs, liver, brain).
+
+- '''Genetic forms of ovarian cancer''' :
+
+Mutation of the BRCA 1 or 2 genes: the cause of cancers before the age of 60. These cancers have a better prognosis because they are more chemosensitive than sporadic cancers.
+
+In practice: A patient with a BRCA1 mutation has a risk of around 40% (22-59%) of developing epithelial ovarian cancer. In the case of a BRCA2 mutation, the risk is lower, around 10% (4-18%).
+
+More rarely, ovarian cancers may form part of the autosomal dominant Lynch or HNPCC syndrome, caused by damage to genes belonging to the MMR system. Its frequency varies from 1/1000 to 1/400.  It is responsible for 2% of ovarian cancers, 6% of endometrial cancers and 1 to 3% of colorectal cancers.
+
+In practice: A patient with a deleterious constitutional mutation in an MMR gene has a risk of developing ovarian cancer of around 10%.

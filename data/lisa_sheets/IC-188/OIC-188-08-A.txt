@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-188-08-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Knowing how to assess asthma control
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+Asthma is controlled if :
+
+o asthma symptoms are under control (assessed by questioning over the last 4 weeks using the ACT (asthma control test) questionnaire)
+
+o exacerbations are rare: < 2 courses of systemic corticosteroid therapy in the previous year
+
+o no bronchial obstruction: FEV1/FVC > 0.7 and FEV1 ≥ 80%.

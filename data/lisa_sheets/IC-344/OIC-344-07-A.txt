@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-344-07-A
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=A
+|Title=Knowing the elements of the anamnesis to identify foetal repercussions of pre-eclampsia
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=7}}
+
+- Foetal movements
+
+- Fetal heart rhythm abnormalities
+
+- Clinically: Low uterine height
+
+- Ultrasound :
+
+o Intrauterine growth retardation
+
+o Oligohydramnios
+
+o Doppler indices of pathological umbilical and sylvian arteries

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-240-07-A
+|Item_parent=Hypoglycaemia in adults and children
+|Item_parent_short=Hypoglycaemia in adults and children
+|Rank=A
+|Title=Planning the management of hypoglycaemia and knowing the urgent measures for adults and children
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=7}}
+'''RESUCRAGE ==>will depend on the severity of the hypoglycaemia'''
+
+*Moderate hypoglycaemia'': the patient is conscious ==> the patient can take 15g of sugar (3 lumps) per os.
+*''Severe hypoglycaemia'': need for a third person
+**Moderately severe: the patient is still conscious and can swallow ==> can be resugared per os by a third party with 15g of sugar (3 lumps).
+**Very severe: the patient is no longer conscious, coma, convulsion ==>
+***- IM or SC injection of glucagon, then oral resugaring
+***- if glucagon not available: serum G30% IV 10 mL/20 kg weight, then relay with G10%.
+
+<br />

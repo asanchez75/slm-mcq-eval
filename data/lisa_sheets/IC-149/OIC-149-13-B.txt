@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-149-13-B
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=B
+|Title=Knowing the management of EBV pseudomembranous angina
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=13}}
+A haemogram and blood smear examination may show the presence of a mononucleosis syndrome. Other tests may help with the diagnosis: presence of moderate hepatic cytolysis, positive MNI test (not very sensitive in children), positive anti-VCA IgM, etc.
+
+In the case of infectious mononucleosis, treatment is based on the use of analgesics and antipyretics. In severe or complicated cases requiring hospitalisation, corticosteroid therapy may be recommended on specialist advice.

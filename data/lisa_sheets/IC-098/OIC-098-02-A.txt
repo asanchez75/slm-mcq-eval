@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-098-02-A
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=A
+|Title=Know how to diagnose myasthenia gravis
+|Description=Know the most frequent and most suggestive symptoms (ocular, bulbar, respiratory muscles) with fatigue or variability over time).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+The diagnosis of myasthenia must be evoked in the presence of signs and symptoms resulting from excessive fatigability of the striated musculature on exertion and fluctuating over time (fatigability, or myasthenic phenomenon) ([[Muscular weakness SD-074|Muscular weakness]]; [[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]):
+
+* appears or increases with exertion ;
+* increases at the end of the day
+* corrects itself at rest;
+* may occur in muscles directly activated during exercise or, even more tellingly, in muscles not involved in exercise;
+
+- ''frequent and suggestive combination of signs :'' ophthalmoplegia, ptosis and diplopia ([[Vision abnormality SD-138|Vision abnormality]]; [[Diplopia SD-143|Diplopia]]; [[Palpebral abnormalities SD-139|Palpebral abnormalities]]), limb muscle weakness ([[Muscle weakness SD-074|Muscle weakness]] ; [Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]), swallowing disorders ([[Swallowing disorders or false swallowing SD-062|Swallowing disorders or false swallowing]]).
+
+=== 1- Eye and palpebral muscles ([[Vision abnormality SD-138|Vision abnormality]]; [[Diplopia SD-143|Diplopia]]; [[Palpebral abnormalities SD-139|Palpebral abnormalities]]) ===
+
+* Unilateral ptosis initially, which may later become bilateral; it usually remains asymmetric. An almost pathognomonic tilted ptosis. Ptosis may be increased after upward gaze fixation and improved after an ice cube test (in a plastic bag applied for 2 minutes to the closed eye).
+* Diplopia, usually intermittent, disappearing with monocular vision. Diplopia is often difficult to analyse (no precise oculomotor nerve damage).
+* Ptosis and diplopia are increased by fatigue, light and fixation of an object.
+* The pupillary musculature is unaffected.
+
+=== 2- Bulbar innervated muscles ===
+
+* Swallowing and mastication disorders ([[Swallowing disorders or false swallowing SD-062|Swallowing disorders or false swallowing]]) :
+
+- Difficulty chewing during meals, with the patient sometimes having to support his lower jaw with his hand.
+
+- Problems swallowing, with false routes and sometimes reflux of liquids through the nose when there is damage to the soft palate.
+
+- Lingual motor disorders
+
+- Facial paresis giving an atonic face is often associated with bulbar disorders (vertical smile).
+
+* Phonation disorder ([[Speech and/or phonation disorder SD-134|Speech and/or phonation disorder]]; [[Dysphonia SD-146|Dysphonia]]): the voice gradually fades, becomes nasal and then unintelligible.
+
+=== 3- Other muscles ===
+
+* Limb muscles: involvement predominates in the proximal muscles, but may also affect the distal muscles more rarely ([[Muscular weakness SD-074|Muscular weakness]]; [[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]). The examination may reveal abnormal fatigability of the limbs during the Barré and Mingazzini tests, which are normally held for 2 min 30 and 1 min 15 respectively.
+* Axial muscles: Involvement of the abdominal muscles leading to difficulty in rising from the decubitus position. Fatigability of the cervical muscles causing the head to fall forward and neck pain ([[Spinal pain (cervical, dorsal or lumbar) SD-072|Spinal pain (cervical, dorsal or lumbar)]]).
+
+=== 4- Respiratory muscles ===
+
+* Respiratory impairment may be manifested by dyspnoea on exertion and then at rest ([[Dyspnoea SD-162|Dyspnoea]]), orthopnoea or an ineffective cough ([[Cough SD-167|Cough]]).
+* It can occur very suddenly and lead to acute respiratory failure ([[Acute respiratory distress SD-160|Acute respiratory distress]]), with a life-threatening outcome.
+
+
+No sensory disturbance, no sign of central neurological damage.
+
+The examination may be normal if the symptoms are intermittent and if it is carried out during an intercritical period. This contributes to the difficulty of diagnosing this disease.

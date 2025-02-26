@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-358-12-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Know symptomatic management: pancreatitis nutrition, multimodal analgesia, principles of hydroelectrolytic resuscitation, indication for transfer to intensive care or continuous monitoring.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+ 
+
+Patient management depends on the severity of the acute pancreatitis.
+[[File:Therapeutic management of acute pancreatitis according to severity.jpg|vignette|Management of acute pancreatitis according to severity]]
+('''" [[Prescribing analgesics SDD-250|prescribing analgesics]]", "[[Assessment and management of acute pain SD-259|assessment and management of acute pain]]"'')

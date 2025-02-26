@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-336-07-A
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=A
+|Title=Knowing the clinical signs of hypoglycaemia and correcting it
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Nicolas Weiss
+|Order=7}}
+
+- coma or any neurological disorder
+
+- evoked by capillary blood glucose, confirmed by blood glucose (blood glucose < 3 mmol/L)
+
+- emergency resucration with direct IV glucose serum (G30% 1 ampoule) if consciousness is impaired
+
+- orally, if you are conscious enough: sugar cubes, orange juice, etc.
+
+- revaluation

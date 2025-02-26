@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-278-04-B
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=B
+|Title=Knowing the principles of the management of jaundice in newborns
+|Description=Principles of phototherapy in newborns
+|Section=Management
+|Contributors=
+|Order=4}}
+The aim of treating jaundice is to reduce bilirubinaemia and/or to reduce its increase in order to prevent the risk of neurotoxicity. Total blood bilirubin must be measured before treatment can be initiated.
+
+'''Symptomatic treatment of severe jaundice with free bilirubin'''
+
+It is based on treatment with phototherapy. This is the basic treatment for jaundice caused by free bilirubin. Blue light is used to convert bilirubin into water-soluble breakdown products that can be eliminated by the kidneys. The complications of phototherapy must be prevented: dehydration, hyperthermia, ocular complications (wearing glasses) and gonadal complications (wearing a nappy).
+
+In the case of very severe icterus with free bilirubin, exchange transfusion should be discussed.
+
+Albumin infusion may be indicated in vulnerable newborns or those awaiting exchange transfusion.
+
+Etiological treatment for pathological jaundice
+
+IV polyvalent immunoglobins are recommended in cases of jaundice linked to ABO incompatibility or maternal-foetal alloimmunisation.
+
+Treatment of neonatal infection (particularly E.coli infection).
+
+Surgical treatment for extrahepatic biliary atresia.

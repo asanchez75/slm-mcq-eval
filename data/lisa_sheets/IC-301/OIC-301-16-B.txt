@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-301-16-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Know the main principles of treatment for localised cancers
+|Description=Enumerate the main principles of treatment and types of treatment for localised rectal and colon cancers.
+|Rubric=Management
+|Contributors=
+|Order=16}}
+'''The principles:''' ablation of localised disease, the decision to which must be validated at a '''Réunion de Concertation Pluridisciplinaire (RCP)'''.
+
+
+The first line of treatment is surgical resection.
+
+Endoscopic resection'' for very superficial lesions is sometimes possible (Tis, T1sm1).
+
+''For subperitoneal rectal cancer, preoperative chemotherapy followed by radiotherapy is indicated in cases of locally advanced tumour (T3-T4 and/or N+)''. This treatment reduces the risk of local recurrence. This radio-chemotherapy is decided on the basis of MRI data.
+
+Surgical resection requires removal of the primary tumour with margins of at least 5 cm, together with removal of the vessels and the mesocolon containing the lymphatic network and its lymph nodes.
+
+For cancers of the colon and rectum, postoperative chemotherapy is recommended if there is lymph node involvement.

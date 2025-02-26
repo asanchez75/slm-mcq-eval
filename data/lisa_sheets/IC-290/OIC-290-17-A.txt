@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-290-17-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitle=Knowing the risk factors for lung cancer and their risk levels
+|Description=Tobacco, environment, occupational exposure
+|Rubric=Etiologies
+|Contributors=
+|Order=17}}
+The main risk factor for lung cancer is active or passive smoking (85-90% of bronchopulmonary cancers). The excess risk incurred by a smoker depends on his average daily consumption (dose of tobacco) and even more on how long he has been smoking (duration of exposure): doubling the dose doubles the excess risk of lung cancer, while doubling the duration of smoking multiplies the excess risk by 20.
+
+Other environmental or occupational factors are recognised as carcinogenic (asbestos, diesel exhaust, radon, arsenic, nickel, cobalt, chromium, polycyclic aromatic hydrocarbons, exposure to certain ionising radiations, silica, cadmium).
+
+For a person exposed to asbestos, the risk of lung cancer is multiplied́ by 5 in a non-smoking patient and multiplied by 50 in a smoking patient.
+
+Other factors appear to be involved in lung cancer: inhaled cannabis, previous radiotherapy to the chest or occupational or accidental exposure to ionising radiation.

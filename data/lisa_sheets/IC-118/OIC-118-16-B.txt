@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-118-16-B
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=B
+|Title=Knowing the accommodation structures for severely disabled people
+|Description=Orientation options and knowledge of accommodation facilities for people with disabilities
+|Rubric=Care
+|Contributors=
+|Order=16}}
+If it is impossible to remain at home ([[Disability situation SDD-345|345-Disability situation]], [[Announcement of a chronic illness SDD-328|328-Announcement of a chronic illness]], [[Comprehensive support for a carer SDD-330|330-Comprehensive support for a carer]]).
+
+
+Adults under 60: Depending on the opinion of the CDAPH: Maison d'Accueil Spécialisée (MAS), Foyer d'Accueil Médicalisé (FAM), Etablissement ou Service d'Aide par le Travail (ESAT), foyers occupationnels.
+
+
+Adults over 60: Foyer-logement, Établissement d'Hébergement pour Personnes Âgées Dépendantes (EHPAD).

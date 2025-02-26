@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-216-08-B
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=B
+|Title=Identify signs pointing to thrombopathy
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+Thrombopathy is a functional platelet disorder that is associated with unexplained mucocutaneous bleeding and a normal platelet count, with normal APTT and PT.
+
+They are frequently acquired and mainly due to drugs (antiplatelets, anti-inflammatories, antibiotics, antidepressants, etc.), sometimes associated with haemopathies (myeloproliferative or myelodysplastic syndromes, monoclonal gammopathies).
+
+Constitutional thrombopathies are very rare and dominated by Glanzmann thrombasthenia (quantitative or qualitative abnormality of GPIIb-IIIa).

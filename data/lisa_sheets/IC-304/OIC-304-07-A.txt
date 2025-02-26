@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-304-07-A
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=A
+|Title=Knowing the clinical presentation of a primary liver tumour
+|Description=To list the main predisposing factors, natural history, symptomatology and clinical examination of hepatocellular carcinoma.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''HCC may be revealed by:'''
+
+- a "complication of cirrhosis" (oedemato-ascitic decompensation, digestive haemorrhage due to rupture of oesophageal varices ....),
+
+- a "clinical tumour syndrome" (tumour hepatomegaly, right hypochondrium pain, epigastric heaviness, jaundice, altered general condition, haemoperitoneum, etc.),
+
+- fortuitously'' during an ''abdominal X-ray examination'',
+
+- a ''screening test for patients with chronic liver disease'' (cirrhosis, advanced liver fibrosis, hepatitis B),
+
+
+
+The clinical examination may be normal, or reveal clinical signs of cirrhosis and/or related to the tumour syndrome (tumour hepatomegaly, etc.).

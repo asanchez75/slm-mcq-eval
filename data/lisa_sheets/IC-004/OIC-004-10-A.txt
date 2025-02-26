@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-004-10-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the definition and rules of asepsis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+Asepsis differs from antisepsis in that it does not use therapeutic agents. Asepsis involves preventing the influx of micro-organisms, whereas antisepsis involves inactivating them where they are found.
+
+'''Definition''' AFNOR ''':''' "Set of measures designed to prevent any exogenous contribution of micro-organisms".
+
+Asepsis consists of decontaminating space (including air), equipment and the surface of the body. Asepsis therefore consists of preventing the influx of micro-organisms, whereas antisepsis consists of inactivating micro-organisms where they are found (see term "disinfection").
+
+Asepsis is a method that enables a given task to be carried out without bringing micro-organisms (bacteria, viruses, fungi) to the patient (or the object of the task). It is based on the use of sterile equipment, sterile clothing, airtight head coverings, sterile gloves, anti-spray masks, micro air filters (very high efficiency filters or VHE) and air renewal systems, not forgetting behavioural rules. The procedures used are known as aseptic techniques.
+
+The level of asepsis must be adapted to the risk level of the task: it can vary from a basic level to a maximum level. Lack of asepsis can cause micro-organisms to penetrate the body, particularly during surgery, leading to HAIs.

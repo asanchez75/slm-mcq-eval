@@ -1,0 +1,296 @@
+{{knowledge objective
+|Identifiant=OIC-078-12-A
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=A
+|Title=Know the main complications
+|Description=Somatic and psychiatric complications.
+|Heading=Follow-up and/or prognosis
+|Contributors=Laurent Karila
+|Order=12}}
+'''Cannabis:'''
+
+# Confusional syndrome
+
+- Installation in a few hours or days
+
+- Fluctuating trends over the day
+
+- Symptoms: disturbance of consciousness, attention, memory, disorientation, disturbance of language or disturbance of perception.
+
+2. Psychiatric complications
+
+- Induced psychotic disorder: onset during or shortly after acute cannabis intoxication (up to one month after intoxication); clinical symptomatology of brief psychotic disorder; treatment involving cessation of intoxication and antipsychotics; potentially serious disorder with the same evolutionary risks as any brief psychotic disorder.
+
+- Panic attacks
+
+- Characteristic depressive episode
+
+3. Somatic complications
+{| class="wikitable"
+|Pulmonary
+|* Chronic bronchitis
+
+<nowiki>*</nowiki> Bronchopulmonary cancer (linked to smoking)
+
+<nowiki>*</nowiki> Immediate and transient bronchodilator activity
+|-
+|Cardiovascular
+|* Increased cardiac and cerebral output, hypotension
+
+<nowiki>*</nowiki> Peripheral vasodilation
+
+<nowiki>*</nowiki> Bradycardia
+
+<nowiki>*</nowiki> Case of Buerger's disease-type arteriopathy
+
+<nowiki>*</nowiki> Acute coronary syndrome
+|-
+|Carcinogenicity
+|* VADS and bronchopulmonary cancers
+|-
+|Ophthalmologic
+|* Photosensitivity
+
+<nowiki>*</nowiki> Mydriasisinconstant
+|}
+'''Cocaine''':
+
+# Psychiatric complications
+
+- Characteristic depressive episode
+
+- Suicide attempts
+
+- Induced acute delirium (pharmacopsychosis)
+
+- Induced panic attacks
+
+- Cocaine-induced paranoia
+
+- Compulsive crack-seeking syndrome (at the point of use)
+
+2. Somatic complications
+{| class="wikitable"
+|Cardiovascular
+|* Acute coronary syndrome (frequent)
+
+<nowiki>*</nowiki> Heart rhythm disturbances (common)
+<br />
+|-
+|Neurological
+|* Stroke (ischaemic or haemorrhagic)
+
+<nowiki>*</nowiki> Convulsive seizures
+|-
+|Cognitive impairment
+|'''Acute use'''
+
+<nowiki>*</nowiki> Artificial, one-off enhancement of cognitive abilities
+
+'''Chronic use'''
+
+<nowiki>*</nowiki>Attention, memory and executive function impairments
+
+<nowiki>*</nowiki> Possible atrophy of prefrontal and temporal regions
+|-
+|Pulmonary
+|* Pneumothorax
+
+<nowiki>*</nowiki> Haemorrhages
+
+<nowiki>*</nowiki>Acute respiratory syndrome following crack inhalation or ''freebase'' (''cracklung'')
+|-
+|ORL
+
+(during chronic nasal use)
+|* Damage to the nasal septum and palate
+
+<nowiki>*</nowiki> Nasosinus infections associated with lesions of the nasal septum
+|-
+|Infections
+|* Viral infections (HIV,HBV,HCV, Covid19)
+
+<nowiki>*</nowiki> local abscesses, endocarditis, pneumopathy
+
+<nowiki>*</nowiki> IST
+|-
+|Association of cocaine with alcohol (Alcohol is a factor in the resumption of cocaine use)
+|*Increased cocaine consumption and craving for cocaine.
+
+<nowiki>*</nowiki> Acute coronary syndrome, cardiac arrhythmia, cardiomyopathies
+
+<nowiki>*</nowiki> Risk of stroke
+
+<nowiki>*</nowiki> Increase in road accidents
+|-
+|Pregnancy
+|* IUGR, placental infarction
+|}
+'''Amphetamines:
+
+# Psychiatric complications
+
+- Characteristic depressive episode and disorder.
+
+- Acute delirious episodes (pharmacopsychosis).
+
+- Induced panic attacks.
+
+- Suicide risk.
+
+- Cognitive disorders.
+
+- Worsening of an anxiety/mood disorder
+
+2. Somatic complications
+{| class="wikitable"
+|Cardiological
+|- Acute coronary syndrome
+
+- Hypertensive emergency
+
+- Rhythm disorder
+
+- Acute lung oedema
+
+- Cardiomyopathies
+|-
+|Neurological
+|- Ischaemic stroke, cerebral haemorrhage
+
+- Extrapyramidal motor manifestations including bruxism, trismus
+|-
+|Vascular
+|- Acute renal failure (rhabdomyolysis)
+
+- Ischaemic colitis
+
+- DIC
+
+- Hepatotoxicity with acute liver failure
+
+- Necrotizing vasculitis
+
+- Pulmonary arterial hypertension (methamphetamine +++)
+|-
+|Cutaneous-mucosal and infectious diseases
+|- Dermatological and dental lesions (methamphetamine)
+
+- Viral infections (HIV, HCV, HBV +/- D)
+
+- Bacterial infections (syphilis, gonococcus, chlamydia)
+|}
+'''Opiates/opioids''''
+{| class="wikitable"
+|'''Psychiatric complications'''
+|'''Non-psychiatric complications'''
+|-
+|- cognitive disorders
+
+- suicidal thoughts
+
+- prolonged panic attacks
+
+- acute delirious states (pharmacopsychoses)
+
+- depressive episodes
+
+- addction to other substances
+|- Intravenous: injection marks on the lower limbs, sclerotic veins, use of veins in the legs, neck or lumbar region, lymphoedema of the hands (Popeye syndrome, injection of high-dose buprenorphine).
+
+- Local infectious complications (cellulitis, lymphangitis, abscesses) and general complications: bacterial endocarditis, ophthalmic or joint candidiasis, hepatitis B and C (30%), HIV (10%).
+
+- Intranasal route: irritation of the nasal mucosa, possible perforation of the septum, sinusitis.
+
+- Overdose
+
+- Dental lesions
+
+- Amenorrhea, late onset pregnancy, intrauterine growth retardation, spontaneous miscarriage, opioid withdrawal syndrome in newborns
+|}
+'''New synthetic products''':
+
+# Synthetic cannabinoids
+
+{| class="wikitable"
+|Psychiatric complications
+|Non-psychiatric complications
+|-
+|- vivid or unpleasant dreams
+
+- hallucinations
+
+- anxiety
+
+- state of agitation
+
+- acute delirium
+
+- induced paranoia
+
+- memory problems
+
+- depressive episode
+|- tachycardia
+
+- convulsions
+
+- confusion
+
+- motor coordination disorder
+
+- respiratory depression
+
+- widespread pain
+
+- acute coronary syndrome
+
+- rhabdomyolysis
+
+- acute renal failure
+
+- overdose
+
+- in the event of death
+|}
+2. Synthetic cathinones
+{| class="wikitable"
+|Psychiatric complications
+|Non-psychiatric complications
+|-
+|- Onset of anxiety
+
+- Hallucinations
+
+- induced paranoia
+
+- insomnia
+
+- cognitive disorders
+
+- suicidal thoughts
+
+- prolonged panic attacks
+
+- acute delirious states (pharmacopsychoses)
+
+- depressive episodes
+|- nausea, vomiting
+
+- headaches, dizziness, blurred vision
+
+- hyperthermia
+
+- mydriasis, bruxism
+
+- tachycardia, chest pain, arterial hypertension, ST-segment abnormalities on ECG
+
+- confusion, tremors, parkinsonism, convulsion
+
+- hyponatremia, rhabdomyolysis,
+
+- serotonin syndrome
+
+- in the event of death
+|}

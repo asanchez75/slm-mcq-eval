@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-065-07-B
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=B
+|Title=Knowing the main psychiatric and non-psychiatric differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Pierre Vandel
+|Order=7}}
+
+Non-psychiatric :
+
+* neurodegenerative disorders
+* intoxication by psychoactive substances: cannabis, L-Dopa, other dopaminergic agonists
+
+Psychiatric: schizophrenia, schizoaffective disorders, mood disorders with psychotic features, personality disorders, OCD.
+
+<br />

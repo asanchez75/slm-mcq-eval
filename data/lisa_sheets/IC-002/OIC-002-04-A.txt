@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-002-04-A
+|Item_parent=Professional values of doctors and other health professions
+|Item_parent_short=Professional values of doctors and other health professions
+|Rank=A
+|Intitle=Knowing the social and political organisation of the medical profession and its state regulation
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+
+The cost and risks of certain treatments have justified state regulation of healthcare expenditure. The autonomy and freedom of the doctor are partly called into question in favour of other values such as the quality of care, the evaluation of its efficiency, the balance between individual and public health, etc.

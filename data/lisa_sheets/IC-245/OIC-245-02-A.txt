@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-245-02-A
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=A
+|Title=Know the semiological characteristics of the two types of slow adrenal insufficiency: peripheral and central.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=2}}
+The semiological characteristics are summarised in Table 1.
+
+'''Table 1: Comparison of the semiological characteristics of primary slow adrenal insufficiency (=peripheral, adrenal damage) and secondary (=central=corticotropic insufficiency, pituitary damage)'''
+{| class="wikitable"
+|
+|'''Primary adrenal insufficiency''''
+|'''Secondary adrenal insufficiency'''
+|-
+|General condition
+|Fatigue ([[Asthenia SD-021]])'','' depression, anorexia'','' [[Nausea SD-012]], [[Weight loss SD-017]], hypotension [[Discovery of arterial hypotension SD-043|(Discovery of arterial hypotension SD-043)], orthostatic hypotension
+|Idem but less marked signs, particularly hypotension and digestive signs
+|-
+|Skin and mucous membranes
+|hyperpigmentation
+|Pallor, even without anaemia
+|-
+|Ion disorders
+|Hyperkalaemia ([[Dyskalaemia SD-201]])
+
+Hyponatremia due to salt loss ([[Dysnatremia SD-202]])
+
+Increased natriuresis
+|Normal kalaemia
+
+Dilution hyponatremia
+|-
+|Associated biological signs
+|Hypoglycaemia SD-209 (decompensation?)
+
+CBC abnormalities (moderate anaemia, normochromic, normocytic, leukopenia, hypereosinophilia)
+<br />Hypoglycaemia
+|Hypoglycaemia (children, if associated somatotropic insufficiency)
+<br />
+|-
+|Associated diseases or symptoms
+|Associated autoimmune disease (hypothyroidism, vitiligo, etc.)
+
+Tuberculosis
+
+Cancers, HIV, etc. (see etiologies)
+|Signs of pituitary insufficiency
+
+Tumour syndrome: headaches, visual disturbances
+|}

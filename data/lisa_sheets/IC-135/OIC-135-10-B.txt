@@ -1,0 +1,87 @@
+{{knowledge objective
+|Identifiant=OIC-135-10-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=Know how to prescribe anti-epileptic drugs for pain relief.
+|Description=Prescribe and explain the benefits of anti-epileptic drugs for pain relief.
+|Rubric=Management
+|Contributors=
+|Order=10}}
+- Anti-epileptic drugs with analgesic properties include: '''gabapentinoids (gabapentin and pregabalin); sodium channel blockers: carbamazepine, oxcarbazepine and topiramate'''
+
+'''<u>Indications</u>''' (high level of evidence)
+
+- '''Neuropathic pain: gabapentin, pregabalin'''
+
+- '''Essential trigeminal neuralgia: carbamazepine, oxcarbazepine''''
+
+- '''Basic migraine treatment: topiramate'''
+
+'''<u>Mechanisms</u>''''
+
+- Gabapentin, pregabalin: binds to a subunit of voltage-dependent calcium channels, reducing the release of excitatory neurotransmitters. Anxiolytic and sleep-inducing properties.
+
+- Carbamazepine, oxcarbazepine, topiramate: voltage-dependent sodium channel blockers
+
+- Topiramate: reduces glutamate release. Mood stabilising properties.
+
+
+'''<u>Principles</u>''''
+
+- Start with low doses and gradually increase them to reduce the risk of side effects.
+
+- Inform patients of the risk of driving, particularly at the time of initiation.
+
+'''<u>Adverse reactions and drug interactions</u>''''
+
+'''Gapapentin, pregabalin:'''
+
+- Drowsiness, dizziness
+
+- Dose-related weight gain and peripheral oedema
+
+- '''Misuse or abuse to be investigated before any prescription and at each renewal'''.
+
+- Reduce doses if renal insufficiency.
+
+- Recently reported increased risk of respiratory depression in association with opioids
+
+- No pharmacological interactions
+
+
+Carbamazepine and oxcarbazepine
+
+- Central effects: drowsiness, dizziness, confusion, diplopia (if high doses, signs of toxicity)
+
+- Digestive effects: nausea, vomiting, dry mouth
+
+- Cardiac effects: atrioventricular block (carbamazepine)
+
+- Idiosyncratic effects: skin allergy, sometimes severe toxidermia (Stevens Johnson, Lyell), particularly in patients of Asian origin (HLA-B 1502), with a risk of cross-allergy between carbamazepine and oxcarbazepine in 30% of cases.
+
+- Biological effects: hyponatremia, cytopenia, elevated transaminases
+
+- '''Reduces the effect of oral contraceptives'' (enzyme inducing effect).
+
+- Biological monitoring (liver function tests, platelet count and natraemia).
+
+Topiramate
+
+- Anorexia, paresthesias, drowsiness, confusion, asthenia
+
+'''<u>Main contraindications</u>''''
+
+- Severe renal impairment (gabapentin, pregabalin)
+
+- Atrioventricular block (carbamazepine)
+
+- Kidney stones (effect on carbonic anhydrase, topiramate)
+
+- Pregnancy and breastfeeding
+
+- Children under 6 (carbamazepine, oxcarbazepine)
+
+'''<u>Main causes of failure</u>''''
+
+- Low doses (no titration) or adverse effects ++ if doses are increased rapidly.

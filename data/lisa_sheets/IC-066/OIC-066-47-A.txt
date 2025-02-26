@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-066-47-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Know the definition of a potentially traumatic event, acute stress disorder, post-traumatic stress disorder, dissociative symptoms.
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=47}}
+
+In a traumatic event, the subject is confronted with the threat of death, serious injury or sexual [[Sexual violence SD-350|violences]]. Exposure is direct, as a direct witness, involves a close friend/family member, or in a professional setting with repeated exposure.
+
+In acute stress disorder (ASD), the symptoms (repetition, avoidance, neurovegetative hyperactivation, negative changes in cognition and mood) begin immediately after the trauma, last between 3 days and 1 month and are self-limiting. Diagnosis of PTSD if symptoms develop more than one month after the trauma. Progression to PTSD is more frequent in cases of dissociation with mutism, wandering, emotional detachment, depersonalisation, derealisation, amnesia of the event or psychiatric history/other traumatic events.

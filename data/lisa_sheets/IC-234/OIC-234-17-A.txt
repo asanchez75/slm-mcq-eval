@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-234-17-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Know how to diagnose cardiogenic PAO
+|Description=Know how to recognise PAO in the face of acute respiratory distress (dyspnoea, orthopnoea, crepitating rales, tachycardia, left gallop, etc.), recognise the signs of severity.
+|Rubric=Emergency identification
+|Contributors=Olivier Huttin
+|Order=17}}
+
+
+====Clinical table====
+- Sudden onset of acute respiratory distress,
+
+- Often nocturnal
+
+- Superficial polypnoea, very rapid, distressing and sometimes painful, with a sensation of a leaden cap on the shoulders.
+
+- Associated signs: laryngeal crackling, cough with frothy, whitish or salmon-coloured sputum.
+
+- Patient, often agitated, covered in sweat, forced to sit with legs dangling over the edge of the bed.
+
+- Lung auscultation: bilateral crackling rales, rising from the bases to the peaks, in a veritable rising tide, frequently with associated unilateral or bilateral pleural effusion.
+
+- Associated signs: sinus tachycardia; arrhythmia responsible for PAO; myocardial ischaemia.
+
+- This may correspond to a cardiac pseudo-asthma mimicking an asthma attack: expiratory restraint, orthopnoea, non-productive cough and a mixture of sub-crepitating and sibilant rales on pulmonary auscultation (particularly in elderly patients).
+<br />
+
+====''Signs of PAO severity:'''====
+<br />
+{| class="wikitable"
+| colspan="2" |'''Signs of seriousness''''
+|-
+|'''Acute respiratory distress'''
+|'''Signs of shock'''
+|-
+|- Respiratory rate > 30/minute
+
+- Drawing
+
+- Profuse sweating (signs of hypercapnia)
+
+- Cyanosis
+
+- Heart rate > 150/minute
+
+- Normo or hypercapnia
+|- Systolic blood pressure < 90 mmHg or
+
+- Drop in blood pressure of 30 mmHg compared with usual BP
+
+- Consciousness disorders
+
+- Mottling
+
+- Peripheral hypoperfusion, oliguria
+|-
+|Exhaustion
+|Acute coronary syndrome
+|-
+|- Worsening cyanosis
+
+- Respiratory rate < 12/minute
+
+- Persistent signs of PAO
+
+- Confusion
+|- Chest pain
+
+- ST-segment elevation on ECG (ST+ ECG)
+|}
+
+
+
+<br />

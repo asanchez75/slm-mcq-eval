@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-322-06-A
+|Item_parent=Personalised therapeutic decisions: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of therapeutic adaptation in patients with hepatic insufficiency
+|Description=Knowing the principles of therapeutic adaptation in patients with liver disease
+|Rubric=Management
+|Contributors=
+|Order=6}}
+
+==='''Pharmacokinetic and pharmacodynamic changes'''===
+The liver plays a ''central role'' in the ''extraction'' and ''metabolism'' of drugs.
+
+In cases of hepatic insufficiency, hepatic blood flow decreases, thereby reducing the hepatic clearance of metabolised drugs. The ''metabolic capacity'' of the liver may also be ''reduced'', particularly in cases of ''cirrhosis''. Lastly, a hepatic first-pass "shunt" appears in the presence of porto-caval anastomoses in patients with hepatic insufficiency.
+
+===''Therapeutic adaptation in the event of hepatic insufficiency''===
+In the event of '''acute''' hepatic insufficiency, all drugs that are '''non-vital''' for the patient should be ''''interrupted.
+
+In the case of moderate to severe "chronic" hepatic insufficiency, it is advisable to :
+
+*Prefer drugs whose ''pharmacokinetics'' are ''not altered'' by liver failure (drugs eliminated mainly by renal route).
+*Do not use pro-drugs whose metabolism is rendered unpredictable by liver failure, or drugs with a strong first-pass effect if the patient has a porto-caval anastomosis, as these may cause uncontrolled increases in drug concentrations.
+*Do not prescribe "hepatotoxic" drugs wherever possible, or use them with caution if there is no alternative.
+
+There is no "continuous" hepatic function score that can be used to adjust the dosage of highly metabolised drugs. Dosage adjustment depends on the patient's level of hepatic insufficiency, in particular the cirrhosis score (Child-Pugh). Hepatic insufficiency is "severe" from "stage B" onwards of the Child-Pugh score, and "caution" is particularly important when prescribing drugs at this stage of the disease.
+
+Medicines with a ''narrow therapeutic margin'' and a ''concentration-effect relationship'' can be '''adapted'' by ''[[Know the definition of the bases of pharmacological therapeutic monitoring OIC-321-02-A|pharmacological therapeutic monitoring]]'''.

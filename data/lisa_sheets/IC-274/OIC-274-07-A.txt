@@ -1,0 +1,131 @@
+{{knowledge objective
+|Identifiant=OIC-274-07-A
+|Item_parent=Vomiting in infants, children and adults
+|Item_parent_short=Vomiting in infants, children and adults
+|Rank=A
+|Title=Know the main digestive and extradigestive causes (medicinal, metabolic, neurological, etc.)
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+'''In adults'''
+
+In cases of acute or chronic vomiting, the aetiological diagnosis is guided by the course, associated signs, their occurrence in relation to the meal, the history and physical examination. Vomiting is sometimes only a minor associated sign compared with the other symptoms, for example in the case of a digestive surgical emergency. The aetiological diagnosis is obvious in the majority of cases.
+
+Depending on the context, certain causes should always be considered: pregnancy; overdose or intolerance of drugs (digitalis, opiates, erythromycin, anticancer drugs, theophylline derivatives, etc.); ingestion of a toxic substance (alcohol); exposure to a toxic substance (solvents, paints, cannabinoid syndrome); intracranial hypertension; metabolic causes (acute renal failure, acute adrenal insufficiency, ketoacidosis, hypercalcaemia) ....  
+
+''''' Acute vomiting'''''
+
+The most common causes of acute vomiting are listed in Table 1.
+
+Table 1: Most frequent causes of acute vomiting
+{| class="wikitable"
+|Digestive causes
+|Seasonal acute viral gastroenteritis
+
+Food poisoning
+
+Liver colic
+
+Acute pancreatitis
+
+Digestive occlusive syndrome of mechanical origin (obstruction, strangulation) or functional origin (ileus, colectasis)
+
+Mesenteric infarction
+|-
+|Genitourinary causes
+|Nephritic colitis
+
+Pregnancy including ectopic pregnancy
+|-
+|Neurological causes
+|Meningitis and cerebral-meningeal haemorrhage
+
+Intracranial hypertension
+
+Migraine with or without aura
+
+Vagal discomfort
+
+Labyrinth syndrome
+|-
+|Metabolic causes
+|Hyperponatremia
+
+Hypercalcaemia
+
+Hypoglycaemia
+
+Diabetic ketoacidosis
+|-
+|Endocrinological causes
+|Hyperthyroidism
+
+Acute adrenal insufficiency
+
+Diabetic ketoacidosis
+|-
+|Toxic causes
+|Cannabinoid syndrome
+
+Medications (antibiotics, digitalis overdose, cytotoxic chemotherapy, opiates, nefopam, etc.)
+
+Toxic exposure/ingestion (alcohol, carbon monoxide, solvents, etc.)
+|-
+|Other
+|Myocardial infarction
+
+Acute glaucoma
+|}
+''''' Chronic vomiting'''''
+
+
+There are also many causes, the most common of which are stenosis of the digestive tract and psychiatric causes.
+
+The most common causes of chronic vomiting are listed in Table 2.
+
+
+Table 2: Most common causes of chronic vomiting
+{| class="wikitable"
+|Digestive causes
+|<Endoluminal or extrinsic mechanical obstructions of the upper gastro-duodenal-grenic tract (more rarely the lower colorectal tract), whether tumourous or not: gastric, duodenal, small bowel cancer, pancreatic neoplasia, compressive pancreatic pseudocyst, gastric stenosis due to benign pyloric, antral or duodenal ulcer, peritoneal carcinosis, Crohn's disease, post-anastomotic stenosis, post-radiation small bowel, NSAID-related stenosis....</nowiki>
+
+- Organic causes due to strangulation: adhesions, flanges, hernias, etc.
+
+- Functional causes: gastroparesis (diabetes, scleroderma, etc.), post-vagotomy, primary or secondary intestinal pseudo-obstruction (scleroderma, paraneoplasia, etc.).
+|-
+|Psychiatric causes
+|anorexia nervosa, bulimia nervosa
+
+Psychogenic" vomiting
+|-
+|Central neurological causes
+|Intracranial hypertension
+|-
+|Other
+|Pregnancy (1st trimester)
+
+Hyperemesis'' with cannabinoids
+
+Catamenial vomiting (during menstruation)
+
+Idiopathic" cyclic vomiting syndrome
+|-
+|Drugs and toxic substances
+|Cytotoxic chemotherapy (acute, delayed and anticipated forms)
+
+Other drugs (digitalis, opiates, etc.)
+|}
+'''''Special situations :'''''
+
+Vomiting in pregnancy
+
+In the 1st trimester of pregnancy, vomiting is common (50% of pregnant women) and, in the absence of complications, is considered to be physiological.
+
+Hyperemesis gravidarum" is a pathological and severe form of vomiting in pregnancy. It involves incoercible vomiting that is resistant to symptomatic treatment and may be complicated by dehydration, hydro-electrolytic disorders, acute malnutrition with ketonuria and liver balance disorders (cytolysis and cholestasis, sometimes icteric). Exceptionally, vomiting can lead to B1 deficiency, complicated by Gayet Wernicke encephalopathy.
+
+In the 3rd<sup>trimester</sup>, pre-eclampsia is an emergency situation that may manifest itself as vomiting. Generally speaking, vomiting in the 3rd<sup>trimester</sup> of pregnancy should raise the suspicion of an obstetric or digestive emergency until proven otherwise.
+
+Chemo-induced vomiting
+
+Anticancer drugs have a variable emetogenic effect, in terms of the severity, onset and duration of vomiting. The optimisation of cancer chemotherapy protocols and the development of preventive antiemetic treatments have made it possible to improve the digestive tolerance of anti-cancer drugs.

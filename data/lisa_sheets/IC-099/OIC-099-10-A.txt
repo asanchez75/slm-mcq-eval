@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-099-10-A
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=A
+|Title=Know the clinical description of auricular headaches
+|Description=Know the positive clinical features that allow the diagnosis to be made.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+- '''Otalgia : ear pain'''
+
+o Can be directly linked to a pathology of the outer or middle ear (otitis in particular)
+
+o Or be a projected pain "reflex otalgia" often revealing an ENT cancer.
+
+o <u>See item 150</u>
+
+
+- '''[[Headache SD-118|Headache]] of auricular cause''''
+
+o Headache associated with ear pain, linked to pathology of the external or middle ear <u>(See item 150)</u>.

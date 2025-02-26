@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-359-05-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Know the pathophysiological elements of acute respiratory distress syndrome (ARDS) and the main causes, hyaline membrane disease of the newborn.
+|Description=Alveolocapillary membrane lesions
+|Rubric=Physiopathology
+|Contributors=Guillaume Carteaux,Guillaume Mortamet
+|Order=5}}
+
+ARDS: lesional oedema (not cardiogenic)
+
+Main risk factors for ARDS in adults and children :
+
+- Pneumonia
+
+- Non-pulmonary sepsis
+
+- Inhalation
+
+- Non-cardiogenic shock
+
+- Acute pancreatitis
+
+- Polytrauma
+
+- More rarely: pulmonary contusion, severe burns, pulmonary lesions associated with multiple transfusions (TRALI), pulmonary vasculitis, drowning, overdose.
+
+Hyaline membrane disease is a pathology specific to premature newborns, which combines respiratory distress with a bilateral infiltrate on the chest X-ray. It is linked to a surfactant deficiency secondary to prematurity.

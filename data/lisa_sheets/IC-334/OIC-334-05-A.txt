@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-334-05-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing the principles of prehospital management of injuries
+|Description=Hemostasis, immobilisation of fracture sites, analgesia, combating hypothermia, knowing the negative impact of time until the haemostasis procedure.
+|Rubric=Management
+|Contributors=
+|Order=5}}
+Application of "damage control resuscitation": implementation of strictly necessary therapies without delaying the management of a haemorrhage: "golden hour" principle (figure 2).
+[File:Item 334 Principles of pre-hospital management and hospital arrival.jpg|vignette|Figure 2. Principles of pre-hospital care and resuscitation on arrival at hospital|alt=]]
+Any delay in treatment is associated with a higher mortality rate.
+
+('''" [[Coma and disorders of consciousness SD-028|coma and disorders of consciousness]] "'' '''" [[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]] "'' '''" [[Acute haemorrhage SD-060|acute haemorrhage]]"" [[Acute respiratory distress SD-160|acute respiratory distress]]"" [[Abdominal-pelvic trauma SD-171|abdominal-pelvic trauma]]" " [[Head trauma SD-172|head trauma]]" " [[Limb trauma SD-173|limb trauma]]" " [[Facial trauma SD-174|facial trauma]]" " [[Spinal trauma SD-175|spinal trauma]]" " [[Severe trauma SD-176|severe trauma]]" " [[Thoracic trauma SD-177|thoracic trauma]]" " [[Assessment and management of acute pain SD-259|assessment and management of acute pain]]"'')

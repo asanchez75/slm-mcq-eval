@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-161-13-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Knowing the diagnostic criteria for male urinary tract infections (clinical, biological, radiological)
+|Description=Knowing how to determine the indications for additional examinations for male urinary tract infections, knowing the complications of male urinary tract infections, knowing how to eliminate differential diagnoses.
+|Rubric=Positive diagnosis
+|Contributors=Maxime Vallée, Alice Faure
+|Order=13}}
+
+
+==There are fundamental clinical elements for the positive diagnosis of male urinary tract infection (MUTI, formerly "acute prostatitis"):==
+
+*the occurrence of an '''acute symptomatology'''
+*''the presence of [[Acute fever in children and adults|fever]]''' [[Fever 147|147]] +/- associated with chills
+
+<br />
+
+*There are descriptions of MUI without fever, called "cystitis like", but its diagnosis must be cautious, since the terrain of MUI is that of a man with pre-existing lower urinary tract symptoms (LUTS), which should not lead to a false diagnosis of infection.
+*The other symptoms that are obviously frequently associated are LUTS during the filling phase with urinary burning.
+*The main complications are severe sepsis and acute urine retention, which are diagnostic and therapeutic emergencies.
+*Biological and radiological examinations (see dedicated question)
+
+<br />

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-069-02-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the prevalence
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=2}}
+
+* Pregnancy and the post-partum period increase the risk of relapse of previous mood disorders or schizophrenia.
+
+*During pregnancy:
+**anxiety disorders affect 5 to 15% of women, particularly in the first and last trimesters of pregnancy,
+**Characterised depressive episodes account for 10% of cases,
+**denial of pregnancy affects around 3 out of every 1,000 pregnancies.
+*In the post-partum period:
+**post-partum blues are frequent and physiological, affecting up to 80% of women giving birth,
+**Characterised depressive episodes affect 15% of women and are often under-diagnosed,
+**manic episodes and brief psychotic episodes are less frequent (0.1-0.2% of births).

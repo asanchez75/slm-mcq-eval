@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-066-08-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Know the DSM-5 criteria for a characterised depressive episode, the DSM-5 criteria for recurrent depressive disorder.
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=8}}
+
+A. At least 5 of the following symptoms must have been present during a single 2-week period and have represented a change from the previous state; at least one of the symptoms is either (1) a depressed mood or (2) a loss of interest or pleasure. N.B.: Do not include symptoms that are clearly attributable to a general medical condition.
+
+1. Depressive mood present practically all day, almost every day, signalled by the subject (feeling sad or empty) or observed by others (crying). N.B.: possibly irritability in children and adolescents.
+
+2. Marked reduction in interest or pleasure in all or almost all activities virtually all day, almost every day.
+
+3. Significant weight loss or gain (5%) in the absence of diet, or decrease or increase in appetite every day. N.B.: In children, take into account the absence of the expected increase in weight.
+
+4. Insomnia or hypersomnia almost every day.
+
+5. Agitation or psychomotor slowing down almost every day.
+
+6. Fatigue or loss of energy every day.
+
+7. Feeling of worthlessness or excessive or inappropriate guilt (which may be delusional) almost every day (not just complaining or feeling guilty about being ill).
+
+8. Decreased ability to think or concentrate or indecisiveness almost every day (reported by the subject or observed by others).
+
+9. Recurrent thoughts of death (not just a fear of dying), recurrent suicidal ideation with no specific plan or suicide attempt or specific plan to commit suicide.
+
+B. The symptoms cause clinically significant distress or impairment of social, occupational or other important functioning.
+
+C. The symptoms are not attributable to the direct physiological effects of a substance or a general medical condition.
+
+D. The episode does not meet the criteria for schizoaffective disorder and is not superimposed on schizophrenia, schizophreniform disorder, delusional disorder or another psychotic disorder.
+
+The DSM-5 specifies criteria for the intensity of EDC, graded as mild (symptoms just sufficient for the diagnosis of EDC, few social or occupational disturbances), moderate (more symptoms than necessary, moderate social or occupational disturbances), severe (almost all symptoms, clear social or occupational disturbances).
+
+Recurrent depressive disorder. Presence of at least 2 marked depressive episodes separated by a symptom-free period of at least 2 consecutive months.

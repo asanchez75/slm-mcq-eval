@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-115-07-A
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=A
+|Title=Knowing how to recognise drug-induced urticaria requiring discontinuation of the drug
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+{| class="wikitable"
+|+<gallery>
+File:Figure 3 tox.jpg|'''Figure 3.'''Superficial urticaria: well-limited erythematous papular lesions.
+</gallery>
+|'''Urticaria'''
+|'''Non immunological'''
+|'''Immunological'''
+|-
+|'''Mechanism'''
+|Pharmacodynamic effect of the drug
+
+Medicines capable of activating inflammatory mediators (NSAIDs, anti-inflammatory doses of aspirin, codeine, etc.).
+|Immediate hypersensitivity, IgE mediated
+|-
+|Immediate hypersensitivity, IgE-mediated
+|Possible, inconsistent reactions in the same individual, dose-dependent
+|No, requires prior sensitisation
+|-
+|Contraindication
+|<No, requires prior sensitisation.
+|Yes, formal, risk of anaphylaxis
+|}
+Urticaria: eruption of oedematous papules surrounded by an erythematous halo, pruritic, labile in time and space, disappearing in 24 to 48 hours without leaving any trace (Figure 3) '''appearing a few minutes to a few hours after administration of a drug.'''

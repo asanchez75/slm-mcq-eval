@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-068-03-B
+|Item_parent=Behavioural disorders in children and adolescents
+|Item_parent_short=Behavioural disorders in children and adolescents
+|Rank=B
+|Title=Knowing the risk factors
+|Description=Individual, environmental, individual-environment interaction
+|Rubric=Epidemiology
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notre-Dame
+|Order=3}}
+
+== Epidemiology
+Behavioural problems are a frequent reason for consultation:
+
+* TOP - average prevalence 3%; sex ratio 1.4G/1F
+* TC - average prevalence 1.5%; sex ratio 3-4G/1F
+
+== Risk factors
+The aetiology of behavioural disorders is multifactorial. They result from an individual-environment interaction. Some risk factors have direct and indirect effects or act through common underlying mechanisms.
+
+=== Genetic/neurobiological factors ===
+
+* Family aggregation (heritability between 35-60%)
+* Inhibition deficit and abnormalities in danger processing
+* Low reactivity to stress, autonomic nervous system abnormalities
+
+=== Cognitive factors ===
+
+* Hostile attribution bias in social relations
+* Verbal deficits
+* Deficits in executive functions
+
+=== Environmental factors ===
+
+* Coercive or inconsistent parenting style
+* Disorganised attachment style
+* Parental psychopathology
+* Psychological and/or physical violence SD-351|Exposure to violence
+* Criminogenic environment/deviant peers
+
+=== Perinatal factors ===
+
+*Perinatal complications
+*Low birth weight
+*Exposure to toxic substances ([[Alcohol and pregnancy: mechanism - Dose-effect relationship 2C-027-EP-B07|Alcohol]], Tobacco)

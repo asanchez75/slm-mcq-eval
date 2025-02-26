@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-177-19-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescribing and monitoring anti-infectives in adults and children (see item 330)
+|Rank=B
+|Title=Knowing the main principles of antiretroviral treatment (ARV)
+|Description=None
+|Rubric=Definition
+|Contributors=Morand-Joubert Laurence
+|Order=19}}
+
+Antiretrovirals, or ARVs, work by specifically blocking one or more stages in the HIV multiplication cycle''''''''.
+
+Treatment of HIV with antiretroviral drugs inhibits viral replication without eliminating the virus stored in reservoirs.
+
+Treatment of the infection is based on a combination of antiretrovirals, started early whatever the stage, CD4 T lymphocyte count and viral load, because of the ''benefits in terms of morbidity and mortality and the risk of HIV transmission''.
+
+'''The objectives of antiretroviral treatment are:'''
+
+* Prevent progression to AIDS and death by maintaining or restoring a CD4 T lymphocyte count > 500/mm<sup>3</sup>.
+* ARV treatment must enable plasma viral load to be controlled at less than 50 copies/mL, which
+** maximises immune restoration
+** minimises the risk of selection of resistant viruses
+** Reduces HIV-associated morbidity
+
+* 4 objectives of ARV treatment
+** Immunological and virological efficacy
+** ''Best possible clinical and biological tolerance, in the short, medium and long term'' ** ''Improvement or preservation of quality of life''
+** '''Improvement or preservation of quality of life''
+** Prevention of HIV transmission (horizontal or vertical)

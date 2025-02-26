@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-219-15-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Knowing the first-line assessment of martial deficiency
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=15}}
+The investigation strategy will be defined according to the questioning and clinical signs, but also according to the patient's age and sex.
+
+
+- ''In elderly subjects (or at least after the age of 40) if there is no clinical indication''.
+
+Exploration in this age group is essentially based on upper and lower digestive endoscopy.
+
+
+- ''In young patients and non-menopausal women with no clinical indication''.
+
+In this population, the risk of colorectal cancer is low, and it is therefore possible to limit the first-line treatment to an upper digestive endoscopy after ruling out a gynaecological cause in women.
+
+
+If upper GI endoscopy is performed, duodenal and gastric biopsies should be taken systematically to check for celiac disease, Biermer's disease and/or Helicobacter pylori infection.

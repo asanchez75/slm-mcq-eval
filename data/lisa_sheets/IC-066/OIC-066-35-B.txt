@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-35-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the prevalence, age of onset of disorders
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=35}}
+
+The lifetime prevalence of OCD is 2%, with one-third beginning in childhood and two-thirds before the age of 25. Sex ratio 1.

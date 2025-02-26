@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-059-06-A
+|Item_parent=Subjects in precarious situations
+|Item_parent_short=Subjects in precarious situations
+|Rank=A
+|Title=Knowing how to identify people in precarious situations
+|Description=Knowing how to collect psycho-social data during a medical examination. Know how to use and interpret the EPICES grid (with the grid in front of you).
+|Rubric=Taking charge
+|Contributors=
+|Order=6}}
+The fine line between social integration and exclusion requires vigilance on the part of the doctor.
+
+The EPICES score is not commonly used in ambulatory medicine because of the complexity of interpreting it using logarithmic calculations. Other tools have been designed to be simpler.
+
+Certain types of population have been identified as potentially vulnerable: single women, single-parent families (particularly women), isolated elderly people, students and people on fixed-term or part-time contracts.

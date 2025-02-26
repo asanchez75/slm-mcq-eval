@@ -1,0 +1,143 @@
+{{knowledge objective
+|Identifiant=OIC-147-03-A
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=A
+|Title=Know how to make an aetiological diagnosis of fever in children and adults
+|Description=Know how to orientate according to age, background, history, epidemiological data and clinical signs,
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Aetiological research requires rigorous questioning and a complete physical examination if the cause of the fever is not obvious.
+
+'''<u>1- Anamnesis</u>''''
+
+- Characterise the fever: acute/prolonged, timing, associated signs
+
+- Past history
+
+o severe infections
+
+o autoimmune, inflammatory or systemic diseases,
+
+o Valvular, vascular or joint prosthetic material
+
+o Vascular catheter
+
+o Post-operative context, dental care, invasive procedures (urological, placement of foreign material, infiltrations, etc.)
+
+- Vaccinations for adults and children SD-322|Vaccination status
+
+- Current medical treatments and their effect on fever (antibiotics, anti-inflammatories, etc.)
+
+- Epidemiological context (to be weighted by age)
+
+o Recent travel ([[Travel to tropical countries for adults and children: advice before departure, pathologies on return: fever, diarrhoea, skin manifestations|particularly in malaria-endemic areas]])
+
+o Notion of contage
+
+o Leisure: freshwater swimming (leptospirosis), exposure to ticks, hunting (tularemia)
+
+o Occupation (exposure to animals, waste water)
+
+o Risk-taking ([[Screening and advice on sexually transmitted infections SD-305|sexuals]], drug use, etc.)
+
+- Newborn: obstetric history, risk factors for early neonatal infection
+
+- Infants and children: Childcare, schooling (nursery/school epidemic)
+
+
+'''<u>2- Physical examination: patient undressed</u>''''
+
+- Authenticate fever by measuring it under suitable conditions
+
+- Taking vital signs
+
+- Neurological: meningeal syndrome, headaches, localisation signs, hypotonia or irritability (meningeal signs in infants)
+
+- Ophthalmological: conjunctivitis, conjunctival purpura, jaundice
+
+- ENT: rhinorrhea, angina/pharyngitis, pain on pressure in the maxillary/frontal sinuses, examination of the eardrums
+
+- Pulmonary: functional signs (cough, dyspnoea, sputum), [[Lung auscultation abnormalities SD-020|auscultation]], percussion, palpation
+
+- Cardiac: [[Discovery of abnormalities on cardiac auscultation SD-018|search for a murmur]], friction
+
+- Abdominal: diarrhoea, Murphy's sign, tenderness, contracture, splenomegaly, hepatomegaly
+
+- Urinary: functional signs (urinary burning), pain on percussion of the lumbar fossa, prostate pain on rectal examination (adults)
+
+- Genital (adult): leucorrhoea, pain when moving the adnexa, pain or enlargement of a testicle
+
+- Skin: purpura, rash, inoculation sore, infected-looking wound, scars (inflammatory, purulent)
+
+- Mucous membranes: cheilitis, glossitis, conjunctivitis (Kawasaki disease in children)
+
+- Ganglion areas
+
+- Osteoarticular: functional impotence, lameness, effusions, spinal pain points, foot wounds in diabetics (adults), refusal to sit (spondylodiscitis in infants).
+
+- Presence of foreign material: urinary catheter, central or peripheral venous catheter, pacemaker, ventricular shunt, etc.
+
+
+'''<u>3- Etiological orientation according to the terrain</u>''''
+
+- '''In newborns and infants under 3 months of age'''
+
+o Frequency of bacterial infections > older children and less specific signs (sometimes isolated fever): pyelonephritis (bacterial infection most frequently found with isolated fever at this age), occult bacteremia, meningitis, etc.
+
+'''- In infants over 3 months and young children'''
+
+o Frequency of viral infections (fever = very frequent reason for consultation in primary care)
+
+'''- Pregnant woman'''
+
+o Pyelonephritis is systematically sought, especially in the 3rd<sup> trimester.
+
+o The search for an adnexal infection or misleading forms of abdominal infection warrants a gynaecological examination.
+
+o Listeriosis is very rare, but can be detected by blood cultures in the event of a flu-like illness.
+
+o Any notions of toxoplasmosis or rubella contagion, as well as rubella vaccination, are sought.
+
+- '''Elderly subject'''
+
+o There are many pitfalls. The symptomatology is often atypical, pauci symptomatic, dominated by neurological manifestations (confusion, falls). Fever may be absent. Urine is frequently colonised. Pulmonary, urinary and digestive infections predominate in these patients.
+
+- Valvular prosthesis
+
+o Blood cultures are routinely taken before any antibiotic treatment to look for infective endocarditis.
+
+- Recent surgical history
+
+o A search for surgical site infection is carried out systematically
+
+Diabetes
+
+o Diabetes, especially if poorly controlled, is particularly prone to Staphylococcus aureus infections (look for a skin entry point, especially a foot sore) and surgical site infections.
+
+'''- Cirrhosis:''''
+
+o Bacterial infections account for ¼ of deaths in these patients. Invasive Streptococcus pneumoniae infections are frequent. An infection of the ascites fluid should be considered.
+
+'''- Dialysis:''''
+
+o Bacteremia caused by "Staphylococcus (aureus)" or other bacteria, often resistant to methicillin, are frequent.
+
+'''- Intravenous drug use:''''
+
+o Staphylococci predominate, but infections with "Pseudomonas aeruginosa" and "Candida sp" are also possible.
+
+Immunodepression
+
+o Humoral immunity deficiency: encapsulated bacteria are particularly common and responsible for severe infections (Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae).
+
+o HIV: below 200 CD4 lymphocytes/mm3 (or 15%), an opportunistic infection should be systematically sought. Above this threshold, bacterial infections, particularly Streptococcus pneumoniae, predominate.
+
+o Short-term neutropenia: infections are linked to enterobacteria and gram-positive cocci (staphylococci, streptococci, enterococci).
+
+o Long-term neutropenia: in addition to the infectious agents listed above, there are Pseudomonas aeruginosa and certain fungal infections (Candida, Aspergillus).
+
+'''<u>4- Return from an area of notlustre enedemia</u>''''
+
+Any fever on returning from the tropics is malaria until proven otherwise and requires a diagnostic test [[Interpretation of a malaria attack SD-234|(smear/thick drop or other]])].

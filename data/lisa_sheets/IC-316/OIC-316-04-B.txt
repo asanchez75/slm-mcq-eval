@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-316-04-B
+|Item_parent=Myelodysplastic syndromes
+|Item_parent_short=Myelodysplastic syndromes
+|Rank=B
+|Title=Knowing myelogram abnormalities
+|Description=Myelogram: increased richness, signs of dysmyelopoiesis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+
+- Myelogram
+
+* essential for diagnosis
+* normal or increased marrow richness contrasting with peripheral cytopenias: this contrast reflects the inefficient nature of haematopoiesis
+* morphological abnormalities affect one or more lineages: dysmyelopoiesis
+* abnormalities of erythroblasts (dyserythropoiesis): various nuclear abnormalities, poorly haemoglobinised cytoplasms
+* abnormalities in granulocyte precursors (dysgranulopoiesis): cytoplasm with poor granulation, poorly segmented mature neutrophils
+* abnormalities in megakaryocytes (dysmegakaryopoiesis): reduced size, small nuclei
+* sometimes an excess of blasts (immature cells) but always less than 20%.
+* Perls staining (sideroblasts in a crown - these are not blasts !!!!)
+* karyotype can be performed (diagnostic and prognostic element)
+
+- bone marrow karyotype
+
+* from bone marrow cells
+* essential for prognosis
+* sometimes aids diagnosis
+* no karyotypic abnormality specific to myelodysplastic syndromes
+* normal in 50% of cases
+* structural abnormalities (balanced translocations): rare, unlike acute leukaemias.
+* frequent number abnormalities (monosomy, trisomy)
+* the most frequent anomalies: deletion of the long arm of chromosome 5, or del(5q), monosomy 7 and trisomy 8.
+
+These abnormalities are acquired and are present only in haematopoietic cells (except in exceptional cases of underlying constitutional disease, these abnormalities are therefore present only in disease cells).
+
+- '''Classification of MDS (WHO)''''
+
+It is based on :
+
+- morphological abnormalities in one or more bone marrow lineages
+
+- the percentage of blasts in blood and bone marrow
+
+- the presence of "crown" sideroblasts
+
+- Karyotype (for 5q minus syndrome)
+
+
+It comprises several categories
+
+- MDS with unilineage dysplasia or with multilineage dysplasia when one or more cytopenias are present
+
+- MDS with crown sideroblasts when "crown" sideroblasts are found in the bone marrow (> 15%)
+
+- MDS with excess blasts when there is an excess of blasts in the bone marrow (>4% but less than 20%) with or without the presence of a limited percentage of circulating blasts
+
+- myelodysplastic syndromes with del(5q) (or "5q- syndrome")
+
+- chronic myelomonocytic leukaemia when monocytosis is > 1 G/L

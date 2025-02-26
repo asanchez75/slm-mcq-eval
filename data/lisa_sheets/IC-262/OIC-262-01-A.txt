@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-262-01-A
+|Item_parent=Interstitial nephropathy
+|Item_parent_short=Interstitial nephropathy
+|Rank=A
+|Title=Knowing the clinical presentation of chronic interstitial nephropathy (CIN)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dany Anglicheau
+|Order=1}}
+
+In the presence of elevated creatinine levels ([[Increased creatinine SD-199|Increased creatinine]]), the signs that lead to the diagnosis of chronic interstitial nephropathy may be :
+
+*data from the interview (notion of uropathy, repeated history of urinary tract infections, medication taken, etc.);
+*Extra-renal signs related to the cause of the nephropathy (signs suggestive of sarcoidosis, Sjögren's syndrome, sickle cell disease);
+*signs associated with the discovery of chronic renal insufficiency in adults and children or an abnormality such as low-flow proteinuria ([[Proteinuria SD-212|proteinuria]]), microscopic haematuria, leucocyturia ([[Urinary sediment analysis SD-196|urinary sediment analysis]]);
+*frequent polyuria ([[Polyuropolydipsic syndrome SD-061|polyuropolydipsic syndrome]]) with nocturia ;
+*the occurrence of papillary necrosis with isolated macroscopic haematuria (or associated with symptoms of renal colic) ([[Haematuria SD-102|haematuria]])
+*the absence of hypertension or the appearance of hypertension later and less severe than in other chronic kidney diseases (stages 4 and 5).

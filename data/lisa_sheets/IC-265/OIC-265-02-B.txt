@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-265-02-B
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=B
+|Title=Epidemiology of urinary lithiasis
+|Description=Epidemiology and distribution of stones
+|Rubric=Epidemiology
+|Contributors=Romain Boissier
+|Order=2}}
+
+The incidence of urinary lithiasis varies from country to country, depending on geographical, climatic, ethnic, dietary and genetic factors. The prevalence of urolithiasis varies from 1% to 20% worldwide. In France, the prevalence is estimated at almost 10%.
+
+The sex ratio is 2 men to 1 woman.

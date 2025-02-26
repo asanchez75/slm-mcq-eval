@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-361-15-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Knowing the indication, interest and objectives of imaging examinations of periarticular and ligamentary lesions of the knee
+|Description=Standard radiography (to look for associated fractures) and/or MRI (to confirm ACL rupture in cases of clinical doubt, necessary to take stock of associated lesions in ruptures of the anterior cruciate ligament: collateral ligaments, menisci).
+|Rubric=Additional examinations
+|Contributors=
+|Order=15}}
+'''<u>Ligament lesions:</u>''''
+
+*Standard X-rays: front and side views to look for any bone lesions:
+**avulsion of the anterior and/or posterior spine,
+**avulsion of the anterolateral cortex of the tibia (SEGOND fracture, pathognomonic of an ACL rupture)
+**associated fractures (patella, condyles, tibial plateaus, head of fibula).
+<gallery>
+File:SEGOND's fracture.png|SEGOND's fracture right knee.
+</gallery>
+
+*MRI with T2 fat-sat slices.
+**visualisation of ligament rupture (including anterior and posterior cruciate ligaments)
+**search for associated extensor anomalies (patellar ligament and quadricipital tendon).
+**condition of the menisci (lesions of the posterior segments and search for a bucket handle)
+**status of the cancellous bone (looking for a bone bruise type lesion, which results in a more or less extensive hypersignal in the bone). Posterior contusion in the lateral tibial plateau and anterior contusion in the lateral condyle is an indirect sign of rupture of the anterior cruciate.
+<gallery>
+File:ACL rupture right knee (MRI sagittal section).png|ACL rupture right knee (MRI sagittal section).
+</gallery><gallery>
+</gallery>'''<u>Meniscal injury:</u>'''
+
+*Standard radiographs: full-head, full-schuss and lateral views.
+**Joint space heights, which may be normal and symmetrical, or asymmetrical with more or less severe pinching, indicating early or established femorotibial and/or patellofemoral osteoarthritis of the knee.
+*MRI:
+**Search for a meniscal hypersignal.
+**A meniscus with an extru appearance (loss of normal relationships with the tibial and femoral cartilage surfaces) indicates incipient tibio-femoral osteoarthritis, which contraindicates surgical treatment of the meniscal lesion.
+**MRI analysis should assess all other joint structures (cartilage, ligaments, subchondral bone).

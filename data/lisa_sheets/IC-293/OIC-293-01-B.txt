@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-293-01-B
+|Item_parent=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles of taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=B
+|Title=Know how to take cell or tissue samples for morphological and molecular studies.
+|Description=Describe the different methods of taking samples of cells (smear, cytopuncture, liquid) and tissues (biopsy, surgical specimen).
+|Rubric=Additional examinations
+|Contributors=Arnaud Uguen
+|Order=1}}
+
+'''''" How to determine the indication for a cell or tissue sample for Pathological Anatomy and Cytology analysis" ?'''''
+
+
+In the <u>reflection preceding</u> the [[Reasoned request/prescription and choice of a diagnostic examination SD-178|prescription]] and the taking of a sample for the purpose of Pathological Anatomy and Cytology analysis, the information expected from this sample and its [[Interpretation of an anatomopathology report SD-180|interpretation]] (for example pathology [[Malignant tumours on surgical specimen/biopsy SD-181|tumour]] or [[Inflammatory reaction on surgical specimen/biopsy SD-179|inflammatory]]) must be questioned beforehand.
+
+These expectations go:
+
+- determine the choice of sampling method (''see knowledge objective 2C-293-EC-B01'')
+
+- dictate how samples are transmitted, depending on the time constraints of the results and the techniques expected (''see knowledge objective 2C-293-EC-B02'')
+
+- allow the transmission of information, clinical hypotheses and requests for specific analyses via the information sheet accompanying the sample. (''cf knowledge objective item 2C-293-EC-A01'')
+
+
+The <u>picking act</u> itself is always carried out
+
+- by a qualified health professional, usually a doctor,
+
+- in accordance with good practice recommendations for the sample in question,
+
+- ensuring that there are no contraindications to the procedure.
+
+(''see items corresponding to the various samples'')
+
+
+The <u>drawal</u> may concern
+
+- Tissue: a biopsy or surgical specimen of varying sizes, from a submillimetre microbiopsy to an organ or group of organs (taken for "anatomopathological" or "histopathological" examination).
+
+- cells separated from their tissue: in a biological fluid, or obtained by smear - in the case of a lesion on the surface of a clinically accessible organ - or by needle puncture - in the case of a deep lesion (sampling for "cytopathological" examination)
+
+- sometimes both during the same sampling procedure (e.g. liquid and tissue fragments obtained during the same puncture procedure).
+
+
+The <u>quality</u> (and quantity) of the tissue and cell material taken and the way it is preserved and transmitted (''cf knowledge objective 2C-293-EC-B02'') will condition the quality and completeness of the analyses that can be performed for <u>diagnostic</u> purposes, but also potentially <u>pronostic</u> (predicting the evolution of the pathology presented by the patient) and <u>theranostic</u> (predicting the patient's response to a treatment indicated for their pathology).
+
+<gallery>
+File:Pour 2C-293-EC-B01.jpg|Process of analysis of a specimen in Pathological Anatomy and Cytology: summary
+</gallery>

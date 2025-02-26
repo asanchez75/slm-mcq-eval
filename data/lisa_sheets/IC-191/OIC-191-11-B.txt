@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-191-11-B
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=B
+|Item_parent_short=Fever in immunocompromised patients
+|Description=None
+|Heading=Management
+|Contributors=Amélie Servettaz,Jean-Daniel Lelièvre
+|Order=11}}
+
+Vaccination in the case of immunodepression has certain specific features which justify specific recommendations
+
+* the risk of developing vaccine disease after administration of a live vaccine contraindicates the use of these vaccines in immunocompromised patients;
+* the reduced immunogenicity of vaccines may, in some cases, justify special vaccination regimens;
+* an increased risk of complications associated with certain infections justifies the recommendation of specific vaccinations.
+* When immunosuppressive treatment can be planned, patients should be vaccinated at least 2 weeks before the start of the treatment.
+* In certain situations, protective serum antibodies may be measured four to six weeks after vaccination (or at a later date) in order to check the immunogenicity of the vaccination and suggest additional injections if the response is insufficient.
+
+'''''Counter indications'''''
+
+*The existence of an immune deficiency is a contraindication to vaccination with a live attenuated vaccine (MMR, BCG, oral polio vaccine, yellow fever, VZV).
+
+'''''Indications'''''
+
+*In immunocompromised patients, we must ensure that the vaccination schedule is up to date.
+*Immunocompromised patients should receive an influenza vaccination every year.
+*Certain specific vaccines will be used depending on the immunodeficiency concerned.
+
+
+Examples:
+
+''Patients living with HIV:''
+
+* Schedule vaccines
+* Pneumococcal vaccination: conjugate vaccine then polysaccharide vaccine 2 months and 5 years later
+* Annual influenza vaccination
+* Vaccination against HBV
+* Live attenuated vaccines contraindicated if CD4<0.2G/L
+
+<br />

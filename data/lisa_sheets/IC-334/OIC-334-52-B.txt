@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-334-52-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Knowing the physiopathological principles of traumatic brain injury
+|Description=Cerebral blood flow, cerebral perfusion pressure, HTIC, primary and secondary lesions
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=52}}
+'''Physiological features of the brain:'''
+
+*the brain has high metabolic needs and no energy reserves: a constant supply of oxygen and glucose is required
+*self-regulation of cerebral blood flow: cerebral blood flow (CBF) is kept constant to guarantee a constant metabolic supply (oxygen and glucose) to the brain
+*cerebral perfusion pressure (CPP) is the driving pressure of the DSC: CPP = MAP - ICP (MAP = mean arterial pressure in the cerebral blood vessels; ICP = intra-cranial pressure) (Figure 21)
+*the cranium is inextensible: any increase in intracranial volume (cerebral parenchyma, cerebral blood volume or cerebrospinal fluid) generates an increase in ICP.
+*any increase in ICP or decrease in MAP compromises cerebral energy supply: risk of cerebral ischaemic lesions
+
+[[File:Item 334 Figure 21 Cerebral perfusion pressure (CPP), cerebral mean arterial pressure (MAP) and intracranial pressure (ICP).jpg|thumb|Figure 21. Cerebral perfusion pressure (CPP), cerebral mean arterial pressure (MAP) and intracranial pressure (ICP)]]
+[[File:Item 334 Figure 22 Pathophysiology of post-traumatic brain injury.jpg|vignette|Figure 22. Pathophysiology of post-traumatic brain injury]]
+'''Pathophysiological principles of traumatic brain injury (Figure 22):'''
+
+* primary lesions: occurring during the initial trauma: mechanism of direct contact or inertia (deceleration)
+* secondary lesions: developing at a distance from the initial trauma and reaching a viable cerebral area known as the penumbra[[File:ACSOS Cerebral Secondary Attacks of Systemic Origin.jpg|vignette|ACSOS: Cerebral Secondary Attacks of Systemic Origin]]<br />.
+
+<br />

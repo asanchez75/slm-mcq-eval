@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-349-06-B
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=B
+|Title=Awareness of risk areas
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Pierre-Marie Roy
+|Order=6}}
+
+
+* Diabetes,
+* Immune deficiency (AIDS, immunosuppressants, corticosteroid therapy).
+* drug addiction
+* Chronic renal failure
+* Anti-inflammatory drugs

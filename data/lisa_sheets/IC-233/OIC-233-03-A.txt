@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-233-03-A
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=A
+|Title=Know the main etiologies of valvulopathies (MI, RA, IA, RM)
+|Description=I
+|Rubric=Etiologies
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=3}}
+
+'''Mitral insufficiency''' :
+
+* ''Organic or primary'':
+** <u>Degenerative</u>:
+*** Myxoid= Barlow's disease: young subject (<40 years), female predominance: valve prolapse due to excess tissue, rare cord rupture
+*** Fibroelastic = age>60 years, predominantly male, more frequent cord rupture
+** <u>Infectious endocarditis</u>: valve damage by perforation or vegetation
+** <u>Post-rheumatic</u>: young subject, rare in industrialised countries, polyvalvulopathy often present
+** <u>Ischaemic</u>: acute by pillar rupture or dysfunction (most commonly posterior)
+** <u>Other</u>: trauma, drug-induced (anorectics), congenital, ...
+* ''Functional or secondary'': by dilatation and hypokinesis of the LV (ischaemic or other heart diseases)
+
+'''Aortic stenosis''' :
+
+* Degenerative (Monckeberg's disease): linked to ageing, calcification and fibrosis of the aortic valve.
+* Congenital bicuspidosis: young subjects (<65 years), often associated with pathology of the ascending aorta.
+* Post-rheumatic'': young patients, rare in industrialised countries, often polyvalvular disease.
+
+'''Aortic insufficiency''' :
+
+* ''Chronic:''
+** Dystrophic (annulo-ectasiante): >40 years, idiopathic (hypertension) or Marfan/Ehlers-Danlos/Turner.
+** Congenital bicuspid: often associated with aortic pathology, particularly ascending (aneurysm).
+** Post-rheumatic: <40 years, rare in industrialised countries, often polyvalvular disease
+** Inflammatory: ''aortitis'' (lupus, syphilis, rheumatoid arthritis, spondylitis, etc.)
+** Other '':'' '''Drug-induced''' (anorectics, chronic), '''Prosthesis''' (para/intra prosthesis), '''Post-endocarditis''''
+* ''Acute'' :
+** Aortic dissection / Valsalva aneurysm rupture
+** Infective endocarditis
+** Traumatic
+
+'''Mitral narrowing''' :
+
+* Post-rheumatic": most frequent = commissural fusion, secondary involvement of the sub-valvular apparatus.
+* Degenerative: calcified annulus
+* Congenital: rare (parachute valve)
+
+<br />

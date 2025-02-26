@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-268-07-B
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=B
+|Title=Know the main additional tests useful for the aetiological diagnosis of hypercalcaemia, depending on the initial work-up.
+|Description=Know when and how to look for primary hyperparathyroidism (PTH, cervical ultrasound, MIBI scintigraphy), myeloma (EPS/Immunofixation, myelogram, bone imaging), neoplasia associated with bone metastases (bone scintigraphy), Vitamin D intoxication (25-OH vit D , endocrinopathy : TSH, cortisol), sarcoidosis ( 1-25OH vitD,)...
+|Rubric=Additional tests
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=7}}
+
+. The tests needed to identify the cause (aetiological diagnosis) must follow the mechanistic diagnosis, in order to limit the scope of investigations.  
+
+. In the case of an extra-parathyroid form with hypercalciuria, the calcitriol assay is decisive in determining the course of further investigations.
+
+*In the event of significant hypercalcitriolaemia, and depending on the context: ECA, VS, CRP, chest X-ray as first-line treatment, and bronchial fibroscopy, BAL or even PET scan as second-line treatment, to look for infections with granuloma, lymphoma, etc.
+*In the absence of hypercalcitriolaemia: EPP, immunofixation, vitamin A assay, thyroid work-up, CPK, TAP scan, bone scintigraphy or PET scan, lymphocyte immunophenotyping, etc. PTHrp assay is requested in the event of associated hypophosphataemia.
+
+If abnormalities are found, specific second-line investigations are carried out on a case-by-case basis (e.g. myelogram).
+
+. When faced with a parathyroid form of hypercalcaemia, calciuria, phosphataemia and calcitriolaemia are decisive in distinguishing :
+
+*The diagnosis of primary hyperparathyroidism, the most frequent (hypercalciuria, hypophosphatemia and hypercalcitriolemia). Tests to confirm the diagnosis are detailed in the LiSA Etiology file.
+*The rare diagnosis of genetic forms of benign familial hypocalciuric hypercalcaemia, due to mutation of the calcium-sensitive receptor (CaSR) (low calciuria, normophosphataemia and normocalcitriolaemia).

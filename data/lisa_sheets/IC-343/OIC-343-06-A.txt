@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-343-06-A
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=A
+|Title=Knowing situations requiring emergency care
+|Description=Engagement, severe malaria ...
+|Rubric=Identification of emergencies
+|Contributors=
+|Order=6}}
+There is a continuum between '''[[Attention disorders SDD-129|attention disorders]]''', '''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]]''' and '''[[Coma and disorders of consciousness SDD-028|coma and disorders of consciousness]]'''' Mental confusion is a '''medical emergency''', both diagnostic and therapeutic ('''cf item 108''' '''Know the principles of therapeutic management of a confused patient; Know how to search for the causes of mental confusion)'''. The evolution of symptoms will depend on the underlying aetiology (see below ''Know the main aetiologies and risk factors for confusional syndrome in adults and children''). Emergency situations are the same as for non-traumatic coma (see factsheet 336 Non-traumatic coma in adults and children; Identifying extreme emergency situations in coma in adults and children).''''
+
+Refer to the specific factsheets depending on the aetiology, e.g. commitment (see factsheet 336 Non-traumatic coma in adults and children; Identifying extreme emergency situations of coma in adults and children), severe malaria (see factsheet 170 Malaria; Knowing how to identify a severe malaria attack), etc.

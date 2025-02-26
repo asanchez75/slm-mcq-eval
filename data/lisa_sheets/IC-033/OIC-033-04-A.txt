@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-033-04-A
+|Item_parent=Breastfeeding
+|Item_parent_short=Breastfeeding
+|Rank=A
+|Title=Knowing the complications of breastfeeding
+|Description=To know and be able to diagnose the main complications of breastfeeding (insufficient milk supply, breast engorgement, cracks, lymphangitis, galactophoritis, breast abscesses).
+|Rubric=Positive diagnosis
+|Contributors=Aurélien Matuzzi, Philippe Deruelle, Paul Guerby
+|Order=4}}
+'''Milk insufficiency''''
+
+Main cause of early cessation of breastfeeding.
+
+
+'''Engorgement mammaire'''
+
+Definition: milk stasis leading to an increase in intra-alveolar pressure with oedema and inflammation, all of which prevents milk flow and quality feedings.
+
+Diagnosis (''164. [[Breast clinical examination abnormality SD-164|Breast clinical examination abnormality]]'') :
+
+- Breast '''swollen''' ('''9. [[Parietal mass/tumefaction SD-009|Parietal mass/tumefaction]]'''[[Parietal mass/tumefaction SD-009|)]], '''tense''', '''painful''' ('''73. [[Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]'''[[Pain, burning, cramps and paresthesias SD-073|)]], '''shiny''' with oedema or even '''diffuse redness''' ('''85. [[Erythema SD-085|Erythema]]''') ''';''''
+
+- Little or no fever;
+
+- '''No paraclinical examination''' is indicated in this situation: '''clinical''' diagnosis ('''178. [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]''').
+
+
+'''Crevasses'''
+
+Definition: breakdown of the skin barrier.
+
+Diagnosis (''164. [[Breast clinical examination abnormality SD-164|Breast clinical examination abnormality]]'') :
+
+- '''Sore nipple''' ('''73. [[Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]''') without skin signs then becomes '''red''' ('''85. [[Erythema SD-085|Erythema]]'''[[Erythema SD-085|)]], irritated and finally appear '''cracks''' and '''skin erosions''' ;
+
+- Bleeding (''40. [[Nipple discharge SD-040|Nipple discharge]]'').
+
+
+'''Mastitis (lymphangitis or galactophoritis)'''
+
+Definition: inflammation of the breast with or without infection.
+
+- Lymphangitis = inflammatory mastitis;
+
+- Galactophoritis = infectious mastitis.
+
+Diagnosis :
+
+- The clinic
+
+- Between the '''2<sup>ème</sup> and 12<sup>ème</sup>''' week postpartum;
+
+- '''Flu syndrome''' with '''fever''' above 38.5 °C ('''44. [[Hyperthermia/fever SD-044|Hyperthermia/fever]]'''), chills, sudden onset, associated with '''pain''' in one breast ('''73. [Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]'') ;
+
+- On clinical examination (''164. [[Breast clinical examination abnormality SD-164|Breast clinical examination abnormality]]'''), the breast presents a red ('''85. [[Erythema SD-085|Erythema]]''') and indurated ('''9. [[Parietal mass/tumefaction SD-009|Parietal mass/tumefaction]]'''), sometimes with an associated lymph node;
+
+- Clinical signs do not differentiate between infectious and non-infectious mastitis. The presence of ''pus in the milk'' (Budin's sign) (''40. [[Nipple discharge SD-040|Nipple discharge]]'') is nevertheless '''in favour of galactophoritis''.
+
+- Paraclinical (''178 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]'')
+
+- '''NFS/CRP''': '''inflammatory syndrome'' ('''186. [[Acute or chronic inflammatory syndrome SD-186|Acute or chronic inflammatory syndrome]]'''; '''203. [[Elevated c-reactive protein (cr) SD-203|Elevated C-reactive protein]] (CRP)''') with hyperleukocytosis ('''216. [[Leukocyte abnormality SD-216|Leukocyte abnormality]]'''[[Leukocyte abnormality SD-216|)]] without necessarily pointing to infectious mastitis.
+
+- '''Bacteriological milk sample''' '''Germ count > 10<sup>6</sup>/mL''' in favour of '''mastitis''' '''infectious''' due to the micro-organism isolated. Most frequent germ: ''staphylococcus aureus''; less frequently: E. coli and, rarely, streptococcus B (consider this in cases of bilateral mastitis).
+
+- Breast ultrasound in the case of an ''atypical'' or ''dragging'' situation to rule out the diagnosis of a breast abscess
+
+
+'''Breast abscess'''
+
+Definition: well-defined collection of pus in the breast.
+
+Diagnosis :
+
+- The clinic
+
+- The onset is often "insidious" with "chronic pain" and the picture evolves slowly;
+
+- Clinical picture often severe, with '''redness''' ('''85. [[Erythema SD-085|Erythema]]'''), '''pain''' ('''73. [[Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]'''), '''heat''' and '''oedema''' ('''9. [[Parietal mass/tumefaction SD-009|Parietal mass/tumefaction]]''').
+
+- '''Fever more moderate''' than in mastitis ('''44. [[Hyperthermia/fever SD-044|Hyperthermia/fever]]''') or even absent.
+
+- On clinical examination (≠ mastitis) ('''164. [[Breast clinical examination abnormality SD-164|Breast clinical examination abnormality]]'''): '''fluctuating mass''' ('''9. [[Parietal mass/tumefaction SD-009|Parietal mass/tumefaction]]''') with change in skin colour to a ''purplish red'' ('''85. [[Erythema SD-085|Erythema]]''') ± skin necrosis;
+
+- Paraclinical (''178 [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]'')
+
+- '''NFS/CRP''': '''inflammatory syndrome'' ('''186. [[Acute or chronic inflammatory syndrome SD-186|Acute or chronic inflammatory syndrome]]'''; '''203. [[Elevated c-reactive protein (cr) SD-203|Elevated C-reactive protein]] (CRP)''') with hyperleukocytosis ('''216. [[Leukocyte abnormality SD-216|Leukocyte abnormality]]''') ;
+
+- Mammary ultrasound in case of doubt: the most specific examination.

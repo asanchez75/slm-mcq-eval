@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-294-11-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the mechanisms of action of the different chemotherapy families.
+|Description=To list the main families of chemotherapy (alkylating agents, topoisomerase inhibitors, antimetabolites, spindle poisons, etc.).
+|Rubric=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=11}}
+
+====alkylating agents and platinum salts====
+The main target of alkylating agents is the DNA molecule, which gives these drugs a major place in oncology, but they can also target a protein, whether cellular or extra-cellular.
+
+Alkylating agents only affect cells involved in the cell cycle. They are characterised by great heterogeneity, particularly in their clinical indications, which makes them useful in the treatment of both haematological malignancies and solid tumours. They mainly include nitrogen mustards (e.g. chloraminophen), oxazaphosphorines (e.g. cyclophosphamide) and nitrosoureas (e.g. CCNU).
+
+Organoplatins (or platinum salts) are among the most widely used drugs in oncology. They include cisplatin and carboplatin, which have very broad indications, and oxaliplatin, which is reserved for the treatment of colorectal cancer. The dose of carboplatin is not calculated on the basis of body surface area, but according to the patient's exposure, expressed as the area under the curve (AUC) of free platinum concentrations, and requires creatinine clearance to be calculated.
+<br />
+
+===== Topoisomerase I and II inhibitors=====
+Topoisomerases I and II are essential enzymes whose fundamental role is to resolve the topological constraints of the DNA molecule, which is physiologically in a so-called "supercoiled" state. Topoisomerases are responsible for creating or removing DNA supercoils.
+
+Two drugs are topoisomerase I inhibitors: irinotecan and topotecan.
+
+There are several classes of drugs that can inhibit topoisomerase II, including :
+
+- epipodophyllotoxins (e.g. etoposide) ;
+
+- anthracyclines (led by adriamycin or doxorubicin).
+
+===== Spindle poisons=====
+These are drugs that act on microtubules. Broadly speaking, a distinction is made between agents that inhibit microtubule polymerisation, which include periwinkle alkaloids or vinca alkaloids (e.g. vinorelbine), and agents that inhibit depolymerisation, represented by taxanes (e.g. paclitaxel).
+
+===== Antimetabolites=====
+These drugs have a chemical formula which more or less closely resembles the structure of endogenous compounds required for nucleic acid and protein synthesis, but is sufficiently different to act as a competitive inhibitor. The synthesis of nucleic acids (and therefore proteins) is secondarily interrupted.
+
+It includes :
+
+- anti-pyrimidines (e.g. 5-fluorouracil);
+
+- antifolates (e.g. methotrexate);
+<br />

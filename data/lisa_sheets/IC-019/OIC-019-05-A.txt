@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-019-05-A
+|Item_parent=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Item_parent_short=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Rank=A
+|Title=Knowing the general social security system
+|Description=Organisation of care
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=5}}
+
+'''Definition'''
+
+The general scheme is based on a hierarchy of national, regional and local bodies, structured by type of risk, managed jointly and placed under the supervision of the Ministries responsible for social security (Ministry of Solidarity and Health and Ministry of the Economy, Finance and Recovery).
+
+
+'''Population groups covered'''
+
+When social security was created, the General Scheme covered salaried workers in the private sector. As it has grown, it has been extended to cover groups of people, such as students, the unemployed and government contract workers, who are not employed in the private sector. France has chosen to achieve universal conversion of the population, whether or not they contribute to the financing of social security.
+
+The general scheme is currently the largest in terms of the number of people covered (nearly 30 million), i.e. those covered for sickness, family, retirement, industrial accidents and occupational diseases.
+
+Since 2018 and the abolition of the Social Scheme for the Self-Employed (RSI), the general scheme has managed the social risks of the self-employed (tradespeople, industrialists, shopkeepers and the non-regulated liberal professions).
+
+
+'''Organization'''
+
+Since the "Jeanneney" decree of 21 August 1967 on the administrative and financial organisation of social security, the General Scheme has been divided into branches of activity headed by an autonomous national fund.
+
+Three of these branches cover one or more risks:
+
+he Family branch is managed by the Caisse nationale des allocations familiales (Cnaf). It is responsible for supporting families in their day-to-day lives, childcare, access to housing, and the fight against poverty and disability;
+
+The Sickness, Occupational Injuries and Occupational Risks branch is managed by the Caisse Nationale d'Assurance Maladie (CNAM). It covers two types of risk: sickness, maternity, disability and death, and accidents at work and occupational diseases;
+
+'''the Old Age branch is managed by the Caisse nationale d'assurance vieillesse (CNAV). It pays basic retirement pensions.'''
+
+In addition, the laws of 7 August 2020 introduce a ''fifth branch of social security to cover the risk of loss of autonomy and disability''. This new branch will be managed by the Caisse nationale de solidarité pour l'autonomie (CNSA).
+
+Two other branches carry out common, cross-functional tasks:
+
+the social security contribution collection branch is managed by the Urssaf Caisse nationale (the new name, since 2021, of the Agence centrale des organismes de sécurité sociale - Acoss). It collects the resources allocated to the other branches of social security (i.e. it collects the social security contributions - employer's and employee's - paid by employers), through the intermediary of local offices - the Urssaf;
+
+the Fédération des employeurs du Régime général de la Sécurité sociale is managed by the Union des caisses nationales de sécurité sociale (UCANSS). It is responsible for social dialogue, shared human resources management tasks and missions of common interest, such as property operations or sustainable development policies.
+
+
+
+'''Summary diagram'''
+
+The general scheme will have four autonomous branches in 2021 (chart 1). The autonomy branch will be the fifth branch and is currently being set up.
+
+Figure 1: Organisation of the general social security system.
+
+<br /><gallery>
+File:Item 19 Fig2.jpg
+</gallery>
+
+
+Source: health insurance. <nowiki>https://assurance-maladie.ameli.fr/qui-sommes-nous/organisation/securite-sociale/securite-sociale</nowiki>
+
+Each branch is headed by a national fund (a public administrative body), which coordinates and manages a network of regional funds. The regional funds are private-law bodies responsible for providing a public service, subject to State control and supervision.

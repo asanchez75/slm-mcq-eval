@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-340-07-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Enumerate the arguments for the diagnosis of cerebral thrombophlebitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=7}}
+- Cerebral venous thrombosis is the occlusion of a cerebral venous sinus (right sinus, lateral sinus, longitudinal sinus) or a cortical vein. It accounts for less than 2% of strokes.
+
+- Cerebral venous thrombosis can be responsible for cerebral infarctions and haemorrhages, as well as intracranial hypertension due to impaired cerebrospinal fluid resorption.
+
+- The diagnosis of cerebral venous thrombosis is based on a triad comprising
+
+# headache ([[Headache SD-118|headache]]) favoured by intracranial hypertension,
+# an acute or sub-acute focal neurological deficit ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]; [[Facial paralysis SD-127|facial paralysis]]; [[Speech and/or phonation disorders SD-134|speech and/or phonation disorders]]; [[Vision abnormality SD-138|vision abnormality]]),
+# focal or generalised comitial seizures ([[Convulsions SD-120|convulsions]]). Deficit symptomatology or tilting epileptic seizures are suggestive of the diagnosis. More rarely, vigilance disorders may be present ([[Coma and consciousness disorders SD-028|coma and consciousness disorders]]).
+
+- The onset of cerebral venous thrombosis may be spontaneous or caused by inflammation of the meninges ([[Analysis of cerebrospinal fluid (csf) SD-183|analysis of cerebrospinal fluid]]), head trauma ([[Head trauma SD-172|head trauma]]) or a prothrombotic state ([[Activated partial thromboplastin time (aPTT) SD-213|activated partial thromboplastin time (aPTT)]]).
+
+- The diagnosis will be confirmed by the demonstration of a cerebral venous thrombosis by scanner or MRI imaging ([[Discovery of a cervico-facial anomaly on medical imaging examination SD-225|discovery of a cervico-facial anomaly on medical imaging examination]] ; [[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations]]. Examination of the cerebral parenchyma will identify a venous infarction and/or intracerebral haemorrhage and/or cerebral oedema and/or hydrocephalus.

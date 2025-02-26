@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-208-06-B
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=B
+|Title=To know the methods of interpretation of functional explorations allowing to orientate towards an obstructive CKD and towards a restrictive CKD.
+|Description=FRI, interpretation
+|Section=Additional tests
+|Contributors=
+|Order=6}}
+see above

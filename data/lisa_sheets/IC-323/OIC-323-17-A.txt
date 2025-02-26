@@ -1,0 +1,34 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of covert assignment in randomised trials
+|Description=Know the role of secret assignment, the ignorance clause, methods for ensuring secret assignment, risk of bias if secret assignment is not respected.
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Agnès Dechartres (CUESP)
+|Order=17
+|Identifiant=OIC-323-17-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+'''Definition of secret assignment (''"allocation concealment"'')''''
+
+*The act of not revealing to the doctor (or the patient) what treatment the patient will receive when deciding on inclusion in a therapeutic trial.
+*By extension: all the measures implemented to ensure compliance with secret assignment in a randomised controlled trial.
+*Synonyms: ignorance clause, non-disclosure of allocation, or masking of allocation.
+
+'''Objective'''
+
+*To avoid the potential selection bias that would be implied by knowledge of the treatment assigned by randomisation in order to include or exclude patients in the trial.
+*Example: Randomised trial comparing laparoscopy vs laparotomy, and absence of a surgeon able to perform laparoscopy at night => non-inclusion of patients requiring surgery at night if prior knowledge that laparoscopy will be allocated by randomisation.
+
+'''Adequate methods''': methods implying that the treatment assigned by randomisation can only be revealed after the patient has been included in the study.
+
+*Best method = centralised randomisation via a computer or telephone server: the treatment assigned by randomisation is only revealed once the eligibility criteria have been met and the patient has actually been included in the study.
+*Sealed, opaque and sequentially numbered envelopes, which are practical in emergency situations (but there is always a risk that the investigator will open an envelope for one patient and allocate the randomisation group to another patient if the randomisation arm is not suitable).
+*If drugs: drugs prepared by the pharmacy in identical containers (also allows double-blinding).
+
+'''Remarks:'''
+
+*Any method of assigning treatments that is not random does not respect secret assignment.
+**Examples: administering each of the treatments alternately to a patient according to their year of birth (example: even year = treatment A, odd = treatment B) or to every 2nd patient (A, then B, then A, then B ...), etc.
+<references />

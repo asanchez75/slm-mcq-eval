@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-167-08-A
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral Hepatitis
+|Rank=A
+|Title=Knowing the signs of seriousness of acute hepatitis
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=8}}
+Acute hepatitis becomes "severe" when it is associated with a PT < 50% (with a drop in factor V).
+
+Hepatitis is ''severe'' when a ''hepatic encephalopathy'' also appears (fulminant or subfulminant depending on the delay between the appearance of the encephalopathy and the jaundice). Hepatic encephalopathy is characterised by somnolence, asterixis, agitation and disturbances of consciousness (see item 279).
+
+Fulminant hepatitis can lead to ''dysfunction of several other organs'', in particular renal, pulmonary and circulatory function.
+
+
+Emergency clinical and laboratory tests to assess the severity of acute hepatitis :
+
+- Haemodynamic constants, signs of shock
+
+- State of alertness, asterixis
+
+- Blood glucose
+
+- Lactate
+
+- PT, factor V, INR
+
+- Creatininemia

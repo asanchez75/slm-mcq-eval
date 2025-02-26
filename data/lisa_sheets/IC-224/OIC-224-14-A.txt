@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-224-14-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Heading=Know the drug treatment strategy for hypertension (see item 330)
+|Description=Initial treatment, therapeutic classes, adaptation, monitoring, target BP figures
+|Topic=Management
+|Contributors=
+|Order=14}}
+
+
+==Therapeutic treatment strategy for hypertension===
+The management strategy for hypertension is part of a comprehensive approach focused on each patient, depending in particular on his or her cardiovascular risk and preferences.
+
+===''Initial care'''===
+this involves :
+
+====Lifestyle changes====
+
+*regular physical activity adapted to the patient's abilities
+*weight loss if overweight
+*elimination or reduction of alcohol consumption
+*reducing sodium intake
+*smoking cessation
+*a diet favouring fruit, vegetables and foods low in saturated fats
+
+====Antihypertensive drugs====
+Medication is started immediately in cases of moderate to severe hypertension, or in cases of mild persistent hypertension after 6 months of lifestyle modification.
+
+It is therefore recommended to start with low-dose dual therapy in a single daily dose among
+
+*[[https://sides.uness.fr/lisa/M%C3%A9dicaments_du_syst%C3%A8me_r%C3%A9nine-angiotensine:_connaitre_les_m%C3%A9canismes_d%27action,_indications,_effets_secondaires_interactions_m%C3%A9dicamenteuses,_modalit%C3%A9s_de_surveillance_et_principales_causes_d%27%C3%A9chec_2C-330-PC-A04 converting enzyme inhibitor (CEI) or angiotensin 2 receptor antagonist (ARB2)]]
+*[[Calcium channel antagonists|calcium channel blocker]]
+*Diuretics/know the mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A02|thiazide diuretic]].
+
+The treatment objective is to obtain a PAS <130 mmHg and a PAD < 80 mmHg in clinical measurements (PAS < 140 mmHg and a PAD < 80 mmHg in clinical measurements for the over 65s), confirmed by ambulatory measurements (AMT or daytime MAPA) < 130/80 mmHg (< 135/85 mmHg for the over 65s).
+
+===''Follow-up and adaptation of care'''===
+
+*if the blood pressure objective is achieved, continue with the initial treatment.
+
+*if the blood pressure objective is not achieved, adjust treatment:
+**review recommended lifestyle changes
+**check adherence to medication, including therapeutic education, compliance and self-medication
+**increase dosage of initial dual therapy or switch to triple therapy with ACE inhibitor or ARB2 + calcium channel blockers + thiazide or thiazide-like diuretic (indapamide). Other active ingredients may be used depending on the situation: coronary artery disease, atrial fibrillation, heart failure or pregnancy [[Beta-blockers/know the mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A03|beta-blockers]].
+
+The treatment objective is to obtain a PAS <130 mmHg and a PAD < 80 mmHg in clinical measurements (PAS < 140 mmHg and a PAD < 80 mmHg in clinical measurements for the over 65s), confirmed by ambulatory measurements (AMT or daytime MAPA) < 130/80 mmHg (< 135/85 mmHg for the over 65s).
+
+*if the blood pressure target is reached, continue treatment.
+
+*if the blood pressure objective is not achieved, adjust treatment:
+**review recommended lifestyle changes
+**check adherence to medication measures (therapeutic education, compliance and self-medication)
+**therapy with ACE inhibitors or ARB2 + calcium channel blockers + thiazide or thiazide-like diuretic (indapamide) at maximum tolerated doses. Other active ingredients may be used in triple therapy depending on the situation: coronary artery disease, atrial fibrillation, heart failure or pregnancy [[Beta-blockers/know the mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A03|beta-blockers]].
+
+The treatment objective is to obtain a PAS <130 mmHg and a PAD < 80 mmHg in clinical measurements (PAS < 140 mmHg and a PAD < 80 mmHg in clinical measurements for the over 65s), confirmed by ambulatory measurements (AMT or daytime MAPA) < 130/80 mmHg (< 135/85 mmHg for the over 65s).
+
+*if the blood pressure target is reached, continue treatment.
+
+*if the blood pressure target is not reached, we talk of resistant hypertension
+
+===''Resistant hypertension'''===
+Management of resistant hypertension requires four anti-hypertensive therapies:
+
+*ACEI or ARB2 + calcium antagonists + thiazide or thiazide-like diuretic (indapamide), at maximum tolerated doses,
+
++
+
+*Diuretics/know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A02|spironolactone]], with monitoring of kalaemia and renal function or a [[Beta-blockers/know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A03|beta-blocker]] in 2nd<sup>e</sup> intention in case of contraindication or adverse effects of spironolactone.

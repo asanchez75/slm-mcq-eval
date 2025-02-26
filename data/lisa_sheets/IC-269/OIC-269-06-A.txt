@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-269-06-A
+|Item_parent=Acute abdominal pain in children and adults
+|Item_parent_short=Acute abdominal pain in children and adults
+|Rank=A
+|Title=Knowing the characteristics of questioning and clinical examination in the face of acute abdominal pain
+|Description=Inspection, palpation, percussion, auscultation; Particular features in children
+|Rubric=Positive diagnosis
+|Contributors=Fabrice MUSCARI
+|Order=6}}
+
+'''In adults'''
+
+Abdominal pain is acute when it started less than a week ago. It may reflect a benign pathology, or be the symptom of a life-threatening medical or surgical emergency.
+
+'''A) The 6 characteristics of pain and associated signs'''
+
+Questioning and a physical examination clarify the characteristics of the pain, to identify possible causes.
+
+o '''''Headquarters'''''
+
+The location of the pain is a discriminating factor, pointing to potential causes (Figure 2). In practice, visceral pain tends to be localised to a region, and rarely to a specific point.
+
+o '''''Irradiation'''''
+
+  Radiation has a good semiological value and points to a cause, with certain associations being characteristic (Fig. 3)
+
+o '''''Type'''''
+
+The type of pain, although informative, remains highly subjective and therefore not very discriminating (the sensitive innervation of the digestive tract is not very precise). That said, digestive pain in a hollow organ is more likely to be paroxysmal, cramp-like, for example. Other possible characteristics include dull pain, deep pain (ulcer syndrome), transfixing pain (pancreatitis), vice-like pain, burning pain (reflux), etc....
+
+o '''''Intensity'''''
+
+It is important to assess the intensity of the pain in order to define the analgesic strategy. It has been shown that there is no correlation between the intensity of abdominal pain and its severity.
+
+The tool used to quantify it is the Visual Analogue Scale between 0 and 10. Observing the patient's face during questioning is also a useful indirect sign.
+
+o '''''Factors modifying intensity'''''
+
+On the other hand, pain variation factors are more informative, in association with the other characteristics mentioned. For example, the pain of a gastric ulcer will be relieved by eating. In the case of biliary or pancreatic ulcers, on the other hand, food will be an aggravating factor.
+
+Certain movements or positions are also characteristic, such as the gun-shank position (anteflexion), which soothes the pain of acute pancreatitis, or deep inspiration, which accentuates pain of biliary origin. Finally, some causes, such as renal colic, cause pain without any analgesic position.
+
+
+
+'''B) Terrain and context:''''
+
+In addition to the characteristics of the pain, the terrain and the context guide the diagnosis:
+
+▪ Age and gender
+
+▪ Morphotype (thin, overweight, obese).
+
+▪ Medical and surgical history
+
+▪ Cardiovascular risk factors
+
+▪ Recent medication taken: NSAIDs (gastric pathology), anticoagulants (haematoma), corticoids, contraception, antibiotics, etc.
+
+▪ Consumption of toxic substances (tobacco, alcohol, drugs)
+
+
+'''C) Associated functional signs:''''
+
+A number of associated digestive or extra-digestive signs should be looked for, as these may help to determine the aetiology of the pain.
+
+▪ '''''General''''': septic syndrome (fever, chills, hypotension), altered general condition (weight loss to be quantified, asthenia, anorexia).
+
+▪ '''''Digestives''''': vomiting, nausea, transit disorders, cessation of bowel movements and gas, discharge of blood
+
+▪ '''''Biliaires''''': jaundice
+
+▪ '''''Urinaires''''': urinary burning, macroscopic haematuria
+
+▪ '''''Respiratoires''''': dyspnoea, expectoration, coughing
+
+▪ '''''Gynaecological''''': delayed periods, leucorrhoea, etc.  
+
+'''D) Examination: inspection, percussion, palpation, auscultation''''
+
+     
+
+
+
+     
+
+      '''''On inspection, ''''' will look for: chills, sweating, pallor, signs of extracellular dehydration (conjunctivae, tongue), analgesic position, abdominal scarring, hernia, meteorism, mucocutaneous jaundice.
+
+      ''''' Palpation''''' indicates the location of pain and any signs of peritoneal irritation: tenderness/contraction, pain/ bulging of the cul de sac of Douglas on pelvic touch. Palpation of the hernial orifices and eventrations is essential.
+
+      '''''The percussion system''''' looks for tympany (occlusion) or dullness (ascites) or fixed dullness (globe).
+
+     '''''Auscultation''''' with auscultatory silence (paralytic ileus) or an increase in hydro-aeric sounds suggests an obstruction.
+[[File:Acute abdominal pain.png|vignette|etiologies according to site of pain]]
+[[File:Abdominal pain 2.png|vignette|Etiologies according to how far the pain radiates]]
+<br />

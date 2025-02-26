@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-163-02-B
+|Item_parent=Pertussis
+|Item_parent_short=Pertussis
+|Rank=B
+|Title=Knowing the mechanisms of whooping cough
+|Description=None
+|Rubric=Physiopathology
+|Contributors=André Birgy
+|Order=2}}
+
+Bordetella pertussis produces a number of virulence factors, the most important of which are toxins and/or adhesins:
+
+* The main one is ''pertussis toxin'', which is the only virulence factor synthesised exclusively by ''Bordetella pertussis'' (''Bordetella parapertussis'' has the toxin genes but does not express it).
+* L''''hemagglutinin filamentous'' (adhesin involved in interaction with host cells)

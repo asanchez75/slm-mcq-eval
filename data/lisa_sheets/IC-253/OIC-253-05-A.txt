@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-253-05-A
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=A
+|Title=Knowing the principles of the physical examination of an obese subject
+|Description=Know how to measure waist circumference
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+The clinical examination of the obese patient must specify the distribution of excess body fat:
+
+Waist measurement
+
+- in standing adults, with a tape measure in a horizontal position midway between the lower costal margin and the anterior superior iliac spines, after gentle exhalation and with the arms hanging loosely.
+
+- correlated with the amount of intra-abdominal (visceral) fat.
+
+- is used to define the level of cardio-metabolic risk associated with the distribution of body fat:
+
+[Cardiovascular risk factors and prevention
+
+''Different waist circumference thresholds associated with an increased risk of metabolic and cardiovascular pathologies:''
+
+- ≥ 80 cm in women, ≥ 94 cm in men: IDF criterion
+
+- ≥ 88 cm in women, ≥ 102 cm in men: NCEP-ATPIII criterion
+<br />

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-006-03-A
+|Item_parent=The organisation of clinical practice and the methods that make it possible to secure the patient pathway
+|Item_parent_short=The organisation of clinical practice and the methods which make it possible to secure the patient pathway
+|Rank=A
+|Title=Knowing the definition of the care pathway
+|Description=None
+|Rubric=Definition
+|Contributors=Virginie Migeot
+|Order=3}}
+
+[[File:Item 6 Fig1.png|thumb]]
+[[File:Item 6 Fig1.png|centric|vignette]]
+The ''care pathway'' consists of organising and coordinating the right sequence of professional skills at the right time throughout a patient's care.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-057-22-B
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=B
+|Item_parent_short=Maltreatment and children at risk.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=22}}
+OPP (ordonnance de placement provisoire) = "Measure forming part of the system for protecting minors and the possibility of placing them outside their family environment, whether in civil or criminal matters. Formally speaking, the decision to place a minor corresponds to a measure of protection, assistance, supervision and education when the minor's usual living environment cannot guarantee his or her safety or proper educational conditions (in civil matters) or when the course of the proceedings so requires (in criminal matters)." <ref>https://solidarites-sante.gouv.fr/IMG/pdf/dgos_onvs_fiche_05.pdf</ref>

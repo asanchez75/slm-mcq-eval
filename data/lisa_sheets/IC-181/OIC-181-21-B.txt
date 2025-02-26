@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-181-21-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the ANSM, its missions, its organisation
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=21}}
+
+The French National Agency for the Safety of Medicines and Health Products (ANSM) is a national agency whose main mission is to guarantee the safety of health products intended for human use throughout their life cycle, from initial testing to post-marketing surveillance.
+
+The ANSM is responsible for assessing the safety, efficacy and quality of these products by :
+
+- ongoing monitoring of foreseeable or unexpected adverse reactions to health products;
+
+- inspection of establishments involved in manufacturing, importing, distribution, pharmacovigilance and clinical trials;
+
+- laboratory testing of batches of vaccines and blood-derived medicinal products;
+
+- control of products on the market, taken during inspections or seized by the judicial or customs authorities.
+
+These actions lead to health policy decisions: marketing authorisations, withdrawals or suspensions, clinical trial authorisations, temporary authorisations for use, temporary recommendations for use of pharmaceutical specialities (see item 321).
+
+In terms of monitoring adverse events, the ANSM is responsible for eight regulatory vigilances. The organisation of the monitoring of these health vigilances relies on the participation of healthcare professionals and users of the healthcare system, who report incidents or undesirable effects to the vigilance networks via the national portal for reporting undesirable health events. At national level, the ANSM carries out an overall assessment of the data, which enables it to decide on national or international alert and risk management measures where necessary.

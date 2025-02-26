@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-075-31-B
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=B
+|Title=Knowing about medication other than nicotine replacement therapy
+|Description=Varenicline and Bupropion
+|Rubric=Management
+|Contributors=
+|Order=31}}
+After nicotine replacement therapy, Varenicline can be offered as a second-line treatment, followed by Bupropion as a last-line treatment.
+
+'''Varenicline''' :
+
+* Partial agonist of nicotinic acetylcholine receptors.
+* Indicated in cases of failure of nicotine replacement therapy and strong nicotine dependence.
+* The main side effects are nausea, headaches, nightmares, insomnia, depression and cardiovascular risk.
+* Reimbursed by health insurance
+
+'''Bupropion''' :
+
+* Noradrenaline and dopamine reuptake inhibitor
+
+<br />

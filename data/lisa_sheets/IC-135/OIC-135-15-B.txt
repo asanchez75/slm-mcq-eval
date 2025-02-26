@@ -1,0 +1,114 @@
+{{knowledge objective
+|Identifiant=OIC-135-15-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=Know the modes of action, indications and contraindications of nitrous oxide, as well as its side effects, including misuse.
+|Description=Know how nitrous oxide works, its indications and contraindications, and its side effects, including misuse.
+|Rubric=Management
+|Contributors=
+|Order=15}}
+'''<u>Modalities of action:</u>''''
+
+- The equimolar gas mixture ''Oxygen Nitrous Oxide (MEOPA) is composed of 50% oxygen and 50% nitrous oxide''.
+
+- This gaseous mixture is odourless, colourless and tasteless. It is administered by inhalation through a face mask, and produces surface analgesia, conscious sedation and anxiolysis.
+
+- It is absorbed and eliminated without respiratory metabolism in a few minutes. It has a rapid onset of action (3 to 5 minutes after administration) and the effects (analgesic and anxiolytic) are completely and rapidly reversible.
+
+
+'''<u>Indications</u>'''
+
+Administration subject to medical prescription.
+
+- Short-term analgesia for painful procedures or in cases of mild to moderate pain in adults and children over one month of age (e.g. lumbar puncture, myelogram, minor superficial surgery, dressings for burn victims, reduction of simple fractures, reduction of certain peripheral dislocations, venipuncture, emergency medical assistance - trauma, burns, transport).
+
+- Sedation in dental care, for infants, children and adolescents, anxious patients or disabled patients.
+
+- Analgesia in obstetrics, exclusively in hospital, while awaiting epidural analgesia, or if epidural analgesia is refused or impossible.
+
+'''<u>Counter indications</u>'''
+
+'''Absolutes :'''
+
+- Patients requiring ventilation with inspired oxygen fraction > 50%.
+
+- Intracranial hypertension
+
+- Any (acute) alteration in the state of consciousness, preventing the patient's cooperation
+
+- Head trauma not assessed
+
+- New-onset, unexplained neurological abnormalities
+
+- Undrained gas effusions: pneumothorax, emphysema bubbles, gas embolism, diving accident, abdominal gas distension, occlusion, patients who have recently received an ophthalmic gas (SF6, C3F8, C2F6) used in eye surgery as long as a gas bubble persists inside the eye and for at least 3 months.
+
+- Known, unsubstituted vitamin B12 deficiency
+
+- Facial trauma (mask application)
+
+- Patient refusal
+
+
+'''Relatives:'''
+
+- Mask phobia, fear, agitation, severe COPD balanced on room air (risk of hypercapnia under high-flow oxygen)
+
+
+'''<u>Adverse effects, misuse and addiction, drug interactions</u> ''''
+
+'''Linked to a single exposure''', disappearing on discontinuation of administration
+
+- Paraesthesia, excessive sedation, changes in sensory perception. Dizziness, nausea, headaches, convulsions.
+
+- Agitation, anxiety, euphoria, dreams.
+
+- Possible neurological toxicity after a single administration in patients with sub-clinical vitamin B12 deficiency (particularly the elderly)
+
+
+'''Linked to prolonged or repeated exposure'' (drug addiction, occupational exposure or repeated medical exposure) :
+
+- Neurological disorders and myeloneuropathies, megaloblastic anaemia (secondary effects to inhibition of methionine synthetase involved in the synthesis of vitamin B12), granulocytopenia.
+
+- Kidney and liver diseases
+
+- Abuse and dependence
+
+
+Drug abuse and addiction
+
+- '''Numerous cases of abuse and dependence have been described with nitrous oxide'' consumed in a form without oxygen, which is not suitable for medical use (the second most widely consumed substance in France after cannabis). Such misuse is rare with MEOPA.
+
+
+'''Drug interactions'''
+
+- The sedative effect may be potentiated or inhibited by the concomitant use of anxiolytics, analgesics or central nervous system depressants.
+
+'''<u>Administrative and supervisory arrangements</u>''''
+
+'''Give priority to self-administration +++'''
+
+
+'''Potential adverse effects must be explained to the patient beforehand'''.
+
+- MEOPA must be administered using a sealed inhalation system combined with a system for evacuating the gas from the room in order to limit occupational exposure.
+
+- Continuous clinical monitoring of the patient's condition: sedation, adverse effects.
+
+- The onset of nausea and/or vomiting may give rise to fears of inhalation and should lead to the administration being interrupted, and justifies the presence of suction equipment in the room.
+
+- It is recommended that administration be limited to 60 minutes per day, for no more than 15 days.
+
+- Administration must be recorded in the medical or nursing record
+
+'''<u>Main causes of failure</u>''''
+
+'''- '''' The guarantee of the '''success of analgesia''' by inhalation of MEOPA is largely linked to the '''quality of relational support.'''
+
+'''- An insufficient analgesic effect may justify the concomitant prescription of a painkiller.'''
+
+'''- An administration time of more than one hour may reduce efficacy.'''
+
+'''- Inappropriate storage conditions can lead to dissociation of the gases, resulting in reduced efficiency or an overdose of N2O, with a risk of hypoxia'''.
+
+<br />

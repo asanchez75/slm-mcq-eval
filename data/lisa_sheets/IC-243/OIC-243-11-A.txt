@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-243-11-A
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=A
+|Title=Understanding the specific therapeutic aspects of the treatment of hypothyroidism in elderly and/or coronary patients
+|Description=None
+|Heading=Management
+|Contributors=Eva Feigerlova,Igor Tauveron,Stéphanie Espiard
+|Order=11}}
+
+[Acute coronary syndromes
+
+[Quality and safety in healthcare. Patient safety. Risk management. Undesirable events associated with care. Quality approach and assessment of professional practices]]
+
+[Follow-up consultation and therapeutic education for a patient with a cardiovascular history SD-285|follow-up consultation and therapeutic education for a patient with a cardiovascular history]]
+ 
+
+In very elderly patients or those with coronary artery disease, there is a risk of coronary artery disease being detected, especially if the hypothyroidism is deep-rooted and long-standing:
+
+- Warn elderly patients or patients with controlled coronary artery disease that they should seek medical advice in the event of chest pain
+
+- The initial dosage of levothyroxine is 12.5 µg per day to 25 µg per day;
+
+- Dosage gradually increased in steps of 12.5 to 25 µg every 1 to 2 weeks until the theoretically effective dose is reached;
+
+- Initiation of inpatient treatment with daily clinical and electrographic monitoring
+
+[Electrocardiogram: indications and interpretation
+
+[Performing and interpreting an electrocardiogram (ecg) SD-185
+
+- Discuss the use of beta-blockers in combination with levothyroxine.
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+
+<br />
+<references />

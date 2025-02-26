@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-161-04-B
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=B
+|Title=Knowing the indications for second-line investigations depending on the type of urinary tract infection
+|Description=scanner, MRI, cystography, cystoscopy, scintigraphy
+|Rubric= Complementary examinations
+|Contributors=Maxime Vallée, Alice Faure
+|Order=4}}
+
+
+*Simple cystitis: no imaging test recommended
+*Cystitis at risk of complications: no imaging test recommended
+
+==Recurrent cystitis (see dedicated section). A work-up should be discussed on a case-by-case basis; the tests that may be carried out depending on the context are:==
+
+*ultrasonography of the urinary tract with measurement of post-micturition residue
+*urinary flowmetry
+*urodynamic assessment
+*CT urography
+*cystoscopy
+
+*Acute simple pyelonephritis: no imaging test recommended as first-line treatment for a first episode. In the event of a poor clinical course, significant pain or persistent symptoms after 48-72 hours, an imaging test should be carried out: uro-CT scan or, failing that, urinary tract ultrasound scan.
+*Pyelonephritis at risk of complications: uro-CT scan or, failing that, urinary tract ultrasound within 24 hours.
+*Severe acute pyelonephritis (acute obstructive pyelonephritis/febrile nephritic colic/purulent retention of the upper urinary tract or pyelonephritis complicated by [[Sepsis/Bacteremia/Fungemia in adults and children|sepsis or septic shock 157]] and [[Sepsis and septic shock in children and adults|158]]): urgent uro-CT scan or, failing that, urinary tract ultrasound scan.
+
+==Other imaging tests have no place in the initial management :==
+
+*MRI unnecessary except in very special cases
+*Retrograde cystography essential if the context is suggestive of vesico-uretero-renal reflux (classically evoked from the second episode of pyelonephritis, but this figure is indicative).
+*Cystoscopy: to be assessed on a case-by-case basis.
+*Cintigraphy:
+**DMSA in order to assess the functional value of each kidney and look for sequelae of renal scarring (in the case of repeated pyelonephritis, a non-functional kidney which is a source of infection may indicate nephrectomy).
+**MAG3 in order to identify an obstacle in the urinary tract (in the case of pyeloureteral junction syndrome, for example).

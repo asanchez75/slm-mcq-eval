@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-167-02-A
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral Hepatitis
+|Rank=A
+|Title=Knowing the modes of transmission and global prevalence of different viral hepatitises
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Same text as '''2C-167-PE-A01 for educational coherence'''

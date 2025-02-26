@@ -1,0 +1,295 @@
+{{knowledge objective
+|Identifiant=OIC-330-08-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Rank=A
+|Title=Oral anticoagulants (anti-vitamin K (AVK) and direct oral anticoagulants (AOD)): mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=Sabine Mainbourg,Laurent Bertoletti,Jean-Christophe Lega
+|Order=8}}
+
+==Mechanisms of action==
+<br />
+{| class="wikitable"
+|'''Molecules'''
+|'''Action'''
+|'''Action time''''
+|'''Mechanism of action'''
+|-
+|Apixaban, rivaroxaban
+|Direct
+|1 to 2 hours
+|Factor Xa inhibition
+|-
+|Dabigatran
+|Direct
+|1 to 2 hours
+|Thrombin inhibition
+|-
+|Acenocoumarol, fluidione, warfarin
+|Indirect
+|2 to 3 days
+|Inhibition of carboxylation of vitamin K-dependent factors (''p'''rothrombin II, '''p'''roconvertin VII, haemophilic factor '''B''' IX, factor '''S'''tuart X).
+|}
+
+==Indications==
+{| class="wikitable"
+|'''Molecules'''
+|'''Indications AMM''''
+|'''Non-indication/counter-indication'''
+|-
+|'''Apixaban, rivaroxaban''''
+|Prevention of venous thromboembolism in planned hip or knee surgery.
+
+Pulmonary embolism, proximal deep vein thrombosis
+
+Non-valvular atrial fibrillation
+<br />Atrial fibrillation
+|Atrial fibrillation on mitral stenosis
+
+Mechanical valve
+
+Intra-abdominal venous thrombosis
+
+Venous thrombosis of the upper limbs
+
+Arterial thrombosis
+
+SAPL
+
+Renal insufficiency (GFR <30 mL/min), hepatocellular insufficiency, known haemorrhage or high risk of haemorrhage
+|-
+|Dabigatran
+|Prevention of venous thromboembolism in scheduled hip or knee surgery
+
+Non-valvular atrial fibrillation
+<br />Pulmonary embolism
+|Pulmonary embolism, proximal deep vein thrombosis
+
+Atrial fibrillation in mitral stenosis
+
+Mechanical valve
+
+Distal venous thrombosis
+
+Intra-abdominal venous thrombosis
+
+Venous thrombosis of the upper limbs
+
+Arterial thrombosis
+
+SAPL
+
+Renal insufficiency (GFR <30 mL/min), hepatocellular insufficiency, known haemorrhage or high risk of haemorrhage
+|-
+|'''Coumarinics''''
+
+Acenocoumarol, warfarin
+
+'''Indane-diones'''
+
+Fluindione
+
+
+In practice, only warfarin is used as a first-line treatment (immunoallergic risk of fluindione, short half-life of acenocoumarol).
+|Emboligenic heart disease, including AF, thrombo-embolic complications of MI and mechanical valves.
+
+Pulmonary embolism and/or proximal deep vein thrombosis, as a relay to heparins
+
+For use (off-label) for any arterial or venous thrombosis as a replacement for heparins in cases where AODs are contraindicated.
+|contraindicated in cases of severe hepatic insufficiency
+|}
+
+==Undesirable effects==
+
+===For all molecules===
+
+*Bleeding, any site possible
+
+===Specific to coumarins===
+
+*Gastrointestinal intolerances (gastralgia, vomiting, diarrhoea)
+
+===Preferred to Indo-Diones===
+
+*Immunological reaction (tubulointerstitial nephritis, rash, fever, hepatitis, aplasia)
+
+===Specific to AOD===
+
+*Hepatitis
+*thrombocytopenia
+*Hypersensitivity including rash
+
+===Specific to rivaroxaban===
+
+*Agranulocytosis
+
+===Specific to apixaban===
+
+*Alopecia
+
+===Specific to dabigatran===
+
+*Digestive disorders
+
+==Drug interactions==
+{| class="wikitable"
+|'''Molecules'''
+|'''Pharmacodynamic interactions'''
+|'''Pharmacokinetic interactions'''
+|'''Comments'''
+|-
+|Apixaban
+|'''Major'''
+
+Heparins
+
+Fibrinolytics
+
+Other AOD, AVK
+
+'''No major'''
+
+Anti-aggregants
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+
+Corticosteroids (ulcers, vascular fragility)
+|CYP450 and P-glycoprotein inhibitors
+
+Azoles, protease inhibitors, erythromycin, clarithromycin, amiodarone, quinidine, naproxen
+
+CYP450 and P-glycoprotein inducers
+
+Rifampicin, anticomitic drugs (phenytoin, phenobarbital, carbamazepine), St. John's wort
+|
+|-
+|Rivaroxaban
+|''Major'''
+
+Heparins
+
+Fibrinolytics
+
+Other AOD, AVK
+
+'''No major'''
+
+Anti-aggregants
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+
+Corticosteroids (ulcers, vascular fragility)
+|CYP450 and P-glycoprotein inhibitors
+
+Azoles, protease inhibitors, erythromycin, clarithromycin, amiodarone, quinidine, naproxen
+
+CYP450 and P-glycoprotein inducers
+
+Rifampicin, anticomitic drugs (phenytoin, phenobarbital, carbamazepine), St. John's wort
+|
+|-
+|Diabigatran
+|''Major'''
+
+Heparins
+
+Fibrinolytics
+
+Other AOD, AVK
+
+'''No major'''
+
+Anti-aggregants
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+
+Corticosteroids (ulcers, vascular fragility)
+|P-glycoprotein inhibitors
+
+Amiodarone, verapamil, quidinie, tacrolimus, erythromycin, clarythromycin, naproxen,
+
+P-glycoprotein inducers
+
+Rifampicin, anticomitic drugs (phenytoin, phenobarbital, carbamazepine), St. John's wort
+|
+|-
+|AVK
+|'''Major'''
+
+Heparins
+
+Fibrinolytics
+
+AOD
+
+'''No major'''
+
+Anti-aggregants
+
+NSAIDS
+
+Selective serotonin reuptake inhibitors
+
+Corticosteroids (ulcers, vascular fragility)
+|Increased INR
+
+- Albumin-binding drugs (antibiotics, morphine, NSAIDs, statins, fibrates, azoles, paracetamol 4g/d, etc.), corticoids, etc.
+
+- Cytochrome inhibition: allopurinol, cimetidine, amiodoraone, riséofulvine, levothyroxine
+
+'''Decrease in INR:'''
+
+'''Cytochrome inducers'''
+
+- St John's Wort
+
+- Azathioprine
+
+- Anticonvulsants
+
+- protease inhibitor
+
+- Rifampicin
+<br />
+|In practice, have an INR performed 2-3 days after any change in the prescription.
+|}
+
+==Surveillance methods==
+
+====Clinical surveillance====
+
+*Compliance (particularly for AODs)
+*Tolerance: sign of bleeding
+*Effectiveness: sign of thrombosis depending on the indication
+
+====Biological monitoring====
+
+=====AOD=====
+
+*Renal function (creatinine)
+*Liver function (ASAT, ALAT, gammaGT)
+
+=====AVK=====
+
+*INR (at least once a month)
+*Renal function (creatinine and GFR calculation) if fluindione is co-prescribed or prescribed.
+*Liver function (ASAT, ALAT, gammaGT)
+*Biological tolerance is assessed on the haemogram (to check for anaemia).
+
+==Main causes of failure==
+In decreasing order of frequency, factors influencing recurrence or the occurrence of thrombosis:
+
+*Limited benefit of anticoagulants (incomplete reduction in the risk of thrombosis, particularly in AF and prevention in orthopaedic settings).
+*Monitoring (particularly for AODs), often overestimated (AOD dosage possible).
+*Drug interactions (e.g. enzyme inducers)
+*Other mechanisms (e.g. dissection in stroke)
+*Major thrombophilia (antiphospholipid antibody syndrome, paraneoplastic thrombosis)
+*Diagnostic error

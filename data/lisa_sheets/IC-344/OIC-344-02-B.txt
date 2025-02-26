@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-344-02-B
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=B
+|Title=Knowing the natural course and maternal and foetal complications associated with pre-eclampsia
+|Description=Eclampsia, hepatic complications, renal complications, cardiovascular complications, haemostasis disorders, intrauterine growth retardation, prematurity, foetal death in utero
+|Rubric=Physiopathology
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=2}}
+
+- Natural progression towards life-threatening conditions for the mother and the unborn child
+
+- Major cause of avoidable maternal mortality
+
+- Significant severe maternal morbidity: in 10% of cases, progression to a severe form of EP leading to acute organ failure.
+
+- Maternal complications: Eclampsia, haemorrhagic stroke, PRESS syndrome, HELLP syndrome, renal failure, heart failure, OAP, DIC, retro-placental haematoma, maternal death.
+
+- Fetal and neonatal complications: intrauterine growth retardation, prematurity, asphyxia in utero, foetal death in utero, post-natal death.

@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-129-08-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Know the differential diagnoses of the main osteoarthritis sites: coxarthrosis, gonarthrosis, digital osteoarthritis, etc.
+|Description=Know the differential diagnoses of each site of osteoarthritis and how to search for them clinically
+|Rubric=Positive diagnosis
+|Contributors=paccou
+|Order=8}}
+The diagnosis of osteoarthritis is often straightforward in the presence of the triad of terrain, mechanical pain and stiffness. However, other aetiologies can cause mechanical joint pain. Differential diagnoses need to be evoked and eliminated by questioning (in particular the location of the pain), clinical examination and, if necessary, additional tests.
+
+The main differential diagnoses of coxarthrosis are :
+
+- cruralgia
+
+- gluteus medius tendinopathy
+
+- an osteoporotic fracture of the pelvis (obturator frame+++) or a (subchondral) fracture of the femoral head
+
+- more rarely, aseptic osteonecrosis of the femoral head or hip algodystrophy.
+
+The main differential diagnoses of gonarthrosis are :
+
+- coxofemoral involvement with projected knee pain
+
+- isolated meniscus damage
+
+- microcrystalline arthropathy (interest in puncturing an effusion)
+
+- osteonecrosis of a femoral condyle
+
+- a fracture of the tibial plateau
+
+Digital osteoarthritis, particularly in its erosive form, can resemble chronic inflammatory rheumatism, notably psoriatic arthritis.

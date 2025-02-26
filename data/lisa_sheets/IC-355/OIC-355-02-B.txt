@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-355-02-B
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=B
+|Title=Knowing the epidemiology of upper and lower haemorrhage, in relation to terrain and risk factors
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Annual incidence: 145 cases per 100,000 population, median age 70 years
+
+80% high origin, with 3-10% mortality
+
+           - 30% peptic ulcer (2.5-5% mortality)
+
+           -10-20% haemorrhage due to portal hypertension: (10-20% mortality at 6 weeks)
+
+
+20% low origin :
+
+- 2-8% mortality - 70% spontaneous arrest
+
+- Frequent recurrence - 90% colon/anorectal

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-244-01-A
+|Item_parent=Pituitary adenoma
+|Item_parent_short=Pituitary adenoma
+|Rank=A
+|Title=Identifying the elements of a neurohypophyseal tumour syndrome
+|Description=Headache, visual field abnormalities, intracranial hypertension
+|Topic=Positive diagnosis
+|Contributors=Thomas Cuny,Fredérique Castinetti,Thierry Brue,Olivier Chabre,CAZABAT LAURE,
+|Order=1}}
+
+Pituitary tumour syndrome characterised by :
+
+'''[[Unusual acute and chronic headache in adults and children|Headache]]''', typically frontal or retro-orbital, localised without proportionality to the size of the adenoma.
+
+'''Visual disorders [[Acute visual impairment|(Acute visual impairment)]]''' due to compression of the optic pathways (''chiasmatic syndrome'') resulting in an amputation of the visual field (observed by Goldman or automated perimetry): superior temporal quadranopsia then bitemporal hemianopia.
+
+A careful clinical examination, eye by eye, looks for an amputation of the visual field and a drop in visual acuity.
+
+Intracranial hypertension, exceptionally: persistent headache, jet nausea/vomiting, bilateral mydriasis.
+
+Pituitary apoplexy'' presents with sudden, violent headaches, photophobia, ptosis, oculomotor paralysis and a pseudomeningeal picture. It is secondary to haemorrhagic infarction of a sometimes unrecognised pituitary adenoma.

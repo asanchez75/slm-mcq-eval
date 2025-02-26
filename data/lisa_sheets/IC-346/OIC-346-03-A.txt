@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-346-03-A
+|Item_parent=Convulsions in infants and children
+|Item_parent_short=Convulsions in infants and children
+|Rank=A
+|Title=Knowing the aetiologies of convulsive seizures in infants and young children
+|Description=The most common causes: hyperthermic convulsion, subdural haematoma, neuromeningeal infection, childhood epilepsy.
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+- Make sure it is an epileptic seizure (see differential diagnoses).
+
+- If the child has no known epilepsy
+
+o Is he feverish?
+
+§ If yes: is it a seizure symptomatic of a nervous system infection or a seizure triggered by fever?
+
+§ If no: are there any other factors that could cause a seizure, in particular [[Head injury SD-172|head injury]], [[Hypoglycaemia in adults and children|hypoglycaemia]]...?
+
+o If there is no evidence of an acute symptomatic seizure: is this the onset of [[Childhood and adult epilepsy|epilepsy]]?
+
+- Causes of febrile seizures
+
+o Febrile seizure (seizure triggered by a rise in body temperature - often a family history of individual susceptibility to fever)
+
+o Neuromeningeal infection: [[Meningitis, meningoencephalitis, brain abscess in adults and children|bacterial meningitis]] complicated, [[Infectious meningitis and meningoencephalitis in adults and paediatrics, brain abscess 2C-151-DE-A01|herpetic encephalitis]]
+
+o More rarely [[malaria|neuromalaria]] (depending on context), thrombophlebitis
+
+- Causes of seizures without fever
+
+o Traumatic brain injury (in particular [[head injury SD-172|subdural haematoma]])
+
+o Metabolic disorders (especially before 6 months): [[Hypoglycaemia in adults and children|hypoglycaemia]], hypocalcaemia
+
+o Stroke (young children)
+
+o Onset of epilepsy

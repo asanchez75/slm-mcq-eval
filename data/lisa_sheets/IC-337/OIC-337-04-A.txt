@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-337-04-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Knowing the clinical signs of acute poisoning
+|Description=Recognise an opioid syndrome, a myorelaxation syndrome, an anticholinergic syndrome, the clinical presentation of acute alcohol intoxication.
+|Rubric=Positive diagnosis
+|Contributors=Dominique Vodovar
+|Order=4}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 2.jpg
+</gallery><gallery widths="300" heights="300">
+File:Figure 4 toxidromes.jpg
+</gallery>

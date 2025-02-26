@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-088-07-B
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=B
+|Title=Knowing the tests to be carried out in the first instance for dysphonia.
+|Description=Indirect laryngoscopy with laryngeal mirror, laryngeal nasofibroscopy, direct laryngoscopy
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+In the event of dysphonia, it is essential to carry out an examination of the larynx during the ENT consultation in order to determine the presence of any lesions and mobility of the larynx (vocal cords and arytenoids).
+
+This laryngoscopy can be performed :
+
+- transnasal (nasopharyngeal fibroscopy),
+
+- transoral route using
+
+* an epipharyngoscope,
+* or a laryngeal mirror (indirect laryngoscopy - less frequently performed in daily practice).
+
+Depending on the findings, the larynx will be examined under general anaesthetic (suspension laryngoscopy).
+
+<br />

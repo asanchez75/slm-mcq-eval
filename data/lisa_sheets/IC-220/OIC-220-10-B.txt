@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-220-10-B
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=B
+|Title=Know the biological tests to be performed as a first-line treatment for adenopathy depending on the context (localised/generalised, acute/chronic).
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=10}}
+Biological tests will be '''guided by the general context and orientations according to the clinical examination and the context.'''
+
+- Haemogram: almost systematic, looking for inflammatory anaemia, mononucleosis syndrome, neutrophilic polynucleosis, abnormal circulating cells and cytopenias.
+
+- Viral and parasitic serologies to be adapted to the clinical situation
+
+- CRP if inflammatory or bacterial orientation
+
+- LDH if there is a strong suspicion of lymphoma or acute leukaemia
+
+- '''Autoimmune test''' if non-infectious inflammatory referral/context
+
+- lymph node cytopuncture: to be discussed for rapid referral (see form) or microbiological sampling
+
+- Lymph node biopsy for chronic adenopathy in adults

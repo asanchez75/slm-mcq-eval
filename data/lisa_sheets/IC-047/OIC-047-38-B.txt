@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-047-38-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Know the objectives and items contained in the three medical certificates accompanying the compulsory systematic monitoring of infants.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=38}}
+Common objectives cf ''[[To know the elements of systematic questioning and clinical examination of a child according to age and context 2C-047-PC-A01|To know the elements of systematic questioning and clinical examination of a child according to age and context]]'''
+
+Specific objectives
+
+*https://www.formulaires.service-public.fr/gf/cerfa_12596.do 8<sup>th</sup> day]: history, pregnancy, delivery, condition at birth, pathologies in the first week, congenital anomalies, breastfeeding, vaccinations (BCG or HBV), newborn hearing screening,
+*https://www.formulaires.service-public.fr/gf/cerfa_12597.do 9<sup>th</sup> month]: history, vaccinations, eye and hearing tests, psychomotor development, measurements, breastfeeding, risk of lead poisoning, current medical conditions.
+*https://www.formulaires.service-public.fr/gf/cerfa_12598.do 24<sup>ème</sup> mois]: idem 9th month + dental condition

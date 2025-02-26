@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-132-11-B
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=B
+|Title=Knowing the psychological and behavioural symptoms of dementia.
+|Description=Know how to identify the main behavioural disorders associated with diseases responsible for neuro-cognitive disorders.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+These symptoms should be looked for at each consultation, as some carers will not talk about them spontaneously, or the symptoms may be trivialised. The Neuro-Psychiatric Inventory can be used to assess the frequency and impact (severity) of each of these symptoms.
+{| class="wikitable"
+|Depression/dysphoria
+
+Anxiety
+
+Irritability/stability
+
+Apathy
+
+Exaltation/euphoria
+
+Disinhibition
+
+Delusional ideas
+
+Hallucinations Agitation/aggression
+
+Aberrant motor behaviour
+
+Sleep disorders
+
+Appetite disorders
+|}
+These can have major consequences in terms of :
+
+* quality of life and adaptation of patients to their environment;
+* quality of care, with the risk of abuse or neglect;
+* functional prognosis of the disease
+* inappropriate drug prescribing;
+* increased risk of hospitalisation and institutionalisation;
+* quality of life and physical and mental health of carers.

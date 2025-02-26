@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-025-07-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the evolution of Beta HCG blood levels and the diagnosis of EP
+|Description=None
+|Rubric=Additional tests
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=7}}
+
+The threshold of 1500 is generally used to determine the "visibility" of an intrauterine pregnancy on pelvic ultrasound.
+
+If the BHCG is greater than 1500 IU / L with uterine vacuity on endovaginal ultrasound, the diagnosis of EP is very likely.
+
+A woman has a pregnancy of undetermined location (GLI) if the pregnancy is neither intra- nor extra-uterine.   
+
+If the pregnancy is of undetermined origin and there are no signs of seriousness, plasma beta-hCG levels and pelvic ultrasound should be repeated vaginally 48 hours later. In a normally progressing intrauterine pregnancy, beta-hCG levels double every 48 hours; in a spontaneous miscarriage, beta-hCG levels decrease. In an extra-uterine pregnancy, the beta-hCG level stagnates or rises insufficiently.
+
+'''([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]], [[Discovery of a pelvic abnormality on medical imaging examination SD-229|discovery of a pelvic abnormality on medical imaging examination]])'''''

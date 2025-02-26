@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-158-04-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Recognising purpura fulminans
+|Description=Purpura fulminans
+|Section=Positive diagnosis
+|Contributors=
+|Order=4}}
+''Purpura fulminans'' is a rapidly progressive vascular purpura ''([[Purpura/ecchymosis/haematoma SD-089|purpura/ecchymosis/haematoma]], [[Rash in children SD-037|rash in children]])'''.
+
+* It appears as rapidly spreading ecchymotic and necrotic lesions.
+* It is often associated with fever and haemodynamic failure.
+
+Untreated purpura fulminans is rapidly fatal. It is therefore crucial to recognise this condition as soon as possible and to initiate appropriate treatment without delay, including emergency antibiotic therapy.
+
+'''A febrile purpura is a ''purpura fulminans'' until proven otherwise.'''

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-280-01-A
+|Item_parent=Ascite
+|Item_parent_short=Ascite
+|Rank=A
+|Title=Know the definition of ascites
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Ascites is a ''free effusion in the peritoneal cavity''. Haemoperitoneum is excluded from this definition.

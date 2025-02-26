@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-273-05-B
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=B
+|Title=Knowing the non-biological complementary tests to be carried out as a second-line treatment for dysphagia
+|Description=CT, echo-endoscopy, TOGD, high resolution oesophageal manometry
+|Rubric= Complementary examinations
+|Contributors=
+|Order=5}}
+'''Search for an oesophageal motor disorder causing functional dysphagia''': oesophageal manometry is performed on an outpatient basis. It is a second-line examination in cases of dysphagia not explained by EOGD and normal endoscopic biopsies and in the absence of eosinophilic oesophagitis.  The manometry probe is inserted in a vigorous patient through one nostril and positioned in the oesophagus, and sensors along the probe record the peristaltic wave. The examination assesses oesophageal peristalsis and relaxation of the lower oesophageal sphincter. In the case of achalasia in particular, manometry registers a defect in LES relaxation and the absence of normal oesophageal peristalsis.
+
+
+'''Look for extrinsic compression of the oesophagus:''' the cervico-thoraco-abdomino-pelvic CT scan with high digestive opacification and injection of intravenous contrast product is used to look for :
+
+- compression of the oesophagus by a mediastinal lesion (lung tumour, adenopathy)
+
+- a large rolling hiatal hernia or oesophageal diverticulum.
+
+''Search for a lesion under the oesophageal mucosa'': if a tumour under the oesophageal mucosa is suspected on EOGD, an upper echo-endoscopy is performed to characterise and, if necessary, puncture the lesion.
+
+''The oesogastroduodenal transit (TOGD) is almost no longer practised because it is less accurate than the CT scan with digestive opacification''.

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-218-12-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the main parasitic etiologies of eosinophilia in patients who have stayed in tropical areas/outside mainland France
+|Description=Tropical helminthoses: anguillulosis, bilharziosis, digestive helminthoses (e.g. ascariasis), filariasis, etc.
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+
+'''Eosinophilia + travel outside mainland France'''
+
+- bilharziasis or schistosomiasis: ''[[Diarrhoea SD-002|diarrhoea]]''' and hepato-'''[[Splenomegaly SD-058|splenomegaly]]''' for digestive bilharziasis (''Schistosoma mansoni''), and haematuria and damage to the urinary tract for urinary bilharziasis (''Schistosoma haematobium'') (a few cases in southern Corsica).
+
+- strongyloidiasis (or anguillulosis) ('Strongyloides stercolaris'): cutaneous 'larva currens' syndrome, oscillating, cyclic hypereosinophilia and digestive disorders. Disseminated anguillulosis (malignant anguillulosis) may occur under corticosteroid treatment. Systematic antiparasitic treatment before introducing corticosteroid therapy in patients who have spent time in tropical areas.
+
+- Filariasis: oedema, subcutaneous nodules and blindness.
+
+- Distomatoses: angiocholitis (''fever ([[Hyperthermia/fever SD-044|fever/hyperthermia]]'')'', jaundice) and highly suggestive hypereosinophilia.
+
+- ascariasis (now exceptional in temperate regions) (''Ascaris lumbricoides''): Löffler syndrome and digestive signs.
+
+'''Diagnosis:'''
+
+- stool parasitological tests (digestive bilharziasis, anguillulosis, distomatosis, ascariasis) ;
+
+- parasitological examination of urine (urinary bilharzia) ;
+
+- serologies (bilharziasis, anguillosis and filariasis) ;
+
+- search for microfilariae in the blood / dermis (filariasis) ;
+
+- Sometimes trial antihelminthic treatment, with monitoring (eosinophilia).

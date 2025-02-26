@@ -1,0 +1,110 @@
+{{knowledge objective
+|Identifiant=OIC-021-02-A
+|Item_parent=Measurement of population health status
+|Item_parent_short=Measurement of population health status
+|Rank=A
+|Title=Knowing the basic concepts of epidemiological indicators
+|Description=Know how to define and recognise epidemiological indicators, crude mortality rates, specific mortality rates, premature mortality rates, avoidable mortality, case-fatality rates by cause, infant, perinatal, foetal (or stillbirth), neonatal, post-neonatal, foeto-infant mortality.
+|Rubric=Definition
+|Contributors=Loïc Josseran
+|Order=2}}
+
+Mortality indicators
+{| class="wikitable"
+|Indicator
+|Definition
+|France
+|-
+|Crude death rate
+|(Number of deaths during the year/average population for the year) × 1,000
+|9.9/1,000 in 2020<sup>1</sup>.
+|-
+|Crude death rate for a cause of death
+|(Number of deaths due to a cause during the year/average population for the year) × 1,000
+|Per solid cancer in 2018<sup>2</sup> :
+
+123.8 per 100,000 men, 72.2 per 100,000 women
+|-
+|Specific mortality rates :
+
+- by age
+
+- by gender
+|Calculation of the stratified mortality rate (age, gender, socio-professional category, etc.) :
+
+(number of deaths during the year in an age group/average population of this age group for the year) × 1,000
+
+(number of deaths during the year by gender/average population by gender for the year) × 1,000
+|In 2019 :
+
+TSpM age group ≥ 90 years: 183/1,000 per year<sup>3</sup>.
+
+TSpM H: 9.4/1,000 per year<sup>3</sup>.
+
+TSpM F: 9.0/1,000 per year<sup>3</sup>.
+|-
+|Premature mortality rate
+|(Number of deaths before the age of 65 during the year/average population under the age of 65 in the year) × 1,000
+|In 2020
+
+H: 2.40/1,000 per year<sup>4</sup>.
+
+F: 1.24/1,000 per year<sup>4</sup>.
+|-
+|Preventable mortality
+|- through changes in lifestyle (risky behaviour and lifestyle context: AIDS, alcohol, suicide, road accidents, bronchopulmonary and upper aerodigestive cancers).
+
+- through a better response from the healthcare system (curative and preventive actions: ischaemic heart disease, stroke linked to high blood pressure, breast and uterine cancer).
+|Preventable deaths in France in 2013: 31,963<sup>5</sup>.
+
+Preventable mortality rate in 2013) :
+
+- men: 290.0 per 100,000
+
+- women: 143.3 per 100,000
+
+Avoidable tobacco-related mortality in France in 2015 (number of deaths)<sup>6</sup> : 75 320
+|-
+|Case-fatality rate by cause
+|(Number of deaths due to a cause during the year/number of subjects with the same cause during the year) × 1,000
+|
+|}
+F: female; M: male; SMR: specific mortality rate.
+
+
+Infant mortality indicators
+{| class="wikitable"
+|Indicator
+|Definition
+|France
+|-
+|Infant mortality rate
+|(number of children who died before the age of 1 during the year/total number of live births during the year) × 1,000
+|3.79/1,000 per year in 2019<sup>1</sup>.
+|-
+|Neonatal mortality rate
+|(Number of children who died during the first 28 days of life in the year/total number of live births in the year) × 1,000
+|2.74/1,000 per year in 2019<sup>1</sup>.
+|-
+|Post-neonatal mortality rate
+|(Number of children who died between the 28th and 365th day of life during the year/total number of live births in the year) × 1,000
+|1.05/1,000 per year in 2019<sup>1</sup>.
+|-
+|Perinatal mortality rate
+|(Number of stillbirths or deaths in the first 7 days of life as a proportion of all births from 22 weeks of amenorrhoea)
+
+× 1 000
+|10.2/1,000 per annum in 2019<sup>2</sup>.
+|-
+|Stillbirth rate
+|(Number of foetal deaths after 22 weeks of amenorrhoea or child weighing more than 500g and up to birth during the year/total number of live births during the year) × 1,000
+|8.5/1,000 (including IMG) per year in 2019<sup>2</sup>.
+|}
+
+
+Feto-infant mortality rate
+
+The foeto-infant mortality rate is the ratio of the number of stillborn babies and babies who died at less than one year of age to the total number of live and stillborn babies.
+
+INSEE no longer calculates it.
+<br />

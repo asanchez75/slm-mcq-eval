@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-320-10-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Knowing the presentation of a lytic myeloma lesion on radiography
+|Description=Photo / Fig 29.3
+|Rubric=Multimedia content
+|Contributors=
+|Order=10}}
+
+
+X-rays typically show "cookie-cutter" images of bone lacunae, with no peripheral reaction. Typical appearance in the arch of the skull ("lunar" appearance).
+
+
+[[File:Myeloma.png|vignette]][https://videotheque.uness.fr/w/epbRfsJC6rf7YLSdiUgAyA 15 mn Video CERF Myeloma Imaging]

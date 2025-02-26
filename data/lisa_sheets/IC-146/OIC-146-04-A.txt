@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-146-04-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Intitulé=Populations et vaccinations : différencier population générale, population à risque et population plus particulièrement exposée
+|Description=None
+|Rubric=Definition
+|Contributors=Laurence Morand-Joubert
+|Order=4}}
+
+The general population is made up of all the inhabitants of the country, of all ages, for whom a certain number of vaccines are recommended to achieve public health objectives.
+
+Populations at risk (because of their pathologies or age, pregnant women) or particularly exposed to certain infections (high-risk professions (e.g. health professionals, research laboratories, sewage workers ....), living areas, travel) are the target populations for certain vaccines.

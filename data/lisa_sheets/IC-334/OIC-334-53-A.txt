@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-334-53-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to suspect and diagnose cranial trauma
+|Description=Trauma clinic, Assessment of state of consciousness, minor/moderate/severe head trauma
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=53}}
+'''Interrogation of the patient and/or witnesses:'''
+
+* anamnesis: context of trauma, mechanism of trauma, use of alcohol or psychotropic drugs
+* antecedents: co-morbidities and current treatment, in particular treatment modifying the blood crase
+
+'''Clinical examination:'''
+
+* functional signs: initial loss of consciousness, amnesia, headache, dizziness, agitation, drowsiness
+* pupillary examination
+* focal neurological deficit
+* state of consciousness: Glasgow score, to be repeated during treatment, with details of the various components
+* scalp wound with haemorrhage
+* traumatic injuries to the face
+* discharge of blood or cerebrospinal fluid: rhinorrhoea, epistaxis, otorrhoea, otorrhagia
+
+("''[[Coma and disorders of consciousness SD-028|coma and disorders of consciousness]]''")("''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]'''")("''[[Convulsions SDD-120|convulsions]]''")("''[[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]]'''")("''[[Head trauma SD-172|head trauma]]'''")

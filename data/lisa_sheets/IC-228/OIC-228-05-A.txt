@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-228-05-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Photograph of a typical arterial ulcer
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Marie-Antoine Sevestre Pietri, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=5}}
+The ulcer is secondary to ischaemic tissue hypoxia following severe OSA (at the stage of chronic critical ischaemia).
+[[File:Arterial ulcers.jpg|vignette|489.133x489.133px|Arterial ulcers]]
+
+== '''The arterial origin is evoked in the presence of an ulcer:''' ==
+
+*Suspended,
+*painful,
+*small in size,
+*crusty (with risk of exposing joints and tendons),
+*with sharp edges,
+*often recent,
+*typically located in the foot,
+*atonic background.
+
+== '''In the case of an arterial ulcer, we look for:''' ==
+
+*Atheroma: epidemiology and pathophysiology. The polyatheromatous patient|cardiovascular risk factors]] ;
+*arterial disease of the aorta, visceral arteries and lower limbs; aneurysms|a history of exertional ischaemia]] (intermittent claudication);
+*decubitus pain;
+*a reduction in skin heat;
+*longer pulp recolouration time;
+*a lack of exposure of the digital pulps and heel shells;
+*declivity erythrocyanosis;
+*abolition of peripheral pulses.
+
+== '''When faced with an arterial ulcer, we ask:''' ==
+
+*Doppler ultrasound of the aorta and arteries of the lower limbs: this examination confirms arterial disease and locates significant arterial lesions;
+*A haemodynamic measurement is essential if symptoms are to be attributed to AOMI:
+**ankle pressure < 50 mmHg ;
+**toe pressure < 30 mmHg;
+**TcPO2 < 30 mmHg.
+
+'''''Other values have been proposed by other classifications. '''''
+
+The values suggested here are used to determine whether the AOMI is associated with a resting symptom. Ankle pressure is often falsely normal or elevated (diabetes, renal failure, old age, etc.), in which case toe pressure should be measured.
+
+'''''On complete, if arterial imaging indicates revascularisation:'''''
+
+*angioscan,
+*MRI angiography (particularly for leg artery lesions).

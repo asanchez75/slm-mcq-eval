@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-221-05-B
+|Item_parent=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=B
+|Intitulé=To know the mechanisms of formation and the evolution of the atheromatous plaque
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=5}}
+'''Formation of atherosclerotic plaque:'''
+
+- accumulation of lipoproteins in the intima throughout life (lipid striae),
+
+- increase in the lipid component and appearance of oxidised LDL,
+
+- recruitment of macrophages which gorge themselves on oxidised LDL,
+
+- a change in the phenotype of the underlying vascular smooth muscle cells, which migrate into the plaque and proliferate in an attempt to isolate all the inflammatory cells,
+
+- growth of atherosclerotic plaque,
+
+- remodelling of atherosclerotic plaque,
+
+- progressive reduction in the circulating lumen of the artery.
+
+'''Possible complications:'''
+
+- Impaired downstream flow from a certain degree of plaque-related stenosis,
+
+- thrombus formation on plaque ± distal embolism if plaque rupture,
+
+- occurrence of intra-plate haemorrhage increasing the stenosis.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-348-15-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Know how to adapt the prescription of drugs and complementary examinations to the severity of renal failure.
+|Description=General principles renal elimination drugs and nephrotoxicity
+|Section=Management
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=15}}
+
+== Adapting drug prescription during ARF ==
+Adapting the dosage of drugs eliminated by the kidney (parent compound or metabolites) because of the risk of overdose:
+
+- Cardiotropic drugs: risk of overdose, sometimes fatal
+
+- Hypoglycaemic sulphonamides: hypoglycaemia
+
+- Biguanides: ketoacidosis
+
+- Direct anticoagulants/ LMWH: haemorrhage
+
+- Renin angiotensin system blockers: increased risk of hyperkalaemia
+
+- Iodine contrast products (ICP)/Gadolinium: increased risk of toxicity in cases of renal failure (ICP = NTA; Gadolinium = nephrogenic systemic fibrosis)
+
+- Loop diuretics: reduced efficacy (organic ARF), higher doses required.
+
+It is important to know the metabolism of drugs and their main route of elimination in order to adapt the dosage in cases of renal failure.

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-264-21-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the consequences of metabolic acidosis
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=21}}
+
+Chronic metabolic acidosis results in :
+
+* excessive muscle protein catabolism,
+* worsening of renal osteodystrophy lesions,
+* increased risk of hyperkalaemia.
+
+Correction of metabolic acidosis :
+
+* aims to achieve a blood bicarbonate level of over 22 mmol/L,
+* requires the use of alkalinising agents such as sodium bicarbonate (e.g. NaHCO3 capsules, 3 to 6 grams per day).

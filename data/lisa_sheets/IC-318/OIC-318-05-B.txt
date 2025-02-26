@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-318-05-B
+|Item_parent=Chronic lymphocytic leukaemia
+|Item_parent_short=Chronic lymphocytic leukaemias
+|Rank=B
+|Title=Knowing the tests used to confirm the diagnosis of CLL
+|Description=
+|Topic=positive diagnosis
+|Contributors=
+|Order=5}}
+The diagnosis of CLL is based on two tests:
+
+- haemogram and blood smear
+
+- immunophenotyping of blood lymphocytes
+
+In CLL, lymphocytes are typically ''unremarkable in appearance, monomorphic, small in size'', with ''mature, dense chromatin and a high nucleocytoplasmic ratio.''' The presence of ''Gumprecht lumps'' is highly suggestive of CLL and is secondary to the bursting of CLL lymphocytes during blood smear spreading.
+
+Immunophenotyping of blood lymphocytes first confirms monoclonality. CLL cells express the CD5 antigen (usually found only on T lymphocytes) and CD23. These two parameters form part of the ''Matutes or RMH score'' (for ''Royal Marsden Hospital''), which analyses the expression of 5 antigens, each rated 1 point. A score of 4 or 5 confirms the diagnosis. A score of 0 to 2 rules out the diagnosis of CLL and points to another B lymphoproliferative syndrome. There are useful complementary markers for scores a 3.
+<br />

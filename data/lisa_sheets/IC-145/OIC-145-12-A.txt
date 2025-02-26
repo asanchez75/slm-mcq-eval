@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-145-12-A
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=A
+|Title=Know the principles and main measures for the prevention of infectious diseases that are transmissible from human to human and from environment to environment in the community.
+|Description=None
+|Section=Definition
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=12}}
+
+Measures to prevent human-to-human and environmental infectious diseases are based on knowledge of the chain of transmission of the infectious agent in question. There may be several such measures for the same disease, and they may aim to control the reservoir, interrupt the chain of transmission and/or act on the susceptibility of the host.
+
+'''1- Examples of checking tanks or their exit doors'''
+
+*Use of a condom,
+*Expulsion from school or a community centre, time off work,
+*Geographical isolation of carriers as part of additional precautions during treatment,
+*Veterinary measures if the reservoir is an animal,
+*Environmental sanitation, water treatment, eradication of insect and mollusc larvae.
+
+'''2- Main barriers to transmission: contact, air, droplets'''
+
+*Hand and respiratory hygiene in the community,
+*Domestic hygiene,
+*Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices|Standard and complementary precautions in the care environment]]
+
+'''3- Examples of control of animate or inert vectors'''
+
+*Food hygiene,
+*Veterinary control,
+*Vector control,
+*Maintenance and sterilisation of medical devices during treatment.
+
+'''4- Acting on host susceptibility'''
+
+*Control of entry points (wearing a mask, dressing skin lesions, etc.),
+*Medication prophylaxis after exposure to the infectious agent,
+*Passive immunisation (immunoglobulins),
+*Active immunisation (vaccination).
+
+5- [[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices|Standard precautions (SP)]]''''
+
+*PS must be applied on a daily basis by all healthcare professionals, for all care, in all places, and for all patients, whatever their infection status.
+
+*SPs reduce the risk of cross-transmission of infectious agents between carers, patients and the environment, or through exposure to a biological product of human origin (blood, secretions, excreta, etc.). They contribute to the ''[[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices|prevention of healthcare-associated infections, control of the spread of antibiotic-resistant bacteria and healthcare safety]]'' (carer/patient) during patient care.
+
+*The prerequisites for the application of the SPs are up-to-date vaccinations, correct personal hygiene, clean working clothes that clear the forearms, zero jewellery on the hands and forearms and tied-up hair if it is long.
+
+*The recommendations concerning PS concern :
+**L''''hygiène des mains''' favorisant la désinfection des mains avec une solution hydroalcoolique,
+**Wearing personal protective equipment (gloves, protection of clothing with a plastic apron or overblouse and of the face with a surgical mask and protective goggles),
+**Respiratory hygiene measures, ''''
+**Prevention of faecal peril (''excreta management''),
+**Prevention of accidents involving exposure to blood.
+**Measures to manage environmental contamination.
+
+'''6- [[Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices|Complementary precautions]]''''
+
+When a specific infectious risk is identified, "additional precautions" must be added to the SPs to control this risk.
+
+*In the case of contact with a patient presenting a transmissible infection through contact (scabies, Clostridioides difficile diarrhoea, carriage of multi-resistant or highly resistant bacteria), there are recommendations for additional contact precautions.
+*When in contact with a patient presenting a transmissible respiratory or ENT infection, there are recommendations for additional droplet precautions (PCG) or air precautions (PCA), including wearing a suitable mask (surgical mask for PCG, FFP2 mask for PCA).
+
+Recommendations concerning standard and additional precautions are available on the website of the Société Française d'Hygiène Hospitalière: '''https://www.sf2h.net/publications'''
+
+
+
+<br />

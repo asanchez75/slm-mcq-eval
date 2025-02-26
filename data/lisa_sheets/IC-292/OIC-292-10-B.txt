@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-292-10-B
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=B
+|Title=Knowing the minimum vocabulary necessary for understanding an anatomopathological tumour report.
+|Description=Tumour nomenclature principles, main histological types (and their definition), stage, concepts of grade/histopronostic scores, quality of excision.
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+The tumour nomenclature is based on the following categories: carcinoma (epithelium) / melanoma / sarcoma (connective tissue) / glioma, astrocytoma, etc. (neurological tissue) / myeloma, lymphoma and leukaemia (haematopoietic tissue) / germ cell and embryonal tumour (seminoma, blastoma, embryonic tissue).
+
+For certain tumours, histopronostic grades have been validated (Gleason score for prostate cancer, Elston-Ellis classification (modified SBR) for breast cancer, for example), making it possible to specify the patient's prognosis and adapt therapeutic strategies.
+
+The staging of tumours groups each site into relatively homogeneous groups in terms of prognosis and treatment. Staging is generally based on classification. Broadly speaking, these are :
+
+- Stage 0: in situ cancer ;
+
+- Stage 1: single, small tumour, no lymph node involvement or metastases;
+
+- Stage 2: localised to the organ of origin, almost never involving lymph nodes;
+
+- Stage 3: locoregional extension to neighbouring organs and/or lymph node involvement ;
+
+- Stage 4: distant metastatic disease.

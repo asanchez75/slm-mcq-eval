@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-139-07-B
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=B
+|Title=Knowing the stages of a treatment approach for patients and their families in the situations most frequently encountered in the palliative or terminal phase of serious, chronic or fatal illnesses.
+|Description=None
+|Rubric=Management
+|Contributors=Amandine Mathé
+|Order=7}}
+
+==<small>''Treatments ("drug therapies")''</small>==
+They can be:
+
+*Specific ("aetiological")": aimed at slowing down or containing the progression of the causal disease (e.g. chemotherapy, etc.) and/or treating complications arising during the course of this disease (e.g. antibiotic therapy, etc.), in order to improve the patient's overall survival and/or ensure the best possible comfort.
+*Partial or total replacement of vital functions, directly or indirectly linked to the causal disease: aimed at prolonging survival and/or ensuring the patient's comfort by limiting the occurrence of certain symptoms (e.g. dialysis, transfusion, etc.).
+*Symptomatic'': aimed at containing the symptoms of the disease without acting on the causal disease itself (e.g. analgesics, transfusions, etc.).
+
+Depending on the patient's situation, the same treatment may be used for one or more of the above objectives (e.g. transfusion).
+
+<u>See</u>: [[Know the situations that require a reflective approach to the proportionality of investigations and/or treatments 2C-140-DP-A01|Know the situations that require a reflective approach to the proportionality of investigations and/or treatments]]
+
+==<small>''Therapeutic approach''</small>==
+
+*In a palliative situation, a ''deliberation must be carried out to define the objective(s) of care'': increasing the quantity of life, supporting vital functions, improving quality of life, etc. Choices have to be made.
+*Permanent questioning of the relevance and proportionality of care and treatment is necessary.
+
+==<small>'''Discontinuation of specific or life-sustaining treatments?''</small>==
+
+*The question arises in various circumstances: ineffectiveness of treatments, unfavourable benefit-risk balance, patient wishes, etc.
+*Sometimes specific and suppletive treatments are continued because they could improve the patient's comfort; these indications must be discussed on a case-by-case basis.
+*Stopping treatment does not mean stopping care: more support is needed.
+
+<u>See</u>: [[Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision making. Controversy]]; [[Reasoning and decision-making in medicine. Evidence Based Medicine (EBM). Shared medical decision-making. Controversy|Ethics at the end of life 2C-009-DE-A06]]; [[Multidisciplinary palliative care of a patient in the palliative or terminal phase of a serious, chronic or lethal illness (2). Support for patients and their families. Main ethical guidelines]]

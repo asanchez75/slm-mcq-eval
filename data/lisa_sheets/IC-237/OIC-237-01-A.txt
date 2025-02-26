@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-237-01-A
+|Item_parent=Palpitations
+|Item_parent_short=Palpitations
+|Rank=A
+|Title=Know the definition of palpitations
+|Description=description and syndromic field
+|Rubric=Definition
+|Contributors=Arnaud Bisson
+|Order=1}}
+Palpitations'' are a subjective disorder corresponding to :
+
+*a sensation of ''abnormal perception of heartbeats'', normal or abnormal, described as ''the heart struggling'' in the chest;
+*a sensation that the heart is beating too hard (hyperkinetic palpitation), or too fast or irregularly (rhythmic palpitation, ''tachycardia'')
+
+They can be felt laterocervically along the carotid arteries.

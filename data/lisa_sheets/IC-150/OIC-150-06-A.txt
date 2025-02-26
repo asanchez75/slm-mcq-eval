@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-150-06-A
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=A
+|Title=Knowing the initial strategy for the management of AOM: antibiotic therapy, associated treatments, etc.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=6}}
+'''<u>IN ACUTE MEDIUM OTITIS:</u>'''
+
+*''No indication for antibiotic treatment if congestive AOM, seromucous otitis'''
+
+*Antibiotic treatment recommended if :
+*#OMA child < 2 years ;
+*#Child > 2 years old immediately if high fever, intense earache or difficulty understanding instructions.
+*#Child > 2 years of age after reassessment 48-72 hours in the event of persistent symptoms.
+*#OMA in adults
+
+*First-line treatment:''''
+*#Child: amoxicillin 80-90mg/kg/day 8-10 days (child <2 years); 5 days (child >2 years)
+*#In adults: amoxicillin 2-3g/d
+*#Total daily dose divided into 2 or 3 doses
+
+*'''If allergic:''''
+*#In children: allergy to penicillins without allergy to cephalosporins; cefpodoxime; CI betalactam antibiotics: cotrimoxazole or erythromycin-sulfafurazole.
+*#In adults: allergy to penicillins without allergy to cephalosporins: cefuroxime-axetil or cefpodoxime or cefotiam; betalactam CI: pristinamycin or cotrimoxazole or levofloxacin.
+
+*Special cases
+*#Newborn: germs resistant to the usual antibiotics (''S aureus'', ''P aeruginosa'', ''Strepto pyogenes''); extensive work-up for any neonatal fever; broad-spectrum antibiotic therapy; systematic paracentesis.
+*#Child with conjunctivitis: "Haemophilus" "influenzae" possibly involved; prescribe Amoxicillin + Clavulanic Acid<br />.
+
+*If unsuccessful :
+
+o Amoxicillin-ac clavulanic combination - to be effective against betalactamase-producing H. influenzae.
+
+o Amoxicillin at 150 mg/kg/d to be effective against pneumococcus of reduced sensitivity to penicillin (PSDP)<br />.
+
+*Paracentesis: risk of contamination with otorrhea sample taken from the duct
+
+o Bacteriological study: abnormal or complicated evolution, slow-onset otitis, particular condition (infant < 3 months, immune deficiency), change in general condition
+
+o Hyperalgesic AOM collection
+
+o AOM collected with fever, resistant to antipyretics

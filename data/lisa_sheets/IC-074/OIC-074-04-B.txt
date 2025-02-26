@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-074-04-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Title=Antipsychotics: knowing the indications, non-indications and contraindications at all stages of life, particularly in elderly patients.
+|Description=None
+|Rubric=Management
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=4}}
+
+==Indications==
+
+===Psychotic disorders (particularly schizophrenia, the most classic indication)===
+
+*Brief psychotic episode of any aetiology
+*Schizoaffective disorder
+*Schizophrenic disorder
+*Persistent delusional disorder
+
+===Mood disorders, but not for all products===
+
+*Severe manic episode with or without psychotic symptoms
+*Characterised depressive episode with psychotic symptoms
+*Bipolar depressive episode (quetiapine only)
+
+===Other indications not common to all===
+
+*Short-term symptomatic treatment of anxiety in adults in the event of failure of standard sedative treatments such as cyamemazine.
+*Behavioural disorders: agitation, psycho-behavioural symptoms of dementia (off-label, taking into account the risk/benefit balance).
+*Refractory insomnia for sedative products such as alimemazine.
+
+==Contra-indications==
+
+===Absolute contraindications===
+There is no ''absolute contraindication'' common to all antipsychotics, but there are specific contraindications for each drug:
+
+*Known hypersensitivity to the compound
+*QT prolongation; bradycardia < 65/minute and hypokalaemia
+*Angle-closure glaucoma and risk of acute urine retention (for the more anticholinergic ones)
+*A history of toxic agranulocytosis (phenothiazines, clozapine)
+*In the event of neuroleptic malignant syndrome, extreme caution should be exercised when reintroducing an antipsychotic and the incriminating antipsychotic and long-acting antipsychotics should be contraindicated.
+
+===Relatives===
+There are "relative contraindications" requiring "precautions for use":
+
+*Association with QT-prolonging or hypokalemic drugs
+*Epilepsy
+*Arrhythmias, angina, orthostatic hypotension
+*Parkinson's disease and dementia with Lewy bodies (except clozapine)
+*Cardiac, respiratory, hepatic or renal insufficiency
+*Pregnancy and breast-feeding
+*Diabetes or glucose intolerance
+*Alcohol, barbiturate and benzodiazepine withdrawal.

@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-329-07-B
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=B
+|Intitle=Know the indications for plasma transfusion
+|Description=None
+|Section=Management
+|Contributors=
+|Order=7}}
+'''Transfusion of fresh frozen plasma (FFP) is indicated''':
+
+
+1/Combination
+
+- acute haemorrhage, or a procedure with a risk of haemorrhage
+
+- '''And''' of a profound haemostasis anomaly defined by
+
+- Fibrinogen < 1g/L
+
+- TP < 40%
+
+- APTT > 1.5 to 1.8 X control
+
+Dosage 10 to 15 ml/Kg
+
+
+2/Purification of toxic substances or antibodies by plasma exchange (e.g. thrombotic micro angiopathies)
+
+Dosage: 40 to 60 ml/Kg (1 to 1.5 plasma masses)
+
+
+3/ During DIC if collapse of PT (< 35-40%) associated with active or potential haemorrhage
+
+
+There are several types of fresh frozen plasma (Designation 2C-329-DE-A02), which can be used for these different indications.
+
+Compatibility rules take into account the donor's natural anti-A and anti-B antibodies present in the plasma, which may come into immunological conflict with the ABO antigens of the recipient's RBCs. These rules are therefore the reverse of those applied for the transfusion of RBCs.
+
+AB plasma donors are universal donors for the ABO system.
+[[File:Conflit ABO plasma.jpg|vignette]]
+
+
+'''Special qualification''': plasma tested negative for HEV is indicated for organ transplants, allogeneic HSC transplants, congenital immunodeficiency, chronic liver disease, etc.

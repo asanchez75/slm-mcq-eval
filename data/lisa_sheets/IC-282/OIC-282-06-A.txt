@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-282-06-A
+|Item_parent=Chronic inflammatory bowel disease (IBD) in adults
+|Item_parent_short=Inflammatory bowel disease (IBD) in adults
+|Rank=A
+|Title=Knowing the main complications of IBD
+|Description=3 main complications of Crohn's disease: occlusion, fistula, abscess + UC The role of imaging in the diagnosis of UC is limited. In some cases, an abdominopelvic CT scan ordered for abdominal pain incidentally reveals signs of colitis, which may suggest the diagnosis, but it is colonoscopy with biopsy that plays a fundamental role in the diagnosis and monitoring of the disease. A CT scan is only indicated in cases of colectasis or suspected intestinal perforation, without the need to distend the digestive lumen. In paediatrics, ultrasound is the first-line examination.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Complications may reveal IBD or arise during the course of the disease. There are differences between CD and UC.
+
+
+'''MC'''
+
+* Digestive "strictures" (particularly ileal) are very common, causing acute or chronic obstruction with, in the case of incomplete obstruction, a Koenig syndrome: mostly postprandial pain, opposite a stricture, of variable duration, increasing intensity, then rapidly subsiding with a sensation of gurgling and the emission of very loud hydroaeric noises, sometimes followed by a diarrhoeal debacle.
+* Digestive "fistulae", which begin as transmural ulceration, usually ileal, may lead to abscess, peritonitis or fistulise into another organ: small intestine, sigmoid, bladder, or even the skin (in patients who have already undergone surgery).
+* Anoperineal involvement has already been described.
+* Lower digestive haemorrhage associated with bleeding from colonic or ileal ulceration.
+* Venous thrombosis (phlebitis, pulmonary embolism).
+* Malnutrition.
+* Severe acute colitis.
+* Rectocolic adenocarcinoma, requiring screening in cases of long-standing and extensive colonic involvement.
+
+
+'''RCH'''
+
+* Severe acute colitis is more common in UC. The risk is colectasis: colonic dilatation with risk of perforation with life-threatening stercoral peritonitis. In the event of fever, profuse rectal discharge, tachycardia, anaemia or deterioration in general condition, emergency hospitalisation is necessary.
+* Colorectal adenocarcinoma, for which the predisposing factors are the extent of the disease and the length of time it has progressed, hence the need for screening for dysplasia (which precedes cancer) by colonoscopy. Note that the presence of associated primary sclerosing cholangitis greatly increases the risk of cancer, and requires closer monitoring.
+* Venous thrombosis (phlebitis, pulmonary embolism).
+* Lower digestive haemorrhage.
+
+<br />

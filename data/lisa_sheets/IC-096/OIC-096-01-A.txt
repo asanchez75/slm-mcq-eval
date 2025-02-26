@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-096-01-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=To know the classification and definition of the different types of peripheral neuropathies
+|Description=Mononeuropathy, multiple mononeuropathy, plexopathy, polyneuropathy, polyradiculoneuropathy, neuronopathy
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Classification and definition of peripheral neuropathies :
+
+'''Mononeuropathy''' : damage to a nerve trunk ;
+
+'''Multiple mononeuropathy''': involvement of several nerve trunks (multineuritis);
+
+'''Plexopathies''' are lesions of the nerve plexuses. Damage to the brachial plexus is the most common;
+
+Polyneuropathy'': damage to all nerve fibres, depending on their length (length-dependent damage);
+
+'''Polyradiculoneuropathy''': involvement of all sensory and motor nerve roots and nerve trunks (e.g. Guillain-Barré syndrome);
+
+'''Neuronopathy''': damage to the cell body of the neuron (motor or sensory).

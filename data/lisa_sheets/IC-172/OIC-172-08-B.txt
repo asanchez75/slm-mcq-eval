@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-172-08-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworm, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, taeniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Knowing the complications of Taenia solium infestation
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=8}}
+
+Cysticercosis occurs after ingestion of Taenia solium eggs. It occurs in countries where there is promiscuity between pigs and humans (Latin America, Asia, Madagascar, Africa). It is associated with poor rearing conditions and faecal hygiene.
+
+Cystic larvae are cystic formations. Depending on their location, a distinction is made between :
+
+'''1. <u>Neurocysticercosis</u>: the most severe complication of infestation by ''T. solium'',''''
+
+* Most common manifestation ''': epilepsy''' ('''main cause of epilepsy in endemic areas).'''
+* On imaging, spherical calcified ''cerebral cysticerci'', hypodense images surrounded by a clear halo.
+
+'''2.  <u>Subcutaneous and muscular cysticercosis</u>''''
+
+* Subcutaneous or muscular cystic formations, usually asymptomatic.
+* Number and location vary widely.
+* Calcifications visible in the muscles on radiographic examination after 3 to 5 years (elongated rice-like formations).
+
+'''3. <u>Ocular cysticercosis</u>: rare'''

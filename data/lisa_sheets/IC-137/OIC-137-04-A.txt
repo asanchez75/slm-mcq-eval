@@ -1,0 +1,115 @@
+{{knowledge objective
+|Identifiant=OIC-137-04-A
+|Item_parent=Pain in children: assessment and analgesic treatments
+|Item_parent_short=Pain in children: assessment and analgesic treatments
+|Rank=A
+|Title=Knowing pain relief treatments in children (WHO levels)
+|Description=Knowing the analgesic molecules available and their use in children
+|Rubric=Management
+|Contributors=
+|Order=4}}
+The quality of the empathic relationship, the welcome, the information given to the child and his family, the comfortable setting and the presence of the parents are essential.
+
+- The aim of the treatment is to achieve rapid and lasting pain relief.
+
+- Always combine validated non-pharmacological methods (with proven effectiveness): distraction, settling in, parents' presence, relaxation, hypnosis, information, dialogue.
+
+- Prescribe analgesics systematically, for the foreseeable duration of the pain, and not "if pain, or if need be".
+
+- Adapt to the intensity of the pain: for intense pain, level 2 or 3 morphine immediately (except for migraine attacks, certain neuropathic pain and psychogenic pain of the somatisation type).
+
+- Combine analgesics as soon as necessary: paracetamol and NSAIDs and morphine.
+
+- Oral or IV routes are preferable; suppositories are no longer recommended (random absorption, except for IV drugs administered as IR), and SC and IM injections should be avoided.
+
+- Include a prescription for recourse in the event of insufficient relief, e.g. :
+
+Paracetamol/6 h systematically; if EVENDOL > 5/15, add ...
+
+- Reassess after administration of an analgesic, taking into account the time taken for the analgesic to become effective, depending on the route of administration: intravenous: 5 min if bolus, 15 min if IVL; oral: 30 to 60 min ;
+
+- Specific treatments are indicated for neuropathic pain.
+
+- Beware of situations of unexplained chronic pain: avoid morphine, and plan for comprehensive treatment (often with the advice of a psychologist or child psychiatrist);
+
+- Never use a placebo (except in clinical trials); efficacy cannot be used to distinguish between "organic" and "functional" pain.
+
+* Specific recommendations can be found in the HAS 2016 recommendations and on the Pédiadol website.
+
+
+'''''Correspondence between analgesic and pain intensity for nociceptive pain (HAS 2016 recommendations)'''''
+{| class="wikitable"
+|'''Intensity'''
+
+'''of pain'''
+|'''EVA or EN (0 to 10)'''
+|'''Child's activities'''
+|'''Analgesic'''
+|-
+|mild
+<br />Slight
+|1 à 3
+|Normal or subnormal
+|Abstention or
+
+paracetamol
+|-
+|moderate
+|3 à 5
+<br />Serious
+|reduced
+<br />Paracetamol
+|Paracetamol
+
+if insufficient :
+
++ NSAIDs and/or level 2
+|-
+|Intense
+|5 à 7
+<br />Impoverished
+|very poor
+<br />
+|Paracetamol + level 2
+
++ if indicated NSAIDs
+
+provide if insufficient level 3
+|-
+|very intense
+|7 à 10
+|stopped
+|paracetamol + level 3
+
++ if NSAIDs indicated
+|}
+
+
+'''''Main analgesics in children'''''
+{| class="wikitable"
+| rowspan="8" |'''Antinociceptives''''
+| rowspan="3" |Non-morphinics
+| rowspan="2" |Tier 1
+<br />
+|Paracetamol
+|-
+|NSAIDs, mainly ibuprofen
+|-
+|antispasmodics
+|phloroglucinol
+|-
+|phloroglucinol |- rowspan="5" |Morphinics
+| rowspan="3" |Tier 2
+<br />
+|Codeine per os after age 12
+|-
+|Tramadol oral after 3 years
+|-
+|Nalbuphine IV after 18 months
+|-
+| tier 3: on senior advice
+|morphine
+|-
+|fentanyl patch
+|}
+<br />

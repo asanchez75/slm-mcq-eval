@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-083-05-A
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=A
+|Title=Knowing how to diagnose episcleritis and scleritis
+|Description=Semiology / etiologies
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Episcleritis:'''
+
+It is an inflammation localised to the episclera (located under the conjunctiva), with redness most often in sectors or more rarely diffuse, which disappears after instillation of a vasoconstrictor eye drop (phenylephrine hydrochloride or Neosynephrine®). Ocular pain is moderate.  Examination of the anterior segment is normal, but the lesion sometimes takes on a nodular relief appearance.  A systemic disease should be investigated from the outset, as is the case with scleritis, if the questioning is informative or in the event of a recurrence.  Isolated episcleritis is treated locally with non-steroidal anti-inflammatory drugs or corticosteroids.
+
+
+'''Sclerite:''''
+
+This is a localised inflammation of the sclera, causing severe eye pain. These pains often cause sleeplessness, waking the patient at the end of the night. In this case, a flat or nodular redness is observed, either localised in a sector or diffuse, which does not disappear when vasoconstrictive eye drops are instilled. The presence of scleral necrosis or ulcerating peripheral keratitis are markers of severity.
+
+In the case of scleritis, we need to look for an underlying systemic disease or infectious process:
+
+*joint signs: ankylosing spondylitis, rheumatoid arthritis, systemic lupus erythematosus;
+*vascular signs: periarteritis nodosa, granulomatosis with polyangiitis (formerly Wegener's disease), cryoglobulinemia, more rarely Behçet's disease;
+*Digestive signs: chronic inflammatory bowel disease (IBD);
+*Cutaneous signs: psoriasis, lupus;
+*bronchopulmonary signs: tuberculosis, atrophic polychondritis, more rarely sarcoidosis;
+*infectious context: herpes or shingles, borreliosis, local pyocyanic infection.
+
+
+In idiopathic cases or those of rheumatological origin, the first-line treatment consists of general non-steroidal anti-inflammatory drugs. In severe cases, or those associated with a progression of the general disease, corticosteroids, immunosuppressants or biotherapies are preferred.
+
+Finally, when an infectious cause is found, a suitable anti-microbial treatment is systematically prescribed.

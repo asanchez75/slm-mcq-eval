@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-020-08-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Title=Data collection
+|Description=Savoir définir la nature et les modalités de recueil des données, Sources de données issus des systèmes de surveillance épidémiologique (Principes des registres, déclarations obligatoires, réseaux sentinelles, statistiques vitales) : définir / reconnaître
+|Rubrique=Definition
+|Contributors=Julie Berbis (CUESP),Josiane Warszawski (CIMES),Alexandra Rouquette (CIMES),David Hajage (CIMES)
+|Order=8}}
+
+For all data collected, the nature, source and methods of measurement and collection must always be specified.
+
+Data can be collected from :
+
+* an ad hoc study''''' based on a sample of individuals who will be interviewed, who will undergo a clinical examination and/or para-clinical tests, whose medical records will be consulted, whose relatives will be interviewed, etc.
+
+* from '''continuous recording data sources''':
+** <u>Existing epidemiological surveillance systems, for example in France</u>:
+*** '''Morbidity registers''': databases permanently and exhaustively recording new cases of a given pathology within a given territory (often departmental). Example: general cancer register in Gironde.
+*** Compulsory declaration'': at national level, around thirty diseases (mainly infectious) must be declared to the regional health agencies (centralised by Santé Publique France) by the health professionals who diagnose them. Examples of notifiable diseases: tuberculosis, malaria, HIV.
+*** Sentinelles Network: primary care research and monitoring network (based on a network of volunteer doctors in general practice and paediatrics) in mainland France, providing continuous monitoring of 10 health indicators (under the supervision of INSERM and Sorbonne University, in collaboration with Santé Publique France). Examples of health indicators: influenza syndromes, chickenpox, whooping cough, acute diarrhoea, suicidal acts.
+*** Vital statistics'': at national level, information relating to the death of individuals is collected from death certificates (exhaustive and permanent collection). Medical data on causes of death are analysed by the Centre d'Epidémiologie sur les causes médicales de décès (CépiDC), with the production of annual statistics (in collaboration with INSEE, based on civil status records from town halls).
+** Medico-administrative databases, for example in France:
+*** '''Système National des Données de Santé (SNDS)''': grouping together in a system of continuously and exhaustively recorded data from the Assurance Maladie (SNIIRAM base with consumption of care, drugs, ALDs, etc.), hospitals (PMSI base with diagnoses and reasons for hospitalisation, procedures carried out in hospital, etc.), the CépicDC (medical causes of death), the Caisse Nationale de Solidarité pour l'Autonomie (CNSA, data relating to disability), etc.
+*** ''Entrepôts hospitaliers de données de santé (EDS)'': integrating the administrative and medical data (medical records, radiological and biological examinations, etc.) of patients who are hospitalised or come for consultation

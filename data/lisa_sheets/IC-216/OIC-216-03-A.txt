@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-216-03-A
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=A
+|Title=Know the interview and examination data leading to the diagnosis of haemorrhagic syndrome and its cause.
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Questioning is essential and should include: personal history of haemorrhage; date of onset of signs; type of bleeding (cutaneous, mucous, visceral, joint); whether spontaneous or provoked: bleeding after invasive procedures or surgery, with resumption and/or transfusion? in women, menorrhagia, etc.; history of anaemia and/or martial therapy; family history of haemorrhage; recent drug treatments, particularly those that interfere with haemostasis (antiplatelet and antithrombotic drugs).
+
+The clinical examination should look for bleeding in the skin (petechial purpura, ecchymosis), mucous membranes (mouth, pharynx), deep tissues (haematoma) or joints (haemarthrosis); signs of anaemia or martial deficiency; signs of underlying pathology: liver or kidney failure, infection, autoimmune disease (lupus in particular), malignant haemopathy, cancer.
+
+Questioning and clinical examination may point to a primary haemostasis and/or coagulation disorder (see table below) and a constitutional or acquired aetiology.
+{| class="wikitable"
+|Primary haemostasis disorder
+|Impairment of coagulation
+|-
+|Cutaneous and mucosal haemorrhages
+
+Petechial and/or ecchymotic purpura
+
+Spontaneous and/or induced bleeding
+|Haemarthrosis, deep haematomas
+
+Bleeding caused by minor trauma
+
+Delayed bleeding
+|}
+<br />

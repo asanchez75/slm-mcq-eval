@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-152-19-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing the main complications of IE: cardiac complications, embolic complications, infectious complications
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=19}}
+Hospital mortality associated with IE is 20-25%.
+
+The ''main causes of death'' are, in order of frequency:
+
+*Cardiac complications
+*Cerebral embolic locations
+
+<u>A number of complications can jeopardise the vital and/or functional prognosis during IE:</u>
+
+A- Cardiac complications
+
+*Adult heart failure|Acute heart failure (acute pulmonary oedema, cardiogenic shock)]] which may be the result of a severe valvular or paraprosthetic leak.
+*[[Atrial fibrillation|Disorder]] of the [[Intracardiac conduction disorders|conduction]] which may complicate an intracardiac abscess.
+*[[Acute coronary syndromes|Coronary embolism]]
+*Intracardiac fistula
+
+B- Cerebral embolic complications
+
+*Cerebral embolic complications (stroke or transient ischemic attack), the rupture of an infectious aneurysm responsible for intracranial haemorrhage, are causes of death in the short term during an IE, but can also lead to neurological sequelae in the longer term.
+
+C- Infectious complications
+
+*Sepsis and septic shock in children and adults|Sepsis and septic shock]] associated with significant morbidity and mortality.
+*Peripheral abscesses that may require surgical drainage.
+
+D- Other embolic complications
+
+*Splenic embolic localisations leading to splenic rupture
+*Osteoarticular infection: diagnostic arguments 2C-054-DP-A03|Spondylodiscitis]] which may be complicated by spinal cord compression
+*Acute limb ischaemia
+*Infectious aneurysm at risk of rupture
+*Deep vein thrombosis and pulmonary embolism (see item 330)|Pulmonary embolism]] in the context of an AR of the right heart
+
+Early diagnosis and management of IE can limit the occurrence of these complications.
+
+Fragile terrain and the presence of ''comorbidities'' (organ failure, diabetes, immune deficiency, etc.) are factors with a poor prognosis.

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-004-16-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the procedures for hand hygiene and the use of hydro-alcoholic solutions.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=16}}
+The basic measure for preventing HCAI is hydroalcoholic friction (gel or hydroalcoholic solution, SHA), which is the benchmark hand hygiene technique. It should always replace hand washing (unless contraindicated), which is less easy to perform and often less effective. The exceptions are scabies and "Clostridium difficile" infections, caused by microorganisms resistant to SHA: in these two situations, hand hygiene should combine hand washing with mild soap followed by SHA friction.
+
+
+Wearing gloves does not exempt you from regular hand hygiene.
+
+
+For hand hygiene to be carried out correctly, the carer must have uncluttered forearms (short sleeves), short fingernails with no varnish, false nails or resin, and no jewellery on the hands (even wedding rings) or wrists.
+
+
+
+Hand rubbing with hydro-alcoholic solution (SHA) is carried out according to the 7-step protocol (see below) for a minimum of 20 to 30 seconds before and after each treatment.<gallery perrow="1">
+File:5 indications.png
+</gallery><gallery perrow="1">
+File:Hands.png
+</gallery>Figures taken from the guide "Recommendations for hand hygiene", SF2H

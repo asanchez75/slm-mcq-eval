@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-091-07-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Know the main causes of recent central neurological deficits.
+|Description=Stroke, spinal cord compression, complicated head trauma, infectious causes (meningoencephalitis, brain abscess), partial malaise, encephalopathy.
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+The main causes of recent permanent central neurological deficits are listed in the following table:
+<br />
+{| class="wikitable"
+|Brain damage
+| Stroke: cerebral infarction, intraparenchymal haemorrhage, cerebral venous thrombosis, meningeal haemorrhage.
+
+            - Complicated head trauma: extradural haematoma, subdural haematoma, contusion
+
+            - Malignant brain tumour: glial tumour, metastasis, lymphoma, etc.
+
+            - Infectious: meningitis, meningoencephalitis, encephalitis, abscesses, empyema
+
+            - Spontaneous subdural haematoma
+
+            - Multiple sclerosis relapses and other causes of ''<nowiki/>''''inflammatory disorders of the central nervous system (Behçet's disease, sarcoidosis...)
+
+            - Partial state of malaise
+
+            - Carential: Gayet-Wernicke encephalopathy
+<br />
+|-
+|Spinal cord injury
+| Spinal cord compression: traumatic, neoplastic, spondylodiscitis/infectious epiduritis, herniated disc, epidural haematoma, etc.
+
+            - Medullary vascular accident: infarction (aortic dissection)...
+
+            - Inflammatory and infectious myelitis
+
+            - Deficiency myelopathy
+<br />
+|}

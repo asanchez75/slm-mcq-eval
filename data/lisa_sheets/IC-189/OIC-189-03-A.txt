@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-189-03-A
+|Item_parent=Immune deficiency
+|Item_parent_short=Immune deficiency
+|Rank=A
+|Title=Knowing when to evoke the diagnosis of immune deficiency in children and adults
+|Description=Clinical history Clinical and biological signs that should raise the diagnosis of primary immunodeficiency in children, in particular severe combined deficiency, congenital neutropenia, etc.
+|Rubric=Positive diagnosis
+|Contributors=Jean-Daniel Lelièvre
+|Order=3}}
+
+In children (most often hereditary deficiency)
+
+*> 6 to 8 ear infections per year in under-4s, > 2 to 4 per year in over-4s, persistent ear infections after age 5 or 2 sinus infections or 2 pneumonias per year.
+*A single episode of invasive bacterial infection
+*> 2 months' antibiotic treatment per year or IV antibiotic treatment
+*Persistent mucocutaneous fungal infections
+*Repeated or chronic viral infections
+*Chronic diarrhoea with weight loss
+*Impaired growth in height and weight
+*Episodes of unexplained fever
+*Autoimmune or granulomatous manifestations
+*Family history of IHD
+*Severe allergy
+
+In adults (most often acquired)
+
+*> 2 ear infections, sinus infections or pneumonia per year
+*Dilatation of the bronchi and/or repeated bronchitis without cause
+*> 2 months of antibiotic treatment per year
+*Persistent mucocutaneous fungal infections
+*Repeated or chronic viral infections
+*Chronic diarrhoea with weight loss
+*Episodes of unexplained fever
+*Autoimmune or granulomatous manifestations
+*A family history of IHD
+*Any invasive encapsulated bacterial infection

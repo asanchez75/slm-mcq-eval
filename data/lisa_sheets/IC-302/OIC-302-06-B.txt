@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-302-06-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Knowing the prognosis of basal and squamous cell carcinomas
+|Description=To list the risk factors for the poor prognosis of squamous cell carcinomas.
+|Section=Monitoring and/or prognosis
+|Contributors=
+|Order=6}}
+The prognosis for BCC is excellent as it is a tumour that only exceptionally metastasises.
+
+
+EC is a more aggressive tumour, with a risk of distant dissemination (by lymphatic and haematogenous routes).
+
+The poor prognostic factors of EC are :
+
+* The size of the lesion (>2cm)
+* Location on the temple, ear or lip
+* A low level of histological differentiation
+* Histological tumour thickness >3mm
+* Perinuclear invasion
+* Immunosuppression

@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-214-03-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Knowing the clinical manifestations associated with thrombocytopenia
+|Description=Asymptomatic or haemorrhagic manifestations (including signs of severity?)
+|Heading=Positive diagnosis
+|Contributors=
+|Order=3}}
+
+
+== '''Sometimes asymptomatic''' ==
+Thrombocytopenia discovered during a medical check-up or pre-operative biological assessment, for example, or in a patient being investigated for another health problem.
+
+== '''Mucocutaneous bleeding''' ==
+
+* Most often when the platelet count is < 20 G/L (sometimes when the count is higher, if the thrombocytopenia is of central origin).
+* Mucocutaneous bleeding ([[Bleeding tendency SD-059|bleeding tendency]]'')
+* Various sites and severity: from localised petechial purpura to severe haemorrhage which may be life-threatening.
+
+<br />
+
+=== Skin bleeding ('''[[Purpura/ecchymosis/hematoma SD-089|purpura/ecchymosis/hematoma]]'''): ===
+
+* purpura'', clinically defined by purple haemorrhagic spots which do not fade on pressure (unlike erythema, angioma or telangiectasia), and corresponding to the spontaneous extravasation of red blood cells from the blood vessels into the subcutaneous tissue (see item 215 - Purpura in adults and children). Purpura in severe thrombocytopenia may be petechial (punctiform macule, dark red) (''Figure 1'') and/or ecchymotic (''Figure 2''), localised or diffuse. Unlike so-called "vascular" purpura (lesions of the walls of cutaneous vessels) (see item 193 - Knowledge of the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods), purpura associated with thrombocytopenia is non-infiltrative on palpation and non-necrotic. Its association with mucosal bleeding (see below) is also a factor in favour of purpura associated with thrombocytopenia.
+* ecchymosis.
+
+<br />
+
+=== Mucosal bleeding ('''[[Mucosal abnormalities SD-091|mucosal abnormality]]''') ===
+
+* nasal mucosa: epistaxis SD-147|epistaxis]'', unilateral or bilateral
+* gingival mucosa: gingivorrhagia, provoked (tooth brushing) or spontaneous
+* oral mucosa: purpura of the soft palate or inner cheeks, intra-oral haemorrhagic bullae
+* digestive mucosa: ''[[Melena/rectorrhagia SD-010|melena/rectorrhagia]]''', more rarely haematemesis ''([[Blood emission through the mouth SD-014|blood emission through the mouth]])''' (especially if there is an associated underlying lesion)
+* genital mucosa: menorrhagia, metrorrhagia (''[[Abnormal genital bleeding (outside known pregnancy) SD-112|abnormal genital bleeding (outside known pregnancy]])'').
+* bladder mucosa: '''[[Haematuria SD-102|haematuria]]'''.
+
+<br />
+
+=== Visceral bleeding ===
+
+* cerebro-meningeal haemorrhage (''[[Headache SD-118|headache]]'').

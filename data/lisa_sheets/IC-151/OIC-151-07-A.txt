@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-151-07-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Know the main etiologies and bacterial and viral epidemiology of meningitis according to cytochemical analysis of cerebrospinal fluid (CSF) and the age of the patient.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Dr Olivier Robineau
+|Order=7}}
+
+{| class="wikitable"
+|Macroscopic result
+|Cloudy liquid
+|colspan="2" |Clear liquid
+|-
+|Formulae
+|Neutrophil predominance
+| colspan="2" |Lymphocytic or variegated predominance
+|-
+|Glycorachy/glycemia ratio
+|< 0,4
+|< 0,4
+|> 0,4
+|-
+|Proteinorachy
+|> 0.4 g/L
+|> 0.4 g/L
+|variable
+|-
+|Microorganisms
+|Streptococcus pneumoniae
+
+Neisseria meningitidis
+
+Listeria monocytogenes
+
+Hæmophilus influenzæ
+
+Escherichia coli and other enterobacteria
+|Mycobacterium tuberculosis
+Listeria monocytogenes
+
+Other bacteria in the early stages of infection
+
+Mumps
+|Viral etiologies Leptospirosis
+
+Lyme disease Brucellosis
+
+Syphilis
+
+'' ''
+|}

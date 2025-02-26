@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-290-02-B
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=B
+|Intitle=Knowing cancer registries
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Incidence data are extracted from the Francim network's common database of cancer registries. The latest data (2015) come from all the registries in metropolitan France, i.e. 14 general registries and 9 specialised registries. These data are coded according to the International Classification of Diseases in Oncology (ICD-O3).
+
+Cancer mortality data from 1975 to 2015 come from the Centre d'épidémiologie sur les causes médicales de décès (CépiDc) at the Institut national de la santé et de la recherche médicale (Inserm). These data are coded according to the International Classification of Diseases (ICD 8, 9 and 10).

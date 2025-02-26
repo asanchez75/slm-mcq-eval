@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-359-03-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Know the pathophysiological principles of hypoxaemia
+|Description=Ventilation/perfusion abnormalities, shunt effect, diffusion disorder, decrease in PAO2
+|Rubric=Physiopathology
+|Contributors=Guillaume Carteaux
+|Order=3}}
+
+1°) Alveolar hypoventilation :
+
+o Failure of central respiratory control
+
+o Abnormality of the "ventilatory pump" (e.g. muscles unable to maintain alveolar ventilation)
+
+o Increase in dead space (= ventilated areas that are not or are poorly perfused)
+
+>>> Correction of PaO<sub>2</sub> by oxygen therapy
+
+2°) Shunt (most frequent mechanism) = areas perfused but with little or no ventilation
+
+o Obstruction or dysfunction of the alveolus
+
+o Alteration of the alveolocapillary membrane
+
+o Cardiac communications
+
+>>> If "true shunt" (perfusion but total absence of ventilation, e.g. intracardiac shunt): no correction of PaO<sub>2</sub> by oxygen therapy.
+
+>>> If "shunt effect" (excess perfusion in relation to a relative perfusion defect): correction of PaO<sub>2</sub> by oxygen therapy.
+
+3°) "Low PvO<sub>2</sub>" effect: in the event of shock, the increase in tissue extraction of O<sub>2</sub> lowers venous O2 saturation (SvO<sub>2</sub>), leading to contamination of arterial blood by venous blood with low O2 in the event of a pre-existing shunt.
+
+>>> Improvement in PaO<sub>2</sub> with correction of shock
+
+
+/! In intensive care: often interrelated mechanisms

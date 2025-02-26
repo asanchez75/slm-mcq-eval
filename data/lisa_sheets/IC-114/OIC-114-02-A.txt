@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-114-02-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Know the definition of erythroderma
+|Description=erythema, more than 90% of body surface area, >6 weeks, pruritus, desquamation, AEG
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+        Erythroderma is defined by an erythema which is generally pruritic and often oedematous or even infiltrated.
+
+affecting at least 90% of the skin surface, associated with diffuse desquamation, either fine or in large flakes,
+
+has been in progress for at least 6 weeks and often causes thermoregulatory disorders (fever and/or diarrhoea).
+
+hypothermia). Polyadenopathy is often present. It must be distinguished from rashes
+
+erythematosquamous, made up of diffuse elements separated by intervals of healthy skin.

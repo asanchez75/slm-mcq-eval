@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-004-32-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the diagnostic criteria for a nosocomial urinary tract infection
+|Description=Definition, diagnostic methods
+|Rubric=Definition
+|Contributors=
+|Order=32}}
+According to CTINILS :
+
+The diagnosis of urinary tract infection is based on the combination of :
+
+- At least one of the following signs: fever > 38°C, urinary urgency, urinary frequency, urinary burning, suprapubic pain, in the absence of any other cause
+
+'''ET'''
+
+- With bladder catheterisation: positive ECBU > 10<sup>5</sup> microorganisms/ml and no more than 2 different microorganisms
+
+- In the absence of bladder catheterisation: leucocyturia > 10<sup>4</sup> leucocytes/ml and positive ECBU > 10<sup>3</sup> microorganisms/ml and at most 2 different microorganisms.
+
+
+Specific criteria exist in geriatrics.
+
+
+It should be noted that asymptomatic bacteriuria is not considered to be a nosocomial urinary tract infection.

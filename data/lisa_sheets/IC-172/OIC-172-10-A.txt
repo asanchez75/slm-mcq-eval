@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-172-10-A
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Know how to diagnose intestinal parasitosis (excluding amoebiasis)
+|Description=None
+|Rubric=Additional tests
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=10}}
+'''1. parasitological stool examinations''' repeated 3 times, 2-3 days apart, to ensure greater diagnostic sensitivity. In the case of helminthosis, the examination should be carried out 1 to 3 months after the suspected contamination, to allow the parasite to reach adult form and lay eggs.
+
+'''2.''' The search for ''main pathogenic protozoa'' can be carried out using '''multiplex PCR'''.
+
+'''3'''. A ''cryptosporidia test'' must be prescribed so that the necessary techniques can be used (specific staining or PCR).
+
+'''4. Anal test with adhesive cellophane'' (''anal scotch-test'') for the detection of ''d''''oxyures'' eggs (deposited on the edges of the anal margin by the female) and for ''T. saginata'' taeniasis (eggs expelled from the ring when the anal sphincter is actively crossed).
+
+* To be done in the morning before any anal cleansing and before having a bowel movement.
+* The adhesive cellophane applied to the anal margin is removed immediately and placed on a microscope slide for direct examination.
+
+
+5. Identification of adult worms externalised by the patient: roundworms, pinworms, tapeworm fragments or isolated proglottids (=rings) (see multimedia content). In France, only Taenia saginata is endemic and its rings are found in underwear.
+
+'''6'''. The ''search for anguillules must be prescribed by name'': it is carried out using specific techniques (Baermann or parasitic coproculture, or even PCR).

@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-130-05-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Know the definition of the geriatric cascade and the geriatric vicious circle.
+|Description=Serious imbalance in the function of vulnerable organs after a triggering factor, dysfunctions which may in turn maintain the previous ones.
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+'''The "geriatric cascade" is the succession of medical events secondary to a precipitating factor (organ decompensation follows in domino fashion).'''
+
+Example:
+
+A patient is admitted to hospital with a fracture of the upper end of the femur, requiring surgery. In connection with the operation, she developed anaemia due to surgical blood loss and perifracture haematoma. This anaemia was poorly tolerated from a cardiac point of view, and the patient developed pulmonary oedema. As a result of the hypoxia and respiratory distress associated with her PAO, the patient developed a confusional syndrome. As part of her confusional syndrome, the patient became agitated, and the team caring for her prescribed neuroleptics to control the behavioural signs. As a result of the neuroleptics, the patient became drowsy, tried to get up and fell. She also displaced her surgical equipment, requiring further surgery. She also suffered from false indigestion as a result of her hypovigilance, and developed inhalation pneumonia. All of these factors delayed the patient's return to weight-bearing, and she developed a heel pressure sore and functional decline, requiring prolonged rehabilitation and risking the need for institutionalisation.
+
+
+It often concerns the following functions:
+
+- (confusion, depression, psychomotor maladjustment),
+
+- heart failure,
+
+- renal failure,
+
+- nutrition (dehydration, malnutrition).
+
+
+'''You have to ANTICIPATE +++'''
+
+Confused patient --> hydration (encouragement to drink or infusion) because the patient may not drink spontaneously
+
+In-patient --> early mobilisation (early mobilisation prevents functional decline and confusion)
+
+Fracture of the pelvis --> prevent constipation and urinary incontinence (encouraged by reduced mobilisation and stage 2 or 3 analgesic treatments)
+
+
+This geriatric cascade can become a vicious circle.
+
+Ex :
+
+Confusion --> agitation --> prescription of psychotropic drugs --> confusion
+
+Denutrition --> infection --> hypercatabolism --> denutriton
+
+Fall --> post-fall syndrome --> fall

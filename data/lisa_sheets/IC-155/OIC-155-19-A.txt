@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-155-19-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Know the principle of treatment of bacterial dermohypodermatitis and the notion of medical and surgical emergency in necrotising forms; Non-necrotising bacterial dermohypodermatitis: know the treatment (antibiotic therapy recommended and if penicillin allergy, additional measures (adult and child).
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=19}}
+'''Non-necrotising bacterial dermohypodermatitis'''
+
+'''Outpatient treatment, except''''
+
+- presence of local or general signs of seriousness,
+
+- existence of an associated disease at risk of decompensation: immunosuppression, diabetes, heart failure, renal failure, obesity.
+
+- extreme ages (newborn or very old)
+
+- failure to respond satisfactorily to treatment within 72 hours of initiation
+
+- and also for the child: difficulties in understanding or communicating with family and friends, suggesting difficulties in monitoring at home
+
+
+'''In adults,'''
+
+- oral antibiotic therapy for 7 days against Streptococcus pyogene
+
+amoxicillin: 50 mg/kg/day in 3 doses with a maximum of 6 g/day; if allergic to penicillin: pristinamycin (1 g x 3/day) or clindamycin (600 mg x 3/day, and up to 600 mg x 4/day if weight > 100 kg).
+
+In children,
+
+- oral antibiotic therapy for 7 days against Staphylococcus aureus and Streptococcus pyogenes
+
+amoxicillin-clavulanic acid: 80 mg/kg/day of amoxicillin taken 3 times a day (but not more than 3g/day); if allergic to ß-lactams: clindamycin: 40 mg/kg/day in 3 doses per day (children > 6 years); or ''sulfamethoxazole-trimethoprim'': 30 mg/kg/day (expressed as sulfamethoxazole) in 3 doses per day (drinkable suspension form for children < 6 years).
+
+
+'''Associated measures'''
+
+No local antibiotic therapy
+
+Do not prescribe non-steroidal anti-inflammatory drugs (NSAIDs)
+
+Rest with elevation of the affected limb
+
+Prophylactic anticoagulation to be discussed according to the patient's thrombo-embolic risk factors
+
+Wearing an effective venous support as soon as pain improves
+
+Treatment of the gateway (intertrigo)
+
+Update of tetanus vaccination if necessary
+
+'''Necrotizing bacterial dermohypodermatitis'''
+
+This is a life-threatening emergency requiring rapid medical and surgical management in an intensive care unit, with broad-spectrum antibiotic therapy and early surgical debridement.

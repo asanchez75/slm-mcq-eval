@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-340-16-A
+|Item_parent=Strokes
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the principles of management in the acute phase of ischaemic stroke
+|Description=Thrombolysis, thrombectomy
+|Topic=Management
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=16}}
+
+
+As soon as the cerebral and arterial imaging has been carried out, the possibility of thrombolysis and/or thrombectomy must be raised ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]; [[Discovery of a brain abnormality during medical imaging SD-226|discovery of a brain abnormality during medical imaging]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidence/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidence/injection)]]). 
+
+The aim is to rapidly recanalise the occluded artery. Ischaemic stroke warrants urgent admission to a neurovascular unit.
+
+Thrombolysis with rt-PA (recombinant tissue plasminogen activator; alteplase) is beneficial when administered IV within 4? hours of the onset of the first signs of cerebral infarction. Major contraindications must be systematically sought (severity of stroke, size of cerebral infarction on imaging, previous history, blood pressure control, etc.).
+
+In the case of indeterminate timing, the existence of a FLAIR-diffusion mismatch on MRI can be used to decide whether to administer rt-PA.
+
+Endovascular mechanical thrombectomy involves removing intra-arterial thrombus in patients with proximal occlusion of an intracranial artery. It is performed as a complement to intravenous thrombolysis, or alone if thrombolysis is contraindicated. According to the recommendations of the French National Authority for Health (HAS), mechanical thrombectomy is offered up to the 6th hour following the onset of symptoms.
+
+In the presence of an ischaemic penumbra (''mismatc''h), the time required to perform intravenous thrombolysis and thrombectomy alone may be extended.
+
+'''Antithrombotic treatments:'''
+
+Prescribed on arrival or, in the case of thrombolysis, after the follow-up imaging performed within 24 hours ([[Prescription and follow-up of treatment with anticoagulant and/or anti-aggregant SD-248|prescription and follow-up of treatment with anticoagulant and/or anti-aggregant]]).
+
+'''Neurosurgical treatment:''''
+
+A "decompressive hemicraniectomy" in the case of extensive "malignant" cerebral infarction (reserved for patients under 60 years of age with NIHSS > 16 and impaired vigilance) may be proposed as part of a collegial discussion on a case-by-case basis.
+
+A ''decompressive craniectomy of the posterior cerebral fossa'' associated with the insertion of an ''external ventricular shunt'' may be proposed in cases of cerebellar stroke with compression of the brainstem/V4 and obstructive hydrocephalus. Here again, treatment should be discussed on a case-by-case basis.
+
+
+'''Associated general measures''' :
+
+- Clinical and repeated monitoring (NIHSS score, Glasgow score, pupil examination, swallowing disorders),
+
+- '''Controls of''' '''ACSOS'''' - Factors of secondary cerebral aggression of systemic origin: arterial hypo/hypertension, hypoxaemia, hyperthermia, hyperglycaemia ([[Hyperglycaemia SD-208|Hyperglycaemia]]; [[Arterial hypertension SD-042|Arterial hypertension]]; [[Discovery of arterial hypotension SD-043|Discovery of arterial hypotension]]).

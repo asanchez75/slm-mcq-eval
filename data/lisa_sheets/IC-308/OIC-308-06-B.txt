@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-308-06-B
+|Item_parent=Pancreatic tumours
+|Item_parent_short=Pancreatic tumours
+|Rank=B
+|Intitle=Knowing the descriptive epidemiology of a cystic tumour of the pancreas
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+The detection of cystic lesions of the pancreas, most often by chance, has increased since the widespread use of imaging (abdominal CT scan, abdominal MRI, pancreatic endoscopy). Pancreatic MRI and/or pancreatic echo-endoscopy are used to diagnose these lesions.
+
+- Pseudocysts are the most common lesion, usually complicating acute or chronic pancreatitis. It is benign and the diagnosis is made on the basis of the history.
+
+- Intraductal papillary and mucinous tumours of the pancreas (IPMPT) involve the main and secondary ducts of the pancreas. They may be revealed by acute pancreatitis, jaundice or diabetic imbalance, but are most often discovered incidentally on imaging. They are easily diagnosed using echo-endoscopy and/or pancreatic MRI. TIPMPs of the main duct have a very high risk of degeneration.
+
+- There are other, rarer forms.

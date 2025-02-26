@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-041-06-B
+|Item_parent=Endometriosis
+|Item_parent_short=Endometriosis
+|Rank=B
+|Title=Know the indications and purpose of imaging endometriosis
+|Description=To determine the exact locations and extent of endometriosis
+|Rubric=Additional examinations
+|Contributors=Lorraine MAITROT-MANTELET,Stéphanie HUBERLANT,Geneviève PLU-BUREAU
+|Order=6}}
+
+
+===First-line paraclinical examinations for the diagnosis of endometriosis===
+- Endo-vaginal pelvic ultrasound
+
+- Pelvic MRI
+
+These examinations, which must be carried out by ultrasound examiners and/or referring radiologists
+
+They should be carried out on all patients presenting with pelvic pain
+
+====Proceedings====
+
+*the size of the lesions
+*the anatomical location of the endometriosis visible on imaging.
+*Ureteral locations, which are uncommon but may have renal repercussions, are often discovered during imaging (dilated ureter/pyelocaval cavities).
+
+===Ovarian involvement===
+With regard to ovarian involvement, the data in the literature show that endo-vaginal pelvic ultrasound and pelvic MRI have similar performances for the diagnosis of endometrioma.
+
+In the event of a positive diagnosis of endometrioma, a systematic search must be made for associated deep endometriosis.
+
+=== Subperitoneal involvement ===
+Pelvic MRI is more sensitive but less specific than endovaginal ultrasound for diagnosing utero-sacral ligaments, the vagina and the recto-vaginal septum.
+
+Pelvic ultrasound and MRI are complementary for analysing damage to the anterior wall of the recto-sigmoid and bladder.

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-160-02-A
+|Item_parent=Tetanus
+|Item_parent_short=Tetanus
+|Rank=A
+|Title=Knowing how tetanus is transmitted
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+C. tetani is naturally present in our environment (around 30% of soils contain it).
+
+*Contamination via a wound (gardening, object soiled with soil), possibly pre-existing (ulcer of the lower limbs, etc.).
+*multiplication of the bacteria at the site of inoculation, production of the toxin
+
+The risk groups are :
+
+* people who have not been vaccinated against tetanus, or who have been poorly vaccinated
+* in Western countries: mainly elderly people, predominantly women (no military service, less frequent occupational health check-ups)
+* In developing countries, it is maternal and neonatal tetanus that is most common (80% of forms of tetanus): poor hygiene conditions during childbirth / care of the cord

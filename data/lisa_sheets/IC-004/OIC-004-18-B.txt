@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-004-18-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Principle of evaluation
+|Description=Knowing the five national agencies involved in health surveillance and alert: ANSM, ASN, ANSP, ANSES, ABM.
+|Rubric=Management
+|Contributors=
+|Order=18}}
+Five national agencies are involved in health assessment, surveillance and alert:
+
+
+''' L'Agence nationale de sécurité du médicament''' '''et des produits de santé''' (ANSM) <nowiki>https://ansm.sante.fr/</nowiki> :
+
+- Enables ''access for all'' to healthcare products, including early access for innovative products [[Evaluation principle 2C-004-PC-B01#%20msocom%201|[FR1]]]
+
+- And ensures their ''safety'' (benefit/risk balance) by supervising ''clinical trials'' and the ''marketing'' of health products.
+
+
+'''L'Autorité de sûreté nucléaire''' (ASN) <nowiki>https://www.asn.fr/</nowiki> :
+
+- ''" Ensures, on behalf of the State, the control of nuclear safety and radiation protection, to protect people and the environment"''.
+
+- '''Informs''' the public (annual reports on nuclear safety and radiation protection), including in emergency situations
+
+- '''Regulates''', in conjunction with the ministry or ministries responsible, for nuclear facilities, the transport of radioactive materials and medical activities (application for authorisation and declaration of use)
+
+- Control (radiation protection and nuclear safety)
+
+- '''Manages radiological emergency situations'''
+
+
+The former National Public Health Agency (ANSP), now called '''Santé publique France''' <nowiki>https://www.santepubliquefrance.fr/</nowiki> :
+
+- ''" Improving and protecting people's health"''
+
+- '''Monitors''' the state of health of populations
+
+- '''Anticipates health risks'' (national monitoring and surveillance system)
+
+- Can issue health alerts
+
+- Promotes ''risk reduction'' for health
+
+- Develop prevention and health education
+
+- '''Prepares the response'' to health threats, alerts and crises.
+
+
+'''L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail''' (ANSES) <nowiki>https://www.anses.fr/fr</nowiki>:
+
+- "Carries out monitoring, expert appraisal, research and reference missions in a broad field covering human, (...) animal and plant health".
+
+- Offers a "transversal reading" of health issues
+
+- Monitoring and surveillance (''assessment of chemical, biological and physical risks''), whether in the workplace, during transport, leisure activities or through ''food''.
+
+- Evaluates the efficacy and risks of veterinary medicinal products, plant protection products, fertilisers, growing media and their adjuvants, and biocides, in order to issue marketing authorisations. It also assesses chemical products.
+
+
+''' L'Agence de la biomédecine''' (ABM) <nowiki>https://www.agence-biomedecine.fr/</nowiki> :
+
+- "Supervises, supports, evaluates and informs to improve access to care and quality of life for patients in (six) areas":
+
+- '''Organ and tissue removal and transplants'''
+
+- Bone marrow harvesting and transplants
+
+- '''Assistance médicale à la procréation'''
+
+- Embryo research and human embryonic stem cells
+
+- '''Prenatal and pre-implantation diagnostics'''
+
+- '''Medical genetics'''.
+----[[Assessment principle 2C-004-PC-B01#%20msoanchor%201|[FR1]]]Early access to innovative therapies now goes through the HAS after the ANSM has examined the benefit-risk balance.

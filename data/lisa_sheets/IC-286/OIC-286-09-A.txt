@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-286-09-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Intitle=Knowing the major complication: global dehydration (and its consequences)
+|Description=None
+|Rubric=Follow-up and/or prognosis
+|Contributors=
+|Order=9}}
+
+'''In the presence of any acute diarrhoea, whatever the cause, we must systematically look for signs of dehydration +++'''.
+
+Table: Signs of intra- and extra-cellular dehydration
+
+{| class="wikitable"
+|Intracellular dehydration
+|Extracellular dehydration
+|-
+|Thirst
+|Tachycardia, hypotension, oliguria (signs of seriousness)
+|-
+|Dry mucous membranes
+|Persistent skin folds
+|-
+|Fever, confusion
+|Dark circles, sunken eyes
+<br />
+|}
+
+
+
+'''Adult'''
+
+Dependent elderly people and infants are at high risk of dehydration, especially if they are vomiting or cannot drink enough. The signs of intra- and extracellular dehydration are shown in the table. However, the value of these signs is not conclusive. Weight loss is an excellent marker of severe dehydration in both adults and children.
+
+
+'''Child'''
+
+In children, weight must be measured and compared with the last known weight:
+
+- weight loss <5% = mild dehydration,
+ 
+- weight loss 5-10% = moderate dehydration,
+
+- weight loss >10% = severe dehydration

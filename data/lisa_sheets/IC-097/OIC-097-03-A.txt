@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-097-03-A
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=A
+|Title=Knowing how to diagnose Guillain-Barré syndrome
+|Description=The diagnosis of Guillain-Barré syndrome should be made in the presence of symmetrical, extensive and severe paresis, initially predominantly proximal.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Clinical'''
+
+Guillain-Barré syndrome and acute axonal motor neuropathy evolve in three phases: extension, plateau and recovery.
+
+By definition, the extension phase lasts less than 4 weeks. It often lasts just a few days.
+
+The clinical manifestations are :
+
+During demyelinating Guillain-Barré syndrome '''([[Vertigo and dizziness SD-064|vertigo and dizziness]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]], [[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]], [[Muscular weakness SD-074|muscular weakness]], [[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Facial paralysis SD-127|facial paralysis]], [[Balance disorders SD-130|balance disorders]])'''
+
+- frequent subjective sensations (paresthesias, distal tingling in all four limbs), with an ascending course; and objective sensations (ataxia)
+
+- pain (radiculalgia of the lower limbs).
+
+- The motor impairment is a relatively symmetrical, extensive and severe paresis, which predominates proximally and then affects the extremities.
+
+- paresis beginning in the lower limbs, rarely affecting the cranial (facial) nerves in the initial phase; involvement of the neck and trunk occurs later;
+
+During acute axonal motor neuropathy:
+
+- Pure motor impairment also affects all four limbs.
+
+The diagnosis of acute polyradiculoneuritis is confirmed by neurophysiological examination.
+
+Neurophysiological exploration
+
+During demyelinating Guillain-Barré syndrome
+
+- Abnormalities are usually delayed in relation to the clinical course.
+
+- Initially, lengthening of F-wave latency and distal latencies
+
+- In the state phase, demyelinating abnormalities
+
+During acute axonal motor neuropathy:
+
+- There are no sensory abnormalities.
+
+- Motor potential amplitudes are reduced in all four limbs.
+
+- Detection shows neurogenic tracings.
+
+- There are no demyelinating abnormalities.
+
+'''Cerebrospinal fluid'''
+
+- Examination of the cerebrospinal fluid is not essential for diagnosis, but is useful for differential diagnosis. '''([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]])''''
+
+- See heading below: "How to interpret a lumbar puncture suggestive of Guillain-Barré syndrome".

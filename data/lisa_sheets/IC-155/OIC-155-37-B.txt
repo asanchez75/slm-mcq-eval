@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-155-37-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the physiopathological mechanisms of facial cellulitis
+|Description=Dissemination mechanism and bleeding (serous, collected, disseminated, chronic, etc).
+|Rubric=Physiopathology
+|Contributors=
+|Order=37}}
+'''Facial cellulitis''' : serious infection that can be life-threatening.
+
+Infection of the deep fascial spaces of the face and neck: the absence of an anatomical barrier allows infection to spread rapidly, from the base of the skull to the diaphragm.

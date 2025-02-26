@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-324-03-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Know how to evaluate the impact of therapeutic education on the success of treatment.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=3}}
+
+
+== Evaluation of the impact of therapeutic education
+
+* behavioural: acquisition of self-care and safety skills
+* cognitive: improving erroneous beliefs, prejudices and knowledge
+* on a medical level: improvement in disease-related parameters (HbA1c in diabetes, for example, or attacks of chronic obstructive pulmonary disease).

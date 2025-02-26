@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-214-06-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Photograph of an intraoral bulla
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+
+[[File:Bubble.jpg|vignette|Intraoral bubble in a patient with thrombocytopenia]]

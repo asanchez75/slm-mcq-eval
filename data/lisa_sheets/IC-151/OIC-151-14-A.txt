@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-151-14-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing the therapeutic management of purpura fulminans
+|Description=None
+|Rubric=Management
+|Contributors=Dr Olivier Robineau
+|Order=14}}
+This is an absolute emergency.
+
+Immediate antibiotic treatment on site as soon as it is recognised.
+
+Immediate IV or IM injection of a third-generation cephalosporin: Ceftriaxone or, failing that, Cefotaxime (1g in adults, 50mg/kg in infants and children).
+
+Systematic call of 15 if pre-hospital care for medical transport
+
+Management of shock
+
+Additional droplet-type respiratory precautions
+
+LP not necessary and contraindicated in an emergency

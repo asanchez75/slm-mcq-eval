@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-329-10-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Intitle=Knowing the transfusion and post-transfusion stages
+|Description=Principles, implementation and monitoring, medical responsibility and haemovigilance
+|Section=Management
+|Contributors=
+|Order=10}}
+The setting up and immediate monitoring of the transfusion are critical steps in transfusion safety. There are 9 stages in the transfusion procedure, summarised below:
+<br />
+[File:RGC reception control.png|thumbnail]]
+
+
+After the transfusion itself, in addition to ensuring its "traceability" (transfusion record and return of traceability to the issuing site), it will be necessary to evaluate its "effectiveness", which may be based on the disappearance of the symptomatology of the anaemia and the achievement of an expected Hb level within 15 minutes (1 RGC in 1 patient weighing 70-80 kg should increase the Hb level by approximately 1 g/dl). It should be remembered that lack of transfusion yield may not be accompanied by any immediate clinical signs and may be the result of a large number of parameters, inherent in the product and/or inherent in the patient. If, despite a further transfusion, the inefficiency persists or shows little improvement, a transfusion event should be investigated. This is essentially an immunological conflict due to incompatibility, the only manifestation of which may be transfusion inefficiency.
+
+
+On discharge, the patient is given a ''letter of information'' about the transfusion, together with a ''prescription'' for an ''IAT to be carried out between 1 and 3 months'' after the transfusion episode. The detection of alloimmunisation is a major element in the follow-up of transfused patients, making it possible to take into account this antibody, which may no longer be detected by the IAT because it is often evanescent, for the next transfusion, and thus prevent rapid restimulation, potentially responsible for delayed haemolytic events.
+<br />

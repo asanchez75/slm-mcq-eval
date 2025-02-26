@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-117-01-B
+|Item_parent=Psoriasis
+|Item_parent_short=Psoriasis
+|Rank=B
+|Title=Knowing the frequency of psoriasis in the French population
+|Description=2% of the French population
+|Rubric=Epidemiology
+|Contributors=
+|Order=1}}
+A common chronic inflammatory skin disease affecting around 2 to 4% of the French adult population. Two onset peaks: around the age of 20 and around the age of 60. Sometimes starts in childhood.  

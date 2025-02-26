@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-063-04-B
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=B
+|Title=Know the definition of schizoaffective disorder
+|Description=Know how to define schizoaffective disorder and distinguish it from schizophrenia and mood disorders.
+|Rubric=Definition
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=4}}
+
+'''Schizoaffective disorder:''' Thymic episodes present for a substantial part of the total duration of the active and residual periods of the illness. Psychotic symptoms present outside thymic episodes.

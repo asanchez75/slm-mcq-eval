@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-104-03-A
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=A
+|Intitle=Cite the main symptoms of MS
+|Description=Sensory, visual, more rarely motor
+|Heading=Positive diagnosis
+|Contributors=
+|Order=3}}
+In 85% of cases, symptoms develop subacutely and depend on the location of the inflammatory lesion within the central nervous system. Occasionally, the disease may be multifocal, with several lesions appearing simultaneously.
+
+- Retrobulbar optic neuritis (see next question) ([[Vision abnormality SD-138|vision abnormality]])
+
+- Myelitis : sensory, motor and/or vesicosphincter disorders of spinal cord topography (bilateral involvement, brown-Sequard syndrome); Lhermitte sign ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]], [[Limping SD-068|limping]], [[Intermittent claudication of a limb SD-069|intermittent claudication]], [[Muscle weakness SD-074|muscle weakness]], [Balance disorders SD-130|balance disorders]], [[Limb pain (upper or lower) SD-071|limb pain]], [[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]], [[Micturition abnormality SD-023|micturition abnormality]], [[Acute retention of urine SD-097|acute retention of urine]], [[Urinary incontinence SD-103|urinary incontinence]])
+
+- Brainstem involvement: vertigo, diplopia (oculomotor paralysis or internuclear ophthalmoplegia), facial paralysis, facial neuralgia ([[Vertigo and dizziness SD-064|vertigo and dizziness]], [[Diplopia SD-143|diplopia]], [[Facial paralysis SD-127|facial paralysis]], pain).
+
+- Impairment of the cerebellum: ataxia, coordination disorders, dysarthria, dysphagia, nystagmus ([[Balance disorders SD-130|balance disorders]], [[Tremor SD-128|tremor]], [[Swallowing disorders or false swallowing SD-062|swallowing disorders and false swallowing]]).
+
+- Brain damage : unilateral sensory or motor signs ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]], [[Lameness SD-068|lameness]], [[Intermittent claudication of a limb SD-069|intermittent claudication]], [Muscular weakness SD-074|muscular weakness]], [[Balance disorders SD-130|balance disorders]], [[Pain in a limb (upper or lower) SD-071|pain in a limb]], [[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]])
+
+In 15% of cases, symptoms develop gradually, over 6 to 12 months.
+
+- Walking disorders most often associated with paraparesis or ataxia ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Appearance of difficulty in walking SD-066|appearance of difficulty in walking]], [[Limping SD-068|limping]], [[Intermittent limb claudication SD-069|intermittent claudication]], [[Muscle weakness SD-074|muscle weakness]], [[Balance disorders SD-130|balance disorders]], [[Pain in a limb (upper or lower) SD-071|pain in a limb]], [[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]])
+
+- All the other symptoms of the disease described above are possible.

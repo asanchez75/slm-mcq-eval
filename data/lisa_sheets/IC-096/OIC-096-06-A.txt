@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-096-06-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=Knowing the etiologies of the main length-dependent axonal polyneuropathies
+|Description=Diabetic, toxic (drug-induced) and alcoholic polyneuropathies
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+'''Axonal polyneuropathies''':
+
+- Their aetiology is metabolic (diabetes, glucose intolerance, renal failure...); '''([[Hyperglycaemia SD-208|hyperglycaemia]]) ([[Increased creatinine SD-199|increased creatinine]])'''''
+
+- Amyloidosis should be suspected in the presence of dysautonomic symptoms;
+
+- The toxic causes are either exogenous (alcohol) '''([[Prevention of alcohol-related risks SD-313|prevention of alcohol-related risks]])''' or medicinal '''([[Suspicion of an adverse drug reaction or an adverse drug reaction SD-348|suspicion of an adverse drug reaction or an adverse drug reaction]])'''' chemotherapy and antiretroviral drugs); cytostatics (in particular vincristine and platinum : neuronopathies); thalidomide, izoniazid, amiodarone, antiretrovirals, disulfiram, chloroquine, metronidazole, etc.).

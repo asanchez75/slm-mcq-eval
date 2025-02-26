@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-334-39-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Identify a diaphyseal fracture of the long bones
+|Description=Examples of simple diaphyseal fractures of the long bones on X-rays
+|Rubric=Multimedia content
+|Contributors=CFCOT
+|Order=39}}
+
+[[File:Fracture of the right femur in front and in profile.jpg|vignette|Fracture of the right femur in front (left image) and in profile (right image)]]
+("''[[Discovery of a bone and joint abnormality on medical imaging examination SD-228|discovery of a bone and joint abnormality on medical imaging examination]]'''")<br />
+[[File:Periprosthetic hip fracture.jpg|left|vignette|Oblique diaphyseal fracture of the right femur under a hip prosthesis]]
+[[File:Leg diaphyseal fracture.jpg|vignette|427x427px|Right leg spiral diaphyseal fracture with posterior translation, well centred]]
+[[File:Fracture humérus gauche de face et de profil.jpg|vignette|Fracture humérus gauche de face (image de gauche) et de profil (image de droite)]]

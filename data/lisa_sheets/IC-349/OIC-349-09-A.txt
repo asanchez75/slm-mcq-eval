@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-349-09-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Knowing how to recognise an abscess or panaris
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Pierre-Marie Roy
+|Order=9}}
+'''The diagnosis is clinical.'''
+
+'''Abscess:'''
+
+The occurrence of a subcutaneous abscess is the consequence of an extension of a neighbouring infection with compartmentalisation. The clinical picture corresponds to that of a cellulitis with a fluctuating area at its centre: a purulent collection.
+
+In the case of hand abscesses, infections of the deep spaces may occur:
+
+* on the dorsal surface, subaponeurotic
+* in the thenar and hypothenar eminences
+* in the medio-palmar and interdigital areas
+
+'''Panaris:'''
+
+The affected area must be identified: finger or hand, palmar or dorsal surface, phalanx, nail, pulp or joint.
+
+Lymphangitis, lymphadenopathy and signs of fever should be sought.
+
+In the case of panariasis, periungual and pulpal forms are the most common.
+
+
+There is no need to request additional biological or imaging tests to confirm the diagnosis.
+
+Front and side X-rays should be ordered to document the site of entry (search for a foreign body) and rule out a bone complication (osteitis), particularly if the disease is progressing slowly and the patient is at risk.

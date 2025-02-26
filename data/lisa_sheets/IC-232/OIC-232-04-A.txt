@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-232-04-A
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=A
+|Title=Know the common symptoms
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Jean-Baptiste GUICHARD
+|Order=4}}
+Patients with AF may be ''asymptomatic'', which explains the importance of screening patients at risk.
+
+The classic symptoms that can be associated with AF are :
+
+* Palpitations
+* Dyspnoea
+* ''''asthenia
+
+Some less frequent symptoms are present in AF:
+
+* Chest pain
+* Fatigability: poor exercise tolerance
+* Malaise and syncope
+
+AF may be discovered when one of its complications occurs (stroke, heart failure).

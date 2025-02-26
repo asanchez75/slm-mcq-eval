@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-250-06-A
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=A
+|Title=Knowing the diagnostic criteria for undernutrition in adults (under 70)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+The diagnosis of undernutrition has been the subject of Haute Autorité de Santé (HAS) recommendations for adults and children published in 2019 (HAS link).
+
+
+The diagnosis must combine at least one clinical sign (phenotypic criterion) and at least one cause (aetiological criterion).
+
+
+''Phenotypic criteria for adults under 70'' (one criterion is sufficient)
+
+- Weight loss ≥ 5% in 1 month
+
+- Weight loss ≥ 10% in 6 months
+
+- Weight loss ≥ 10% of the usual weight before the onset of the disease
+
+- BMI < 18.5
+
+- Quantified reduction in muscle mass and/or muscle function (HAS link)
+
+
+Aetiological criteria'' (one criterion is sufficient) :
+
+- Reduction in food intake ≥ 50% for more than 1 week, or any reduction in intake for more than 2 weeks in relation to quantified usual food consumption or estimated protein-energy requirements
+
+- Reduced absorption (maldigestion/malabsorption).
+
+- Situation of aggression (protein hypercatabolism with or without inflammatory syndrome): acute pathology or evolving chronic pathology or evolving malignant pathology.
+
+
+'''Once the diagnosis of undernutrition has been made, its severity must be established:'''
+
+{| class="wikitable"
+|Moderate undernutrition
+
+(1 criterion is sufficient)
+|Severe undernutrition
+
+(1 criterion is sufficient)
+|-
+|- Weight loss ≥ 5% in 1 month
+
+- Weight loss ≥ 10% in 6 months
+
+- Weight loss ≥ 10% of the usual weight before the onset of the disease
+
+- 17 < CGI < 18.5
+
+Albumin levels >30 g/L and < 35 g/L
+|- Weight loss > 10% in 1 month
+
+- Weight loss > 15% in 6 months
+
+- Weight loss ≥ 15% of the usual weight before the onset of the disease
+
+- BMI ≤ 17
+
+- Albumin < 30 g/L
+|}

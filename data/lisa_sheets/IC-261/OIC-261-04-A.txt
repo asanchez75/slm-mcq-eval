@@ -1,0 +1,101 @@
+{{knowledge objective
+|Identifiant=OIC-261-04-A
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=A
+|Title=Know the main etiologies of glomerular diseases
+|Description=Know the main general diseases responsible for GN (diabetes, Lupus, infections, vasculitis, amyloidosis...) and the main causes of GEM, NIgA (rheumatoid purpura) and GNRP (vasculitis, infections, Goodpasture's disease).
+|Rubric=Etiologies
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=4}}
+
+'''D.     Know the main causes of glomerular diseases''''
+
+They are routinely sought in the presence of any sign of glomerular damage. Questioning, clinical examination (Table 2) and laboratory tests can help guide the diagnosis. The diagnosis is confirmed by histological examination of the renal parenchyma.
+
+Table 2: Main pathological entities that may be complicated by glomerular nephropathy
+{| class="wikitable"
+| colspan="2" |Disease entities
+|Clinical damage, biological abnormalities
+|Renal impairment
+|-
+| rowspan="2" |Bacterial infections
+|Acute
+|Angina, skin infection, endocarditis, arthritis
+|- Acute post-infectious GN
+
+- Episodes of IgA Nephropathy
+|-
+|Chronic
+|Osler's endocarditis, osteomyelitis, tuberculosis
+|- GN with proliferation
+
+- AA amyloidosis
+|-
+| rowspan="3" |Viral infections
+|HIV
+|AIDS, TCD4+ lymphopenia, positive HIV PCR
+|- HIVAN
+|-
+|Hepatitis B
+|Viral replication: HBV PCR positive in blood
+|- GEM
+|-
+|Hepatitis C
+|- HCV PCR positive
+
+- Vasculitis of small-calibre arteries (vascular purpura, livedo, etc.)
+|- Cryoglobulinemia kidney
+
+- GEM
+|-
+|Metabolic diseases
+|Diabetes
+|- Diabetic neuropathy
+
+- Diabetic retinopathy
+|- Diabetic nephropathy
+|-
+| rowspan="3" |Systemic diseases
+|Vasculitis
+|- Impaired general condition, myalgias, arthralgias, vascular purpura, livedo, alveolar haemorrhage (dyspnoea, haemoptysis), digestive haemorrhage, epistaxis, crusty rhinitis, sinusitis, neurological signs, uveitis, episcleritis.
+
+- ANCA (microscopic polyangiitis and granulomatosis with polyangiitis),
+
+- Anti-MBG (Goodpasture's disease)
+|- GNRP syndrome complicating :
+
+- Microscopic polyangiitis
+
+- Granulomatosis with micropolyangiitis
+
+- Goodpasture's disease
+
+- Rheumatoid purpura
+
+- Infectious vasculitis with infectious GN
+
+- Cryoglobulinemia kidney
+|-
+|Lupus
+|See chapter on lupus
+|Lupus GGN classes I, II, III, IV, V
+|-
+|Chronic inflammatory diseases (rheumatoid arthritis, spondyloarthropathies, periodic illness, etc.), IBD
+|- Joint, digestive signs, etc.
+|- AA amyloidosis
+
+- IgA nephropathy
+|-
+|mammapathies
+
+monoclonal
+|Myeloma, monoclonal gammopathy of renal significance (MGRS)
+|see chapter on renal disorders in myeloma
+|Nephrotic syndrome ± renal failure, AL amyloidosis or other immunoglobulin-depositing diseases (Randall)
+|-
+| colspan="2" |Genetic diseases
+|Family history, deafness, lenticône
+|Alport syndrome
+|}
+GN: Glomerulonephritis; GEM: extramembranous glomerulopathy; HIVAN = HIV-associated nephropathy; IBD: chronic inflammatory bowel disease.

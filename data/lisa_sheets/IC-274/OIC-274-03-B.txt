@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-274-03-B
+|Item_parent=Vomiting in infants, children and adults
+|Item_parent_short=Vomiting in infants, children and adults
+|Rank=B
+|Title=Know the indications for further investigations in cases of vomiting suggesting a secondary cause (brain tumour, surgical cause, intoxication).
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=3}}
+'''In adults'''
+
+If there are no signs of complications, no criteria of vulnerability (elderly subjects, presence of co-morbidities, etc.) and/or in a particular anamnestic context (viral gastroenteritis epidemic, food poisoning, acute alcohol intoxication, drug intolerance, pregnancy in the 1st<sup> trimester, etc.), additional tests are not systematically prescribed.
+
+
+Two objectives:
+
+#'''''Biological impact assessment'''''
+
+This mainly concerns acute forms suspected of complication, particularly in the most vulnerable patients, and chronic vomiting.
+
+In the event of clinical signs of dehydration, weight loss, deterioration in general condition or chronic vomiting, the following should be prescribed:
+
+- A blood ionogram to look for metabolic alkalosis with hypochloremia and hypokalemia.
+
+- A haemogram to check for haemoconcentration
+
+- Blood creatinine and urine ionogram to check for functional renal failure
+
+- A blood albumin and pre-albumin test to look for biological signs of malnutrition in cases of chronic vomiting or signs of malnutrition
+
+If there is any sign of digestive haemorrhage, a blood count and haemostasis test (PT, APTT, platelets) should be carried out.
+
+<br />
+
+#'''''Etiological assessment'''''
+
+No examination is systematic. The prescription of additional examinations in search of a cause will be guided by the context, the history and the clinical examination.
+
+Some typical situations requiring targeted examinations:
+
+- Beta-HCG: to be measured in women of childbearing age presenting with recent vomiting;
+
+- In children with an abdominal complaint: ultrasound is the gold standard for diagnosing hypertrophic pyloric stenosis, small bowel volvulus and acute intestinal intussusception.
+
+- Abdominopelvic CT scan: useful in the event of acute vomiting associated with cessation of transit, suggesting digestive obstruction;
+ 
+- Cerebral scan: for acute vomiting, associated with morning headaches and/or local neurological signs;
+ 
+- Lumbar puncture: to be discussed in the presence of a febrile meningeal syndrome (vomiting, headache, stiff neck, photo/phonophobia, fever) and preceded by a brain scan if there is any doubt about intracranial hypertension;
+ 
+- ECG looking for inferior infarction, typically in diabetic patients;
+ 
+- Determination of blood glucose, urine dipstick, in a diabetic patient, to look for ketoacidosis;
+ 
+- Gastric emptying scintigraphy: to look for gastroparesis in the presence of chronic vomiting in old diabetes, scleroderma, or in the event of accidental vagotomy after abdominal or thoracic surgery;
+ 
+- Oesogastroduodenal endoscopy: a history of postprandial vomiting with deterioration in general condition should prompt a search for gastric neoplasia or a high digestive obstruction;
+ 
+- Corrected or ionised calcium levels: patients with neoplastic bone metastases.

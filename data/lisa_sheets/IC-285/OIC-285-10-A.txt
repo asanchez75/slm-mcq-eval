@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-285-10-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Description=Hyperthyroidism and functional intestinal disorders
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+The stools are diurnal, morning, fractionated and post-prandial, not very abundant (< 500 g/d), well tolerated (because the cause is often functional) with sometimes the presence of undigested food. Fasting may be used to relieve the symptoms, and the condition is often sensitive to intestinal transit inhibitors.
+
+Functional colopathy (irritable bowel syndrome) with a predominance of diarrhoea is the most common cause. Dysautonomia complicating long-standing diabetes and chronic alcohol ingestion are also common causes. Hyperthyroidism is a less common classic cause.

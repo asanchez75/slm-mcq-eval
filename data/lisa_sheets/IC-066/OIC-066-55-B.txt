@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-066-55-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for non-pharmacological treatments
+|Description=refer to item 73
+|Heading=Management
+|Contributors=El-Hage Wissam
+|Order=55}}
+
+Three trauma-focused psychotherapies are recommended.
+
+- Trauma-focused CBT helps to manage anxiety and combat cognitive or behavioural avoidance, using classic relaxation techniques, graduated exposure to stimuli and cognitive restructuring.
+
+- Prolonged exposure therapy (PET) is a trauma desensitisation technique. The exposure is imaginary and real, progressive, repeated and controlled until the fear is extinguished.  
+
+- Eye Movement Desensitisation and Reprocessing (EMDR) aims to dissociate memories of negative emotions by evoking certain elements of the traumatic memory while focusing attention on bilateral visual stimuli.
+
+Peer groups and associations can provide social and legal support.

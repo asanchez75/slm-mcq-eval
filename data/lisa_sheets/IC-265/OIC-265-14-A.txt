@@ -1,0 +1,116 @@
+{{knowledge objective
+|Identifiant=OIC-265-14-A
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=A
+|Title=Knowing the principles of the management of urinary lithiasis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=14}}
+
+
+===''Understanding the principles of urinary lithiasis management'''===
+{| class="wikitable"
+|<span name="_Hlk30177703"></span>
+| colspan="3" |'''Calculi of the ureter''''
+| colspan="2" |'''Kidney stones'''
+|-
+|'''Observation indications / Medical expulsive therapy (MET)'''
+| colspan="3" | - high probability of spontaneous elimination (pelvic stone AND <10 mm)
+
+- AND pain relieved by standard analgesics (paracetamol, NSAIDs)
+
+- AND no infectious signs (obstructive pyelonephritis)
+
+- AND no renal failure
+
+- AND absence of chronic obstruction (<4-6 weeks)
+| colspan="2" | - high probability of spontaneous elimination
+
+- AND pain relieved by standard analgesics (paracetamol, NSAIDs)
+
+- AND no infectious signs (obstructive pyelonephritis)
+
+- AND no renal failure
+
+- AND absence of chronic obstruction (<4-6 weeks)
+|-
+|'''Indications for emergency bypass (JJ, nephrostomy)''''
+| colspan="3" | - Fever (probabilistic bi-antibiotherapy with C3G + aminoglycosides or imipenem + aminoglycosides if risk factors for multi-resistant bacteria)
+
+- Hyperalgesia (> 3 doses of NSAIDs or failure of titrated morphine)
+
+- Acute renal failure (single kidney or bilateral renal colic)
+| Fever (probabilistic dual antibiotic therapy with C3G + aminoglycosides or imipenem + aminoglycosides if risk factors for multi-resistant bacteria)
+
+- Hyperalgesia (> 3 doses of NSAIDs or failure of titrated morphine)
+
+- Acute renal failure (single kidney or bilateral renal colic)
+|-
+| rowspan="4" |'''Indications for active treatment'''
+| rowspan="2" |'''Proximal ureter'''
+|'''<10mm'''
+|Ureteroscopy or LEC
+|'''<15mm'''
+|LEC**
+
+Flexible ureteroscopy
+|-
+|'''>10mm'''
+|Ureteroscopy *
+
+2.LEC **
+|'''>15mm''''
+|1. NLPC
+
+2. Ureteroscopy
+|-
+| rowspan="2" |'''Distal ureter''''
+|'''<10mm''''
+|Ureteroscopy or LEC
+|'''Lower calyx 10-15mm'''
+|LEC**
+
+Ureteroscopy
+|-
+|'''>10mm'''
+|1. ureteroscopy *
+
+2.LEC **
+|'''Lower calyx <10mm''''
+|Monitoring
+|}
+<nowiki>*</nowiki> Treatment associated with the highest "fragment-free" rate in a single procedure.
+
+<nowiki>**</nowiki>Treatment associated with lowest morbidity and complication rate
+
+(Lithiasis Committee recommendations - AFU 2022: LEC recommendations: R.6: It is suggested that the indications for LEC be limited to kidney stones less than 15 mm in size).
+
+
+Extracorporeal lithotripsy is contraindicated in cases of :
+
+*congenital or acquired haemostasis and coagulation disorders (anti-aggregant/coagulant treatment),
+*pregnancy
+*untreated urinary tract infection
+*obstruction downstream of the stone,
+*aneurysm of the renal artery or aorta,
+
+High stone density (>1000UH) and obesity reduce the effectiveness of LEC.
+
+Complications of LEC include
+
+*the pain of renal colic,
+*haematuria, renal or retroperitoneal haematoma,
+*urinary tract infections.
+
+Ureteroscopy is contraindicated in cases of :
+
+*untreated urinary tract infection
+
+The complications of ureteroscopy are :
+
+*haematuria
+*renal colic pain due to ureteral clotting
+*ureteral stricture, ureteral trauma, ureteral avulsion, subcapsular haematoma of the kidney
+*urinary tract infection, severe sepsis or even septic shock.

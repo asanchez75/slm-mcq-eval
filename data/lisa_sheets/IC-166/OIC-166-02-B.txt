@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-166-02-B
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=B
+|Title=Knowing the means of epidemiological surveillance
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+
+
+=== At population level: ===
+           - '''Santé publique France:''' publication of international and national data (emergency room visits and cluster cases)
+
+- '''GrippeNet.fr:''' collects epidemiological data on influenza from the general public anonymously over the internet.
+
+=== In ambulatory medicine: ===
+- '''Le réseau Sentinelle :''' clinical and virological surveillance of influenza syndromes in outpatient medicine
+
+=== In hospitals: ===
+- '''Oscour network:''' monitoring of the number of influenza-related hospital admissions and hospitalisations from the hospital network of emergency departments
+
+- Number of admissions to intensive care units
+
+- '''Renal-CNR network:''' virological surveillance
+
+=== At national level: ===
+- '''CepiDC''' & '''INSEE''' collect data on influenza-related deaths. The validity of these figures is difficult to establish, depending on the cause of death (influenza or its complications, or decompensation of an underlying pathology).

@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-260-10-A
+|Item_parent=Hematuria
+|Item_parent_short=Hematuria
+|Rank=A
+|Title=Knowing the main etiologies of urological haematuria in adults and children
+|Description=None
+|Rubric=Etiologies
+|Contributors=Charles Dariane, Bruno Moulin
+|Order=10}}
+
+<br />
+
+*A urological cause should always be ruled out in the case of isolated macroscopic haematuria or persistent microscopic haematuria before any nephrological work-up. A urological cause must always be ruled out in the case of isolated macroscopic haematuria or persistent microscopic haematuria before any nephrological work-up.<br /> A urological cause must always be ruled out in the case of isolated macroscopic haematuria or persistent microscopic haematuria before any nephrological work-up.
+
+*Stress haematuria remains a diagnosis of elimination (most often microscopic, sometimes linked to a stone) and the use of anticoagulants can encourage haematuria but should always lead to a search for an underlying aetiology (tumour)''''.
+
+<br />
+
+*The prostatic origin ([[Benign prostatic hyperplasia|BPH 127]], [[Prostatic tumours|cancer 310]]) of haematuria is a diagnosis of elimination.
+
+<br />
+
+*The most frequent or serious urological causes should be considered first: '''[[Tumours of the kidney|tumours of the urinary tree 311]] and [[Bladder tumours|314]], [[Urinary infections in children and adults|infections 161]]'' and '''[[Urinary lithiasis|lithiasis disease 265]]'''.
+
+<br />
+
+*'''A. Tumours of the urinary tract:''''
+**''''[[Bladder tumours|Urothelial tumours 314]] (bladder and upper excretory tract): this is the main aetiology to be ruled out because of its severity.'''' Risk factors: age ≥ 50 years, male sex, smoking, occupational exposure.
+**''''[[Kidney tumours|Kidney tumours 311]]:'''' these are generally locally advanced and bulky malignant tumours, or benign angiomyolipomas.
+**Prostate tumours|Prostatic tumours 310]] locally advanced in adults or vesico-prostatic rhabdomyosarcoma in children.
+
+<br />
+
+*'''B. [[Urinary tract infections in children and adults|Urinary tract infections 161]]: this is the most frequent cause of micro- or macroscopic haematuria.'''' It is accompanied by a clinical picture suggestive of cystitis, pyelonephritis or male urinary tract infection. It may reveal classic uropathogenic bacteria (BGN: ''Escherichia coli'' or Cocci +: enterococci, etc.) or pathologies related to an epidemiological context:
+**Urinary tuberculosis: aseptic leucocyturia, calcification of the bladder wall (porcelain bladder) or ureteral wall, possible genital involvement. Search for BK-uria on 3 consecutive days.''
+**''''[[Travel to tropical countries for adults and children: advice before departure, pathologies on return: fever, diarrhoea, skin manifestations|Bilharziosis 175]]''' '''''':''''' ''Endemic zone (North Africa, Arabian Peninsula), search for Schistosomia haematobium eggs in urine, 3 days in a row or by bladder biopsy. Risk of calcification and bladder/ureter fibrosis, and predisposition to bladder carcinoma''.
+
+<br />
+
+*'''C. [[2C-265|Urinary lithiasis 265]] (kidneys, ureters, bladder)''': either pauci-symptomatic or during an episode of renal colic (microscopic haematuria very frequent). Stress haematuria is suggestive.
+
+<br />
+
+*'''D. Other less frequent aetiologies:'''
+**Bladder, urethra or kidney trauma and spontaneous (papillary angiomas) or traumatic (aneurysms, arteriovenous fistula, etc.) renal vascular malformations.
+**Radiation cystitis, interstitial cystitis, haemorrhagic cystitis (cyclophosphamide, virus, etc.) or bladder endometriosis.
+**Iatrogenesis'': haematuria following an endoscopic procedure involving a "falling sore" (endoscopic resection of the prostate or bladder), fibroscopy, extra-corporeal lithotripsy, prostate biopsy, renal biopsy or after insertion of a bladder catheter or suprapubic catheter.
+**''''[[Benign prostatic hypertrophy|Benign prostatic hypertrophy 127]] in adults''' (rupture of prostatic varices, "adenomitis"...): diagnosis of elimination.
+**Obstructive malformative uropathies in children'' (pyeloureteral junction syndrome, obstructive megaurethra, posterior urethral valves)
+**Idiopathic cervicotrigonitis in young boys

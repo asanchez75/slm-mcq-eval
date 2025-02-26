@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-347-04-A
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=A
+|Title=Knowing the clinical features of acute urinary retention
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Jonathan Olivier
+|Order=4}}
+
+
+*Typically, the patient presents to emergency with [[2C-269|suprapubic pain 269]] and an inability to urinate despite bladder repletion, sometimes with agitation.
+
+*<Interview: urological history, associated symptoms (fever, haematuria, transit disorders), symptoms preceding retention (dysuria, sensation of poor bladder emptying), usual treatments.
+
+*<Clinical examination: presence of a bladder globe characterised by a hypogastric curve and suprapubic dullness. A rectal examination in men is necessary to make an aetiological diagnosis (faecal impaction, BPH, prostatitis, prostate cancer) and pelvic examinations in women (prolapse, pelvic tumour, faecal impaction).
+
+*False [[2C-125|urinary incontinence 125]] must be ruled out; in this case, it is overflow incontinence.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-158-12-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Knowing the main causes of purpura fulminans
+|Description=Meningococcemia and pneumococcemia
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+Purpura fulminans may be observed in any serious infection, but more frequently in invasive meningococcal (''Neisseria meningitidis'') and pneumococcal (''Streptococcus pneumoniae'') infections.

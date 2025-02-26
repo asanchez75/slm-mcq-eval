@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-267-29-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know how to diagnose hypernatremia
+|Description=The concepts of hyperosmolality and cellular dehydration
+|Rubric=Definition
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=29}}
+
+
+*''Hypernatremia: [Na+] > 145 mmol/L'''
+*The diagnosis of intracellular dehydration (ICD) is biological: hypernatremia associated with plasma hyperosmolality (> 300 mOsm/Kg H20).
+*Associated clinical signs:
+**Thirst, sometimes intense.
+**Neurological symptoms (= ''signs of seriousness''): non-specific and not very suggestive; correlated with the degree of hypernatremia and the speed of onset:
+**Dryness of the mucous membranes, particularly on the inside of the cheeks.
+**Polyuro-polydipsic syndrome if renal cause.
+**Weight loss.

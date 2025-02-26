@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-166-05-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Knowing the complications of influenza
+|Description=Respiratory - Extrarespiratory
+|Rubric=Monitoring and/or prognosis
+|Contributors=
+|Order=5}}
+<br />
+
+=== Respiratory ===
+
+==== - High ====
+o Otitis
+
+o Sinusitis
+
+o Laryngitis
+
+o Possible bacterial superinfections
+
+==== - Low ====
+o Acute bronchitis
+
+o COPD exacerbations
+
+o Primary viral pneumonia and, rarely, primary malignant influenza: hypoxaemic alveolar-interstitial lung disease (ARDS)
+
+o Secondary bacterial pneumonia: on average, between D5 and D7: reappearance of respiratory symptoms (productive cough)
+<br />
+
+=== Extrarespiratory ===
+- Digestive disorders (diarrhoea)
+
+- Lymphocytic meningitis with or without encephalitis
+
+- Pericarditis, myocarditis
+
+- Rhabdomyolysis in children
+
+- Reye's syndrome: influenza B treated with aspirin in children, with encephalitis and acute fulminant hepatitis, and death in 1 out of 2 cases.

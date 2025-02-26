@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-355-08-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Know the main causes of digestive haemorrhage
+|Description=Know the main causes of upper gastrointestinal haemorrhage (peptic ulcers, oesophageal varices, portal hypertension gastropathy, oesophagitis) and lower gastrointestinal haemorrhage (tumours, diverticula, colitis, angiodysplasia).
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+see previous objective

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-355-05-B
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=B
+|Title=Knowing the diagnostic elements and aetiologies of haematemesis in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+The first thing to do is to identify haematemesis (fresh (red) or digested (brown) blood when vomiting) from swallowed epistaxis, which is more common in children than haematemesis.
+
+The main causes vary according to age
+
+- newborns: neonatal oesophagitis, swallowing blood from maternal cracks in breast-fed newborns
+
+- infants: swallowing blood from maternal crevices, more rarely oesophagitis
+
+- children: Mallory-Weiss syndrome (ulceration of the oesophagus secondary to vomiting), ulcers and gastritis (particularly post-NSAID or corticosteroid)
+
+Digestive explorations (endoscopy) are justified in cases of suspected oesophagitis or ulcer.

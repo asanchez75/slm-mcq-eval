@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-024-13-B
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=B
+|Title=Knowing how to prescribe rest measures and antihypertensive treatment for pregnant women.
+|Description=To know the rules for prescribing antihypertensive treatment in cases of hypertension / to know the targets for antihypertensive treatment in pregnant women.
+|Rubric=Management
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=13}}
+
+Resting = not strict but work stoppage
+
+- +/- antihypertensive treatment
+
+Objective: avoid hypertensive spikes and limit maternal complications
+
+- indicated for severe hypertension (SAP ≥ 160 mmHg and/or DBP ≥ 110 mmHg)
+
+- Blood pressure targets: PAS= 140-155 mmHg and PAD = 90-105 mmHg.
+
+- Caution: no salt-free diet or diuretics - ACE inhibitors and ARB2s contraindicated
+
+You can use :
+
+- 1st line: central antihypertensives (alphamethyldopa)
+
+- in the 2nd<sup> intention (and in cases of pre-eclampsia):
+
+- calcium-channel blockers (nicardipine, nifedipine),
+
+- alpha-blockers (urapidil),
+
+- alpha and beta-blockers (labetalol, which has fewer side-effects than beta-blockers and is most often combined when dual therapy is required).

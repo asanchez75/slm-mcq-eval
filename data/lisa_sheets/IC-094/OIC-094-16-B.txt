@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-094-16-B
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=B
+|Title=Knowing the diagnostic approach to coccygodynia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=16}}
+
+'''Positive diagnosis:'''
+
+- pain localised to the coccygeal area, without significant radiation
+
+- reproduced by palpation/mobilisation of the coccyx or sacro-coccygeal region
+
+- exacerbated by sitting and/or rising from a seated position
+
+- functional discomfort: sitting (in the car, at work, etc.)
+
+'''Etiological referral:''' pain in the seat > suspected subluxation and/or fracture
+
+'''Recherche facteur déclenchant :'''
+
+- trauma: very short delay between trauma and pain = certain liability; delay < 1 month = very likely liability; delay > 3 months, unlikely liability
+
+- obesity/pregnancy = risk factor for subluxation
+
+'''Differential diagnosis''': sacroiliac pain, anal '''[[Anal pain SDD-005|(anal pain)]]''', lumbar with coccygeal irradiation, pudendal neuralgia '''[[Pelvic pain SDD-099|(pelvic pain,]]''' '''[[Testicular pain SDD-100|testicular pain)]]''''
+
+'''Duration of evolution:''' acute or chronic (most acute coccygodynia heals spontaneously within a few weeks)
+
+<br />

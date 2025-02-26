@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-217-04-A
+|Item_parent=Mononucleosis syndrome
+|Item_parent_short=Mononucleosis syndrome
+|Rank=A
+|Title=Knowing the elements of questioning in a patient with mononucleosis syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+- Patient's age (mostly children and young adults) ;
+
+- Contact with young children or a new relationship
+
+- Notion of risky sexual relations or intravenous drug use (Human Immunodeficiency Virus (HIV));
+
+- Contact with a cat or consumption of food contaminated by a cat, or consumption of raw meat (toxoplasmosis);
+
+- Recent introduction of new medication, medication taken in the previous weeks, in the event of ''''''''([[Suspicion of an adverse reaction to medication or treatment SD-348|suspicion of an adverse reaction to medication or treatment]]''';
+
+- Presence of general signs: fever '''([[Hyperthermia/fever SD-044|hyperthermia/fever]]), [[Asthenia SD-021|asthenia]]''' ;
+
+- [[Odynophagia/dysphagia SD-052|'''Odynophagia''' '''/ dysphagia''']] or '''[[Pharyngeal pain SD-145|pharyngeal pain]]'''';
+
+- Joint pain '''([[Joint pain SD-067|joint pain]]),''' '''[[Myalgia SD-077|myalgia]]''' ;
+
+- [[Acute abdominal pain in children and adults|D'''abdominal pain''']] ;
+
+- Skin rash '''([[Erythema SD-085|erythema]]]''''
+
+- Muco-genital ulcerations (HIV) ;
+
+- Adenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]])''' identified by the patient.

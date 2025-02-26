@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-228-07-B
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=B
+|Title=Knowing the pathophysiological basis of necrotic angiodermatitis
+|Description=Arteriolosclerosis, hypertension, type 2 diabetes
+|Rubric=Pathophysiological elements
+|Contributors=Marie-Antoine Sevestre Pietri, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=7}}
+
+Necrotic angiodermatitis corresponds to the occurrence of a cutaneous infarct, secondary to arteriolar occlusion, most often complicating [[Hypertension in adults and children|hypertension]]. [Hypertension SD-042|(SDD-042 hypertension)]]

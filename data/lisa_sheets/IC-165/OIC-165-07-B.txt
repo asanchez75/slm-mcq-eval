@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-165-07-B
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=B
+|Title=Know how mumps is confirmed
+|Description=None
+|Section=Complementary tests
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=7}}
+
+Confirmation important for isolated cases, diagnostic doubts, care of family and friends (possibly administration of a 3rd<sup>dose</sup>):
+
+*Direct molecular diagnosis using RT/PCR in saliva, nasopharyngeal swabs and urine samples, and CSF in cases of meningitis.
+*''Serological diagnosis'' to determine immunisation status

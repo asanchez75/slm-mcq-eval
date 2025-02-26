@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-138-05-B
+|Item_parent=Pain in vulnerable persons
+|Item_parent_short=Pain in vulnerable persons
+|Rank=B
+|Title=Knowing how to detect physical pain in somatic and related disorders
+|Description=Renovate item 72
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Rank B'''
+
+'''Positive diagnosis''' heading
+
+'''Title: Physical pain in somatic symptom disorders and related disorders.'''
+
+'''Description : Cross-reference item 72 (disorders with somatic and related symptoms)'''
+
+- DSM-5 somatic and related disorders (e.g. somatoform disorders) can be "co-morbid" with pain.
+
+- They may be a consequence of the pain. Becoming a component of the pain, they describe and partly explain the chronicity of the pain. One example is the ''somatic symptom disorder''.
+
+- Conversely, they can be a factor in triggering or maintaining pain. Examples include excessive fear of having an illness, often with "fixed pain", conversion disorder (a disorder with functional neurological symptoms) with various neurological signs and often mobile pain, or psychological factors influencing other medical conditions.
+
+- Treatment will combine pain management with treatment of the psychiatric component or disorder. Common treatments will be favoured: psychotherapies including cognitive-behavioural therapies, adapted physical activities, relaxation or hypnosis.

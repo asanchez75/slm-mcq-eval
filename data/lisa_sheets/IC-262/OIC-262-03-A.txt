@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-262-03-A
+|Item_parent=Interstitial nephropathy
+|Item_parent_short=Interstitial nephropathy
+|Rank=A
+|Title=Knowing the main mechanisms of CIN
+|Description=Urological, drug-induced, toxic, genetic, dysimmunity, metabolic, haematological, infectious causes.
+|Rubric=Etiologies
+|Contributors=Dany Anglicheau
+|Order=3}}
+
+Chronic interstitial nephropathy may be secondary to :
+
+*Urological causes;
+*Medicinal causes;
+*Toxic causes ;
+*Genetic causes;
+*Dysimmune causes;
+*Metabolic causes;
+*Haematological causes;
+*Infectious causes.

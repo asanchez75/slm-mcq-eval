@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-004-23-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the principles of a posteriori prevention
+|Description=Knowing the main methods of preventing AEIs
+|Section=Definition
+|Contributors=
+|Order=23}}
+The risk management approach aims to reduce the number of undesirable events associated with healthcare to an acceptable level.
+
+
+A posteriori''''' (or reactive) ''risk prevention'' aims to '''analyse''' an undesirable event associated with care (or a ''near miss''), to '''understand'' its mechanisms (often multiple), and to '''adapt procedures'' accordingly to try to avoid a recurrence.
+
+
+
+The analysis is generally carried out in the 1st<sup>er</sup> intention according to the '''ALARM grid''', each of whose seven headings must be taken into account:<gallery>
+File:ALARM.png
+</gallery>It can also use the '''cause tree''' method, an example of which is shown below:<gallery>
+File:Event.png
+</gallery>(in Mettre en œuvre la gestion des risques associés aux soins, HAS, 2012). <br />

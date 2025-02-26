@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-087-10-B
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=B
+|Title=Know the other causes of epistaxis
+|Description=Know the different causes of tumours, haemorrhagic diseases and vascular diseases
+|Rubric=Etiologies
+|Contributors=Geoffrey Mortuaire
+|Order=10}}
+Epistaxis involves a mucosal or vascular lesion in the nasal or sinus area. This lesion may be induced by several local aetiologies. Comorbidities that impair local haemostasis are at the root of the severity of epistaxis, making it more frequent and more likely to recur.
+
+'''Comorbidities:'''
+
+*Anticoagulant or antiplatelet therapy, fibrinolysis,
+*Congenital coagulopathies (coagulation factor deficiency, thrombopathies),
+*Acquired coagulopathies (haemopathies, liver failure, renal failure, autoimmune diseases, DIC),
+*High blood pressure (especially the cause of recurrent epistaxis).

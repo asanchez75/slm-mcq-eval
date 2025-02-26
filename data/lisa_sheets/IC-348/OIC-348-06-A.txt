@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-348-06-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing the main causes of ARF due to obstruction
+|Description=Lithiasis, bladder cancer, acute retention of urine by sub-bladder obstruction (prostate adenoma and cancer)
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=6}}
+
+==A. Acute obstructive renal failure==
+Search for :
+
+- Unilateral or bilateral lower back pain,
+
+- Macroscopic haematuria with clots,
+
+- Micturition problems, a bladder globe (subvesical obstruction) or pelvic shielding on vaginal or rectal examination.
+
+Diagnosis is based on the demonstration of "dilatation of the pyelo-caliceal cavities on renal ultrasound". The dilatation is bilateral, or unilateral if the kidney is single (functional).
+
+'''Table 2''' : '''Main etiologies of obstructive AKI''''
+{| class="wikitable"
+|'''Urinary lithiasis''''
+
+o Unilateral calculi on a single functional kidney or bilateral lithiasis
+|-
+|Tumour pathology
+
+o Adenoma or cancer of the prostate; cancer of the cervix, rectum, ovary or uterus
+
+o Bladder or excretory tract tumour
+
+o Retroperitoneal metastases
+|-
+|Inflammatory pathology
+
+o Retroperitoneal fibrosis or liposclerosis
+|}
+<br />

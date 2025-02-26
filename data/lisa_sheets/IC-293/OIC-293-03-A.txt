@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-293-03-A
+|Item_parent=The doctor collecting cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles of taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=A
+|Title=Knowing how to fill in the information sheet
+|Description=List the information required on the anatomopathology examination request form.
+|Heading=Additional examinations
+|Contributors=Arnaud Uguen
+|Order=3}}
+
+'''''" How to fill in a request for pathological anatomy and cytology analysis "'''''
+
+
+
+The <u>information sheet is essential and inseparable from the sample</u> taken for Pathological Anatomy and Cytology analysis. A sample not accompanied by this form will not be accepted for analysis.
+
+
+The elements of this information sheet will be :
+
+- patient identity (surname, first name, date of birth, gender, patient identification data e.g. address, hospital identifier)
+
+- the identity of the prescribing doctor (surname, first name, care structure and department, professional identifiers)
+
+- the identity of the sampler (who may be different from the prescriber, same information as the prescriber)
+
+- the date and time of the sampling procedure
+
+- the precise nature of the sample(s) (method(s) of sampling, precise location(s) of sample(s) with, if necessary, details and precise identification of each sample in the case of multiple samples)
+
+- the degree of urgency of the request (e.g. request for an extemporaneous examination, or the need for urgent test results in view of the patient's condition requiring rapid treatment)
+
+- clinical information and diagnostic hypotheses raised, as well as requests for specific analyses
+
+
+The patient's identity and the precise identification of the sample (particularly in the case of multiple samples) must also be included on the container used to send the sample(s) to the Pathological Anatomy and Cytology laboratory for reception and registration prior to analysis.

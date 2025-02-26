@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-097-02-B
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=B
+|Title=Knowing the different forms of polyradiculoneuritis
+|Description=Gillain-Barré syndrome, acute axonal motor neuropathy
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Guillain-Barré syndrome'' refers to an inflammatory, demyelinating polyradiculoneuritis responsible for acute sensory-motor involvement. '''([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])''''
+
+Acute axonal motor neuropathy'' is a term used to describe acute inflammatory peripheral neuropathy causing acute pure motor impairment.
+
+It should be noted that lesions in acute axonal motor neuropathy are not located specifically in the roots but in the nodes of Ranvier. It is related to Guillain-Barré syndrome in terms of its acute clinical presentation, course, dysimmune mechanisms secondary to a triggering event and treatment.

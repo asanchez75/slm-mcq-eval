@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-288-11-A
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=A
+|Intitle=Photographs of haemorrhoidal thrombosis
+|Description=
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+
+<gallery widths="320" heights="320">
+File:Image of haemorrhoidal thrombosis.PNG|External haemorrhoidal thrombosis with ulceration at the top of the clot
+</gallery>

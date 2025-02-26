@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-361-06-A
+|Item_parent=Periarticular and ligament injuries of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=A
+|Title=Know how to diagnose glenohumeral and acromioclavicular joint dislocation and their complications
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=6}}
+
+'''Acute anterior dislocation of the glenohumeral joint (11% of shoulder injuries):'''
+
+This is a ''loss of contact between the humeral head and the scapular glenoid''. The humeral head then moves forward. <gallery>
+File:361 10.png
+</gallery>The mechanism is most often '''indirect''' by falling on the hand or elbow limb in external rotation retropulsion. More rarely, it may be a '''direct trauma''' (fall on the shoulder stump with posterolateral impact).
+
+The clinical picture was marked by a "very painful" patient with a traumatic attitude of the upper limb. The limb was slightly abducted in external rotation.
+
+Inspection reveals the following signs:
+
+- '''coup de hache externe''' (c)
+
+- epaulette sign'' (a) and ''subacromial void'' (b)
+
+- '''humeral head protrusion''' (d)
+
+- '''anteroposterior widening of the shoulder in profile'''<gallery>
+File:361 11.png|Clinical signs of anteromedial dislocation.
+</gallery>BERGER's sign corresponds to irreducibility of abduction external rotation.  
+
+A positive diagnosis requires a radiographic work-up (see: Knowing the indications for imaging examinations for anteroinferior shoulder dislocation).
+
+The '''early complications''' to look for are '''nervous''' and '''vascular''': <gallery>
+File:361 12.png
+File:361 12.png|Complications of an anteromedial dislocation.
+</gallery>- '''Neurological''' especially after the age of 40: involvement of the '''axillary nerve''' (comparative analysis of the sensitivity of the shoulder stump with testing before and after reduction). But it is also important to look for damage to the radial nerve or even the plexus (complete plexus).
+
+- Vascular'': abolition of peripheral pulses (assessed before and after reduction).
+
+
+There is also a risk of developing an "unstable shoulder".
+
+
+'''Acute posterior dislocation of the glenohumeral joint (1 to 4% of shoulder dislocations):'''
+
+This is a ''rare dislocation''. The humeral head passes behind the glenoid. It may be found following a ''comitial seizure'', an ''electrocution'' or a ''delirium seizure''. Bilateral dislocation should be sought. It may also be observed following "violent trauma".
+
+The patient presents as an upper limb trauma patient. The limb is in "adduction internal rotation".
+
+'''Active and passive external rotation is impossible++'''.
+
+Positive diagnosis is based on a radiographic work-up.
+
+The frontal view shows the humeral head superimposed on the glenoid cavity (a so-called ''sunset'' image) + LAMY profile, GARTH incidence.
+
+<br /><gallery>
+File:361 13.png|Sunset image (posterior dislocation)
+</gallery>The radiographic work-up will reveal a '''Mac LAUGHLIN anterior cephalic notch''', a '''sagittal epiphyso-metaphyseal line''' (fracture arising from the notch), a '''fracture of the posterior edge of the glenoid'''.
+
+A CT scan can be used to identify bone lesions before and after reduction.
+
+The ''main complication'' of this condition is related to the ''failure to diagnose'' this dislocation, leading to inveterate posterior dislocation.
+
+Recurrent subluxations are much rarer than in the case of anterior dislocations.
+
+
+'''Acromioclavicular disjunction:'''
+
+This is a ''frequent injury'' secondary to a ''direct trauma'' (fall on the shoulder stump). The clavicle moves upwards and backwards.
+
+The patient presents with the attitude of an upper limb trauma patient.
+
+Clinical examination may reveal :
+
+- swelling or elevation of the distal end of the clavicle.
+
+- elective pain on palpation of the distal end of the clavicle.
+
+- a ''piano key vertical mobility''.
+
+- Anterior-posterior mobility.
+
+A positive diagnosis is made with the help of an X-ray:
+
+- '''Face''' centred on the acromioclavicular joint (a)
+
+- '''Profile of Lamy (b)'''
+
+- '''Axillary profile''' showing posterior displacement of the clavicle (c)<gallery>
+File:361 14.png|Acromioclavicular disjunction (Face)
+</gallery><gallery>
+File:361 15.png|Acromioclavicular disjunction (LAMY profile)
+</gallery><gallery>
+File:361 16.png|Acromioclavicular disjunction (Axillary profile)
+</gallery>

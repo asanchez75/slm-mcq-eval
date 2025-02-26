@@ -1,0 +1,196 @@
+{{knowledge objective
+|Identifiant=OIC-038-06-B
+|Item_parent=Infertility of the couple: conduct of the first consultation
+|Item_parent_short=Infertility of the couple: conduct of the first consultation
+|Rank=B
+|Title=Knowing the diagnostic orientation according to the context and associated symptoms
+|Description=Know the clinical presentations pointing to a particular cause of infertility.
+|Rubric=Etiologies
+|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet
+|Order=6}}
+
+
+==Women==
+{| class="wikitable"
+|
+|'''Origin of infertility''''
+|'''Interrogatory'''
+|Clinical examination
+|-
+|'''[[Menstrual Cycle Disorders SD-094|Ovulation Disorders]]''''
+|Polycystic ovary syndrome
+|Cycle disorders: (Spaniomenorrhoea
+
+Amenorrhea)
+|Acne
+
+Hirsutism
+
+Obesity
+|-
+|
+|[[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|Premature ovarian failure]]
+|<nowiki>- Cycle disorders</nowiki>
+
+(Short cycles, Amenorrhoea)
+
+- Flushing
+
+- Mood disorders
+
+- Family history of POI
+
+- Family history of mental retardation in a boy
+
+- Previous chemotherapy, pelvic radiotherapy, ovarian surgery
+|Dry skin and mucous membranes
+<br />
+|-
+|
+|Pituitary adenoma|Hyperprolactinaemia
+|Irregular cycles or secondary amenorrhea
+<br />
+|Spontaneous or induced galactorrhoea
+
+Impaired vision, headache (if macrodenoma)
+|-
+|
+|Functional hypothalamic amenorrhoea
+|Food selection
+
+Intensive sports activities
+|Underweight/hypo-weightosis
+|-
+|Tubal obstruction
+|
+|<Previous sexually transmitted infection</nowiki>.
+
+- History of ectopic pregnancy
+
+- Previous abdomino-pelvic surgery
+
+- Endometriosis
+|Vaginal discharge
+|-
+|Uterine Pathology
+|Congenital
+|DES taken by the mother
+|
+|-
+|
+|Acquired
+|Previous endo-uterine procedure, menometrorrhagia
+|
+|-
+|Cervical pathology
+|
+|History of conisation
+|
+|-
+|'''[[Endometriosis]]''''
+|
+|dysmenorrhoea
+
+Dyspareunia
+|Pain on uterine mobilisation
+
+Bluish nodule visible on speculum examination
+|}
+
+==Men==
+{| class="wikitable"
+|
+|'''Origin of infertility''''
+|'''Interrogatory'''
+|Clinical examination
+|-
+|'''Secretory origin of central pathology''''
+|Congenital or acquired hypogonadotropic hypogonadism (including hyperprolactinemia and hypercortisolism).
+|<Reduction in hair growth</nowiki>.
+
+- Libido disorders
+
+- Erectile dysfunction (loss of morning erections ++)
+
+-Primary or secondary amenorrhoea
+
+- Anosmia or hyposmia in Kallman-de Morsier syndrome
+|<Impuberty may occur in untreated congenital forms</nowiki>.
+
+
+- Bilateral testicular hypotrophy
+
+- Gynecomastia
+<br />
+|-
+|''Secretory origin, testicular pathology'''
+|Klinefelter's syndrome
+|<Libido disorders</nowiki>.
+
+- Erectile dysfunction (loss of morning erections ++)
+<br />
+|<Partial puberty (inconstant)</nowiki>- Erectile dysfunction (loss of morning erections ++)
+
+- Gynecomastia (inconstant)
+
+- Severe testicular hypotrophy (constant)
+<br />
+|-
+|
+|Environmental
+|<Exposure to heat, toxic substances</nowiki>.
+
+- Previous chemotherapy, radiotherapy
+|<No specific clinical signs other than testicular hypotrophy</nowiki>.
+|-
+|
+|Varicocele
+|<Intermittent scrotal pain</nowiki>.
+|<Dilatation of the pampiniform venous plexus when standing at rest and/or during the Valsalva manoeuvre</nowiki>.
+
+(left side +++++++++)
+|-
+|
+|Irrogenic
+| - Certain treatments for alopecia, prostate adenoma, etc.
+|
+|-
+|'''Excretory origin''''
+|Congenital bilateral or unilateral absence of the vas deferens (genetic origin through mutation of the CFTR gene or other congenital aetiologies).
+|<History of cystic fibrosis in the family</nowiki>.
+
+- Personal history of chronic bronchial disease
+
+-Personal history of chronic diarrhoea/malabsorption (pancreatic insufficiency)
+
+- Chronic rhino-sinusitis, naso-sinusal polyposis...
+
+- low volume of ejaculate (hypospermia)
+<br />
+|<Absence of palpation of one or both vas deferens</nowiki>.
+
+- Homolateral or bilateral epididymal dilatation
+
+- Satisfactory testicular volumes
+|-
+|
+|[[Screening and counselling for sexually transmitted infections SD-305|Post-infectious examinations of the excretory genital tract]]
+|<nowiki>- Personal history of urogenital infections (urethritis, orchi-epididymitis: STI context +++)</nowiki>
+
+- Pain during ejaculation
+<br />
+|<Unilateral or bilateral epididymal dilatation</nowiki>.
+
+- Epididymis sensitive to palpation
+
+- Deferential canals well present
+
+- Satisfactory testicular volumes
+|-
+|
+|Other deferential disorders
+|<History of urological surgery such as vasectomy</nowiki>.
+
+- history of inguinal surgery
+|Not very contributory
+|}

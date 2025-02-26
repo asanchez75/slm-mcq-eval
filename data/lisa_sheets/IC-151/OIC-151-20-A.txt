@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-151-20-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing the definition of infectious meningitis and meningoencephalitis in newborns and infants
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=20}}
+'''Epidemiology''''
+
+*In newborns: Streptococcus agalactiae (GBS) and Escherichia coli and, much more rarely, listeria monocytogenes.
+*In infants: pneumococcus (particularly before the age of 2, or in infants and children with anatomical or immune predispositions) and meningococcus, more rarely Haemophilus influenzae type b (recent resurgence).
+*Vaccination (against Haemophilus, then pneumococcus, then meningococcus C, then B) has played an important role in reducing the incidence of meningitis in infants.
+*viral meningitis: HSV (newborns with meningoencephalitis and adolescents), enterovirus +++ by far the most common, especially in summer.
+
+'''Diagnosis'''
+
+*Clinical
+**The younger the infant, the less specific the clinical features.
+**Newborn: remember to look for any fever, but fever may be absent, so look for any change in behaviour, particularly refusal to feed, hypotonia, change in complexion, etc.
+**Infant:
+***warning signs: fever (sometimes isolated at first) and hypotonia, changes in behaviour including drowsiness or irritability (inconsolable crying), vomiting, phonophobia is less obvious but may be present (cries at the light, covers eyes with forearm), change in general condition, etc.
+***physical examination: check vital signs +++ (look for signs of sepsis - tachycardia, polypnoea or bradycardia -HTIC-) hypotonia (sometimes stiffness), bulging anterior fontanel, signs of peripheral circulatory failure (but not always, the presentation may be purely "neurological"...).
+
+Some diagnostic pitfalls
+
+/no stiffness but rather hypotonia
+
+/febrile vomiting without diarrhoea
+
+/feverish, irritable, painful infants: this may be the expression of headaches linked to meningitis
+
+/! febrile seizures before 6 months of age
+
+! fever may be the only sign at the beginning of the course in infants, so very careful clinical examination, particularly of the vital signs (remember to look for bradycardia or abnormally normal heart rate in a febrile infant) and monitoring instructions for the parents.
+
+*Biological
+**Lumbar puncture (except CI: haemostasis disorders, haemodynamic instability, signs of focalization or involvement, consciousness disorders)
+***Hypercellularity (in neonates > 10)
+***other parameters = same as adult, hyperproteinorachia, hypoglycorachia < 40%.
+***direct examination, soluble pneumococcal Ag/ PCR per bacterium or syndromic (several bacteria in one test), viral PCR
+**biological inflammatory syndrome: CRP, PCT
+**combination of clinical elements and LP to help distinguish virus/bacteria
+
+<blockquote>/!any febrile meningeal syndrome warrants an LP (in the absence of IC) even in the absence of inflammatory syndrome (may be missed early in the course)</blockquote>
+
+*Imaging: the diagnosis of meningitis does not require imaging; imaging is useful for encephalitis (MRI) and for diagnosing complications (hydrocephalus, empyema, thrombosis, etc.).
+*EEG: if encephalitis is suspected
+
+'''Treatment'''
+([[Know the indications and methods of probabilistic antibiotic therapy for presumed bacterial meningitis 2C-151-PC-A03]])
+
+don't forget corticosteroid therapy to prevent complications in cases of pneumococcal and Haemophilus meningitis
+
+Complications of bacterial meningitis and meningoencephalitis
+
+* early stages :
+** cerebral oedema = cause of death
+** thrombosis, empyema, vasculitis
+** deafness
+** neurological deficit, neurodevelopmental disorders
+** epilepsy
+
+* later :
+** hydrocephalus
+** neurodevelopmental disorders, particularly learning disorders
+** epilepsy
+
+'''Surveillance and monitoring'''
+
+* Fever: repeat LP if fever persists for more than 48 hours and look for endocranial complications with imaging.
+* Vitals, haemodynamics
+* Neurology: Glasgow score, CRANIAL PERIMETER, convulsions, psychomotor development and learning (long-term follow-up ++)
+* ENT = audiometry BEFORE discharge from hospital in case of bacterial meningitis
+* biological: decrease in inflammatory syndrome
+* Look for favourable causes
+** Immune deficiency = any episode of meningitis should be investigated for underlying immune deficiency!
+** Malformation with osteo-meningeal breach: ask about clear rhinorrhoea! (if present, do a BU to look for glucose)<br />.

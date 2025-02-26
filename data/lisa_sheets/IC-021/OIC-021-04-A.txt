@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-021-04-A
+|Item_parent=Measurement of population health status
+|Item_parent_short=Measurement of population health status
+|Rank=A
+|Intitle=Knowing public health priorities
+|Description=Knowing the main elements needed to establish a public health priority
+|Rubric=Definition
+|Contributors=Loïc Josseran
+|Order=4}}
+
+If the political decision-maker validates the public health priority, for it to be developed, it needs to be supported by an institution (Ministry of Health, health agency, etc.) which will ensure that the funding is maintained, that the resources deployed are managed, that healthcare professionals are mobilised, and so on. Without this, a public health priority, however relevant it may be, will never be carried through to the end and will never achieve its objectives.

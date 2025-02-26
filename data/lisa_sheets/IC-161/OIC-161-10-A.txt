@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-161-10-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Knowing the treatment of simple acute cystitis including follow-up and prevention of recurrences
+|Description=None
+|Rubric=Management
+|Contributors=Maxime Vallée, Alice Faure
+|Order=10}}
+
+
+
+● The natural course of simple cystitis is spontaneous recovery in more than 50% of cases within 1 month.
+
+● Antibiotic therapy achieves clinical cure rates of between 58% and 90%, depending on the series, at 1 month.
+
+● It is therefore easy to understand the importance of antibiotic therapy in reducing the duration of symptoms and improving patient comfort as quickly as possible. The risk of progression to ANP is exceptional.
+
+==The current recommendations for antibiotic treatment are (molecules in order of prescription preference):==
+
+*Bosfomycin-Trometamol single dose
+*Pivmecillinam
+*If the 2 previous molecules are not possible: ECBU to guide choice of treatment
+
+
+● '''<u>Fluoroquinolones are in all cases to be banned in this indication and should never be used to treat cystitis</u>''''
+
+● Cure is usually obtained within 72 hours. In the event of clinical failure, an ECBU should be carried out (to look for bacteria resistant to the antibiotic used) or the diagnosis should be questioned.
+
+● The preventive measures to be proposed are those for recurrent cystitis (see dedicated section)

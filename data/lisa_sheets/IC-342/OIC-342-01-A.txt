@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-342-01-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Heading=Know the definition of malaise, syncope, lipothymia, prodromes, comitial seizure and status epilepticus.
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Sandrine Charpentier
+|Order=1}}
+
+Malaise ('''[[Malaise/loss of consciousness SDD-050]]'''): vague feeling of unease or disturbance of physiological functions: this is not a medical term but a complaint or a reason for seeking care.
+
+Syncope (''[[Malaise/loss of consciousness SDD-050]]''):
+
+* clinical manifestation secondary to transient global cerebral hypoperfusion, spontaneously resolving
+* brief, spontaneous loss of consciousness, with amnesia and loss of postural tone
+* rapid return to a normal state of consciousness: normal neurological examination in the aftermath: consciousness is usually regained at the scene of the event before help arrives
+* with or without prodromal symptoms (cookie-cutter syncope)
+* sometimes associated with myoclonus which begins after loss of consciousness
+Lipothymia (''[[Malaise/loss of consciousness SDD-050]]''):
+
+* clinical manifestation with the same mechanism as syncope, but the duration of cerebral hypoperfusion is too short to cause complete loss of consciousness
+* imminent sensation of syncope without loss of consciousness: prodromes without syncope
+
+Comitial or epileptic seizure ('''[[Convulsion SDD-120]], [[Coma and consciousness disorders SDD-028]], [[Malaise/loss of consciousness SDD-050]]'''):
+
+* clinical manifestation linked to the synchronous paroxysmal hyperactivity of cortical neurons and to the propagation of this activity
+* only generalised seizures cause loss of consciousness:
+** absence with loss of consciousness lasting a few tens of seconds
+** generalised tonic-clonic seizure with prolonged loss of consciousness lasting ten to several tens of minutes, including the seizure itself and the post-critical confusion phase
+* usually gradual regaining of consciousness in the emergency vehicle or at the emergency room
+
+Etat de mal épileptique (''''[[Convulsion SDD-120]], [[Coma and disturbed consciousness SDD-028]], [[Malaise/loss of consciousness SDD-050]]'''): epileptic seizures that persist long enough or recur at short enough intervals to create a stable and lasting epileptic condition.

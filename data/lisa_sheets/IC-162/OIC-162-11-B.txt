@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-162-11-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Knowing the clinical signs of an upper genital infection in women (salpingitis, endometritis)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+- PID:
+
+- +/- fever
+
+- Pelvic pain, metrorrhagia, +/- leucorrhoea
+
+- Gynaecological examination: pain on vaginal touch, endocervical inflammation
+
+
+- Endometritis: fever +++, increased pelvic pain on VT, discharge from the cervical os

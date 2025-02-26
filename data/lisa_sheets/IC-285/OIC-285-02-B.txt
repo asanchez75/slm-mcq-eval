@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-285-02-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Knowing how to diagnose coeliac disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+See [[Knowing the elements of positive diagnosis of celiac disease 2C-285-DP-A03|2C-285-DPA03]]

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-356-04-B
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=B
+|Title=Knowing the value and limitations of complementary examinations
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Cyrille PERRENOT
+|Order=4}}
+
+Normal biology does not rule out the diagnosis of acute appendicitis: disturbed CBC in 80% of cases, normal CRP in 50% of cases.
+
+Clinical scores for appendicitis have been defined to reduce unnecessary and costly investigations based on clinical history, physical examination and simple biological data.
+
+Highly probable diagnosis of acute appendicitis (HAS 2012): in the combined presence of right iliac fossa defensiveness, hyperleukocytosis greater than 10,000/mm3 and CRP greater than 8 mg/L.
+
+The imaging tests that may be ordered are :
+
+- PA ultrasonography: sensitivity of 80%, to be preferred in children and women of childbearing age, and in cases of urological or gynaecological differential diagnoses;
+
+- CT-AP: 95% sensitivity, preferable in cases of suspected complicated disease and in obese patients.
+
+In children:
+
+- MRI is to be preferred, if your technical resources allow, as a 2nd<sup>nd</sup> intention given its non-irradiating nature and its high diagnostic value in the event of technical failure of ultrasound or persistent clinico-ultrasound discordance.
+
+- CT-PA: In paediatrics, CT is of less interest the younger the child, due to the absence of intraperitoneal fat. In practice, CT is of little use, apart from pre-drainage percutaneous assessments, residual abscesses from operated appendicular peritonitis and in the event of persistent clinico-echographic discordance, in the absence of easy access to MRI.

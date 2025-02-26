@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-365-07-A
+|Item_parent=Surveillance of a patient in plaster/resin
+|Item_parent_short=Surveillance of a patient in plaster/resin
+|Rank=A
+|Title=Know the main principles of emergency management of a complication in a cast.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=7}}
+In the event of a suspected cast complication, at the very least a wide opening should be made and, more often than not, the cast should be removed as a matter of urgency.
+
+An inspection of the immobilised area is carried out, followed by an examination of the extremities, a loco-regional examination and a search for general signs.
+
+'''Compartmental syndrome'''
+
+The diagnosis is clinical. Measurement of intra-compartmental pressures can confirm the diagnosis in cases of doubt, but should not delay treatment. Surgical fasciotomy must be performed as a matter of urgency. The skin is left open and will be closed once the oedema has subsided.
+
+Thrombo-embolic complications
+
+A venous Doppler ultrasound is performed to look for deep phlebothrombosis. If there is chest pain, tachycardia or respiratory signs, an angioscan should be performed urgently to look for a pulmonary embolism.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-19-B
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=B
+|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, orthostatic arterial hypotension.
+|Description=Medication safety, elderly patients
+|Topic=Management
+|Contributors=
+|Order=19}}
+review of patient treatment - education - vigilance in elderly subjects

@@ -1,0 +1,172 @@
+{{knowledge objective
+|Identifiant=OIC-271-07-B
+|Item_parent=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Item_parent_short=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Rank=B
+|Title=Know the principles of drug management when non-drug interventions are ineffective.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=7}}
+
+The '''main principles of treatment''' have three objectives:
+
+a) relieving the patient
+
+b) healing oesophagitis lesions
+
+c) preventing complications
+
+The vast majority of patients have intermittent, uncomplicated symptomatic GERD. Treatment is adapted to the intensity and frequency of symptoms. Surgical treatment has become the exception. Proton pump inhibitors (PPIs) are the gold standard of medical treatment and are prescribed in very different ways depending on the symptoms or complications, ranging from a half-dose short course to a prolonged double dose.
+
+The different treatment modalities :
+
+A) Hygienic and dietary rules cf identifier: 2C-271-PC-A01
+
+- Raising the headboard
+
+- Don't go to bed too early after a fatty meal (especially if you have nocturnal GERD).
+
+- Don't drink too much alcohol and stop smoking
+
+- Losing weight if you are overweight
+
+- Avoid foods identified by the patient as causing reflux
+
+
+B) Medicines :
+
+a) ''Topical'' drugs
+
+- They are used on an occasional basis
+
+- They do not prevent gastric acid secretion, but intervene afterwards, either by neutralising luminal acidity (bicarbonate, alumina or magnesium hydroxide), or by being deposited in the upper part of the stomach to protect the mucosa during GERD (sodium alginate).
+
+- They are useful and effective in the case of infrequent symptoms
+
+- They allow treatment on demand
+
+- They do not allow oesophagitis lesions to heal
+
+b) Anti-secretory drugs (reducing gastric acid secretion): H2 blockers and PPIs
+
+- H2 anti-histamines (anti-H2) - cimetidine, famotidine, ranitidine - are effective on symptoms but are rarely prescribed because they are less effective than PPIs, require several daily doses and have more side effects;
+
+- Proton pump inhibitors (PPIs) are more effective and are widely prescribed.
+
+These drugs are frequently self-medicated.
+
+'''RGO MANAGEMENT IN PRACTICE'''
+
+'''Medical treatment of uncomplicated GERD:'''
+
+1. Typical symptoms which are not very incapacitating and/or intermittent.
+
+      - dietary and health rules
+
+      - alginates and other topical medicines
+
+      - PPI 1⁄2 dose 28 days if symptoms > 1/week, followed by on-demand treatment.
+
+  2. Frequent/intense but uncomplicated symptoms
+
+-continuous treatment (PPI ½ or even full dose) if symptoms recur on discontinuation, looking for the minimum effective dose
+
+
+'''Medical treatments for complicated GERD:'''
+
+Peptic oesophagitis
+
+- non-severe (Grade A and B): full-dose PPI for 4 weeks; prevention of relapses by PPI at minimum effective dose. No follow-up endoscopy.
+
+- severe (grade C and D): full-dose PPI for 8 weeks, with endoscopic monitoring of healing; relapse prevention with PPI at minimum effective dose.
+
+Peptic stenosis :
+
+- Double-dose PPI initially, then continue at full dose over the long term;
+ 
+- endoscopic dilatation to be discussed on a case-by-case basis.
+
+
+'''Surgical treatment of GERD'''
+
+Reflux surgery involves laparoscopic fundoplication, i.e. surrounding the cardia with the fundus to create a valve that reduces the passage of gastric contents into the oesophagus. The surgeon also performs the following procedures: reintegration of the hiatal hernia into the abdominal cavity, closure of the diaphragmatic orifice and fixation of the assembly.
+
+
+
+'''What you need to know about PPIs'''
+
+These are some of the most widely prescribed drugs in the world. The 3 main indications are :
+
+A) Treatment of gastro-oesophageal reflux disease (GERD)
+
+B) Prevention and treatment of gastroduodenal lesions caused by non-steroidal anti-inflammatory drugs (NSAIDs) in patients at risk (>65 years, history of peptic ulcer disease, associated anti-aggregants or anticoagulants)
+
+C) Eradication of Helicobacter pylori and treatment of peptic ulcers
+
+
+1) Pharmacology :
+
+- Non-competitive inhibition of proton pumps with reduced acid secretion
+
+- PPIs increase gastric pH
+
+- They systematically lead to a non-pathological rise in gastrinemia
+
+- Causes numerous drug interactions
+
+
+2) Dosage and administration
+
+  Taken daily on an empty stomach in the morning 15-30 minutes before meals.
+{| class="wikitable"
+|
+| colspan="3" |Posology (mg)
+|-
+|
+|Half dose
+|Full dose
+|Double dose
+|-
+|Omeprazole
+|10
+|20
+|40
+|-
+|Rabeprazole
+|10
+|20
+|40
+|-
+|Lansoprazole
+|15
+|30
+|60
+|-
+|Pantoprazole
+|20
+|40
+|80
+|-
+|Esomeprazole
+|20
+|40
+|80
+|}
+
+
+3) Infrequent side effects
+
+- Mainly headaches and diarrhoea
+
+- In healthy subjects: there is a minimal additional risk of digestive bacterial infection (non-typic Salmonella, Clostridium difficile, Campylobacter).
+
+- In cirrhotic patients, PPIs increase the risk of ascites fluid infection, and their excessive use is associated with excess mortality.
+
+- Development of benign gastric glandular cystic polyps without risk of degeneration
+
+- Osteoporosis (not clearly demonstrated)
+
+- Microscopic colitis (mainly with lansoprazole)
+
+- No association with the occurrence of cancer

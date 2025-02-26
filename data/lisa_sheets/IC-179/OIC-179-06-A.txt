@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-179-06-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Sanitary risks related to water and food. Food poisoning
+|Rank=A
+|Item_parent_short=Health risks associated with food and water.
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Order=6}}
+1.     Gastrointestinal disorders (infectious agents, fungi (macromycetes), histamine syndrome)
+
+2.     Skin rash (allergy, macromycetes). There are many food allergens: chicken eggs, gluten, peanuts, etc., not to be confused with histamine syndrome linked to the consumption of poorly preserved fish.
+
+3.     Neurological damage (microbial, toxic (heavy metals, hydrargyrism or mercury-related Minamata disease), macromycetes)
+
+4.     Liver disease (viruses, parasites, macromycetes)
+
+5.     Renal failure (enterohaemorrhagic E.coli, Shigella, toxins, macromycetes)
+
+6.     Haemolytic uraemic syndrome (HUS) (enterohaemorrhagic E.coli, Shigella, macromycetes)
+
+7.     Thrombotic thrombocytopenic purpura (''Enterohaemorrhagic E.coli'', ''Shigella'')
+
+8.     Dyspnoea (allergy)
+
+9.     Shock (toxins, anaphylaxis, histamine syndrome)
+
+10.   Rhabdomyolysis (macromycetes)
+
+11.   Endocrine disruption (soy (not recommended for children under 3), plant protection products, pesticides, phthalates, bisphenol A in food plastics)
+
+12.   Cancer: chlordecone-type pesticides and prostate cancer, aflatoxin and liver cancer

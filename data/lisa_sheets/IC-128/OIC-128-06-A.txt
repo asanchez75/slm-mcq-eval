@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-128-06-A
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=A
+|Title=Knowing the 1st line biological assessment
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+The biological work-up is used to rule out a secondary cause and other causes of bone fragility, which are managed differently.
+
+There is no consensus on which biological tests should be carried out systematically.
+
+Initially, it may be proposed to measure :
+
+- haemogram,
+
+- CRP,
+
+- '''serum protein electrophoresis''',
+
+- '''calcemia''',
+
+- phosphatemia,
+
+- creatinine levels with estimation of clearance using the CKD-EPI formula,
+
+- 25-OH-vitamin D.
+
+These tests may then be supplemented by biological assays to identify a secondary cause of osteoporosis, depending on the interview, clinical examination and initial results:
+
+- PTH (hyperparathyroidism),
+
+- TSH (hyperthyroidism or overdosage of thyroid hormone during treatment),
+
+- Midnight cortisol +/- minute braking +/- 24-hour cortisoluria with creatinuria (endogenous hypercortisolism),
+
+- Transferrin saturation coefficient (haemochromatosis),
+
+- Plasma testosterone (hypogonadism in men).      

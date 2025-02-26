@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-074-14-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Anxiolytics: knowing the rules for correct use at all stages of life, particularly in elderly patients
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=14}}
+The '''prescription of hypnotics''' and '''anxiolytics''' must be based on a '''careful analysis''' of the clinical situation, seeking to separate what falls under '''transient difficulties''' and '''reactions to a non-psychiatric pathology''', and '''confirmed psychiatric pathology'''. It must be '''<u>regularly</u> reassessed'''. It '''should not be stopped <u>brutally</u>''' after a course of treatment several weeks old.
+
+'''As part of this prescription:'''
+
+* There is no need to combine two anxiolytics (benzodiazepines or others) in the treatment of anxiety;
+* There is no need to combine two hypnotics;
+* There is no need to combine two benzodiazepines.
+* There is no need to prescribe benzodiazepines without taking into account the regulatory maximum prescription periods (including the withdrawal period and with regular reassessment):
+** 12 weeks for anxiolytics;
+** 4 weeks for hypnotics;
+
+* An anxiolytic or hypnotic prescription should not be initiated without complying with the official recommended doses, and without starting with the lowest dose;
+* An anxiolytic or hypnotic prescription should not be systematically renewed without reassessment.
+
+
+'''Concerning benzodiazepines:'''
+
+* At the time of initiation of treatment: ''''<u>initiation</u>'':
+** Treatment will be prescribed at the minimum effective dose;
+** The treatment and its transient nature are explained to the patient;
+** Lower doses will be used in elderly patients;
+* At the time of '''<u>maintenance treatment</u>''':
+** It will be stopped as soon as possible;
+* At the time of ''''''<u>stopping treatment</u>'' (particularly in elderly subjects):
+** Assess the patient's motivations, their attachment to the treatment ;
+** Discontinuation should always be gradual, over a period of several weeks to several months;
+** Specialised management should be sought for :
+*** A) Associated severe psychiatric disorders;
+*** B) Dependence on other drugs;
+*** C) Combination with other psychotropic drugs;
+*** D) intractable insomnia;
+** The aim is to stop taking benzodiazepines.
+** There is no argument for proposing drug replacement therapy when discontinuing benzodiazepines in elderly patients;
+** Non-medicinal support measures should be put in place for as long as necessary.

@@ -1,0 +1,113 @@
+{{knowledge objective
+|Identifiant=OIC-212-07-A
+|Item_parent=Hemograms in adults and children: indications and interpretation
+|Item_parent_short=Hemograms in adults and children: indications and interpretation
+|Rank=A
+|Intitulé=Hémogramme chez l'enfant : connaître les normes du taux d'hémoglobine (Hb) et la définition de l'anémie
+|Description=including physiological kinetics from birth and the first years of life.
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+
+{| class="wikitable"
+|
+|'''Standards'''
+|
+|
+|-
+| rowspan="5" |'''Hb''''
+|14-23 g/dL
+
+(140-230 g/L)
+|Newborn
+|Anaemia
+
+<14 g/dL
+| rowspan="5" |
+|-
+|11,1-12,9 g/dL
+
+(111-129 g/L)
+|6 months-2 years
+|Anaemia
+
+<11.1 g/dL
+|-
+|11.5-12.9 g/dL
+
+(115-129 g/L)
+|2-6 years
+|Anaemia
+
+<11.5 g/dL
+|-
+|11.9-13.5 g/dL
+
+(119-135 g/L)
+|6-12 years
+|Anaemia
+
+<11.9 g/dL
+|-
+|12.4-14.6 g/dL
+
+(124-146 g/L)
+|12-16 years
+|Anaemia
+
+<12.4 g/dL
+|-
+| rowspan="5" |'''VGM''''
+|100-120 fl
+|Newborn
+|Microcytosis
+
+<93 fl
+|Macrocytosis
+
+>125 fl
+|-
+|73-79 fl
+|6 months-2 years
+|Microcytosis
+
+<70 fl
+| rowspan="2" |Macrocytosis
+
+>84 fl
+|-
+|75-81 fl
+|2-6 years
+|Microcytosis
+
+<75 fl
+|-
+|77-84 fl
+|6-12 years
+|Microcytosis
+
+<77 fl
+|Macrocytosis
+
+>92 fl
+|-
+|80-88 fl
+|12-16 years
+|Microcytosis
+
+<78 fl
+|Macrocytosis
+
+>96 fl
+|-
+|'''CCMH''''
+|32-36 g/dL
+<br />
+|Regardless of age or sex
+|Hypochromia
+
+<32 g/dL
+|Hyperchromia
+
+>36 g/dL
+|}

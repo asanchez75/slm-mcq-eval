@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-291-13-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the prevalence of occupational cancers
+|Description=Frequency of exposure and attributable share linked to occupational exposure
+|Section=Epidemiology
+|Contributors=
+|Order=13}}
+A recent INCa study estimates the fraction of risk attributable to occupational exposure at ''around 4% for all incident cancers'', which probably represents between 12,000 and 15,000 new cases per year in France. In order of decreasing proportion of occupational origin, we might mention :
+
+- mesothelioma: 71
+
+- Cancers of the nasal cavity: 25%.
+
+- Lung cancer: 15%.
+
+- Leukaemia: 5 to 18%.
+
+- Bladder and urinary tract cancers: 2%.

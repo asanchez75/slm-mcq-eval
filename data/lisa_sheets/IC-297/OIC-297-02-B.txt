@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-297-02-B
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=B
+|Title=Knowing the main genetic predispositions and other risk factors for malignant tumours in children
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Virginie Gandemer
+|Order=2}}
+
+'''Childhood cancers are essentially sporadic.'''
+
+Few known environmental factors are implicated in the genesis of childhood cancers. These include high doses of radiation, viruses such as EBV (Burkitt's lymphoma, undifferentiated carcinoma of the nasopharynx, Hodgkin's disease), HIV (lymphoma, leiomyosarcoma) or HBV (hepatocarcinoma) and certain well-established iatrogenic factors such as alkylating agents and topoisomerase inhibitors (risk of leukaemia) or immunosuppressive treatments (risk of lymphoma).
+
+Less than 10% occur in the context of known genetic predisposition syndromes. However, a predisposition syndrome should be suspected in certain situations: family history of cancer, certain types of rare cancer, occurrence of synchronous or metachronous cancers, association with other abnormalities, particularly developmental abnormalities (facial dysmorphia or other congenital anomalies, intellectual failure, growth disorders, skin or haematopoiesis abnormalities).

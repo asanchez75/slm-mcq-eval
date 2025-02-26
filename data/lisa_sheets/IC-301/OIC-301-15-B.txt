@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-301-15-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Knowing the initial imaging exploration strategy for colon cancer
+|Description=Thoraco-abdomino-pelvic scanner
+|Rubric=Additional examinations
+|Contributors=
+|Order=15}}
+'''After positive diagnosis:'''
+
+- Thoracic-abdominal-pelvic scan with injection to look for distant metastases
+
+- Complete colonoscopy to look for a second tumour site

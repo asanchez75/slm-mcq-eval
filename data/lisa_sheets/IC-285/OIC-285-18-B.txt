@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-285-18-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Knowing the complications of coeliac disease and the elements of monitoring
+|Description=Osteopenia, lymphomas, deficiencies, refractory sprue, microscopic colitis
+|Rubric=Monitoring and/or prognosis
+|Contributors=
+|Order=18}}
+The complications (apart from deficiencies) of coeliac disease are :
+
+- refractory sprue type 1 or 2 (rare pre-lymphomatous entity)
+
+- lymphoma of the small intestine and certain epithelial cancers (oesophagus, pharynx, small intestine)
+
+- reduced fertility (more frequent)
+
+Coeliac disease is monitored by annual repeat IgA anti-transglutaminase antibody tests, which are usually negative within 1 year of compliance with the gluten-free diet.
+
+Follow-up duodenal biopsies are recommended at 1-2 years to ensure that the histological abnormalities on the biopsies have disappeared.
+
+In the event of a recurrence of symptoms despite a gluten-free diet considered to be well managed by the patient, the following should be sought:
+
+▪ Firstly, poor compliance with the gluten-free diet (new duodenal biopsies, new anti-transglutaminase IgA assay, questioning by dietician),
+
+▪ A questioning of the diagnosis of celiac disease (differential diagnosis of villous atrophy) or association with another disease such as microscopic colitis which may be associated with celiac disease and which may explain persistent or recurrent diarrhoea,
+
+▪ Small bowel neoplasia (lymphoma, adenocarcinoma, refractory sprue).

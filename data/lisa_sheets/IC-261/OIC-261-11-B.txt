@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-261-11-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Know the clinical and biological elements leading to suspicion of extra-membranous glomerulopathy (GEM)
+|Description=Know the mode of presentation of GEM, suspect paraneoplastic GEM in a subject at risk (smoker, etc.).
+|Rubric=Positive diagnosis
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=11}}
+
+'''B.     Extra-membranous glomerulopathy''''
+
+'''Diagnosis:'''
+
+*In over 85% of cases, there is a nephrotic syndrome which is often impure.
+*Diagnosis is based on renal biopsy:
+**light microscopy :
+***an absence of proliferation,
+***normal or thickened and spiculated MBG on the outer surface;
+**immunofluorescence: granular extramembranous deposits of IgG and C3.
+*GEMs often present with extramembranous deposits of IgG targeting at the same site an autoantigen expressed by podocytes, in the vast majority of cases the phospholipase A2 receptor (PLA2-R). These anti-PLA2-R IgGs (autoantibodies) are detected in the serum.
+*GEM is sometimes diagnosed without a renal biopsy when there is a combination of nephrotic syndrome and anti-PLA2R serum antibodies.
+
+*GEM can be :
+**primary (85% of cases).
+**secondary (15% of cases): table 6.
+
+
+Table 6: Causes of secondary GEM
+{| class="wikitable"
+|Solid cancers +++
+|- Especially if age > 50 years
+
+- Lung, breast, colon and melanoma cancers
+|-
+|Systemic lupus erythematosus ++.
+|- Women aged 20 to 55
+|-
+|Other autoimmune diseases
+|- Sjögren's syndrome, thyroiditis...
+|-
+|Infections
+|- Hepatitis B (and C), syphilis, leprosy, filariasis..,
+|-
+|Medicines
+|- NSAIDS
+|}
+
+
+'''Complications:'''
+
+*Complications associated with nephrotic syndrome.
+*Specific complication: thrombosis of the renal veins.

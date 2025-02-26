@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-06-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing how to identify other toxidromes
+|Description=Knowing how to recognise an adrenergic syndrome, a serotonin syndrome and a membrane stabilising effect
+|Rubric=Positive diagnosis
+|Contributors=Dominique Vodovar
+|Order=6}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Figure 4 toxidromes.jpg
+</gallery><br />

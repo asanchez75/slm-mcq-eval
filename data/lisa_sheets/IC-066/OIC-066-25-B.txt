@@ -1,0 +1,94 @@
+{{knowledge objective
+|Identifiant=OIC-066-25-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the DSM-5 diagnostic criteria
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=25}}
+
+'''TAG'''
+
+A. Anxiety and excessive worry (waiting with apprehension) occurring most of the time for at least 6 months about a certain number of events or activities (such as work or school performance).
+
+B. The person has difficulty controlling this preoccupation.
+
+C. Anxiety and worry are associated with three (or more) of the following six symptoms (including at least some symptoms present most of the time during the last 6 months): Agitation or a feeling of being overexcited or on edge, tiredness, difficulty concentrating or memory lapses, irritability, muscle tension, sleep disturbance.
+
+D. Anxiety, worry or physical symptoms cause clinically significant distress or impairment in social, occupational or other important areas of functioning.
+
+E. The disturbance is not attributable to the physiological effects of a substance (e.g. substance of abuse, medication) or other medical condition (e.g. hyperthyroidism).
+
+F. The disturbance is not better explained by another mental disorder
+
+'''TP'''
+
+A. Recurrent and unexpected panic attacks.
+
+B. At least one of the attacks was followed by a period of one month (or more) of one or both of the following symptoms: persistent fear or worry of further panic attacks or their consequences; significant and maladaptive change in behaviour related to the attacks (e.g. behaviours related to avoidance of the onset of a panic attack such as avoidance of unfamiliar exercises or situations).
+
+C. The disturbance is not attributable to the physiological effects of a substance (e.g. substance of abuse, medication) or other medical condition (e.g. hyperthyroidism, cardiopulmonary condition).
+
+D. The disturbance is not better explained by another mental disorder (e.g. the panic attack does not occur exclusively in response to feared social situations, as in social anxiety, or in response to specific phobogenic objects or situations, as in specific phobia, or in response to obsessions, as in obsessive-compulsive disorder, or in response to a reminder of traumatic events, as in post-traumatic stress disorder, or in response to separation from attachment figures, as in separation anxiety).
+
+'''Agoraphobia'''
+
+A. Marked fear or anxiety in two (or more) of the following five situations: using public transport; being in open places; being in enclosed places; being in a queue or crowd; being alone outside the home.
+
+B. The person fears or avoids these situations because they think it might be difficult to escape or find help if panic symptoms or other incapacitating or embarrassing symptoms occur (e.g. fear of falling in the elderly, fear of incontinence).
+
+C. Agoraphobogenic situations almost always provoke fear or anxiety.
+
+D. Agoraphobogenic situations are actively avoided, require the presence of a companion or are experienced with intense fear or anxiety.
+
+E. Fear or anxiety are disproportionate to the real danger associated with agoraphobic situations and the socio-cultural context.
+
+F. The fear, anxiety or avoidance is persistent, typically lasting 6 months or more.
+
+G. Fear, anxiety or avoidance cause clinically significant distress or impairment in social, occupational or other important areas of functioning.
+
+H. If another medical condition (e.g. inflammatory bowel disease, Parkinson's disease) is present, the fear, anxiety or avoidance is clearly excessive.
+
+I. The fear, anxiety or avoidance is not best explained by symptoms of another mental disorder; for example, the symptoms are not limited to a specific situational phobia, are not present only in social situations (as in social anxiety), and are not related exclusively to obsessions (as in obsessive-compulsive disorder), perceptions of defects or imperfections in physical appearance (as in obsession with body dysmorphia), reminders of traumatic events (as in post-traumatic stress disorder) or fear of separation (as in separation anxiety).
+
+A distinction is made between isolated PD and PD with agoraphobia, the severity of which varies according to the number of attacks.
+
+'''Phobia''' '''simple'''
+
+A. Intense fear or anxiety about a specific object or situation (e.g. flying, heights, animals, having an injection, seeing blood).
+
+B. The phobogenic object or situation almost always provokes immediate fear or anxiety.
+
+C. The phobogenic object or situation is actively avoided or experienced with intense fear or anxiety.
+
+D. The fear or anxiety is disproportionate to the real danger engendered by the specific object or situation and to the socio-cultural context.
+
+E. The fear, anxiety or avoidance is persistent, usually lasting 6 months or more.
+
+F. Fear, anxiety or avoidance cause clinically significant suffering or impairment in social, occupational or other important areas of functioning.
+
+G. The disorder is not better explained by symptoms of another mental disorder including fear, anxiety and avoidance of situations associated with panic-like symptoms or other symptoms of incapacity (as in agoraphobia), objects or situations related to obsessions (as in obsessive-compulsive disorder), memories of traumatic events (as in post-traumatic stress disorder), separation from home or attachment figures (as in separation anxiety or social situations ; as in social anxiety disorder).
+
+'''Social anxiety disorder'''
+
+A. Intense fear or anxiety of one or more social situations during which the subject is exposed to the possible close observation of others. Examples of situations include social interactions (e.g. having a conversation, meeting unfamiliar people), being observed (e.g. eating or drinking) and performance situations (e.g. giving a speech).
+
+B. The person fears acting or showing symptoms of anxiety in a way that will be judged negatively (e.g. humiliating or embarrassing, leading to rejection by others or offending them).
+
+C. Social situations almost always provoke fear or anxiety.
+
+D. Social situations are avoided or endured with intense fear or anxiety.
+
+E. The fear or anxiety is disproportionate to the real threat posed by the social situation and the socio-cultural context.
+
+F. The fear, anxiety or avoidance is persistent, usually lasting 6 months or more.
+
+G. Fear, anxiety or avoidance results in clinically significant distress or impairment in social, occupational or other important areas of functioning.
+
+H. The fear, anxiety or avoidance is not due to the physiological effects of a substance (e.g. substance of abuse, medication) or any other medical condition.  
+
+I. The fear, anxiety or avoidance is not better explained by symptoms of another mental disorder such as panic disorder, obsession, body dysmorphia, autism spectrum disorder.
+
+J. If another medical condition (e.g. Parkinson's disease, obesity, disfigurement secondary to burn or injury) is present, the fear, anxiety or avoidance is clearly unrelated to that condition or excessive.

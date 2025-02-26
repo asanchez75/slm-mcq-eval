@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-267-18-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=A
+|Title=Knowing the indications for prescribing kalaemia and the definition of hypokalaemia
+|Description=None
+|Rubric=Definition
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=18}}
+'''1- Definition of hypokalaemia'''
+
+*Hypokalaemia is defined as a plasma potassium concentration of less than 3.5 mmol/L.
+*False hypokalaemia due to the passage of potassium from the extracellular compartment to the intracellular compartment has been described in highly hyperleukocytic leukaemic patients, if the blood sample is kept at room temperature for a prolonged period.
+
+'''2-Determination of kalaemia in search of hypokalaemia:'''
+
+*Acute or chronic diarrhoea
+*Initial assessment of hypertension
+*Prescription and monitoring of drugs that alter potassium metabolism (hypokalaemic diuretics)
+*Acute or chronic muscular disorders (cramps, myalgia)
+*Polyuro-polydipsic syndrome
+*Heart rhythm disorders
+*Loss of consciousness

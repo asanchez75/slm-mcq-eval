@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-108-15-A
+|Item_parent=Confusion, dementia. (see item 132)
+|Item_parent_short=Confusion, dementia. (see item 132)
+|Rank=A
+|Title=Modensitometry of a chronic HSD
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=15}}
+<gallery widths="300" heights="300">
+File:HSD chronic02.png
+</gallery>Injection-free CT scan showing a peri-cerebral collection in the left hemispheric convexity (arrows), mostly hypo-dense, in the shape of a "crescent moon" (concave medially and convex laterally): chronic subdural haematoma. Note the additional presence of a few spontaneously hyper-dense areas within the chronic subdural haematoma, indicating the presence of a recent rebleed.

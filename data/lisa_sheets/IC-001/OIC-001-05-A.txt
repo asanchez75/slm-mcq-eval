@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-001-05-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the notion of representation of the disease
+|Description=Know that the patient's representations may differ from those of the doctor.
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+The meeting between the carer and the patient concerning an illness is a meeting of representations, i.e. the image that each has of this illness. The representations of the doctor and the patient may differ as a result of their personal positive or negative experiences. The representations of the disease have biomedical or psychosocial consequences, the impact or the vision of the patient's entourage, etc.

@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-235-11-B
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=B
+|Title=Knowing the etiologies of less frequent clinical forms
+|Description=Purulent, tuberculous, neoplastic, autoimmune, chronic renal failure, postpericardiotomy pericarditis.
+|Rubric=Etiologies
+|Contributors=Jennifer Cautela
+|Order=11}}
+
+
+* <u> '''Bacterial''' = purulent pericarditis</u> :
+** Rarer but more serious
+** High fever >39° C
+** Germs: staphylococci, pneumococci, streptococci, gram-negative bacilli, fungi
+** Immunocompromised" subjects or carriers of "severe infection" (septicaemia, pleuropulmonary infection, or after cardiac or thoracic surgery).
+** Severe prognosis: frequent progression to tamponade or pericardial constriction.
+** Antibiotic treatment adapted to the germ found in the pericardial fluid during pericardial puncture.
+** Surgical drainage often necessary
+
+* '''<u>Tuberculous pericarditis:</u>'''
+** '''Subacute'''
+** fluid with '''AEG''' and persistent moderate '''fever'''
+** Context: tuberculosis, contagious, immunosuppression
+** Associated pulmonary abnormalities
+** Look for BK
+** Pericardial calcifications
+** Frequent progression to tamponade and pericardial constriction
+** Anti-tuberculosis treatment +/- corticosteroids
+
+* '''<u>Neoplastic pericarditis</u>:'''
+** '''Fluid often haemorrhagic'''
+** Background, AEG
+** Most often related to a secondary location (all cancers but more frequently primary lung cancer, lymphomas), more rarely primary pericardial cancer (mesothelioma)
+** Frequent progression to tamponade and recurrence
+** Surgical drainage +/- pericardial window
+
+* '''<u>Pericarditis of systemic / autoimmune diseases</u>:'''
+** Evocative context, + /- associated with pleurisy (lupus +++).
+
+* '''<u>Radicular pericarditis</u>:'''
+** Post radiotherapy mediastinal or left breast.
+** Risk of progression to chronic constrictive pericarditis.
+
+* <u>'''Other rare aetiologies''':</u>
+** hypothyroidism, drug-induced, cardiac amyloidosis, aortic dissection (sign of severity), heart failure, pulmonary hypertension, traumatic, chronic end-stage renal disease, congenital (partial or complete agenesis, cysts)

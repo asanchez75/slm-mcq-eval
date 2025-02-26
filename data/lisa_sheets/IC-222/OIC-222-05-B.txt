@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-222-05-B
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=B
+|Title=Know the prevalence, the associated cardiovascular risk and the percentage of cardiovascular pathologies that can be avoided if the major modifiable risk factors (hypertension, smoking, diabetes, dyslipidaemia) are managed, know that scores exist (but do not know how to calculate them).
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=5}}
+
+
+*Prevalence (French population):''''
+**'''HTA:''' 1 in 3 adults in France, frequency increases with age (5% before age 45 and > 50% after age 65).
+**'''Tobacco:''' approximately 25% of the population in 2019, down 4 points since 2016.
+**'''Diabetes:''' 4 to 5% of the population, increasing by 5% per year, 90% type 2 diabetes, underestimated by 20% due to lack of diagnosis, prevalence increases with age (prevalence of 20% after 75).
+**Dyslipidaemia: about 20% of 18-74 year olds with LDL-c > 1.6 g/L, about 6% of 18-74 year olds with LDL-c > 1.9 g/L.
+
+*'''Associated cardiovascular risk:''''
+*'''Associated cardiovascular risk:''' **'''High blood pressure:''' increased relative risk of CV disease: Stroke x 7, MI x 3, OSA x 2.
+**'''Smoking:''' increase in relative risk of CV death by a factor of 2.8.
+**'''Diabetes:''' increase in relative risk of CV event by a factor of 2.
+**'''Dyslipidaemia:''' quasi-linear positive correlation then exponential in the extreme values between LDL-c and the risk of CV event.
+
+*'''Percentage of avoidable cardiovascular pathologies if major modifiable risk factors are managed:''''
+**'''High blood pressure:''' a 10 mmHg reduction in systolic blood pressure and a 5 mmHg reduction in diastolic blood pressure is associated with a 20% relative annual reduction in the risk of coronary heart disease and a 32% relative annual reduction in the risk of stroke.
+**Smoking: Smoking cessation reduces the relative risk of CV death by 36% and the relative risk of recurrent MI after an acute coronary event by 32%.
+**Diabetes: the impact of intensive glycaemic control on cardiovascular events, particularly in type 2 diabetes, varies according to the study, the method of analysis, the duration of follow-up and the compounds used. In particular, the impact of metformin treatment depends on the population studied and the length of time diabetes has been present, and remains a matter of debate. Recently, two therapeutic classes (SGLT2 inhibitors and GLP-1 analogues) have been shown to reduce cardiovascular events, but not exclusively by controlling HbA1c.
+**Dyslipidaemia: 20% reduction in the relative risk of a CV event for each 1 mmol/L (39 mg/dL) reduction in LDL cholesterol.
+
+
+In Europe, ''overall cardiovascular risk'' is assessed in apparently healthy people (primary prevention) by the ''SCORE 2 and SCORE 2-OP scores''. These scores estimate the ''probability of occurrence of a major fatal or non-fatal CV event (death by MI or stroke, non-fatal MI, non-fatal stroke) over a given period (10 years)''. For France, the "European countries at low cardiovascular risk" or "low CVD risk" scores are used. These scores are based on : gender, smoking, non-HDL cholesterol, systolic blood pressure and age. Diabetes, obesity, coronary heredity, sedentary lifestyle and lack of physical activity are not included in these scores.   '''[[Know the global cardiovascular risk assessment OIC-223-01-A|Cf. the ad hoc item in the LiSA dyslipidaemia sheet.]]''''

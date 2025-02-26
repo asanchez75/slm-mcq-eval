@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-114-13-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Know the three main causes of morbilliform exanthema
+|Description=Measles, epidermal megalaerythema, infectious mononucleosis
+|Rubric=Etiologies
+|Contributors=
+|Order=13}}
+The three main infectious causes of morbilliform exanthema are:
+
+- measles (unvaccinated children and adults)
+
+- parvovirus B19 infection (megalerythema epidemic) (children aged 5-10)
+
+- infectious mononucleosis (EBV) (adolescents, young adults)
+
+In addition, maculopapular toxidermia is a frequent cause of morbilliform exanthema in children and adults.
+
+Other infectious aetiologies (bacterial, viral or parasitic): very varied and generally associated with extracutaneous manifestations (ENT, digestive, etc): echovirus, adenovirus, primary HIV infection, dengue fever, enterovirus, toxoplasmosis,
+
+rickettiosis, leptospirosis, etc.

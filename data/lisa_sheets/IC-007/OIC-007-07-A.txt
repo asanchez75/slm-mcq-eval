@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-007-07-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Title=Knowing how to define the content of a medical record, knowing the obligations regarding the keeping of a medical record
+|Description=None
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=7}}
+The medical record contains essential information about the patient's health.
+
+It is an essential tool for ensuring the continuity and quality of care, for sharing information between the various healthcare professionals, for ensuring patients' right of access to health information and for tracing information that can be used as evidence in the event of liability claims.
+
+Public and private health establishments and self-employed doctors are obliged to create a file (paper or computerised), manage it, keep it and give patients access to it at their request.
+
+<br />
+
+* '''<u>Defining the contents of a medical record</u>'''
+
+The obligation to compile a file and its content are defined in article R. 1112-2 of the French Public Health Code. The information it contains is divided into 3 categories:
+
+1° formalised information collected during outpatient consultations provided in the establishment, during reception in the emergency department or at the time of admission and during the hospital stay (e.g. examination results, consultation reports, reasons for hospitalisation, operation reports, etc.);
+
+2° formalised information drawn up at the end of the stay (e.g. liaison letter, discharge prescriptions, discharge arrangements, etc.);
+
+3° information obtained from third parties not involved in the therapeutic treatment or information concerning such third parties (e.g. confidences from family and friends concerning the patient's addictive behaviour, confidences from the patient concerning his family and friends, etc.). Unlike points 1 and 2, this information cannot be communicated to the patient. This information given by or about third parties should therefore be kept separately in the file so that it can be easily removed if necessary.
+
+This list is not exhaustive, and in practice the medical file is adapted to the patient, the way they are cared for and the medical speciality to which they belong.
+
+Furthermore, doctors may write notes (non-formalised elements), which are considered personal (working hypothesis, subjective impressions, preparatory or unfinished documents which do not contribute to the diagnosis, follow-up, treatment or preventive action), independent of the medical file and which are not communicable to the patient or third parties (article R. 4127-45 of the Public Health Code).
+
+In summary, there are ''2 categories of non-disclosable information'': information collected from or about third parties and the healthcare professional's personal notes.
+
+* '''<u>Obligations as to the keeping of a medical record</u>'''
+
+Article R. 1112-3 of the French Public Health Code states that :
+
+- The file identifies the patient and, where appropriate, the trusted support person and the person to be notified;
+
+- Each document in the file is dated and includes the identity of the patient (surname, first name and date of birth) and the professional;
+
+- Medical prescriptions are time-stamped and signed with the signing doctor's name in legible characters.
+
+The establishment or doctor is responsible for keeping the file safe and confidential. The retention period is defined as follows:
+
+<u>In institutions</u>, the minimum periods are defined in article R. 1112-7 of the Public Health Code. This file must be kept :
+
+<nowiki>*</nowiki> 20 years from last stay or last outpatient consultation ;
+
+<nowiki>*</nowiki> At least until the age of 28 (which amounts to "disregarding" the first 8 years of life when calculating the time limit) ;
+
+<nowiki>*</nowiki> 10 years after death if death occurs within 10 years of the last stay or outpatient consultation.
+
+These time limits are suspended by the lodging of any appeal against the medical liability of the healthcare establishment or healthcare professionals.
+
+<In private practice or in a company, there is no text setting this deadline. The Conseil National de l'Ordre des Médecin recommends the time limits laid down for establishments.
+
+When a doctor leaves the practice, he or she remains responsible for keeping the records. Patients may ask for their records to be passed on to their new doctor.

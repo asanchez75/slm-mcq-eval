@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-013-13-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Title=Know the definition of a suspicious, unusual or violent death.
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=13}}
+'''Suspicious death:'''
+
+Death for which it is not possible to exclude the involvement of a third party.
+
+'''Unusual death:'''
+
+A death in which at least one of the following elements is unusual: the circumstances of the death, the way in which the body was found, the age of the victim.
+
+'''Violent death:'''
+
+Any death caused by accident, suicide or homicide.
+
+'''These deaths require the [[Know the general rules for writing a death certificate 2C-013-DE-A06|case obstacle medico-legal]] to be ticked on the death certificate.''''

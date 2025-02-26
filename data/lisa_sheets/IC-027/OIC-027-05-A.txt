@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-027-05-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Toxoplasmosis: how to monitor a pregnant woman who is seronegative for toxoplasmosis
+|Description=None
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=5}}
+Pregnant women are monitored for toxoplasmosis by monthly [[Interpretation of a SD-236 serology result|serological screening]]: toxoplasmosis IgG and IgM testing is mandatory when pregnancy is declared (unless previous maternal immunity has been documented).
+
+In non-immune women, serology should be repeated monthly until delivery, because of the high frequency of inapparent forms of maternal toxoplasmosis (80%).
+
+The steps to be taken in the event of positive maternal serology are as follows.
+
+1) Dating maternal contamination
+
+- It's easy if it's a seroconversion during serological monitoring.
+
+- If serology is positive with the presence of IgG and IgM in early pregnancy, the IgG avidity index should be used as a guide: a high value indicates a long-standing infection. A reference laboratory should also be called in to repeat all the maternal samples in order to assess how far the infection has progressed and when it occurred.
+
+2) If seroconversion is confirmed during pregnancy, the patient should be referred to a Centre Pluridisciplinaire de Diagnostic Prénatal (CPDPN) for further treatment. Anti-parasitic treatment will be initiated as soon as seroconversion is diagnosed. Treatment may be modified if the amniotic fluid PCR is positive.
+
+<br />

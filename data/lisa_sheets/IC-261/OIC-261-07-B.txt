@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-261-07-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Know the main histological features of the most common glomerular nephropathies
+|Description=Know the absence of abnormalities in MO for SNLGM, the presence of EM deposits for GEM, mesangial location of IgA (N IgA) and extracapillary proliferation (with or without deposits) for GNRP.
+|Rubric=Definition
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=7}}
+
+3.        Main histological features of the most common glomerular nephropathies
+
+Histological diagnosis of glomerular nephropathy can be made by analysing the elementary lesions (table 5).
+
+
+Table 5: Main histological features of the most common glomerular nephropathies
+{| class="wikitable"
+|Disease or syndrome
+|Proliferation
+|Deposits
+|-
+|Minimal glomerular lesions
+|No
+|No
+|-
+|Extra-membranous glomerulopathy
+|No
+|IgG and C3 on the lateral side of the MBG, granular appearance (extramembranous)
+|-
+|IgA nephropathy
+|Mesangial
+
+± endocapillary
+
+± extracapillary
+|IgA and C3 mesangial ± endocapillary
+|-
+|Systemic lupus
+|± mesangial ± endocapillary
+
+± endocapillary
+
+± extracapillary
+|Deposits of IgG, IgA or even IgM, C3 and C1q +++.
+
+Mesangial ± capillary ± extramembranous according to class of lupus nephropathy
+|-
+|Glomerulonephritis of ANCA-associated vasculitides
+|Extracapillary
+|No
+|-
+|Goodpasture's disease
+|Extracapillary
+|Linear IgG deposits along the MBG
+|-
+|Acute post-infectious glomerulonephritis
+|Endocapillary
+
+± extracapillary
+|C3 in "starry sky", +/- Ig, humps
+|}
+<br />

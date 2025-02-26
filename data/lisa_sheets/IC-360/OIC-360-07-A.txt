@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-360-07-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Knowing the elements of the aetiological diagnosis of pneumothorax: traumatic pneumothorax, primary spontaneous pneumothorax, secondary spontaneous pneumothorax.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Julien Poissy
+|Order=7}}
+
+Etiological diagnosis is based on the following data
+
+- History :
+
+- notion of trauma: traumatic PNO
+
+- notion of physical effort or Valsalva manoeuvre (effort with closed glottis) : Spontaneous PNO
+
+- In the field
+
+- Long-limbed young man: primary spontaneous PNO
+
+- Pulmonary pathology: emphysema, cavern/excavation (tuberculosis, cancer, etc.) : Secondary spontaneous PNO. Favouring role of tobacco ++.

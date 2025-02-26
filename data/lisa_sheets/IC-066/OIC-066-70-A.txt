@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-066-70-A
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Know the definition of personality, personality disorders (DSM-5 general diagnostic criteria)
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=70}}
+
+A. A lasting pattern of experience and behaviour which deviates significantly from what is expected in the individual's culture. This deviation is manifest in at least two of the following areas: Cognition (i.e. perception and vision of oneself, others and events). Affectivity (i.e. the diversity, intensity, lability and appropriateness of the emotional response). Interpersonal functioning. Impulse control.
+
+B. These lasting arrangements are rigid and invade a wide variety of personal and social situations.
+
+C. This enduring mode leads to clinically significant suffering or impairment in social, occupational or other important areas of functioning.
+
+D. This mode is stable and prolonged, and its first signs can be detected no later than adolescence or early adulthood.
+
+E. This picture is not better explained by the manifestations or consequences of another mental disorder.
+
+F. This enduring mode is not due to the direct physiological effects of a substance (e.g. a drug of abuse or medication) or a non-psychiatric pathology (e.g. a head injury).
+
+On the basis of statistical analyses, the various pathological personalities were grouped into 3 families or clusters: Cluster A) Paranoid personality, Schizoid personality, Schizotypal personality. Cluster B) Antisocial personality, Borderline personality, Histrionic personality, Narcissistic personality. Cluster C) Avoidant personality, Dependent personality, Obsessive-compulsive personality.

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-045-10-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Savoir évoquer le diagnostic clinique de trisomie 21 en postnatal.
+|Description=Epidemiology and main postnatal clinical signs of trisomy 21.
+|Rubric=Positive diagnosis
+|Contributors=Elise Launay,Damien Sanlaville,Marie-Bérengère Troadec
+|Order=10}}
+
+The diagnosis is currently made most often (80-90%) in the ante-natal period. If this is not the case, the diagnosis is made in the neonatal period on the basis of the triad:
+
+- Axial hypotonia
+
+- Heart murmur on auscultation ([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])
+
+- Facial dysmorphia
+
+Very rarely, the diagnosis may be made later (mosaic trisomy 21) based on the following factors
+
+- Psychomotor retardation ([[Psychomotor development abnormality SD-115|psychomotor development abnormality]])
+
+- Learning difficulties associated with immaturity

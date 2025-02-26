@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-046-04-B
+|Item_parent=Genomic medicine
+|Item_parent_short=Genomic medicine
+|Rank=B
+|Title=Knowing high-throughput sequencing strategies and the limits of these tests
+|Description=To understand the advantages and limitations of genomic analyses. Understand the results of a genetic analysis and its limitations, including the existence of additional data.
+|Rubric=Additional tests
+|Contributors=Damien Sanlaville,Christel Thauvin,Michel Vidaud,Martin Krahn
+|Order=4}}
+
+'''Understanding the advantages and limitations of genomic analyses'''
+
+High-throughput sequencing makes it possible to simultaneously sequence an entire gene, several genes (gene panel), all the known coding regions (exons) of (almost) all the genes (exome, ES), or even the entire genome (genome sequencing, GS).
+
+Prescription must therefore be adapted to the clinical presentation. Decision trees have been drawn up by the rare disease care networks, the genetics and cancer group for tumour predisposition (oncogenetics) and by the INCa.
+
+The advantages of high-throughput sequencing are
+
+- Analysis of numerous genes or even the entire genome at the same time (genome-wide analysis)
+
+- Increased diagnostic yield
+
+The disadvantages are
+
+- Analysis not reimbursed by social security
+
+- Need for a bioinformatics team to process the data
+
+- Identification of additional genetic data
+
+- Identification of variants whose impact is not currently known
+
+In addition, biologists need to be trained in the skills required for genome-wide analyses, given the large number of new genes and new variants identified every year (4 to 5 new genetic diseases identified every week).
+
+
+'''Understanding the result of a genetic analysis and its limitations, including the existence of additional data'''
+
+In genome-wide analyses such as exome or genome sequencing, a large number of genetic variants are identified.
+
+Three main types of variants can be identified:
+
+- Nucleotide variants: SNV (''Single nucleotide variant'') and Delins (Deletions or Insertions of 1 to 49 nucleotides)
+
+- An unbalanced structural variant of 50 nucleotides or more: CNV ('Copy Number Variant' corresponding to deletions or duplications),
+
+- Balanced Structural Variant: BSV (inversions, insertions, translocations)
+
+
+The medical biologist must perform a contextual interpretation of each variant, which is classified into 5 classes:
+
+Class 1: mild variant
+
+Class 2: probably benign variant
+
+Class 3: variant of uncertain significance
+
+Class 4: variant probably pathogenic
+
+Class 5: pathogenic variant
+
+
+Biologists report class 4 and 5 variants and discuss class 3 variants of interest at a clinical-biological interpretation meeting or at a downstream multidisciplinary consultation meeting (RCP).
+
+If class 4 or 5 variants are identified, the prescriber should generally
+
+- a [[Announcement of a diagnosis of a serious illness to the patient and/or family SD-327|announcement of a diagnosis of an illness]] (which may be serious) to the patient and/or family
+
+- address the issue of [[Disability status SD-345|disability status]]
+
+
+In accordance with the law, only the prescriber receives the report on the genetic analysis, which may be :
+
+- conclusive: presence of class 4 or 5 variant(s) explaining all or part of the phenotype
+
+- Non-conclusive: result that cannot be used as the end point of the analysis, either because no variant was selected or because the class variants of interest require further analysis (family segregation, functional tests, etc.).
+
+It may only be shared with the patient's consent, and the patient must be told which members of his or her family should contact a geneticist. If a class 4 or 5 variant is identified, prenatal or pre-implantation diagnosis may be proposed in the case of a particularly serious disease that is incurable at the time of diagnosis. It is up to the prescriber to inform the patient if any additional data has been identified. Here again, the prescriber must specify which members of the patient's family should contact a geneticist.
+
+One of the specific features of genome-wide analyses (ES and GS) is the regular re-analysis of the sequencing data, particularly in the event of inconclusive results. It is necessary to compare the computerised genome data with new knowledge at the time. Several hundred genetic diseases are identified every year.    

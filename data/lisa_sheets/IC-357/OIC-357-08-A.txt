@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-357-08-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Identify severity criteria
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=8}}
+
+'''Sepsis = onset of life-threatening organ dysfunction caused by an overreaction of the host to an infection'''
+
+<u>→ Suspicion of infection</u>
+
+<u>→ At least two of the following clinical manifestations:</u>
+
+*Systolic blood pressure ≤ 100 mmHg related to sepsis ('''[[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]]''');
+*lactate ≥ 18 mg/dL (2 mmol/L or normal laboratory values)
+*Diuresis < 0.5 mL/kg/h for more than 2 hours despite appropriate filling.
+*PaO2/FiO2 ratio < 300 mmHg in the absence of pneumonia
+*Creatininaemia > 2 mg/dL (176.8 μmol/L)
+*Bilirubinemia > 2 mg/dL (34.2 μmol/L)
+*Thrombocytopenia < 100,000 /mm3
+*Confusion or Glasgow score < 13
+
+Septic shock
+
+*Sepsis
+*Vasopressor drugs (noradrenaline++) to maintain MAP ≥ 65 mmHg
+*lactate ≥ 18 mg/dl (2 mmol/L) despite adequate filling
+
+Item 232 - Shock : [[2C-332]]
+
+Item 158 - Sepsis and septic shock : [[2C-158]]

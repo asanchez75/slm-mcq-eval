@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-123-16-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=Knowing the recognised changes associated with organ ageing
+|Description=Recognised changes associated with ageing
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=16}}
+Cardiovascular: arterial stiffness, myocardial relaxation disorder, stable cardiac output (at rest)
+
+Sensory: cataracts, presbyopia, presbycusis
+
+Neurological: reduced attention span, altered sleep patterns, reduced sensation of thirst
+
+Pulmonary: reduced ventilatory capacity
+
+Digestive: slower intestinal transit, reduced salivary secretion
+
+Nephrological: nephron reduction and reduced capacity to adapt in the event of water or salt loss, changes in the ability to dilute or concentrate urine.
+
+Metabolic: reduction in lean body mass and increase in fat mass
+
+Immune: prolonged pro-inflammatory state at the time of an infectious episode, poorer vaccine response
+
+<br />

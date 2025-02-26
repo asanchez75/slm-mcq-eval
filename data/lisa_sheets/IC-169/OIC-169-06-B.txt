@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-169-06-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Knowing the main infectious and non-infectious neurological conditions in patients with AIDS.
+|Description=In the case of AIDS, to cite the main aetiologies to be considered in the presence of a focal neurological syndrome, In the case of AIDS, to cite the main aetiologies to be considered in the presence of encephalitis, In the case of AIDS, to cite the main aetiologies to be considered in the presence of gait disorders, In the case of AIDS, to cite the main aetiologies to be considered in the presence of progressive cognitive disorders, To know the myopathy pictures linked to AIDS.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+- focal neurological syndrome: main hypothesis to be considered = cerebral toxoplasmosis
+
+Diagnosis by MRI (multiple abscessed lesions), positive blood serology (reactivation) +/- PCR on CSF
+
+Differential diagnosis: cerebral lymphoma to be considered if there is no response to anti-infective treatment on follow-up imaging.
+
+- signs of encephalitis in a highly immunocompromised patient: main hypotheses to be considered = tuberculous meningoencephalitis, progressive multifocal leukoencephalitis (PML, linked to JC virus, if CD4 < 100/mm3), HIV encephalitis, CMV encephalitis.
+
+diagnostic guidance based on lumbar puncture and imaging (MRI), with broad indications in cases of profound immunodepression
+
+- Meningitis in AIDS patients: don't forget neuro-meningeal cryptococcosis in cases of profound immunodepression (CD4<100/mm3). It should be considered in the setting of intractable headache in an immunocompromised HIV+ patient,
+
+absence of frank meningeal syndrome, usually with signs of ICCH in the foreground, CSF hyperpressure on LP. Diagnosis: yeast detection on LP (Indian ink staining), cryptococcal antigen detection in blood and CSF.
+
+
+All these events are classified AIDS

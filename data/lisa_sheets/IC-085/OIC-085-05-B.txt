@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-085-05-B
+|Item_parent=Refractive disorders
+|Item_parent_short=Refractive Disorders
+|Rank=B
+|Title=Know the physiological bases, methods and conditions for measuring visual acuity.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Visual acuity (VA''') corresponds to the discriminatory power of the eye and is defined by the smallest distance between two points (minimum separable), i.e. the inverse of the separating power of the eye expressed in minutes of arc (minimum angle of resolution) (fig. 20.2). VA is one of the functional parameters (along with colour vision and contrast vision) specific to the macula.  
+
+Visual acuity is measured separately for each eye, first without correction and then with the optical correction that gives the best AV at two observation distances.
+
+'''AV de loin'''<nowiki>: it is measured with scales graduated in tenths (Monoyer, 1875). The size of the letters is calculated so that at a distance of 5 metres, reading the finest characters corresponds to a separating power of 1 minute of arc. An AV of 10/10, which is considered normal for distance vision, enables two points separated by an angle of 1 minute of arc to be distinguished. This scale follows a decimal progression between each line: the difference in resolution angles is smaller between 8 and 10/10 than between 1 and 3/10. This scale therefore favours the measurement of good AVs to the detriment of bad ones. Similar scales are available for illiterate people (Snellen's E scale, Landolt's broken ring scale). Conversely, new VA scales (ETDRS [Early Treatment Diabetic Retinopathy Study] for example) with logarithmic progression between each line are currently favoured because moving from one line to another (at the top or bottom of the scale) corresponds to an identical progression in the size of the letters and therefore the minimum angle of resolution. </nowiki>
+
+Close vision'': this is measured on the Parinaud scale, which is read from a distance of 33 cm and whose letters decrease in size (Rossano-Weiss scale for illiterate people). Parinaud 14 corresponds to reading the largest letters, Parinaud 2 and 1.5 to reading the smallest letters.

@@ -1,0 +1,141 @@
+{{knowledge objective
+|Identifiant=OIC-355-07-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Know that the most common cause of upper gastrointestinal haemorrhage is gastro-duodenal ulceration.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+
+
+
+[[File:Schematic distribution of etiologies of upper and lower gastrointestinal bleeding.png|vignette|538x538px|Schematic distribution of etiologies of upper and lower gastrointestinal bleeding]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questioning and clinical examination are fundamental to finding the cause of the bleeding, with particular reference to the context and risk factors.
+
+Upper gastrointestinal haemorrhage: in all cases, look for risk factors: anticoagulants, platelet aggregation inhibitors, etc.
+{| class="wikitable"
+|Cause
+|Terrain
+|Clinical signs
+|-
+|Peptic Ulcer / Erosions
+|Aspirin, NSAIDs
+
+Helicobacter pylori infection
+|Epigastric pain
+
+Cf item 272
+|-
+|Portal hypertension
+|Cirrhosis, chronic liver disease
+|Signs of portal hypertension and cirrhosis
+
+Cf item 279
+|-
+|Mallory Weiss (longitudinal tear of the cardia)
+|Repeated vomiting initially without blood
+|0
+|-
+|Esophagitis
+|GERD
+|Pyrosis
+|-
+|Dieulafoy ulceration (punctiform ulceration eroding an artery)
+|0
+|0
+|-
+|Gastric cancer
+|Family history, Helicobacter pylori infection
+<br />Epigastric pain
+|Epigastric pain, anorexia, weight loss
+|-
+|Cancer of the oesophagus
+|Tobacco, alcohol, GERD
+|dysphagia
+|-
+|Gastro-duodenal angiodysplasia and antral vascular ectasia
+|Age, cirrhosis, scleroderma, autoimmune disease
+|Signs of portal hypertension, sign of scleroderma
+|-
+|Aorto-duodenal fistula
+|Abdominal aortic prosthesis, abdominal aortic aneurysm
+|Severe upper gastrointestinal haemorrhage, shock
+|}
+Lower gastrointestinal haemorrhage: in all cases, look for favouring factors: anticoagulants, platelet aggregation inhibitors, etc.
+{| class="wikitable"
+|Cause
+|Terrain
+|Clinical signs
+|-
+|Proctological (ulceration, fissure, haemorrhoids)
+|History of proctological pathology, constipation
+|Red blood without deglobulation, proctological examination (anoscopy)
+|-
+|Colonic diverticula (sigmoid)
+|Known digestive disease, NSAIDs
+|0
+|-
+|Colorectal cancer
+|Personal or family history
+|Pain, transit disorders
+
+Abdominal or digital rectal exam (DRE) mass
+|-
+|Inflammatory bowel disease (IBD) (Crohn's, UC)
+|Known IBD
+|Bloody diarrhoea
+<br />
+|-
+|Ischaemic colitis
+|Vascular, NSAIDs, Aspirin,
+
+Heart rhythm disorders
+|Pain and bloody diarrhoea without deglobulation
+|-
+|Infectious colitis
+|Antibiotic therapy, TIAC
+|Diarrhoea
+|-
+|Angiodysplasias
+|Age
+|0
+|-
+|Meckel's diverticulum
+|Young subject
+|Severe lower haemorrhage
+|}

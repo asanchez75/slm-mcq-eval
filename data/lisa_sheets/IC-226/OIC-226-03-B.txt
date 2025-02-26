@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-226-03-B
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=B
+|Heading=Know the pathophysiology of VTE including familial forms
+|Description=None
+|Topic=Physiopathology
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=3}}
+The occurrence of DVT complicated or not by PE is based on Virchow's triad: venous stasis, damage to the venous wall and "hypercoagulability".
+
+Venous stasis, for example, is encouraged by surgery, immobilisation, etc.
+
+Endothelial damage is promoted by acute medical events such as sepsis.
+
+Hypercoagulability is promoted by :
+
+- the [[2C-226-ET-A01|acquired thrombophilias or constitutional hereditary thrombophilias]].
+
+- [[Know the situations that favour VTE (circumstances of onset, temporary and persistent favouring factors)|thrombogenic situations such as cancer, inflammatory diseases, pregnancy, post partum....]]

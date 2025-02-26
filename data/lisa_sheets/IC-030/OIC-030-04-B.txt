@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-030-04-B
+|Item_parent=Prematurity and intrauterine growth retardation: risk factors and prevention
+|Item_parent_short=Prematurity and intrauterine growth retardation: risk factors and prevention
+|Rank=B
+|Title=Knowing the definition and risk factors of prematurity
+|Description=Know the definition and risk factors of prematurity
+|Rubric=Diagnosis
+|Contributors=Julie Blanc,Philippe Deruelle
+|Order=4}}
+
+'''Definition:'''
+
+Prematurity is defined as birth before 37 weeks' amenorrhoea (SA) and, from 22 SA, of a child weighing at least 500g.
+
+A distinction is traditionally made between spontaneous prematurity (occurring spontaneously, without medical intervention or escaping tocolytic treatment) and induced prematurity (induced labour or caesarean section). In France, half of premature births are due to spontaneous prematurity (spontaneous labour or premature rupture of the membranes) and the other half to induced prematurity.
+
+Spontaneous prematurity occurs after spontaneous labour with intact membranes ('''[[Uterine contraction in a pregnant woman SD-098|Uterine contraction in a pregnant woman]], [[Pelvic pain SD-099|Pelvic pain]]''') or after premature rupture of the membranes ('''[[Loss of fluid in a preterm pregnant woman SD-109|Loss of fluid in a preterm pregnant woman]'''). Induced prematurity is linked to a foetal or maternal pathology leading voluntarily to birth through medical intervention.
+
+The main causes of induced prematurity are pre-eclampsia ('''[[Hypertension during pregnancy SD-053|Hypertension during pregnancy]] and [[Proteinuria SD-212|Proteinuria]]'''), IUGR, [[Hypertension during pregnancy SD-053|'''Hypertension during pregnancy'''',Retroplacental haematoma]] and maternal pathologies requiring the birth of the child (respiratory insufficiency [[Acute respiratory distress SD-160|''Acute respiratory distress''',]] decompensated heart disease, etc.).).
+
+Patients with preterm rupture of membranes may also have an induced delivery if the condition of the newborn or the mother requires induction of labour or a caesarean section. There are many risk factors for spontaneous prematurity.
+
+
+'''Risk factors:''''
+
+- Socio-demographic risk factors:''
+
+Single, low socio-economic level ''[[Precarious social situation and isolation SD-347|Precarious social situation and isolation]]''', inconsistent follow-up
+
+Tobacco (''''[[Tobacco risk prevention SD-314|Tobacco risk prevention]]'''), alcohol, drugs
+
+Stress, ''[[Anxiety SD-116|anxiety]]''', depression, prolonged standing job
+
+History of premature delivery and late miscarriage
+
+Short interval between last two pregnancies
+
+IVF ('''[[Difficulty having children SD-033|Difficulty having children]]''')
+
+
+- Risk factors for prematurity linked to the uterine environment
+
+o Amnio-chorion infection
+
+In the event of early premature rupture of the membranes (''[[Loss of fluid in a preterm pregnant woman SD-109|Loss of fluid in a preterm pregnant woman]]''), the risk of amnio-chorion infection is greatly increased.
+
+o Uterine malformations (''''[[Discovery of a genital tract malformation SD-105|Discovery of a genital tract malformation]]''')
+
+o Cervico-isthmic incompetence (classically defined as a functional mechanical disorder of the cervix resulting in late miscarriage)
+
+o Conization
+
+o Placental anomaly (placenta inserted low)
+
+o Breakthrough bleeding
+
+
+- Risk factors for prematurity intrinsic to pregnancy
+
+o Multiple pregnancies
+
+o Hydramnios
+
+o Placenta praevia
+
+o Gravidic vascular pathologies

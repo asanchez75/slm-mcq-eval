@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-158-11-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Knowing the main infections responsible for sepsis and septic shock in adults and children
+|Description=Pneumonia, peritonitis, urinary tract infection...
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+The most common causes of sepsis/septic shock in adults are :
+
+* Pneumonia (50% of cases)
+* Intra-abdominal infections (20% of cases)
+* Urinary tract infections (10% of cases)
+* Catheter infections (5% of cases)
+* Soft tissue or neuro-meningeal infections (< 5% of cases)
+
+
+In children, the origin of sepsis varies according to age, and is strongly influenced by vaccination.

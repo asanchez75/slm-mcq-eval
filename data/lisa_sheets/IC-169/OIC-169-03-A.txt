@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-169-03-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing HIV-associated diseases excluding opportunistic infections (OIs)
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Jade Ghosn
+|Order=3}}
+'''Major infections associated with HIV infection (non-AIDS classifying):'''
+
+- Bacterial pneumopathies: mainly Streptococcus pneumoniae (see Community-acquired bronchopulmonary infections in adults and children|item 154]). Recurrence of bacterial pneumonia within a period of less than 6 months is classified as AIDS. Prevention is based on pneumococcal vaccination (recommended for people living with HIV).
+
+- Digestive infections: mainly non-typic salmonella (see Infectious diarrhoea in adults and children|item 176]). Bacteremia caused by Salmonella enteritica serotype non Typhi defines AIDS if it is recurrent. There is no specific prevention apart from food hygiene rules.
+
+- Sexually transmitted infections: syphilis, gonorrhoea, ''Chlamydia trachomatis'', HPV... (see [[Sexually transmitted infections (STIs): gonorrhoea, chlamydia, syphilis, human papillomavirus (HPV), trichomoniasis|item 162]]). Prevention is based on condom use, regular screening and vaccination for the populations concerned (hepatitis A for MSM, hepatitis B, HPV). Any diagnosis of an STI should prompt a search for HIV infection. Mucosal or cutaneous ulceration due to an STI is a factor that facilitates HIV transmission.
+
+- co-infection with HBV or HCV: see [[Viral hepatitis|item 167]]
+
+'''Non-infectious diseases associated with HIV infection:'''
+
+- AIDS-classifying cancers (viral-induced and associated with HIV-related immunodepression):
+
+* Malignant non-Hodgkin's lymphomas: early stage (CD4 > 200/mm3): large-cell B lymphomas of the Burkitt type, associated with EBV in 30-40% of cases late stage (CD4 < 100/mm3): immunoblastic B lymphomas associated with EBV in almost 100% of cases.
+* Kaposi's disease: vascular tumour induced by HHV8 (mainly sub-Saharan Africa and MSM) infiltrated, purplish, nodular skin lesions, sometimes in the form of plaques. Frequent mucosal involvement (palate); visceral extension possible in the absence of immune restoration: lung, digestive tract, etc.
+* Cervical cancer: HPV-induced squamous cell carcinoma Prevention: systematic surveillance, vaccination
+
+- cancers not classifying as AIDS :
+
+* higher frequency than in the general population: Hodgkin's, bronchial cancer, anal canal cancer, hepatocarcinoma if co-infected with HBV or HCV, etc.
+* role of co-factors, frequently present: HBV/HCV co-infection, smoking, HPV, etc.

@@ -1,0 +1,91 @@
+{{knowledge objective
+|Identifiant=OIC-018-07-B
+|Item_parent=Health and the Digital Age
+|Item_parent_short=Health and digital
+|Rank=B
+|Title=Knowledge the possible applications of algorithmic health data processing methods (e.g. big data, artificial intelligence/automatic learning) in individual and collective health.
+|Description=None
+|Rubric=Management
+|Contributors=CIMES
+|Order=7}}
+
+
+==Big data ==
+Heterogeneous/complex data, from different sources<ins>,</ins> in increasingly large volumes and with greater speed, which traditional data processing software cannot handle and which is used to solve detection and prediction decision-making problems.
+
+
+'''The 4 V's of massive data:'''
+
+*Volume: the quantity of data
+*Variety: structured, unstructured (text, images), semi-structured data; heterogeneous sources
+*Velocity: speed of generation of new data points
+*Veracity: data of varying quality (availability, completeness, reliability, relevance)
+
+
+Challenges
+
+*Data quality
+*Large size
+*Multiple sources
+*Distributed databases
+*Individual data protection
+
+<br />
+
+==Artificial intelligence (AI)==
+'''Types:'''
+
+*IA strong: self-awareness, complex reasoning
+Weak *IA: specific task
+
+'''Approaches:'''
+
+*symbolic AI: knowledge representation, formalisation, expert rules
+*Statistical AI: machine learning/statistics
+
+'''Deep learning neural networks:''''
+
+*Composition of artificial neuron units
+*Organisation in layers
+*Can approximate any function
+*Requires significant resources (data, computation)
+
+'''Data processing methods:''''
+
+*Descriptive analysis
+**Visualisation
+**Descriptive statistics
+
+*Data mining
+**Information retrieval
+**Information extraction
+**Anomaly detection
+
+*Statistical learning
+**Supervised
+***Classification
+***Regression
+**Unsupervised
+***Segmentation (clustering)
+***Similarity
+
+==Applications:==
+
+*'''Individual'''
+**Individual follow-up
+**Diagnostic assistance
+**Risk stratification
+**Event prediction
+**Decision support
+**Assistance and telemedicine
+
+*Collective
+**Collective monitoring and surveillance/vigilance (pharmacovigilance, epidemiology)
+**Optimisation of care and its delivery
+**Research
+***Detection of risk factors
+***Characterisation of diseases (rare diseases ++)
+***Hypothesis generation
+***Screening for inclusion in clinical research
+***Real-life studies
+***Drug development

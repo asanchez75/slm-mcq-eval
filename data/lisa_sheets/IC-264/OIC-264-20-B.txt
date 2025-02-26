@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-264-20-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the mechanisms of metabolic acidosis in CKD and its prevention
+|Description=None
+|Section=Monitoring and/or prognosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=20}}
+
+Metabolic acidosis occurs during CKD due to a failure to eliminate the acid load.
+
+It is usually moderate, except in the case of certain tubulopathies, with :
+
+* Decrease in bicarbonates,
+* slight increase in the anion gap,
+* pH maintained until the advanced stage of CKD.

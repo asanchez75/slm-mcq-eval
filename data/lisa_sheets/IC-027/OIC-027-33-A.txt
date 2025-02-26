@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-027-33-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Vaccines and pregnancy
+|Description=Vaccines authorised or not during pregnancy
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Ordre=33}}
+The flu vaccine is recommended for pregnant women, particularly those at risk (diabetics, obese women).
+
+Vaccines available at any stage of pregnancy
+
+- Inactivated vaccines: tetanus, diphtheria (reduced valency), hepatitis A and B, meningococcus, pneumococcus
+
+- Live attenuated vaccines: yellow fever if travel to an endemic area cannot be postponed
+
+Vaccines that are theoretically contraindicated during pregnancy are derived from live attenuated agents: measles, mumps, rubella (MMR), varicella, BCG, rotavirus.
+
+Vaccines whose safety during pregnancy has not been proven: cholera, typhoid (except if you are staying in a high-risk area).
+
+The mRNA vaccines (COVID-19) are currently being evaluated in pregnant women.
+
+Special case of whooping cough (inactivated vaccine) authorised in certain European countries but not yet in France: In the event of vaccination during pregnancy: reassure the patient.
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''340 [[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|Voluntary or involuntary intake of a toxic or potentially toxic drug]]''''
+
+'''348. [Suspicion of an adverse drug reaction or an adverse drug treatment SD-348|Suspicion of an adverse drug reaction or an adverse drug treatment]'''''
+
+'''352. [[Explaining treatment to the patient (adult/child/adolescent) SD-352|Explaining treatment to the patient (adult/child/adolescent)]]'''''

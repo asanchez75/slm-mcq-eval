@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-101-02-A
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=A
+|Title=Know how to diagnose facial paralysis and distinguish between peripheral and central paralysis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+The distinction between central and peripheral facial paralysis is based firstly on the characteristics of the motor impairment ([[Muscular weakness SDD-074|Muscular weakness]]; [[Sensory and/or motor neurological deficit SDD-121|Sensory and/or motor neurological deficit]]; [[Facial paralysis SDD-127|Facial paralysis]]). When it is significant, it can lead to difficulty in speaking ([[Dysphonia SD-146|dysphonia]]), chewing or even swallowing ([[Swallowing disorders or false swallowing SDD-062|swallowing disorders and false swallowing]]).
+
+1) Diagnosis of central facial paralysis :
+
+- Predominantly affects the lower facial region: the nasolabial fold is obliterated, the labial commissure falls away, it is impossible to puff out the cheeks, and the mouth is drawn to the healthy side when smiling.
+
+- Often associated with a motor deficit in the homolateral hemisphere (hemiplegia) ([[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]]).
+
+- Typically involves automatic-voluntary dissociation: asymmetry more marked in voluntary movements than in automatic ones (dissociation sometimes reversed).
+
+2) Diagnosis of peripheral facial paralysis (PFP) :
+
+- Equivalent damage to the upper and lower facial regions.
+
+- Superior involvement leads to incomplete closure of the eye, revealing an upward tilting of the eyeball (Charles Bell's sign) and to erasure of the forehead wrinkles. In frustrated forms, the eyelashes are more apparent and longer on the paralysed side than on the healthy side when the eyes are forcefully occluded (Souques eyelash sign) ([Palpebral anomalies SD-139|palpebral anomalies]]).
+
+- Absence of automatic-voluntary dissociation.
+
+- Other symptoms and signs: abolished corneal reflex (damage to the orbicularis muscle, innervated by the facial nerve), cutaneous hypoesthesia in the Ramsay-Hunt area, painful hyperacusis (damage to the stapedial muscle), agueusia of the anterior two-thirds of the tongue, drying up of lacrimal secretions.  
+
+<br />

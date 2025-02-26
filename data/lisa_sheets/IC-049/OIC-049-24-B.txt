@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-049-24-B
+|Item_parent=Normal and pathological puberty
+|Item_parent_short=Normal and pathological puberty
+|Rank=B
+|Title=Knowing the indication for imaging examinations in abnormal puberty
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=24}}
+- Pathological peripheral puberty: pelvic ultrasound in girls
+
+- Central precocious puberty: brain MRI to look for a tumour affecting the hypothalamo-hypophyseal region
+
+<br />

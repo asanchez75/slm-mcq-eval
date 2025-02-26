@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-363-01-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=To understand the epidemiology of fractures of the lower extremity of the radius (EIR) and the proximal extremity of the femur.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=CFCOT
+|Order=1}}
+
+Fracture of the lower extremity of the radius is the most common traumatic bone injury, ahead of fracture of the proximal extremity of the femur.
+
+After the age of 40, the incidence of distal radius fractures increases linearly in women.
+
+Fractures of the proximal end of the femur are common, estimated at 90,000 cases a year. It mainly affects ''elderly subjects'', with a strong ''female predominance''. In the elderly, the occurrence of a proximal femur fracture is associated with an "excess mortality of 20% at one year".
+
+50 to 65% of elderly patients with a fracture of the proximal end of the femur have "comorbidities". The morbidity of FH is significant, with "20% postoperative complications" and "30-50% reduction in autonomy". 10-30% of patients become dependent and 25% enter an institution within a year of the fracture.

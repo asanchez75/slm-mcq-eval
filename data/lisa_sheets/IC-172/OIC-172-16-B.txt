@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-172-16-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworm, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know the principles of treatment of intestinal and hepatic amoebiasis.
+|Description=None
+|Rubric=Management
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=16}}
+
+'''Medical treatment''': combines tissue and contact amoebicides
+
+* Tissue amoebicides: Nitro-imidazoles: metronidazole for 7 to 10 days.
+* Contact amoebicides, non-absorbed to destroy endo-luminal forms (cysts, non-pathogenic vegetative forms) which cause relapses and spread to the surrounding area.
+
+'''Evacuation puncture of a hepatic amebic abscess'''
+
+* Only in the case of large abscesses that do not regress sufficiently under medical treatment.

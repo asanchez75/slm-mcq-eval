@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-219-13-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Knowing the main causes of martial deficiency in adults and children
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=13}}
+'''In adults:'''
+
+There are three possible causes of martial deficiency.
+
+
+'''1/ Loss of iron through chronic spoliation'''
+
+- Digestive haemorrhage (see item 355)
+
+- Genital haemorrhage of uterine origin, common in women.
+
+- Functional menorrhagia or menometrorrhagia
+
+- Uterine fibroid
+
+- Uterine cancer
+
+- Macroscopic haematuria (rarer)
+
+
+2/ Digestive iron malabsorption
+
+- Celiac disease
+
+- Atrophic fundic gastritis (Biermer)
+
+Classically, Biermer's disease is revealed by a macrocytic anaemia, due to vitamin B12 deficiency (the fall in intrinsic factor reduces ileal absorption of B12). However, Biermer's anaemia can also be revealed by a martial deficiency and a microcytic anaemia: gastric atrophy will create achlorydria. The drop in gastric acidity will reduce the reduction of ferric iron to ferrous iron, which is the form that can be absorbed by enterocytes. This is why Biermer's disease is one of the causes of digestive iron malabsorption.
+
+- Gastrectomy (total and partial)
+
+- Proximal small bowel resection or bypass
+
+
+'''3/ Lack of input''''
+
+- In the event of repeated, closely-spaced pregnancies
+
+- Food intake deficiency is exceptional in France and is generally seen in cases of general malnutrition.
+
+- Tea-drinking syndrome
+
+- Geophagy - It should be noted that the most frequently consumed clay is Kaolin (for pseudo-medicinal virtues, but also for taste and as an appetite suppressant): it is important to know how to ask for it by name rather than saying "clay" when questioned.
+
+
+'''In children:'''
+
+Martial deficiencies are caused by :
+
+* Most often: a deficiency in intake and/or an increase in requirements;
+* sometimes: a defect in absorption ;
+* rarely: to excess losses, particularly chronic digestive bleeding.<ref>Anemia and iron pathology.
+
+ [https://www.pedia-univ.fr/deuxieme-cycle/referentiel/hematologie-cancerologie/anemie-pathologies-du-fer Paediatrics], 8th edition, by Grégoire Benoist, Antoine Bourrillon, Christophe Delacourt and Christèle Gras-Le Guen. Elsevier Masson SAS</ref>

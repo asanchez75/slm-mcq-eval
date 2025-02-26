@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-024-03-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing how to manage an ectopic pregnancy.
+|Description=Ectopic pregnancy treatment and monitoring
+|Rubric=Identification of the emergency
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=3}}
+
+CF [[Ectopic pregnancy|Item 25 - ectopic pregnancy]]
+
+'''Symptomatic EP''' (presence of only one of these severity criteria = surgical emergency): '''haemodynamic instability - abdominal defence - haemoperitoneum on ultrasound.'''
+
+Surgical treatment :
+
+- as a matter of urgency
+
+- after conditioning of the patient, preoperative work-up, grouping, RAI call from the anaesthetist.
+
+In the absence of these 3 criteria, surgery is indicated in patients with algism and/or a β-hCG level greater than 5,000 IU/L.
+
+Diagnostic and therapeutic laparoscopy: confirms the diagnosis, specifies the location of the EP and may identify risk factors (adhesions, sequelae of HGI). Conservative treatment = salpingotomy or removal of the tube = salpingectomy.
+
+'''Pauci or asymptomatic EP'''
+
+In this case, treatment with methotrexate can be discussed with the patient: an intramuscular dose of 1 mg/m<sup>2</sup> in the absence of contraindication on the biological work-up (CBC, PT/ACT, renal and hepatic work-up).
+
+Monitoring includes questioning about clinical symptoms and weekly monitoring of plasma β-hCG levels. A clinical examination and ultrasound scan may be carried out at any time in the event of functional signs suggesting a haemorrhagic complication of the EP. A 2nd<sup>injection</sup> of MTX should be considered if the decrease in the plasma β-hCG level at D7 is not satisfactory compared with the initial level (in practice, the β-hCG level at D7 should be strictly lower than the level at D0 or strictly lower than 85% of the β-hCG level at D4 if this is available). Cure corresponds to an undetectable plasma β-hCG level. This is generally achieved after one month.
+
+Special cases: In certain exceptional cases, if the patient is asymptomatic, if the initial β-hCG level is less than 1,000 IU/L and if the kinetics of β-hCG show a progressive and constant decrease, it may be possible to discuss abstention from treatment subject to good compliance by the patient (β-hCG measurement every 48 hours and clinical and ultrasound monitoring once a week). The patient must be informed of the risk of failure.
+
+Remember to check the patient's blood group to prevent anti-D alloimmunisation if necessary.

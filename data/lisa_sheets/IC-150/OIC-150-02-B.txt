@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-150-02-B
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=B
+|Title=Knowing the main elements of the epidemiology of acute otitis media (AOM)
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+
+
+*Contamination from the nasopharynx.
+*Most common infection in children, especially between the ages of 6 and 24 months.
+*90% of congestive AOM is viral in origin
+*10% of AOMs are bacterial: pneumococcus (40%), Haemophilus influenzae (30-40%), S. aureus and epidermidis, group A streptococcus, Moraxella (Branhamella) catarrhalis and anaerobes.
+*H. influenzae resistance: 17% betalactamase secretion; pneumococci: 4% penicillin resistance, 42% intermediate resistance (PSDP: pneumococcus of diminished sensitivity to penicillin).
+*Association with purulent conjunctivitis: pointing towards Haemophilus influenzae; fever > 38.5°C and severe pain: pneumococcus.
+
+*PSDP risk factors: age <18 months, living in a community, recent AOM, recent administration of antibiotics (Penicillin A) in the last 3 months.

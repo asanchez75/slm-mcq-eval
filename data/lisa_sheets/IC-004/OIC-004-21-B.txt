@@ -1,0 +1,86 @@
+{{knowledge objective
+|Identifiant=OIC-004-21-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the principle of transparency
+|Description=IPAQSS indicators, reporting of AEIs to the ARS
+|Rubrique=Prise en charge
+|Contributors=
+|Order=21}}
+When it comes to patient safety and quality of care, ''transparency'' can be defined in terms of two components:
+
+1.    The "publicity" surrounding the quality and safety indicators for healthcare establishments or professionals,
+
+2.    And the ''declaration'' to the Regional Health Agency (ARS), by establishments or professionals, of the serious undesirable events they encounter.
+
+
+'''Indicateurs de qualité et sécurité des soins''' (IQSS, formerly IPAQSS).
+
+Tools developed by the French National Authority for Health (HAS):
+
+- Improving the quality of care and patient safety
+
+- Inter-institutional comparisons
+
+- Decision support
+
+- Transparency (user information).
+
+
+These indicators are subject to "self-assessment" by healthcare establishments:
+
+- Regularly (every year or two)
+
+- When preparing for the certification visit (see below).
+
+
+A certain number of ''national'' indicators concern ''all care services'', e.g. the proportion of patients with a pain assessment recorded in their file and, if pain was present, a reassessment after analgesic treatment. Others are ''specific to a particular type of care'', e.g. myocardial infarction, stroke or childbirth. Each department in the hospital is asked to look for these indicators in a random selection of files. The quality department in turn checks the elements in a random sample of these records.
+
+
+The aim is for each establishment to ''improve its results as and when'' these assessments are repeated, in areas considered ''priority'' by the HAS.
+
+
+The results of these indicators are ''public'', which contributes to the transparency of health establishments vis-à-vis users.
+
+
+
+Reporting serious adverse events to the ARS is a necessary prerequisite:
+
+- To their '''epidemiological analysis'''
+
+- Setting up regional initiatives to "prevent them from re-offending".
+
+
+As soon as an adverse event associated with healthcare is identified, it is necessary to :
+
+- Take precautionary measures to ensure patient safety
+
+- Alert the medical managers and the head of the care structure
+
+- Organising information for patients and their families
+
+- Take the first steps towards understanding the event
+
+
+The declaration to the ARS is made without delay on the website <nowiki>https://www.signalement.sante.gouv.fr</nowiki><gallery>
+File:Ars.png
+</gallery>
+
+
+
+(in Comprendre les évènements indésirables graves, HAS, 2021).
+
+
+A ''supplement to the declaration'' must be submitted within three months and includes :
+
+- An in-depth analysis of the event
+
+- Feedback from experience
+
+- Corrective measures taken or planned.
+
+
+The ''regional support structure'' can help with this 2nd part of the declaration.
+
+<br />

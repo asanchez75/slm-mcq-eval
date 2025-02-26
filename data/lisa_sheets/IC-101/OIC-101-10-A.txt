@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-101-10-A
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=A
+|Title=Knowing the indications for imaging examinations for facial paralysis
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+1) In the case of central facial paralysis ([[Facial paralysis SDD-127|facial paralysis]]), cerebral imaging is essential and MRI is the examination of choice, performed without and with injection of gadolinium in the absence of an acute neurovascular context or contraindication.
+
+2) In the case of PFP :
+
+- The indication for brain imaging depends directly on the suspected cause:
+
+o Brain MRI: depending on the context, diagnosis of multiple sclerosis, brainstem stroke, or tumour if other cranial nerves are affected (brainstem glioma, cerebellopontine angle tumour, skull base metastasis).
+
+o Cerebral scan: in the event of trauma (fracture of the rock) ([[Traumatisme crânien SD-172|traumatisme crânien]]), in the event of purulent ear discharge (mastoiditis), or to identify tumour invasion of the bone at the base of the skull.
+
+- Other: Cervical CT/MRI with injection if swelling homolateral to the PFP (parotitis, parotid tumour) ([[Cervico-facial pain SDD-144|cervico-facial pain]]).
+
+([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]] ; [[Discovery of a cervico-facial anomaly on medical imaging examination SDD-225|discovery of a cervico-facial anomaly on medical imaging examination]] ; [Discovery of a brain abnormality on medical imaging examination SD-226|Discovery of a brain abnormality on medical imaging examination]])

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-155-18-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Non-necrotising bacterial dermohypodermatitis: knowing the tests to carry out (and not to carry out)
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=18}}
+In the case of non-necrotising bacterial dermohypodermatitis, no biological, microbiological or imaging tests need to be carried out.

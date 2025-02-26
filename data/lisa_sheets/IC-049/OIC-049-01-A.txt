@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-049-01-A
+|Item_parent=Normal and pathological puberty
+|Item_parent_short=Normal and pathological puberty
+|Rank=A
+|Title=Knowing normal pubertal development
+|Description=None
+|Rubric=Evaluation
+|Contributors=
+|Order=1}}
+'''Pubertal clinic''''
+{| class="wikitable"
+|
+|First sign
+|Normal limits
+|-
+|Puberty in girls
+|Breast development (Tanner stage S2)
+|8-13 years
+|-
+|Menarche
+|2 years near S2
+
+12.5 years on average
+|
+|-
+|Puberty in boys
+|Testicular development (VT>4 ml or length>25 mm) (Tanner G2 stage)
+|Age 9-14
+|}
+
+
+S: breasts
+
+VT: testicular volume
+
+Gynecomastia is common and transient in boys.
+
+The development of pubic (P2) or axillary (A2) hair appears secondary to the development of the breasts in girls or the testicles in boys. Any development of pubic or axillary hair prior to the development of breasts in girls or testicles in boys should rule out an adrenal pathology (see pubarche premature below).

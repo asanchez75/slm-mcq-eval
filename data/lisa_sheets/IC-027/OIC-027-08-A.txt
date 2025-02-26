@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-027-08-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Intitulé=Rubéole : connaître les éléments de la prévention fœtale
+|Description=Knowing vaccination / serological surveillance
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=8}}
+'''[[Prevention of foetal risks SDD-312|Prevention]] primary''''
+
+This is the [[Vaccinations for Adults and Children SDD-322|vaccination]] antirubella vaccine. Live vaccine not indicated during pregnancy.
+
+Its use has virtually eliminated congenital rubella in France.
+
+All women of child-bearing age should have been vaccinated, and the effectiveness of the vaccination should be checked by serology.
+
+Congenital rubella has become a completely preventable disease. However, almost 5% of pregnant women are still not immunised.
+
+'''[[Prevention of fetal risks SDD-312|Prevention]] secondary''''
+
+An [[Interpretation of an SDD-236 serology result|serology]] is compulsory when declaring a pregnancy, with a test for IgG alone, except in cases of documented previous immunity (positive previous serology result or proof of injection of 2 doses of vaccine).
+
+If the initial serology is negative, the serology will be checked at 20SA.
+
+Beyond that point, the foetal risk is so low that it no longer warrants monitoring,
+
+If serology is positive in early pregnancy, this is usually due to immunity linked to a previous infection or vaccination.
+
+In the absence of any rash, contagion or travel to a high-risk country, no further investigation is warranted. Conversely, if since the start of the pregnancy the patient reports :
+
+A rash, contact with a person who has shown symptoms compatible with rubella (rash, arthralgias) or a trip to a high-risk country (Africa/Asia), biological tests in a reference laboratory are essential (IgM tests, as routine serology only includes IgG tests, and measurement of the IgG avidity index).
+
+If infection is confirmed before the 20<sup>th</sup> SA, the patient must be referred to a CPDPN for further management.

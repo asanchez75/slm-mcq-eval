@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-222-12-A
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=A
+|Title=Knowing the effectiveness of patient-centred cardiovascular prevention in primary care
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=12}}
+
+Patient-centred cardiovascular prevention is effective, relevant and feasible in primary care.

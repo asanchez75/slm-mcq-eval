@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-035-04-A
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=A
+|Title=Know the definition of a normal menstrual cycle
+|Description=None
+|Rubric=Definition
+|Contributors=Sophie Catteau-Jonard
+|Order=4}}
+
+'''A normal menstrual cycle lasts 25 to 35 days according to the WHO.''' '''[[Menstrual cycle disorders SD-094|troubles du cycle menstruel]]''' are very often the result of a failure to ovulate. Anovulation (absence of ovulation) or dysovulation (abnormal ovulation) can lead to various menstrual cycle abnormalities.

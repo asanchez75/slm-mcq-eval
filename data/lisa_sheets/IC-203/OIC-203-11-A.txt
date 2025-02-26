@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-203-11-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Identify signs of severity requiring immediate therapeutic decisions
+|Description=None
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=11}}
+'''See item 359 - [[Acute respiratory distress SD-160|respiratory distress]]''''
+
+
+'''Clinical signs:'''
+
+- Signs of struggle: tachypnoea (>25/min in adults), recruitment of inspiratory and expiratory muscle groups (pulling, active expiration, flapping of the wings of the nose).
+
+- Signs of failure: paradoxical abdominal breathing, extreme bradypnoea, cyanosis, neurological repercussions (impaired alertness).
+
+- Haemodynamic failure: acute cor pulmonale, arterial hypotension, mottling, cold skin, oliguria.
+
+
+'''Gasometric signs:''' uncompensated respiratory acidosis (PaCO<sub>2</sub>≥45mmHg '''<u>ET</u>''' pH<7.35).

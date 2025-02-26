@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-046-02-A
+|Item_parent=Genomic medicine
+|Item_parent_short=Genomic medicine
+|Rank=A
+|Title=Knowing how to diagnose a genetic disease
+|Description=What are the red flags that should direct a patient to a geneticist (unusual clinical signs, an inconsistent set of symptoms, or a suspected family history of a disease)? How should a patient be referred to a genetics service? The role of genetic counselling.
+|Rubrique=Positive diagnosis
+|Contributors=Damien Sanlaville,Christel Thauvin,Michel Vidaud,Martin Krahn
+|Order=2}}
+
+The clinical features that should lead one to think of a genetic disease are as follows:
+
+- Family context that may suggest Mendelian transmission (autosomal dominant, autosomal recessive, chromosomal-linked) or non-Mendelian transmission (mitochondrial, triplet expansion, genomic imprinting, oligogenic, etc.);
+
+- Malformative syndrome, in particular polymalformative syndromes;
+
+- Psychomotor development abnormality SD-115|Psychomotor development abnormality]] and intellectual disability: this is one of the most frequent causes of requests for genome-wide analysis, enabling a genetic diagnosis to be made in around 50% of cases;
+
+- Growth abnormalities SD-026|Growth abnormalities SD-026|Growth abnormalities SD-026|Growth stunting;
+
+- Atypical form of a disease, e.g. symptoms present in a young person when they are usually observed in an older person and/or very severe symptoms;
+
+- Difficulty procreating SD-033|Difficulty procreating]]: genetic causes of infertility are frequent. The first step is to prescribe a karyotype and then refer the patient to a specialist for further genetic analysis;
+
+- Convulsions SD-120|Convulsions]]: genetic causes of epilepsy in newborns and infants are frequent. You need to know how to look for them. Genetic testing is often prescribed by neonatologists or paediatricians, on the advice of a geneticist;
+
+- Speech and/or phonation disorders SD-134|Speech and/or phonation disorders]]. After a clinical assessment by a neuropaediatrician or geneticist, depending on the family context and associated clinical signs, a genetic analysis may be requested;
+
+- Hearing loss/deafness SD-140|Hearing loss/deafness]]: it is estimated that 50% of pre-lingual deafness is genetic;
+
+- A combination of symptoms not associated with any known disease.

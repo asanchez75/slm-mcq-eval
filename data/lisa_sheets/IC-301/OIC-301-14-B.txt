@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-301-14-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Knowing complementary endoscopic and radiological examinations
+|Description=Detail the performance and role of pelvic MRI and echo-endoscopy.
+|Rubric= Complementary examinations
+|Contributors=
+|Order=14}}
+Second-line treatment for colon and rectal cancer:
+
+- MRI of the liver is sometimes necessary if there is any doubt about metastases or if resection of liver metastases is envisaged (as it is more sensitive than CT);
+
+- Other imaging examinations are only requested when clinically indicated (bone, brain).
+
+Second-line treatment of the rectum:
+
+- Endoscopic ultrasound in cases of small lesions (mobile on the finger) and contraindication to MRI.

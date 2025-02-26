@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-323-07-B
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=B
+|Title=Know the main mechanisms and factors influencing the placebo effect
+|Description=None
+|Section=Definition
+|Contributors=Pierre-Olivier Girodet,Nathanaël Lapidus (CIMES)
+|Order=7}}
+
+'''Mechanisms of the placebo effect:'''
+
+- Largely unknown.
+
+*Hypothesis: for example, production of endorphins with a placebo analgesic.
+
+- Individual variability
+
+*Existence of responders, non-responders and occasional responders (depending on the context).
+
+- Non-reproducible (random).
+
+- Non-specific.
+
+- No dose effect.
+
+- Exists even in young children ("placebo by proxy", effect mediated by parents).
+
+'''Factors influencing the placebo effect:'''
+
+- Appearance: route of administration, colour, taste, etc.
+
+- Doctor: empathy, conviction, sociability, age, reputation.
+
+- Patient: psychological profile, culture, beliefs, expectations.
+
+- The doctor-patient relationship.
+
+- Illness and its cultural or media representation.

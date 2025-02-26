@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-260-03-A
+|Item_parent=Hematuria
+|Item_parent_short=Hematuria
+|Rank=A
+|Title=Diagnosing microscopic haematuria and macroscopic haematuria
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Charles Dariane, Bruno Moulin
+|Order=3}}
+
+<br />
+
+*Microscopic haematuria: diagnosis by urine dipstick only (Sn 90%, from ≥ 5 red blood cells/mm<sup>3</sup>), to be confirmed by ECBU.
+
+*Macroscopic haematuria: presence of blood visible to the naked eye (pinkish, red or brownish colouration of the urine, generally from ≥ 500 red blood cells/mm<sup>3</sup>). Clots or urological symptoms (lower urinary tract symptoms, lumbar or pelvic pain): point to a urological origin.
+
+*There is no correlation between the type of haematuria or the amount of bleeding and the severity of the causative disease. '''Microscopic haematuria has the same diagnostic value as macroscopic haematuria.'''

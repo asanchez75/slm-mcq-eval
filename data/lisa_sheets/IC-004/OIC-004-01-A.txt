@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-004-01-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and professional practice assessment
+|Rank=A
+|Title=Defining Quality
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+In healthcare, the aim of the ''quality approach'' is to continuously improve professional practices for the benefit of patient safety, through optimised risk management.
+
+It is the essential object:
+
+- Certification'' of health establishments
+
+- De l''''accréditation''' des médecins.
+
+
+Healthcare establishments have a "quality and risk management unit". These are staffed by quality specialists, i.e. people whose work is dedicated to the quality approach. However, it is essential that "all healthcare professionals" commit to the quality approach.
+
+
+Like any other approach, it has its own vocabulary, indicators, procedures and standards. One of the major principles of quality is to write down what you do (''traceability'') and to do what you write (''compliance with procedures'').
+
+
+Quality of care has several dimensions:
+
+- '''Safety''' (harmlessness of the treatment)
+
+- '''Pertinence''' (appropriateness of care)
+
+- '''Acceptability''' of care by the patient
+
+- '''Accessibility''' of care
+
+- Continuity of care
+
+- '''Effectiveness''' (achievement of stated and discussed objectives)
+
+- '''Efficiency''' (achieving objectives at the lowest cost).

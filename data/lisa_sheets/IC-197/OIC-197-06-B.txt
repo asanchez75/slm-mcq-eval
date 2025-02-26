@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-197-06-B
+|Item_parent=Spondyloarthritis
+|Item_parent_short=Spondyloarthritis
+|Rank=B
+|Title=Knowing the extra-articular signs
+|Description=Knowing how to recognise clinical manifestations
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+'''. Acute anterior uveitis ([[152. Red and/or painful eye]])''''
+
+'''. Inflammatory enterocolopathy:'''' Crohn's disease or haemorrhagic rectocolitis, '''([[2. Diarrhoea]])'''''
+
+'''. Psoriasis:''' Involvement of the scalp, inverted psoriasis and nail psoriasis are particularly associated with psoriatic arthritis, ('''81. Nail abnormality) ([[85. Erythema]])''''
+
+'''. Very rare cardiac disorders:''' aortic or mitral valve disease, conduction disorders. '''([[18. Discovery of abnormalities on cardiac auscultation]])'''''

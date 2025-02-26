@@ -1,0 +1,97 @@
+{{knowledge objective
+|Identifiant=OIC-083-08-A
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=A
+|Title=Knowing how to diagnose uveitis (anterior uveitis, posterior uveitis or panuveitis)
+|Description=Semiology / etiologies
+|Topic=Positive diagnosis
+|Contributors=
+|Order=8}}
+The term uveitis is used anatomically depending on the main or primary location of the intraocular inflammatory process. When the process affects the different segments of the eyeball in a more or less homogenous manner, it is referred to as panuveitis. Whatever their anatomical type, uveitis is classically divided into two major aetiological groups: infectious uveitis and non-infectious uveitis, which differ both in their diagnostic approach and in their therapeutic management. Lastly, some diagnoses are based on ophthalmological entities defined by a series of clinical and paraclinical elements (with more or less well-defined contours depending on the case).
+
+1. anterior uveitis
+
+Anterior uveitis is the most common form of uveitis. They are also called iridocyclitis because they affect the anterior part of the uvea, consisting of the iris (iritis) and the ciliary body (cyclitis).
+
+During acute anterior uveitis, the patient presents with a red eye associated with a variable drop in visual acuity and deep pain of moderate intensity that radiates to the supraorbital region.
+
+Involvement may be uni- or bilateral, sometimes recurrent and tilting. Slit lamp examination reveals :
+
+* perikeratic ciliary injection;
+* normal corneal transparency
+* a relatively miosis pupil
+* sometimes inflammatory adhesions between the posterior surface of the iris and the anterior capsule of the crystalline lens ("iridocrystalline synechiae" or "posterior synechiae") responsible for pupillary deformation which is particularly noticeable on dilation;
+* sometimes inflammatory adhesions between the anterior surface of the iris and the posterior surface of the cornea, visible on gonioscopy (iridocorneal synechiae or anterior synechiae);
+* Tyndall's phenomenon: presence of proteins and inflammatory cells circulating in the aqueous humour, giving the appearance of a lighthouse in the fog when projected with a slit lamp;
+* deposits of inflammatory cells on the posterior surface of the cornea: retro-corneal (or retro-descemetic) precipitates, the fine or granulomatous morphological appearance of which helps to guide the aetiological diagnosis.
+
+
+
+An examination of the posterior segment, including a study of the vitreous and analysis of the fundus, should be carried out systematically to look for inflammatory damage to the vitreous (hyalitis), retina or choroid, which indicates the existence of posterior uveitis.
+
+Aetiological investigation is essential, although it is frequently negative (one-third to one-half of cases). The main causes of anterior uveitis are :
+
+* ankylosing spondylitis and HLA-B27 +: this is the leading cause of acute anterior uveitis, with a plastic and synechial appearance, often with hypopyon, recurrent and frequently tilting, but with a good prognosis. Diagnosis is based on a clinical and radiological investigation to look for sacroiliitis or characteristic spinal involvement, or manifestations of other inflammatory diseases associated with the same genetic background (IBD, psoriasis, Reiter's syndrome) and above all on demonstration of the biological marker HLA B-27 (possibly positive in isolation);
+* herpetic uveitis: the most common cause of infectious anterior uveitis, herpetic involvement should be suspected in patients with a history of ocular herpes, in the presence of uveitis with hypertonia or when sectorial atrophy of the iris is detected;
+* Juvenile idiopathic arthritis (JIA): the main cause of anterior uveitis in children, its severity is due to its chronicity and frequent complications (cataract, strip keratitis with whitish or greyish calcified deposits and glaucoma);
+* Sarcoidosis: this is the general disease most frequently found in uveitis. In its anterior location, sarcoidosis uveitis comprises granulomatous retrodescemetic deposits and frequent iris nodules; posterior involvement is often associated with panuveitis;
+* Behçet's disease: classically gives rise to recurrent anterior uveitis with hypopyon, rarely isolated but rather associated with posterior involvement of the hyalite type, retinal vasculitis with an occlusive tendency and inflammatory retinitis foci, and thus forming part of panuveitis;
+* among the ophthalmological entities :
+
+- chronic Fuchs' cyclitis, uveitis with white eyes, non synechial, with retrocorneal precipitates
+
+and sometimes a heterochromia of the iris, frequently complicated by cataract and
+
+glaucoma ;
+
+- Posner-Schlossman syndrome, which causes recurrent and often violent glaucomatous-cyelitic attacks (hypertensive uveitis), often of viral origin.
+
+
+The management of anterior uveitis (like that of the anterior component of panuveitis) combines :
+
+- Systematic local treatment with :
+
+* mydriatic eye drops, in an attempt to release posterior synechiae or as part of their primary or secondary prevention,
+* corticosteroid eye drops, and often a night-time ointment;
+
+- treatment of an infection or overall management of general illness when an aetiology is identified.
+
+
+
+'''2. Posterior uveitis
+
+Posterior uveitis includes inflammatory and infectious conditions affecting the posterior uvea or choroid (choroiditis), the retina (retinitis) or both tunics together (chorioretinitis or retinochoroiditis). The seriousness of posterior uveitis lies initially in the possibility of irreparable macular, vascular or papillary damage with definitive functional consequences, and then in the occurrence of inflammatory retinal complications (cystoid macular oedema) or mechanical complications (tractional retinal detachment) that are just as formidable.
+
+Depending on the aetiology, the affected eye may have a normal outward appearance or show marked redness and ciliary pain, as in the case of previous uveitis.
+
+Symptoms reported by the patient are most often myodesopsias (described as black dots, flying flies or floating bodies) or a drop in visual acuity (progressive in the case of environmental disorders or more abrupt in the case of direct macular damage).
+
+Examination of the dilated fundus confirms the diagnosis of posterior uveitis, provides an inventory of lesions and identifies any complications. The aetiological approach can then begin, based on the clinical findings, with the help of elements found on multimodal imaging and sometimes biological arguments, to arrive at the final diagnosis.
+
+The distinction between infectious and non-infectious uveitis also applies here.
+
+The main causes of infectious posterior uveitis are :
+
+* Toxoplasmosis: Toxoplasmic retinochoroiditis is the most common form of infectious uveitis. Acquired rather than congenital in origin, it is characterised by a focal course and the risk of recurrence throughout life;
+* Subsequent herpes virus infections are rare but serious. These include acute retinal necrosis caused by HSV or VZV, often accompanied by noisy, red, painful eyes, and CMV retinitis in immunocompromised patients.
+* Syphilis, a great simulator, can give rise to various types of retinitis, placoid chorioretinitis or true choroidal granuloma;
+* tuberculosis is also pleomorphic, with granulomatous Bouchut's tubercle and tuberculoma or pseudoserpiginous choroiditis;
+* Bartonellosis most often gives a neuroretinitis picture with a macular star image;
+* Toxocariasis is rarer; it affects people who come into contact with dogs or cats, particularly children, and leads to the formation of a retinal or papillary granuloma.
+* Rickettsial disease can also cause multifocal retinitis.
+
+
+
+Non-infectious causes of posterior uveitis include :
+
+* general diseases such as sarcoidosis or Behçet's disease;
+* purely ophthalmological entities (birdshot retinochoroidopathy, multifocal choroiditis) and conditions with a primary ophthalmological expression (Harada disease, sympathetic ophthalmia).
+* in elderly patients, dense hyalitis should prompt a search for a primary oculocerebral lymphoma and a vitreous sample should be taken for cytological analysis.
+
+
+'''Special case: postoperative infection (endophthalmitis)'''
+
+The postoperative context suggests an infectious complication. It most often occurs a few days after cataract surgery, more rarely after retinal surgery or more distantly after glaucoma surgery, but sometimes also after a simple therapeutic intravitreal injection of anti-VEGF or corticosteroids. The patient experiences intense ocular pain on the operated side, which radiates to the supraorbital region and is usually accompanied by significant visual impairment. On examination, there may be palpebral oedema, a hypopyon or cyclitic membrane visible with a slit lamp, and hyalitis indicating inflammation of the posterior segment, which, depending on its extent, limits or prevents visualization of the fundus. Involvement of all the ocular tunica is even more serious and is a sign of panophthalmos.
+
+Etiological treatment requires urgent intravitreal injections of antibiotics, with or without systemic antibiotic therapy. A sample of the vitreous or, failing that, of the aqueous humour is taken immediately prior to the intraocular injection of antibiotics. It is rapidly sent to the microbiologist for direct examination and culture, supplemented by molecular analysis when the techniques are available. A posterior vitrectomy is discussed immediately in severe cases, or may be proposed rapidly if the situation worsens, or even secondarily to restore transparency of the media.

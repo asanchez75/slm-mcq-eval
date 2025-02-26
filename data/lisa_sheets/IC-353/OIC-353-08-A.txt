@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-353-08-A
+|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management
+|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management
+|Rank=A
+|Title=Knowing what to do in an emergency
+|Description=None
+|Rubric=Management
+|Contributors=Pierre Vandel
+|Order=8}}
+For people in a suicidal crisis or in the immediate aftermath of a suicide attack.
+
+A quiet welcome.
+
+Keeping the patient safe.
+
+A doctor must decide whether to admit the patient to hospital.
+
+'''Systematic psychiatric opinion:'''
+
+Once her non-psychiatric clinical condition has stabilised
+
+Purpose of the psychiatric interview :
+
+* Assess the potential for suicidal crisis (risk/urgency/dangerousness), evaluate associated psychiatric disorders and guide treatment.
+* Decide on the indication for medicinal treatment
+** sedative or anxiolytic in case of agitation or severe anxiety;
+** hypnotic in the case of severe transient insomnia.
+** prescription for symptomatic purposes, limited in time.

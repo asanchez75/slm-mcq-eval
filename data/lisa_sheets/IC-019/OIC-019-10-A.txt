@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-019-10-A
+|Item_parent=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Item_parent_short=Social security. Health insurance. Supplementary insurance. Supplementary health insurance (CSS). Medical consumption. Social protection. Medical consumption and health economics
+|Rank=A
+|Heading=Know the definition of co-payments, fixed hospital charges, fixed contributions, deductibles, third-party payment, etc.
+|Description=Definition and conditions of application (when, on what, ceilings) and conditions of exemption including ALD,
+|Section=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=10}}
+
+The ''ticket modérateur'' is the proportion of the cost of treatment that remains payable by the insured person after reimbursement by the health insurance scheme. Its aim is to regulate healthcare consumption by making patients financially responsible. The co-payment may be covered in full or in part by private insurance or a complementary mutual insurance company. It has existed since the creation of the French social security system, and applies to all reimbursable healthcare costs: consultations with a doctor, medical biology tests, radiology examinations, the purchase of prescribed drugs, etc.
+
+The percentage of the co-payment varies according to :
+
+- the nature of the risk (illness, maternity, disability, industrial accident/occupational disease) ;
+
+- the procedure or treatment ;
+
+- whether or not you are following the coordinated care pathway.
+
+For example, if you consult your GP (a general practitioner in sector 1), the consultation rate used as a basis for reimbursement is €25.
+
+* Of this amount, the Assurance Maladie will reimburse 70%, i.e. €17.50.
+* The co-payment is 30%, i.e. €7.50.
+* However, you will have to pay a fixed contribution of €1.
+* Your total out-of-pocket expenses are therefore €7.50 + €1, i.e. €8.50.
+
+
+A ''fixed contribution'' of €1 is charged for each consultation (see example above), biological analysis or radiology procedure, up to a maximum of €50 per year. Patients under the age of 18, beneficiaries of complementary health insurance, beneficiaries of the AME and pregnant women from the sixth month of pregnancy are exempt from the fixed contribution. It cannot be covered by a complementary health insurance organisation.
+
+An ''excess'' is deducted from patient reimbursements and applies to: medicines (€0.50 per box); paramedical procedures (€0.50 per procedure); medical transport (€2 per transport).
+
+The excess is capped at 50 euros per year in total and cannot exceed 2 euros per day for paramedical procedures and 4 euros per day for medical transport. Patients under the age of 18, beneficiaries of complementary health insurance, beneficiaries of the AME and pregnant women from the sixth month of pregnancy are exempt from the medical excess. It cannot be covered by a complementary health insurance organisation.
+
+The ''tiers payant'' system exempts the insured person from having to pay in advance the costs covered by the health insurance scheme. The policyholder pays only the moderating fee, with the health insurance scheme paying the sums due directly to the care structures and health professionals. If the insured person has supplementary cover (mutual insurance, insurance, provident institution, supplementary health insurance), they can benefit from third-party payment by presenting their carte vitale and their supplementary cover certificate. Third-party payment also applies in the event of an accident at work or occupational illness, and to beneficiaries of complementary health cover and the AME.

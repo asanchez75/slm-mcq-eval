@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-247-02-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Know the classification and main characteristics of the different types of diabetes mellitus.
+|Description=including gestational diabetes
+|Rubric=Definition
+|Contributors=Eva Feigerlova,Hélène Bihan,Claire Briet,Gaetan Prevost
+|Order=2}}
+
+The most common causes of diabetes are :
+
+1/ Type 1 diabetes (10%) due to a lack of insulin secretion by the pancreas
+
+           - tends to occur before the age of 35
+
+           - rapid onset, hyperglycaemia at diagnosis > 3 g/L, ketosis often present
+
+           - normal weight or weight loss
+
+           - main cause of death: kidney failure
+
+2/ Type 2 diabetes (> 80%) due to poor use of insulin by the body's cells
+
+           - tends to occur after the age of 35, frequent family history
+
+           - slow onset, hyperglycaemia at diagnosis often < 2 g/L, ketosis often absent
+
+           - obesity or excess abdominal fat
+
+           - degenerative complications at the time of diagnosis present in 50% of cases
+
+           - leading cause of death: cardiovascular disease
+
+
+Other causes of diabetes include:
+
+3/ Gestational diabetes
+
+4/ Rare aetiologies :
+
+- genetic defects in β-cell function
+
+- diseases of the exocrine pancreas
+
+- endocrine diseases
+
+- drugs and toxic substances...
+
+<ref>CEEDMM, 2019</ref>

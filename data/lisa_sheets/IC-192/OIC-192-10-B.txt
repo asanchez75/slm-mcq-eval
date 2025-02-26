@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-192-10-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Know the main therapeutic objectives and general principles of treatment for systemic autoimmune diseases
+|Description=None
+|Topic=Management
+|Contributors=Amélie Servettaz
+|Order=10}}
+
+The course and prognosis vary from one AD to another and from one patient to another. Management is therefore personalised according to the context (age, co-morbidity) and the AD (type, severity at a given time).
+
+This is a ''long-term care'' (chronic disease) which involves coordination between the people involved in the patient's care (general practitioner, other doctors and paramedical staff).
+
+'''The therapeutic approach''' often requires:
+
+* A request for recognition as a long-term condition
+* Proposals for therapeutic education programmes
+* Medication treatment, often of the anti-inflammatory or immunosuppressive type
+* Symptomatic treatment (pain management, etc.)
+* Psychological care
+* Prevention of cardiovascular and infectious risks (immunocompromised patients)
+* Regular exercise and a balanced diet
+
+
+Different classes of drugs may be used, sometimes in combination or alternatively, depending on the context:
+
+* anti-inflammatory drugs ;
+* glucorticoids
+* chemical immunosuppressants that act on the activation and/or survival of immune cells
+* biotherapies: drugs designed to target more specific activation pathways by targeting cytokines and/or their receptors involved in the pathophysiology of the AD in question
+
+
+There are national recommendations (PNDS available on the HAS website) for certain ADIs, and for rare ADIs there is a national network of centres of reference and competence.

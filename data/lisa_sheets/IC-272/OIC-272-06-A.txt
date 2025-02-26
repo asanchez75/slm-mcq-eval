@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-272-06-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Heading=Know how to prescribe HP testing (invasive and non-invasive tests)
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=6}}
+- H.pylori infection is routinely tested for in endoscopic gastric or duodenal ulcer lesions. This test is performed on gastric biopsies taken during diagnostic endoscopy.
+
+- '''Other indications for testing for H.pylori infection'':''' long-term use of NSAIDs, 1st degree family history of stomach cancer, MALT lymphoma, unexplained martial deficiency, prior to bariatric surgery (bypass) and dyspepsia. In indications that do not justify endoscopy, H.pylori infection is detected by a non-invasive test (serology), usually a respiratory test++ (see table).
+
+M'''éthodes de diagnostic d'HP :'''
+{| class="wikitable"
+|
+|'''test'''
+|'''Mechanism'''
+|'''Efficacy'''
+|'''Remarks'''
+|-
+| rowspan="3" |Non-invasive tests
+|'''Labelled Urea Breathing Test*''''
+|Ingestion of C13-labelled urea results in the production of labelled CO2, detected in exhaled air.
+|Se and Sp> 95%.
+|Valid for verifying eradication
+|-
+|Fecal antigens
+|H.pylori antigens detected by antibodies in stools
+|Se= 91 - 96
+
+Sp= 93 - 97
+|Valid for verifying eradication
+
+Se diminished in case of haemorrhage
+|-
+|Serology
+|IgG in blood
+|Se= 85
+
+Sp= 79
+|Remains positive after eradication.
+
+Useful if haemorrhage (because no biopsy in haemorrhagic period)
+|-
+|Invasive test
+|'''Biopsies*''''
+|Histological abnormalities associated with H.pylori
+|Se> 95%
+
+Sp> 95%.
+|Allows antibiotic susceptibility testing and PCR in bacteriology.
+|}
+* : tests most frequently performed in practice

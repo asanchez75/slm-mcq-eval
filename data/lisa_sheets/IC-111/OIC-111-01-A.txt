@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-111-01-A
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=A
+|Title=Know the definition of acne
+|Description=Know that acne is an inflammatory disease of the pilosebaceous follicle
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Chronic inflammatory dermatosis affecting the pilosebaceous follicle.

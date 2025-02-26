@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-219-16-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Know the first-line assessment of iron overload and the indications for liver biopsy and hepatic MRI
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=16}}
+If iron overload is confirmed by the presence of ''hyperferritinaemia'' '''and''' a '''transferrin saturation coefficient greater than 45%''', '''the 1st<sup>er</sup> examination to be performed''' is '''research into the C282Y mutation of the HFE gene''' (with signed consent from the patient).
+
+In the case of C282Y homozygosity, the diagnosis of genetic haemochromatosis is confirmed.
+Further investigations to check for complications depend on the presence of clinical signs, ferritin levels and transferrin saturation coefficient.
+The different clinical stages of haemochromatosis are shown in Table 3.
+
+- If the diagnosis is made as part of genetic counselling screening, with a blood ferritin level and transferrin saturation coefficient < 45%, there is no need to carry out any additional tests to check for complications at diagnosis (stage 0). This is also not necessary in the absence of symptoms, with a transferrin saturation coefficient above 45% but still normal ferritin levels (stage 1).
+
+- In the event of a transferrin saturation coefficient greater than 45% and hyperferritinaemia, whether or not associated with clinical signs (stages 2 to 4), a work-up to look for organ complications should be carried out, including a liver MRI with measurement of intrahepatic iron concentration.
+
+Liver biopsy is not useful for diagnosing genetic haemochromatosis, and non-invasive markers can be used to quantify fibrosis if there is a suspicion. Liver biopsy may be performed if cirrhosis is suspected.
+
+Table 3: Stages of haemochromatosis
+{| class="wikitable"
+|
+|Stage 0
+|Stage 1
+|Stage 2
+|Stadium 3
+|Stadium 4
+|-
+|Clinical
+| colspan="3" |Asymptomatic
+|Symptoms
+
+that can affect quality of life
+|Symptoms
+
+life-threatening
+|-
+|Ferritinemia
+| colspan="2" |N
+| colspan="3" |> 200 μg/L (♀), > 300 μg/L (♂)
+|-
+|CST
+|< 45 %
+| colspan="4" |> 45 %
+|}
+Abbreviations: TSC: transferrin saturation coefficient
+
+In the absence of C282Y homozygosity, hepatic MRI without injection is proposed in the absence of contraindication to quantify intra-hepatic iron and orientate the diagnosis. Hepatic biopsy (with Pearls staining), on the other hand, is virtually no longer indicated now that it is possible to quantify iron using MRI.

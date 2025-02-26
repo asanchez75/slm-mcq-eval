@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-298-03-B
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=B
+|Title=Knowing the natural history and risk factors of VADS cancers
+|Description=Know the different stages of the cancer process and the concepts of synchronous and metachronous cancers.
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+Cancers of the upper aerodigestive tract include several histological types associated with different risk factors. The most common are cancers of the oral cavity, oropharynx, hypopharynx and larynx, often associated with ethylotabagism. Rarer cancers affect the cavum, ethmoid sinus, maxillary sinus, nasopharynx and even the nasal cavities (melanoma).
+
+
+The main risk factors for squamous cell carcinoma of the VADS are :
+
+- alcohol and tobacco consumption (need for quantification and duration: tobacco in pack-years, alcohol in grams per day). There is a tobacco-alcohol synergy that multiplies the risk of cancer. When tobacco and alcohol are involved, these tumours may be multiple (synchronous tumours of the VADS, oesophagus and lung). A second site may also occur as a second primary cancer.   The initial work-up and surveillance will therefore check all the sites at risk.
+
+- persistent infection with oncogenic Human Papillomaviruses (especially HPV 16) in the development of squamous cell carcinomas of the oropharynx in younger patients without alcohol or tobacco intoxication.
+
+- precancerous lesions: leukoplakia, erythroplakia, oral lichen planus, achromic cheilitis, infectious agents (chronic candidiasis, florid or laryngeal oral papillomatosis).
+
+Exposure to wood dust is the main risk factor for adenocarcinoma of the ethmoid.
+
+The main aetiological factor in the classic histological form of cavitary cancer (UCNT) is infection with the Epstein-Barr virus (EBV).
+
+<br />

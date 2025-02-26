@@ -1,0 +1,101 @@
+{{knowledge objective
+|Identifiant=OIC-328-10-B
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=B
+|Intitle=Know the definition and indications of different technical aids
+|Description=Objective definition, type of manufacture and indications of the main technical aids (walking, moving, gripping, etc.).
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=10}}
+
+'''Technical aids:''' any device (instrument, system...) not applied to the body which makes it possible to reduce activity limitations and contributes to improving the autonomy '''([[Progressive loss of autonomy SDD-031|progressive loss of autonomy]])''', safety and well-being of disabled persons '''[[Disability situation SDD-345|(Disability situation)]]'''.
+{| class="wikitable"
+|'''Categories of assistance''''
+|'''''Example'''''
+|'''''Objective'''''
+|'''''Ex indication'''''
+|-
+|Walking aids
+<br />
+|''Cannes''
+|Stabilising walking
+|Osteoarthritis of the lower legs
+
+Paralysis
+
+Onset of difficulty walking
+
+Balance disorders
+|-
+|Moving aids
+<br />
+|Electric wheelchair
+|Getting around
+|4 limb neuropathy
+|-
+|Standing aids
+|Verticaliser
+|Standing
+|Paraplegia, tetraplegia
+|-
+|Handling and gripping aids
+|Bath board
+
+Transfer handlebars
+
+''Personal Lift
+|Hygiene
+
+''Transfer assistance
+|''Patho neuro, rhumato, traumato''
+|-
+|Help with decubitus and sitting position
+<br />Assistance with decubitus and sitting
+|Medical bed, anti-bedsore mattress
+|Autonomy in bed, pressure sore prevention
+|Neurological pathology, rheumatology, traumatology, pressure sores
+
+'''[[Management of a patient in prolonged decubitus SDD-276|Management of a patient in prolonged decubitus]]''''
+|-
+|Environmental control
+<br />
+|Home automation
+|Home automation
+|Tetraplegia
+|-
+|Communication aids
+<br />
+|Voice synthesis
+|Communicating
+|Neurological pathology
+|-
+|Hearing aids
+
+'''[[Prescription and interpretation of an audiogram SDD-184|Prescription and interpretation of an audiogram]]''''
+|''Hearing aids''
+|'''Hearing'''
+|'''[[Decrease in hearing/deafness SDD-140|Decrease in hearing/deafness]]''''
+|-
+|Vision aids
+<br />
+|Braille
+|Seeing
+|Blindness
+|-
+|Ventilatory equipment
+<br />
+|Respirator
+|Breathing
+|Myopathy, Tetraplegia
+
+Sleep apnea
+
+'''[[Snoring SDD-156|Snoring]]''''
+|-
+|Vesico-sphincter apparatus
+<br />Urinary catheters
+|''Urinary catheters''
+|Bladder emptying
+|Neurological bladder
+|}

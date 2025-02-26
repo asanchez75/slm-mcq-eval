@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-020-28-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Intitle=Interaction / effect modification
+|Description=Knowing how to define/recognise
+|Rubric=Definition
+|Contributors=David Hajage (CIMES)
+|Order=28}}
+
+'''Interaction''': occurs when the association between an exposure and a health phenomenon varies according to the level of another factor (= '''effect modification''), called the interaction factor.
+
+* The interaction factor must not be confused with a confounding factor: the presence of a confounding factor can produce (or amplify) the association under study even though it does not exist, or mask (or reduce) it when it does exist.
+* To take account of an interaction factor, we can perform :
+** a stratified analysis,
+** equivalently, the introduction of an interaction term into a multivariate model.
+* The interaction test is necessary to determine whether the effect is modified in a statistically significant way, i.e. whether there is a significant difference in the association between the levels of the interaction factor (the null hypothesis is the absence of interaction, the alternative hypothesis is the existence of an interaction).
+* Example: Study evaluating the association between smoking and lung cancer (fictitious figures):
+
+'''Confusion factor'''
+{| class="wikitable"
+|
+|Men
+|Men
+|Women
+|-
+|RR
+|2,67
+|2,07
+|2,05
+|}
+Sex is a confounding factor here: when stratified by sex, the association between smoking and lung cancer decreases, but the estimated RR is approximately the same in each stratum.
+
+'''Interaction factor''''
+{| class="wikitable"
+|
+|Inhalation
+|Inhalation
+|No inhalation
+|-
+|RR
+|1,89
+|2,43
+|1,2
+|}
+The fact of inhaling smoke is an interaction factor here: the estimate of the association between smoking and lung cancer is not at all the same depending on whether or not the smoke is inhaled.

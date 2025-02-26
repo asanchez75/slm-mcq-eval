@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-333-01-A
+|Item_parent=Exceptional situations
+|Item_parent_short=Exceptional situations
+|Rank=A
+|Title=Knowing the definition of an exceptional health situation (EHS)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+Exceptional health situation: '''emerging event''', unusual and/or unknown '''which goes beyond the framework of routine alert management'', in terms of its scale, its seriousness (in particular in terms of impact on the health of populations or the functioning of the health system) or its media character (proveń or potential) and '''which may develop into a crisis'''.

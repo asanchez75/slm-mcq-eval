@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-308-04-A
+|Item_parent=Pancreatic tumours
+|Item_parent_short=Pancreatic tumours
+|Rank=A
+|Title=Knowing the indications for biological examinations for pancreatic tumours
+|Description=
+|Rubric=Additional tests
+|Contributors=
+|Order=4}}
+
+There are no biological tests necessary for diagnosis.
+
+The CA19.9 marker is not a diagnostic tool, except in the specific case of the assessment of a pancreatic mass for which histology cannot be obtained (at least 1 negative biopsy taken under echo-endoscopy). In this situation, if the CA19.9 is greater than 10 times the upper normal value without associated cholestasis, the diagnosis of adenocarcinoma may be accepted.
+
+The pre-therapy biological work-up should include a CBC, blood ionogram, creatinine, liver work-up (transaminases, Ph alkalines, GGT) and nutritional work-up (albumin, pre-albumin).

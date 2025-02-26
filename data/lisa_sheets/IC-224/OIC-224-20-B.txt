@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-224-20-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the principles of management of secondary hypertension
+|Description=Renovascular and endocrine hypertension
+|Rubric=Management
+|Contributors=
+|Order=20}}
+Management of secondary hypertension is provided by the general practitioner and another specialist of 2nd<sup>e</sup> or 3rd<sup>e</sup> recourse:
+
+===Discontinuation of treatment that promotes hypertension or use of toxic substances===
+
+===Apparatus for sleep apnoea syndrome===
+
+===Treatment of endocrine or renovascular pathology===
+
+====Primary hyperaldosteronism====
+The treatment of primary hyperaldosteronism is based on blocking the mineralocorticoid receptor (spironolactone). Adrenalectomy may be performed when only one of the two adrenal glands is the cause of hypersecretion.
+
+====Phéochromocytomes====
+The treatment of catecholamine-producing pheochromocytomas and paragangliomas is based on surgical excision.
+
+====Renal artery stenosis====
+The treatment of renal artery stenosis is based on optimising cardiovascular prevention. Renal artery angioplasty may be considered in young patients with fibromuscular dysplasia.
+
+In patients with atheromatous stenosis, angioplasty is discussed in cases of resistant hypertension, flash PAO, deterioration in renal function on ACE inhibitors/ARB2, deterioration in renal function with no known aetiology, reduction in the size of the kidney, as well as LDL cholesterol targets of less than 1.4 mmol/L (<0.55 g/L) and prescription of an antiplatelet agent.
+
+<br />

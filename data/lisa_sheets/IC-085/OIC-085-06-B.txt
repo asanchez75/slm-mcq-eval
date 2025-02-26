@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-085-06-B
+|Item_parent=Refractive disorders
+|Item_parent_short=Refractive Disorders
+|Rank=B
+|Title=Understanding the basics of optical refraction
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=6}}
+The study of refraction is an essential part of any ophthalmological examination, as it allows us to rule out poorly corrected ametropia before suggesting an ocular pathology.
+
+Refraction tests are routinely carried out using automatic refractometers, which measure refraction (''objective method''), and by testing lenses in the ophthalmologist's surgery (''subjective method'').
+
+The result is given according to four figures: sphere (spherical ametropia), cylinder and axis (astigmatism), and addition (for the correction of presbyopia, after the age of 40). This nomenclature is the same when prescribing an optical correction (glasses or contact lenses).
+
+The lenses used to correct myopia are of negative power (divergent lenses, thick-rimmed lenses), those used to correct hyperopia are of positive power (convergent lenses, thin-rimmed lenses), those used to correct astigmatism are cylindrical and can be of positive or negative power depending on the case. Finally, the addition required for presbyopia is always positive power (between +1.00 and +3.00 dioptres).
+
+Given children's considerable accommodation capacity, refraction testing always requires prior instillation of a cycloplegic (atropine, or cyclopentolate (Skiacol ®)) to paralyse accommodation.

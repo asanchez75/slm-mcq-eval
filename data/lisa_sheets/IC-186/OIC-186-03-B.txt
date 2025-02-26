@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-186-03-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the major epidemiological trends in food allergy: prevalence, mortality, allergens, etc.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+Prevalence of food allergy: twice as common in children as in adults ;
+
+- 4% (between the ages of 2 and 5); 6.8% (6 to 10); 3.4% (11 to 14); 2% (adult).
+
+- In 75% of cases, food allergy occurs before the age of 45.
+
+- 10 to 41% of anaphylactic shocks are due to a food allergy.
+
+- Pre-existing asthma is the main predisposing factor for mortality in anaphylactic shock.
+
+
+'''The most common allergens responsible for food allergies are:'''
+
+
+In children: eggs, peanuts and cow's milk come to the fore.
+<br />
+{| class="wikitable"
+|'''Allergen or group of allergens'''
+|'''Frequency observed'''
+|-
+|Egg
+|50,9%
+|-
+|Spinach
+|40,41%
+|-
+|Cow's milk
+|16,37%
+|-
+|Pulses
+|8,01%
+|-
+|Fish
+|6,88%
+|-
+|Nuts
+|6,32%
+|-
+|Crayfish
+|5,3%
+|}
+
+
+For adults: fruit comes first.
+<br />
+{| class="wikitable"
+|'''Allergen or group of allergens'''
+|'''Frequency observed'''
+|-
+|Rosaceae (apples, pears, peaches, apricots,...)
+|27,3%
+|-
+|Latex fruits (kiwi, banana, avocado...)
+|23%
+|-
+|Lambelliferae (celery, fennel, carrots...)
+|17,5%
+|-
+|Nuts
+|16%
+|-
+|Cereal groups (gluten, barley...)
+|14,4%
+|-
+|Buckwheat
+|10,1%
+|-
+|Egg white
+|7%
+|-
+|Pulses (soya, lupins, lentils, etc.)
+|6,5%
+|-
+|Sesame
+|5,8%
+|-
+|Crustaceans
+|4,7%
+|-
+|Fish
+|3%
+|-
+|Meat
+|2,7%
+|}
+<br />

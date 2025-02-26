@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-087-07-A
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=A
+|Title=Knowing the therapeutic strategy for epistaxis
+|Description=Knowing the key elements of the therapeutic strategy for epistaxis
+|Rubric=Management
+|Contributors=Geoffrey Mortuaire
+|Order=7}}
+Management is based on a 5-step protocol. Stages 1 and 2 are 1st line strategies that are effective in more than 80% of cases. Stages 3 to 5 are second-line strategies reserved for recurrent forms of epistaxis, often occurring in fragile conditions. Stages 3 to 5 require the intervention of an ENT specialist.
+
+*Step 1: Evacuation of clots by blowing the nose and bidigital compression of the nostrils in contact with the vascular stains for 10 minutes, with the head bent forward. At this stage, and in the absence of any contraindication, local application of a vasoconstrictor and an anaesthetic such as naphazoline and lidocaine 5% on cotton wool can be carried out to allow mucosal retraction to dry up the epistaxis, to locate the haemorrhagic site by rhinoscopy or nasal endoscopy if the technical conditions are met, and to prepare the nasal cavity before any tamponade.
+*Step 2: Vestibular tamponade (in the case of bleeding limited to the nostril vestibule) or anterior tamponade (the anterior 3/4 of the nasal cavity) with absorbable or non-absorbable material, whichever is less invasive. If the active haemorrhagic site is identified and the equipment is available in the emergency department, selective electrocoagulation under local anaesthetic is an effective alternative to anterior packing.
+*'''Stage 3:'''' If this fails, '''anterior and posterior tamponade with a double balloon catheter'''. By compressing the sphenopalatine region, the posterior balloon improves the effectiveness of the anterior balloon.  
+*'''Step 4:'''' If unsuccessful, reduction of nasal blood flow from the '''sphenopalatine arteries''' by endoscopic surgery '''with electrocoagulation/ligation or by radioembolisation.'''
+*'''Step 5:'''' If unsuccessful, reduction of nasal blood flow from the '''ethmoidal arteries by electrocoagulation/ligation'' using a transcutaneous or endoscopic approach.
+
+At each stage, the effectiveness of the procedure is assessed by checking haemodynamic constants and by an oropharyngeal examination to look for bloody posterior rhinorrhoea. In the case of non-absorbable anterior tamponades or double balloon catheters, the material should not be left for more than 24 to 48 hours.

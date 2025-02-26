@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-098-01-B
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=B
+|Title=Knowing the main pathophysiological mechanisms of myasthenia gravis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+
+
+
+Myasthenia (or ''myasthenia gravis''): is an autoimmune disease linked to a blockage of receptors on the motor plate by anti-acetylcholine receptor antibodies or other types of antibody, leading to dysfunction of neuromuscular transmission: this is a post-synaptic block.
+
+The thymus plays an important role: the acetylcholine receptors on the myoid cells of the thymus stimulate antibodies against the receptors on the neuromuscular junction; the thymus is a source of T helper lymphocytes which stimulate the production of these antibodies by B lymphocytes.
+
+It can occur at any age, but most often affects adults.
+
+Between the ages of 20 and 40, myasthenia gravis is more common in women, whereas it is more common in men over the age of 60.

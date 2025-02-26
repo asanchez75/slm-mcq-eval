@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-125-09-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Knowing the indication and contribution of imaging examinations for mictional disorders, dysuria and urinary incontinence
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=B. Peyronnet
+|Order=9}}
+
+
+*Renal-vesicoprostatic ultrasound can be prescribed for the assessment of UTI and SBAU. It is used to look for an impact on the upper urinary tract ([[Normal sexuality and its disorders|dilatation of the pyelo-caliceal cavities 58]]), a lesion or calculus in the urinary tract that may be the cause of UABS or incontinence, signs of obstruction (signs of struggle: thick detrusor > 5 mm, diverticula, crenellated bladder), measurement of the post-micturition residue and an approximate estimate of the prostatic volume.
+*Retrograde mictional urethrocystography is a second-line examination prescribed for the assessment of certain UABS and urinary incontinence. It involves filling the bladder with contrast medium and taking radiographic images while asking the patient to urinate. This examination will help to rule out an anatomical or functional subvesical obstruction and vesico-renal reflux in the context of a neurological bladder. In the case of incontinence, it is essential to look for cervical hypermobility and/or sphincter insufficiency during pushing and micturition.
+*Cerebral and spinal cord MRI can be useful in the assessment of certain SBAU and urinary incontinence. It can be used to look for a neurological cause of incontinence if there is a strong clinical suspicion (MS 104).

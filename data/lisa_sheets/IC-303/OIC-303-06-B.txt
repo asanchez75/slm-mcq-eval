@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-303-06-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Title=Know the most common histological type: adenocarcinoma
+|Description=Detail the most common histological type (adenocarcinoma)
+|Rubric=Physiopathology
+|Contributors=
+|Order=6}}
+'''Cf 2C-303-EP-B01'''

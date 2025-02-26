@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-157-05-B
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=B
+|Title=Know the infectious agents that cause fungal infections, as well as their route of entry and the associated terrain.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Jean-Pierre Gangneux,Florence Robert-Gangneux
+|Order=5}}
+
+- Fungemia = candidemia in 90% of cases
+
+- Serious infection: 30-40% mortality rate
+
+- Candidemia: C. albicans (50-60%), C. glabrata (15-20%), C. parapsilosis (10-15%), C. tropicalis, C. krusei
+
+- Candida is part of the commensal flora (oral cavity and digestive tract) and can colonise several anatomical sites before translocating to the blood compartment.
+
+- Candidaemia is almost always associated with health care and favoured by :
+
+* Cancer and immunodepression (chemotherapy, neutropenia, corticosteroid therapy, organ transplantation),
+* Central venous lines,
+* Abdominal surgery, stay in intensive care unit.
+* Prior antibiotic therapy, malnutrition.
+
+- The most common routes of entry for candidiasis are :
+
+*Vascular catheter
+*Abdominal surgery
+*Digestive mucosal lesions (mucositis during chemotherapy)
+*IV drug addiction
+
+<big>-</big> Other fungal agents: ''Cryptococcus'' sp., ''Malassezia'' (paediatrics) (NB. ''Aspergillus'' does not grow in blood cultures)

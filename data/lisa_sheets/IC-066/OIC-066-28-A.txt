@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-28-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing the indications for consulting a psychiatrist
+|Description=None
+|Rubric=Taking charge
+|Contributors=El-Hage Wissam
+|Order=28}}
+
+Consultation in cases of severe disorder, co-morbidity, resistance to treatment or high-risk situations (pregnancy, post-partum). Hospitalisation is rarely necessary except in cases of major anxiety, suicidal risk or severe DCI.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-063-07-B
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=B
+|Intitle=Knowing that the aetiology is multifactorial
+|Description=Send item 60
+|Topic=Physiopathology
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=7}}
+
+Multifactorial origin based on a stress-diathesis or stress-vulnerability model = dynamic set of genetic and environmental factors which interact with each other and influence vulnerability and/or the clinical expression of the disease throughout development.

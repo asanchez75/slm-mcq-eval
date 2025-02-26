@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-319-03-B
+|Item_parent=Malignant lymphomas
+|Item_parent_short=Malignant lymphomas
+|Rank=B
+|Title=Describe the general characteristics and principles of lymphoma classification.
+|Description=notion of lymphoid system and clonality
+|Heading=Pathophysiological elements
+|Contributors=
+|Order=3}}
+A distinction is made between Hodgkin's lymphoma and non-Hodgkin's lymphoma.
+
+Hodgkin's lymphoma has a specific clinical presentation (frequent in young adults, preferentially involving the supra-diaphragm) and a very specific histological appearance, with large tumour cells (known as Reed Sternberg cells) within a rich inflammatory infiltrate.
+
+Non-Hodgkin's lymphomas are subdivided into T and B lymphomas, depending on whether they are derived from a T or B lymphocyte. B-cell lymphomas are the most common, and fall into several categories depending on their histological appearance: small-cell B-cell lymphomas (follicular lymphoma, mantle cell lymphoma, marginal zone lymphoma, lymphocytic lymphoma), diffuse large-cell B-cell lymphomas and Burkitt's lymphoma.

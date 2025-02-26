@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-122-11-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Know the rules for prescribing speech and language therapy.
+|Description=The essential and optional elements of speech and language therapy prescribing.
+|Rubric=Management of costs
+|Contributors=Claire Hentzen
+|Order=11}}
+
+A request for an assessment is a prerequisite for a speech therapy prescription, with 2 possible types ('''[[Prescription of a rehabilitation SD-247|Prescription of a rehabilitation]], [[Writing a prescription/medical letter SD-342|Drafting a prescription/medical letter]])''' :
+
+* a speech and language assessment with re-education if necessary: once the assessment has been sent to the prescriber, the speech and language therapist draws up a request for prior agreement if re-education is necessary.
+* an investigative speech and language therapy assessment: once the assessment has been sent to the prescriber, who may or may not decide to prescribe speech and language therapy.

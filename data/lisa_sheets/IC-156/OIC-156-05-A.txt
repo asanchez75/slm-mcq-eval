@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-156-05-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Identify the clinical signs of OAIs (according to their most frequent location in children and adults).
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Dr Florent Valour
+|Order=5}}
+
+{| class="wikitable"
+|
+|'''IOA acute''''
+|'''IOA chronic''''
+|-
+|'''General signs'''
+|Hyperthermia/fever SD-044|Fever/hyperthermia]] inconstant
+|Fever usually absent
+|-
+|'''Local signs'''
+|. Pain ([[Joint pain SD-067|joint]], [[Limb pain (upper or lower) SD-071|limb]], [[Spinal pain (cervical, dorsal or lumbar) SD-072|spine]])
+
+. Partial or total functional impotence, limping
+
+. Redness, heat, oedema, joint effusion
+
+. Post-operatively: [[Abnormal scar SD-083|abnormal scar]] (discharge, disunion, necrosis), [[Post-operative acute pain SD-034|post-operative acute pain]]
+| [[Chronic pain SD-035|Chronic pain]]
+
+Partial or total functional impotence, [[Lameness SD-068|lameness]]
+
+Fistulisation
+|-
+|Biological inflammatory syndrome
+|[[c-reactive protein (cr) elevation SD-203|C-reactive protein elevation]] (CRP) most often
+|sometimes absent
+|}

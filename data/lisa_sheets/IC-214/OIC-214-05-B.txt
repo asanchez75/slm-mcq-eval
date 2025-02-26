@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-214-05-B
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=B
+|Title=Photograph of thrombocytopenic purpura
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=5}}
+
+[[File:Purpura.jpg|thumb]]

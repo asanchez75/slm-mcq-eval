@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-004-07-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the structures in charge of AEIAS in France
+|Description=To understand the organisation of the fight against HCAIs in France
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+HCAIs are one of the priorities of the Public Health Act, and their prevention has become an essential component of the quality and safety of healthcare. They are the subject of national prevention and surveillance programmes defined by the Ministry of Health.
+
+Since the creation of nosocomial infection control committees (CLINs) in 1988, the system for epidemiological surveillance and prevention of HCAIs has consisted of a three-tier system:
+
+- At local level in each public or private healthcare establishment: an operational hospital hygiene team (EOHH), which must work in close coordination with the healthcare risk management coordinator (circular dated 18/11/2011). The CLIN (nosocomial infection control committee) is compulsory in private establishments.
+
+In public establishments, the CLIN may be replaced by the CME (Commission Médicale d'Etablissement).
+
+- Regional support centres for the prevention of healthcare-associated infections (CPIAS) covering all French regions;
+
+- At the level of the Ministry of Health, a steering committee for the national HCAI prevention programme (''PROPIAS''); The implementation of national missions is entrusted to the National Public Health Agency (''Santé Publique France'').
+
+The prevention programme covers the three sectors of health establishments, medico-social services and outpatient care.

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-354-14-B
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=B
+|Title=Knowing the indications for imaging occlusive syndrome in the neonatal period, in infants and in children
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=14}}
+
+
+Abdominopelvic ultrasound is the first-line examination in cases of suspected occlusion, particularly in the case of :
+
+*Hypertrophic stenosis of the pylorus
+*Acute intestinal invagination
+*Small bowel volvulus due to malrotation
+
+The unprepared abdominal x-ray is not indicated when the answer is provided by ultrasound or in cases of strangulated inguinal hernia, which is diagnosed purely clinically. It is useful for diagnosing neonatal obstructions. In all cases, it should be taken lying down, as it is more informative than a standing view, and enables the digestive distension, the cardinal sign of the obstruction, to be analysed more accurately.
+
+An enema is sometimes indicated:
+
+*As a referral examination in Hirschsprung's disease
+*As a treatment for acute intestinal intussusception
+
+<br />

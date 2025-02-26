@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-194-01-A
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=A
+|Item_parent_short=Systemic lupus (LS) is a polymorphic autoimmune disease
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Systemic lupus (SL) = a systemic autoimmune disease of heterogeneous presentation and prognosis, characterised by the production of antinuclear antibodies (ANA) directed in particular against native DNA.
+
+LS is sometimes associated with anti-phospholipid antibody syndrome (APAS), characterised by the occurrence of recurrent thrombosis or obstetric events, and the presence of anti-phospholipid antibodies.

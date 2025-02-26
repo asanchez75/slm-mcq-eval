@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-003-03-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing the recommendations
+|Description=Grade of recommendations, methods of production, revisions, proper use, etc.
+|Section=Definition
+|Contributors=
+|Order=3}}
+- The decision is generally based on guidelines. Ex. HAS. They are used to guide the decision in situations where there is a high prevalence of treatment, a particularly high cost or a high risk of accident.
+
+- Graduation of levels of evidence and corresponding grades of recommendations. E.g. WHO and Grading of Recommendations Assessment, Development and Evaluation (GRADE), Oxford Centre for Evidence-Based Medicine, Scottish Intercollegiate Guidelines Network, etc.
+
+- These levels of evidence will be used to generate "clinical practice recommendations (CPR)", published in France most often by the HAS.
+
+- Recommendations can be ''analysed'' (relevance, internal and external validity, consideration of bias), using tools such as the AGREE grid.

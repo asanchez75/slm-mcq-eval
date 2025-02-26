@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-140-01-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Item_parent_short=Multidisciplinary palliative care for patients in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Rank=A
+|Title=Knowing the situations which require a reflective approach to the proportionality of investigations and/or treatments.
+|Description=Artificial hydration or nutrition, transfusion, antibiotics, corticosteroids, anticoagulants, anti-tumour treatments.
+|Topic=Positive diagnosis
+|Contributors=Chloé Prod'homme
+|Order=1}}
+
+In palliative care, situations requiring a ''reflective approach to the proportionality of investigations and/or treatments'' concern: ([[Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy]])
+
+*'''<big>Artificial hydration</big>''''
+
+There is "no scientific or social consensus" on whether or not to continue artificial hydration for patients at the end of life. In this context, ''deliberation'' focuses on the interests of the patient and questions the relevance or otherwise of seeking to prolong life artificially. From a legal point of view, artificial hydration is considered to be a treatment that can be stopped in the event of unreasonable obstinacy.
+
+*'''<big>Artificial nutrition</big>'''' ([[Denutrition in adults and children|Denutrition in adults and children)]]
+
+The indications for artificial nutrition in palliative, terminal and/or end-of-life patients are decided on a case-by-case basis.
+
+Feeding has an important emotional dimension, with representations and meanings that vary greatly from person to person. From a legal point of view, artificial nutrition is considered to be "treatment that can be stopped in the event of unreasonable obstinacy".
+
+<u>In oncology</u>, there are '''recommendations''': The initiation of artificial nutrition is not recommended if the patient's life expectancy is less than 3 months and if permanent functional impairment is severe (Karnofsky index ≤ 50% or PS ≥ 3) (expert opinion). In this context, artificial nutrition should be discussed on a multidisciplinary basis. In all cases, if artificial nutrition is introduced, reassessment 15 days later is recommended (expert opinion).
+
+*'''<big>The transfusion</big>'''' ([[Anemia in adults and children]]; [[Thrombocytopenia in adults and children]]; [[Knowing the characteristics of labile blood products (LBS) and their specificity|Knowing the characteristics of labile blood products (LBS) and their specificity;]] [[Prescribe and carry out a blood transfusion SD-272]])
+
+The symbolism of blood is closely associated with transfusion, whether the project is curative or palliative.
+
+<u>In certain haemopathies</u> (myelodysplasias, chronic aplasias), only regular transfusions of labile blood products allow people to live.
+
+Erythrocyte concentrate transfusion is ''considered to be supportive care'' because it combats the symptoms associated with anaemia, by improving fatigue, dyspnoea, etc.
+
+<u>In the advanced palliative phase</u>, the '''expected benefit''' of transfusion for the patient must be '''balanced against''' '''the difficulty of access to transfusions'' (approach route, day hospital, hospitalisation in a multi-purpose medicine close to home), and the''''ineffectiveness of transfusion yield''' on quality of life in a patient who is already very impaired or whose origin of a bleed has not been explored or resolved.
+
+In the palliative phase, it is good practice to "reserve platelet concentrates for symptomatic indications", such as stopping bleeding in thrombocytopenic patients that is likely to resolve, thereby altering patient comfort.
+
+*'''<big>Antibiotics</big>'''' ([[Prescription and monitoring of anti-infectives in adults and children (see item 330)|Prescription and monitoring of anti-infectives in adults and children (see item 330))]]
+
+In a palliative situation, the prescription of antibiotics is a matter for "reflection on the proportionality of treatments".
+
+The management of an acute infectious episode by curative antibiotic therapy may be regarded as "artificially prolonging life". A patient may refuse such treatment or limit it by means of a collegiate procedure.
+
+However, antibiotics are sometimes prescribed ''solely for symptomatic purposes'' (to reduce the unpleasant odours associated with superinfection, pain in the case of symptomatic urinary tract infection, etc.).
+
+In the terminal phase and/or at the end of life, antibiotic treatment of a bacterial infection is not systematic. Symptomatic treatment can be an effective alternative.
+
+*'''<big>Corticosteroids</big>'''' ([[Non-steroidal anti-inflammatory drugs and corticosteroids by general or local route: knowing the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A01]])
+
+Corticosteroids are often used in the palliative or terminal phase and/or at the end of life ''for symptomatic purposes'' (coanalgesia, orexigenic....). The rule is to seek the ''minimum effective dose'' if used on a long-term basis.
+
+In certain pathologies, corticosteroids can lead to "artificial prolongation of life" (to combat intracranial hypertension linked to a brain tumour, etc.). Their prescription therefore calls for "reflection on the proportionality of treatments".
+
+*'''<big>The anticoagulants</big>'''' [[Heparins: knowing the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A07|(Heparins: Know the mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A07]]; [[Oral anticoagulants (VKA and AOD): know the mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A08]])
+
+No high-quality clinical trial has assessed the benefits and risks of initiating or continuing anticoagulant therapy in patients with advanced lethal disease.
+
+'''Consideration of the expected benefit varies according to the indication'' (primary or secondary prevention, or curative treatment in the acute phase of a thromboembolic episode).
+
+In all cases, ''the risk of haemorrhagic complications must be assessed''.
+
+The "constraints and impact on the patient's quality of life" (daily injections, pain, haematomas, etc.) must be discussed.
+
+*'''<big>Les traitements antitumoraux</big>'''' ([[Prise en charge et accompagnement d'un malade atteint de cancer à tous les stages de la maladie dont le stade de soins palliatifs en abordant les problématiques techniques, relationnelles, sociales et éthiques.]])
+
+Recent years have been marked by advances in anti-tumour therapies aimed at further improving patients' survival and/or quality of life.
+
+Access to these different therapies raises the question of their appropriateness in terms of the benefit/risk balance and unreasonable obstinacy.
+
+The introduction of [[Multidisciplinary consultation meetings: Knowing the principles and objectives of a PCR 2C-006-DE-A04|Multidisciplinary consultation meetings]] (PCRs) is a step forward in collegial decision-making, which is all the more necessary in the face of therapeutic innovation that is pushing the boundaries ever further thanks to access to clinical research and early therapeutic phases.
+
+<br />

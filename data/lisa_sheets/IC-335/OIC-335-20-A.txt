@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-335-20-A
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=A
+|Title=Knowing the examinations to be carried out in an emergency in the event of a fracture of the floor of the orbit
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=20}}
+in cases of suspected fracture of the floor of the orbit,
+
+# A complete ophthalmological examination, including visual acuity and oculomotricity, is systematically recommended.
+# a CT scan of the facial mass, without injection of contrast product, with reconstruction in the 3 planes of space (particularly coronal) and possibly in the orbital axis, to document the fracture and any complications (damage to the orbital foramen, intra-orbital haematoma, muscle incarceration, etc.).
+
+These two examinations are necessary and sufficient. Orbital MRI is not a first-line examination; they should not delay surgical management if muscle incarceration is clinically suspected.

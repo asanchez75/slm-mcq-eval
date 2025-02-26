@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-257-08-A
+|Item_parent=Localised or generalised lower limb oedema
+|Item_parent_short=Localised or generalised lower limb oedema
+|Rank=A
+|Title=Know the principles of symptomatic treatment of oedematous syndromes
+|Description=The rules for use of the different classes of diuretics
+|Section=Management
+|Contributors=Jean-Jacques Boffa,Bruno Moulin
+|Order=8}}
+
+=VI.  Symptomatic treatment of generalised oedema and monitoring=
+
+==A.    Treatment==
+
+*Treatment of the cause
+*Symptomatic treatment to induce a negative sodium balance
+
+1. restriction of sodium intake
+
+Salt-restricted diet providing 2 to 4 g NaCl (i.e. 35 to 70 mmoles of sodium)
+
+In the absence of hyponatremia (intracellular hyperhydration), there should be no restriction of water intake.
+
+'''2.      Increased elimination of sodium''''
+
+Henle loop diuretics have the most powerful natriuretic effect
+
+*furosemide and bumetanide are used in higher doses when renal function is impaired;
+*the injectable form, particularly continuous infusion, allows greater natriuresis to be achieved when oedema is major or resistant to oral treatment;
+*the doses of furosemide used range from 20 to 500 mg per day per os or intravenously. The venous route allows the dosage of the diuretic to be titrated progressively and requires dosages 2 times lower;
+
+Distal-acting diuretics have a synergistic effect with loop diuretics:
+
+*spironolactone helps to avoid the hypokalaemia induced by loop diuretics, by having a synergistic effect on natriuresis. Contraindicated in severe renal impairment.
+*Amiloride also has a synergistic effect with loop diuretics. Contraindicated in severe renal impairment.
+
+Thiazides have a synergistic effect on natriuresis. The combination of loop diuretic and hydrochlorothiazide is very effective, particularly in patients with cardiac insufficiency.
+
+*Infusion of albumin or other products responsible for volemic expansion have very limited indications (ascites puncture in cirrhosis).
+
+==B.    Monitoring==
+'''1. Clinical.'''
+
+Tolerance monitoring involves :
+
+*Pulse, standing and lying blood pressure to look for orthostatic arterial hypotension;
+*Weight loss should be limited to less than 1 kg/day in subjects at risk of developing functional renal failure, in particular the elderly, diabetic or nephrotic patients and patients with chronic renal failure.
+
+'''2.      Biology
+
+24-hour natriuresis increases in the first few days following the introduction or increase in dose of diuretics
+
+The appearance of side effects will be monitored:
+
+*functional acute renal failure: measurement of blood urea and creatinine;
+*haemoconcentration: protidemia, haematocrit;
+*ionic disorders: kalaemia (+++), natremia.
+
+<Further information is available at the following link: http://cuen.fr/manuel2/spip.php?rubrique11

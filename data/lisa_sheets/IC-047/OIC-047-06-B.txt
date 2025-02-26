@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-047-06-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Knowing the procedures for screening for visual disorders by the attending physician.
+|Description=Know the main clinical principles of visual screening for infants and children: clinical tests according to age.
+|Rubric=Positive diagnosis
+|Contributors=Elise Launay
+|Order=6}}
+
+Reference: SFP/DGS Guide <ref>[https://solidarites-sante.gouv.fr/IMG/pdf/Depistage_des_troubles_visuels_chez_l_enfant.pdf Guide Pratique de dépistage des troubles visuels chez l'enfant]</ref>
+
+See also ''item 52''.
+
+*At any age: external examination of the eye (eyelids, size and symmetry of the eyeballs, conjunctiva, cornea, iris (coloboma), pupils (leucocoria), etc.).
+*1st weeks of life: examination using an ophthalmoscope or otoscope (coaxial light and orifice, non-glare light and observation from a distance of 30 to 50 cm).
+**photomotor reflexes: organic cause
+**pupillary glare: leukocoria (see photo) (= EMERGENCY) retinal anomaly (retinoblastoma) or corneal anomaly (cataract)
+**Corneal reflections: strabismus (see photo)
+
+[[File:Leucocorie.png|neant|vignette|Leucocorie]]
+[[File:Strabismus.png|neant|thumbnail]]
+<br />
+
+*2 to 4 months:
+**Monocular and binocular fixation with a light source or high-contrast object, fixation must be centred (reflection in the centre of the pupil), stable (no nystagmus) and maintained.
+**Ocular pursuit: with "bull's eye" (concentric black and white target), before the age of 2 months, movements are imperfectly coordinated; from 4 months, pursuit without head or body movement. May trigger nystagmus (ophthalmological opinion), if no pursuit = ophthalmological opinion to rule out bilateral amblyopia.
+*9 to 15 months: look for amblyopia
+**alternating occlusion to look for a defence reaction (the infant "defends" itself when the healthy eye is hidden from it)
+**spinning top sign: an object is moved to the right and left of the infant, if the amblyopic infant turns its head towards the "sick" side. Also used to test eye mobility
+**stereoscopic tests (relief vision): Lang test = dots on a plate depicting an object which the child tries to grasp if his stereoscopic vision is correct.
+*After 2 1/2 years: near and distance visual acuity.
+**Object matching method (child points to or names the designated object): search for a refraction problem (Pigassou, Cadet or Rossano Weiss test).
+*After the age of 4
+**Directional tests: e.g. Snellen's E-tests (capital E's of different sizes and with different orientations, the child indicates the orientation of the branches of the E either with an E-shaped object or with his hand (up, down, right, left)).
+**Number and letter tests (Cadet, Monoyer Scale)
+**Examination of colour vision: Babydalton or Ischihara tests. Colour vision should be assessed at least once on entering school [[Fichier:Pigassou.png|néant|vignette|Test de Pigassou]]
+
+[[File:Monoyer Scale.png|neant|vignette|Monoyer Scale]]
+[[File:Ischiara.png|neant|vignette|Test D'Ishiara]]
+<br />
+[[File:Babydalton.png|neant|vignette|Babydalton test]]
+<br /><references />

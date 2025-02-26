@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-267-16-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=B
+|Title=To know the other possibilities of emergency treatment of severe hyperkalaemia
+|Description=Know how to use B mimetics and the principles of using sodium bicarbonate.
+|Rubric=Management
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=16}}
+
+
+*Transfer of K to the intracellular compartment (2) :
+**β-adrenergic agents (salbutamol): 20/mg nebulised.
+**Moderate alkalinisation in metabolic acidosis at normal BP (Na bicarbonate, 14 g ‰, 42 g ‰ or 84 g ‰). PAO is a contraindication to this treatment.
+*Elimination of potassium overload:
+**Extrarenal purification by haemodialysis is the treatment of choice in cases of severe renal failure.
+**loop diuretics (furosemide, bumetanide): if pulmonary oedema and associated organic renal failure.

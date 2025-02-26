@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-192-07-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Know the main immunological and complement abnormalities
+|Description=Know the diagnostic significance of the following autoACs: antinuclear antibodies, antiphospholipid antibodies, antiCCP, ANCA, antiTPO and TG, TRAK, antistomach, antiDBT1, antiRach, antitransglutaminases.
+|Rubric=Additional tests
+|Contributors=Amélie Servettaz
+|Order=7}}
+
+'''''Presence of autoantibodies (see above)'''''
+
+'''''Complement anomalies'''''
+
+- An increase in serum C3 and C4 concentrations is observed during the inflammatory syndrome, whatever the cause, and therefore in ADI with inflammatory syndrome.
+
+- Hypocomplementemia (a drop in C3, C4 and CH50) is found in relapsing systemic lupus erythematosus and in vasculitides associated with cryoglobulinemia, and is linked to the presence of deposits of immune complexes which activate the classical complement pathway and therefore consume the various components.

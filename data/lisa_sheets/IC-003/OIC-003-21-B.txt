@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-003-21-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing the architectures of information systems
+|Description=Clinical models, mapping the relationships and dependencies between the data that make up health information systems (e.g. decision support systems, electronic care records, connected prescribing, registers, etc.).
+|Rubric=Management
+|Contributors=CIMES
+|Order=21}}
+
+Clinical models, mapping the relationships and dependencies between the data that make up health information systems (e.g. decision support systems, electronic care records, connected prescribing, registers, etc.).
+
+Interoperability of health information systems
+
+Since 2005, we have known that one of the factors in the effective use of SADMs is their integration into practitioners' workflows, with SADMs needing to be interfaced with the computerised patient record (CPR) to feed in patient data recorded in the CPR and produce decision support visible in the CPR. Interoperability is the ability of a system, whose interfaces are fully known, to function with other existing or future systems, without restrictions on access or implementation. It is therefore the ability of information systems to work together and exchange data without loss.
+
+''''' Levels of interoperability'''''
+
+There are three levels of interoperability, each of which requires the lower levels to be satisfied: technical interoperability, syntactic interoperability and semantic interoperability.
+
+* Technical interoperability is the ability of systems to communicate with each other at a very low level without worrying about the type of information being communicated. This is at the hardware level of connectors and network devices, and at the logical level of the software layers managing the network (low-level protocols such as TCP/IP, Internet addressing conventions).
+* Syntactic interoperability implies that systems are able to recognise the structure of the information they exchange. Syntactic interoperability is based on coding conventions and the structure of the information exchanged.
+* The final level is ''semantic'' interoperability, which assumes that the meaning of the information exchanged is shared. For systems to be semantically interoperable, the information must be unambiguous and therefore coded with a unique identifier for a given meaning. A label and a definition in natural language can be added to enable the code to be linked to its meaning (for users).  In order to agree on the codifications used, they need to be declared in explicit repositories that will list all the codes.
+
+'''''Interoperability standards in healthcare'''''
+
+Several interoperability norms and standards are used in the field of biomedical IT, both nationally and internationally. As far as technical interoperability is concerned, there is nothing specific to healthcare, and Internet standards are the benchmark.
+
+In terms of syntactic interoperability, HL7 is an international organisation that promotes interoperability in the healthcare sector. The proposed CDA R2 (Clinical Document Architecture) format defines the various structured components of clinical documents so that they can be exchanged, e.g. document author, recipients, date, patient concerned. In level 1 of CDA R2, the content of the structured components is not controlled and can be free text. The structuring is more refined with level 3. In France, the ANS (Agence du numérique en santé) provides the interoperability framework for health information systems, which is based on CDA. FHIR is an evolution of CDA, proposed by HL7, which aims to provide packages comprising both document models inspired by CDA and software tools for manipulating them. In the case of medical image exchange, the standard used is DICOM.
+
+For semantic interoperability, there are a number of ''reference repositories or terminologies'', including :
+
+* ICD-10, the International Statistical Classification of Diseases and Related Health Problems, version 10, was drawn up by the WHO. This classification is used in France as part of the PMSI to code hospital stays.
+* CISP-2, the International Classification of Primary Care, promoted by WONCA, the international association of general practitioners, is intended for use in primary care.
+* SNOMED CT, Systematic Nomenclature Medical Clinical Terms, is a conceptualisation of all medicine.
+* LOINC, Logical Observation Identifiers Names and Codes, is used to characterise examination requests and results, for example in biology.
+* The French CCAM (Classification Commune des Actes Médicaux) is used to code medical procedures performed by doctors and to establish the fees for these procedures.
+
+Finally, we should mention HeTOP , which stands for Health Terminology / Ontology Portal, the health terminology portal created by the CISMEF team at Rouen University Hospital. It is not a terminology repository, but rather a multi-terminology server providing access to numerous repositories. For a given term, it makes it possible to find all the associated codes in numerous terminology repositories, thanks to the alignment of these repositories. For example, when you search the HeTOP portal for the French term "cancer du sein", you will find its equivalent or the associated terms in different repositories. We can see that the preferred term in the MeSH nomenclature is "tumeurs du sein", that its English equivalent is "breast neoplasms", and that the ICD-10 code is "C50 - tumeur maligne du sein", among other nomenclature codes referring to breast cancer.
+
+While the first two levels of interoperability, technical and syntactic, are a priori completely hidden from the user, the semantic coding of medical information is the responsibility of the healthcare professional who created the data. However, it is not necessary to know all the reference terminologies and their codes, as applications generally allow the use of interface terminologies - a set of terms commonly used in a specialty practice - for which alignment with the reference terminologies is achieved at application level.  The quality of coded data is of paramount importance, as any deviation in coding leads to the construction of a formalised representation of the patient that will be erroneous. This will potentially have a major impact on any algorithmic processing that is carried out, such as providing a management recommendation that is correct from the coding point of view, but unsuitable for the actual patient.

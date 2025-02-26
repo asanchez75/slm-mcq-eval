@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-345-06-A
+|Item_parent=Severe discomfort in infants and unexpected infant death
+|Item_parent_short=Severe discomfort in infants and unexpected infant death
+|Rank=A
+|Intitulé=Serious illness in infants: identifying emergency situations
+|Description=None
+|Rubric=Identifying emergencies
+|Contributors=
+|Order=6}}
+Discomfort is usually benign but may be associated with a serious pathology. Look for :
+
+* haemodynamic signs: signs of shock, bradycardia or tachycardia, signs of cardiac insufficiency
+* Respiratory signs: signs of hypoxia (cyanosis or desaturation), apnoea or bradypnoea, signs of struggle, signs of hypercapnia.
+* Neurological signs: signs of HTIC, consciousness disorders, tonus disorders, abnormal movements, focal signs.

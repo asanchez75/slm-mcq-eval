@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-203-02-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the clinical examination of a patient with dyspnea
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Interrogatory:'''
+
+*Age: acute or chronic
+*Rhythm and frequency?
+*Characteristics
+**Effort (dyspnoea score, MMRC, NYHA)
+**Positional (orthopnoea, antepnoea)
+**Paroxysmal
+*Mode of onset
+*Triggering factors (nycthemeral, seasonal periodicity)
+*Associated symptoms
+*History and particular exposures
+
+'''Clinical examination:'''
+
+*Look for signs of severity: see item 359 [[Acute respiratory distress SD-160|acute respiratory distress]].
+*Complete thoracic and extra-thoracic examination (cf respiratory semiology) - [[Discovery of anomalies on pulmonary auscultation SD-020|discovery of anomalies on pulmonary auscultation]].

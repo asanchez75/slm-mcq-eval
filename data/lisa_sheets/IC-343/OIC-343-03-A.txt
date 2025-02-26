@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-343-03-A
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=A
+|Title=Know how to make a clinical diagnosis of confusional syndrome in adults, with particular reference to children.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The clinical diagnosis of confusional syndrome (''''[[Mental confusion/disorientation SD-119|mental confusion/disorientation]]''') consists of putting together the elements of the definition (cf item 108 Know the definition of confusion and dementia; item 343 Definition of confusional syndrome) :
+
+- Attention deficit disorder''([[Attention Deficit Disorder SDD-129|attention deficit disorder]])'''' severe associated with moderate impairment of alertness''([[Coma and Consciousness Disorder SDD-028|coma and consciousness disorder]])''''''
+
+- acute or subacute, fluctuating (reversal of nycthemeral rhythm) '''([[Sleep disorders, insomnia or hypersomnia SDD-135|sleep disorders, insomnia or hypersomnia]])''''
+
+- leading to disorganised thinking ([[Mental confusion/disorientation SD-119|'''mental confusion/disorientation''']]) and behavioural disorders (agitation; apathy; hallucinations; delusions)
+
+The major clinical argument is the ''fluctuation of clinical disorders'' according to the time of day, up to the point of a ''reversal of the sleep-wake cycle'' (nycthemeral cycle), with confusion and agitation worsening significantly in the vesper period and in the dark, while a large part of the day is taken up by sleepiness.
+
+'''There may be somatic signs that are not specific to an aetiology''': a '''[[Tremor SDD-128|tremor]]''' myoclonic (irregular jerking) of the extremities, attitude and action, asterixis (or '''flapping tremor''': negative myoclonus by intermittent and repeated drops in muscle tone) '''([[Abnormal movements SDD-126|abnormal movements]])'''.
+
+After resolution, there is ''lacunar amnesia'' of the entire confusional episode.
+
+Clinical diagnosis can be aided by the use of diagnostic tools such as the '''''Confusion Assessment Method'' (CAM):''''
+
+# Sudden onset and fluctuating symptoms
+
+o Is there a change in the patient's basic mental state?
+
+o Does this behaviour fluctuate throughout the day?
+
+2. inattention
+
+o Does the patient have difficulty focusing?
+
+o Does he lose his train of thought?
+
+o Are they easily distracted?
+
+''3. Disorganisation of thought''
+
+o Is the patient's speech incoherent and disorganised?
+
+o Is the sequence of ideas illogical/unpredictable?
+
+o Does the patient go from one thing to another?
+
+''4. Impaired alertness''
+
+How would you assess your patient's general condition?
+
+o Alert (if alert, criterion 4 is not retained)
+
+o Vigil?
+
+o Lethargic?
+
+o Stupid?
+
+o Comatose?
+
+Three criteria are required. Criteria 1 & 2 must always be present, in combination with criteria 3 and/or 4.

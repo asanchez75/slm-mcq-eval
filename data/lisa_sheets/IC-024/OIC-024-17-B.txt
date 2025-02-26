@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-024-17-B
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=B
+|Title=Knowing the long-term complications of hypertension
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=17}}
+
+A history of gestational hypertension exposes the patient to a ''risk of chronic hypertension'' as well as an increased risk of cardiovascular and renal pathologies, hence the importance of appropriate subsequent monitoring++++

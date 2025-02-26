@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-299-09-B
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=B
+|Title=To know the principles of the management of HTIC and epilepsy in a patient with an intracerebral tumour.
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (CHU Toulouse),Pr François VASSAL (CHU Saint-Etienne)
+|Order=9}}
+
+'''HTIC = emergency treatment''' '''+++''''
+
+- Treatment depending on the mechanism
+
+- Peritumoral vasogenic oedema :
+
+o → [[Corticosteroid therapy|corticoids]] (methylprednisolone, dexamethasone)
+
+o → diuretics (mannitol)
+
+o Fast-acting but limited in time
+
+- Bulky or haemorrhagic tumour: → resection surgery
+
+- Obstructive hydrocephalus: → endoscopic ventriculocisternostomy / internal or external LCS shunt.
+
+'''[[Childhood and adult epilepsy|Epilepsy]] :''''
+
+- '''No''' '''preventive''' treatment '''in the absence of a crisis''' prior to treatment
+
+- Priority should be given to new-generation drugs that are effective against focal/partial seizures and do not induce enzymes (levetiracetam, lacosamide).

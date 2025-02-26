@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-283-04-B
+|Item_parent=Constipation in children and adults
+|Item_parent_short=Constipation in children and adults
+|Rank=B
+|Title=Knowing the indication for imaging examinations for constipation
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=4}}
+'''No systematic complementary examination is indicated''' in a chronic constipated person consulting for the 1st time, in the absence of warning signs.
+
+
+'''Endoscopic examination: colonoscopy'''
+
+           Colonoscopy with general anaesthetic should be offered in the following situations:
+
+- if the symptoms appear or worsen after the age of 50;
+
+- in the event of warning signs (rectal discharge, change in general condition, recent unexplained change in transit);
+
+- In situations recommended as part of systematic screening for colon cancer in the general population (e.g. first-degree family history of colon cancer).
+
+
+
+Biological tests
+
+           There is no consensus, and no biological test is strictly necessary in the diagnosis of constipation. Their prescription will therefore be guided by the clinical context and especially if there are warning signs.
+
+If a biological check-up is prescribed, it will include: Blood count, C-reactive protein, TSH, blood glucose, creatinine, blood ionogram, blood calcium.
+
+
+'''Functional examinations'''
+
+'''- Colonic transit time using radio-opaque markers'''
+
+           This examination is based on an unprepared abdomen X-ray after ingestion of radiopaque markers for 5 to 6 days in order to assess their number and distribution on the colonic frame. A formula is used to calculate the colonic transit time (normal is around 60 hours). This examination is simple and minimally invasive. However, it has a low sensitivity and high inter- and intra-individual variability. It should be carried out after laxatives have been stopped.
+
+
+Anorectal manometry
+
+The aim of this examination is to identify a functional disorder of exoneration. In fact, dyschezia, which is a clinical symptom, may show up in anorectal manometry as abdomino-perineal asynergy (or asynchronism), i.e. the absence of relaxation or even paradoxical contraction of the external anal sphincter when pushing.
+
+It is usually performed without prior preparation, in a conscious patient lying on his or her left side. The principle is to use a probe introduced via the anal route and topped by a balloon.
+
+
+'''Morphological examinations'''
+
+'''- Defecography'''
+
+The aim of this dynamic radiological examination is to look for an anatomical disorder causing dyschezia (problems with pelvic statics). It involves opacifying the rectum and, more often than not, the urinary and gynaecological tracts, and performing pushing movements. It is most often carried out when conservative treatments have failed and surgery is being considered.
+
+
+'''- Defeco-MRI or dynamic pelvic MRI'''
+
+This examination is an alternative to defecography and the choice between the two examinations depends on the centres and the habits of the medical and surgical teams.
+
+
+'''- Opaque enema in children:''''
+
+This examination is indicated in cases of suspected Hirschprung's disease.

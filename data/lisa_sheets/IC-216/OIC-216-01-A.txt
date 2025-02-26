@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-216-01-A
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=A
+|Title=Know the definition of haemorrhagic syndrome of haematological origin
+|Description=
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+A ''haemorrhagic syndrome of haematological origin'' is characterised by abnormal bleeding induced or increased by an acquired or constitutional pathology of haemostasis.

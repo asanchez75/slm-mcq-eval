@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-275-08-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Title=Know the main causes of splenomegaly (including infections and haemopathies)
+|Description=HTP, haemopathy, AE, haemolysis
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+
+
+== '''Portal hypertension''' ==
+Any cause of portal hypertension may be responsible for splenomegaly and therefore hypersplenism. Other clinical signs are most often present: '''[[Hepatomegaly SD-006|hepatomegaly]]''', ascites, collateral venous circulation, '''[[Jaundice SD-047|icterus]]'''.
+
+Cirrhosis is the main cause, whether of alcoholic, viral or other origin. Portal vein thrombosis and thrombosis of the suprahepatic veins (Budd-Chiari syndrome) may also be responsible for portal hypertension and hence splenomegaly.
+<br />
+
+== '''Malignant haemopathies''' ==
+Lymphoid haemopathies (except myeloma), myeloid (myeloproliferative syndromes).
+<br />
+
+== '''Infections''' ==
+Bacterial, viral, fungal or parasitic infections (look for a fever +++)
+
+- '''Bacterial infections''': infective endocarditis ('''[[Discovery of anomalies on cardiac auscultation SD-018|discovery of anomalies on cardiac auscultation]]''', '''[[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]]'''), tuberculosis.
+
+- '''Viral infections''': human immunodeficiency virus ('''HIV'''), Epstein-Barr virus ('''EBV'''), cytomegalovirus ('''CMV''), viral hepatitis virus ('''[[Single or multiple adenopathies SD-016|single or multiple adenopathies]]''', hepatic cytolysis and mononucleosis syndrome).
+
+- Parasitic infections: malaria.
+<br />
+
+== '''Chronic haemolysis''' ==
+To be considered in cases of ''jaundice'' and dark urine, diagnosed in the presence of regenerative anaemia (reticulocytes ≥ 120 G/L), with a fall in haptoglobin, and an increase in free bilirubin and LDH.
+
+- hereditary corpuscular haemolysis (haemoglobinopathies; red cell membrane diseases (hereditary spherocytosis); enzyme deficiencies (glucose-6-phosphate dehydrogenase (G6PD) or pyruvate kinase deficiency)
+
+- acquired extra-corpuscular haemolysis: autoimmune haemolytic anaemia, thrombotic microangiopathies.
+
+== '''Other causes of splenomegaly''' ==
+Systemic diseases (systemic lupus, sarcoidosis)
+
+Overload diseases

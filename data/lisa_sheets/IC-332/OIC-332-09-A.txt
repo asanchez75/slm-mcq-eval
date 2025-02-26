@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-332-09-A
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=A
+|Title=Know the principles of management of haemorrhagic shock
+|Description=Transfusion strategy; Know the principles of haemostasis (drugs, surgery, interventional radiology of the artery causing haemorrhagic shock, endoscopy, etc.).
+|Rubric=Management
+|Contributors=Julien Poissy
+|Order=9}}
+
+Step 1: Condition monitoring and venous lines (see elements of immediate management of a state of shock)
+
+Step 2: Identify the cause of the haemorrhage and control the bleeding
+
+- Compression points/grips/sutures
+
+- Call to visceral/obstetric/trauma surgeon or gastroenterologist for specialist haemostasis procedure depending on cause of bleeding
+
+Stage 3: Initial symptomatic measures
+
+- Prevent and, if necessary, correct hypothermia
+
+- Vascular filling with crystalloids +/- vasopressor amines in the absence of response to volume expansion
+
+- Blood transfusion
+
+o If immediate viral emergency without blood group: O+ transfusion. O- in women of childbearing age
+
+o Ratio of packed red blood cells to fresh frozen plasma between 1:1 and 1:2
+
+- Correction of haemostasis disorders
+
+o Vit K if AVK
+
+o Coagulation factor/prothrombin complex concentrates if oral anticoagulants
+
+o Correction of hypocalcaemia
+
+o Fresh frozen plasma/fibrinogen depending on coagulation disorders
+
+- Tranexamic acid: an antifibrinolytic to be administered early

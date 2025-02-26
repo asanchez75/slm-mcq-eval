@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-367-06-B
+|Item_parent=Environmental impact on health
+|Item_parent_short=Environmental impact on health
+|Rank=B
+|Title=Knowing the principles of biological exposure monitoring
+|Description=To understand the possibilities of measuring pollutants and their metabolites in the human body.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Environmental and human metrology data can be used to establish exposure monitoring.
+
+- Mathematical approaches can be used to model exposure routes and deduce tissue-level values (physiologically-based toxicokinetics). In this way, environmental monitoring can provide useful data for human monitoring and vice versa.
+
+- The human biomonitoring studies described above make it possible to monitor the population's exposure, detect emerging exposure and identify the most frequent mixtures of substances of greatest concern.
+
+- These studies are most valuable when combined with health monitoring and the measurement of biological or clinical biomarkers of effect (which measure impact, for example cholesterol levels or markers of inflammation).
+
+- From exposure values, it is possible in some cases to deduce reference values which may be either statistical (mean, median or values at different percentages of exposure) or values based on health data and which make it possible to establish regulatory thresholds.

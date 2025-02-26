@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-125-03-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Knowing the types of incontinence (male and female)
+|Description=All Types 9 type of ICI 2017 focus on IUU IUF and OU by chronic retention including IUU by overflow includes several of the following items
+|Item=Definition
+|Contributors=B. Peyronnet
+|Order=3}}
+
+
+== There are no fewer than 11 types of urinary incontinence (Figure 1). The 4 most frequent and most important types to look for as a first line of defence are: ==
+
+*stress urinary incontinence
+*Urge urinary incontinence
+*mixed urinary incontinence (stress + urgency)
+*and urinary incontinence due to chronic retention of urine.
+
+
+'''Figure 1: classification of urinary incontinence types'''
+[[File:Fig1bis.png|neant|vignette|After 6th International Consultation on Incontinence/International Continence Society 2017]]
+
+*Stress incontinence is defined as the occurrence of urine loss during effort, urge incontinence as urine loss immediately preceded by a sudden and irresistible urge to urinate and mixed incontinence as the combination of stress and urge incontinence.

@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-277-03-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Knowing the characteristics of stones and the risk factors for cholestatic and pigmentary stones
+|Description=CH: age, sex, overweight, pregnancy, prolonged youth; P: infections, obstacles, haemolysis
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+'''The 2 main types of gallstones are: cholesterotic (80%) and pigmentary (20%).'''
+
+
+Biliary cholesterol lithiasis is due to an increase in the concentration of cholesterol in the bile, with supersaturation of the bile with cholesterol, followed by lithiasis precipitation.
+
+The main risk factors for cholestatic biliary lithiasis are :
+
+- age
+
+- the female sex
+
+- overweight (obesity)
+
+- pregnancy
+
+- prolonged fasting and parenteral nutrition
+
+- history of gastrectomy or bypass surgery
+
+- certain drugs (oestrogens, fibrates, somatostatin analogues)
+
+
+Pigment lithiasis is due to precipitation of unconjugated bilirubin, which is insoluble.
+
+The risk factors for pigment lithiasis are :
+
+- increased bilirubin production (haemolysis, sickle cell disease and thalassaemia)
+
+- biliary obstacles
+
+- chronic biliary infections

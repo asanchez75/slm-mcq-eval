@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-100-07-A
+|Item_parent=Unusual acute and chronic headache in adults and children
+|Item_parent_short=Unusual acute and chronic headache in adults and children
+|Rank=A
+|Title=Knowing how to initiate headache treatment in the emergency department
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=7}}
+'''1. treatment of suspected secondary headache''' [[Assessment and management of acute pain SD-259|(assessment and management of acute pain)]]
+
+- Lying down, head at 30°, patient calm, darkness if photophobia
+
+- On an empty stomach
+
+- '''[[Prescribe analgesics SD-250|Analgesic treatment]]''' (paracetamol 1g, nefopam [Acupan®] 20 mg) combined with antiemetic treatment if nausea/vomiting (metoclopramide). IV if associated digestive problems. Switch to a level 2 analgesic if unsuccessful.
+
+- Avoid prescribing non-steroidal anti-inflammatory drugs (NSAIDs) SD-249|aspirin and NSAIDs which may aggravate haemorrhage.
+
+- Avoid sedatives that may mask the emergence of consciousness disorders.
+
+- The ''etiological treatment'' depends on the cause identified by complementary examinations
+
+
+'''2. Treatment of primary headache attacks''' [[Assessment and management of acute pain SD-259|(assessment and management of acute pain)]]
+
+- Isolating the patient
+
+- IV rehydration if necessary (severe vomiting)
+
+- IV treatment with analgesic (paracetamol 1g, nefopam [Acupan®] 20 mg) or NSAID (ketoprofen 100 mg) combined with an antiemetic (metoclopramide 10 mg).
+
+- If the headache persists unchanged, the diagnosis of a primary headache attack should be questioned, and a search made for a cause of secondary headache.

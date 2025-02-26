@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-151-13-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Identify purpura fulminans (see item 332)
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Dr Olivier Robineau
+|Order=13}}
+Rapidly spreading purpuric elements with necrotic evolution.
+
+It may be associated with other rashes (morbiliform), especially in children.
+
+It is associated with a sudden deterioration in general condition

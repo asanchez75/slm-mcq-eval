@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-200-11-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know the two main causes of haemarthrosis
+|Description=Traumatic or coagulation disorder
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+-trauma: ligament and/or osteoarticular injuries
+
+-coagulation disorders: haemophilia, other coagulation disorders

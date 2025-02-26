@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-089-05-B
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=B
+|Title=Knowing the principles of impedance measurement
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Dr Damien Bonnard, Pr Virginie Escabasse, Pr Valérie Franco-Vidal
+|Order=5}}
+
+Impedancemetry (sometimes called tympanometry) is an objective examination of the impedance of the middle ear using an impedancemeter fitted with a tip placed in the external auditory canal. This device allows two distinct measurements to be taken:
+
+*The tympanogram: measurement of the compliance ("elasticity" of the tympano-ossicular system) as a function of the pressure applied in the external auditory canal.
+*''Stapedial reflex test'': threshold for triggering reflex contraction of the stapedial muscle in response to a loud sound (>80 dB).
+
+<br />

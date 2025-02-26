@@ -1,0 +1,384 @@
+{{knowledge objective
+|Identifiant=OIC-135-07-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Know how to prescribe level 3 analgesics.
+|Description=Strategies for the use of strong opioids in acute, cancer and benign chronic pain. Multimodal analgesia, titration, patient-controlled analgesia. Screening for misuse.
+|Rubric=Management
+|Contributors=
+|Order=7}}
+Strong opioids include sustained-release (SR) oral forms, which provide analgesia over a long period, and immediate-release (IR) forms, which are suitable for the initiation of treatment, emergencies, paroxysmal attacks of pain and pain induced by care.
+
+
+'''<u>Main strong opioids</u>''''
+
+- Morphine: morphine hydrochloride and morphine sulphate (subcutaneous, IM, IV, epidural and intrathecal), oral morphine sulphate: LP (12 h) and LI (4 h) forms adapted to the initiation of treatment, emergencies, paroxysmal attacks of pain (PAD) and iatrogenic pain (from treatment).
+
+- Oxycodone, semi-synthetic agonist (oral forms (LP (12H) and LI (4H) and IV, SC).
+
+- Fentanyl, synthetic opioid derivative
+
+- available transdermally (72 h) (liposolubility) as a relay to a strong opioid for stable pain (not suitable for titration) with the possibility of inter-dose LI of morphine or oxycodone, including for ADP of cancer pain
+
+- transmucosal route (onset of action 10 to 15 minutes and duration of action 1 to 2 hours): approved for PDA in patients already receiving stabilised background treatment with a strong opioid for cancer pain, up to a maximum of 4 doses per day.
+
+- Hydromorphone (hydrochloride): semi-synthetic derivative, in oral form (LP only) indicated in cancer pain as a 2nd-line treatment in cases of resistance or intolerance to strong opioids.  
+
+- Methadone: opioid mainly used as a replacement therapy for opioid dependence. Also approved for cancer pain after failure of other strong opioid analgesics.
+
+- Buprenorphine: a partial agonist sometimes used to treat severe pain, particularly post-operative and neoplastic pain, but generally more often as a substitute for drug dependence (see methadone).
+
+
+'''<u>Mechanism of action and classification</u>''''
+
+- Binding to opioid receptors, particularly mu receptors in the brain, spinal cord and periphery
+
+- Pure agonists: morphine, hydromorphone, oxycodone, fentanyl, methadone, no ceiling analgesic effect (except buprenorphine and nalbuphine)
+
+- Antagonists: treatment of opiate overdose naloxone (peripheral and CNS action) and adverse effects: naloxegol and methylnaltrexone (antagonists with peripheral action that do not pass the blood-meningeal barrier, if at all).
+
+
+'''Table 1''': Equi-analgesia of the main strong opioids by the oral or parenteral route
+{| class="wikitable"
+|Oral morphine
+|Morphine SC
+|IV morphine
+|Oxycodone oral
+|Oxycodone IV
+|-
+|'''1'''
+|½
+|1/3
+|1/2
+|1/3
+|}
+'''Notes on Table 1:'''
+
+- A change of opioid or route of administration is a complex operation, requiring an estimate of the dosage of the new treatment, the safe implementation of the changeover and consideration of the kinetics of the galenics.
+
+- The best strategy when switching is to calculate the safest possible dosage (even if it means underdosing), combined with titration with interdoses of fast-acting opioids.
+
+- For further information, please refer to ''<nowiki>https://opioconvert.fr</nowiki>''.
+
+
+'''Table 2''' '':''' Onset and duration of action of available agonists
+
+<br /><gallery perrow="1">
+File:Table 2.png
+</gallery>''Yellow = action delay, red= maximum action duration.''
+
+M: morphine; O: oxycodone; H: hydromorphone
+
+Safety parameters: for painful crises and/or interdose management, blackout period between 2 doses: onset of action '';'' for background treatments (continuous, fixed schedules): possibility of increasing doses after 24-48h except with transdermal fentanyl (at least 72h) and methadone (reserved for experts).  
+
+'''<u>Indications</u>'''
+
+- Cancer pain: MA for: morphine, oxycodone, transdermal fentanyl patch, transmucosal fentanyl, hydromorphone, methadone, buprenorphine, nalbuphine
+
+- Non-cancer pain: MA for morphine, oxycodone, buprenorphine and transdermal fentanyl patch, nalbuphine
+{| class="wikitable"
+| colspan="3" |'''Table 3: Indications for the use of pure tier 3 agonists in the analgesic strategy'''
+|-
+| colspan="2" |'''Acute pain''''
+|After failure of level 2 or possible immediately if severe pain (> 610 on EN).
+|-
+| colspan="2" |'''Cancer pain (DC)*''''
+|After failure of level 2 or possible immediately if severe pain (>6/10 on EN).
+|-
+|Chronic non-cancer pain (CNCP)'''
+| colspan="2" | - After failure of medicinal and non-medicinal treatments (global bio-psycho-social management) and failure of aetiological treatments.
+
+- Only if the underlying diagnosis explaining the pain is clearly specified
+
+- In an indication where the benefit-risk ratio is potentially favourable. '''It is recommended not to use strong opioids in nociplastic/dysfunctional pain (fibromyalgia, irritable bowel...), or primary headache (migraine...)'''
+
+- With pre-prescription assessment/research for risk of misuse
+|}
+<nowiki>*</nowiki> whose aetiology is cancer or its metastases
+
+
+'''<u>Undesirable effects</u>''''
+
+- 1<sup>rst</sup> cause of poor compliance and premature discontinuation of treatment.
+
+- More frequent in the ''elderly'' and in cases of ''renal insufficiency'': caution in these areas (low dosage and very gradual increase).
+{| class="wikitable"
+| colspan="3" |'''Table 4: Side effects of strong opioids, how to prevent or treat them'''
+|-
+| colspan="2" |'''Constipation'''
+|High frequency, persistence over time (no tolerance).'''
+
+Preventive treatment: dietary hygiene measures (physical activity, hydration, etc.) and "systematic oral laxatives"; 2nd line: peripherally acting antagonists (in the absence of contraindication).
+
+Curative treatment: increase the dosage of laxatives, check for faecal impaction, rectal treatment, dual laxative therapy, rectal enema and peripheral morphine antagonist.
+|-
+| colspan="2" |'''Nausea and vomiting''''
+|'''1/2 to 2/3 of patients: generally subsides in 2 to 3 weeks.'''
+
+Preventive treatment: gastrokinetic anti-emetics from the start of treatment for 8 - 15 days.
+
+Curative treatment: centrally-acting neuroleptics: haloperidol or low-dose chlorpromazine, corticosteroids, setrons or 5-HT3 receptor antagonists (off-label), IV droperidol if on IV morphine.
+
+Look for another cause (metabolic disorders, intestinal obstruction, etc.).
+|-
+|'''Sleepiness''''
+| colspan="2" |'''1<sup>er</sup> sign of opioid overdose''. Risk of falls in the elderly
+
+Look for metabolic or iatrogenic causes (potentiation by psychotropic drugs), uncontrolled use of treatment
+
+Action to be taken: reduce opioid doses or rotate opioids.
+|-
+|Respiratory depression
+
+'''('''respiratory rate < 10 /min)
+| colspan="2" |Rare, ++ after too rapid an acute dose of opioid.
+
+More frequent in patients with respiratory insufficiency, if there are sedative CNS depressants (benzodiazepines, alcohol, gabapentinoids, etc.).
+
+Sometimes the result of a coma, preceded by excessive drowsiness (RAMSAY R3 and +).
+
+Treatment: resuscitation measures and injection of naloxone (see paragraph).
+|-
+|Confusional and cognitive disorders
+| colspan="2" | Psychomotor impairment, cognitive disorders and confusional state ++ elderly
+
+Consider looking for ''other causes (metabolic disorders, potentiation by other drugs)''.
+
+Action: reduce opioid dose, change opioid or route of administration; if hallucinations: low-dose neuroleptics.
+|-
+|Dysuria and urinary retention
+| colspan="2" |Favoured by an enlarged prostate.
+
+'''Think about it if: abdominal pain, unusual restlessness and high blood pressure flare-up'''.
+
+Action to be taken: reduce opioid doses, urinary catheterisation, search for anticholinergic drugs (e.g. tricyclic antidepressants).
+|-
+|Pruritus
+| colspan="2" |Improved by antihistamines and opioid rotation.
+|}
+'''<u>Dependence and misuse of prescription opioids (Table 5)</u>''''
+{| class="wikitable"
+| colspan="2" |'''Table 5: Definitions and concepts of tolerance, dependence and misuse'''
+<br />
+|-
+|'''Physical dependence''''
+|Occurrence of a withdrawal syndrome when opioids are abruptly stopped or reduced too rapidly (sweating, muscle cramps, headache, asthenia, anxiety, agitation, insomnia, digestive disorders, tachycardia, hypertension, hyperthermia, dehydration, mydriasis).
+
+May also occur in cases of tolerance before the next dose.
+|-
+|'''Tolerance'''
+|'''Corresponds to an increase in the dose required to obtain the same pharmacological effect.'' May affect all the pharmacological effects of opioids apart from constipation.
+|-
+|Psychological dependence'' (addiction)
+|Irrational and excessive use of opioids motivated by irrepressible cravings, with potential social, psychological or physical repercussions.
+
+'''Patients at risk: history of abuse (alcohol, psychotropic drugs, illicit substances, opioids, etc.), psychiatric disorders, unstable psychosocial context.'''
+|-
+|'''Misuse''''
+|Inappropriate use of medication by the patient.
+|}
+- '''Current increase in the frequency of psychological dependence and misuse in chronic non-cancer pain.'''
+
+- '''Regular research is necessary for long-term prescriptions to identify factors suggestive of misuse or dependence'': rapid increase in doses without clinical explanation, non-compliance with the prescription, systematic refusal to consider other treatments, frequent overlapping, use of several prescribers, etc.
+
+'''<u>Counter indications</u>'''
+
+- Decompensated respiratory failure
+
+- Severe hepatocellular insufficiency
+
+- Uncontrolled epilepsy
+
+- Head trauma and intracranial hypertension,
+
+- Acute alcohol poisoning and delirium tremens,
+
+- Combinations with MAOIs and combinations of agonists with agonist-antagonists or partial agonists.
+
+
+'''<u>Conduct in the event of overdose</u>''''
+
+- Signs: sedation, irregular breathing and decrease in respiratory rate (RR) < 10/ min.
+
+- Stop opioid + stimulate patient + if pause or apnoea: mask ventilation with O2
+
+- IV naloxone titration until FR >10, then naloxone infusion of the titrated dose until elimination of the opioid (usually 4 hours). Caution: duration of naloxone action = 30 min.
+
+- Monitoring sedation and breathing
+
+'''<u>Knowing how to do a strong opioid titration</u>''''
+
+- Pure agonists are narrow-margin drugs (efficacy/overdose) for which treatment must be individualised.
+
+- The process of finding a dosage that relieves pain is called titration, and the methods used vary according to the situation.
+
+- Acute titration (Table 6) may be by injection (emergency department, immediate post-operative care) or orally (other acute pain).
+
+- As the intensity of pain may fluctuate or the duration of intense pain is unknown, LP forms or continuous administration should be avoided from the outset.
+
+.      In elderly patients or those with renal or respiratory insufficiency: doses halved (iv and oral), or spaced > 4 hours apart (oral titration).
+{| class="wikitable"
+|'''Table 6: titration''''
+
+'''(morphine, oxycodone)''''
+| colspan="3" |'''Titration iv *'''''
+|'''Titration per os'''
+|-
+|'''Galenic form'''
+| colspan="3" |Iv direct injection
+|Per os LI
+|-
+|'''Dose per dose'''
+
+'''(ex morphine)''''
+| colspan="3" |2 to 3 mg
+|10 mg
+|-
+|'''Interval minimum''''
+
+'''between 2 takes'''
+| colspan="3" |5 to 10 minutes
+|1 hour
+|-
+|'''Objective'''
+| colspan="3" |Intensity ≤ 3/10 (EN)
+|Intensity ≤ 3/10 (EN)
+|-
+|'''Titration stop (including if target not achieved)'''
+| colspan="3" |Excessive sedation
+
+and/or bradypnoea <10
+
+and/or desaturation.
+|Excessive sedation.
+|-
+| colspan="3" |'''Maximum dosage?'''
+|No
+|No
+|-
+| colspan="3" |'''Adaptation to D+1''
+|No
+
+(crisis treatment)
+|1/10 to 1/6 of the 24-hour dose
+
+Idem at D+2 etc. as long as not relieved and well tolerated
+|-
+| colspan="3" |'''Relai''''
+|PCA bolus alone possible, without extrapolating from crisis dosage
+|With LP form to be discussed with a delay of at least 48-72 h
+|-
+| colspan="2" |'''In case of failure''''
+| colspan="3" |Multimodal analgesia (if not done); Change molecule
+|}
+<nowiki>*</nowiki> Monitoring: sedation, FR, BP, Fc, SaO2. Naloxone available if required.
+
+'''Titration in cases of pain related to cancer or its metastases or chronic non-cancer pain (Table 7)'''
+
+- These are situations where the duration of treatment may be >3 months, with a background treatment.
+
+- For pain in the "r" position, treatment should be reassessed at each consultation. For extreme pain: possible IV treatment with PCA.
+
+- For chronic non-cancer pain: treatment discontinuation to be considered if no benefit for dose ≥ 150 mg/d morphine equivalent or beyond 3 months, misuse, or unfavourable benefit/risk balance.
+
+- In all cases: reduce doses by at least 50% for frail patients (elderly, with renal, hepatic or respiratory insufficiency, etc.) and give preference to LI forms for at least the first 72 hours.
+{| class="wikitable"
+|'''Table 7'''
+|Cancer pain
+|Chronic non-cancer pain
+|-
+|Background treatment
+|Yes LP form (or LI with fixed starting time)
+|Yes (if continuous pain 24 hours a day)
+Rather LP form
+|-
+|Molecule, galenic
+|Morphine or Oxycodone per os
+|Morphine or Oxycodone oral
+|-
+|Starting dose (morphine)
+|60 mg/d morphine equivalent
+|40 to 60 mg/d morphine equivalent (or less, no consensus)
+|-
+|Objective (titration to be continued if not achieved and as long as effects II acceptable)
+|All criteria :
+- usual intensity <4/10
+
+- respected sleep
+
+- no limitation of activities due to pain
+
+- no more than 4 painful attacks/day
+|Pain relief > or = 30
+In the absence of clear benefit: do not exceed 150 mg/d of morphine equivalent or 3 months' treatment
+
+Beyond that: expert centre advice
+|-
+|Dose adjustment
+|By interdose technique (ID) :
+- 1/10 to 1/6 of the background dose (LI)
+
+- If intensity > 5/10 in the absence of drowsiness
+
+- Interval between 2 interdoses: at least 1 h
+|No clearly defined strategy
+- ID possible 1/6 to 1/10 background dose
+
+- ID number often limited to 4-6 days in titration
+|-
+|Adaptation of background treatment
+|Every 24-48 hours
+- Integration of 24-hour IDs into background dose
+
+- Recalculation of the ID dose (1/10 to 1/6)
+|72 h - 7 day delay between 2 increases.
+Integration or non-integration of part of the DI depending on the clinical response.
+<br />
+|}
+'''A<u> multimodal analgesia (see heading)</u>''''
+
+- Principle: ''combine analgesic molecules and techniques with different and complementary sites of action and different tolerance profiles''; allows a reduction in the dose of each product.  
+
+'''<u>Writing a prescription for strong opioids</u>''''
+
+
+- Drug regulation: ''secure prescriptions'' (include prescriber identification, prescription batch identification number, watermark, square where the prescriber must indicate the number of lines of medication prescribed).
+
+- Details :
+
+- the patient's identity (surname, first name, age and sex, if necessary height and weight);
+
+- '''the date'''
+
+- '''the route of administration'''
+
+- '''the number of lines of treatment''' (box at the bottom of the prescription) ;
+
+- '''the duration of treatment and the number of packaging units in words'''.
+
+- ''his signature affixed immediately below the last line'', the remaining space being rendered unusable.
+
+- Maximum prescription period :
+
+- '''28 days for morphine, oxycodone, hydromorphone, methadone and buprenorphine'''
+
+- '''28 d but split delivery of 14 d for transdermal fentanyl'''
+
+- '''7 days for transmucosal fentanyl (unless the prescriber specifically states "one-off delivery")'''
+
+- '''7 days for IV forms, except portable pump (28 days)'''
+
+'''<u>Therapeutic education</u>''''
+
+- Mechanisms of action, duration of action, differentiation between background treatment and attacks
+
+- Undesirable effects of strong opioids and prevention, in particular informing of the risk of dependence and overdose
+
+- Setting treatment objectives and criteria for discontinuing treatment in chronic non-cancer pain
+
+- The place of strong opioids in the therapeutic strategy
+
+- Discussing fears and perceptions of these treatments
+
+- The importance of compliance (the main cause of failure) and to advise against family self-medication.

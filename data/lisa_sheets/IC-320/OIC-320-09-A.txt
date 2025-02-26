@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-320-09-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Identifying the therapeutic urgency of hypercalcaemia
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=9}}
+- Medical emergency (especially if ''3.7 mmol/L [150 mg/L]'')
+
+- Frequent complication of myeloma (revealing in 15 to 30% of cases)
+
+- Criterion "C" for CRAB symptoms: > 2.75 mmol/L or >0.25 mmol/L above normal
+
+- Secondary to bone lysis by tumour plasma cells
+
+- Symptoms :
+
+Asthenia, intense thirst, polyuro-polydipsic syndrome, abdominal pain, constipation, confusion. May sometimes be asymptomatic.
+
+- Biology :
+
+Hypercalcaemia (ionised calcium, calcaemia corrected with albumin++)
+
+search for associated renal failure
+
+- ECG +++:
+
+search for conduction disorders: BAV, short ST segment, short QT,
+
+look for rhythm disorders (risk of ventricular fibrillation),
+
+è Life-threatening
+
+
+- Support :
+
+Hospitalisation, hyperhydration with physiological serum, IV biphosphonates (caution if associated renal failure), emergency aetiological treatment (corticotherapy). Monitoring (including weight and diuresis+++). If major hypercalcaemia with acute renal failure and/or abnormal ECG: intensive care unit with scope, consider extra renal purification).

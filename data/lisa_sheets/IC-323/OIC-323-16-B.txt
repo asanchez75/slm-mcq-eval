@@ -1,0 +1,32 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=B
+|Title=Know the acceptable situations of simple blinding
+|Description=None
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),Jérôme Lambert (CIMES),David Hajage (CIMES),Agnès Dechartres (CUESP)
+|Order=16
+|Identifiant=OIC-323-16-B
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+*Situations where single or double blinding (=insu) is not feasible (for ethical or logistical reasons) or desirable.
+*Risk of bias (monitoring, evaluation) higher than in a double-blind trial.
+
+'''Ethical reasons''' :
+
+*A situation where the "placebo" of a treatment exposes patients to intolerable inconvenience or risk. For example, a study comparing surgery with chemotherapy in which a sham procedure in the chemotherapy group would expose patients to unnecessary general anaesthesia, scarring and a risk of infection.
+
+'''Logistical reasons''':
+
+*Treatments combining several galenic forms and routes of administration: blinding requires the manufacture of too many placebos. Example: certain therapeutic protocols in oncology.
+*Obvious, frequent and specific side-effects of the active treatment, impossible to reproduce with a placebo. Example: urine discolouration, alopecia.
+*Evaluated interventions that cannot be imitated. Example: study comparing treatment at home vs. in hospital.
+
+'''Scientific reasons''':
+
+*Studies whose main objective is to assess the impact on patient perception of a change in dosage form, route of administration or presentation of a treatment. Example: study comparing 3 antiretrovirals in a single tablet vs. tablets of 3 antiretrovirals on compliance and acceptability of treatment.
+
+The evaluation of these open-label trials assumes that the placebo effect is negligible compared with the actual effect of the treatment being evaluated. This assumption is usually difficult to verify, as the placebo effect can often be significant, at least in terms of functional signs, even for highly invasive surgical procedures. Clinical trials using objective measurements (biological assays, mortality) as the assessment criteria have a lower risk of bias (classification bias), but there is still a risk of follow-up bias.
+
+<br />

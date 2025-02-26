@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-236-07-B
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=B
+|Title=Knowing the main indications for a definitive pacemaker in DCD
+|Description=Indications in sinus dysfunction, AVB and bundle branch blocks
+|Section=Management
+|Contributors=Vincent Galand
+|Order=7}}
+ 
+
+*If a pacemaker is implanted, a curable cause of the conductive disorder must be sought.
+
+<br />
+
+*A pacemaker is indicated in cases of inappropriate bradycardia with no curable or reversible aetiology:
+
+o '''Sinus dysfunctions''' symptomatic
+
+o '''BAV 3'''
+[[File:Stimulateur cardiaque .jpg|vignette|449x449px|''Exemple de stimulateur cardiaque simple chambre et double chambre (procédure sous anesthésie locale avec incision dans le sillon delto-pectoral et implantation d'une ou 2 probes dans les cavités cardiaques droite via le réseau veineux supérieur)'']]
+o '''BAV 2''' '''Mobitz 2''' if = infra-hissian location or symptomatic regardless of location.
+
+o '''Mobitz I BAV 2''' asymptomatic and '''BAV 1''' do not require a pacemaker.

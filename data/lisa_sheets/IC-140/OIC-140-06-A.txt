@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-140-06-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Item_parent_short=Multidisciplinary palliative care for patients in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Rank=A
+|Title=Knowing the ethical, legal and societal issues raised during the advanced or terminal palliative phases of a serious, chronic or fatal illness.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Chloé Prod'homme
+|Order=6}}
+
+The [[Introduction to medical ethics|ethical issues]], legal and societal issues raised during [[Knowing how to identify a palliative care situation 2C-139-DP-A01|the palliative phases]] include:
+
+- the limits of medicine to cure; bringing to light the reflections on unreasonable obstinacy and limitation. Legislative framework, philosophical and ethical foundations* 2C-009-PC-A06|Unreasonable obstinacy]];
+
+- The limits of medicine in relieving all forms of suffering; highlighting the role of sedative practices at the end of life ([[Multidisciplinary palliative care of the patient in the palliative or terminal phase of a serious, chronic or lethal illness.Sedation for distress in the terminal phase and specific and complex situations at the end of life.Euthanasia or assisted suicide request|Multidisciplinary palliative care of the patient in the palliative or terminal phase of a serious, chronic or lethal illness.sedation for distress in the terminal phase and specific and complex situations at the end of life.euthanasia or assisted suicide request]);
+
+- the limits of a person's autonomy and of the expression of his wishes; highlighting the ways of ensuring respect for the patient in decisions concerning him ([Respect for autonomy 2C-009-DE-A05]]; [[Know the definitions of autonomy 2C-007-DE-A05]])
+
+
+The legal framework concerning the end of life is Law 2016-87 of 2 February 2016 (Claeys Léonetti Law) creating new rights for patients and people at the end of life:
+
+Any diagnostic, therapeutic or preventive procedure, at any stage of the disease, requires the patient's information and consent [[Know the definition and conditions of informed consent 2C-007-PC-A01|(Know the definition and conditions of informed consent 2C-007-PC-A01]].
+
+Doctors are obliged to refrain from any [[Unreasonable obstinacy and limitation. Legislative framework, philosophical and ethical foundations* 2C-009-PC-A06|Unreasonable obstinacy]] by interrupting or not undertaking treatment deemed "unnecessary, disproportionate or having no other effect than the artificial maintenance of life". When the patient is unable to express his or her wishes, this decision must follow a [[Collegial procedure 2C-009-PC-B05|collegial procedure]].
+
+It is the doctor's duty to ensure continuity of care, to support the patient and to relieve any discomfort.
+
+The law provides for patients to be able to express their wishes regarding the end of their life in advance, so that these wishes can be respected if the patient is unable to do so, through the trusted support person 2C-009-PC-A03|trusted support person]] and advance directives 2C-009-DE-B03|advance directives]].    (see also: [[Knowing the definition, conditions of collection, validity and situations in which to consult advance directives 2C-007-PC-A03]]).
+
+The law gives patients the right to deep and continuous sedation ([[2C-141-DP-B04 Know the clinical, relational and legal points of reference when a patient requests sedation for distress]]).

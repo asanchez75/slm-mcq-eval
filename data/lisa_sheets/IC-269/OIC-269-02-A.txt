@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-269-02-A
+|Item_parent=Acute abdominal pain in children and adults
+|Item_parent_short=Acute abdominal pain in children and adults
+|Rank=A
+|Title=Knowing the aetiologies of abdominal pain in infants and children
+|Description=Know the different diagnoses according to age and by arguments of frequency
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+There are many aetiologies in each age group. They cannot be summarised in a few lines. In this chapter, we can mention those ''which are life-threatening in the short term'' (considering the main ones, in decreasing order of frequency):
+
+Before 1 month: Strangulated inguinal hernia, small bowel volvulus, ulcerative colitis (premature), Hirschsprung's disease
+
+1 month to 2 years: acute intestinal invagination, strangulated inguinal hernia, abdominal trauma, small bowel volvulus
+
+2 to 12 years: appendicitis and appendicular peritonitis, sickle cell crisis, diabetes, etc.
+
+<br />

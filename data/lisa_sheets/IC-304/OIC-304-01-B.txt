@@ -1,0 +1,94 @@
+{{knowledge objective
+|Identifiant=OIC-304-01-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=Know the main histological types of benign and malignant tumours
+|Description=haemangioma, focal nodular hyperplasia, hepatocytic adenoma, hepatocellular carcinoma, cholangiocarcinoma, metastases
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+This chapter does not cover purely cystic and/or infectious "nodular" liver lesions.
+
+In order of frequency:
+
+- Single biliary cyst, sometimes multiple (very common)
+
+- Pyogenic or amoebic liver abscess (infectious)
+
+- Hydatid cyst (infectious)
+
+- Alveolar echinococcosis (infectious)
+
+A distinction must be made between nodules with a purely fluid content, which are always benign, and solid or mixed nodules, among which benign and malignant tumours must be differentiated.
+
+
+'''Hepatic tumours''' are characterised by '''tissue nodules'' of a different nature to that of the adjacent hepatic parenchyma. They may be malignant or benign. The main challenge in their management is to differentiate between benign and malignant tumours. It should be noted that in rare cases, primary or secondary liver cancers may present as more or less diffuse infiltration of the liver.
+
+Similarly, several types of nodular liver lesions may coexist in the same patient.
+
+
+There are no precise epidemiological data on the prevalence of liver tumours in the general population. It varies according to the type of tumour and according to risk factors (e.g. previous colon cancer and risk of metachronous liver metastases, cirrhosis associated with a risk of hepatocellular carcinoma, etc.).
+
+The prevalence of liver tumours can be estimated at around 5% of the general population.
+
+In decreasing order of frequency in the general French population, the main liver tumours are as follows:
+
+- Benign haemangioma (benign)
+
+- Hepatic metastasis (malignant)
+
+- Hepatocellular carcinoma (HCC) (malignant, the most common primary liver cancer)
+
+- Focal nodular hyperplasia (benign)
+
+- Hepatocellular adenoma (usually benign, but some have the potential to become malignant)
+
+- Cholangiocarcinoma (malignant, the 2<sup>nd</sup> type of primary liver cancer)
+
+ 
+
+''''' Benign liver tumours'''''
+
+There are three main types of benign liver tumour: hepatic haemangioma, focal nodular hyperplasia and hepatocellular adenoma. With rare exceptions, they occur without associated chronic liver disease. They may be associated in the same patient.
+
+
+1.    Benign haemangioma
+
+It is a frequent benign tumour (3 to 5% of the population) consisting of a proliferation of abnormal dilated capillaries corresponding to a kind of vascular malformation. It never degenerates and rarely becomes complicated. In its typical form, it is diagnosed by ultrasound as a hyper-echogenic lesion with posterior enhancement. Haemangiomas do not require treatment or monitoring.
+
+
+2.    Focal nodular hyperplasia
+
+This benign tumour is rare, with an estimated prevalence of less than 0.1%. It is more common in women and is most frequently discovered by chance. Focal nodular hyperplasia is a cluster of hepatocytes organised into nodules bounded by fibrous septa with a stellate appearance (or central scar) in the centre of the lesion, giving the lesion a characteristic appearance.
+On imaging, this lesion has two characteristics: massive contrast at arterial time compared with the adjacent liver and a central fibrous scar with little or no enhancement after injection. Ultrasound diagnosis of this lesion is difficult because the difference in echogenicity between the lesion and the liver parenchyma may be minimal. CT and/or MRI of the liver without and with injection of contrast medium enables more accurate characterisation of this type of lesion in over 80% of cases.
+It appears in young women, which is also a particular feature of hepatocellular adenoma. This tumour never develops complications. Focal nodular hyperplasia does not require treatment or monitoring.
+
+
+3.    Hepatocellular adenoma
+
+This tumour is also rare, with an estimated prevalence of less than 0.01%. It is a benign tumour characterised by a proliferation of monoclonal hepatocytes, mainly observed in women (around 75% of cases). The occurrence of hepatocellular adenoma is favoured by prolonged use of oestrogens, particularly oestroprogestogenic contraceptives. The risk of malignant transformation is increased when the adenoma occurs in men. Tumour biopsy is used to confirm the diagnosis and assess the risk of transformation. The adenoma may be single or multiple, and more than 10 adenomas define hepatic adenomatosis.
+
+
+'''''Hepatic malignancies'''''
+
+There are three main types of malignant liver tumour: hepatic metastases and primary hepatic tumours, HCC and intrahepatic cholangiocarcinoma, which occur in 90% and 50% of cases respectively of associated chronic liver disease.
+
+
+1.    Liver metastases
+
+Liver metastases may be synchronous or metachronous, single or multiple. Arguments in favour of the diagnosis are: multiple nature, a history of cancer, clinical, biological or radiological evidence in favour of a primary tumour or extra-hepatic lesions (pulmonary, peritoneal, lymph node, bone or brain) suspicious of metastases. The primary cancers are, in order of frequency: digestive cancers, lung cancer, breast cancer, neuroendocrine tumours, more rarely malignant melanoma, stromal tumours and ENT squamous cell carcinomas. In around 25% of cases, liver metastases are the result of the cancer itself or are discovered at the same time as the cancer. In less than 10% of cases, and despite a complete diagnostic work-up adapted to anatomopathology, no primary lesion is identified.
+
+
+2.    Hepatocellular carcinoma
+
+It is the most common primary malignant tumour of the liver, with an estimated annual incidence of over 8,000 new cases in France, and a male predominance.  
+
+
+3.    Cholangiocarcinoma
+
+This is a malignant tumour that develops from bile cells and takes on the appearance of an intrahepatic tumour when it develops from the intrahepatic bile ducts. It is 7 to 8 times less common than HCC, with fewer than 1,000 new cases per year.
+The risk of cholangiocarcinoma is increased in cases of :
+- chronic liver disease (with or without cirrhosis): intrahepatic cholangiocarcinoma
+- diseases of the bile ducts associated with chronic biliary inflammation (sclerosing cholangitis, intrahepatic lithiasis and biliary parasitosis): extrahepatic form of cholangiocarcinoma.
+The diagnosis may be made radiologically on the basis of CT and MRI scans of the liver. If there are no contraindications, and depending on the treatment plan, a liver biopsy of the lesion will enable the diagnosis to be made.

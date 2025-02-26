@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-125-01-A
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=A
+|Title=Knowing the definition of lower urinary tract symptoms (clinical examination, diagnostic approach)
+|Description=Definition and clinical description of LUTS in the 3 phases of the micturition cycle (filling - emptying - post emptying).
+|Section=Positive diagnosis
+|Contributors=Benoît Peyronnet
+|Order=1}}
+<br />
+
+*Urination problems are now known as lower urinary tract symptoms (LUTS).
+
+*LUTS are subjective indicators perceived by the patient that suggest a disease or pathological condition of the lower urinary tract.
+*LUTS can be classified into three categories: symptoms of the filling phase, symptoms of the voiding phase and symptoms of the post-voiding phase (table 1).
+*Daytime urinary frequency is defined as an increase in urinary frequency during the day (there is no threshold).
+*Nocturnal pollakiuria is defined as an increase in urinary frequency at night. It should not be confused with nocturia, defined as a need to urinate that wakes the patient.
+*Urgency is defined as a sudden, imperious and frequently irrepressible desire to urinate.
+*Overactive bladder (OAB) is a clinical syndrome defined by the occurrence of urgency with or without urinary incontinence, usually associated with pollakiuria or nocturia.
+*Urge dysuria is defined as urination with a concomitant abdominal thrust.
+
+
+'''Table 1: Lower urinary tract symptoms'''
+{| class="wikitable"
+|'''Symptoms filling phase''''
+|'''Symptoms mictional phase/''''
+
+'''phase vidange'''
+|''Symptoms post-mictonnel phase''
+|-
+|<Pollakiuria during the day</nowiki>.
+
+- Urgent care
+
+- Urinary incontinence
+
+- Nycturia
+|<Weak jet</nowiki>.
+
+- Watering can spray
+
+- Chopped jet
+
+- Hesitant jet
+
+- Urinary urgency
+|<Feeling of incomplete bladder emptying</nowiki>.
+
+- Delayed drops
+|}

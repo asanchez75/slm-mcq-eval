@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-205-08-B
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=B
+|Title=Know the general principles of management of haemoptysis and their hierarchy according to severity.
+|Description=Including the role of arteriography for therapeutic purposes (embolisation).
+|Section=Management
+|Contributors=
+|Order=8}}
+Severe haemoptysis, or haemoptysis that persists under medical treatment, should be managed in an "intensive care sector", in a centre offering advanced management: arterioembolisation, or even thoracic surgery.
+
+The severity of haemoptysis therefore determines the treatment sector and the therapeutic strategy.
+
+Whatever the severity of the haemoptysis, a diagnosis of the aetiology should always be made in parallel with symptomatic treatment, as a matter of urgency, and therefore systematically requires access to a thoracic angioscan.
+
+
+'''As a reminder:'''
+
+''The severity of haemoptysis is based not only on the <u>abundance</u> of bleeding, but also on the <u>underlying terrain</u> (e.g. chronic respiratory failure), and the <u>cause of bleeding</u> (e.g. excavated tumour at high risk of recurrence as massive haemoptysis).''
+
+Treatment strategy according to severity :
+
+*''''' medical treatment as a first line of defence: this is systematically implemented in parallel with etiological investigations:
+**symptomatic treatment (oxygen) + monitoring
+**vasoconstrictors (IV terlipressin or inhaled or IV tranexamic acid)
+**urgent aetiological assessment: aetiological treatment is urgent if a cause at risk of recurrence in a severe form is identified (e.g. excavated lesion).
+
+à if persistent: discuss arterioembolisation or cold surgery depending on the aetiological assessment
+
+*''''' medical treatment + arterioembolisation''''' from the outset in cases of severe haemoptysis
+**symptomatic treatment (oxygen) + monitoring + vasoconstrictors
+**arterioembolisation systematically considered
+
+à if recurrence after arterioembolisation: discuss surgical treatment depending on aetiological assessment

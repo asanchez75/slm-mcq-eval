@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-242-11-A
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=A
+|Title=Knowing the diagnostic criteria for a hypersecretory nodule
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Magalie Haissaguerre,Camille Buffet
+|Order=11}}
+
+Hyperthyroidism can be induced by a single hypersecreting nodule (toxic adenoma) or by a toxic multinodular goitre (several hypersecreting nodules).
+
+It is the leading cause of hyperthyroidism in the elderly.
+
+The diagnostic criteria for a hypersecreting nodule or toxic multinodular goitre therefore include:
+
+- Clinical: a thyrotoxicosis syndrome of variable intensity
+
+- Hormonal profile: peripheral biological hyperthyroidism (low TSH) of variable intensity (= increased or normal T4 and/or T3).
+
+- Ultrasound: a nodule or several nodules on thyroid ultrasound
+
+- Scintigraphy: a single hyperfixing area with extinction of healthy thyroid parenchyma (if single adenoma = toxic adenoma) or alternating hot and cold fixation areas known as a checkerboard pattern (if multiple toxic nodules).

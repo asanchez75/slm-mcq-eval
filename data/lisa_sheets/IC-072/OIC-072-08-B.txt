@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-072-08-B
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=B
+|Title=Knowing the specificities of young people
+|Description=Education of the child and those around him/her
+|Rubric=Management
+|Contributors=
+|Order=8}}
+The process of seeking care is most often carried out by the parents and not by the children and adolescents themselves.

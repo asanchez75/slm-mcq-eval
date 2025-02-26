@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-154-16-B
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=B
+|Title=Knowing the main complications of acute community-acquired pneumonia and bronchiolitis
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=16}}
+'''Complication of acute community-acquired pneumonia (CAP):'''
+
+*Loco-regional complications:
+**pleural complications:
+***uncomplicated para-pneumonic effusion
+***complicated para-pneumonic effusion = purulent pleurisy = pleural empyema
+**pulmonary complications
+***abscess
+***atelectasis
+*General complications :
+**decompensation of an underlying chronic condition'', including respiratory insufficiency
+**septic complications": meningitis, abscess, septic shock, etc.
+
+'''Complications of bronchiolitis in infants'''
+
+- apnoea,
+
+- atelectasis,
+
+- bronchopulmonary superinfections,
+
+- Acute bacterial otitis media.
+
+<br />

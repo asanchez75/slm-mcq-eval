@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-122-03-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Knowing the role of medical auxiliaries
+|Description=Main roles of paramedics in a rehabilitation programme.
+|Rubric=Definition
+|Contributors=Claire Hentzen
+|Order=3}}
+
+<blockquote>List of rehabilitation assistants :
+
+* Physiotherapists
+* Occupational therapists
+* Speech therapists
+* Psychomotricians
+* Orthoptists
+* Chiropodists
+* Dieticians
+</blockquote>Roles of rehabilitation assistants :
+
+* Patient assessment as part of a rehabilitation programme
+* Collaboration in rehabilitation care, with coordinated interventions by the various players involved
+
+''Other medical auxiliaries may be involved in re-education or rehabilitation but are not defined as re-education auxiliaries: psychologists, socio-educational assistants, ortho-prosthetists, chiropodists, nurses and care assistants''.

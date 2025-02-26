@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-290-27-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitle=Knowing how to screen for colorectal cancer and the organised screening programme
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=27}}
+After assessing patients' level of risk of colorectal cancer, GPs should provide clear information on the screening strategy to help them reach a shared decision.
+
+
+People at average risk: organised screening
+
+Every two years, the screening management structures send an invitation to people aged between 50 and 74 to consult their GP to assess their level of risk of colorectal cancer.
+
+''Average-risk individuals'' are women and men aged between 50 and 74 with no symptoms or specific risk factors. They are eligible for organised screening. Their GP informs them of the procedure and, once they have made an informed decision, gives them a screening kit. The "immunological test for occult blood in stools" is carried out by the patient. Whatever the result, the laboratory sends a letter to the person screened and their doctor within a fortnight. If the screening test is negative, it will be repeated two years later. If the test is positive, the GP will refer the patient to a gastroenterologist for a colonoscopy. If the colonoscopy is normal, a screening test will be offered 5 years later. The screening test and its analysis by an approved laboratory are reimbursed at 100% by the Assurance Maladie, with no advance payment by the patient.
+
+
+High-risk individuals: individual screening
+
+These are people with a personal history of colorectal cancer or adenoma, a family history of colorectal cancer or adenoma, or chronic inflammatory bowel disease. Individual screening is offered through a consultation with a gastroenterologist.
+
+
+People at very high risk: individual screening
+
+These are people with familial adenomatous polyposis or hereditary non-polyposis colorectal cancer (HNPCC or Lynch syndrome). Primary prevention is necessary through an oncogenetic consultation with mutation research and chromocoloscopy.

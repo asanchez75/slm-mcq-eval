@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-358-08-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Knowing the elements of severity of acute pancreatitis
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=8}}
+'''Clinical severity criteria:''''
+
+* immediate presence or onset of one or more organ failures
+* persistence of a SIRS for more than 48 hours
+
+'''Biological severity criteria:'''' CRP > 150 mg/L at 48 h
+
+'''Radiological severity criterion:''' CTSI score ≥ 4 at 72 h ('''[[2C-358-EC-A01]]])''''

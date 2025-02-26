@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-188-14-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Knowing the main occupational aetiologies
+|Description=Main agents and professions concerned
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+Cf above : [[Knowing the main occupations at risk of occupational asthma 2C-188-ET-B01|Knowing the main occupations at risk of occupational asthma]]

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-09-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing how to look for a history of a manic or hypomanic episode
+|Description=Send item 64
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=9}}
+
+Systematic search for a history of a (hypo)manic episode in the search for a bipolar EDC in the context of a type I or II [[Bipolar disorders I and II 2C-064-DE-B01|bipolar]] disorder.

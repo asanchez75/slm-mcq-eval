@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-277-17-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the first-line (emergency) paraclinical examination for angiocholitis
+|Description=Abdominal ultrasound
+|Section=Additional examinations
+|Contributors=
+|Order=17}}
+On '''ultrasound''', we look for vesicular lithiasis and dilatation of the bile ducts (inconstant) (cf identifier ''[[Knowing how to diagnose complicated biliary lithiasis: acute angiocholitis 2C-277-DP-A06|2C-277-DP-A06]])''''

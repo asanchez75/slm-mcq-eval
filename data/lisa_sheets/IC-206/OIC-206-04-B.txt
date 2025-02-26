@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-206-04-B
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=B
+|Title=Know the main types of pleural fluid abnormality in pleurisy
+|Description=Know how to interpret the results of a pleural puncture with or without evacuation, and be aware of possible complications (radioraphy of the thorax afterwards).
+|Rubric=Additional examinations
+|Contributors=
+|Order=4}}
+Analysis of pleural fluid is primarily used to investigate the aetiology. Pleural puncture is therefore usually indicated unless the effusion appears in the context of heart failure (its disappearance under medical treatment is sufficient to confirm the diagnosis) or if it is very small and there is a risk of traumatic puncture of the pulmonary parenchyma.
+
+The macroscopic appearance of the fluid is the first element to guide the diagnosis: purulent, suggestive of a complicated parapneumonic effusion, haemorrhagic, suggestive of neoplasia or haemothorax, lactescent, suggestive of a chylothorax, or citrine, giving little indication of the diagnosis.
+
+Protein levels and, if in doubt, LDH levels can be used to separate transudative effusions (<25 g/L) from exudative effusions (>35 g/L).
+
+In the case of exudative pleural effusions, the formula will guide the diagnosis, but rarely enables a definite diagnosis to be made (except in the case of neoplastic disease). In the absence of a precise diagnosis, pleural biopsy can be used to make two diagnoses: pleural tuberculosis and neoplastic disease.

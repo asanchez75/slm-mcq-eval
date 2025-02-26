@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-118-05-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Title=Know how to assess a motor impairment (clinical examination, diagnostic approach).
+|Description= Principle of assessment, scales and examples of motor impairment, principle of assessment, scales and examples of joint impairment.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''A.  Assessment of motor impairments''' ([[Joint pain SDD-067|67-joint pain]], [[Muscle weakness SDD-074|74-muscle weakness]], [[Sensory and/or motor neurological deficit SDD-121|121-sensory and/or motor neurological deficit]], [[Assessment and management of chronic pain SDD-260|260-assessment and management of chronic pain]], [[Management of a patient in prolonged decubitus SDD-276|279-management of a patient in prolonged decubitus]])
+
+- Joint impairments: joint limitation (goniometer).
+
+- Motor deficiencies: measurement of strength (manual muscle testing), assessment of muscle tone (Ashworth scale), assessment of motor coordination, assessment of dexterity (Box and Block test), etc.
+
+- Sensory impairments: pain assessment (numerical or visual analogue scale, DN4 questionnaire, behavioural scales).
+
+
+Specific scales exist depending on the pathology, such as the ASIA (American Spinal Injury Association) score for spinal cord injuries or Lequesne's modified algo-functional index for osteoarthritis.
+
+
+'''B.  Assessment of activity limitations and participation restrictions'' ([[Disability situation SDD-345|345-Disability situation]], [[Progressive loss of autonomy SDD-031|31-progressive loss of autonomy]], [[Appearance of difficulty walking SDD-066|66-appearance of difficulty walking]], [Discovery of a brain abnormality on medical imaging SDD-226|226-discovery of a brain abnormality on medical imaging]], [[Management of a patient in prolonged decubitus SDD-276|279-management of a patient in prolonged decubitus]])
+
+- Definitions :
+
+o Activity limitation = difficulty performing a task of daily living
+
+o Restriction of participation = restriction in a social activity or in a real-life situation
+
+- Ratings :
+
+o Interview and clinical examination,
+
+o Generic or specific scales,
+
+o Instrumental analysis.
+
+- Examples of scales: Rankin Scale, Barthel Index, Functional Independence Measure, Instrumental Activities of Daily Living Scale (IADL, geriatric scale, particularly if cognitive impairment), AGGIR grid.

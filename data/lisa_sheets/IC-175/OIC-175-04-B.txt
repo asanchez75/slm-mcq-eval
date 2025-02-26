@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-175-04-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Knowing the main infections acquired during a trip to a tropical zone
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel
+|Order=4}}
+
+PARASITOSIS
+
+'''Malaria (see [[item 170]]):''''
+
+This is the most common parasitic infection, transmitted by mosquito (anopheles) bites at night. It causes fever during haematogenous dissemination and intra-erythrocytic multiplication of the parasites, and can lead to death. Travellers to sub-Saharan Africa account for 80% of annual cases of imported malaria diagnosed in France ([https://cnr-paludisme.fr data from the CNR du Paludisme, https://cnr-paludisme.fr]). Africans returning to their countries of origin account for around 70% of diagnosed cases.
+
+Schistosomiasis (bilharziasis)
+
+These parasitoses are acquired by transcutaneous penetration of aquatic larvae during swimming or freshwater activities. After tissue migration and differentiation into adults, the adults reach the mesenteric venous plexuses (particularly intestinal and hepatic bilharziasis caused by "Schistosoma mansoni") or the bladder (urinary bilharziasis caused by "S. haematobium") where they mate and lay large numbers of eggs, which migrate to cavitary areas (rectum, bladder) and then to the outside environment, generating an intense chronic inflammatory cellular reaction (granuloma). Urinary bilharziasis is endemic in many countries in Africa and the Middle East (and in Corsica); hepatic and intestinal bilharziasis are found in Africa, the Middle East, South America (Brazil, Venezuela, the Caribbean) and South-East Asia (other species). It is a common infection among migrants and unwary travellers.
+
+'''Scabies (see also [[Scabies and Pediculosis|item 171]])''''
+
+A cosmopolitan ectoparasitosis, this acarial infection was listed by the WHO as a Neglected Tropical Disease (NTD) in 2017. Scabies is endemic in many tropical regions with limited resources, where the average prevalence is estimated at between 5 and 10% in children. Transmitted mainly by direct contact, more rarely indirect (blankets, bedding), it can be acquired during travel, depending on the circumstances.
+
+'''Intestinal helminthoses (see also [[item 172]])''''
+
+They are listed among the top NTDs by the WHO, but their distribution is not limited to tropical areas. These parasitoses are most often nematodoses (roundworms) linked to faecal peril (contamination of the environment and/or dirty food/water/hands by human excrement containing parasite eggs or larvae). They are very common in tropical areas. They include: roundworms, whipworms, pinworms (oral contamination), hookworms and hookworms (transcutaneous penetration of larvae).
+
+Tapeworms are intestinal cestodes (tapeworms) acquired by eating raw or undercooked meat (beef, pork). Other species are transmitted via raw fish.
+
+'''Other'''
+
+Other parasitoses may be acquired during a trip, and should be investigated depending on the context (echinococcosis, toxocariasis, leishmaniasis, larva migrans, distomatosis, trichinellosis, filariasis, trypanosomiasis, etc.).
+
+Intestinal protozooses, sometimes cosmopolitan, may be acquired during travel, due to unfavourable hygiene conditions, for example: giardiosis, cryptosporidiosis. Intestinal amoebiasis (which can develop into a tissue form) is the most serious protozoosis, as it is potentially fatal.  

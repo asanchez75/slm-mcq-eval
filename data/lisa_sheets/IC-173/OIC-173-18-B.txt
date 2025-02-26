@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-173-18-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing the species that cause the two forms of echinococcosis
+|Description=Hydatidosis: Echinococcus granulosus Alveolar Echinococcosis: E. multilocularis
+|Rubric=Etiologies
+|Contributors=Carole Eldin,Florence Robert-Gangneux
+|Order=18}}
+
+Hydatidosis (or cystic echinococcosis or hydatid cyst) is caused by Echinococcus granulosus, while alveolar echinococcosis is caused by Echinococcus multilocularis.
+
+These two zoonoses are larval cestodoses (development of a larva in humans).

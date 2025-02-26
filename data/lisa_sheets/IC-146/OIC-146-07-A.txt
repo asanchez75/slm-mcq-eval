@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-146-07-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Title=Know the vaccination schedule (compulsory and recommended) in force in France for specific populations (adults and children): people aged 65 and over (diphtheria, tetanus, poliomyelitis, seasonal influenza, pneumococcal infection, shingles, whooping cough); pregnant women; healthcare professionals.
+|Description=None
+|Rubric=Care
+|Contributors=Laurence Morand-Joubert
+|Order=7}}
+
+'''''Age 65 and over: '''''
+
+*Influenza'' recommended every year.
+*Shingles'' from 65 to 74 years of age recommended; this vaccine has a modest effect in the elderly, particularly those over 80, who are most at risk of shingles.
+*Pneumococcus: if there is a risk of invasive pneumococcal infection.
+*+/- ''Pertussis'' recommended if in contact with infants.
+
+
+For certain populations, such as those who are immunocompromised or non-immunocompromised but have an underlying illness predisposing them to pneumococcal infections or pneumonia, vaccinations against influenza and pneumococcus are recommended.
+
+COVID-19: recommended during vaccination campaigns for people at risk: people aged over 65, immunocompromised people, people with severe cardiac, renal, pulmonary or hepatic co-morbidity. As recommendations and available vaccines are subject to change, it is advisable to consult the https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Covid-19 website regularly.
+
+'''''PregnantWoman''''' : Vaccinations should be updated before pregnancy wherever possible, particularly for MMR and chickenpox vaccines. During pregnancy, live vaccines are contraindicated; influenza vaccination and vaccination against COVID-19 are recommended during pregnancy in epidemic periods. Vaccination against whooping cough is recommended from the second trimester of pregnancy to ensure passive protection for the newborn. Other vaccinations are possible, but generally postponed until after pregnancy.
+
+'''''Health professional:'''''
+
+*Mandatory: DTP and Hepatitis B. Covid 19 (2-dose schedule) from 15 September 2021. BCG is no longer compulsory.
+*Recommended: annual influenza, chickenpox, measles if not previously contracted, whooping cough, 2nd MMR injection for professionals who have only received one dose previously (born before 1980).

@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-245-08-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Know the main causes of adrenal insufficiency in adults (autoimmune, tuberculosis, iatrogenic, metastases)
+|Description=None
+|Rubric=Etiologies
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=8}}
+The main causes of primary adrenal insufficiency in adults are summarised in table 2.
+
+
+Table 2: Main causes of primary adrenal insufficiency and their clinical and paraclinical particularities.
+{| class="wikitable"
+|Causes
+|Clinical features
+|Paraclinical
+|-
+|Autoimmune cortical shrinkage
+|>80% of aetiologies
+
+Women > Men
+
+Family and personal history of autoimmune diseases
+<br />
+|Positive anti-21-hydroxylase autoantibodies
+
+Atrophic adrenal glands on CT scan
+|-
+|Bilateral adrenal tuberculosis
+<10% of cases in Europe
+
+Immunocompromised or from an endemic country
+
+History of tuberculosis
+|Adrenal glands increased in size in the initial phase, then atrophied and calcified (non-systematic signs)
+|-
+|drug-induced
+|Context of :
+
+- bilateral adrenalectomy
+
+- treatment with synthetic anticortisolic agents
+|
+|-
+|Bilateral adrenal lesions
+|<Bilateral metastases</nowiki>.
+
+- Adrenal lymphoma
+|Bilateral adrenal masses
+|-
+|Vascular causes
+|<Adrenal necrosis</nowiki>.
+
+- bilateral adrenal thrombosis
+
+Context: shock, antiphospholipid syndrome, pregnancy, meningococcal meningitis, anticoagulant therapy
+|Hypovascularly enlarged adrenal glands
+|-
+|Infectious causes
+|Advanced HIV infection: adrenal localisation of opportunistic infection
+|
+|}
+<br />

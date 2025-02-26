@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-242-13-B
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=B
+|Title=Knowing the principles of the therapeutic management of hyperthyroidism
+|Description=None
+|Rubric=Management
+|Contributors=Magalie Haissaguerre,Camille Buffet
+|Order=13}}
+
+
+
+The majority of thyrotoxicoses can be treated on an outpatient basis following a consultation.
+
+You need to know how to identify the rare emergency situations that require immediate treatment or even hospitalisation:
+
+- '''acute thyrotoxic crisis [[Hyperthermia/fever SD-044]] [[Tachycardia SD-166]] [[Diarrhoea SD-002]]''''
+
+- '''Cardiothyreosis''' in an elderly person or one with heart disease [[Palpitations SD-165]] [[Tachycardia SD-166]]
+
+- '''malignant orbitopathy''' [[Diplopia SD-143]]
+
+- ''cachectic form'' in elderly patients or those with another chronic disease
+
+Treatment of hyperthyroidism includes symptomatic treatment of thyrotoxicosis and specific treatment of hyperthyroidism.
+
+[Writing a prescription/medical letter SD-342|Explaining a treatment to a patient (adult/child/adolescent) SD-352]]
+
+[Explaining a treatment to a patient (adult/child/adolescent) SD-352]]
+
+Symptomatic treatments include :
+
+- rest
+
+- beta-blockers, in particular non-cardioselective beta-blockers (after eliminating any contraindications) to reduce tachycardia and tremors of the extremities
+
+- sedatives or benzodiazepines for behavioural problems such as agitation or incapacitating insomnia
+
+The ''specific treatments for hyperthyroidism'' are :
+
+- synthetic antithyroid drugs, in combination with effective contraception and monitoring of hepatic and haematological tolerance
+
+- total thyroidectomy'' resulting in hypothyroidism, with definitive replacement
+
+- treatment with radioactive iodine, in the absence of contraindication (pregnancy; progressive or severe or very inflammatory orbitopathy)
+
+'''The choice of treatment depends on the cause of the hyperthyroidism'' (Basedow, toxic multinodular goitre, toxic adenoma or hyperthyroidism induced by iodine overload; thyroiditis) '''and the context'' (patient's age, patient's request, desire for pregnancy, drug tolerance).
+
+Graves' disease can occur as a single episode, but the risk of recurrence is 40-60% after well-managed treatment.
+
+'''In pregnant women:''''
+
+- Treatment of Graves' disease during pregnancy requires specialised management to discuss the indication for a low-dose synthetic antithyroid drug, to limit teratogenicity and to determine monitoring procedures, as spontaneous remissions are frequent in the second half of pregnancy.
+
+- The differential diagnosis to be aware of is transient gestational thyrotoxicosis, which is more common than Graves' disease in pregnancy (2% of pregnancies, negative TSH receptor antibodies and occasional hyperthyroidism in the 1st<sup> trimester of pregnancy).
+----

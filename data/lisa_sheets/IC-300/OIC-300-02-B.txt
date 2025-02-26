@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-300-02-B
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=Knowing the role of human papillomavirus (HPV) infection and other co-factors
+|Description=HPV infection, smoking, immunosuppression, lack of screening
+|Section=Pathophysiological elements
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=2}}
+
+
+
+The virus, Human Papillomavirus (HPV), is considered to be the main, but not sufficient, cause of cervical cancer. While more than 50 types of HPV can infect the genital tract, 15 of them (types 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68, 73 and 82) are considered to have a high oncogenic potential for the cervix. Types 16 and 18 are the most common and the most virulent. HPV infection is a very common and sexually transmitted infection. More than 90% of people have at least one HPV infection in their lifetime. The cumulative incidence of HPV infection is particularly high immediately after the onset of sexual activity. Taking all types of HPV together, the cumulative risk of infection is estimated at between 40% and 80% within 2 to 5 years of the start of sexual activity, in women under the age of 20. The number of sexual partners is the main risk factor for HPV infection. The vast majority of women infected with an oncogenic HPV type do not develop cervical cancer. The risk factors for HPV infection are: the number of sexual partners (the most important factor), early sexual debut and failure to use condoms (male or female).
+
+Other factors, acting at the same time as HPV, influence the risk of causing the disease.
+
+These "co-factors" are :
+
+'''- the [[Prevention of tobacco-related risks SD-314|tabac]]''' ;
+
+- '''[[Follow-up of the immunosuppressed patient SD-291|immunosuppression]]''' (particularly when linked to HIV)
+
+- infections due to other sexually transmitted diseases
+
+- the high number of pregnancies
+
+- long-term use of oral contraceptives
+
+Disadvantaged social conditions and the absence of screening are also associated with an increased risk of developing cervical cancer (because pre-cancerous lesions are not detected and treated in time).

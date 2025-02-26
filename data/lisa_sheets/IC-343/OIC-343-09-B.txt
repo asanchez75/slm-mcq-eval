@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-343-09-B
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=B
+|Title=Knowing the indications for imaging examinations for confusional states and/or disturbances of consciousness in children and adults
+|Description=Scanner or MRI
+|Section=Additional examinations
+|Contributors=
+|Order=9}}
+Imaging '''is not routinely recommended in confusion ([[Mental confusion/disorientation SD-119|mental confusion/disorientation]])''', but a CT scan or (depending on the hypotheses and availability of tests) a cerebral MRI should be requested '''as a matter of urgency at the slightest suspicion'' of an underlying neurological lesion '''([[Request for an imaging test SDD-231|request for an imaging test]])''' :
+
+- In the event of focal signs on neurological examination
+
+- If there is a recent history of head trauma or anticoagulant treatment (subdural or parenchymal haematoma) (see item 108 Confusion, dementia: question Know the imaging semiology of chronic subdural haematoma).
+
+- Before any lumbar puncture in cases of suspected meningoencephalitis (item 151. Meningitis, meningoencephalitis, brain abscess in adults and children)
+
+- If confusion has set in suddenly (suspected stroke item 340).

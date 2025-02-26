@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-228-12-B
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=B
+|Title=Knowing how to interpret distal pressures
+|Description=To assess ischaemia in arterial or mixed ulcers
+|Section=Additional tests
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=12}}
+
+Distal or ankle pressures may be falsely normal or elevated in cases of mediacalcosis (diabetes, renal failure, advanced age, etc.). In these situations, it is essential to measure toe pressure.
+
+The measurement of haemodynamic criteria is essential for the detection of OAMI at the stage of critical ischaemia:
+
+* ankle pressure < 50 mmHg ;
+* toe pressure < 30 mmHg;
+* TcPO2 < 30 mmHg.

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-123-17-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=Knowing the main strategies for preventing ageing.
+|Description=Knowing the major strategies for preventing ageing
+|Rubric=Management
+|Contributors=
+|Order=17}}
+'''''Three elements represent the foundations of the strategy for ageing in good conditions:'''''
+
+'''''-Nutrition'':'' Prevention is mainly based on a diet adapted to the different stages of life: neither too much in youth nor too little in old age, where diets should be avoided. Similarly, calorie restriction has shown no significant effect in primates, and could be harmful in humans, whereas it could slow down biological ageing and extend lifespan in certain animal species (nematodes, insects, rodents).
+
+'''2-Physical activity:''' counteracts several of the effects of ageing, slows the loss of muscle mass and the decline in muscle function associated with age, limits associated metabolic problems such as glucose intolerance due to insulin resistance, and preserves cardiovascular, respiratory and even cognitive function.
+
+'''3-Systematic vitamin D supplementation:''' is useful in preventing osteoporosis and loss of muscle mass.

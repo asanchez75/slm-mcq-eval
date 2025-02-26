@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-298-10-A
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=A
+|Title=General knowledge of prevention in VADS cancerology
+|Description=To list the main lines of primary prevention of cancers of the cervicofacial sphere
+|Rubric=Management
+|Contributors=
+|Order=10}}
+
+
+==Primary prevention
+- Eliminating alcohol consumption
+
+- Stop smoking
+
+- HPV vaccination (for boys and girls)
+
+- Controlling occupational exposure <br />
+
+==Secondary prevention==
+- Screening for nasosinusal cancer in woodworkers
+
+- Regular dental check-ups (screening for pre-cancerous lesions in the oral cavity)
+<br />
+
+==Tertiary prevention==
+- Post-therapy follow-up

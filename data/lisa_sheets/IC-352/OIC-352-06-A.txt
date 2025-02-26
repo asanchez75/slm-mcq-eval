@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-352-06-A
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=A
+|Title=Knowing the management of acute panic attacks
+|Description=Positive diagnosis, reassurance, relaxation advice, prescription of anxiolytics if necessary.
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=6}}
+
+Complete clinical examination and, if necessary, additional [[Complementary examinations 2C-003-PC-A01|examinations]] ([[Electrocardiogram: indications and interpretations|electrocardiogram]], chest X-ray, blood count, blood sugar, blood ionogram, troponin) without reinforcing catastrophic thinking.
+
+- Non-pharmacological measures to prepare the patient (calm, empathy), reassurance (acknowledge suffering, announce the diagnosis of PA, inform the patient that there is no risk of death, favourable outcome), and help with respiratory control (slow exhalation to stimulate vagal tone, focus attention, limit hyperventilation).
+
+- Anxiolytic drug treatment of a [[Benzodiazepines|benzodiazepine]] per os, only prescribed occasionally in an emergency (Item 74).

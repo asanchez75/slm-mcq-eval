@@ -1,0 +1,64 @@
+{{knowledge objective
+|Identifiant=OIC-031-13-B
+|Item_parent=Childbirth, delivery and normal postnatal care
+|Item_parent_short=Childbirth, delivery and normal postnatal care
+|Rank=B
+|Title=Knowing the different stages of childbirth
+|Description=Knowing the different stages of childbirth
+|Rubric=Physiopathology
+|Contributors=Vincent Dochez,Philippe Deruelle
+|Order=13}}
+
+
+== Definition
+Childbirth is the physiological process that leads to the expulsion of the placenta and membranes. It completes childbirth. Delivery is the 3rd stage of childbirth.
+
+== Physiology
+Delivery takes place in three stages.
+
+==== 1) Delamination ====
+
+==== 2) Expulsion ====
+- the placenta is usually presented to the vulval orifice by its foetal side (Baudelocque mode);
+
+- sometimes the maternal side or one of the edges appears first (Duncan mode).
+
+==== 3) Haemostasis ====
+This is ensured by :
+
+- by uterine retraction
+
+- Vessel thrombosis, involving coagulation factors.
+
+== Clinical ==
+
+=== Reappearance of uterine contractions after clinical remission ===
+- the uterine fundus rises above the umbilicus,
+
+- the umbilical cord unwinds at the vulva and a little blood flows out,
+
+=== Expulsion of the placenta ===
+- it may be spontaneous, during an expulsive effort or by impaling the uterine fundus
+
+- After delivery, the uterus forms the safety globe.
+
+=== Respecting the physiological mechanism ===
+Do not pull on the cord or manoeuvre it too hastily.
+
+== Examination of the placenta
+- Search for an aberrant cotyledon
+
+- The place of insertion of the cord is noted on the foetal surface, and the presence of two funicular arteries and one funicular vein is checked.
+
+- On the mother's side, the cotyledons must be juxtaposed without any continuity.
+
+Artificial delivery must be performed in the event of an incomplete placenta, immediate post-partum haemorrhage, or failure to deliver within 30 minutes.
+
+== Fourth stage of labour
+During this phase, known as the return to normal, the mother must be constantly monitored in the delivery room for 2 hours.
+
+Heart rate, BP, uterine retraction (uterine height and tone) and blood loss are monitored.
+
+Uterine expression will be performed 2 or 3 times during this period.
+
+Immediate post-partum haemorrhage, defined as a volume of blood loss equal to or greater than 500 ml, is one of the most frequent causes of maternal mortality in France '''([[Acute haemorrhage SD-060|Acute haemorrhage]], [[Abnormal post-partum genital bleeding SD-110|Annormal post-partum genital bleeding]])'''.

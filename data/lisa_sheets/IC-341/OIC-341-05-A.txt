@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-341-05-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Knowing the signs suggestive of meningeal haemorrhage on non-injection brain scan
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+("''[[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]]'''")
+
+Positive diagnosis: spontaneous hyperdensity of the [[Arachnoid and subarachnoid spaces|subarachnoid spaces including the basal cisterns]]
+
+Complications: cerebral oedema, intra-ventricular haemorrhage, intracranial haematoma, mass effect on the brain stem or ventricles, cerebral ischaemia due to vasospasm.

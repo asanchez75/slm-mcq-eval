@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-124-12-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Knowing the benefit-risk balance of HRT in the case of natural menopause and premature ovarian failure and the alternatives to HRT.
+|Description=None
+|Rubric=Management
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=12}}
+
+== '''Balance of benefits and risks of HRT in natural menopause''' ==
+{| class="wikitable"
+|
+!'''Benefits'''
+!'''Risks'''
+|-
+|'''Climacteric syndrome''''
+|The most effective treatment for the functional signs of the menopause
+|
+|-
+|Fracture risk
+|1st-line treatment to prevent postmenopausal bone loss
+|
+|-
+|'''Cardiovascular impact''''
+|↓Risk of MI if HRT is started within 10 years of the menopause.
+
+→Risk of stroke and neutral VTE with cutaneous route+ progesterone or dydrogesterone.
+|↑ risk of MI if HRT is started > 10 years after menopause
+|-
+|'''Carcinological risk''''
+|↓ Risk of colorectal cancer
+
+↓Overall mortality
+|↑ risk of breast cancer ''(absence of excess risk in European observational studies for a duration of 5-7 years)''
+
+↑ risk of endometrial cancer ''(annihilated by taking a progestin at least 12 days a month)''
+
+↑ risk of ovarian cancer ''(RR=1.14[1.10-1.19])''
+|}
+
+'''Overall, the benefit/risk balance of HRT is still considered positive in women who are symptomatic and/or at risk of osteoporosis in the first 10 years of the menopause or before the age of 60'''.
+
+== Balance of benefits and risks of HRT for premature ovarian failure (PFO) ==
+In the case of POI, the term ''hormone replacement therapy'' (HRT) is used.
+
+In the absence of HRT in women with POI, there is an increase in
+
+* cardiovascular mortality
+* osteoporosis
+* cognitive degeneration
+
+Continuation of HRT recommended until the theoretical age of physiological menopause (no increased risk of breast cancer compared with a woman who is still regulated).
+
+'''All in all, the benefit/risk balance of HRT is always positive in cases of POI, cancelling out the cardiovascular and bone risks induced by early oestrogen deficiency''''.
+<br />
+
+== Alternatives to HRT ==
+Non-hormonal alternatives for the treatment of flushing are less effective than HRT
+
+Several alternatives are available
+
+=== Pharmacological alternatives ===
+Certain treatments with a main effect and a marketing authorisation (MA) that is not the management of the functional signs of the menopause have a demonstrated positive effect on the frequency and severity of BVMs.
+
+* serotonin reuptake inhibitors
+* clonidine
+* gabapentin
+
+=== Food supplements, phytoestrogens, pollen extracts, phytotherapy ===
+In general, no proven efficacy compared to placebo
+
+Be careful with phytoestrogens, which are contraindicated if you have a history of breast cancer.
+
+=== Non-pharmacological alternatives ===
+There is some evidence that acupuncture, yoga and hypnosis can reduce the frequency and intensity of BVMs.

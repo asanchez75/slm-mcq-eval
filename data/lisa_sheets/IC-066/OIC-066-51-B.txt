@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-51-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the specific characteristics of children and adolescents
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=51}}
+
+Repetition and avoidance syndromes are more difficult to identify. We look for traumatic repetition in games, drawings and nightmares in children, and aggressive and impulsive behaviour in adolescents.

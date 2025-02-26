@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-230-08-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Knowing the place and abnormalities of chest radiography in the four cardiovascular emergencies
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Vincent Roule
+|Order=8}}
+
+'''To know the place and the anomalies of the thoracic radiography of the 4 cardiovascular emergencies:'''
+
+* Chest X-ray is routinely performed in the presence of chest pain.
+* Not necessary in typical ACS (for diagnostic purposes)
+* Helps in the diagnosis of the 3 other emergencies (but not sufficient to confirm the diagnosis), enables differential diagnoses to be made (pneumothorax, pneumopathy).
+
+PR abnormalities '''(request for an imaging test)''':
+
+* in aortic dissection: possible widening of the mediastinum, double aortic contour (cf fig)
+
+[[File:Image5.jpg|vignette|Front pulmonary radiograph showing widening of the mediastinum, suggestive of aortic dissection|alt=|centric]]
+
+* in pulmonary embolism: often normal, pulmonary hyperclarity, ascension of a diaphragmatic cupola, atelectasis in bands
+
+* in pericarditis with tamponade: cardiomegaly with heart in decanter

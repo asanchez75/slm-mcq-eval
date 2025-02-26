@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-155-12-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the epidemiology and risk factors of non-necrotising and necrotising bacterial dermohypodermatitis in adults and children.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=12}}
+
+{| class="wikitable"
+|+
+|
+|'''Non-necrotizing bacterial dermohypodermatitis''''
+|'''Bacterial necrotizing dermohypodermatitis'''
+|-
+|Epidemiology
+|'''In adults,''''
+
+Estimated incidence in France between 10 and 100 cases per 100,000 inhabitants
+
+Predominantly female
+
+Average age 60-65
+
+In children,
+
+occurs in previously healthy, relatively young children under 3 years of age
+<br />
+|'''In adults,''''
+
+Incidence estimated at 0.4/100,000 per capita, with an increase after the age of 50.
+
+
+In children,
+
+Prevalence estimated at 0.8 per million patients per year
+|-
+|Risk factors
+|'''In adults,''''
+
+Local: leg ulcer,
+
+inter-toe intertrigo,
+
+wound, lymphoedema (lymphatic insufficiency),
+
+venous insufficiency,
+
+history of erysipelas
+
+
+'''Generals'''
+
+obesity
+
+<br />
+|'''In adults,''''
+
+advanced age
+
+associated comorbidities: diabetes, heart failure, hepatocellular insufficiency, renal insufficiency, obesity, male
+
+
+'''In children,'''
+
+- cutaneous route of entry: trauma, bite
+
+- chickenpox
+
+- immunosuppression
+|}

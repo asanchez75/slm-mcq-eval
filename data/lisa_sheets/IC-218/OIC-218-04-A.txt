@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-218-04-A
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=A
+|Title=Know and be able to identify the classic causes of eosinophilia (atopy, parasitosis, iatrogenic, cancer).
+|Description=Interrogation, clinical examination, systematic parasitic work-up (+/- oriented by exposure, travel), thoraco-abdomino-pelvic scanner, ...
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Classical causes of eosinophilia :
+
+- parasitosis ;
+
+- atopy ;
+
+- drug hypersensitivity syndrome ;
+
+- cancer (solid cancer or haematological malignancy).
+
+- viral origin to be systematically considered, in particular human immunodeficiency virus (HIV) infection.

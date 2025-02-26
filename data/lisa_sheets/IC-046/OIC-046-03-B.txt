@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-046-03-B
+|Item_parent=Genomic medicine
+|Item_parent_short=Genomic medicine
+|Rank=B
+|Title=To know the conditions for prescribing a genetic test and the main indications.
+|Description=How to prescribe a genetic test: information, signing a consent form, informing relatives. When to prescribe a genetic test: example of chromosomal analysis on a DNA chip (CGH array). When not to prescribe a genetic test: the example of the exome or genome. What should I do if a patient brings me an open-access genetic test result (via the Internet)? Illustration based on 3 examples: the prenatal period, intellectual disability and cancer.
+|Rubric=Additional tests
+|Contributors=Damien Sanlaville,Christel Thauvin,Michel Vidaud,Martin Krahn
+|Order=3}}
+
+'''How to prescribe a genetic test in constitutional genetics: information, signature of a consent, information to relatives''' ([[Request/reasoned prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]])
+
+In France, any doctor can prescribe a genetic test as long as he or she is able to explain the results and consequences to the patient and his or her family.
+
+The 2004 French Bioethics Act states that: Examination of a person's genetic characteristics may only be undertaken for medical or scientific research purposes. The person's express consent must be obtained in writing before the examination is carried out, after the person has been duly informed of its nature and purpose. The consent must specify the purpose of the examination. It may be revoked without formality at any time.
+
+Before any genetic test is carried out, the patient must be given clear and honest information.
+
+Informing relatives has been mandatory since 2013. Before an examination of a person's genetic characteristics is carried out, the prescribing doctor must inform the person of the risks that silence would entail for the family members potentially concerned if a genetic anomaly were diagnosed that could be responsible for a serious condition justifying preventive measures, including genetic counselling, or care.
+
+In practice, following clear and fair information about the genetic test(s) prescribed, the patient or his/her representative(s) signs the consent form. The prescribing doctor signs the genetic counselling certificate. This consent form is signed in triplicate: one for the patient, one for the prescriber and one for the laboratory that will carry out the analysis.
+
+Genetic tests should only be prescribed when they are clinically useful and desired by the patient. The mere fact that a test is available and can be carried out does not justify its prescription or performance.
+
+Tests aimed at identifying somatic genetic events (genetic alterations in tumours and cancers) are not subject to the same regulations as tests of constitutional genetic characteristics and specific consent is not required.
+
+'''When to prescribe a genetic test: the example of chromosome analysis on a DNA chip (CGH array)?'''
+
+Chromosomal analysis on a DNA chip (ACPA) or CGH-array is a genome-wide analysis that can identify genomic imbalances (loss or gain of chromosomal regions; copy number variation: CNV) of more than 50 kilobases (i.e. a resolution a hundred times greater than the karyotype).
+
+The indications are therefore related to the search for a genomic imbalance. This test is now prescribed as a first-line treatment for patients with malformations and/or intellectual disabilities, unless a clinical diagnosis has been made, such as trisomy 21. In this case, a karyotype is recommended.
+
+ACPA does not detect balanced chromosomal rearrangements. It is therefore not indicated in patients with fertility disorders as a first-line treatment.
+
+
+'''When not to prescribe a genetic test: the example of exome or genome sequencing'''?
+
+Exome and genome sequencing is prescribed by geneticists or organ specialists trained in genetics at the centres of reference and centres of expertise for rare diseases. Interpretation of these genome-wide tests is complex, given the presence of variants of unknown significance. In addition, they may identify additional data, i.e. genetic variations unrelated to the patient's clinical presentation, which motivated the initial diagnostic approach, but which may have an impact on the patient or their family.
+
+
+'''What should I do if a patient brings me a genetic result that is freely available (via the Internet)?'''
+
+As the law on bioethics currently stands (June 2021), it is forbidden to carry out a genetic test without a medical or court order. Furthermore, in France, only authorised laboratories may carry out constitutional genetic tests. Over-the-counter tests have no medical value and cannot be used to treat patients.
+
+
+'''Illustration based on 3 examples: the prenatal period, intellectual disability, cancer'''
+
+- Prenatal period: [[Prenatal screening for trisomy 21 SD-307|prenatal screening for trisomy 21]]. Prescription of a foetal karyotype, [[Antenatal diagnosis of trisomy 21 2C-045-DP-B02|cf item 45]] ;
+
+- Intellectual disability (ID): ID affects 2.5% of the population, or one person in 40. People with intellectual disabilities are handicapped. More than 1,000 genes responsible for isolated or syndromic intellectual disabilities have been identified. Once a CGH-array has been performed, exome and genome sequencing are offered;
+
+- Predisposition to cancers: INCa has defined gene panels to be analysed in cases of suspected genetic predisposition, in particular for frequent cancers: breast-ovarian cancer syndrome (HBOC, ''Hereditary breast-ovarian cancer syndrome'') and colon cancer (Lynch syndrome or HNPCC, ''Hereditary non polyposis colorectal cancer''). These panels are prescribed after an oncogenetic consultation.
+----<br />

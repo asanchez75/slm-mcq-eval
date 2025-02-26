@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-353-11-B
+|Item_parent=Suicidal risk and behaviour in children, adolescents and adults: identification and management
+|Item_parent_short=Suicidal risk and behaviour in children, adolescents and adults: identification and management
+|Rank=B
+|Title=Acknowledging the specific features of older people
+|Description=Send item 70
+|Rubric=Management
+|Contributors=Pierre Vandel
+|Order=11}}
+
+CAT guided by the following elements:
+
+* Characteristic depressive episode to be sought systematically. Common in old age.
+* Systematic search for comorbid psychiatric disorders;
+* Think of physical pain and/or abuse in the event of any recent change in behaviour;
+* Systematic psychosocial assessment.
+
+
+In the event of a proven suicidal crisis: research the means envisaged and available. '''Removal of access to the means.'''

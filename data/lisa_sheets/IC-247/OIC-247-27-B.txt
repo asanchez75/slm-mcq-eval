@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-247-27-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Knowing the principles of treating diabetic retinopathy
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=27}}
+'''General care:'''
+
+- Glycaemic control: goal of HbA1c < 7%, careful control from the stage of pre-proliferative retinopathy, with the risk of worsening the visual prognosis.
+
+- Blood pressure control and treatment of dyslipidaemia
+
+'''Specialised ophthalmological care'''
+
+- Retinal panphotocoagulation (fixation of the retina, regression of neovessels) as early as the severe RDNP stage
+
+- Intraocular injections of corticoids (fewer indications) and VEGF inhibitors (severe, proliferative form and macular oedema)

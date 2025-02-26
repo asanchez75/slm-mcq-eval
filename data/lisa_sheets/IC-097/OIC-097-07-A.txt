@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-097-07-A
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=A
+|Title=Know the signs of severity of acute polyradiculoneuritis and the situations requiring intensive care management.
+|Description=Know the respiratory, thromboembolic and cardiac risks, know how to look for bilateral facial paralysis, look for swallowing and phonation disorders.
+|Rubric=Emergency identification
+|Contributors=
+|Order=7}}
+The "seriousness of the respiratory impairment" (15 to 30% of patients will be on assisted ventilation) requires careful monitoring in intensive care as soon as the bulbar musculature worsens or is affected (swallowing or phonation disorders) '''([[Swallowing disorders or false swallowing SD-062|swallowing disorders or false swallowing]] ([[Dysphonia SD-146|dysphonia]])'''.
+
+Poor prognosis:
+
+- a phase of very rapid aggravation; '''([[Muscular weakness SD-074|muscular weakness]], [[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])''''
+
+- initial bilateral facial involvement; '''([[Facial paralysis SD-127|facial paralysis]])''''
+
+- over 60 years of age;
+
+- non-excitability of the nerves on ENMG ;
+
+- prolonged ventilation.
+
+Recurrences of Guillain-Barré syndrome are very rare.
+
+During the aggravation phase, therefore, it is important to ensure surveillance and screening:
+
+- swallowing disorders '''([[Swallowing disorders or faux-route SD-062|swallowing disorders or faux-route]])''' or phonation disorders '''([[Dysphonia SD-146|dysphonia]])''''''
+
+- breathing difficulties: effectiveness of coughing, respiratory rhythm, vital capacity using a portable spirometer to assess vital capacity. '''([[Acute respiratory distress SD-160|acute respiratory distress]], [[Dyspnoea SD-162|dyspnoea]], [[Cough SD-167|cough]])''''
+
+During the status phase :
+
+Patients are transferred to an intensive care unit if there is a risk of respiratory decompensation or complications (infectious or dysautonomic).
+
+- Vegetative disorders: changes in heart rate, changes in blood pressure
+
+- Decubitus complications: infections, venous thrombosis '''([[Management of a patient in prolonged decubitus SD-276|management of a patient in prolonged decubitus]])''''

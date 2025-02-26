@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-337-17-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Knowing how to diagnose acute carbon monoxide poisoning and the principles of management in adults and children.
+|Description=How to diagnose carbon monoxide poisoning and how to treat it in adults and children
+|Rubric=Management
+|Contributors=Dominique Vodovar
+|Ordre=17}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 2.jpg
+</gallery><gallery widths="300" heights="300">
+File:Intox fig 10.jpg
+</gallery>

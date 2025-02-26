@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-193-11-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Intitle=Know the main prognostic factors in vasculitis
+|Description=None
+|Topic=Monitoring and/or prognosis
+|Contributors=Luc Mouthon
+|Order=11}}
+
+''Ophthalmological signs:'' transient amaurosis or diplopia in giant cell arteritis (risk of permanent blindness)
+
+Renal, digestive, cardiac or central neurological involvement in small-calibre vasculitides
+
+Peripheral neuropathies leading to functional sequelae in small-calibre vasculitides

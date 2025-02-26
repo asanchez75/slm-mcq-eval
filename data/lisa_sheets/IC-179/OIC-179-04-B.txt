@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-179-04-B
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Sanitary risks related to water and food. Food poisoning
+|Rank=B
+|Item_parent_short=Health risks linked to water and food.
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Order=4}}
+Various forms of pollution affect water resources:
+
+- Thermal pollution linked to various human activities poses a health risk through the microbiological proliferation it causes (free amoebae, legionella, algae, etc.).
+
+- Radioactive pollution is the lowest apart from exceptional accidents
+
+- Chemical pollution is probably the most common:
+
+* Sodium from mining waste or seawater infiltration.
+* Nitrates from agricultural activities, toxic if reduced to nitrites which bind to haemoglobin. Precursors of nitrosamines, they can be carcinogenic.
+* Phosphates from agricultural activities and urban waste. They play a part in the eutrophication process, leading to the development of algae that produce toxins.
+* Heavy metals (lead, mercury, cadmium), which are deposited in river and coastal sediments.  They can concentrate in aquatic flora and fauna, a source of poisoning for humans.
+* Dangers associated with mineral salt imbalances due to natural contamination or disruption caused by man-made additions.
+* Organic pollution linked to human activities, detergents, solvents, hydrocarbons, medicines, etc.
+
+- Microbial and parasitic pollution :
+
+* Fecal, human and animal origin linked to the absence or inadequate treatment of drinking water.
+
+The most well-known and frequent are responsible for gastrointestinal disorders.
+
+* Bacteria: salmonella, shigella, E. coli, Vibrio cholerae
+* Viruses: enterovirus, coxackie, echovirus, hepatitis A and E, coronavirus, rotavirus, norovirus, etc., causing gastroenteritis, hepatitis and neuromeningeal disorders.
+* Parasites: Entamoeba histolytica, Giardia intestinalis, Cryptosporidium spp.
+* In certain uses of water, water microorganisms can become pathogenic: Legionella pneumophila, non-tuberculous mycobacteria (Mycobacterium xenopi).
+
+Reference Hartemann P Sciences Eaux et Territoires 2013 n°10 p14 à 21 Eau de consommation, risque santé.

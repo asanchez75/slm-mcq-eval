@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-118-09-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Title=Knowing how to assess memory
+|Description=MMS, 5 words
+|Heading=Positive diagnosis
+|Contributors=
+|Order=9}}
+([[Memory disorders/cognitive decline SDD-131|131-memory disorders/cognitive decline]], [[Discovery of a brain abnormality on medical imaging examination SDD-226|226-discovery of a brain abnormality on medical imaging examination]], [[Consultation and follow-up of a patient with cognitive disorders SDD-298|298-consultation and follow-up of a patient with cognitive disorders]])
+
+
+Screening test for memory impairment :
+
+- Mini Mental State (MMS): assessment of cognitive functions, particularly memory, used mainly in cases of suspected dementia.
+
+
+Dubois 5-word test:
+
+o Present a pre-established list of 5 words aloud,
+
+o Request them again by category,
+
+o Immediate free recall, then code if necessary,
+
+o Interference test (clock test),
+
+o Free recall, then coded if necessary.

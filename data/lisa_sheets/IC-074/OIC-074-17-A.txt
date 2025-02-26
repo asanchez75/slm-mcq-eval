@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-074-17-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Intitle=Hypnotics: knowing the main classes and molecules
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=17}}
+'''Hypnotics''' are '''psychotropic''' drugs with the ability to''''induce sleep'' (or at least a ''state close to physiological sleep''). These molecules are <u>close to anxiolytics</u>, with more marked '''clinical sedative properties'''.
+
+The class of hypnotics is made up of different chemical classes:
+
+* benzodiazepines ('loprazolam', 'nitrazepam', 'lormetazepam', 'estazolam') and related benzodiazepines (or 'z-drugs': 'zolpidem', 'zopiclone');
+* antihistamines'' and ''antipsychotics'' with a ''sedative polarity'' (''alimemazine'');

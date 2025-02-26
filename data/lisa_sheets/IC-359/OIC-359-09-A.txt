@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-359-09-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Know the strategy for investigations with a view to aetiology for common hypotheses (decompensation of chronic obstructive pulmonary disease (COPD), acute pulmonary oedema (APO), pulmonary embolism (PE), pneumonia (PNP), asthma, bronchiolitis, upper airway pathologies).
+|Description=Chest x-ray, blood tests (including arterial GDS), ECG, biomarkers, echocardiography, thoracic CT scan.
+|Section=Additional tests
+|Contributors=Guillaume Carteaux,Guillaume Mortamet
+|Order=9}}
+
+- For adult patients
+
+o Arterial blood gases
+
+o Chest X-ray
+
+o ECG
+
+o Other (etiological orientation and impact): blood ionogram, creatinine, urea, liver function tests, CBC, haemostasis test
+
+- For paediatric patients
+
+o Venous or capillary blood gas
+
+o Chest X-ray
+
+- COPD decompensation
+
+o Microbiological sampling (ECBC)
+
+o If left heart failure is suspected:
+
+§ BNP (or NT-proBNP)
+
+§ Echocardiography
+
+o If PE is suspected:
+
+§ Thoracic angioscan
+
+§ Venous Doppler of the lower limbs
+
+- OAP
+
+o Blood ionogram, troponin, CPK
+
+o Echocardiography
+
+- EP
+
+o Thoracic angioscan
+
+o Venous Doppler of the lower limbs
+
+o Echocardiography
+
+o D-dimer, Troponin, BNP (or NT-proBNP)
+
+- Pneumonia
+
+o Microbiological samples (depending on severity: ECBC; blood cultures; legionella and pneumococcal antigenuria; multiplex nasopharyngeal PCR; legionella, mycoplasma and chlamydia serologies)
+
+- Asthma
+
+o Microbiological samples
+
+o Search for therapeutic non-compliance
+
+o Search for exposure: tobacco, allergens
+
+o Search for drug use
+
+o Search for GERD
+
+- Bronchiolitis :
+
+o No systematic additional examination
+
+o Chest X-ray +/- blood gas in the most severe forms

@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-090-09-B
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Pathology of the salivary glands
+|Rank=B
+|Title=Know the principles of management of salivary gland tumours
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+The two investigations of choice when faced with a tumour of the salivary glands are :
+
+- '''<u>Injected MRI with T1-T2 perfusion and diffusion sequences:</u>''''
+
+*MRI should be carried out before cytopuncture, as cytopuncture can lead to haemorrhagic changes which can alter the diagnostic performance of MRI.
+*The characteristics of the T2 signal, the apparent diffusion coefficient (ADC) ratio and the appearance of the perfusion curve can be used to assess the risk of malignancy.
+
+- <u>'''Cytopunction:'''</u>
+
+*after ultrasound-guided MRI.
+*Result given according to the Milan system of 2018: Type I unsatisfactory for diagnosis, type II benign, type III atypia of undetermined significance, type IV neoplasm of uncertain potential, type V suspected of malignancy and type VI malignant.
+
+Biopsies are <u>never</u> performed due to the risk of facial nerve damage and dissemination.
+
+At the end of this assessment, the patient should be seen again to present the results and discuss their significance.
+
+'''The treatment is surgical:'''
+
+<u>'''- Partial parotidectomy'''</u> (''exofacial'' or ''superficial'' if the lesion is in the superficial lobe) with preservation of the facial nerve and '''extemporaneous anatomopathological examination'''.
+
+'''- P<u>total arotidectomy with homolateral cervical evidement</u>'' if malignant on extemporaneous examination.
+
+- Submandibulectomy
+
+
+- don't forget post-op:
+
+*announcement system,
+*discussion in multidisciplinary consultation meetings,
+*post-operative radiotherapy is a frequent option,
+*the therapeutic plan is then explained to the patient, with details of a personalised care plan.

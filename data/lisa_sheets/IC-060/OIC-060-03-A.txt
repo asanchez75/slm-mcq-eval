@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-060-03-A
+|Item_parent=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Item_parent_short=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Rank=A
+|Title=Knowing the impact of addictive and non-psychiatric co-morbidities on reduced life expectancy
+|Description=Knowing the impact of addictive and non-psychiatric comorbidities on reduced life expectancy
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+Psychiatric disorders reduce life expectancy by around 16 years in men and 13 years in women. This early mortality is mainly cardiovascular and respiratory.
+
+The causes are addictive co-morbidities (tobacco, alcohol, other substances), lifestyle (sedentary lifestyle, diet), the frequency of non-psychiatric co-morbidities (30-60% of patients) and a lack of demand for care, screening and access to care due to stigmatisation.
+
+Early mortality is also explained by an increased risk of death by suicide.
+
+Opiate use disorders are associated with significant excess mortality among users (55% of years of life lost and 44% of years of life lost due to disability).

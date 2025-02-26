@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-170-01-A
+|Item_parent=Malaria
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Knowing access to information sources concerning endemic areas
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=1}}
+
+=== '''Malaria in the world''' ===
+- Malaria is rife in the intertropical zone
+
+- '''Africa''': > 95% of cases worldwide occur in sub-Saharan Africa ('''P. falciparum'' in > 90% of cases)
+
+- '''Metropolitan France''': around 4,000 cases of '''imported''' malaria, 10 to 20 of which are fatal <gallery perrow="1">
+File:Malariamap2.png|'''Countries reporting indigenous malaria cases in the last 3 years'' (source: Malaria report 2020, WHO)
+</gallery>
+
+=== '''Free, regularly updated sources of information on endemic areas'' ===
+
+* Weekly Epidemiological Bulletin (BEH), special issue Health recommendations for travellers, published annually in May/June https://www.santepubliquefrance.fr/revues/beh/bulletin-epidemiologique-hebdomadaire
+
+* World Malaria Report, WHO, annual edition at the end of the year (below is the link to the 2020 edition)
+
+https://www.who.int/publications/i/item/&#x20;choice&#x20;malaria

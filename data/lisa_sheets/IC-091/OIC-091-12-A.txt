@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-091-12-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Heading=Know the main causes of recent transient neurological deficit.
+|Description=TIA, partial epileptic seizure, migraine aura, hypoglycaemia
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+The three main causes of transient neurological deficit are shown in the table below:
+{| class="wikitable"
+|
+|TIA
+|Epileptic seizure
+|Migraine aura
+|-
+|Terrain
+|> Age 50
+
+Vascular risk factors
+|Variable
+
+Known history of epilepsy or similar episodes (stereotyped seizures)
+|< under 50 years of age
+
+History of migraine
+|-
+|Mode of onset
+|Evocative if sudden and immediately maximal
+|Epileptic walking from near to near over several tens of seconds
+|Migrainous walk" with extension of disorders over several tens of minutes
+|-
+|Type of symptoms
+|Negative": amputation of visual field, loss of sensitivity
+|Positive: paresthesias, visual illusions or hallucinations
+|Positive: luminous (scintillating scotoma) and/or coloured visual phenomena
+
+Symptoms mainly visual and sensory
+|-
+|''Associated signs'''
+|Vascular murmur
+
+Heart disease
+|Clonia in motor seizures
+
+Break in contact, amnesia of the episode (complex partial attacks)
+|[[Headache SD-118|Headache]] migraine: hemicrania, photo-sono-phobia, digestive signs
+|-
+|'''Resolution of symptoms''''
+|Fast
+|Rapid
+|Progressive
+
+Duration of deficit < 1 h
+|}
+Other causes of transient neurological deficit are: hypoglycaemia ([[Hypoglycaemia SD-209|Hypoglycaemia]]), subdural haematoma, cerebral tumour, vascular malformation or other cerebral lesions, truncal peripheral involvement by postural or external compression (Saturday night radial paralysis...).

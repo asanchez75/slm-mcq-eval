@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-304-04-A
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=A
+|Title=Knowing the initial diagnostic approach
+|Description=circumstances of discovery, imaging, biopsy of a hepatic image
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The major challenges are to identify malignant tumours from benign tumours and to differentiate primary tumours from hepatic metastases. Liver imaging plays a key role in the diagnosis of liver tumours, supplemented if necessary by a liver biopsy.
+
+Anamnestic data, based in particular on the circumstances of discovery of the liver tumour(s) and analysis of risk factors, will guide the diagnosis.  
+
+'''''Circumstances of discovery'''''
+
+
+''The identification of risk factors will influence the diagnostic approach, as they should lead to the development of a diagnostic hypothesis to complement the imaging data on the nodular lesion(s) in the liver''.
+
+- Extension or surveillance work-up for extrahepatic cancer: hepatic metastasis
+
+- Chronic liver disease at the stage of advanced cirrhosis or fibrosis: HCC
+
+- Chronic biliary tract disease, in particular primary sclerosing cholangitis: cholangiocarcinoma
+
+- 30-year-old woman on oestroprogestogenic contraception with no risk factor for chronic liver disease: hepatocellular adenoma
+
+''In the event of a suspected malignant tumour, the diagnostic approach will differ depending on the existence of chronic liver disease, a history of extra-hepatic cancer or its chance discovery''.
+
+
+Liver tumour discovered in a cirrhotic patient or a patient with chronic liver disease in general
+
+In this situation, the 1st diagnosis to evoke is primary liver cancer (HCC or, more rarely, cholangiocarcinoma). CT scan, MRI and liver ultrasound with injection of contrast medium are the reference techniques for providing major arguments in favour of HCC and cholangiocarcinoma.
+
+
+HCC is diagnosed by :
+
+- or biopsy and anatomopathological examination;
+
+- or characteristic radiological findings in cases of known cirrhosis.
+
+The alpha-fetoprotein (AFP) assay is not a diagnostic test, but has prognostic value and is potentially useful for patient follow-up.
+
+
+Liver tumour discovered in a patient being treated for cancer
+
+If one or more liver nodules are found synchronously or metachronously in a patient being treated for cancer, the diagnosis of liver metastasis should be suspected. Imaging can play an important role in raising suspicion of this diagnosis. Where there is a history of cancer, diagnostic management will depend on the type of cancer and the time lag between treatment of the primary cancer and the diagnosis. If there is a long delay between the diagnosis of cancer and the discovery of the liver nodule(s) (generally more than 2-3 years), pathological evidence will most often be required, usually by means of a liver biopsy of a lesion suspected of metastasis. In cases of associated cirrhosis, the possibility of primary liver cancer should always be raised. The possibility of another metastatic cancer is also possible.
+
+
+Liver tumour discovered incidentally on imaging
+
+The action to be taken will depend on the appearance of the lesion on imaging and the findings of the interview and clinical examination.
+
+'''''Diagnostic approach'''''
+
+When a liver tumour is discovered by chance or otherwise on imaging (abdominal ultrasound, abdominal CT scan, abdominal MRI, 18FDG PET scan), the 1st<sup>step</sup> in the reasoning process is to look for chronic liver disease (cirrhosis) by non-invasive means (questioning, clinical examination, biology, radiology, elastometry).
+
+The patient should be referred to a specialist centre to confirm the diagnosis of HCC and manage the associated chronic liver disease. A non-invasive diagnosis of HCC can be made when all the following conditions are met:
+1/ the patient has cirrhosis
+2/ nodule larger than 1 cm in diameter on CT or MRI;
+3/ contrast enhancement of the nodule on arterial contrast;
+4/ washout of the nodule appearing hypodense at portal or late time compared with adjacent liver parenchyma (also known as "wash-out").
+
+In the absence of any evidence in favour of chronic liver disease, a comparison of the clinical data and the radiological findings of the tumour lesion will guide the diagnostic approach (Figure 1).
+
+Biopsy of the liver tumour under radiological control (more rarely surgically) is necessary to confirm the diagnosis of certainty in cases of diagnostic doubt, or to confirm the cancerous nature of the lesion when this is necessary for its management. The procedures for performing a liver biopsy and the risks involved are described in Item 276.
+
+The alpha-fetoprotein (AFP) assay is not a diagnostic test, but has prognostic value and is potentially useful for patient follow-up.
+
+<br />
+[[File:Figure 1 .jpg|thumbnail|Figure 1. Diagnostic approach to a liver tumour]]
+<br />

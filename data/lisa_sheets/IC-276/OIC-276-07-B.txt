@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-276-07-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Title=Modensitometry of typical hepatocellular carcinoma (HCC) in a patient with cirrhosis
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+<gallery perrow="3" caption="CT of hepatocellular carcinoma">
+File:Chc art.png|TDM arterial time
+File:Chc port.png|TDM portal time
+File:Chc without inj.png|CT without injection
+</gallery>

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-211-09-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Know the main causes of secondary granulomatosis
+|Description=Know the 4 main causes: infections, lymphoma/cancer, CVID, drugs
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+'''<u>There are many causes of secondary granulomatosis, but the most common are</u>'''
+
+- Infections (all intracellular infections, particularly mycobacterial infections) ;
+
+- Cancers (including haemopathies, in particular lymphomas) ;
+
+- Immune deficiencies (common variable immunodeficiency (CVID)), to be considered in particular in the case of ''''[[Serum protein electrophoresis analysis SD-193|hypogammaglobulinaemia]]''' ;
+
+- Drugs (in particular infliximab, anti-cancer drugs including immunotherapy) ;
+
+- Other inflammatory diseases: Inflammatory bowel disease (IBD), Granulomatosis with polyangiitis (GPA, formerly Wegener's disease), multiple sclerosis (MS);
+
+- Diseases linked to particulate exposure: berylliosis, silicosis, talcosis.

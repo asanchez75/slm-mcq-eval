@@ -1,0 +1,96 @@
+{{knowledge objective
+|Identifiant=OIC-099-14-A
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=A
+|Title=Knowing the general principles of treatment
+|Description=Migraine, Vascular Algesia of the Face and Trigeminal Neuralgia
+|Rubric=Management
+|Contributors=
+|Order=14}}
+'''<u>1. General principles of migraine treatment</u>'' <u>([[Assessment and management of acute pain SD-259|assessment and management of acute pain]];[[Assessment and management of chronic pain SD-260|assessment and management of chronic pain]]; [[Assessment and management of pain in children and infants SD-261|assessment and management of pain in children and infants)]]</u>
+
+- '''Factors triggering attacks''': encourage a regular lifestyle (sufficient sleep, regular waking hours, balanced and regular meals, optimal hydration, and physical activity) and discourage avoidance behaviour (draconian diets, etc.), which can reduce quality of life.
+
+- There are two types of treatment.
+
+- '''Crisis treatment''': to be taken during each crisis to obtain relief of the headache within 2 hours of intake, without recurrence within 24 hours. There is no treatment to shorten auras ([[Prescribe non-steroidal anti-inflammatory drugs (NSAIDs) SD-249|prescribe non-steroidal anti-inflammatory drugs]]; [[Prescribe analgesics SD-250|prescribe analgesics]]).
+
+o ''Mild onset seizure'': paracetamol.
+
+o ''Mild attacks (if paracetamol fails) and moderate to severe attacks'': an NSAID and a triptan (specific migraine medication) on the same prescription, with advice not to exceed ''2 days a week'' or 8 days a month.
+
+o Effectiveness to be assessed after 3 attacks
+
+- ''Background treatment'': to reduce the frequency and severity of seizures in eligible patients. These treatments will not eliminate the attacks. The objectives are to reduce the number of headache days per month by 50% in the case of episodic migraine and by 30% in the case of chronic migraine.
+
+o Non-specific treatments (beta-blockers, tricyclics, anti-epileptic migraine drugs)
+
+o Slow onset of treatment and assessment of efficacy after 3 months
+
+o If effective, continue for 6 to 12 months, then reduce slowly and gradually to stop
+
+o Specific treatments for severe migraines (8 or more attack days/month) after failure of at least 2 oral treatments: antibodies targeting the CGRP pathway (not reimbursed)
+
+- '''If chronic migraine with drug abuse:'''
+
+o Prescribe background medication
+
+o Advise the patient to wean off the over-used medication on an outpatient basis.
+
+o Prescribe another seizure treatment to manage rebound headache and residual seizures, with advice to aim for 8 days of treatment per month.
+
+- '''For all migraines affecting quality of life:''' non-medicinal treatments (combined or not with medicinal treatments): physical exercise, physiotherapy and/or psychological treatment (cognitive-behavioural therapy, relaxation) are proposed as a complement to medicinal treatment.
+
+
+'''<u>2. General principles of the treatment of tension-type headache</u>''''
+
+- '''Information''': explain to the patient that a state of psychological tension can lead to a headache through excessive muscular tension.
+
+- '''Crisis treatment''': paracetamol, aspirin or NSAID, '''not to exceed 2 days per week'' or 8 days per month. Opiates should be avoided at all costs.
+
+- Background treatment'': indicated in cases of frequent or chronic tension-type headache, this is essentially based on amitriptyline, to be increased very gradually up to the maximum tolerated (10 to 50 mg). Other molecules are also used (venlafaxine, gabapentin, duloxetine).
+
+- '''Withdrawal''' in the event of abuse of analgesics or NSAIDs.
+
+- '''Non-medicinal treatment''': healthy lifestyle, sedentary lifestyle, physiotherapy, relaxation and cognitive and behavioural therapies for stress management.
+
+'''<u>3. General principles of the treatment of vascular facial pain</u>''''
+
+- Reassure and explain'': benign condition but very significant disability possible. ENT, dental and ophthalmological examinations are unnecessary for typical attacks;
+
+- Assess the socio-professional and psychological impact.
+
+- '''General measures''': Alcohol consumption should be avoided. Sleep schedules should be regular, avoiding naps. Smoking cessation is encouraged (but does not lead to recovery).
+
+- There are two types of treatment.
+
+- Crisis treatments" are taken during each crisis to relieve the headache. They do not prevent a new attack from occurring. Two crisis treatments are effective:
+
+o Subcutaneous sumatriptan injection (sumatriptan Sun®, 6 mg/mL) relieves pain in 3 to 15 minutes. The maximum dose is 2 injections per day. Patients can take it every day. Sumatriptan spray is sometimes effective.
+
+o "Oxygen therapy" (12 to 15 L/min for 15 to 20 minutes) using a high-flow face mask is effective and reimbursed. It can only be prescribed by a neurologist, ENT specialist or in an algology centre.
+
+- Background treatments'' are useful in some patients to reduce the frequency and severity of attacks. These treatments will not make the attacks disappear for good.
+
+o ''Verapamil'': first line (120 mg, twice a day) after an ECG to check there are no contraindications. Higher doses are sometimes used.
+
+- '''Other: corticosteroid therapy (if very frequent attacks),''' lithium carbonate (reserved for chronic forms) and '''surgical treatments''' (reserved for drug-resistant chronic forms).
+
+'''<u>4. General principles of the treatment of trigeminal neuralgia</u>''''
+
+- '''Drug treatment''' :
+
+o carbamazepine (400 to 1,600 mg/d), gradually increased, taken 2 or 3 times a day, 1/2 hour before meals. Side effects are frequent in elderly patients (drowsiness, dizziness, ataxia).
+
+o In the event of intolerance, oxcarbamazepine may be used. Baclofen may be used alone or in combination with carbamazepine. Other drugs are sometimes used (lamotrigine, gabapentin).
+
+o This drug treatment is the same whether the neuralgia is classic, secondary (e.g. to MS) or idiopathic (with electrical discharges).
+
+- '''Surgical treatments:''' Surgical treatment is offered in cases where drug therapy has failed.
+
+o Destruction of the trigeminal tract by various techniques: gamma-knife radiosurgery on the emergence of the trigeminal ganglion; thermocoagulation or balloon compression of Gasser's ganglion.
+
+o Surgery to decompress a vascular-nervous impingement: this requires demonstration of a vascular-nervous impingement (strict MRI criteria).
+
+- '''Painful trigeminal neuropathy (including postherpetic pain)''' It is treated in the same way as other focal neuropathic pain, combining local and general treatment (see specific item). If first-line treatments fail, an algological opinion is recommended.

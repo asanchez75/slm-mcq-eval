@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-342-10-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Heading=Know the severity of malaise according to its cause and the monitoring to be undertaken.
+|Description=None
+|Item=Identification of the emergency
+|Contributors=
+|Order=10}}
+Severity linked to the aetiology, particularly cardiac causes - hospitalisation with continuous monitoring of cardiac rhythm
+
+<br />

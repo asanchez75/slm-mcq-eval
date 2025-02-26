@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-347-07-A
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=A
+|Title=Knowing the initial assessment of urinary retention
+|Description=None
+|Rubric=Additional tests
+|Contributors=Jonathan Olivier
+|Order=7}}
+
+* No further tests are required as a matter of urgency.
+* If there is any doubt about the diagnosis, a suprapubic ultrasound may be performed to assess bladder fullness.

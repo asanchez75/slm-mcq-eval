@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-192-04-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the main autoantibody families suggestive of systemic autoimmune disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Amélie Servettaz
+|Order=4}}
+
+
+
+
+=== '''<small>Anti-nuclear antibodies</small>''' ===
+
+*<small>AANs represent a family of autoantibodies recognising cell nucleus antigens</small>.
+*<small>They are very present early (= before clinical signs) in patients with '''connectivitis.''</small>
+*<small>They may be present in '''healthy subjects, and in various contexts outside connectivites (drugs, haemopathies, infections...'').</small>
+*<small>They are rendered in the form of a dilution titre (the titre corresponds to the highest dilution allowing detection of NAA on '''Hep-2 cells''' in a serum). The higher the dilution titre, the greater the amount of NAA in the serum.</small>
+
+{| class="wikitable"
+|+
+!<small>Autoantibodies</small>
+!<small>Systemic lupus erythematosus</small>
+!<small>Other autoimmune diseases</small>
+|-
+!<small>Antinuclear antibodies (ANA)</small>
+|<small>98%</small>
+|<small>30% of RA</small>
+
+<small>80% of GS I</small>.
+
+<small>95% of systemic scleroderma</small>
+|-
+!<small>Native anti-DNA*</small>
+|<small>> 90%</small>
+|<small>-</small>
+|-
+!<small>Anti-Sm*</small>
+|<small>30%</small>
+|<small>-</small>
+|-
+!<small>Anti-U1RNP</small>
+|<small>30%</small>
+|<small>100% Sharp</small>
+
+<small>15% scleroderma, RA, myositis</small>
+|-
+!<small>Anti-Ro/SS-A</small>
+|<small>30%</small>
+|<small>70% of GS I</small>
+
+<small>30% of GSII</small>.
+|-
+!<small>Anti-La/SS-B</small>
+|<small>10%</small>
+|<small>70% of GS I</small>
+
+<small>10% of GS II</small>.
+
+
+
+=== <small>Anti-tissue or anti-cell antibodies</small> ===
+
+*<small>These antibodies are found during organ-specific autoimmune diseases: autoimmune hepatitis, bullous dermatoses.</small>
+*<small>Ex: antimitochondria antibodies: features of primary biliary cirrhosis</small>
+
+=== <small>Anti-IgG antibodies or rheumatoid factors</small> ===
+
+*<small>These are antibodies directed against the '''Fc fragment of immunoglobulin G'' (IgG). In the vast majority of cases they are of the IgM type.</small>
+*<small>These antibodies are present in several rheumatological (e.g. RA) or infectious pathologies and can also be present at very low levels in healthy subjects.</small>
+
+=== <small>Anti-protein/citrullinated peptide antibodies (ACPA)</small> ===
+
+*<small>IgG antibodies are highly specific for rheumatoid arthritis. They appear early and are associated with rheumatoid factors in the most active forms.</small>
+
+=== <small>Antiphospholipid antibodies</small> ===
+
+*<small>These antibodies are found during antiphospholipid syndrome (APS) but also in other contexts (healthy subjects, infections...)</small>
+*<small>The main ones are anticardiolipins (ACL), circulating anticoagulants (ACC) and anti-β<sub>2</sub>-glycoprotein 1 antibodies (anti-β<sub>2</sub>GP1). Lupus-type ACCs are antibodies that induce prolongation of coagulation tests (aPTT) in vitro.</small>
+
+=== <small>Anti-neutrophil cytoplasmic antibodies (ANCA)</small> ===
+
+*<These are antibodies directed against antigens present in the azurophilic granules of neutrophils. They are mainly found in necrotising systemic vasculitides</small>.
+*<small>There are two types of ANCA defined according to the appearance of fluorescence:</small>
+**<small>- cANCA (ANCA causing cytoplasmic fluorescence): these most often correspond to anti-proteinase 3 (PR3) antibodies that can be characterised by ELISA and are highly specific for '''granulomatosis with polyangiitis'''</small>
+**<small>- pANCAs (ANCAs causing perinuclear fluorescence): their target is myeloperoxidase (MPO) approximately one time out of two. MPO antibodies are sensitive markers of systemic vasculitides such as '''microscopic polyangiitis or eosinophilic granulomatosis with polyangiitis.''</small>
+*<small>ANCAs are also detected during certain chronic inflammatory bowel diseases and certain autoimmune hepatopathies. In these cases, the antigens are neither PR3 nor MPO.</small>

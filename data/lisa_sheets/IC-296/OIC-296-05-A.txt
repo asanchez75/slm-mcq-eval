@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-296-05-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=A
+|Title=Knowing the signs on the haemogram
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''- severe neutropenia (PNN < 0.5 G/L): isolated (immunoallergic mechanisms) or pancytopenia (toxic mechanism: cancer chemotherapy)'''
+
+'''- absence of abnormal cells (blasts)'''

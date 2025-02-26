@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-159-10-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Pulmonary radiography in pulmonary tuberculosis disease
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=10}}
+
+'''Summary: Imaging in adults and adolescents looks for vertex involvement. Chest X-rays are less sensitive than CT scans. Tuberculosis disease in children is characterised by intra-thoracic adenopathy and compression of adjacent airways (atelectasis or trapping).'''
+
+Chest X-ray remains the simplest examination but is less sensitive than injection-free chest CT. Imaging identifies preferential involvement of the upper lobes''<u>, or apical segments of the lower lobes,</u>'' in the form of infiltrates that are sometimes excavated, one or more isolated nodules, one or more caverns.
+
+[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]: ''In this context, an imaging examination is essential. Chest X-rays involve negligible radiation, and scans without injections involve little radiation (low-radiation scans). In children, an injection of contrast medium is necessary for good visualisation of adenopathies.''
+
+[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]]: ''in standard radiography we speak of opacity, in CT of density (hypo/hyper). We look for pulmonary lesions in the parenchymal window and adenomegaly in the mediastinal window.
+[[File:PFLA TB.jpg|gauche|''Radiographies de thorax standard de face debout :'' Opacité du lobe supérieur droit (PFLA tuberculeuse)|alt=|vignette|352x352px]]
+[[File:Miliaire_+_excavation.jpg|alt=|vignette|363x363px|''Radiographies de thorax standard de face debout :'''Opacités micronodulaires bilatérales (miliaire) et hyperclarté (excavation) du lobe supérieur droit]]
+<br />

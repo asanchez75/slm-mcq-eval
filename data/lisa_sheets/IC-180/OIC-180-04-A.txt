@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-180-04-A
+|Item_parent=Risques sanitaires liés aux irradiations. Radiation protection
+|Item_parent_short=Risques sanitaires liés aux irradiations. Radiation protection
+|Rank=A
+|Title=Know the definition of radiation protection
+|Description=None
+|Rubric=Definition
+|Contributors=Eléonore Blondiaux,Damien Huglo,Jean-Philippe Vuillez,Jean-François Chateil
+|Order=4}}
+
+'''Radiation protection:''' all the measures implemented to protect against the known or potential harmful effects of ionising radiation.
+
+- In the medical world, radiation protection primarily concerns the patient, followed by professionally exposed staff. Today it extends to the general public and the environment. It is in this context that iodine tablets are distributed to people living near nuclear power stations to ensure effective thyroid protection in the event of an accidental release of iodine-131.
+
+- The overall concept of radiation protection, as expressed by the International Commission on Radiological Protection (ICRP), is to ensure an adequate level of protection for humans, without unduly penalising beneficial practices that expose them to ionising radiation.

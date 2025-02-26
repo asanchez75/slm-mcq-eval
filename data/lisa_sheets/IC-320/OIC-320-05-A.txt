@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-320-05-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Know the four CRAB criteria: hypercalcaemia, renal failure, anaemia, bone lysis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+C = HyperCalcemia : blood calcium > 2.75 mmol/L or >0.25 mmol/L above the normal limit
+
+R = Renal insufficiency: creatinine > 177 µmol/L or clearance < 40 mL/mn
+
+A = Anaemia: haemoglobin < 10 g/dL or > 2 g/dL below the normal limit
+
+B = Bone lesions: >1 osteolytic lesion(s) (>5mm) on X-ray, CT scan or PET-CT scan

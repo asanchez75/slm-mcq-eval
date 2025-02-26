@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-192-08-A
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Title=Knowing biological abnormalities (haemogram and protein electrophoresis)
+|Description=Describe the abnormalities of the haemogram in the course of IJD.
+|Section=Additional tests
+|Contributors=Amélie Servettaz
+|Order=8}}
+
+'''''Blood count abnormalities'''''
+
+- Variable, with multiple mechanisms (inflammation, haemolysis, renal failure, etc.) depending on the context
+
+'''''Inflammatory reaction'''''
+
+- An inflammatory reaction is often observed in systemic autoimmune diseases, particularly during relapses, although this is not always the case.
+
+'''''Immunoglobulin abnormalities'''''
+
+- Polyclonal hypergammaglobulinaemia is very often observed in diseases involving strong activation of B lymphocytes, such as systemic lupus erythematosus or Gougerot-Sjögren's syndrome.
+
+- A monoclonal gammopathy should prompt a search for an associated lymphoproliferative syndrome.

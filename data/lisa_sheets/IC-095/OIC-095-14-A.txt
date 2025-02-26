@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-095-14-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and canal syndrome
+|Rank=A
+|Intitle=Knowing the etiologies of ductal syndromes
+|Description=None
+|Rubric=Etiologies
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=14}}
+
+*Diopathic in the majority of cases
+*Repetitive strain injury: favoured by certain occupations (''cf'' occupational disease table N°57 of the general Social Security scheme)
+*Hormonal factors: pregnancy (last trimester), menopause, etc.
+*Compression due to a reduction in the volume of the container:
+**vicious calcar after radius fracture
+**Exuberant arthrosis
+*Compression by volume increase of the content / "infiltrative" causes:
+**Inflammatory tenosynovitis in rheumatoid arthritis, lupus, scleroderma, gout
+**Microcrystal deposits in chondrocalcinosis
+**Endocrinopathies: hypothyroidism, diabetes, acromegaly
+**Amyloidosis, chronic renal failure on dialysis

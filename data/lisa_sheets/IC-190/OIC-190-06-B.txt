@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-190-06-B
+|Item_parent=Prolonged fever
+|Item_parent_short=Prolonged fever
+|Rank=B
+|Title=Knowing the indication for imaging examinations in cases of prolonged fever
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+
+
+
+
+==''First-line'''==
+o As a minimum: full-face chest X-ray and abdomino-pelvic ultrasound,
+
+o Most often replaced by: thoraco-abdomino-pelvic computed tomography (CT) with injection
+
+o Trans-thoracic echocardiography if endocarditis suspected
+
+o According to clinical context:
+
+§ CT scan of the sinuses
+
+§ Dental panoramic
+
+§ Mammography
+<br />
+
+==''As a second-line treatment or depending on the clinical context'''==
+o Cerebral magnetic resonance imaging (MRI)
+
+o Positron emission tomography (PET)-FDG (fluoro-2-deoxyglucose) CT (<sup>18</sup>).
+
+
+'''In children'''
+
+'''in first intention:'''
+
+chest X-ray, abdominal ultrasound and cardiac ultrasound (to check for complications of kawasaki)
+
+'''in second intention:'''
+
+Depending on the clinical context
+
+- CAT SCAN,
+
+- dental panoramic
+
+- bone scan
+
+- Brain MRI
+
+- PET
+
+<br />

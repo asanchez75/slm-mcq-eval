@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-219-01-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Know the definition of martial deficiency
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Martial deficiency is a lack of iron, which may be linked to a lack of intake, a lack of absorption or excessive loss of iron.
+
+Martial deficiency is the most widespread nutritional deficiency in the world. In countries with a high socio-economic level, deficiency in adults is due in 90% of cases to excess loss through chronic bleeding. In France, martial deficiency affects 25% of women during the reproductive period.
+
+As martial deficiency is associated with non-specific clinical signs, diagnosis is based on plasma levels of martial markers.

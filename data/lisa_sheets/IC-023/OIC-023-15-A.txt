@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-023-15-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=Knowing how to recognise the main complications of pregnancy and how to refer women for appropriate treatment
+|Description=Metrorrhagia, arterial hypertension, gestational diabetes, proteinuria, oedema, uterine contraction, IUGR, absence of active foetal movements
+|Rubric=Positive diagnosis
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=15}}
+
+Know how to spot complications of pregnancy through questioning (active foetal movements, loss of fluid in a pregnant woman before term SD-109|loss of amniotic fluid), headaches, oedema, phosphene, tinnitus, metrorrhagia, leucorrhoea, uterine contractions, pelvic pain) and clinical examination (uterine height, speculum examination or vaginal touch depending on the functional signs).
+
+
+Metrorrhagia in the first trimester: (threat of) miscarriage and ectopic pregnancy / In the 2<sup>nd</sup> or 3<sup>rd</sup> trimester: Placenta inserted low or retroplacental haematoma = urgent opinion ''[[Genital bleeding during pregnancy SD-111|Genital bleeding during pregnancy]]''''
+
+Gravidic hypertension = PAS ≥ 140 mmHg and/or a PAD≥90 mmHg beyond 20 weeks' amenorrhoea ''[[Hypertension in pregnancy SD-053|HTA in pregnancy]]''''
+
+Gestational diabetes = Fasting blood glucose ≥ 0.92 g/L or 1 pathological value on oral hyperglycaemia test with 75g glucose ''[[Gestational diabetes screening SD-304|Gestational diabetes screening]]'''
+
+Proteinuria = significant if ≥ 0.3g/24h or 30mg/mmol ''[[Proteinuria SD-212|Proteinuria]]''''
+
+Oedema = classic sign of late pregnancy in the lower limbs but can be associated with pre-eclampsia especially if it affects the hands and face ''[[Pain, burning, cramps and paresthesia SD-073|Pain burning cramps and paresthesia]]'', [[Heavy legs SD-076|Heavy legs]]'''''
+
+CU = considered physiological at the end of the day and if they occur < 10 times a day. Regular and painful, they should prompt a search for a threat of premature delivery ''[[Uterine contraction in a pregnant woman SD-098|Uterine contractions in a pregnant woman]]'''
+
+Small for gestational age/Intrauterine growth restriction: may be suspected on the basis of low uterine height. Diagnosis is by ultrasound
+
+Absence of active movements = urgent consultation after 20SA
+
+<br />

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-166-14-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Indicators for the flu vaccine
+|Description=None
+|Topic=Flu follow-up and/or prognosis
+|Contributors=
+|Order=14}}
+Vaccine recommended for :
+
+- Over 65s
+
+- Pregnant women
+
+- People, including children aged 6 months and over, with conditions that increase the risk of complications from influenza
+
+- Healthcare professionals
+
+- Professionals in regular and prolonged contact with people at severe risk
+
+- Flight attendants and tourism professionals accompanying groups

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-064-16-B
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=B
+|Title=Knowing the management of non-psychiatric co-morbidities in patients suffering from bipolar disorder, the role of the general practitioner
+|Description=None
+|Rubric=Management
+|Contributors=Marie Tournier
+|Order=16}}
+
+Curative and preventive management of non-psychiatric co-morbidities as part of overall care by the patient's GP
+
+- [[Polymorbid patient follow-up consultation SD-267|Polymorbid patient follow-up consultation]]
+
+- [[Follow-up consultation for a multi-medication patient SD-266|Follow-up consultation for a multi-medication patient]]
+
+- [[Obesity and overweight SDD-051|Prevention of overweight and obesity]]

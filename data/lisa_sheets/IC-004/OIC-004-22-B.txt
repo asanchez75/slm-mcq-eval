@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-004-22-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the principles of a priori prevention
+|Description=Apriori risk management: methods based on process analysis, methods based on compliance with standards, etc.
+|Rubric=Definition
+|Contributors=
+|Order=22}}
+The aim of risk management is to reduce the number of undesirable events associated with healthcare to an acceptable level.
+
+
+The aim of ''a priori''''''' (or proactive) risk prevention is to identify potential risks and try to avoid their occurrence.
+
+
+It involves five stages:
+
+1 ''Selection'' of the risk situation and organisation of the process
+
+2.     Analysis of the situation and identification of risks
+
+3.     Risk assessment and prioritisation
+
+4.     Risk management (preventive action)
+
+5.     Risk monitoring and ''sustainability'' of results.
+
+
+Several complementary analysis methods are available:
+
+
+- Methods based on ''process analysis'': identifying the stages and situations at risk in a care pathway (e.g. by analysing the pathway at the end of a given course of treatment). Mapping processes is often the 1st<sup>rst</sup> step[[Knowing the principles of a priori prevention 2C-004-DE-B05#%20msocom%201|[FR1]].
+
+- Methods based on ''compliance with standards'': quality audit, risk visit, clinical scenario analysis (a team is presented with an event that has actually occurred and asked about the possibility of a similar event occurring within the team: safety barriers present or missing).
+
+- Methods based on ''validated indicators'' (e.g. incidence of nosocomial infections related to the number of days of exposure to risk).
+
+
+----[[Know the principles of Prevention a priori 2C-004-DE-B05#%20msoanchor%201|[FR1]]]I would have added: risk mapping is often represented by a colour-coded table showing the seriousness of the risk on the one hand and the probability of the event or the preventive measures planned on the other.

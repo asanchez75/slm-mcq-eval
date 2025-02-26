@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-335-26-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Know the common and specific clinical signs of the different types of Le Fort fractures
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=26}}
+<u>A disorder of dental occlusion</u> is present whatever the stage of the fracture; functional impotence and epistaxis are frequent
+
+'''Fracture de Le Fort I''''
+
+* Horseshoe-shaped ecchymosis at the back of the upper vestibule.
+* Painful palpation of the floor of the upper vestibule.
+* Isolated, painful mobility of the palatal plateau and the upper dental arch in relation to the rest of the facial mass.
+
+'''Fracture de Le Fort II et III'''
+
+* Loss of nasal root, collapse of the nasal pyramid and
+* Periorbital ecchymosis "like glasses",
+* The face is depressed with global oedema and multiple ecchymoses: typical "lunar" facies.
+* Periorbital subcutaneous emphysema (pneumorbitis), increased in the event of a Valsalva manoeuvre (spontaneous blowing of the nose by the patient, contraindicated).
+* Painful palpation of fracture sites
+* Mobility of the palate, maxillary dental arch and nasal pyramid in relation to the rest of the facial mass.
+* The zygomas are stable in Le Fort II and mobile in Le Fort III.
+* Hypoesthesia in the infraorbital nerve territory (V2).
+* Tearing as a result of damage to the walls of the lacrimal sac. Other visual symptoms (visual disturbance, diplopia) may occur as a result of orbital damage. (Cf item fracture of the orbital floor)
+* Cerebrospinal rhinorrhoea in case of irradiation of the horizontal fracture of the root of the nose at the anterior level of the base of the skull (generally masked by epistaxis).
+* Anosmia in cases of irradiation of the fracture to the sieve plate of the ethmoid.

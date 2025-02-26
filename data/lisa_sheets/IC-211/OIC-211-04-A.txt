@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-211-04-A
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=A
+|Title=Knowing the criteria for diagnosing sarcoidosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''<u>Diagnostic criteria for sarcoidosis</u>''''
+
+1. clinical, biological and radiological picture suggestive of or compatible with sarcoidosis ;
+
+2. histological documentation of epithelioid and gigantocellular granulomas without caseous necrosis (see below);
+
+3. exclusion of differential diagnoses.
+
+Except in cases of Löfgren's syndrome: excellent specificity, so no need for histological documentation.

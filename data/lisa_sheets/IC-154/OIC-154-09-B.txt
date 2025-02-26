@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-154-09-B
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=B
+|Title=Knowing the role of pleuropulmonary ultrasound, particularly in paediatrics
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=9}}
+In adults, in addition to X-rays and CT scans, thoracic ultrasound is particularly useful for detecting pleural effusion associated with pneumopathy.
+
+
+Chest radiography remains the reference tool for diagnosing pneumopathy in children. Ultrasound can occasionally be used to diagnose alveolar condensation, or even pulmonary necrosis, but its role is mainly to determine the volume and whether or not there is a fluid effusion.

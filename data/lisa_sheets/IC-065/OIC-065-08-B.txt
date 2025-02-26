@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-065-08-B
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=B
+|Title=Knowing the general principles of care
+|Description=Refer to items 15; 73; 74
+|Heading=Management
+|Contributors=Pierre Vandel
+|Order=8}}
+
+- Hospitalisation in a psychiatric unit, possibly in [[Explain hospitalisation for psychiatric care at the request of a third party SD-240|care without consent]] at the request of the State representative (SDRE) if there is a risk to personal safety.
+
+- Drug treatment: [[Antipsychotic|antipsychotic]] but limited efficacy, antidepressant if emotional involvement.
+
+- Supportive psychotherapy or systematic CBT.

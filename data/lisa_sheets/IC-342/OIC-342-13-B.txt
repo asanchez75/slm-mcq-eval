@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-13-B
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=B
+|Title=Knowing second-line tests for syncope and lipothymia
+|Description=Implantable ECG monitoring, tilt test, endocavitary electrophysiological study
+|Rubric=Additional tests
+|Contributors=
+|Order=13}}
+Blood ionogram and creatininemia, tilt test, ECG monitoring, endocavitary electrophysiological study

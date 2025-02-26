@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-091-01-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Heading=Define the notion of focal neurological deficit versus diffuse cerebral disorder.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+A focal neurological deficit is the loss of function due to a temporary dysfunction (transient deficit) or lesion (permanent deficit) of a region of the nervous system. It is to be distinguished from a global suffering of the brain as in loss of consciousness, coma ([[Coma and consciousness disorders SD-028|Coma and consciousness disorders]]) or confusional syndromes.

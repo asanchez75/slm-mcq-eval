@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-188-12-B
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=B
+|Title=Know the main characteristics of the obstructive syndrome in functional respiratory examinations (EFR) and how to interpret a peak expiratory flow (PEF).
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=12}}
+o Obstructive ventilatory disorder: FEV1/CV<0.7
+
+o Reversibility: increase in post-bronchodilator FEV1 of more than 200mL ''AND'' ≥12% of the pre-bronchodilator value. Complete reversibility is defined as FEV1/CV≥0.7 and FEV1 >80% post-bronchodilator.

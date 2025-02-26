@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-200-08-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know the main etiologies to be considered in the presence of recent arthritis.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+'''Monoarticular involvement:'''
+
+*infectious: septic arthritis+++.
+*microcrystalline
+*early rheumatic disease
+
+'''Oligo or polyarticular disease:'''
+
+*microcrystalline
+*rheumatic
+*unlikely infectious: possibly viral

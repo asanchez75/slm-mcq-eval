@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-074-24-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Psychostimulants: understanding the main classes and molecules
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=24}}
+The main psychostimulants used therapeutically in France are non-amphetamine psychostimulants. Methylphenidate and modafinil are the two substances in this class to be aware of.

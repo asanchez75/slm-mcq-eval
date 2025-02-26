@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-060-05-B
+|Item_parent=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Item_parent_short=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Rank=B
+|Title=Knowing the role of interactions between environmental and genetic risk factors in the emergence of psychiatric disorders
+|Description=Knowing the role of interactions between environmental and genetic risk factors in the emergence of psychiatric disorders
+|Rubric=Epidemiology
+|Contributors=
+|Order=5}}
+The aetiological model of psychiatric disorders is multifactorial. The emergence of these disorders results from interactions between genetic and environmental risk and protective factors. There is an interaction between a biological/genetic vulnerability and a pathogenic environment. A dynamic set of genetic and environmental factors influence both vulnerability to disease and the clinical expression of disease throughout development.
+
+A genetic risk factor is a genetic variation (one or a combination of several unique genetic polymorphisms) responsible for a genetic predisposition.
+
+An environmental factor is a non-genetic predisposing factor that surrounds the genes (biological, social factors, etc.).

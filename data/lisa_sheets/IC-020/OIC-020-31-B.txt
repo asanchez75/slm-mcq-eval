@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-020-31-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Title=Listing new sources of data for technology-supported medical progress (microbiome, exposome, phenome and epigenome)
+|Description=5.17 New sources of data and emerging technologies
+|Rubric=Definition
+|Contributors=Rosy Tsopras (CIMES),Pascal Staccini (CIMES)
+|Order=31}}
+
+*Human genome: the DNA sequence of an individual.
+*'''Exposome''': all the environmental factors to which an individual is exposed during his or her life
+*'''Phenome''': all the observable characteristics of an individual
+*'''Data -omics from molecular biology'''
+**Example:
+***epigenome: all the epigenetic modifications in a sample
+***transcriptome: set of RNA transcripts in a sample
+***proteome: all the proteins synthesised in a sample
+***metabolome: all the metabolic products synthesised in a sample
+***microbiome: all the micro-organisms that colonise an individual
+
+<br />
+
+*Care data from the hospital information system integrated into health data warehouses.
+**Example:
+***clinical examination
+***drug prescriptions/administration
+***medico-administrative data (PMSI)
+***medical imaging
+***medical biology
+***data from sensors and medical devices (oximeter, EEG, ECG, etc.)
+***anatomopathology
+***other paraclinical examinations
+***reports (consultations, examinations, procedures, hospitalisation, etc.)
+
+<br />
+
+*'''Environmental data'''
+**Example :
+***climate data (e.g. Airparif)
+***Social networks (connection data, likes, images)
+***Search engine data (e.g. Google Trend)
+
+<br />
+
+*'''Data from connected objects (quantify self), m-Health''''
+**Example:
+***connected glucose meter
+***connected scales
+***connected watches
+***smartphones
+
+<br />
+
+* '''Data collected as part of the SNDS (Système National des Données de Santé)'''
+** the Système National d'Information Inter Régimes de l'Assurance Maladie (SNIIRAM), which includes all ambulatory care reimbursement data
+** data from hospitals and other health establishments (PMSI)
+** statistical data on causes of death (CépiDC)
+** data relating to disability

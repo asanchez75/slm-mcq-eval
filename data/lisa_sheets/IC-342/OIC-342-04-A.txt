@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-342-04-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Knowing the elements of the diagnosis of syncope and lipothymia
+|Description=Triggering circumstances, clinical features
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+<gallery widths="420" heights="420">
+File:Fig1Malaise.PNG
+</gallery>loss of consciousness - triggering circumstances - presence or absence of prodromal symptoms - onset during exertion or while lying down - trauma -

@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-025-04-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the clinical diagnosis of EP and the differential diagnosis in case of pelvic pain and/or metrorrhagia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=4}}
+
+"Any woman of childbearing age until proven otherwise".
+
+
+Questioning :
+
+- Identification of risk factors
+
+- Search for delayed menses (DDR?) / unusual menses
+
+- Search for functional signs:
+
+o Pelvic pain, lateralized or not '''([[Pelvic pain SD-099|pelvic pain]], [[Abdominal pain SD-004|abdominal pain]], [[Lumbar region pain SD-036|lumbar region pain]], [[Assessment and management of acute pain SD-259|assessment and management of acute pain]])''''
+
+o Metrorrhagia (dark and scanty, classically "sepia") '''([[Genital bleeding during pregnancy SD-111|genital bleeding during pregnancy]], [[Abnormal genital bleeding (outside known pregnancy) SD-112|abnormal genital bleeding outside known pregnancy]], [[Acute haemorrhage SD-060|acute haemorrhage]])'''''
+
+o Sympathetic signs of pregnancy (nausea, vomiting, breast tension)
+
+o Scapular pain, dizziness, malaise, agitation, anxiety '''([[Palpitations SD-165|palpitation]], [[Tachycardia SD-166|tachycardia]], [[Malaise/loss of consciousness SD-050|malaise loss of consciousness]])''''
+
+
+May (rarely) be asymptomatic.
+
+
+Physical examination :
+
+- Vitantes / Etat hémodynamique : recherche signes de choc hémorragique / saignement : premier signe : tachycardie sinusale +++) '''([[Découverte d'une hypotension artérielle SD-043|découverte d'une hypotension artérielle]], [[Tachycardie SD-166|tachycardie]], [[Anomalies de couleur des extrémités SD-015|anomalie de couleur des extrémités]], [[État de choc. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic|shock]])''''
+
+- Abdominal palpation: pain, lateralized tenderness / tenderness or contracture '''([[Localized or generalized muscle contracture SD-029|localized or generalized muscle contracture]])''''
+
+- Speculum : endo uterine origin of metrorrhagia '''([[Genital bleeding during pregnancy SD-111|genital bleeding during pregnancy]], [[Abnormal genital bleeding (outside known pregnancy) SD-112|abnormal genital bleeding outside known pregnancy,]] [[Acute haemorrhage SD-060|acute haemorrhage]])''''
+
+- Vaginal touch :
+
+o Uterus "too small" for term
+
+o Palpation of an adnexal mass '''([[Pelvic mass SD-106|pelvic mass]])''''
+
+o Sharp pain on palpation of the posterior vaginal pouch (Douglas)
+
+
+Differential diagnoses '''([[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]):''''
+
+- If the BHCG is positive:
+
+o Intrauterine pregnancy
+
+o Spontaneous miscarriage
+
+o Hydatidiform mole
+
+- If BHCG is negative:
+
+o Haemorrhagic corpus luteum cyst
+
+o Genital bleeding (not of endo-uterine origin)
+
+o Upper genital infection
+
+o Dinghy twisting
+
+o Non-gynaecological causes: urological (renal colic / UTI +++) / digestive (appendicitis ++)

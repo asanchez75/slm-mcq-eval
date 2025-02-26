@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-286-05-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+[[File:Antibiotic diarrhoea.jpg|thumb|The 2 mechanisms of antibiotic diarrhoea]]
+The appearance of diarrhoea after taking antibiotics is very frequent (5-10% of prescriptions) and can correspond to 2 main mechanisms
+
+''1/ A pharmacological effect of the drug on digestive motricity'' (clavulanic acid, Erythromycin), diarrhoea appears rapidly after its introduction and ceases on discontinuation. In most cases, antibiotic therapy alters the composition of the microbiota and its fermentation and digestion capacity, leading to the appearance of mild diarrhoea 4 to 6 days after the start of treatment. It subsides rapidly after treatment is stopped.
+
+'''2/ A change in the intestinal flora (most common)'''
+
+More rarely, the depletion of the microbiota and its barrier effect encourages the emergence of pathogens responsible for post-antibiotic colitis:
+
+- Clostridioides difficile: Digestive signs (diarrhoea, abdominal pain, fever) can occur between 7 days after the start of antibiotic therapy and 8 weeks after its cessation. Only toxigenic bacteria are pathogenic. A test for ''Clostridioides difficile in the sell''es and free toxins should be requested if positive (by PCR or ELISA). Pseudomembranous colitis (typical appearance of pseudomembranes on colonoscopy) is a severe form of Clostridioides difficile infection with fever, severe diarrhoea and hyperleukocytosis, which may be complicated by sepsis and colonic perforation.
+
+- Klebsiella oxytoca:'' responsible for haemorrhagic diarrhoea, with ischaemic lesions of the colonic mucosa, appearing a few days after taking antibiotics. Diagnosis is made by directed coproculture, and colitis generally resolves spontaneously and rapidly when antibiotics are stopped.
+
+Clostridioides difficile is highly contagious and can be responsible for nosocomial infections, particularly in establishments for dependent elderly people. Patients suffering from IBD (Crohn's disease and haemorrhagic rectocolitis) or undergoing chemotherapy may have superinfections with Clostridioides difficile without prior exposure to antibiotics (probably due to dysbiosis-disequilibrium of the microbiota).
+
+<br />

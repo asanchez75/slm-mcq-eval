@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-036-09-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Know the elements to explore during the interview and clinical examination before prescribing hormonal and intrauterine contraception.
+|Description=None
+|Rubric=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=9}}
+
+
+== '''Interrogation''' ==
+
+=== Personal and family history ===
+- Cancers: breast cancer, uterus ...
+
+- Venous or arterial thromboembolic episodes
+
+* Hypertension,
+* diabetes
+* '''dyslipidaemia,'''
+* Smoking
+* Obesity
+* '''migraine with or without aura, age'''
+
+- Gynaeco-obstetrical history :
+
+- Taking medication, particularly enzyme inducers
+
+== '''Clinical examination''' ==
+- General
+
+'''- Pelvic''' (not compulsory, particularly for young girls during initial consultations)
+
+'''- Mammary'''.
+
+- Blood pressure measurement
+
+- Calculation of BMI (weight and height).

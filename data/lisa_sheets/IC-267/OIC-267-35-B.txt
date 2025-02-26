@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-267-35-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=B
+|Title=Understanding the mechanisms of hypocalcaemia
+|Description=None
+|Rubric=Physiopathology
+|Contributors=P. Rieu,B. Moulin,M. Flamant
+|Order=35}}
+
+*The concentration of ionised calcium is regulated by two circulating factors: parathyroid hormone (PTH) and active vitamin D (calcitriol). The secretion of PTH by the parathyroid glands depends on whether or not the calcium-sensitive receptor expressed on the membrane of their cells is stimulated: stimulation of the receptor slows down the secretion of PTH. PTH acts by mobilising calcium from the bone mineral phase and increasing tubular reabsorption of calcium (loop of Henle and distal convoluted tubule). PTH inhibits phosphate reabsorption and stimulates calcitriol synthesis in the proximal tubule. Calcitriol (an active metabolite of vitamin D) increases the digestive absorption of calcium and phosphorus.
+*Hypocalcaemia occurs when the net loss of calcium from the extracellular compartment exceeds the calcium intake from the intestine or bone.
+*Hypocalcaemia therefore results :
+**either an increase in calcium losses (deposits in tissues, bone transfer, urinary losses, intravascular chelation),
+**or a reduction in calcium entering the circulation (intestinal malabsorption, reduced bone resorption).

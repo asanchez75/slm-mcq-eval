@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-330-05-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowledge of the correct use of the main therapeutic classes.
+|Rank=A
+|Title=Calcium channel antagonists: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=Jean-Luc Cracowski
+|Order=5}}
+
+=Calcium channel blockers: understanding the mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure=
+
+
+These drugs are commonly called "calcium channel blockers", "calcium antagonists" or "calcium channel blockers", but the more accurate term is "calcium channel blockers".
+
+== '''Drug classes'''==
+
+*Calcium antagonists with a mixed cardiac and vascular effect: verapamil and diltiazem.
+*Dihydropyridines with a predominantly vascular effect; INN "-dipine": e.g. amlodipine, nifedipine, nicardipine.
+
+==''Mechanism of action'''==
+Calcium channel blockers bind to cardiac and/or vascular membrane L-type calcium channels. This binding leads to a reduction in the inflow of calcium into the cardiomyocyte (inotropic, dromotropic and negative chronotropic effect) and/or into the smooth muscle cell (peripheral, coronary and cerebral vasodilatation).
+
+=='''Indications'''==
+
+*Hypertension, as first-line treatment
+*Stable angina
+*Verapamil and diltiazem: paroxysmal junctional tachycardias and certain supraventricular rhythm disorders.
+*Verapamil: post-infarction if beta-blockers are contraindicated
+*Nifedipine: symptomatic treatment of Raynaud's phenomenon
+*Nimodipine: prevention of neurological deficits caused by cerebral vasospasm after meningeal haemorrhage.
+
+==''Undesirable effects'''==
+
+==='''''Dihydropyridines and less frequently verapamil and diltiazem'''''===
+
+*Flushing, headaches
+*Peripheral oedema
+
+==='''''Specific to verapamil and diltiazem'''''===
+
+*Bradycardia, conduction disorders
+*Heart failure
+
+==''Drug interactions'''==
+
+==='''''Dihydropyridines'''''===
+Avoid grapefruit juice, which can cause overdose.
+
+==='''''Verapamil and diltiazem'''''===
+
+*Pharmacokinetic interactions: CYP3A4/5 inhibitors, responsible for multiple drug interactions (atorvastatin and simvastatin, cyclosporine, tacrolimus, sirolimus, everolimus, ergot derivatives, dabigatran, etc.).
+*Pharmacodynamic interactions: contraindicated in combination with beta-blockers, bradycardia drugs, antiarrhythmics, etc.
+
+==''Contraindications'''==
+
+==='''''Verapamil and diltiazem'''''===
+
+*Heart failure
+*Bradycardia, sinus dysfunction and untethered second- and third-degree atrioventricular blocks
+*Wolff-Parkinson-White syndrome
+*Hypotension
+
+==Monitoring methods ==
+Clinical<br />

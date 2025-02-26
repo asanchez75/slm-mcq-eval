@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-159-09-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the additional examinations to be carried out during tuberculosis pulmonary disease
+|Description=Microbiological confirmation of pulmonary tuberculosis
+|Rubric=Complementary examinations
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=9}}
+
+'''Summary: a chest X-ray is essential for diagnosing pulmonary tuberculosis. Microscopic examination of sputum products for BAARs is essential to establish whether the patient is contagious, and culture will enable treatment to be adapted to the antibiogram.'''
+
+When pulmonary tuberculosis is suspected, two types of examination are essential ([[Request/reasoned prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]).
+
+'''An imaging examination''' to authenticate lung involvement and its extent: chest X-ray as the first line of defence, often supplemented by a thoracic CT scan ([[Rédaction de la demande d'un examen d'imagerie SD-230|dréaction de la demande d'un examen d'imagerie]], [[Demande d'un examen d'imagerie SD-231|demande d'un examen d'imagerie]]).
+
+Microbiological tests are essential to establish a definite diagnosis of tuberculosis and to detect whether the patient is contagious. In children, however, this proof is rarely obtained, as the diagnosis is based on a number of arguments (notion of contagion, positive TST or IGRA test, suggestive radiological lesions).
+
+<u>Non-invasive respiratory sampling</u> should be <u>repeated</u> (sputum or alternative methods with sufficient volume ≥ 3 mL, 3 days in a row). Invasive respiratory samples may be taken (gastric aspiration, bronchial fibroscopy). Be sure to specify on the prescription the <u>search for mycobacteria</u> (so that the microscopic examination and culture suitable for the search for mycobacteria are carried out).
+
+<u>Microscopic examination</u> of sputum products is fundamental because it rapidly reveals BAARs which reflects the contagiousness of the patient but, it is not very sensitive (sensitivity threshold ≥ 10<u>^</u>4 bacilli/mL). The [[Discovery of acid-fast bacilli (baar) on SD-188 sputum|discovery of BAAR]] on sputum products requires the implementation of [[Know the Definition and principles of complementary precautions|complementary respiratory precautions type Air]] for the patient (bacilliferous, contagious patient). ''<u>However, the absence of BAAR on direct examination does not exclude contagiousness and in a patient strongly suspected of pulmonary tuberculosis, even in the case of a negative direct examination, respiratory isolation is the rule (culture may prove positive in the days following sampling).</u>''
+
+<Culture</u> (10-15 days in liquid medium) on a suitable medium confirms the diagnosis of tuberculosis disease and enables an antibiogram to be performed (mandatory).
+
+<PCR gene amplification of the tuberculosis complex directly in diagnostic samples has proved to be particularly sensitive and specific in microscopically positive respiratory samples. It should be performed systematically in the event of a positive microscopic examination, to rapidly confirm the diagnosis of tuberculosis and to detect resistant forms of tuberculosis. Its sensitivity decreases when respiratory samples are microscopically negative. Because of the rate of false negatives in the case of negative microscopic examination, a negative PCR does not exclude the diagnosis of tuberculosis and is therefore not a screening test.
+
+<u>Anatomopathology</u> is not essential for diagnosis but when performed, can demonstrate giganto-cellular epithelioid granulomas with caseous necrosis (strongly suggestive but not pathognomonic of tuberculosis). Specific stains can detect BAARs in tissue, but sensitivity is poor and should not replace microbiology.

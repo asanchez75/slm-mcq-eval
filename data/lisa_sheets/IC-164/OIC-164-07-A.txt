@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-164-07-A
+|Item_parent=Febrile rash in children
+|Item_parent_short=Children's febrile panthemas
+|Rank=A
+|Intitle=Infectious eruptive diseases: sudden exanthema
+|Description=epidemiology (B), clinical features (A)
+|Rubric=Etiologies
+|Contributors=Christèle Gras-Le Guen,Emmanuel Grimprel,Elise Launay
+|Order=7}}
+
+'''Epidemiology'''
+
+- HHV6 virus (Herpesviridae family, beta-herpesvirinae subfamily, roseolovirus genus)
+
+- human-to-human transmission via the respiratory route (saliva, droplets)
+
+- primary infection in early childhood, then lifelong latency, with potentially severe reactivation in immunocompromised patients (Herpes virus)
+
+
+Clinical characteristics (primary infection)
+
+'''-'''' incubation 5 to 15 days
+
+often asymptomatic
+
+- symptomatic form (roseola): 2 phases
+
+           - pre-eruptive (invasion): high fever with general signs lasting 1 to 6 days (average 3 days)
+
+           - eruptive: ''maculopapular exanthema'', pink ''pale'', face and trunk, ''fleeting'', 24 hours. Fever disappears with the rash (diagnostic argument).
+
+
+Treatment is symptomatic
+
+Complications are rare (neurological)

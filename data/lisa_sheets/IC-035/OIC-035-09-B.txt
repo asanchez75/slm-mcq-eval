@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-035-09-B
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=B
+|Title=Know the main causes of secondary amenorrhoea
+|Description=None
+|Rubric=Etiologies
+|Contributors=Sophie Catteau-Jonard
+|Order=9}}
+
+A distinction is made between ovarian causes, central causes (hypothalamic-pituitary) and uterine causes.
+
+'''Ovarian causes:'''
+
+* Polycystic ovary syndrome (affecting 5-10% of women of childbearing age)
+* Premature ovarian failure (due to iatrogenic, genetic, autoimmune or idiopathic causes)
+
+
+'''Causes of hypothalamic-pituitary origin'''
+
+* Functional hypothalamic amenorrhoea (FHA) (15% of amenorrhoeas) is diagnosed in the context of ''''[[Amaigrissement SD-017|amaigrissement]] ([[Troubles des conduites alimentaires (anorexie ou boulimie) SD-132|troubles des conduites alimentaires (anorexie ou boulimie)]])'', malnutrition, general illnesses (renal, cardiac or respiratory insufficiency, tumours, absorption disorders, coeliac disease, Crohn's disease, etc.).).
+* Hyperprolactinaemia, often associated with galactorrhoea.
+* Hypothalamic-pituitary tumours or lesions (adenoma, craniopharyngioma, granuloma, hypophysitis, haemochromatosis, history of radiotherapy, etc.).
+* Acromegaly, Cushing's syndrome
+
+
+
+'''Uterine causes:'''
+
+The main cause of secondary uterine amenorrhoea is of course pregnancy, followed by synechiae and cervical stenosis. A history of endo-uterine curettage (by suction or curette), uterine revision, haemorrhagic childbirth, conisation, cervical electrocoagulation, cervical brachytherapy, etc. should be sought on questioning. The diagnosis of synechia is sometimes made on ultrasound, but above all on hysterosalpingography, hysterosonography or hysteroscopy. Genital tuberculosis, which causes characteristic uterine synechiae, has become exceptional in France.

@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-035-05-B
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=B
+|Title=Knowing the clinical consequences of cycle disorders
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Antoine Netter
+|Order=5}}
+
+('''[[Menstrual Cycle Disorder SD-094|Menstrual Cycle Disorder]]''')
+
+
+A normal menstrual cycle lasts between 25 and 35 days, according to the WHO. A distinction is made between :
+
+*amenorrhoea
+*Oligospaniomenorrhoea (cycles > 45 days with generally light menstrual bleeding)
+*Short cycles (< 25 days)
+*Long cycles (between 35 and 45 days)
+*Spotting: frequent discharge of small quantities (drops) of genital blood (almost daily).
+
+
+Outside these periods of pregnancy, lactation and menopause, the existence of regular menstrual cycles testifies to the overall proper functioning of the gonadotropic axis, the ovaries and the integrity of the uterus. Any interruption of the menstrual cycle beyond one month, even after stopping oral contraception, is abnormal and warrants an investigation into the cause.
+
+It is a mistake to initiate oestroprogestogen treatment in an adolescent or a woman presenting with amenorrhoea, without first investigating the aetiology, as this can lead to serious diagnoses being overlooked.
+
+Once a cause has been identified, etiological treatment or, failing that, hormone replacement will be proposed.
+
+Amenorrhoea may be preceded by menstrual irregularities (oligo/spaniomenorrhoea), which have a similar semiological value and require the same aetiological investigation.
+
+
+(''''[[Abnormal genital bleeding (outside known pregnancy) SD-112|abnormal genital bleeding (outside known pregnancy)]])'''''
+
+
+Normal menstruation lasts between 3 and 6 days and corresponds to blood loss of < 80 mL. A distinction is made between :
+
+*Menorrhagia, which is excessive menstrual bleeding in terms of volume or duration.
+*metrorrhagia, which is genital bleeding between periods.
+
+Menometrorrhagia is the combination of menorrhagia and metrorrhagia.
+
+<br />

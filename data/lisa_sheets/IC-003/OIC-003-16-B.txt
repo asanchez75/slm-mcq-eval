@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-003-16-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Know the definition of decision analysis
+|Description=Definitions, foundations, interest and main limitations.
+|Rubric=Definition
+|Contributors=
+|Order=16}}
+Decision analysis is a modelling technique used to tackle complex problems by breaking them down into elementary "lottery" type problems.
+
+It can be used for diagnostic, prognostic or therapeutic purposes.
+
+Decision analysis is based on calculating the average utility of competing strategies: average utility is the sum of the respective utilities of the potential outcomes of a strategy, weighted by their probability of occurrence. It takes into account the performance of a diagnostic test or the effectiveness of a treatment, but also the utility measured, for example, in terms of the impact on quality of life as assessed by patients. Decision analysis can graphically represent the problem analysed by a decision tree.
+[[File:Item 3 fig 1.jpeg|focused|thumbnail|588x588px|Fig. Decision tree modelling the cost-effectiveness of administering a dose of intrarectal artesunate in the pre-hospital management of severe malaria in a child aged under 5 years.
+
+Source: adapted from Tozan Y ''et al. Prereferral rectal artesunate for treatment of severe childhood malaria: a cost-effectiveness analysis. Lancet 2010; 376: 1910-5]]
+
+
+Cost-utility medico-economic analysis is based on the same principles, but incorporates the costs of different options in addition to utility. Strategies can be compared by calculating the additional cost per additional year of life saved, for example.

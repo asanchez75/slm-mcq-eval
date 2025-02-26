@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-290-26-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitle=Knowing the methods of individual breast cancer screening and the organised screening programme
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=26}}
+
+
+== Primary prevention
+The elements that help to reduce the risk of breast cancer are: reducing alcohol consumption, smoking, regular physical activity and a "Mediterranean" diet.
+<br />
+
+== ''Secondary prevention'' ==
+There are several secondary prevention strategies recommended in France for women at moderate risk of breast cancer. It should be noted that breast self-examination is not recommended, as it does not reduce breast cancer mortality. Prevention of female cancers (cervix and breasts) is covered by 2 dedicated consultations, reimbursed at 100%, at ages 25 and 50: the aim is to inform women about their level of risk and the appropriate prevention and screening methods.
+
+
+'''''Mammary palpation for 25 to 50 year olds'''''
+
+The HAS recommends it every year by a health professional. However, there are no studies to prove its benefit in terms of mortality, and several countries (Canada, USA) no longer recommend it, as the risk of false positives is too high and sensitivity is poor (grade D and I). The various studies carried out on breast self-examination have not demonstrated any beneficial effect of screening in terms of breast cancer mortality. However, women should be encouraged to consult their GP or gynaecologist if they discover any changes.
+
+'''''Mammography screening as part of organised screening (women at moderate risk)'''''
+
+This screening is organised and extended to all women at moderate risk aged between 50 and 74. They are invited by letter sent by the regional screening organisation in their department to visit a screening centre for bilateral mammograms with 2 incidences every 2 years. This letter is accompanied by an information letter on the benefits and possible risks of undergoing screening and a prescription for mammograms. The role of the general practitioner, like that of the gynaecologist, is to supplement the information provided in the letter so that these women can make an informed decision.
+
+
+Organised screening should be preferred to individual screening because :
+
+- it's free,
+
+- mammograms that are normal at first reading are given a second reading by another approved radiologist,
+
+- radiologists are trained and mammographs are checked regularly,
+
+- any anomalies detected are followed up until they are dealt with.
+
+
+It would reduce specific breast cancer mortality by 15-21%, with no effect on overall mortality''. Nevertheless, some of the anomalies detected would correspond to cancers that would never have had any consequences (stability or spontaneous involution, etc.).
+
+Among the risks of screening, the risk of death from radiation-induced cancer is of the order of 1 to 10 per 100,000 women who have had a mammogram every 2 years for 10 years.
+
+Uncertainties about the benefit/risk balance of this screening led to the introduction of a major public consultation at the end of 2016, the recommendations of which were either to abolish organised screening or to overhaul it to highlight information about the uncertainties of screening (mainly overdiagnosis and overtreatment). The second scenario has been chosen, and the Institut National du Cancer and GPs (Collège de Médecine Générale and Collège National des Génistes Enseignants) are working on a decision-making tool along the lines of those used in other countries.
+
+
+The future of screening probably lies in risk stratification, with the integration of markers, particularly genetic markers, to allow individual adjustment of the age and frequency of screening.

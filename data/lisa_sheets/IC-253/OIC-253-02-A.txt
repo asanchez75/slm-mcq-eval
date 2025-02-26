@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-253-02-A
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=A
+|Title=Know the definition of obesity and its different grades
+|Description=Differences according to age
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+'''WHO definition''': an excess of body fat leading to adverse health consequences'' [[Cardiovascular risk factors and prevention]]
+
+
+''' In adults:''''
+
+                             Obesity defined by a BMI ≥ 30 kg/m2 (BMI=Weight (in kg)/Height (in m<sup>2</sup>)
+
+                             Gradation of obesity in adults according to BMI
+
+{| class="wikitable"
+|'''Classification'''
+|'''BMI (kg/m<sup>2</sup>)'''
+|-
+|Normal weight
+|18,5 à 24,9
+|-
+|Overweight
+|25 à 29,9
+|-
+|Stage I obesity (moderate)
+|30 à 34,9
+|-
+|Stage II obesity (severe)
+|35 à 39,9
+|-
+|Obesity stage III (massive)
+|≥ 40
+|}
+
+
+
+''' In children:''''
+
+Diagnosis based on the BMI recorded on the weight curves (see health record) of reference girls and boys, according to the international standards of the IOTF (International Obesity Task Force).
+
+- Overweight if BMI above the IOTF 25 curve (corresponds to a BMI of 25 kg/m2 at age 18)
+
+- Obesity if BMI above the IOTF 30 curve (corresponds to a BMI of 30 kg/m2 at age 18)
+<br />

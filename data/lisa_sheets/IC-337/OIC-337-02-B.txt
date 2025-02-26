@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-02-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Know the main intoxications caused by cardiotropic drugs
+|Description=Know the main effects of intoxication by Beta Blockers, calcium channel blockers and digoxin
+|Rubric=Physiopathology
+|Contributors=Dominique Vodovar
+|Order=2}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 2.jpg
+</gallery>

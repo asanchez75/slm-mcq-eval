@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-232-03-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Knowing the epidemiology of AF
+|Description=Prevalence, link with hypertension and heart failure
+|Rubric=Prevalence, Epidemiology
+|Contributors=Jean-Baptiste GUICHARD
+|Order=3}}
+
+AF is the most common supra-ventricular rhythm disorder: 1 in 3 people will develop AF during their lifetime.
+
+'''Epidemiological characteristics''' :
+
+* Male predominance
+* Increasing prevalence with age. ''''
+* Prevalence varies from country to country: role of "ethnicity" and "genetics" in the epidemiology of AF.
+* The prevalence of AF is dependent on AF risk factors (see below).
+* AF is strongly associated with common atrial flutter.
+
+
+Complications of AF :
+
+* AF is responsible for ''¼ of ischaemic strokes''
+* AF can be a cause and/or consequence of '''heart failure''''
+* Cognitive impairment

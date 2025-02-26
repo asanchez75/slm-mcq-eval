@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-301-07-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Knowing the rhythm of surveillance according to the number and size of adenomas
+|Description=None
+|Heading=Monitoring and/or prognosis
+|Contributors=
+|Order=7}}
+Colonoscopic surveillance after endoscopic resection of adenomas depends :
+
+- The number of adenomas
+
+- Their size
+
+- Their nature (urban, scalloped)
+
+- The presence and grade of dysplasia
+
+- The quality of colon preparation at the time of the examination (visibility)
+
+- The clinical context
+
+
+It can vary from 3 months to 5 years depending on the combination of parameters.
+
+In the most common case: If the colonoscopy was of good quality and there are fewer than 3 adenomas, less than 1 cm in size and no dysplasia, surveillance is scheduled every 5 years.
+
+
+The recommendation in force in 2022 :
+
+<nowiki>https://www.fmcgastro.org/texte-postu/postu-2022/recommandations-pour-le-suivi-apres-polypectomie-recommandations-sfed-2021/</nowiki>
+
+<br />

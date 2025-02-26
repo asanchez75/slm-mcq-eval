@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-309-10-A
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=A
+|Title=Knowing the main investigations for diagnosing bronchial cancer
+|Description=None
+|Rubric=Additional investigations
+|Contributors=
+|Order=10}}
+Diagnosis requires ''histological evidence'', which can be obtained from the primary tumour or an easily accessible metastasis.
+
+Depending on its location, the "primary lesion" can be removed by :
+
+- Flexible bronchoscopy, if proximal
+
+- ''Trans-parietal puncture under CT or ultrasound guidance (only if pleural contact)'', if distal
+
+- Surgical removal by thoracoscopy", if it is not accessible by one of the first 2 techniques.
+
+
+Mediastinal lymph node sampling can be obtained by :
+
+- Transbronchial puncture during echo-endoscopy
+
+- Surgical sampling during mediastinoscopy
+
+
+The sampling of a ''metastasis'' depends on the metastatic site (skin biopsy, liver biopsy, bone biopsy, lymph node biopsy, etc.).
+
+
+The histological study of the sample is supplemented by analyses for pre-therapeutic purposes:
+
+- immunohistochemical expression of ''Programmed Death-Ligand 1 (PD-L1)'', involved in the response to immunotherapy
+
+- the search for molecular alterations involving the EGFR, KRAS, ROS and ALK genes, potentially associated with a response to targeted therapies (tyrosine kinase inhibitors)
+
+
+An extension work-up should be carried out as soon as the diagnosis of bronchial cancer is confirmed (see questions 5 & 7).
+
+<br />

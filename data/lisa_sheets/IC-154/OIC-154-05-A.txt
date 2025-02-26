@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-154-05-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Knowing the clinical signs of lower respiratory infections (pneumonia, bronchiolitis, bronchitis)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Cf. previous question: ''Know how to make a clinical diagnosis of lower respiratory infections (pneumonia, bronchiolitis, bronchitis)''.

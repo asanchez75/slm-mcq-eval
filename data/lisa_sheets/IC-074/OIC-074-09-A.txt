@@ -1,0 +1,92 @@
+{{knowledge objective
+|Identifiant=OIC-074-09-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Intitle=Antidepressants: knowing the indications, non-indications and contraindications
+|Description=None
+|Rubric=Management
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=9}}
+
+==Indications==
+
+===Mood disorders===
+
+*Characterised depressive episode: initiation and consolidation phase (cf. [[Bipolar Disorders in Adolescents and Adults|Item 66]]).
+*Recurrent depressive disorder: maintenance phase with the aim of preventing relapses (cf. [[Bipolar Disorders in Adolescents and Adults|Item 66]]).
+
+===Anxiety disorders===
+
+===Other indications depending on the molecule===
+
+*Neuropathic pain
+*Stubborn headaches and migraines
+*Certain sleep disorders (insomnia, enuresis, narcolepsy)
+
+==No indication==
+
+*Adjustment disorder
+
+==Contra-indications==
+<br />
+{| class="wikitable"
+|+ SSRIs: selective serotonin reuptake inhibitors; SNRIs: serotonin and norepinephrine reuptake inhibitors.
+'''Caution'''<nowiki>: monoamine oxidase inhibitors [MAOIs] are a family of antidepressants that are very rarely used. They should not be combined with other antidepressants. </nowiki>
+|'''Class'''
+|'''Imipraminics''''
+|'''ISRS/IRSNA'''
+|'''IMAO'''
+|'''Other'''
+|-
+| rowspan="6" |Absolute
+|Known hypersensitivity
+|Known hypersensitivity
+|Known hypersensitivity<br />
+|Known hypersensitivity<br />
+|-
+|Angle-closure glaucoma
+| rowspan="5" |
+|HTA
+
+| rowspan="5" |
+
+|-
+|Prostate adenoma
+|Pheochromocytoma
+|-
+|Recent heart attack and unstable coronary artery disease
+|STROKE
+|-
+|Decompensated heart failure
+|Polyneuritis
+|-
+|Heart rhythm disorder
+|
+|-
+|Relatives
+|Pregnancy and breastfeeding<br /> Pregnancy and breastfeeding<br /> Pregnancy and breastfeeding
+|Pregnancy and breastfeeding
+|Pregnancy and breastfeeding
+|Pregnancy and breastfeeding<br />
+|-
+|Hepatic and renal insufficiency<br /> Pregnancy and breastfeeding<br /> Pregnancy and breastfeeding
+|Hepatic and renal insufficiency (adjust dosage)<br />
+|A diet rich in tryptophan and tyramine.
+|Hepatic impairment
+(absolute IC for agomelatine) and renal impairment
+|-
+|Epilepsy
+| rowspan="3" |
+
+
+
+<br />
+| rowspan="3" |
+
+| rowspan="3" |
+|-
+|Age over 75
+|-
+|Dementia
+|}

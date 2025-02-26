@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-206-07-A
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=A
+|Title=Front thoracic radiography of pleural fluid effusion
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+
+[[File:Pleural effusion RT 1.jpg|vignette|left pleural effusion]]
+[[File:Pleural effusion RT 2.jpg|vignette|Right pleural effusion associated with nodular opacities and retraction of the right hemithorax]]
+[[File:Pleural effusion CT 1.jpg|vignette|''Thoracic CT scan in mediastinal sections: left pleural effusion of moderate abundance'']]
+[[File:Pleural effusion CT 2.jpg|vignette|''Moderate right pleural effusion associated with nodular circumferential thickening of the pleura suggestive of malignant mesothelioma'']]

@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-222-01-A
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=A
+|Title=Know the definition of primary, secondary and primary/secondary cardiovascular prevention
+|Description=Definition of a risk factor
+|Rubric=Definition
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=1}}
+
+
+*'''Primary cardiovascular prevention:'''
+**<Target population:</u> patients with no detectable cardiac or vascular pathology.
+**<u>Objectives:</u> to reduce the incidence of proven, fatal or non-fatal cardiovascular (CV) events (chronic coronary syndrome (CCS), acute coronary syndrome (ACS), ischaemic stroke (iSVA), obliterative arterial disease of the lower limbs (AOMI), mesenteric angina, renovascular hypertension, CV death.
+**<Therapeutic management of CV risk factors, the intensity of which depends on each individual's level of CV risk.
+*Primary secondary cardiovascular prevention:
+**<u>Target population</u>: patients free of clinically detectable cardiac or vascular pathology but with subclinical atheromatous lesions.
+**<u>Objectives</u>: to prevent the progression and subsequent clinical expression of subclinical lesions.
+**<Means</u>: vigorous therapeutic management of CV risk factors.
+*Secondary cardiovascular prevention:
+**<u>Target population</u>: patients with a history of a clinical CV event.
+**<Objectives</u>: to reduce the risk of recurrence of CV events. Reduce CV morbidity and mortality.

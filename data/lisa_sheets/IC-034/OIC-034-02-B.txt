@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-034-02-B
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=B
+|Title=Knowing how to diagnose hyperthermia during the postnatal period according to aetiology
+|Description=How to diagnose post-partum fever according to aetiology
+|Rubric=Positive diagnosis
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=2}}
+
+The main causes of hyperthermia are: endometritis, upper urinary tract infection, thrombophlebitis, and breastfeeding complications (item 33).
+
+Acute postpartum endometritis
+
+Endometritis is the leading cause of post-partum hyperthermia.
+
+The diagnosis of acute post-partum endometritis is primarily clinical:
+
+- often 3 to 5 days after childbirth moderate fever at 38°C, mild pelvic pain, profuse and foul-smelling (fetid) lochia, sometimes haemorrhagic.
+
+- Poorly involuted uterus that is painful to mobilise, with a gaping cervix and abundant, foul-smelling lochia.  
+
+Additional tests: CBC, CRP, blood cultures, ECBU, pelvic ultrasound, vaginal bacteriological swab.
+
+44. [Hyperthermia/fever SD-044|Hyperthermia/fever]]; 99. pelvic pain SD-099|Pelvic pain]]; 104. [[Leucorrhoea SD-104|Leucorrhoea]]; 186. [Acute or chronic inflammatory syndrome SD-186|Acute or chronic inflammatory syndrome]]; 216. White blood cell abnormality SD-216|White blood cell abnormality]; 223. [Blood count interpretation SD-223|Interpretation of a blood count]]; 178. [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]; 189 [[Analysis of a urine cytobacteriological examination (ecbu) SD-189|Analysis of a urine cytobacteriological examination (ECBU)]].
+
+Acute pyelonephritis
+
+The clinical picture and principles of treatment are identical to those for pyelonephritis outside pregnancy (see specific item).
+
+The warning signs are as follows: urinary frequency, burning, right lower back pain radiating downwards, high fever (38.5°C), cloudy urine, provoked lower back pain, positive urine dipstick (leucocytes, nitrites).
+
+ECBU confirms the diagnosis. Renal ultrasound eliminates an obstacle.
+
+
+44. [Hyperthermia/fever SD-044|Hyperthermia/fever]]; 99 [[Pelvic pain SD-099|Pelvic pain]]; 186. [Acute or chronic inflammatory syndrome SD-186|Acute or chronic inflammatory syndrome]]; 216. White blood cell abnormality SD-216|White blood cell abnormality]; 223. [Blood count interpretation SD-223|Interpretation of a blood count]]; 96. [Urinary burning SD-096|Urinary burning]]; 178. [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]].
+
+Thrombophlebitis of the lower limbs or pelvis (see below): always consider a thromboembolic complication in cases of post-partum fever.
+
+
+Complications of breastfeeding ([[Breastfeeding|cf item 33]])
+
+
+Abnormal wound healing (surgical site infection)
+
+Infection of a perineal scar results in disunion of the wound rather than fever. There may be a perineal haematoma (perigenital haematoma) which favours disunion.
+
+After a caesarean section, you should look for an abscess or wall haematoma.
+
+34. [Acute postoperative pain SD-034|Acute postoperative pain]], 44, [[Hyperthermia/fever SD-044|Hyperthermia/fever]], 99, [[Pelvic pain SD-099|Pelvic pain]] 83. [[Abnormal scar SD-083|abnormal scar]]

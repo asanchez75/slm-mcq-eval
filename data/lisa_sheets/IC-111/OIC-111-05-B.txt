@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-111-05-B
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=B
+|Title=Knowing two clinical forms of acne
+|Description=Neonatal acne, endocrinopathy-related acne
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+
+=== Neonatal acne: linked to maternal androgens, transient and self-limiting. ===
+<br />
+
+=== Acne linked to endocrinopathies: suspect if severe acne resistant to treatment and clinical signs suggestive of hyperandrogenism: hirsutism, alopecia, cycle disorders. Prescribe a hormonal assessment and abdomino-pelvic ultrasound ===
+<br />

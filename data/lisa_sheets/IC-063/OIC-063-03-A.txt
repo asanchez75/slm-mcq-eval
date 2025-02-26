@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-063-03-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Title=Knowing the clinical dimensions of schizophrenia
+|Description=Positive, negative and disorganisation dimensions
+|Rubric=Definition
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=3}}
+
+Positive syndrome: [[Delusional ideas SD-124|delusional ideas]] and [[Hallucinations SD-122|hallucinations]]
+
+Negative syndrome: impoverishment of psychological and emotional life
+
+Disorganisation syndrome: loss of psychological unity between emotions, cognition and behaviour
+
+Impaired cognitive function

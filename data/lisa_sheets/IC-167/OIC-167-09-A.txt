@@ -1,0 +1,128 @@
+{{knowledge objective
+|Identifiant=OIC-167-09-A
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral Hepatitis
+|Rank=A
+|Title=Knowing the evolution of viral hepatitis
+|Description=None
+|Rubric=Monitoring and/or prognosis
+|Contributors=
+|Order=9}}
+'''Acute viral hepatitis'''
+
+
+The prognosis for acute hepatitis depends on the cause.
+
+Viral hepatitis is mostly asymptomatic (90% of cases) and benign.
+
+The following table shows the incubation period for the various viral hepatitises, the frequency of fulminant hepatitis and the frequency of transition to chronicity for those concerned.
+{| class="wikitable"
+|
+|'''Incubation period''''
+(days)
+|'''Fulminant hepatitis'''
+(% of symptomatic forms)
+|Passage to chronicity (days)
+
+|-
+|A
+|10-45
+|0,5%
+|Never
+|-
+|B
+|60-150
+|1%
+|5-10% adults
+
+90% newborns
+|-
+|C
+|15-90
+|Exceptional
+|80%
+|-
+|D
+|30-45
+|1-5%
+|HBV function
+|-
+|E
+|10-40
+|<5%*
+|60% in cases of immunosuppression
+|}
+''*Mainly in cases of underlying chronic liver disease in France''
+
+
+'''Chronic viral hepatitis'''
+
+Most chronic hepatitis (viral and non-viral) can progress to cirrhosis and primary liver cancer.
+Among chronic viral hepatitis, the one most at risk of cirrhosis and liver cancer is hepatitis D.
+
+Natural history of chronic viral hepatitis B
+
+
+The natural history of hepatitis B is the most difficult to understand because it is not linear over time. This is because liver lesions are linked to the immune status of the host. The natural course therefore varies according to age at infection, and then fluctuates over the course of a lifetime.
+
+Several virological blood markers can be used to identify the phases:
+
+- The HBs system, comprising the HBs antigen (Ag) and anti-HBs antibodies. The presence of HBsAg indicates the presence of the virus, whether the infection is acute (anti-Hbc IgM) or chronic (anti-Hbc IgG). Anti-HBs antibodies appear when the infection is "resolved" (in which case they are associated with anti-HBc antibodies). Anti-HBs ACs are also present in vaccinated patients (in this case they are isolated without anti-HBc ACs).
+
+- Viral load measured by quantitative PCR to detect the DNA of the virus and its level of replication
+
+
+Chronic B viral infection is defined as prolonged carriage (>6 months) of HBsAg.
+
+- When contamination occurs at birth, the risk of chronic infection is high in the absence of sero-vaccination.
+
+- When infection occurs in adulthood, only 5-10% of patients develop a chronic infection.
+
+
+Regardless of the age of infection, chronic HBV infection progresses in phases, during which liver damage is inconsistent. Some patients develop chronic hepatitis, with a risk of cirrhosis and hepatocellular carcinoma. Others have little or no histological damage to the liver. There is a risk of viral reactivation, which manifests itself as acute hepatitis.
+
+The disappearance of HBsAg is associated with a significant reduction in complications. However, there is a risk of reactivation of the virus, particularly in cases of immunosuppression.
+
+
+Table: HBV serological profiles
+{| class="wikitable"
+|+
+Serological markers
+|Acute hepatitis B
+|'''Chronic carriage'''
+|'''Cured B infection'''
+|Effective vaccination
+|'''Patients to vaccinate'''
+|-
+|HBsAg
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|AC anti-HBc
+|<nowiki>+</nowiki>
+
+(IgM anti-HBc)
+|<nowiki>+</nowiki>
+
+(IgG anti-HBc)
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|AC anti-HBs
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/ -</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|}
+
+
+'''Natural history of chronic viral hepatitis C'''
+
+HCV infection can be acute, and around 20% of patients will recover spontaneously.
+
+In the case of chronic infection (80% of patients), the risk is that fibrosis will progress over time, culminating in cirrhosis in 10-20% of cases after 20 years. The risk is all the greater and more rapid when there are cofactors such as another viral infection (HBV, HIV), chronic alcohol consumption or a metabolic syndrome.

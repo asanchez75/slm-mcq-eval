@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-076-08-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Know how to diagnose acute alcohol intoxication with or without ethyl coma (differential diagnosis) and look for associated metabolic disorders.
+|Description=Make a clinical diagnosis, rule out differential diagnoses, look for hypoglycaemia, aciodoketosis, hyponatraemia, etc.
+|Rubric=Identify the emergency
+|Contributors=
+|Order=8}}
+High individual variability of effects.
+
+<nowiki>*</nowiki> in low doses, disinhibiting and euphoric effect:
+
+o characteristic breath (oenolic) ;
+
+o injection of the conjunctiva ;
+
+o joviality or sadness, logorrhea, disinhibition, aggression;
+
+o Prolonged reaction time, dysarthria, acute cerebellar syndrome. 
+
+<nowiki>*</nowiki> at higher doses, depressant effect: disturbances in perception, judgement, affect, cognitive faculties and behaviour. 
+
+<nowiki>*</nowiki> [[Coma and disorders of consciousness SD-028|coma]] ethylic: calm coma, with arterial hypotension, hypotonia, hypothermia, bilateral mydriasis, symmetrical, not very reactive and without signs of localization. 
+
+o Diagnosis based on anamnesis and characteristic breath odour
+
+o check of vital signs, systematic neurological examination
+
+o Biological work-up and brain imaging if there is any doubt.
+
+o confirmed by blood alcohol level (by blood test or breathalyser) and signs regress within a few hours
+
+o Eliminate differential diagnoses +++: hypoglycaemia, hyponatraemia, alcoholic ketoacidosis, other psychoactive substances, head trauma, cerebral haemorrhage, cerebral ischaemia.
+
+
+
+
+
+ 
+
+Think about it in the event of a [[Fall in the elderly SD-027|fall]] in the elderly, an accident or an attack.

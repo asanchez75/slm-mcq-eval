@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-021-03-B
+|Item_parent=Measurement of population health status
+|Item_parent_short=Measurement of population health status
+|Rank=B
+|Intitle=Know the definition of Standardisation
+|Description=Know how to define it, recognise it and interpret standardised rates, SMR or SIR
+|Section=Definition
+|Contributors=Loïc Josseran
+|Order=3}}
+
+Descriptive surveys can give rise to comparisons between two or more different populations (in time or space). However, this is only possible if the populations are comparable. Indeed, the specific characteristics of populations (age structure, gender distribution) strongly influence the occurrence of health problems and preclude any comparison from the outset.
+
+
+This '''comparability''' of observations '''is obtained by standardising data, which may be direct or indirect.'''
+
+- Direct standardisation'' (standard population method) involves applying the age-specific mortality rates of the population studied to the numbers in each age group in the reference population.
+
+We then obtain the total number of corresponding deaths and the overall rate, known as the standardised mortality rate (''SMR'').
+
+
+- Indirect standardisation'' (standard mortality method) is used to compare mortality between a small study population and a large reference population. It consists of ''comparing the number of deaths expected'' in the small population if the mortality rates for each age group in the large population (considered as the reference population) are applied to the ''number of cases observed'' in this small population.
+
+The ratio of the number of cases observed to the number of cases expected in a small population is called the standardised mortality or incidence ratio, often referred to as the SMR (standardized mortality ratio) or SIR (standardized incidence ratio).
+
+- If the SMR is 1, mortality in the population studied is ''identical'' to the reference.
+
+- if it is less than 1, mortality is ''lower'' in the population studied;
+
+- if it is greater than 1, it is stronger.
+
+By convention, the result is multiplied by 100 to obtain a percentage of observed deaths compared with expected deaths. For example, an SMR of 150% indicates an excess mortality of 50% in the population studied compared with the reference population.
+
+<br />

@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-279-07-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Item_parent=Cirrhosis and complications
+|Description=Table of causes and etiological arguments
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+
+Identifying the cause of cirrhosis is of major importance, as its treatment can alter the natural history of the disease.
+
+The most common causes of cirrhosis and diagnostic arguments are listed in the table below.
+
+{| class="wikitable"
+|Causes of cirrhosis
+|Diagnostic evidence
+|-
+| colspan="2" |'''Common causes'''
+|-
+|Excessive alcohol consumption
+|History of excessive drinking, ASAT/ALAT ratio ≥ 2, elevated gamma-GT contrasted with subnormal alkaline phosphatase, alcoholic hepatitis on histology.
+|-
+|Metabolic pathology
+|Overweight, diabetes, hypertension, dyslipidaemia, histological data
+|-
+|Chronic hepatitis C
+|HCV antibody, HCV RNA by PCR in serum
+|-
+|Chronic hepatitis B
+|HBsAg, HBV DNA by PCR in serum
+|-
+| colspan="2" |'''Less common causes'''
+|-
+|Genetic haemochromatosis
+|Transferrin saturation coefficient > 45%, homozygous C282Y mutation of the ''HFE'' gene, +/- hyperferritinaemia
+|-
+|Primary biliary cholangitis
+|Terrain (middle-aged woman, associated autoimmune conditions), cholestasis, M2-type anti-mitochondrial AC, +/- histological data
+|-
+|Primary sclerosing cholangitis
+|Background (young man, associated chronic inflammatory bowel disease), cholestasis, diffuse cholangitis on imaging (bili-MRI or retrograde cholangiography),
+|-
+|Autoimmune hepatitis
+|Territory (female, associated autoimmune diseases), marked cytolysis, hypergammaglobulinaemia developed at the expense of IgG, high anti-tissue AC titre, histological data, etc.
+|-
+|Secondary biliary cirrhosis
+|History of prolonged obstruction of the bile ducts
+|-
+|Chronic hepatitis B-delta
+|HBsAg, anti-HDV AC, HDV RNA
+|-
+|Budd-Chiari syndrome
+|Liver vein obstruction on imaging, prothrombotic disease
+|-
+| colspan="2" |'''Rare causes require specialist advice'''
+|}
+The blood tests to be systematically carried out as a first-line procedure in the etiological diagnosis of cirrhosis are: hepatitis C and hepatitis B serologies, fasting glycaemia, cholesterol, triglycerides, fasting ferritinaemia and transferrin saturation coefficient, plasma protein electrophoresis.
+
+Second-line treatment: delta serology (VHD) if HBsAg positive, anti-tissue antibodies (anti-nuclear, anti-smooth muscle, anti-LKM1, anti-mitochondrial antibodies).

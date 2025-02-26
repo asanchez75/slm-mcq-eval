@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-082-12-B
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=B
+|Title=Knowing the differential diagnoses of migraine aura
+|Description=Retinal detachment, glaucoma, vitreous haemorrhage
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+A migraine aura must be differentiated from other transient visual disorders: transient monocular blindness, phosphenes.
+
+'''Neurological differential diagnoses:''''
+
+- transient ischaemic attacks (in rare cases accompanied by positive visual phenomena resembling migraine aura)
+
+- partial occipital epilepsy
+
+- symptomatic migraines (secondary to a neurological cause, such as intracerebral vascular malformations)
+
+
+'''Ocular differential diagnoses:''' processes that can produce positive visual phenomena such as photopsia or myodesopsia
+
+- retinal tear, posterior vitreous detachment, rhegmatogenous retinal detachment
+
+- vitreous haemorrhage
+
+- posterior uveitis (hyalitis, retinal lesions)

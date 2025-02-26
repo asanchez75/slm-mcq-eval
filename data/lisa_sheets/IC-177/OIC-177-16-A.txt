@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-177-16-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Cite viruses for which anti-viral treatment is available
+|Description=None
+|Section=Definition
+|Contributors=Morand-Joubert Laurence
+|Order=16}}
+
+* Influenza virus
+* Respiratory syncytial virus (RSV)
+* Hepatitis viruses : Hepatitis B (HBV), Hepatitis C (HCV)
+* Herpes viruses: Herpes Simplex Virus (HSV-1, HSV-2), Varicella Zoster Virus (VZV), Cytomegalovirus (CMV), Human Herpes Virus 6 (HHV-6)
+* Human immunodeficiency viruses: HIV-1, HIV-2

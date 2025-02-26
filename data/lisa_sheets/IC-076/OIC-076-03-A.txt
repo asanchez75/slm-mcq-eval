@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-076-03-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Knowing the comparative elements of dependence (ICD 11) and alcohol use disorder (DSM5)
+|Description=Dependence (ICD 11) corresponds to moderate to severe alcohol use disorders (DSM5).
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+DSM-5 defines "alcohol use disorder" as mild, moderate or severe, using the same criteria as the ICD.
+
+Dependence (ICD) corresponds to moderate and severe "alcohol use disorder" (DSM-5). <br />

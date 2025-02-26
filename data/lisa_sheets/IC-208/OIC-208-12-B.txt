@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-208-12-B
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=B
+|Title=Knowing the medico-social implications of CKD (Long Term Disability)
+|Description=None
+|Rubric=Prise en charge
+|Contributors=
+|Order=12}}
+Severe CKD (Pa02<60mmHg) entitles the patient to exemption from co-payment under ALD 14.

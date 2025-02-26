@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-298-01-A
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=A
+|Title=General anatomy of cancers of the upper aerodigestive tract (UADT)
+|Description=Know the different anatomical regions of the cervicofacial sphere that may be affected by cancer.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+The upper aerodigestive tract (UADT) comprises various anatomical structures:
+
+           - the nasal cavities: two air cavities separated by the nasal septum. They are bounded at the back by the choanae, which mark the entrance to the nasopharynx.
+
+           - the sinuses: air cavities named after the bone in which they are located, of which there are 8: 2 maxillary sinuses, 2 frontal sinuses, 2 ethmoidal sinuses and 2 sphenoidal sinuses.
+
+           - the oral cavity: includes the lips, gums, mobile tongue, inner surface of the cheeks, buccal floor and bony palate. Its posterior limit passes through a line including the lingual V, the anterior pillars of the tonsils and the junction between the bony palate and the membranous palate (isthmus of the gullet). Behind this boundary is the oropharynx.
+
+           - the pharynx: divided into 3 stepped parts, from top to bottom: the rhinopharynx (or nasopharynx or cavum) behind the nasal cavities, the oropharynx behind the oral cavity and under the rhinopharynx, and the hypopharynx behind the larynx and under the oropharynx. The lower limit of the hypopharynx is marked by the upper sphincter of the oesophagus or oesophageal mouth. The oropharynx includes the tonsils and the base of the tongue, while the hypopharynx includes the piriform sinuses.
+
+           - the larynx: this is divided into 3 stepped parts, with, from top to bottom: the supraglottis (or laryngeal vestibule) comprising the laryngeal margin, epiglottis and ventricular bands, the glottis comprising the vocal cords, and the subglottis which continues down towards the trachea.

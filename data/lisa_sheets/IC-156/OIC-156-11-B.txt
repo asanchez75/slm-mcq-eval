@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-156-11-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Knowing the complications of acute septic arthritis
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Dr Florent Valour
+|Order=11}}
+- Sepsis, septic shock
+
+- Abscesses of adjacent soft tissue
+
+- Contiguous osteitis
+
+- Joint destruction with functional sequelae
+
+- Linked to bacteremia: infective endocarditis, other secondary localizations

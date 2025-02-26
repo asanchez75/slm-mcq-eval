@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-258-04-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Cite the circumstances in which creatinemia should be measured
+|Description=None
+|Heading=Management
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=4}}
+
+[178 Circumstances in which creatinine should be measured according to the French National Authority for Health (Haute Autorité de Santé)
+{| class="wikitable"
+|
+|Diabetes, hypertension whether treated or not, age > 60 years; obesity (BMI > 30 kg/m2) ;
+
+Atheromatous cardiovascular disease, heart failure ;
+
+Systemic or autoimmune diseases (lupus, vasculitis, rheumatoid arthritis);
+
+Urinary tract abnormality, urological disease (obstructive uropathy, recurrent urinary tract infections, etc.)
+
+History of acute renal failure; family history of renal disease
+
+Exposure to occupational toxins (lead, cadmium, mercury); previous nephrotoxic treatment (NSAIDs, exposure to iodinated contrast media, chemotherapy, radiotherapy, etc.).
+|}

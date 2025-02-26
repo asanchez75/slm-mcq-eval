@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-341-04-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=To know the strategy of complementary exploration in front of a clinical picture evocative of meningeal haemorrhage
+|Description=Indication
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The strategy for additional investigations in the face of a clinical picture suggestive of meningeal haemorrhage is presented in figure 1 ("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]''", "''[[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]'''").
+[[File:Figure 1. Strategy for further investigation of a clinical picture suggestive of meningeal haemorrhage.jpg|vignette|Figure 1. Strategy for further investigation of a clinical picture suggestive of meningeal haemorrhage]]

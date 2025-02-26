@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-291-06-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the definition of tumour heterogeneity
+|Description=Defining the concept of tumour genetic heterogeneity
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+The process of sequential acquisition of molecular alterations is not linear. It develops like a tree with many branches ("branching evolution"), each new branch corresponding to the acquisition of a new molecular alteration.
+
+In the end, the ''tumour will be made up of several tumour sub-clones'', some of which will make up the majority. This is known as tumour heterogeneity. This heterogeneity is reinforced by metastatic dissemination, which requires the acquisition of migratory and invasive capacities and adaptation to a new tissue environment that is often very different from that of the primary site. The selection pressure exerted by the organism will lead over time to the elimination of some of these branches or, on the contrary, favour the development of others. Similarly, under the effect of an "anti-tumour treatment", the most sensitive clones will be eliminated first, while other clones that have acquired the capacity to resist this cytotoxic treatment during their evolution will be favoured. This is particularly true of targeted therapies used as monotherapy, which inevitably lead to the "emergence of resistant tumour clones".
+
+Alterations that occur early and play an essential role in cell transformation are found in all tumour clones, whereas those that occur later in the course of tumour development are shared by only one or a few clones. It is therefore particularly interesting to identify these early mutations so that the tumour as a whole can be treated more effectively.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-177-07-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the oral third-generation cephalosporins.
+|Description=Cefpodoxime, cefixime
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=7}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Oral 3rd<sup> generation</sup> cephalosporins''''
+
+'''(molecules: cefpodoxime, cefixime)''''
+|Beware of their significant ecological impact
+
+Acute pyelonephritis (as a relay to an injectable form), acute bacterial sinusitis in adults, group A streptococcal angina, acute bronchial suppurations in subjects at risk, exacerbations of chronic obstructive bronchitis, acute otitis media in children.
+|Hypersensitivity to the active substance or to one of the excipients.
+|Gram-positive bacteria (streptococci), group 0, 1 and 2 Enterobacteriaceae
+|Allergic reactions, abdominal pain, diarrhoea, nausea, vomiting, tinnitus, headache, dizziness, elevation of AST and ALAT.
+
+
+Interactions: anti-H2 and antacids
+|}

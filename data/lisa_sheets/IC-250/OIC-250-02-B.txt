@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-250-02-B
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=B
+|Title=Knowing the risk factors for undernutrition in adults
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+When it comes to undernutrition, we talk about risk situations rather than risk factors.
+
+At-risk situations include all severe or chronic pathologies in which intakes do not cover nutritional requirements.
+
+An energy deficit occurs when the input is chronically less than the output.
+
+A decrease in entries corresponds to two situations:
+
+reduced food intake (by far the most common situation)
+
+digestive malabsorption.
+
+An increase in outflows can result from
+
+an increase in total daily energy expenditure (which is rare)
+
+a loss of energy substrates
+
+digestive losses (exudative enteropathy),
+
+urine loss (glycosuria, nephrotic syndrome)
+
+skin losses (extensive skin lesions including burns).
+
+<br />

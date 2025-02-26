@@ -1,0 +1,25 @@
+{{knowledge objective
+|Item_parent= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Rank=B
+|Title=Know the definition of a mild, moderate or severe head injury.
+|Description=according to Glasgow score
+|Rubric=
+|College=Anesthesia and Intensive Care (CNEAR),
+|Contributors=
+|Order=51
+|Identifiant=OIC-334-51-B
+|Item_parent_short= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims of the limbs and/or ...
+}}
+Head trauma :
+
+*minor: Glasgow ≥ 13
+*moderate: Glasgow between 9 and 12
+*severe: Glasgow ≤ 8
+
+Bear in mind the dynamic nature of this classification: the severity stage changes according to the fluctuation in the state of consciousness.
+
+Each component of the Glasgow score must be reported separately (ocular, verbal and motor) as they do not have the same prognostic value.
+[File:Glasgow score.jpg|vignette|Glasgow score]]
+The presence of localised signs is a sign of severity. The presence of unilateral or bilateral mydriasis should suggest a neurosurgical emergency, linked to temporal involvement or a major drop in cerebral blood flow.
+
+("''[[Coma and disturbed consciousness SD-028|coma and disturbed consciousness]]'''")("''[[Head injury SD-172|head injury]]'''")

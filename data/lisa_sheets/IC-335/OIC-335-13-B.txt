@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-335-13-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Know the definition of a fracture of the zygoma
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=13}}
+Fractures of the zygoma are laterofacial fractures always associating 3 fracture sites:
+
+- fracture of the anterior wall of the maxillary sinus radiating upwards towards the floor of the orbit and downwards towards the zygomatomaxillary arch;
+
+- fracture of the temporal process of the zygoma
+
+- fracture of the frontal apophysis of the zygoma (generally opposite the fronto-zygomatic suture)

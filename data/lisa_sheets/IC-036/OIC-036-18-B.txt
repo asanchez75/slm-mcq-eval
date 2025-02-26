@@ -1,0 +1,85 @@
+{{knowledge objective
+|Identifiant=OIC-036-18-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Knowing how to prescribe contraception for women at vascular risk
+|Description=None
+|Heading=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=18}}
+
+A distinction must be made between different clinical situations
+
+=== Women who have had a venous vascular accident and/or women with biological thrombophilia ===''- Contraindication for all estrogen-progestogen contraceptives, regardless of route of administration.
+Contraindication of all estrogen-progestogen contraceptives, whatever the route of administration''''
+
+'''- Authorised contraception''' :
+
+* progestin-only contraception (excluding intra-muscular contraception)
+* IUDs containing copper or small doses of levonorgestrel.
+* Barrier contraception is of course possible, but is less effective.
+
+=== Women who have had an arterial accident (MI, ischaemic stroke) ===
+The contraceptive strategy is the same as for venous accidents, but it is preferable to use non-hormonal contraception as a first-line treatment.
+
+=== Women with vascular risk factors ===
+the contraceptive strategy for UCCs depends on the type and number of vascular risk factors (summary table below) VRF= Vascular risk factors
+{| class="wikitable"
+|+
+{| class="wikitable"
+!'''Venous risk factors''''
+!'''Use of estroprogestogenic contraception'''
+|-
+|'''Age > 35 years'''
+|Possible if no other risk factors
+|-
+|'''Overweight - obesity'''
+|Possible if no other FDRV
+|-
+|Known biological thrombophilia
+|Contraindication
+|-
+|'''1st degree family history of VTE before the age of 50'''
+|Contraindication
+|}
+!'''Arterial risk factor''''
+!'''Use of estroprogestogenic contraception'''
+|-
+|'''Age >35 years'''
+|Yes in the absence of other HRT
+|-
+|'''Overweight - obesity'''
+|Yes, in the absence of other DRFs
+|-
+|Smoking > 15 cig/day
+|Yes, in the absence of other DRFs
+|-
+|Simple migraine
+|Yes, in the absence of other DRVs
+|-
+|Type II diabetes
+|Yes, in the absence of other HRT, but as second-line treatment (1<sup>rst</sup> choice: microprogestogen contraception or copper IUD).
+|-
+|'''Controlled dyslipidaemia''''
+|Yes in the absence of other HRT
+|-
+|'''Controlled dyslipidaemia but occurring during use of combined contraception'''
+|Relative contraindication if dyslipidaemia occurs with CHC
+|-
+|Insulin-dependent diabetes'''
+|Contraindicated if diabetes > 20 years or if vascular complications
+|-
+|'''Family history of 1<sup>st</sup> degree MI or stroke before 55 years (Male) or 65 years (Female)''''
+|Contraindication
+|-
+|Arterial hypertension
+|Contraindication
+|-
+|Uncontrolled dyslipidaemia
+|Contraindication
+|-
+|Migraine with aura
+|Contraindication
+|}
+<br />

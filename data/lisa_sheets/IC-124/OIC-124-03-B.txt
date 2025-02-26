@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-124-03-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Know the definition and diagnosis of premature ovarian failure.
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=3}}
+
+Premature ovarian failure (POI) is defined by
+
+- primary or secondary amenorrhoea lasting more than 4 months
+
+- '''before the age of 40'''
+
+- associated with an ''increase in pituitary gonadotropins''.
+
+Diagnostic confirmation is based on an increase in FSH > 25 IU/l combined with estradiol < 20 pg/ml on 2 occasions 4 weeks apart.
+
+Its prevalence is around 1 to 2%.
+
+Familial forms account for 10-15% of cases, but in 80% of cases no aetiology is found.
+
+The main causes of POI are :
+{| class="wikitable"
+|'''Causes'''
+|'''Pathologies'''
+|'''Mechanisms'''
+|-
+|'''Genetics'''
+|Turner Syndrome
+
+Premutation of the FMR1 gene
+
+Other genetic causes : ''Gonadal dysgenesis ...''
+<br />
+|Acceleration of apoptosis
+<br />
+|-
+|'''Auto-immune'''''
+|Type I (APECED) and type II polyendocrinopathy
+
+POI associated with other autoimmune diseases
+
+Isolated ovarian failure
+|Blockage of follicular maturation
+|-
+|Toxicology
+|Chemotherapy
+
+Radiotherapy
+|Acceleration of apoptosis
+<br />
+|}

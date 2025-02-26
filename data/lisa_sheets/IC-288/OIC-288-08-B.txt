@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-288-08-B
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=B
+|Title=Knowing the differential diagnosis of external haemorrhoidal thrombosis
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+
+Cf: '''[[2C-288-DP-B01]]''''

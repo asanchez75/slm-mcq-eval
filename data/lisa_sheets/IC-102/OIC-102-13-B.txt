@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-102-13-B
+|Item_parent=Diplopia
+|Item_parent_short=Diplopia
+|Rank=B
+|Title=Knowing the ophthalmological causes of monocular diplopia
+|Description=photo of cataract, corneal cleft
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=13}}
+Monocular diplopia persists with occlusion of the healthy eye and disappears with occlusion of the pathological eye. This may be due to :
+
+'''- corneal''' by diffraction of light rays: corneal scarring following keratitis or trauma, keratoconus, significant astigmatism.
+
+'''- irienne :''' traumatic iridodialysis
+
+'''- crystalline:''' nuclear cataract

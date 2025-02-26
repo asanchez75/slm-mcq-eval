@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-363-20-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=Know the principles of treatment of fractures of the lower extremity of the radius
+|Description=None
+|Heading=Management
+|Contributors=CFCOT
+|Order=20}}
+
+The aim of the treatment is to ''reduce displaced fractures'' and ''stabilise this reduction'' until the fracture has healed, usually within 6 weeks.
+
+The reduction is made in the opposite direction of travel.
+
+Stabilisation can be achieved by ''orthopaedic treatment'' if the ''reduction is stable'' or by a ''surgical method'' if the ''reduction is unstable''.
+
+There are 3 surgical methods which can be combined: ''pins'', ''screw plates'' and ''external fixation''. The treatment may be completed by a bone graft or bone substitute.
+
+* '''Reduction:'''
+
+Under local or general anaesthetic, the manoeuvres are adapted to the type of fracture. A constant element is strong and prolonged traction in the axis of the 2nd and 3rd<sup> fingers</sup>. This is combined with ulnar tilt and palmar flexion in dorsal displacement fractures and dorsal extension for anterior displacement fractures. Reduction is monitored with an image intensifier.
+
+After reduction, the bistyloid line (15°), the distal radioulnar index (-2mm), the orientation of the radial glenoid downwards and forwards (10-12°) and the alignment of the cortices are checked.
+
+* '''Restraint:''''
+
+Orthopaedic treatment (plaster or resin): using a cuff for 6 weeks. Limits the risk of secondary displacement and allows healing of associated capsulo-ligamentary lesions. Immobilisation of the elbow protects distal radio-ulnar capsulo-ligament lesions or precarious synthesis of the distal end of the ulna. The cast is initially split. It is made in a position that maintains the injury, either in neutral or palmar flexion and slight ulnar tilt for dorsal displacement fractures. It is monitored clinically and radiologically for secondary displacement at D2, D8, D15, D21 and D45.
+
+* '''Surgical methods:'''
+** Osteosynthesis using pins:'''' pinning of fragments together or intra-focal pinning. The stability of pinning depends on the degree of osteoporosis and fracture comminution. Additional immobilisation is usually required, and radio-clinical monitoring at D15 and D45, when the pins are removed.
+** Screw-plate osteosynthesis: a plate positioned on the anterior surface of the distal radius is well suited to stabilising anterior displacement fractures. The development of plates with locked screws integral with the plate has enabled them to be used in dorsal displacement fractures as well. Radiological and clinical checks are carried out at D15 and D45. Additional immobilisation is not usually necessary. Removal of the hardware is not essential if the plate is well tolerated, particularly in elderly patients.
+** External fixator: This is now used as an adjunct to direct pinning or plate osteosynthesis. It neutralises the compressive stresses exerted by the forearm muscles on the distal end of the radius. It is maintained for 4 to 6 weeks.
+
+* Indications vary according to the patient's age, functional requirements, anatomical type of injury, fracture comminution, degree of osteoporosis and associated injuries.
+** In "extra-articular fractures":
+*** Non-displaced: orthopaedic treatment
+*** Displaced and stable after reduction: orthopaedic treatment
+*** Displaced and unstable after reduction: osteosynthesis
+*** Very elderly patient with low functional demand: can be treated with plaster cast even if unstable
+** In "articular fractures":
+*** Non-displaced: orthopaedic treatment
+*** Displaced or imperfect reduction or unstable after reduction: osteosynthesis, more or less supplemented by local grafting.
+** Immobilisation of the fracture site is combined with mobilisation of the fingers to limit stiffening.
+** Elevation helps to limit initial oedema.
+
+'''Rehabilitation after consolidation:''''
+
+* essential after consolidation by orthopaedic or surgical treatment
+* recovery of wrist and finger mobility
+* prolonged

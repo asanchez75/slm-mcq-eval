@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-322-03-A
+|Item_parent=Personalised therapeutic decisions: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of therapeutic adaptation during pregnancy and breastfeeding
+|Description=Knowing the principles of therapeutic adaptation during pregnancy and breastfeeding
+|Rubric=Management
+|Contributors=
+|Order=3}}
+A pregnant woman may take :
+
+* when the ''pregnancy was unknown''. In this case, the risk associated with this therapeutic exposure should be assessed.
+* when the "pregnancy is known" and the patient is due to receive treatment or is prescribed a chronic treatment. In this case, the question is whether to continue the prescription and which is the most appropriate drug to offer the patient.
+
+=== '''Pharmacokinetic and pharmacodynamic changes''' ===
+Pregnancy leads to ''pharmacokinetic'' and ''pharmacodynamic'' changes, making it ''difficult'' to prescribe drugs and adapting doses dynamically during the different periods of pregnancy.
+
+Pharmacokinetic" changes in pregnant women result in a "decrease in concentrations":
+
+* hydrophilic'' drugs,
+* drugs that are "strongly bound to plasma proteins", and
+* and drugs that are "mainly eliminated by the kidneys".
+
+It is therefore important to be aware of the "risk of underexposure" with these drugs.
+
+Depending on the metabolic pathway, the concentrations of drugs ''metabolised by the liver'' may be as follows
+
+* ''increase'' (for ''example'' CYP2C19 substrates)
+* or ''decrease'' (for ''example'' CYP3A4 substrates).
+
+Vomiting'' in the ''first trimester'' can also ''disrupt'' the absorption of medicines.
+
+=== '''Drug use by pregnant or breast-feeding women and risks'' ===
+In all cases, taking a medicine during pregnancy '''exposes the unborn child'' to '''possible teratogenicity''' or '''neonatal complications''', due to the '''transplacental passage''' of most medicines.
+
+This risk therefore requires an ''assessment of the benefit-risk balance'' in the context of pregnancy in order to judge the appropriateness of the prescription. Since 2017, pictograms indicating the teratogenic or foetotoxic risk have appeared on drug packaging.
+
+These risks ''vary'' according to the ''period of exposure'' to the drug:
+
+* During the ''peri-implantation'' period, it is the so-called ''all or nothing'' law which results in a ''miscarriage'' or an ''absence of effect''.
+* The teratogenic risk is greatest during the ''embryonic period'' during ''organisogenesis'' (13<sup>th</sup> to 56<sup>th</sup> day of pregnancy).
+* During the ''foetal'' period (from the 2nd<sup> month</sup> to delivery), the ''risk'' remains ''significant'' for in-utero death and developmental disorders.
+* Finally, during the ''neonatal'' period, drugs can cause adverse effects, particularly because of the newborn's limited capacity for metabolism and renal excretion. It is therefore advisable to ''only'' prescribe medicines that are ''necessary'' during pregnancy and breastfeeding, and to give preference to medicines whose ''safety profile'' is ''known'' in this context.
+
+However, while only essential drugs for the treatment of pregnant women should be prescribed, "patients should not be under-treated". Patients' chronic treatments should not be interrupted without looking for an alternative. Priority should be given to well-evaluated drugs with sufficient experience of use in pregnant women (>1000 pregnancies treated).
+
+Many medicines are compatible with breastfeeding. However, the same rules apply as for pregnant women: only essential medicines should be prescribed. Preference should be given to drugs that do not leach into breast milk and whose circulating concentrations are not likely to cause adverse effects in the newborn. Drugs with a short half-life should be preferred and administered after a feed, while modified-release, highly lipophilic drugs or those with active metabolites should be avoided.
+
+There are "expert centres" that can help clinicians with questions relating to medicines, pregnancy and breastfeeding. These centres are
+
+* the regional pharmacovigilance centres (CRPV)
+* and the '''teratogen reference centre'' [CRAT] (<nowiki>https://www.lecrat.fr/</nowiki>).
+
+Finally, pregnant and breast-feeding women should be warned of the potential risks of self-medication. No treatment, even one available over the counter, should be taken without medical advice.

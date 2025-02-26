@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-357-05-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Knowing the symptomatology of peritonitis in children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=5}}
+
+
+*Classically, a febrile painful occlusion.
+*Sharp, paroxysmal abdominal pain provoked by movement or palpation ('''[[Abdominal pain SD-004|abdominal pain]]''').
+*Vomiting often preceded by food refusal ('''[[Vomiting SD-013|vomiting]]'''').
+*Transit disorders: gas and matter stop flowing.
+*Sometimes incoercible paradoxical diarrhoea.
+*Fever of 39 - 40°C ('''[[Hyperthermia/fever SD-044|hyperthermia/fever]]'''), other functional signs similar to those of adults

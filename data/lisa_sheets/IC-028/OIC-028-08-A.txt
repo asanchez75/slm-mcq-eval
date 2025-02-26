@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-028-08-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Title=Acute pregnancy-induced cystitis: knowing the treatment
+|Description=Knowing the 1st-line treatment for acute gravid cystitis
+|Rubric=Management
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=8}}
+Management is based on the following principles:
+
+- '''Probabilistic treatment''' to be started immediately, as soon as the BU is performed, to reduce the risk of complications, according to the table below (Table 2) 255. [Prescribe an anti-infective SD-255|Prescribe an anti-infective]]
+
+- '''Secondarily adapted to the results of the antibiogram'' (48 hours on average, ''cf''. Antibiotic therapy table Pregnant urinary colonisation) ;
+
+- '''Hygienic and dietetic measures'' (''cf.'' Gravidial urinary colonisation).
+
+Table 2: Recommended treatments for acute cystitis gravidarum:
+{| class="wikitable"
+|'''Order of choice'''
+|Molecule (INN)'''
+|'''Dosage'''
+|'''Duration'''
+|'''Contraindication (CI) and side effects'''
+|-
+|'''1st line'''
+|Bosfomycin trometamol
+|3 g
+|Single dose
+|
+|-
+|2nd intention
+|Pivmecillinam
+|400mg x 2/d
+|7 days
+|
+|-
+|3rd intention
+|Nitrofurantoin
+|100 mg x 3/d
+|7 days
+|<Iterative treatments</nowiki>.
+
+- CI if renal insufficiency with GFR < 40mL/min
+
+- Pulmonary and hepatic risks if duration >10 days
+|}
+Knowing the treatment of urinary infections during pregnancy and its follow-up [[Knowing the treatment of urinary infections during pregnancy and its follow-up 2C-161-PC-A04|2C-161-PC-A04]]
+
+
+NB: Antibiotic doses are given for information only and are not binding.

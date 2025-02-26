@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-233-05-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Knowing the value of the electrocardiogram (ECG), thoracic radiography and stress testing in valvulopathy.
+|Description=
+|Rubric=Additional tests
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=5}}
+
+These tests are not very specific and are of limited value in early diagnosis (ECG and chest X-ray are often normal).
+
+* '''ECG:''''
+** rarely normal in severe chronic valvulopathy
+** systolic LVH (RA) diastolic LVH (IM, IA)
+** OG hypertrophy (MI, RA, IA, MR),
+** atrial fibrillation (frequent, particularly in mitral valve disease),
+** BAV'' (rare, especially in RA),
+** right ventricular hypertrophy (RM)
+
+* Chest X-ray:
+** pulmonary overload (MI, RA, MR)
+** cardiomegaly (IM, IA, MR),
+** dilatation of the ascending aorta (RA, IA)
+
+* Stress test:
+** Contraindicated in symptomatic valve disease.
+** Severe asymptomatic MI: not very well codified with study of VO<sub>2</sub> or stress ultrasound (regurgitant volume, pulmonary pressures on exertion in search of criteria that could prompt intervention)
+** AR: value of a sub-maximal test in the case of a tight but asymptomatic AR</u> (search for: symptoms, ECG changes, unsuitable blood pressure profile, ventricular arrhythmia in favour of surgical management).
+** IA: not indicated
+** MR: stress ultrasound to measure pulmonary gradients and pressures if there is a discrepancy between clinical and ultrasound findings.

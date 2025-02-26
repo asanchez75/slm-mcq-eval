@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-236-05-A
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=A
+|Title=Knowing the signs and situations of poor tolerance of bradycardia
+|Description=Semiology of poorly tolerated bradycardias, hyperkalaemia, coronary syndromes
+|Section=Emergency identification
+|Contributors=Vincent Galand
+|Order=5}}
+ 
+
+- Poor tolerance depends on whether the bradycardia is paroxysmal or permanent, and on the frequency of the ventricular rate.
+
+- '''Poorly tolerated bradycardia requires urgent treatment with therapy'''
+
+- Gravity elements :
+<br />
+{| class="wikitable"
+|Interview
+|<Impulsive syncope with traumatic fall, angina</nowiki>.
+|-
+|Physical examination
+|<Hypotension, signs of shock, oliguria</nowiki>.
+
+-Severe bradycardia
+
+-Consciousness disorder
+
+-Heart failure
+|-
+|ECG
+|<QT prolongation
+
+-Torsade de pointe
+|-
+|Biology
+|Organ damage associated with low flow:
+
+-Renal insufficiency
+
+Hepato-cellular insufficiency
+
+-Lactate elevation
+|}
+<br />

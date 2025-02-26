@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-069-06-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the main psychiatric and non-psychiatric differential diagnoses specific to perinatal care
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=6}}
+
+- Non-psychiatric medical causes: cerebral thrombophlebitis, retained placenta, infections (e.g. endometritis).
+
+- Psychiatric medical causes : Post-partum blues, [[Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01|intoxication]] by a psychoactive substance (for example, [[Alcohol and pregnancy: mechanism - Dose-effect relationship 2C-027-EP-B07|alcohol]], drugs).

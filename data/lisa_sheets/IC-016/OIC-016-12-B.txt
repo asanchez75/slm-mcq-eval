@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-016-12-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Intitulé=To know the convergence of the methods of financing in Europe
+|Description=Mixed financing based on tax and social contributions in France, Great Britain and Germany. Understand that health insurance is funded by the CSG in France (difference with social security).
+|Rubrique=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=12}}
+
+In Europe, there are three different models for organising healthcare systems: ''the national health service model'', which is universal and mainly funded by taxation (United Kingdom), or the Beveridgian model (named after the father of the British social security system, William Beveridge). '''The social insurance model''', in which health insurance is linked to professional status, financed by contributions based on salaries and managed by funds administered by the social partners, who enter into contracts with independent care providers (Bismarkian model named after the German Chancellor Bismarck, who initiated the model at the end of the 19th century). The ''liberal model'', where protection against illness is optional and provided by ''private insurance contracts''. There is a convergence in the way health systems are financed, with a mix of financing. Systems that used to be tax-financed, such as the UK model, have introduced social contributions. In addition, the UK allows people to acquire individual health insurance by paying for private insurance. In contrast, the German system has added tax revenues to the insurance resources used to finance health care. What's more, people on the highest incomes are able to take out private health insurance, which, unlike in the UK, completely replaces public health insurance. From 1993 onwards, France introduced a progressive tax system to finance its healthcare system by introducing the '''contribution sociale généralisée''' (CSG)''. All that remains are daily allowances in the event of an employee being off work, which are still funded by social security contributions.

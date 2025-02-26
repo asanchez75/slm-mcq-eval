@@ -1,0 +1,123 @@
+{{knowledge objective
+|Identifiant=OIC-179-08-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=A
+|Title=Knowing the pathogens responsible for foodborne infections
+|Description=None
+|Rubric=Etiologies
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Order=8}}
+
+{| class="wikitable"
+| colspan="4" |'''Main causes of CDTI with digestive symptoms and foods involved'''
+|-
+|'''Agents responsible'''
+|Duration
+
+incubation period
+|Clinical signs
+|Contamination factors
+|-
+|Salmonella enterica'' non-Typhi serotypes (''Enteritidis, Typhimurium'')
+(infectious mechanism)
+|12-24 h
+|Acute febrile diarrhoea
+|Undercooked or uncooked food :
+
+Meat
+
+Poultry
+
+Seafood
+
+Family or collective catering
+|-
+|Staphylococcus aureus
+(toxin mechanism: toxi-infection linked to a thermostable toxin)
+|2-4 h
+|Vomiting
+
+Abdominal pain
+
+Diarrhoea
+
+No fever
+|Milk and milk derivatives
+
+Dishes cooked the day before
+
+Insufficient refrigeration
+
+Asymptomatic carriers or cutaneous staphylococcal disease
+|-
+|Clostridium perfringens
+(toxin mechanism: enterotoxin produced in the intestine)
+|8-24 h
+|Isolated diarrhoea without fever
+|Food cooked the day before
+
+Insufficient refrigeration
+
+Contract catering
+|-
+|Norovirus
+(infectious mechanism)
+|24-48 h
+|Vomiting, abdominal pain, diarrhoea with little or no fever.
+|Shellfish, crustaceans, raw vegetables.
+|}
+{| class="wikitable"
+| colspan="5" |'''Principales TIAC d'expression neurologique, manifestations cliniques, aliments en cause, diagnostic et principes de prise en charge'''
+|-
+|'''Agent'''
+
+'''Responsible'''
+|Incubation period
+|Clinical signs
+|Contamination factors'''
+|Principles of diagnostic and therapeutic management''
+|-
+|Botulism
+
+Clostridium botulinum
+|12-72 h
+|Invasion phase: transient digestive problems.
+
+Pseudopresbyopia
+
+State phase: para-sympathicolytic syndrome (mydriasis, dry mouth, dysphagia, constipation, dysuria)
+
+No fever
+
+Normal vigilance
+
+Sometimes descending paralysis (cranial nerves, limbs, respiratory muscles)
+|Ingestion of toxin preformed in food: ham, home-canned food, etc.
+|Diagnosis
+
+Clinic
+
+Identification of the toxin in the offending food (or even in the blood, vomit or faeces)
+
+
+Treatment
+
+Hospitalization
+
+Symptomatic treatment
+
+Resuscitation and serotherapy if respiratory involvement
+|-
+|Histamine toxicity
+|10 min to 1 h
+|Vasomotor disorders (face, neck)
+
+Headaches
+
+Digestive disorders
+|Poorly preserved fish (especially tuna)
+|Clinical diagnosis.
+
+Rapid regression, accelerated by antihistamines and corticosteroids)
+|}

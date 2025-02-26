@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-086-10-B
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=B
+|Title=Treatment of chalazion
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+The first-line treatment is the application of a local corticosteroid ointment combined with eyelid care: after moistening with warm water, the patient is instructed on how to massage the eyelids with the finger, from the orbital rim towards the free edge, in order to promote expulsion of the chalazion contents through the orifices of the Meibomius glands located on the free edge.
+
+If this treatment is not effective, and the chalazion progresses to become encysted, it is sometimes necessary to make an incision and remove the meibomian gland under local anaesthetic. This is usually performed conjunctivally, using a chalazion forceps. The gland is left unsutured and antiseptic eye drops are prescribed for 8 days. The most frequent complication is minor bleeding, which usually subsides within a few minutes with simple compression.

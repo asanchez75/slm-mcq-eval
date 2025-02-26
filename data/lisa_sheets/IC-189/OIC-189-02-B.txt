@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-189-02-B
+|Item_parent=Immune deficiency
+|Item_parent_short=Immune deficiency
+|Rank=B
+|Title=Knowing that a primary immune deficiency (PID) can appear in adulthood
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Olivier Lambotte,Capucine Picard,Jean-Daniel Lelièvre
+|Order=2}}
+
+'''Frequent primary immune deficiencies with preferential revelation in adults'''
+
+*Variable common immune deficiency
+*IgG subclass deficiency
+*IgA deficiency
+
+
+'''Rare primary immune deficiencies with preferential revelation in adults'''
+
+*Good's syndrome (Thymoma)
+*CD4 lymphopenia
+*LOCID
+*Immune deficiencies favouring infections by mycobacteria (deficiencies in cytokine pathways such as interferon gamma and interleukin 12 (FNg-R, IL12)).
+
+'''Other rare primary immunodeficiencies affecting children may also occur exceptionally in adults''.
+
+<br />

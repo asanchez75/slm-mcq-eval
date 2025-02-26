@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-208-11-B
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=B
+|Title=Knowing the indications and procedures for long-term oxygen therapy
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=11}}
+The aim of long-term oxygen therapy (LTO) is to correct the consequences of chronic hypoxaemia (polycythemia, pulmonary hypertension) and to reduce mortality. It is not a symptomatic treatment for dyspnoea.
+
+Indication in stable obstructive CKD:''
+
+* ''PaO<sub>2</sub> < 55 mmHg (7.3 kPa)''
+* ''oIndication in stable obstructive CKD:u PaO<sub>2</sub> between 55 mmHg (7.3 kPa) and 60 mmHg (8 kPa) with clinical signs of tissue hypoxia:''
+** ''polyglobuliIndication in obstructive CKD in stable state:e (haematocrit > 55%)''
+** ''inIndication in stable obstructive CKD:right ventricular adequacy (clinical or echocardiographic or via catheterisation)''
+** ''not indicated in stable obstructive CKD: non-apnoeic nocturnal arterial saturations (mean nocturnal SpO<sub>2</sub> ≤ 88%)''
+
+Indication in stable obstructive CKD:''
+
+''Indication in restrictive CKD in stable state: PaO<sub>2</sub> < 60 mmHg.''
+
+Oxygen therapy is administered :
+
+- At home, using nasal cannula (masks can deliver larger quantities of O<sub>2</sub>),
+
+- Ideally 24 hours a day, at least 15 hours a day, including nights and physical activity,
+
+- With a flow rate required to obtain a PaO<sub>2</sub> > 60 mmHg or a SpO<sub>2</sub> or a SaO<sub>2</sub> > 90% at rest and during exercise
+
+- Gaseous oxygen (by extractor or in the form of gaseous cylinders for ambulation) is preferred for moderate flow rates. Liquid oxygen is used for high oxygen flow rates.
+
+- It is delivered by a home service provider.

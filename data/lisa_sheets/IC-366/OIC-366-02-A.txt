@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-366-02-A
+|Item_parent=Accidental exposure to biological fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=A
+|Title=Knowing the infectious agents at risk of transmission during an EALB
+|Description=HCV HBV and HIV
+|Rubric=Definition
+|Contributors=Docteur Lefèvre Benjamin
+|Order=2}}
+In the event of a blood exposure accident and when the source patient has an active and replicative infection:
+
+- HIV: 0.3% infection after percutaneous exposure to blood
+
+- HCV: 3% infection after percutaneous exposure to blood
+
+- HBV: 40% infection after percutaneous exposure to blood (if unvaccinated)
+
+In the event of a sexual exposure accident and when the source patient has an active and replicative infection:
+
+- HIV: 0.1% after insertive vaginal intercourse and 1% after receptive anal intercourse (but may vary if genital lesions are present)
+
+- HCV: low but significant risk in cases of traumatic sexual intercourse
+
+- HBV: 30-50% infection after sexual exposure (if unvaccinated)

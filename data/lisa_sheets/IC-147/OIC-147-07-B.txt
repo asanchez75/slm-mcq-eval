@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-147-07-B
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=B
+|Title=Knowing the pathophysiological mechanisms of thermal regulation
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=7}}
+Fever reflects the hypothalamic response (thermoregulatory centre) to tissue aggression. It appears in response to exogenous pyrogenic substances, both microbial and endogenous (cytokines, etc.).
+
+In the case of fever of infectious origin, no relationship has been established between the severity of the fever and the severity of the infection in question.

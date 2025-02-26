@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-305-06-B
+|Item_parent=Oesophageal tumours
+|Item_parent_short=Oesophageal tumours
+|Rank=B
+|Title=Knowing the indications for oesogastric fibroscopy
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+1/ '''any dysphagia''' requires investigation by upper digestive endoscopy (oeso-gastro-duodenal endoscopy)
+
+2/ monitoring risk situations :
+
+- OCT monitoring every 2 to 5 years (see above)
+
+- Screening for dual alcohol and tobacco intoxication
+
+3/ investigation of haematemesis and/or melena or iron deficiency anaemia.

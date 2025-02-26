@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-278-06-B
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=B
+|Title=Know the definition of Gilbert's Syndrome
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+Completely benign and very common (5 to 8% of the population).
+
+Transmitted by autosomal recessive mutation of the glucuronyl transferase gene. In clinical practice, it is characterised by moderate and fluctuating unconjugated hyperbilirubinaemia, never exceeding 80 µmol/L. Factors that increase bilirubin levels include fatigue, fasting and infection.
+
+Liver tests are normal (no cytolysis, no cholestasis, no haemolysis)
+
+It is not an illness.

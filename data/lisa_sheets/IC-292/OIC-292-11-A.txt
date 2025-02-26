@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-292-11-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Knowing how to distinguish between extension and pre-therapeutic assessments
+|Description=Know the distinction between extension work-up and pre-treatment work-up.
+|Rubric=Additional examinations
+|Contributors=
+|Order=11}}
+Once the diagnosis of malignancy has been established, or in cases where there is a very strong suspicion of cancer (e.g. multi-metastatic disease), paraclinical examinations are prescribed with two objectives:
+
+- assess the extent of the disease in order to differentiate between a curable situation (aiming to cure the cancer) and an incurable situation, also known as palliative;
+
+- to assess the patient's condition, the severity of any co-morbidities and any complications of the cancer, in order to determine possible treatments during a so-called pre-therapeutic assessment.

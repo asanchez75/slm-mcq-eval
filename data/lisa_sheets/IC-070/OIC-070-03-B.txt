@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-070-03-B
+|Item_parent=Psychological disorders in the elderly
+|Item_parent_short=Psychological disorders in the elderly
+|Rank=B
+|Title=Knowing the prevalence of psychobehavioural symptoms in demented elderly subjects
+|Description=Send item 108
+|Topic=Epidemiology
+|Contributors=Pierre Vandel,Marie Tournier
+|Order=3}}
+
+Known as "psychological and behavioural symptoms of dementia" (BPSD)
+
+Present in over 80% of patients with Alzheimer's disease or other dementias. Early onset.
+
+           Negative symptomatology: withdrawal and apathy 50% prevalence
+
+Frequent psychotic symptoms: delusions, hallucinations

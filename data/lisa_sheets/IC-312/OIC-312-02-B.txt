@@ -1,0 +1,27 @@
+*knowledge objective
+|Identifiant=OIC-312-02-B
+|Item_parent=Breast tumours
+|Item_parent_short=Breast tumours
+|Rank=B
+|Title=Knowing the risk factors for breast tumours
+|Description=To list the main intrinsic and extrinsic risk factors for breast cancer
+|Topic=Epidemiology
+|Contributors=
+|Order=2}}
+The risk factors for breast cancer are :
+
+* age
+* gynaeco-obstetrical history (factors of exposure to oestrogens):
+** early menarche (< 12 years),
+** late menopause (> 55 years),
+** late age at 1st pregnancy (> 30 years) or nulliparity,
+** absence of breast-feeding, ,
+** exposure to hormonal treatments (oestroprogestogenic contraception and hormonal menopause treatment),
+** personal history of breast cancer or mastopathy at risk (e.g. fibrocystic mastopathy with the presence of atypia - atypical hyperplasia, carcinoma in situ).
+
+* a family history of breast or ovarian cancer, with possible knowledge of a genetic predisposition (germline mutation ''BRCA1, BRCA2'')
+* High body mass index (BMI) or an increase in BMI during the menopause.
+* Sedentary lifestyle (after the menopause)
+* Alcohol and tobacco consumption
+* Thoracic irradiation
+* High socio-economic status

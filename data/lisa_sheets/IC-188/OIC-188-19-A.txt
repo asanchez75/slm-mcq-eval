@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-188-19-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Knowing the objectives and monitoring methods of first-line disease-modifying asthma treatment.
+|Description=None
+|Section=Management
+|Contributors=
+|Order=19}}
+The aim of background asthma treatment is to achieve asthma control as described above (see asthma control).
+
+In addition to monitoring efficacy, treatment monitoring includes:
+
+o Assessing compliance with treatment
+
+o Systematic assessment of the grip technique
+
+o Looking for side effects (oral mycosis)
+
+<br />

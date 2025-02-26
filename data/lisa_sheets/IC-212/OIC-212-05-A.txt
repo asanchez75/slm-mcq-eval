@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-212-05-A
+|Item_parent=Hemograms in adults and children: indications and interpretation
+|Item_parent_short=Hemogram in adults and children: indications and interpretation
+|Rank=A
+|Title=Knowing the indications for blood smears and interpretation of their results
+|Description=Blood cytology smear after MGG staining, morphological analysis of erythrocytes, platelets (clusters) if thrombocytopenia) and leukocytes: detection of abnormal circulating cells; e.g. blasts, lymphoma cells.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Blood smear examination:'''' The leucocyte count is carried out either using cell counters (automated count), '''or from a drop of blood spread out on a slide (blood smear), dried and then stained (May-Grünwald-Giemsa) and read under a microscope by an experienced operator'''.
+
+The blood smear is indicated on the basis of the interpretation of 1) erythrocyte indices (anaemia, microcytosis/macrocytosis, hypochromia/hyperchromia), 2) platelet counts (search for clusters, false thrombocytopenia), 3) leukocyte counts (hyperleukocytosis/leukopenia and other abnormalities in leukocyte subpopulations) and 4) analysis of the graphs and alarms produced by the automated system. '''Only by reading the blood smear can morphological abnormalities of red blood cells, platelets and leukocytes be identified, in particular abnormal cells such as blasts or lymphoma cells.'''

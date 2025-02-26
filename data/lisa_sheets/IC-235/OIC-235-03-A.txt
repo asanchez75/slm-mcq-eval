@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-235-03-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Know the signs of serious acute pericarditis and know how to call for emergency drainage of the effusion.
+|Description=Identify the possible emergency in the presence of signs of right heart failure, arterial hypotension and a marked drop in pulse rate on inspiration.
+|Rubric=Identify the emergency
+|Contributors=Jennifer Cautela
+|Order=3}}
+These are signs suggestive of associated tamponade or myocarditis.
+
+* '''Clinical''' :
+** '''Signs of acute right heart failure:''' Jugular turgidity, Jugular hepato reflux
+** '''Signs of shock''': tachycardia and PAS<90mmHg, mottling, cold extremities
+** '''Paradoxical pulse =''' îde la PAS de 10 mmHg à l'inspiration
+** '''Fever > 38°'''
+* Biological: Troponin elevation (associated myocarditis)
+* ECG: microvoltage and electrical alternation (tamponade), ventricular rhythm disorders (myocarditis)
+* Ultrasound:
+** Effusion > 20 mm
+** Compression of the right cavities

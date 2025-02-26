@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-350-05-A
+|Item_parent=Big acute red leg
+|Item_parent_short=Big acute red leg
+|Rank=A
+|Title=Knowing the relevance of complementary examinations (for erysipelas) in the context of a large red leg (according to clinical characteristics and diagnostic orientation).
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=5}}
+Clinical diagnosis: no further investigations are necessary in typical, uncomplicated cases.
+
+In the case of atypical forms: limited benefit due to lack of sensitivity and specificity.
+
+- Biology: CBC and C-reactive protein (CRP) show a biological inflammatory syndrome with hyperleukocytosis of PNN and CRP often > 100 mg/L). Their decrease under treatment is a sign of favourable evolution.
+
+In severe cases :
+
+- Blood cultures: low yield (positive in less than 5% of cases), because inflammatory symptoms are linked to a super antigen.  In cases of immunosuppression, specific exposure factors or extensive inflammatory plaques (particularly on the thigh), they are logical and may reveal an atypical germ;
+
+- Bacteriological sampling of any portal of entry: enables antibiotic therapy to be adapted if necessary;
+
+- Imaging: ultrasound of the soft tissue or MRI to be carried out immediately if necrotising dermo-hypodermatitis is suspected.
+
+If there is any doubt about deep vein thrombosis: venous Doppler ultrasound of the lower limbs.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-132-03-A
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=A
+|Title=Know how to diagnose vascular encephalopathy.
+|Description=Know the positive clinical elements which allow the diagnosis to be made.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Vascular encephalopathy is the second most common cause of cognitive impairment in the elderly after Alzheimer's disease.
+
+Clinical signs depend on the location and extent of the cerebrovascular lesions. Cerebral lesions may be of ischaemic or haemorrhagic origin and may induce mild cognitive impairment (minor TNC) or a dementia syndrome (major TNC).
+
+There are several types of lesions that can cause cognitive problems:
+
+- multiple infarctions
+
+- multi-lacunar infarctions
+
+- diffuse leukoencephalopathy
+
+- strategic infarction (e.g. thalamus or angular gyrus)
+
+- hypoperfusion
+
+. amyloid angiopathy ...  
+
+The sudden onset of cognitive impairment, or the classic "stair-step", is suggestive but not necessary. In diffuse encephalopathy, particularly lacunar encephalopathy, a progressive onset is observed.
+
+On clinical examination, there may be focal neurological sequelae (pyramidal syndrome, motor deficit, homonymous lateral hemianopia, etc.) and extra-pyramidal rigidity (if there is vascular damage to the basal ganglia). Cognitive disorders are heterogeneous (dysexecutive, psychomotor slowing, etc.).

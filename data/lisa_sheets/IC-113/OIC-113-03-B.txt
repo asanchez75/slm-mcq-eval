@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-113-03-B
+|Item_parent=Hemangiomas and cutaneous vascular malformations
+|Item_parent_short=Hemangiomas and cutaneous vascular malformations
+|Rank=B
+|Title=Know the main differential diagnoses of haemangiomas
+|Description=Cutaneous tumours and vascular malformations
+|Rubric=Positive diagnosis
+|Contributors= Sophie Blaise
+|Order=3}}
+
+{| class="wikitable"
+|+
+!
+Infantile haemangioma
+Vascular malformation
+|-
+|At birth
+|Absent
+|Present
+|-
+|Evolution
+|Volume growth then regression over the first
+5 years of life
+|Stability or worsening
+Persistence
+|-
+|Main types
+|Superficial, deep and mixed haemangiomas
+|Capillary malformations (or planar angiomas)
+Venous malformations
+
+Lymphatic malformations
+
+Arteriovenous malformations
+
+Mixed malformations
+|}
+<br />
+
+===1- Malignant tumours in infants===
+A vascularised malignant tumour (rhabdomyosarcoma, infantile fibrosarcoma, etc.) should be suspected in the presence of a congenital, single, hard, progressive tumour => "biopsy at the slightest doubt".
+
+===''2- '' Vascular malformations (see table 1)===
+- A superficial haemangioma at the initial stage may simulate a vascular malformation (planar angioma).
+
+- Certain venous or lymphatic malformations can simulate a deep subcutaneous haemangioma (Doppler ultrasound shows rapid flow in haemangiomas and slow flow in venous or lymphatic malformations).
+
+===3- Congenital haemangiomas===
+- Different from infantile haemangiomas.
+
+- Present at birth, sometimes detected by antenatal ultrasound.
+
+- variable course: rapid regression or persistence.
+
+- Propranolol ineffective
+<br />
+
+=== ''4- Kasabach-Merritt syndrome'' ===
+- Tumour intravascular coagulation associated with thrombocytopenia.
+
+- Does not complicate infantile haemangiomas but rare congenital vascular tumours.
+
+- Rapid appearance of a large, ecchymotic and inflammatory swelling.
+
+- Specialist hospital treatment.

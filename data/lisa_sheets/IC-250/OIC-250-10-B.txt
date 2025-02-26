@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-250-10-B
+|Item_parent=Denutrition in adults and children
+|Item_parent_short=Denutrition in adults and children
+|Rank=B
+|Title=Knowing how to diagnose and prevent renutrition syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+Renutrition syndrome is a potentially fatal metabolic complication that can occur during the reintroduction of nutritional intake in malnourished patients, regardless of the method used (oral, enteral or parenteral).
+
+It generally appears within 72 hours of the start of renutrition.
+
+
+Biologically, it is characterised by hypophosphaemia, which may be associated with a deficiency in potassium, magnesium and thiamine (vitamin B1).
+
+
+Clinically, it may be asymptomatic.
+
+Clinical signs, when present, are polymorphous and may combine :
+
+           Cardiac (arrhythmia, syncope, acute heart failure)
+
+Neuromuscular (paresthesias, fasciculations, tetany, paralysis, confusion, encephalopathy, convulsions, muscle fatigue and pain, rhabdomyolysis)
+
+
+Prevention of renutrition syndrome requires :
+
+Correction and systematic supplementation with phosphorus
+
+Correction of other possible deficiencies (potassium, magnesium), vitamin B1
+
+Gradual start of renutrition
+
+
+Monitoring :
+
+It is essential to monitor phosphorus and potassium levels before and during the first few days following the start of renutrition.

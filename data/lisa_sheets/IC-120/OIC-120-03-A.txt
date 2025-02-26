@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-120-03-A
+|Item_parent=Complications of immobility and decubitus. Prevention and management
+|Item_parent_short=Complications of immobility and decubitus. Prevention and management
+|Rank=A
+|Title=Know the main early complications of decubitus.
+|Description=Knowing thrombo-embolic venous disease, pressure sores, malnutrition and the risks of infection, particularly bronchopulmonary infection.
+|Rubric=Definition
+|Contributors=Antoine Guillon
+|Order=3}}
+
+- Respiratory (congestion, atelectasis, bronchopulmonary infection)
+
+- Venous thromboembolic disease
+
+- Skin (bedsores, infections)
+
+- Orthostatic hypotension
+
+- Mechanical (ankylosis)
+
+- Elimination (constipation, urinary tract infection)
+
+- Mental disorders

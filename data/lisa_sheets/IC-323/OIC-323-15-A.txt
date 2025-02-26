@@ -1,0 +1,45 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Intitle=Know the definition of blinding of the patient and the person caring for the patient and the assessor
+|Description=Definition, knowing the single or double blind, open trial, double placebo, Biases that can be avoided by blinding
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Agnès Dechartres (CUESP),Nathanaël Lapidus (CIMES)
+|Order=15
+|Identifiant=OIC-323-15-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+'''Blind definition''' (''"blind"''''')''''
+
+Procedure designed to mask the treatment received by the patient in a randomised controlled trial.
+
+'''Simply blind'''
+
+Only the patient does not know what treatment they are receiving
+
+'''Double blind'''
+
+Neither the patient, nor the doctor or team looking after the patient and collecting the assessment criteria know what treatment the patient has received.
+
+Double placebo
+
+When a randomised trial compares 2 drugs A and B of different appearance or route of administration (e.g. capsule vs. tablet, IV vs. oral), to comply with double-blind, a double placebo must be used (placebo of drug A for patients in group B, and placebo of drug B for patients in group A). The placebo looks identical to the drug but contains no active ingredient.<gallery>
+File:Figure Double placebo.jpg|Figure of the double placebo.
+</gallery>'''Open trial''' ''("open-label")'''
+
+*A trial in which there is no blinding.
+*Some comparisons cannot be blinded, for example, in a trial comparing surgery with radiotherapy (see [[Knowing the acceptable situations of single blinding 2C-323-DE-B03]]).
+
+'''Essai ouvert avec évaluation en aveugle''' ''("PROBE -'' Prospective, Randomized, Open-label, Blinded Endpoint''")'''
+
+Open-label trial with blinded collection of endpoint(s) for the treatment received by the patient:
+
+*by a blinded third party (e.g. neurological assessment by a carer who neither included nor managed the patient)
+*by an adjudication committee which blindly reviews patients' files to determine whether or not they have the event(s) that constitute(s) the assessment criterion (e.g. cardiovascular events)
+*by a centralised blind reading of an examination (e.g. radiological images)
+
+'''Interest of the blind'''
+
+*Limits monitoring or performance bias: the team's management of patients and the patient's attitude (including compliance) may be different if they are aware of the treatment received.
+*Limits evaluation or measurement bias (subjectivity of the patient and of the evaluator with knowledge of the treatment received by the patient).

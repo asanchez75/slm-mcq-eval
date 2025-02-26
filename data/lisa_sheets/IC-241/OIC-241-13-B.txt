@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-241-13-B
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=B
+|Title=Knowing the principles of the management of goitre and nodules (excluding cancer)
+|Description=Know not to prescribe opotherapy
+|Rubric=Management
+|Contributors=Eva Feigerlova,Camille Buffet,Stéphanie Espiard,Arnaud Jannin
+|Order=13}}
+
+[[File:Fig PEC goitres nodules thyroïdiens.jpg|vignette|433x433px|Prise en charge des goitres et nodules thyroïdiens en fonction des situations cliniques]]
+The possibilities for managing the goitre and nodules are discussed with the patient in order to propose an appropriate course of action according to his or her case.<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+
+
+'''1. goitre:'''
+
+- Monitoring may be proposed for euthyroid multinodular goitres with no compressive effect and no suspicion of malignancy.
+
+- Radical treatment is discussed if clinical signs are present (neck discomfort), if the patient is progressing towards hyperthyroidism, or if there is a suspicious nodule or endothoracic goitre.
+
+- The administration of a therapeutic dose of 131 iodine may be proposed in cases of hyperthyroidism, in elderly patients or in patients in poor general condition.
+
+
+'''2. Hyperfunctional thyroid nodules'' responsible for hyperthyroidism:
+
+- surgery (lobectomy)
+
+- treatment with radioactive iodine (iodine 131) - in elderly or frail patients [[Hyperthyroidism]].
+
+
+'''3. Non-functioning thyroid nodules:''''
+
+- clinical and ultrasound monitoring in the case of benign nodules
+
+- surgical treatment is proposed in the following situations:
+
+*benign nodule is large (> 40 mm) and causes functional discomfort, or is increasing in size
+*suspicious or malignant nodule
+*indeterminate nodule (according to the Bethesda cytological classification), management is discussed with the patient on a case-by-case basis depending on the context.
+
+<br />
+<references />

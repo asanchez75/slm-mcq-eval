@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-182-01-A
+|Item_parent=Occupational environment and health
+|Item_parent_short=Occupational environment and health
+|Rank=A
+|Title=Knowing how to assess the impact of work on health; relating a pathology to work constraints
+|Description=To carry out and interpret a reconstruction of a professional career.
+|Rubric=Etiologies
+|Contributors=JF Gehanno, Y Esquirol, A Maitre
+|Order=1}}
+
+
+*Remember to ask about the patient's ''current profession'', ''and previous professions (cursus laboris: description of work activities, products handled, protection used),'' particularly for pathologies with a long latency period (cancers, pneumoconiosis, deafness).
+*Find out if there is a ''rhythmicity of symptoms'' (improvement on days off work, disappearance during holidays, relapse on returning to work), which is highly suggestive of a work-related origin, at least at the beginning of the course, particularly for rhinitis or asthma and dermatitis.
+*Ask the ''occupational physician'' to identify exposures and find out whether there have been or are similar cases in the company, highly suggestive of an occupational origin.
+
+<br />

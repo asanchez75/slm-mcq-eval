@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-296-06-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=A
+|Title=Knowing the indication for a myelogram
+|Description=Knowing the indications for myelograms
+|Topic=Positive diagnosis
+|Contributors=
+|Order=6}}
+'''- essential unless agranulocytosis is expected (chemotherapy)'''
+
+'''- diagnostic role: damage to the granular lineage'''
+
+'''- prognostic role: early regeneration of the granular lineage (promyelocytes+++)''''
+
+'''- etiological role: elimination of differential diagnoses'''

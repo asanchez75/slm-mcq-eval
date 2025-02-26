@@ -1,0 +1,103 @@
+{{knowledge objective
+|Identifiant=OIC-351-04-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the etiologies of agitation according to age, including toxic causes
+|Description=With reference to item 138 and item 343
+|Heading=Etiologies
+|Contributors=
+|Order=4}}
+
+
+== Principles of aetiological assessment
+Look for the most frequent or most serious aetiologies.
+
+Always rule out non-psychiatric causes before suggesting a psychiatric aetiology.
+
+Agitation can occur in all psychiatric disorders.
+
+The diagnostic approach is the same for patients with or without a psychiatric history.
+<br />
+
+== Seniors ==
+
+=== Iatrogenicity (often with confusion) ===
+BZDs, antidepressants, corticoids, dopaminergic agonists, anticholinergic drugs (tricyclic antidepressants, antipsychotics, correctors of adverse effects of antipsychotics etc), opiates, antimalarials, isoniazid, interferon, etc.
+
+=== Fluid and electrolyte disorders ===
+dysnatremia, hypercalcemia
+
+=== Metabolic disorder ===
+hypoglycaemia
+
+=== Endocrinopathy ===
+hyperthyroidism
+
+=== Neurological pathology ===
+Stroke, subdural or extradural haematoma, seizure, meningoencephalitis, tumour, neurodegenerative pathology, autoimmune pathology
+
+=== Pain ===
+
+=== Infection ===
+urinary, pulmonary...
+
+=== Urinary retention or faecal impaction ===
+
+=== Alcohol ===
+acute intoxication or withdrawal complications (delirium tremens)
+
+=== CO poisoning ===
+
+=== Cardiovascular pathology ===
+pulmonary embolism, myocardial infarction, heart failure
+
+=== Psychiatric disorders ===
+
+* characterised depressive episode with anxious agitation
+* manic episode as part of bipolar disorder type I or induced by a substance or non-psychiatric pathology
+* panic attacks
+* persistent delusional disorder
+
+<br />
+
+== Young Adult
+
+=== Psychoactive substances ===
+Acute intoxication with a psychoactive substance
+
+* The most common is alcohol
+* hallucinogens (including cannabis)
+* psychostimulants (amphetamines, ecstasy, cocaine)
+
+=== Complication of withdrawal from a psychoactive substance ===
+alcohol, opiates
+
+=== Iatrogenicity ===
+antidepressants, corticoids, paradoxical effect of a benzodiazepine, mefloquine, anticholinergic drugs, extrapyramidal side effects of antipsychotics
+
+=== Metabolic disorder ===
+hypoglycaemia
+
+=== Endocrinopathy ===
+hyperthyroidism
+
+=== Neurological pathology ===
+Stroke, subdural or extradural haematoma, convulsive seizure, meningoencephalitis, particularly herpetic or malarial, tumour, neuroinflammatory or autoimmune pathology
+
+=== CO poisoning ===
+
+=== Cardiovascular pathology ===
+pulmonary embolism, myocardial infarction
+
+=== Paraneoplastic syndrome ===
+
+=== Psychiatric disorders ===
+
+* panic attack
+* manic episode as part of bipolar disorder type I or induced by a substance or non-psychiatric pathology
+* characterised depressive episode with anxious agitation
+* brief psychotic disorder
+* schizophreniform disorder
+* early psychotic disorder: schizophrenic, schizoaffective or persistent delusional disorder
+* severe personality disorder (particularly cluster B personalities), but the diagnosis can only be made during a period of stability and after a long period of observation.

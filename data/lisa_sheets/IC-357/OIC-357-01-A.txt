@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-357-01-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Know the definition and severity of the condition
+|Description=None
+|Rubric=Definition
+|Contributors=Maksud ASSADI, Philippe Montravers
+|Order=1}}
+
+
+* Definition of peritonitis = acute inflammation of the peritoneum, due to digestive perforation in the majority of cases.
+* A frequent condition, it is the 2nd most common cause of sepsis in intensive care units, and has a very high mortality rate in the absence of appropriate and prompt treatment.
+* In severe cases, the prognosis is life-threatening from the moment of diagnosis.

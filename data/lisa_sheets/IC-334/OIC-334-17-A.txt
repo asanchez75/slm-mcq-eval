@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-334-17-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Identifying an airway burn
+|Description=Photographs of vibrissae burns, oro- and nasopharyngeal soot
+|Rubric=Multimedia content
+|Contributors=
+|Order=17}}
+
+[[File:Item 334 Figure 14 Clinical appearance in favour of smoke inhalation.jpg|vignette|Figure 14. Clinical presentation in favour of smoke inhalation]]
+[[File:Item 334 Figure 15 Fibroscopy of a smoke inhalation patient.jpg|vignette|Figure 15. Fibroscopy of a smoke inhalation patient]]
+In addition to the clinical examination of the face (figure 14) and the circumstances, the burning of the upper airways can be confirmed by a bronchial fibroscopy, which finds soot in the tracheobronchial tree (figure 15). The extent of the soot deposit is not necessarily related to the severity of the lung damage.

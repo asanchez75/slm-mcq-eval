@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-114-01-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Know the definition of an exanthema
+|Description= A rash of sudden and transient onset.
+|Topic=Definition
+|Contributors=
+|Order=1}}
+An exanthema is an acute, transient skin rash.
+
+Erythematous exanthemas are characterised by a more or less intense red colouration of the skin due to vascular vasodilatation, which disappears on in vitro pressure. It must be distinguished from purpura (= cutaneous microhaemorrhages) which does not fade on in vitropressure (see sheet 114).
+
+Exanthemata may be accompanied by mucosal involvement (enanthema).

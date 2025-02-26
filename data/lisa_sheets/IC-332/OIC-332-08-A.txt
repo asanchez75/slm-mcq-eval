@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-332-08-A
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=A
+|Title=Know the elements of immediate management of a state of shock.
+|Description=Stop the causal mechanism (haemorrhage, anaphylaxis), oxygenation, appropriate vascular filling, call for help, etc.
+|Rubric=Management
+|Contributors=Julien Poissy
+|Order=8}}
+
+
+
+Call for help from colleagues and the resuscitator +++. You can't manage a state of shock on your own!''
+
+Coordination by a leader who distributes roles. There are many tasks to be carried out, and several of them need to be coordinated.
+
+carry out simultaneously
+
+Follow procedure A (Airway: opening the airway), B (Breathing: assessing and managing ventilation) and C (Circulation: assessing and managing circulation).
+
+A distinction is made between :
+
+- Continuous monitoring of vital parameters :
+
+o electrocardioscope
+
+o SpO2
+
+o frequent measurement of blood pressure NIBP
+
+- Initial symptomatic measures :
+
+o Systematic oxygen therapy
+
+o Vascular filling: 500 ml free-flow crystalloids on a good-calibre venous TK (unless left heart failure with PAO) (or 20 ml/kg in children, max 500 ml).
+
+- History-taking and clinical referral data
+
+- Initial etiological measures :
+
+o tourniquet/compression on bleeding
+
+o Antibiotic therapy if septic shock
+
+o inotropic and/or vasoactive support depending on the aetiology
+
+o refer to specific items for details
+
+- Paraclinical assessment of failure according to aetiological orientation

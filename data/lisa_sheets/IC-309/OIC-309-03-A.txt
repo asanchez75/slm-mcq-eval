@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-309-03-A
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=A
+|Title=Knowing the main occupational and environmental risk factors
+|Description=List the main risk factors (personal and occupational) for lung cancer - List the main risk factors (genetic and environmental) for lung cancer
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+'''Exogenous risk factors:'''
+
+* Exposure to work-related carcinogens:
+** Asbestos,
+** Silica,
+** Polycyclic aromatic hydrocarbons,
+** Diesel.
+* Exposure to non-occupational carcinogens:
+** Radon,
+** Air pollution (fine particles, including diesel).
+
+'''Personal risk factors:''''
+
+* Family predisposition,
+* Chronic respiratory pathology: COPD; fibrosing diffuse interstitial lung disease.
+* A history of lung cancer
+
+<br />

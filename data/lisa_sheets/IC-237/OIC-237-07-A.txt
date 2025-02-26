@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-237-07-A
+|Item_parent=Palpitations
+|Item_parent_short=Palpitations
+|Rank=A
+|Title=Identifying junctional tachycardias
+|Description=clinical description, ECG
+|Rubric=Etiologies
+|Contributors=Arnaud Bisson
+|Order=7}}
+
+
+* Junctional tachycardias are clinically manifested by palpitations called "Bouvere's disease". They classically occur in young subjects (adolescents, young adults) and on healthy hearts.
+* They are manifested by :
+** palpitations (sometimes with cervical beats)
+** sudden onset and abrupt cessation
+** of variable duration
+** a sensation of ''regular'' tachycardia
+** with '''post-critical polyuria'''
+** stopped by vagal manoeuvres or injection of adenosine'' or 5'-adenosine triphosphorus
+* The ECG shows :
+** per-critical: a ''regular tachycardia, most often with fine QRS'', with retrograde atrial activity (negative in the lower leads) sometimes invisible or hidden in the repolarisation
+** outside palpitations: normal pattern or indicative of ventricular pre-excitation (Wolff-Parkinson-White syndrome)
+
+[[File:Junctional Tachycardia 2.png|centric|thumb|900x900px|Tachycardia (150/min), regular, fine QRS with retrograde P' wave (negative in DII hidden in repolarization ↘️)]]
+<br />

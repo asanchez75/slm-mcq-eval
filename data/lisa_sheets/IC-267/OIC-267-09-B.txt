@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-267-09-B
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=B
+|Title=Knowing the management of severe acute acid-base disorders
+|Description=Know the main symptomatic treatments and know how to refer the patient to the appropriate service.
+|Rubric=Management
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=9}}
+
+
+*treatment of the cause +++ ;
+*CO2 elimination: correction of low flow, artificial ventilation;
+*alkalinisation :
+**discussed in lactic acidosis,
+**not recommended in ketoacidosis: insulin and rehydration are often sufficient,
+**essential in hyperchloremic acidosis or acidosis associated with certain intoxications: IV sodium bicarbonate to rapidly raise pH > 7.20 and bicarbonaemia > 10 mmol/L: quantity HCO3<sup>-</sup> (mmol) = ∆ [HCO3<sup>-</sup> ] × 0.5 × weight (kg);
+**Alkalinisation should be avoided in cases of fluid and sodium overload and/or hypokalaemia and/or hypocalcaemia.
+*extrarenal purification if associated with organic renal insufficiency (to avoid sodium bicarbonate infusion-induced sodium water overload);

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-304-09-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=Knowing the pathophysiology and risk factors of biliary tumours
+|Description=Tumours of the bile ducts
+|Rubric=Physiopathology
+|Contributors=
+|Order=9}}
+'''Chronic liver diseases''' are risk factors for intrahepatic cholangiocarcinoma.
+
+Primary sclerosing cholangitis, a chronic inflammatory disease of the bile ducts, is a major risk factor for peri-hepatic and extra-hepatic cholangiocarcinoma.
+
+However, unlike HCC, the majority of cholangiocarcinomas occur "de novo", i.e. without any identified risk factor.

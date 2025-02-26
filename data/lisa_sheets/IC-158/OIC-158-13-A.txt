@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-158-13-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Know how to initiate immediate management of purpura fulminans
+|Description=Inject the first dose of antibiotic (cefotaxime or ceftriaxone, or amoxicillin) and refer the patient (resuscitation via medical transport).
+|Rubric=Management
+|Contributors=
+|Order=13}}
+
+
+*As soon as purpura fulminans is suspected, antibiotics must be administered immediately. The details of this antibiotic treatment (molecule, dosage, route of administration) must be known.
+*It consists of administering a dose of 50 mg/kg of ceftriaxone or, failing that, 100 mg/kg of cefotaxime, or 100 mg/kg of amoxicillin ([[Prescribe an anti-infective SD-255|prescribe an anti-infective]])''.
+*If you are in hospital, antibiotics will be administered intravenously after taking blood cultures.
+*If outside the hospital, antibiotics will be administered intramuscularly or intravenously.
+*The patient should be referred immediately to a "resuscitation department", with "medical transport" and additional respiratory precautions such as droplet therapy.

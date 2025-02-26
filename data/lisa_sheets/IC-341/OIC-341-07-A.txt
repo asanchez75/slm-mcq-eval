@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-341-07-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Meningeal subarachnoid haemorrhage CT scan
+|Description=1.subarachnoid haemorrhage; 2.cerebro-meningeal haemorrhage (haematoma)
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+
+[[File:Cerebral CT scan showing meningeal haemorrhage.jpg|vignette|Cerebral CT scan showing meningeal haemorrhage]]
+[[File:Figure 4 item 341 - Cerebral angioscan centred on the polygon of Willis.jpg|vignette|Cerebral angioscan centred on the polygon of Willis]]
+[[File:Figure 5 item 341 - Cerebral CT scan of a subarachnoid haemorrhage complicated by ventricular flooding at the level of the lateral ventricles.jpg|vignette|CT scan of a subarachnoid haemorrhage complicated by ventricular flooding]]
+("''[[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]]''')

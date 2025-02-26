@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-011-03-A
+|Item_parent=Violence and health
+|Item_parent_short=Violence and health
+|Rank=A
+|Title=Knowing how to identify situations of interpersonal violence
+|Description=Situations of vulnerability, dangerousness, etc.
+|Rubric=Diagnosis
+|Contributors=Laurène Dufayet,Eulalie Pefferkorn
+|Order=3}}
+
+'''Systematic screening for situations of violence:'''
+
+Violent situations must be systematically identified during the interview with a patient, even if there are no warning signs, and whatever the reason for consultation.
+
+It is therefore advisable for the practitioner to carry out this screening by addressing the question of violence in the same way as that of personal and family medical and surgical history, cardiovascular risk factors, toxic intake, etc. In this way, the practitioner can explain that all patients are asked the same question.
+
+This question will of course need to be adapted according to the context, but should aim to detect domestic violence as well as violence at work or violence at school for children/adolescents. Similarly, the question of exposure to domestic violence should be asked systematically during pregnancy (even for women undergoing abortion). It can even be raised in the case of women consulting a doctor with a desire to become pregnant and in the year following childbirth. Pregnancy is a high-risk situation for domestic violence.
+
+'''Identifying situations of violence:'''
+
+Certain situations should raise the possibility of violence. These are by no means "explanatory factors", but situations that should alert the practitioner to the possibility of violence. These risk situations and warning signs are summarised in the table below:
+{| class="wikitable"
+|'''Situations / antecedents''''
+|- Recent separation
+
+- Pregnancy
+
+- Psychological, physical or social vulnerability
+
+- History of domestic violence in childhood
+|-
+|Complaints
+|- Multiple and/or vague and/or chronic unexplained complaints and symptoms (chronic pain, asthenia, etc.)
+|-
+|'''Behaviours'''
+|- Frequent consultations
+
+- Delayed appointments, missed appointments
+
+- Compliance problems (treatment, advice)
+|-
+|Psychological signs
+|- Break with previous psychological state (eating disorders, addictions, sleep disorders, etc.)
+
+- Post-traumatic stress disorder
+
+- Suicidal thoughts
+|-
+|Physical signs
+|- Repeated and/or poorly explained traumatic injuries
+
+- Unbalanced chronic illness
+|-
+|Sexual and reproductive health
+|- Unwanted pregnancies, repeated abortions
+
+- Request for STI test or repeated STIs
+
+- Poor pregnancy monitoring
+|-
+|'''Related to children'''
+|- [[Child, adolescent : How to recognise a situation suggesting abuse 2C-057-IU-A01|2C-057-IU-A01]]
+|}
+<br />

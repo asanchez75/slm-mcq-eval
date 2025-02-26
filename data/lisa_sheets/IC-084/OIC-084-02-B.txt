@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-084-02-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Know the principles of measuring intraocular pressure in relation to corneal thickness.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Intraocular pressure (IOP) or ocular tone (OT) can be measured in two ways:
+
+- using an aplanation tonometer fitted to the slit lamp: the principle is to determine the TO by applying a vacuum to the cornea and measuring the force required to make it flat (aplanation). This measurement is carried out by the ophthalmologist.
+
+- or using an automated pulsed air tonometer, which has become the most commonly used routine method and can be delegated to a paramedic.
+
+*The TO can also be assessed by bidigital palpation; however, this only gives an approximation and in practice is only of value in the event of a very significant rise in the TO (an examination available to any healthcare professional, useful for screening for an acute glaucoma attack).
+
+Normal TO is most often between 10 and 20 mmHg; ocular hypertonia is defined as IOP greater than or equal to 22 mmHg. It is necessary to correlate the figures measured with the measurement of corneal thickness (corneal pachymetry). Thicker corneas are less deformable and overestimate intraocular pressure, whereas thinner corneas are more easily deformed and underestimate intraocular pressure.
+
+It is important to remember that at a given pressure, the presence of a ''thin cornea'' represents a ''greater risk'' of the onset of glaucoma.
+
+<br />

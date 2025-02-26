@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-090-11-B
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Salivary gland pathology
+|Rank=B
+|Title=Know the two main histological types of salivary tumour
+|Description=Pleomorphic adenoma, adenoid cystic carcinoma
+|Rubric=Definition
+|Contributors=
+|Order=11}}
+Salivary gland tumours can be benign or malignant.
+
+The two most common histological types are cystadenolymphoma (Whartin's tumour) and pleomorphic adenoma, which are benign tumours.
+
+*'''<u>Benign tumours:</u>''''
+**Warthin tumour or cystadenolymphoma (45 to 55% of all tumours),
+**Pleomorphic adenoma (20 to 30% of all tumours).
+
+*'''<u>Malignant tumours:</u>''''
+**<u>primitive:</u>
+***Mucoepidermoid carcinoma
+***Acinar cell carcinoma
+***Adenoid cystic carcinoma
+**<u>secondary:</u> metastases of cutaneous carcinomas (scalp in particular) and melanomas, kidney cancer, breast cancer.
+
+The risk of malignancy is higher the smaller the gland concerned. The malignant/genic ratio in the parotid gland is around 20/80%, whereas in the accessory salivary glands it is 60/40%.
+
+<br />

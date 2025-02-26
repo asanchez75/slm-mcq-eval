@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-098-03-B
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=B
+|Title=To know and know how to look for the frequent pathologies associated with myasthenia
+|Description=Thymic pathology, autoimmune pathologies
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+
+
+=== 1- Thymus and myasthenia ===
+
+* In 60% of patients, the majority of whom are women under 45 with anti-RACh antibodies, the thymus is the site of hyperplasia (proliferation of germinal follicles composed of B lymphocytes with a crown of T lymphocytes).
+* 15-20% of patients develop a thymoma (a tumour consisting of epithelial and lymphocytic cells), usually after the age of 40. Thymomas can be benign (they do not cross the thymic capsule) or malignant and require surgery.
+* These elements justify a thoracic scan if myasthenia is discovered ([[Request for an imaging examination SD-231|Request for an imaging examination]]). If there is any doubt about a thymoma, an iodine injection is indicated outside of a relapse, as it may aggravate unstable myasthenia ([[Reasoned request/prescription and choice of a diagnostic test SD-178|Reasoned request/prescription and choice of a diagnostic test]]).
+
+=== 2- Myasthenia and autoimmune diseases ===
+
+* Myasthenia can be associated with other autoimmune diseases.
+* Most commonly thyroid disease (Basedow, thyoiditis): approximately 10% of patients ([[Thyroid work-up analysis SD-194|Thyroid work-up analysis]]).
+* Other associations in about 5% of cases: rheumatoid arthritis, Gougerot-Sjogren's disease, Biermer's disease, systemic lupus erythematosus, etc.).
+* Biological tests for other autoimmune disorders should include the following: T4, TSH, antithyroid antibodies, vitamin B12 levels, rheumatoid factors, FAN, anti-DNA and anti-NAA antibodies.

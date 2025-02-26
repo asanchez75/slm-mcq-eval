@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-130-15-B
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=B
+|Title=Knowing the criteria for frailty
+|Description=Fried's criteria
+|Rubric=Definition
+|Contributors=
+|Order=15}}
+'''Fried's criteria''''
+
+The person is robust if there are no criteria, pre-fragile if there are 1 or 2 criteria and fragile if there are at least 3 criteria.
+
+1. weight loss
+
+'''2.         Subjective fatigue
+
+'''3.         Reduced physical activity''
+
+'''4.         Reduced walking speed'''
+
+'''5.         Reduced grip force'''

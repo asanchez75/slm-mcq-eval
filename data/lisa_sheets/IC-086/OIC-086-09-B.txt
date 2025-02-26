@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-086-09-B
+|Item_parent=Eyelid pathology
+|Item_parent_short=Eyelid pathology
+|Rank=B
+|Title=Knowing how to suspect a malignant palpebral tumour
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+'''Most frequent benign palpebral tumours:'''
+
+*papilloma
+*hidrocystoma (lacrimal cyst)
+*xanthelesmas (cholesterol deposits)
+
+'''Most frequent malignant palpebral tumours:'''
+
+*<u>Epithelial tumours:</u>
+**basal cell carcinoma, which presents a risk of ulceration and local decay
+**and more rarely the more aggressive "squamous cell carcinoma" with metastatic potential.
+
+*<Malignant non-epithelial tumours
+**malignant melanoma
+**MALT lymphoma
+
+
+'''The signs of malignancy of a palpebral tumour are as follows:'''
+
+* rapid and continuous growth ;
+* heterochromia
+* tissue invasion ;
+* loss of eyelashes (Madarosis);
+* for basal cell carcinoma: pearly nodules and telangiectasias.
+
+
+Management of malignant tumours of the eyelids: this requires the opinion of a multidisciplinary consultation meeting, and can range from removal with simple surveillance (nodular basal cell carcinoma removed in its entirety) to combined radio-chemotherapy depending on the histology and the margins of removal.

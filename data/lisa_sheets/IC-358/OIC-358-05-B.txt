@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-358-05-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Intitle=Knowing how to identify a secondary infectious complication
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Superinfection of pancreatic necrosis flows is a serious complication of AP, associated with excess mortality.
+
+Onset: 2 to 4 weeks after the start of hospitalisation
+
+Mechanism: bacterial translocation originating in the digestive tract
+
+Evocative signs :
+
+* clinical: hyperthermia ('''"'' ''[[Hyperthermia/fever SDD-044|hyperthermia/fever]]'''), onset or worsening of SIRS
+* biological: appearance or increase in a biological inflammatory syndrome ('''" [[C-reactive protein (CRP) elevation SD-203|C-reactive protein (CRP) elevation]]", "[Acute or chronic inflammatory syndrome SDD-186|acute or chronic inflammatory syndrome]"'')
+* radiological: presence of air bubbles within necrotic flows on CT scan (inconstant) ('''" [Discovery of an abdominal abnormality on medical imaging examination SD-224|discovery of an abdominal abnormality on medical imaging examination]]"'')
+
+Differential diagnoses: other causes of infection: value of multi-site bacteriological sampling in the initial phase (ECBU, catheter swab, lung sample)

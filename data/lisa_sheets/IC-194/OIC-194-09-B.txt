@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-194-09-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=Photograph of a livedo racemosa
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Luc Mouthon
+|Order=9}}
+[[File:Livedo racemosa.jpg|left|thumb|Livedo racemosa, 40-year-old woman, Sneddon syndrome]]

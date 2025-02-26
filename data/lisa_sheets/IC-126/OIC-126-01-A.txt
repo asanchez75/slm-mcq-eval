@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-126-01-A
+|Item_parent=Erectile dysfunction
+|Item_parent_short=Erectile dysfunction
+|Rank=A
+|Intitle=Know the definition of the different types of erectile dysfunction and their aetiologies
+|Description=Organic. Psychogenic. Mixed, iatrogenic
+|Rubric=Definition
+|Contributors=Thomas Bessède Laure Cazabat
+|Order=1}}
+
+==Description:==
+
+*Erectile dysfunction is the inability, for at least 3 months, to obtain or maintain an erection sufficient for satisfactory sexual activity.
+*Psychogenic causes include psychiatric, psychological, socio-affective, reactionary (positive or negative life events) and situational causes (performance anxiety). Nocturnal erections are generally retained.
+*Organic causes refer to damage to the organs or tissues involved in erection. It includes neurological, vascular, hormonal, cavernous and iatrogenic causes. It generally affects nocturnal erections.
+*Hormonal causes combine a drop in libido with erectile dysfunction.
+*A mixed cause is common and means that any organic cause must be ruled out when there is a predominantly psychogenic cause, and that performance anxiety may aggravate an organic cause.
+
+<br />

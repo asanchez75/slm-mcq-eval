@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-105-04-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Defining idiopathic (presumed genetic) epilepsy and the aetiological classification of epilepsies
+|Description=Presumed or proven genetic, structural, infectious, dysimmune and metabolic epilepsy.
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+The causes of epilepsy fall into five broad categories which are not mutually exclusive:
+
+- genetic causes": 40 % of epilepsies, but only a few are accessible to a precise genetic diagnosis; the others are linked to a presumed genetic origin on the basis of electroclinical data and family history, and are referred to as ''presumed genetic''; The term "idiopathic" has recently been reintroduced into the international classification, but now refers to only four epileptic syndromes within these genetic generalised epilepsies (childhood absence epilepsy, adolescent absence epilepsy, juvenile myoclonic epilepsy, epilepsy with tonic-clonic generalised seizures alone). 
+
+- '''structural causes (lesions):''' can be congenital (cortical malformations, vascular malformations) or acquired (post-traumatic, tumoral, vascular);
+
+- Inflammatory or dysimmune causes (autoimmune encephalitis);
+
+- Infectious causes (post-meningitis, post-encephalitis);
+
+- ''Metabolic causes'': may be secondary to a genetic or acquired cause.
+
+When no cause is suspected or identified, the aetiology is said to be "unknown".
+
+<br />

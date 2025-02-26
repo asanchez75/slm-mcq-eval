@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-012-07-B
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=B
+|Title=Knowing the objectives of caring for victims of sexual assault
+|Description=Multidisciplinary, forensic, psychological care
+|Section=Management
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=7}}
+
+Victims of sexual assault frequently come to emergency departments or general practices, and all doctors should be able to receive and treat them. Sexual violence should also be considered when the patient does not mention it, but consults, for example, for a check-up of sexually transmitted diseases (STDs). Sexual assault is both a legal and a medical emergency.
+
+Initial treatment should take place in a ''calm place'', with ''empathy'' and without making the victim feel guilty.
+
+It must be ''comprehensive and multidisciplinary'' and have several facets:
+
+o '''[[Know the stages of the interview and clinical examination 2C-012-DP-A01|Medical]]''': do not forget [[Know that there is an emergency treatment adapted to the situation 2C-012-PC-B02|emergency treatments and the associated biological work-up]], [[Describe the procedures for managing sexual exposure during violence (rape) 2C-366-PC-B02|detection and management of the risk of infection]],
+
+o '''Forensic''' :
+
+*Systematically inform people of the possibility of filing a complaint, with a limitation period of 20 years for adult victims and 30 years from the age of majority for minor victims (i.e. until the age of 48) (Law of 21 April 2021<ref>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043403203</ref>),
+
+*Provide information on the possibility of filing a report with the consent of the adult victim (if the victim does not wish to lodge a complaint, he or she can sometimes accept the report with consent),
+
+*Carry out a [[Know the definition of a judicial report and a judicial requisition 2C-012-DE-B02|report]] for minor victims (informing them if possible),
+
+*Systematically draw up a [[Know the general rules for drawing up a medical certificate 2C-013-DE-A01|initial medical certificate]] and give it to the victim, if the examination is not the subject of a requisition;
+
+o ''Psychological'': offer psychological support;
+
+o ''Social'': assess the need for shelter (emergency accommodation, hospitalisation);
+
+o '''Associative'''<ref>https://arretonslesviolences.gouv.fr/associations-de-lutte-contre-les-violences-sexistes-et-sexuelles</ref>: give the victim the contact details of local victim support associations, frequently including discussion and support groups for victims of sexual violence.
+<references />

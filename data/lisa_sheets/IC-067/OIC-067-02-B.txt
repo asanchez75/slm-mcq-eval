@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-067-02-B
+|Item_parent=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Item_parent_short=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Rank=B
+|Title=Know the DSM-5 diagnostic criteria
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame
+|Order=2}}
+
+==Criteria for positive diagnosis==
+The diagnosis of ASD is based on the '''early presence in''' the development of d''''anomalies in communication and social relationships'' as well as a '''restricted character of behaviours, interests and activities'', the whole being associated with a '''functional repercussion.'''
+
+The positive diagnosis of ASD is supported by a multi-disciplinary assessment including:
+
+*A clinical examination
+*A developmental history and characterisation of current symptoms (semi-structured interview with parents, such as the Autism Diagnostic Interview-Revised version - ADI-R).
+*Observation of the child (e.g. using the Autism Diagnostic Observation Scale - ADOS)
+
+
+In the case of a positive diagnosis of ASD, you must specify :
+
+*The severity of symptoms
+*the existence of an intellectual development disorder
+*the existence of a language disorder
+*any known genetic or medical pathology or environmental factors
+*any co-existing disorders
+
+==Main comorbidities===
+
+*Other neurodevelopmental disorders (see item 55), in particular :
+**Intellectual development disorder (40%)
+**ADHD (30-40%)
+**Language disorders (20% have no verbal language)
+**Developmental motor coordination disorder
+**Specific learning disability
+**Tics
+*Epilepsy (20%)
+*Certain psychiatric syndromes and disorders, including :
+**Anxiety disorders, depressive disorders (cf. [[Item 66]]), obsessive-compulsive symptoms and disorders.
+**Sleep disorders
+**Catatonic syndromes
+
+== Main differential diagnoses ==
+
+*Other neurodevelopmental disorders
+*Deafness
+*Schizophrenic disorders (see Item 63)
+
+== The diagnostic process is completed by ==
+
+*An "etiological investigation" based on possible warning signs (additional clinical analysis, complementary tests, genetic work-up).
+*The search for "problem behaviours" (aggression, self-vulnerable behaviour, etc.) often linked to non-psychiatric pathologies or environmental factors.
+
+<br />

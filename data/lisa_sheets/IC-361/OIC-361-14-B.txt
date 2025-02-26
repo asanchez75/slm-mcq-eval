@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-361-14-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Knowing the indication and value of imaging examinations as first-line treatment for retractile capsulitis
+|Description=Standard radiographs (normal).
+|Section=Additional examinations
+|Contributors=CFCOT
+|Order=14}}
+
+In the case of retractile capsulitis, imaging is not used to establish the diagnosis but ''it is used to rule out other causes of limited shoulder mobility''.
+
+The plain radiograph is usually normal. However, it can be used to rule out glenohumeral osteoarthritis or humeral head elevation in the case of an associated cuff tear.
+
+As far as ultrasound is concerned, the signs are too inconsistent to help with the diagnosis.
+
+Bone scintigraphy may show "3-point" hyperfixation (humeral head, acromion, coracoid). However, this is not very specific.
+
+An ''arthrography'' prior to infiltration or combined with a CT scan or MRI scan can demonstrate a ''loss of elasticity of the capsule with a sensation of resistance to injection'' (less than 8cc can be injected) with reflux of fluid when pressure is released.
+
+MRI is the most effective test in cases of diagnostic doubt. There is significant concordance between the abnormalities observed on MRI and the clinical examination. Signs change as the disease progresses. When clinical signs are very marked, inflammatory signs may be observed in the rotator interval. Gadolinium injection reveals intense capsulosynovial contrast, which may be associated with bursitis. The ''enhancement of the rotator interval and axillary recess is the most specific of this pathology''.

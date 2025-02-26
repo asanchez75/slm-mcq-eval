@@ -1,0 +1,99 @@
+{{knowledge objective
+|Identifiant=OIC-336-13-A
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=A
+|Title=Know the main causes of non-traumatic coma in adults and children
+|Description=toxic, infectious, metabolic, epileptic, vascular
+|Rubric=Etiologies
+|Contributors=Nicolas Weiss
+|Order=13}}
+
+- Causes of injury :
+
+o Vascular :
+
+§ Meningeal haemorrhage
+
+§ Intracerebral haematoma
+
+§ Ischaemic stroke (basilar trunk thrombosis, malignant sylvian stroke)
+
+§ Cerebral thrombophlebitis
+
+o CNS infections
+
+§ Meningitis
+
+§ Meningoencephalitis
+
+§ Encephalitis
+
+§ Brain abscess
+
+- Non-injury causes :
+
+o Metabolic
+
+§ Hypercapnic encephalopathy
+
+§ Uremic encephalopathy
+
+§ Hepatic encephalopathy
+
+§ Hypo-hypernatremia
+
+§ Hypo-hypercalcaemia
+
+§ Constitutional metabolic disease
+
+o Endocrine
+
+§ Hypoglycaemia
+
+§ Hypothyroidism
+
+§ Adrenal insufficiency
+
+o Residential
+
+§ Gayet-Wernicke syndrome (vitamin B1 deficiency)
+
+§ Pellagra (vitamin PP deficiency)
+
+o Withdrawal
+
+§ ''Delirium tremens'' in its severe form (alcohol withdrawal)
+
+§ Benzodiazepine withdrawal
+
+o Poisoning
+
+§ Benzodiazepines
+
+§ Opioids
+
+§ Neuroleptics
+
+§ CO
+
+§ ...
+
+o Epileptics
+
+§ Etat de mal épileptique
+
+§ Post-critical coma
+
+o HTIC
+
+§ Intracerebral expansive processes: tumours, abscesses
+
+§ Cerebral thrombophlebitis
+
+§ Pseudotumor cerebri (benign intracranial hypertension)
+
+
+NB: sometimes a traumatic coma can take on the appearance of a non-traumatic coma (no obvious notion of trauma), so beware!
+
+NB: low cerebral blood flow of systemic origin (shock) may result in a non-traumatic coma.

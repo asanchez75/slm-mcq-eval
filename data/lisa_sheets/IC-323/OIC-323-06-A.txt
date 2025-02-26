@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-323-06-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition and role of a placebo medicinal product
+|Description=Know how to define and justify the use of placebo medicinal products in research and clinical practice.
+|Topic=Definition
+|Contributors=Pierre-Olivier Girodet,Jerôme Lambert (CIMES),Nathanaël Lapidus (CIMES),David Hajage (CIMES)
+|Order=6}}
+
+Placebo and clinical research
+
+- Comparative clinical trial, particularly phase 3.
+
+*Comparator of the experimental treatment studied: reference treatment or placebo allowing the study to be carried out in a blinded fashion.
+*Objective: the difference in health status between the groups is attributable to the specific effect of the treatment under study.
+*Need for randomisation to ensure initial comparability between groups, and a double-blind design to maintain comparability throughout the study.
+
+- Conditions for using placebo
+
+*Clinical trial with no reference drug in the indication (a rare situation in practice).
+*Clinical trial comparing two active treatments to make them indistinguishable (double placebo).
+*Comparative trial evaluating the addition of a new treatment to the reference treatment ("add-on": reference treatment + new treatment vs reference treatment + placebo).
+
+Placebo and clinical practice
+
+- Placebo effect potentially present in all medical procedures.
+
+- Placebo "medicine": No indication these days.
+
+- Certain paramedical practices, such as homeopathy, are based on the placebo effect: they aim to improve certain functional signs in the absence of an active principle, thanks to the context in which the product is prescribed and administered.

@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-233-02-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Know the mechanisms and pathophysiological consequences of MI, IA, RA, MR.
+|Description=
+|Section=Pathophysiological elements
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=2}}
+
+'''Mitral insufficiency:''' its importance and clinical consequences depend on the size of the regurgitant orifice, the filling pressures of the LV and the acute or chronic nature of the leak.
+
+* ''Mechanisms: Carpentier classification:''
+** Type I: closure in the plane of the annulus/normal valve movement: perforation, annular dilation, etc.
+** Type II: closure of the leaflets beyond the plane of the annulus: prolapse, rupture of cordage, etc.
+** Type III: Closure of the leaflets downstream of the plane of the annulus towards the LV (tenting) with restriction of movement of the valve leaflets in systole for functional leaks, in systole and diastole for organic leaks: rheumatic, anorexigenic, ...
+* ''Physiopathological consequences:''
+** Acute MI: sudden increase in preload and pressure in the slightly dilated OG, sudden post-capillary PAH with ''acute pulmonary oedema (APO)''.
+** Chronic MI: LV dilatation and hyperkinesia (Starling's law), reduction in afterload due to systolic ejection into the OG, dilatation of the OG, with delayed onset of PAH and clinical signs.
+
+'''Aortic stenosis:''' classically slow progression, the most common valvulopathy in developed countries
+
+* Mechanisms: "degeneration" with calcification and fibrosis of the valve leaflets impairing systolic ejection.
+* Physiopathological consequences:''
+** Increase in afterload due to increase in LV-to-aorta gradient
+** Adaptation of the left ventricle: concentric hypertrophy (LVH) without dilatation
+** Relaxation disorder with diastolic heart failure and late impairment of contractility
+** Functional coronary insufficiency
+
+'''Aortic insufficiency:''' the severity of the leak depends on the size of the regurgitant orifice and the duration of diastole
+
+* Mechanisms:'' by anomaly of the aortic root or by damage to the valve
+* Physiopathological consequences:
+** Acute AI :
+*** Abrupt LV overload (volume + pressure) due to relative increase in afterload
+*** Sudden increase in pre-load and decrease in coronary flow
+** Chronic AI:
+*** LV dilatation due to volume overload associated with moderate LVH due to increase in systolic ejection volume (SEV)
+*** Eventual fibrosis and LV dysfunction
+** Increase in systolic BP, decrease in diastolic BP, arterial hyperpulsatility due to peripheral hyperflow
+
+Mitral re-narrowing'': valvulopathy which has become rare in industrialised countries because it is most often of rheumatic origin.
+
+* Mechanisms'': commissural fusion + lesions of the subvalvular apparatus and/or calcifications of the annulus impeding valve opening and narrowing the mitral orifice.
+* Physiopathological consequences:
+** Obstruction between the OG and the VG: significant dilatation of the OG allowing pressure damping but resulting in a high risk of ''AF and thromboembolic complications''
+** Pressive overload upstream of the mitral valve: progressive pulmonary repercussions with post-capillary pulmonary hypertension then ''fixed pre-capillary leading to congestive heart failure''.

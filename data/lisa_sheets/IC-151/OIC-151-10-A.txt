@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-151-10-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing the indication for a lumbar puncture
+|Description=Complications, contraindications
+|Rubric=Additional examinations
+|Contributors=Dr Olivier Robineau
+|Order=10}}
+Any clinical suspicion of meningitis should benefit from an emergency lumbar puncture.
+
+There are some contraindications to its immediate use:
+
+- Haemodynamic instability
+
+- Infection of the puncture site
+
+- Clinically suspected or known haemostasis disorders
+
+- Focus sign
+
+- Persistent convulsive seizure
+
+- Glasgow<12
+
+- Signs of cerebral involvement

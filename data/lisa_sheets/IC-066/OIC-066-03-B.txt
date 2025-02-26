@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-03-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the risk factors, prognosis and course of the disorder
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=3}}
+
+Risk factors: low socio-economic level, psychiatric disorders, somatic illnesses, [[Maltreatment and children at risk: sexual abuse: knowing how to evoke the diagnosis 2C-057-ET-A02|trauma]] in childhood, personal and family history of mood disorder.
+
+Poor prognostic factors: female gender, early onset, number of recurrences, severity of episode, residual symptoms, psychiatric or non-psychiatric medical co-morbidity.
+
+EDC can be isolated over a lifetime (50%), recurrent (35%), or chronic with a course of more than 2 years (15%). Resistance to [[Antidepressants: Rules for their correct use at all stages of life, particularly in children/adolescents and elderly patients 2C-074-PC-B04|antidepressants]] is defined as the failure of two [[Antidepressants: Main classes and molecules 2C-074-DE-A03|antidepressants]] in sufficient dosage and duration.

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-334-22-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to suspect thoracic trauma
+|Description=Identify suggestive signs: history, inspection (belt sign, contusion, wound).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=22}}
+
+
+*'''History:''' chest pain ('''[[Chest pain SD-161|chest pain]]'''''), dyspnoea
+*Signs of acute respiratory distress ('''[[Acute respiratory distress SD-160|acute respiratory distress]]'''''), signs of shock ('''[[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]]''''')
+*'''Inspection:''''Belt sign'', parietal wounds and contusions, costal flap, haemoptysis
+*Palpation: fractures, subcutaneous emphysema
+*Auscultation: auscultatory asymmetry, crackling rales ("''[[Discovery of anomalies on pulmonary auscultation SDD-020|discovery of anomalies on pulmonary auscultation]]''')

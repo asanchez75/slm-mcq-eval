@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-252-03-B
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=B
+|Title=Knowing the main risk and prevention factors for undernutrition in the elderly
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+'''The risk factors for undernutrition are numerous and often multiple in an elderly patient:'''
+
+* Dependency
+* Psycho-socio-environmental factors (bereavement, institutionalization, social isolation, etc.)
+* Any symptomatology (including pain) or acute medical or surgical pathology linked to hypercatabolism (such as an inflammatory context) which associates :
+** Muscle catabolism (reduction in muscle mass), which represents the primary source of mobilisable energy
+** Depletion of lipid reserves (reduction in adipose tissue)
+** Changes in carbohydrate metabolism
+
+* Any chronic pathology at a severe stage (cardiac, respiratory, renal and hepatic) but also major neurocognitive disorders, psychiatric pathology (in particular depression) or cancer.
+* Any acute situation that makes access to food (impotence) or eating itself (oral problems, swallowing problems or behavioural problems) more difficult.
+* Iatrogenic medication (polymedication, dry mouth, dysgeusia, anorexia, somnolence, etc.).

@@ -1,0 +1,132 @@
+{{knowledge objective
+|Identifiant=OIC-020-22-A
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=A
+|Intitle=Absolute or adjusted measures of association, difference of means, absolute risk reduction (ARR), relative risk reduction (RRR), number needed to treat (NNT) and crude incidence rate ratio.
+|Description=Know how to define/recognise/interpret: Crude or adjusted measures of association (relative risk, risk difference, odds ratio and hazard ratio), difference of means, Absolute Risk Reduction (ARR), Relative Risk Reduction (RRR), Number needed to treat (NNT) and crude incidence rate ratio.
+|Rubric=Definition
+|Contributors=David Hajage (CIMES),Jérôme Lambert (CIMES),Alexandra Rouquette (CIMES)
+|Order=22}}
+
+'''Measures of association''': to measure the risk associated with an exposure, the basic risk must be taken into account.
+{| class="wikitable"
+| colspan="4" |Table. Crude measures of association
+|-
+|'''Conditions of use''''
+|'''Parameter'''
+|'''Description'''
+|No effect'' value
+|-
+| rowspan="2" |
+*Judgement criterion/variable to be explained ''': quantitative'''
+*Exposure factor/explanatory variable: '''quantitative'''
+
+(e.g. relationship between weight and height)
+|Linear correlation coefficient (r)
+|Takes a value between -1 and 1.
+
+Is all the closer to 1 (in absolute value) that the relationship between the variables is linear (y = a x + b with a ≠ 0)
+|0
+|-
+|Coefficient of determination (r²)
+|Takes values between 0 and 1.
+
+Corresponds to the square of the correlation coefficient, Evaluates the proportion of the variability of one variable explained by the other.
+|0
+|-
+| rowspan="2" |
+*Judgement criterion/variable to be explained: '''quantitative'''
+*Exposure factor/explanatory variable: '''qualitative (two classes)'''
+
+(e.g. comparison of age between men and women, comparison of systolic blood pressure according to two different antihypertensive treatments)
+|Difference in means between the two groups = m0-m1
+|May take any value, positive or negative
+|0
+|-
+|Difference in means between the two groups related to the standard deviation ('Cohen's d') = m0-m1s
+|Allows the observed difference to be interpreted in terms of the variability of the measurement.
+
+
+Can take any value, positive or negative
+
+
+A ''d'' of 0.5 indicates that the average of the second group is within half a standard deviation of the average of the first.
+|0
+|-
+| rowspan="5" |
+*Judgement criterion/variable to be explained: '''qualitative (two classes)'''
+*Exposure factor/explanatory variable: '''qualitative (two classes)'''
+
+(e.g. comparison of cancer risk according to exposure to tobacco, comparison of 5-year mortality according to two different treatments for pancreatic cancer)
+|Odds Ratio (OR) = p1/(1-p1)p0/(1-p0)
+|This is the odds ratio of being ill or not depending on the existence or absence of exposure. It can be interpreted as a relative risk when the endpoint studied is rare in the target population.
+
+Always positive, < 1 if protective factor, > 1 if risk factor
+|1
+|-
+|Relative risk (RR) = p1p0
+|Ratio of the probability of being ill (or of the event studied) if you are exposed (p1) to the probability of being ill if you are not exposed (p0).
+
+Always positive, < 1 if protective factor, > 1 if risk factor
+|1
+|-
+|Absolute risk reduction/increase (ARR)
+
+=
+
+Difference in risk (DR)
+
+=p0-p1
+|Difference between the probability of being ill if exposed (p1) and the probability of being ill if not exposed (p0).
+
+
+Takes its value between -1 and 1.
+|0
+|-
+|Relative risk reduction (RRR) = 1-RR
+|Other expression of relative risk
+
+Often expressed as a % (if RR = 0.8, RRR = 100x(1-RR) = 20%).
+|0
+|-
+|Number of subjects to treat (NST) =1DR
+|Average number of subjects that need to be treated to avoid 1 event. It is equal to the inverse of the difference in risks.
+
+
+Can be positive (if the treatment of interest is protective compared with the control treatment) or negative (if the treatment of interest is deleterious)
+|Undefined
+|-
+|
+*Judgement criterion/variable to be explained: '''censored variable'''
+*Exposure factor/explanatory variable: '''qualitative or quantitative (two-class)'''
+
+(e.g. comparison of survival according to two different treatments for pancreatic cancer)
+|Hazard Ratio (HR)
+
+
+Incidence rate ratio (IRR)
+|HR: Ratio of the instantaneous risks of occurrence of the event of interest between the exposed and the unexposed. Interpreted as a relative risk.
+
+
+RTI: Same principle, with incidence rates (see [[Frequency measurement, Prevalence, Incidence (rate), Risk 2C-020-DE-A07]]).
+
+Always positive, < 1 if protective factor, > 1 if risk factor
+|1
+|}
+'''Example'''
+Randomised controlled trial comparing the 5-year risk of cardiovascular events between a group treated with an anticholesterolaemic agent and a group treated with a placebo for primary prevention.
+
+Results (fictitious data)
+
+*Event rate at 5 years
+**Control group (placebo) (p0): 0.05 (5%)
+**Experimental group (p1): 0.03 (3%)
+*Difference in risk: p0 - p1 = 0.02 (2%)
+*Relative risk: p1/p0 = 0.6
+*Absolute risk reduction: 1-RR = 0.4 (40%)
+*<Odds ratio: [p1/(1-p1)]/[p0/(1-p0)] = 0.59</nowiki>.
+*Number of subjects to be treated to avoid a cardiovascular event: 1/(p0-p1) = 50
+
+Crude or adjusted measures of association
+The table above shows the formulae for calculating crude measures of association, i.e. unadjusted measures which do not take account of any confounding factors (see [[Understanding the concept and role of adjustment. Knowing how to interpret and read an adjusted result 2C-020-DE-B11]]). Adjusted measures are most often obtained using a multivariate analysis method (such as linear regression for the difference in means, logistic regression for the odds ratio, or a Cox model for the HR).

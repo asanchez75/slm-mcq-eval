@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-224-06-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing first-line complementary examinations
+|Description=To describe the tests used to confirm a positive diagnosis and to assess the extent of the disease.
+|Rubric= Complementary examinations
+|Contributors=
+|Order=6}}
+The minimum initial paraclinical work-up for a hypertensive patient includes:
+
+- natraemia, kalaemia, creatininaemia with estimated glomerular filtration rate,
+
+- fasting blood sugar,
+
+- exploration of a lipid anomaly in the fasting state,
+
+- search for proteinuria (proteinuria/creatinuria ratio),
+
+- resting electrocardiogram.

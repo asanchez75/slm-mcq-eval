@@ -1,0 +1,39 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the typology of randomised trials
+|Description=Superiority versus non-inferiority, parallel arm versus crossover trials
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),Jérôme Lambert (CIMES),David Hajage (CIMES)
+|Order=24
+|Identifiant=OIC-323-24-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+==='''Superiority vs. non-inferiority trial'''===
+A ''superiority trial'' is a trial in which we try to show that the efficacy of treatment A is superior to that of comparator B. Formally, we will try to show that the effect of A is statistically "<u>different"</u> from the effect of B, the direction of this difference making it possible to qualify the effect of A as "better".
+
+A ''non-inferiority trial'' aims to demonstrate that the efficacy of treatment A is not <u>"too inferior"</u> to that of treatment B, even if it is slightly inferior. In practice, a non-inferiority trial is carried out in a situation where there is no hope of a gain in efficacy and where there is a willingness to consent to a (minimal) reduction in efficacy compared with the reference treatment (which by definition is never a placebo) , if the new treatment being evaluated offers other advantages (better tolerance, ease of administration, lower cost, etc.).
+
+From a methodological point of view, a "margin of non-inferiority" is determined before the trial, which corresponds to this acceptable reduction. This limit takes into account clinical considerations on
+
+*the severity of the disease,
+*the endpoint considered,
+*the efficacy of the reference treatment
+*and the benefits of the new treatment.
+
+For the analysis, we calculate the confidence interval for the difference in efficacy (difference, OR, RR, HR, depending on the endpoint and model chosen).  If the limit of the confidence interval for the difference in efficacy exceeds this margin, non-inferiority has not been demonstrated, and conversely if it does not. An analogy can be made with superiority trials, which assess whether or not the confidence interval exceeds 0. More rarely, the conclusion is reached on the basis of a non-inferiority test (if the significance level is below the alpha threshold, non-inferiority is concluded).
+[[File:FigureSupInf.png|alt=|neant|thumb]]
+
+It should be noted that there are also "equivalence trials", which aim to demonstrate that the efficacy of the new treatment A is not excessively different from, or inferior or superior to, that of the reference treatment B. The methodology is the same with an equivalence limit: the confidence interval of the difference in efficacy must not exceed either the upper or lower limit.
+
+==='''Parallel arm vs. crossover trial'''===
+In a ''parallel arm trial'', each patient takes only one of the 2 treatments A or B, determined by randomisation. Most often, these are 2-arm trials (although it is possible to compare more than two treatments and therefore have ''k'' parallel arms).
+
+These trials may have a superiority or equivalence/non-inferiority objective.
+[[File:Figure parallel arm trial.jpg|thumbnail|Parallel arm trial|alt=|new]]
+
+
+
+In a "cross-over trial", each patient takes the 2 treatments A and B successively in an order defined by the randomisation (A then B or B then A). This can be extended to more than two treatments. The endpoint is measured after each of the two periods and the estimated effect corresponds to the mean difference between these two measurements. File:Figure essai cross-over.jpg|vignette|Essai cross-over|alt=|néant]]
+<br />The specificity of cross-over trials is that they are only suitable for diseases that are stable over time, for which it can be estimated that the patient returns to his basal state after stopping the first treatment. This ensures that patients are comparable at the start of each period. To this end, there is often a ''wash-out period''''''' at the time of crossover, during which the treatment from the first period is interrupted for a certain length of time (depending on the pharmacokinetics of the treatments evaluated). This period ensures that there is no longer any drug present in the body and therefore that the treatment effect observed at the end of the second period is linked solely to the drug of the second period and not to this effect itself + the residual effect of the drug of the first period.

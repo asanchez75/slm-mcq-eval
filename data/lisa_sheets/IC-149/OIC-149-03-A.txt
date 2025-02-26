@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-149-03-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Photographs: erythematous and erythematopulmonary angina
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=3}}
+<gallery widths="300" heights="300">
+File:Erythematopulmonary angina.jpg
+</gallery>

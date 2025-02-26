@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-012-09-A
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=A
+|Title=Identifying high-risk medical situations associated with sexual violence
+|Description=Pregnancy, STIs
+|Rubric=Identifying emergencies
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=9}}
+
+
+
+Risk of pregnancy to be assessed on a case-by-case basis, [[Know that there is an emergency treatment adapted to the situation 2C-012-PC-B02|possibility of emergency contraception up to 120 hours after the event]] ;
+
+-Risk of transmission of [[Know the frequency of the different STIs and their risk factors 2C-162-PE-B01|IST]], [[Know the modes of transmission and worldwide prevalence of the different viral hepatitis|hepatitis]] and [[Name the main indications for post-exposure prophylaxis (PEP) for HIV 2C-366-PC-B01|HIV]].
+
+-Risk of [[Sad mood/moral pain SDD-123|sad mood]], [[Anxiety SDD-116|anxiety]], [[SDD-135|sleep disorder]], [[post-traumatic stress disorder]].

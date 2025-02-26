@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-095-07-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and canal syndrome
+|Rank=A
+|Title=Knowing the indication and prioritisation of requests for complementary examinations for radiculalgia or plexopathy
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=7}}If secondary pathology is suspected: imaging of the spine, looking for inflammatory syndrome and hypercalcaemia.
+
+If no signs of seriousness: no imaging in the first instance
+
+If an invasive procedure is envisaged (infiltration, surgery): imaging of the spine recommended (MRI) and biological check-up with haemostasis (Reasoned request/prescription and choice of a diagnostic test; Drafting of the request for an imaging test; Request for an imaging test; Request for an explanation from a patient about the procedure, risks and expected benefits of an imaging test).
+
+If plexopathy suspected: EMG and discussion Lumbar puncture for CSF examination

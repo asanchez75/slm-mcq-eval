@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-334-01-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Knowing how to define a severe trauma patient
+|Description=A patient who has suffered a trauma the energy of which is likely to result in a life-threatening injury.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Severe trauma: victim of a trauma whose violence or mechanism may result in life-threatening injuries.

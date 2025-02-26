@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-344-04-A
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=A
+|Title=Knowing the complications of pre-eclampsia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=4}}
+
+- Eclampsia and PRES syndrome (posterior reversible encephalopathy)
+
+- Hemorrhagic stroke
+
+- Acute renal failure
+
+- HELLP syndrome (haemolysis, elevated liver enzymes, low platelet count)
+
+- Disseminated intravascular coagulation (DIC)
+
+- Retroplacental haematoma
+
+- Subcapsular haematoma of the fair
+
+- acute lung oedema
+
+- Retinal lesions
+
+- Malignant hypertension

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-356-06-B
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=B
+|Title=Knowing the symptoms of appendicitis in infants
+|Description=Deceptive clinical features, knowing how to recognise it in the presence of a febrile pain syndrome, diarrhoea, etc.
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=6}}
+
+Symptoms in infants: fever, altered general condition, vomiting, dehydration, abdominal distension, diarrhoea.

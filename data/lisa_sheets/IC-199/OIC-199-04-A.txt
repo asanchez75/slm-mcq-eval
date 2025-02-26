@@ -1,0 +1,99 @@
+{{knowledge objective
+|Identifiant=OIC-199-04-A
+|Item_parent=Complex regional pain syndrome (ex algodystrophy)
+|Item_parent_short=Complex regional pain syndrome (ex algodystrophy)
+|Rank=A
+|Title=Diagnosis of suspected CRPS
+|Description=Clinical diagnosis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Rank A'''
+
+'''Positive diagnosis''' heading
+
+'''Entitulé : Connaitre la démarche diagnostique devant une suspicion de SDRC'''
+
+'''Description : Clinical diagnosis'''
+
+
+- The diagnosis of CRDS is a ''clinical diagnosis'' without any other diagnosis being able to explain the symptoms.
+
+- Symptoms include pain, sensory, vasomotor and trophic/motor disorders.  
+
+.        The symptoms of CRDS fluctuate (in the same patient).  
+
+'''1-The pain'''
+
+- The pain is permanent, particularly at the beginning of the course. It is continuous, superficial or deep, aggravated by orthostatism and often "disproportionate".
+
+. The quality of the pain must be defined: shooting, burning, tingling, pins and needles, etc. It may be increased by somatosensory factors.
+
+Pain is often multi-factorial: the after-effects of a fracture (mechanical pain), oedema, neuropathic pain, continuous, paroxysmal, nocturnal or diurnal pain, etc.
+
+. The pain can lead to functional impotence, even to the exclusion of the limb concerned from the body's schema.
+
+2-''Sensory disorders'''
+
+- There may be "changes in sensitivity" to touch, pain, heat or pressure: hypoesthesia, hyperesthesia, hyperalgesia.
+
+- It is important to look for ''provoked pain'': static or dynamic mechanical allodynia, thermal allodynia to cold or heat, hyperalgesia.
+
+- Some patients will present with motor pseudoneglect with changes in perception of the size of a limb segment (increase in volume), orientation of the limb, recognition of the limb. There may be a loss of spontaneous movements, bradykinesia, asomatognosia, etc.
+
+3- '''Vaso-motor disorders'''
+
+- Vasomotor disorders include erythrocyanosis, oedema and changes in skin temperature (usually cold or hot skin).
+
+- Hypersudation can be significant.
+
+4-''Motor and trophic disorders'''
+
+- There may be amyotrophy due to under-use, reduced muscle strength and complex movements, "fine tremor of the extremities" and dystonia.
+
+- Trophic disorders'' are the most delayed. They can affect the skin and appendages (striated, brittle nails, thin or hyperkeratotic skin), but it is the capsular, joint, tendon and fascial retractions, which can set in very quickly, that determine the functional prognosis of the condition.
+
+
+'''The SDCR diagnosis is based on the Budapest criteria (Table 1)''''
+{| class="wikitable"
+|'''Table 1. BUDAPEST DIAGNOSTIC CRITERIA'''
+| colspan="2" |'''YES'''
+|'''NO'''
+|-
+|'''1. permanent pain, disproportionate to the cause''''
+|
+| colspan="2" |
+|-
+|'''2. Initial occurrence of at least 1 symptom in 3 of the 4 following parameters:'''
+
+'''- Sensory:''' hyperalgesia and/or allodynia
+
+'''- Vasomotor:''' asymmetry of temperature and/or change/asymmetry of skin colouring
+
+'''- Sweating/oedema:''' changes in sweating and/or the appearance of oedema.
+
+'''- Motor/trophic:''' weakness, tremor or dystonia and/or trophic disorders
+
+(hair, nails, skin)
+<br />
+|
+| colspan="2" |
+|-
+|'''3. Persistence at assessment of at least 1 sign in at least 2 of the following parameters:''''
+
+'''- Sensory:''' hyperalgesia and/or allodynia
+
+'''- Vasomotor:''' changes in skin colour and/or temperature
+
+'''- Sweating/oedema:''' changes in sweating and/or appearance of oedema
+
+'''- Motor/Trophic:''' weakness, tremor or dystonia and/or trophic disorders
+
+(hair, nails, skin)
+|
+| colspan="2" |
+|-
+|'''4. No other diagnosis explaining these symptoms''
+|
+| colspan="2" |
+|}

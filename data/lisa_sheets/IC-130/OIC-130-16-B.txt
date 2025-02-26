@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-130-16-B
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=B
+|Title=Know examples of specific symptoms with age or polypathology.
+|Description=Know examples of specific symptomatology.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=16}}
+- Absence of fever in infections
+
+- Anorexia without isolated peptic ulcer pain
+
+- Absence of depressed mood in a major depressive state
+
+- Absence of abdominal contracture in peritonitis
+
+- Absence of chest pain during a myocardial infarction
+
+- ...

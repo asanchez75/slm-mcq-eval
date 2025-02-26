@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-267-10-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=B
+|Title=Knowing the principles of kalaemia regulation
+|Description=None
+|Rubric=Physiopathology
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=10}}
+
+
+*Potassium is the main cation in intracellular fluids, where its concentration varies from 100 to 150 mEq/L. In a 70 kg man, potassium represents a stock of around 3,750 mmol, 98% of which is located in the intracellular compartment. The skeletal muscle cell constitutes the largest potassium reserve. For a 70 kg man, 28 kg of muscle cells correspond to 2,600 mmol of potassium.
+*Potassium is not very abundant in the extracellular compartment (less than 2% of total potassium) but its plasma concentration is very finely regulated. Normal plasma values are between 3.5 and 5.0 mmol/L. Kalaemia is finely regulated by internal regulatory systems, linked to NaK-ATPase activity, and external systems (mainly kidneys, adrenals, liver and digestive tract):
+**The internal systems regulating intracellular potassium transfer via NaK-ATPase activity are :
+***Catecholamines, which stimulate cellular uptake of K+ (β-adrenergic effect);
+***Insulin, which stimulates cellular K+ entry;
+***Acid-base state: metabolic acidosis blocks cellular K+ entry (inhibition of NaK-ATPase). It also increases the passive leakage of potassium into the extracellular sector.
+**Systems regulating external potassium homeostasis: Mainly aldosterone.

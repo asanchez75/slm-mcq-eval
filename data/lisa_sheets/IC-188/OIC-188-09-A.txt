@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-188-09-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Knowing how to diagnose asthma exacerbations in children and adults.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+The diagnosis is clinical:
+
+o progressive increase in symptoms lasting at least two days and requiring a change in treatment
+
+o not soothed by rapid-acting bronchodilators used frequently and in large quantities
+
+o without returning to the usual state

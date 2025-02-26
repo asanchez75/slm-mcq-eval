@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-340-03-A
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the diagnostic and therapeutic urgency of stroke
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=3}}
+- Stroke is an absolute diagnostic and therapeutic emergency that must be regulated by the SAMU-centre 15 (Stroke alert, activation of the stroke network, transport of the patient to a specialised care unit).
+
+- The aim of emergency treatment is to limit the extension of the necrosis zone in the case of cerebral infarction and to reduce the expansion of the haematoma in the case of cerebral haemorrhage.
+
+- The final diagnosis is made after urgent imaging of the cerebral parenchyma and imaging of the extra- and intra-cerebral vessels (MRI, CT scan) ([[Request for an imaging examination SD-231|Request for an imaging examination]] ; [Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]] ; [[Discovery of a brain abnormality on medical imaging examination SD-226|Discovery of a brain abnormality on medical imaging examination]])
+
+In the event of ischaemic stroke, if the neurologist ± interventional neuroradiologist decides that a vascular recanalisation procedure is indicated:
+
+- the therapeutic window is 4? hours after the onset of the first symptoms for intravenous thrombolysis using rt-PA (in a telestroke centre or local neurovascular unit) ± combined with an endovascular mechanical thrombectomy procedure (if proximal occlusion, within 6 hours) in an interventional neuroradiology centre.
+
+Whatever the type of stroke, associated therapeutic measures must be taken as a matter of urgency:
+
+- Clinical and repeated monitoring (NIHSS score, Glasgow score, pupil examination, swallowing disorders);
+
+- Control of ACSOS: factors of secondary cerebral aggression of systemic origin with control of arterial hypo/hypertension, hypoxaemia, hyperthermia, hyperglycaemia; ([[Hyperglycaemia SD-208|Hyperglycaemia]]; [[Arterial hypertension SD-042|Arterial hypertension]]; [[Discovery of arterial hypotension SD-043|Discovery of arterial hypotension]])
+
+- Check for physical signs of cerebral oedema and initiate treatment if present.

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-334-02-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the causes of mortality after trauma
+|Description=Early mortality (haemorrhage and cranial trauma), late mortality (cranial trauma, multivisceral failure).
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+
+{| class="wikitable"
+|'''Causes of early mortality''''
+|'''Causes of late mortality'''
+|-
+|Haemorrhage
+
+Head trauma
+|Consequences of head trauma
+
+Multivisceral failure syndrome
+
+Complications of multivisceral failure syndrome
+|}

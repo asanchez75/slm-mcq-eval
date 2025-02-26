@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-300-09-B
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=To understand the descriptive epidemiology of endometrial cancer in France
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=9}}
+
+The number of new cases of cancer of the corpus uteri in women in metropolitan France in 2018 was 8224. The median age at diagnosis is 69.
+
+Survival for all stages combined is 73% at 5 years.

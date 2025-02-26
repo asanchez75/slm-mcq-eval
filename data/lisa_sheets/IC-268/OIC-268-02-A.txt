@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-268-02-A
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=A
+|Title=Identifying hypercalcaemia
+|Description=Know the main symptoms associated with hypercalcaemia: dehydration, altered general condition, digestive problems, confusional syndrome, pathological fractures, etc.
+|Rubric=Positive diagnosis
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=2}}
+
+. Hypercalcaemia is defined as
+
+*a total blood calcium level greater than 2.60 mmol/L
+*an ionised blood calcium level greater than 1.30 mmol/L
+
+. Any total hypercalcaemia must be confirmed by measuring ionised calcium and/or calculating corrected total calcium.
+
+. The signs of acute hypercalcaemia are :
+
+*Digestive disorders: Anorexia, nausea, vomiting and rare attacks of acute pancreatitis.
+*Neuropsychological: asthenia, cognitive deficits and mood disorders, confusion, hallucinatory or psychotic episodes and coma if hypercalcaemia is severe.
+*Renal: polyuro-polydipsic syndrome due to nephrogenic diabetes insipidus (reduced sensitivity to ADH), extracellular dehydration due to loss of NaCl, sometimes complicated by functional renal failure.
+*Cardiological: QT shortening on ECG. If malignant hypercalcaemia, rhythm disorders with risk of ventricular tachycardia or severe bradycardia.
+
+<br />

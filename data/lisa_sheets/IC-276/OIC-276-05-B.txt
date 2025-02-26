@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-276-05-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Title=Know the different biological and radiological tests to be carried out in the first instance in the presence of an abdominal mass, depending on the suspected aetiology.
+|Description=Know the causes of abdominal mass according to the location, clinical features and characteristics of the mass.
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+ 
+
+'''a.    Hepatomegaly
+
+The 1st<sup>intention</sup> assessment includes:
+
+Biology: check for signs of liver failure and liver enzyme abnormalities: platelets, albumin levels, PT, transaminases, alkaline phosphatases, gamma-GT, bilirubin levels.
+
+Imaging: abdominal Doppler ultrasound
+
+- '''In case of hepatomegaly without focal lesion:'''
+
+Biology: the 1st<sup>intention</sup> work-up is completed according to the clinical context. If chronic liver disease/cirrhosis is suspected: see item 279.
+
+
+Imaging :
+
+In the case of steatosis, the liver parenchyma is hyperechoic. Ultrasound should be supplemented by an assessment of liver fibrosis (liver elastometry and/or fibrosis blood test).
+
+If biliary disease is suspected: cholangio-MRI, abdominal CT scan with injection of contrast medium (depending on the context).
+
+If heart failure is suspected: rapid cardiology consultation
+
+If hepatic tumour infiltration is suspected: urgent specialist opinion
+
+In the event of Budd-Chiari syndrome: urgent referral to hepatology
+
+
+- '''in case of liver disease with focal lesion(s):''''
+
+Biology: depending on the context, the 1st<sup>intention</sup> biological work-up should be supplemented by :
+
+o blood cultures, "Entameoba histolytica" serology in the case of liver abscesses
+
+o echinococcosis serology (hydatid cyst and alveolar echinococcosis),
+
+
+Imaging: CT and/or MRI are usually required. See hepatic tumour (item 304)
+
+
+'''b.    Abdominal mass:''''
+
+Abdominopelvic CT with injection is the 1st-line examination in the event of an abdominal mass (injection of contrast medium contraindicated in the event of renal insufficiency or proven allergy to contrast products).
+
+It is used to confirm the organ affected, the nature of the mass (fluid, tissue) and its relationship with neighbouring organs. It can also be used to investigate distant extension in the event of suspected cancer (metastases).
+
+The result of this examination will determine the next stage of treatment.

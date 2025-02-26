@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-124-13-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Knowing how to provide information on educational and hygienic-dietary measures for menopausal women.
+|Description=None
+|Rubric=Management
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=13}}
+
+The recommended dietary hygiene measures for menopausal women are
+
+* Avoidance of cardiovascular risk factors (tobacco, alcohol)
+* Increasing energy expenditure: regular physical activity
+* Moderate carbohydrate and fat energy intake.
+* Adequate calcium and vitamin D intake: supplementation if necessary, particularly in cases of osteoporosis.

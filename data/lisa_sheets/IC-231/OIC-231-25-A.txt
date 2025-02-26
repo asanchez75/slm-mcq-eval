@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-231-25-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Intitle=Identifying coronary disease and acute coronary syndromes
+|Description=Q waves, territories, ST segment and T wave abnormalities, sequelae
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=25}}
+
+
+*Interest of 18-lead ECG in case of suspected acute coronary syndrome.
+
+*Arterial territories: ''anteroseptal'' (V1 to V3), ''apical'' (V4), ''low lateral'' (V5-V6), ''high lateral'' (DI, aVL), ''inferior'' (DII, DIII, aVF), ''right branches'' (V3R-V4R) and ''posterior'' (V7 to V9).
+
+*Acute coronary syndrome with ST-segment elevation:
+**Positive T waves'', symmetrical and wide in the very early stages,
+**ST segment elevation'', convex upwards, in an arterial territory (at least 2 contiguous leads) > 1 mm in the frontal/peripheral leads and > 2 mm in the precordial leads (Pardee wave),
+**Mirror'' in opposite territories (ST segment sub-shift),
+**Appearance of "Q waves of necrosis" in the absence of early revascularisation (at least 1/3 of the QRS in amplitude and > 40 ms), and later of negative T waves. R waves may be planed rather than necrotic Q waves, particularly in the anterior territory,
+**Persistence of a remote offset in the case of ventricular aneurysm formation,
+**Non-interpretable changes in the presence of a complete left bundle branch block or in the case of ventricular pacing by a pacemaker,
+**In isolated posterior MI, misleading 12-lead ECG with large exclusive R waves in V1 to V3, sometimes isolated. Posterior leads are useful for confirming the diagnosis.
+
+*Non-ST-segment elevation acute coronary syndrome'' :
+**''ST segment sub-shift'', horizontal or descending, in an arterial territory (at least 2 contiguous leads),
+**Sometimes changes limited to T waves (symmetrical and wide positive or negative),
+**ECG sometimes normal, particularly if post-critical. A normal ECG does not rule out the diagnosis.
+
+[[File:Sca isolé.jpg|vignette|alt=|centré|600x600px]]

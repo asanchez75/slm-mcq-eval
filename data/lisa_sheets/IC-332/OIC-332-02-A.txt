@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-332-02-A
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=A
+|Title=Know the main causes of shock
+|Description=Cardiogenic, obstructive, septic, haemorrhagic and anaphylactic shock.
+|Rubric=Etiologies
+|Contributors=Julien Poissy
+|Order=2}}
+
+We distinguish 4 nosological frameworks according to the haemodynamic profile, linked to a variable physiopathology:
+<br />
+{| class="wikitable"
+|Type of shock
+|Cardiogenic :
+
+heart pump failure
+|Hypovolemic :
+
+decrease in intravascular volume
+|Distributive :
+
+Circulatory, inflammatory and metabolic failure
+|Obstructive :
+
+Circulatory obstruction
+|-
+|Main etiologies
+|<Myocardial infarction
+
+-Myocarditis
+
+-Heart failure on chronic heart disease: hypertensive, dilated
+|<haemorrhage</nowiki>
+
+-Profuse diarrhoea/vomiting
+|<Infections: septic shock</nowiki>.
+
+-Anaphylactic shock
+|<Pulmonary embolism
+|}
+<br />

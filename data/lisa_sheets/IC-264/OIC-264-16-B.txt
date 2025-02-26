@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-264-16-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the conditions for the introduction, use and monitoring of blockers of the Renin Angiotensin System.
+|Description=None
+|Section=Management
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=16}}
+
+The initiation of treatment with a blocker of the renin-angiotensin system (ACE inhibitor or ARB2) requires precautions to avoid :
+
+*hypotension or acute renal failure on initiation of treatment or when doses are increased, especially in cases of hypovolaemia;
+*hyperkalaemia, especially in diabetics or patients with CKD.
+
+'''What to do'''
+
+* Reduce diuretic doses if necessary, and avoid introducing an ACE inhibitor or ARB2 after acute sodium depletion (treatment of acute pulmonary oedema).
+* Start with a low dose and gradually increase in stages over 2 to 4 weeks, especially in elderly patients with impaired renal function. Doses should be increased until therapeutic targets or the maximum MA doses are reached.
+* Creatinine and potassium levels should be measured before prescription, then 1 to 2 weeks after the start of treatment, and after any change in dosage, due to the risk of a reversible decline in renal function with ACE inhibitors or ARBs2 :
+*# A 10-20% increase in serum creatinine ''indicates the efficacy of treatment'' and does not justify a reduction in dosage,
+*#in the event of an increase in creatinine of more than 30%, temporarily stop the ACE inhibitor or ARB2, which may be reintroduced gradually, after ruling out renal artery stenosis, and after reducing the dose of diuretics,
+*#Temporary discontinuation of treatment is envisaged for hyperkalaemia above 6 mmol/L. For kalaemia between 5 and 6 mmol/L, a dietary imbalance should be investigated and a diuretic treatment with hypokalaemia or a resin preventing the absorption of dietary potassium may be started.
+* To avoid severe functional renal failure, patients should be instructed to stop taking ACE inhibitors or ARB2 and diuretics if there is a risk of acute extracellular dehydration (heatwave, viral gastroenteritis).

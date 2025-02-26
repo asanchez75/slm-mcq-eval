@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-004-46-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the measures associated with hygiene precautions
+|Description=Hygiene protocol, proper use of antibiotics, measures at facility level
+|Heading=Management
+|Contributors=
+|Order=46}}
+In addition to compliance with standard and additional precautions, and measures targeted at preventing the main sites of HCAIs (UTIs, pneumopathies, CLIs, SSIs), the prevention of HCAIs requires measures for the maintenance of premises and medical equipment, adapted to the level of infectious risk (depending on the patient population under care and the type of care provided), as well as microbiological monitoring of the environment (water, air, surfaces) in compliance with regulations, training of professionals in good practice, regular assessment of compliance with recommendations through audits, monitoring of the frequency of healthcare-associated infections in high-risk activities, and root cause analysis for unusual HCAIs or clustered cases of HCAIs.

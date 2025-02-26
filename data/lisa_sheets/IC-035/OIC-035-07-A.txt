@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-035-07-A
+|Item_parent=Anomalies of the menstrual cycle. Metrorrhagia
+|Item_parent_short=Anomalies of the menstrual cycle. Menstrual bleeding
+|Rank=A
+|Title=Know the main causes of menorrhagia
+|Description=None
+|Rubric=Etiologies
+|Contributors=Antoine Netter
+|Order=7}}
+
+Main etiologies of menorrhagia ('''[[Abnormal genital bleeding (outside known pregnancy) SD-112|abnormal genital bleeding (outside known pregnancy)]]'''), classified according to different modalities.
+
+
+{| class="wikitable"
+|'''Uterine and adnexal organic causes'''
+|<nowiki>- Adenomyosis (</nowiki>'''[[Pelvic pain SD-099|pelvic pain]]''''')
+
+- Uterine myoma (mainly submucosal) ('''[[Pelvic mass SD-106|pelvic mass]]''')
+
+- Endometrial polyp
+<br />
+|-
+|'''Coagulopathy''''
+|Willebrand's disease ('''[[Bleeding tendency SD-059|bleeding tendency]]''')
+<br />
+|-
+|'''Iatrogenic causes''''
+|<nowiki>- Anticoagulant</nowiki>
+
+- Intrauterine device
+<br />
+|}
+<br />

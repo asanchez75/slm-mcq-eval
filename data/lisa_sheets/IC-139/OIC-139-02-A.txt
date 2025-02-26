@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-139-02-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for patients in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=A
+|Title=Knowing the organisation of palliative care in France
+|Description=None
+|Rubric=Definition
+|Contributors=Adrien Evin
+|Order=2}}
+The organisation of palliative care (PC) aims to :
+
+*To enable all people who are ill to receive PS appropriate to their condition,
+*whatever their condition, age, place of residence or hospitalization.
+
+==<small>'''1. Graduated PS organisation tailored to the needs of patients and their relatives'''</small>==
+The organisation of care must '''take into account several parameters'':
+
+*The patient's place of care: home, medico-social establishments and structures, health establishments, etc.
+*the patient's age
+*'''The wishes of the patient and their family and friends'''
+*'''Existing resources in the patient's environment'''
+
+==<2. A gradation of care''</small>==
+[[File:Image schéma organisation hospitaliere soins palliatifs.png|vignette|Figure 1. from the national palliative care repository (Medline Editions, 2021)]]
+
+===→ <small>'''<u>In hospital:</u> (Figure 1)'''</small>===
+Care provision is graded '''according to:'''
+
+*gravity,
+*complexity,
+*the evolution and stability of the patient's situation.
+
+'''Three levels exist:''''
+
+*First level: support in a hospital department WITHOUT identified palliative care beds (LISP) when the situation does not present any particular clinical, social or ethical difficulties;
+
+*Second level: hospital service WITH LISP when the service is faced with frequent end-of-life or deaths (with appropriate organisation and team training);
+
+*Third level:
+**'''Unités de Soins Palliatifs (USP)''' which take charge of the most complex and/or unstable situations ;
+**'''Équipes Mobiles de Soins Palliatifs''' '''(EMSP)''': they can also intervene at the request of professionals; more particularly in support of the first and second levels.
+
+===→ <small>''<u>At home and in medico-social establishments and services, particularly in establishments for dependent elderly people (EHPAD):</u> (Figure 2)'''</small>===
+[[File:Image schéma organisation extra hospitalier soins palliatifs.png|vignette|Figure 2. from the national palliative care referential (Medline Editions, 2021)]]
+
+*The attending physician and the nurse are the first to be involved.
+
+*Hospitalisation A Domicile (HAH) can be used at home or in medical and social establishments and services, particularly in EHPAD, if the complexity of the care (medical and paramedical) requires it; it can be used 24 hours a day. The attending physician remains the linchpin of care.
+
+*The out-of-hospital EMSP or PS network may also be called upon for its PS expertise, regardless of the professionals treating the patient.
+
+<u>See</u>: [[Identifying, caring for and monitoring a patient in a palliative situation SD-337]]; [[Overall support for a carer SD-330]]; [[Organising discharge from hospital SD-355]]; [[The organisation of clinical practice and methods to secure the patient's journey]]

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-091-03-B
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=B
+|Title=Know the arguments in favour of a recent deficit of somatomorphic origin.
+|Description=Non-anatomical territory, discrepancies on examination, variability of complaints, inappropriate behaviour.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+A deficit may have a psychogenic origin, in which case it is a somatoform disorder: a motor or sensory territory that is slightly "aberrant", non-anatomical, with discordance on clinical examination, changing complaints, "beautiful indifference", etc. Somatoform disorders may occur in different contexts: hysteria (conversion), simulation, depressive syndrome, etc.

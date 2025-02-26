@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-158-16-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Knowing how to control the source of infection
+|Description=Know how to seek surgical or radiointerventional advice to discuss the possible removal of an infectious source.
+|Rubric=Management
+|Contributors=
+|Order=16}}
+
+
+* In some infections, antibiotic therapy alone is not sufficient to treat the cause of sepsis/septic shock.
+* These are infections where antibiotics will not diffuse well to the infection site, or where the bacterial inoculum is very large.
+* In these circumstances, surgery or radiointervention must be performed "as a matter of urgency" to reduce the bacterial inoculum. It is important to contact the specialist (surgeon or interventional radiologist) as soon as possible, even before clinical stabilisation, to discuss the therapeutic strategy.
+* Examples:
+** pyelonephritis with urinary tract obstruction: urine diversion (insertion of a JJ catheter or percutaneous nephrostomy).
+** Necrotizing bacterial dermo-hypodermatitis: surgical removal of necrotic tissue.
+** Peritonitis: laparotomy for peritoneal lavage and etiological treatment.
+** Surgical site infection: repeat surgery for debridement
+
+<br />

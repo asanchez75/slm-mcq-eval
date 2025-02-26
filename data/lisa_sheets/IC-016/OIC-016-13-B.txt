@@ -1,0 +1,69 @@
+{{knowledge objective
+|Identifiant=OIC-016-13-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Title=To understand the common orientations in the evolution of health systems in Europe with a refocusing on primary care and the organised management of chronic diseases.
+|Description=None
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=13}}
+
+The development of healthcare systems in Europe has been marked by the ''refocusing of healthcare systems on primary care and the organised management of chronic diseases'' (the high prevalence of which is characteristic of rich countries)[1].
+
+1) Germany
+
+
+'''Differences with the French system'''
+
+
+'''People insured by a public health insurance fund receive medical care without having to pay in advance (tiers-payant system).''' Doctors, care establishments and pharmacies bill the health insurance funds directly for care and treatment. Some services may be subject to a surcharge, but with this exception, patients do not pay in advance.
+
+
+'''The German healthcare system operates on a principle of self-management'''
+
+The federal government defines the conditions under which the health care system operates, defines its remit and adopts laws and regulations. At federal level, there is the Federal Minister for Health. The chambers are the Bundestag, the parliamentary assembly of the Federal Republic of Germany, and the Bundesrat, which represents the governments of the various Länder.
+
+Self-management concerns both the funds, which must be able to finance the benefits, and the representatives of the health professions, health establishments and insured persons.
+
+The representatives of the professionals and the health insurance companies agree on the services to be offered to patients and on the remuneration of the professionals.
+
+
+'''Primary healthcare system reforms'''
+
+A number of measures have been taken to improve access to primary and ambulatory care providers, including the role of appointment centres.
+
+The regional associations of affiliated doctors have undertaken to strengthen the existing centres. These service centres must be available 24 hours a day, 7 days a week, using the national telephone number 116117. These centres are obliged to obtain an appointment with a general practitioner, paediatrician or specialist within one week, and an appointment with a mental health professional within two weeks. In addition, these centres are obliged to refer patients to the health system, a doctor's surgery or a nearby hospital.
+
+Primary care providers will also have to extend the opening hours of their practices. To further increase the availability of services, contracted doctors will have to inform appointment centres of the time slots available. In addition, they will be required to provide consultations for at least 25 hours a week (compared with 20 hours previously), including at least five hours a week for urgent care of walk-in patients.
+
+2) The United Kingdom
+
+Located outside the European Union, it is presented because reforms are ongoing. Most of its funding comes from taxation.
+
+Integrated care systems are gradually being set up with three levels of service depending on the population to be treated:
+
+- Local levels (30,000 to 50,000 people) with access to groups of GPs working in coordination with community services, social services and other care providers, including primary care networks;
+
+- Zones (250,000 to 500,000 people) at town or district level, with an organisation linking primary health networks with local services, local hospitals and voluntary associations.
+
+- Systems (1 million to 3 million people) in which all the partners from the different sectors meet to decide on a strategic direction and develop economies of scale.
+
+
+Generally speaking, the aim of the British healthcare system is to "reduce the need for hospital care". Unlike in France, specialist consultations, biological laboratories and radiological procedures are available exclusively in hospital.
+
+
+In order to reduce the demand for hospital care, the UK is developing "new care models", including Integrated Primary Acute Care Systems (PACS) and Multispecialty Community Providers (MCPs), both of which focus on primary care.
+
+
+Integrated Primary Acute Care Systems include GP practices, home and mental health services, hospitals and possibly social services. The secondary objective is to improve the coordination of community and hospital care.
+
+Multispecialty Community providers include GP practices, homecare and mental health services, and possibly social services, but not hospitals. As well as limiting the use of hospitals, their objectives are to coordinate primary care and the use of hospital specialists who visit general practices.
+
+
+Methodological aids have been made available to those working in the field to help them set up these new organisations. In addition, an information system provides doctors with indicators such as epidemiological data on the population being monitored. Finally, indicators have been developed to evaluate these organisations:
+
+- For professionals, using medico-administrative data to identify patients most at risk of hospitalisation;
+
+- For health authorities' use'', covering efficiency (number of admissions to emergency departments, as a proportion of the population; number of days spent in hospital, as a proportion of the population), quality (patient involvement in medical decisions, patient satisfaction with their doctor or nurse for their involvement in decisions concerning their health, proportion of patients with a formalised care plan who participated in drawing it up, and finally, indicators of quality of life and factors promoting health.  
+----[1] <nowiki>https://solidarites-sante.gouv.fr/systeme-de-sante-et-medico-social/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie</nowiki>

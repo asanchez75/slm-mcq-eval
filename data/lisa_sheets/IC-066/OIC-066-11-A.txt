@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-11-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Identifying suicidal risk
+|Description=Refer to item 60
+|Rubric=Identifying the emergency
+|Contributors=El-Hage Wissam
+|Order=11}}
+
+In the case of depressive symptoms, it is essential to assess the risk of [[Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01|suicidaire]] by asking questions directly. The desire to die, the [[Suicide, suicidal, suicidant, suicidal intention 2C-353-DE-A01|suicidaire]], the existence of a suicidal scenario and planning must be explored.

@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-154-01-A
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=A
+|Title=Know the definition and identify the nosological frameworks of lower respiratory infections in adults and children.
+|Description=Acute tracheobronchitis, acute frank lobar pneumonia (AFLP), atypical pneumonia, complicated pneumonia, pulmonary abscesses, acute community-acquired pneumonia (CAP), nosocomial pneumonia. Bronchiolitis in infants
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''SDS for the entire chapter:'''
+
+'''119''' [[Mental confusion/disorientation SD-119|Mental confusion/disorientation]]
+
+'''178 ''' [[Reasoned request/prescription and choice of a diagnostic test SD-178|Reasoned request/prescription and choice of a diagnostic test]]
+
+'''161''' [[Chest pain SD-161|Chest pain]]
+
+'''162''' [[Dyspnea SD-162|Dyspnea]]
+
+'''160 ''' [[Acute respiratory distress SD-160|Acute respiratory distress]]
+
+'''354''' [[Therapeutic compliance assessment SD-354|Therapeutic compliance assessment]]
+
+'''163''' [[Expectoration SD-163|Expectoration]]
+
+'''352 ''' [[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient (adult/child/adolescent)]]
+
+'''044 ''' [[Hyperthermia/fever SD-044|Hyperthermia/fever]]
+
+'''046''' [[Hypotonia/infant malaise SD-046|Hypotonia/infant malaise]]
+
+'''149 ''' [[Ingestion or inhalation of a foreign body SD-149|Ingestion or inhalation of a foreign body]]
+
+'''255 ''' [[Prescribe an anti-infective SD-255|Prescribe an anti-infective]]
+
+'''167''' [[Cough SD-167|Cough]]
+
+'''062''' [[Swallowing disorders or false swallowing SD-062|Swallowing disorders or false swallowing]]
+
+'''322''' [[Vaccinations for adults and children SD-322|Vaccinations for adults and children]]
+
+
+'''Acute bronchitis:''' acute inflammation of the bronchi and bronchioles, usually infectious in nature, without affecting the lung parenchyma.
+
+
+''Bronchiolitis in infants'': acute inflammation of the bronchioles of viral origin in infants, occurring in seasonal epidemics.
+
+
+'''Acute community-acquired pneumonia''': acute infection of the lung parenchyma, of community acquisition (as opposed to nosocomial)
+
+
+''Nosocomial pneumonia'': pneumonia occurring at least 48 hours after the start of hospitalisation; as opposed to ''community'' pneumonia.
+
+
+Acute lobar frank pneumonia (ALFP)'': acute infection of the lung parenchyma, characterised by a sudden onset and its systematised nature in one lobe of the lung.
+
+
+''Atypical pneumonia'': infections of the pulmonary parenchyma caused by so-called ''atypical'', intracellular germs: ''Mycoplasma pneumoniae'' above all, ''Chlamydophila pneumoniae'' and ''Chlamydophila psittaci'' much more rarely.
+
+'''Complicated pneumonia:''' infections of the lung parenchyma, associated with
+
+- pleurisy
+
+- an abscess
+
+- an endobronchial obstruction
+
+
+'''Pulmonary abscess''': cavitary necrotic lesion in the lung.

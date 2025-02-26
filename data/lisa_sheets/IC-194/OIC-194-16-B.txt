@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-194-16-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=Know that the treatment of thrombotic APS is based on anticoagulant therapy, most of the time for life.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=16}}
+- Thrombotic APAS = '''anticoagulation for the most part for life'' (heparin for recent thrombosis followed by long-term treatment (for life) with '''anti-vitamin K''').
+
+- Direct oral anticoagulants = not used in the treatment of APS as they are associated with an excess risk of thrombosis.
+
+- Obstetrical APS = during '''pregnancies''' '''combination of subcutaneous heparin and acetylsalicylic acid'''.

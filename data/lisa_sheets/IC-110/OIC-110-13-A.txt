@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-110-13-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Know the definition of sleep apnoea syndrome (SAS)
+|Description=None
+|Rubric=Definition
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=13}}
+
+Partial or total interruption of breathing (hypopnoea or apnoea) during sleep. It may be linked to obstruction of the upper airways or, more rarely, to a defect in the central control of breathing. Clinically, it is evoked by: excessive daytime sleepiness, associated with at least 2 of the following criteria
+
+- Severe daily snoring
+
+- Sensations of choking or suffocation during sleep
+
+- Repeated awakenings during sleep
+
+- Unrefreshing sleep
+
+- Daytime fatigue
+
+- Difficulty concentrating
+
+- Nocturia
+
+and polysomnographic recording of at least 5 episodes of apnoea or hypopnoea per hour.
+
+Pathophysiologically, apnoea causes nocturnal micro-arousals, which allow breathing to resume, but which fragment sleep and limit periods of deep sleep.

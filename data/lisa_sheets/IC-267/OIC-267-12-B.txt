@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-267-12-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=B
+|Title=Knowing the clinical symptoms of hyperkalaemia
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=12}}
+
+The clinical manifestations of hyperkalaemia result from changes in the potassium gradient between the intra- and extracellular compartments, which are responsible for alterations in membrane potentials. The cardiac effect is linked to myocardial hypoexcitability.
+
+1. neuromuscular signs
+
+They are non-specific:
+
+*abnormalities of superficial sensitivity (pallesthetic and/or thermoalgesic) such as burning or paresthesia of the extremities.
+*Later on, muscular weakness or even flaccid paralysis may appear, starting in the lower limbs and progressing upwards to the cervical muscles, with the inability to hold the head upright. In severe forms, this paralysis can affect the respiratory muscles, leading to respiratory failure.
+*In practice, the appearance of hyperkalaemic flaccid paralysis is always accompanied by ECG abnormalities and heralds imminent cardiac arrest.
+
+'''2.     Haemodynamic signs'''
+
+*In severe forms: hyperkalaemia affects cardiac contractility, resulting in arterial hypotension. The fall in blood pressure in hyperkalaemia is a sign of seriousness.
+*These clinical abnormalities justify the immediate performance of an electrocardiogram whenever hyperkalaemia is suspected, even before the diagnosis is confirmed by measuring blood kalaemia. There is no strict parallel between the level of hyperkalaemia and the severity of the electrocardiographic symptoms; however, the absence of any electrical abnormality for a kalaemia of more than 6 mmol/L should prompt a search for false hyperkalaemia.

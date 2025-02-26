@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-076-06-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Savoir dépret un mésusage d'alcool : verres standards, consommation déclarée, AUDIT-C
+|Description=Screening for alcohol misuse is systematic for all new patients, particularly in emergency departments, and is based on questioning, ideally with the help of the AUDIT-C questionnaire.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Screening (early detection): must be systematic ([[Prevention of alcohol-related risks SD-313|any new patient]], [[Management of forced alcohol withdrawal SD-241|emergency visit]]) and repeated. May be initiated in response to a warning sign ([[Hypertension SD-042|HTA]], psychological problems, asthenia).
+
+
+Based on questioning= assessment of declared alcohol consumption in standard glasses using the AUDIT C questionnaire. Alcohol consumption in excess of the benchmarks = alcohol misuse, leading to an addictological assessment to clarify the diagnosis ([[Knowing how to diagnose harmful use and dependence according to ICD 11 criteria 2C-076-DP-A02|at risk, harmful use or dependence]]).
+
+Standard glass (France) = 10 g of pure alcohol. That's about 10 cL of wine, 25 cL of beer at 4°, or 3 cL of a strong spirit such as whisky at 40° (volumes served in a bar).
+
+1 75 cL bottle of wine at 12° = 7 standard glasses; 1 50 cL can of strong beer at 10° = 4 standard glasses.
+
+Occasional heavy drinking (IHD): consumption of 6 or more standard drinks on one occasion.
+
+
+Audit-C questionnaire
+
+1) How often do you drink alcohol?
+
+Never = 0; once a month or less = 1; 2 to 4 times a month = 2; 2 to 3 times a week = 3; 4 or more times a week = 4.
+
+2) How many drinks containing alcohol do you consume on a typical drinking day?
+
+Three or four = 1; five or six = 2; seven to nine = 3; ten or more = 5.
+
+3) How often do you drink six or more glasses on a particular occasion?
+
+Never = 0; less than once a month = 1; once a month = 2; once a week = 3; every day or almost every day = 4.
+
+Interpretation :
+
+The questions relate to consumption over the last 12 months.
+
+A score of 4 or more in men and 3 or more in women is suggestive of current alcohol misuse.

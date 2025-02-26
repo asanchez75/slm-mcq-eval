@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-176-15-A
+|Item_parent=Infectious diarrhoea in adults and children
+|Item_parent_short=Infectious diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the definition of a collective foodborne outbreak
+|Description=See item 179
+|Rubric=Definition
+|Contributors=Johann Cailhol
+|Order=15}}
+See [[Health risks related to food and water. Food poisoning|item 179]]

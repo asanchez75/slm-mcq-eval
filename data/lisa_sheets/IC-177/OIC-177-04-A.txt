@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-177-04-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Know the principles of the mode of action of an antibiotic.
+|Description=Cite the main modes of action of antibiotics.
+|Topic=Physiopathology
+|Contributors=Jean-Philippe Lavigne
+|Order=4}}
+
+Antibiotics act by inhibiting:
+
+-synthesis of the bacterial wall (e.g. beta-lactams, glycopeptides)
+
+-synthesis of bacterial DNA (e.g. quinolones)
+
+-the synthesis of bacterial RNA (e.g. rifamycin)
+
+-the synthesis of bacterial proteins (e.g. aminoglycosides, cyclins, macrolides)
+
+-the synthesis of folic acid (e.g. sulphonamides)

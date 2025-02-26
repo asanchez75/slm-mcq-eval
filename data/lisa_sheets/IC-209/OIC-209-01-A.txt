@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-209-01-A
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Knowing the definition of chronic obstructive pulmonary disease (COPD)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+A common, preventable and treatable chronic respiratory disease defined by
+
+* '''the existence of chronic respiratory symptoms''' (at least one of the following: [[Dyspnoea SD-162|dyspnoea]], [[Cough SD-167|cough]], [[Expectoration SD-163|expectoration]], repeated or nagging lower respiratory infections) '''AND'''''
+* '''permanent airway obstruction''' (non-reversible obstructive ventilatory disorder (OVD)).
+
+
+Chronic bronchitis: productive cough every day or almost every day for at least 3 months of the year and for at least 2 consecutive years.
+
+
+Emphysema: abnormal and permanent enlargement of the distal airspaces with destruction of the alveolar walls, without associated fibrosis.

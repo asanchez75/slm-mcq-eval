@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-128-03-B
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=B
+|Title=Knowing the pathophysiology of primary osteoporosis
+|Description=Oestrogen deficiency, heritability and BMD management activities, ageing and fracture atcd Secondary hyperparathyroidism
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=3}}
+Primary osteoporosis is a multifactorial pathology.
+
+Estrogen deficiency" plays a key role in the mechanisms of age-related bone loss in both women and men. The abrupt cessation of oestrogen secretion at the menopause is responsible for an acceleration in bone remodelling and, in particular, resorption. These mechanisms explain the fall in BMD and the deterioration in bone microarchitecture.
+
+Heritability accounts for around 80% of peak bone mass, and the risk of osteoporosis is higher in the offspring of osteoporotic subjects.
+
+Weight-bearing activity is responsible for mechanical stress. Regular "weight-bearing" physical activity has a beneficial effect on bone tissue. Conversely, immobilisation or prolonged bed rest leads to bone loss.
+
+Bone densitometry is an examination used to measure bone mineral content per unit area (g/cm²). The WHO has proposed a definition based on bone mineral density (BMD). In theory, it applies exclusively to post-menopausal women with a diagnostic threshold of T-score ≤ -2.5 at at least one of the 2 measurement sites (lumbar spine and hip).
+
+'''Ageing and the history of fracture(s).''' The older a person is, the greater their risk of fracture, especially if they have already suffered a fracture.
+
+Secondary hyperparathyroidism linked to vitamin D (and to a lesser extent calcium) deficiency. It contributes to age-related bone loss by increasing bone remodelling.

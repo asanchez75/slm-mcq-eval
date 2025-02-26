@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-349-02-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Heading=Know the definition of an abscess, a panaris, a phlegmon of the sheaths and of the hand.
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre-Marie Roy
+|Order=2}}
+<gallery widths="400" heights="400">
+File:Definition abscess.png
+</gallery>'''Abscess''': Localized accumulation of pus in a cavity by the development of infection and whose walls are made of the neighbouring tissue modified and repressed.
+
+'''Panaris''': acute infection of the soft parts of a finger, which may be located periungual, in the pulpal area or on the dorsal surface of a phalanx.
+
+N.B.: Anthracoid panicitis is superficial, centred on a hair on the back of a phalanx.
+
+Sheath phlegmon'': infection of the sheath space in which the flexor tendons of the finger and hand run.

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-364-01-A
+|Item_parent=Fractures in children: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Fractures in children: epidemiological, diagnostic and therapeutic features
+|Rank=A
+|Title=General information on fractures: understanding typical fractures in children
+|Description=Familiarising children with typical fractures
+|Rubric=Definition
+|Contributors=Bruno Dohin
+|Order=1}}
+
+Knowledge of epiphyseal fracture-decollement according to the Salter and Harris classification
+
+Be familiar with the types of fracture specific to children: subperiosteal, green wood, butterball, etc.
+
+Knowing about apophyseal avulsion fractures<br />.

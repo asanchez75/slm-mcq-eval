@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-074-20-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Heading=Hypnotics: knowledge of frequent or serious adverse effects, main drug interactions at all stages of life, particularly in elderly patients.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=20}}
+Zopiclone and zolpidem have the same potential adverse effects as benzodiazepines, particularly in the elderly.
+
+Like benzodiazepines, they can both lead to "pharmacological tolerance", "use disorders" and "rebound anxiety" when stopped.
+
+For other treatments, please refer to the relevant sections.

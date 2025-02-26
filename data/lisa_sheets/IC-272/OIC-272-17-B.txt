@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-272-17-B
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=B
+|Title=Know the indications and place of biopsies for diagnosis, treatment and follow-up.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=17}}
+In the event of abnormalities of the gastric mucosa during oeso-gastroduodenal endoscopy (most often an erythematous, oedematous or atrophic appearance of the mucosa), gastric biopsies are most often performed. It is important to understand that there is usually no correlation between the endoscopic appearance, the results of the anatomopathological analysis of the biopsied gastric mucosa and the symptoms experienced by the patient. The operator may describe an endoscopic appearance of "Gastritis" without this being confirmed on histology and without the patient presenting any symptoms.
+
+Biopsies are indicated in two types of situation linked to the endoscopic appearance of the gastric mucosa:
+
+a) Presence of an endoscopic lesion: confirm the diagnosis of gastritis and find the cause
+
+b) If there is no endoscopic lesion: look for a specific pathology.
+
+For example, in cases of vitamin B12 deficiency and macrocytic anaemia, gastric endoscopic biopsies (antral and fundic) are indicated to look for Biermerian fundic atrophic gastritis.
+
+The same applies to :
+
+- in cases of martial deficiency with no other cause, antral and fundic biopsies should be taken to look for Biermer's disease (and also duodenal biopsies to look for coeliac disease).
+
+- in the case of a family history of gastric cancer, or in the case of chronic abdominal pain, endoscopic gastric biopsies are indicated in order to test for H.pylori.
+
+
+           Once the diagnosis of gastritis or gastropathy has been made on biopsies, treatment is guided by the cause identified: eradication of <nowiki/>'H.pylori', stopping alcohol, treatment of portal hypertension, etc.
+
+
+           Follow-up depends on the gastric anatomopathological abnormalities and the cause: in practice, patients with the following conditions are monitored throughout their lives by oeso-gastroduodenal endoscopies with regular biopsies
+
+- Biermer's autoimmune gastritis (risk of gastric adenocarcinoma and neuroendocrine tumour), or
+
+           - or gastritis at risk of degeneration, most often sequelae of an H.pylori infection: atrophic gastritis and/or metaplasia/dysplasia, which are pre-cancerous lesions of gastric adenocarcinoma.
+
+<br />

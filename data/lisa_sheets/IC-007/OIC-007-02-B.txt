@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-007-02-B
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=B
+|Title=Knowing patients' collective rights
+|Description=None
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=2}}
+The turning point came with the ''law of 4 March 2002'' on patients' rights and the quality of the healthcare system, which extended and generalised the representation of users on the boards of healthcare establishments, recalled that doctors can only be held liable if they are at fault and introduced a procedure for compensation for medical accidents.
+
+The collective rights of patients (users) can be broken down into two types:
+
+- The right to be represented: to defend their rights and participate in the development of health policies;
+
+- The right to complain: to initiate proceedings, whether contentious or not, with a view to obtaining recognition of a loss and compensation.
+
+<br />
+
+*'''<u>The right to be represented</u>:'''
+
+This representation of users and their participation in the development of healthcare policies is carried out mainly through the intermediary of user representatives who sit on various bodies. To be a user representative, you must be a member of an association approved at national or regional level.
+
+- Approval of health system user associations: since the law of 4 March 2002, associations have been able to play a role in representing users and involving them in the health system, particularly within institutions.) A system of accreditation has been set up at national level (by the Ministry of Health) or regional level (by the ARS). These associations are grouped together in the France Assos Santé - la Voix des Usagers collective<ref>https://www.france-assos-sante.org/</ref> ;
+
+- '''User representation''': the user representative represents the voice of users in decision-making and consultative bodies in healthcare establishments, such as the CRUQ-PC/CDU, as well as in regional and national bodies.
+{|
+The Commissions for Relations with Users and the Quality of Care, now known as the Commissions for Users (QRUQ-PC and CDU):
+
+The law of 4 March 2002 allowed the creation of CRUQ-PCs within hospitals. In 2016, the CDU replaced the CRUQ-PC:
+
+- once a quarter, they examine complaints made to the hospital by users, informing them of the conciliation and appeal procedures available and providing them with support;
+
+- they are consulted and formulate opinions and proposals on the policy for receiving and caring for people (their analyses and proposals are presented in a report to the hospital's supervisory board).
+|}
+
+*'''<u>The right to complain</u> :'''
+
+When a patient believes that he or she has suffered harm as a result of preventive, diagnostic or therapeutic acts, or as a result of a medical accident or behaviour on the part of healthcare professionals or institutions that infringes his or her rights, the professional or institution may be held liable. There are three possible procedures:
+
+- '''Contentious proceedings''': the patient may take legal action, whether it be [[Definition of administrative liability 2C-005-DE-A04|administrative]] (for public establishments), [[Definition of civil liability 2C-005-DE-A03|civil]] (for liberal professionals and private establishments) and/or [[Definition of criminal liability 2C-005-DE-A02|penal]] (if the patient considers himself to be the victim of a criminal offence) ;
+
+- '''A [[Definition of disciplinary liability 2C-005-DE-A05|disciplinary procedure]]''': this involves an appeal to the disciplinary authority of the heads of establishment as well as the possibility of lodging a complaint with the Conseil départemental de l'Ordre des médecins, which will organise conciliation. If conciliation is unsuccessful, the complaint will be referred to the disciplinary chamber of first instance. There is a disciplinary chamber of first instance for each region;
+
+- '''An amicable procedure''': patients have the right to have recourse to the establishment's user representatives, the CDU and mediators. They also have the right to seek amicable compensation for any harm suffered before the Commission de Conciliation et d'Indemnisation des accidents médicaux (CCI). In the event of fault, the CCI sends its opinion to the insurer of the professional or establishment, which must make an offer of compensation. In the absence of fault, compensation from the Office National d'Indemnisation des Accidents Médicaux (ONIAM) as part of national solidarity is possible in certain cases (severity criteria).
+<references />

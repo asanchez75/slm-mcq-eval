@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-290-06-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitle=Knowing the incidence, prevalence and mortality of prostate cancer
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+It is the leading cause of cancer in men, with around 49,000 new cases of prostate cancer in mainland France in 2017.
+
+The incidence of prostate cancer is largely dependent on serum levels of prostate-specific antigen (PSA), which makes it difficult to predict trends in a context where screening is still widely practised despite recommendations from learned societies (Assurance maladie, Institut national du cancer, Collège de la médecine générale). Screening is not recommended because of the delay in diagnosis and the lack of reduction in cancer-specific mortality.
+
+With around 8,200 deaths in metropolitan France in 2017, prostate cancer ranks 3rd<sup>th</sup> among cancer deaths in men. Nearly 79% of prostate cancer deaths occur in men aged 75 and over, with a median age at death of 83.

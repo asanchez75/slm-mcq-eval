@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-124-14-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Know that any metrorrhagia in a postmenopausal woman should be investigated to rule out endometrial cancer.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=14}}
+
+'''Any abnormal uterine bleeding (SUA) in a post-menopausal woman should rule out endometrial cancer'''.
+
+SUA is an infrequent occurrence (less than 15%) with HRT, and is sometimes linked to overdose or to the resumption of ovarian activity at the start of treatment, but it should be ruled out as a cause of endometrial cancer.
+
+E'''n the case of recurrent abnormal uterine bleeding or when the thickness of the endometrium is greater than 4 mm, additional uterine explorations (hysteroscopy and histology) are necessary''.
+
+=== '''What to do''' ===
+- Look for '''risk factors for [[Cervical tumours, tumours of the uterine body|endometrial cancer]]''' on the questionnaire.
+
+* obesity
+* HYPERTENSION
+* Type 2 diabetes
+* taking HRT
+* tamoxifen treatment
+* family history
+
+- Clinical examination to rule out a vaginal or cervical cause
+
+'''- Carry out an endometrial biopsy using the Cornier pipelle, bearing in mind that it is only of value if it is positive'''
+
+- Pelvic ultrasound to measure the thickness of the endometrium
+
+Diagnostic hysteroscopy for histological confirmation.
+
+<br />

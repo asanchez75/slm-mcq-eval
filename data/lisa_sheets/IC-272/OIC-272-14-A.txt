@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-272-14-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Intitle=Know the definition of gastritis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=14}}
+Gastritis is an acute or chronic inflammation of the gastric mucosa, defined anatomopathologically on biopsies taken during oeso-gastro-duodenal endoscopy. Gastropathies, which are endoscopic gastric disorders without inflammation of the gastric mucosa, are included in this "entity".

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-253-03-B
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=B
+|Title=Knowing the natural history of obesity
+|Description=Knowing the negative influence of cognitive restriction on long-term weight loss - Knowing the influence of body fat distribution on weight loss
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+Obesity is a chronic progressive disease whose prevalence increases with age.  
+
+The natural course of obesity is usually a gradual worsening if the conditions that led to its onset are not corrected, or if obesity develops early (50-70% of obese adolescents remain obese into adulthood).
+
+Restrictive diets worsen weight gain over the long term. Cognitive restriction (the intention to mentally control one's diet with the aim of not putting on weight or losing weight) with the exclusion of "pleasurable" foods leads to frustration and impulsive eating (compulsions and bulimic episodes).

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-159-04-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the different ways in which tuberculosis develops
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=4}}
+
+'''Summary:'''
+
+- '''2 stages of the disease: latent forms (asymptomatic), patent forms (symptomatic);'''
+
+- 3 nosological entities: latent tuberculosis infection (LTI), primary tuberculosis infection (PTI) and tuberculosis disease.
+
+Primary tuberculosis infection (PTI) is the first time the tubercle bacillus enters the body. Tuberculosis bacilli, most often transmitted by air, are phagocytosed by alveolar macrophages, where they multiply (primary focus). The bacilli then spread to the relay lymph node of the primary site, where they also multiply. A few weeks (4 to 12 weeks) after the TIP, a cell-mediated immune response develops within the primary site and the relay lymph node, which, if it is of good quality, leads to the formation of a granuloma and halts the multiplication of the bacilli, which remain in a quiescent (or dormant) state. The dormant or quiescent but living tubercle bacillus does not cause disease. This corresponds to latent tuberculosis infection (LTI), which is the result of a balance between the infected person's immune system and the bacteria. This latent form is asymptomatic and non-contagious.
+
+Once the tubercle bacilli have penetrated the body, there are 4 possible outcomes:
+
+- LTI</u> maintained throughout life in 90% of immunocompetent adults without progression to TB disease
+
+- <u>progression to TB disease</u> (10-15% of immunocompetent adult subjects). This progression may be delayed in relation to TIP. In 80% of cases, it occurs within 2 years of TIP.
+
+- Immediate progression</u> to TB disease in the aftermath of a TIP, common in immunocompromised subjects, young children and in the case of a particularly virulent bacterial strain.
+
+- Complete elimination of tuberculosis bacilli
+
+Because of possible systemic dissemination during the initial infection, various organs can be affected, but the pulmonary form (the preferred route of contamination) remains the most common (75% of forms of TB).

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-177-02-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Heading=Know the definition of the antibacterial spectrum
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=2}}
+
+The antibacterial spectrum is the range of bacteria on which the antibiotic is active.

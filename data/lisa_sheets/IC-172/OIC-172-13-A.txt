@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-172-13-A
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Macroscopic appearance of a Taenia sp.
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+
+[File:Taenia saginata .jpg|centred|thumb|300x300px|''Taenia saginata'': chains of rings, worm with a ribbon-like appearance (up to 10 metres long). Segments of a few tens of cm may be emitted by the patient]]
+[[File:Ring of Taenia saginata.jpg|centred|thumb|Isolated ring of ''Taenia saginata'' emitted by the patient outside the stool, may be found in underwear, bedding]]

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-366-03-A
+|Item_parent=Accidental exposure to biological fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=A
+|Title=Knowing the risk factors for transmission linked to EALBs
+|Description=Function of the victim and source person
+|Rubric=Definition
+|Contributors=Docteur Lefèvre Benjamin
+|Order=3}}
+'''Transmission risk factors depending on the victim:''''
+
+- Blood EALB: the deeper the exposure and the dirtier the equipment, the greater the risk
+
+- Sexual EALB: genital lesions and the existence of a previous STI increase the risk of transmission. In addition, anal intercourse, especially when receptive, is more risky than any other form of intercourse.
+
+'''Risk factors for transmission depending on the source person:''' Whether blood or sexual EALB, the risk correlates with the level of viral replication in the source patient.

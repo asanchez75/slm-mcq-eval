@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-162-31-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Know how to treat HPV-related infections
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=31}}
+- Preventive: nonavalent vaccine, 2 or 3 doses
+
+- Children aged 11 to 19
+
+- Men who have sex with men: up to the age of 26
+
+- Curative :
+
+- Physical: cryotherapy, CO2 laser, electrocoagulation, surgery
+
+- Chemical: podophyllotoxin
+
+- Immunological: imiquimod

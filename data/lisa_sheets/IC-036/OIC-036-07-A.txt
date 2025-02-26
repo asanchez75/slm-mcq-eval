@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-036-07-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Know the contraindications of estroprogestative, progestative and intrauterine contraception.
+|Description=None
+|Rubric=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=7}}
+
+
+== '''Contra-indications''' '''des COP''' ==
+There are several contraindications to taking COP:
+
+- '''carcinological''' (personal history of malignant tumours of the breast or uterus (endometrium)),
+
+- metabolic disorders (dyslipidaemia, poorly controlled or complicated diabetes),
+
+- vascular'' (''biological thrombophilia'', personal or family history of venous thromboembolic events, arterial cardio-vascular diseases [MI, ischaemic stroke, obliterative arteriopathy of the lower limbs], ''arterial hypertension'', migraine with aura, heavy smoking, age > 35-40 associated with other vascular risk factors)
+
+- hepatic and biliary (history of lithiasis)
+
+- hormonal (systemic hormone-dependent diseases, lupus for example).
+
+== '''Contraindications''' '''of microprogestational contraception'''' ==
+- Progressive liver disease,
+
+- Breast cancer,
+
+- Active venous thromboembolic events
+
+- Unexplained bleeding
+
+- Progesterone-dependent diseases (meningioma....)
+
+== '''Contraindications''' '''of an IUD''' ==
+- Pregnancy in progress and desired
+
+- Ongoing purulent cervicitis or upper genital infection
+
+- Puerperal infection in progress
+
+- Immediately after a septic abortion
+
+- Proven pelvic tuberculosis
+
+- Unexplained vaginal bleeding
+
+- Malignant gestational trophoblastic disease
+
+-Any congenital (malformations) or acquired (including uterine myomas) anomaly of the uterine cavity resulting in deformation of the endometrial cavity incompatible with insertion of an IUD.
+
+- Long-term immunosuppressive or corticosteroid treatment (copper-bearing IUD)
+
+- Diseases at risk of endocarditis
+
+- Wilson's disease (copper IUD)

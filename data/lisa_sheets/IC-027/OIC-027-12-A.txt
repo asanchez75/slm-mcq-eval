@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-027-12-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Know the definition of maternal-fetal cytomegalovirus (CMV) infection
+|Description=Specify?
+|Rubric=Definition
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=12}}
+Maternal CMV infection is the 1<sup>rst</sup> cause of congenital viral infection and the 1<sup>rst</sup> non-hereditary cause of sensorineural hearing loss and mental retardation in early childhood.
+
+Maternal-foetal transmission is possible in the periconceptional period (1 month before to 3 weeks after the start of pregnancy: 15% risk).
+
+The overall transmission rate during pregnancy averages 40%. It increases with gestational age (36% in the 1st trimester, 40% in the 2nd, 65% in the 3rd).
+
+Among infected children, 10% will develop a severe prenatal infection (intrauterine growth retardation, microcephaly, hydrocephaly, intracranial calcifications, foetal death in utero) ''[[Anomaly of psychomotor development SD-115|115. Anomaly of psychomotor development]]'', 10% are apparently healthy at birth but will have neurosensory sequelae (deafness in particular) and 80% will have an asymptomatic form. Maternal reinfections also expose the child to these risks, although less frequently.
+
+Severity is correlated with term: lower risk of transmission at the beginning of pregnancy but more severe forms.
+
+In the event of maternal infection, the patient should be referred to a prenatal diagnosis centre to discuss management (antiviral/amniocentesis/ultrasound +/6 MRI).
+
+The use of high-dose valaciclovir could reduce the risk of congenital infection for infections in the 1st<sup>trimester</sup> of pregnancy when introduced rapidly.
+
+Systematic screening by [[Interpretation of an SD-236 serology result|maternal serology]] for this frequent infection during pregnancy is not currently recommended in France.

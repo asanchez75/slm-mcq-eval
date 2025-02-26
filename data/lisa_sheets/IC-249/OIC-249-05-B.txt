@@ -1,0 +1,142 @@
+{{knowledge objective
+|Identifiant=OIC-249-05-B
+|Item_parent=Therapeutic changes in lifestyle (diet and physical activity) in adults and children
+|Item_parent_short=Therapeutic changes in lifestyle (diet and physical activity) in adults and children
+|Rank=B
+|Title=Knowing how to prescribe a suitable diet for the main chronic diseases
+|Description=Renal failure, diabetes, obesity, inflammatory diseases (corticosteroid therapy)
+|Rubric=Management
+|Contributors=
+|Order=5}}
+A written medical prescription is compulsory for hospital patients who require a therapeutic diet to manage their illness or illnesses. This is a medicolegal act for which the doctor is responsible (certain food textures may carry a risk of "false route" and certain dietary prescriptions are essential in cases of heart or kidney failure, diabetes, prescription of long-term corticosteroid therapy, etc.).
+
+The doctor must therefore write the following on the prescription:
+
+- The type of feed
+
+- The texture of food and drink, if necessary (e.g. swallowing)
+
+And possibly :
+
+- The number of snacks
+
+- The type and quantity of oral nutritional supplements and their timing
+
+- Help with meals
+
+- Postural measures to prevent false routes
+
+Combining more than two restrictive therapeutic diets exposes patients to the risk of undernutrition.
+
+
+- Chronic renal failure (CRF)
+
+The aim is to prevent undernutrition in the case of CKD, to adapt protein, water and sodium intakes and to take account of cardiovascular risk factors (particularly if associated with hypertension/diabetes/dyslipidaemia).
+
+- Fluid and electrolyte intake: dominated by the risks of hyperkalaemia, hyperphosphaemia, metabolic acidosis and sodium overload.
+
+- Prescription of vitamin D: depending on phosphocalcium status.
+
+- Preventing undernutrition: energy intake must be sufficient (35 kilocalories/kg/day), with an emphasis on slowly-absorbed carbohydrates.
+
+- Protein intake: adapted to the stage of renal failure (between 0.8 and 1 g/kg/day from stage 3 and less than 0.8g/kg/day between stages 3 and 5, intake of 1.2 to 1.4 g/kg/day in dialysis patients).
+
+
+- Diabetes
+
+The recommendations are no different from those for the general population. The standard diet is adapted. In the case of hypoglycaemic treatment, a regular intake of carbohydrates at each meal is necessary to avoid fluctuations in blood sugar levels.
+
+'''''Carbohydrate intake:50-55% of total calorie intake'''''
+
+Two main types of food provide carbohydrates which will have a direct impact on blood sugar levels:
+
+- Foods with a sweet taste (known as "simple carbohydrates")
+
+- Starchy foods ("complex" carbohydrates: starch)
+
+The glycaemic index determines the glycaemic power of a food in the two hours following its intake. A distinction is made between foods with a low glycaemic index (gradual rise in blood sugar levels: dairy products, legumes, apples, pears, etc.) and foods with a high glycaemic index (rapid rise in blood sugar levels: sugar, white bread, mashed potatoes, sweets, configure, etc.). It is advisable to limit consumption of foods with a high glycaemic index (except in certain situations such as hypoglycaemia) and not to eat them outside of mealtimes. Foods with a low glycaemic index are not contraindicated as they contribute to a better glycaemic balance, but it is essential to control the quantity of these foods at each meal in order to achieve the glycaemic target.
+
+'''''Fat intake: 30 to 35% of total calorie intake'''''
+
+'''''Protein intake: 15-20% of total calories'''''
+
+
+- ''Obesity (see dedicated item)''
+
+The objective of therapeutic management of obesitý should not be solely weight-related, but should aim to prevent, treat complications and improve qualitý of life. This involves long-term and comprehensive care, as part of a therapeutic education approach. The approach is personalised to the patient's abilities and living environment, and incorporates the practice of regular physical activitý, nutritional and hygienic-dietary advice, as well as psychological and behavioural support.
+
+The medical interview with the patient and the clinical examination must seek out and assess :
+
+- weight history over time, life events, etc.
+
+- family history, family structure, living environment (job, shift work, stress, etc.)
+
+- a dietary survey (with the help of a food diary if necessary): eating patterns, calorie density of the diet, etc.
+
+- any associated eating disorders
+
+- physical activity
+
+- the existence of psychological disorders or depression (possible psychosocial consequences)
+
+- BMI
+
+- waist circumference to assess fat distribution
+
+- complications (blood pressure measured with a cuff adapted to the circumference of the arm, sleep apnoea syndrome)
+
+- a secondary cause of obesity (hypothyroidism, hypercorticism, hypothalamic or pituitary tumour, rare genetic syndrome).
+
+
+Patient follow-up :
+
+This is a chronic follow-up with regular consultations over time. The prescription consists of correcting dietary errors revealed by the dietary survey, distributing calorie intake more evenly between the various meals during the day, and reducing total energy intake in line with resting energy expenditure:
+
+- limit high-fat and high-carbohydrate foods
+
+- limit alcohol
+
+- reducing the size of proportions, learning to read nutritional labels
+
+- diversify your diet, in particular by eating 5 fruit and vegetables a day
+
+- no prohibitions, restore pleasure and relieve the patient's guilt if necessary
+
+- eating habits: 3 meals a day, no skipping meals, no nibbling between meals, meals at set times, sitting down for a meal, in a quiet environment, of sufficient duration
+
+- redefine the sensations of hunger and satiety
+
+
+Physical activity will be recommended, particularly to help maintain weight after weight loss, by achieving at least the level of physical activity recommended for the general population: 150 minutes a week of moderate to sustained physical activity.
+
+The aim of treatment is not simply to reduce weight: objectives must be reasonable and realistic (around 5 to 10% weight loss in 3 to 6 months). The risks of an excessively restrictive and unbalanced diet are giving up, regaining weight, protein malnutrition and depression.
+
+Bariatric surgery is part of the therapeutic armoury after failure of other therapeutic means, taking into account its specific indications and discussion in a multidisciplinary team.
+
+
+- Inflammatory diseases (corticosteroid therapy)
+
+Prolonged use of high-dose corticosteroids can lead to complications such as muscle wasting, osteoporosis, diabetes, high blood pressure and abnormal fat distribution.
+
+1) '''Fluid retention:''' particularly in patients with risk factors for fluid retention such as heart failure.
+
+Associated measure = Sodium restriction will be prescribed depending on the corticosteroid chosen, its dosage and the patient's co-morbidities (arterial hypertension, heart failure, etc.). It should be stricter in the case of high doses. The aim is to limit the increase in blood pressure.
+
+2) ''Disturbances in carbohydrate metabolism'': particularly in predisposed individuals (overweight, family history of diabetes, age, diabetes). Cortico-induced diabetes is characterised by normal fasting blood glucose levels and high postprandial blood glucose levels.
+
+Associated measure = a diet limited in carbohydrates with a high glycaemic index, hypocaloric depending on the patient's weight, will be recommended with the aim of limiting weight gain on corticosteroids and reducing the risk of corticosteroid-induced diabetes. It is also sometimes necessary to reinforce anti-diabetic treatment in patients with type 2 diabetes.
+
+3) ''Increased protein catabolism'' which contributes to skin amyotrophy, stretch marks and muscle wasting.
+
+Associated measure = a protein-enriched diet and regular exercise are recommended (to combat muscle wasting).
+
+'''4) Moderate increase in urinary potassium elimination'''
+
+Associated measure = Potassium supplementation is not systematic in all patients, but may be introduced depending on the follow-up assessment and hyper- or hypokalaemic co-treatments (such as thiazide diuretics).
+
+5) Bone demineralisation
+
+Associated measure = a calcium-rich diet with adequate vitamin D intake (to combat osteoporosis) is indicated, or even drug supplementation (calcium, vitamin D, bisphosphonates) depending on intake and the history of osteoporosis risk to be sought in patients.
+
+
+The risk of prescribing overly restrictive diets is a significant treatment burden, with poor compliance in the medium term. Care must therefore be taken to tailor prescriptions to each patient's co-morbidities.

@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-173-17-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing the elements of the clinical and biological diagnosis of toxoplasmosis in immunocompromised + pregnant women
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux,Françoise Botterel,Marie-Laure Dardé
+|Order=17}}
+
+'''''Clinical diagnosis'''''
+
+- <u>Pregnant woman</u>: toxoplasma infection in women is no different from that in immunocompetent patients
+
+- Cerebral toxoplasmosis should be suspected in the presence of any neurological signs (disorientation, headache, speech or balance disorders, seizures, hemiparesis, ataxia, aphasia, motor deficit, coma, etc.), whether or not associated with fever. Cerebral CT scan with contrast medium shows cocardial abscesses, often found in the basal ganglia. Ocular toxoplasmosis should be suspected in the presence of chorioretinitis or uveitis. A rapid deterioration in general condition with respiratory distress syndrome may raise concerns about disseminated toxoplasmosis in HSC transplants.
+
+
+'''''Biological diagnosis'''''
+{| class="wikitable"
+|
+|'''Pregnant woman'''
+|Immunosuppressed woman
+|-
+|Serology
+|'''Key element in diagnosis'''
+
+- IgG+/IgM-: immunised woman, no follow-up required if immuno-competent
+
+- IgG+/IgM+ in early pregnancy: may indicate recent infection if avidity is low
+
+- IgM+/IgG- during serological follow-up of a seronegative woman: possible seroconversion, to be confirmed with the appearance of IgG
+
+- IgM+/IgG+: during serological monitoring of a seronegative woman: confirmed seroconversion, requires treatment
+|Useful for determining the risk of reactivation.
+
+- IgG+: probable /possible reactivation depending on the clinic and imaging
+
+- IgG-/IgM+: possible onset of seroconversion
+
+- IgG-/IgM-: eliminates progressive toxoplasmosis in HIV+ patients, but not in transplant recipients less than 6 months post-transplant.
+|-
+|Parasite detection (PCR)
+|To be carried out on '''amniotic fluid''' '''in the event of seroconversion''' during pregnancy
+|Necessary to confirm the diagnosis.
+
+To be taken from all types of sample, depending on the clinical signs: blood, CSF, BAL, aqueous humour, myocardial biopsy, etc.
+|}
+<br />

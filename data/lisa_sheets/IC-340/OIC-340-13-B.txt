@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-340-13-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=MRI of acute ischemic stroke
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+
+[[File:Figure 1 Stroke.jpg|vignette|Example of ischemic stroke in acute phase on MRI: Systematized hyperintensity in the left sylvian territory in diffusion sequence.]]
+'''Figure 1:''' Example of acute ischaemic stroke on MRI: Systematic hyperintensity in the left sylvian region in the diffusion sequence.

@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-225-03-A
+|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Rank=A
+|Title=To know the clinical manifestations and classification of AOMI and to know how to evoke the differential diagnoses.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Luc Bressollette, Christian Boissier, Anne Long, Alessandra Bura, Patrick Feugier
+|Order=3}}
+
+
+===Suggestive circumstances===
+AOMI may be asymptomatic. It should be suspected by the discovery of a ''[[Discovery of a vascular murmur SD-019|''vascular murmur'']]''' or by the abolition of peripheral pulses in a subject with cardiovascular risk factors.
+
+Symptomatic AOMI manifests itself either as [[Intermittent limb claudication SD-069|'''''muscular pain on walking''''']] forcing the patient to stop walking (claudication), or by [[Chronic pain SD-035|'''''permanent pain''''']] of a [[Pain in a limb (upper or lower) SD-071|'''''limb''''']] or by a '''''[[Skin ulcer SD-092|trophic disorder]]''''' associated or not (symptoms at rest).
+
+Sexual dysfunction and erectile dysfunction SD-063|'''''dysfonction érectile''''']], in a patient with cardiovascular risk factors, should be investigated for OSA.
+
+===Diagnosis===
+A clinical and haemodynamic classification is used. It is based on the search for symptoms and the measurement of perfusion pressures: systolic ankle pressure index (SAPI = ratio of ankle pressure to brachial pressure), ankle pressure and big toe pressure.
+
+A distinction is made between :
+
+*asymptomatic patients (SPI ≤ 0.90)
+*claudication: exertional ischaemia stage (SPI ≤ 0.90)
+*symptoms at rest: permanent ischaemia stage (ankle pressure < 50 mmHg or big toe pressure < 30 mmHg).
+
+In the case of diabetes or chronic renal failure, the GPI and ankle pressure are most often inaccurate, as a result of arterial stiffness (calcification of the arterial wall). Diagnosis is then based on measurement of pressure at the big toe (digital pressure). In addition, any finding of an SPI >1.4 should systematically lead to a measurement of toe pressure. The diagnosis of AOMI is accepted in the event of toe pressure < 0.7
+
+The functional classification of Leriche and Fontaine is no longer used.
+
+===Differential diagnoses===
+The main differential diagnoses of claudication and their characteristics are detailed in the table below:
+{| class="wikitable"
+!'''Origin'''
+!
+'''Arterial'''
+!
+'''Venous'''
+!
+'''Articular'''
+!
+'''Neurological'''
+|-
+!'''Distance of onset'''
+|Always the same
+|Variable
+|From the first steps
+|Variable
+|-
+!
+
+
+
+'''Pain/discomfort''''
+|Cramp-like, of muscular topography requiring rapid cessation of exercise
+|Progressive sensation of painful swelling that does not force you to stop exercising
+|
+Maximum joint topography from the outset
+|
+Relieved by anteflexion Root topography
+|-
+Recovery
+|Fast
+|Slow
+|Slow
+|Slow
+|-
+!
+
+
+
+'''Context'''
+|
+Atheromatous context
+|Deep venous thrombosis of a collecting trunk
+|Arthrosis Trauma sequelae Inflammatory rheumatism
+|
+Lumbar osteoarthritis Narrow lumbar canal
+|}
+The main differential diagnoses of trophic disorders and their characteristics are detailed in the item [[Leg ulcer]] and the starting situation [[Skin ulcer SDD-092]].

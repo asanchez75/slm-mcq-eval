@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-219-11-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Knowing the biological parameters for confirming iron overload
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+
+Diagnosis of iron overload is based on ''plasma ferritin measurement coupled with the transferrin saturation coefficient''.
+
+The transferrin saturation coefficient should be systematically assayed in cases of hyperferritinaemia after eliminating the frequent causes of hyperferritinaemia (in particular hepatic or muscular cytolysis, haemolysis, inflammation, chronic ethyl alcohol intoxication), and these two assays should be combined as the 1st line of defence in cases of suspected iron overload.
+The transferrin saturation coefficient may be elevated in cases of severe liver failure (e.g. decompensated cirrhosis, responsible for a drop in transferrin synthesis), even in the absence of iron overload.
+
+- The absence of hyperferritinaemia rules out the diagnosis of iron overload, whereas hyperferritinaemia associated with an increase in the transferrin saturation coefficient points towards the diagnosis.
+(Beware of false positives, for example liver failure/cirrhosis, see above).
+
+- Hyperferritinaemia associated with a normal transferrin saturation coefficient does not rule out the diagnosis of iron overload, but there are many causes of hyperferritinaemia unrelated to iron overload. Additional investigations may be required, such as liver MRI, which is discussed in more detail below.
+
+- Normal ferritin levels associated with an increase in the transferrin saturation coefficient may be associated with an early stage of haemochromatosis or, rarely, with hepatic cytolysis.
+
+
+
+<br />

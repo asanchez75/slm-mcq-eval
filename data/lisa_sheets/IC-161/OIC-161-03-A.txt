@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-161-03-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Knowing the indications for first-line investigations depending on the type of urinary tract infection
+|Description=UB, ECBU, Ultrasound
+|Rubric= Complementary examinations
+|Contributors=Maxime Vallée, Alice Faure
+|Order=3}}
+
+==The additional tests currently recommended differ according to the type of urinary tract infection==.
+
+==For uncomplicated cystitis, the only recommended test is the BU (taking into account the pitfalls listed below), which should be interpreted with common sense.
+
+==Cystitis at risk of complication:==
+
+*Urinalysis may be performed (but should not change the course of action if it is negative and the clinical picture is suggestive of cystitis).
+*ECBU with systematic antibiotic susceptibility testing
+
+==Simple acute pyelonephritis:==
+
+*Urinalysis may be performed (but should not change the course of action if it is negative and the clinical picture is suggestive of cystitis).
+*ECBU with systematic antibiotic susceptibility test
+*Imaging: at a distance if pain or fever persists for 48 hours: non-injected AP CT scan with possible injection if diagnostic doubt (absence of obstacle) or complication (abscess).
+
+==Pyelonephritis with risk of complications:==
+
+*Urinalysis may be performed (but should not change the course of action if it is negative and the clinical picture is suggestive of cystitis).
+*ECBU with systematic antibiotic susceptibility testing
+*urea
+*creatinine
+*CRP
+*Imaging: non-injected AP CT scan with possible injection if there is any doubt about the diagnosis (absence of an obstacle) or a complication (abscess) or, failing that, ultrasound scan of the kidneys and bladder + DBS within 24 hours.
+
+==Severe acute pyelonephritis (acute obstructive pyelonephritis/febrile nephritic colic/purulent retention of the upper urinary tract or pyelonephritis complicated by severe sepsis or [[Sepsis/Bacteremia/Fungemia in adults and children|septic shock 157]] and [[Sepsis and septic shock in children and adults|158]]):==
+
+*Urinalysis may be performed (but should not change the course of action if it is negative and the clinical picture is suggestive of cystitis).
+*ECBU with antibiotic susceptibility test
+*urea
+*creatinine
+*complete blood count
+*PCR
+*blood cultures
+*Imaging: as a matter of urgency: non-injected AP CT scan with possible injection if there is diagnostic doubt (absence of obstruction) or complication (abscess).
+
+==For children (cf [[Knowing how to prescribe one or more complementary examinations in children 2C-161-EC-A04]])==

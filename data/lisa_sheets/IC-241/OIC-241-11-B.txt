@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-241-11-B
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=B
+|Title=Knowing the place and cytology in the management of a thyroid nodule
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Eva Feigerlova,Camille Buffet,Stéphanie Espiard,Arnaud Jannin
+|Order=11}}
+
+Fine needle aspiration of a thyroid nodule is used to assess whether it is malignant or benign.
+
+This examination is recommended for a thyroid nodule with normal (or elevated) TSH that presents at least one of the following criteria:
+
+o suspicious supra-centimetre nodule on ultrasound (highly hypoechoic nodule and/or presence of microcalcifications and/or irregular contours and/or non-oval shape),
+
+o And/ or nodule associated with suspicious cervical adenopathy(ies).
+
+o And/or suspicious nodule fixed on FDG-PET.
+
+Interpretation of thyroid cytology is based on the Bethesda classification, which makes it possible to estimate the risk of malignancy and to suggest a course of action according to six cytological categories
+
+<ref>Polycopy of the Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques (4th edition, 2019)</ref>
+<references />

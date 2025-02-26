@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-352-02-B
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=B
+|Title=Knowing the prevalence and ages concerned
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=2}}
+
+Common situation, 5% over a lifetime, encountered in particular in emergency departments, in young adults, sex ratio is 2 women to 1 man. Rare in children (<1%), increasing in adolescence (2-2.5%).

@@ -1,0 +1,269 @@
+{{knowledge objective
+|Identifiant=OIC-294-12-A
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=A
+|Intitulé=Enumerer les complications des thérapeutiques médicamentes spécifiques du traitement des cancers
+|Description=None
+|Section=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=12}}
+
+====Complications of chemotherapy====
+Common toxicities: asthenia, haematotoxicity (leuko-neutropenia, anaemia, thrombocytopenia), nausea/vomiting and gonadal toxicity to varying degrees depending on the chemotherapy molecules used;
+
+Specific toxicities (see table below) ;
+<br />
+{| class="wikitable"
+| colspan="10" |'''Table 2. SPECIFIC TOXICITIES'''
+|-
+|
+|'''Hémato''''
+|'''Nausea/ vomiting''''
+|
+Peripheral neuropathy
+|Alopecia
+|Hand Foot Syndrome
+|
+Diarrhoea
+|Renal
+|
+Cardiac
+|Cutaneous necrosis (extravasation)
+|-
+|Cisplatin
+|<nowiki>+/-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+| Carboplatin
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Oxaliplatin''''
+|
++
+|
+-
+|<nowiki>++</nowiki>
+
+(cold paresthesia)
+|
+-
+|
+-
+|
++
+|
+-
+|
+-
+|
+-
+|-
+|'''Cyclophosphamide/''''
+
+'''ifosfamide'''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Irinotecan''''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++ (sd</nowiki>
+
+cholinergic)
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|Anthracyclines
+|<nowiki>+</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+ (cumulative)</nowiki>
+|<nowiki>++</nowiki>
+|-
+|'''Etoposide''''
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Paclitaxel''''
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Docetaxel''''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>++</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''5 Fluorouracil''''
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+ (spasm</nowiki>)
+
+coronary)
+|<nowiki>-</nowiki>
+|-
+|Capecitabine
+|<nowiki>+/-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|oral
+|-
+|Gemcitabine
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|-
+|'''Methotrexate''''
+|<nowiki>+</nowiki>
+|<nowiki>+</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>+/-</nowiki>
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|}
+<br />
+
+====Specific life-threatening toxicities (Table 3)====
+{| class="wikitable"
+| colspan="2" |'''Table 3. SPECIFIC LIFE-THREATENING TOXICITIES'''
+|-
+|
+|'''TOXICITIES'''
+|-
+|'''Cardiac'''
+|Angina due to coronary spasm or even ST+ acute coronary syndrome: 5-FU
+
+y dilated cardiomyopathy with '''anthracyclines:''' cumulative, dose-dependent
+|-
+|Pulmonary
+|Diffuse interstitial lung disease followed by fibrosis: bleomycin
+
+y acute hypersensitivity pneumonitis : '''methotrexate''''
+|-
+|Nephrology
+|Acute renal failure due to direct tubular toxicity: methotrexate, cisplatin
+
+y immuno-allergic nephropathy: cisplatin
+|-
+|''Urological'''
+|Haemorrhagic cystitis: cyclophosphamide, ifosfamide
+|-
+|Neurological
+|Metabolic encephalopathy: ifosfamide
+|-
+|'''Allergic''''
+|Anaphylactic shock: bleomycin, paclitaxel
+|}
+
+====Complete deficiency of DHPD (dihydropyrimidine dehydrogenase) can cause fatal toxicities when 5-FU is administered. As 5-FU is reduced by DHPD, it accumulates in cases of complete enzyme deficiency. Partial deficiency is possible, and will be managed by administering 5-FU at half the dose. Since 2018, it has been recommended that patients be systematically screened for DHPD deficiency before any administration of 5-FU or capecitabine.====
+
+====A severe complication: tumour lysis syndrome====
+Tumour lysis syndrome is the consequence of the massive destruction of tumour cells, leading to the release of intracellular compounds into the bloodstream. Tumour lysis syndrome occurs after the initiation of chemotherapy in rapidly developing tumours, such as haemopathies, or in tumours with a large tumour volume, such as germ cell tumours.
+
+Biological tumor lysis syndrome is defined by ≥ 2 biological manifestations:
+
+- Hypocalcaemia
+
+- Hyperkalaemia
+
+- Hyperuricemia
+
+- Hyperphosphatemia
+
+Clinically, acute renal failure (almost constant), heart rhythm disorders, neurological disorders including convulsions, muscle cramps, nausea/vomiting and diarrhoea may occur.     
+
+Prevention involves a high level of hydration with physiological serum to maintain satisfactory diuresis, and administration of rasburicase (Fasturtec) to prevent hyperuricaemia.
+
+
+'''<big>Side effects of hormone therapy</big>''''
+
+The main side effects of hormone therapy for prostate cancer in men are as follows:
+
+-hot flashes
+
+-Gynecomastia
+
+-weight gain at the expense of muscle mass (increase in abdominal circumference)
+
+-physical fatigue (sarcopenia), falls
+
+-myalgia, arthralgia
+
+-mental fatigue, anxiety, depressive syndrome, cognitive disorders
+
+-cardiovascular risks
+
+-risk of fracture (osteopenia, osteoporosis)
+
+-problems with libido and erection
+
+-biology: increase in HDL-cholesterol, hyperglycaemia, insulin resistance

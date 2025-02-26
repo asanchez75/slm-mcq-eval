@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-180-03-A
+|Item_parent=Risques sanitaires liés aux irradiations. Radiation protection
+|Item_parent_short=Risques sanitaires liés aux irradiations. Radiation protection
+|Rank=A
+|Title=Knowing the different risks associated with radiation.
+|Description=Deterministic and stochastic
+|Rubric=Definition
+|Contributors=Eléonore Blondiaux,Damien Huglo,Jean-Philippe Vuillez,Jean-François Chateil
+|Order=3}}
+
+'''The effects of ionising radiation depend on:'''
+
+* The nature of the radiation
+* The dose in Gy
+* The dose rate (i.e. the rate at which a dose is delivered to a tissue)
+* The volume irradiated
+* The nature of the tissue contained in this volume
+
+'''Essential difference between deterministic and stochastic effects'''
+
+- '''Deterministic effects''' :
+
+o Occurrence of medium (100 to 1000 mGy) or high (> 1000 mGy) doses
+
+o Occurrence threshold specific to each effect/tissue (below the threshold, the effect does not occur, above, the effect affects 100% of individuals, the severity increasing with the dose and dose rate).
+
+o Early effects, with clinical signs appearing within a few minutes to a few weeks, which may lead to late sequelae.
+
+- '''Stochastic effects''' :
+
+o Random occurrence, responsible for a higher incidence of cancer (no genetic effects)
+
+o Frequency increases with dose, dose-independent severity
+
+o Late onset (several years)
+
+o Difficult to demonstrate at low doses (< 100 mSv). Consequently, in radiation protection of workers, the so-called Linear Relationship without Threshold (RLSS) is applied. From a medical point of view (particularly for patient radiation protection), this risk is considered insignificant below 100 mSv.

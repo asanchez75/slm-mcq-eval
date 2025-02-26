@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-316-01-A
+|Item_parent=Myelodysplastic syndromes
+|Item_parent_short=Myelodysplastic syndromes
+|Rank=A
+|Title=Knowing the definition of a myelodysplastic syndrome (MDS)
+|Description=Clonal haemopathies. An abnormality in the production of bone marrow elements resulting in one or more cytopenias.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Clonal myeloid haemopathies affecting a medullary haematopoietic stem cell resulting in abnormalities in the medullary production of blood cells:
+
+- both quantitative (anaemia, thrombocytopenia, neutropenia)
+
+- and qualitative (morphological and functional abnormalities of blood cells)
+
+Their overall incidence (around 4 cases per 100,000 inhabitants per year) increases with age, reaching 70 cases per 100,000 inhabitants per year between the ages of 70 and 80.
+
+- The median age at diagnosis is between 65 and 70.
+
+- 15-20% of anaemias in the elderly
+
+- More common in men

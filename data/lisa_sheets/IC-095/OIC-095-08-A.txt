@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-095-08-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and ductal syndrome
+|Rank=A
+|Title=Argumentation for 1st-line treatment of uncomplicated radiculalgia
+|Description=Symptomatic treatment: medicinal and non-medicinal treatments
+|Rubric=Management
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=8}}
+
+
+- First-line treatment of radiculalgia: short course of NSAIDs if no contraindication, painkillers avoiding morphine (Prescribe non-steroidal anti-inflammatory drugs (NSAIDs); Prescribe painkillers).
+
+- Second-line treatment: epidural infiltration of cortisone derivatives
+
+- Third-line treatment if good radioclinical concordance: spinal surgery
+
+- Physiotherapy for spinal pain (Prescription of physiotherapy)
+
+- Lumbar restraint to be discussed (prescription of a simple brace)
+
+Socio-professional support (adaptation of the workstation) if necessary with occupational health structures (Therapeutic modification of lifestyle (sleep, physical activity, diet, etc.); Announcement of the diagnosis of a serious illness to the patient and/or his family).

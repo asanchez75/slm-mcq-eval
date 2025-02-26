@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-093-19-A
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=A
+|Title=Understanding the major deficits and disabilities secondary to spinal cord compression or cauda equina syndrome.
+|Description=Main consequences and disabilities without detailing them
+|Section=Follow-up and/or prognosis
+|Contributors=
+|Order=19}}
+
+
+== Understanding deficits and disabilities: ==
+
+* They are secondary to mechanical compression +++, possibly supplemented by ischaemic aggression in the acute phase, or even hydraulic aggression (syringomyelia) in the chronic phase.
+
+== Sequelae and disabilities depend on
+
+* the duration and extent of compression
+* the speed with which symptoms develop
+* The speed with which treatment is initiated
+* Aetiology (e.g. better prognosis if neuroma versus malignant tumour)

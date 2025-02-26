@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-259-11-B
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=B
+|Title=Knowing the main causes of nephrotic syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=11}}
+
+A schematic distinction is made between primary and secondary nephrotic syndromes:
+
+*A nephrotic syndrome is said to be primary or idiopathic if the aetiological investigation is negative (there is no obvious cause and no extra-renal signs). Primary glomerular nephropathies are then defined according to their histological type. In adults, the most frequent causes of primary nephrotic syndrome are extra-membranous glomerulopathy, nephrotic syndrome with minimal glomerular lesions and primary segmental and focal hyalinosis (Cf [[Glomerular Nephropathy]]).  In children, idiopathic nephrotic syndrome accounts for the majority of cases (90% of cases before the age of 8).
+*A nephrotic syndrome is secondary if the glomerular nephropathy is the consequence of a general disease (diabetes, lupus, amyloidosis, etc.), infectious, toxic or tumour-related causes, or genetic causes. The main causes of secondary nephrotic syndromes are summarised in the table below.
+
+{| class="wikitable"
+|General illness
+|- Diabetes
+
+- Systemic lupus erythematosus
+
+- Cryoglobulinemia
+
+- Amyloidosis
+|-
+|Infections
+|- Hepatitis B or hepatitis C viruses
+
+- HIV
+
+- Acute post-infectious glomerulonephritis (streptococcus, pneumococcus)
+
+- Other: malaria, syphilis, bilharzia, etc.
+|-
+|Cancer and haemopathy
+|- Solid tumours
+
+- Haemopathies (monoclonal gammopathy, multiple myeloma, lymphomas)
+|-
+|Medicines
+|- Non-steroidal anti-inflammatory drugs
+
+- Lithium
+
+- Anti-VEGF treatments
+|-
+|Other causes
+|- Pre-eclampsia
+|}
+ 
+''A detailed description of the chapter is available at:'' http://cuen.fr/manuel2/spip.php?rubrique10

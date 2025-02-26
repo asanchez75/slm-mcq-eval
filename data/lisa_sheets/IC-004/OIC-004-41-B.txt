@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-004-41-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Defining BMR and highly resistant bacteria (HRB)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=41}}
+Bacteria are said to be multi-resistant to antibiotics (MRB) when they have acquired resistance (compared with the "wild" species) to a large number of therapeutically usable antibiotics, or have even become totally resistant to all antibiotics - they are then referred to as highly resistant or total-resistant bacteria.
+
+Because of their high frequency and pathogenic potential, the main BMR targets are :
+
+- ''''' Methicillin-resistant Staphylococcus aureus (MRSA) (currently on the decline);
+
+- Extended-spectrum β-lactamase-producing Enterobacteriaceae (EBLSE) resistant to third-generation cephalosporins (rapidly increasing in France in recent years)
+
+
+Nosocomial MRSA infections are gradually decreasing (they occur in around 1 in 200 hospitalised patients in France today). On the other hand, the incidence of EBLSE infections is tending to increase, and the proportion of resistant strains among enterobacteria is rising.)
+
+We are also seeing the emergence of highly resistant bacterial strains (HRB), known as emerging HRB (EHRB), such as carbapenemase-producing enterobacteriaceae (CPE), glycopeptide-resistant enterococci (GRE) (also known as vancomycin-resistant enterococci or VRE) and glycopeptide-resistant staphylococcus aureus. The high incidence of BHRe in many foreign countries means that patients repatriated from abroad are at very high risk of carrying BHRe.
+
+BMR and BHRe are mainly transmitted by "contact"-type cross-transmission between a patient who is a carrier or infected, or his or her immediate environment, and another patient, usually via the hands of healthcare workers, and more rarely via equipment.
+
+The fight against the transmission of "classic" MRBs is based primarily on compliance with standard precautions for all patients (see below), supplemented by "additional contact precautions" for the care of known MRB carriers.
+
+The fight against the transmission of RHBs is also based on compliance with standard precautions for all patients (see below), supplemented by "additional contact precautions" for the treatment of known or suspected carriers of RHBs (particularly repatriated patients), and organisational measures such as screening contacts and bringing the patients concerned together for treatment by dedicated healthcare staff.
+
+A policy of rational use of antibiotics is essential to combat the selection of both BMR and BHRe.

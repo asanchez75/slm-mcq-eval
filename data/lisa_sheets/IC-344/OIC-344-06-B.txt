@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-344-06-B
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=B
+|Title=Knowing the complementary examinations to be carried out in the first instance
+|Description=In the case of pre-eclampsia, knowing how to prescribe additional diagnostic tests
+|Rubric=Complementary examinations
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=6}}
+
+- Blood tests
+
+o Blood ionogram, urea/creatinine
+
+o Liver function tests: AST, ALAT, bilirubin
+
+o Blood count/platelets
+
+o Haemostasis: TP TCA Fibrinogen, D-Dimers
+
+o Haemolysis work-up: haptoglobin, schizocytes, LDH
+
+- Proteinuria: by dipstick on sample and over 24 hours
+
+- Fetal monitoring :
+
+o Cardiotocography for analysis of foetal heart rate
+
+o Obstetrical ultrasound: fetal vitality, fetal biometrics, quantity of amniotic fluid, fetal Doppler indices, uterine Doppler indices
+
+- Depending on the complications :
+
+o Fundus if visual disturbances
+
+o Liver ultrasound if abdominal pain to look for a subcapsular haematoma of the liver
+
+o Cerebral MRI in the event of an abnormal neurological examination

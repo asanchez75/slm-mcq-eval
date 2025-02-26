@@ -1,0 +1,146 @@
+{{knowledge objective
+|Identifiant=OIC-139-04-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=A
+|Title=Knowing how to identify and assess the symptoms most frequently encountered in the palliative or terminal phase of serious, chronic or fatal illnesses: respiratory, digestive, neurological, psychiatric, ENT, etc.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Guillaume Economos
+|Order=4}}
+
+
+==<small>'''1. Symptoms''</small><big> </big>==
+
+*Subjective experiences that often have a negative impact on quality of life.
+*Frequency increasing with advancing disease and deteriorating functional abilities.
+*Systematically assessed, as a priority by dedicated <u>self-assessment scales</u>.
+*Always assess other associated symptoms (particularly anxiety, anorexia, asthenia and depression) if necessary using multidimensional scales.
+*<A reasoned and proportionate aetiological approach</u> depending on the patient's clinical situation.
+
+<u>See</u>: [[Identifying, caring for and monitoring a patient in a palliative situation SD-337]]; [[Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy]]; [[Introduction to medical ethics|Introduction to medical ethics;]] [[Anxiety SD-116]]; [[Sad mood/moral pain SD-123]]; [[Asthenia SD-021]]
+
+==<small>'''2. Respiratory symptoms''</small>==
+
+===<small>'''a) Dyspnoea''</small>===
+(see: [[Definition of dyspnoea in general and more specifically inspiratory / expiratory dyspnoea 2C-203-DE-A01|Definition]])
+
+*Feeling of shortness of breath, whether or not associated with polypnoea.
+*Not correlated with hypoxaemia.
+*Clinical examination (physical and functional signs) and reasonable paraclinical investigations should lead to a search for a specific cause in order to propose appropriate treatment.
+
+<u>See</u>: [[Acute dyspnoea: elements of etiological orientation 2C-203-DP-A04]], [[Know the elements of diagnostic orientation in the face of chronic dyspnoea 2C-203-DP-A03]], [[Know the clinical examination of a patient presenting with dyspnoea 2C-203-DP-A01]][[Acute respiratory distress SD-160|; Acute respiratory distress SD-160]]; [[Dyspnoea SD-162]]
+
+===<small>'''b) Agonal rales''</small>===
+(see: [[Knowing how to identify the clinical features of the agonic phase of serious, chronic, progressive or lethal illnesses 2C-139-DP-A03|Definition]])
+
+*Very common in the last days of life.
+*Psychological and emotional impact on family and carers.
+
+<u>See</u>: [[Knowing how to identify the clinical features of the agonic phase of serious, chronic, progressive or lethal diseases 2C-139-DP-A03|Knowing how to identify the clinical features of the agonic phase of serious, chronic, progressive or lethal diseases]]
+
+==<small>'''3. Digestive symptoms''</small>==
+
+===<small>'''a) Nausea and vomiting''</small>===
+
+*Nausea is a subjective sensation corresponding to the desire to vomit; vomiting corresponds to the expulsion of undigested gastric contents through the mouth.
+*Assessment of nausea: nausea VAS
+*Evaluation of vomiting: frequency, type and quantity.
+
+<small>'''<u>Table 1. Etiologies of nausea-vomiting</u>'' (adapted from the National Palliative Care Reference (Medline Editions, 2021)</small>
+{| class="wikitable"
+|'''Physiopathology'''
+|'''Stimuli''''
+|-
+|'''Stimulation of the chemoreceptor trigger zone (CTZ)''''
+|Medicines: chemotherapy, antibiotics, weak and strong opioids, etc.
+
+Metabolic disorders (hypercalcaemia, high uraemia, etc.)
+
+Bacterial toxins
+
+Radiation damage to the brain
+|-
+|Stimulation of the vestibular system
+|Meniere's disease, motion sickness, vestibular neuromas etc...
+|-
+|Stimulation of peripheral pathways
+|Mechanical causes (digestive obstructions)
+
+Gastroparesis
+
+Damage to digestive mucosa (cancers, infections, radiation damage, etc.)
+
+Cough
+|-
+|''Central stimulation'''
+|HTIC , tumour lesions, carcinomatous meningitis.
+
+Vomiting in anticipation of chemotherapy.
+
+Sensory afferences (smell, sight, taste).
+
+Anxiety, emotions
+|}
+<u>See</u>: [[Know the symptoms guiding the diagnostic approach (acute vs chronic) 2C-274-DP-A02]]; [[Know the main digestive and extradigestive causes (medicinal, metabolic, neurological, ..) 2C-274-ET-A02]]; [[Principle of medicinal (indication/non-indication) and non-medicinal management 2C-274-PC-A01]]; [[Nausea SD-012]]; [[Vomiting SD-013|Vomiting SD-013;]]]
+
+===<small>'''b) Constipation''</small>===
+(see: [[Definition of chronic constipation 2C-283-DE-A01|Definition]])
+
+- In palliative care, ''often multiple etiologies'', to be investigated:
+
+*Compliance with dietary hygiene rules (sedentary lifestyle, insufficient water intake, low-fibre diet, swallowing problems, impaired functional capacity, etc.);
+*Tumour: obstruction of the digestive lumen;
+*Metabolic (hypercalcaemia, chronic renal failure, hypothyroidism, diabetes, etc.);
+*Neurological (spinal cord injury, neurovascular, inflammatory and degenerative diseases of the central nervous system, peripheral neuropathy);
+*Iatrogenic (opioids, antidepressants, anticholinergics, antiepileptics, benzodiazepines, certain chemotherapies, setrons, etc.).
+
+- '''Constipation on opioids:''' expected side effect; must be systematically prevented.
+
+<u>See</u>: [[Analgesic, medicinal and non-medicinal therapies]][[Constipation SD-001|; Constipation SD-001]]
+
+===<small>'''c) Intestinal occlusion''</small>===
+(see: [[Know the definition of occlusive syndrome, differentiate between high and low occlusion 2C-354-DE-A01|Definition]] and [[Know the cardinal signs of occlusion 2C-354-DP-A02|Diagnosis]])
+
+*A frequent complication of intra-abdominal tumours.
+*Knowledge of the CT signs of an occlusion and their presence according to the site of the occlusion 2C-354-CM-B01|Abdomino-pelvic CT scan]] systematic at the first episode, to be discussed at the time of iterative episodes in a palliative situation.
+*The aetiological diagnosis will lead to discussion of the type of treatment to be offered.
+
+*[[Knowledge of the major occlusion mechanisms and their complications 2C-354-EP-B01|Two major mechanisms]] :
+
+~ Mechanical: extrinsic compression (peritoneal carcinosis, flanges, etc.) and intrinsic compression.
+
+~ Functional: tumour infiltration, neurological damage, iatrogenia, ileus, ionic disorders, etc.
+
+<u>See</u>: [[Abdominal distension SD-003]]; [[Abdominal pain SD-004]]
+
+==<small>'''4. Symptoms of the oral sphere''</small><big> </big>==
+
+*Thirst, fungal infections, mouth pain, erosions, bleeding, etc.
+*Encourage the onset of other symptoms (nausea, anorexia, anxiety, etc.).
+*Always justify basic oral hygiene measures and, if necessary, appropriate mouth care.
+
+==<small>'''5. Anorexia-cachexia syndrome''</small>==
+
+*Common in all advanced palliative situations.
+*Weight loss often associated with asthenia, sarcopenia, anorexia and an inflammatory state leading to impaired functional capacity.
+*Cannot be corrected by nutritional support.
+
+==<small>'''6. Neuropsychological symptoms''</small>==
+
+===<small>'''a) Palliative confusion''</small>===
+(see: [[Knowing how to look for the causes of mental confusion 2C-108-DP-A01|Elements of diagnosis]])
+
+*Very common in palliative care, especially in the last hours of life (terminal delirium).
+*Two forms (may coexist): agitated and slowed down.
+*Sudden onset, with disturbance of the nycthemeral cycle and fluctuating signs.
+*Generally multifactorial and organic.
+*A reversible cause should be sought and treated ([[Acute retention of urine SD-097|acute retention of urine]], faecal impaction, iatrogenia, etc.).
+
+===<small>'''b) Anxiety''</small>===
+
+*Corresponds to an imprecise fear.
+*Often adaptive and transient in palliative or bereavement situations, it can nevertheless become pathological depending on its intensity, duration and repercussions.
+*May result from an organic disorder (pain, pulmonary embolism, myocardial infarction, metabolic disorder), in which case etiological treatment is required.
+
+<u>See</u>: [[Generalized anxiety disorder; Panic disorder; Agoraphobia; Social anxiety disorder; Specific phobias;Separation anxiety; Anxious school refusal 2C-066-DE-A02]]; [[Agitation SD-114]]; [[Anxiety SD-116]]

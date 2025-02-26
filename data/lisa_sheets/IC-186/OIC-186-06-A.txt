@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-186-06-A
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Title=Knowing and prioritising the different stages in the diagnosis of respiratory allergies
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Respiratory allergies manifest themselves as asthma and/or rhinitis (see Lisa sheet item 188). The ''diagnosis of respiratory allergy'' is based on the demonstration of a strong association between exposure to an allergen and the onset of symptoms.
+
+This association is evaluated :
+
+1- by the "unity of place, time and action".
+
+o "Per-annual pneumallergens" (responsible for per-annual symptoms) are most often "indoor allergens":
+
+§ dust mites and cockroaches, animal dander: dogs, cats, rodents; mould.
+
+§ Certain outdoor moulds such as Alternaria are also involved in allergic phenomena.
+
+o "Seasonal pneumallergens" are most often "outdoor allergens":
+
+§ pollens from trees, grasses (the most ubiquitous), herbaceous plants,...
+
+
+2- and by "evidence of sensitisation" to the allergen (positive skin test/presence of specific IgE antibodies).

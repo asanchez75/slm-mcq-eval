@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-168-11-A
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Title=Photograph of a primary genital HSV infection
+|Description=P-UE6-164-2
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+<gallery widths="500" heights="500" perrow="2">
+File:Genital herpes HSV2.PNG| Herpetic balanitis - '''Erythematous ulcerated plaques'''
+File:Herpetic balanitis.PNG|Herpetic balanitis
+File:Herpes02.PNG|Herpes
+File:Painful ulceration herpes.PNG|Painful ulcerations : herpes
+</gallery>

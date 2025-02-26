@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-185-02-B
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=B
+|Title=Know the mechanisms leading to inflammation and the main mediators involved.
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Gilles Kaplanski
+|Order=2}}
+
+*The aim of IR is to contain and destroy the aggressive agent, followed by a repair phase and a return to homeostasis. To remain beneficial, it must therefore be limited in time and space. If it becomes chronic, it is a source of chronic disease (e.g. rheumatoid arthritis). If generalised, it can lead to potentially lethal situations (e.g. septic shock).
+
+<br />
+
+*The mechanisms are based on the migration of blood leukocytes (neutrophils and monocytes) into the attacked tissues, which takes place in several stages:
+
+#vasodilatation linked to the action of prostaglandins
+#Leukocyte margination, leukoendothelial adhesion and intra-tissue migration dependent on adhesive molecules and chemotactic molecules.
+#The release of leukocyte enzymes, the production of oxygen-derived products and phagocytosis enable the aggressive agent to be destroyed.
+#The production of anti-inflammatory molecules and tissue healing phenomena allow a return to homeostasis.
+
+<br />
+
+*The main mediators of IR are cytokines, interleukin-1 (IL-1), tumour necrosis factor (TNF) and IL-6. These cytokines have pleiotropic effects at cerebral, endothelial, epithelial and hepatic levels, responsible for the main symptoms observed during the inflammatory syndrome (''Figure 1'').<gallery widths="500" heights="500">
+File:Inflammatory reaction Figure.jpg|Inflammatory reaction vectors and proteins.
+</gallery>
+
+<br />

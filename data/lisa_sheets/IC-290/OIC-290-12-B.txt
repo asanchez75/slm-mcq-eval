@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-290-12-B
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=B
+|Title=Knowing genetic risk factors
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+The rate of cancers attributable to a genetic predisposition is estimated at between 5 and 10%. Certain genes have been identified, such as BRCA1 and BRCA2 for breast cancer, or susceptibility genes for Lynch syndrome and the risk of colorectal cancer.

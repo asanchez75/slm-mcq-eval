@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-231-23-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying QT prolongation
+|Description=medicinal, congenital, ionic...
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=23}}
+
+
+The ''corrected QT'' (QTc) is considered prolonged when it is > 440ms, but the diagnosis of congenital long QT syndrome is accepted when the QTc is ≥ 480 ms in the absence of a favouring factor.
+
+'''QT interval measurement''' :
+
+*From the start of the QRS to the end of the T wave (intersection between the tangent of the T wave and the isoelectric line),
+*To be measured where the T wave is clearly visible (often at DII or V5),
+*The QT varies according to the heart rate; Bazett's formula is the most commonly used to correct the QT.
+
+[[File:QT.jpg|thumbnail|alt=|centered|600x600px]]

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-239-01-A
+|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Rank=A
+|Title=Know the definition of Raynaud's phenomenon, acrocyanosis, erythermalgia, digital ischaemia and frostbite.
+|Description=None
+|Rubric=Definition
+|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello
+|Order=1}}
+
+Raynaud's phenomenon (RP): paroxysmal vascular acrosyndrome with vasoconstriction, triggered by exposure to cold.
+
+Erythermalgia: paroxysmal vascular acrosyndrome with vasodilatation, triggered by heat, exercise or orthostatism.
+
+Acrocyanosis: permanent vascular acrosyndrome with a pronounced cold, cyanotic appearance of the extremities.
+
+Frostbite: trophic acrosyndrome in the toes, more rarely in the fingers.
+
+Digital ischaemia: ischaemia localised to the fingers or toes.

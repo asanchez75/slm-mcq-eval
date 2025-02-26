@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-152-10-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing the initial echocardiographic diagnostic procedure in cases of suspected IE
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=10}}
+<u>L''''échocardiographie''' is the reference test for:</u>
+
+*visualise valve vegetations
+*search for associated cardiac complications (cord rupture, abscess, valvular destruction, prosthesis deinsertion, paravalvular leak)
+*assess the severity of valve leaks and their impact on the heart''.
+
+
+An echocardiogram should be performed immediately if there is a clinical suspicion.
+
+
+<u>'''Echocardiographic evaluation is done in two stages:'''</u>
+
+'''1) Transthoracic echocardiography (TTE)''' is routinely performed as a first-line procedure:
+
+*Rapid, non-invasive and available in many centres
+*Only 70% sensitive for positive diagnosis of IE
+
+2) A transoesophageal echocardiogram (TEE) must then be performed in the event of a positive TEE, but also in the event of a negative TEE with clinical suspicion of endocarditis:
+
+*TEE increases sensitivity for the positive diagnosis of AR (≥ 90%), particularly in cases of AR on prostheses,
+*TEE can be used to diagnose valve complications.
+
+[[File:IE Echocardiography.jpg|left|vignette|Diagnostic strategy for infective endocarditis using echocardiography (according to [http://eurheartj.oxfordjournals.org/content/ehj/early/2015/08/28/eurheartj.ehv319.full.pdf European recommendations 2015 ESC]]]
+<br />

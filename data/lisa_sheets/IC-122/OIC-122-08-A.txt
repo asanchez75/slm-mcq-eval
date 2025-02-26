@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-122-08-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Know the main indications for an occupational therapy programme.
+|Description=Occupational therapy indications in common pathologies
+|Rubric=Management
+|Contributors=Claire Hentzen
+|Order=8}}
+
+Indications for occupational therapy in common pathologies:
+
+* Upper limb impairment (''''[[Limb trauma SD-173|Limb trauma]], [[Pain in a limb (upper or lower) SD-071|Pain in a limb (upper or lower)]], [[Joint pain SD-067|Joint pain]], [Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]], [[Joint stiffness SD-056|Joint stiffness]], [[Joint deformity SD-070|Joint deformity]])''''
+* Loss of autonomy secondary to prehension problems, limitations to movement or transfer, cognitive problems, etc.
+* Installation and positioning of the patient (bed, armchair) ('''[[Management of a patient in prolonged decubitus SD-276|Management of a patient in prolonged decubitus]], [[Escarre SD-086|Escarre]])'''''

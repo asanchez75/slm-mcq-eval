@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-005-06-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Knowing the definition of no-fault liability
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=6}}
+
+In the case of damage related to care but which has occurred without any breach of professional or scientific rules or error, this is known as no-fault liability.
+
+The legislator has recognised compensation systems for which liability may be incurred on the basis of an event other than proven fault. This is the case with nosocomial infections.

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-183-07-B
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=B
+|Title=Knowing the risk assessment process
+|Description=Hierarchy and methods of a risk assessment process
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+
+
+Hiérachisation des risques professionnels is ''obligatoire'' in companies and ''under the responsibility of the employer'', but the multidisciplinary occupational health team and the occupational physician must contribute to it.
+
+===3 steps===
+
+====1.      Hazard identification and characterisation:====
+
+*knowledge of workstations
+*knowledge of product composition (safety data sheets)
+
+====2.      Exposure assessment:====
+
+*ambient and individual measurements: e.g. noise metrology
+*measurements of biological indicators of exposure (toxins or metabolites measured in the biological media of exposed subjects).
+*ergonomic studies of workstations
+
+====3.      Estimated risks:====
+
+*Comparison of measured exposures with exposure limit values that must not be exceeded to protect health.
+*Limit values: based on dose-response relationships published in the literature, exist for a large number of dangerous chemical agents, asbestos, noise and ionising radiation....
+
+
+Must be followed by a ''prevention plan'' formalising the ''risk management approach''.

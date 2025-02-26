@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-159-07-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing the clinical presentation of tuberculosis disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=7}}
+
+'''Summary:''' '''Clinical signs are aspecific and progressive in onset. Pulmonary involvement is the most frequent clinical form and is responsible for human-to-human transmission.''''
+
+Tuberculosis can affect all organs, but preferentially affects the lungs (75% of forms in immunocompetent adults). General symptoms are chronic, progressively worsening and non-specific. They combine a deterioration in general condition (anorexia, [[Weight loss SD-017|weight loss]] and [[Asthenia SD-021|asthenia]]), [[Prolonged fever|fever]], often in the evening, and [[Hypersudation SD-025|hypersudation]], particularly at night. In children, abnormalities in staturo-weight growth and [[Anomaly in psychomotor development SD-115|psychomotor development]] are also observed.
+
+'''When the lungs are involved''' the main respiratory signs are a [[Cough SD-167|chronic cough]], the presence of muco-purulent [[Expectoration SD-163|expectorations]], [[haemoptysis]] ([[Blood emitted through the mouth SD-014|blood emitted through the mouth]]) and [[Chest pain SD-161|chest pain]] particularly in the case of pleural involvement. Dyspnoea SD-162|dyspnoea]] may occur in advanced forms.
+
+In children, tuberculosis disease is frequently asymptomatic, and is identified by radiological abnormalities during screening carried out around an index case. If symptoms are present, they are often indirect signs of airway compression by intra-thoracic adenopathies: polypnoea, wheezing, draughts, etc.

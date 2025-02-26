@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-131-06-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Know the main gait and balance disorders in the elderly.
+|Description=of neurological origin, of painful origin
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+
+* At the start of gait: astasia-abasia of frontal or lacunar origin, or linked to hydrocephalus at normal pressure.
+* Ataxic, lateralized and/or stellate gait of vestibular origin.
+* Pseudo-ebriated ataxic gait of cerebellar origin
+* Ataxic heeling gait of proprioceptive origin
+* Spastic gait with mowing of unilateral pyramidal origin
+* Spastic spastic walking of bilateral pyramidal origin
+* Paretic gait with stepping of L4-L5 or SPE origin
+* Waddling paretic gait of pelvic origin
+* Parkinsonian gait (slow, small steps, loss of arm swing, decomposed U-turn, freezing, festination, kinetic entrapment)
+* Apraxic gait (small, shuffling steps stuck to the ground) associated with hydrocephalus at normal pressure, frontal damage, subdural haematoma, etc.
+* painful claudic gait with gait perimeter of vascular (AOMI) or spinal cord origin
+* Walking with an avoidance limp of painful osteoarticular origin
+* Walking with deficient limp due to neurological pathology

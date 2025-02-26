@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-158-05-B
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=B
+|Title=Know how to use the history and clinical examination to identify the site of infection.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Sepsis or septic shock can occur in many infections, especially bacterial ones. In order to guide management, and in particular the choice of antibiotic therapy, it is important to identify the origin of the infection.
+
+Most infections can be identified by history-taking and clinical examination (Table). Analysis of the patient's background and context is essential: a history of infection, recent surgery, immunosuppression, the presence of foreign material, particularly venous access ports, and return from travel are all factors which may point to a particular aetiology.  
+{| class="wikitable"
+|+
+|'''Infected site''''
+|'''Eléments évocateurs à l'anamnèse'''
+|'''Physical examination findings'''
+|-
+|Pulmonary
+|Cough, chest pain, dyspnoea in the foreground '''([[Dyspnoea SD-162|dyspnoea]]]'''
+
+Epidemic context (legionellosis, viruses)
+|Change in auscultation: focus of crackles, tubal murmur '''([[Discovery of anomalies on pulmonary auscultation SD-020|discovery of anomalies on pulmonary auscultation]])''''
+
+Signs of respiratory distress (draught, cyanosis...) '''([[Acute respiratory distress SD-160|acute respiratory distress]])''''
+|-
+|Urinary
+|Urinary functional signs '''([[Burning micturition SD-096|burning micturition]]])''', unilateral lumbar pain
+|Pain on lumbar shaking, on rectal examination (prostatitis), positive urine dipstick.
+|-
+|Intra-abdominal
+|Douleur abdominale, vomiting, arrêt du transit, diarrhées '''([[Douleur abdominale SD-004|douleur abdominale]], [[Nausées SD-012|nausées]], [[Vomissements SD-013|vomissements]])''''
+|Défense/contracture, pain when touching rectum
+|-
+|Biliary
+|Pain in right hypochondrium
+|Icterus '''([[Icterus SD-047|Icterus]]])''''
+|-
+|Neuromeningeal
+|Headache, confusion, nausea/vomiting, seizures
+
+'''([[Headache SD-118|headache]], [[Mental confusion/disorientation SD-119|mental confusion/disorientation]], [[Convulsions SD-120|convulsions]])''''
+|Focal neurological deficit, stiff neck, hypotonia and bulging fontanel in young infants
+|-
+|Cutaneous
+|Pain '''([[Pain in an extremity (upper or lower) SD-071|pain in an extremity (upper or lower)]])''''
+
+cutaneous route of entry
+|Erythema
+
+'''([[Big acute red leg SD-087|big acute red leg]]]''', cyanic/livid appearance, oedema, subcutaneous crepitations
+|-
+|Endocarditis
+|Favouring factors: known murmur, pre-existing valvular heart disease, history of endocarditis, presence of an intracardiac pacemaker, etc.
+|Appearance of a ''regurgitant murmur''([[Discovery of abnormalities on cardiac auscultation SD-018|discovery of abnormalities on cardiac auscultation]])''', skin signs (purpura, false panariasis...)
+|-
+|Surgical site infection
+|Anomalous pain '''([[Acute postoperative pain SD-034|acute postoperative pain]])''''
+|Erythematous, dehiscent scar, squinting discharge
+|}

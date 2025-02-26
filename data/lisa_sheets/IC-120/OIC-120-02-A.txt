@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-120-02-A
+|Item_parent=Complications of immobility and decubitus. Prevention and management
+|Item_parent_short=Complications of immobility and decubitus. Prevention and management
+|Rank=A
+|Item_parent_short=Complications of immobility and decubitus.
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Antoine Guillon
+|Order=2}}
+
+Attended by :
+
+- Posture disorder (retropulsion)
+
+- Motor impairment (walking problems + neurological problems)
+
+- Psycho-behavioural problems (anxiety/phobia about standing up)

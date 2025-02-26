@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-231-27-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Intitle=Identify the presence of atrial, ventricular or sequential electroentrainment
+|Description=Knowing how to recognise the presence of atrial, ventricular or sequential electrical drive
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=27}}
+
+
+*Stimulated rhythm only if the patient's own rhythm is lower than the pacemaker's programmed rhythm,
+*Atrial or ventricular pacing or 2-stage pacing,
+*Pacing artifact (spike) more or less visible,
+*''Wide QRS stimulated because stimulation in the right ventricle'' (appearance of left delay) unless pacemaker with cardiac resynchronisation (lead in the right ventricle and lead in a coronary vein in contact with the left ventricle),
+*Most pacemakers have 2 leads, one in the right atrium and one in the right ventricle (3 if cardiac resynchronisation) in order to synchronise the atria with the ventricles if necessary. In patients with permanent atrial fibrillation, an atrial lead is not implanted,
+*Patients are schematically paced in ''the atrium in the case of sinus dysfunction'', in ''the ventricle in the case of BAV'', and ''on both floors in the case of sinus dysfunction associated with BAV''.
+
+[[File:REE.jpg|vignette|alt=|centré|600x600px]]

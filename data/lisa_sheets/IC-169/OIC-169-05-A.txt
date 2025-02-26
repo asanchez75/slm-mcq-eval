@@ -1,0 +1,99 @@
+{{knowledge objective
+|Identifiant=OIC-169-05-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing the signs suggestive of primary infection, chronic phase and AIDS
+|Description=Knowing how to recognise the febrile exanthema of primary HIV infection
+|Rubric=Positive diagnosis
+|Contributors=Jade Ghosn
+|Order=5}}
+'''Three phases'''
+
+- Acute phase: primary infection
+
+- Chronic asymptomatic phase
+
+- '''Symptomatic phase'''
+[[File:Phases of HIV infection.png|vignette]]
+
+
+'''<u>The primary infection</u>''''
+
+- 10-15 days after contamination
+
+- Corresponds to a phase of intense HIV replication with a very high risk of secondary transmission
+
+- Asymptomatic (or only mildly symptomatic) in 50% of cases
+
+- When symptomatic: flu-like syndrome
+{| class="wikitable"
+|+
+When to think about it
+!
+|-
+|Clinical signs
+present in 50% of cases
+
+not very specific
+|Possible symptoms :
+- fever (90%)
+
+- flu-like symptoms > 7 days
+
+- asthenia
+
+- polyadenopathies
+
+- pharyngitis, sore throat
+
+- maculopapular rash +/- generalised
+
+- genital or oral ulcers
+
+- digestive signs: acute diarrhoea, nausea/vomiting, abdominal pain
+
+- neurological manifestations: meningeal syndrome with lymphocytic meningitis, encephalitis, mononeuritis (facial paralysis) or polyradiculoneuritis, etc.
+|-
+|Biological signs
+aspecific
+| Thrombocytopenia (75%)
+- leukopenia (50%)hopenia or hyperlymphocytosis with mononucleosis syndrome
+
+- hepatic cytolysis
+|}
+
+
+
+
+
+
+
+
+
+- '''Any febrile rash in a young adult should lead to HIV screening'''
+
+- '''Any unexplained febrile illness or change in general condition should be followed up by an HIV test''.
+
+
+'''<u>The chronic phase</u>''''
+
+- Very long asymptomatic
+
+- Risk of transmission to partners in the absence of diagnosis of infection and treatment
+
+- After the strictly asymptomatic phase, symptoms suggestive of the onset of immunodepression may appear
+
+o Mucocutaneous manifestations: recurrent or even chronic herpes; shingles; seborrheic dermatitis; oral candidiasis
+
+o General manifestations: unexplained fever; deterioration in general condition; diarrhoea
+
+o Inconsistent biological signs: leukopenia, thrombocytopenia, polyclonal hypergammaglobulinemia
+
+'''<u>The AIDS stage</u>''''
+
+- '''Clinical definition''' : all major opportunistic diseases appearing when HIV-induced immunosuppression progresses (usually corresponding to CD4 LT < 200/mm<sup>3</sup>)
+
+- Antiretroviral treatment, by restoring the immune system, is fundamental to controlling these diseases.
+
+- A patient who has developed a disease classed as AIDS will remain classified as having AIDS indefinitely, even if treatment allows his immunity to be restored (because despite the quantitative restoration of immunity, the immune functions of LT CD4 are permanently impaired).

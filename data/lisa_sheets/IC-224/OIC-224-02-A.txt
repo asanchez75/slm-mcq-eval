@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-224-02-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=To understand the epidemiology of hypertension, since hypertension is a major cardiovascular risk factor.
+|Description=Prevalence, links (age, obesity, diabetes, etc.), cardiovascular complications, distribution of essential and secondary hypertension.
+|Section=Epidemiology
+|Contributors=
+|Order=2}}
+HYPERTENSION :
+
+- is a major modifiable cardiovascular risk factor whose management reduces morbidity and mortality, i.e. reduces the risk of stroke, dementia, heart failure, myocardial infarction and cardiovascular death, and delays the onset of chronic end-stage renal disease,
+
+- affects around 30% of the French adult population,
+
+- has a prevalence that increases with age,
+
+- is of essential origin in over 90% of cases,
+
+- requires a more general assessment and management of overall cardiovascular risk, individualised and focused on each patient,
+
+- could be better managed, since around 20% of hypertensive patients are not treated and 50% of treated hypertensive patients are poorly controlled.

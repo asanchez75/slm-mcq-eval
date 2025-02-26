@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-004-06-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the mechanisms of transferable resistance in AEIAS
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+Bacteria become resistant to antibiotics either by chromosomal mutation or by acquisition of foreign genes via mobile genetic elements such as plasmids and transposons.
+
+Chromosomal mutation :
+
+- It is rare
+
+- its transfer is vertical (from the bacterium to its descendants)
+
+- it concerns a single family of antibiotics
+
+- it is stable and spontaneous in the absence of antibiotic selection pressure
+
+
+Plasmids or transposons :
+
+- they are frequent (80-90%)
+
+- they are transferred horizontally between bacteria of the same or different species
+
+- they often concern several families of antibiotics (plasmids containing several resistance genes)
+
+they are unstable, and depend on the selection pressure of antibiotics

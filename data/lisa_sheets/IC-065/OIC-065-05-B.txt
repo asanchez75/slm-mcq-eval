@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-065-05-B
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=B
+|Title=Knowing the DSM-5 diagnostic criteria
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Pierre Vandel
+|Order=5}}
+
+
+*A) Presence of one or more [[Delusional Ideas SD-124|delusional ideas]] '''≥ 1 month'''
+*B) Absence of weirdness
+*C) Functioning is not impaired
+*D) If thymic symptoms (manic or depressive) are noted, they are brief in relation to the duration of the delirium
+*E) The delirium is not secondary to a non-psychiatric pathology or toxic intake
+
+
+Distinguished from schizophrenia by the following characteristics:
+
+*no primary hallucinations
+*no primary disorganization syndrome
+*no primary negative symptoms
+*delusions are "non-weird" and therefore plausible
+
+<br />

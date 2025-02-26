@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-64-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the main psychiatric and non-psychiatric differential diagnoses
+|Description=Adapted reaction to stress; Cross-reference item 66 and 65
+|Heading=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=64}}
+
+Adapted reaction to stress, non-psychiatric medical cause, DCI, ASD, PTSD (Item 66a and 66f).

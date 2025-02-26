@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-027-24-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Title=Knowing the risk of bacterial vaginosis during pregnancy
+|Description=Risk of threatened premature delivery
+|Section=Follow-up and/or prognosis
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=24}}
+Bacterial vaginosis has been suspected of favouring premature delivery. This risk is currently being called into question.

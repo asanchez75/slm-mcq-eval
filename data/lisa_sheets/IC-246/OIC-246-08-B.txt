@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-246-08-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Knowing the endocrine causes of gynecomastia
+|Description=None
+|Rubric=Etiologies
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=8}}
+
+''We remind you that the minimum essential hormonal investigation includes blood tests for free T4, TSH, hCG, total testosterone, LH, FSH, prolactin and oestradiol. This hormonal investigation must be systematically supplemented by a testicular ultrasound scan''.
+
+*Testicular insufficiency, or peripheral hypogonadism, is responsible for 8% of gynaecomastia. Clinically, it may be associated with signs of gonadal insufficiency and a reduction in the volume of the gonads on palpation of the testicles [[Bursal anomaly SD-108]] . Gynecomastia may be the first sign of peripheral hypogonadism.
+
+''<u>The diagnosis is based on elevated gonadotropins with low (or sometimes still normal) testosterone.</u>''
+
+Klinefelter's syndrome (karyotype 47,XXY) is the most common aetiology (40% of patients with Klinefelter's syndrome have gynaecomastia). Diagnosis is made by karyotype.
+
+*Hypogonadism of hypothalamic or pituitary origin, or hypogonadotropic hypogonadism, clinically associates signs of hypogonadism with gynaecomastia. Depending on the aetiology, other signs of anteropituitary insufficiency or other clinical signs related to the aetiology (pituitary adenoma, tumour of the hypothalamic-pituitary region, hypercortisolism, etc.) may be clinically associated ([[Pituitary adenoma|Pituitary adenoma 244]]).
+
+''<u>The diagnosis is based on low testosterone associated with non-elevation of gonadotropins (FSH and LH lowered or normal)</u>''
+
+CT or MRI imaging of the pituitary region is then essential, as is prolactin dosage. Hyperprolactinaemia slows down the secretion of gonadotropins and therefore of testosterone, and stimulates breast development, whatever the cause of the hyperprolactinaemia.
+
+*''Hyperthyroidism'': Gynecomastia is rarely a revealing sign of hyperthyroidism ([[Hyperthyroidism|Hyperthyroidism 242]]) (see physiology).
+
+
+''<u>Other tumour causes are rarer:</u>''
+
+*Estrogen-secreting tumour (''high concentration (> 40 pg/ml) of oestradiol, whether or not associated with low testosteronemia) ''usually testicular (leydigoma)'' or adrenal (malignant tumour: adrenocortical tumour). Testicular ultrasound is the key examination. It can even be used to visualise tumours that cannot be palpated. ([[Testicular tumours|Testicular tumours 313]])
+
+*'''Tumours secreting hCG:'''' An hCG assay is essential. In case of elevation, this justifies a ''testicular ultrasound'' to look for a germinal malignant tumour (testicular choriocarcinoma) ([[Testicular tumours|Testicular tumours 313]]) and a ''cerebral MRI'' (hypothalamic germinoma) ([[Intracranial tumours|Intracranial tumours 299]]) These hCG-secreting tumours may involve the bronchi, liver. A CT scan is always indicated when assessing the extension of these malignant tumours.
+
+
+
+
+
+
+
+Diagnostic strategy for gynecomastia
+[[File:Gynecomastia diagnostic tree.jpg|centric|vignette|500x500px|Gynecomastia diagnostic tree]]
+<br />

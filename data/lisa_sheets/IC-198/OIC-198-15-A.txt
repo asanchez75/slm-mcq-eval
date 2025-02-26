@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-198-15-A
+|Item_parent=Microcrystalline arthropathies
+|Item_parent_short=Microcrystalline arthropathies
+|Rank=A
+|Title=Knowing the two essential biological tests for the diagnosis of gout
+|Description=uricemia, estimation of glomerular filtration rate (MDRD or CKD-EPI)
+|Section=Additional tests
+|Contributors=
+|Order=15}}
+- Uricemia, which may be normal during a gouty attack
+
+- Serum creatinine with estimated glomerular filtration rate (eGFR, using MDRD or CKD-EPI formulae)
+
+
+- A blood count will also be taken.
+
+<br />

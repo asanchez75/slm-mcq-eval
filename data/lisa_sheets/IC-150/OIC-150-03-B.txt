@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-150-03-B
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=B
+|Title=Knowing the pathophysiology of AOM
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=3}}
+
+
+*Infection via the eustachian tube from the nasopharynx
+*Adaptation disease'': immune learning after loss of maternal immunity
+*Prolonged nasopharyngeal infections and hypertrophy of the adenoids => microbial pullulation and stasis of secretions in the nasopharynx.
+*Factors favouring AOM in young children:
+** inflammation of the nasopharynx, pollution, passive smoking, communal living; absence of breast-feeding; family history of AOM; poor living and hygiene conditions; season: autumn/winter; earliness of the first episode of AOM.
+** Eustachian tube shorter, more horizontal, more permeable than adult - maturity around 6-7 years of age
+** Risk of eustachian tube anomalies: cleft palate, trisomy 21, craniofacial malformation, etc.
+** chronic otitis, seromucous otitis

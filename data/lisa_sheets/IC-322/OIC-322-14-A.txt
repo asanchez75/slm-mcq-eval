@@ -1,0 +1,10 @@
+{{knowledge objective
+|Identifiant=OIC-322-14-A
+|Item_parent=Personalised therapeutic decisions: correct use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Drug interactions: understanding the main drug classes involved
+|Description=
+|Rubric=Management
+|Contributors=
+|Order=14}}The main drug classes concerned are detailed in the knowledge objective: [[OIC-322-13-A]]

@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-267-14-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=A
+|Title=Knowing the main aetiologies of hyperkalaemia
+|Description=Renal failure, metabolic acidosis, drugs (K salt intake, BSRA, K savers, trimethoprim, NSAIDs, heparin, etc.)
+|Rubric=Etiologies
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=14}}
+
+1- Aetiological diagnosis involves :
+
+*The search for false hyperkalaemia;
+*Assessment of potassium intake;
+*Looking for obvious causes of transfer from the intracellular to the extra-cellular sector;
+*looking for cell lysis;
+*Measurement of kaliuresis;
+*search for factors favouring hyperkalaemia.
+
+2- Hyperkalaemia may be linked to (table 4) :
+
+*excess intake in the case of renal failure;
+*exaggerated transfer from the intracellular to the extracellular compartment;
+*reduced renal excretion capacity.
+
+'''Table 4: Main causes of hyperkalaemia''''
+{| class="wikitable"
+|Excess intake
+
+(++ if renal insufficiency)
+|- PO potassium chloride intake (++)
+|-
+|Hyperkalaemia
+
+transfer
+|- Metabolic acidosis with normal plasma anion gap [PN1] (++)
+
+- Cell catabolism (cell lysis) :
+
+- Rhabdomyolysis and muscle crushing
+
+- Extensive burns, massive haemolysis
+
+- Spontaneous tumour lysis or lysis during chemotherapy
+
+- Post-operative revascularisation syndrome
+
+- Severe digestive haemorrhage
+
+- Hyperthermia
+
+- Intense physical exercise
+
+- Drug causes (++): β-blockers, digitalis intoxication
+|-
+|Reduced renal excretion (± resistance to action)
+
+of aldosterone)
+|- Acute and chronic renal failure (++)
+
+- Mineralocorticoid deficiency :
+
+- Adrenal insufficiency
+
+- Hyporeninism-hypoaldosteronism (diabetes)
+
+- Iatrogenic causes (most frequent) ++ :
+
+- Antialdosterone (spironolactone) or amiloride
+
+- '''RAS blockers: ACE inhibitors - ARB2''' - Direct renin inhibitor
+
+- Non-steroidal anti-inflammatory drugs
+
+- Ciclosporin, tacrolimus
+
+- Blocking the epithelial sodium channel: potassium-sparing diuretic (amiloride), trimethoprim, pentamidine.
+|}
+
+
+Overall, the most frequent causes of hyperkalaemia remain iatrogenic and are related to the use of ACE inhibitors or ARB2, most often in patients with effective hypovolaemia (extracellular dehydration, heart failure) or underlying chronic renal failure. Excessive potassium intake (diet salts or supplements) should also be investigated.
+<br />

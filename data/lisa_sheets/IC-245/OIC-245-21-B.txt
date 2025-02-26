@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-245-21-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the principles of pharmacological adaptation of acute adrenal insufficiency in the event of stress
+|Description=Dose increase of HSHC
+|Heading=Management
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=21}}
+Principle of increasing hydrocortisone doses in cases of stress in adults :
+
+*2 tablets of hydrocortisone 10 mg as soon as the triggering factor occurs, regardless of the time of day, then 2 tablets morning, noon and night until recovery/restoration ad integrum (minimum 60 mg per 24 hours in three or four doses, including one dose taken at night).
+*fludrocortisone doses are not modified in the event of stress.
+
+In children:
+
+*The dose of hydrocotrisone is tripled, taken in the morning, at midday and in the evening, as soon as the triggering factor occurs.
+*The dose of fludrocortisone is not modified in the event of stress.

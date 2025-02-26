@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-089-11-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Knowing the characteristics of sensorineural hearing loss (SPH)
+|Description=Including that of the elderly (presbycusis)
+|Rubric=Positive diagnosis
+|Contributors=Dr Damien Bonnard, Prof Virginie Escabasse, Prof Valérie Franco Vidal
+|Order=11}}
+'''Characteristics of sensorineural hearing loss:'''
+
+*neurosensory abnormality in the detection and processing of sound information at the endocochlear or retrocochlear level
+*deterioration in hearing thresholds, but also sound distortion, hearing discomfort in noisy environments, tinnitus
+*varying degrees of deafness (from mild to profound), often predominantly in the high frequency range
+*look for other signs of inner ear damage: dizziness or instability
+*Weber lateralized on the less affected side, Rinne positive (CO < CA)
+*tonal audiometry: CO and CA lowered and close together; voice audiometry: can reveal distortions.
+*Stapedial reflexes are of interest.
+**Retrocochlear deafness: SR often abolished''''
+**'''endocochlear deafness: RS often preserved''' (even triggered at a threshold < 80 dB) because recruitment
+*rehabilitation relies primarily on hearing aids, which can be difficult in the case of high distortion.

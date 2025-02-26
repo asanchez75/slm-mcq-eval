@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-303-04-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Title=Know the main principles of gastric carcinogenesis, know the predisposing lesions.
+|Description=Describe the main principles of gastric carcinogenesis
+|Rubric=Physiopathology
+|Contributors=
+|Order=4}}
+Lauren's anatomopathological classification makes it possible to distinguish '''2 types''' '''of gastric adenocarcinoma''' :
+
+o '''Adenocarcinoma of the glandular intestinal type'''
+
+o ''Diffuse independent cell adenocarcinoma'' with a "kitten ring" appearance
+
+Gastric carcinogenesis is a multi-factorial, multi-stage process, characterised by the interrelated occurrence of anatomopathological abnormalities (chronic atrophic gastritis, intestinal metaplasia and dysplasia) and functional abnormalities (hypochlorhydria leading to bacterial proliferation and the production of nitrosamines).
+
+Chronic atrophic gastritis is most often associated with Helicobacter pylori infection. It plays an important role in the pathogenesis of the majority of intestinal-type adenocarcinomas of the stomach. It is a condition that favours the development of gastric cancer, and Helicobacter pylori is just one of the risk factors involved. Other factors such as salt consumption, smoking and reduced dietary intake of antioxidant compounds are involved in the transformation of chronic atrophic gastritis into intestinal-type gastric cancer.
+
+The processes of ''carcinogenesis associated with diffuse independent cell adenocarcinoma are less well known'', apart from the rare familial genetic forms of gastric cancer linked to the CDH1 gene. Given the close correlation between the incidence of gastric cancer and the frequency of infection by '''''Helicobacter pylori''''', the WHO classifies Helicobacter pylori as a ''class 1 carcinogen'', making its eradication essential.

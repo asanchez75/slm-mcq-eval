@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-270-06-A
+|Item_parent=Acute low back pain
+|Item_parent_short=Acute low back pain
+|Rank=A
+|Title=Knowing the biological work-up to prescribe in case of acute low back pain
+|Description=Biology required only if a secondary cause is suspected
+|Rubric=Additional tests
+|Contributors=François-Xavier NOUHAUD
+|Order=6}}
+
+
+*Biological assessment of acute low back pain will depend on the diagnostic orientation based on questioning, inspection and clinical examination. Biological tests are not necessary in cases of acute low back pain of common origin (disco-vertebral or arthrosic origin of the pain). The situation is different if a symptomatic (or secondary) cause or visceral pain is suspected.
+
+==Biological tests should be ordered as a matter of urgency if there is any sign of seriousness, and should be adapted to the diagnostic orientation:==
+
+*urological
+*nephrological
+*visceral
+*vascular and cardiological
+*gynaecological
+*pulmonary
+*neurological
+
+*In most cases, the biological work-up will include : CBC, creatininemia, blood ionogram, CRP, calcemia.
+*Depending on the circumstances, the biological work-up may also include: blood cultures, ECBU, arterial blood gas, blood group, cardiac enzymes (troponin), D-dimer, inflammatory work-up, proteinuria, pregnancy test, etc.
+*In the event of a cardiovascular or pulmonary referral, an ECG should be performed.
+*If the patient is neurologically oriented, an EMG or lumbar puncture may be requested.

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-261-15-A
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=A
+|Title=Knowing the severity factors of a GNRP syndrome
+|Description=Know how to assess the severity of renal failure and the need for emergency haemodialysis, know how to identify the other complications associated with GNRP, in particular intra-alveolar haemorrhage and its degree of severity (hypoxia, anaemia), know that this is a therapeutic emergency.
+|Rubric=Emergency identification
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=15}}
+
+This is a genuine diagnostic and therapeutic emergency.
+
+The prognosis is life-threatening, taking into account
+
+* pulmonary (respiratory distress, alveolar haemorrhage)
+* digestive (digestive haemorrhage, peritonitis),
+* acute complications of acute renal failure (respiratory distress due to pulmonary oedema, hyperkalaemia).
+
+
+There is a significant risk of permanent kidney failure (stage 5 chronic kidney disease).

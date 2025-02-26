@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-191-07-B
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=B
+|Item_parent_short=Fever in an immunocompromised patient |Item_parent_short=Fever in an immunocompromised patient
+|Description=TUE7-187-1 : neutropenia, asplenia, cellular immunity deficiency
+|Rubric=Etiologies
+|Contributors=Amélie Servettaz,Jean-Daniel Lelièvre
+|Order=7}}
+
+'''Cellular immunity deficiencies''' (Immunosuppressive treatment for autoimmune disease or organ transplantation, corticosteroids, even in small doses, HIV infection ....)
+
+*CMV
+*Pneumocystis jirovecii
+*More rarely Toxoplasma, Aspergillus, Candida, Nocardia, BK (anti-TNF)
+
+Humoral immunity deficiencies (CVID, treatment with anti CD20, CLL, etc.)
+
+*extra-cellular bacteria, particularly Streptococcus pneumoniae and Hemophilus Influenzae.
+
+Neutropenia (chemotherapy, etc.)
+
+*Gram-negative bacteria (enterobacteria, Pseudomonas aeruginosa),
+*Staphylococci in the presence of catheters
+*Fungi (Aspergillus or Candida) in cases of deep and prolonged neutropenia.
+
+'''Complement deficiencies''' (use of therapeutic anti-C5 antibodies, hereditary deficiencies)
+
+*Neisseiria (meningitidis +++)
+
+'''Organ transplant patients'''
+
+*Early phase (< 1 month): infections are most often nosocomial (pneumopathies, urinary tract infections, toxoplasmosis acquired via the graft, etc.).
+*Intermediate phase (1 to 6 months): major cellular deficiency: CMV, Pneumocystis jirovecii +++, toxoplasmosis (reactivation).
+*Late phase (>6 months): persistent but less profound cellular deficiency.

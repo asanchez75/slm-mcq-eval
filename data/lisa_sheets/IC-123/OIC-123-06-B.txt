@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-123-06-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=Knowing life expectancy data in France
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+Life expectancy at birth in 2020 is 85.2 years for women and 79.2 years for men. Life expectancy in 2020 for a person aged 60 is 27 years for women and 23 years for men. Longer life expectancy has been accompanied by a reduction in the average number of years lived in disability by each individual;

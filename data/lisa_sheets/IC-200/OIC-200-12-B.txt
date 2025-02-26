@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-200-12-B
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=B
+|Title=Knowing the indication and non-indication of imaging examinations for pain, joint effusion or recently progressive arthritis.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+'''Bilateral and comparative standard X-rays''' of all affected joints: without delaying joint puncture, to look for (i) arguments for a positive diagnosis, (ii) the absence of elements for differential diagnoses and (iii) as an initial work-up for subsequent follow-up.
+
+'''Ultrasound:''' to confirm the existence of a joint effusion in cases of doubt (obese patients, etc.), eliminate differential diagnoses and guide puncture in the case of a deep joint or small effusion.
+
+MRI in the absence of radiographic abnormality and in the absence of obvious causes

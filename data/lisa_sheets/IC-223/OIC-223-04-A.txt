@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-223-04-A
+|Item_parent=Dyslipidemia
+|Item_parent_short=Dyslipidemia
+|Rank=A
+|Title=When to test for dyslipidaemia?
+|Description=None
+|Rubric=Testing
+|Contributors=Laurence Duvillard, Bruno Vergès, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=4}}
+Mandatory screening :
+
+*In cases of secondary prevention (history of cardiovascular accident or asymptomatic atherosclerosis authenticated on imaging).
+*In the case of cardiovascular risk factors (family history of early-onset coronary disease, smoking, high blood pressure, diabetes, chronic renal failure).
+*If you are prescribed drugs likely to alter lipid metabolism (corticosteroids, oestroprogestins, retinoids, antiretrovirals, neuroleptics, mTOR inhibitors, etc.).
+
+Screening recommended in the absence of any cardiovascular risk factor
+
+*from the age of 40 in men
+*from the age of 50 in women and all post-menopausal women
+*in all women when taking hormonal contraception.

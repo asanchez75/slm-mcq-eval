@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-295-05-A
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=A
+|Title=Knowing the main clinical situations of symptomatic management
+|Description=Knowing the main clinical situations for assessing the benefit/risk ratio of cancer treatments: curative, palliative, intermediate, etc.
+|Rubric=Management
+|Contributors=Laurent Zelek
+|Order=5}}
+
+Broadly speaking, there are three types of situation:
+
+- '''Curative:''' these are essentially cancers that are localised and therefore accessible to local treatment (mainly surgery, often combined with radiotherapy or sometimes radiotherapy alone); depending on the risk of relapse, adjuvant medical treatment (chemotherapy or hormone therapy) may be combined to reduce the subsequent risk of metastases.
+
+- '''Intermediate:''' cases of metastatic disease for which prolonged survival (sometimes several years) can be obtained through medical treatment, sometimes combined with ablative treatment (surgery, radiotherapy or interventional radiology) of tumours when they are few in number and accessible.
+
+- '''Palliative:''' these are advanced illnesses in which the role of symptomatic treatments to ensure patient comfort and quality of life is more important, while that of anti-tumour treatments is reduced (the latter being aimed more at helping to control symptoms) (See: [[Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. Modalités d'organisation des équipes, en établissement de santé et en et en ambulatoire]]; [[Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines]])
+
+As a result, the risk-benefit ratio of treatments varies over the course of the disease: aggressive treatments are legitimate when they aim to increase the chances of cure, which is no longer the case when the priority is symptom control. In the final months of life, anti-tumour treatments (chemotherapy in particular) are no longer indicated.
+
+'''In all cases, supportive care/palliative care must be offered as soon as metastatic disease is diagnosed'''.

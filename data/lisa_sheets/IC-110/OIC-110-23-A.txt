@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-110-23-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Photographs of a typical example of obstructive tonsillar hypertrophy
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Richard NICOLLAS
+|Order=23}}<gallery>
+File:Obstructive tonsillar hypertrophy.jpg|Obstructive tonsillar hypertrophy
+</gallery>

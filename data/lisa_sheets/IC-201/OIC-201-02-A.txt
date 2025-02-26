@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-201-02-A
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=A
+|Title=Know the definition of transplanted tissues and organs
+|Description=None
+|Rubric=Definition
+|Contributors=Dany Anglicheau
+|Order=2}}
+
+The different organs transplanted are :
+
+*Rein
+*Liver
+*Heart
+*Pancreas
+*Lungs
+*Intestines
+
+
+Cell and tissue transplants can involve :
+
+*Haematopoietic stem cells
+*Cornea
+*Amniotic membranes
+*bones, tendons, ligaments, menisci
+*Skin
+*Heart valves, arteries and veins

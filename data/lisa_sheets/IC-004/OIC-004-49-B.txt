@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-004-49-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Evaluation: understanding the quality and safety of care indicators (IQSS), the principles and the main national programmes.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=49}}
+All French healthcare establishments, both public and private, are required to provide the public with information on the fight against nosocomial/care-associated infections, in order to meet the public's need for transparency with regard to infectious and medical risks. To this end, the Ministry of Health and the HAS (Haute Autorité de Santé) have introduced indicators to assess the performance of healthcare establishments. These indicators evolve over time, and currently concern the consumption of hydro-alcoholic solutions (SHA) for hand hygiene, the incidence of certain surgical site infections, influenza vaccination of staff, and the duration of antibiotic therapy for lower respiratory infections. These indicators are available to the public on the Haute Autorité de Santé website, and their results may be used to adjust funding for hospitals.

@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-247-13-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Know the different stages of diabetic neuropathy, their modes of presentation and their diagnostic criteria.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST
+|Order=13}}
+
+{| class="wikitable"
+|+
+!
+Clinical presentation
+Diagnostic arguments
+|-
+| colspan="3" |'''Sensorimotor neuropathy''''
+|-
+| Polyneuritis
+|Hypoesthesia, distal paresthesias, abolished ROT, sensory disorders (epicritic, thermoalgesic, diaspason, proprioception), arch deformity
+|Interview, DN4 questionnaire, abnormal monofilament test, EMG (if atypical).
+|-
+| Mononeuritis
+|Description of the painful pathway according to the nerve affected (n facial, crural, L2, L3, etc.).
+|Depending on the nerve: cerebral CT scan, EMG
+|-
+| Thoracic polyradiculopathy
+|Abdominal pain aggravated at night, weight loss, wall dehiscence
+|EMG (nerve root involvement T1 to T12)
+|-
+| colspan="3" |'''Autonomic neuropathy''''
+|-
+| Cardiac (NAC)
+|Sinus tachycardia, permanent bradycardia (rare)
+|QT prolongation, variation in heart rate (M. Vasalva, tilt test), stress test
+|-
+| N Vasomotor
+|Orthostatic hypotension
+|fall > 20 mmHg SBP, > 10 DBP on change from lying to standing
+|-
+| Sweating dysregulation
+|Hypersudation
+|
+|-
+| - Gastrointestinal NA
+|Rapid satiety, vomiting, diarrhoea or alternating with constipation, faecal incontinence
+|FOGD (food bolus, bezoar), gastric emptying scan
+|-
+| Genitourinary NA
+|Bladder fullness perception defect, erectile dysfunction, retrograde ejaculation, anejaculation
+|Pelvic ultrasound (post-micturition residual), urodynamic assessment, urinary spermatozoa
+|}

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-188-18-B
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=B
+|Title=Knowing how to use beta-2 mimetics (inhalation, aerosol) and inhaled corticosteroids in asthma.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=18}}
+The choice of inhaled treatment device should be guided by the patient's co-ordination skills (necessary for certain metered dose inhalers) and inspiratory capacities (greater inspiratory flow required for powders).
+
+Any prescription for inhaled treatment must be accompanied by instruction in the use of the inhalation device. Inhalation technique should be checked at each consultation.
+
+A dedicated website with videos demonstrating the treatments available is freely accessible to patients and carers: <nowiki>https://splf.fr/videos-zephir/</nowiki>

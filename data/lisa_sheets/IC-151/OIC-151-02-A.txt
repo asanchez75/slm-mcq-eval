@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-151-02-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing how to clinically suspect a febrile meningeal syndrome and knowing the semiological particularities according to the terrain (child, elderly person).
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dr Olivier Robineau
+|Order=2}}
+Meningitis is suspected on the basis of a febrile meningeal syndrome.
+
+The symptoms encountered are :
+
+* headache SD-118|Headache]] violent, in helmet
+* Photophobia
+* Nausea-vomiting SDD-013|Vomiting
+* Stiff neck
+* Hyperthermia/fever SD-044|Fever

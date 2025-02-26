@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-125-06-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Knowing the pathophysiological mechanisms of stress urinary incontinence and urinary urgency
+|Description=Sphincter insufficiency / hypermobility (women) - Sphincter insufficiency in men / Mechanisms involved in IUU: obstruction / neurogenic IUU / idiopathic IUU
+|Rubric=Physiopathology
+|Contributors=B. Peyronnet
+|Order=6}}
+
+
+*Normal physiological functioning of the lower urinary tract requires :
+**Functional corticoencephalic centres
+**intact sensory and motor neurological pathways
+**A good quality bladder reservoir: low pressure and emptying without residue.
+**Competent sphincters (striated and smooth)
+
+Damage to any of these structures can lead to urinary incontinence and/or hydrops.
+
+*Stress urinary incontinence occurs as a result of reduced urethral resistance: sphincter insufficiency and/or urethral hypermobility (in women only).
+*Urge urinary incontinence is most often due to detrusor overactivity, but not always. Detrusor overactivity refers to the occurrence of involuntary detrusor contraction during bladder filling, which can only be diagnosed by urodynamic testing (figure 2). It should be distinguished from overactive bladder, which is a purely clinical diagnosis.
+
+
+'''Figure 2: detrusor overactivity on urodynamic curve'''
+[[File:Fig2bis.png|neant|thumb|'''Figure 2: detrusor overactivity on urodynamic curve''']]
+'''Caption:''' cystomanometry curve with abrupt increase in bladder pressure (blue curve) without increase in abdominal pressure (black curve) during filling indicating uninhibited detrusor contraction (green curve). The urodynamic diagnosis here is: detrusor overactivity<br />.

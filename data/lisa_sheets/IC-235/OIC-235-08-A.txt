@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-235-08-A
+|Item_parent=Acute pericarditis
+|Item_parent_short=Acute pericarditis
+|Rank=A
+|Title=Knowing how to assess the risk of complications requiring hospitalisation
+|Description=Fever > 38°, duration of symptoms, abundant pericardial effusion, resistance to anti-inflammatory treatment.
+|Section=Management
+|Contributors=Jennifer Cautela
+|Order=8}}
+
+
+*Clinical picture pointing to a specific aetiology
+*Hyperalgesic patient despite first dose of NSAIDs
+*Presence of factors predictive of tamponade:
+**fever >38°C
+**symptoms present for several weeks
+**immunocompromised patients
+**patients on oral anticoagulants
+**after chest trauma
+
+*Associated myocarditis (= troponin elevation)
+*Abundant pericardial effusion (>20mm)
+*tamponade
+*Resistance to anti-inflammatory treatment (aspirin or NSAID) for 7 days.

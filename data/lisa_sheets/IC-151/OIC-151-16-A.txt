@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-151-16-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Knowing the indications and methods of probabilistic antibiotic therapy for presumed bacterial meningitis.
+|Description=None
+|Topic=Management
+|Contributors=Dr Olivier Robineau
+|Order=16}}
+
+{| class="wikitable"
+|Results of direct examination
+|Main suspected micro-organisms
+|Initial treatment
+|-
+|Gram-positive cocci
+|Streptococcus pneumoniae
+
+Streptococcus agalactiæ
+|Cefotaxime '''or''' Ceftriaxone IV
+|-
+|Gram-negative cocci
+|Neisseria meningitidis
+|Cefotaxime '''or''' Ceftriaxone IV
+|-
+|Gram-positive bacilli
+|Listeria monocytogenes
+|Amoxicillin IV ''+'' Gentamicin IV
+|-
+|Gram-negative bacillus
+|Haemophilus influenzae
+
+Escherichia coli
+|Cefotaxime '''or''' Ceftriaxone IV
+|-
+|Direct examination negative
+|Streptococcus pneumoniae
+
+Streptococcus agalactiæ
+
+''Neisseria meningitidis''
+|Cefotaxime '''or''' Ceftriaxone IV
+|-
+|Direct examination negative
+|If ''Listeria'' suspected
+|Cefotaxime '''or''' Ceftriaxone IV '''+'''Amoxicillin IV'''+''' Gentamicin IV
+|}
+Presumed bacterial = cloudy or clear CSF and glycorrhea ≤ 0.4 x blood glucose
+
+Argument for listeriosis = terrain, progressive onset, rhombencephalic involvement
+
+Association with Dexamethasone: if IC on LP, if CSF cloudy, or ED positive for CG+ or CG-.

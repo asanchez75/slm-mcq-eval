@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-297-01-B
+|Item_parent=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Item_parent_short=Childhood cancer: epidemiological, diagnostic and therapeutic features
+|Rank=B
+|Title=Knowing the epidemiological particularities of malignant tumours in children
+|Description=Prevalence of cancers, main cancers according to age
+|Rubric=Epidemiology
+|Contributors=Virginie Gandemer
+|Order=1}}
+
+Childhood cancers represent less than 1% of all cancers.
+
+These are rare diseases: around 2,500 cases per year in France between the ages of 0 and 18, including 1,700 cases per year occurring before the age of 15, 50% of which occur before the age of 5.
+
+
+'''Distribution of childhood cancers''': 40% haemopathies and 60% solid tumours
+
+The distribution differs with age and the histological types are different from those in adults (embryonal tumours frequent before the age of 5 and no carcinomatous tumours). Brain tumours are the 1<sup>rst</sup> cause of solid tumours.
+[[File:Distribution of childhood cancers.png|neant|thumb]]
+<br />

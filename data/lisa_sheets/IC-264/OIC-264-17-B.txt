@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-264-17-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the modalities of protein restriction
+|Description=None
+|Rubric=Management
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=17}}
+
+In order to control proteinuria and reduce the decline in renal function, a protein restriction of less than 0.8 g/kg/day is recommended from stage 3A onwards. In order to avoid [[Denutrition in adults and children|denutrition]], this adaptation must be accompanied by a specialised assessment of dietary intake, particularly in the elderly.

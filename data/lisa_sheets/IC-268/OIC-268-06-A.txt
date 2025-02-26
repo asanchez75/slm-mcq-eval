@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-268-06-A
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=A
+|Title=Know the first-line additional tests to be carried out in the event of hypercalcaemia, depending on the context
+|Description=Know how to request ionised calcium, creatinine, blood ionogram, phosphate, protein electrophoresis, parathyroid hormone and ECG.
+|Rubric=Additional tests
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=6}}
+
+. A positive diagnosis of hypercalcaemia is made when :
+
+*corrected total blood calcium > 2.60 mmol/L and/or
+*ionised blood calcium >1.30 mmol/L
+
+
+. The pathophysiological (mechanistic) diagnosis of hypercalcaemia is based on the values of :
+
+*PHT +++
+*Phosphatemia
+*Active vitamin D or calcitriol
+*25(OH)-vitamin D3
+*24-hour calciuria
+
+
+Hypercalcaemia,
+
+*Low PTH (<10 pg/ml) indicates an extra-parathyroid mechanism (bone in particular).
+*A normal or elevated PTH (> 65 pg/ml), associated with hypophosphatemia (Ph < 0.84 mmol/L), indicates primary hyperparathyroidism.
+
+. The diagnostic approach based on the results of the first-line tests (total blood calcium - ionised blood calcium - PTH - 25(OH)-vitamin D - Calcitriol - 24-hour calciuria) is presented in the table in the LiSA sheet Knowing the main causes of hypercalcaemia (diagnostic tree).
+
+. The diagnosis of repercussions includes :
+
+*creatinine levels (impairment of renal function)
+*an ECG if hypercalcaemia is detected
+
+. Summary of first-line tests for hypercalcaemia :
+
+*Total blood calcium - Ionised blood calcium - Albumin in order to calculate corrected blood calcium (positive diagnosis of hypercalcaemia).
+*Creatininemia (renal repercussions) - ECG (cardiac repercussions)
+*PTH - Phosphatemia - Calcitriol - 24h Calciuria (for mechanistic diagnosis)
+*Additional examinations for aetiological purposes (as a second-line treatment and once the mechanistic diagnosis has been made).
+
+
+
+
+
+<br />

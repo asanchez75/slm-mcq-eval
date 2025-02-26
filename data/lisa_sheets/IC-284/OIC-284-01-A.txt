@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-284-01-A
+|Item_parent=Functional colorectal disease
+|Item_parent_short=Functional colopathy
+|Rank=A
+|Title=Know the definition of irritable bowel syndrome (IBS) and the different subtypes.
+|Description=with predominant diarrhoea (IBS-D)<br>
+with predominant constipation (IBS-C) <br>
+with alternating diarrhoea and constipation (mixed forms, IBS-M) <br>
+unclassified forms
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Irritable bowel syndrome (IBS) (formerly functional colopathy) is a clinical diagnosis defined by the presence of abdominal pain associated with transit disorders in the absence of any organic digestive disease. By definition, all complementary tests are normal. It is a benign but chronic pathology with a significant deterioration in quality of life.
+
+
+There are 4 subtypes of IBS, depending on the predominant transit.
+
+           - IBS with predominant diarrhoea (IBS-D),
+
+           - IBS with predominant constipation (IBS-C)
+
+           - IBS with alternating diarrhoea and constipation (IBS-A)
+
+           - IBS indeterminate (IBS-I), for patients who do not fall into any of the 3 subgroups

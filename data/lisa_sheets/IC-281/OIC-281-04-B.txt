@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-281-04-B
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=B
+|Title=Knowing two rarer causes of chronic pancreatitis
+|Description=Obstructive pancreatitis, hypercalcaemia
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+It is necessary to know '''more causes''' than the 2 causes indicated in the title of the question. These are the same as for acute pancreatitis (see item 358).
+
+- Obstructive CP is associated with benign or malignant obstruction of the pancreatic ducts: slowly progressing tumours (TIPMP, TNE), post-traumatic stenosis of the duct of Wirsung, sequelae of acute pancreatitis, congenital anomaly, etc.
+
+- Autoimmune pancreatitis, sometimes associated with other dysimmune diseases (chronic inflammatory bowel disease, IgG4 cholangitis).
+
+- Genetic pancreatitis in which several genes may be involved
+
+- Chronic hypercalcaemia and hypertriglyceridaemia are extremely rare causes of CP.
+
+- In around 10% of cases, no cause is identified.

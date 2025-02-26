@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-177-20-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Knowing the consequences of bacterial resistance to antibiotics
+|Description=Know that antibiotic resistance accounts for approximately 160,000 new cases per year in France and 12,000 deaths, and that it is responsible for additional costs. It is estimated to have been responsible for 700,000 deaths worldwide in 2014.
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=20}}
+
+Bacterial resistance to antibiotics can lead to infections that are more difficult to treat than those caused by non-resistant bacteria. It leads to increased medical expenditure, longer hospital stays and higher mortality.
+
+-In certain clinical situations, patients cannot be properly treated with any of the available antibiotics, particularly when they are infected with bacteria that are totally resistant to antibiotics. These situations can lead to complications and even death.
+
+Bacterial resistance to antibiotics may mean that certain patients have to use antibiotics that are more expensive, have more serious side-effects or require more invasive treatment (i.e. hospitalisation).
+
+-All this is taking place in a context where few new antibiotics have been brought to market in recent years.

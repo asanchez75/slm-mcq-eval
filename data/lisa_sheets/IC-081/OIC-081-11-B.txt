@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-081-11-B
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=B
+|Title=Knowing the major drug families responsible for chronic visual impairment
+|Description=Impairment of the retina, crystalline lens or optic nerve
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+'''<u>Drug maculopathies</u>''''
+
+*Maculopathy to synthetic antimalarials
+
+Long-term treatment with synthetic antimalarials (SMAs) can lead to the development of bilateral toxic retinopathy with the potential for irreversible blindness. The risk is greater with chloroquine (cumulative dose greater than 460g) than with hydroxychloroquine (cumulative dose greater than 1000g), which explains why the vast majority of patients requiring PSA are now on hydroxychloroquine. The risk of retinal toxicity from hydroxychloroquine in a person with no underlying retinal pathology or obesity (PSAs tend to be stored in adipose tissue) would not occur before 5 years of continuous use. The mechanism of PSA toxicity in the retina is thought to be secondary to the accumulation of toxic metabolites in the pigment epithelium.
+
+The first signs of toxicity appear in the juxtamacular region, where pigment density is particularly high. Toxic damage begins with perifoveolar damage (which spares the fovea), thus preserving visual acuity. Incipient damage can be detected by subjective tests requiring the patient's cooperation (central 10° visual field showing juxtamacular scotomas and multifocal ERG showing a reduction in perifoveolar responses); treatment must be stopped immediately, as the toxic mechanisms may continue for up to 6 months after the PSA has been discontinued. If treatment is continued, PSA toxic maculopathy appears as a "bull's eye", visible on fundus, OCT and angiography. The damage is irreversible.
+
+In the majority of cases, these complications can be avoided by carrying out an ophthalmological check-up before starting treatment with PSA (the reference examination), followed by follow-up at a rate appropriate for each patient and determined in accordance with international recommendations agreed with the ophthalmologist (most often a pre-treatment check-up, then an annual check-up from the 5th year of treatment, including an automated visual field of the central 10° and a macular OCT).
+
+<br />
+
+*MEK inhibitor-induced maculopathy
+
+MEK inhibitors act on intracellular pathways known as the MAPK pathway, which may be overactive in certain solid cancers. These inhibitors are therefore increasingly used in oncology, particularly in the treatment of metastatic melanoma. Ocular symptoms are often acute or rapidly progressive. The most common form of retinal damage is the spontaneous appearance of several small "bubbles" of retinal serous detachment. These are generally reversible when treatment is stopped, or even when the dosage is reduced. However, if they do not lead to a major reduction in visual acuity, the benefit/risk ratio of continuing anti-cancer treatment should be discussed between the ophthalmologist and the oncologist. Another less frequent but more serious complication of anti-MEK treatment is central retinal vein occlusion. In this case, it is generally advisable to stop taking the drug to avoid bilateral symptoms, which could affect the patient's visual prognosis.
+
+*Alkyl nitrite maculopathy ("poppers")'''
+
+Alkyl nitrite maculopathy or ''poppers'' is a rare condition, but it can occur acutely, regardless of how chronically the substance is taken. In the past, alkyl nitrites were used to treat angina because of their vasodilatory properties. Later abandoned in favour of trinitrin, it is now misused for its recreational properties (euphoria, drunkenness, sexual stimulation). The clinical presentation is characteristic, showing a drop in visual acuity with phosphenes and central microscopy in the hours or days following inhalation of the substance. Fundus examination may show small macular yellowish spots, but may be normal. OCT shows damage to the macular photoreceptors. There is no specific treatment, and symptoms generally disappear within a few days. In some cases, visual sequelae may persist, resulting in reduced visual acuity and irreversible microscopy.
+
+
+'''<u>Toxic optic neuropathies:</u>''''
+
+What they have in common is that they are manifested by "bilateral and progressive damage". They are dominated by four causes:
+
+*Ethylic optic neuropathy": favoured by associated smoking, this is often referred to as alcohol-tobacco optic neuropathy. Typically, the visual field shows a bilateral cecocentral scotoma. In the absence of withdrawal with vitamin supplementation, it leads to the development of optic atrophy;
+*Drug-induced optic neuropathies: mainly observed during treatment for tuberculosis (ethambutol and isoniazid). They can lead to a permanent reduction in visual acuity, requiring regular systematic monitoring of patients treated by examination of the visual field and colour vision, OCT of the papilla (before treatment, at D21 and M2, then every 2 months if treatment is prolonged). These optic neuropathies are revealed early by a dyschromatopsia with a red-green axis;
+*occupational optic neuropathies (e.g. lead);
+*metabolic optic neuropathies": particularly during diabetes.
+
+
+'''<u>Iatrogenic secondary cataracts</u>''''
+
+The following may be involved:
+
+*long-term local or general corticosteroids (posterior subcapsular form)

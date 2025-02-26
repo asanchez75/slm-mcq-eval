@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-322-02-A
+|Item_parent=Personalised therapeutic decisions: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of therapeutic adaptation in children
+|Description=Knowing the principles of therapeutic adaptation in children
+|Rubric=Management
+|Contributors=
+|Order=2}}
+Prescribing drugs in paediatrics poses various problems:
+
+* Few specific data for paediatric use in SPCs
+* Unsuitable galenic forms
+* A very heterogeneous population (from premature babies to 16 or even 18 year olds, depending on the country)
+
+The main risk is that children may be considered as "small adults". However, children have "pharmacokinetic" differences (in terms of absorption, tissue diffusion, metabolisation and excretion) and "pharmacodynamic" differences, resulting in pharmacological effects that are potentially different from those observed in adults for identical doses (including when the doses are related to weight).
+
+First and foremost, priority should be given to the use of medicines with a paediatric marketing authorisation (MA) and to the use of age-appropriate pharmaceutical forms. Off-label prescribing is associated with a "higher incidence of adverse reactions" in children.
+
+=== '''Choice of form and route of administration''' ===
+
+* ''Before the age of 6'', give preference to ''liquid forms'' for oral administration (risk of false routes with solid forms). Be careful with drinkable drops, which are more likely to be administered incorrectly.
+* After the age of 6, tablets or capsules can be used (avoid cutting, crushing or opening tablets and capsules).
+* The "inhaled" route is possible, using devices adapted to the child's age (inhalation chambers) and after explaining their use to the parents.
+* The "cutaneous" route is possible, but account must be taken of the greater systemic transmission (especially in infants under 2 years of age).
+* The "other" routes have disadvantages: random resorption in the rectal route, pain in the parenteral route. These routes should only be used if there are no alternatives.
+
+=== '''Therapeutic adaptation in children''' ===
+Choosing the right dosage for children is ''difficult'' and cannot be ''extrapolated from adult dosages''.
+
+* Prescription in ''body surface unit'' (better correlation with many body functions) or in ''weight unit'' (if >50 kg = adult dose).
+* Use ''child-specific'' formulas to assess ''organ functions'', in particular the ''Schwartz'' formula to assess ''glomerular filtration rate''. This formula can be used to adjust the dosage of drugs eliminated by the kidneys.
+* Guide therapeutic adaptation by measuring plasma concentrations of drugs for drugs with a narrow therapeutic margin and presenting an exposure-effect relationship.
+
+=== '''Prescriptions for children and communication with parents'' ===
+Prescriptions must be appropriate for the child in question, clear and precise, with administration procedures within the child's or parents' reach, restrictive, dated and signed, and include the child's name, age, weight and, ideally, height. It is important to ensure that the child's parents have fully understood the procedures for administering the medication.<br />

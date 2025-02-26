@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-292-16-B
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=B
+|Title=Know the main anatomopathological prognostic factors
+|Description=Histological type, stage, histoprognostic factors, quality of excision.
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=16}}
+Certain elements of the anatomopathological analysis make it possible to specify the patient's prognosis. These include
+
+- degree of invasion,
+
+- degree of differentiation,
+
+- TNM stage,
+
+- histopronostic grade for certain tumours (Gleason score for prostate cancer, etc.),
+
+- molecular prognostic factors for certain tumours (BRAF mutation associated with a poor prognosis in metastatic colorectal cancer, Ki-67 in neuro-endocrine tumours, for example).

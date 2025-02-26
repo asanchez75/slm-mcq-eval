@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-025-10-A
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=A
+|Title=Knowing the information to be given to the patient before surgery
+|Description=Risks of Infertility, Salpingectomy and Conversion to Laparatomy
+|Rubric=Management
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=10}}
+
+Operating procedures: course of the surgery '''([[Explain a treatment to the patient (adult/child/adolescent) SD-352|explain a treatment to the patient]])''''
+
+Specific risks of :
+
+- Risk of failure of conservative treatment in the case of salpingotomy, which may require reoperation
+
+- Salpingectomy if tubal condition too impaired or if salpingotomy not feasible
+
+o Fertility probably identical if contralateral tube normal
+
+o Need for subsequent in vitro fertilisation if only one tube is removed
+
+- Conversion to laparotomy in the event of uncontrollable bleeding / intraoperative complication
+
+- Intra- or post-operative transfusion
+
+General risks of laparoscopy: organ and vascular wounds, etc.

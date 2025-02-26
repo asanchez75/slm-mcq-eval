@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-323-23-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Knowing the concept of the benefit/risk ratio
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre-Olivier Girodet,David Hajage (CIMES)
+|Order=23}}
+
+'''Benefit/risk ratio'''
+
+- Ratio between efficacy and potential adverse effects.
+
+- Any administration of medication carries the risk of undesirable effects.
+
+- An effective drug can have serious side effects.
+
+- At clinician level :
+
+*Information to be given, elements for discussion with the patient and their family.
+*Decision to treat, decision not to treat.
+*Monitoring procedures (clinical, biological, imaging).
+*Assessment to decide whether to continue or stop treatment.
+
+- At the level of the public health decision-maker :
+
+*Effects on public health.
+*Assessment of the acceptable level of risk.
+*Contribution to the disease of interest (SMR).
+*Comparison with existing drugs and therapeutic tools (ASMR).
+*Monitoring under real healthcare conditions.
+
+
+The benefit/risk ratio evolves and is assessed at every stage in the development and marketing of a medicine:
+
+'''Pharmaco-therapeutic evaluation'''
+
+- Drug development
+
+- Drug registration
+
+*European: MA, Risk Management Plan (RMP).
+*National: Mutual recognition, Medical Service Rendered (SMR), Improvement in Medical Service Rendered (ASMR).
+
+- Post-AMM
+
+*Pharmacovigilance: Undesirable effects.
+*Addiction vigilance: abuse and dependence.
+*Pharmaco-epidemiology: methods of using medicines in real-life conditions (see Definition, justification, indications and interpretation of pharmaco-epidemiology studies 2C-323-DE-B01).
+
+'''Effectiveness / efficiency''''
+
+- Efficacy: Positive effect of treatment in clinical trials or laboratory studies.
+
+- Efficiency: service provided by the treatment in real-life prescribing and use situations, once it is available to the public <br />.

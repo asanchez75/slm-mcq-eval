@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-309-09-B
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=B
+|Title=Parenchymal window thoracic CT of a primary lung tumour
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=9}}
+
+[[File:Bronchial cancer - CT.jpg|vignette|Chest CT axial section in parenchymal window in the same patient, with left lower lobar lung adenocarcinoma. It shows the mass in the left lower lobe with a parietal contact and a pleural effusion of small abundance].

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-131-15-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Know the definition of orthostatic hypotension (HTO)
+|Description=Know the definition of HTO
+|Rubric=Definition
+|Contributors=
+|Order=15}}
+After several minutes' rest in calm conditions, orthostatic hypotension is defined by :
+
+A reduction
+
+≥ 20 mmHg systolic blood pressure
+* and/or diastolic blood pressure ≥ 10 mmHg
+* and/or systolic blood pressure < 90 mmHg
+
+Within 5 minutes of standing.
+
+This search is not very sensitive and must be repeated, particularly in the morning.
+
+NOTE: the presence of suggestive symptoms (frequent lipothymia during orthostatism) despite a negative search may be enough to retain the diagnosis.
+
+Note that the definition does not include:
+
+o nor the presence of orthostatic symptoms (lipothymia, asthenia, falls, etc.);
+
+o or the variation in heart rate which, when it increases by less than 10 beats per minute in orthostatism, should prompt a search for bradycardia treatment (beta-blocker, calcium channel blocker, digoxin) and/or underlying dysautonomia.

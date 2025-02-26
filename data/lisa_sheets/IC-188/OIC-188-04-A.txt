@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-188-04-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Know how to make a positive diagnosis and differential diagnosis of allergic rhinitis in children and adults.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Clinical diagnosis:'''
+
+o Symptoms grouped together under the acronym PAREO (pruritus, anosmia, rhinorrhoea, sneezing, nasal obstruction) which may be accompanied by ocular symptoms (conjunctivitis).
+
+o Examination of the nasal cavities with the nasal speculum (or otoscope) reveals inflammatory mucosa and looks for any polyps.
+
+o Search for arguments in favour of the allergic nature of the rhinitis (strong association between exposure to an allergen and the onset of symptoms assessed by the units of place, time and action ''AND'' the objectification of sensitisation to the allergen: positive skin test / presence of specific IgE; cf item 186).
+
+'''Differential diagnosis: chronic non-allergic rhinitis'''
+
+o Non-allergic inflammatory rhinitis
+
+o Vasomotor rhinitis

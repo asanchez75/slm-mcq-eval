@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-023-07-A
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=A
+|Title=Biological examinations
+|Description=Know the biological tests required for declaration and those recommended for monitoring pregnant women, as well as their usefulness.
+|Rubric=Management
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=7}}
+
+==Biological tests at the time of declaration of pregnancy ==
+
+===Required tests for pregnancy declaration===
+Blood group (A, B, O, rhesus phenotypes: box 1, complete and Kell), search for irregular agglutinins,
+
+Serologies: toxoplasmosis, rubella and syphilis, HBs antigen test,
+
+Proteinuria; '''[[Urine dipstick analysis SD-182|UB analysis]], [[Proteinuria SD-212|Proteinuria]]'''''
+
+===Exams discussed and therefore routinely suggested===
+HIV serology 1 and 2,
+
+Prenatal screening for trisomy 21, giving priority to the
+
+Combined 1st trimester screening for trisomy 21 (see next paragraph)
+
+===Tests to suggest depending on the patient===
+ECBU: if history of urinary tract infection, diabetes or positive urine dipstick,
+
+'''[[Gestational diabetes screening SD-304|Gestational diabetes screening]]<nowiki/>l (Fasting blood glucose +/- HGPO75: if risk factors for gestational diabetes,'''
+
+Haemogram: if risk factors for anaemia. '''[[Haemoglobin decrease SD-217|Haemoglobin decrease]]'''''
+
++/- for women from Africa, the West Indies and the Mediterranean basin, a haemoglobinopathy test using haemoglobin electrophoresis may be suggested (thalassaemia, sickle cell anaemia).
+
+RH1 genotyping in Rh D-negative women and RH D-positive spouses
+
+The individual question of verifying CMV serological status can be raised at this point in the consultation with a view to recommending barrier measures.
+
+==Biological tests during pregnancy monitoring ==
+
+==='''Monthly'''===
+Proteinuria on sample '''[[Proteinuria SD-212|Proteinuria]] and [[Urine dipstick analysis SD-182|BU]]''''
+
+Toxoplasmosis serology if the previous result was negative
+
+Rubella serology if the previous result was negative and without vaccination (up to 18 weeks' gestation)
+
+===''At the 6<sup>th</sup> month are added'''===
+RAI For rhesus-negative women or women with a history of transfusion
+
+Haemogram ''[[Haemoglobin decrease SD-217|Haemoglobin decrease]]''''
+
++/ oral induced hyperglycaemia between 24 and 28 days' gestation if there are risk factors for gestational diabetes and T1 fasting blood glucose is normal. '''[[Gestational diabetes screening SD-304|Gestational diabetes screening]]'''''
+
+==='''At the 8th<sup> month</sup> are added'''===
+RAI For rhesus-negative women or women with a history of transfusion
+
+2<sup>th</sup> determination of blood group

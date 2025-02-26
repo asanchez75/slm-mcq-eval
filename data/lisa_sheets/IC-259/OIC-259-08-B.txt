@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-259-08-B
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=B
+|Title=Knowing the mechanisms of oedema in nephrotic syndrome
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=8}}
+
+Oedema in nephrotic syndrome reflects two abnormalities, mainly due to hypoalbuminemia:
+
+* the passage of sodium and water to the interstitial sector, by reducing plasma oncotic pressure
+* a [[Disturbance in acid-base balance and hydro-electrolytic disorders|tubular sodium reabsorption]], linked in particular to effective hypovolaemia, which stimulates the renin-angiotensin and sympathetic systems

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-169-12-A
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=A
+|Title=Knowing the main HIV screening tests
+|Description=None
+|Rubric=Additional tests
+|Contributors=Jade Ghosn
+|Order=12}}
+
+'''<u>Different screening tests</u>''''
+
+- '''Screening test: combined test (4<sup>th</sup> generation ELISA)''' detects anti-HIV 1 and 2 antibodies without determining specificity and also allows detection of p24 antigen. Positive 15 days after infection. A negative result indicates the absence of HIV infection, except in the case of a presumed exposure dating back less than 6 weeks.
+
+- '''Confirmatory test:''' used to determine the specificity of anti-HIV antibodies present in the serum (Western blot, immunoblot) and to differentiate between HIV-1 and HIV-2.
+
+- p24 antigen (HIV-1 capsid) tested in serum alone or by ELISA combined with antibody detection. Positive 15 days after infection and negative when antibodies appear.
+
+- HIV RNA (HIV genome) detected by PCR in plasma. Positive 10 days after infection.
+
+- '''Test rapide d'orientation diagnostique (TROD'')''). Detects only HIV antibodies in a drop of blood. A negative result cannot be interpreted in the case of risk-taking dating back less than 3 months.
+
+
+<u>''Diagnostic strategy for HIV infection: in two stages''</u>
+
+1/ positive 4th generation ELISA screening test, to be confirmed by a confirmatory Western-Blot test on the same sample.
+
+2/ if the western blot is positive, a second sample (4th generation ELISA) must be taken to rule out mistaken identity.
+[File:Decision algorithm.png|thumbnail|684x684px]]
+<br />

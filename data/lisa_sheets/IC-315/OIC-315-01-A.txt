@@ -1,0 +1,11 @@
+<br />{knowledge objective
+|Identifiant=OIC-315-01-A
+|Item_parent=Acute leukaemia
+|Item_parent_short=Acute leukaemia
+|Rank=A
+|Title=Know the criteria defining acute leukemia (AL)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+A clonal haematopoietic stem cell disease of the bone marrow resulting in proliferation and invasion of the bone marrow by immature, cancerous haematopoietic cells blocked at an early stage of differentiation: blasts. By definition, these blasts represent more than 20% of the cells on cytological examination of the myelogram.

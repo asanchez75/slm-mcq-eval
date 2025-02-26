@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-336-15-B
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=B
+|Title=Know the associated therapeutic measures for the main complications
+|Description=Airway protection methods, ventilatory assistance, the fight against hypothermia and the consequences of compression points.
+|Rubric=Management
+|Contributors=Nicolas Weiss
+|Order=15}}
+
+- If GCS < 8 and no rapidly reversible cause, orotracheal intubation and initiation of mechanical ventilation
+
+- Maintaining homeostasis / preventing ACSOS :
+
+o Maintain normal blood sugar levels
+
+o Maintain normal temperature (avoid hyperthermia but also hypothermia)
+
+o Maintain normal BP (avoid hypovolaemia)
+
+o Control of natraemia, PaCO2
+
+o Avoid hypoxaemia
+
+- Prefer infusion of physiological saline (isotonic) to infusion of glucose (hypotonic) as a base infusion.
+
+- Mobilisation and prevention of decubitus complications

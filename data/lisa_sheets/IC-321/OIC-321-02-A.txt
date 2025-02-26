@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-321-02-A
+|Item_parent=Principles of proper use of medicines and non-medicinal therapies
+|Item_parent_short=Principles of proper use of medicines and non-drug therapies
+|Rank=A
+|Intitle=Know the basic definition of pharmacological therapeutic monitoring
+|Description=Know the main medicines involved and the monitoring procedures.
+|Rubric=Management
+|Contributors=Eric Dailly
+|Order=2}}
+
+
+==Definition of pharmacological therapeutic monitoring (STP)==
+Individual'' adaptation of the '''dosage''' of a drug based on the measurement of an '''exposure parameter'' of the body to this drug.
+
+This parameter is :
+
+* generally the '''minimum blood concentration''' (C<sub>min</sub> = residual concentration = valley, sampling to be done <u>just before</u> drug administration) measured at steady state in the patient,
+* more rarely the '''maximum blood concentration'' (C<sub>max</sub> = sampling to be done <u>at peak</u> for aminoglycosides in order to judge efficacy).
+
+=='''Conditions''' for STP==
+
+*Existence of a concentration-effectiveness and/or concentration-toxicity relationship
+*Inter-individual and/or intra-individual variability of drug concentrations linked to pathophysiological conditions (renal failure, etc.), drug interactions, etc.
+*Target concentrations predictive of efficacy and/or toxicity.
+*Drugs with a low therapeutic index
+
+== '''Examples''' of drugs for which the STP ==
+This list is <u>not exhaustive</u> :
+
+* Antibiotics: aminoglycosides, vancomycin
+* Antifungals: voriconazole
+* Antivirals: antiretrovirals
+* Anti-epileptics: valproic acid
+* Anti-cancer drugs: methotrexate
+* Psychotropic drugs: lithium
+* Immunosuppressants: tacrolimus
+* Cardiotonic glycoside: digoxin

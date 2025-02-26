@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-338-05-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Item_parent_short=Quincke's Edema and Anaphylaxis
+|Description=Look for laryngeal, respiratory and haemodynamic damage.
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=5}}
+
+
+* severity criteria for histamine angioedema: these are the criteria used to define anaphylaxis
+* severity criteria for bradykin angioedema :
+** involvement above the shoulders (neck, face, ENT area)
+** abdominal involvement with pain scored on the Visual Analogue Scale above 5/10

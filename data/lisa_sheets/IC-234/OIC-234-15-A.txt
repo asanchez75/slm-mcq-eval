@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-234-15-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Chest radiography of PAO of haemodynamic origin
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Olivier Huttin
+|Order=15}}
+
+[[File:Example of chest film of acute lung oedema.png|vignette|538x538px|Example of chest film of acute lung oedema]]

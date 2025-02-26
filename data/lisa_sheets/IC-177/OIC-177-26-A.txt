@@ -1,0 +1,114 @@
+{{knowledge objective
+|Identifiant=OIC-177-26-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main antifungal agents used in the management of superficial fungal infections.
+|Description=None
+|Rubric=Management
+|Contributors=Florence Robert-Gangneux,Danièle Maubon,Jean-Pierre Gangneux
+|Ordre=26}}
+
+{| class="wikitable"
+|'''Molecule'''
+|'''Galenic form'''
+|'''Indications'''
+|'''Spectrum (in the indication)'''
+|'''Contraindications*''''
+|'''Side effects'''
+|'''Interactions'''
+|-
+|Terbinafine
+|Cream
+
+Tablets
+|Onychomycosis, skin mycosis
+
+ringworm
+|Dermatophytes, yeasts
+|PO: liver disease, kidney failure
+Pregnancy: not recommended
+|PO: digestive disorders, liver toxicity, dysgeusia headache, erythema, leukopenia
+|Rifampicin, cyclosporine, propafenone, flecainide, metoprolol
+|-
+|Itraconazole
+|Oral solution
+
+Capsules
+|Ringworm
+|Dermatophytes, yeasts, moulds
+|Breast-feeding, pregnancy, patients taking anti-histamines, statins, bepridil, etc.
+|Digestive, skin and liver disorders, dizziness, headaches, etc.
+|Numerous, due to interference with hepatic metabolism (CYP450)
+|-
+|Ciclopirox olamine
+|Cream
+
+Varnish
+|Onychomycosis, skin mycosis
+
+Pityriasis versicolor
+|dermatophytes, yeasts (including
+
+''Malassezia'' sp.)
+|/
+|Irritation, redness, pruritus
+|/
+|-
+|Amorolfine
+|Nail polish
+|Onychomycosis
+|Dermatophytes
+|/
+|Local reaction
+|/
+|-
+|Miconazole
+|Oral gel
+
+Muco-adhesive tablet
+
+Gynecological ovum
+|Oral candidiasis, vaginal candidiasis
+|Levures
+|Oral gel :
+infant < 4 months or swallowing disorder
+|Digestive disorders
+|Poorly absorbed
+|-
+|Nystatin
+|Compressed
+<br />
+|Oral and genital candidiasis, otomycosis
+|Levures,
+|/
+|Digestive disorders
+|Unabsorbed
+|-
+|Amphotericin B
+|Oral suspension
+|Oral or digestive candidiasis
+|Mould, yeast
+|/
+|Digestive disorders
+|Unabsorbed
+
+Gastrointestinal topicals
+|-
+|Econazole, ketoconazole or other imidazoles
+|Gynaecological creams, gels, milks and ova
+|Cutaneous and genital fungal infections
+
+Pityriasis versicolor
+
+Seborrheic dermatitis
+|Seborrheic dermatitis
+
+''(''of which ''Malassezia sp.)'''
+
+Dermatophytes (not 1st line)
+|/
+|Irritation, redness, pruritus
+|/
+|}
+<nowiki>*</nowiki> Known hypersensitivity to the active substance basically contraindicates use

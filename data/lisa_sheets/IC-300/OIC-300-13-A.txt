@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-300-13-A
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=A
+|Title=Clinical diagnosis of cancer of the uterine body
+|Description=Know the signs pointing to endometrial cancer and the relevant tests to be carried out depending on the situation in order to obtain histological evidence.
+|Rubric=Positive diagnosis
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=13}}
+
+== Speculum examination
+This shows that the bleeding is coming from the uterine cavity and not from the cervix or vagina; it is essential for differential diagnosis. The bleeding, which is often light, is externalized through the cervical os. Inspection of the cervix is important to rule out cervical cancer or cervical involvement of endometrial cancer. Speculum examination is essential for differential diagnosis with lower genital haemorrhage.
+
+== Vaginal touch
+This is used to assess :
+
+- the size of the uterus: in endometrial cancer, the uterus is classically large, globular and soft in consistency. However, the increase in volume is not constant, and the cancerous uterus may be small and atrophic;
+
+- mobility of the uterus: this is the other fundamental element to be assessed. It is vital to ensure that the uterus is mobile or, on the contrary, that it is retained by the suspected induration or retraction of the parameters.
+
+Eliminating the diagnosis
+
+== Histological analysis
+
+=== Blind endometrial biopsy or diagnostic hysteroscopy ===
+Aspirational biopsy using the Cornier® Pipelle can be carried out in a standard consultation.
+
+- In the event of a positive test, it avoids the need for anaesthesia and biopsy curettage (BC)
+
+- If the test is uninterpretable or if there is no abnormality, a blood test should be carried out.
+
+Hysteroscopic endometrial biopsy in consultation
+
+- It allows direct visualization of the lesions: although subjective, this examination provides an excellent assessment of the surface extent of the lesion and its extension towards the cervix.
+
+- In the event of a positive test, it avoids the need for anaesthesia and biopsy curettage (BC) or endometrectomy by operative hysteroscopy.
+
+- If the test cannot be interpreted or if there is no abnormality, a blood test should be carried out.
+<br />
+
+=== Operative hysteroscopy with biopsy curettage or endometrectomy ===
+It allows :
+
+- direct visualization of lesions: although subjective, this examination provides an excellent assessment of the surface extent of the lesion and its extension towards the cervix
+
+- effectively guide biopsy procedures

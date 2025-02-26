@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-044-15-B
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=B
+|Title=Knowing the frequency of prolapse
+|Description=Many prolapses are not symptomatic
+|Rubric=Epidemiology
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=15}}
+
+Pelvic organ prolapse ([[Prolapse SD-107|Prolapse]]) is a frequent pathology, the prevalence of which is estimated at between 30 and 50% of women (prolapse of all stages combined) ([[Post-menopausal consultation SD-278|Post-menopausal consultation]]).
+
+However, prevalence is difficult to assess, depending on the studies and diagnostic methods used. Prevalence varies from 2.9 to 11.4% or 31.8 to 97.7% depending on whether a self-administered questionnaire or a clinical examination using the Pelvic Organ Prolapse Quantification (POP-Q) classification is used.

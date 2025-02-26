@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-004-45-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing how to implement standard and other precautions.
+|Description=Steps in the hand hygiene technique using hydro-alcoholic friction and recommended duration "air", droplets, contact, protective isolation, etc.
+|Rubric=Management
+|Contributors=
+|Order=45}}
+The components of Standard Precautions are described in the ad hoc item.
+
+Hand friction technique using hydroalcoholic solution: friction is performed in 7 steps (see diagram below) and repeated as many times as possible within the allotted time (20 to 30 seconds).<gallery perrow="0">
+File:Hands.png
+</gallery><br />

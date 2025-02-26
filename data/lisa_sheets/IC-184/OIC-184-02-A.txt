@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-184-02-A
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definitions and issues
+|Rank=A
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+'''Definition of an accident at work (AT) under the Labour Code''': "An accident at work is considered to be an accident at work, whatever the cause, if it occurs as a result of or in the course of work to any person employed or working in any capacity whatsoever for one or more employers or company directors".
+
+This definition assumes the existence of
+
+* an accidental event,
+* an injury
+* and a link between the accident, the injury and the work.
+
+It is supplemented by case law, which broadens its scope by stipulating that "any accident sustained by a worker while ''subject to the authority or supervision of his employer'' constitutes a work accident".
+
+This is the case when an employee is on an assignment (business trip, meeting with a customer, for example), in the car park, in the cloakroom, during a meal break on company premises allocated for this purpose, etc.
+
+If the accident occurred ''at work'' and ''during the working time'' of the person concerned, the relationship between the work and the injury is presumed to be established and the employee does not have to prove the link: this is the principle of ''presumption of imputability''.
+
+If the employer or the Caisse primaire d'assurance maladie (CPAM) dispute this, it is up to them to prove that there is no link.
+
+* The employer must prove that the victim was engaged in an activity totally unrelated to work at the time of the accident.
+* or the CPAM must provide proof that the injury is totally unrelated to work.
+
+The doctor's role is to draw up a medical certificate describing the injuries observed, "but under no circumstances" to decide whether or not it is an accident at work.

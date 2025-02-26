@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-027-09-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Knowing the definition of maternal-fetal measles
+|Description=None
+|Rubric=Definition
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=9}}
+The risk of transmission is possible at the end of pregnancy and may result in neonatal congenital measles, but this is exceptional (given vaccination coverage).

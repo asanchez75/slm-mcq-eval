@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-057-04-A
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=A
+|Intitulé=Infant : savoir évoquer un syndrome du bébé secoué et connaître la conduite diagnostique
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The diagnostic circumstances are as follows
+
+- malaise, especially if hypotonia and pallor are present
+
+- vomiting (HTIC)
+
+- neurological abnormalities: hypotonia, convulsions, irritability, somnolence, bulging of the anterior fontanelle, appearance of strabismus
+
+- developmental abnormalities: acceleration of the CP curve, arrest or regression of psychomotor development
+
+- bruising of the chest and/or arms (related to shaking) or any other skin lesions related to other violence (bruising, mucous membrane or skin lesions, fractures, burns) = '''SENTINAL LESIONS'''
+
+Suspicion of cranial trauma caused by shaking should lead to an emergency cerebral CT or MRI scan.
+
+/!: Transfontanellar ultrasound is not a good test for diagnosing intracranial bleeding.
+
+/A CT scan can be used to diagnose bleeding as a matter of urgency. MRI is complementary and, in particular, allows good visualisation of the cortex, trunk and medulla.

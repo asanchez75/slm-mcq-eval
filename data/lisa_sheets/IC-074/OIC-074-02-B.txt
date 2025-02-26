@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-074-02-B
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=B
+|Title=Know the main figures for the use of psychotropic drugs in France, particularly in elderly patients (use and misuse, pharmaco-epidemiology).
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=2}}
+
+According to the health barometer, 16 million people in the 11-75 age group had already taken psychotropic drugs in France in 2014.
+
+The ''consumption levels'' of these drugs are :
+{| class="wikitable"
+|+
+!
+|'''Prevalence, incidence''''
+|'''Non-recommended use'''
+|-
+|Anxiolytics (2015)
+|Prevalence: around 10% (almost 25% in people aged 80 and over)
+
+Incidence: around 5%.
+
+69% of users are women
+|Non-recommended use (over 3 months, etc.): 20% of incident treatments
+<br />
+|-
+|Hypnotics (2015)
+|Prevalence: around 6% (almost 17% in people aged 80 and over)
+|Non-recommended use (more than 1 month...): 30%.
+|-
+|Antidepressants (2013)
+|Prevalence: around 8% (18% in people aged 75 and over), prevalence 2 times higher in women (10%) than men (5%)
+
+Incidence: around 3%.
+|Duration of less than 6 months: around 80% of treatments
+|-
+|Antipsychotics (2013)
+|Prevalence: around 2% (around 4% in people aged 65 and over)
+|
+|}

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-225-09-A
+|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Rank=A
+|Title=Knowing the principles of emergency treatment
+|Description=None
+|Rubric=Emergency identification
+|Contributors=Christian Boissier,Lucie Salomon Du Mont, Anne Long, Alessandra Bura, Patrick Feugier
+|Order=9}}
+
+The therapeutic strategy for acute ischaemia aims to :
+
+*prevent the thrombus from spreading and embolic recurrence: anticoagulant treatment with a heparin must be started as soon as the clinical diagnosis is made ('''''[[Prescription and follow-up of treatment with anticoagulant and/or anti-aggregant SD-248|Prescription and follow-up of treatment with anticoagulant]]''),''''
+*ensure revascularisation of the ischaemic territory:''' this is a surgical emergency. After six hours of sensory-motor ischaemia, there is a major risk of amputation. Intraoperative arteriography may be used to guide the surgical procedure. ('''''[[Preoperative explanations and consent for an invasive diagnostic or therapeutic procedure]]''''')
+**[[File:Embolectomy.jpg|vignette]]In the case of embolism in a healthy artery, embolectomy with a Fogarty probe is the surgical method of choice.
+**In the case of thrombosis in a pathological artery, revascularisation is performed using conventional techniques (endarterectomy, bypass surgery) and/or endovascular techniques (recanalisation, angioplasty, thromboaspiration, in situ thrombolysis), depending on the type of lesion. Caution: intra-arterial in situ thrombolysis administered over 12 to 24 hours is contraindicated in patients with sensory-motor ischaemia because it takes too long to take effect.
+**In the event of late revascularisation or aorto-iliac thrombosis, limb lavage should be discussed in order to prevent the systemic effects of the release of products of muscle catabolism into the general circulation (revascularisation syndrome).
+**Limb amputation may be performed immediately when ischaemia has been overcome, or secondarily to control the major metabolic disorders of a revascularisation syndrome, or after revascularisation has failed.
+*''to correct pathological processes aggravating ischaemia'''
+**A leg aponevrotomy will be performed in cases of acute compartment syndrome (muscular oedema as a reaction to revascularisation, within the inextensible aponeurotic envelope of the leg). A leg aponevrotomy will be discussed when revascularisation is carried out late.
+**Do not forget to manage low cardiac output, hypovolaemia and rhythm disorders.
+*Cellular lysis induced by ischaemia leads to the release of potassium and myoglobin into the bloodstream during revascularisation. This leads to metabolic acidosis, acute renal failure, respiratory distress syndrome and cardiac rhythm disorders, which are exacerbated by hyperkalaemia and acidosis and can result in cardiac arrest.
+*Pain control: level 3 analgesics are necessary from the outset, and must be adapted to the pain after revascularisation.
+*protect the ischaemic limb:''' the risk of very rapid onset of pressure sores and skin lesions requires immediate nursing care, prolonged until revascularisation. It is important to protect the limb, avoid compression points and avoid using adhesives on ischaemic skin.

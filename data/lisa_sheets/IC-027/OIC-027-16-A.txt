@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-027-16-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Hepatitis B virus (HBV): knowing the elements of foetal prevention through vaccination
+|Description=Knowing the screening/vaccination procedures
+|Heading=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Ordre=16}}
+Prevention of foetal risks SD-312|prevention]] is effective and is based on :
+
+- Vaccination of women at risk (possible during pregnancy in cases of high risk);
+
+- Screening for hepatitis B as soon as the pregnancy is declared (recommended by the HAS);
+
+- Serovaccination of newborn babies in HBs+ antigen mothers.
+
+A positive HBsAg test must :
+
+- Be known to those who will be delivering the baby;
+
+- Look for associated infections and addictive behaviour;
+
+- Refer the patient to a hepatologist and/or infectious diseases specialist to assess the progression of the hepatitis and possibly consider antiviral treatment (lamivudine) to reduce the viral load, particularly for primary infections in the last trimester or patients with high viral loads;
+
+- Investigate the pregnant woman's family and friends for infection and offer vaccination to those who are negative;
+
+- Have the newborn baby of an HBs+ antigen mother sero-vaccinated, at best before the 12th hour of life, by :
+
+o IM injection of specific gamma globulins,
+
+o Vaccination injection (in a different muscle site) followed by 2 further vaccination injections one month apart and a booster at one year,
+
+
+Caesarean section for this infection is not indicated.
+
+Breast-feeding is not contraindicated when neonatal sero-vaccination is carried out.

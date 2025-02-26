@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-285-17-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the principles of treatment for coeliac disease
+|Description=Strict, lifelong gluten-free diet, social management, familiarity with the frequent "pitfalls" of the diet.
+|Rubric=Management
+|Contributors=
+|Order=17}}
+'''The treatment is a lifelong gluten-free diet'', totally excluding foods containing gluten (rye, wheat, barley). This diet, which is difficult to follow and sometimes feels like social exclusion in the event of a late diagnosis, must be accompanied by a dietician. It is important to provide patients with contact details for patient associations.
+
+It is not a disease recognised by the ALD. Once declared to the social security system, patients can claim monthly financial assistance for the purchase of gluten-free food products.
+
+Deficiencies must be investigated and corrected, particularly when the disease is diagnosed. Osteoporosis should be investigated by bone densitometry (50% incidence at diagnosis in adults) and treated.

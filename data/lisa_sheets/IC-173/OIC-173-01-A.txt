@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-173-01-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Know the definition of a zoonosis
+|Description=None
+|Rubric=Definition
+|Contributors=Carole Eldin
+|Order=1}}
+Zoonoses are infectious diseases transmitted from animals to humans either directly by the animal (bacterial: Q fever, pasteurellosis, cat scratch disease; parasitic: toxoplasmosis, echinococcosis) or indirectly via vectors such as ticks, fleas and sandflies (bacterial: Lyme borreliosis, Q fever; parasitic: leishmaniasis).

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-228-11-A
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=A
+|Title=Knowing the value of imaging: arteriovenous echodoppler as 1st-line treatment
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=11}}
+
+In the first instance, a venous Doppler ultrasound is carried out to look for venous insufficiency and sequelae of deep or superficial venous thrombosis.
+
+This examination is carried out in the standing position to look for [[Chronic venous insufficiency. Varicose veins|venous insufficiency]] (incontinence or reflux).
+
+It is used to identify venous insufficiency in the superficial venous network (great saphenous vein, small saphenous vein) and the deep venous network. For the deep and superficial venous network, the examination can also reveal obstructive or non-obstructive sequelae.
+
+A Doppler ultrasound of the aorta and arteries of the lower limbs, with measurement of [[Knowing how to interpret distal pressures|IPS at the ankle]], is used to identify arterial disease and locate significant arterial lesions.
+
+<br />

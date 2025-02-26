@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-204-04-A
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=A
+|Title=Know the semiology of a cough and the signs associated with a cough
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Questioning is essential to properly characterise the cough and the patient's profile. The elements to look for are :
+
+* Duration
+* Search for tobacco intoxication
+* Dry or productive''.
+* Diurnal or nocturnal''.
+* Triggering factors (odour, position, perfume, spray, change in temperature, laughter, speech).
+* '''Associated signs''': pyrosis suggesting GERD, jetage / discharge / posterior rhinorrhoea suggesting chronic rhinosinusitis (also known as Upper Airway Cough Syndrome (UACS)).
+* '''Treatments''' undertaken in the past and their effectiveness
+* Complications'': dominated by the significant social handicap associated with the fact that patients can no longer go to public places or visit relatives because of this noisy symptom. There are also psychological repercussions, and a cough should never be neglected by the doctor, even in the absence of serious pathologies.

@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-122-13-B
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=B
+|Title=Know the indications for maintenance rehabilitation.
+|Description=Description and methods of maintenance rehabilitation in certain chronic pathologies.
+|Rubric=Management
+|Contributors=Claire Hentzen
+|Order=13}}
+Maintenance rehabilitation :
+
+* Indicated in certain chronic disabilities, for example in cases of high spasticity, or in chronic low back pain patients to maintain current abilities and the benefits of rehabilitation (''''[[Disability situation SD-345|Disability situation]], [[Assessment and management of chronic pain SD-260|Assessment and management of chronic pain]], [[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]])'''''
+
+Description :
+
+* Self-maintenance always preferable: simple programme, limited number of exercises
+* If self-maintenance impossible, prescription of short series of rehabilitation sessions possible for :
+** Recovery of a functional level after progressive decline ('''[[Progressive loss of autonomy SD-031|Progressive loss of autonomy]])''''
+** Revision or adaptation of exercises from the self-maintenance programme

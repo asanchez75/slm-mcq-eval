@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-096-03-A
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=A
+|Title=Know how to diagnose polyneuropathy, mononeuropathy, multiple mononeuropathy, polyradiculoneuropathy (clinical examination, diagnostic approach).
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+- '''Polyneuropathy'''. '''([[Sensory and/or motor neurological deficit SD-121|déficit neurologique sensitif et/ou moteur]])''':
+
+- Damage to "all nerve fibres" according to their length (length-dependent damage, i.e. starting with damage "distal" to the lower limbs, to the longest fibres);
+
+- They are predominantly sensitive '''([[Pain, burning, cramps and paresthesias SD-073|douleur, brûlure, crampes et paresthésies]])''' ;
+
+- Responsible for symmetrical distal paresthesias and sensory disorders of the lower limbs (at the feet and then ascending). When the length of the fibres affects the knees, the symptoms affect the hands;
+
+- Symmetrical motor impairment is responsible for steppage and damage to the intrinsic muscles of the feet '''([[Muscular weakness SD-074|muscular weakness]]) ([[Heavy legs SD-076|heavy legs]])''''
+
+- Often chronic;
+
+- Ataxiating when demyelinating. '''([[Balance disorders SD-130|balance disorders]])''''
+
+.      '''Mononeuropathy''': damage to a nerve trunk (median nerve, ulnar nerve, fibular nerve) responsible for sensory-motor damage ('''([[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]])''' or pure motor damage (facial nerve '''[[Facial paralysis SD-127|facial paralysis]]'''). The manifestations are limited to the territory of the nerve trunk, most often over a limited area of the hand or foot, without extending beyond the wrist or ankle.
+
+- '''Multiple mononeuropathy''': involvement of several nerve trunks simultaneously or in close proximity.  
+
+- Polyradiculoneuropathy:
+
+- Involvement of all the sensory and motor nerve roots and the nerve trunks extending from them (e.g. Guillain-Barré syndrome); '''([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]) ([[Facial paralysis SD-127|facial paralysis]]) ([[Dyspnoea SD-162|dyspnoea]]) ([[Balance disorders SD-130|balance disorders]])'''''
+
+- relatively symmetrical;
+
+- sensitive and motor ;
+
+- with a proximal component ;
+
+- generally diffuse areflexia ;
+
+- an increase in the '''''''([[Analysis of cerebrospinal fluid (lcs) SD-183|analysis of cerebrospinal fluid (CSF)]])'''';
+
+- which may be acute or chronic.
+
+'''Neurophysiological examination'''
+
+See heading "Having a strategy for using complementary tests".

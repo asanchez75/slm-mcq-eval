@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-354-02-B
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=B
+|Title=Knowing the main occlusion mechanisms and their complications
+|Description=Mechanical vs. functional, obstruction vs. strangulation, level of obstruction (intra-luminal, parietal, extra-digestive) 3rd sector, ischaemia
+|Rubric=Physiopathology
+|Contributors=Laura BEYER-BERJOT
+|Order=2}}
+
+[[File:Figure 1 occlusion.png|vignette|Mechanisms of occlusion and most frequent etiologies (in red)]]
+[[File:Table 1 occlusion.png|vignette|Symptoms and kinetics according to type of occlusion]]
+[[File:Figure 2 occlusion.png|vignette|Complications of occlusion]]
+The mode of onset of an occlusive syndrome may be gradual or abrupt, depending on its site and mechanism: it will be all the more abrupt if the mechanism is strangulation (strangulated hernia/ventricle, volvulus, flange). Similarly, the risk of intestinal ischaemia and necrosis is greater and earlier in cases of strangulation. The various mechanisms are summarised in Figure 1 and Table 1; the complications are summarised in Figure 2.

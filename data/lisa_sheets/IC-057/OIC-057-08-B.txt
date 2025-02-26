@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-057-08-B
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=B
+|Intitulé=Exemple de TDM dans un " syndrome du bébé secoué " chez un nourrisson
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[[File:HSD.png|left|vignette|HSD plurifocal interhemispheric (hyperdense, arrowhead) and left pericerebral (hypodense, arrow) ]]
+source HAS : https://www.has-sante.fr/upload/docs/application/pdf/2017-09/reco239_recommandations_syndrome_bebe_secoue.pdf

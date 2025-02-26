@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-151-06-B
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=B
+|Title=Know the elements of the physiopathology of meningitis, meningoencephalitis and cerebral abscesses.
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Dr Olivier Robineau
+|Order=6}}
+Most viral or bacterial meningitis occurs after colonisation of the airways.
+
+The micro-organisms infect the subarachnoid space after haematogenous transmission.
+
+In the case of viral meningitis, this haematogenous spread can occur during primary infection (type 2 herpes simplex virus) or reactivation.
+
+Contiguous infection is also possible in bacterial meningitis (ENT infection). Direct inoculation of bacteria is possible in postoperative meningitis or in cases of osteomeningeal breach.
+
+Herpetic meningoencephalitis is linked to reactivation of the HSV1 virus in Gasser's lymph nodes, leading to infection of the brain by contiguity.
+
+Cerebral abscesses form:
+
+- by contiguity(>50%)
+
+- by haematogenous diffusion (30%)
+
+- Direct inoculation (post-surgery, trauma)

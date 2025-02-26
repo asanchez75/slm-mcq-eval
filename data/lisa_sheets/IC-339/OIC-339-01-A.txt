@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-339-01-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Know the definition of myocardial infarction
+|Description=None
+|Rubric=Definition
+|Contributors=Mathieu Kerneis
+|Order=1}}
+
+* ''Myocardial infarction is defined by cardiomyocyte necrosis'' related to acute myocardial ischaemia (ischaemia is defined by the existence of ischaemic symptoms and/or ischaemic ECG changes, and/or imaging evidence of myocardial loss and/or abnormal ventricular kinetics, and/or presence of intracoronary thrombus).
+
+* This is reflected by an increase in myocardial enzyme markers (troponin or CPK) above the 99th percentile.
+
+* '''The latest 2018 universal definition of MI defines:
+** <u>A type 1 myocardial infarction</u> as the presence:
+*** Elevated cardiac enzymes
+*** Associated with the presence of at least one of the following:
+**** symptoms of myocardial ischaemia;
+**** new ischaemic ECG changes
+**** appearance of pathological Q waves;
+**** imaging evidence of new loss of viable myocardium or new abnormal regional kinetics in a context consistent with an ischaemic cause;
+**** identification of a coronary thrombus by angiography, including intra-coronary imaging, or autopsy
+*** type 1 myocardial infarction is the consequence of rupture, ulceration, cracking or erosion of an atheromatous plaque inducing thrombus formation.
+** <u>A type 2 myocardial infarction</u> as the presence:
+*** Elevated cardiac enzymes.
+*** Associated with the presence of at least one of the following:
+**** symptoms of myocardial ischaemia;
+**** new ischaemic ECG changes
+**** appearance of pathological Q waves;
+**** imaging evidence of new loss of viable myocardium or new abnormal regional kinetics in a context consistent with an ischaemic cause;
+**** identification of a coronary thrombus by angiography, including intra-coronary imaging, or autopsy
+*** type 2 myocardial infarction is the consequence of an imbalance between myocardial oxygen supply and demand may be the consequence of anaemia, hypoxia or a rhythm disorder.
+** <u>Type 3 myocardial infarctions</u> are characterised by an infarction complicated by sudden death.
+** <u>Type 4 and 5 myocardial infarctions</u> are secondary to coronary angioplasty (type 4) or coronary artery bypass grafting (type 5)

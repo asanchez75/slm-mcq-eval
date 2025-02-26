@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-114-04-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Knowing how to recognise the eruption of epidemic megalerythema
+|Description=Oedematous rash of the face, rash in gloves and socks
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+       Infection linked to parvovirus B19, epidemic megalaemia primarily affects children aged between 5 and 10 years,
+
+Appears after an incubation period of 14 days and presents as a moderately febrile, fairly specific exanthema: a "puffy" appearance (oedematous erythema of the cheeks) followed by an "arabesque" or "garland" rash on the trunk and inner sides of the limbs. Other aspects are also possible, associated with the classic lesions or isolated, in particular the sometimes purpuric erythema of gloves and socks.
+
+Arthralgias are common in young adults. This infection is benign except in certain conditions (immunocompromised, congenital haemolytic anaemia, second trimester of pregnancy with risk of foetopathy).
+
+cf [[Infectious eruptive diseases: epidemic megalaerythma 2C-164-ET-A03]]

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-274-05-B
+|Item_parent=Vomiting in infants, children and adults
+|Item_parent_short=Vomiting in infants, children and adults
+|Rank=B
+|Title=Knowing the symptomatic treatment of vomiting in children
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=5}}
+Symptomatic treatment
+
+- no effective drug treatment (except for very specific indications of vomiting induced by chemotherapy or anaesthesia)
+
+- fractionated oral sugar is useful in cases of ketonic vomiting observed during viral infections ("acetone crisis")

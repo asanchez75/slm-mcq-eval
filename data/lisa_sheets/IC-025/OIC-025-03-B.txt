@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-025-03-B
+|Item_parent=Ectopic pregnancy
+|Item_parent_short=Ectopic pregnancy
+|Rank=B
+|Title=Knowing the incidence of EP and risk factors
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Yohann Dabi,Philippe Deruelle
+|Order=3}}
+
+Increasing incidence in developed countries, 2% in France.
+
+Risk factors: all those affecting tubal motility:
+
+- Upper genital infections (UGI) .
+
+- Tobacco (effect - dose relationship) '''([[Prevention of tobacco-related risks SD-314|prevention of tobacco-related risks)]]''''
+
+- Previous tubal or abdominopelvic surgery (excluding appendectomy and uncomplicated endo-uterine aspiration)
+
+- History of EP
+
+- Alterations of the tubal wall: endometriosis, tuberculosis, bilharzia, uterine or tubal malformation '''([[Pelvic pain SD-099|pelvic pain]], [[Abdominal pain SD-004|abdominal pain]])'''''
+
+- High maternal age (> 35 years)
+
+- Microprogestational contraception, intrauterine device
+
+- Medically assisted procreation (in vitro fertilisation in particular) '''([[Difficulty procreating SD-033|difficulty procreating]])'''''

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-078-07-A
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=A
+|Title=Knowing psychiatric and addictive co-morbidities
+|Description=Know the frequent co-morbidity of psychiatric and addictive disorders.
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+<br />The most frequent psychiatric comorbidities are :
+
+.   Bipolar disorder
+
+.   Schizophrenia
+
+.   Anxiety disorders
+
+.   Personality disorder (borderline, paranoid ....)
+
+<br />

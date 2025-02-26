@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-268-04-A
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=A
+|Title=Know the main clinical signs associated with hypercalcaemia
+|Description=Know the main clinical signs associated with hypercalcaemia: digestive and neurological disorders, dehydration, impairment of general condition
+|Rubric=Positive diagnosis
+|Contributors=B. MOULIN M. FLAMANT
+|Order=4}}
+. The majority of hypercalcaemias are asymptomatic.
+
+. Hypercalcaemia is symptomatic when it is acute and significant
+
+. The signs of acute hypercalcaemia are :
+
+*Digestive: anorexia, nausea, vomiting and rare attacks of acute pancreatitis.
+*Neuropsychological: asthenia, cognitive deficits and mood disorders, confusion, hallucinatory or psychotic episodes and coma if hypercalcaemia is severe.
+*Renal: polyuro-polydipsic syndrome due to nephrogenic diabetes insipidus (reduced sensitivity to ADH), extracellular dehydration due to loss of NaCl, sometimes complicated by functional renal failure.
+*Cardiological: QT shortening on ECG. If acute hypercalcaemic crisis (ionised calcium > 3.5 mmol/L), rhythm disorders with risk of ventricular tachycardia or severe bradycardia.
+
+
+. The clinical signs of chronic hypercalcaemia are simply the translation of peripheral calcium deposits: kidney (calcium lithiasis or nephrocalcinosis, more or less complicated by chronic renal failure), valvular and/or coronary deposits.
+
+<br />

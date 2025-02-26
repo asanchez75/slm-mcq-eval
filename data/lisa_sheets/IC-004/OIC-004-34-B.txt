@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-004-34-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the diagnostic criteria for a surgical site infection (SSI)
+|Description=Definition, diagnostic methods
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=34}}
+Surgical site infection (SSI): infection of tissues located in the path of the surgical incision or at the level of tissues or organs handled during the operation and which occurs within a maximum of thirty days following an operation or, if an implant or prosthesis is inserted, within one year following the operation.
+
+
+According to the CTINILS, it is classified into two levels according to the following criteria:
+
+1. superficial (must occur within 30 days of the operation) :
+
+§ presence of pus in the incision area,
+
+§ presence of micro-organisms and neutrophils on an aseptically obtained sample from the site,
+
+§ '''OR''' surgeon's opinion.
+
+
+2. Profound (must occur within 30 days of the operation, or within one year if an implant is inserted):
+
+§ pus from a deep drain,
+
+§ '''OR''' opening of the incision spontaneously or by the surgeon and micro-organisms on a sample from a deep site obtained aseptically OR culture not performed
+
+§ signs of infection (e.g. abscesses) found during a repeat operation, an imaging examination, a pathological examination, etc.

@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-201-10-A
+|Item_parent=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Item_parent_short=Organ transplants: epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation
+|Rank=A
+|Title=Knowing the ethical and legal principles of organ donation
+|Description=None
+|Rubric=Definition
+|Contributors=Dany Anglicheau
+|Order=10}}
+
+Organ donation is governed by 3 major ethical principles enshrined in the French Bioethics Act:
+
+*presumed consent'';''''
+*free donation'';''''
+*anonymity between donor and recipient'''.''''
+
+
+The removal of organs from donors in a state of encephalic death is governed by the 1994 bioethics laws, which are based on the principle of presumed consent.
+
+In addition, there is a National Register of Refusals (RNR) managed by the Agence de la Biomédecine (French Biomedicine Agency), where people who are opposed to organ removal can register their refusal during their lifetime. This register will be automatically consulted before any removal procedure.
+
+Since 1 January 2017, all deceased persons diagnosed as brain dead have been considered as donors by default''''''''' If a person is opposed to the removal of blood during their lifetime, they must register on the national refusal register or provide their next of kin with oral or written testimony. Relatives may testify to the refusal, but they must sign an official document certifying the deceased's refusal.
+
+Table 3 summarises the main laws governing organ transplantation in France.
+
+Table 3: Important laws governing transplantation activities
+{| class="wikitable"
+|Text
+|Content
+|-
+|Circular Jeanneney (1968)
+|Definition of brain death criteria
+|-
+|Caillavet Law (1976)
+|Presumed consent for the deceased donor
+
+Choice freely and expressly consented to by the living donor
+|-
+|Bioethics law (1994)
+|Living donors of full age and related (father/mother, son/daughter, brother/sister)
+
+Deceased donors not on the national refusal register (implied consent, testimony requested from the family)
+
+Creation of the Établissement français des Greffes (EfG).
+|-
+|1st revision of the bioethics law (2004)
+|Expansion of the circle of living donors: father, mother, spouse, brother or sister, son or daughter, grandparent, uncle or aunt, first cousin, spouse of father or mother, any person providing proof that they have lived together with the recipient for at least 2 years.
+
+Pre-transplant living donor committees
+
+Annual follow-up of living donors after transplantation
+|-
+|2nd revision of the French Bioethics Act (2011)
+|Widening the circle of living donors:
+
+any person providing proof of a close and stable affective relationship with the recipient for at least 2 years;
+
+cross-donation of kidneys limited to two donor-recipient pairs.
+
+social protection for living donors
+|}

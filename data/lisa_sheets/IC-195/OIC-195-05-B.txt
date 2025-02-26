@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-195-05-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Knowing the main differential diagnoses of CAG
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+If typical presentation = virtually no differential diagnosis for CAG.
+
+Frustrated forms of ACG = look for other causes of prolonged inflammatory syndrome ''([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]])'': infections (especially endocarditis++), neoplasia, thrombo-embolic pathology and other inflammatory pathologies).
+
+If symptoms and clinical signs are not sensitive within 48 hours = look for other causes+++.
+
+If NOIAA = main differential diagnosis: atheroma

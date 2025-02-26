@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-177-10-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescribing and monitoring anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the systemic fluoroquinolones.
+|Description=Ofloxacin, ciprofloxacin, levofloxacin, moxifloxacin
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=10}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Systemic fluoroquinolones (molecules: ofloxacin, ciprofloxacin, levofloxacin, moxifloxacin)''''
+|Antibiotics preferentially used after documentation
+
+
+Urinary tract infections (pyelonephritis, male urinary tract infections) (the only exceptions to probabilistic use)
+
+Upper genital infections, digestive infections, ENT infections as a last resort, legionellosis
+|Hypersensitivity to the active substance or to one of the excipients, epileptic patients, history of tendinopathy associated with the administration of quinolones, children and adolescents in the growth period, pregnant or breast-feeding women.
+|Enterobacteriaceae, intracellular bacteria, Staphylococcus meti-S, H. influenzae, M. catarrhalis, P. aeruginosa,'' pneumococcus
+|Neuropsychic effects (convulsions, confusion in the elderly), Hepatitis, Phototoxicity, Tendinopathy with risk of tendon rupture, prolongation of the QTc interval.
+
+
+Interactions: glucocorticoids, mycophenolate mofetil
+|}

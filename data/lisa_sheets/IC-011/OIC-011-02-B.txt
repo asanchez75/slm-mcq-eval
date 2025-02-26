@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-011-02-B
+|Item_parent=Violence and health
+|Item_parent_short=Violence and health
+|Rank=B
+|Title=Knowing the prevalence of different types of interpersonal violence
+|Description=School, domestic, including couples, and workplace.
+|Rubric=Epidemiology
+|Contributors=Laurène Dufayet
+|Order=2}}
+
+'''<u>Global epidemiological data</u> :'''
+
+The latest global data on the prevalence of violence comes from the World Report on Violence and Health published by the WHO in 2002<ref name=":0">https://www.who.int/violence_injury_prevention/violence/world_report/en/full_fr.pdf</ref>. It is important to note that these estimates presented in illustration 1 are probably underestimates, due to the capacity of each country to collect and transmit these data (illustration 1).  
+[[File:WHO data.png|thumbnail|Illustration 1: Number of violent deaths in the world in 2000, WHO data |238x238px]]
+
+Violence is not evenly distributed between the sexes and age groups. For example, in the figures shown in Figure 2, 77% of the 520,000 homicide victims were men, most of them aged between 15 and 29. Similarly, of the 815,000 suicide victims, 60% were men. The suicide rate increases with age, and is highest among people aged 60 and over. Rates of violent death also vary according to country income, with prevalence more than twice as high in low-income countries<ref name=":0" />.
+
+With regard to domestic violence, again according to the WHO, 1 in 4 women suffers violence from an intimate partner during her lifetime, and 1 in 3 children is exposed to one or other form of interpersonal violence by parents or other family members, other carers or peers<ref>https://www.euro.who.int/fr/health-topics/disease-prevention/violence-and-injuries/news/news/2020/6/the-rise-and-rise-of-interpersonal-violence-an-unintended-impact-of-the-covid-19-response-on-families#:~:text=Selon%20les%20estimations%20de%20l,lui%20ou%20par%20ses%20camarades</ref>.
+
+There is no global data on the prevalence of interpersonal violence in the workplace.
+
+'''<u>French epidemiological data</u> :'''
+
+Most of these data come from the Violence and Gender Relations survey (VIRAGE)<ref name=":1">https://virage.site.ined.fr/fr/actualites/</ref>. Here again, the data should be interpreted with caution and there are differences between the sexes and age groups.
+
+'''- Violence at work''': 20% of women and 15.5% of men say they have experienced at least one violent incident in the last 12 months at work<ref name=":1" />.
+
+- '''Violence in the public space''': one in four women (25%) say they have been subjected to at least one of the acts mentioned (insult, unwelcome attention, physical or sexual violence) compared with around one in seven men (14%) in the last 12 months in the public space<ref name=":1" />.
+
+'''- School violence''': these incidents are more likely to take place in so-called "less advantaged" schools, and around 9 out of 10 serious incidents are committed by pupils, the vast majority of whom are boys, and most often against boys. The majority of serious incidents involve verbal and physical violence (42% and 30% respectively), but can also involve attacks on privacy via social networks, damage to property or sexual violence.
+
+'''- Domestic violence:''''
+
+'''* on the partner:''' women report all types of serious and/or repeated violence, whether psychological (one woman in twenty), physical (1%) or sexual (0.1%). Men are more likely to report incidents that occurred only once, which they consider to be not serious<ref name=":1" />. Figure 2 from the VIRAGE survey provides some additional data (Figure 2).
+[[File:Illustration 2.png|vignette|Illustration 2 : domestic violence, data from the VIRAGE survey|216x216px]]
+
+'''* on the child:''' according to various sources of data summarised by the Observatoire National de la Protection de l'Enfance (ONPE), around 1 child in 10 would claim to have been a victim of physical violence on a lasting basis during childhood or adolescence and around 1 child in 100 would claim to have been a victim of sexual violence. Of these, only around 10% would have been taken into care by child protection services<ref>https://www.onpe.gouv.fr/system/files/publication/ragp_2016_-_version_finale_2_leger.pdf</ref>.<references />

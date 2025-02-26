@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-110-20-B
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=B
+|Title=Knowing the principles of treating sleep apnoea syndrome
+|Description=Continuous positive airway pressure and mandibular orthosis
+|Rubric=Management
+|Contributors=Iulia Ioan,Laurianne Coutier
+|Order=20}}
+
+The choice of treatment will depend on the results of the polysomnography. A minimum duration of 4 hours is required for the test to be valid. The apnoea and hypopnoea index (AHI) is the number of respiratory events per hour of sleep. This index will guide management:
+
+- between 5 and 15: mild SAS, no treatment necessary, except in cases of discordance with the clinic and the presence of co-morbidities: an additional examination should then be considered.
+
+- Between 15 and 30: moderate SAS: treatment to be considered depending on the clinical situation, and in the event of cardiovascular or metabolic co-morbidities.
+
+- >30: severe SAS, treatment is indicated immediately.
+
+The standard treatment is continuous positive airway pressure (CPAP). This is reimbursed by the health insurance scheme in cases of AHI>30, or moderate SAS, documented by polysomnography, with comorbidities. It may be the subject of an ALD in the event of comorbidities.
+
+In younger patients, particularly those with facial dysmorphia, maxillofacial surgery may be recommended.
+
+The mandibular advancement orthosis is a treatment option to be proposed in the event of difficulties with CPAP, or in the event of moderate SAS.
+
+Finally, in the case of positional apnoeas, when apnoeas predominate in the dorsal position, a simple positional treatment, with a tennis ball placed on the back every night, may be a therapeutic solution.

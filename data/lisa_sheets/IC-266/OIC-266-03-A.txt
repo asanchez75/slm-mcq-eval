@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-266-03-A
+|Item_parent=Polycystic kidney disease
+|Item_parent_short=Polycystic kidney disease
+|Rank=A
+|Title=Knowing the clinical presentation and circumstances of the diagnosis of polycystic kidney disease
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot
+|Order=3}}
+
+The diagnosis is most often made in young adults. The usual circumstances for diagnosis are as follows:
+
+*During a check-up for hypertension in adults and children|HTA
+
+*Revealed by a renal complication:
+**lumbar pain or heaviness
+**macroscopic hematuria
+**lithiasis and calculi 2C-265-DE-A01|nephritic colic
+**infection of a renal cyst
+**[[Chronic renal failure in adults and children|renal failure]]
+
+*The discovery of renal and/or hepatic cysts on ultrasound.
+
+*During a family investigation
+
+*On the occasion of an extrarenal event (e.g. stroke, arterial aneurysm rupture or complication of a hepatic cyst).
+
+*

@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-018-01-B
+|Item_parent=Health and digital
+|Item_parent_short=Health and digital
+|Rank=B
+|Title=Knowing the digital supports for clinical practice (generalist and certification sites, Health on the Net (HON), databases, good practice recommendations, decision support systems, data warehouses, artificial intelligence (AI) techniques, etc.). . .),
+|Description=Digital support for clinical practice
+|Rubric=Definition
+|Contributors=CIMES
+|Order=1}}
+
+'''Digital supports for clinical practice'''
+
+A growing number of varied digital media are available to healthcare professionals and users. They can be used to assist decision-making in clinical practice.
+
+1. websites containing health information
+
+Websites containing health information can be sources of information for both healthcare professionals and users. HONcode certification attests to the willingness of a website to publish quality health information that is objective, transparent and appropriate to the site's mission and audience. By adhering to the HONcode principles, the website owner undertakes to respect the eight principles of good conduct drawn up by the "Health On the Net" foundation. One of the principles concerns transparency regarding the financing of the site. Healthcare professionals must be vigilant when faced with information available on sites financed by pharmaceutical laboratories, which is considered to be advertising.
+
+Some websites offer public forums where users can express themselves, talk about their experience of the disease or look for information (more or less popularised scientific information or the experiences of other individuals through testimonials). These forums are not necessarily moderated by qualified healthcare professionals.
+
+'''2.      Documentary databases'''
+
+Documentary databases in the medical and biomedical sciences are available on the Internet. They list scientific articles from peer-reviewed journals, university theses, scientific books, etc. that are useful to healthcare professionals in their clinical practice (examples: PubMed, Embase, Cochrane Library, Google Scholar, Web of Science, Cairn, etc.).
+
+'''3.      Official recommendations
+
+Official recommendations drawn up by the HAS, the ANSM and learned societies are available on their respective websites
+
+<nowiki>https://www.has-sante.fr/jcms/fc_2875208/fr/rechercher-une-recommandation-un-avis</nowiki>
+
+<nowiki>https://ansm.sante.fr/documents/reference/</nowiki>
+
+Bon Usage des Médicaments" (BUM) sheets: BUM sheets are information documents drawn up by the HAS for healthcare professionals and/or patients or users, on the correct rules of use and the risk of misuse of reimbursable medicines. They make it possible to specify and summarise in a simple, clear and legible way the key messages resulting from the evaluation of medicinal products and the therapeutic strategy recommended in particular in the opinions of the Transparency Commission (CT).
+
+Recommendations for good practice (RBP): RBP are rigorous "evidence-based" summaries of the state of the art and scientific data at a given time, to help professionals and patients seek the most appropriate care in given clinical circumstances. The recommendations issued may be grade A, B or C, depending on the level of evidence of the studies on which they are based.
+
+The CISMef site maintained by Rouen University Hospital indexes all these documents using MeSH terminology: <nowiki>https://doccismef.chu-rouen.fr/dc/#env=bp</nowiki>
+
+'''4.      Information systems
+
+See data sheet [[Information Systems Architectures 2C-003-PC-B06]].
+
+'''5.      Artificial intelligence techniques and medical decision support systems'''
+
+See files :
+
+[Decision support systems 2C-003-PC-B05
+
+[Knowledge of the possible applications of algorithmic health data processing methods (e.g., big data, artificial intelligence/machine learning) in individual and collective health care 2C-018-PC-B01
+
+'''6.      Data warehouses
+
+See file [[Knowing the basics of health information processing (coding, management, publication, evaluation) 2C-018-DE-A03]].
+
+'''7.      Mobile applications and connected objects'''
+
+See files
+
+[Understanding the place and implications of digital self-measurement in personal health monitoring 2C-018-PC-A01
+
+[Understanding the place and implications of m-health (mobile applications) and social media in interprofessional communication and personal health 2C-018-PC-A02
+
+
+<br />

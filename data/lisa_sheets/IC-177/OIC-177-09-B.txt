@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-177-09-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the aminoglycosides.
+|Description=Gentamicin, amikacin
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=9}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Aminosides'''
+
+'''(molecules: gentamicin, amikacin)''''
+|Antibiotics to be used in combination
+
+Serious infections with aerobic gram-negative bacilli, serious infections with P. aeruginosa, streptococcal/enterococcal endocarditis, meningitis with Listeria monocytogenes.
+|Hypersensitivity to the active substance or to one of the excipients, grade B and C cirrhosis, myasthenia gravis.
+|Meti-S staphylococci, L. monocytogenes, aerobic Gram-negative bacteria
+
+
+Low-level resistance in streptococci and enterococci: efficacy of dual therapy
+|Nephrotoxicity, cochleovestibular toxicity (irreversible)
+
+
+Interactions: nephrotoxic, ototoxic drugs, ataluren, polymyxin B
+|}

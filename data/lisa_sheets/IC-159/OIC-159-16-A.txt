@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-159-16-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Knowing that tuberculosis is a notifiable disease
+|Description=Prevention
+|Heading=Management
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Ordre=16}}
+
+'''Summary: Tuberculosis is a notifiable disease.'''
+
+Tuberculosis is a notifiable disease:
+
+*immediate notification by name to the ARS medical inspector in the event of a diagnosis of tuberculosis disease, for operational purposes (forwarded by the ARS to the corresponding CLAT for investigation)
+*anonymous notification at the start of treatment, supplemented by an anonymous declaration at the end of treatment (12 months after the initial declaration)
+*mandatory reporting of latent tuberculosis infections in children under 15 years of age
+
+It enables the investigation of a case (nominative declaration) and the epidemiological monitoring of tuberculosis in France (resistance/loss of sight). It is partly thanks to this system, in conjunction with the CLAT, that the incidence of tuberculosis has fallen in France.
+
+Please note: tuberculosis is covered at 100% by social security as an ALD.

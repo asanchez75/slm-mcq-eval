@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-348-05-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the situations requiring specialist advice in ARF
+|Description=Know how to seek nephrological advice in the event of ARF that is unexplained and/or associated with an acute glomerular or tubulointerstitial syndrome.
+|Rubric=Identification of the emergency
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=5}}
+
+Certain situations require an urgent nephrological opinion in order to discuss the interest of a '''[[renal biopsy]]''', in particular:
+
+*Rapidly progressive glomerulonephritis syndrome" ("haematuria", "proteinuria", "renal failure") often associated with extra-renal signs (vasculitis, lupus, etc.),
+*Myeloma" responsible for renal failure,
+*haemolytic uraemic syndrome.
+*Acute interstitial nephritis (drugs, sarcoidosis, etc.).

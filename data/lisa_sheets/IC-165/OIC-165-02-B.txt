@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-165-02-B
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=B
+|Title=Knowing the tropism of the mumps virus and how it is transmitted
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=2}}
+
+Strictly human reservoir''.
+
+Urulin virus receptor: sialic acid, an acylated derivative of neuraminic acid, present on cellular glycoproteins and lipids, enabling the virus to infect a large number of cell types.
+
+'''Direct human-to-human transmission:'''<blockquote>
+* Contamination by spread of Pflüge droplets or by direct contact of saliva/urines.
+* Incubation of 16 to 18 days, followed by a short viremia.
+* Dissemination to systemic organs via lymphatic routes. Preferential targets are glandular tissues (parotid glands, testicles, ovaries, mammary glands, pancreas) and the central nervous system.
+* Contagious via the respiratory tract and saliva for around 15 days: around 6 days before clinical symptoms and up to 10 days afterwards.
+</blockquote><br />

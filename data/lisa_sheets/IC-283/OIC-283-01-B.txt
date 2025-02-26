@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-283-01-B
+|Item_parent=Constipation in children and adults
+|Item_parent_short=Constipation in children and adults
+|Rank=B
+|Title=Knowing the prevalence of constipation in children
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=1}}
+Constipation is a frequent reason for consultation in young children.
+
+This symptom accounts for almost 5% of paediatric consultations in private practice.
+
+Constipation most often appears between the ages of 1 and 4 and can affect up to a third of school-age children.

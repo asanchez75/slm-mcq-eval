@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-262-02-A
+|Item_parent=Interstitial nephropathy
+|Item_parent_short=Interstitial nephropathy
+|Rank=A
+|Title=Recognizing the biological signs suggestive of CIN
+|Description=None
+|Section=Additional tests
+|Contributors=Dany Anglicheau
+|Order=2}}
+
+Additional biological tests look for signs suggestive of chronic interstitial nephropathy:
+
+*Leukocyturia ++ ;
+*Hematuria is usually absent (or microscopic);
+*Altered tubular functions:
+**polyuria ;
+**obligatory natriuresis leading to salt loss;
+**low-flow proteinuria (< 1 g/24 h) composed mainly of low molecular weight proteins (less than 50% albumin on electrophoresis);
+**tubular acidosis: proximal, distal or hyperkalaemic secondary to hyporeninism-hypoaldosteronism.
+
+
+A renal ultrasound shows kidneys that are smaller. Depending on the cause, you may also see :
+
+*bumpy loins with notches;
+*asymmetric kidney size;
+*reduced cortical thickness;
+*intra-renal calcifications suggestive of nephrocalcinosis.
+
+
+Renal biopsy is not usually performed, due to the small size of the kidneys and the clinical context, which often allows the diagnosis to be made without histology. If performed, renal biopsy allows the diagnosis of chronic interstitial nephropathy, but rarely identifies the cause.

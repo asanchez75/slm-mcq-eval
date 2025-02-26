@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-253-06-B
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=B
+|Title=Know how to look for and recognise clinical signs pointing to "secondary" obesity.
+|Description=Know the elements that should lead to the suspicion of secondary obesity Know the complementary examinations to be carried out if secondary obesity is suspected.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+
+'''Eléments qui doivent faire évoquer une obésité secondaire :'''
+
+* treatments that encourage weight gain: neuroleptics, lithium, anti-epileptics, glucocorticoids, hormonal treatments (e.g. progestogens), anti-allergic drugs, etc.
+
+* Hypothyroidism (moderate weight gain; not a cause of obesity)
+
+* hypercortisolism (facial-truncular obesity and signs of hypercatabolism (purple stretch marks, amyotrophy of the roots of the limbs)) due to adrenal tumour (ACTH independent) or pituitary adenoma (ACTH dependent) (see item [[Pituitary adenoma]])
+
+* a brain tumour with hypothalamic involvement (e.g. craniopharyngioma)
+
+
+'''Complementary examinations to be carried out in cases of suspected secondary obesity'''
+
+Depending on clinical orientation and not systematically:
+
+- thyroid-stimulating hormone (TSH): search for hypothyroidism
+
+- 24-hour urine free cortisol (UFC), minute dexamethasone braking: look for hypercorticism
+
+- pituitary magnetic resonance imaging (MRI) (to look for pituitary and hypothalamic pathologies) and pituitary hormone assessment

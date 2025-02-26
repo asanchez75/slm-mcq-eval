@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-063-17-B
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=B
+|Title=Knowing the indications for long-term pharmacological treatment
+|Description=Refer to item 74
+|Heading=Management
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=17}}
+
+If effective and well tolerated, antipsychotic treatment should be continued for at least 2 years following complete remission of a single episode.
+
+After the second episode, this minimum duration increases to 5 years without any symptoms.
+
+Associated treatments are gradually discontinued after the acute phase.

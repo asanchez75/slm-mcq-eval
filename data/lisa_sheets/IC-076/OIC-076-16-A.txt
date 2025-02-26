@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-076-16-A
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=A
+|Title=Knowing the principles of motivational interviewing
+|Description=Send item 1
+|Rubric=Management
+|Contributors=
+|Order=16}}
+[Motivational interviewing (see item 1) is an essential tool in addictology.

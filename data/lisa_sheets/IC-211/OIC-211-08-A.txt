@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-211-08-A
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=A
+|Title=Photograph of a typical example of erythema nodosum
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+<gallery widths="400" heights="400">
+File:Erythema nodosum01.jpg
+</gallery>

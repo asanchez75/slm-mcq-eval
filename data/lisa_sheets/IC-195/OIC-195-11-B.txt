@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-195-11-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Knowing the main differential diagnoses of PPR
+|Description=ACG, rheumatoid-onset RA, neoplasia, microcrystalline rheumatism, drugs
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+PPR = diagnosis of elimination (no clinical, biological or imaging sign is specific for PPR)
+
+'''Main differential diagnoses'''
+
+Rheumatoid arthritis with a rheumatic onset (more common in the elderly).
+
+Neoplasia (multiple myeloma, bone metastases, paraneoplastic pain syndrome).
+
+Microcrystalline rheumatism with a rheumatic form (hydroxyapathy rheumatism, chondrocalcinosis).
+
+Drug-induced muscle toxicity (e.g. statin).
+
+Other vasculitides.
+
+Myositis.
+
+Endocarditis.
+
+If no inflammatory syndrome: osteomalacia, hyperthyroidism.
+
+<br />

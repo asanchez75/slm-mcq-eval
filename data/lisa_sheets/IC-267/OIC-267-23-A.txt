@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-267-23-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the indications for prescribing and the thresholds for defining the severity of hyponatraemia
+|Description=None
+|Rubric=Definition
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=23}}
+
+
+*Hyponatremia: [Na+] < 135 mmol/L''; ''Severe hyponatremia'' (biological definition) = < 120 mmol/L.
+*The diagnosis of intracellular hyperhydration (ICH) is biological: hyponatraemia associated with plasma hypo-osmolality.
+*Hyponatremia reflects plasma hypo-osmolality (POsm < 280 mOsm/kg). It is therefore "the consequence of excess water". It is associated with intracellular hyperhydration (ICH). The increase in intracellular volume is due to a transfer of water from the extracellular sector to the intracellular sector as a result of plasma hypo-osmolality. Hyponatremia associated with plasma hypo-osmolality is explained by a relative water content higher than the sodium stock, which may be normal (pure HIC), increased (HIC + HEC = global hyperhydration) or decreased (HIC + DEC).
+*Indications for prescribing a natraemia:
+**Neurological or digestive symptoms (see clinical signs),
+**monitoring of diuretic treatment,
+**pulmonary, cerebral or endocrine pathologies associated with hyponatraemia,
+**conditions responsible for hyponatremia: heart failure or decompensated liver cirrhosis.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-047-16-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Knowing international dental numbering
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=16}}
+
+[[File:Child teeth.png|neant|vignette|Child teeth]]
+[[File:Adult teeth.png|neant|thumbnail]]

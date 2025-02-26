@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-004-20-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the principle of independence
+|Description=Knowing the notion of conflict of interest
+|Rubric=Taking charge
+|Contributors=
+|Order=20}}
+Article 5 of the Code of Medical Ethics and article R.4127-5 of the Public Health Code postulate that "'''''the doctor may not alienate his professional independence in any form whatsoever'''''", which implies that " ''each of his professional acts is determined solely by the judgement of his conscience and references to his scientific knowledge, with, as his sole objective, the interest of the patient'' <nowiki>https://www.conseil-national.medecin.fr/code-deontologie/</nowiki> .
+
+
+This independence may come up against several ''constraints'': the state of medical science in the 1st<sup>rst</sup> place, but also the relationships between doctors, the care structure in which they practise, administrative structures and private organisations, the patient and those around him.
+
+
+However, it is the independence ''from pharmaceutical or medical technology companies'' (in other words, independence from ''money'') that is the most emphasised, and the most regulated.
+
+
+Any payment or benefit granted by such a company to a doctor :
+
+- Must be ''proportionate'' to the activity actually carried out, including for clinical investigation services in the context of a clinical trial, or, for hospitality costs (e.g. invitation to a congress), must be ''reasonable and limited'' to the scientific objective of the event.
+
+- Must be '''previously''' submitted to the '''control''' of the Association's Council
+
+- For hospital doctors (and university hospital doctors), a ''request for prior agreement'' must be submitted to the director of the establishment (and the Dean of the Faculty).
+
+- Is '''forbidden''' to medical students
+
+
+Doctors are obliged to make public these "links of interest" when they speak, whether it be :
+
+- At public events (including conferences and courses)
+
+- In the written or audiovisual press (including, of course, in their "scientific articles")
+
+- The same applies when they take part in activities or committees relating to medicines and medical devices.
+
+
+Publishers of medical journals and conference organisers are very sensitive to this issue and systematically ask for these links to be communicated. However, this is only "declarative".
+
+
+Open sites can be used to find the sums paid and corresponding benefits: <nowiki>https://www.transparence.sante.gouv.fr/</nowiki> and <nowiki>https://www.eurosfordocs.fr/</nowiki> .
+
+
+Links of interest therefore include the interests or activities, direct or indirect, ''past or present'', ''property, professional or family'', of the person in relation to the purpose of the assignment entrusted to him.
+
+A link of interest is not necessarily a ''conflict of interest''. A conflict arises when the individual has to manage conflicting ties, one of which may corrupt his motivation to respect his professional independence. The "publicity" that is given to the links enables a third party (listener at a conference, reader of a scientific article) to form his or her own opinion with full knowledge of the facts.
+
+
+Alongside these financial ties, other ties can, "even unconsciously", alienate a doctor's scientific independence: membership of an institution, a network, a learned society, personal convictions. This makes it more difficult to identify potential conflicts. Peer review is essential.
+
+
+It is difficult to avoid the situation where the "experts" in a field are free from financial or other links of interest, as their expertise is not built up by chance.
+
+<In conclusion, it is essential to make a broad and honest declaration of any links of interest.

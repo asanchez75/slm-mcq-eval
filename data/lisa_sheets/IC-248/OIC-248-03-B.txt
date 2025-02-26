@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-248-03-B
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention through nutrition in adults and children
+|Rank=B
+|Title=Knowing how to assess physical activity levels
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=3}}
+The level of physical inactivity is assessed by the average time (in minutes or hours) spent awake, sitting or lying down on a daily basis.
+
+'''Tools for measuring physical activity.'''
+{| class="wikitable"
+!'''Method'''
+!'''Parameters measured'''
+|-
+|Indirect calorimetry
+
+
+(method considered as the reference)
+|Measurement of respiratory gas exchange (O<sub>2</sub> consumed and CO<sub>2</sub> produced) under different conditions:
+
+o At rest: calculation of basic energy expenditure
+
+o During a stress test: measurement of maximum oxygen consumption (VO<sub>2</sub>max) which assesses the subject's cardiorespiratory capacity, reflecting their aptitude for endurance sports and their physical condition.
+
+o During exercise: used to assess energy expenditure during exercise.
+|-
+|Questionnaires/Carnets
+|AP (type, intensity, duration, frequency)
+
+Energy expenditure linked to PA (calculated according to declaration)
+|-
+| colspan="2" |'''Motion sensors''''
+|-
+|Pedometer
+|Number of steps, distance covered.
+
+A method for becoming aware of your PA level and achieving a goal
+|-
+|Accelerometer
+|Activity and intensity in the form of acceleration expressed in strokes/min (counts).
+
+Evaluates the energy expenditure associated with activity.
+|-
+|GPS devices
+|Evaluates distance and speed of movement based on the topography of the terrain.
+
+Evaluates energy expenditure linked to physical activity
+Does not work indoors
+|-
+| colspan="2" |'''Physiological markers''''
+|-
+|Heart rate
+|Activity and intensity in beats per minute
+|-
+| colspan="2" |'''Factors associated with physical activity'''
+|-
+|Visual analogue scales
+|Adapted to different parameters such as exertional dyspnoea, pain, motivation, etc...<br />.
+|}

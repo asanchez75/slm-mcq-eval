@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-355-12-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Knowing the urgent diagnoses of low digestive haemorrhage: acute intestinal intussusception (low), Meckel's diverticulum, etc.
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=12}}
+'''In adults'''
+
+All the causes described in point 355 A4 should be known and treated urgently if the haemorrhage is unstable and/or in the event of deglobulation.

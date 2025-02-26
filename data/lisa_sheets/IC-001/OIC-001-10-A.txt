@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-001-10-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the notion of therapeutic alliance
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+The alliance with the patient, also known as the therapeutic alliance, is the result of putting the CPA into practice during successive consultations. Over time, the entire relationship becomes therapeutic, enabling the patient to play a genuine role in his or her own health. The doctor's stance is one of facilitation, encouraging patients to reflect on new information in order to bring about change.

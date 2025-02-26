@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-285-01-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Chronic diarrhoea in children: knowledge of the main diagnostic hypotheses, relevant complementary examinations.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+Definition = diarrhoea > 3 weeks
+
+'''<u>Functional causes</u>''''
+
+Most common causes of chronic diarrhoea
+
+* irritable bowel or "trotter's diarrhoea", 6 months-3 years, requires no further examination, recovers with change in diet (limit fermentable sugar)
+* irritable bowel in older children and adolescents = same presentation as in adults
+
+'''<u>Organic causes</u>''''
+
+Different causes depending on age
+
+For infants and young children
+
+* in infants: allergy to cow's milk proteins = delayed allergy (non-IgE mediated)
+** onset after the introduction of cow's milk (exceptional in breast-fed infants)
+** sometimes accompanied by other signs of delayed allergy such as eczema
+** diagnosis: avoidance reintroduction, no assessment
+** treatment = avoidance diet for several months
+* celiac disease
+** clinical: weight loss or stagnation, bloating, abdominal pain, signs of malnutrition (amyotrophy), impact on development
+** diagnosis :
+*** anti-transglutaminase IgA (subject to gluten consumption) + total IgA
+*** intestinal biopsy
+** treatment: avoidance
+* cystic fibrosis (specific genetic diseases)
+* parasitic causes: giardiasis
+
+For older children and adolescents
+
+* Inflammatory bowel disease (IBD)
+* celiac disease
+* secondary lactose intolerance (> 5 years)

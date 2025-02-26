@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-155-05-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the indications for mycological sampling of the skin and appendages
+|Description=Laboratory sampling for dermatophytes
+|Rubric=Additional tests
+|Contributors=
+|Order=5}}
+
+{| class="wikitable"
+|+
+|
+|'''Dermatophytes''''
+|'''Yeasts'''
+|-
+|'''Indications for mycological sampling'''
+|Essential before any topical or systemic treatment for nail and scalp infections.
+|No systematic sampling
+
+Pick up in front of :
+
+- clinical atypia, diagnostic doubt or frequent alternative diagnosis (peronyxis)
+
+- chronic, recurrent lesions
+
+- resistance to appropriate and well-observed treatment
+|}

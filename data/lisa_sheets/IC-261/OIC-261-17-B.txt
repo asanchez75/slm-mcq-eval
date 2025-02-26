@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-261-17-B
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=B
+|Title=Knowing the paraclinical elements leading to the suspicion of acute post-infectious glomerulonephritis (GNA)
+|Description=Know how to request a urine sediment, proteinuria and renal function. Investigate for bacterial infection; request a complement assay; discuss the value of renal biopsy in adults.
+|Rubric=Additional tests
+|Contributors=Eric Daugas,Bruno Moulin
+|Order=17}}
+
+*
+* Acute nephritic syndrome, sometimes very poorly tolerated,
+* Complement consumption with a drop in C3 and C4,
+* Renal biopsy is performed if there is any doubt about the diagnosis. It shows diffuse endocapillary proliferation with an influx of inflammatory cells. In severe forms, extracapillary proliferation is associated. Immunofluorescence shows deposits of C3 in the mesangium and in the wall of the glomerular capillaries (so-called starry sky deposits). Sometimes "humps" (large extramembranous deposits) are seen under the light microscope.

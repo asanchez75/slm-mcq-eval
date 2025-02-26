@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-289-03-B
+|Item_parent=Parietal hernia in children and adults
+|Item_parent_short=Parietal hernia in children and adults
+|Rank=B
+|Title=Knowing the risk factors for the different types of parietal hernia
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Pablo ORTEGA DEBALLON,David MOSZKOWICZ,Olivier FARGES
+|Order=3}}
+
+* Situations that increase intra-abdominal pressure predispose to the appearance of primary hernias: heavy labour, pregnancy, chronic cough, prostatism, constipation, ascites. They also facilitate the appearance of a ventration. A hernia is said to be a "symptom" when there is an underlying contributing factor.
+
+* Also, in cases of intrinsic fragility (connective tissue diseases such as Ehler-Danlos disease) or acquired fragility (advanced age, muscle wasting) of the abdominal wall, hernias are more frequent.

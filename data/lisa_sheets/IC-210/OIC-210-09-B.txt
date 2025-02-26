@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-210-09-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Title=Know the main biological tests, including immunological tests, to be carried out in the presence of IDP.
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=9}}
+Acute IDP''' requires elimination of :
+
+*Infections: blood cultures, antigenuria, nasopharyngeal swab (influenza, RSV, SARS-CoV-2, other viruses), sputum or even BAL, particularly if the patient is immunocompromised (to check for pneumocystis, toxoplasmosis).
+*Heart failure: ECG, BNP, echocardiography and therapeutic diuretic test.
+*Pulmonary embolism: with a possible D-dimer assay.
+
+Sub-acute and chronic PID require general and then more targeted assessments depending on the clinical, radiobiological and even anatomopathological synthesis:
+
+*Blood biology: CBC/platelets, blood ionogram, creatininaemia, liver function tests, CK, BNP, CRP, plasma protein electrophoresis, possibly IgG subclass assay, serum precipitin assay, ACE, blood calcium, calciuria, NAA, RF, anti-CCP, ANCA, possibly myositis or scleroderma, complement assay, anti-DNA antibodies, HIV serology;
+*Arterial gasometry: to assess the degree of hypoxaemia, or even hypercapnia.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-044-14-B
+|Item_parent=Pelvic Pain in Women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=B
+|Title=Cite the differential diagnoses of female genital prolapse
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Henri Azaïs,Philippe Deruelle
+|Order=14}}
+
+There are few differential diagnoses (vaginal cyst, fibroma of the vesicovaginal septum). A distinction is made between genital prolapse (Prolapsus) and rectal prolapse, which is an externalization of the rectum through the anus.

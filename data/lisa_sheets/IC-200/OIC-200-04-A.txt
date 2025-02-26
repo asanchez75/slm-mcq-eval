@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-200-04-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know how to diagnose joint effusion
+|Description=Know the positive clinical features that enable the diagnosis to be made: inspection, palpation, etc.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Sometimes visible on inspection: swelling with reduction in anatomical relief (localised or diffuse oedema).
+
+Confirmed by palpation +++ example of patellar shock

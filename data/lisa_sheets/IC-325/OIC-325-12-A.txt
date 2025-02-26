@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-325-12-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Know the mechanism for reporting abuse, dependence and misuse associated with the consumption of all substances or plants with a psychoactive effect, as well as all medicines or other products containing them.
+|Description=Be able to report abuse, dependence and misuse of all substances or plants with a psychoactive effect, as well as all medicines or other products containing them (What to report, to whom, by whom, how?).
+|Rubric=Definition
+|Contributors=Caroline Victorri-Vigneau
+|Order=12}}
+
+== '''Who declares?''' ==
+Mandatory declaration: doctor, dental surgeon, midwife, pharmacist
+
+Possibility of declaring: other healthcare professional, other person
+
+== '''What?''' ==
+Cases of serious drug dependence or serious abuse of a substance, plant, medicine or other product mentioned in article R. 5132-98, excluding alcohol and tobacco.
+
+== '''To whom?''' ==
+To the Drug Dependence Assessment and Information Centre [CEIP] in the area where the case was reported.
+
+== '''How?                                                              ''' ==
+Directly to the CEIP concerned (reporting form on the ANSM website) or via the adverse health event reporting portal (<nowiki>https://signalement.social-sante.gouv.fr</nowiki>).

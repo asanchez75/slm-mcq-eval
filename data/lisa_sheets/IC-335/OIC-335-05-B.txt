@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-335-05-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Knowing the compulsory declarations for a patient who has been the victim of an animal bite
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+the action to be taken depends on whether the biting animal is known or not
+
+The greatest risk is infection, particularly by rabies (rare but fatal).
+
+'''Case 1: known animal'''
+
+check for unusual behaviour (agitation, recent aggressiveness) that could indicate contamination
+
+rabies, and seek veterinary advice.
+
+'''Case 2: unknown animal'''
+
+Always ask the nearest rabies centre what to do (risk varies from region to region)
+
+
+if the animal is known to be alive, systematic veterinary surveillance is undertaken, with an examination on D3, D7 and D15. If, after this period, the animal is still asymptomatic, there is no need to vaccinate the bitten patient against rabies. If the dog shows suspicious signs, the patient should be vaccinated.
+
+If the animal is dead or killed, its head must be sent to the Institut Pasteur in Paris for a histological diagnosis of its brain matter. The vaccination protocol is started while awaiting the results, and stopped if there is no rabies contamination.

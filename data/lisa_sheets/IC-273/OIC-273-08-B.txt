@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-273-08-B
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=B
+|Title=Radiography typical of a pharyngo-oesophageal foreign body
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[File:Foreign body oesophagus.png|vignette]]Impacted watch case in the oesophagus. Below, it can be seen that the ingested lighter passed into the stomach as it was under the diaphragmatic dome.

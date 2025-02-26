@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-155-15-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Know the most common sites of non-necrotising and necrotising bacterial dermohypodermatitis.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=15}}
+'''Non-necrotising bacterial dermohypodermatitis, in adults'''
+
+- most often located in the lower limbs (70-90% of cases)
+
+- other locations: upper limb in 5-10% of cases (breast neoplasia in women), face (5% of cases)
+
+The location in children is different, with a less clear-cut predominance of lower limb locations (skin entry point: superinfection of chickenpox lesions).
+
+
+''Necrotizing bacterial dermohypodermatitis,'' the most frequent sites are those mentioned above.

@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-120-04-B
+|Item_parent=Complications of immobility and decubitus. Prevention and management
+|Item_parent_short=Complications of immobility and decubitus. Prevention and management
+|Rank=B
+|Title=Knowing the other early complications and late complications of decubitus.
+|Description=Know about neuromyopathy, cardiovascular and respiratory maladaptation, depression and locomotor complications.
+|Rubric=Definition
+|Contributors=Antoine Guillon
+|Order=4}}
+
+<br />
+{| class="wikitable"
+|'''Early complication''''
+|'''Late complication'''
+|-
+|Respiratory (congestion, atelectasis, bronchopulmonary infection)
+
+Orthostatic hypotension
+
+Cardiac maladjustment, oedema
+
+Venous thromboembolic disease
+
+Gastro-oesophageal reflux
+
+False routes
+
+Urinary disorders (dysuria, infections)
+
+Constipation
+
+Eschar
+
+Amyotrophy
+
+Peripheral nerve compression
+
+Pain
+|Osteoporosis
+
+Capsulo-ligament and tendon retraction
+
+Muscle retractions
+
+Postural maladjustment
+
+Mental disorders
+<br />
+|}

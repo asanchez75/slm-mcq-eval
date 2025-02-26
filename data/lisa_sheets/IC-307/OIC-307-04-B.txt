@@ -1,0 +1,68 @@
+{{knowledge objective
+|Identifiant=OIC-307-04-B
+|Item_parent=Primitive and secondary bone tumours
+|Item_parent_short=Primitive and secondary bone tumours
+|Rank=B
+|Title=Knowing the main imaging examinations to be carried out when a bone tumour is suspected
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=4}}
+
+X-ray imaging is essential for diagnosis, and the technique used depends on the region being explored: standard X-rays (face and profile) may be sufficient for the limbs; CT scans are indicated for the axial skeleton (spine, pelvis, skull) and in cases where there is little evidence of fracture of the limbs. For the spine, a CT scan indicates the risk of an unstable fracture.
+
+X-ray imaging enables a detailed semiological analysis of the criteria for aggressiveness (see table) and the identification of certain tumour matrices (osteogenic or cartilaginous) which may indicate the nature of a primary lesion. Not all radiologically aggressive lesions are malignant, but the semiology enables the correct indications for biopsy to be established.
+
+Table: radiological aggressiveness criteria (X-rays or CT scan)
+{| class="wikitable"
+|
+|Slowly progressive lesion
+|Rapidly progressive lesion
+|-
+|borders
+|Net or a fortiori condensed
+|Blurred, moth-eaten appearance
+|-
+|Transitional zone (between healthy and pathological bone)
+|Nette
+|fluffy
+|-
+|Cortical
+|Normal or homogeneously thickened
+|Damaged or destroyed
+|-
+|Periosteum
+|Normal or continuous uni- or multi-lamellar periosteal appositions
+|Uni- or multi-lamellar interrupted periosteal appositions (Codman's spur), or spiculated ("grass fire" or "sun rays")
+|-
+|Adjacent soft tissue
+|abnormal
+|Invaded or repressed
+|}
+
+
+Second-line tests are as follows:
+
+MRI of the affected bone segment: in the case of radiologically aggressive lesions, this enables precise assessment of endomedullary extension and extension to adjacent soft tissues. On the spine, it is used to look for multifocal lesions (metastases, haemopathy) and to identify any extension into the spinal canal (risk of spinal cord compression).
+
+Whole-body MRI can be used to search for multifocal lesions.
+
+Nuclear medicine: SPECT-CT (or bone scintigraphy with injection of 99mT-labelled biphosphonates) and especially PET-CT (labelled with 18F-FDG) can also be used to search for multifocal lesions and are the reference examination for the extension of a primary malignant bone tumour.
+
+
+o Radiographic evidence of malignancy in the case of vertebral fracture: ''Discovery of a medullary or vertebral abnormality on medical imaging''.
+
+
+- location: fracture of a vertebra above T5
+
+- localised osteolysis of the cortex or cancellous bone
+
+- non-visualisation of the pedicle of a vertebra from the front (so-called "blind" vertebra)
+
+- asymmetric fracture of the front vertebra (outside the curvature zone of a scoliosis)
+
+- deformation (bulging) or rupture of the posterior wall
+
+- heterogeneous bone structure
+
+[https://videotheque.uness.fr/w/jnKrcFf2ReTcKXTEy7r1tZ See the ppt recorded on the imaging of item 307 by the College of Radiologists (CERF)]

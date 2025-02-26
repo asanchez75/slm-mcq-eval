@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-298-06-B
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=B
+|Title=Typical clinical images of the main forms of squamous cell carcinoma of the palatine tonsil.
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=6}}
+
+[[File:Voile2.jpg|vignette|Squamous cell carcinoma of the right amydala extending to the soft palate]]

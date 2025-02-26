@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-301-04-A
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=A
+|Title=Know the definition of polyps and polyposis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+'''Polyp''' is a macroscopic descriptive form of mucosal lesion. In the colon and rectum it may correspond to several histologies (adenoma, juvenile polyp, inflammatory pseudopolyp, hyperplastic polyp cf '''2C-301-DE-A01''').
+
+'''Polyposis:'''
+
+Familial adenomatous polyposis (FAP), which is autosomal dominant (APC gene mutation), is a rare disease (<1% of colorectal cancer cases). It is characterised by the appearance of innumerable adenomas throughout the colon and rectum from the age of 10, with a risk of cancer from adolescence onwards and a cumulative risk of over 70%. The diagnosis is usually made within the family.
+
+There are other rarer polyposis, some of which are autosomal recessive.

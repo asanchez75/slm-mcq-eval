@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-077-04-A
+|Item_parent=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Item_parent_short=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Rank=A
+|Title=Knowing how to diagnose a withdrawal syndrome and complications of withdrawal.
+|Description=Refer to item 74
+|Topic=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''4. Withdrawal syndrome and complications of withdrawal''''
+
+4.1 Benzodiazepine withdrawal syndrome (ICD-10 criteria) occurs when benzodiazepines are stopped abruptly, whether accidentally or not (forgetfulness, hospitalisation, etc.).
+
+The severity of the withdrawal syndrome is greater when :
+
+<nowiki>*</nowiki> the decrease in dosage is rapid (no plateau) ;
+
+<nowiki>*</nowiki> the dose consumed of benzodiazepines is high;
+
+<nowiki>*</nowiki> if the benzodiazepine has a short half-life;
+
+<nowiki>*</nowiki> if there is significant anxiety about stopping the substance;
+
+<nowiki>*</nowiki> if there is a co-morbid characterised depressive episode;
+
+<nowiki>*</nowiki> if there is regular overconsumption of alcohol or another psychoactive substance.
+
+'''The symptoms of benzodiazepine withdrawal are:'''
+
+<nowiki>*</nowiki> Tremors, anxiety, insomnia, headaches.
+
+<nowiki>*</nowiki> More specific signs: confusion, hallucination.
+
+<nowiki>*</nowiki> More rarely: impaired alertness, convulsions, motor incoordination, coma.
+
+'''When do the symptoms appear?'''
+
+           * may occur as soon as the dosage is reduced (not necessarily when the benzodiazepines are stopped)
+
+           * duration of withdrawal depends on the drug used;
+
+           * Symptoms may improve over several days.

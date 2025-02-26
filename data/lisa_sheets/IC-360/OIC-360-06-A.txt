@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-360-06-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Chest radiography of a complete pneumothorax
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Julien Poissy
+|Order=6}}
+
+<gallery widths="300" heights="300">
+File:Left complete pneumothorax with lung retraction.jpg
+</gallery>Example of a complete left pneumothorax with pulmonary retraction at the hilum
+
+<br /><gallery widths="300" heights="300">
+File:Pneumothorax covid ventilated.jpg
+</gallery>Left complete pneumothorax occurring in an intubated patient ventilated for severe COVID. Note the subcutaneous emphysema outlining the pectoralis major muscle fibres.

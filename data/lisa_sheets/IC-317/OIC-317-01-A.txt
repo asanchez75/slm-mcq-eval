@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-317-01-A
+|Item_parent=Myeloproliferative syndromes
+|Item_parent_short=Myeloproliferative syndromes
+|Rank=A
+|Intitle=Know the definition of myeloproliferative syndromes and their classification
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Clonal myeloid haemopathies affecting a haematopoietic stem cell resulting in global bone marrow hyperplasia and increased production of figurative blood elements :
+
+- Quantitative abnormality predominantly in the granulocytic (polymorphonuclear) lineage: chronic myeloid leukaemia
+
+- Quantitative abnormality predominantly in the erythroblastic (red blood cell) lineage: primary polycythemia or Vaquez polycythemia
+
+- Quantitative abnormality predominantly in the megakaryocytic (platelet) lineage: essential thrombocythemia, primary myelofibrosis
+
+
+The incidence is approximately 1 to 2 cases per 100,000 inhabitants per year per type of myeloproliferation (except for primary myelofibrosis, which is rarer).
+
+- The median age at diagnosis is between 50 and 70.
+
+- Slightly more frequent in men (except essential thrombocythemia)

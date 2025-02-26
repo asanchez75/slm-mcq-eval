@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-324-09-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Knowing the factors linked to therapeutic non-adherence to be taken into account when initiating a prescription
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+The WHO has defined five groups of factors that can influence compliance:
+
+- socio-economic factors of the patient and his environment ;
+
+- factors dependent on the care system and its players, particularly in terms of relationships
+
+- factors specific to the patient: level of education, beliefs, etc.
+
+- pathology-related factors
+
+- treatment-related factors, in particular potential adverse effects
+
+The social and behavioural aspects are predominant, implying that an elaborate relational approach must be implemented in any project to improve compliance, particularly through therapeutic education.

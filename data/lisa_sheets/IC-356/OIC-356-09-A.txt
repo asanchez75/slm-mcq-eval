@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-356-09-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Know the warning signs and characteristics of typical appendicular pain
+|Description=FID pain, moderate or no fever, nausea or vomiting, rare diarrhoea - sudden onset, permanent pain, no radiating pain, accentuated by movement, starting in the epigastric area then migrating to the FID.
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=9}}
+
+The warning signs are :
+
+- A pain of the IDF
+
+- Moderate or no fever
+
+- Nausea or vomiting
+
+- Rare diarrhoea
+
+The 5 signs of typical appendicular pain are :
+
+- A brutal start
+
+- Permanent pain
+
+- Without irradiation
+
+- accentuated by movements
+
+- starting in the epigastric region then migrating to the IDF
+
+Typical physical signs are :
+
+- a sabral tongue
+
+- FID defence,
+
+- pain in the IDF when the FIG is compressed (Rovsing's sign)
+
+- pain in the IDF on decompression of the FIG (Blumberg's sign)
+
+- psoitis (pain on contraction of the psoas muscle)

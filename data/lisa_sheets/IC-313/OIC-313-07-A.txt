@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-313-07-A
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=A
+|Title=Knowing the diagnostic approach
+|Description=Describe the main steps in the diagnostic process for testicular cancer.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+- <u>Interrogation</u>
+
+o search for risk factors: cryptorchidism, atrophy (<12 ml), Klinefelter, cannabis, hypo or infertility, family or personal history, cannabis use, exposure to pesticides, endocrine disruptors, organic solvents, etc.
+
+o evolution
+
+o pain
+
+- <u>Clinical examination</u>
+
+o a hard, irregular, painless mass in the scrotum at the site of the testicle
+
+o Contralateral testicle
+
+o gynaecomastia
+
+o Abdominal adenopathy or Troisier
+
+- <u>Testicular ultrasound</u> (heterogeneous hypoechoic vascularised tumour, and contralateral testis)
+
+- <u>Serum biological panel</u>
+
+o tumour markers: Alpha-fetoprotein (AFP), total human chorionic gonadotropin hormone (HCG), lactate dehydrogenase (LDH)
+
+o if gynaecomastia: estradiol, testosterone
+
+- <u>Extension balance sheet</u>
+
+Injected thoraco-abdomino-pelvic (TAP) scan. This may be performed prior to orchiectomy if there is a strong clinical, biological or ultrasound suspicion of testicular cancer.
+
+if clinical signs: brain MRI, bone scan
+
+- <u>Fertility preservation</u>
+
+Information and systematic proposal on gamete cryopreservation in CECOS before orchiectomy
+
+- <u>Histological positive diagnosis</u>.
+
+enlarged total orchiectomy via the inguinal route with 1st cord ligation
+
+- Percutaneous biopsy is formally contraindicated.
+
+In cases of diagnostic doubt, removal of the tumour by inguinal surgery with extemporaneous examination may be discussed.

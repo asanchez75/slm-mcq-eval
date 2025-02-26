@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-246-02-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Knowing the mechanisms involved in the development of gynecomastia
+|Description=None
+|Rubric=Physiopathology
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=2}}
+
+*Mammary tissue has the same development potential in both sexes.
+*In men, its lack of development is linked to the absence of stimulation by low levels of oestrogen and the antagonistic effect of testosterone.
+*Any imbalance between the circulating quantity of oestrogen (increase) and/or that of testosterone (decrease) leads to stimulation of the mammary tissue, resulting in gynaecomastia.
+*In normal men, 80% of oestrogens are produced by peripheral conversion, particularly in adipose tissue, of Delta 4-androstenedione and testosterone under the influence of aromatase.
+*More than the ratio of total hormones, it is the ratio of free testosterone to free oestradiol which determines the occurrence of gynaecomastia.
+*As both hormones (testosterone and oestradiol) circulate partly in free form and partly in a form bound to TeBG (Testosterone-estradiol Binding Globulin, or SHBG, Sex Hormone Binding Globulin), Variations in TeBG concentrations are also likely to influence the ratio of free testosterone to free oestradiol and therefore favour gynaecomastia - as TeBG has a greater affinity for testosterone than for oestradiol, its increase causes a greater decrease in free testosterone than in free oestradiol.

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-084-15-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Knowing the emergency management of acute angle closure glaucoma
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=15}}
+This is a ''therapeutic emergency'' requiring hospitalisation in ophthalmology and the insertion of a peripheral venous line.
+
+IOP is rapidly reduced by the administration of IOP-reducing eye drops, combined with systemic administration of agents that cause dehydration of the eyeball (acetazolamide [Diamox®] IV or orally, and mannitol IV). After this treatment, a myotic eye drop is used to bring the pupil back to miosis and facilitate the outflow of aqueous humour from the posterior chamber to the anterior chamber (pilocarpine eye drop).
+
+The general treatment therefore includes :
+
+- carbonic anhydrase inhibitors in the absence of contraindication (allergy to sulphonamides, severe renal insufficiency, severe hepatic insufficiency, history of renal colic): acetazolamide (Diamox®) intravenously and potassium supplementation.
+
+- hyperosmolar solutions in the absence of contraindication (20% mannitol, contraindication: cardiac insufficiency, renal insufficiency)
+
+- hypotonising eye drops
+
+- myotic eye drops (pilocarpine) instilled every hour (also in the other eye as a preventive measure).
+
+Treatment is monitored by means of blood ionograms, blood sugar levels, urea levels, creatinine levels, liver function tests and electroencephalograms (EEGs).
+
+Once the attack has been brought under control, eye tone has returned to normal and the cornea is clear, a "peripheral iridotomy" must be performed to prevent another episode. This involves making a small hole in the periphery of the iris, which short-circuits the pupillary passage of the aqueous humour. This treatment is performed using the YAG laser. It is systematically carried out on both eyes.
+
+If laser treatment fails, the iridectomy will be performed surgically.
+
+Once the iridectomy has been performed, there is no longer any contraindication to medication.

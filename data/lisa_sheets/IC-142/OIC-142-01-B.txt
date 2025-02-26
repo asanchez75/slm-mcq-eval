@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-142-01-B
+|Item_parent=Know the specific aspects of paediatric palliative care
+|Item_parent_short=Know the specific aspects of paediatric palliative care
+|Rank=B
+|Intitle=To know the specific aspects of palliative care associated with maternity, perinatal and neonatal care.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Guillaume Robert
+|Order=1}}
+
+====<u>''1-Definition/Population concerned''</u>====
+All children with a ''serious life-threatening illness'', whether life-limiting (no hope of cure, usual early death) or life-threatening (curative treatment possible but high risk of premature death).
+
+
+Six groups were identified according to life-threatening or life-limiting pathology, including :
+
+*<Group 5: Newborns with very limited life expectancy.
+
+Palliative care does not stop when the child dies. It includes support for the family's "bereavement":
+
+*<Group 6: Members of a family who have lost a child unexpectedly as a result of illness, a situation caused by an external cause or a loss during the perinatal period. E.g.: trauma, stillbirths, abortions.
+
+===='''<u>2-Integrated, non-sequential approach</u>.'''====
+''Early palliative care'' may be concomitant with any curative care. In all cases, it involves active management.               '''It is the intensity and objective of the treatments that are discussed.'''
+
+===='''<u>3-Graduated organisation</u>'''''.====
+For complex situations, frontline teams, can call on, '''regional paediatric palliative care resource teams''' (ERRSPP) or paediatric EMSP mobile palliative care teams; including at home.
+
+===='''<u>4-A triangulation child - parents - carers</u>'''====
+Integrate the coexistence of '''parental competence and vulnerability.'''
+
+====<u>'''5-Three perinatal situations:'''</u>====
+<u>Antenatal</u>
+
+*Extreme prematurity at the limits of viability :
+
+high risk of mortality and morbidity, particularly neurological.
+
+'''<22SA and/or <500g'' : foetus (antenatal) / newborn (after birth) said to be '''non-viable'''.
+
+<24SA: Most French teams do not resuscitate
+
+between 24 and 26 weeks' gestation: on a case-by-case basis
+
+The parents' wishes, informed of the severity of the prognosis, are an important factor in the decision.
+
+*incurable and particularly serious genetic diseases and malformations.
+
+After antenatal diagnosis, if the parents wish to continue the pregnancy and do not request a medical termination of pregnancy (IMG). Uncertainty is often at its greatest. There is the possibility of foetal death in utero, death at birth, or a life of unpredictable duration, very short or prolonged over months or years with a severe disability. Thinking about all these possibilities at the same time: psychological violence for the parents.
+
+Information for parents, diagnostic reassessment at birth.
+
+When in doubt, intensive management of organ failure will be initiated. In some cases, resuscitation on standby and urgent collegial consultation are necessary.
+
+
+<u>Post-natal</u>
+
+*Neonatal resuscitation situations with therapeutic impasse or diagnosis of particularly serious neurological lesions (extreme prematurity or severe perinatal anoxia). '''The question arises of a decision to ''limit or stop'' treatment''''' '''by collegial procedure''' in accordance with the ''Clayes-Leonetti law''. [Unreasonable obstinacy and limitation. Cadre législatif, fondements philosophiques et éthiques* 2C-009-PC-A06]] ; [[Procédure Collégiale 2C-009-PC-B05]]
+
+===='''<u>6-Palliative care in the delivery room:</u>'''====
+However short it may be, it is '''a time for living''' and not a time for waiting for death. Draw on the concepts developed by "developmental care". Parents will be involved according to their wishes.
+
+'''''Hetero-evaluation''''' via the '''NFCS Neonatal Face Coding System, EDIN''' scales (Newborn Pain and Discomfort Scale). [Assessment of pain in children 2C-137-DP-A02
+
+''''' Analgesic and/or sedative treatments''''' in the event of symptoms: sucrose (sugar solution), morphine, midazolam (usually oral).
+
+===='''<u>7-In the event of death:</u>'''====
+-Respect and propose '''rituals and memorial traces.'''
+
+-In the event of the death of a viable newborn (>22SA; weight >500g) who is still alive, there is a "specific neonatal death certificate" (D0-J28).
+
+In the event of a non-viable birth or death in utero after 14 weeks' gestation, the foetus has no legal status, but "registration in the family record book and a funeral" are possible if the parents so wish.

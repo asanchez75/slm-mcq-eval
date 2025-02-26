@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-360-01-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Know the definition of pneumothorax
+|Description=None
+|Rubric=Definition
+|Contributors=Julien Poissy
+|Order=1}}
+
+- Gas effusion in the pleural cavity
+
+- May lead to partial or complete pulmonary collapse depending on the size of the effusion
+
+- And haemodynamic failure if the heart chambers are affected. This is known as gaseous tamponade.

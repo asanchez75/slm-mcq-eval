@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-233-12-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Knowing the medical treatment of AI
+|Description=Beta-blocker in Marfan's disease
+|Topic=Management
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=12}}
+
+*Medical treatment is indicated in cases of AI with no indication for surgery.
+*Treatment is based on :
+Hygienic and dietary rules: low salt diet'' **''Pharmacological treatment'': low salt diet''
+**Pharmacological treatment'' :
+***IEC/ARA 2, +/- diuretics
+***In case of Marfan (or dilatation of the ascending aorta): beta-blockers or ARB 2 (Losartan) to slow down the dilatation of the aorta.
+**Prevention of infective endocarditis: oral hygiene/6 months, follow-up.
+**'''Family screening''' if Marfan's disease or bicuspidia<ins> (first-degree relatives)</ins> **'''Monitoring''' of aortic dilatation in aorta
+**'''Monitoring''': clinical, ECG and ETT:
+***6 months-1 year in moderate to severe asymptomatic IA.
+***Every year if Aorta >40mm
+***Every 2 years if minimal IA

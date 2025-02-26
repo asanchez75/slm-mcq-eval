@@ -1,0 +1,81 @@
+{{knowledge objective
+|Identifiant=OIC-350-07-A
+|Item_parent=Large acute red leg
+|Item_parent_short=Big acute red leg
+|Rank=A
+|Title=Know the diagnostic algorithm
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+When faced with a complaint of acute reddening of the skin, the clinic is fundamental in making the diagnosis of erysipelas, ruling out a diagnosis of necrotising dermo-hypodermatitis and considering other possible diagnoses.
+
+The interview will focus on :
+
+1- History :
+
+a.     Date and mode of onset (sudden, insidious) ;
+
+b.      Prodromal symptoms, particularly infectious: chills, fever ;
+
+c.      Progression, specifying the effect of any treatments;
+
+d.     Location (uni- or bilateral) ;
+
+e.      Functional signs (pain, pruritus) ;
+
+2- Antecedents that may be contributing factors
+
+a.     General: immunodepression, frailty, co-morbidities (obesity)
+
+b.     Local: vascular, rheumatological and dermatological
+
+c.      History of large red leg
+
+d.     Medication: antibiotics / steroidal or non-steroidal anti-inflammatories / topical treatments, etc.
+
+3- Significant exposure factors (trauma, wounds, stings, bites, swimming, etc.)
+
+
+The physical examination will focus on :
+
+1- Identifying the primary lesion
+
+a.     Uni- or bilateral location ;
+
+b.     Erythemato-oedematous plaque'' often tense and painful on palpation, poorly defined;
+
+c.     Presence of other associated lesions: vesicles (eczema), bullae, necrosis, loss of substance, crepitation ;
+
+d.     '''Mark the limits of the lesion'' with a felt-tip pen to monitor its development
+
+2- Look for an entry point
+
+'''Intertrigo interorteil''', scratching lesions, ulcers, traumatic wounds, bites or stings;
+
+3- Look for signs of severity (= necrotising fasciitis)
+
+a.     Local: hypoesthesia or intense spontaneous pain
+
+b.     General: fever, chills, signs of severe sepsis, shock.
+
+4- Look for signs of aetiological orientation :
+
+a.     Chronic venous insufficiency lesions: oedema, varicose veins, lipodermatosclerosis ;
+
+b.     Peripheral pedal and posterior tibial pulses (AOMI) ;
+
+c.      Diabetic neuropathy, lymphangitis with adenopathy
+
+
+'''Diagnosis of the situation:'''
+
+Diagnosis of infectious dermo-hypodermatitis :
+
+1- If the patient has a high-risk background: hospitalisation is required for monitoring and intravenous treatment.
+
+2- If the patient presents general signs of poor tolerance, hospitalisation is necessary for intravenous treatment, or even intensive care.
+
+3- If the patient presents signs of necrotising dermo-hypodermatitis, hospitalisation is required for intensive care, intravenous treatment and emergency surgery.
+
+4- If there are no signs of seriousness, the patient is treated as an outpatient.

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-095-11-A
+|Item_parent=Radiculalgia and canal syndrome
+|Item_parent_short=Radiculalgia and ductal syndrome
+|Rank=A
+|Intitle=Indication and prioritisation of requests for complementary examinations for ductal syndrome
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Dr Rabih ABOUKAIS (Lille University Hospital),Dr Marc BARONCINI (Lille University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=11}}
+
+*The positive diagnosis of ductal syndrome is primarily clinical.
+**Electro-neuro-myogram (ENMG):
+***In case of doubt with peripheral neurogenic involvement of another origin (e.g. radicular) and essential preoperatively.
+***Always bilateral and comparative (right/left)
+***Measures conduction velocity and amplitude of nerve impulses (comparison with known normative values)
+***Detects focal conduction block at the site of compression
+***Allows the severity of the damage to be determined:
+****Discreet = myelin damage (slowing of conduction velocities)
+****Severe = axonal repercussions (loss of amplitude) <br /> **Other complementary examinations only if necessary
+**Other complementary examinations only if a secondary form is suspected, e.g. in the context of carpal tunnel syndrome:
+***Imaging: X-rays to look for nerve compression and ultrasound by some teams to compare the size of the nerve with the contralateral one.
+***if endocrine cause, e.g. hypothyroidism, acromegaly, etc.
+**

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-198-02-A
+|Item_parent=Microcrystalline arthropathies
+|Item_parent_short=Microcrystalline arthropathies
+|Rank=A
+|Title=Knowing the threshold value for hyperuricemia
+|Description=360 µmol/l or 60 mg/l
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The solubility threshold for urates is 360 µmol/l or 60 mg/l.
+
+<br />

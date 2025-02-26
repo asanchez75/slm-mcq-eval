@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-190-02-A
+|Item_parent=Prolonged fever
+|Item_parent_short=Prolonged fever
+|Rank=A
+|Title=Know the three main categories of causes of prolonged fever
+|Description=Infectious/Neoplastic/Non-infectious inflammatory
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+
+
+* infectious causes
+* neoplastic causes
+* Non-infectious inflammatory causes.

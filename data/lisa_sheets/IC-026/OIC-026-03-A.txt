@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-026-03-A
+|Item_parent=Acute abdominal pain in a pregnant woman
+|Item_parent_short=Acute abdominal pain in pregnant women
+|Rank=A
+|Title=Knowing how to manage emergency situations related to acute abdominal pain in pregnant women.
+|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.
+|Rubric=Identification of the emergency
+|Contributors=Louis Marcellin,Philippe Deruelle
+|Order=3}}
+
+Orientation of the clinical examination in the context of acute abdominal pain in pregnant women
+
+==Search for life-threatening etiologies (extreme emergency)==
+- Obstetrical context
+
+- Medical and obstetrical history
+
+- Characteristics of pain
+
+- Haemodynamic tolerance: BP and pulse
+
+- Palpation of the uterus: uterine contracture
+
+- [[Genital bleeding during pregnancy SD-111|Metrorrhagia]]
+
+- Detection of foetal heart sounds<br />.
+
+==Extreme emergency eliminated==
+- Taking the temperature
+
+- Abdominal palpation, lumbar fossa
+
+- Vaginal touch / speculum: cervical changes / [[Loss of fluid in a preterm pregnant woman SD-109|loss of fluid]]
+
+- [[Urine dipstick analysis SD-182|Urine dipstick]]

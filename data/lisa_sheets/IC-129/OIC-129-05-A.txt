@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-129-05-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Knowing the main risk factors for osteoarthritis
+|Description=Knowing the main risk factors for osteoarthritis (obesity, age, trauma) and the clinical phenotypes
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+The main risk factors for so-called primary osteoarthritis (occurring in a healthy joint) are (for all joints) :
+
+- Age
+
+- Overweight, obesity and metabolic syndrome
+
+- Heredity / family history
+
+- The female sex
+
+- Excessive mechanical stress (repeated microtrauma, history of meniscus or ligament damage, genu varum, genu valgum, etc.)
+
+<br />

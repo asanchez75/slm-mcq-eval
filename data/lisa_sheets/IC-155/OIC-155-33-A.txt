@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-155-33-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Knowing the clinical signs of folliculitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=33}}
+'''Pustule''' (liquid lesion with purulent fluid), '''centred by a hair''', with perifollicular erythema ;
+
+Variable numbers of lesions on hairy areas (thighs, perineum, arms, chest and back)

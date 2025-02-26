@@ -1,0 +1,103 @@
+{{knowledge objective
+|Identifiant=OIC-248-09-B
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention through nutrition in adults and children
+|Rank=B
+|Title=Knowing the consumption guidelines for the various categories of foodstuffs beneficial to health
+|Description=None
+|Rubric=Etiologies
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=9}}
+
+
+=='''Recommendations for the general adult population, excluding specific recommendations on medical advice.'''(HSCP 2017)==
+{| class="wikitable"
+!'''Food groups'''
+!'''Main reference points'''
+|-
+|Fruit and vegetables
+|At least five portions a day (5 portions of 80 g to 100 g)
+
+- increase consumption, whatever the initial level
+
+- no more than one glass of no-sugar-added fruit juice a day, giving preference to freshly squeezed fruit
+|-
+|Nuts
+
+(no added salt)
+|A small handful a day
+
+- contains many allergens
+|-
+|Pulses
+
+(dried vegetables)
+|At least twice a week
+|-
+|Wholegrain products that are not highly refined
+
+(bread, pasta, rice and unsweetened cereals)
+|To be eaten every day
+|-
+|Dairy products
+<br />
+|Two dairy products a day
+
+- Recommended portions: 150 ml milk, 125 g yoghurt, 30 g cheese
+|-
+|Meat and poultry
+|Limit consumption of red meat to 500 g per week and give preference to poultry.
+|-
+|Cold meats
+|Limit consumption to 150g per week and give preference to white ham within this group.
+|-
+|Fish
+|Twice a week
+
+- including an oily fish
+
+- Vary the species and places of supply
+|-
+|Added fats
+|Avoid excessive consumption.
+
+Favour rapeseed and walnut oils and olive oil without increasing the usual amount of added fat.
+|-
+|Sweetened products
+|To be limited, including sweetened drinks (including fruit juices)
+|-
+|Salt and salty foods
+|Limit and use iodised salt
+|-
+|Drinks
+|The only recommended drink is water
+
+- Limit consumption of sugary drinks
+
+- Sweetened drinks maintain the taste for sugar
+|-
+|Alcohol
+|Reduce
+
+- No more than 10 glasses of alcohol a week, no more than 2 glasses a day.
+
+- Keep it for days without consumption.
+
+- To be deleted during pregnancy
+|}
+
+=='''In the elderly, the guidelines apply, but:'''==
+-maintain the quantities of food usually consumed to cover requirements
+
+-The portion of dairy products can be increased to 3, as this is an interesting source of protein for this age group.
+
+==''For children:'''==
+0-36 months: exclusive milk-based nutrition (ideally breast-feeding, otherwise specific formula for the infant's age)
+
+between 4 and 6 months: in addition, introduction of dietary diversification, with no restrictions on choice of food; no use of plant-based drinks before the age of one; respect for sleep patterns; no exposure to screens before the age of 3, particularly during mealtimes.
+
+-Between 3 and 17 years of age: food group recommendations are the same as for adults, except for the recommended amount of dairy products (3 per day). It is important to adapt the portion sizes: reduced by half compared with adults for the youngest children, they gradually reach the adult portion size at around 11-12 years of age, and temporarily exceed it for teenagers.
+
+Foods to avoid: coffee, tea, soft drinks and other caffeinated beverages, sweeteners and sweetened drinks.
+
+Foods to limit: soya-based products (exposure to phytoestrogens) and chocolate (exposure to nickel).

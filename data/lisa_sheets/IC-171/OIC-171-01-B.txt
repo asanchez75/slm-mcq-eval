@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-171-01-B
+|Item_parent=Scabies and Pediculosis
+|Item_parent_short=Scabies and Pediculosis
+|Rank=B
+|Title=Knowing the main modes of transmission and epidemiology of scabies and pediculosis
+|Description=None
+|Rubric=Epidemiology
+|Contributors=M. P. BRENIER-PINCHART,G. ROBERT,M. HENTZIEN,A. ANGOULVANT,F. BOTTEREL,M. L. DARDE,F. ROBERT-GANGNEUX
+|Order=1}}
+
+Scabies and pediculosis of the scalp, body and pubis (pthirosis) are strictly human, contagious and cosmopolitan ectoparasites.                                   
+{| class="wikitable sortable"
+|
+|Methods of transmission
+|'''Epidemiology''''
+|-
+|'''Scabies'''
+|Direct human infection +++
+
+Direct skin contact (skin-to-skin, intimate contact)
+
+Indirect (clothing and bedding): rare for common scabies, frequent for profuse or hyperkeratotic scabies.
+|Frequent
+
+Endemic in many parts of the world
+
+Family and communities
+
+Epidemics in healthcare establishments
+|-
+|Scalp Pediculosis
+|Direct human infection +++
+
+Indirect possible (hats, brushes, etc.)
+|School-age children and their families
+<br />School-age children and their families
+|-
+|Pediculosis of the body
+|Indirect human contact (clothing, bedding)
+|Deprivation
+
+Homeless, refugee camps
+
+Vector of infectious pathogens (trench fever caused by Bartonella quintana, typhus caused by Rickettsia prowazekii cosmopolitan relapsing fever due to Borrelia recurrentis)
+|-
+|'''Pediculosis pubis (pthirosis)''''
+|Direct human-to-human: sexual contact, close contact, etc.
+
+Indirect possible (linen...)
+|Sexually transmitted infections (STI)
+|}
+<br />

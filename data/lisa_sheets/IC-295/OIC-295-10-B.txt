@@ -1,0 +1,85 @@
+{{knowledge objective
+|Identifiant=OIC-295-10-B
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=B
+|Title=Knowing the phases of the care pathway
+|Description=Define and situate the different stages of care (in and out of hospital) within the patient's care trajectory.
+|Heading=Management
+|Contributors=Laurent Zelek
+|Order=10}}
+
+There are several phases in the care pathway:
+
+- Onset of the disease (see [[Understanding the announcement system 2C-295-PC-A01]])
+
+- Treatment (see [[Supportive care: understanding the main principles of management of the main complications of cancer treatments 2C-295-PC-B01]])
+
+- Post-treatment monitoring
+
+
+In some cases, the disease begins at a stage that is inaccessible to curative treatment. In addition, metastatic relapses are, except in special cases, not curable. (see [[Understanding the main clinical situations for symptomatic management 2C-295-PC-A03]]).
+
+The patient's care pathway involves a number of people:
+
+- Hospitals: organ specialists, surgeons, radiotherapists, oncologists, other specialists (pain, palliative care), nurse announcers, psychologists, dieticians, etc.
+
+- Out-of-hospital: GPs, nurses, hospitalisation at home, palliative care networks
+
+At every stage of the disease, we need to be able to ensure coordination between these different players.
+
+The personalised post-cancer programme (PPAC) issued at the end of treatment illustrates the importance of multidisciplinary care. This document is given to patients and sent to their GPs. It summarises the elements of the "cancer follow-up consultation", but also assesses other issues such as the "impact of cancer on job retention".
+
+The minimum content of a cMYP must include:
+
+- a medical monitoring section: information on the disease and treatments received, their complications and monitoring procedures (diagnosis of recurrences)
+
+- quality of life and access to supportive care: psychological support, beauty care, dietary advice, adapted physical activity, smoking cessation and other addictions,
+
+- social support: job retention, entitlements (including recognition of the status of disabled worker (RQTH), and recognition of occupational diseases +++)
+
+
+After a cancer has been treated, the question arises of ''prevention and screening for second cancers''. Tertiary prevention consists, after diagnosis, in acting on complications and the risk of recurrence:
+
+- screen for second cancers and target their risk factors (smoking cessation +++),
+
+- prevent iatrogenic complications,
+
+- act on cardiovascular risk factors: encourage physical activity and reduce excess weight,
+
+- identify patients who require specialist oncogenetic consultation (either because certain family cases were not initially recognised, or because they arose after the diagnosis in the index patient).
+
+
+Palliative situations occur during the course of advanced cancers. The aim of palliative care is to improve quality of life, whatever the stage of the disease, even outside end-of-life situations. In the metastatic phase, outside the last few months of life, the distinction between supportive care and palliative care is sometimes blurred. Palliative care is active care delivered as part of a global approach. Its primary objective is to relieve physical pain, but it also takes account of other symptoms, including psychological, social and spiritual suffering.
+
+Support for patients at the end of life complies with the laws of 22/4/2005 (Leonetti law) and 2/2/2016 (Leonetti-Clays law) relating to patients' rights and the end of life. It requires respect for the wishes of the person at the end of life (ideally through advance directives). It prohibits deliberately inducing death, but requires doctors to refrain from continuing or implementing "unreasonable" treatment. When the decision is made to discontinue such treatment, care continues and the priority for the medical and nursing team is to alleviate the patient's suffering ([[Knowing how to identify a palliative care situation 2C-139-DP-A01]]).
+
+The decision to provide palliative care for a patient raises the question of stopping active treatments, particularly when they are toxic (chemotherapy). It is accepted that active treatment (particularly chemotherapy) should not be offered to patients whose life expectancy is less than 3 months. In this situation, chemotherapy is not only ineffective but may also impair quality of life and reduce survival.
+
+See : [Knowledge of the steps involved in the treatment of patients and their families in the situations most frequently encountered in the palliative or terminal phase of serious, chronic or lethal illnesses 2C-139-PC-B02]] ; [2C-139-PC-B04]; [[Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines]]
+
+The other criteria for discontinuing active treatments are :
+
+- the patient's wishes
+
+- deterioration in general condition (in practice, if the WHO/ECOG PS is 3 or 4)
+
+- the risk/benefit ratio appears unfavourable to continuing active treatment
+
+- ineffectiveness of previous treatments
+
+Palliative care is essentially multidisciplinary and is aimed at both patients and their families, and can be provided : ([[Knowing how palliative care is organised in France 2C-139-DE-A02]]; [[Knowing how to call on resource teams or referral services 2C-139-PC-A01]]; [[Knowing the steps involved in supporting patients and their families in the situations most frequently encountered in the palliative or terminal phase of serious, chronic or lethal illnesses 2C-139-PC-B03]]). )
+
+- In the same care networks as those that received the patient at the start of his or her journey: for example, intervention by a Mobile Support and Palliative Care Team in an oncology department.
+
+- In a specialist setting: palliative care unit (USP); there are also identified beds in clinical departments, outside the USP.
+
+- At home, when the people around you and the material conditions allow it.
+
+In the case of palliative care at home, the GP plays a very important role. He or she can call on the support of several structures:
+
+- Palliative care networks or support teams to keep palliative care patients at home
+
+- Hospitalisation at home (HAD)
+
+<br />

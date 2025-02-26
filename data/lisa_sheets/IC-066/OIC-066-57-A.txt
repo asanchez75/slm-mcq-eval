@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-57-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Intitle=Know the definition of stress and adaptation to stress, adjustment disorders
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=57}}
+
+Adjustment disorder (AD) is characterised by symptoms in response to life events to which the subject is unable to adapt. No symptoms sufficient to establish a diagnosis of mood disorder, anxiety disorder or stress disorder. The subject's reaction is excessive compared to the usual reaction to similar stressors.

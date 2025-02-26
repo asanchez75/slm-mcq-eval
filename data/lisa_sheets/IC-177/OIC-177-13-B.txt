@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-177-13-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescribing and monitoring anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contra-indications, spectrum, side-effects and interactions) the main molecules belonging to the lincosamides.
+|Description=Clindamycin
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=13}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Lincosamides'''
+
+'''(molecule: clindamycin)''''
+|DHBN, serious infections caused by anaerobic bacteria (intra-abdominal infections), prophylaxis of infective endocarditis (if allergic to amoxicillin), osteoarticular infections caused by sensitive staphylococci.
+|Hypersensitivity to the active substance, to other macrolides or to one of the excipients.
+|Streptococci, staphylococci, certain anaerobes, T. gondii
+|Diarrhoea, abdominal pain, pseudomembranous colitis.
+
+
+Interactions: muscle relaxants, antivitamins K, inhibitors of CYP3A4, CYP3A5
+|}
+DHBN, non-necrotising bacterial dermohypodermatitis

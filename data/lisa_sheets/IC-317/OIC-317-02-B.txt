@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-317-02-B
+|Item_parent=Myeloproliferative syndromes
+|Item_parent_short=Myeloproliferative syndromes
+|Rank=B
+|Title=Know the pathophysiological basis of chronic myeloid leukemia (CML), primary polycythemia (PP) and essential thrombocythemia (ET).
+|Description=None
+|Topic=Physiopathology
+|Contributors=
+|Order=2}}
+Myeloproliferative syndromes are associated with acquired genetic abnormalities (translocations, mutations) that occur in a haematopoietic stem cell and are responsible for the predominant proliferation of a given myeloid lineage.
+
+- Chronic myeloid leukaemia (CML): translocation t(9;22) (der22 is also known as the Philadelphia chromosome) and BCR-ABL1 transcript
+
+- Polyglobulia Vaquez (PV): JAK2 mutations
+
+- Essential thrombocythemia (ET): mutations in JAK2, CALR or MPL

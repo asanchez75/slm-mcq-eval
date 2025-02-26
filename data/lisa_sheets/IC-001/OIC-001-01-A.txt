@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-001-01-A
+|Item_parent=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or damage associated with care. Patient education. Personalising medical care.
+|Item_parent_short=The doctor-patient relationship in the context of a one-to-one discussion or within a team, which may be multi-professional. Communicating with patients and their families. Announcing a serious or fatal illness or a life-threatening ...
+|Rank=A
+|Title=Knowing the definition of the doctor-patient relationship
+|Description=The main characteristics of the doctor-patient relationship. E.g. Paternalistic model/centred on self-determination/patient as partner in care.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+A meeting between a carer and a cared-for person:
+
+- Previously, the approach was mainly paternalistic and biomedical.
+
+- From now on, this will be a global approach, i.e. bio-medical-psychosocial, centred on the patient and not their disease(s).
+
+The patient is a partner in the care process: his or her experience and experiences are integrated into the caregiver's approach.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-156-13-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Identifying spondylodiscitis = diagnostic emergency
+|Description=Urgent hospital management
+|Rubric=Identifying the emergency
+|Contributors=Dr Florent Valour
+|Order=13}}
+In the event of suspected disco-vertebral infection, urgent hospital management for diagnostic confirmation (imaging), microbiological documentation and treatment to limit the risk of complications.
+
+No probabilistic antibiotic therapy before sampling to avoid delaying therapeutic treatment
+
+<br />

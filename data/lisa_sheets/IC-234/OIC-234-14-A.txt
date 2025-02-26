@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-234-14-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Knowing the radiographic semiology in PAO of haemodynamic origin
+|Description=Gravito-dependent alveolar interstitial syndrome: confluent flaky opacities of the bases, horizontal subpleural Kerley lines, vascular redistribution from the bases to the apices, pleural effusions after a few hours; alveolar opacities of perihilar distribution when the onset is sudden.
+|Rubric=Additional examinations
+|Contributors=Olivier Huttin
+|Order=14}}
+Radiological signs of pulmonary stasis with '''Alveolo-interstitial syndrome:''''
+
+- vascular redistribution from the base to the apices;
+
+- interstitial oedema with Kerley's B lines, blurred appearance of the large hilar vessels and reticulo-nodular images predominating at the bases;
+
+- alveolar oedema resulting in flaky opacities with blurred outlines extending from the hilum towards the periphery (a so-called "butterfly wing" appearance). These opacities are usually bilateral, but misleading unilateral forms may be seen (directional mitral insufficiency).
+
+- uni- or bi-lateral pleural effusions.
+
+- cardiothoracic ratio (CTR) may be increased (> 0.5 cardiomegaly)

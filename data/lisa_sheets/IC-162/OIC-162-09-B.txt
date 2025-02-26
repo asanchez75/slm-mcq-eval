@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-162-09-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Knowing the causes of urethritis in men
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+'''Venereal origin:''''
+
+- Gonorrhoea: acute anterior ++, purulent urethral discharge (90% of cases)
+
+- Chlamydia: urethritis (less noisy than for gonococcus) +/- urethral discharge present (< 50% of cases), usually clear, moderate and intermittent.
+
+- Trichomoniasis: subacute urethritis, morning discharge, +/- pruritus
+
+
+'''Non-venereal origin:'''
+
+- Infectious: Escherichia, Klebsiella, Enterobacter, Serratia, etc.
+
+- Traumatic
+
+- Radique
+
+- Tumoral
+
+- Irritating

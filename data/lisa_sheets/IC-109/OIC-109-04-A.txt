@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-109-04-A
+|Item_parent=Gait and balance disorders
+|Item_parent_short=Gait and balance disorders
+|Rank=A
+|Title=Know the clinical features of the main aetiologies of gait disorders
+|Description=Painful origin, ataxic (cerebellar, vestibular, proprioceptive), central origin (mowing) and peripheral origin (stepping), deficit, small steps
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The various aetiologies are suggested on the basis of the history and examination. The general examination is supplemented by a neurological examination to look for motor deficits, pyramidal, parkinsonian or cerebellar syndromes, deep sensitivity disorders and cognitive disorders.
+
+'''The different origins of gait disorders:'''
+
+- Walking disorders of ''painful'' origin. The disorder observed is due to a pain avoidance mechanism (avoidance lameness) or a real limitation (intermittent claudication). Some pains are very specific (exertional myalgia and the second wind phenomenon of McArdle's disease: muscular glycogenosis).
+
+- Walking disorders of ''ataxic'' origin. (i) cerebellar ataxia (static, kinetic and locomotor cerebellar syndrome), (ii) vestibular ataxia (vertigo, gait deviation, manoeuvres), (iii) proprioceptive ataxia (heeling gait, hypopallesthesia).
+
+- Gait disorders of "central" origin. Central motor deficit disorder: sequelae of a cerebrovascular accident, essentially in the form of hemiparesis or hemiplegia resulting in mowing, with the homolateral upper limb fixed in adduction.
+
+- Peripheral gait disorders. Motor disorders of peripheral origin: often predominant in the extremities (steppage), or muscular disorders whose deficient topography is often symmetrical and predominantly proximal, giving a waddling gait.
+
+- Gait disorder with ''gait with small steps''. Parkinsonian syndrome (small-step walking, paroxysmal festination freezing), lacunar walking or chronic hydrocephalus in adults.
+
+'''Other walking disorders:''''
+
+- Dystonia: (hyperkinetic motor disorder) pseudo-stepping, painful varus equinus foot, "heron" gait with elevation of the knees, pseudo-spastic gait, "dromedary gait" with alternative flexion-extension of the trunk. A dopa-sensitivity test should be performed.
+
+- Chorea: (hyperkinetic motor disorder)
+
+- Tremor (primary orthostatic tremor)
+
+- Trendelenburg lameness (instability with lowering of the pelvis on the non-weight-bearing side)

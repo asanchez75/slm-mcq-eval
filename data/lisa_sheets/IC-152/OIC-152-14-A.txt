@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-152-14-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing when probabilistic antibiotic therapy is indicated in cases of suspected IE
+|Description=None
+|Topic=Identification of the emergency
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=14}}
+In the event of suspected IE, probabilistic antibiotic therapy must be started without delay, just after blood cultures have been taken, in the event of :
+
+*''''[[Sepsis and septic shock in children and adults|Sepsis]], [[Sepsis and septic shock in children and adults|septic shock]]'''''
+*'''Strong clinical suspicion of IE''' (all the more so if the images are suggestive of IE on echocardiography)
+*'''Indication for urgent valve surgery'''
+
+In other situations, antibiotic therapy should be delayed to optimise the microbiological diagnosis (3 pairs of blood cultures over 24 hours, to be repeated if negative). Antibiotic therapy should be started as soon as blood cultures are known to be positive and adapted to the results''.

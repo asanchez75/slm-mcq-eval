@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-351-01-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Knowing the definition of agitation
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+[[Agitation SD-114|Agitation]] and acute delirium are two distinct syndromes which may or may not coexist. A non-psychiatric cause must be systematically sought.
+
+A state of emotional tension and unproductive physical and mental hyperactivity.
+
+The activity is usually unproductive and stereotyped. It takes the form of behaviours such as walking, inability to stay still, hand rubbing, pulling on clothes, inability to sit still.

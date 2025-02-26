@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-309-07-B
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=B
+|Title=Knowing the imaging examinations and their indications in the investigation of a primary lung tumour
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=7}}
+Chest X-ray:
+
+*is often carried out in the initial phase, but does not play a part in the diagnosis or extension work-up;
+*even if normal, does not rule out the diagnosis.
+
+
+Computed tomography (CT), with injection of contrast medium, is essential for diagnosis and provides the essential extension assessment, enabling the stage of the disease to be evaluated according to the TNM classification.
+
+*Thoracic CT scan (essential):
+**characterises the primary lesion, appearing as a nodule or mass (defined by a size greater than 3cm), with a spiculated or lobulated outline
+**guides histological sampling,
+**assesses local and regional spread (T), including mediastinal lymph node involvement (N), as evidenced by adenomegaly (enlarged lymph nodes).
+*Abdominal CT scan:
+**assesses distant extension (M): looks for sub-diaphragmatic metastases, in particular liver or adrenal metastases.
+*Cerebral CT scan:
+**evaluates the distant extension (M): search for cerebral metastases (systematic), if the performance of a cerebral MRI, which is more efficient, is not possible.
+
+
+'''Magnetic resonance imaging (MRI):'''
+
+*Thoracic MRI is rarely performed. It is only indicated for locoregional assessment of tumours of the apex.
+*Cerebral MRI is performed as part of an extension assessment, in preference to cerebral CT.
+*Other types of MRI may be indicated to characterise certain metastatic sites (bone; liver).
+
+Positron emission tomography (PET):
+
+*Metabolic imaging is useful for the initial diagnosis and to guide management.
+*Most often 18-FDG
+*Is indicated for :
+**refine the extension work-up and in particular mediastinal staging in patients with localised or locally advanced disease who are candidates for local or loco-regional treatment. It has a high negative predictive value for extension assessment.
+**To characterise a pulmonary nodule greater than or equal to 8 mm in size.

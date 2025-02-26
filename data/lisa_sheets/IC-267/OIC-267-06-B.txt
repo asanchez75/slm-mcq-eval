@@ -1,0 +1,99 @@
+{{knowledge objective
+|Identifiant=OIC-267-06-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=B
+|Title=Searching for toxic causes and tubular acidosis
+|Description=Know how to identify the non-adapted nature of the renal response (notion of urinary anion gap)
+|Rubric=Diagnostic approach
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=6}}
+
+
+*
+
+1- Toxic causes: Intoxication with an exogenous acid: acidosis and BP secondary to accumulation of the exogenous acid:
+
+*salicylate, ethylene glycol, methanol...
+
+2- Renal tubular acidosis :
+
+*The main form of renal elimination of excess protons (H<sup>+</sup> ) is the ammonium ion (NH4<sup>+</sup>). In hyperchloremic acidosis, the renal response can be assessed by calculating the urinary anion gap (UAG), which is the (inverse) reflection of ammoniuria. UAT = U<sub>Na</sub> + U<sub>K</sub> - U<sub>Cl</sub>.
+*Physiologically, TAU is discreetly positive.
+*In hyperchloremic metabolic acidosis:
+**'''If the TAU is < 0''' (= high urinary NH4<sup>+</sup> concentration = adapted renal response) --> extrarenal origin of the acidosis (digestive loss of bicarbonate).
+**'''If the TAU is > 0''' (= low urinary NH4<sup>+</sup> concentration = inadequate renal response) --> renal tubular origin (Table 3).
+
+
+Table 3: Mechanisms and main causes of renal tubular acidosis:
+{| class="wikitable"
+| rowspan="2" |
+| colspan="3" | Renal tubular acidosis
+|-
+|Proximal
+
+(type 2)
+|Distal
+
+(type 1)
+|Hyperkalaemic Distal
+
+(type 4)
+|-
+|Mechanism
+|Loss of HCO3 due to lack of proximal tubular reabsorption
+|Distal acidification defect
+|Failure to produce NH4+.
+
+and hypoaldosteronism
+|-
+|Associated signs
+|- Fanconi syndrome Osteomalacia
+|- Nephrocalcinosis
+
+- Osteomalacia lithiasis,
+|Signs of mineralocorticoid insufficiency
+|-
+|Causes
+|- Myeloma
+
+- Cystinosis
+
+- Medicines : Acetazolamide, ifosfamide, Tenofovir
+|<Sjögren, Lupus</nowiki>- Sjögren, Lupus</nowiki>.
+
+- hypercalciuria
+
+- Sickle cell disease
+
+- Amphotericin B
+|- Obstructive uropathy
+
+- Hyporeninism and hypoaldosteronism (diabetes)
+
+- IEC/ARA2, AINS
+
+- Spironolactone, Amiloride
+
+- Adrenal insufficiency
+
+- Anticalcineurins
+
+- Trimethoprim
+|-
+|Kalemia
+|Low,
+|Low
+|High
+|-
+|pH u
+|Variable,
+
+< 5.5 steady state
+|> 5,5
+|
+
+
+< 5,5
+
+|}

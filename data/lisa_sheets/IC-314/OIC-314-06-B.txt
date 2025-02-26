@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-314-06-B
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder Smoke
+|Rank=B
+|Title=Knowing the indication for trans-urethral resection of the bladder
+|Description=Positive anatomopathological diagnosis; Prognosis distinguishes between TVNIM and TVIM; Therapeutics in the case of TVNIM
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Roumiguié
+|Order=6}}
+
+*If a tumour is suspected by endoscopy (cystoscopy in consultation) or radiology (ultrasound, CT scan, MRI), an endo-vesical resection is essential. Its benefits are :
+**Diagnostic: enables a definite anatomopathological diagnosis of the lesions and a description of their histological type.
+**Prognostic, as it allows the stage and grade of the tumour to be determined. These 2 elements are essential for :
+
+*Define the risk of recurrence or progression in the case of NMVT (number, size, multifocality, associated CIS).
+
+*Distinguish between NIMV and IMVV according to invasion of the detrusor muscle,
+**Therapy: in the case of TVNIM, resection is the only surgical treatment necessary, which may be combined with endo-vesical instillations depending on the risk of progression.

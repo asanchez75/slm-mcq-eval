@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-103-10-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Knowing the main causes of vertigo with associated otological disorders
+|Description=Infectious labyrinthitis, rock fracture, labyrinthine fistula
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+
+
+
+
+
+'''I Acute infectious labyrinthitis (complication of a (bacterial) middle ear infection)'''
+
+- Decreased hearing/deafness SD-140|Deafness]] and [[Vertigo and dizziness SD-064|vertigo]] violent rotations lasting several days.
+
+- Initially, it is a serous labyrinthitis and superinfection is only secondary.
+
+- The benign serous form produces an irritant syndrome that is usually reversible with treatment.
+
+- The purulent form destroys the labyrinth, resulting in total deafness and unilateral vestibular areflexia.
+
+- The starting point may be acute otitis media or cholesteatoma.
+
+
+II Rock trauma
+
+*Translabyrinthine rock fracture
+
+- [[Hearing loss/deafness SD-140|Cophosis]] (=total deafness) and [[Vertigo and dizziness SD-064|vertigo]] severe and disabling.
+
+- Central compensation restores the balance within a few weeks.
+
+- The fracture is visible on CT scans of the rock and passes through the otic capsule in a line which is generally axial, opening up the membranous labyrinth anteriorly and/or posteriorly.
+
+<br />
+
+*Damage to the inner ear (cochleovestibular) without fracture - this is labyrinthine "concussion".
+
+
+III Labyrinthine fistulas
+
+*''Post-traumatic'''
+
+- Context: cranial trauma, barotraumatic accident (diving, aeroplane)
+
+- Progressive destruction of the inner ear by leakage of perilymphatic fluid into the middle ear through rupture of the round window or fracture of the stapes plate.
+
+- Symptoms: dizziness triggered by blowing the nose, noise, sneezing or exertion, with progressive hearing loss (sensorineural deafness).
+
+*Labyrinthine fistula complicating cholesteatoma
+
+- Lysis of the labyrinthine bone by the cholesteatoma matrix
+
+- Cochleovestibular symptoms identical to post-traumatic causes but cholesteatoma on otoscopy
+
+
+ATTENTION , this list includes rather acute vertigo associated with auditory signs (sensorineural deafness), but Menière's disease or vestibular schwannoma, for example, should not be omitted in this context.

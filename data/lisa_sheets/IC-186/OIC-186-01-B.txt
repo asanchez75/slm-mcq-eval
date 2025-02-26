@@ -1,0 +1,97 @@
+{{knowledge objective
+|Identifiant=OIC-186-01-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the pathophysiology of hypersensitivity reactions: allergic and non-allergic
+|Description=added today
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+'''Hypersensitivity''' = Objective, '''reproducible''' symptoms, initiated by '''exposure''' to a defined stimulus, at '''doses tolerated by healthy individuals'''.
+
+A distinction is made between "allergic" hypersensitivities (proven immunological mechanism, specific to an allergen) and "non-allergic" hypersensitivities (pharmacological or via direct stimulation of innate immunity).
+
+'''Atopy'''
+
+Hereditary predisposition to produce IgE antibodies in response to low doses of allergens. Atopy is considered to be a risk factor for developing immediate hypersensitivity symptoms (asthma, rhinoconjunctivitis, allergic urticaria).
+
+'''Awareness'''
+
+A term classically used in atopy, defined by the presence of an immediate positive skin test to an allergen, without prejudging any clinical reaction of an allergic type. This means that the body has developed specific IgE antibodies to the allergen in question. It is possible to be sensitised without being allergic (no clinical symptoms). In this case, tolerance mechanisms (IgG4, allergen-specific regulatory T cells, etc.) are more effective than IgE and protect against clinical allergy. The skin test will be positive, IgE will be present in the patient, but there will be no allergy symptoms.
+
+'''Allergy'''
+
+Hypersensitivity reaction caused by adaptive immunity mechanisms: mediated by antibodies (most often IgE) or cells (most often T lymphocytes). Allergy corresponds to an imbalance between sensitisation and tolerance mechanisms (IgG4, allergen-specific regulatory T cells, etc.).
+
+
+'''Allergens''' = antigens that induce the synthesis of antibodies (most often IgE) or specific T lymphocytes, inducing an allergic hypersensitivity reaction.
+
+- Pneumallergens = airborne allergens that are inhaled (nose, bronchi) or come into contact with the eyes.
+
+- Trophallergens = food allergens involved in food allergy reactions.
+
+- Occupational allergens = allergens present in the workplace
+
+'''Physiopathology of allergic hypersensitivities'''
+
+All allergic hypersensitivities have two phases
+
+- A phase of ''central sensitisation'' ''in the lymph nodes'', ''asymptomatic'', which leads to the synthesis of antibodies (IgE in HS type 1, IgM or IgG in HS type 2 or 3, see below), or the differentiation of allergen-specific T lymphocytes (HS type 4, see below).
+
+- Peripheral revelation phase (in tissues), symptomatic (clinical allergy) following new contact with the allergen.
+
+
+There are 4 types of hypersensitivity
+
+
+1- Type 1 hypersensitivity or immediate hypersensitivity
+
+o This is the most common allergic reaction (allergic asthma, allergic rhinitis, allergic conjunctivitis, allergic urticaria, anaphylactic shock, etc.).
+
+o It is mediated by IgE antibodies specific to one (or more) allergens,
+
+o After their synthesis (sensitisation phase), IgE antibodies bind to receptors on the surface of mast cells and basophilic cells.
+
+o During the revelatory phase, the allergen binds to IgE on the surface of mast cells and basophils, activating these cells and leading to :
+
+§ the ''release of stored mediators'' (histamine, proteases);
+
+§ the ''synthesis of other inflammatory mediators'' from arachidonic acid (prostaglandins, leukotrienes);
+
+§ the production of ''chemokines'', which attract and activate inflammatory cells, and ''cytokines'', which perpetuate inflammation.
+
+o These different mediators induce bronchoconstriction, vasodilatation, extravasation and oedema, which are responsible for the clinical symptoms of anaphylaxis (''cf Lisa item 338'').
+
+o Activation of the inflammatory cascade leads to the recruitment of immune cells to the site of the allergic reaction, which explains why symptoms persist even though allergenic contact has ceased.
+
+
+Diagram of IgE-mediated type 1 hypersensitivity
+
+
+Type 2 hypersensitivity or antibody-related cytotoxicity reaction
+
+- Reaction mediated mainly by IgG or IgM, which recognise an "allergen carried by a target cell".
+
+- Activation of complement or immune cells (NK cells, phagocytes, etc.) then leads to destruction of the target cell.
+
+- Example: drug-induced cytopenia
+
+
+Type 3 hypersensitivity or immune complex reaction
+
+- Reaction mediated mainly by IgG or IgM, which recognise a "circulating allergen".
+
+- Formation of circulating soluble antigen/antibody complexes (or "circulating immune complexes")
+
+- which are deposited in tissues and cause lesions due to inflammation by activating the complement system and recruiting inflammatory cells;
+
+- Example: hypersensitivity pneumonia, serum sickness.
+
+
+Type 4 hypersensitivity or delayed hypersensitivity
+
+- Reaction mediated by allergen-specific memory T lymphocytes (LT), differentiated during the sensitisation phase. The memory T cells recognise the allergen during the revelation phase (new contact with the allergen) and trigger either a cytotoxic reaction (TCD8+ lymphocytes) or a granulomatous reaction (TCD4+ lymphocytes) 48-72 hours after this new contact.
+
+
+For example: CD8+ LT in contact eczema (cf Lisa item 187) and certain drug allergies, LTCD4+ in hypersensitivity pneumonia, epithelioid and giganto-cellular granuloma (e.g. pulmonary granulomatosis).

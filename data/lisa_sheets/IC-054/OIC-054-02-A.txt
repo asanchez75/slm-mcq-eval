@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-054-02-A
+|Item_parent=Dairy in children
+|Item_parent_short=Dairy in children
+|Rank=A
+|Intitle=Febrile lameness: always look for osteoarticular infection
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+A febrile lameness in children is an osteoarticular infection until proven otherwise; it is a diagnostic and therapeutic emergency requiring a hospital assessment ([[Osteoarticular infections (OAI) in children and adults]]) ([[Lameness SD-068]])

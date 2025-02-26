@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-264-01-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing the criteria defining chronic kidney disease (CKD)
+|Description=CKD and death
+|Rubric=Definition
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=1}}
+
+Chronic kidney disease (CKD) is defined by the existence of "chronic kidney disease for more than 3 months":
+
+*chronic renal failure (CRF) defined as an irreversible reduction in glomerular filtration rate (GFR) to less than 60 ml/min/1.73 m2,
+*and/or a morphological or histological renal abnormality with clinical repercussions,
+*and/or a plasma or urine abnormality secondary to renal damage.
+
+<br />

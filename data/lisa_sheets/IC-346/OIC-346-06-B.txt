@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-346-06-B
+|Item_parent=Convulsions in infants and children
+|Item_parent_short=Convulsions in infants and children
+|Rank=B
+|Title=Knowing the indications for puncture and cerebral imaging during a convulsive seizure in infants and young children
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+
+o If fever: lumbar puncture if clinical signs of meningitis
+
+o If there are no clinical signs of meningitis, no further tests are required in the case of a simple febrile attack (except to determine the cause of the fever).
+
+o In the absence of clinical signs of meningitis but in the presence of a complex febrile seizure: lumbar puncture if focal seizure, prolonged seizure, repeated seizures, post-critical deficit or age under 6 months - between 6 and 12 months, lumbar puncture not systematic but monitoring for a few hours for reassessment (4 hours).
+
+o A CT scan is not systematically performed before lumbar puncture - unlike in adults
+
+o In the absence of fever: brain scan if any sign of localisation on neurological examination, disturbance of consciousness persisting for more than 30 minutes after the seizure, age < 1 year.
+
+o Biological check-up (ionogram, blood calcium, blood sugar, platelet count) depending on the context (dehydration, diabetes, etc.) and before the age of 6 months.
+
+o EEG if non-febrile seizure or unusual seizure in a patient with known epilepsy

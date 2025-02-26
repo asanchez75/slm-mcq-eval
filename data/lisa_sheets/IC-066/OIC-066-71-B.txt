@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-71-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Know the prevalence
+|Description=Knowing the overall prevalence in the adult population
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=71}}
+
+Approximately 10% of the general population (each disorder between 1-3%). Borderline personality disorder is the most common (6%). Around 50% of sufferers combine at least two personality disorders.

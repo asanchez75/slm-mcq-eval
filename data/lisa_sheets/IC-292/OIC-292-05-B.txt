@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-292-05-B
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=B
+|Title=Knowing the main clinical manifestations of paraneoplastic syndromes
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Paraneoplastic syndromes are systemic manifestations, remote from the cancer, which are not due to the presence of metastases but are linked to the tumour's production of a pseudohormonal substance or to autoimmune phenomena related to an anti-tumour immune response.
+
+Venous thromboembolic disease is the most common paraneoplastic syndrome. It is particularly common in pancreatic and gastric cancers.
+
+Paraneoplastic syndromes linked to autoimmunity are rare, but can be the first signs of any type of cancer and sometimes even precede detection. Paraneoplastic syndromes linked to a secretory syndrome (abnormal production of a substance by the tumour) are frequently associated with small-cell bronchial cancers and other neuroendocrine tumours (insulinoma, gastrinoma, carcinoid tumours of the small intestine, medullary thyroid carcinoma, pheochromocytoma, etc.).
+
+Paraneoplastic syndromes generally subside with cancer treatment.

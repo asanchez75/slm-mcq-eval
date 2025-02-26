@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-252-07-B
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=B
+|Title=Knowing the specific negative and protective consequences of obesity SA
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''Obesity as a risk factor for:'''
+
+* diabetes
+* hypertension
+* dyslipidaemia
+* cardiovascular pathologies,
+* respiratory insufficiency
+* venous insufficiency
+* osteoarthritis, joint complications
+* All-cause or cardiovascular mortality, particularly for morbid obesity.
+* Loss of functional independence due to an imbalance between excess weight and insufficient muscle mass. Activities of daily living (getting up from a chair, climbing stairs) become difficult to perform, with a risk of becoming dependent.
+
+'''Obesity as a protective factor:'''
+
+- Reduced risk of fracture (mechanical protective role of adipose tissue in the event of trauma, stimulating pressure of weight on bone structure, and hormonal effect linked to the transformation of adrenal androgens into oestrogens by adipose tissue);
+
+- Increased survival in chronic cachectising diseases such as renal, respiratory and cardiac insufficiency or inflammatory rheumatism when associated with high energy reserves.

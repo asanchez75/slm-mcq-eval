@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-277-07-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Know the three main differential diagnoses to be considered in the presence of hepatic colic
+|Description=Acute coronary syndrome - Peptic ulcer disease - Acute pancreatitis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+The 3 main differential diagnoses to consider in the presence of hepatic colic are :
+
+- acute coronary syndrome
+
+- a peptic ulcer
+
+- acute pancreatitis

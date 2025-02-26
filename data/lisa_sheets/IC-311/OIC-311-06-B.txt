@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-311-06-B
+|Item_parent=Adult kidney tumours
+|Item_parent_short=Adult kidney tumours
+|Rank=B
+|Title=Echography of a simple renal cyst
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Idir Ouzaid
+|Order=6}}
+
+* Ultrasound image (see figure) showing a simple renal cyst
+** Homogeneous content
+** Anechogenic
+** Without membrane, septa or bud
+** Thin-walled
+** Ultrasound posterior enhancement
+
+[[File:Renal ultrasound showing simple kidney cyst.jpg|neant|vignette|902x902px]]
+<br />

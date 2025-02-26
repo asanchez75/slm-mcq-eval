@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-105-13-A
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=A
+|Title=Knowing the vital urgency of managing status epilepticus
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=13}}
+
+
+====Generalised tonic-clonic status epilepticus is a life-threatening emergency====
+Diagnosis of status epilepticus is clinical. Urgent" therapeutic measures are required as soon as the clinical diagnosis is made, because if it lasts more than 30 minutes, the vital and functional prognosis is at risk (arterial hypotension and collapse, hypoxia, rhabdomyolysis, multivisceral damage, cerebral ischaemia).

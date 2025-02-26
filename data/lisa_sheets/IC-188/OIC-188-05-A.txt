@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-188-05-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Know how to make a positive diagnosis and differential diagnosis of asthma in children and adults.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+The diagnosis of asthma is based on the existence of characteristic symptoms '''AND''' the demonstration of reversible airway obstruction (and therefore requires the [[Reasoned request/prescription and choice of a diagnostic test SD-178|performing EFR]]) :
+
+*Symptoms (respiratory discomfort, dyspnoea, wheezing, cough, chest tightness) usually occurring at the same time, of variable intensity over time (paroxysmal), triggered by infections, exercise or exposure to allergens and which may worsen at night (deep night).
+*EFR: obstructive ventilatory disorder (FEV1/FVC < 0.7) reversible with bronchodilators (gain of more than 200mL and >12% compared with the initial FEV1 value). A search for bronchial hyper-responsiveness may be discussed if spirometry is normal (with metacholine).

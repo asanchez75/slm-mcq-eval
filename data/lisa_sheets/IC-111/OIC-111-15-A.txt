@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-111-15-A
+|Item_parent=Facial dermatoses: acne, rosacea, seborrhoeic dermatitis
+|Item_parent_short=Facial dermatoses: acne, rosacea, seborrheic dermatitis
+|Rank=A
+|Title=Knowing how to recognise seborrhoeic dermatitis
+|Description=Photograph of seborrhoeic dermatitis
+|Rubric=Multimedia content
+|Contributors=
+|Order=15}}
+
+[[File:DS.jpg|thumb]]

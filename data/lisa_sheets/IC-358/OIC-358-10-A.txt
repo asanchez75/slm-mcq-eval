@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-358-10-A
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=A
+|Title=Know how to identify the two main causes of acute pancreatitis
+|Description=Know how to identify a lithiasis or alcohol-related cause in acute pancreatitis.
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+The 2 main causes of AP are alcohol (alcoholic AP - 40% of cases) and biliary lithiasis (biliary AP - 40% of cases).
+
+'''Table. Clinical and biological evidence in favour of acute alcoholic or biliary pancreatitis.'''
+{| class="wikitable"
+|
+|'''Alcoholic AP''''
+|Biliary AP
+|-
+|'''Terrain'''
+|Chronic ethylism (often > 10 years)
+
+Alcohol consumption > 100 g pure ethanol equivalent per day
+
+History of other illnesses linked to chronic alcoholism
+|Overweight and weight variations (typically after bariatric surgery)
+
+Pregnancy in progress
+
+Multiparity
+
+Family history of gallstones
+|-
+|Sex
+|Male
+|Female
+|-
+|Age
+|40-50 years old
+|> 50 years old
+|-
+|'''Clinical'''
+|Clinical signs of chronic alcoholism
+|Clinical signs of acute angiocholitis
+|-
+|'''Biology'''
+|Pre-existing abnormalities
+
+Macrocytosis
+
+Elevation of γ-GT
+|Transient abnormalities
+
+Early elevation ("peak") of transaminases (ALAT > 3N)
+
+Elevation of cholestasis markers: PAL, γ-GT, bilirubin
+|}

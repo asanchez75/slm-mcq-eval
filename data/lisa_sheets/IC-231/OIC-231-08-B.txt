@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-231-08-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Item_parent_short=Electrocardiogram: indications and interpretation
+|Description=Identify incomplete LBBB or LBBB, conduction aberrations
+|Topic=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=8}}
+
+
+* Incomplete blocks have patterns similar to complete blocks but the QRS duration is between 100 and 120 ms,
+* A distinction is made between ''organic'' and ''functional'' branch blocks (conduction aberration for fast frequencies).

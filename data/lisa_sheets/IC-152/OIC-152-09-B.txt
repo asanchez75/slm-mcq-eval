@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-152-09-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing the approach to microbiological diagnosis when initial blood cultures are negative
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=9}}
+Blood cultures are considered negative if no pathogen is identified after 5 days of culture.
+
+In less than 5 to 10% of cases, blood cultures fail to identify an infectious agent (''[[Know the microbiological diagnostic approach when initial blood cultures are negative 2C-152-DP-B01|endocarditis with negative blood cultures]]''). This may include:
+
+*Slow-growing or difficult-to-grow bacteria
+**slow-growing bacteria of the HACEK group
+**deficientstreptococci (e.g. ''Granulicatella spp., Abiotropria spp'' ....)
+**intracellular and non-cultivable bacteria (''e.g. Coxiella burnetii, Bartonella spp.''...)
+*Yeast (Candida being the most frequently implicated)
+
+*Prior antibiotic therapy
+*''Non-infectious endocarditis'' (rare endocarditis of lupus or neoplastic origin)
+
+The first cause to consider is "prior administration of antibiotics", which should be investigated on questioning. In this case, the antibiotic treatment can be interrupted for 72 hours, before repeating the blood cultures (3 samples taken over 24 hours), in the absence of criteria requiring urgent treatment (sepsis or septic shock, vegetation, abscess or valve destruction).
+
+In the absence of prior antibiotic therapy, the blood culture negative AE work-up will be completed by :
+
+*Prolonged incubation blood cultures
+*Serology ''[[Zoonoses|Coxiella burnetti]]'''
+*Serology for ''[[Zoonoses|Bartonella spp]]''.
+*Specialist advice must be sought and the microbiology laboratory must be informed of the suspected IE in order to discuss further investigations (PCR, serology, specific blood culture techniques, etc.).
+
+Finally, if surgery is indicated before the pathogen has been identified, bacteriological analysis of the valve, vegetations or any material removed may help to support the diagnosis.

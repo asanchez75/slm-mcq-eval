@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-189-08-B
+|Item_parent=Immune deficiency
+|Item_parent_short=Immune deficiency
+|Rank=B
+|Title=Knowing the principles of the management of a variable common immune deficiency
+|Description=Systematic and rapid treatment of infectious episodes with antibiotics
+|Rubric=Management
+|Contributors=Capucine Picard,Olivier Lambotte,Jean-Daniel Lelièvre
+|Order=8}}
+
+'''1.suspension with polyvalent Ig (IV or SC)'''
+
+*Systematic for hereditary agammaglobulinemias (Bruton's disease, complete Ig deficiency)
+*Based on clinical signs for CVID and IgG subclass deficiencies.
+
+2. systematic antibiotic treatment of infectious episodes
+
+early and prolonged antibiotic therapy, taking into account the patient's history of infection, active against the germs most commonly implicated (Pneumococcus, Haemophilus influenzae, etc.)
+
+3. vaccinations
+
+*Contraindicated: Live attenuated vaccines: MMR, BCG, oral polio, yellow fever, VZV.
+*Partially effective when useful, vaccinations should be carried out at a distance from Ig infusions, in practice 10 days after an infusion in the case of substitution every 3 weeks.
+
+'''4. Regular monitoring'': occurrence of ADRD, lymphoma, granulomatosis, etc.

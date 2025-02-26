@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-307-01-A
+|Item_parent=Primitive and secondary bone tumours
+|Item_parent_short=Primitive and secondary bone tumours
+|Rank=A
+|Title=Knowing the different families of bone tumours (primary, secondary)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Bone tumours can be :
+
+o ''Primitive'', benign or malignant
+
+o '''Secondary''': bone metastases from a distant tumour
+
+<br />

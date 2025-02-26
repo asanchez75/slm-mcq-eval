@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-075-12-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Title=Know the order of magnitude of the number of tobacco-related cancer cases
+|Description=Know
+|Rubric=Epidemiology
+|Contributors=
+|Order=12}}
+
+
+* There is no threshold below which smoking represents no risk.
+* The duration of intoxication is the most important risk factor
+** doubling the dose => cancer risk x 2
+** doubling the duration => cancer risk x 23)
+* Tobacco responsible for 25% of all cancers
+** 80% of deaths from bronchopulmonary cancers are linked to smoking
+* Other tobacco-related cancers
+** upper aerodigestive tract
+** pancreas
+** kidney
+** bladder
+* Passive smoking increases the relative risk of bronchopulmonary cancer by 26%.

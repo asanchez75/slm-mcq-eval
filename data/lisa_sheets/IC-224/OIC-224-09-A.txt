@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-224-09-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Knowing the main causes of secondary hypertension
+|Description=Parenchymal nephropathies, renal-vascular hypertension, endocrine causes, coarctation of the aorta, etc.
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+The majority of cases of hypertension in adults are of essential origin, but it can sometimes be secondary to :
+
+- substance abuse (alcohol, drugs such as cocaine, etc.)
+
+- medication (corticoids, anti-inflammatories, oestrogens, nasal vasoconstrictors, etc.)
+
+- chronic renal failure in adults and children|nephropathy
+
+- vascular nephropathy|renal artery stenosis]], whether atheromatous or due to fibromuscular dysplasia
+
+- an endocrine cause: primary hyperaldosteronism, pheochromocytoma, pituitary adenoma, Cushing's syndrome

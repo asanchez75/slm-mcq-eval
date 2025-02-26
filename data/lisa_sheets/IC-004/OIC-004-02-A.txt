@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-004-02-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Defining Safety
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+
+
+This is '''' the absence of unnecessary or potential harm to a patient associated with healthcare'''' (WHO 2009).
+
+
+Patient safety is based on :
+
+- profit maximization
+
+- and ''risk minimisation''.
+
+related to any intervention in the field of their health.
+
+<br />
+<br />

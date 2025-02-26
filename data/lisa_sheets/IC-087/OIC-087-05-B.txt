@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-087-05-B
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=B
+|Title=Knowing the indications for imaging examinations for epistaxis
+|Description=Scanner with craniofacial angioscan if cerebrospinal rhinorrhoea or pulsatile exophthalmos (due to trauma); MRI if tumour suspected.
+|Rubric=Additional examinations
+|Contributors=Geoffrey Mortuaire
+|Order=5}}
+Without delaying treatment of the epistaxis,
+
+'''In the event of craniofacial trauma:'''
+
+*Radiography of the nasal bones if the nose is fractured in a forensic context.
+*Maxillofacial computed tomography with injection of contrast medium in the case of more serious facial trauma to look for fractures of the middle third of the face and base of the skull and/or specific vascular damage (carotid fissure, ethmoidal artery wound, carotid-cavernous fistula).
+
+'''In case of suspected naso-sinus tumour:''''
+
+*Maxillofacial and cervical CT scans with injection of contrast medium,
+*naso-sinusal MRI with gadolinium injection.

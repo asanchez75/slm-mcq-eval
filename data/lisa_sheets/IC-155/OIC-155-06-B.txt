@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-155-06-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Title=Knowing the principles of treating mycoses (including candidiasis)
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=6}}
+
+{| class="wikitable"
+|+
+|
+|'''Dermatophytes''''
+|'''Yeasts'''
+|-
+|'''General principles'''
+| colspan="2" |*Treatment of contributing factors
+
+<nowiki>*</nowiki>Simultaneous treatment of all households
+<br />
+|-
+|'''Therapeutic principles'''
+|*Topical treatments for limited skin damage lasting 2 to 3 weeks.
+
+<nowiki>*</nowiki>systemic antifungal treatments for diffuse involvement, ringworm (combined with local treatment), nail involvement for a period of several weeks to several months
+|*Topical treatments for limited skin involvement, lasting from 1 to 3 weeks.
+
+<nowiki>*</nowiki>systemic antifungal treatments for diffuse involvement, nail involvement, involvement not accessible to topical treatment (oesophageal mucosa) immunocompromised patients, for a period of a few weeks to several months
+|}

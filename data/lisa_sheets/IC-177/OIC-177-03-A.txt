@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-177-03-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Know the different classes of antibiotics
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=3}}
+
+A- Inhibitors of bacterial wall synthesis
+
+* beta-lactams: penicillins, carbapenems, monobactams, cephalosporins
+* fosfomycin
+* glycopeptides
+* lipopeptides
+* polymyxins
+
+B- Protein synthesis inhibitors
+
+* aminoglycosides
+* macrolides and related agents
+* phenicols
+* cyclines
+* oxazolidinones
+* fusidic acid
+
+C- Inhibitors of nucleic acid synthesis
+
+* quinolones
+* mupirocin
+* rifamycin
+
+D- Folic acid synthesis inhibitors
+
+* sulphonamides
+
+E- Other mechanisms
+
+* nitrofurans
+* nitro-imidazoles
+* antituberculosis drugs

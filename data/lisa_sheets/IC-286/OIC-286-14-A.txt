@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-286-14-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Item_parent_short=Acute liquid diarrhoea and dehydration in infants, children and adults: planning management
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=14}}
+Management depends on the degree of dehydration:
+
+- if mild dehydration: oral rehydration solution and return home
+
+- if moderate dehydration :
+
+* hospitalisation if haemodynamic or neurological problems, incoercible vomiting, inability to drink ORS
+* ORS ad libitum in small quantities
+* clinical reassessment
+
+- if severe dehydration (weight loss > 10%):
+
+* hospitalisation
+* vascular filling if shock
+* continuous IV or enteral rehydration
+* ORS relay as soon as possible
+
+ORS has a precise composition of electrolytes and sugars with an appropriate osmolarity. It should be taken early, as much as required and in small quantities.
+
+The effectiveness of drug treatments (racecadotril, etc) is very limited.
+
+Renutrition must be early and diversified

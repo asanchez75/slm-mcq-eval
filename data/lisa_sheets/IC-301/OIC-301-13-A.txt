@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-301-13-A
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=A
+|Title=Knowing first-line complementary examinations
+|Description=Describe the tests used to confirm a positive diagnosis and to assess the extent of the disease.
+|Rubric= Complementary examinations
+|Contributors=
+|Order=13}}
+Except in the case of emergency surgery or when the patient is extremely frail, colonoscopy under general anaesthetic should be performed systematically to provide a definitive anatomopathological diagnosis (biopsies) and to look for synchronous lesions (adenomas or synchronous 2nd<sup> cancer).
+
+
+Biological work-up required before anaesthesia (blood count, platelets, PT, aPTT, creatininaemia) and to assess general condition (albuminemia).
+
+Measurement of the Carcino Embryonic Antigen (CEA) marker is not a diagnostic test, but may be useful for patient follow-up.
+
+
+- For cancers of the colon (recto-sigmoid hinge to cecum): ''Thoraco-abdomino-pelvic scan with injection''.
+
+- For cancers of the rectum (accessible to RT): ''Pelvic MRI and thoraco-abdomino-pelvic CT scan with injection''

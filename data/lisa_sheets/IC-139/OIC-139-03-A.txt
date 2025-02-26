@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-139-03-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (1). Main clinical guidelines. How teams are organised, in health establishments and outpatient clinics.
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (1). Main clinical guidelines. Ways in which teams are organised, in healthcare establishments and in ...
+|Rank=A
+|Title=Savoir identifier une situation relevant de soins palliatifs
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Amandine Mathé
+|Order=3}}
+
+
+*A palliative situation is defined by the "non-curable (incurable) nature of a chronic, serious, progressive and potentially lethal illness".
+
+*Palliative care can be considered at an early stage in a palliative situation, to improve the quality of life of the patient and those close to the patient.
+
+*When identifying, caring for and monitoring a patient in a palliative situation, it is important not to confuse the terms used: although a palliative situation comes under the heading of "palliative care practices", it does not necessarily have to be managed by specialised palliative care structures.
+
+*Different phases can be identified depending on the course of the disease and the treatment objectives:
+
+~ The "curative" phase: concerns patients whose objective is to recover. The overall management of these patients is the responsibility of multidisciplinary support care.
+
+~ The <u>palliative</u> phase: begins when cure is not an achievable goal given the current state of knowledge. The overall management of these patients comes under palliative care.
+
+~ The <u>terminal</u> (or exclusively palliative) phase is characterised by the probable occurrence of progressive failure of one or more vital functions in the coming hours or days. ([[Know how to identify the clinical characteristics of the agonic phase of serious, chronic, progressive or lethal illnesses 2C-139-DP-A03|2C-139-DP-A03]])
+
+*Distinction between treatment/care/support
+
+~ Treatments ("drug therapies") ([[2C-139-PC-B02|2C-139-PC-B02]])
+
+~ Care: associated with therapies, completes the overall management of the patient (nursing care, etc.) ([[To know the stages of a care approach for the patient and his or her entourage in the situations most frequently encountered in the palliative or terminal phase of serious, chronic or lethal illnesses 2C-139-PC-B01|2C-139-PC-B01]])
+
+~ Support : a dynamic process of helping relationships involving different partners in a coherent project, centred around and serving the patient [[Know the principles of the "patient-centred approach" 2C-001-DE-A04|(2C-001-DE-A04)]; [[Know the steps in a process of supporting patients and their families in the situations most frequently encountered in the palliative or terminal phase of serious, chronic or lethal illnesses 2C-139-PC-B03|2C-139-PC-B03]]).
+
+<u>See</u>: [[Identifying, caring for and monitoring a patient in a palliative situation SD-337]]; [[Announcing the diagnosis of a serious illness to the patient and/or their family SD-327]]; [[Caring for and supporting a cancer patient at all stages of the disease including the palliative care stage by addressing technical, relational, social and ethical issues]].

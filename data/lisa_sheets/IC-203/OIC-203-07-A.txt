@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-203-07-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Know the first-line complementary examinations according to acute or chronic nature
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=7}}
+[[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]
+
+'''Acute dyspnoea:'''
+
+- A frontal chest X-ray can be used to investigate the majority of causes of acute dyspnoea (pneumothorax, pleurisy, pneumonia, OAP). A normal chest X-ray, or one with no significant abnormalities, should raise the possibility of pulmonary embolism, COPD, asthma or anaemia.
+
+- ECG: search for evidence of cardiac pathology and pulmonary embolism.
+
+- Biology: CBC, BNP or NT-proBNP, blood gas (mainly to check for signs of seriousness: profound hypoxaemia, respiratory acidosis).
+
+'''Chronic dyspnoea:''''
+
+- CBC, to rule out anaemia,
+
+- BNP or NT-proBNP in cases of suspected heart disease
+
+- ECG to check for heart disease
+
+- Chest X-ray for aetiological orientation (distension, interstitial syndrome, cardiomegaly).

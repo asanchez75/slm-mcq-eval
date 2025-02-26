@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-224-23-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the main causes of hypertension in children
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=23}}
+The prevalence of essential hypertension has increased in recent years (obesity, etc.), but hypertension in children remains mainly "secondary".
+
+Secondary causes include :
+
+- Renal and renovascular causes (most frequent)
+
+- Endocrine and tumour causes
+
+- Cardiac cause
+
+- Medicinal causes (corticosteroids)

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-169-10-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Cerebral Imaging of Toxoplasmosis
+|Description=Multiple abscesses located in the basal ganglia and subcortical, without central diffusion hypersignal
+|Rubric=Multimedia content
+|Contributors=
+|Order=10}}
+
+[[File:Cerebral toxoplasmosis.png|vignette]]
+
+
+Multiple lesions (multiple lesions are highly suggestive of toxoplasmosis in the context of immunodepression)
+
+radiological appearance (CT or MRI): typical cocardial appearance with peripheral enhancement (abscess walls). The cocoon-shaped lesion is surrounded by a halo of peri-lesional oedema (hypodense on CT / T2-Flair hypersignal on MRI).

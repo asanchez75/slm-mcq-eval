@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-267-30-B
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=B
+|Title=Understanding the mechanisms of hypernatremia
+|Description=None
+|Rubric=Physiopathology
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=30}}
+
+
+*Physiologically, the water balance is balanced, i.e. the inputs (drinking water and food, production of water by intracellular oxidation) are equivalent to the outputs (precisely regulated renal, cutaneous, respiratory and digestive). Thirst regulates input and the kidney ensures balance by regulating output to keep both intra- and extra-cellular osmolality constant.
+*Antidiuretic hormone (ADH) is a polypeptide hormone secreted by the paraventricular and supraoptic nuclei of the hypothalamus. It is transported to the posterior pituitary gland for secretion. ADH secretion is regulated by variations in plasma osmolality (around 1%) and plasma volume (between 10 and 15%).
+*ADH acts on the main cells of the collecting duct by binding to its specific V2 receptors at their basal pole. This binding leads to the expression of water channels, type 2 aquaporins, on the apical membrane. ADH thus enables the permeability of the collecting duct to water, and therefore the final urinary osmolality, to be varied finely. The second necessary condition for water reabsorption is the existence of an osmolar concentration gradient between the tubular fluid and the interstitium, a condition which is physiologically achieved by the creation of a corticopapillary gradient.
+*When ADH is not secreted or is ineffective, the sensation of thirst prevents a negative water balance. This is very important in clinical situations, as intracellular dehydration only occurs when thirst is ineffective (coma, psychiatric disorders, sedation in intensive care, elderly or overly young patients).
+*A negative water balance and hyperosmolality (hypernatremia) may therefore be observed in cases of :
+**cutaneous or respiratory extrarenal water loss;
+**abnormalities in the thirst centres (adipsia) or hypothalamic osmoreceptors.
+**renal water loss due to lack of ADH secretion or lack of renal sensitivity to ADH responsible for diabetes insipidus resulting in a polyuro-polydipsic syndrome.
+*Intracellular dehydration without hypernatremia:
+**Plasma hyperosmolality is secondary to the abnormal presence of a solute other than sodium, of low molecular weight and osmotically active. This solute is responsible for an "osmotic gap" defined as the difference between measured and calculated osmolality. This solute may be mannitol, ethylene glycol, etc.
+**When the solute diffuses freely into the cells (urea, ethanol), it is said to be osmotically inactive and will not cause any disturbance to intracellular hydration.
+
+<br />

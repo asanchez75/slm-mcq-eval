@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-339-11-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=To know the therapeutic principles and strategy since the management by the EMS of ACS ST+, non ST+, stable angina.
+|Description=Antithrombotic treatment, reperfusion strategy by angioplasty or thrombolysis, monitoring, other drugs.
+|Section=Management
+|Contributors=Mathieu Kerneis
+|Order=11}}
+
+
+* '''For ST+ ACS, 1 objective = REVASCULARISE as quickly as possible. The diagram below summarises the choices between fibrinolysis and primary angioplasty depending on the delay''''
+
+[[File:Choosing between fibrinolysis and angioplasty in ST+ ACS.png|focus|vignette|900x900px|Terms of revascularization in ST+ ACS]]
+
+** '''Care by the SAMU:'''
+*** Preparation (peripheral venous line, O2 if SpO2<90%)
+*** '''Antithrombotic treatments with 2 PLAQUETARY ANTIAGGREGANTS = ASPIRIN 250mg IV + 1 P2Y12 INHIBITOR (Prasugrel 60mg or Ticagrelor 180mg or if CI Clopidogrel 600mg)''' AND '''1 IV ANTICOAGULANT (Unfractionated Heparin 70-100IU/kg or Enoxaparin 0.5mg/kg IV)'''
+*** Analgesic treatment = ''PARACETAMOL + MORPHINE TITRATION'' if necessary
+*** RAPID TRANSFER TO A CATHETERISATION ROOM. IF TIME > 120 MINUTES BETWEEN FIRST MEDICAL CONTACT AND ANGIOPLASTY => INDICATION FOR FIBRINOLYSIS by TENECTAPLASE, IV)
+** '''In-patient management:''' CORONARY DESOBSTRUCTION BY PERCUTANEOUS ANGIOPLASTY WITH STENT PLACEMENT
+** '''During hospitalisation (minimum 3 days):''''
+*** SCOPED SURVEILLANCE IN USIC
+*** STRONG DOSE STATINE (Atorvastatin 80 mg or Rosuvastatin 20 mg)
+*** BETABLOKERS in the absence of contraindication (shock, VAD, low flow, extension to the right ventricle)
+*** ACE INHIBITORS
+*** CONTINUE DOUBLE PLAQUET ANTIAGGRESSION with aspirin 75-100mg and a P21Y12 inhibitor (Prasugrel 10mg or Ticagrelor 90 mg morning and evening) FOR ONE YEAR (THEN ASPIRIN FOR LIFE)
+*** THERAPEUTIC EDUCATION
+*** SCREENING AND TREATMENT OF CARDIOVASCULAR RISK FACTORS
+*** screening for other atherosclerotic lesions (carotid, femoral, aortic)
+*** PRESCRIPTION OF CARDIAC REHABILITATION FOLLOWING HOSPITALISATION.
+
+* '''For ACS ST-:'''
+** '''Management and treatment are identical to ACS St+ in the following cases:'''
+*** Persistent pain
+*** Cardiogenic shock
+*** High grade ventricular rhythm disorder/conduction disorder
+*** Acute heart failure refractory to treatment
+*** Persistent ST segment elevation
+** '''In all other cases, for ST- ACS, objectives = INITIATE TREATMENTS, STRATIFY RISK:'''
+*** '''Management by EMS or emergency department:'''
+**** Preparation (peripheral venous access, Scope, O2 if Sao2 < 90%)
+**** Antithrombotic treatment = '''1 PLAQUETARY ANTIAGGREGANT (ASPIRIN 250mg IV)''' AND '''1 ANTICOAGULANT ((Unfractionated Heparin 70-100IU/kg IV or Enoxaparin 0.5mg/kg IV or Fondaparinux 2.5 mg SC)'''
+*** '''Management in ICU:'''
+**** SCOPED SURVEILLANCE
+**** HIGH DOSE STATIN
+**** BETA BLOCKER
+**** ACE inhibitor if left ventricular dysfunction, diabetes or renal disease is present
+**** THERAPEUTIC EDUCATION
+**** SCREENING AND TREATMENT OF CARDIOVASCULAR RISK FACTORS
+**** SEARCH FOR OTHER ATHERATING CONDITIONS (carotid, femoral, aortic)
+*** '''CORONARY ANGIOGRAPHY AND DISCUSSION OF TREATMENT MODALITIES:'''
+**** CORONARY REVASCULARISATION BY PERCUTANEOUS ANGIOPLASTY WITH STENT PLACEMENT OR CORONARY ARTERY BYPASS GRAFTING
+**** The second antiplatelet agent is added in the catheterisation room after visualisation of the coronary arteries.
+**** DOUBLE PLATELET ANTIAGREGATION IS CONTINUED FOR 1 YEAR (THEN LIFETIME monotherapy)
+* '''At discharge for all ACS, regardless of revascularisation modalities'''
+** Double antiplatelet therapy
+** High-dose statin (Atorvastatin or Rosuvastatin)
+** Beta-blocker
+ACE inhibitor (ACS ST+, or left ventricular dysfunction, or diabetes, or renal disease) ** ACE inhibitor (ACS ST+, or left ventricular dysfunction, or diabetes, or renal disease)
+** Proton pump inhibitor
+** Education (warning sign/regimen)
+** Cardiac rehabilitation
+1 month off work for ACS ST+, 1 to 2 weeks for ACS ST- ** Regular follow-up by cardiologist.
+** Regular follow-up by cardiologist.
+** 100% reimbursement

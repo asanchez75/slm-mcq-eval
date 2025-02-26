@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-083-09-B
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=B
+|Title=Knowing how to take a conjunctival swab
+|Description=In cases of severe conjunctivitis or keratitis
+|Rubric=Additional examinations
+|Contributors=
+|Order=9}}
+'''The indications for a conjunctival swab for microbiological analysis are:'''
+
+- acute bacterial conjunctivitis if failure of first-line probabilistic treatment
+
+
+'''The indications for corneal sampling for microbiological analysis are:'''
+
+- clinical suspicion of bacterial, mycotic or parasitic keratitis
+
+- herpetic keratitis: atypical forms or in cases of proven therapeutic resistance
+
+
+A sample is always taken by sterile swabbing, if possible before any topical anti-infective treatment, and transferred to the microbiology laboratory in a suitable transport medium:
+
+- direct examination + culture + antibiotic susceptibility test or antifungal susceptibility test (bacteriology, mycology)
+
+- or for molecular diagnosis by PCR depending on the diagnostic orientation (virology, bacteriology)

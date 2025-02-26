@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-59-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the risk factors, prognosis and course of the disorder
+|Description=None
+|Rubric=Epidemiology
+|Contributors=El-Hage Wissam
+|Order=59}}
+
+Personality disorder is the main risk factor, along with difficult living conditions (poverty, isolation, migration).

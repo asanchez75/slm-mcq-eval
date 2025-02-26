@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-332-06-B
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=B
+|Title=Know how to characterise the type of shock.
+|Description=Know how to use additional tests to characterise the aetiology of shock (echocardiography, computer tomography, biology).
+|Rubric=Additional tests
+|Contributors=Julien Poissy
+|Order=6}}
+
+A distinction is made between :
+
+- Examinations to assess severity
+
+o Venous arterial lactates
+
+o Arterial blood gases: hypoxaemia/acidosis
+
+o Liver function tests: liver shock
+
+o CBC-coagulation: intensity of polynucleosis and lymphopenia, also of orientation value/CIVD
+
+o Blood ionogram and creatinine
+
+- Diagnostic or pre-therapeutic examinations
+
+o ECG
+
+o Chest X-ray and other imaging according to clinical findings
+
+o CBC
+
+o Pair of blood cultures and other microbiological samples according to clinical signs, unless there is an obvious alternative diagnosis
+
+o ABO-Rhesus group
+
+- Examinations to characterise the haemodynamic profile
+
+o Specialist assessment in the intensive care sector, including cardiac echography

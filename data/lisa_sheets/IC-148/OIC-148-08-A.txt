@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-148-08-A
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Nasosinus infections in adults and children
+|Rank=A
+|Title=Knowing the principles of treatment for adult sinusitis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=8}}
+'''The antibioclic site is a decision-making aid.'''
+
+'''Maxillary sinusitis:'''
+
+<nowiki>*</nowiki>Treatment with antibiotics is considered from the outset if the diagnostic criteria for acute purulent maxillary sinusitis are met or in cases of unilateral maxillary sinusitis associated with homolateral dental infection of the upper arch. It is also considered in cases where symptomatic treatment has failed or complications have arisen.
+
+<nowiki>*</nowiki>''First-line antibiotic therapy is amoxicillin'' 1g 3 times a day for 7 days.
+
+<nowiki>*</nowiki>''For maxillary sinusitis of dental origin: amoxicillin-clavulanic acid'' 1g 3 times a day for 7 days.
+
+
+'''Frontal sinusitis:'''
+
+<nowiki>*</nowiki>Initial antibiotic therapy with amoxicillin-clavulanic acid 1g 3 times a day for 7 days
+
+
+'''Ethmoidal sinusitis:'''
+
+<nowiki>*</nowiki>Initial antibiotic therapy with amoxicillin-clavulanic acid 1g 3 times a day for 7 days
+
+'''Sphenoidal sinusitis:'''
+
+<nowiki>*</nowiki>Initial antibiotic therapy with amoxicillin-clavulanic acid 1g 3 times a day for 7 days
+
+
+In addition to antibiotic therapy, "symptomatic treatment" may include analgesics/antipyretics (paracetamol), saline nosewash, inhalations and/or local corticosteroids. Systemic corticosteroids may also be prescribed as a short course (3-4 days) in cases of hyperalgesic sinusitis.
+
+NSAIDs are not recommended due to the debate surrounding their risk of potentiating infections.

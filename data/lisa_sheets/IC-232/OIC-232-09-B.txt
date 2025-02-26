@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-232-09-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Knowing the co-morbidities of AF
+|Description=HTA, OSA, alcoholism, obesity
+|Rubric=Etiologies
+|Contributors=Jean-Baptiste GUICHARD
+|Order=9}}
+Many pathologies are risk factors for AF. They can be divided into three main groups:
+
+*Cardiovascular risk factors
+*Cardiovascular pathologies
+*Respiratory diseases
+
+[File:Co-morbidities of AF.png|focused|without_frame|alt=|900x900px]]
+<br />

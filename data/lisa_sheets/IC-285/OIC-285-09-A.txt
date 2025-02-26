@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-285-09-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the strategy for investigating chronic diarrhoea
+|Description=Know the common causes of diarrhoea, based on the clinical features of the illness.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+Questioning is the most important element, as it points to the mechanism and approaches the cause of the diarrhoea. Once this has been completed, the first-line biological tests will be carried out, along with those needed to establish the suspected cause. An oesogastroduodenal endoscopy and an ileocolonoscopy with staged biopsies will generally be carried out rapidly, particularly in the event of warning signs (rectal discharge, deterioration in general condition, recent unexplained change in transit) or if the patient is over 50 years of age. An abdomino-pelvic CT scan is performed as a second-line procedure, and a fecalogram as a third-line procedure.

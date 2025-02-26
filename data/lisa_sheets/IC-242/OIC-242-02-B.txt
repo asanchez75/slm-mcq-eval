@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-242-02-B
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=B
+|Title=Knowing the prevalence of hyperthyroidism
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre
+|Order=2}}
+
+Prevalence is high but varies from country to country (0.2 to 1.9% for all causes combined).  
+
+Women are more affected than men, with a sex ratio of around 7.
+
+<br />

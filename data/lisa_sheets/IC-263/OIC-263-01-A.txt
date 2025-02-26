@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-263-01-A
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=A
+|Title=Knowing the different types of vascular nephropathy
+|Description=None
+|Rubric=Definition
+|Contributors=Jean-Jacques Boffa
+|Order=1}}
+
+Vascular nephropathies are a group of heterogeneous diseases characterised by damage to the renal vessels. Some diseases involve the large vessels (obstruction of the renal arteries), others the small vessels (nephroangiosclerosis, haemolytic uraemic syndrome, and cholesterol crystal embolism diseases). Drug prescription, follow-up consultation and education of a hypertensive patient SD-282|HTA]] is often at the forefront. It may be the cause or consequence of kidney disease. Vascular nephropathies can be classified according to their rate of progression and the location of renal arterial damage (table 1).
+
+Table 1: Classification of vascular nephropathies
+{| class="wikitable"
+|'''1. acute or rapidly progressive vascular nephropathies'''
+|-
+|<Thrombotic microangiopathy syndrome (HUS, PTT...)</nowiki>
+|-
+|<nowiki>- HTA and malignant nephroangiosclerosis (intrarenal vessels of all calibres).</nowiki>
+|-
+|<Cholesterol crystal emboli (small-calibre intrarenal arterioles).
+|-
+|<Acute occlusion of one or more renal arteries, causing renal infarction.
+|-
+|<Macroscopic periarteritis nodosa (medium-calibre arterioles).
+|-
+|<Acute scleroderma crisis (intrarenal vessels of all calibres).
+|-
+|'''2.    Vascular nephropathies with a chronic course'''
+|-
+|<Renal artery stenosis.
+|-
+|<Benign nephroangiosclerosis (intrarenal vessels of all calibres).
+|-
+|<Anti-phospholipid syndrome.
+|}
+<br />

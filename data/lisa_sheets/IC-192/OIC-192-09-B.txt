@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-192-09-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the concept of a significant titre (for anti-nuclear antibody research)
+|Description=if > 1/80th or ≥ 1/160th
+|Section=Additional tests
+|Contributors=Amélie Servettaz
+|Order=9}}
+
+<big>- NAAs are reported as a titre. The titre given by the laboratory corresponds to the inverse of the highest dilution of the serum allowing NAAs to be detected. Logically, the higher the titre, the greater the amount of NAA in the serum tested.</big>
+
+<big>- There is no titre that formally discriminates physiological autoimmunity from pathological autoimmunity. In general, a titre greater than or equal to 160 or 200 (serum dilution of 1/160 or 1/200) prompts other immunological tests to be carried out if connectivitis-type IAD is suspected. A lower titre makes systemic connective tissue disease unlikely.</big>
+
+<big>- ''They are prescribed when systemic connectivitis-type AD is suspected.''</big>
+
+<big>- '''Interpretation must always take the context into account.''</big>
+
+<big>- NAAs can be present in '''healthy subjects, and in a variety of contexts apart from systemic ADI of the connectivitis type particularly after exposure to certain drugs, in cases of lymphoid haemopathies, infections...'''</big>

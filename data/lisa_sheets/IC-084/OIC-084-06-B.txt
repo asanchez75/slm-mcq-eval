@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-084-06-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Intitle=Knowing the main features of primary open-angle glaucoma: structure and function
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+ 
+
+
+
+The main features of primary open-angle glaucoma (POAG) include:
+
+*Preserved visual acuity, except in the late stages of the disease or in cases of other associated ocular pathology.
+*A calm, white, painless eye
+*A deep anterior chamber (because the iridocorneal "angle" is "open")
+*Normal pupillary motility, except in the late stages of the disease when optic nerve damage leads to mydriasis due to impaired photomotor reflex (relative afferent pupillary deficit).
+*An "open angle on gonioscopy", i.e. visibility of the pigmented trabeculum (the filter through which the aqueous humour drains) of more than 180° of the circumference of the angle.
+*Intraocular pressure is generally high, but sometimes within normal limits.
+*Abnormalities of the optic nerve head: Physiologically the optic disc is made up of a peripheral ring (the neuroretinal ring) and a central excavation. The excavation is measured by the ratio of the central excavation (cup) to the pupillary diameter (disc). In primary open-angle glaucoma, the following may be observed:
+**A worsening of the papillary excavation which is linked to a reduction in the optic fibres located at the periphery of the papilla in the neuroretinal ring. This excavation may be diffuse or localised. A cup/disc ratio greater than 0.2 between the two eyes, or asymmetric, is suggestive of glaucoma.
+**'''A decrease''' '''in the thickness of the optic fibres''' around the papilla, measured by Optical Coherence Tomography (OCT)
+*'''Visual field abnormalities''': mainly marked by the appearance of scotomas whose topography and shape are sometimes suggestive: Bjerrum's arciform scotoma, nasal protrusion, and in advanced forms a visual field reduced to a simple temporal crescent and a central island of vision (tubular vision).

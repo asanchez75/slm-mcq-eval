@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-356-07-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Know the definition of acute appendicitis
+|Description=None
+|Rubric=Definition
+|Contributors=Cyrille PERRENOT
+|Order=7}}
+
+The normal appendix is :
+
+- appended to the cecum, located in FID, 2 to 20 cm long and 4 to 6 mm wide.
+
+- It is implanted at the point where the three longitudinal muscle bands of the right colon converge.
+
+- Its blood supply comes from the appendicular artery, the terminal branch of the ileocolic artery.
+
+Acute appendicitis evolves in 3 phases:
+
+- catarrhal appendicitis: obstruction downstream of the appendicular lumen
+
+''By hyperplasia of the lymphoid tissues or obstruction by a stercolith''.
+
+''More rarely due to a parasitic infection, Crohn's disease or a tumour''.
+
+- suppurative appendicitis: microbial proliferation and inflammation extending to the 4 parietal layers
+
+- gangrenous appendicitis: arterial ischaemia progressing to necrosis and perforation.

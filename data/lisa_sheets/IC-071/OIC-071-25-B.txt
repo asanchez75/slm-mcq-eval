@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-071-25-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the principles of pharmacotherapy
+|Description=Know that fluoxetine has a marketing authorisation for BN (higher dosage than for the treatment of depressive episodes).
+|Rubric=Management
+|Contributors=
+|Order=25}}
+'''Pharmacological management''''
+
+The only drug with marketing authorisation is fluoxetine (at a higher dosage than in the case of major depressive episodes).

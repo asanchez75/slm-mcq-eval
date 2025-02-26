@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-104-13-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Intitle=Indication of imaging examinations for suspected MS
+|Description=MRI skull + spinal cord
+|Rubric= Complementary examinations
+|Contributors=
+|Order=13}}
+- MRI is the preferred test for suspected inflammatory disease of the central nervous system. It is used to confirm the diagnosis and eliminate differential diagnoses. ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]], [[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality]], [[Discovery of a spinal cord or vertebral abnormality on medical imaging examination SD-227|discovery of a spinal cord abnormality on medical imaging examination]], [Writing of the request for an imaging examination SD-230|writing of the request for an imaging examination]], [[Request for an explanation from a patient about the procedure, risks and expected benefits of an imaging examination SD-232|request for an explanation from a patient about the procedure, risks and expected benefits of an imaging examination]].
+
+- The choice of which examination to carry out first depends on the clinical presentation:
+
+o Spinal cord MRI for myelitis
+
+o Cerebral MRI for optic neuritis or encephalic damage
+
+- This initial examination may be supplemented by an MRI of the other area if the diagnosis of MS is still suspected, in order to look for evidence of dissemination in time and space.
+
+- Example 1: Myelitis => spinal cord MRI => appearance suggestive of inflammatory myelitis => Carry out a brain MRI to look for other lesions in other preferred areas (periventricular, juxta-cortical/cortical, infratentorial) and lesions of different ages (with or without contrast).
+
+- Example 2: Optic neuritis => brain MRI => presence of several inflammatory lesions, some of which are periventricular and infratentorial, with contrast on the optic nerve, but not on the other lesions => spinal cord MRI is not essential for the diagnosis, as the criteria for dissemination in time and space are met (but it is useful for prognostic purposes and to guide treatment choices).

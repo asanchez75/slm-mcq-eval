@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-219-02-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Knowing the definition of iron overload
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+
+Iron overload is an excessive accumulation of iron in the body.
+
+This excess can be linked to :
+
+- excessive parenteral nutrition (multiple transfusions),
+
+- excessive release of iron from erythrocytes (haemolysis or dyserythropoiesis),
+ 
+- excessive intestinal absorption, whether or not associated with excessive macrophagic release of iron (mainly linked to haemochromatosis).
+
+The iron will then accumulate in various organs, a toxic process due to the ability of free iron to react with oxygen and form free radicals.
+
+
+The diagnosis of iron overload is based on :
+
+- as a 1st-line treatment, plasma measurement of martial status markers (ferritin and transferrin saturation coefficient);
+
+- in 2nd intention, possibly on imaging tests (non-injected hepatic MRI with measurement of intra-hepatic iron concentration).
+
+
+
+''Attention ''
+
+Hyperferritinaemia is very common and is not necessarily linked to iron overload.
+ 
+The four main causes of hyperferritinaemia are :
+
+- inflammatory syndrome (normal transferrin saturation coefficient, no iron overload)
+
+- hepatic or muscular cytolysis or haemolysis (normal transferrin saturation coefficient, no iron overload)
+
+- chronic alcohol intoxication (normal transferrin saturation coefficient and no iron overload, except in cases of cirrhosis)
+
+- metabolic syndrome (normal transferrin saturation coefficient, no or low iron overload)
+
+
+In the presence of hyperferritinaemia, the clinical approach is as follows:
+
+1/ A first-line laboratory work-up consists of eliminating the most common causes of hyperferritinaemia, as listed above: blood count, CRP, liver function tests, blood glucose, cholesterol, triglycerides, CPK, reticulocytes, haptoglobin.
+
+2/ Once these common causes have been eliminated, a saturation coefficient is measured fasting (threshold value 45%).

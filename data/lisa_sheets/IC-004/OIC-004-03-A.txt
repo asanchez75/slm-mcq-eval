@@ -1,0 +1,111 @@
+{{knowledge objective
+|Identifiant=OIC-004-03-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Intitle=Defining: knowing how to define adverse events associated with care (AEAS) and their level of seriousness; Notion of avoidability; Notion of risk-bearing event; Notion of therapeutic hazard.
+|Description=None
+|Section=Definition
+|Contributors=
+|Order=3}}
+
+
+An ''adverse event associated with healthcare (AEAS)'' is an event that has resulted ''or could have resulted'' in harm to a patient, occurring during the performance of a preventive act, investigation or treatment (decree 2010-1408).  Concerns :
+
+- One patient every two days in a general practice
+
+- 10% of patients in hospital
+
+
+It is almost always linked to a combination of several factors (Reason's Swiss cheese model), where safety locks have failed to prevent the holes in the cheese from lining up[[Define: Knowing how to define adverse events associated with care and their level of seriousness. Notion of avoidability. Notion of risk-bearing event, notion of therapeutic hazard 2C-004-DE-A03#%20msocom%201|[FR1]] :
+----[[Define: Know how to define adverse events associated with healthcare and their level of seriousness. Notion of avoidability. Notion of risk-bearing event, notion of therapeutic hazard 2C-004-DE-A03#%20msoanchor%201|[FR1]]]In other words, if there is only one passage through a hole, there is not necessarily an undesirable event, there must be a series of holes leading to the undesirable event<br /><gallery perrow="1">.
+File:Cheese.png
+</gallery>A '''risk-bearing event (RBE)''' is an event that could have harmed the patient but was avoided thanks to the operation of one or more safety locks: e.g. forgetting a compress in an operating field '''recovered''' thanks to the systematic counting of compresses. This is virtually identical to the minor AEIAS (see below). A methodical analysis of these ''''presqu'accidents'''' reveals the following:
+
+- how they occur
+
+- the factors that enabled it to be detected in time and the consequences avoided (safety locks)
+
+<br />The predominant factors for Risk Carrying Events were quantified by the Haute Autorité de Santé in 2015:<gallery perrow="1">
+File:Pie chart.png
+</gallery>The '''severity of AEIAS''' can be represented by a scale:
+{| class="wikitable"
+|
+|EIAS minor
+
+(level 1)
+|ISAE causing simple discomfort or dissatisfaction to the patient, but not interrupting the patient's initial care.
+
+(e.g. misidentification of a patient caught before a drug intended for another patient is administered)
+|-
+|
+|EIAS 'intermediate
+
+(level 2)
+|ISAE impacting the patient without any real threat to their safety, and not interrupting their initial care.
+
+(e.g. forgetting to prescribe fasting leading to a short postponement of a scheduled operation)
+|-
+|
+|Major IEAS
+
+(level 3)
+|ISAE requiring specific management (care or special monitoring) but not interrupting the initial management.
+
+(e.g. fall from hospital with minor wound requiring stitches)
+|-
+|
+|Critical IEAS
+
+(level 4)
+|ISAE requiring specific treatment and requiring the initial treatment to be interrupted, but whose consequences, even if serious, are reversible.
+
+(e.g. prescription of a beta-blocker to an asthmatic resulting in acute respiratory failure with hospitalisation, but without sequelae)
+|-
+|
+|Catastrophic AEFI
+
+(level 5)
+|ISAE requiring specific treatment and forcing the initial treatment to be interrupted, the consequences of which are often serious and irreversible.
+
+(e.g. lateral error leading to removal of the functional kidney, leaving the tumour kidney in place).
+|}
+The concept of ''serious adverse event (SAE)'' is also used. An SAE is an unexpected event with regard to the patient's state of health, the consequences of which are (decree no. 2016-1606) :
+
+- death
+
+- life-threatening conditions
+
+- the probable occurrence of a permanent functional impairment ('after-effects')
+
+- a congenital anomaly or malformation
+
+- To which we add, in the case of research involving the human person, hospitalisation or prolongation of hospitalisation.
+
+
+In France :
+
+- one SAE occurs every five days in a ward with 30 beds
+
+- 9.2 SAEs per 1000 days of hospitalisation in surgery, 4.7 in medicine
+
+- one hospitalisation in 20 is caused by a SAE
+
+
+''''Evitability'''': this is a value judgement accepted by the community in the light of medical practices and knowledge recommended by the scientific community in the given circumstances. 40 to 50% of AEIAS are avoidable, i.e. they result from an error and/or a flaw in the safety devices designed to prevent their occurrence.
+
+For example, anaphylactic shock following an injection of amoxicillin is "unavoidable" if questioning of the patient and analysis of the medical records have revealed no allergic history AND if the indication for the antibiotic was appropriate to the context. Otherwise it was "avoidable".
+
+
+In France :
+
+- 270 to 390,000 SAEs per year, of which 95 to 175,000 would be avoidable
+
+- 15,000 deaths each year following a preventable AEI.
+
+
+A ''therapeutic adverse event'' is accidental damage occurring during a medical procedure, with a definite causal link to this procedure, ''but the occurrence of which is independent of any established fault'', and which does not correspond to a development of the underlying disease. All[[Define: Know how to define adverse events associated with healthcare and their level of seriousness. Notion of avoidability. Notion of risk-bearing event, notion of therapeutic hazard 2C-004-DE-A03#%20msocom%201|[FR1]]] act of care involves risks ('hazards') which are not always totally controllable. In France, compensation for therapeutic hazards was made possible by law n°2002-303 of 4th March 2002[[Define: Know how to define adverse events associated with healthcare and their level of seriousness. Notion of avoidability. Notion of risk-bearing event, notion of therapeutic hazard 2C-004-DE-A03#%20msocom%202|[FR2]]] , . Compensation is based on national solidarity (Assurance Maladie) and requires a ''medical expertise'' requested either by the ''Commission de conciliation et d'indemnisation des accidents médicaux'' or by a competent Court.
+<br />
+----[[Define: Know how to define adverse events associated with healthcare and their level of seriousness. Notion of avoidability. Notion of risk-bearing event, notion of therapeutic hazard 2C-004-DE-A03#%20msoanchor%201|[FR1]]]I would have added: as in the previous example of an unknown allergy to amoxicillin that was investigated.
+
+[Define: Know how to define adverse events associated with healthcare and their level of seriousness. Notion of avoidability. Notion of risk-bearing event, notion of therapeutic hazard 2C-004-DE-A03#%20msoanchor%202|[FR2]]]Whereas before the family had to lodge a complaint against the carer to hope for financial compensation

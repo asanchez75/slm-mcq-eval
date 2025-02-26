@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-093-02-A
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=A
+|Title=Know the clinical signs of spinal cord compression
+|Description=Describe the main symptoms. Diagnose and describe the clinical semiology of lesional radicular syndrome and sub-lesional syndrome.
+|Rubric=Positive diagnosis
+|Contributors=Dr Lucas TROUDE (Assistance Publique-Hôpitaux de Marseille), Dr Julien TODESCHI (CHU de Strasbourg), Pr François VASSAL (CHU de Saint-Etienne)
+|Order=2}}
+
+==Spinal syndrome:==
+Refers to damage to the spine by the causative pathology. [Spinal pain (cervical, dorsal or lumbar) SD-072|Pain]] spontaneous ([[rachialgia]])+ provoked, inflammatory and/or mechanical (e.g. vertebral fracture), resistant to analgesics. Stiffness +/- deformity of a spinal segment
+
+==Lion syndrome:==
+Signs related to damage to the spinal root corresponding to the level of compression ([[Radiculalgia and root canal syndrome|radiculalgia]]). '''Localising value +++'''. Radicular'' = ''neurogenic'' = ''peripheral'', of precise territory, corresponding to a ''dermatome/myotome''. Pain, [[Pain, burning, cramps and paresthesias SD-073|paresthesias]], +/- [[Sensory and/or motor neurological deficit SD-121|hypo-/anesthesia]] polymodal; [[Sensory and/or motor neurological deficit SD-121|motor deficit]] with abolition of the osteotendinous reflex (OTR) +/- [[Muscle weakness SD-074|amyotrophy]].
+
+==Sublesional syndrome:==
+Signs related to [[Sensory and/or motor neurological deficit SD-121|involvement of the long tracts]] (cortico-spinal, lemniscal, spino-thalamic) and vegetative functions (e.g. [[Micturition abnormality SD-023|sphincterian]]) below the lesion.
+
+=====Symptoms and motor signs:=====
+
+*Tetra- or paraparetic (plegic) motor deficit (motor and/or sensory deficit of the limbs|motor deficit of the limbs)
+*Central neurogenic impairment, with pyramidal syndrome
+**Muscle tone abnormality = spastic hypertonia
+**sharp, polykinetic, diffuse strokes
+**Hoffman's sign, Babinski's sign, Rossolimo's sign, epileptoid tremor (archaic reflexes)
+**Abolition of abdominal cutaneous reflexes
+
+=====Sensory symptoms and signs:=====
+
+*Subjective disorders: Lhermitte's sign (electrical discharges in all 4 limbs during cervical hyperflexion/extension movements).
+*Objective disorders:
+**Polymodal hypo-/anaesthesia with clear sensory level, which rises with the degree of compression and eventually coincides with the lesion level ([[Motor and/or sensory deficit of the limbs|sensory deficit of the limbs]]).
+**Proprioceptive ataxia: [[Appearance of difficulty in walking SD-066|unstable walking]], aggravated by occlusion of the eyes (Romberg's sign) ([[gait and balance disorders]]), [[Sensory and/or motor neurological deficit SD-121|sensory disorder]] vibratory (hypopallesthesia) and positional (arthrokinesthesia).
+
+=====Vésico-sphinctériens :=====
+Central "neurological bladder", with clinical SD of bladder hyperactivity (pollakiuria, nocturia, [[Urinary incontinence SD-103|urgent urination]] and leakage on urgency) due to detrusor hyperactivity and possible dysuria due to bladder-sphincter dyssynergia ([[Micturition disorders and urinary incontinence in adults and elderly subjects|micturition disorders]]).
+
+==No supra-injury signs=

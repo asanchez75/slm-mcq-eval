@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-233-11-B
+|Item_parent=Valvulopathies
+|Item_parent_short=Valvulopathies
+|Rank=B
+|Title=Know the main indications for percutaneous treatment of AR and MI
+|Description=None
+|Topic=Management
+|Contributors=Myriam Akodad,Florence Leclercq
+|Order=11}}
+
+Percutaneous treatment of valve disease is usually performed in cases of AR or MI. Other valvulopathies are currently being evaluated (in particular IA in cases of contraindication or very high surgical risk).
+
+* Aortic stenosis:
+** The decision is always based on a multidisciplinary meeting ("Heart team") comprising at least one cardiac surgeon and one interventional cardiologist (an "imaging" cardiologist and a geriatrician are sometimes necessary).
+** Patients who are candidates for TAVI are those with a life expectancy of > 1 year and :
+*** in the event of surgical contraindication (porcelain aorta, hostile thorax, serious co-morbidities)
+*** in patients at high risk of surgery
+*** indications have also been validated in patients at intermediate risk > 75 years if the anatomy is favourable to TAVI via the femoral route.
+*** Likely to be extended in the short term to low-risk patients > 65-70 years old
+* Mitral insufficiency:''''
+** Mitraclip is indicated for organic MI in patients contraindicated for surgery (e.g. LVEF < 30%) or at high surgical risk.
+** Mitraclip is indicated for functional MI in patients with persistent CHF despite optimisation of medical treatment for CHF and causative heart disease.

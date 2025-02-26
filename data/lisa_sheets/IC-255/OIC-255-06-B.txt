@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-255-06-B
+|Item_parent=Gestational diabetes
+|Item_parent_short=Gestational diabetes
+|Rank=B
+|Title=Knowing obstetric surveillance outside the management of the threat of premature delivery
+|Description=None
+|Rubric=Management
+|Contributors=Louis Potier,Philippe Deruelle
+|Order=6}}
+
+In the case of GDM balanced by diet and in the absence of any other associated pathology or risk factor, the monitoring procedures will be those of a normal pregnancy [[Normal pregnancy monitoring consultation (17, 2nd and 3rd trimester) SD-268|('''Normal pregnancy monitoring consultation - 1<sup>er</sup>, 2<sup>ème</sup> and 3<sup>ème</sup> trimester''']]). The presence of additional risk factors (high maternal age, obesity, poor glycaemic control, history of chronic hypertension) may justify more frequent monitoring (blood pressure, search for ''[[Proteinuria SD-212|proteinuria]]''') than monthly antenatal monitoring, due to the increased risk of pre-eclampsia. Monthly ultrasound monitoring may be suggested for diabetics who are poorly controlled or on insulin.
+
+
+At the end of pregnancy:
+
+In the case of GDM that is well controlled by diet alone or insulin, and without foetal macrosomia, there is no reason to induce before term (41 SA).
+
+In cases of poorly balanced gestational diabetes or with foetal repercussions (especially macrosomia), labour can be induced at 39 weeks' gestation.

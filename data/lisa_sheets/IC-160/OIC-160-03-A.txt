@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-160-03-A
+|Item_parent=Tetanus
+|Item_parent_short=Tetanus
+|Rank=A
+|Title=Know how to prevent tetanus
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=3}}
+Tetanus cannot be eradicated worldwide because it is a ubiquitous soil bacterium.
+
+Excellent effectiveness of preventive measures:
+
+*Rapid disinfection of potentially tetanogenic wounds (wounds SD-170, bites and stings SD-169).
+*Vaccination already scheduled in the vaccination calendar at M2, M4, M11, 6 years, 11 years, 25-45-65 years and then every 10 years (see [[Vaccinations for adults and children SD-322|'''vaccination calendar''']]).
+*If no vaccination up to date, see table below.
+
+It is important to note the importance of pre-existing wounds, particularly ulcers of vascular origin ([[Cutaneous ulcer SD-092|'''Cutaneous ulcer''']]), which are a not uncommon route of entry for tetanus.
+{| class="wikitable"
+|+* People aged under 65 who received a dose of vaccine containing a tetanus valence less than 20 years ago. People aged 65 and over who have had a dose of vaccine containing a tetanus valence for less than 10 years.
+<nowiki>**</nowiki> Major wound: extensive, penetrating wound, with foreign body or treated late.
+|'''Type of wound'''
+|'''Subject up to date with vaccinations according to current vaccination schedule*'''
+|'''Subject not up to date'''
+|-
+|Minor, clean
+|No injection.
+
+Specify the date of the next booster.
+|Immediate administration of a dose of vaccine containing the tetanus valence.
+
+If necessary, suggest an update programme and specify the date of the next reminder.
+|-
+|Major**
+
+or likely to have been contaminated by soil-borne germs
+|No injection.
+
+Specify the date of the next booster.
+|In one arm, human tetanus immunoglobulin 250 IU.
+
+In the other arm, a dose of vaccine containing tetanus valence was administered.
+
+If necessary, suggest an update programme and specify the date of the next reminder.
+|}

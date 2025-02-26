@@ -1,0 +1,66 @@
+{{knowledge objective
+|Identifiant=OIC-279-03-A
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=A
+|Title=Knowing the progressive stages of cirrhosis
+|Asymptomatic/decompensated: 6 main complications
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+[[File:NATURAL HISTORY CIRRHOSIS.png|alt=natural history of cirrhosis|thumbnail|natural history of cirrhosis]]
+In the early (compensated) stage, cirrhosis is asymptomatic. Later, complications may arise: ascites, jaundice, hepatic encephalopathy, digestive haemorrhage; cirrhosis is then said to be decompensated.  Hepatocellular carcinoma is a complication of cirrhosis and may occur before the stage of cirrhosis in certain chronic liver diseases (haemochromatosis, hepatitis B, metabolic steatohepatitis).
+
+
+
+
+
+Prognostic scores are used in current practice during the progression of cirrhosis: the Child-Pugh score and the MELD score.
+The MELD score is a continuous score and the Child-Pugh score is a discontinuous score in 3 classes (see tables in supplementary documents).
+
+The 5 variables used to calculate the Child-Pugh score are encephalopathy, ascites, bilirubinemia, albuminemia and prothrombin rate.
+
+'''Table. Child-Pugh score (variables and points assigned to each variable according to its value)'''
+{| class="wikitable"
+| rowspan="2" |'''Parameters'''
+| colspan="3" |'''Points'''
+|-
+|'''1 point'''
+|'''2 points'''
+|'''3 points'''
+|-
+|'''Albumin (g/L)''''
+|> 35
+|35 - 28
+|< 28
+|-
+|''Total bilirubin (µmol/L)'''
+|< 35
+|35 - 50
+|> 50
+|-
+|Encephalopathy
+|Absence
+|Mild to moderate (stage 1-2)
+|Severe (stage 3-4)
+|-
+|'''T P (%)'''
+|> 50
+|50 - 40
+|< 40
+|-
+|'''Ascites'''
+|Absence
+|Moderate
+|Abundant
+|}
+Classification
+ 
+Child-Pugh score A 5-6 (1-year survival: 100%)
+
+Child-Pugh score B 7-9 (1-year survival: 80%)
+
+Child-Pugh C score 10-15 (1-year survival: 45%)
+
+
+The 3 blood variables used to calculate the MELD score are bilirubinemia, INR and creatinemia.

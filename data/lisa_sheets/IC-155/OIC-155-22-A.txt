@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-155-22-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Knowing the clinical signs of boils
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=22}}
+Highly inflammatory papulo-nodular lesion which progresses in 5 to 10 days to follicular necrosis with elimination of the hair follicle (bourbillon).

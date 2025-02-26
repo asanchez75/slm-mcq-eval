@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-257-02-B
+|Item_parent=Localised or generalised lower limb oedema
+|Item_parent_short=Localised or generalised oedema of the lower limbs
+|Rank=B
+|Title=Knowing the pathophysiology of localised oedema
+|Description=To know the oedemas of venous, lymphatic, medicinal or inflammatory origin.
+|Rubric=Physiopathology
+|Contributors=Jean-Jacques Boffa,Bruno Moulin
+|Order=2}}
+
+Locally caused oedema may be due to :
+
+* An increase in venous pressure
+* A lymphatic obstacle,
+* Local inflammatory pathology modifying capillary permeability due to inflammatory mediators.
+* A drug that increases capillary permeability (Dihydropyridine-type anti-calcic agents).

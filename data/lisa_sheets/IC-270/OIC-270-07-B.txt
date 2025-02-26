@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-270-07-B
+|Item_parent=Acute low back pain
+|Item_parent_short=Acute low back pain
+|Rank=B
+|Title=Knowing the risk factors for chronicity and the transition to chronic low back pain
+|Description=Recurrences, work, socio-professional environment, etc.
+|Heading=Follow-up and/or prognosis
+|Contributors=François-Xavier NOUHAUD
+|Order=7}}
+
+The prognosis is favourable, after the first few days in the case of acute low back pain (or lumbago), but can last several weeks or months in sub-acute or chronic forms.
+
+The biopsychosocial context can influence the transition to chronicity (yellow flags):
+
+* depression ;
+* emotional distress
+* anxiety
+* fear of pain and trauma;
+* catastrophism
+* false beliefs about evolution
+* false information;
+* family conflict.
+
+Occupational factors are also associated with this chronicity (black flags):
+
+* prolonged work stoppages, search for secondary benefits;
+* professional conflict
+* dissatisfaction at work
+* conflicts and disputes with insurance companies, social security, experts, etc;
+* over-caring (family, doctors);
+* difficult working conditions with no opportunity for change;
+* type of professional activity.
+
+Refer to items
+
+*[[Non-traumatic spinal cord compression and cauda equina syndrome|spinal cord compression 93]]
+*[[Spinal pain|rachialgia 94]]
+*[[Radiculalgia and canal syndrome|radiculalgia and canal syndrome 95]]
+*[[The disabled person: basis of functional and therapeutic assessment|the disabled person 118]]
+*[[Complications of immobility and decubitus. Prevention and management|complications of immobility and decubitus 120]]
+*[[Principal techniques of re-education and rehabilitation (see item 55)|principal techniques of re-education and rehabilitation 122]] and [[Psychomotor development of infants and children|55]]
+*[[Analgesic, medicinal and non-medicinal therapies|analgesic therapies 135]]
+*[[Occupational environment and health|occupational environment and health 182]]
+*Organisation of occupational medicine. Occupational risk prevention|occupational medicine and occupational risk prevention 183]]
+*Occupational accidents and diseases: definitions and issues|occupational accidents and diseases 184]]

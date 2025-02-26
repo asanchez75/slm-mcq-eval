@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-226-18-B
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=B
+|Title=Knowing the principles of the management of superficial venous thrombosis
+|Description=None
+|Topic=Management
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=18}}
+The diagnosis of ''superficial venous thrombosis (SVD)'' is based on the clinical features: indurated venous cord with associated local inflammation.
+
+A venous Doppler ultrasound of the lower limbs should be performed for
+
+- confirm the diagnosis,
+
+- estimate the extent of TVS in the lower limb
+
+- exclude frequently associated DVT.
+
+Treatment of DVT of the lower limb is based on
+
+- elastic compression
+
+- combined with anticoagulant treatment for 6 weeks with fondaparinux 2.5 mg 1 subcutaneous injection per day [prophylactic (preventive) dose].
+
+If the end of the DVT is close to the deep venous network or if the DVT extends into the deep venous network, the anticoagulant treatment is that of a DVT administered at a therapeutic (curative) dose.
+
+When DVT occurs in varicose veins, treatment of the varicose veins should be discussed at a distance from the thrombotic episode.

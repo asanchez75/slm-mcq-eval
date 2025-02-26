@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-187-10-A
+|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Rank=A
+|Title=Photo of atopic dermatitis
+|Description=Photo of atopic dermatitis in infants in flare-up.
+|Rubric=Multimedia content
+|Contributors=
+|Order=10}}
+
+[[File:DA poussee.jpg|vignette|Dermatitis atopique du nourrisson en poussée]]

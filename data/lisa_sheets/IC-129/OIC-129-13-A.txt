@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-129-13-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Radiography of osteoarthritis of the distal interphalangeal joints
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+
+[[File:Arthrose digitale.jpg|vignette]]

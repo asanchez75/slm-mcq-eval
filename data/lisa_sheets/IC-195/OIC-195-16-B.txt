@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-195-16-B
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=B
+|Title=Knowing the role of pathological anatomy in the diagnosis of CAG and Takayasu disease
+|Description=None
+|Section=Additional examinations
+|Contributors=
+|Order=16}}
+- Vascular imaging (echo-Doppler, angio-CT, angio-MRI, PET-scanner) = diagnostic role and follow-up
+
+- Histology '''([[Interpretation of a pathology report SD-180|interpretation of a pathology report]])'''' = signs similar to those of CAG '''([[Inflammatory reaction on surgical specimen/biopsy SD-179|inflammatory reaction on biopsy]])'''. In most cases, however, no arterial biopsy sample is available. No TAO (temporal artery rarely involved).

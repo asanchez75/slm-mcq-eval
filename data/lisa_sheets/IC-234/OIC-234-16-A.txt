@@ -1,0 +1,86 @@
+{{knowledge objective
+|Identifiant=OIC-234-16-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Knowing the main causes of heart failure
+|Description=Know the main causes of left heart failure (ischaemic heart disease, hypertension, valvular heart disease, cardiomyopathy, rhythmic heart disease).
+|Rubric=Etiologies
+|Contributors=Olivier Huttin
+|Order=16}}
+'''Etiologies of left heart failure'''
+<br />
+
+====== '''Ischaemic heart disease''' ======
+- With or without sequelae of myocardial infarction,
+
+- Ventricular dysfunction in ischaemic but viable myocardium may be reversible after revascularisation (notion of myocardial sideration).
+
+====== '''HTA''' ======
+- frequently implicated in heart failure with preserved ejection fraction
+<br />
+
+====== '''Valvulopathies''' ======
+All severe valvulopathies can be complicated by heart failure.
+
+====== '''Cardiomyopathies''' ======
+- dilated
+
+o primary: no cause found (diagnosis of elimination)
+
+o familial: in 25% of cases, related to a monogenic disease (mutation in a gene).
+
+o toxic (alcohol, drugs such as cocaine);
+
+o myocarditis (infectious, autoimmune) in the acute or sequelae phase
+
+o endocrine (dysthyroidism, etc.); nutritional (thiamine deficiency); metabolic (haemochromatosis)
+
+o pregnancy (post-partum cardiomyopathy) ;
+
+o drugs, chemotherapy (anthracycline, herceptin).
+
+- hypertrophic cardiomyopathies: sarcomeric, infiltrative (amyloidosis, Fabry disease)
+
+- restrictive cardiomyopathies: cardiac amyloidosis, haemochromatosis, post-radiotherapy
+<br />
+
+====== '''Supra ventricular and ventricular rhythm disorders''' ======
+causing heart failure or triggering factors.
+<br />
+
+====== '''Pericardial causes''' ======
+Abundant pericardial effusion, tamponade, chronic constrictive pericarditis.
+
+====== '''Specific causes of right heart failure''' ======
+- left heart failure most common cause = congestive heart failure.
+
+- Chronic respiratory insufficiency
+
+- pre-capillary pulmonary arterial hypertension and its causes: pulmonary embolism, anorectics, porto-pulmonary PAH, paraneoplastic, veno-occlusive and primary diseases, etc.
+
+- arrhythmogenic right ventricular dysplasia
+
+- tricuspid valve disease
+
+- right ventricular infarction;
+
+- chronic constrictive pericarditis
+
+
+====== '''Triggering factors''' ======
+- Atrial fibrillation (AF) and other rhythm disorders
+
+- Hypertensive flare-up
+
+- Myocardial ischaemia / Acute coronary syndrome (ACS)
+
+- Infections
+
+- Pulmonary embolism (PE)
+
+- Anemia
+
+- Non-compliance with treatment
+
+- Non-compliance with dietary hygiene rules (low-salt diet deviation)

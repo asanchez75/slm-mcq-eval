@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-173-12-A
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=A
+|Title=Knowing the modes of transmission of rabies
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Carole Eldin,Florence Robert-Gangneux
+|Order=12}}
+
+Humans are generally infected following a ''[[Bites and stings SD-169|bite]]'' or scratch with skin penetration'' by an infected animal (presence of the virus in the saliva).
+
+Infection can also be acquired by ''projection of infected salivary droplets onto mucous membranes'' (conjunctiva+++) or contact of the animal's saliva ''(licking) on a skin area with pre-existing effraction''.

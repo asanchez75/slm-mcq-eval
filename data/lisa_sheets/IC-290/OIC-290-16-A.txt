@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-290-16-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing the risk factors for breast cancer and their risk levels
+|Description=High-impact risk factors for breast cancer (e.g. personal or family history of breast cancer); Low-impact risk factors for breast cancer (e.g. hormonal exposure).
+|Rubric=Etiologies
+|Contributors=
+|Order=16}}
+There are 3 levels of risk that influence screening strategies:
+
+- High risk: very high risk (women with BRCA1 or 2 mutations) or high risk with a relative risk ≥ 2 who should undergo specific screening:
+
+- personal history of breast cancer (invasive cancer or ductal carcinoma in situ) ;
+
+- personal history of high-dose radiotherapy (Hodgkin's disease) ;
+
+- personal history of "borderline" lesions (atypical ductal hyperplasia, lobular hyperplasia with atypia, lobular carcinoma in situ);
+
+- family history (breast and adnexal cancer) in the absence of a BRCA1 and 2 mutation, as advised by the oncogeneticist.
+
+
+- Average risk: all women aged between 50 and 74 and women who have tested negative for BRCA1/2 mutations in oncogenetic tests, but who come from a family carrying the BRCA 1 and 2 genes.
+
+- Low risk: unaffected women who have had a prophylactic bilateral mastectomy and are BRCA2 mutation carriers.

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-069-08-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the general principles specific to perinatal care
+|Description=Taking care of the child, the mother
+|Rubric=Care
+|Contributors=El-Hage Wissam
+|Order=8}}
+
+- Outpatient care for mother and child or [[Explain hospitalisation for psychiatric care at the request of a third party SD-240|hospitalisation]] in a mother-child unit. This allows for specific care of the mother, work on early mother-child interactions, and prevention of developmental disorders [[Examination of the newborn at term SD-039|psychomotor]] in the child.
+
+- The [[Medicines and pregnancy: knowing the consequences of the main risky medicines 2C-027-DP-B01|prescription]] must take into account the state of pregnancy and breastfeeding, and must be decided according to the benefit/risk ratio and the recommendations of the Centre de Référence des Agents Tératogènes (CRAT). Abrupt discontinuation of a psychotropic drug is not recommended (risk of withdrawal, symptomatic rebound, impact on pregnancy). The minimum effective dose should be used and adapted according to pharmacokinetic changes during pregnancy. Inform the paediatrician responsible for examining newborns exposed to psychotropic treatment during pregnancy.
+
+- Valproic acid and valproates, as well as carbamazepine, are banned as first-line treatment for women of childbearing age and during pregnancy.

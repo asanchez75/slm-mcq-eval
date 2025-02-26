@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-225-04-A
+|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Rank=A
+|Title=Knowing how to prescribe first-line complementary examinations
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Christian Boissier,Lucie Salomon Du Mont, Anne Long, Alessandra Bura, Patrick Feugier
+|Order=4}}
+
+AOMI is evoked clinically.
+
+It is confirmed in the first instance by measuring pressures: measuring ankle pressures, calculating IPS.
+
+===1/ Lesion assessment===
+A morphological and haemodynamic [[Drafting the request for an imaging examination SD-230|'''''bilanan morphologique et hémodynamique''''']] should be carried out to determine the management strategy.
+
+Doppler ultrasound of the aorta and arteries of the lower limbs is the reference examination for determining the location of arterial lesions and their haemodynamic impact.
+
+Symptoms guide the choice of further investigations:
+
+In the case of claudication, a treadmill walking test with measurement of ankle pressures (Strandness test) before and after exercise is used to measure the walking distance. It confirms the arterial origin of the claudication and distinguishes it from differential diagnoses (venous, rheumatological, neurological).
+
+In the event of symptoms at rest, haemodynamic measurements are essential both to attribute these symptoms to OSA and to quantify the impact of the lesions. They enable the diagnosis of chronic permanent ischaemia to be made:
+
+*ankle pressure < 50 mmHg
+*toe pressure < 30 mmHg
+*TcPO2 < 30 mmHg
+
+The following investigations are not first-line tests:
+
+*'''Angioscanner of the aorta and arteries of the arteries of the lower limbs'''
+*'''Angio-MRI''' '''of the aorta and arteries of the arteries of the lower limbs'''
+*'''Preoperative explanation and collection of consent for an invasive diagnostic or therapeutic procedure SDD-239|arteriography of the lower limbs]''''
+
+===2/ Aetiological assessment===
+An assessment of cardiovascular risk factors complements the lesion assessment, with first-line biology looking for dyslipidaemia, diabetes and chronic renal failure.

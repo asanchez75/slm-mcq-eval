@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-047-22-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Congenital hip dislocation: finding out about screening procedures
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=22}}
+Inspection: shortening of the thigh, symmetry of skin folds
+
+Search for abduction limitations (norm > 60°)
+
+Search for hip instability: Barlow manoeuvre (jerk)

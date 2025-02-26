@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-151-09-B
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=B
+|Title=Know how to cite the main infectious causes of brain abscesses.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Dr Olivier Robineau
+|Order=9}}
+- Often polymicrobial in origin (contiguity)
+
+- Oral Streptococci (contiguity)
+
+- Anaerobes (contiguity)
+
+- S. aureus (post-surgical or blood-borne)
+
+- P. aeruginosa (post-surgical)
+
+- Listeria monocytogenes (blood-borne)
+
+- Mycobacterium tuberculosis (blood-borne)
+
+- Toxoplasma gondii (in situ or haematogenous reactivation)
+
+- Micromycetes ("Aspergillus fumigatus" or other rarer filamentous fungi, all in immunocompromised patients: by sinus contiguity or haematogenous route)

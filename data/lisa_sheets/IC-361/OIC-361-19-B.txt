@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-361-19-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Radiography with anteroinferior dislocation of the shoulder
+|Description=None
+|Rubric=Multimedia content
+|Contributors=CFCOT
+|Order=19}}
+<gallery>
+File:361 17.jpeg| Anteromedial dislocation right shoulder (Front)
+</gallery><gallery>
+File:361 18.jpeg|Right anteromedial shoulder dislocation (Profile)
+</gallery>

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-266-06-A
+|Item_parent=Polycystic kidney disease
+|Item_parent_short=Polycystic kidney disease
+|Rank=A
+|Title=Knowing the non-specific treatment of polycystic kidney disease
+|Description=Know that hypertension must be managed early, that blood pressure targets are low and that treatment involves an ASRB.
+|Rubric=Management
+|Contributors=Dominique Guerrot
+|Order=6}}
+
+'''Non-specific management of [[Chronic renal failure in adults and children|chronic renal failure]] and its complications (Cf)''''
+
+'''Therapeutic particularities in PKRAD'''
+
+- Given the early onset of hypertension in adults and children with PKRAD, the aim is to detect it early and achieve a minimum blood pressure of less than 140/90 mmHg (138/85 mmHg by self-measurement). The two most appropriate first-line treatment classes are ACE inhibitors or angiotensin II receptor blockers (ARB2).
+
+- Plenty to drink
+
+- Specific treatments to limit the progression of the disease may be discussed following specialist advice.
+
+- Management of complications associated with PKRAD (cystic infection, lithiasis, etc.)
+
+- In the case of [[Organ transplantation: Epidemiological and immunological aspects; principles of treatment and monitoring; complications and prognosis; ethical and legal aspects. Organ procurement and legislation]] it is sometimes necessary to perform a nephrectomy of one of the polycystic kidneys if these reach the iliac region and interfere with subsequent implantation of the kidney graft.
+
+
+''A detailed description of the chapter is available at:'' http://cuen.fr/manuel2/spip.php?rubrique20

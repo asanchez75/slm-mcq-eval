@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-036-11-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Prescribe the complementary examinations recommended for the initiation of estroprogestogenic contraception.
+|Description=None
+|Heading=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=11}}
+Complementary examinations recommended when initiating COP are :
+
+=== - Metabolic panel (total cholesterol, triglycerides, fasting glycaemia) ===
+o At 3 months if no family history of dyslipidemia or arterial accident
+
+o Before the start if there is a family history of dyslipidaemia or arterial accidents
+
+=== - Thrombophilia test ===
+o if there is a family history of venous thromboembolism in a 1st degree relative before the age of 50,
+
+=== - Cervico-vaginal smear ===
+(every 3 years) after the age of 25 (as recommended)

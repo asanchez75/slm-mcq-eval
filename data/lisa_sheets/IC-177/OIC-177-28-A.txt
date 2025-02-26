@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-177-28-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Knowing the most common bacteria in childhood infections
+|Description=None
+|Topic=Epidemiology
+|Contributors=Jean-Philippe Lavigne
+|Order=28}}
+
+Urinary tract infections: Escherichia coli
+
+Skin infections: Staphylococcus aureus and Streptococcus pyogenes
+
+ENT infections: Group A Streptococci or "Streptococcus pyogenes" (angina), "Streptococcus pneumoniae", "Haemophilus influenzae" (acute otitis media), anaerobes (in particular "Fusobacterium" in severe mastoiditis).
+
+Meningitis: neonatal (''E. coli'' K1, ''Streptococcus agalactiae'', and much more rarely ''Listeria monocytogenes''), infant and child (''Neisseria meningitidis'', ''S. pneumoniae'')

@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-151-08-A
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=A
+|Title=Know the main aetiologies and infectious epidemiology of meningoencephalitis.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Dr Olivier Robineau
+|Order=8}}
+
+{| class="wikitable"
+|'''Viruses'''
+|'''Bacteria''''
+|'''Fungal'''
+|-
+|HSV 1
+|Pneumococcus
+|Cryptococcus neoformans
+|-
+|Other herpesviridae
+|Listeria monocytogenes
+|
+|-
+|HIV
+|Tuberculosis
+|
+|-
+|Enterovirus
+|Borreliosis
+|
+|-
+|Rabies
+|Syphilis
+|
+|}

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-341-11-B
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=B
+|Title=Know the principles of aetiological treatment
+|Description=Knowing the main principles of aetiological treatment (neurosurgical and neuroradiointerventional)
+|Heading=Management
+|Contributors=
+|Order=11}}
+'''Traumatic SAH:''' no specific emergency treatment, apart from that for other associated lesions
+
+'''Spontaneous SAH:''' multidisciplinary collegial discussion :
+
+*emergency (< 72 h): secure the aneurysm to prevent rebleeding
+*endovascular treatment = arterioembolisation or neurosurgical treatment = clipping of the aneurysm

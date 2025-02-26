@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-104-17-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the ophthalmological assessment of NORB: visual acuity, visual field, EPI
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=17}}
+- The urgent work-up includes an ophthalmological examination with measurement of visual acuity (to assess the severity of the visual impairment), visual field (to look for a scotoma and its extent), fundus (to look for papilledema) ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]).
+
+- Visual evoked potentials will subsequently confirm demyelination of the optic nerve (lengthening of P100 latency), but they are not essential to the diagnosis ([[Rational request/prescription and choice of a diagnostic test SD-178|rational request/prescription and choice of a diagnostic test]]).
+
+- MRI of the optic nerves (with injection of contrast) can also help to visualise the inflammatory lesion responsible for the drop in visual acuity and rule out a compressive aetiology (tumour or other) ([[Discovery of a brain anomaly on medical imaging examination SD-226|discovery of a brain anomaly on medical imaging examination]]).
+
+- Lastly, OCT (optical coherence tomography) can be of diagnostic value (revealing papilledema) but above all prognostic.

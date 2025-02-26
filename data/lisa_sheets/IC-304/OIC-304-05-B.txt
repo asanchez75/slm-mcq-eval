@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-304-05-B
+|Item_parent=Primitive and secondary liver tumours
+|Item_parent_short=Primitive and secondary liver tumours
+|Rank=B
+|Title=Knowing the imaging exploration strategy for liver tumours
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+Hepatic cross-sectional imaging (CT and MRI) without and with injection of contrast medium with multiphase acquisitions (analysis at injection-free, arterial, portal and late stages) is effective for diagnosing hepatic tumours on the basis of their morphological, vascular and biliary characteristics (table 1). Biopsy is now rarely necessary to distinguish benign from malignant lesions. However, to determine the treatment and prognosis of a liver tumour, biopsy of the tumour is sometimes necessary, even if the clinico-biological-radiological diagnosis is almost certain (Figure 1).
+
+Table 1: Anatomo-radiological characteristics of the main liver tumours.
+{| class="wikitable"
+|'''''Lésion'''''
+|'''''Anatomical features'''''
+|'''''Diagnostic imaging (the most effective)'''''
+|'''''Radiological semiology'''''
+|-
+|'''Hemangioma''''
+|Proliferation of abnormal dilated capillaries with arterial vascularisation.
+|Hepatic ultrasound.
+
+In case of doubt, hepatic MRI without and with injection of contrast and multiphasic
+|Hypointense in T1 and hyperintense in T2, peripheral and centripetal nodular contrast.
+|-
+|HCC
+|Vascularisation mainly via the hepatic arterial network (unlike the normal liver, which is mainly vascularised by the portal vein network).
+|Hepatic CT or MRI scan without and with injection of contrast medium and multiphasic
+|Contrast in the arterial phase, then washout in the venous or late phase, peripheral capsule
+|-
+|''Cholangio-carcinoma'''
+|Vascularisation by the hepatic arterial network and by the portal vein network associated with significant fibrosis known as desmoplastic reaction.
+|Hepatic CT or MRI scan with or without injection of contrast medium and multiphasic.
+|Progressive contrast from arterial to venous and late phases
+|-
+|Focal nodular hyperplasia
+|Central scar (unlike adenoma) comprising adipose and fibrous tissue.
+|Hepatic MRI without and with injection of contrast medium and multiphasic
+|Homogeneous contrast in the arterial phase, isointense signal in T1 and T2, central scar visible in T2 with enhancement in the late phase.
+|-
+|Adenoma
+|Vascularisation mainly via the hepatic arterial network, disappearance of the bile ducts within the lesion
+|Hepatic MRI without and with injection of contrast medium and multiphasic
+|Arterial contrast, semiology highly variable according to subtype
+|-
+|Metastasis
+|Vascularisation most often via the hepatic portal venous network; sometimes preferentially via the arterial network, particularly in the case of metastases from well-differentiated neuroendocrine tumours.
+|Hepatic CT or MRI without and with injection of contrast medium and multiphasic.
+|Often isointense (hypointense) spontaneously; most often hypointense at portal time (sometimes hyperintense at arterial time - hyperenhanced metastases); often hypointense at T1 and hyperintense at T2.
+|}
+[[File:Liver tumour figure 1.png|vignette|Figure 1 - initial diagnostic approach]]

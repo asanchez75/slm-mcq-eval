@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-277-28-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the septic complications of acute cholecystitis
+|Description=Abscess, peritonitis, bilio-digestive fistula
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=28}}
+The septic complications of acute cholecystitis are :
+
+- peri-vesicular or hepatic abscesses
+
+- biliary peritonitis due to vesicular perforation
+
+- bilio-digestive fistula

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-027-06-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Intitulé=Toxoplasmose : connaître les principaux conseils de prévention de la toxoplasmose
+|Description=Wash your hands before eating, after touching the ground or petting an animal; wash fruit and vegetables; cook meat; be careful with cat litter; avoid eating away from home.
+|Rubric=Care
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=6}}
+'''Primary prevention'''
+
+It involves hygienic and dietary recommendations to reduce the risk of seroconversion:
+
+- eat meat well cooked, prefer frozen food ;
+
+- Wash hands before and after handling food;
+
+- Wash raw vegetables and salads thoroughly;
+
+- avoid contact with cats and wear gloves when cleaning the cat's litter tray and doing the gardening.
+
+Secondary prevention
+
+This includes monthly serological screening (see previous chapter), administration of antiparasitic medication in the event of proven seroconversion and monitoring in the CPDPN (amniocentesis, ultrasound +/- foetal MRI).
+
+'''[[Fetal risk prevention SD-312|312. Fetal risk prevention]]''''

@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-300-14-B
+|Item_parent=Tumours of the uterine cervix, tumour of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=Knowing the imaging exploration strategy for a tumour of the uterine body
+|Description=Endovaginal ultrasound with Doppler in the presence of post-menopausal metrorrhagia, notion of endometrial thickness according to pre- or post-menopausal status. Pelvic MRI assessment if histologically proven endometrial cancer.
+|Rubric=Additional examinations
+|Contributors=
+|Order=14}}
+
+
+==Abdominal and endovaginal ultrasound with Doppler==
+[[File:UntitledUterus.png|vignette|Conduit à tenir en cas de métrorragies post ménopausiques]]
+Ultrasound measurement of the uterine cavity is best performed transabdominally. If the thickness of the endometrial mucosa is less than 4 mm, the likelihood of cancer is very low. The negative predictive value (NPV) of this sign is very good; on the other hand, the positive predictive value is low, which is why ultrasound alone is not a good screening test for endometrial cancer. However, in a non-menopausal patient, a uterine mucosa thicker than 8 mm is abnormal and should prompt further investigations.
+
+
+Figure. Treatment of postmenopausal metrorrhagia
+<br />
+
+==Pelvic MRI
+MRI is an essential examination for determining the stage of endometrial cancer preoperatively. It can be used to locate and measure the lesion, to determine the depth of myometrial invasion and the extent of the tumour towards the cervix or adnexa. It is also one of the most effective tests for detecting lymph node involvement.
+
+==Search for metastases==
+If the tumour appears to be advanced (FIGO stage III or above), or if it is a histological type 2 lesion, a more extensive extension work-up may be carried out before the operation. This includes a TAP (thoraco-abdomino-pelvic) scan or a PET scan.
+
+==Related starting situations==
+[[Reasoned request/prescription and choice of a diagnostic examination SD-178|178. Reasoned request/prescription and choice of a diagnostic examination]]
+
+[Interpretation of an anatomopathology report SD-180|180. Interpretation of an anatomopathology report]]
+
+[Malignant tumours on surgical specimen/biopsy SD-181|181 Malignant tumours on surgical specimen/biopsy
+
+[Discovery of a pelvic anomaly on medical imaging examination SD-229|229. Discovery of a pelvic anomaly on medical imaging examination]]
+
+[Request for an imaging examination SD-231|231. Request for an imaging examination]]
+
+[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|232. Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]
+
+[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|233. Identify/recognise the different imaging examinations (type/window/sequences/incidence/injection)]]

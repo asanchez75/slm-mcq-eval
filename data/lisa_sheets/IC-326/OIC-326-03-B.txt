@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-326-03-B
+|Item_parent=Regulatory framework for therapeutic prescribing and recommendations for correct use
+|Item_parent_short=Regulatory framework for therapeutic prescribing and recommendations for correct use
+|Rank=B
+|Title=Knowing the meaning of clinical benefit and therapeutic interest indices: medical service rendered (SMR), improvement in medical service rendered (ASMR), etc.
+|Description=Explain the principles governing the evaluation and reimbursement of medicinal products and therapeutic innovations (ANSM, HAS, CEPS).
+|Rubric=Definition
+|Contributors=Clara Locher
+|Order=3}}
+The '''medical service rendered''' [SMR] and the <nowiki/>''improved medical service'''l [ASMR] make it possible to answer the following two questions:
+
+*Does the drug have sufficient ''clinical interest'' to be ''covered by national health insurance''?
+*Does the drug offer ''progress compared with available treatments''?
+
+The SMR and ASMR are assessed by the '''Commission de la Transparence''' [CT] of the '''Haute Autorité de santé''' [HAS] <u>after</u> the drug has obtained its marketing authorisation [AMM].
+
+==Medical service rendered [SMR]==
+The '''SMR''' provides scientific and clinical evidence to the Union nationale des caisses d'assurance maladie [UNCAM] and the Minister to '''justify whether or not drugs should be reimbursed'' by '''national solidarity''.
+
+The ''SMR'' is determined on the basis of characteristics relating to the ''indication'' and the ''medicinal product'':
+
+*the ''efficacy'' and ''adverse effects'' of the medicinal product;
+*the preventive, curative or symptomatic nature of the medicinal product;
+*its ''place in the therapeutic strategy'', in relation to other available therapies;
+*its ''public health value'': severity of the disease, prevalence, medical need and response, impact on quality of life, impact in terms of morbidity and mortality, and impact on the organisation of care.
+
+Based on the assessment of these criteria, four ''SMR'' levels have been defined, which ''determine'' access to reimbursement and the ''rate'' of reimbursement:
+{| class="wikitable"
+|+
+!Clinical interest - SMR
+!Reimbursement rate
+|-
+|Important
+|65 %
+|-
+|Moderate
+|30 %
+|-
+|Low
+|15 %
+|-
+|Inadequate
+|Not reimbursed
+|}
+
+==Medical service improvement [ASMR]==
+The ASMR corresponds to the ''therapeutic progress'' made by a drug in a given disease. It therefore depends on the other reference treatments available.
+
+Based on this assessment, five levels of ASMR have been defined to help determine the price of the drug:
+{| class="wikitable"
+|+
+!Therapeutic progress
+!ASMR
+Impact on the price of the drug
+|-
+|Major
+|ASMR I
+| rowspan="4" |Possibility of a price higher than that of comparators
+|-
+|Important
+|ASMR II
+|-
+|Moderate
+|ASMR III
+|-
+|Minor
+|ASMR IV
+|-
+|Absent
+|ASMR V
+|May only be reimbursed if it results in a saving in treatment costs
+|}

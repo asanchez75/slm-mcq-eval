@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-061-04-B
+|Item_parent=Knowing the basic classifications of mental disorders from children to the elderly
+|Item_parent_short=Know the basic classifications of mental disorders from children to the elderly
+|Rank=B
+|Title=Know the existing nosographic systems
+|Description=CIM-10 and DSM-5
+|Rubric=Definition
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notre-Dame
+|Order=4}}
+
+'''4.     Existing nosographic systems (row B)'''
+
+
+Definitions :
+
+- Semiotics: the science of collecting signs and symptoms
+
+- Nosology: the science of classifying diseases (nosography = description and classification of diseases)
+
+Two main systems are used:
+
+- International Classification of Diseases ICD-11
+
+o Used in diagnostic coding
+
+- Diagnostic and Statistical Manual: American classification, currently in its 5th revision (DSM-5).
+
+o Often used in research

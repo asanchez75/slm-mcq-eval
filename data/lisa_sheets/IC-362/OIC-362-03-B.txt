@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-362-03-B
+|Item_parent=Prostheses and osteosynthesis
+|Item_parent_short=Prostheses and osteosynthesis
+|Rank=B
+|Title=Knowing the complications of osteosynthesis
+|Description=None
+|Rubric=Management
+|Contributors=CFCOT
+|Order=3}}
+
+'''<u>[https://videotheque.uness.fr/w/9JVNhPkjAbbLJcM4aSEe7h 1])     Infection:</u>'''
+
+*It often begins with a problem with the healing of the skin, which becomes the entry point. The bacteria settle on the osteosynthesis material and grow there, protected from the immune system and even from antibiotics.
+*Can be early (within the first month after surgery) or late, acute or chronic.
+*Clinical:
+**Acute: fever, redness, pain, discharge from the scar, abscess, up to septic shock.
+**Chronic: the clinical features are less obvious, with pain, recurrent problems with healing of the surgical approach, fistula with purulent discharge, pseudarthrosis.
+*Treatment: medical-surgical
+**Surgical first: remove the osteosynthesis material, take bacteriological samples to identify the germ, wash the infected area with antiseptic solutions and excise the necrotic tissue. A new osteosynthesis can be put back in place if it is not exposed by the scar, otherwise an external fixator can be used.
+**Then medical: broad-spectrum probabilistic antibiotic therapy to be started intraoperatively once the samples have been taken, then adapted to the germ found. It is important not to start antibiotic therapy without first taking samples to identify the germ (blood cultures and local samples).
+
+'''<u>2) Dressing room syndrome</u>''''
+
+*Mechanism: post-traumatic muscle oedema leading to hyperpressure in the muscle compartment, which is contained by a non-extensible aponeurosis. This hyperpressure leads to muscle ischaemia and irreversible necrosis.
+*Any muscle compartment in the human body can be affected.
+*Clinical signs :
+**Intense pain not relieved by painkillers.
+**Induration of the affected compartment(s)
+**Very painful movement
+**Sensory then late motor problems (hypoesthesia of the 1st</sup> commissure in the case of damage to the deep fibular nerve).
+**Preserved pulses
+*Diagnosis: clinical +++
+*Treatment: emergency offloading aponeurotomy. This involves incising the aponeuroses of the affected muscle compartments along their entire length.
+
+'''<u>3) Secondary displacement</u>''''
+
+*This is a displacement of fracture fragments that were initially well reduced. It may occur in cases of osteoporotic bone, lack of rigidity in the fixture or non-observance by the patient. The risk is high during the first 3 weeks, until the fibrocartilaginous callus is formed; the risk is lower thereafter until consolidation.
+*The consequence, if not detected early, is vicious callus. Requires revision surgery for reduction and new osteosynthesis.
+
+'''<u>4) Operative complications</u>''''
+
+*Arterial injury
+*Nerve damage: there may be a postoperative sensory-motor deficit of a nerve that was damaged during the operation (radial nerve in humeral shaft fractures, axillary nerve in proximal humeral fractures). These nerve injuries often regress if the continuity of the nerve is not interrupted.
+
+'''<u>5) Other post-operative complications</u>''''
+
+*Healing disorders and scar disunion:
+**May follow a large haematoma.
+**May be indicative of an underlying infection.
+**May be due to poor skin closure.
+**May be secondary to a fall by the patient.
+**Consequence: risk of infection through the scar.
+**Treatment: surgical closure in the operating theatre.
+*Deep vein thrombosis and pulmonary embolism: see dedicated sheet.
+*Pseudarthrosis
+*Cal vicieux
+*Complex regional pain syndrome type 1
+*
+*
+*[https://videotheque.uness.fr/w/9JVNhPkjAbbLJcM4aSEe7h See the ppt recorded on the imaging of item 362 by the College of Radiologists (CERF)]

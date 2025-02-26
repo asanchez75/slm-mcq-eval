@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-184-01-B
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Rank=B
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Description=None
+|Rubric=Definition
+|Contributors=Barbara Charbotel, Bénédicte Clin-Godard, Frédéric Dutheil, Sébastien Hulo, Marie-Pascale Lehucher, Nathalie Nourry
+|Order=1}}
+Social security is made up of ''five branches'': one branch deals specifically with occupational injuries and diseases.
+
+The accident at work and occupational diseases branch; * The health branch (sickness, maternity, invalidity, death)
+*Sickness (sickness, maternity, invalidity, death);
+*the family branch (including disability and housing...);
+*pensions (old age and widowhood).
+*contributions and collection
+
+'''At national level'''
+
+Occupational injury insurance is managed by the PR department within the occupational injury branch of the Caisse Nationale de l'Assurance Maladie des Travailleurs Salariés (CNAMTS), which is separate from the health branch.
+
+'''At regional level'''
+
+16 regional health insurance funds (CARSAT) implement the RP prevention policy and the pricing of company contributions.
+
+'''At local level'''
+
+129 primary health insurance funds (CPAM), manages compensation for victims of occupational injuries.
+
+
+Be aware that there are other insurance schemes (MSA, civil service, EDF-GDF, SNCF, RATP, etc.) than the social security system and that self-employed workers or volunteers are not compulsorily insured against the risk of occupational accidents and diseases.
+
+<br />

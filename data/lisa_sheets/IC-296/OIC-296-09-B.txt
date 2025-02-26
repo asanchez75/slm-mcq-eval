@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-296-09-B
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=B
+|Title=Knowing the prognosis of agranulocytosis in post-chemotherapy bone marrow aplasia
+|Description=
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=9}}
+'''- variable duration (a few days to a few weeks) depending on the intensity of the chemotherapy''''
+
+'''- infectious risk only bacterial if short aplasia <7d''''
+
+'''- additional infectious fungal risk if long aplasia >7 days'''

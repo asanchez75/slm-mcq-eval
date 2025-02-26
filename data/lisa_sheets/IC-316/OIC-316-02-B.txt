@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-316-02-B
+|Item_parent=Myelodysplastic syndromes
+|Item_parent_short=Myelodysplastic syndromes
+|Rank=B
+|Title=Knowing the aetiologies of MDS
+|Description=15% secondary to toxic exposure (chemotherapy, radiotherapy, ionising radiation, benzene)
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+Primitive in 85% of cases
+
+They are sometimes secondary
+
+- Chemotherapy:
+
+o Alkylating agents and purine analogues
+
+o Topoisomerase II inhibitors
+
+- Toxic substances: benzene, smoking, solvents
+
+- Ionising radiation
+
+- A acquired haematological diseases: myeloproliferative disorders, bone marrow aplasia and paroxysmal nocturnal haemoglobinuria
+
+- Certain constitutional diseases: trisomy 21, Fanconi anaemia, Kostmann neutropenia, neurofibromatosis, as well as other rare familial genetic diseases predisposing to haemopathies (1/3 of MDS in children).

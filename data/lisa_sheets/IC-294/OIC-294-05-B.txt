@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-294-05-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the effective and tolerable doses of X-rays
+|Description=Know the general tolerance doses for healthy tissues and those for tumour control.
+|Rubric=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=5}}
+
+<It is important to know the tolerance doses for each organ or tissue. Irradiating a tumour, which is usually deep and surrounded by healthy tissue, inevitably involves irradiating peri-tumoural tissue.
+
+The irradiation plan must respect the tolerance doses for each healthy organ. It is possible to deliver high doses to part of an organ, and a much lower dose to the whole organ. For example, the spinal cord can tolerate 45 Gy, and the lung parenchyma 20 Gy over an entire lung.
+
+The dose required to sterilise a tumour depends on the tumour in question (inherent radiosensitivity) and its volume.
+
+Schematically, a seminoma of the testicle is destroyed by a dose of 30 Gy, Hodgkin's disease by 40 Gy, breast cancer by 50-60 Gy, and a very large ENT cancer by 70-80 Gy. A dose of >100 Gy would be required to destroy a glioblastoma.

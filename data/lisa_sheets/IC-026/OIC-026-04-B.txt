@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-026-04-B
+|Item_parent=Acute abdominal pain in a pregnant woman
+|Item_parent_short=Acute abdominal pain in pregnant women
+|Rank=B
+|Title=Knowing how to manage acute abdominal pain in pregnant women
+|Description=Know how to guide the clinical examination and suggest appropriate paraclinical tests during management.
+|Rubric=Multimedia content
+|Contributors=Louis Marcellin,Philippe Deruelle
+|Order=4}}
+
+[[File:Douleurs abdominales de la femme enceinte.jpg|vignette|'''Douleurs abdominales de la femme enceinte'']]

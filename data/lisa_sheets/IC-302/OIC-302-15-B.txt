@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-302-15-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Photograph of a basal cell carcinoma
+|Description=Photograph of a typical basal cell carcinoma
+|Rubric=Multimedia content
+|Contributors=
+|Order=15}}
+
+[[File:Figure B.jpg|vignette|Nodular basal cell carcinoma: translucent nodule covered with telangiectasias]]
+[[File:Figure A.jpg|vignette|Superficial basal cell carcinoma: well-limited erythematosquamous plaque with pearly border]]

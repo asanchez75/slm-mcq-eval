@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-243-03-B
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=B
+|Title=Knowing the pathophysiology of Hashimoto's thyroiditis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Eva Feigerlova,Igor Tauveron
+|Order=3}}
+ 
+
+Hashimoto's thyroiditis:
+
+- is an autoimmune disease (anti-TPO (thyroperoxidase) antibodies) leading to lymphocytic infiltration of the thyroid parenchyma.
+
+- with no biological repercussions in the initial phase (normal thyroid work-up), hypothyroidism progressively sets in with the destruction of thyreocytes
+
+- may be associated with other autoimmune disorders, endocrinological or other, personal or familial.
+<references />[[Autoimmune diseases: epidemiological aspects, diagnosis and principles of treatment]]

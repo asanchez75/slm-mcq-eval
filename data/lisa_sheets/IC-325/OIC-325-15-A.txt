@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-325-15-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Identifying a medicinal error, its mechanisms and knowing the consequences
+|Description=None
+|Topic=Management
+|Contributors=Marie Briet
+|Order=15}}
+
+=Identify a medication error, its mechanisms and know the consequences=
+
+==Definition==
+According to the French National Authority for Health, a medicinal product error is defined as any preventable event which could cause or lead to the inappropriate use of a medicinal product or to harm to the patient when the medicinal product is under the control of the healthcare professional, patient or user.
+
+This is an unintentional act involving the medicinal product during the care process.
+
+A medicinal product error is said to have occurred when the error has been confirmed, and a "near miss" or potential error when the error has been identified and avoided in time.
+<br />
+
+==Mechanisms==
+A medication error may be linked to professional practice, healthcare products, procedures and systems covering the entire medication circuit: prescribing, communication of the prescription, dispensing, preparation, distribution, administration, education, therapeutic monitoring/follow-up and use. Causes directly related to the product may also be found, and linked to the labelling, packaging or nomenclature of the product.
+<br />
+
+==Characterisation of an error==
+
+*its classification: "error, potential error or risk of error".
+*its stage: prescribing, dispensing, preparation, administration, therapeutic follow-up, etc.
+*the nature of the error: drug, dose, dosage/concentration, route of administration, flow rate, administration technique, patient, time of administration, duration of administration, omission, etc.
+*their causes: communication problems, human factors, name confusion, labelling and/or information problems, packaging or design problems, etc.
+
+<br />
+
+==Consequences==
+A medication error can result in :
+
+*An adverse event resulting in harm to the patient
+*A near miss in which the patient almost suffered harm
+*No harm or risk of harm

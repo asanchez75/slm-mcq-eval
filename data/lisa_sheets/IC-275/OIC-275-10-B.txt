@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-275-10-B
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=B
+|Title=Knowing prophylactic measures before splenectomy
+|Description=Pneumococcal (modalities) and haemophilus B ± meningococcal vaccinations (especially for children), long-term oracillin treatment (minimum 2 to 3 years).
+|Section=Management
+|Contributors=
+|Order=10}}
+Risk of invasive infections with encapsulated germs, particularly pneumococcus.
+
+- Update of routine vaccinations
+
+- Annual seasonal flu vaccine
+
+- Pneumococcal vaccination (13-valent conjugate vaccine followed by 23-valent non-conjugate vaccine two months later)
+
+- Vaccinations against Haemophilus B and meningococcus (ACYW135 and B conjugate vaccines) (''[[Vaccinations for adults and children SD-322|vaccinations for adults and children]]'').
+
+- If possible, at least two weeks before splenectomy (except for influenza, annually, depending on the season)
+
+- After surgery: long-term antibiotic prophylaxis with penicillin V for at least 2 years in adults and 5 years in children.
+
+- Therapeutic education: consult a doctor in the event of fever and take antibiotics as a matter of urgency (third-generation cephalosporin).

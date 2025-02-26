@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-269-07-A
+|Item_parent=Acute abdominal pain in children and adults
+|Item_parent_short=Acute abdominal pain in children and adults
+|Rank=A
+|Title=Knowing the biological tests to prescribe in the event of acute abdominal pain
+|Description=None
+|Rubric=Additional tests
+|Contributors=Fabrice MUSCARI
+|Order=7}}
+
+The strategy for ''complementary examinations'' must be based on the findings of the clinical examination, and therefore ''targeted''. Its aim is to confirm the aetiology suspected following the clinical examination. Biology will be guided by the clinical examination and is not obligatory.
+
+For example, we propose :
+
+▪ CBC, CRP (looking in particular for an infectious/inflammatory syndrome)
+
+▪ If right hypochondrium or epigastric pain: liver work-up and lipasemia.
+
+▪ If shock, or signs of dehydration, or before a CT scan: ionogram (hypokalaemia in the presence of diarrhoea or vomiting), creatininaemia, blood gas, lactataemia
+
+▪ Blood cultures in case of fever or chills
+
+▪ Haemostasis in the event of external bleeding
+
+▪ β-HCG: mandatory in all women of childbearing age.
+
+▪ A urine dipstick and ECBU in case of urinary signs
+
+▪ A blood calcium and blood glucose test in a suggestive context
+
+'''ECG'''
+
+In the case of abdominal pain of atypical presentation (radiating to the chest or shoulders), or in a patient with cardiovascular risk factors with epigastric pain, a '''''électrocardiogram''''' with posterior and right leads should be performed, together with an enzyme assay for troponin, to look for an acute coronary syndrome in the posterior territory.

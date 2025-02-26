@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-036-12-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Know how to prescribe the different contraceptives available, including emergency contraception.
+|Description=None
+|Heading=Management
+|Contributors=Geneviève Plu-Bureau
+|Order=12}}
+
+
+=== '''Hormonal contraception''' ===
+Ideally started on the 1<sup>rst</sup> day of menstruation, a delay until the 5th day is acceptable.
+
+After this period (quick start method), contraceptive efficacy is not immediate and intercourse must be protected for at least 7 days.
+
+=== '''IUD contraception''' ===
+Ideally inserted during the menstrual period
+
+=== '''Emergency contraception''' ===
+As soon as possible after high-risk intercourse (see dedicated section)

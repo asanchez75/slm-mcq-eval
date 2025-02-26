@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-310-02-B
+|Item_parent=Prostate tumours
+|Item_parent_short=Prostate tumours
+|Rank=B
+|Title=Knowing the epidemiology of prostate cancer
+|Description=Knowing the prevalence, rankings of prostate cancer in relation to the main cancers, in terms of incidence and mortality of prostate cancer, age of peak frequency + prognostic elements
+|Rubric=Epidemiology
+|Contributors=Alexandra MASSON-LECOMTE,Laurent BRUREAU
+|Order=2}}
+
+
+
+<br />
+
+*It is the most common tumour in men over the age of 50.
+
+*Median age at diagnosis: 68.
+*In men, it is the most common cancer (51,000 cases), ahead of lung cancer (around 31,200 cases per year) and colorectal cancer (around 23,200 cases).
+*Incidence is approximately 51,000 new cases per year (estimation period: 2007 - 2016) for a standardised mortality rate of 10/100,000 cases, i.e. approximately 8,700 deaths per year (estimation period: 2007 - 2014).
+*In terms of mortality, it is the 3rd most common cancer (8,700 deaths) behind lung cancer (around 22,700 deaths) and colorectal cancer (around 9,200 deaths).
+
+Screening for prostate cancer is not recommended.
+
+Early diagnosis is recommended for men:
+
+.with a life expectancy > 10 years
+
+.between the ages of 50 and 70 (40-45 if there is a family or ethnic risk factor)
+
+.after risk-benefit analysis
+
+.a digital rectal examination and a serum PSA test every 2-4 years
+
+
+<br />

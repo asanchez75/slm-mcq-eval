@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-15-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for hospitalisation in psychiatry
+|Description=None
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=15}}
+
+Hospitalisation is used in cases of high suicidal risk, endangerment, severe DCI, melancholic, psychotic or catatonic features, resistance to medication, complex co-morbidities (anxiety disorder, addiction), or isolation/lack of socio-familial support. Hospitalisation may be on an open care basis or without consent, depending on the patient's consent. It is used to prevent the risk of suicide and any complications arising from prolonged bed rest or nutritional deficiencies.

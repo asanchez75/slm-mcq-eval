@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-45-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for long-term pharmacological treatments in adults
+|Description=Refer to item 74
+|Heading=Management
+|Contributors=El-Hage Wissam
+|Order=45}}
+
+SSRIs are effective in OCD in adults, children and adolescents (Item 74), at high doses, with a longer time to efficacy than for depression (6-12 weeks).

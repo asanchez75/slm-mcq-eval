@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-288-15-A
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=A
+|Title=Knowing the treatment of external haemorrhoidal thrombosis
+|Description=
+|Rubric=Management
+|Contributors=
+|Order=15}}
+
+cf : ''[[Knowing the main principles of medicinal and non-medicinal management 2C-288-PC-A01|2C-288-PC-A01]]''''

@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-131-14-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Know the urgent medical consequences of a fall.
+|Description=Fractures, rhabdomyolysis, post-fall syndrome
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=14}}
+'''Traumatic'''
+
+- contusions, haematomas, wounds, dislocations,
+
+- bone fractures,
+
+- intracranial haemorrhage.
+
+'''Linked to the extended ground station:''''
+
+- rhabdomyolysis,
+
+- renal failure, dehydration
+
+- hyperkalaemia
+
+- inhalation pneumonitis, hypothermia
+
+- bedsores
+
+- thromboembolic venous disease,
+
+'''Psychological:'''
+
+- post-fall syndrome or psychomotor maladjustment syndrome
+
+- confusion
+
+. functional decline

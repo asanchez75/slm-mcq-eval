@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-122-05-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Know the main aims of rehabilitation.
+|Description=Simple aims of rehabilitation in common pathologies.
+|Rubric=Management
+|Contributors=Claire Hentzen
+|Order=5}}
+
+Overall rehabilitation objectives :
+
+* Reduction of deficiencies with possible recovery in many situations through :
+** Anatomical recovery (joint amplitude, muscle strength, etc.)
+** Functional recovery (motricity, deconditioning to exertion)
+
+* Reduction of the consequences of deficiencies, activity limitations and restrictions on participation: improvement or restoration of function by introducing compensation or possible appliances.
+** Maintenance, when a programme of self-exercise alone is not sufficient to maintain functional capacity ('''[[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]], [[Management of a patient in prolonged decubitus SD-276|Management of a patient in prolonged decubitus]], [[Progressive loss of autonomy SD-031|Progressive loss of autonomy]], [[Assessment and management of chronic pain SD-260|Assessment and management of chronic pain]])'''''
+** Compensation for a disability ('''[[Prescription of a simple appliance SD-245|Prescription of a simple appliance]])''' cf item [[Non-drug therapies and medical devices|328]]

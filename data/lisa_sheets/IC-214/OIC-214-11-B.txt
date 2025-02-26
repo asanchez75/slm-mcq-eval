@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-214-11-B
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=B
+|Title=Knowing the indications for myelogram in thrombocytopenia
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=11}}
+'''A myelogram ([[Interpretation of a myelogram SD-221|interpretation of a myelogram]])''' must be performed in the presence of thrombocytopenia not explained by an identified pathology (hypersplenism in the context of a known hepatopathy, vitamin deficiency or obvious viral cause for example), a myelogram should systematically be performed in the presence of one (or more) of the following:
+
+- Age over 60 (so as not to misdiagnose myelodysplasia);
+
+- Clinical tumour syndrome: adenopathy, hepatomegaly and/or splenomegaly;
+
+- abnormality of another blood line on the haemogram (anaemia, macrocytosis, neutropenia or monocytosis for example) or abnormality of the blood smear (abnormal circulating cells).
+
+
+In other situations (isolated thrombocytopenia, in a patient under 60 years of age, with no abnormalities on clinical examination other than a possible haemorrhagic syndrome, and with no other abnormalities on the haemogram or blood smear), a myelogram is not routinely recommended.

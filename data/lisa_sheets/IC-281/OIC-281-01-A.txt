@@ -1,0 +1,11 @@
+The chronic pancreatitis item must be learnt at the same time as the acute pancreatitis item (item 358){{knowledge objective
+|Identifiant=OIC-281-01-A
+|Item_parent=Chronic pancreatitis
+|Item_parent_short=Chronic pancreatitis
+|Rank=A
+|Intitle=Know the definition of chronic pancreatitis
+|Description=Destruction of pancreatic parenchyma with the development of fibrosis affecting exocrine and endocrine tissue.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Chronic pancreatitis (CP) is linked to chronic inflammation of the pancreatic gland which generates mutilating fibrosis, leading to functional destruction of the exocrine and then the endocrine pancreas.

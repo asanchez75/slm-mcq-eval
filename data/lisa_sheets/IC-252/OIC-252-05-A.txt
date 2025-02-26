@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-252-05-A
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=A
+|Intitle=Cite the complications of undernutrition in the elderly
+|Description=None
+|Rubric=Pronosis
+|Contributors=
+|Order=5}}
+The main complications of protein-energy undernutrition in the elderly are :
+
+'''1-Morbi-mortality''''
+
+Undernutrition significantly increases morbidity and mortality. Its presence is a poor prognostic factor in many diseases (cancer, infections, etc.).
+
+By increasing complications in hospital, it increases the length of stay. Undernutrition also increases the risk of institutionalisation for elderly people living at home.
+
+=== '''2-Sarcopenia''' ===
+Corresponds to the reduction in muscle mass, strength and function during the ageing process, which is itself associated with reduced mobility, the risk of falling and dependency.
+
+3-Immunodepression
+
+Undernutrition alters cell-mediated immunity, humoral immunity and non-specific immunity, increasing the number and severity of infections, as well as the risk of nosocomial infection.    
+
+4-''Escarres'' (SDD-086): undernutrition increases the risk of bedsores appearing, but can also lead to delayed healing.
+
+5-''Dehydration'''
+
+6- ''Micronutrient deficiencies'' (vitamins B9, B12, and trace elements zinc)

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-194-02-A
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=A
+|Title=Know that anti-phospholipid syndrome (APS) can be primary or secondary.
+|Description=Secondary to LS ++.
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+APS = rare disease
+
+
+Association of
+
+1. thrombotic or obstetric manifestations
+
+AND
+
+2. presence of antibodies to phospholipids persistent over time.
+
+
+Primary SAPL: outside any other defined pathological context
+
+Secondary APS: associated with another autoimmune disease (mainly LS)

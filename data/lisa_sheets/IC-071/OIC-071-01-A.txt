@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-071-01-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Know the definition and etiopathogenesis of eating disorders (ED)
+|Description=Significant and lasting disturbances in food intake. Multifactorial origin. Vulnerability factors, triggering factors and maintenance factors.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Eating disorders are defined by the existence of "significant" and "lasting" disturbances in food intake.
+
+The notion of a significant threshold, when talking about pathological behaviour, is established by taking into account the <u>cultural context</u>, the <u>intensity of the disturbances</u>, their <u>general medical consequences</u>, the <u>psychic suffering</u> and the <u>social consequences</u>.
+
+The etiopathogenesis of OCD is still poorly understood: it is ''multifactorial in origin'' and linked to
+
+* vulnerability factors'': genetic background and/or pre-existing biological abnormalities
+* trigger factors": strict diets, major life events, puberty and oestrogen
+* maintenance factors": biological imbalances induced by the disorder, relational benefits in relation to the environment, psychological benefits, etc.
+
+<br />

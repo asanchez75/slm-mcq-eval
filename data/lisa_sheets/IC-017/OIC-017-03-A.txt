@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-017-03-A
+|Item_parent=Telemedicine, telehealth and telehealth services
+|Item_parent_short=Telemedicine, telehealth and telehealth services
+|Rank=A
+|Title=Knowing the ethical and deontological framework
+|Description=Knowing the regulations governing the practice of telemedicine (different telemedicine acts), the responsibilities of telemedicine players and platforms.
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+The professional is responsible for assessing the appropriateness of using a remote practice.
+
+The patient must be informed and give informed consent. It may be necessary to train the patient in the use of the telemedicine device.
+
+When the situation requires it, the professional must be able to refer the patient to a face-to-face consultation within a timeframe compatible with the patient's state of health.
+
+Good teleconsultation practice is set out by the French National Authority for Health (HAS, Le guide de bonnes pratiques et fiche mémo pour la qualité et la sécurité des actes de téléexpertise et de télémédecine) :
+
+* Check the patient's ability to benefit from teleconsultation,
+* Ensure that videotransmission can be set up.
+* If necessary, arrange for a member of the patient's family to be present.
+* If necessary, arrange for an accompanying healthcare professional to be present.
+* Ensure that the patient's medical data required for the procedure is available.
+* Before or at the beginning of the remote procedure, inform the patient about the teleconsultation and obtain his or her consent.
+
+Clearly identify the clinical situations in which telemedicine procedures can help to improve access, continuity and/or safety of care. In accordance with HAS recommendations, teleconsultation is not suitable for situations requiring direct physical examination by a medical professional. However, it is not always possible to identify these situations a priori.

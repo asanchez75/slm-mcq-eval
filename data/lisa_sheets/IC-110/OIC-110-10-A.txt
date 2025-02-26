@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-110-10-A
+|Item_parent=Sleep disorders in children and adults
+|Item_parent_short=Sleep disorders in children and adults
+|Rank=A
+|Title=Knowing the main rules of hygiene to combat insomnia
+|Description=During the day, in the evening and at night
+|Rubric=Taking charge
+|Contributors=
+|Order=10}}
+
+
+see general rules of sleep hygiene.

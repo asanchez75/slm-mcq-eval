@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-070-05-A
+|Item_parent=Psychological disorders in the elderly
+|Item_parent_short=Psychological disorders in the elderly
+|Rank=A
+|Title=Knowing the specific semiological features of psychiatric disorders in the elderly
+|Description=Suicidal behaviour (item 353)Schizophrenia (item 64)Mood disorders (item 64 and item 66)Anxiety disorders (item 66)Alcohol- and drug-related disorders (item 77 and item 77)
+|Rubric=Positive diagnosis
+|Contributors=Pierre Vandel,Marie Tournier
+|Order=5}}
+
+'''Always look for non-psychiatric comorbidities'''
+
+== '''Characteristic depressive episode''' ==
+Diagnostic criteria identical to those for young people.
+
+Atypical depression has its own specific features, with general, non-psychiatric symptoms: complaints of pain, gastrointestinal and osteoarticular symptoms, sleep and appetite problems, and cognitive complaints.
+
+Psychotic symptoms are common, with delusions of melancholy, prejudice, persecution and even Cotard's syndrome.
+
+In the presence of non-specific non-psychiatric symptoms or a change in behaviour: suspect a characterised depressive episode and look for mood sadness and suicidal ideation.
+
+== '''Anxiety disorders, bipolar disorders, aging schizophrenia, delusional disorders''' ==
+Same diagnostic criteria as for young adults
+
+== ''Specificity of late and very late schizophrenia'': ==
+Majority of women, predominance of hallucinations and delusions of persecution. Disorganisation and negative symptoms less frequent.
+
+== Alcohol use disorder ==
+Addiction criteria for young adults are not adapted to the elderly in terms of occupational repercussions or tolerance. In old age, attention should be paid to functional repercussions, bodily neglect and sleep disorders. Anxiety, depressive symptoms and cognitive impairment may occur. Be vigilant for confusional syndromes or physical signs of withdrawal during hospitalisation.
+
+== '''Medication use disorder''' ==
+Medication use disorder is not specific, but there is a greater risk of iatrogenicity.

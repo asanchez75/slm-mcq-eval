@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-222-11-B
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=B
+|Title=Describe the amount of physical activity recommended for primary cardiovascular prevention
+|Description=None
+|Rubric=Management
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=11}}
+
+
+*'''Prerequisites: methods of prescribing physical activity for health purposes:''''
+**'''Individualised:''''
+***Adapted to age,
+***to the patient's usual level of physical activity,
+***his state of health (in particular his CV risk level),
+***their physical condition,
+***functional physical capacity and cognitive ability.
+**It must be ''realistic and achievable'', and respond as closely as possible to the patient's objectives and preferences and to the PA resources available in their environment, in order to ensure better long-term adherence.
+**Regular assessment and advice to encourage compliance and, if necessary, to support an increase in exercise volume over time are useful.
+**Levels of intensity:
+***moderate = lactate-free aerobic at 40-70% of VO2 max or 55-74% of maximum heart rate.
+***High = aerobic + lactates at 70-80% of VO2 max or 75-90% of maximum heart rate.
+
+*'''Recommended amount of primary prevention in patients presumed to be in good health:''''
+**at least 150 minutes/week of moderate-intensity PA,
+**or 75 minutes / week of vigorous or high intensity aerobic exercise,
+**or an equivalent combination of the 2 above,
+**a gradual increase to 300 minutes/week of moderate-intensity PA, or 150 minutes/week of vigorous-intensity aerobic exercise, or an equivalent combination, is recommended to obtain additional benefits,
+**It is recommended that sessions should be spread out, with a frequency of > 3 per week and, if possible, one session every day.
+
+*'''Specific populations:'''
+**'''Obese''' (BMI > 30 kg/m<sup>2</sup> or waist circumference > 80 cm in women and > 94 cm in men) and subjects '''with controlled hypertension and diabetics''': add at least 3 sessions / week of resistance exercise in addition to moderate or vigorous intensity aerobic exercise.
+**Vigorous intensity physical activity is contraindicated in uncontrolled hypertension.'''

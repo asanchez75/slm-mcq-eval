@@ -1,0 +1,26 @@
+{{knowledge objective
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of verification of the initial comparability of groups in a therapeutic clinical trial.
+|Description=Know what is essential and how to do it
+|Rubric=
+|College=
+|Contributors=Olivier Chassany (CNET),David Hajage (CIMES),Alexandra Rouquette (CIMES),Nathanaël Lapidus (CIMES)
+|Order=22
+|Identifiant=OIC-323-22-A
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+}}
+'''Randomisation in a clinical trial:''''
+
+*must ensure that the groups are comparable at inclusion (''baseline'') on all measured and unmeasured characteristics
+*limits selection bias and confounding bias
+
+'''Checking that randomisation has been carried out correctly:'''
+
+*check the initial comparability of the groups in terms of the characteristics measured (demographic, diagnostic, severity, prognostic of the disease treated, etc.)
+*in practice: describe the distribution of the initial characteristics of interest in the different groups in order to identify the characteristics whose distribution seems particularly unbalanced (generally the ''"Table 1"'' of scientific articles, entitled ''"Table 1"'). Table 1" of scientific articles, entitled "Baseline characteristics" or "baseline". Baseline characteristics" or "baseline demographics and disease characteristics", see example below).
+*Note: it is not useful (and therefore not recommended) to statistically test the difference in the distribution of these characteristics between the randomisation groups, because even when the randomisation is carried out correctly, there is, by definition of the alpha risk, a 5% probability (if the alpha risk is chosen) of highlighting a significant difference, even though the groups come from the same population. This means that if statistical tests are carried out to compare the initial distribution of all the initial characteristics between the groups, we will find a statistically significant difference on average for 5% of them, because this is the risk of error of the first kind (alpha) that we have set ourselves.
+*If an imbalance is identified for certain characteristics associated with the endpoint, it is possible to control this imbalance in the statistical analysis, for example using an adjustment method. This analysis strategy must be anticipated when the analysis plan is drawn up in the protocol (and not decided a posteriori during comparison tests of all the initial characteristics of the groups, for the reasons given above). This precaution is particularly important for trials conducted on small numbers, when sampling fluctuations during randomisation are likely to induce such imbalances.
+<gallery>
+File:Table 1.jpg| Example of group comparability at inclusion, from an open access article <ref>''Biedermann T, Kuna P, Panzner P, et al. The SQ tree SLIT-tablet is highly effective and well tolerated: Results from a randomized, double-blind, placebo-controlled phase III trial. J Allergy Clin Immunol. 2019 Mar;143(3):1058-1066.e6.''</ref>
+</gallery><br /><references />

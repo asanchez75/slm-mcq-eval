@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-224-11-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Recognising hypertensive emergencies and malignant hypertension
+|Description=Definition of a hypertensive crisis and a hypertensive emergency
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=11}}
+
+
+==Hypertensive emergencies==
+
+==='''Malignant hypertension'''===
+Malignant hypertension is defined as :
+
+- an increase in blood pressure above the patient's usual level
+
+- papilledema at the fundus (Kirkendall stage III), indicative of microangiopathic disease often associating ophthalmological, neurological and renal damage (vascular nephropathies|malignant nephroangiosclerosis).
+
+Management of malignant hypertension requires hospitalisation.
+==='''Hypertensive emergency'''===
+A hypertensive emergency is defined as :
+
+- an increase in blood pressure above the patient's usual level,
+
+- signs of visceral distress: hypertensive encephalopathy, focal neurological damage, [[Acute renal failure - Anuria|Acute renal failure]], [[Adult heart failure|Congestive heart failure]], coronary ischaemia, aortic dissection, papilledema.
+
+The management of a hypertensive emergency requires hospitalisation.
+
+==Hypertensive crisis==
+Unlike hypertensive emergencies, there is a blood pressure threshold characterizing the hypertensive crisis, which is defined by :
+
+- a severe rise in blood pressure > 180/110 mmHg,
+
+- no signs of visceral distress,
+
+- sometimes mild to moderate headaches.
+
+A hypertensive crisis is not, strictly speaking, a hypertensive emergency or malignant hypertension. Hypertensive crises do not require hospitalisation, but the patient needs to be calmed down, taught how to adhere to antihypertensive treatment, and even have treatment adapted. A follow-up consultation should be scheduled as soon as possible.

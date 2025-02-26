@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-193-08-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Intitle=Know the main tests to be carried out if vasculitis is suspected
+|Description=Inflammatory syndrome, ANCA testing, biopsy
+|Rubric=Additional tests
+|Contributors=Luc Mouthon
+|Order=8}}
+
+'''<big>Biological examinations:</big>''''
+
+* inflammatory syndrome ("acute or chronic inflammatory syndrome" SDD-186| "acute or chronic inflammatory syndrome"), "C-reactive protein elevation" SDD-203|)
+* viral serologies: hepatitis C, hepatitis B and human immunodeficiency virus (HIV)
+
+'''<big>Imaging examinations:</big>''' oriented according to the clinical context
+
+* Thoraco-abdomino-pelvic CT scan with injection of iodinated contrast (aortitis, microaneurysms, pulmonary and digestive lesions)
+* CT of the sinuses
+* Depending on the context: arterial echo-doppler, angio-MRI or positron emission tomography (PET-CT) to visualise vascular axes.
+
+'''<big>Biopsies with anatomopathological analysis:</big>''' to be performed on target organs ([[Inflammatory reaction on surgical specimen/biopsy SDD-179|'''inflammatory reaction on surgical specimen/biopsy''']], [[Interpretation of an anatomopathology report SDD-180|'''interpretation of an anatomopathology report''']]):

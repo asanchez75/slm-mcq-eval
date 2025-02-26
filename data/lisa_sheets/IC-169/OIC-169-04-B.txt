@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-169-04-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Knowing the HIV replication cycle
+|Description=To understand the targets and mechanisms of HIV propagation
+|Rubric=Physiopathology
+|Contributors=Jade Ghosn
+|Order=4}}
+'''Microbiological definition:'''
+
+- HIV: member of the retrovirus family: enveloped RNA viruses with the ability to retrotranscribe into DNA
+
+- High genomic variability
+
+- Two types: HIV-1 (most widespread) and HIV-2 (West Africa)
+
+- Replication cycle :
+[[File:HIV cycle.png|thumbnail]]
+
+
+- Recognition between the HIV surface glycoprotein, the CD4 molecule and the CCR5 or CXCR4 co-receptor on the surface of the CD4 T lymphocyte
+
+- Attachment and fusion of viral and cell membranes
+
+- Decapsidation of the viral particle
+
+- Retrotranscription of viral RNA into double-stranded viral DNA using the viral enzyme reverse transcriptase
+
+- Integration of double-stranded viral DNA into the cellular genome using the HIV viral enzyme integrase
+
+- Hijacking of cellular machinery for the benefit of the virus, with transcription of viral messenger RNA
+
+- Translation of viral messenger RNA into a viral polyprotein
+
+- Cleavage of the viral polyprotein by the HIV protease enzyme
+
+- Assembling a new viral particle
+
+- Budding on the surface of the CD4 T cell, the CD4 T cell dies
+
+- Maturation of the new viral particle, which can go on to infect a new CD4 LT
+
+Physiopathology
+
+- Chronic infection, progressing throughout the life of the infected individual
+
+- HIV target cell = CD4 T lymphocyte, a cell (i) with a long half-life and (ii) capable of dividing --> the virus ensures its survival in the body
+
+- Active replication from the moment of primary infection, with the formation of an intracellular viral reservoir (viral DNA integrated into the genome of infected CD4 LTs).
+
+- Immune and humoral responses slightly reduce the level of replication, creating a state of equilibrium between the host and the virus.
+
+- Over time, progressive destruction of CD4 T cells (i) directly as the virus multiplies and (ii) indirectly with immune activation and loss of CD4 T cells.
+
+- Consequence = AIDS, Acquired Immune Deficiency Syndrome, which is the final clinical phase of the infection, with the development of opportunistic infections as soon as the LT CD4 count falls below 200/mm<sup>3</sup>.
+
+- '''AIDS is a CLINICAL definition'': it is the occurrence of opportunistic infections. A patient can have 120 LT CD4/mm<sup>3</sup> and if he has no opportunistic infection, he does not have AIDS.

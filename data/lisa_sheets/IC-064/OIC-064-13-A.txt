@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-064-13-A
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=A
+|Title=Knowing the indications for pharmacological treatment of acute episodes
+|Description=Refer to item 74
+|Heading=Management
+|Contributors=
+|Order=13}}
+Acute bipolar thymic episodes must be treated with pharmacological and non-pharmacological means. Thymoregulators are the keystone of treatment in the short term (curative treatment), medium term (maintenance of therapeutic response, prevention of relapse of the episode) and long term (prevention of a new episode or recurrence). During the acute phase, thymoregulation treatment may be combined with anxiolytic/sedative treatment to manage anxiety and sleep and/or with second-generation antipsychotic treatment to treat agitation and psychotic features.

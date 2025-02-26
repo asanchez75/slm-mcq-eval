@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-349-11-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Know the clinical criteria for severity and indications for hospitalisation
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Pierre-Marie Roy
+|Order=11}}
+<gallery widths="420" heights="420">
+File:Signs of seriousness.png
+</gallery>'''Severity criteria:'''
+
+*Marked general signs (fever, hypotension, tachycardia, desaturation, loss of alertness).
+*Local signs: lymphangitis, extensive cellulitis, exposure of bone or tendon structures.
+*Rapid evolution kinetics
+*Patient at risk
+
+'''Indications for hospitalisation:''''
+
+The following presentations are surgical indications:
+
+*Collected abscess
+*Sheath phlegmon
+*Bite
+*Osteitis or arthritis
+*Collected panaris
+*Wound with tendon, bone or joint exposure
+*necrotising fasciitis (occurs in a noisy picture of severe infection in patients at risk and may require resuscitation)
+
+<br />

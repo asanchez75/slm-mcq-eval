@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-071-34-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Know the definition of merycism
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=34}}
+'''Merycism'''
+
+* Definition:
+** '''Repeated regurgitation of food''' for a period of at least 1 month.
+** Food may be ''remastiqued'', ''re-swallowed'' or ''spat out''.
+** Primarily affects children aged 3 months to 1 year, more rarely adults.

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-278-12-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Knowing the additional tests to be performed as a first-line treatment for jaundice in adults
+|Description=Know how to order: a liver function test, a coagulation test (+ factor V), viral serologies and liver imaging.
+|Rubrique=Additional tests
+|Contributors=
+|Order=12}}
+Biological work-up :
+
+Total and conjugated bilirubin
+
+ASAT, ALAT, GGT, PAL
+
+CBC - platelets
+
+
+Imaging work-up
+
+Hepato-biliary ultrasound to look for dilatation of the bile ducts
+
+
+Other tests will be ordered depending on the clinical context and the results of the first-line tests.
+
+<br />

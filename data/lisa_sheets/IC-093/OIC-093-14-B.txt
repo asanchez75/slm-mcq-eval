@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-093-14-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Typical MRI of cauda equina syndrome
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=14}}
+
+<gallery caption="MRI of the lumbosacral spine">
+File:2C-093-CM-B02 fig01.png| Figure 01
+File:2C-093-CM-B02 fig02.png|Figure 02
+</gallery>
+
+*MRI of the lumbosacral spine, ''T2'' (Figure 01) and ''T1'' (Figure 02) sequences.
+*''Sagittal section'' (Figure 01): herniation of the L5-S1 intervertebral disc excluded.
+*''Axial section'' (Figure 02): compression of the dural sac and the left S1 spinal root (arrowhead), which is laminated and compressed dorsally.
+
+([[Discovery of a spinal cord or vertebral anomaly on medical imaging examination SD-227|discovery of a spinal cord or vertebral anomaly on medical imaging examination]])

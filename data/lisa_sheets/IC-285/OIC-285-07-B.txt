@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-285-07-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Knowing the drugs frequently responsible for chronic diarrhoea
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+Many medicines can cause diarrhoea, and the following list is not exhaustive.
+
+- Antibiotics by reducing the intracolic fermentation of carbohydrates, resulting in osmotic diarrhoea,
+
+- A proton pump inhibitor (lansoprazole), non-steroidal anti-inflammatory drugs, serotonin reuptake inhibitors, venotonics: microscopic colitis,
+
+- Colchicine: secretory diarrhoea,
+
+- Metformin: increased hepatic synthesis of bile acids,
+
+- Olmesartan and mycophenolate mofetil: enteropathy with villous atrophy,
+
+- Immunotherapy (anti-CTLA-4, anti-PD1): autoimmune colitis with digestive exudation.

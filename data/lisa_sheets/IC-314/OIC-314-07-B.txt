@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-314-07-B
+|Item_parent=Bladder tumours
+|Item_parent_short=Bladder Smoke
+|Rank=B
+|Title=Strategy for complementary examinations in urinary cytology and cystoscopy
+|Its normality does not exclude the diagnosis of urothelial carcinoma and does not dispense with iterative endoscopic controls. Its positivity alerts us to the very probable presence of a urothelial tumour which should be confirmed and located in the urinary excretory tract.
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Roumiguié
+|Order=7}}
+
+The initial diagnostic work-up is based on two essential tests:
+
+'''la cytologie urinaire :'''
+
+* Search for high-grade urothelial tumour cells on microscopic examination of a urine sample ("smear").
+* A normal smear does not exclude the diagnosis of urothelial carcinoma.
+
+'''cystoscopy:'''
+
+* Performed as an outpatient or in consultation. It does not allow samples to be taken (biopsies can be taken but cannot replace the tissue removed during resection).
+* Endoscopy enables lesions to be visualised and described (annotated diagram).
+* It becomes optional when a patient is referred by a GP with an imaging test (ultrasound or CT scan) strongly suggestive of a bladder tumour.

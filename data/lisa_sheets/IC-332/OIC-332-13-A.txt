@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-332-13-A
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=A
+|Title=Know the principles of management of anaphylactic shock
+|Description=see item 332
+|Heading=Management
+|Contributors=Julien Poissy
+|Order=13}}
+
+Anaphylactic shock requires first-line injection of IM adrenaline!
+
+Step 1: Condition monitoring and venous lines (see elements for immediate management of a state of shock)
+
+Stage 2: management of shock
+
+- Avoidance of the allergen
+
+- Injection of adrenaline IM ++.
+
+- Auto-injector pen if available
+
+- Adrenaline ampoule 1mg diluted in 10 mL. Injection 0.01 mg/kg (0.5 mg per 50 kg)
+
+- Location: lateral surface of the middle 1/3 thigh, in the vastus lateralis
+
+- The IV route is possible but should be reserved for trained teams: titration +++ 0.001 mg/kg (10 times less than IM!)
+
+- Repeat every 5 minutes
+
+- Crystalloid volume expansion
+
+Stage 3: Investigation and management of associated respiratory failure
+
+- If respiratory distress: patient in sitting position
+
+- Lower airway obstruction: aerosols of β2-mimetics (salbutamol)
+
+- Upper airway obstruction: aerosols of adrenaline (5 mg nebulised)
+
+
+NB: IV corticosteroid therapy with 1 mg/kg methylprednisolone is not an emergency and is used to prevent relapse. Antihistamines are only effective on mucocutaneous signs.

@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-062-02-A
+|Item_parent=Describe the organisation of psychiatric care, from children to the elderly
+|Item_parent_short=Describing the organisation of psychiatric care, from children to the elderly
+|Rank=A
+|Intitle=Knowing the general organisation of the psychiatric care system
+|Description=Primary, secondary and tertiary levels Public sector and organisation into geographical sectors of adult psychiatry and child and adolescent psychiatry
+|Rubric=Definition
+|Contributors=Pierre Vidailhet
+|Order=2}}
+
+The psychiatric care system provides "secondary and tertiary level care":
+
+For secondary care, the public psychiatric system is structured around the ''SECTEUR'', which corresponds to a geographical area where a psychiatric team is responsible for providing the population with psychiatric care (outpatient, intermediate and continuous), preventive measures for the population and a coordinated care pathway.
+
+The place of residence (address) determines the patient's sector (although free choice of doctor remains the general principle).
+
+The teams are multi-professional: doctors (psychiatrists; also general practitioners for physical care), nurses and care assistants, advanced practice nurses specialising in psychiatry and mental health, psychologists, social workers, rehabilitation staff (psychomotor therapists, speech therapists, occupational therapists, etc.), educational staff (activity leaders, educators), patient-experts and peer helpers, medical secretaries, etc.
+
+There is also an outpatient psychiatric service and private inpatient facilities.
+
+'''The system also provides tertiary (referral) care:'''
+
+On an outpatient basis:
+
+For complex and specialised situations: diagnostic doubts, complex pathologies requiring specific assessment and care (eg. For complex and specialised situations: diagnostic doubts, complex pathologies requiring specific assessment and care (e.g. care systems shared with general practitioners; CUMP medical and psychological emergency units for intervention in health and exceptional situations, psychotraumatology centres; schizophrenia/bipolar/depressive disorders reference centres resistant to treatment/autism resource centres for the diagnosis and assessment of autism spectrum disorders - 1 CRA per region in a university hospital -, Regional Elderly Psychiatry Resource Centres).
+
+These consultations also play a role in clinical research and the dissemination of innovative care.
+
+Inpatient'': e.g. mother-baby unit to provide intensive perinatal care.
+
+
+'''The psychiatric care system is linked to a number of partners:'''
+
+- primary care in general medicine and paediatrics (and other specialists)
+
+- maternal and child protection for child and adolescent psychiatry (PEA)
+
+- mayors within the framework of "local mental health councils" (CLSM) to ensure a mental health policy in the city;
+
+'''- user or family associations''': UNAFAM (Union nationale des familles et amis des malades souffrant de troubles psychiatriques), FNAPSY (Fédération nationale des associations d'usagers en psychiatrie) ;
+
+- éducation nationale for PEA
+
+- sometimes law enforcement officers, prison staff and probation advisers (e.g. Resource Centres for Perpetrators of Sexual Violence: CRAVS).
+
+- And the medico-social sector.

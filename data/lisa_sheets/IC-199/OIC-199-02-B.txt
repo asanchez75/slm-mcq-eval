@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-199-02-B
+|Item_parent=Complex regional pain syndrome (ex algodystrophy)
+|Item_parent_short=Complex regional pain syndrome (ex algodystrophy)
+|Rank=B
+|Title=Knowing the prevalence and physiolopathology of CRPS
+|Description=Some figures on the prevalence of CRPS
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+'''Rank B'''
+
+'''Epidemiology''' section
+
+'''Title: Incidence, Prevalence of CRDS''''
+
+'''Description : A few figures about the SDRC'''
+
+
+- The incidence is not well known and is estimated at 25/100,000 inhabitants.
+
+- Prevalence is around 20/100,000 inhabitants (USA)
+
+- The ratio of women to men is 3:1.
+
+- 10% of CRDS are idiopathic, and up to 40% occur after a fracture event.
+
+- The average age of onset is generally 40-50 years, although CRPS may occur in children.
+
+The upper and lower limbs are affected in the same way (note the discrepancy with the PRM college, which states that the upper limbs are more often affected).

@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-140-02-A
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Item_parent_short=Multidisciplinary palliative care for patients in the palliative or terminal phase of a serious, chronic or fatal illness (2). Support for patients and their families. Main ethical guidelines
+|Rank=A
+|Title=Knowing how to communicate with patients and their families when the main aim of treatment becomes palliative.
+|Description=None
+|Rubric=Definition
+|Contributors=Chloé Prod'homme
+|Order=2}}
+
+
+=='''[[Know the principles of appropriate verbal and non-verbal communication with patients and their families 2C-001-PC-A02|Basics of communication]]''''==
+
+*To communicate effectively, you need to be a good listener to understand and then be able to make appropriate suggestions.
+
+*This means giving up your own communication objectives for a while to adapt to those of the patient.
+
+*Asking open-ended questions, leaving time for silence, adapting your vocabulary and showing your availability through your non-verbal behaviour all facilitate high-quality communication.
+
+*Rephrasing is one of the communication tools best suited to supporting a seriously ill patient: it involves reiterating what the patient has said and allowing him or her to elaborate further.
+
+==The announcement of palliative care ==
+Announcing the transition to exclusive palliative care or the threatening progression of a disease is [[Knowing the issues and procedures for announcing bad news in healthcare 2C-001-PC-A03|'''bad news.'']] It is '''i'''nscured in the temporality of the disease and must be delivered in a gradual way, during several meeting times, to a patient and if he wishes his relatives.
+
+The uncertainty surrounding the patient's future must be taken on by the doctor with the certainty that he or she or his or her colleagues will support the patient as the illness progresses.
+
+Medical answers allow patients and their families to assess their situation and prepare themselves:
+
+*The announcement of a care objective focused on quality of life or comfort is not the same as announcing that there is nothing more to be done.
+*The doctor provides answers to the patient's specific concerns about the possible occurrence of certain symptoms and the means available to avoid them (analgesics, sedation in the event of respiratory distress, etc.).
+*The doctor must be able to discuss with the patient the future objectives, direction and proportionality of treatment, particularly if the patient fears unreasonable obstinacy. ([[Unreasonable obstinacy and limitation. Legislative framework, philosophical and ethical foundations* 2C-009-PC-A06]])
+*During the terminal period or when the pathology worsens, the patient may ask the doctor to objectify this reality in order to understand what he or she is experiencing physically.
+
+At all times, the successive announcements must make room for the patient's defence mechanisms. ([[Understanding the psycho-adaptive mechanisms of the critically ill patient 2C-140-DP-A02]])
+
+=='''Between medical reality and [[Patients' representations, expectations, preferences and demands 2C-003-PC-A02|representation]] of the patient's reality.'''==
+Representations of the patient's reality and that of the doctor will often be different.
+
+It is in order to stay alive with the disease, to maintain hope for the future, that the patient transforms - sometimes significantly - the medical discourse. The important thing for the doctor is to take into account what the patient is going through, what they are feeling and what they see for themselves, while providing the necessary information to try and build a reassuring care pathway that avoids crisis situations and distress.
+
+<u>See</u>: [[Announcement of a diagnosis of serious illness to the patient and/or family SD-327]]

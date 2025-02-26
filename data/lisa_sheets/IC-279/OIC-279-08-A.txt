@@ -1,0 +1,90 @@
+{{knowledge objective
+|Identifiant=OIC-279-08-A
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=A
+|Title=Know the four main severe complications of cirrhosis: digestive haemorrhage, hepatic encephalopathy, ascites infection and hepato-renal syndrome.
+|Hepatic encephalopathy (clinical manifestations, pathophysiology and triggers of hepatic encephalopathy).
+|Rubric=Emergency identification
+|Contributors=
+|Order=8}}
+
+
+== 1) Digestive haemorrhage
+In patients with cirrhosis, the causes of digestive bleeding are related to :
+
+- Portal hypertension :
+
+- rupture of oesophageal varices (RVO) ;
+
+- rupture of gastric or ectopic varices;
+
+- portal hypertension gastropathy.
+
+- Gastric or duodenal ulcers, which are more prevalent in this context.
+      
+
+
+      
+
+'''This complication is also dealt with in item 355 digestive haemorrhage''''
+<br />
+
+=== Diagnosis and assessment of severity ===
+Gastrointestinal haemorrhage due to RVO may manifest as haematemesis and/or melena, or even haematochezia in cases of profuse haemorrhage.
+The blood may not come out for several hours and the haemorrhage may not be clinically evident at first.
+
+The earliest clinical sign is tachycardia (except when taking beta-blockers).
+Examination may reveal paleness of the skin and mucous membranes.
+
+In the event of massive haemorrhage, there may be hypotension or even shock, with peripheral signs such as mottling, sweating, loss of consciousness, increased skin colouration time and oliguria. If the bleeding does not come out, the patient should be examined for melena by rectal examination. The severity of the haemorrhage is assessed by hypotension, tachycardia and peripheral signs of shock. Haematocrit measured at a very early stage (when the patient is being cared for at home, for example) may underestimate the severity of the haemorrhage. Endoscopy should be performed urgently, as quickly as possible, and in any case within 12 hours, on a patient who is conscious and cooperating - or at best under general anaesthetic - and haemodynamically stable.
+
+
+== 2) Hepatic encephalopathy ==
+
+
+Clinical hepatic encephalopathy (HE) represents the whole range of neurological symptoms, from asterixis or confusion to coma. It is discussed in this chapter. One of the key mechanisms of HE is hyperammonia, linked to liver failure and the existence of porto-systemic venous shunts. A triggering cause should always be sought for an episode of encephalopathy.
+
+The most common triggers for encephalopathy are :
+
+- Bacterial infections;
+
+- Digestive haemorrhage ;
+
+- Taking sedative drugs;
+
+- Renal failure ;
+
+- Hyponatremia ;
+
+- Constipation.
+
+- Presence of a spontaneous or acquired porto-systemic shunt (TIPS)
+
+Several of these factors may be associated in triggering encephalopathy.
+<br />
+
+== 3) Spontaneous ascites fluid infection
+Ascites fluid infection occurs in 10-30% of cirrhotic patients with ascites.
+
+It can manifest itself as :
+
+- A fever ;
+
+- Abdominal pain ;
+
+- Diarrhoea;
+
+- Hyperleukocytosis ;
+
+- Encephalopathy.
+
+In the initial stages of the infection, it may be asymptomatic, which is why a systematic exploratory puncture is required each time ascites flares up.
+
+Diagnosis is based on exploratory puncture of ascites, which shows a neutrophil count of more than 250/mm<sup>3</sup>. Direct bacteriological examination is positive in around 40% of cases. The germs most often implicated are enterobacteria.
+
+If left unrecognised or untreated, infection of the ascites fluid can lead to encephalopathy, renal failure or septic shock, resulting in death.
+<br />
+
+== 4) Hepatorenal syndrome
+The hepatorenal syndrome corresponds to functional renal insufficiency, appearing at an advanced stage of cirrhosis, uncorrected by vascular filling, albumin infusion, stopping diuretics and nephrotoxic drugs. It is most often seen in cases of severe liver failure (prothrombin rate <50%) with significant ascites. Treatment involves administration of vasoconstrictors and albumin infusions. In most cases, the beneficial effect is only transient. Liver transplantation is the only effective long-term treatment.

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-177-11-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main compound combining sulfamethoxazole and trimethoprim.
+|Description=Cotrimoxazole
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=11}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Sulfamethoxazole and trimethoprim''''
+|Documented antibiotic therapy for urinary tract infections, otitis and sinusitis, prevention and treatment of pneumocystis, alternative to penicillin A for the treatment of L. monocytogenes infections.
+|Infants (first 6 weeks of life), breast-feeding, hypersensitivity to the active substance or to one of the excipients, in cases of G6PD deficiency, severe liver damage, severe renal insufficiency.
+|Enterobacteriaceae, L. monocytogenes, staphylococci, Pneumocystis jirovecii.
+|Allergies, cytopenias, renal failure
+
+
+Interactions: methotrexate, phenytoin, hyperkalemic drugs, repaglinide, letformin, paclitaxel, ciclosporin, antivitamins K
+|}

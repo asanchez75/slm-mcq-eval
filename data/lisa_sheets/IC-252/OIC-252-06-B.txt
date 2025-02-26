@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-252-06-B
+|Item_parent=Nutritional disorders in the elderly
+|Item_parent_short=Nutritional disorders in the elderly
+|Rank=B
+|Intitle=Knowing the AS definition of obesity
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+The definition of obesity is identical regardless of age. Obesity is therefore defined as a BMI ≥ 30 kg/m² in the elderly.
+
+The pitfall: an obese elderly patient may be malnourished.

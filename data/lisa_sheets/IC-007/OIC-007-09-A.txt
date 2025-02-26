@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-007-09-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Title=Knowing the definition of refusal of care
+|Description=None
+|Rubric=Management
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=9}}
+The corollary of the obligation to [[Know the definition and conditions of informed consent 2C-007-PC-A01|consent]] is absolute respect for refusal of care. The law explicitly states that even when a patient's life is in danger, their wishes must be respected as long as they are able to express them, after informing them of the consequences of their choices and their seriousness.
+
+On the other hand, ''the doctor must'' :
+
+- Do everything possible to convince the patient (e.g. enlist the help of another member of the medical profession, repeat the information, etc.);
+
+- Ensure that the patient reiterates his or her decision after a reasonable period of time and repeated information;
+
+- Ensuring the minimum possible care and follow-up despite the refusal (e.g. providing orthopaedic treatment despite the refusal of surgical care). This care becomes "sub-optimal" but is adapted to the situation and respects the refusal;
+
+- Record this information in the medical record.
+
+It should be noted that it is standard practice in hospitals for patients to sign a discharge document against medical advice. This document is provided for in the regulations for public establishments. It is an additional document stating that the patient acknowledges having been warned of the risks of refusing treatment. It does not constitute "proof" that the patient refused treatment with full knowledge of the facts, nor does it constitute a "discharge of responsibility".
+
+<u>In practice, two types of situation can be distinguished:</u>
+
+- Situations where the prognosis is not vital: ''the patient's refusal must be respected'' ;
+
+- Life-threatening situations: these are more "delicate" situations. In practice, if the doctor respects the patient's refusal despite the life-threatening situation, it is not possible to prosecute the doctor for failure to assist a person in danger. Conversely, if the doctor acts despite the patient's refusal, the Conseil d'État has reiterated that respecting the patient's choice is a more absolute duty than saving the patient's life. However, doctors are not liable if they perform an act that is "essential to the patient's survival and proportionate to his condition".

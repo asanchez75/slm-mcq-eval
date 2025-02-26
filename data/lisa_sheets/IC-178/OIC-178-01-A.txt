@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-178-01-A
+|Item_parent=Emerging risks, bioterrorism, highly communicable diseases
+|Item_parent_short=Emerging risks, bioterrorism, highly communicable diseases
+|Rank=A
+|Title=Knowing the definition of an emerging risk
+|Description=None
+|Rubric=Definition
+|Contributors=Amandine Gagneux-Brunon,Sylvie Pillet,Bruno Pozzetto
+|Order=1}}
+
+[Exceptional health situation SD-346 <br />New and growing risk. Among the biological risks, environmental risks and infectious diseases are at the forefront.

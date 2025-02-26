@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-214-07-A
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=A
+|Title=Knowing the signs of seriousness and vital emergencies in the presence of thrombocytopenia
+|Description=Cerebro-meningeal accidents, digestive or genital haemorrhage with deglobulation, etc.
+|Rubric=Emergency identification
+|Contributors=
+|Order=7}}
+
+
+== Visceral haemorrhagic accidents
+
+=== Rare but serious (life-threatening or life-sustaining) ===
+- serious because of the location of the bleeding
+
+* cerebral-meningeal haemorrhage''([[Headache SD-118|headache]],'' nausea/vomiting, vigilance disorders''([[Coma and consciousness disorders SD-028|coma and consciousness disorders]]'''), or '''[[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]] =>''' emergency brain imaging)
+
+- serious because of the repercussions
+
+* acute haemorrhage'', or even haemorrhagic shock: for example digestive haemorrhage (''discharge of blood from the mouth, melena/rectorrhagia''), urinary haemorrhage (''haematuria'') or genital haemorrhage (''abnormal genital bleeding (unknown pregnancy)'')
+
+<br />
+
+=== Most often when platelet count is < 10 G/L ===
+However, higher platelet counts may occur in the case of the "aggravating" factors mentioned above (advanced age, poorly controlled arterial hypertension, underlying lesion at risk of bleeding, treatment interacting with haemostasis/coagulation, particularly anti-coagulant treatment).
+
+Unprovoked and confluent haematomas, other than those of the lower limbs, visceral haemorrhages or continuous haemorrhages at the puncture sites should suggest a coagulation anomaly associated with thrombocytopenia (DIC in particular).
+<br />
+
+== Prodromes
+Marked mucocutaneous haemorrhagic syndrome = precedes serious haemorrhagic events.
+
+These "warning signs" are listed in the table below.
+
+'''Table: Haemorrhagic manifestations to be considered as warning signs that should raise fears of serious visceral haemorrhage.'''
+{| class="wikitable"
+|'''Clinical warning signs for a risk of serious haemorrhage'''
+|-
+|Intraoral haemorrhagic bubbles
+|-
+|Significant spontaneous gingivorrhage
+|-
+|Epistaxis, especially bilateral
+|-
+|Breakthrough bleeding
+|-
+|Extensive or even disseminated ecchymotic purpura, especially if associated with significant mucosal haemorrhage
+|-
+|Headaches which, even if isolated, should be investigated for cerebro-meningeal haemorrhage and a brain scan performed as a matter of urgency.
+|}

@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-336-09-A
+|Item_parent=Non-traumaticoma in adults and children
+|Item_parent_short=Non-traumatic coma in adults and children
+|Rank=A
+|Title=Know how to prescribe complementary examinations to be carried out in an emergency in adults and children.
+|Description=Capillary glycaemia, knowing how to order a simple biological check-up (glycaemia, natremia, blood gases), a brain scan, knowing how to perform a lumbar puncture. Know how to prescribe them in the appropriate order.
+|Rubrique= Complementary examinations
+|Contributors=Nicolas Weiss
+|Order=9}}
+
+- Capillary glycaemia verified by plasma glycaemia
+
+- Standard ionogram with natraemia, calcaemia, urea, creatinine
+
+- Blood gases
+
+- Liver check-up
+
+- Discuss blood/urine toxicology analysis depending on the anamnestic context (plan to take samples for secondary analysis depending on the forensic context).
+
+- Emergency brain scan if :
+
+- location sign
+
+- possibly traumatic coma
+
+o strong suspicion of meningeal haemorrhage
+
+o suspected ischaemic stroke, but brain MRI is preferable
+
+o coma with no obvious cause or no improvement after appropriate treatment
+
+- Lumbar puncture if :
+
+o Context of meningitis
+
+o Context of meningoencephalitis or encephalitis
+
+o Febrile coma

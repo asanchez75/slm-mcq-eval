@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-363-04-A
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=A
+|Title=Know the indication, objective and basic semiology of imaging examinations for fractures of the upper extremity of the femur.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=4}}
+
+[https://videotheque.uness.fr/w/m6eCsdLA8bYC5TevTXk4H1 In the event of a suspected fracture of the proximal femur, an examination comprising "two plain radiographs" with "face" and "profile" views should be carried out. The frontal view is taken with the lower limb internally rotated by 10° in order to unwind the femoral neck as much as possible, cancelling out its anteversion. The profile is taken with the patient supine, moving only the healthy side.
+
+A well-taken full-face view confirms the diagnosis of a proximal femur fracture and allows the fracture to be "classified" according to its location. The combination of face and side views can be used to determine whether the fracture is "displaced" or not.
+
+The location of the fracture makes it possible to distinguish between '''true cervical fractures''', also known as '''intracapsular''' fractures, which carry a risk for the vascularisation of the femoral head, and '''extracapsular fractures''', also known as '''trochanteric mass fractures''. <gallery>
+File:Col1.png|Nondisplaced intracapsular fracture of the left proximal femur (Face)
+</gallery><gallery>
+File:2.png|Non-displaced intracapsular fracture of the left proximal femur (Profile)
+</gallery><gallery>
+File:3.png|Extracapsular fracture of the left proximal femur displaced (Face)
+</gallery><gallery>
+File:4.png|Displaced extracapsular fracture of the left proximal femur (Profile)
+</gallery>The initial displacement, the number of fragments, the orientation of the fracture line(s) and the involvement of the lateral cortex account for the instability of the fracture after reduction.<gallery>
+File:6.jpg
+</gallery>Analysis of radiographs can be made more difficult in cases of osteoarthritis.
+
+If there is any doubt about the diagnosis and the clinical features are suggestive, a CT or MRI scan can confirm or rule out a proximal femur fracture.
+
+[https://videotheque.uness.fr/w/m6eCsdLA8bYC5TevTXk4H1 See the ppt recorded on the imaging of item 363 by the College of Radiologists (CERF)]

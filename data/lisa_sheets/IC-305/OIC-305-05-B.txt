@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-305-05-B
+|Item_parent=Oesophageal tumours
+|Item_parent_short=Oesophageal tumours
+|Rank=B
+|Title=Knowing the imaging strategy for oesophageal tumours
+|Description=Echoendoscopy, CT scan, 18FDG PET/CT scan
+|Rubric=Additional examinations
+|Contributors=
+|Order=5}}
+'''The reference diagnostic examination is oeso-gastroduodenal endoscopy with biopsy'' (to be prescribed as soon as dysphagia appears, particularly in a subject at risk)
+
+
+Assessment of general and nutritional status (WHO performans status, weight loss kinetics, serum albumin, renal and liver function)
+
+Assessment of cardiac function (cardiac ultrasound, ejection fraction) and respiratory function (EFR)
+
+
+'''If Epidermoid:''''
+
+- Search for a second ENT and bronchial cancer (ex ENT, bronchoscopy) - same risk factors
+
+- Assessment of extension :
+
+o Thoracic-abdominal-pelvic CT scan with injection of contrast product (+ cervical if location in the upper 1/3 of the oesophagus)
+
+o 18-FDG PET scan (in addition to the CT scan to confirm the absence of metastasis before curative treatment)
+
+o Endoscopic oesophageal ultrasound if the lesion is small and can be crossed endoscopically, in particular to confirm that it is superficial before treatment by endoscopic resection.
+
+'''If adenocarcinoma:'''
+
+- Assessment of extension :
+
+o Thoracic-abdominal-pelvic CT scan with injection of contrast medium
+
+o Endoscopic oesophageal ultrasound if the lesion is small and can be crossed endoscopically, in particular to confirm that it is superficial before treatment by endoscopic resection.

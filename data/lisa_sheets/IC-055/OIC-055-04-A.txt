@@ -1,0 +1,112 @@
+{{knowledge objective
+|Identifiant=OIC-055-04-A
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=A
+|Title=Psychomotor development of the young child (2 years - 6 years): how to identify abnormal situations
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Diane Purper-Ouakil,Charles Edouard Notredame,Sylvie Nguyen Le Tich
+|Order=4}}
+
+See item [[2C-055-DE-A02]].
+
+The absence of acquisition at the upper limit must be considered as ''[[Psychomotor development abnormality SD-115|anormal]].''''
+
+After 3 years :
+
+* 3 "no" in 2 different areas or
+* 2 "no" in 2 areas + a risk factor or unusual behaviour<br />.
+
+{| class="wikitable"
+|
+|4 years
+|5 years old
+|6 years
+|-
+| rowspan="4" |Global Motor Skills
+|Jumps with feet together
+|Balance on one foot for 5 seconds
+|Hop 3 times
+|-
+|Walk up steps alternating unhung
+|Walks one line
+|Shorts fluidly and can stop short
+|-
+|Throws a ball in a directed manner
+|Catch a ball with hands
+|Walks on toes and heels
+|-
+|Can pedal
+|
+|
+|-
+| rowspan="5" |Fine Motor Skills
+|Draw a tadpole man
+|Draw a man in 2 parts
+|Closes his own clothes
+|-
+|Draw a cross
+|Copies his first name
+|Touch each finger with his thumb
+|-
+|Makes a bridge of 3 cubes
+|Copy a square
+|Copy a triangle
+|-
+|Can pedal
+|
+|Washes his hands
+|-
+|Putting on coat alone
+|
+|
+|-
+| rowspan="5" |Oral Language
+|Uses "I
+|Makes correct 6-word sentences
+|Can tell a story
+|-
+|Is intelligible outside the family
+|Understands under/over/front...
+|Can take turns
+|-
+|Conjugates verbs in the present tense
+|Names at least 3 colours
+|Makes well-constructed sentences
+|-
+|Asks the question "Why?
+|
+|
+|-
+|Can respond to instructions with 2 variables (coat in bedroom)
+|
+|
+|-
+| rowspan="2" |Socialisation
+|Agrees to take part in a group activity
+|Knows first names of classmates
+|Recognises the emotional state of others
+|-
+|Seeks to interact with peers
+|Takes part in group games, respecting the rules
+|
+|-
+| rowspan="4" |Cognition
+|Plays imaginative games
+|Describes a scene in a picture
+|Counts to 13
+|-
+|Counts to 4 objects
+|Counts to 10
+|Can repeat 3 digits
+|-
+|Can sort by category
+|
+|Knows numbers 0 to 9
+|-
+|
+|
+|Holds attention for 10 minutes on an activity that interests them
+|}
+<br />

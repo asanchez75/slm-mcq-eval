@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-155-07-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Know the definition of a panariasis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+Infection of the nail fold, mainly due to ''Staphylococcus aureus,'' manifested by pulsating pain in the tip of a finger.

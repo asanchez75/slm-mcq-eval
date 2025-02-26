@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-226-08-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Heading=Knowing the place and limitations of imaging examinations in PE: thoracic angiotomodensitometry, ventilation-perfusion scintigraphy, trans-thoracic cardiac echography
+|Description=None
+|Rubric=Additional tests
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=8}}
+[[File:AngioTDM.jpg|thumb]]
+'''Angioscanner or thoracic angiotomodensitometry''' (angio-CT)
+
+- reference test for diagnosing PE: presence of endovascular lacunae or absence of opacification of a pulmonary artery section.
+
+- allows a diagnosis of PE to be made or ruled out, and the main differential or associated diagnoses to be established.
+
+- contraindicated in cases of allergy to contrast products or severe renal insufficiency.
+
+- interpretation sometimes limited, particularly distally, if the quality of the examination is suboptimal.
+[File:Scinti V-Q EP.jpg|vignette]]
+Ventilation-perfusion scintigraphy
+
+- performed in the event of contraindication or unavailability of thoracic angioscanner
+
+- main limitation: examination not conclusive, particularly in the case of underlying respiratory pathology
+
+- the indication for use in pregnant women, in particular because of less radiation to the breasts, remains debatable. -
+
+- interpretation by comparing the perfusion images with the ventilation images and looking for areas of discrepancy (mismatch). The diagnosis of PE is made when lung segments show normal ventilation and defective perfusion.
+
+- result expressed in 3 probability classes: high probability, non-diagnostic examination, normal scintigraphy. Only a high scintigraphic probability allows a diagnosis of PE to be made.
+
+- a normal scan rules out the diagnosis.
+
+'''Trans-thoracic cardiac echography'''
+
+- diagnostic examination in cases of suspected high-risk PE (with shock or hypotension), when the patient's condition does not allow them to be taken to the scanner.
+
+- direct signs: thrombus in the trunk of the PA or in the right heart chambers (rare)
+
+- indirect signs: dilatation of the VD, paradoxical septum, increase in pulmonary PE pressure
+
+- allows the main differential diagnoses to be ruled out (cardiogenic shock of other origin, aortic dissection).
+
+- However, a normal cardiac ultrasound alone does not rule out a diagnosis of PE.

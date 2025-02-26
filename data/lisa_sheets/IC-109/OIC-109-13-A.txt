@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-109-13-A
+|Item_parent=Gait and balance disorders
+|Item_parent_short=Gait and balance disorders
+|Rank=A
+|Title=Cite the main complementary examinations other than imaging in the presence of a walking or balance disorder.
+|Description=Depending on the aetiology EMG, biology...
+|Rubric= Complementary examinations
+|Contributors=
+|Order=13}}
+Biological work-up (hypoglycaemia, ionic disorders: dyskalaemia, hypercalcaemia, hypocalcaemia, hyponatraemia, anaemia) blood gas, PR (pulmonary embolism)
+
+ECG: rhythm disorders
+
+Injection-free brain scan: (subdural haematoma, extra-dural haematoma, stroke)

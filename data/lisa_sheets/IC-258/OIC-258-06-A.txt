@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-258-06-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Knowing the arguments in favour of acute renal failure
+|Description=When creatinine levels are elevated, cite the arguments in favour of acute renal failure.
+|Rubric=Positive diagnosis
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=6}}
+
+The arguments in favour of acute renal failure are :
+
+- normal-sized kidneys,
+
+- recent rise in creatinine levels, within a few days or weeks)

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-31-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for non-pharmacological treatments
+|Description=refer to item 73
+|Heading=Management
+|Contributors=El-Hage Wissam
+|Order=31}}
+
+Cognitive-behavioural therapies (CBT) should be favoured (Item 73): strategies focusing on managing emotions and worries in GAD, exposure and desensitisation techniques for physical sensations in PTS, and fearful situations in agoraphobia. Relaxation is important.
+
+In the case of phobias, CBT combines systematic desensitisation or gradual and prolonged voluntary exposure to feared objects/situations, with cognitive restructuring of automatic beliefs and thoughts.
+
+In SAD, group CBT is preferred, with public exposure exercises, role-playing and assertiveness training.

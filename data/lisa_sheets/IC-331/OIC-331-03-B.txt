@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-331-03-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Knowing the incidence and prognosis of cardio-circulatory arrest in adults and children
+|Description=incidence of spontaneous cardiac recovery, hospital survival, overall survival, functional prognosis
+|Section=Epidemiology
+|Contributors=
+|Order=3}}
+- 40,000 sudden deaths per year in France
+
+- 80% of coronary origin
+
+- 50% of mortality from coronary heart disease
+
+- Male > Female - Average age 60
+
+- Survival in France 5% - in Europe 8%
+
+- Paediatrics (A)
+
+o Incidence 15 times lower than in adults
+
+o Poor prognosis <5% at 1 year
+
+o Etiology respiratory insufficiency +++ or circulatory insufficiency with non-shockable rhythm

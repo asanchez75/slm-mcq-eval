@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-359-11-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Knowing the imaging and ultrasound exploration strategy for neonatal respiratory distress
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Guillaume Mortamet
+|Order=11}}
+
+The chest X-ray is the examination of choice for exploring neonatal respiratory distress.

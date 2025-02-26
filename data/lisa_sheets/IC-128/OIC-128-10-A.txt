@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-128-10-A
+|Item_parent=Embrittle osteopathy
+|Item_parent_short=Embrittle osteopathies
+|Rank=A
+|Title=Radiography of osteoporosis with vertebral fracture
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=10}}
+
+[[File:Radiographie rachis.jpg|vignette|Radiographie de profil du rachis lombaire]]

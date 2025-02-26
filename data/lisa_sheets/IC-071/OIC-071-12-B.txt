@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-071-12-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the principles of psychotherapy
+|Description=Know the objectives of psychotherapy. Know the types of psychotherapy recommended in the AOS.
+|Rubric=Management
+|Contributors=
+|Order=12}}
+'''Psychotherapeutic aspect of care'''
+
+* Objectives
+** Promote adherence to care and the therapeutic alliance.
+** To correct cognitive distortions and dysfunctional attitudes.
+** Strengthen self-esteem, self-confidence and assertiveness.
+** Improving interpersonal relationships.
+** Treat any psychiatric co-morbidities.
+* Principles
+** Adapted to the patient's general medical condition, abilities and wishes.
+** Prolonged ''at least 1 year'' after significant clinical improvement.
+* Types
+** Alone or in combination
+** Family therapy (++ in children and adolescents).
+** Cognitive-behavioural therapy.
+** Other (motivational interviewing, supportive psychotherapy, psychoanalytically inspired therapies, body-mediated approaches).

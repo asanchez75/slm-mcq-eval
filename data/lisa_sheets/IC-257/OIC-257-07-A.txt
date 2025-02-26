@@ -1,0 +1,99 @@
+{{knowledge objective
+|Identifiant=OIC-257-07-A
+|Item_parent=Localised or generalised oedema of the lower limbs
+|Item_parent_short=Localised or generalised oedema of the lower limbs
+|Rank=A
+|Title=Know the main aetiologies and clinical signs of localised and generalised oedema
+|Description=None
+|Rubric=Etiologies
+|Contributors=Jean-Jacques Boffa,Bruno Moulin
+|Order=7}}
+
+==Causes of generalised oedema===
+Table 2: Causes of generalised oedema
+<br />
+{| class="wikitable"
+|Pathologies
+|Causes
+|-
+|Rein
+|- Proteinuria and nephrotic syndrome in adults and children|Nephrotic syndrome
+
+- Acute renal failure (in particular acute nephritic syndrome due to acute renal failure)
+
+- Chronic renal failure, especially in the pre-terminal stage (earlier if glomerular nephropathy)
+|-
+|Heart
+|- Global heart failure: ischaemic, hyper-tensive, valvular, obstructive or dilated heart disease
+
+- Right heart failure
+
+- Chronic respiratory insufficiency
+
+- Chronic pulmonary heart disease
+
+- Valvular pathology and left-right shunt
+|-
+|Liver
+|- Hepatic cirrhosis
+
+- Ethylism
+
+- Chronic viral or autoimmune hepatitis
+
+- Metabolic liver disease
+|-
+|Hypoalbuminemia
+|- Lack of protein intake
+
+- Undernutrition
+
+- lack of supply
+
+- Kwashiorkor, stagnation
+
+- Malabsorption
+
+- Atrophic gastritis
+
+- Ulcerative colitis
+
+- Lack of synthesis
+
+- Hepatocellular insufficiency
+
+- Excessive loss
+
+- renal: nephrotic syndrome (glomerular nephropathy)
+
+- skin: extensive burns
+
+- Catabolic disease (chronic infection, cancer...)
+|-
+|Pre-eclampsia
+|- High blood pressure, proteinuria, renal failure in the 3rd trimester of pregnancy
+|-
+|Pregnancy
+
+capillary permeability
+|- Medicines
+
+- Idiopathic cyclic oedema
+
+- Septic shock
+|}
+
+==B.    Diagnosis of localised oedema==
+Questioning and clinical examination look for signs pointing to :
+
+*An increase in venous pressure:
+**thrombophlebitis and its after-effects;
+**Venous insufficiency (varicose disease).
+*Certain medications: mainly calcium channel blockers such as dihydropyridine.
+*A lymphatic obstacle:
+**cancer (pelvic or breast) with lymph node invasion;
+**filariasis.
+*Local inflammatory pathology:
+**skin infection such as erysipelas;
+**algodystrophy;
+**insect bite, trauma, allergy, etc.

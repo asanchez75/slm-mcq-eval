@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-081-02-B
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=B
+|Title=Knowing the semiology and means of screening for macular syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Macular syndrome''' is a set of symptoms that variably combines a drop in visual acuity with central scotoma, metamorphopsia, macro/micropsia, dyschromatopsia, photophobia and/or a decrease in contrast sensitivity.
+
+It is generally caused by the presence of fluid in the macula (macular oedema or retinal serous detachment), an epiretinal membrane or a macular hole.
+
+
+'''Screening for macular syndrome is based on:'''
+
+''In ophthalmological consultation:''
+
+- a medical history looking for the symptoms mentioned above
+
+- looking for a drop in corrected distance and near visual acuity
+
+- optical coherence tomography (OCT): this reveals anatomical damage to the macula (oedema, retinal serous detachment, atrophy)
+
+
+''Self-screening by the patient:''
+
+- Amsler grid: Search for a central scotoma or metamorphopsia, which can be detected by looking with one eye, then the other, at the central point of the Amsler grid, which is made up of a regular grid. In the case of macular syndrome, part of the grid is not seen (scotoma) or the grid is distorted (metamorphopsia).
+
+<br />
+[[File:Amsler grid.jpg|vignette|678x678px|Amsler grid, consisting of a regular grid, used to search for central scotoma or metamorphopsia, by hiding one eye and then the other.]]
+
+
+<br />

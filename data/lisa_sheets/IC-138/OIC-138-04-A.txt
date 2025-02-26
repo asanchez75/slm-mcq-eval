@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-138-04-A
+|Item_parent=Pain in vulnerable persons
+|Item_parent_short=Pain in vulnerable persons
+|Rank=A
+|Title=Knowing how to screen for pain in dys-communicative people
+|Description=Know the name of a tool for the hetero-assessment of pain in dys-communicative people
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Rank A'''
+
+'''Positive diagnosis''' heading
+
+'''Title: Screening for pain in dyscommunicative people.'''
+
+'''Descriptif : Know the name of a tool for the hetero-assessment of pain in a dys-communicative person'''
+
+- '''Any change in behaviour should prompt a search for pain and its cause.'''
+
+- If self-assessment is feasible, EN and EVS are preferred.
+
+- The hetero-evaluation tools are: ALGOPLUS, DOLOPLUS, ECPA (behavioural evaluation of pain in the non-communicative elderly), DESS (pain in San Salvadour children), EDAAP, EDD, ESDDA, GED-DI (see above).
+
+- Assessment, and then re-assessment after treatment, relies on "teams and relatives".
+
+- A clinical examination is necessary.
+
+- If the therapeutic principles are identical, practice will take into account the patient's possible adherence to treatment.
+
+- Potential '''adverse effects and interactions''' of the added analgesic drug are '''anticipated''' and avoided, but pain should not be under-treated for fear of adverse effects. Topical oral and local administration routes are preferred.

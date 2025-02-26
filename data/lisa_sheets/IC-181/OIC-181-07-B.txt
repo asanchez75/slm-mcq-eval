@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-07-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the principles of health safety: the principle of impartiality
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=7}}
+
+The principle of impartiality is one of the four main principles of health safety.
+
+It affirms the need to guarantee the independence of the authorities and health professionals, as well as the absence of financial links between experts and manufacturers to avoid the risks associated with conflicts of interest.

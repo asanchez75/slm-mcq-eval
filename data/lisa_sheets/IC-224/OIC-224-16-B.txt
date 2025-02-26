@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-224-16-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing the specific clinical situations that can guide the choice of anti-hypertensive treatment
+|Description=None
+|Section=Management
+|Contributors=
+|Order=16}}
+The choice of antihypertensive active substance may be guided by the patient's co-morbidities:
+{| class="wikitable"
+|'''Comorbidities'''
+|'''Preferred molecules''''
+|-
+|Patient [[Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetic]] from the stage of microalbuminuria or [[Chronic renal failure in adults and children|renal failure]].
+|[[Drugs of the renin-angiotensin system: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A04|IEC or ARA2]]
+|-
+|Patients with chronic renal insufficiency in adults and children|renal insufficiency]] or proteinuria and nephrotic syndrome in adults and children|proteinuria]].
+|[[Drugs of the renin-angiotensin system: mechanisms of action, indications, side effects, drug interactions, monitoring and main causes of failure 2C-330-PC-A04|IEC or ARA2]]
+|-
+|[[Cerebrovascular accident|Cerebrovascular accident]] post-stroke patient
+|[[Diuretics/know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A02|Thiazide diuretics]]
+[[Drugs of the renin-angiotensin system: mechanisms of action, indications, side effects, drug interactions, monitoring and main causes of failure 2C-330-PC-A04|IEC or ARA2]]
+
+[Calcium channel blockers|Calcium channel blockers
+|-
+|Patient [[Coronary artery disease and acute coronary syndromes 2C-231-DP-A16|coronary artery disease]]
+|[[Drugs of the renin-angiotensin system: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A04|IEC or ARA2]]
+[[Beta-blockers/know the mechanisms of action, indications, side effects, drug interactions, monitoring and main causes of failure 2C-330-PC-A03|Beta-blockers]]
+|-
+|Patient [[Heart failure in adults|heart failure patients]]
+|[[Drugs of the renin-angiotensin system: mechanisms of action, indications, side effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A04|IEC or ARA2]]
+[[Beta-blockers/know the mechanisms of action, indications, side effects, drug interactions, monitoring and main causes of failure 2C-330-PC-A03|Beta-blockers]]
+
+[[Diuretics/know the mechanisms of action, indications, side effects drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A02|Diuretics]]
+|}

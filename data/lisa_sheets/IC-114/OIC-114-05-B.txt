@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-114-05-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Knowing how to recognise ampicillin rash in EBV infection
+|Description=A classic complication which should not be confused with penicillin toxidermia.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Ampicillin rash presents as a morbilliform maculopapular exanthema +/- oral enanthema classically appearing on the 9th<sup>day</sup> after ampicillin prescribed for angina in the context of EBV infection (infectious mononucleosis: fever/angina/splenomegaly/asthenia).

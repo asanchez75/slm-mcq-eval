@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-219-10-A
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=A
+|Title=Knowing the biological parameters for confirming martial deficiency
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+The elements involved in iron metabolism that can be measured in the blood are :
+
+- Serum iron
+
+- Transferrin. Two elements are calculated from the transferrin assay:
+
+o The total iron-binding capacity of transferrin
+
+o The transferrin saturation coefficient, which is the ratio of serum iron to the total iron-binding capacity of transferrin.
+
+- Plasma ferritin
+
+
+''In the first instance, plasma ferritin alone is sufficient to diagnose martial deficiency''. In the presence of an inflammatory syndrome, chronic renal failure or when the ferritinemia result is non-contributory (normal or elevated value when there is a strong suspicion of iron deficiency), serum iron combined with the transferrin saturation coefficient can help with the diagnosis.
+
+The determination of serum iron alone and the combination of serum iron and serum ferritin without the transferrin saturation coefficient are not recommended.
+
+Iron, transferrin and transferrin saturation coefficient tests must be performed on an empty stomach.
+
+<br />

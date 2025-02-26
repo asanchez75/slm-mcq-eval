@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-170-06-A
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=A
+|Heading=Know the additional tests needed to confirm the diagnosis
+|Description=Thick smear or DNA test + blood smear for species identification and parasitaemia.
+|Topic=Positive diagnosis
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=6}}
+
+====[[Interpretation of a malaria attack SD-234|Certainty diagnosis]]====
+The diagnosis of malaria is an ''EMERGENCY'' as soon as the diagnosis is suspected, even in the absence of a febrile peak. The ''result'' must be given ''within 4 hours of the sample being taken and within 2 hours of its receipt''.
+
+The diagnosis of certainty is based on the detection of asexual intra-erythrocytic forms of Plasmodium.
+
+=====Techniques diagnostiques=====
+
+*Blood smear: used to identify the ''species'' and determine the ''parasitaemia'' (number of parasitised red blood cells/100).
+*Thick drop (GE), concentration technique: more sensitive than the blood smear. If parasitaemia is not detectable by smear, positive diagnosis is possible.
+*Molecular biology (plasmodial DNA detection): highly sensitive (at least as sensitive as EW).
+*Antigen detection: rapid diagnostic tests (< 30 minutes from receipt of sample, easy to use (non-specialist laboratory), no access to molecular biology).
+**Detection of at least one P. falciparum antigen.
+**Variable sensitivity (lower than that of the thick drop and molecular biology), depending on the species (modest for non-"falciparum") and parasitaemia.
+
+=====Algorithme diagnostique=====
+<gallery>
+File:Algorythmediagnosticpalu.png|After the 2017 update of the CPR 2007, SPILF
+</gallery>
+
+====Additional tests (to look for biological severity criteria)====
+
+*NFS
+*Liver function tests
+*Creatinine, urea
+*Blood glucose
+*Blood gas
+*Lactatemia

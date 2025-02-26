@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-322-10-A
+|Item_parent=Personalised therapeutic decisions: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: correct use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of fasting before anaesthesia
+|Description=Consequences on the administration of medication
+|Rubric=Management
+|Contributors=Benoît Champigneulle,Alain Cariou
+|Order=10}}
+
+== Principles of fasting before anaesthesia ==
+
+* It is customary to recommend pre-operative fasting prior to scheduled surgical or invasive procedures, in order to reduce the risk of bronchopulmonary inhalation of gastric contents during anaesthetic induction. This fasting is necessary even in the case of locoregional anaesthesia (to allow general anaesthesia to be performed safely if locoregional anaesthesia fails).
+* The time required to obtain gastric emptying depends on a number of factors (type of food eaten, associated pathologies and treatments, etc.). Usually, in adults, the recommended duration is 6 hours of fasting for solid foods (light meal) and 2 hours for "clear" liquids (water, tea or coffee, etc.). It is still possible to take the patient's usual treatments per os (with a glass of water) on the morning of the operation (2 hours before).
+* Smoking must also be stopped at least 2 hours before anaesthesia (risk of bronchospasm), if possible on the day of the operation. It should be remembered that active smoking increases post-operative morbidity and impairs the healing process. Stopping smoking at least 3 weeks before the operation reduces the risk of perioperative complications.

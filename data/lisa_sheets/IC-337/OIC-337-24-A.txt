@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-337-24-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Acute poisoning in children: identifying emergency situations according to terrain and toxicant
+|Description=None
+|Rubric=Identifying emergencies
+|Contributors=
+|Order=24}}
+Most poisoning in children is benign. All medicines, household products, cosmetics or plants carry a potential risk for children, whatever their age. However, the younger the child, the more quickly the toxic dose of a substance can be reached.
+
+The assessment of the degree of urgency will be based on the toxic agent involved, the terrain and the patient's clinical condition (existence of respiratory, haemodynamic and/or neurological failure).

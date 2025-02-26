@@ -1,0 +1,85 @@
+{{knowledge objective
+|Identifiant=OIC-280-04-B
+|Item_parent=Ascite
+|Item_parent_short=Ascite
+|Rank=B
+|Title=Knowing the stages of the clinical and para-clinical diagnostic approach
+|Description=Clinical signs of cirrhosis; signs of heart failure; antecedent cancer; characteristics of ascites fluid (exudate: heart cancer; transusdate cirrhosis).
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+[[File:Diagnostic approach to ascites.png|alt=Diagnostic approach to ascites|vignette|Diagnostic approach to ascites]]
+The '''diagnostic approach''' aims firstly to confirm the presence of ascites and secondly to identify its mechanism and cause.
+
+It is "based primarily on clinical examination and ascites puncture" (figure opposite).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other paraclinical examinations may then be carried out to clarify the cause (Figure 1). The functional signs of ascites vary according to the cause:
+{| class="wikitable"
+|Cause
+|Cirrhosis
+|Carcinosis
+|-
+|Ascites volume
+|<nowiki>++++</nowiki>
+|<nowiki>+</nowiki>
+|-
+|Abdominal pain
+|0
+|<nowiki>++</nowiki>
+|-
+|Obstructive signs
+|0
+|<nowiki>++</nowiki>
+|-
+|Partitioned ascites
+|0
+|<nowiki>++</nowiki>
+|-
+|Oedema of the lower limbs
+|<nowiki>+++</nowiki>
+|<nowiki>+/-</nowiki>
+|}
+Dyspnoea may be present in cases of large ascites or associated pleural effusion.
+
+
+Questioning should reveal the risk factors for chronic liver disease. A history of solid cancer, haemopathy, heart disease, kidney disease, tuberculosis, abdominal surgery or trauma should be sought.
+
+Other signs of portal hypertension, hepatocellular insufficiency, right heart failure and neoplasia should also be sought.
+
+
+
+In the event of abdominal distension, we look for :
+
+- Sloping dullness in the flanks, but with a sensitivity and specificity of only around 70% for the diagnosis of ascites, the presence of which indicates an ascites volume of at least 1500 mL.
+
+In the obese patient, it can be difficult to detect these signs. The differential diagnoses to be evoked are a bladder globe (hypogastric matitý with a concave downward and non-mobile upper limit) and a large cyst (ovarian, renal or hepatic).
+
+In the event of large ascites, an abdominal hernia may develop. There is a risk of strangulation and rupture of any umbilical hernia.
+
+
+
+<br />

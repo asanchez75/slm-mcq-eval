@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-230-14-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Knowing the main extra-thoracic causes of chest pain
+|Description=pancreatitis, cholecystitis, ulcer, GERD. Refer to corresponding items
+|Rubric=Etiologies
+|Contributors=Vincent Roule
+|Order=14}}
+
+'''Know the main extra-thoracic causes of chest pain'''
+
+- pancreatitis
+
+- cholecystitis
+
+- peptic ulcer
+
+- gastro-oesophageal reflux
+
+- oesophageal spasm

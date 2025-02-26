@@ -1,0 +1,120 @@
+{{knowledge objective
+|Identifiant=OIC-295-08-B
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=B
+|Title=Supportive care: understanding the main principles of managing the main complications of cancer treatments
+|Description=Know the main principles of management of the following complications: Define, assess and manage the main complications of cancer treatments: NVCI nausea - vomiting, neutropenia, anaemia, alopecia, stomatitis, fatigue, haematotoxicity, chronic fatigue, mucocutaneous toxicity, know how to propose an oncofertility consultation, etc.
+|Rubric=Management
+|Contributors=Laurent Zelek
+|Order=8}}
+
+The following symptoms are the most frequently encountered and call for appropriate and specific measures:
+
+Chemotherapy-induced nausea and vomiting (CINV)
+
+Nausea'' and ''vomiting'' are frequent side effects of chemotherapy. A distinction is made between acute CINV, which occurs during treatment and in the first 24 hours thereafter, and delayed CINV, which occurs in the following days. Acute CINV is linked to activation of the serotonergic pathway (5HT3 receptors) and is prevented by anti-5HT3 agents (the setron class), whereas delayed CINV is linked to activation of NK1 receptors, which are inhibited by anti-NK1 agents. Setrons have very limited efficacy in delayed CINV. Corticosteroids potentiate other antiemetics.
+
+Chemotherapies are classified according to their emetogenic nature;
+<br />
+{| class="wikitable"
+| colspan="2" |'''Emetogenic potential of commonly prescribed anti-cancer drugs'''
+
+'''(non-exhaustive list)'''
+|-
+|High (>90%)
+|Anthracyclines (and, in particular, anthracycline-cyclophosphamide dual therapy used in breast cancer)
+
+Cisplatin
+|-
+|Moderate (30-90%)
+|Carboplatin
+
+Oxaliplatin
+|-
+|Low (10-30%)
+|Docetaxel
+
+5-Fluorouracil
+
+Gemcitabine
+|}
+
+
+The indications for preventive treatment can be summarised as follows:
+
+- high risk: Anti-5HT3 + Anti-NK1 + corticoids
+
+- moderate risk : Anti-5HT3 + corticosteroids
+
+- low risk: dopaminergic antiemetics (e.g. metoclopramide) or Anti-5HT3 alone
+
+NB: prophylaxis must be reinforced in the case of individual aggravating risk factors (anxiety, history of CINV).
+
+'''Haematotoxicity'''
+
+Chemotherapies are toxic to all three blood lines, and it is important to be aware of the particularities of the interpretation of the haemogram in cancerology:
+
+-Neutropenia is a frequent complication that is observed around D8 post-chemotherapy. It is considered severe if the neutrophil polynuclear cells (PNN) are <500/mm3, leading to a high risk of "fever" (this is known as febrile neutropenia, which is an oncological emergency).
+
+- Anaemia occurs in the weeks following the start of treatment and is a frequent cause of ''asthenia''. The risk of anaemia occurring varies according to the type of chemotherapy. Anemia is generally multifactorial, as it is often associated with martial deficiency and an inflammatory component.
+
+-Thrombocytopenia is rarer in the treatment of solid tumours than in haematology. It occurs a little later than neutropenia, often after D10 of chemotherapy, and may require platelet transfusions (depending on the context and the risk of haemorrhage, usually if platelets are less than 20,000/mm3 or if there is active bleeding).
+
+The haematological toxicity of chemotherapy is an indication for symptomatic treatment:
+
+o Neutropenia
+
+- Primary prophylaxis with G-CSF (garnulocyte lineage growth factor)
+
+o if there is a risk of severe neutropenia >20
+
+o to be discussed according to the clinical context (associated pathologies, elderly subject, isolation, etc.) in the event of a risk of between 10 and 20%.
+
+- Secondary prophylaxis in cases of neutropenia <500/mm3 or febrile neutropenia in the previous cycle
+
+o Anaemia
+
+In all cases, martial deficiency must first be detected and corrected (ferritinaemia and transferrin saturation coefficient -CST- assays). In patients treated for cancer, iron stores are usually high (high or normal ferritin levels), mainly because of the inflammatory syndrome, except in cases of chronic bleeding or "heavy" surgery. In the case of inflammatory syndrome, there is a failure to mobilise iron stores, resulting in a CST<20% with high ferritinemia. Iron deficiency is corrected preferably with IV iron (ferric carboxymaltose), which is more convenient, better tolerated and more rapidly effective than oral iron.
+
+In the event of poorly tolerated anaemia, treatment with recombinant erythropoietin (EPO) or a transfusion may be discussed. EPO is not indicated in patients not receiving chemotherapy; its use must take into account the risk-benefit ratio, particularly in curable cases, as it may increase the risk of thromboembolism.
+
+Schematically, EPO is started when Hb is <10g/dl with a target level of 12g/dl (it should increase by 1g/dl after one month's treatment).
+
+Severe anaemia (<8g/dl) needs to be corrected rapidly and is an indication for transfusion.
+
+'''CAUTION: THE TOLERANCE OF ANAEMIA (and therefore the indications for EPO or transfusion) IS EVALUATED CLINICALLY+++ (an anaemia of 8g/dl with a gradual onset may be much better tolerated than an anaemia of 9g/dl with a rapid onset)'''.
+
+'''Chronic fatigue'''
+
+''''asthenia, whether or not associated with anaemia, is a major functional complaint in the same way as pain. Depending on the location and stage, it affects 50 to 80% of patients.
+
+Curable causes must be eliminated, the most important of which are anaemia and martial deficiency.
+
+Other causes that need to be investigated are :
+
+- A depressive syndrome
+
+- Hypothyroidism, classically frequent after treatment for breast or ENT cancer
+
+- Impaired nutritional status or vitamin deficiency (don't forget vitamin D deficiency, which is common in the general population).
+
+In a large number of cases, no obvious cause is found. The pathophysiology of this syndrome remains poorly understood (inflammatory syndrome, maladaptation to exercise after prolonged inactivity). A programme of adapted physical activity can bring about a significant improvement.
+
+Mucocutaneous toxicities
+
+These are essentially alopecia, induced by certain chemotherapies, and mucositis (inflammation of the mucous membranes +/- mouth ulcers). These side effects are explained by the effect of cytotoxics on rapidly-renewing tissues.
+
+- In some cases, alopecia can be prevented by wearing a cooling helmet during the chemotherapy session, which acts by vasoconstricting the scalp to reduce the spread of cytotoxics. The prescription of a hair prosthesis, which is covered by the Assurance Maladie, should not be forgotten.
+
+- Mucositis can be severe and interfere with eating, contributing to a deterioration in nutritional status. They are prevented by rigorous oral and dental hygiene (in some cases, particularly in the case of radiotherapy for an ENT tumour, dental care must be carried out before starting treatment) and by bicarbonate mouthwashes. Mouth ulcers are generally secondary to fungal superinfection of a weakened mucosa, and are treated with local antifungal agents. Herpes recurrence should not be overlooked.
+
+Some treatments, such as the Epidermal Growth Factor Receptor (EGFR) inhibitors used in bronchial cancers and other targeted therapies, can be responsible for skin rashes, acneiform eruptions, palmo-plantar irritation or xerosis. For these patients, therapeutic education is essential: choice of cleansing products, application of emollient creams. Some departments use the skills of a psycho-socio-aesthetician with specific training for this type of situation.
+
+Oncofertility
+
+Fertility preservation (sperm collection, oocyte freezing, etc.) should be offered prior to any treatment, particularly in children and young adults, and even more so in patients who have no children of their own.
+
+The indications are more complex in women than in men, because they must take into account the type of cancer and its treatment plan, as well as the patient's age and ovarian reserve. The decision is taken at the oncofertility consultation with the referring oncologist.
+
+However, it is not possible to perform it in certain situations: therapeutic emergency, altered general condition.

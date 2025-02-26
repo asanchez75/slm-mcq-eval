@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-359-10-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Knowing the indication for imaging examinations in the presence of a bronchial foreign body
+|Description=Chest X-ray inspi/expi as first line, no indication for CT scan as first line.
+|Section=Additional examinations
+|Contributors=Guilaume Mortamet
+|Order=10}}
+
+An inspiratory and expiratory chest X-ray is indicated in the event of respiratory symptoms suggestive of foreign body inhalation.

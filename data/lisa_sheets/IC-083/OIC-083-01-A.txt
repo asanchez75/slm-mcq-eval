@@ -1,0 +1,116 @@
+{{knowledge objective
+|Identifiant=OIC-083-01-A
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=A
+|Title=Knowing the elements of questioning and clinical examination
+|Description=Mode of onset/characteristics/look for decrease in visual acuity/History and notion of trauma; visual acuity/examination of conjunctiva, cornea, iris; anterior chamber, palpebral conjunctiva;
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+'''<u>Interrogation:</u>'''
+
+It aims to :
+
+* specify the mode of onset and characteristics of the red eye :
+
+- first episode or recurring event
+
+- recent or long-standing onset (acute or chronic course), sudden or gradual onset,
+
+immediately or with an interval in relation to an identified local or general event,
+
+- unilateral or bilateral, either immediately or sequentially;
+
+* Clarify the concept of pain, its type and intensity:
+
+- superficial pain: moderate, with a sensation of a foreign body (dust or grains of sand), tingling or burning, or even itching, suggestive of conjunctivitis, or more severe, accompanied by photophobia, lacrimation and blepharospasm suggestive of acute keratitis,
+
+- deeper, ciliary-type pain: moderate, suggestive of anterior uveitis or episcleritis, or intense, with radiations into the trigeminal area suggestive of scleritis or acute glaucoma ;
+
+* look for a drop in visual acuity: the absence of a drop in visual acuity points to conjunctivitis, subconjunctival haemorrhage, more rarely a tumour on the ocular surface or episcleritis;
+
+* give details of the patient's ophthalmological and general history, current treatments (particularly topical), age and profession;
+* look for evidence of trauma and the conditions in which it occurred (domestic or work accident);
+* look for associated local signs (pruritus, secretions, etc.), regional signs (exophthalmos, orbital and palpebral oedema, adenopathy, etc.) and general signs (headache, fever, ENT symptoms, etc.).
+
+
+'''<u>Clinical examination:</u>'''
+
+It is bilateral and comparative. Three levels of physical examination are to be considered, depending on the equipment available: external examination in ambient light and with an additional light source, examination using a magnifying system commonly available to facilitate analysis (optical such as a magnifying glass or digital such as a tablet or smartphone) and ophthalmological examination using a slit lamp.
+
+
+1. visual acuity
+
+It is measured at a distance and at close range, with optical correction if necessary.
+
+
+'''2. Bulbar connective tissue and globe wall'''
+
+The appearance, extent and topography of the ocular redness are analysed:
+
+* a sheet-like haemorrhage: subconjunctival haemorrhage. It is common, usually unilateral, painless or only causes a sensation of local tension when it is significant (e.g. patients on anticoagulants). It takes the form of a hematic spot of varying colour depending on the thickness of the deposit, and regresses in a few weeks without treatment, but should prompt a search for a local vascular anomaly or unrecognised arterial hypertension. In a traumatic context, a wound to the conjunctiva and eyeball should be systematically sought. If there is the slightest doubt, a CT scan of the orbit should be ordered to look for a CEIO that has gone unnoticed. MRI is not recommended until the possibility of a metallic foreign body has been formally ruled out.
+* diffuse and superficial: conjunctivitis ;
+* in the sector: episcleritis and scleritis;
+* around the sclero-corneal limbus: concentric vasodilatation of the limbal and peri-corneal conjunctival vessels over 360° = perikeratic circle: acute keratitis; deeper vasodilatation = ciliary injection: anterior uveitis; superficial pressure vasodilatation = medusa head: arteriovenous fistula.
+
+
+'''3. Cornea
+
+You need :
+
+* assess its transparency: loss of transparency with a greyish appearance (oedema) or whitish appearance (abscess, sterile inflammatory infiltrate);
+* analyse its sensitivity by gently touching it with a soft, foamy sterile element;
+* detect the presence of a foreign body on its surface.
+
+
+'''4. Examination of the palpebral conjunctiva'''
+
+He is looking for :
+
+* follicles (viral or bacterial infectious conjunctivitis), papillae (spring-type allergic conjunctivitis) or sequelae of conjunctival fibrosis;
+* a foreign body under the upper eyelid by systematically turning the eyelid over to expose the tarsal conjunctiva.
+
+
+'''5. Examination of the ocular surface after instillation of fluorescein eye drops (orange dye) in the conjunctival cul-de-sac'''
+
+It looks for changes in the corneal epithelium (abrasion or ulceration) when illuminated with blue light. The addition of a yellow filter further facilitates their detection. Normal corneal epithelium does not retain fluorescein, which instead binds to the stroma in areas where the epithelium is damaged or defective. The changes appear green in blue light, and their appearance, number and location help to guide the diagnosis:
+
+* a single, regular corneal ulceration is suggestive of trauma;
+* a localised ulceration with an adjacent white zone is suggestive of infectious bacterial or fungal keratitis with a corneal abscess, but can sometimes also correspond to a sterile inflammatory infiltration.
+* a dendritic ulcer is suggestive of herpetic keratitis;
+* small disseminated epithelial changes (superficial punctate keratitis or SPK) are primarily suggestive of ocular dry syndrome or, in an acute context, the initial corneal lesions of adenovirus keratoconjunctivitis.
+* Linear lesions suggest the presence of a small, unnoticed foreign body under the upper eyelid, which should be removed.  In these situations, in an algic, photophobic and watery patient, the occasional addition of a drop of anaesthetic eye drops for the duration of the examination will greatly facilitate clinical observation.
+
+
+'''6. Examination of the anterior chamber'''
+
+It aims to :
+
+* the depth of the anterior chamber. A narrow or flat anterior chamber is indicative of acute glaucoma or hypotony due to a perforating wound, and an excessively deep anterior chamber is indicative of a receding cilio-crystalline block with tearing of the angle;
+* use the slit lamp to look for inflammatory signs of anterior uveitis (retrocorneal precipitates, Tyndall's effect, hypopyon, cyclitic membrane or fibrin plug).
+
+
+'''7. Examination of the iris and pupil'''
+
+He is looking for :
+
+* the presence of iridocrystalline synechiae, which indicates uveitis or a history of uveitis;
+* sectorial iris atrophy, indicating herpetic or traumatic origin;
+
+* relative miosis, often present in acute anterior uveitis and sometimes even in severe keratitis;
+* areflectic semi-mydriasis, common in acute angle-closure glaucoma.
+
+
+'''8. Measurement of intraocular pressure''''
+
+It is measured using an air or applanation tonometer, or simply estimated by a transpalpebral bidigital palpation in the absence of a measuring instrument.
+
+Hypertonia suggests acute angle closure glaucoma, neovascular glaucoma or hypertensive uveitis.
+
+Hypotonia raises fears of a transfixing eye sore, in which case a Seidel's sign should be looked for, i.e. a leakage of aqueous humour which will wash away the fluorescein film.
+
+
+'''9. Examination of the eye fundus'''
+
+After pupillary dilatation with tropicamide, it should be carried out in the presence of any pathology that may be accompanied by vitreous or retinal damage: thus the search for posterior uveitis should be systematic when there is a picture of anterior uveitis.

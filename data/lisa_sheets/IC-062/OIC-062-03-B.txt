@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-062-03-B
+|Item_parent=Describe the organisation of psychiatric care, from children to the elderly
+|Item_parent_short=Describing the organisation of psychiatric care, from children to the elderly
+|Rank=B
+|Title=Knowing the methods of care in adult psychiatry and child and adolescent psychiatry
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre Vidailhet
+|Order=3}}
+
+The range of psychiatric care available allows for graduated treatment at all stages of life:
+
+ambulatory care
+
+- The ''centres médico-psychologiques'' (CMP), located in the community close to the home, are the pivotal structures in the sector. Care is provided free of charge. The CMPs coordinate psychiatric care. The teams also make home visits. A special case: the Centres d'Accueil Permanents (CAP) provide 24-hour care.
+
+NB. In psychiatry (and addictology), there is a derogation from the coordinated care pathway for 16-25 year olds, in order to facilitate access to psychiatric care: patients can consult directly without losing the right to reimbursement.
+
+- Liaison psychiatry: provides psychiatric care in MCO hospital wards and in medico-social facilities. A special case: ''emergency psychiatry'', mainly in general hospitals, provides 24-hour emergency care in close interaction with general psychiatric departments, and sometimes develops special systems: mobile emergency teams, telephone hotlines, etc.
+
+Part-time sequential care, which provides intensive outpatient care:
+
+- The day hospital (HDJ) provides intensive, multi-purpose care one or more days a week. The aim is to prevent chronicity and prepare patients for social and professional reintegration.
+
+- Night hospital: this provides care at the end of the day and at night, or even at weekends (e.g. for patients who work).
+
+- Part-time therapeutic reception centres (CATTP): these provide therapeutic and occupational activities. They help with psychosocial rehabilitation to increase independence and reduce disability.
+
+'''*continuing care''' :
+
+NB. Psychiatry is the only medical discipline that can provide care without the person's consent (see Item 15).
+
+Full-time inpatient care is provided during acute phases. Hospitalisation units are located in general hospitals, EPSMs (public mental health establishments) or private clinics.
+
+- Aftercare centres provide medium-term transitional care between hospital and the return home. They provide psychosocial rehabilitation care.
+
+- Emergency reception and crisis centres (CACs) receive patients in crisis situations; they are often attached to general emergency services. The average length of stay is short (up to 72 hours). They limit the number of patients admitted to psychiatric wards from emergency departments, which are becoming increasingly busy.
+
+- Hospitalisation at home (HAD) provides "intensive" care at the patient's home, limiting the need for full-time hospitalisation,
+
+- Reception in a therapeutic flat on discharge from hospital for a limited period, with daily visits from carers, helps to develop everyday life skills and helps patients to become more independent.
+
+- a special case in PEA: ''care-study structures'' allow full, ordinary schooling during a complete psychiatric hospitalisation.

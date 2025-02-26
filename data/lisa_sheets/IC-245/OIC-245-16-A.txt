@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-245-16-A
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=A
+|Title=Knowing the main clinical and biological signs
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=16}}
+'''Clinical :'''
+
+* extracellular dehydration with skin wrinkling, hypotension ''([[Discovery of arterial hypotension SD-043]]),'' up to and including collapse ;
+* confusion, convulsive seizures secondary to hyponatraemia and hypoglycaemia ''([[Hypoglycaemia SD-209]]])'', even coma;
+* Digestive disorders: anorexia, nausea, vomiting, abdominal pain, diarrhoea;
+* diffuse pain,
+* fever, which may be caused by an infection that precipitated the decompensation.
+
+
+'''Biology:'''
+
+* haemoconcentration*, functional renal failure* (+++);
+* hyponatremia ([[Dysnatremia SD-202]])'', hyperkalaemia* ([[Dyskalaemia SD-201]])'' (aldosterone deficiency) (+++);
+* hypoglycaemia ''([[Hypoglycaemia SD-209]]]'')''
+* metabolic acidosis ;
+* anaemia, hyperlymphocytosis, hypereosinophilia;
+* preserved natriuresis;

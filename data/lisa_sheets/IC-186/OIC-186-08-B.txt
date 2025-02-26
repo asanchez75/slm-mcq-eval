@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-186-08-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the algorithm for the diagnostic and therapeutic management of IgE-dependent food allergy to peanuts and nuts
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+Peanut is the food most frequently implicated in severe anaphylactic food allergy and responsible for death.
+
+- Prevalence in the general population: 1% ;
+
+- '''Allergy generally persistent''' throughout the patient's life.
+
+- Rarely associated with an allergy to other legumes;
+
+- Frequently associated with an allergy to nuts (walnuts, pistachios, cashews, hazelnuts).
+
+The diagnosis of allergy to peanuts or nuts is based on :
+
+- history (clinical history compatible with an immediate reaction)
+
+- food category survey (consumption of peanuts and/or nuts)
+
+- skin tests (pricks) with standardised extracts or, more often, with the native food. A negative test generally rules out an allergy
+
+- Multi-allergen test (in primary care if no short-term allergic opinion is available), then specific IgE (peanut and nuts).
+
+- a provocation test to provide proof, if necessary, that the suspected food is responsible (gold standard).
+
+
+Treatment is based on the treatment of anaphylaxis during the 1st<sup>er</sup> allergic accident (see Lisa 388 fact sheet), and "secondary prevention" via the avoidance of the allergen and therapeutic education, (in particular by training the patient / those around him in the treatment of anaphylaxis).

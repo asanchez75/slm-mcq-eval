@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-105-05-B
+|Item_parent=Epilepsy in children and adults
+|Item_parent_short=Epilepsy in children and adults
+|Rank=B
+|Title=Knowing the main risk factors for the onset of a seizure
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=5}}
+'''Risk factors for seizures''' include sleep deprivation, intermittent light stimulation (through exposure to screens, for example), stopping long-term benzodiazepine treatment, and taking or withdrawing from drugs (THC, heroin, alcohol, etc.).  
+
+<br />

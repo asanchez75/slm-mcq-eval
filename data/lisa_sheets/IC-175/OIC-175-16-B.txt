@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-175-16-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Savoir évoquer puis confirmer le diagnostic des parasitoses intestinales (How to evoke and then confirm the diagnosis of intestinal parasitosis)
+|Description=estimation of risk, symptoms, elements of orientation, confirmation
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel
+|Order=16}}
+
+Depending on the clinical context, the destination and duration of the trip, and the date of return, it may be appropriate to consider an intestinal parasitosis (see also item 172):
+
+- '''<big>Bloody glairo diarrhoea</big>''' not febrile (''rectal sputum'' rich in leukocytes and red blood cells): evoke '''intestinal amoebosis''' whatever the date of return (amoebosis possible several years after a trip, following an unrecognised asymptomatic carriage). Confirmation is based on a parasitological examination of the stools, which are sent to the laboratory very quickly due to the fragility of the parasite. Microscopic examination will reveal the characteristic haematophagous vegetative forms of Entamoeaba histolytica.
+
+
+- '''<big>Watery diarrhoea</big>''' (5-10/d): evoke an '''intestinal coccidiosis''' (for example cryptosporidiosis) if the return is less than 2 weeks old. Oocysts should be sought in the faeces, using specific techniques: '''mention''' '''by name''' '''the search for cryptosporidia on the prescription'''.
+
+
+- '''<big>Discontinuous or transient diarrhoeal episodes</big>s''', possibly associated with other digestive disorders: a search for intestinal parasitosis is indicated.
+
+o ''Giardiosis'' (often pasty or frothy stools indicating malabsoption): prescribe a ''parasitological examination of standard stools''.
+
+o ''Intestinal helminthiasis'', particularly if eosinophilia is observed and digestive signs occur at least 3 weeks after the start of the trip. Prescribe a ''standard parasitological stool examination'', to be repeated 3 months after return if initially negative (even if several examinations have been carried out). Combine this with a test for anguillulosis, which must be mentioned on the prescription. Anguillulosis serology can help with the diagnosis.
+
+o ''Invasive helminthiasis'' (particularly schistosomiasis): look for ''eosinophilia'', possibly associated with fever and/or itchy skin and/or myalgia. Serological tests may be useful, although they are sometimes negative.

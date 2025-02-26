@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-187-01-A
+|Item_parent=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Item_parent_short=Hypersensitivity and mucocutaneous allergies in children and adults. Urticaria, atopic and contact dermatitis
+|Rank=A
+|Title=Know the definition of urticaria
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+
+Urticaria is a frequent inflammatory dermatosis (15-20% of the population in its acute form) secondary to the activation of masctocytes by complex immunological or non-immunological mechanisms. It is diagnosed clinically. The course of the disease is usually acute and sometimes chronic, with flare-ups occurring daily or almost daily for more than 6 weeks at a time.
+Acute urticaria is usually non-allergic, although it may be allergic in rare cases.

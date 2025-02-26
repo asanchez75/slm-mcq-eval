@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-332-12-B
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=B
+|Title=Know the principles of management of obstructive shock
+|Description=see dedicated items (EP item 226, PNO item 360)
+|Heading=Management
+|Contributors=Julien Poissy
+|Order=12}}
+
+Step 1: Condition monitoring and venous lines (see elements for immediate management of a state of shock)
+
+Then :
+
+3 causes: pulmonary embolism, pneumothorax, pericardial tamponade.
+
+1- Pulmonary embolism (see item 226)
+
+a/ Shock and non-transportable patients
+
+o ETT
+
+- Acute right heart: anticoagulant treatment. Discuss thrombolysis.
+
+- No acute right heart: no thrombolysis and look for another diagnosis
+
+b/ Stabilised and transportable patient: angioscanner
+
+In the event of thrombolysis, curative anticoagulation is also necessary.
+
+
+2- Pneumothorax :
+
+Exsufflation if in shock. See item 360.
+
+
+3- Pericardial tamponade :
+
+Identified by transthoracic echocardiography. Pericardial drainage (excluding aortic dissection).

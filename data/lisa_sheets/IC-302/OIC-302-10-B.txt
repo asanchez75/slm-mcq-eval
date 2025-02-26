@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-302-10-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Knowing the pathophysiology of nevi
+|Description=Tracing the natural history of the cancerisation process in melanoma
+|Rubric=Physiopathology
+|Contributors=
+|Order=10}}
+Common nevi are present in the majority of individuals.
+
+Their natural history is as follows:
+
+* Appearance around 4-5 years of age
+* Gradual increase up to age 30
+* Regression after age 60
+
+
+The risk of a common nevus turning into a melanoma is very low (probability of less than 1 in 100,000).
+
+The risk of transformation of a small congenital nevus is comparable to that of common nevi.
+
+In the case of giant congenital nevi, the risk of transformation depends on size (the larger the nevus, the greater the risk), the presence of satellite lesions and median topography.
+
+Repeated microtrauma does not induce the transformation of nevi into melanoma.

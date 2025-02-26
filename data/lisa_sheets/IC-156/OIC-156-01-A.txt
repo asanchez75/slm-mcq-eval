@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-156-01-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Know the definition of the different clinical entities of osteoarticular infections (OAI)
+|Description=None
+|Rubric=Definition
+|Contributors=Dr Florent Valour
+|Order=1}}
+'''General definition of IOA:''' multiplication of an infectious agent, most often bacterial, within bone and/or joint tissue. They include a wide variety of clinical entities depending on the anatomical location, the mode of onset and the [[Prostheses and osteosyntheses|presence of material]].
+
+Most frequent ''Clinical entities'' (excluding AOIs on equipment):
+
+- septic arthritis: infection of the synovial tissues and then the periarticular structures
+
+- chronic osteitis: infection of bone tissue
+
+- spondylodiscitis: infection of an intervertebral disc (discitis) and adjacent vertebral bodies (spondylitis)
+
+- acute osteomyelitis: acute haematogenous form of osteitis, most common in children
+
+'''Progression time:''' time between inoculation and treatment
+
+- Acute HAI: evolution < 4 weeks
+
+- Chronic HAIs: evolution ≥ 4 weeks

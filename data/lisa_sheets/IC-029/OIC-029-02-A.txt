@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-029-02-A
+|Item_parent=To know the main occupational risks for maternity, linked to the mother's work
+|Item_parent_short=Know the main occupational risks for maternity, linked to the mother's work
+|Rank=A
+|Intitle=Knowing the main physical, chemical or biological occupational risks for pregnancy
+|Description=Knowing the main occupational, physical, chemical or biological risks related to pregnancy.
+|Rubric=Etiologies
+|Contributors=Philippe Deruelle,Pierre Delorme,Nathalie Nourry,Irene Sari-minodier,Fleur Delva,Jean François Gehanno
+|Order=2}}
+
+Risks to pregnancy fall into the following 4 groups, which are classically used to classify occupational hazards.
+
+==Physical risks
+===''Physical workload'''===
+Physical activity at work, particularly carrying heavy loads, prolonged standing or intense physical exertion, is a risk factor for intrauterine growth retardation and prematurity.
+
+Due to physiological changes, pregnant women are more exposed to the risk of musculoskeletal disorders (low back pain, carpal tunnel syndrome, etc.) caused by awkward postures and repetitive movements.
+===''Vibrations and noise'' ===
+Exposure to vibrations (e.g. certain road trips or driving certain vehicles) is a risk factor for premature birth, but it is difficult to characterise them and therefore to identify a clear danger threshold. Noise, particularly exposure to low frequencies, can impair the hearing of the unborn child in cases of exposure from the 25th<sup> week</sup> of pregnancy. Noise is also associated with an increased risk of intrauterine growth retardation.
+==='''Radiation'''===
+Ionising radiation is likely to cause abortions, malformations, growth retardation, delayed intellectual development and cancer. For electromagnetic fields in particular, the data is not yet scientifically stabilised.
+==Chemical risks
+To date, more than 260 substances are recognised as posing a risk to the unborn child (European regulatory classification). However, this is not an exhaustive list, as a large number of products are not tested for reprotoxicity under the regulations, or are only incompletely tested. Substances toxic to reproduction are classified in three categories 1A (proven reprotoxic, such as lead), 1B (suspected reprotoxic, such as 1-bromopropane) and 2 (suspected reprotoxic, such as toluene). Proven reprotoxicants are labelled H360 "May damage fertility or the foetus".
+
+Exposure should be taken into account from the pre-design stage.
+==Biological risks ==
+===Maternal risk
+Certain infectious diseases are particularly serious because of the mother's pregnancy status, in particular chickenpox, influenza and COVID, and their respiratory complications.
+===''Embryonic and foetal risk'''===
+Fever alone can cause miscarriage, growth retardation, developmental abnormalities, the threat of premature delivery or confirmed prematurity.
+
+Some infections can have serious consequences for foetal development but do not necessarily have a clear or specific clinical expression in the mother (toxoplasmosis, rubella, chickenpox, CMV, parvovirus B19, etc.).
+==Organisational and psychosocial risks
+Working hours and patterns have an influence on the progress of pregnancy. Night work and shift work appear to increase the rate of miscarriage, premature delivery and growth retardation for exposure from 12 weeks' gestation. Similarly, the number of hours worked per week is a risk factor for lower birth weight, which can vary fetal birth weight by almost 200 g, to the detriment of women who work the most.
+==Occupations for which the risks to the unborn child are described or discussed in the literature ==
+Occupations that combine several risk factors:
+
+- hairdressers
+
+- flight attendants and other cabin crew
+
+- women farmers
+
+- the nurses

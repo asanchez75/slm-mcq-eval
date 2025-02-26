@@ -1,0 +1,131 @@
+{{knowledge objective
+|Identifiant=OIC-099-04-A
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=A
+|Title=Conducting the interview and gathering evidence for the diagnosis of migraine (with or without aura)
+|Description=Migraine (without and with aura), tension headache, chronic daily headache
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''1 Migraine without aura (MSA)'''
+
+- Diagnosed in patients who only have migraine attacks without aura and never have an aura.
+
+- Seizures of '''[[Headache SD-118|headache]]''' with '''hypersensitivity to light''' and/or '''Nausea SD-012|nausea]''''.'''
+
+- In children, the seizure is accompanied by paleness, often lasts < 4 hours, and calms down with sleep.<br />
+{| class="wikitable"
+|'''Diagnostic criteria for migraine without aura (ICHD-3 code 1.1)''''
+|-
+|A.    At least 5 attacks meeting criteria B-D
+
+B.    Headache attacks lasting 4-72 hours (if untreated or ineffectively treated)
+
+C.    Headache with at least two of the following 4 characteristics:  
+
+1. unilateral topography
+
+2. pulsatile type
+
+3. moderate or severe intensity
+
+4. aggravated by or leading to avoidance of routine physical activities (walking, climbing stairs)
+
+D.    During the headache, at least one of the following:
+
+1. nausea and/or vomiting
+
+2. photophobia and phonophobia
+
+E.     Is not better explained by another ICHD-3 diagnosis.
+|-
+|
+|}
+'''2.    Migraine with aura'''
+
+- Headache SD-118|headache]] is preceded by transient neurological symptoms: progressive (> 5 minutes) and successive visual, sensory or language disorders.
+
+- Visual disorders: most frequent and affecting both eyes, positive phenomena associated with a blind spot (scintillating scotoma, phosphenes, zigzags) and sometimes deficits (blurred vision, homonymous lateral hemianopia).
+
+- Sensory disorders, less frequent: [Motor and/or sensory deficit of the limbs|unilateral paresthesias with or without hypoesthesia]] starting at the fingertips and rising over the minutes in a characteristic "migraine-like march" towards the elbow and then the hemiface.
+
+- Language disorders are rarer: lack of words, dysarthria, sometimes total aphasia.
+
+- The migraine aura is followed or accompanied by a headache that may have the same characteristics as the MSA headache, or be less intense and shorter. Sometimes the aura occurs without a headache. In this case, it is called an isolated aura without headache.
+
+- Rare auras: "basilar" signs (vertigo, diplopia, ataxia, somnolence) and hemiplegic migraine (motor and/or sensory deficit of the limbs|motor deficit) require treatment by a neurologist; retinal migraine (strictly monocular visual disorder) requires a full ophthalmological examination and a neurological opinion.
+{| class="wikitable"
+|'''Diagnostic criteria for migraine with typical aura (ICHD-3 code 1.2.1)''''
+|-
+|A.      At least two attacks meeting criteria B and C
+
+B.      Aura including visual, sensory and/or speech or language disturbances, all fully reversible, but no motor, basilar or retinal symptoms.
+
+C.      At least 3 of the following 6 characteristics:
+
+1. at least one aura symptom develops progressively over ≥ 5 minutes
+
+2. two or more aura symptoms occur in succession
+
+3. each aura symptom lasts 5-60 minutes
+
+4. at least one aura symptom is unilateral
+
+5. at least one symptom is positive
+
+6. the aura is accompanied or followed within 60 minutes by a headache
+
+D.      Not better explained by another ICHD-3 diagnosis and transient ischemic attack has been excluded
+|}
+'''3.    Chronic migraine'''
+
+Chronic migraine'' is defined as the occurrence of ''15 or more days of headache per month'' for more than 3 months, corresponding to a ''migraine without aura or with aura on at least 8 days per month''. '''
+
+
+'''4.    Tension headache
+
+Tension headaches = dysfunctional pain with an interaction of peripheral myogenic factors (tightening of the pericranial muscles) and central neurological factors with dysfunction of the pain control systems.
+
+- '''Description''': attacks with blurred boundaries, of variable duration, bilateral headaches, anterior (bar) or posterior (with neck pain), of variable types (squeezing, clenching, pressure, burning, tingling), of an intensity that allows activities to continue and with no disabling associated signs. Pain can be improved by physical activity.
+
+- Psychological aspects: these headaches often occur in a particular context (anxiety, depression, difficult life events and/or physical stress, shift work, sedentary lifestyle). Typically, tension headaches improve when the subject is relaxed, busy or on the move.
+
+- Clinical examination: sometimes tensing and sensitivity to pressure of the facial or cervical muscles.
+
+- '''Frequency of seizures''':
+
+o ''Episodic tension headache'' (< 15 days/month)
+
+o ''Chronic tension headache'' which is part of CCQ; headache at least 15 days/month for > 3 months, without or with drug abuse.
+
+{| class="wikitable"
+| colspan="2" |'''ICHD3 Diagnostic Criteria for Episodic Tension Headache'''
+|-
+|'''A'''
+|'''At least ten episodes meeting criteria B to D''''
+|-
+|'''B'''
+|'''Duration between 30 minutes and 7 days'''
+|-
+|'''C'''
+|'''At least two of the following characteristics:'''
+
+bilateral localisation
+
+'''- pressure or squeeze type (non-pulsatile)'''
+
+low to moderate intensity
+
+'''- no aggravation by physical activity'''
+|-
+|'''D'''
+|'''Absence of accompanying signs:'''
+
+'''- no nausea, no vomiting'''
+
+'''- photophobia or phonophobia (the presence of only one of these two elements is possible)'''
+|-
+|'''E'''
+|'''Not best explained by another ICHD-3 diagnosis'''
+|}

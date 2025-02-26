@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-309-05-A
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=A
+|Title=Diagnosis of lung tumours
+|Description=List the various procedures to be carried out when lung cancer is suspected (clinical examination, biological work-up, chest X-ray, CT scan).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+The diagnostic approach includes:
+
+* histological sampling (see question 10), and
+* the assessment of loco-regional and distant extension, which enables the disease to be classified according to TNM stages. This has prognostic value and partly determines the treatment strategy. It is based on :
+** clinical data
+** fibroscopy (endobronchial extension),
+** cytological tests (lymph nodes, pleura)
+** imaging (see question 7)
+
+
+'''TNM classification''' (applies to non-small cell carcinomas) :
+
+o the T (tumour) classifies the locoregional extent of the tumour
+
+o the N (node) classifies the lymph node extension of the tumour
+
+o the M (metastasis) classifies the distant extension of the tumour
+
+      
+
+
+
+      
+
+       There are 3 stages:
+
+o localised (stages I and II)
+
+o Locally advanced (stage III)
+
+o metastatic (stage IV)

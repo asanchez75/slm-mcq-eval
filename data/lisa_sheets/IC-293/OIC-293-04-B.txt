@@ -1,0 +1,73 @@
+{{knowledge objective
+|Identifiant=OIC-293-04-B
+|Item_parent=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles for taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=B
+|Title=Know the basic principles of performing and interpreting morphological techniques.
+|Description=Know the general principles of the techniques and the main results expected from the different techniques (cytology, histology, IHC, HIS).
+|Section=Additional tests
+|Contributors=Arnaud Uguen
+|Order=4}}
+
+'''''From sampling to microscopic interpretation of lesions'''''
+
+
+The majority of morphological analyses in Pathological Anatomy and Cytology are carried out on fixed samples (''see knowledge objective 2C-293-EC-B02'').
+
+
+Cytological samples</u> can be used immediately for staining, microscopic morphological interpretation and, if necessary, additional analyses within the limits of the cellular material taken and transmitted. These cytological samples, without the need for additional techniques, allow rapid but generally more limited interpretation for diagnostic purposes than histological samples, which provide additional information on the pathological tissue.
+
+The <u>tissue samples</u> will require, in addition to fixation, a step of dehydration and <u>paraffin embedding</u> of the sample to allow preservation and hardening of the tissue for the production of tissue sections (approximately 3µm thick per section) spread on glass slides and then used for the various morphological analyses. This paraffin embedding is, for surgical specimens, preceded by a step of <u>macroscopic examination of the sample</u> for description and selection of tissue samples requiring <u>microscopic examination</u> which are selected for paraffin embedding.
+
+The following link provides a video illustration of this macroscopy stage: https://www.youtube.com/watch?v=6-HdKZFb9xo&t=28s
+
+These morphological analyses will include a dewaxing and rehydration step for the sections before staining or other morphological techniques.
+
+The <u>standard stain</u> is the HES stain (H: haematoxylin or haematein or haemalun, Eosin and Saffron). Other <u>special stains</u> will be performed according to specific investigations (fibrosis, microorganisms, particular substances).
+
+A morphological diagnosis from a tissue sample can be made after 1 (biopsy) to 2 days (surgical specimen requiring macroscopic analysis), but this time will be increased if additional techniques are required to clarify the diagnosis and/or prognostic or even theranostic criteria requiring additional techniques (and time).
+
+
+'''''Further analysis of the sample'''''
+
+
+These additional analyses may be <u>"morphological"</u> (i.e. be analysable under the microscope on samples spread on slides) or <u>"non-morphological"</u> (i.e. carried out using extracts in particular of nucleic acids made from the sample (''cf knowledge objective 2C-293-EC-B04).''
+
+
+<u>immunohistochemistry</u> (applied to tissue) or <u>immunocytochemistry</u> (applied to cytological samples) is used to highlight the presence (or absence) of certain <u>proteins</u> in the cells of interest in the sample. It is based on the use of <u>antibodies</u> targeting the proteins of interest and binding to them if present in the sample to then reveal the presence of the bound antibodies using a <u>revelation system</u>. This revelation system may be an enzymatic <u>chromogenic</u> reaction (with a result observable under bright-field microscopy) or a <u>fluorochrome</u> (then requiring interpretation under a fluorescence microscope). Some of these analyses, ill-suited to formalin-fixed and paraffin-embedded samples, require application to fresh (unfixed) frozen samples. Direct methods are described where the antibody is directly fixed to the revelation system (e.g. direct immunofluorescence) and indirect methods where the antibody specific to the protein of interest is revealed by a second antibody itself coupled to the revelation system.
+
+The analysis of these markings may be <u>qualitative</u> (for example to determine the type of cancer) or <u>quantitative</u> (with a level of protein expression and therefore of marking providing prognostic or theranostic information conditioning therapeutic choices).
+
+On average, it takes an extra day to carry out these additional analyses and to integrate them into the analysis of the sample.
+[File:Pour 2C 293 EC B03 IHC IF.jpg|thumbnail|Illustrations of immunohistochemistry tests (anti-TTF1, lung adenocarcinoma, x20, photo A) and direct immunofluorescence tests (anti-IgG, extra-membranous glomerulonephritis x 10; photo B)]]
+
+
+
+
+
+
+
+
+
+The <u>in situ''</u>hybridization is another morphological technique aimed at highlighting <u>nucleic acid sequences</u> (RNA or DNA) within the sample. Base complementarity between the target sequence within these sample cells and the probe (coupled to a s<u>development system, chromogenic or fluorescent</u>) makes it possible to <u>visualise and quantify the target sequence</u> in the sample. Its technical implementation and interpretation require an additional 1 to 2 days.
+[[File:For 2C 293 EC B03 ISH.jpg|thumbnail|Illustrations of chromogenic in situ hybridisation analyses in a breast adenocarcinoma (A and B, x63) and fluorescent in a lung adenocarcinoma (C and D, x100).]]
+
+
+
+
+
+'''<br />'''
+''Anatomical and clinical interpretation and synthesis''
+
+
+The analysis of a Pathological Anatomy and Cytology sample is carried out by <u>physician pathologist</u> who integrates the <u>informed clinical context</u> with the <u>macroscopic interpretation data, microscopic and complementary techniques</u> to produce a <u>synthesis</u> in the form of a <u>written and signed report</u> including, through a specific and precise vocabulary the <u>diagnostic, prognostic and theranostic information</u> necessary for the treatment and follow-up of the patient.
+
+For certain rare tumour pathologies, a double reading within the framework of a national anatomopathological reference network is necessary and requires the transmission of slides and/or tissue blocks for a second interpretation.
+
+
+'''''Conservation and use of direct debits'''''
+
+
+At the end of the initial analysis, slides and samples embedded in paraffin blocks are preserved and may be used a posteriori in a <u>health framework for continuing diagnostic, prognostic and theranostic analyses,</u> for the search for new markers of interest, for the treatment of the patient. Research work may also be carried out on samples archived in biological resource centres, in compliance with regulations concerning patient information and consent, as well as data confidentiality and traceability.
+
+<The complete management process for a fixed biopsy sample is illustrated in video at the following link: https://www.youtube.com/watch?v=pPe1CAVRibg&t=40s

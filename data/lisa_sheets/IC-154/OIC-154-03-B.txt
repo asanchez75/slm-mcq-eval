@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-154-03-B
+|Item_parent=Community bronchopulmonary infections in adults and children
+|Item_parent_short=Community bronchopulmonary infections in adults and children
+|Rank=B
+|Title=Knowing the pathophysiology of a lower respiratory infection (pneumonia, bronchiolitis, bronchitis)
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+A low respiratory infection (LRI) occurs when the microbial inoculum is large enough to overwhelm the host's defences: local mechanical (muco-ciliary escalator) and cellular (alveolar macrophages; polynuclears) defences, and systemic defences (humoral and cellular immunity).
+
+Patients at risk of BRI include those with a high risk of bacterial inoculum (swallowing disorders, dental or ENT infections), and those with impaired local (COPD; COPD; smoking, etc) and/or general defences (co-morbidities; immunosuppressed patients).
+
+The pathophysiology of acute infectious pneumonia depends on the nosological context and the infectious agents. What they all have in common is acute inflammation of the lung parenchyma, with alveolar oedema, leading to haematosis disorders and hence dyspnoea.
+
+In the course of "bronchiolitis in children", the infection generally begins in the ENT tract, then reaches the bronchioles, leading to epithelial necrosis and an inflammatory response, which in turn causes bronchiolar obstruction and trapping of the air breathed in.
+
+This obstruction explains the respiratory signs, in particular dyspnoea with sibilants, and the signs of thoracic distension.
+
+Acute bronchitis" is an inflammatory process of the bronchial and bronchiolar mucosa, of viral or bacterial origin, often initially originating in the ENT sphere, which leads to epithelial necrosis and mucosal hypersecretion. These factors explain the functional signs of bronchitis: cough with sputum, usually purulent.

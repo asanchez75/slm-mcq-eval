@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-027-30-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Intitulé=Drugs and pregnancy: knowing what to do in the event of exposure
+|Description=None
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=30}}
+During the consultation, a distinction should be made between :
+
+- A patient taking treatment and not knowing she was pregnant;
+
+- A patient taking treatment and wishing to become pregnant;
+
+- The discovery of a birth defect in a child. It should be remembered that the prevalence of foetal malformations in the general population is approximately 2 to 3%, with less than 5% linked to a medicinal cause.
+
+The first situation involves recording the circumstances in which the medication was taken: duration, quantity and indication.
+
+For a drug with a known teratogenic potential, we need to know whether it was taken during the 1st trimester, during organogenesis.
+
+The assessment of maternal benefit and foetal risk should also be detailed, as there are situations where there is a maternal risk when treatment is stopped. Whether or not to continue the pregnancy on the basis of these elements may be discussed at the Pluridisciplinary Centre for Prenatal Diagnosis, after the couple has been informed.
+
+The second situation consists of adapting the treatment during a pre-conception consultation with the best known treatment for pregnancy. For this, the practitioner can be assisted by the regional pharmacovigilance services and by the prescriber of the treatment (organ specialist).
+
+In the third situation, the imputability of a treatment requires the chronology of its administration to be retraced, if possible with the dosage, and reported to a pharmacovigilance centre.
+
+All these data provide valuable assistance to the French National Agency for the Safety of Medicines and Health Products (ANSM), enabling it to establish, in conjunction with preclinical studies in animals, whether or not the product is suitable for use during pregnancy.
+
+Advice on the teratogenicity of medicines can be sought from the teratogenicity reference centre (CRAT).
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''340 [[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|Voluntary or involuntary intake of a toxic or potentially toxic drug]]''''
+
+'''348. [Suspicion of an adverse reaction to medication or care SD-348|Suspicion of an adverse reaction to medication or care]'''<br />

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-173-03-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing the main epidemiological trends of the main zoonoses
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Carole Eldin
+|Order=3}}
+The most common zoonoses in mainland France are Lyme borreliosis, pasteurellosis, cat scratch disease and toxoplasmosis.
+
+Rabies, a viral infection, is not present in mainland France. The rare cases observed in animals in mainland France involve animals infected in countries where the disease is rife, then imported illegally, or bats.  
+
+The epidemiology of each of these infections depends on its mode of transmission:
+
+*Tick bites for Lyme borreliosis: epidemiology dependent on the presence of the vector, the reservoir and the risk of exposure (outdoor activities, etc.), which varies across the country with marked seasonal variations.
+*Animal bites and scratches for pasteurellosis and cat scratch disease, rabies, etc.
+*Ingestion of contaminated food for toxoplamosis

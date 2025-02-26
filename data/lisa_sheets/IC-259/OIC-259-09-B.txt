@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-259-09-B
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=B
+|Title=Knowing the principles of symptomatic treatment of nephrotic syndrome
+|Description=None
+|Rubric=Management
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=9}}
+
+===Treatment of oedema syndrome===
+It is based on :
+
+*sodium restriction (2-4g NaCl/day)
+*prescription of loop diuretics (Furosemide or Bumetanide). Depending on the response obtained, assessed on the basis of weight, urine volume and natriuresis/24 hours, the diuretic may be adapted at increasing dosage in 2 to 3 doses per day (diuretics are rarely prescribed in children because of the risk of hypercoagulability, only in the case of very large effusions with albumin infusion).
+*in the event of resistance, the other distal sites of sodium retention can be blocked under close monitoring (kalaemia and volaemia) by combining other diuretics acting at the level of :
+**collecting tubule (amiloride)
+**the distal convoluted tubule (thiazide diuretic such as hydrochlorothiazide, indapamide)
+
+Natriuretic response must be achieved "progressively" (target = loss of less than 1 kg/d) to avoid hypovolaemia and the risk of venous thrombosis (favoured by haemoconcentration).
+
+In the absence of hyponatremia (which corresponds to a disorder of intracellular rather than extracellular hydration), there is no need to restrict water intake.
+
+===Preventive treatment of thrombotic, infectious, renal, nutritional and cardiovascular complications of nephrotic syndrome: cf [[Understanding the acute and chronic complications of nephrotic syndrome 2C-259-DP-A03|''complications of nephrotic syndrome'']]===
+
+
+
+<br />

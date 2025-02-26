@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-087-04-A
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=A
+|Title=Describe the basic biological tests for epistaxis
+|Description=Know the basic complementary examinations to be carried out urgently depending on the severity of epistaxis.
+|Rubric=Additional tests
+|Contributors=Geoffrey Mortuaire
+|Order=4}}
+'''Severe epistaxis:'''
+
+* Blood cell count,
+* Pre-transfusion tests (blood group, Rhesus, RAI).
+
+'''When haemostasis disorders are suspected:'''
+
+* PT, APTT, platelets,
+* INR (for VKAs),
+* Anti-Xa activity (for xabans).

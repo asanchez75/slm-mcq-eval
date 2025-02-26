@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-129-10-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Knowing the general semiology of osteoarthritis in radio: coxarthrosis, gonarthrosis, osteoarthritis of the fingers
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=10}}
+Whatever its location, the radiographic signs of osteoarthritis are :
+
+- Localised joint pinching
+
+- Subchondral osteocondensation
+
+- Subchondral geodes
+
+- Osteophytes
+
+Not all of these radiographic signs are necessarily present.
+
+In the knee, osteoarthritis can affect 1, 2 or all 3 compartments: medial femorotibial, lateral femorotibial and patellofemoral.

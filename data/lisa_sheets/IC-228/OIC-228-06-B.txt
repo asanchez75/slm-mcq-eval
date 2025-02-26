@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-228-06-B
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=B
+|Title=Knowing how to diagnose necrotic angiodermatitis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=6}}
+
+[[File:Necrotic angiodermatitis.jpg|vignette|549.133x549.133px|Necrotic angiodermatitis]]
+The diagnosis of necrotic angiodermatitis is made in the presence of an ulcer:
+
+*of the anterolateral aspect of the leg;
+*with areas of superficial necrosis ;
+*with irregular margins
+*with a cyanotic and livedoid ulcerated rim;
+*very painful, sleepless ('''[[Assessment and management of chronic pain SD-260|assessment and management of chronic pain]]''').
+
+We are looking for :
+
+*arterial hypertension in adults and children, ([[Arterial hypertension SD-042|SDD-042]])
+*Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetes]],
+*the presence of pulses (there is no arteriopathy in angiodermatitis).

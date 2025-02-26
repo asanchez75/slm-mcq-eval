@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-294-06-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the general principles of internal vectorised radiotherapy
+|Description=None
+|Topic=Physiopathology
+|Contributors=Jean-Pierre Lotz
+|Order=6}}
+
+More recently developed and administered by isotope physicians (nuclear medicine), it uses a monoclonal antibody directed against a structure specifically carried by a tumour cell as a vector for an irradiating agent. The aim is to selectively irradiate the tumour cell using a radioactive isotope bound to the monoclonal antibody. Once the antibody is attached to the tumour cell, the isotope, chosen for its powerful but not very penetrating radiation (a few microns), can irradiate the tumour cell without damaging healthy tissue.

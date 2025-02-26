@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-12-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for a complementary assessment in the presence of a depressive syndrome
+|Description=None
+|Rubric=Additional tests
+|Contributors=El-Hage Wissam
+|Order=12}}
+
+The aim is to rule out a non-psychiatric etiology: full clinical examination, paraclinical work-up based on clinical findings and history.

@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-152-13-B
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=B
+|Title=Knowing the main embolic sites in cases of IE
+|Description=None
+|Section=Additional tests
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=13}}
+Embolic lesions complicate IE in 45% of patients. They may involve several organs and be responsible for polymorphous clinical pictures, sometimes noisy and associated with organ dysfunction, or, on the contrary, be completely asymptomatic.
+
+They can manifest as cerebral or peripheral ''ischaemic lesions'' (infarcts), ''abscesses'', or ''infectious aneurysms'' (also known as ''mycotic'' because of their mushroom-like shape), which can be complicated by haemorrhage.
+
+They must be investigated systematically, through clinical examination and additional tests, because their presence can be life-threatening and/or functionally disabling, and so affect the way in which they are managed.
+
+Their location depends on whether the endocarditis is in the right or left heart. The main embolic sites are :
+
+'''<u>A- In case of endocarditis of the left heart:</u>''''
+{| class="wikitable"
+|+Table: Main embolic locations of infective endocarditis of the left heart and their diagnostic management.
+|'''Location'''
+|Presentation
+|'''Complementary examinations'''
+|-
+|Cerebral (25% of cases, 2nd leading cause of death in IE)
+|Cerebral ischaemic and/or haemorrhagic stroke (often asymptomatic) (Figure 5)
+Cerebral abscesses (Figure 6)
+
+Cerebral infectious aneurysm
+|Cerebral MRI with injection of Gadolinium (reference examination)
+
+or ''Cerebral scan'' with injection of contrast medium (more readily available but less sensitive)
+
+If an infectious aneurysm is suspected, a cerebral arteriogram will be performed.
+|-
+|Spleen, kidney and liver
+|Abscess'' (round image with central area not taking up contrast)
+
+Infarction (triangular image, Figure 7)
+|Abdominal and pelvic CT scan with contrast injection (systematic).
+|-
+|'''Cutaneous'''
+|A careful clinical examination can detect peripheral emboli or sub-nail haemorrhages.
+|'''None'''
+|-
+|'''Limbs'''
+|'''[[Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms|Acute or subacute ischaemia of a limb]]'''''
+
+'''[[Osteoarticular infections (OAI) in children and adults|Arthritis]]''''
+|
+|-
+|'''Rachis'''
+|'''[[Osteoarticular infection: diagnostic arguments 2C-054-DP-A03|Spondylodiscitis]]'''''
+|'''Spinal MRI''' (reference test, only if there is a clinical indication)
+
+Thoracic-abdominal-pelvic scan (lack of sensitivity)
+|-
+|Coronary arteries
+|'''[[Acute coronary syndromes|Myocardial ischaemia]] (infectious emboli)''''
+|'''Coronary angiography''' (in the event of a clinical point of call or [[Elevation of cardiac enzymes SD-204|Elevation of cardiac enzymes]])
+|-
+|Arterial pathways
+|Infectious aneurysms
+|'''Thoracic-abdominal-pelvic scan''''
+|}
+<gallery perrow="4">
+Fichier:EI AVC.jpg|'''Figure 1.''' Bi-thalamic ischaemic stroke with an embolic appearance in the setting of a left heart AE.
+Fichier:EI - Abcès cérébraux (2).jpg|'''Figure 2.''' Multiple cerebral abscesses detected by systematic cerebral MRI in a patient presenting with Staphylococcus aureus IE of the left heart without neurological signs.
+Fichier:EI - Atteinte splénique.jpg|'''Figure 3.''' Asymptomatic splenic infarction (characteristic triangular lesions) detected by abdominal and pelvic CT scan.
+Fichier:EI-Abcès pulmonaires.jpg|'''Figure 4.''' Pulmonary embolic lesions (abscesses) in the setting of endocarditis of the right heart with ''Staphylococcus aureus''.
+</gallery>
+
+
+
+<big>To sum up,</big> while each examination must be carried out in the face of clinical points of appeal, <u>two are carried out fairly systematically in the face of the asymptomatic nature of certain lesions.</u> They allow the main embolic complications during IE of the left heart to be sought:
+
+*MRI of the brain (or CT scan of the brain with injection of contrast medium, if MRI is not available)
+*Thoracic-abdominal-pelvic CT scan
+
+
+'''<u>B- In cases of right heart endocarditis:</u>''''
+
+Embolic localisations are manifested by ''[[Deep vein thrombosis and pulmonary embolism (see item 330)|pulmonary embolisms]]'', often multiple and bilateral, responsible for pulmonary ''[[deep vein thrombosis and pulmonary embolism (see item 330)|pulmonary embolisms]]'', often multiple and bilateral, responsible for pulmonary ''[[deep vein thrombosis and pulmonary embolism (see item 330)|pulmonary embolisms]''' (Figure 8).
+
+A thoracic angioscan is routinely performed to detect these complications.
+
+*

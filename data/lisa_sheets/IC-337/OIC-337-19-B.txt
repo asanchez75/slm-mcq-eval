@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-19-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing the principles of management of acute fire smoke poisoning
+|Description=To be able to diagnose fire smoke poisoning and know how to manage it.
+|Rubric=Management
+|Contributors=Dominique Vodovar
+|Ordre=19}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 10.jpg
+</gallery>

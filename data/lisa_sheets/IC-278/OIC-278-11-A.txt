@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-278-11-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Knowing the complications of severe hepatocellular failure
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+The potential complications of severe hepatocellular insufficiency are :
+
+* Hemodynamic: generalised vasodilatation, arterial hypotension and tachycardia, rhythm disorders;
+* Neurological: severe encephalopathy with coma; there is a risk of cerebral oedema in cases of severe acute hepatocellular insufficiency, but not in cases of chronic hepatocellular insufficiency;
+* Respiratory: hypoxia, hypocapnia, acute respiratory distress syndrome;
+* Renal: acute functional or organic renal failure in acute liver failure, hepatorenal syndrome in cirrhosis;
+* Metabolic: hypoglycaemia, hyponatremia, metabolic acidosis, hyperlactataemia.
+* Infectious (bacterial and/or fungal): in particular pneumopathy and septicaemia.
+
+They warrant early treatment in specialised intensive care or intensive care unit from the stage of severe and/or progressive liver failure.

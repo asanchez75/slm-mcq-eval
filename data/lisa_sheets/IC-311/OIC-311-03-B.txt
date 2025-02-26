@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-311-03-B
+|Item_parent=Adult kidney tumours
+|Item_parent_short=Adult kidney tumours
+|Rank=B
+|Title=Knowing the main histological types of tumours
+|Description=None
+|Rubric=Definition
+|Contributors=Idir Ouzaid
+|Order=3}}
+
+<br />
+{| class="wikitable"
+| colspan="4" | '''Main histological types of tumours'''
+|-
+| rowspan="4" |'''Malignant''''
+| rowspan="3" | Renal cell carcinomas
+|Clear cell carcinomas*
+|75%
+|-
+|Papillary
+|15%
+|-
+|Chromophobic
+|5%
+|-
+|Other
+|Other
+|5%
+|-
+| rowspan="2" |'''Benign''''
+|Oncocytoma
+| colspan="2" |5% (of all solid kidney tumours)
+|-
+|Angiomyolipoma
+| 0.45% (of all solid tumours of the kidney) | colspan="2
+|}
+<nowiki>*</nowiki>: For clear cell carcinoma, a so-called ISUP (International Society of Uro Pathology) nucleolar grade is specified. This stage ranges from 1 to 4 (1-2: low grade, 3-4: high grade). The higher the grade, the worse the prognosis.

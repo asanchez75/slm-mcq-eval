@@ -1,0 +1,119 @@
+{{knowledge objective
+|Identifiant=OIC-026-02-A
+|Item_parent=Acute abdominal pain in a pregnant woman
+|Item_parent_short=Acute abdominal pain in pregnant women
+|Rank=A
+|Title=Know the aetiologies of acute abdominal pain in pregnant women threat of premature delivery, gynaecological, urinary and digestive causes)
+|Description=Know the signs of the following conditions causing acute pain during pregnancy: PAD, gynaecological, urinary and digestive causes.
+|Rubric=Positive diagnosis
+|Contributors=Louis Marcellin,Philippe Deruelle
+|Order=2}}
+
+<br />
+
+== '''Threat of premature delivery''' ==
+
+===Definition===
+- Association of [[Uterine contraction in a pregnant woman SD-098|uterine contractions]] regular and painful associated with cervical changes before 37 SA (between 22 SA and 36 SA and 6 days).
+
+===Clinical diagnosis===
+- Association of regular, painful uterine contractions associated with cervical changes on vaginal examination before 37 weeks' gestation.
+
+Measurement of cervical length and the appearance of the uterine orifice on vaginal ultrasound are prognostic factors for the threat of premature delivery.
+
+===Etiological and maternal-fetal impact assessment===
+o Vaginal swab for bacteriological analysis, [[Analysis of a urine cytobacteriological examination (ecbu) SD-189|ECBU]]
+
+o Fetal heart rate recording
+
+o Fetal ultrasound: vitality, amount of fluid, placental location
+
+           
+
+
+
+           
+
+==Gynaecological causes
+To be considered in the presence of acute pelvic pain
+
+===Uterus
+- Aseptic necrobiosis of fibroid
+
+Diagnosis
+
+- Abdominal or pelvic pain, depending on the term, permanent, spontaneous
+
+- Rarely accompanied by fever, but CRP may be elevated<br />.
+
+===Appendices===
+- Cyst torsion [[Pelvic mass SD-106]]
+
+- Haemorrhagic or non-haemorrhagic cyst rupture
+
+- Intracystic haemorrhage
+
+Diagnosis
+
+- Sudden onset of pain sometimes accompanied by vagal discomfort
+
+- Signs of peritoneal irritation
+
+There is no endometritis or salpingitis during pregnancy
+<br />
+
+==Urological causes ==
+Identical diagnostic criteria for pregnant and non-pregnant women
+
+- Renal colic
+
+- Lower urinary tract infection
+
+- Upper urinary tract infection
+
+Diagnosis
+
+- Sudden onset of pain in the iliac fossa, aggravated by palpation of the kidney
+
+- Urinary incontinence SD-096|Urinary incontinence
+
+- [[Hyperthermia/fever SD-044|Fever]] in cases of upper urinary tract infection
+
+Frequent association: urinary tract infection and PAD / urinary tract infection and diabetes
+<br />
+
+=='''Digestive causes'''==
+Identical diagnostic criteria for pregnant and non-pregnant women (see specific questions)
+
+Pregnancy can mask abdominal pain
+
+- Appendicitis
+
+Diagnosis
+
+- [[Hyperthermia/fever SD-044|Fever]] and left iliac fossa pain, but the position of the appendix may be altered by pregnancy, especially in the 3rd<sup>trimester.
+
+- [[Leukocyte abnormality SD-216|Hyperleukocytosis]] and increased neutrophil counts are physiological during pregnancy, which can complicate the diagnosis [[Acute or chronic inflammatory syndrome SD-186]].
+
+- Based on ultrasound, but do not hesitate to use an abdominopelvic scanner
+
+- Risk of miscarriage and prematurity (sepsis, pain, inflammation)
+
+
+- Peritonitis
+
+- Cholecystitis
+
+- Liver colic
+
+- Acute hepatitis
+
+- Constipation
+
+- Occlusion
+
+- Acute gastroenteritis
+
+- Gastritis, oesophagitis, peptic ulcer disease
+
+[Abdominal pain SD-004 [Abdominal distension SD-003

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-071-06-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Knowing differential diagnoses
+|Description=Know the pathologies to rule out
+|Heading=Positive diagnosis
+|Contributors=
+|Order=6}}
+'''Somatic differential diagnoses:''''
+
+* Endocrine diseases (insulin-dependent diabetes, hyperthyroidism, panhypopituitarism, Addison's disease)
+* Diseases of the digestive tract (Crohn's disease, achalasia of the oesophagus)
+* Certain brain tumours (brain stem tumour, craniopharyngioma).
+* Certain haemopathies (leukaemia).
+
+'''Psychiatric differential diagnoses:''''
+
+* Other OCDs (food restriction or avoidance disorders).
+* Characteristic depressive episodes.
+* Obsessive-compulsive disorder.
+* Schizophrenia.
+
+<br />

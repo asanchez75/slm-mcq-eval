@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-050-11-B
+|Item_parent=Genito-scrotal pathology in boys and men
+|Item_parent_short=Genito-scrotal pathology in boys and men
+|Rank=B
+|Title=Knowing the indications for imaging in the presence of an undescended testis
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Cédric Lebâcle, Alice Faure
+|Order=11}}
+
+
+*In children, the diagnosis is clinical. There is no room for additional examinations because no imaging technique is really effective (HAS, pertinence des soins, February 2018).
+*If the testicle cannot be felt on clinical examination, the child should be referred to a paediatric surgeon.
+*If the testicle cannot be palpated under general anaesthetic, laparoscopic exploration for diagnostic +/- therapeutic purposes is indicated.
+*In adults, surveillance by imaging (scanner, MRI) is recommended for an unpalpated testicle, as cryptorchidism is a major risk factor for [[2C-313|cancer of the testicle (313)]].

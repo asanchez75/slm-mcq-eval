@@ -1,0 +1,52 @@
+<br />{knowledge objective
+|Identifiant=OIC-135-04-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Knowing strategies for the management of neuropathic pain
+|Description=Particularities of neuropathic pain management: specific analgesics, neurostimulation, non-drug approaches, etc.
+|Rubric=Management
+|Contributors=
+|Order=4}}
+Neuropathic pain: pain associated with damage to or disease of the somato-sensory systems (e.g. polyneuropathic pain, post-zoster pain, post-surgical neuropathic pain, pain associated with multiple sclerosis, spinal cord injury, chronic sciatica, etc.).
+
+
+'''<u>Particularities of care</u>''''
+
+- Check whether etiological treatment is possible (rare)
+
+- Inadequate WHO levels (except possibly for acute neuropathic pain such as sciatica): simple analgesics (paracetamol, anti-inflammatories) and level II analgesics (paracetamol + codeine, paracetamol + opium powder), with the exception of tramadol, are not effective for chronic neuropathic pain due to their specific mechanisms.
+
+- Treatments for chronic neuropathic pain should be introduced and discontinued gradually, according to the "titration" principle (increasing doses according to efficacy and tolerance), with the exception of local topicals. The time to onset of action depends on the speed of titration.
+
+- The average duration of treatment is at least 6 months if effective.
+
+
+'''<u>Recommended analgesics:</u>''''
+
+They include:
+
+- Antidepressants (tricyclics such as amitriptyline or clomipramine, or mixed serotonin and noradrenaline reuptake inhibitors, SNRIs such as duloxetine)
+
+- Anti-epileptic drugs (gabapentin, pregabalin as a second choice)
+
+- Tramadol (preferably LP)
+
+- Local topicals for localised peripheral neuropathic pain (lidocaine patches, capsaicin patches (8%), botulinum toxin A).
+
+- Strong opioids (morphine, oxycodone in LP form) are effective but recommended as a last resort.
+
+
+'''<u>Non-recommended analgesics</u>:'''
+
+- Fast-acting opioids, particularly transmucosal fentanyl, are strongly discouraged even in cases of paroxysmal pain, and should always be prescribed for their official indications (paroxysmal attacks of pain in cancer).
+
+- Neuroleptics and benzodiazepines have no established efficacy and are not recommended for neuropathic pain.
+
+'''<u>Non-drug approaches including neurostimulation</u> :'''
+
+- Neurostimulation techniques include transcutaneous electrical stimulation (1st intention) and, for specialists, repetitive trans-cranial magnetic stimulation (rTMS) (third intention).
+
+- Psychotherapy and meditation can also be offered in combination with the above (validated) treatments.
+
+- Spinal cord stimulation should be proposed for refractory neuropathic pain, particularly in diabetics or post-surgical radiculopathy (third-line treatment).

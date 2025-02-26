@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-017-05-A
+|Item_parent=Telemedicine, telehealth and telehealth services
+|Item_parent_short=Telemedicine, telehealth and telehealth services
+|Rank=A
+|Title=Knowing how to implement a telemedicine project
+|Description=Know how to inform the patient about the conditions under which telemedicine procedures are carried out; know how to identify clinical situations in which telemedicine procedures can help to improve access to care, continuity of care and/or safety of care.
+|Rubric=Management
+|Contributors=
+|Order=5}}
+Choosing the right tools
+
+The healthcare professional is responsible for choosing the tool used. The tool must :
+
+* Correspond to the medical and/or nursing telehealth project,
+* Provide the information required for clinical assessment of the patient,
+* Preserve the confidentiality and security of data exchanged or shared,
+* Suitable for the patient and his or her clinical situation. Professionals can therefore choose a tool that is accessible to all, including people with disabilities.
+
+The core services of digital health
+
+* Co-ordination tools: this is a set of services for healthcare pathways, enabling professionals to co-ordinate their work, share information about the user's situation and organise the user's healthcare pathway seamlessly.
+* Secure Health Messaging: MSSanté is the national secure health messaging system with which healthcare, medico-social and social professionals can communicate health data by email in complete security (confidentiality of data and trust in the identity of the players involved in the exchanges). They can exchange messages and documents such as liaison letters or reports (hospitalization, consultations, biology, etc.).
+* The Shared Medical Record (DMP): the DMP, a service for sharing medical information that is the cornerstone of e-health, is a digital health record that stores and secures patients' health information: treatments, test results, allergies, etc. It can be shared with healthcare professionals and the public. This information can be shared with the healthcare professionals of your choice, who need it to treat your patients.
+* Diary: The aim is to be able to centralise user/patient appointments in the Espace, from the various existing and future information systems and appointment platforms.
+* E-prescribing: E-prescribing consists of dematerialising the prescription circuit between doctors, pharmacists and other prescribing professionals. It simplifies and secures the prescription transmission circuit, from the prescription to dispensing by the pharmacist or the performance of the procedure by the prescribing professional. It helps to make exchanges between doctors and the professions they prescribe more fluid and reliable, and thus to encourage the coordination of care, particularly through the sharing of information in the DMP.
+
+Stages of a telemedicine project
+
+The main stages have been identified by the Haute Autorité de Santé (Telemedicine project management and safety grid, 2013). These stages correspond to different levels of maturity of the project, where different questions and issues emerge for each theme.
+
+This involves defining the project, the players involved, the needs, the care pathway, etc.
+
+* Detailed description of the medical and care project
+* Support for the TLM project
+* Business specifications
+* Technical and functional specifications
+* Retention of health data
+* Professional responsibility and TLM activity
+* Training - Pooling
+
+Then, formalise the exchanges between the players and the responsibilities of the stakeholders
+
+* Deployment schedule
+* A priori risk management and preventive measures
+* Coordination of telemedicine activities
+* Organisation of TLM within the structure
+* Procedures in the event of technical breakdowns
+* Organisation of a telemedicine session
+
+Finally, evaluate the project, usage, response to objectives, medical service rendered, difficulties, undesirable events, etc.

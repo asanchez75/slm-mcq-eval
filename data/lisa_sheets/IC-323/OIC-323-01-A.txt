@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-323-01-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the concepts of evidence-based medicine (EBM) (definition, purpose) and therapeutic evaluation (principles and fields of application).
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES)
+|Order=1}}
+
+'''Evidence-based medicine''' '''= Médecine factuelle (EBM, Evidence Based Medicine).''''
+
+<u>Definition</u>:" '"Demonstrative evidence-based medicine is the rigorous, explicit and judicious use of the most relevant current evidence when making decisions about each patient's care"' (Sackett ''et al''. BMJ, 1996)
+
+<EBM approach</u>: faced with a clinical problem concerning a given patient
+
+#Formulate the medical problem into a clear and precise question
+#Search the literature for the most relevant articles in relation to the question posed.
+#Evaluate the reliability, applicability and clinical relevance of the conclusions drawn from the articles selected.
+#Use the results to answer the initial question posed.
+
+<u>Finality</u>: Making clinical decisions that must integrate 3 components.
+
+*The practitioner's clinical experience
+*the best current clinical research data
+*Patient preferences
+
+'''Therapeutic evaluation'''
+
+- Involves a drug or non-drug therapy (gene therapies, medical devices, surgery, radiotherapy, psychotherapy, etc.).
+
+- Determines whether its use improves the state of health of patients, whether it leads to adverse events, its cost, the benefit/risk ratio, the cost-effectiveness ratio, etc.
+
+- Takes into account the level of evidence and clinical relevance of the study.
+
+- Methods: all study designs (clinical trials, meta-analysis, cohort, case-control, case series, etc.) may be used, but the level of evidence will not be equivalent depending on the design chosen.

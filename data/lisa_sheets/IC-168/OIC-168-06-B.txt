@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-168-06-B
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=B
+|Title=Knowing the factors favouring herpes recurrence
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Multiple causes: fever, fatigue, sun, physical or emotional stress, menstruation, infections, reduced cell-mediated immunity.

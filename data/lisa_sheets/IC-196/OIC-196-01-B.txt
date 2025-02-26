@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-196-01-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Title=Knowing the epidemiology of rheumatoid arthritis
+|Description=Prevalence
+|Rubric=Epidemiology, prevalence
+|Contributors=
+|Order=1}}
+Rheumatoid arthritis: the most common chronic inflammatory rheumatism.
+
+Prevalence in the region of 0.3% to 0.8% in the general adult population.

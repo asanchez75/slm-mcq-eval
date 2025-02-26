@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-195-10-A
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=A
+|Title=Knowing the clinical signs of PPR
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+- '''[[Joint pain SD-067|joint pain]] rhizomelic''' of inflammatory rhythm, bilateral, with morning stiffness ;
+
+- for more than 1 month;
+
+- frequent general signs: '''[[Asthenia SD-021|asthenia]], anorexia, [[Weight loss SD-017|weight loss]]''', sometimes febrile ;
+
+- inflammatory syndrome '''([[Acute or chronic inflammatory syndrome SD-186|syndrome inflammatoire aigu ou chronique]]''').

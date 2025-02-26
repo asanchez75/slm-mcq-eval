@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-226-07-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Knowing the place and limits of venous echodoppler (DVT, PE)
+|Description=None
+|Section=Additional examinations
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=7}}
+
+=== '''Venous Doppler ultrasound:''' ===
+
+====== '''If DVT is diagnosed:''' ======
+[[File:Thrombus Echo.jpg|vignette]]
+- [[Reasoned request/prescription and choice of a diagnostic examination SD-178|first-line examination]] to confirm the diagnosis of DVT.
+
+- no contraindication to its use.
+
+- diagnostic criterion: inability to compress the vein.
+
+- Limitations: difficulties in accessing the venous network, for example: obesity, digestive interpositions, external fixator, plaster, wound, pain.
+
+
+
+'''If PE is diagnosed:''''
+
+- allows a diagnosis of PE to be made when there is a proximal, popliteal or suprapopliteal DVT and a clinical suspicion of PE.
+
+- performed as a first-line treatment in cases of suspected PE in pregnant women or subjects with severe renal insufficiency

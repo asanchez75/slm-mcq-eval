@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-348-07-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing the main etiologies of functional ARF
+|Description=Circumstances of extracellular dehydration and effective hypovolaemia, favouring factors of drugs modifying glomerular haemodynamics.
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=7}}
+
+==B.   Acute functional renal failure (table 3)==
+
+'''Table 3''' ''': Main causes of functional ARI''''
+{| class="wikitable"
+|'''Extracellular dehydration / True hypovolaemia''''
+
+Loss of skin (major sweating, burning) or digestive tract (vomiting, diarrhoea, fistulas)
+
+Kidney loss :
+
+- Excessive diuretic treatment
+
+- Osmotic polyuria in decompensated diabetes and obstruction lifting syndrome
+
+- Acute adrenal insufficiency
+
+Arterial hypotension in states of septic, haemorrhagic and anaphylactic shock
+|-
+|Real or "effective" hypovolaemia
+- Cardiac failure (acute or chronic): cardio-renal syndrome, cardiogenic shock
+
+- Severe nephrotic syndrome
+
+- Decompensated hepatic cirrhosis (hepato renal syndrome)
+|-
+|'''ARF by modification of renal haemodynamics (NSAIDs, Calcineurin inhibitors)'''
+|-
+|}
+In these situations (extra-cellular dehydration or effective hypolaemia) ''blockers of the renin angiotensin system (ACE inhibitors, ARB2)'' are not nephrotoxic but they do increase the risk of functional ARF and oligo-anuria.

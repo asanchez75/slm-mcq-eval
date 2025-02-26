@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-361-12-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Know the two main presentations of periarticular ankle injuries
+|Description=Achilles tendinopathy and retrocalcaneal bursitis
+|Rubric=Positive diagnosis
+|Contributors=CFCOT
+|Order=12}}
+
+'''<u>Achilles tendinopathy:</u>'''
+
+* Pain around the Achilles tendon, during or after exercise, lasting a few days, sometimes chronic.
+* Palpation of the tendon: painful, sometimes with one or more indurated nodules.
+* Plantar flexion is painful.
+
+'''<u>Retrocalcaneal bursitis:</u>''''
+
+* Bursitis located anteriorly and deep to the insertion of the Achilles tendon on the calcaneus.
+* Traumatic (ill-fitting shoes) or inflammatory (rheumatoid arthritis, gout).
+* Pain, swelling and heat in the upper part of the heel in front of the Achilles tendon.

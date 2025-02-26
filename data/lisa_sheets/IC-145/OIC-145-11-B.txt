@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-145-11-B
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=B
+|Intitle=Know the definition of national centres of reference
+|Description=None
+|Rubric=Definition
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=11}}
+
+The [[Knowing the main structures and organisations responsible for monitoring communicable infectious diseases in France 2C-145-DE-B02|National Centres of Reference (NCR)]] for the control of communicable diseases are laboratories and clinical departments located in public or private health, teaching or research establishments. They are appointed for 5 years by the Minister of Health on the recommendation of Santé publique France.
+
+The CNRs are responsible for :
+
+*Expertise'' in the microbiology and pathology of infectious agents; the development, optimisation, validation and distribution of medical biology tests; the identification of pathogenic agents (first-line tests or confirmation of identification at the request of another laboratory);
+*Scientific or technical advice in response to any request from the Minister for Health, Santé publique France or health professionals;
+*Contribution to epidemiological surveillance:
+**By leading a ''network'' of laboratories which may be asked to carry out tests and then forward the results to the relevant CNR;
+**By carrying out the analyses required to monitor pathogens;
+*Immediately alerting Santé Publique France, the Ministry of Health and, where appropriate, the Agence Régionale de Santé of any findings likely to present a risk or threat to the health of the population.

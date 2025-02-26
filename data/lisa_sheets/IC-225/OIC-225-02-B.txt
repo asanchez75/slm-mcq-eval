@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-225-02-B
+|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Rank=B
+|Title=Knowing the aetiology and risk factors of AOMI
+|Description=
+|Rubric=Physiopathology
+|Contributors=Christian Boissier,Lucie Salomon Du Mont, Anne Long, Alessandra Bura, Patrick Feugier
+|Order=2}}
+
+AOMI is the local expression of a systemic disease, the prognosis of which is partly conditioned by cardiac complications (angina and myocardial infarction) and cerebrovascular complications.
+
+The ''risk factors'' for OSA are those for atheroma (Cf [[2C-221|221]]-[[2C-222|22]]2-[[2C-223|223]]-[[2C-224|224]]).
+
+- age,
+
+- Male sex
+
+- smoking,
+
+- diabetes,
+
+- HTA,
+
+- Hypercholesterolemia
+
+Obesity and a sedentary lifestyle
+
+Its '''prevention''' joins the '''prevention of cardiovascular disease.'''
+
+<br />

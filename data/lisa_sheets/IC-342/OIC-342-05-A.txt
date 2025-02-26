@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-342-05-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Knowing the elements of the diagnosis of orthostatic hypotension, hypoglycaemia, etc.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}Diagnosis of orthostatic arterial hypotension (''[[Malaise/loss of knowledge SDD-050]]''):
+
+* a fall of > 20 mmHg in systolic blood pressure (SBP) within 1 to 3 minutes of becoming orthostatic,
+* or a fall of > 10 mmHg in diastolic blood pressure (DBP) within 1 to 3 minutes of becoming orthostatic,
+* or systolic blood pressure (SBP) ≤ 90 mmHg reproducing spontaneous symptoms within 1 to 3 minutes of transition to orthostatism.
+
+Diagnosis of hypoglycaemia ('''[[Convulsion SDD-120]], [[Coma and disturbed consciousness SDD-028]], [[Hypoglycaemia SDD-209]]'''): simultaneous finding (Whipple's triad)::
+
+* signs of neuroglucopenia: manifestation of focal or generalised dysfunction of the nervous system
+* low venous glycaemia (<0.5 g/l in non-diabetics - <0.60 g/l in diabetics)
+* and the rapid correction (10-15 min) of symptoms when blood sugar levels return to normal.
+
+Systematic testing of blood glucose levels in any patient with any degree of consciousness impairment.

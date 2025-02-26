@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-089-02-A
+|Item_parent=Hearing impairment
+|Item_parent_short=Hearing impairment
+|Rank=A
+|Title=Knowing the main types of deafness
+|Description=None
+|Rubric=Definition
+|Contributors=Dr Damien Bonnard, Prof Virginie Escabasse, Prof Valérie Franco Vidal
+|Order=2}}
+
+There are 3 main types of deafness, defined according to tonal audiometry:
+
+*conductive deafness'': normal CO and impaired CA, the two curves are not adjacent. Involves damage to the outer or middle ear (tympanic-ossicular system).
+
+*sensorineural hearing loss'': altered bone condition (CO) and air conduction (CA), the two curves remaining close together. Involves damage to the inner ear (endocochlear sensorineural deafness) or the auditory nerve (retrocochlear sensorineural deafness).
+
+*mixed deafness'': a combination of sensorineural and conductive hearing loss. CO and CA are impaired, but there is a gap between the curves (CA more impaired than CO). Concerns mixed disorders, most often middle ear + inner ear.
+
+[[File:Examples ST SP SM.jpg|vignette|1023x1023px|Tone audiometry of different types of deafness]]

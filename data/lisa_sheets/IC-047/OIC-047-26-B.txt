@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-047-26-B
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Know how to diagnose axis anomalies of the lower limbs.
+|Description=Twist disorder, genu valgum and varum
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=26}}
+'''Torsion disorder''' (abnormality of rotation in the transverse axis): excessive internal rotation in young children ("foot in" physiological up to 7 years), excessive external rotation in older children. Most often progresses favourably with growth. No orthopaedic treatment. Surgery is exceptional
+
+'''Genu varum''' (anomaly of rotation in the frontal axis): intercondylar spacing, physiological up to 3 years of age
+
+''Genu valgum'' (anomaly of rotation in the frontal axis): intermaleolar spacing, physiological from 3 to 10 years of age, disappears at puberty.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-354-03-A
+|Item_parent=Occlusive syndrome in children and adults
+|Item_parent_short=Occlusive syndrome in children and adults
+|Rank=A
+|Title=Knowing the biological work-up to be carried out in the event of occlusion
+|Description=haemogram, blood ionogram, urea, creatinine and CRP to look for an occlusive syndrome.
+|Rubric=Additional tests
+|Contributors=Laura BEYER-BERJOT
+|Order=3}}
+
+''Blood count, blood ionogram, urea, creatinine, CRP & preoperative work-up'' (PT, APTT, ABO blood group, Rhesus (2 determinations) and search for irregular agglutinins).

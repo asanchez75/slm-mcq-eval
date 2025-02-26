@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-209-02-A
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Knowing the main risk factor and co-morbidities frequently associated with COPD
+|Description=None
+|Section=Definition
+|Contributors=
+|Order=2}}
+
+
+* Risk factors
+** smoking (> 80%)
+** occupational air contaminants (15%)
+** domestic pollution (biomass combustion in emerging countries)
+** air pollution
+** genetic factors (in particular alpha-1 antitrypsin deficiency)
+**
+* Comorbidities (related to smoking, physical inactivity and psychosocial repercussions)
+** cardiovascular disease (hypertension, coronary artery disease, heart failure)
+** osteoporosis
+** anxiety/depression
+** undernutrition/obesity
+** skeletal muscle dysfunction/deconditioning,
+** bronchial cancer

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-121-01-A
+|Item_parent=Psychological disability (see items 56 and 118)
+|Item_parent_short=Psychological disability (see item 56 and 118)
+|Rank=A
+|Title=Know the definition of mental disability, know the difference with intellectual disability.
+|Description=Define mental disability, know the difference with intellectual disability
+|Rubric=Definition
+|Contributors=Fabrice Berna,Pierre Vandel
+|Order=1}}
+
+When a psychiatric disorder leads to an alteration in cognitive abilities or cognitive biases, and these interfere with social relations or daily activities, we speak of a "situation of psychic disability", or for short of "follow-up consultation and basic treatment for a patient suffering from a chronic psychiatric disorder (excluding depression) SD-269|psychic disability]".
+
+Psychiatric disability differs from intellectual disability in that it is not present from birth, is progressive and requires medical care.
+
+Intellectual disability: linked to an intellectual impairment
+
+Psychological disability: linked to a psychiatric disorder
+
+There are three levels of disability
+
+- Impairment: is the consequence of cognitive or motivational impairment
+
+- Activity limitations: these are the consequence of the disability and concern the difficulty of carrying out an activity.
+
+- Restrictions on participation refer to activities or roles that the person is unable to carry out because of their disability, but also because of their environment or society.

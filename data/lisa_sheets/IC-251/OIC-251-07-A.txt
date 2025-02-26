@@ -1,0 +1,127 @@
+{{knowledge objective
+|Identifiant=OIC-251-07-A
+|Item_parent=Lack of weight at all ages
+|Item_parent_short=Lack of weight at all ages
+|Rank=A
+|Title=Knowing how to diagnose weight loss
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+Weight loss is sometimes associated with other symptoms, but it can also be the only symptom. As the cause of weight loss can be a serious illness, and the consequences of weight loss can lead to malnutrition if the weight loss continues, it is important to adopt a rigorous diagnostic approach. In addition to questioning, it is essential to have a "reliable weight" of the patient.
+
+'''In children, a slowing of the growth curve''' may precede stagnation or weight loss: a specific aetiological investigation (in particular looking for organic digestive pathologies, '''oral disorders''' or '''eating disorders'') must be carried out in paediatric settings.'''
+
+''In the elderly, weight loss is often depressive'' with a reduction in food intake, but it is essential to look for an organic pathology (particularly neoplastic or inflammatory), because of the major risk of undernutrition.
+
+== A. Clinical examination/interrogation ==
+Look for malnutrition (see specific question) or a specific point of call
+
+== '''B.             Paraclinical examinations'' ==
+
+=== '''''A. Initial paraclinical assessment''''' ===
+'''Paraclinical examinations to be carried out in the event of isolated involuntary weight loss without guidance.'''
+{| class="wikitable"
+|Biological tests
+|Blood count, platelets
+
+CRP
+
+Ionogram, creatinemia, calcemia. Blood glucose
+
+Albumin and transthyretin (prealbumin)
+
+Liver function tests (transaminases, alkaline phosphatases, γ-GT)
+
+TSH us
+
+Tuberculin TST; HIV serology
+
+Urine dipstick test
+|-
+|Imaging
+|Chest X-ray (or chest CT scan)
+
+Abdominopelvic scan (or ultrasound)
+
+Radiocinema of swallowing (elderly subjects or neurological pathologies)
+|}
+CRP: C-reactive protein; γ-GT: gamma-glutamyl transpeptidase; TSH: thyroid-stimulating hormone; IDR: intradermal reaction; HIV: human immunodeficiency virus.
+
+=== '''''B.   Screening and diagnostic tests for malabsorption and/or maldigestion''''' ===
+
+=== '''''C.   Morphological examinations''''' ===
+B and C: see specific questions
+<br />
+
+== '''C.             Diagnostic reasoning'' ==
+As there are many different causes of weight loss, the diagnostic approach is based on questioning and clinical examination, looking for signs suggestive of the four mechanisms and four causes (see above).
+
+A diagnostic approach is suggested in the ''Figure'' and guidance is given in the ''Table''.
+
+'''Apart from quantifying food intake, digestive signs in particular should be investigated by questioning.'''
+
+== Weight loss with involuntary food restriction ==
+
+=== '''''. Weight loss in the absence of depressive signs''''' ===
+This is the most common situation and it is sometimes difficult to determine the aetiology.
+
+The presence of fever points to an infectious pathology (tuberculosis), inflammatory pathology or cancer.
+
+Fever can also accompany an inflammatory disease, such as vasculitis (notably Horton's disease in the elderly).
+
+Some cancers can also lead to febrile weight loss. This is particularly the case with lymphomas and certain solid tumours (kidney, liver, etc.).
+
+The absence of fever should raise the suspicion of a "deep-seated neoplasia", often digestive (pancreas, stomach, etc.), for which the symptoms may be poor. An inflammatory disease, whether digestive or not, is also possible.
+
+=== '''''2.     Weight loss with depressive signs''''' ===
+A depressive syndrome should be considered as the cause of the weight loss, bearing in mind that any undernutrition, whatever the cause, may be accompanied by a more or less significant state of depression. This is therefore a "diagnosis of exclusion" which requires a prior search for an organic cause.
+<br />
+
+== ''Weight loss with voluntary dietary restriction'' ==
+
+=== '''''. Restrictive plans''''' ===
+
+=== '''''2.     Anorexia nervosa and eating disorders''''' ===
+Restrictive anorexia nervosa and eating disorders are accompanied by dietary restriction, but this is usually minimised or even denied by the patient. In the context of a young woman with a normal biological check-up for a long time, this is the primary cause of weight loss.
+
+In these situations, the frequent hyperactivity contrasts with the thinness. Denial of the disorders (with "dysmorphophobia") and refusal to consider a weight target within the usual normal limits confirm the diagnosis.
+
+=== '''''3.     Weight loss with stomatological, ENT or digestive symptoms''''' ===
+The existence of dysgeusia, odynophagia, dysphagia to solids, swallowing problems and false routes lead the patient to voluntarily restrict his or her diet. An ENT examination and/or upper gastrointestinal endoscopy (gastroscopy) is then essential to search for a lesion, particularly a neoplastic one. Abdominal pain and diarrhoea are the main causes of weight loss due to dietary restriction in patients with chronic pancreatitis (most often associated with alcoholism and smoking) or Crohn's disease.
+<br />
+
+== Weight loss without dietary restriction, or even with hyperphagia ==
+This is the least common context. Food intake is normal or high, there is no anorexia and hyperphagia is inconstant.
+
+There are several possible causes:
+
+- Endocrine causes :
+
+o ''Insulin-penetrating diabetes'': look for polyuria and polydipsia, supplemented by a urine dipstick test. The onset of diabetes over the age of 50 may be the result of chronic pancreatitis, but requires a search for pancreatic cancer (abdominal CT scan).
+
+o ''Hyperthyroidism'' (collapsed TSH):.
+
+o More rarely, pheochromocytomas, Addison's disease (adrenal insufficiency) or anteropituitary insufficiency.
+
+- Digestive causes (in this case, however, intakes can be lowered)
+
+o Digestive parasites
+
+o Extensive small bowel resections
+
+- '''Neoplasia (always think of it in this context'').
+[[File:Figure.jpg|thumb]]
+
+
+
+
+
+
+
+
+
+
+'''Main causes (by pathology or context) of weight loss and elements of diagnostic orientation.'''
+[[File:Etiologies-amaigrissement.pdf|vignette]]
+<br />

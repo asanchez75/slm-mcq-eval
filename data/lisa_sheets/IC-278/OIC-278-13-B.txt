@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-278-13-B
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=B
+|Title=Know the additional tests to be carried out as a second-line treatment (for aetiology) for jaundice in adults.
+|Description=Know how to order a cardiac ultrasound scan and other biological tests (viral serologies and PCR) / echoendoscopy, endoscopic retrograde cholangiopancreatography, etc.
+|Rubric=Additional tests
+|Contributors=
+|Order=13}}
+ 
+
+1. unconjugated bilirubin jaundice
+
+- Normal liver function tests (excluding bilirubin), no anaemia, no history of haemolysis: the diagnosis of Gilbert's syndrome is accepted. No follow-up.
+
+- Anaemia or context of haemolysis: work-up to look for haemolysis, LDH, haptoglobinaemia, reticulocytes and specialist haematology opinion.
+
+
+
+'''2.    Icterus with mixed bilirubin:''''
+
+- PT, factor V, albumin
+
+- Assessment to look for cirrhosis (item 279) or acute hepatitis (item 167) and their causes
+
+
+'''3.    Conjugated bilirubin icterus'''
+
+Abdominal ultrasound to look for dilatation of the bile ducts.
+
+§ '''If the bile ducts are not dilated'''
+
+Search for primary biliary cholangitis (PBC) by measuring anti-mitochondria antibodies and for primary sclerosing cholangitis (PSC) by cholangio-MRI.
+
+If no cause is found on cholangio-MRI and anti-mitochondria antibodies are negative: discuss liver puncture and biopsy.
+
+
+§ '''If bile ducts dilated on ultrasound or MRI cholangio'''
+
+Identify the site of the obstruction by imaging, depending on the context:
+
+CT scan with injection, bili-MRI/hepatic MRI
+
+Endoscopy: echo-endoscopy, ERCP
+
+<br />

@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-207-12-B
+|Item_parent=Intra-thoracic lumps and masses in children and adults
+|Item_parent_short=Opacities and intra-thoracic masses in children and adults
+|Rank=B
+|Title=Know the main diagnostic hypotheses for mediastinal anomalies according to topography in children
+|Description=None
+|Rubric=Etiologies
+|Contributors=Stéphanie Luzi,Mathieu Lederlin
+|Order=12}}
+
+The main causes of mediastinal mass in children are listed according to their topography in the following table:
+
+<br />
+{| class="wikitable"
+| colspan="2" |'''Anterior mediastinal lesions''''
+|-
+| rowspan="2" |
+|Thymic tumours (benign hyperplasia, lymphoma, thymoma)
+|-
+|Germ cell tumours (mature teratomas, dermoid cysts, malignant germ cell tumours)
+|-
+| colspan="2" |'''Medium mediastinal lesions''''
+|-
+| rowspan="4" |
+|Adenopathies (lymphomas, tuberculosis...)
+|-
+|Bronchogenic cysts
+|-
+|Oesophageal duplication
+|-
+|Vascular tumours
+|-
+| colspan="2" |'''Posterior mediastinal lesions''''
+|-
+| rowspan="2" |
+|Neurogenic tumours (neuroblastomas, ganglioneurobastomas, neurofibromas)
+|-
+|Meningoceles
+|}
+ 
+ 

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-173-19-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing the preferential locations of echinococcosis
+|Description=Predominant hepatic localization, chance discovery or complications
+|Heading=Positive diagnosis
+|Contributors=Carole Eldin,Florence Robert-Gangneux,Françoise Botterel
+|Order=19}}
+
+'''Cystic echinococcosis'''
+
+*<Liver: the preferred location for hydatid cysts. This parasitosis is asymptomatic for many years and the diagnosis is most often fortuitous: discovery of a fluid cyst with a reinforced fibrous contour (a few cm to >10 cm) during imaging (ultrasound, CT scan). The diagnosis may also be made following investigation of complications in the liver (jaundice) or related to compression of neighbouring organs. More rarely, infection may be revealed by an anaphylactic syndrome following cyst rupture.
+*<u>Lung</u>: 2nd site of localisation
+*<Others: bone, spleen, peritoneum, kidney, brain, etc.
+
+Alveolar Echinococcosis
+
+*<Liver: preferential location. Larval development is also very slow (20 years) and diagnosis, when made late, is based on the discovery of a pseudotumourous hepatic mass with fibrosis. In cases of immunodepression, the disease may progress much more rapidly (2-5 years).
+*<Other sites: lung, skin, brain, etc.

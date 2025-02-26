@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-227-09-A
+|Item_parent=Chronic venous insufficiency. Varicose veins
+|Item_parent_short=Chronic venous insufficiency. Varicose veins
+|Rank=A
+|Title=Knowing how to diagnose CVI
+|Description=Clinical diagnosis. Treatment according to stage. Doppler enables anomalies to be identified.
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=9}}
+The diagnosis of CVI is based on questioning in search of functional signs, clinical examination and recourse to complementary examinations (''SDD-[[Demande d'un examen d'imagerie SD-231|demande d'un examen d'imagerie]]'').
+
+Clinical signs are sought in a patient in a standing position (phlebology stepladder), with the lower limb examined in external rotation and slightly flexed in the case of the great saphenous vein. The examination must be bilateral and comparative.
+
+Inspection and palpation of the veins: a distinction is made between varicose veins of the greater saphenous vein and lesser saphenous vein sectors, and non-systematised varicose veins. Palpation looks for pain and induration suggestive of superficial venous thrombosis.
+
+In addition to the clinical examination, a venous Doppler ultrasound is performed in the standing position to confirm the diagnosis. It will look for reflux in the deep and superficial venous network.
+
+Mixed aetiology of the ulcer is common, so SPIs or toe pressure should be measured where appropriate.

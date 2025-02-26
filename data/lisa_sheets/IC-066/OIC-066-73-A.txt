@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-066-73-A
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing semiology
+|Description=Main clinical features of personality disorders
+|Rubric=Diagnosis
+|Contributors=El-Hage Wissam
+|Order=73}}
+
+Paranoid personality disorder: generalised distrust of others, impaired judgement and rigidity, very few emotions. The clinical course fluctuates, with paranoid traits becoming more pronounced with age.
+
+Schizoid personality disorder: tendency to isolate, lack of interest in others and social relationships, low emotional reactivity, coldness, little pleasure in participating in social activities. It may precede schizophrenia.
+
+Schizotypal personality disorder: impaired social skills, rich psychic life, bizarre beliefs, original fields of interest (science fiction, esotericism, superstition, paranormal phenomena), tendency to solitude in childhood, poor social relations or social anxiety. Speech may be unclear, digressive or vague. Poor or maladaptive affect. Transient psychotic symptoms. The course is often stable or precedes schizophrenia.
+
+Antisocial personality disorder (psychopathy, sociopathy or dyssocial personality): impulsivity, tendency to act out, lack of guilt, inability to conform to social norms, repeated infringement of the rights of others, tendency to manipulate others, instability and legal problems. Repeated transgressive behaviour from an early age (Item 68). Increased risk of premature death by violence or suicide. Frequent addictive and depressive comorbidities.
+
+Borderline personality disorder is characterised by 1) emotional instability (thymic oscillations, anxiety, anger, chronic feelings of emptiness), 2) major interpersonal instability (chaotic relationships between idealisation and rejection, hypersensitivity, fear of abandonment), 3) identity and self-image. Added to this are behavioural disorders linked to impulsivity (self-mutilation, risky behaviour and repeated suicide attempts) and the occurrence of transient periods of severe dissociative symptoms (depersonalisation, derealisation, hallucinations). A history of physical, sexual or psychological violence is a major risk factor. There are frequent co-morbidities (substance abuse, mood disorders, anxiety disorders, eating disorders). The risk of suicide is high (8-10%).
+
+Histrionic personality disorder: emotional lability, excessive emotional seeking, hyper-expressiveness of affect, theatricality and suggestibility. Frequent co-morbidities with mood disorders, anxiety disorders, addictions and other personality disorders. High risk of suicide.
+
+Narcissistic personality disorder: grandiose sense of self, overestimation of abilities, desire for unlimited power and success. Feelings of superiority, need to be recognised, admired and respected, poor tolerance of criticism. Lack of empathy, insensitivity to others who are devalued and underestimated. Comorbidity with mood disorders and addictions.
+
+Avoidant personality disorder: relational and social inhibition, low self-esteem and heightened sensitivity to the negative judgement of others, frequent avoidance of social situations. Comorbid anxiety disorders (SAD, agoraphobia), addictions and depression.
+
+Dependent personality disorder: excessive need to be taken care of by others, tendency to devalue oneself, unable to assume responsibilities, excessive demands on others, fear of asserting oneself, unbalanced and limited social relationships. Comorbid anxiety, addictive and depressive disorders.
+
+Obsessive-compulsive personality disorder: meticulousness, attention to detail and order, rigidity, perfectionism, tendency to procrastinate, excessive caution, conscientious and scrupulous, with constraining moral or ethical values. Formal relationships, little emotional expression and little spontaneity. Increased risk of anxiety disorders (GAD, OCD, phobias), mood disorders and addictive disorders. The disorder tends to worsen with age.

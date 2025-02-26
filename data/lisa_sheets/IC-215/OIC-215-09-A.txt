@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-215-09-A
+|Item_parent=Purpuras in adults and children
+|Item_parent_short=Purpuras in adults and children
+|Rank=A
+|Title=Emergency treatment for purpura
+|Description=None
+|Section=Management
+|Contributors=
+|Order=9}}
+Apart from the 2 emergency situations described in this chapter, the management of purpura depends mainly on that of its cause.
+
+Platelet transfusion '''([[Prescribe and perform a blood transfusion SD-272|prescribe and perform a blood transfusion]])''' may be indicated in the setting of central thrombocytopenia in the event of haemorrhage and/or profound thrombocytopenia.

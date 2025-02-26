@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-106-07-B
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=B
+|Title=Knowing the manifestations of the cognitive and behavioural decline phase
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+See previous text

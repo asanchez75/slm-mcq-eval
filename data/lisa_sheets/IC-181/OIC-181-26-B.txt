@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-181-26-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Intitulé=To know Santé Publique France, the national centres of reference and their missions
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=26}}
+Santé Publique France is France's national public health agency. Its missions are as follows:
+
+- Detecting health risks by monitoring and continuously observing the population's state of health in various fields (infectious diseases, environmental health, occupational health, etc.);
+
+- Improving knowledge of the population's state of health, behaviour and health risks through health monitoring and vigilance and the design of prevention and health promotion intervention strategies;
+
+- Promoting public health by implementing health promotion and prevention initiatives and responding to health crises, in particular by alerting the Minister for Health to any threat to public health.
+
+
+Santé Publique France is responsible for coordinating infectiovigilance and the surveillance of notifiable diseases. To monitor communicable diseases, Santé Publique France relies in particular on the network of National Reference Centres (CNR). The CNRs are public or private health, teaching and research laboratories which carry out expert appraisal, advisory, surveillance and alert missions specific to certain pathogenic micro-organisms. They are appointed for a period of 5 years by the Minister for Health on the recommendation of Santé Publique France.

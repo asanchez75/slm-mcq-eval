@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-259-02-A
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=A
+|Title=Know the definition of pathological proteinuria
+|Description=Know the thresholds for albuminuria
+|Rubric=Definition
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=2}}
+
+*Pathological proteinuria corresponds to an abnormal urinary elimination rate (> 150 mg/d or mg/g) and quality of protein''.
+*The rate of proteinuria can be measured on a 24-hour urine sample, or estimated on the basis of a urine sample, provided that it is related to creatininuria (to avoid the impact of urine concentration/dilution). Urinary excretion of creatinine in an adult is approximately 1 g/d, or 8.84 mmol/d (this last value is rounded to 10 for convenience). Example: proteinuria/creatininuria 700 mg/mmol creatinine = 7 g/g creatinine. Estimated 24-hour proteinuria is 7 g/d.
+*The term microalbuminuria is accepted in practice and corresponds to a moderately increased excretion of albumin in the urine (30-300 mg/d).
+
+<br />
+{| class="wikitable"
+|
+|24-hourrines
+
+(mg/d)
+|RAC or RPC
+
+(mg/mmol)
+|RAC or RPC
+
+(mg/g)
+|-
+|Normal albuminuria
+|< 30
+|< 3
+|< 30
+|-
+|Microalbuminuria
+|30-300
+|3-30
+|30-300
+|-
+|Albuminuria
+|> 300
+|> 30
+|> 300
+|-
+|Clinical Proteinuria
+|> 500
+|> 50
+|> 500
+|}
+''RAC = Ratio of albumin to urinary creatinine; RPC = Ratio of protein to urinary creatinine''.

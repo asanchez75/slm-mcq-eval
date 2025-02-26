@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-357-11-B
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=B
+|Title=Knowing the value and limitations of complementary examinations in children
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=11}}
+
+→ As in adults, biological tests do not help in the diagnosis of peritonitis in children, which is clinical. They provide information on the severity of the picture ("''[[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]''').
+
+*Usually: neutrophil hyperleukocytosis and high CRP, but beware of the inertia of these biological signs.
+*Neutropenia suggests sepsis with a poor prognosis.
+*Blood ionogram to assess fluid and electrolyte disorders.
+*Blood cultures +++
+
+→ The unprepared abdomen should no longer be prescribed in the work-up for peritonitis.
+
+→ Abdominal ultrasound has a sensitivity of 95% and specificity of 90% to detect acute appendicitis in children, however its negativity does not exclude the diagnosis.
+
+→ Abdominal CT is rarely indicated (unclear aetiology after initial work-up, work-up of acute pancreatitis or an abdominal wound).

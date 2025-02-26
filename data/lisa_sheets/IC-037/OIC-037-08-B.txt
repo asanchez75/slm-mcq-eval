@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-037-08-B
+|Item_parent=Voluntary termination of pregnancy
+|Item_parent_short=Voluntary termination of pregnancy
+|Rank=B
+|Title=Knowing medicated and surgical abortion techniques
+|Description=Methods and techniques for carrying out abortions
+|Rubrique=Prise en charge
+|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini
+|Order=8}}
+
+Two techniques can be used to perform an abortion. The medicinal technique and the instrumental technique (Table). '''[[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient (adult/child/adolescent)]]''''
+
+
+During the medicated technique, metrorrhagia generally occurs within 3 to 4 hours of taking the prostaglandin, but this should not be taken as proof of success. Effectiveness is judged on the basis of complete expulsion without the need for surgery, and also on the rate of progressive pregnancy. Analgesic treatment must be associated.
+
+The instrumental technique can be performed under local, loco-regional or general anaesthetic.
+<br />
+{| class="wikitable"
+|
+|'''Medical abortion''''
+|'''Instrumental abortion'''
+|-
+|Maximum legal period
+|up to 9 weeks' gestation
+|Up to 16 weeks
+|-
+|
+|
+|
+|-
+|Treatment regimen
+|Oral mifepristone followed by oral misoprostol 24 to 48 hours later.
+
+
+Before 7 SA
+
+200 or 600 mg mifepristone 400 microg misoprostol
+
+
+
+Between 7 and 9 SA
+
+200 mg mifepristone
+
+800 microg misoprostol
+|200 mg mifepristone per os 48 hours before the procedure
+
+Or
+
+400 microg misoprostol per os 3 to 4 hours before the procedure
+<br />The procedure is carried out by aspiration with a cannula after dilating the cervix with a bougie adapted to the gestational age.
+|-
+| colspan="3" |
+|}
+Table: main differences between the two abortion techniques

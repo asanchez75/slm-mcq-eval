@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-66-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for hospitalisation in psychiatry
+|Description=None
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Ordre=66}}
+
+Hospitalisation is exceptional in cases of overwhelming anxiety, depressive comorbidity, suicidal crisis or very negative environment. In vulnerable patients, assess living conditions, current or past trauma and the risk of further trauma. Hospitalisation provides an opportunity to assess and protect.

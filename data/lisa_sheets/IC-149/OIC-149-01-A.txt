@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-149-01-A
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=A
+|Title=Know the definition of angina
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Angina''' is an inflammatory disease of the oropharynx affecting the tonsils.'''
+
+Classified according to 4 clinical forms:
+
+- erythematous/erythematopulmonary angina
+
+- pseudomembranous" angina
+
+- vesicular angina
+
+- ulcerative and ulcero-necrotic angina

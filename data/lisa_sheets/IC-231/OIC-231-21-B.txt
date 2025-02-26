@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-231-21-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Title=Identifying torsades de pointes
+|Description=Identifying torsades de pointes and QT prolongation excluding hypokalaemia
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=21}}
+
+
+*Polymorphic ventricular tachycardia with rotation of the axis around the isoelectric line,
+*Most often repeated unsustained episodes with lipothymia/syncope but the torsade may degenerate into ventricular fibrillation,
+*Occurs mainly in patients with ''''hypokalaemia, a combination of QT-prolonging drugs, bradycardia, or congenital long QT syndrome.
+
+[[File:Torsade de pointe.jpg|vignette|alt=|centré|900x900px]]

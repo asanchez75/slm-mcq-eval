@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-312-06-A
+|Item_parent=Breast tumours
+|Item_parent_short=Breast tumours
+|Rank=A
+|Title=Knowing the clinical presentations of breast tumours
+|Description=Clinical breast signs: nodule, discharge, inflammation, skin lesions
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+The clinical examination includes :
+
+* An interview to look for breast pain, self-exploration of nodules, changes in general condition (''asthenia'', ''weight loss'').
+
+* An inspection to look for changes in the skin of the breast or nipple: retraction, dimpling or flattening, deviation or invagination of the nipple, "nipple discharge" or eczematous appearance of the nipple, orange peel skin, skin oedema, "skin ulcer", inflammation with breast enlargement, localised or diffuse "erythema" and local heat (suggestive of inflammatory breast cancer).
+* Bilateral palpation of the breasts and the axillary, supra- and sub-clavicular lymph nodes to look for a nodule in the breast, or single or multiple adenopathies (axillary or supra- or sub-clavicular lymph nodes).

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-168-15-A
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Title=Know the principles of treatment for HSV and VZV infections
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=15}}
+'''HSV:''' according to the clinic
+
+- Acute gingivostomatitis: spontaneous favourable evolution in 15 days, ensure good hydration,
+
+systemic treatment may be given if the picture is marked (valaciclovir, see intravenous treatment with aciclovir if oral rehydration is not possible)
+
+- Herpetic keratitis: specialist ophthalmological opinion,
+
+topical acyclovir (ointment) +/- systemic in severe cases, absolute contraindication to topical corticoids
+
+- Genital herpes: oral antiviral treatment (valaciclovir), does not prevent recurrence
+
+Long-term preventive treatment to be discussed if more than 6 annual recurrences of genital or orofacial herpes (suspensive only, risk of recurrence when stopped).
+
+Varicella'': local symptomatic treatment to combat the risk of skin superinfection (disinfection with soap and water, short nails), +/- antihistamines, aspirin and NSAIDs contraindicated (risk of Reye's syndrome).
+
+'''Shingles:''' local symptomatic treatment, pain management.
+
+No antibiotic treatment is required unless there is a proven skin infection.
+
+Early antiviral treatment (72 hours) with valaciclovir or famciclovir may be used to prevent post-herpes zoster pain (age > 50 years, extensive shingles, intense pain in the acute phase) or to prevent ocular damage in ophthalmic shingles.

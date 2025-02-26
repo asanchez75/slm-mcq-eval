@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-277-02-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=To know the incidence of biliary lithiasis, the frequency of symptoms and the indications for screening; To know the frequency of complications of biliary lithiasis.
+|Description=20% general population, 80% of whom are asymptomatic
+|Section=Epidemiology
+|Contributors=
+|Order=2}}
+The incidence of vesicular calculosis in Western countries is around 20% of the general population. It increases with age, reaching 60% after the age of 80. Eighty per cent of individuals with vesicular calculosis are asymptomatic.
+
+Despite its frequency, screening for vesicular lithiasis is not indicated. In fact, the cumulative probability of a complication from vesicular lithiasis is 20%.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-296-11-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: how to proceed
+|Rank=A
+|Title=Knowing the principles of management of acute drug-induced agranulocytosis
+|Description=
+|Rubric=Management
+|Contributors=
+|Order=11}}
+'''- immediate and definitive discontinuation of the drug in question'''
+
+'''- rise in PNN >0.5 G/L usually obtained 8-10 days after stopping the treatment in question'''
+
+'''- compulsory submission of a certificate definitively banning the drug responsible'''

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-329-08-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Title=Know the general principles of transfusion savings
+|Description=None
+|Section=Management
+|Contributors=
+|Order=8}}
+The principles of transfusion sparing in the perioperative setting consist of :
+
+- optimise the erythrocyte mass: pre-operative anaemia screening (search for martial deficiency), look for an indication for agents to stimulate erythropoiesis (orthopaedics).
+
+- minimising blood loss: screening for haemostasis disorders during questioning, management of anti-coagulants and anti-platelet aggregants, good surgical haemostasis.
+
+- improving tolerance to anaemia: determining the transfusion threshold for each patient, monitoring for signs of intolerance, optimising cardiac output, ventilation and oxygenation.
+
+Optimising erythrocyte mass and improving tolerance to anaemia are principles that also apply in the medical and critical care sector. Transfusion thresholds are defined according to pathological circumstances and co-morbidities.

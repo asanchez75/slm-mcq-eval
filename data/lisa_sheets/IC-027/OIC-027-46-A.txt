@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-027-46-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Intitulé=Irradiation et grossesse : en pratique, ce que on peut retenir
+|Description=To know the prevention methods and what to do in the event of exposure of a pregnant woman
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Ordre=46}}
+'''Discovery of a pregnancy after a radiodiagnostic examination''''
+
+- If the uterus is outside the radiation beam (skull, thorax, limbs, etc.), the patient can be reassured.
+
+- If the uterus is in the radiation beam (intravenous urography, hysterography, pelvic scanner, etc.):
+
+- for a "standard" examination (usual number of images and/or duration of scopy): the patient can be reassured. The dose delivered to the uterus is exceptionally greater than 100 mGy, below which the risks are very low (apart from the moderate risk of mutagenesis);
+
+- for an "unusual" examination (very high number of images and/or duration of scopy): you should seek the advice of a department responsible for calculating the dose-gonad (IRSN).   
+
+Diagnostic X-ray examination of a pregnant woman
+
+Precautions to be taken when carrying out a radiographic examination on a woman of childbearing age
+
+- As a matter of principle, pregnant women should not be exposed to ionising radiation.
+
+- In radiology, ask any woman of childbearing age whether she is at risk of becoming pregnant at the time of the examination.
+
+- If you are pregnant, try to replace the irradiating test with one or more non-irradiating tests, such as ultrasound and/or MRI.
+
+- Place a lead apron over the patient's abdomen to further limit the dose delivered to the uterus during the examination, as a matter of principle.
+
+- Limit the number of images taken/scopy time to what is strictly necessary.
+
+- If a radiographic/scopic examination is necessary, do not contraindicate it solely on the grounds of pregnancy: there are often more benefits than risks in carrying it out (benefit/risk balance).
+
+- If the uterus is outside the radiation beam: the planned radiodiagnostic examination can be carried out (without forgetting the lead apron).
+
+- If the uterus is in the radiation beam :
+
+- if possible, an examination without ionising radiation should be preferred: MRI or ultrasound,
+
+- if the radiodiagnostic examination (with or without contrast medium) is necessary for the proper management of the patient, it can generally be carried out subject to protective measures or measures to reduce irradiation, discussed on a case-by-case basis with a specialist department.
+
+'''Pregnant woman occasionally standing close to a patient undergoing radiological examination (child, etc.)'''
+
+- In these circumstances, as the uterus is not in the radiation beam, irradiation is negligible.
+
+- Pregnant women inadvertently exposed to such conditions should be reassured.
+
+- A pregnant woman may occasionally stand next to a patient undergoing an X-ray examination, wearing a lead apron as a precaution.
+
+'''232. ''[[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]''''
+
+'''312. [[Prevention of foetal risks SD-312|Prevention of foetal risks]]''''
+
+'''315. [[Occupational risk prevention SD-315|Occupational risk prevention]]''''
+
+'''348. [Suspicion of an adverse drug reaction or an adverse drug treatment SD-348|Suspicion of an adverse drug reaction or an adverse drug treatment]'''''

@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-045-05-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Know how antenatal screening for trisomy 21 is carried out.
+|Description=Know the procedures for antenatal screening for trisomy 21
+|Rubric=Positive diagnosis
+|Contributors=Elise Launay,Damien Sanlaville,Marie-Bérengère Troadec
+|Order=5}}
+
+Doctors must inform patients of the possibility of [[Prenatal screening for trisomy 21 SD-307|prenatal screening for trisomy 21]], which is covered by the health insurance scheme but is not compulsory.
+
+Screening includes a combined 1st trimester test based on :
+
+- Maternal age ;
+
+- Nuchal translucency measurement in the 1st trimester ;
+
+- Measurement of serum markers in the 1st trimester (PAPP-A, free beta-HCG).
+
+
+The course of action varies according to the result of the combined test:
+
+- If the risk is less than 1/1000, simple pregnancy monitoring is recommended;
+
+- If the risk is between 1/51 and 1/1000, non-invasive prenatal screening is proposed (test on free foetal DNA circulating in maternal blood, DPNI):
+
+o If the DPNI is negative: continuation of the usual ultrasound monitoring of the pregnancy;
+
+o If the DPNI is positive: proposal of a foetal karyotype. The FISH test has a very good positive and negative predictive value, but does not allow a definite diagnosis of trisomy 21 to be made. Therefore, no termination of pregnancy will be carried out on the basis of a positive result from an NIPD test.
+
+- If the risk is greater than or equal to 1/50, a foetal karyotype is proposed straight away. However, the woman may ask to undergo an INFP.
+
+
+If it has not been possible to carry out screening in the 1st trimester of pregnancy, it is possible to propose the measurement of serum markers in the 2nd trimester (hCG, alpha-feto-protein, oestriol).

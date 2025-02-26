@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-365-06-A
+|Item_parent=Surveillance of a patient in plaster/resin
+|Item_parent_short=Surveillance of a patient in plaster/resin
+|Rank=A
+|Title=How to detect and diagnose a complication in a cast
+|Description=TVP, compartment syndrome, ischaemia
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=6}}
+'''Compartmental syndrome'''
+
+* Very intense, disproportionate pain that is not relieved by painkillers
+* Tense, painful muscle masses
+* Pain increased by passive muscle tension
+* Distal paresthesias and hypoesthesias due to ischaemic damage to the nerve passing through the compartment concerned.
+* Distal pulses normally present
+
+Thrombo-embolic complications
+
+* Calf pain under restraint
+* General signs: tachycardia, fever
+* Edema of the foot and cyanosis of the extremities
+
+'''Local compressions'''
+
+Cutaneous and infectious complications :
+
+* Local ischaemia responsible for bedsores, arthritis, osteitis, scar disunions, etc.
+* immobilisation is soiled and foul-smelling, with local pain, proximal adenopathy and fever.
+
+'''Neurological compressions'''
+
+Search for sensitivity disorders (paresthesias, dysesthesias), localised pain or a motor deficit (examples: median nerve at the wrist, ulnar nerve at the elbow, fibular nerve at the neck of the fibula).

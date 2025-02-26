@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-179-07-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=A
+|Title=Knowing how to define a foodborne outbreak and the different symptoms of foodborne outbreaks.
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Ordre=7}}
+'''<u>Definition</u>''':
+
+Appearance of at least 2 cases of a symptomatology, generally digestive, the cause of which can be traced back to the same food source.
+
+'''<u>Symptomatology</u>''':
+
+The majority of TIACs have digestive symptoms: nausea, vomiting, diarrhoea (choleriform or dysenteric), acute hepatitis.
+
+There are a number of TIAC agents with neurological symptoms (sensory-motor disorders). (Table)
+Toxoplasmosis may be the cause of CFTI but without digestive symptoms.
+{| class="wikitable"
+| colspan="2" |'''Main clinical manifestations according to the etiological agent'''
+|-
+|'''Symptoms'''
+|'''Possible agents'''
+|-
+|Nausea
+
+Vomiting
+|Heat-stable toxins released into food by Staphylococcus aureus,
+
+Bacillus cereus
+
+Neurotoxins from dinoflagellates: shellfish, large tropical fish (ichthyosarcotoxin from ciguatera)
+
+Histamine (scombrotoxin): tuna, mackerel
+
+Mushroom toxins
+
+Chemicals, heavy metals
+|-
+|Cholera-like diarrhea
+|Clostridium perfringens, B. cereus, enterotoxigenic Escherichia coli
+
+Virus: norovirus
+|-
+|Diarrhoea, dysentery, fever
+|Salmonella spp., Campylobacter jejuni, Vibrio parahaemolyticus, Entero-invasive E. coli, Enterohemorrhagic E. coli, Yersinia enterocolitica, Shigella spp.
+
+Entamoeba histolytica, Cryptosporidium spp. and Giardia duodenalis
+|-
+|Acute hepatitis
+|Hepatitis A virus, Hepatitis E''.'''
+|-
+|Motor or sensory neurological disorders, without digestive disorders
+|Clostridium botulinum
+
+Neurotoxins in dinoflagellates (shellfish)
+
+Histamine (scombrotoxin): tuna, mackerel
+
+Chemical products.
+|}

@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-363-15-A
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=A
+|Title=Know the indication, objective and basic semiology of imaging examinations for fractures of the lower extremity of the radius.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=15}}
+
+The radiographic work-up should enable the "diagnosis" to be made and any "associated lesions" to be looked for, and the criteria for severity to be defined.
+
+The radiographic assessment includes 2 or 3 incidences of the wrist (''Face, profile, +/- ¾''').
+
+Normal radiological appearance: ''mean inclination of the radial glenoid from the front = 25°''; ''head of the ulna 2 mm shorter than the radius''; ''inclination of the radial glenoid from the side 10-12°''.
+
+
+The assessment specifies whether the fracture is ''simple'', ''transverse'' or ''metaphyseal''; whether the fracture is ''articular'' or ''extra-articular''; whether it is ''displaced'' or not; the ''direction of displacement''; whether there is a ''comminution''; whether there are any associated lesions''.
+
+
+Associated lesions :
+
+           - Ulnar: distal radio-ulnar dislocation; fracture of the ulnar styloid; fracture of the head of the ulna.
+
+           - '''Fracture of the carpal bones'''
+
+           - '''Intracarpal ligament lesion''' (scapholunate suspected in the presence of scapholunate diastasis associated with an external cuneal fracture)
+
+           - '''Radicarpal ligament injury''' (bone tear)
+
+For joint fractures, a CT scan will show: the different fracture lines; joint relationships; associated lesions.
+
+
+The ''radiological severity criteria'' are :
+
+           - The '''articular character'''
+
+           - L''''existence of associated lesions''''
+
+           - Fractures considered ''unstable'' in the presence of: ''significant dorsal comminution''; ''associated ulnar fracture''; ''tilt > 20°''.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-156-07-A
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=A
+|Title=Knowing the indications for joint puncture
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Dr Florent Valour
+|Order=7}}
+'''Indication :''' Joint puncture is a key examination to be carried out as an emergency in the event of acute arthritis, prior to any antibiotic therapy. It can be ultrasound or radio-guided for deep joints.
+
+In children, joint puncture is always carried out by a surgeon, in the operating theatre and under general anaesthetic.
+
+'''Contraindications:'''
+
+- lesions or skin infection at the puncture site
+
+- coagulation disorder (coagulopathy, anti-coagulant treatment at supra-therapeutic dose, particularly for deep joints)
+
+NB1: Thrombocytopenia < 50 G/L or anti-platelet aggregation therapy is not an absolute contraindication.
+
+NB2: The presence of hardware (joint prosthesis) is not a contraindication to puncture.
+
+'''Tests:''' the tests to be requested systematically are the following, to help determine whether the effusion is mechanical or inflammatory, to make the microbiological diagnosis, and to rule out certain differential diagnoses: macroscopic appearance, cytochemistry, search for crystals (in adults), bacteriology (direct examination, standard culture, ''Kingella kingae'' PCR for septic arthritis in children aged between 6 months and 4 years).
+
+'''Interpretation (in adults):'''
+[[File:Interpretation algorithm for joint puncture.jpg|vignette]]
+<br />

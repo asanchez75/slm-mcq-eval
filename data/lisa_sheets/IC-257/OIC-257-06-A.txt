@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-257-06-A
+|Item_parent=Localised or generalised lower limb oedema
+|Item_parent_short=Localised or generalised oedema of the lower limbs
+|Rank=A
+|Title=Know the main biological signs to look for in oedema
+|Description=None
+|Rubric=Additional tests
+|Contributors=Jean-Jacques Boffa,Bruno Moulin
+|Order=6}}
+
+==B.    Biological signs==
+Hemodilution often modest: '''decrease in hematocrit and [[Hypoprotidemia SD-211|protidemia]]''''
+
+*Intracellular hyperhydration (hyponatremia) may be associated if the water balance is more positive than the sodium balance, contributing to additional weight gain.
+*Serous effusions are ''transudates'' (protein concentration less than 20 g/Litre).
+*Natriuresis is collapsed, less than 20 mmol/day,
+
+
+Depending on the context, to diagnose a responsible condition :
+
+*Cardiac:
+**Increased BNP or NT-proBNP concentration;
+*Hepatic:
+**blood albumin, prothrombin level ± factor V assay, liver enzymes;
+*Renal:
+**blood creatinine and glomerular filtration rate;
+**proteinuria (urine dipstick screening, quantitative and qualitative measurement), urine sediment, protidemia, albuminemia;
+**Hypoalbuminemia:
+*anorexia, malabsorption: reduced concentrations of nutritional proteins (pre-abumin, transferrin);
+*hepatocellular insufficiency (TP and factor V);
+*exudative diarrhoea with loss of digestive proteins;
+
+<br />

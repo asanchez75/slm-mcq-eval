@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-114-15-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Knowing the four main exanthemas at risk in pregnant women
+|Description=Rubella (foetal death or malformations), Parvovirus B19 (foetal hydrops), toxoplasmosis, syphilis (congenital form).
+|Rubric=Etiologies
+|Contributors=
+|Order=15}}
+The 4 main causes of exanthema in pregnant women associated with a foetal risk are as follows:
+
+- rubella in non-immune women (risk of foetal death or malformations)
+
+- toxoplasmosis in non-immune women (risk of congenital toxoplasmosis)
+
+- parvovirus B19 infection in non-immune women (risk of hydrops if infection occurs in the 2nd trimester)
+
+- syphilis (risk of congenital syphilis)

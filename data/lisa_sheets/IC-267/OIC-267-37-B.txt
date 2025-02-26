@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-267-37-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid and electrolyte disorders
+|Rank=B
+|Title=Know the main ECG abnormalities associated with hypocalcaemia
+|Description=QT interval and risk of rhythm disorders
+|Section=Additional tests
+|Contributors=P. Rieu,B. Moulin,M. Flamant
+|Order=37}}
+
+[[File:Capture hypoCa.jpg|vignette|ECG in hypocalcaemic situation]]
+
+*Cardiac electrical disturbances in hypocalcaemia:
+**QT interval prolongation
+**May be complicated by atrioventricular block
+Can be complicated by atrioventricular block **Ventricular fibrillation
+
+
+'''Figure''' QT space widening (500 mS/heart rate at 64/min)

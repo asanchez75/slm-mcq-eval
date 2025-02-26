@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-366-05-A
+|Item_parent=Accidental exposure to biological fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=A
+|Title=Know how to prescribe serological tests to be carried out on the source person during EALBs.
+|Description=HIV, HBV, HCV serologies
+|Section=Management
+|Contributors=Docteur Lefèvre Benjamin
+|Order=5}}
+'''URGENTLY and without delay:'''
+
+- Oral information given to patients before HIV HBV HCV serology tests are carried out
+
+- Preferably rapid tests and urgent results, so notify the laboratory

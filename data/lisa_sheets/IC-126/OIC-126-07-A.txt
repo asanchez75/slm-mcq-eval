@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-126-07-A
+|Item_parent=Erectile dysfunction
+|Item_parent_short=Erectile dysfunction
+|Rank=A
+|Title=Knowing the first-line assessment of erectile dysfunction
+|Description=None
+|Rubric=Additional tests
+|Contributors=Thomas Bessède Laure Cazabat
+|Order=7}}
+
+==Description:==
+
+*Biological work-up updated if more than 5 years old: CBC, blood ionogram, creatinine levels, liver function tests, etc.
+*Cardiovascular risk factors are investigated: lipid profile, fasting blood glucose +/- glycated haemoglobin if diabetes is known.
+*If there is a suspicion of [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|androgen deficiency 124]], a total and bioavailable testosterone level is prescribed (asthenia, decreased libido, testicular atrophy, abnormal sweating, [[Gynecomastia|gynecomastia 246]]).
+*In the case of androgen deficiency, a gonadotropin assay should be performed, as well as a prolactin assay in the case of pituitary deficiency.
+*A serum TSH assay may be prescribed if there are suggestive signs (hypo- or hyperthyroidism).
+*Serum PSA is measured if there are associated mictional disorders or if androgen replacement therapy is being considered.
+*Recent erectile dysfunction in a man with cardiovascular risk factors or metabolic syndrome requires a cardiological opinion (coronary artery disease).
+
+<br />

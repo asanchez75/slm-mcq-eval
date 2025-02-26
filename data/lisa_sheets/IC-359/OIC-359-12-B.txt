@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-359-12-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Knowing the imaging exploration strategy for respiratory distress in infants and children
+|Description=None
+|Rubric=Additional examinations
+|Contributors=Guillaume Mortamet
+|Order=12}}
+
+A chest X-ray is indicated in cases of severe respiratory symptoms or when there is diagnostic doubt. The role of chest CT is more limited.

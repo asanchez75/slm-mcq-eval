@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-307-06-A
+|Item_parent=Primitive and secondary bone tumours
+|Item_parent_short=Primitive and secondary bone tumours
+|Rank=A
+|Title=Know the cancers most frequently responsible for bone metastases and the circumstances in which they are discovered.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+o Cancers most frequently responsible for bone metastases: breast, prostate, lung, kidney, thyroid
+
+
+o Circumstances of discovery :
+
+- Metastasis revealing cancerous disease
+
+- Assessment of hypercalcaemia '''Dyscalcaemia''''
+
+- Initial assessment of cancer spread
+
+- Cancer follow-up

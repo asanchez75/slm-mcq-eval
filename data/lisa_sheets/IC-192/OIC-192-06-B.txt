@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-192-06-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the clinical and biological characteristics of organ-specific autoimmune diseases
+|Description=
+|Heading=Positive diagnosis
+|Contributors=Amélie Servettaz
+|Order=6}}
+
+- Organ-specific autoimmune diseases are characterised by symptoms associated with dysfunction of the target tissue or organ.
+
+- These organ-specific autoimmune diseases can therefore affect organs of the endocrine system (Hashimoto's thyroiditis, Graves' disease, type 1 diabetes, autoimmune adrenal insufficiency), the digestive system (autoimmune hepatitis, primary biliary cirrhosis, Biermer's disease), the skin (autoimmune bullous dermatoses : pemphigus, pemphigoid and epidermolysis bullosa acquisita), central nervous system (multiple sclerosis) or peripheral nervous system (myasthenia) and kidney (Goodpasture's syndrome).
+
+- Certain organ-specific autoimmune diseases may be associated with a non-organ-specific autoimmune disease, for example Hashimoto's thyroiditis and Gougerot-Sjögren's syndrome.
+
+- Biologically, there are frequently autoantibodies directed against antigens specifically present in the target organ.

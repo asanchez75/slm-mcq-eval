@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-335-12-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=CT image of a fractured mandible (cross-section or reconstruction)
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+
+
+
+[[File:Slide2mand.jpg|thumb]]
+[[File:Slide1mand.jpg|thumb]]

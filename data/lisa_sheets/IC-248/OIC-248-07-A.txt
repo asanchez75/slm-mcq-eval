@@ -1,0 +1,13 @@
+<br />{knowledge objective
+|Identifiant=OIC-248-07-A
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention through nutrition in adults and children
+|Rank=A
+|Title=Knowing the effects of physical inactivity and a sedentary lifestyle on health
+|Description=None
+|Rubric=Etiologies
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=7}}
+A low level of physical activity is associated with an increased risk of total and cardiovascular mortality, coronary morbidity, type 2 diabetes, arterial hypertension, certain cancers, weight gain and psychological disorders (anxiety, depression, etc.).
+
+The increase in physical inactivity has contributed to a rise in the prevalence of overweight and obesity, and their cardiometabolic complications. A sedentary lifestyle is associated with all-cause mortality, the incidence of type 2 diabetes and cardiovascular disease, and the risk of bone demineralisation in the elderly.

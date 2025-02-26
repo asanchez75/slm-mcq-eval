@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-290-03-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitulé=Connaître l'incidence et la mortalité des cancers en France : données générales des principaux cancers, variations selon l'âge et le sexe, et tendances évolutives
+|Description=Data on gynaecological and breast cancers and the other most common cancers in France
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+Cancer is the leading cause of death in France, ahead of cardiovascular diseases. In 2017, the number of new cases of cancer in mainland France was estimated at 399,500, including 214,000 in men and 185,500 in women. The number of deaths from cancer was estimated at 150,000, including 84,000 in men and 66,000 in women.
+
+The number of new cases of cancer rose considerably between 1980 and 2012 in both men (+107.6%) and women (+111.4%). This increase is partly due to the growth and ageing of the population, with the majority of cases occurring in elderly subjects.
+
+In terms of mortality, the number of cancer deaths rose by 11% in men and 20.3% in women between 1980 and 2012. This increase is also attributable to demographic change (increase and ageing of the population). Cancer mortality rates are still higher in men than in women, but they are falling faster in men due to the decline in alcohol and tobacco consumption among the latter.

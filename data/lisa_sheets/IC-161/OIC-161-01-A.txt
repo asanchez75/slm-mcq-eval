@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-161-01-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Know the definition of the different types of simple urinary tract infection or at risk of complication and their respective frequency.
+|Description=Distinguish between cystitis, pyelonephritis, simple urinary tract infections (young women with no risk factors), serious urinary tract infections and urinary tract infections at risk of complication, male urinary tract infections, recurrent cystitis and look for risk factors for complication.
+|Rubric=Definition
+|Contributors=Maxime Vallée, Alice Faure
+|Order=1}}
+
+
+
+
+*For the purposes of this item, the term cystitis (lower urinary tract infection) refers to an infection of the bladder reservoir and mucosa. It may be bacterial or mycotic in origin. It is by definition apyretic.
+
+*Pyelonephritis (upper urinary tract infection) is an infection of the renal pelvis ("pyelo") and renal parenchyma ("nephritis") of bacterial or mycotic origin.
+
+*Simple urinary tract infections are UTIs in patients<s>e</s>s with no anatomical abnormality (malformations of the urinary tract; e.g. vesico-uretero-renal reflux) or functional abnormality of the urinary tree (e.g. micturition disorders and urinary incontinence in adults and the elderly|neurological bladder 125). ). There is no general pathology (example: [[Immune deficiency|immunodepression 189]]). Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetes 247]] is a risk factor for UTI, but should no longer be considered a risk factor for complications. As soon as a risk factor is present (see recommendations), the UTI is said to be "at risk of complications".
+*Urinary tract infections at risk of complication are urinary tract infections in patients:
+**-Anomaly of the urinary tree -Male -Pregnancy -Elderly (>75 years) or frail (>65 years with ≥3 Fried criteria: weight loss > 4.5 kg 1 year-asthenia-self-assessment-walking speed 4 m < 0.8 m/s-loss of muscle strength-sedentary) -Renal failure < 30 ml/mn -Severe immunosuppression.
+*Nosocomial urinary tract infections cf Know the rules for preventing nosocomial urinary tract infections [[Know the rules for preventing nosocomial urinary tract infections 2C-004-PC-B08|2C-004-PC-B08]]
+
+==Male urinary tract infection (by definition at risk of complications) comprises two entities:==
+
+*Acute prostatitis, a bacterial or mycotic infection of the prostate. It is a febrile urinary infection.
+*Cystitis like", corresponding to a patient with lower urinary tract symptoms (LUTS) during the filling phase without fever. This entity is poorly defined and in practice is treated in the same way as prostatitis if the infectious origin is confirmed.
+
+==Serious infections include:==
+
+*UTI with severe sepsis (qSOFA score≥2: arterial hypotension (PAS ≤ 100 mmHg) - high respiratory rate (≥ 22 breaths/min) - altered consciousness (GCS ≤ 14)
+*UTI with septic shock (severe ex-sepsis)
+*UTI requiring urinary tract drainage (excluding bladder catheterisation). In this case, in the event of pyelonephritis, we speak of severe acute obstructive pyelonephritis or febrile renal colic.
+
+==Recurrent cystitis is defined as cystitis occurring with a frequency of ≥ 4 episodes/year==
+<br />
+
+==Urinary tract infections in children===
+As in adults, a distinction is made between non-febrile lower urinary tract infections (cystitis) and febrile upper urinary tract infections (pyelonephritis).
+
+It is a common infection in children (1% of children before the age of 2), 11% before the age of 16.
+
+There is no UI distinction between girls and boys in terms of severity, but the prevalence is different, with a higher frequency in boys before 6 months and then a higher prevalence in girls.
+
+They are favoured by malformations, in particular vesico-ureteral reflux.
+<br />

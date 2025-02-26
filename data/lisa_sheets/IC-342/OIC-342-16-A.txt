@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-16-A
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=A
+|Title=Know the symptomatic treatment of malaise
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=16}}
+First aid treatment - Safety position - Lateral safety position if unconscious - Leg elevation if blood pressure low

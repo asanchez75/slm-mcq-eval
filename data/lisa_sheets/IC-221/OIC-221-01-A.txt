@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-221-01-A
+|Item_parent=Atheroma: epidemiology and pathophysiology. The polyatheromatous patient
+|Item_parent_short=Atheroma: epidemiology and physiopathology. The polyatheromatous patient
+|Rank=A
+|Intitulé=Knowing the definition of atheroma
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Variable association of changes in the intima of large- and medium-calibre arteries.
+
+Focal accumulation of lipids, complex carbohydrates, blood, blood products, fibrinous tissue and calcareous deposits in the intima, accompanied by changes in the media.
+
+Atherosclerosis: inflammatory response to an attack on the arterial endothelium.

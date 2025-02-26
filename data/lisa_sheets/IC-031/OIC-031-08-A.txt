@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-031-08-A
+|Item_parent=Childbirth, delivery and normal postnatal care
+|Item_parent_short=Childbirth, delivery and normal postnatal care
+|Rank=A
+|Title=Know the elements of clinical monitoring of normal childbirth
+|Description=Knowing the elements of clinical monitoring of normal childbirth
+|Rubric=Positive diagnosis
+|Contributors=Vincent Dochez,Philippe Deruelle
+|Order=8}}
+
+== Interview
+The following information is collected: gestational age, parity, age, amenorrhoea, medical and surgical history, gynaecological and obstetric history, progress and monitoring of pregnancy, diseases associated with pregnancy, results of prenatal examinations, presence of metrorrhagia or genital discharge.
+
+== General clinical examination
+The following parameters are checked: BP, heart rate, temperature, weight, glycosuria and proteinuria.
+
+== Obstetrical examination
+
+=== Palpation of the abdomen ===
+It assesses the longitudinal or transverse foetal presentation by looking for the cephalic pole and the back.
+
+=== Measuring uterine height (HU) ===
+The HU is measured outside an EC.
+
+=== Examination of the perineum ===
+It looks in particular for the presence of herpes and scars.
+
+=== Vaginal touch (VT) ===
+The VT, which can be performed every hour, provides information on :
+
+- Diagnostic presentation and variety of presentation ;
+
+- the bony pelvis and soft tissues ;
+
+- the presence or absence of membranes (condition of the water sac);
+
+- the state of the cervix (the Bishop score is used to assess cervical maturation according to 5 criteria: dilatation, length, consistency and position of the uterine cervix, as well as the height of foetal presentation).
+
+TV allows a partogram to be taken to monitor the progress of cervical dilatation and the descent of the presentation:
+
+- lag phase
+
+- active phase
+
+== Status of the water sac and amniotic fluid ==
+It is formed at the beginning of labour.
+
+In the case of premature rupture of the membranes, there is no water sac.
+
+Early rupture of the membranes requires immediate hospitalisation because of the risk of infection and procidence of the cord.
+
+If the membranes have ruptured, the colour of the amniotic fluid should be monitored:
+
+- normally clear;
+
+- whose more or less dark green colouring by meconium can be a sign of a non-reassuring foetal state.
+
+== Tocography ==
+The characteristics of uterine contractions are assessed by tocography (duration, basic tone, intensity, frequency).
+
+The following abnormalities are looked for: hypokinesia, hyperkinesia, hypotonia, hypertonia.
+
+== Fetal monitoring
+This is mainly carried out using a cardiotocograph. The foetus is monitored continuously during the first 2 stages of labour.
+
+This involves simultaneous recording of the foetal heart rate (FHR) and uterine contractions. A normal cardiotocographic trace during labour is defined by :
+
+- a basic FHR: 120 to 150 beats/min
+
+- oscillations
+
+- accelerations
+
+- no slowdown.

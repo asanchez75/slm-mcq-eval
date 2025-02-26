@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-055-11-B
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=B
+|Title=Knowing how to diagnose a neurodevelopmental disorder
+|Description=Common features; types of neurodevelopmental disorder
+|Rubric=Diagnosis
+|Contributors=Diane Purper-Ouakil; Charles-Edouard Notredame; Sylvie Nguyen Le Tich
+|Order=11}}
+
+[Major diagnostic categories in children, adolescents and adults 2C-061-DE-A03|cf. Major diagnostic categories in children, adolescents and adults 2C-061-DE-A03]]
+
+The term "neurodevelopment" is reserved for the development of higher functions (intellectual, cognitive and behavioural development).
+
+Children with motor disorders caused by damage to the central nervous system (cerebral palsy) or peripheral nervous system (myopathies) may also have neurodevelopmental disorders.
+
+==Common features of neurodevelopmental disorders==
+
+*'''''Developmental deficit ''''' in one or more areas: motor skills, language, memory, attention, executive functions, verbal reasoning, social interaction, learning, etc.
+*'''Functional impact''' in different living environments
+*Onset in childhood (but sometimes identified late)
+
+
+The assessment of neurodevelopmental disorders requires a history, a "clinical examination" and "multidisciplinary" assessments using questionnaires and/or standardised tests.
+
+Deviations of more than 1.5 standard deviations and scores <7<sup>th</sup> percentile indicate low performance, to be analysed according to context and clinical judgement.
+
+Neurodevelopmental disorders are called ''specific'' when they are not better explained by another disorder (e.g. language delay in the context of a hearing impairment).
+
+==Types of neurodevelopmental disorders==''.
+''Cf. [[Attention deficit hyperactivity disorder (ADHD): definition and semiology 2C-067-DE-A01|item 67]] for ADHD and ASD''
+
+===Intellectual development disorders===
+
+*Global deficits in mental capacity with functional repercussions.
+*Severity defined according to the level of assistance:
+**Mild: assistance with schooling and complex daily activities
+**Moderate: assistance in several areas
+**Severe: assistance with simple activities
+**Profound: very limited communication, global assistance
+
+===Communication disorders===
+
+*speech disorders affecting articulation or fluency
+*Language disorders (dysphasia) on the expressive, receptive (comprehension) or mixed sides. Several types depending on the predominant impairment: phonology, lexicon, syntax, pragmatics (communicative function of language), etc.
+*Requires a speech and language therapy assessment
+
+===Developmental coordination disorder-DCD===
+''Formerly coordination acquisition disorder or dyspraxia''
+
+*Difficulties in automating motor sequences
+*In different areas - oral, fine motor, global coordination,
+*manifested by slowness, clumsiness, feeding difficulties, difficulties with handwriting, etc.
+
+===Tics===
+
+*Sudden, rapid, recurrent movement that fluctuates over time
+*Motor or vocal
+*Transient or chronic
+*Tourette's syndrome: multiple motor and vocal tics

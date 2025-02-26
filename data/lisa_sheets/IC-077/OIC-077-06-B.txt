@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-077-06-B
+|Item_parent=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Item_parent_short=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Rank=B
+|Title=Knowing the epidemiology of dependence on benzodiazepines and related drugs
+|Description=Male/female ratio, consumption/Know France's place among consumer countries and prescribing physicians
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+* Addiction to psychotropic drugs is often the result of inappropriate medical prescriptions.
+
+<nowiki>*</nowiki> Benzodiazepines and related drugs have a very marked addictive potential (22 molecules marketed).
+
+<nowiki>*</nowiki> 20% of the French population has been prescribed benzodiazepines or related drugs at least once and
+
+<nowiki>*</nowiki> 60% of these subjects are women.
+
+Prescription is for a limited period, otherwise tolerance is induced and doses escalate. If this behaviour continues, there are cumulative medical and social repercussions, leading to a diagnosis of harmful use, with the development of dependence resulting in an inability to stop or reduce use.
+
+France is Europe's second largest consumer of anxiolytics and hypnotics.

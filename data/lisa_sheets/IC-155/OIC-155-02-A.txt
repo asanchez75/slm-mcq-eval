@@ -1,0 +1,110 @@
+{{knowledge objective
+|Identifiant=OIC-155-02-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Knowing the signs of candidal infection and mycoses (including candidiasis) of the oral, genital, nail and skin folds.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Florence Robert-Gangneux
+|Order=2}}
+
+{| class="wikitable"
+|+
+|
+|'''Dermatophytes''''
+|'''Yeasts'''
+|-
+|'''Infectious agents'''
+|Filamentous and keratinophilic microscopic fungi
+|Unicellular microscopic fungi, ovoid or spherical in shape, usually commensals of the skin and mucous membranes.
+|-
+|
+|Always pathogenic
+|Pathogenic under favourable circumstances
+|-
+|'''Genus'''
+|Epidermophyton
+
+Microsporum
+
+Trichophyton
+|Candida albicans +++''
+
+Malassezia spp.
+|-
+|'''Clinical presentation'''
+|
+|
+|-
+|Oral
+|No dermatophytes in the mucous membranes.
+|Perlèche'' (intertrigo of the labial commissure, uni- or bilateral, where the bottom of the fold is erythematous, fissured or even macerated)
+
+'''Glossitis''' (depilated red tongue)
+
+'''Stomatitis''' (xerostomia; dysgeusia; shiny, red, glazed and painful mucosa)
+
+'''Thrush''' (diffuse erythema of the oral mucosa, small adherent whitish deposits)
+|-
+|Skin
+|Rounded or polycyclic (coalescing) plaques, highly suggestive vesicular and/or scaly erythematous border; centrifugal course with central healing.
+|Exceptional (in neonates or immunocompromised patients)
+|-
+|Scalp
+|Microsporic ringworm
+
+Large, scaly alopecic plaques, single or few in number, rounded, centrifugal in extension.
+
+Hair regularly broken a few millimetres from the skin
+
+Trichophytic moths
+
+Multiple small scattered alopecic plaques, scaly or squamous-crusted, sometimes pustular, engulfing hair that is broken when it emerges.
+|Candidiasis folliculitis or Malassezia folliculitis of the scalp (inflammation and painful suppuration of the pilosebaceous follicle).
+|-
+|Genital
+|'''No dermatophyte damage'''
+|Candidiasis vulvovaginitis:
+
+erythematous and oedematous lesions,
+
+then a whitish coating and abundant yellowish-white leucorrhoea, which stagnates in the folds of the vulvovaginal mucosa,
+
+intense pruritus ± dyspareunia ;
+
+extension to the inguinal and intergluteal folds
+
+Balanite and balano-posthite
+
+unspecific erythematous lesions, rarely pustular, of the glans, balanopreputial fold and/or prepuce
+<br />
+|-
+|Nail
+|Toes +++
+
+Inconsistent leukonychia, then subungual hyperkeratosis, then onycholysis due to distal detachment of the nail plate.
+<br />Perior nail
+|Peri-onyxis (hands+++):
+
+painful swelling of the matrix area and supraungual fold ± pus ;
+
+secondary invasion of the nail plate (''onyxis''), taking on a greenish-brown colour in the proximal and lateral regions
+|-
+|Intertrigo of the great folds
+|Bistre-coloured placard, centrifugal evolution, central healing and active erythematosquamous ± vesicular border with fine epidermal detachment.
+
+Fold base neither erythematous nor cracked
+
+Inguinal fold in men +++ (often associated with foot involvement)
+|Intertrigo with an erythematous base covered by a creamy, malodorous coating, frequent fissures at the base of the fold, pustular border or desquamative collar.
+<Infant breech fungus
+|-
+|Small fold intertrigo
+|Inter-toe
+
+Dry or oozing desquamation, ± fissuring, sometimes vesiculo-bullae on the inside of the toes, space
+
+4th and 5th toes most often
+|Hands +++ (contact with water, frequent use of household gloves), feet
+|}

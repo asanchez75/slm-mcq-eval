@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-128-04-A
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=A
+|Title=Knowing the causes of primary and secondary osteoporosis
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+'''Primary osteoporosis''' is more common in women. It is known as ''post-menopausal osteoporosis''. Secondary osteoporosis is more common in men (around 50% of cases). It is sometimes difficult to distinguish between primary and secondary osteoporosis, and the causes may be interrelated.
+
+The search for a cause of secondary osteoporosis is important, particularly in men, but not exclusively:
+
+- primary hyperparathyroidism
+
+- corticosteroid therapy,
+
+- hypogonadism,
+
+- genetic haemochromatosis,
+
+- digestive tract diseases: gastrectomy, extensive intestinal resections, inflammatory enterocolopathies, malabsorption syndromes (celiac disease in particular),
+
+- chronic inflammatory diseases not treated with corticosteroids (rheumatoid arthritis, spondyloarthritis, etc.),
+
+- hyperthyroidism,
+
+- anorexia nervosa...

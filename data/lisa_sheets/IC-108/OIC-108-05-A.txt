@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-108-05-A
+|Item_parent=Confusion, dementia. (see item 132)
+|Item_parent_short=Confusion, dementia. (see item 132)
+|Rank=A
+|Title=Searching for the causes of mental confusion
+|Description=Clinical approach: carry out the clinical examination, decide on the possible indication for an LP or a cerebral scan,
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Confusion results from moderate impairment of alertness. The diagnostic approach is therefore similar to that for coma (see corresponding LISA sheet). The stages are as follows:
+
+- General clinical examination: vitals +++ including O2 saturation, blood sugar +++, lateral tongue bite, search for a cause of acute pain (wounds, urinary globe, faecal impaction), traces of injections, urinary globe, faecal impaction, etc.
+
+- Neurological examination : alertness, pupils '''([[Coma and disorders of consciousness SDD-028|coma and disorders of consciousness]]),''' meningeal syndrome, focal sign '''([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])'''', signs of encephalopathy (asterixis); clonia '''([[Abnormal movements SDD-126|abnormal movements]], [[Tremor SDD-128|tremor]])''''
+
+- Reconstitute the patient's history (and in particular any treatment, alcoholism or drug use, neurocognitive disorders) and anamnesis +++ by questioning relatives, first aiders, the attending physician, obtaining medical documents, etc.
+
+- '''Systematic paraclinical examinations ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]])'' : '''([[Increased creatinine SDD-199|increased creatinine]]; [[Dyscalcaemia SD-200|dyscalcaemia]]; [[Dyskalaemia SDD-201|dyskalaemia]]; [[Dysnatremia SDD-202|dysnatremia]]; [[Elevation of c-reactive protein (cr) SD-203|elevation of C-reactive protein (CRP)]]'''; urine dipstick (leukocytes, nitrites) '''([[Analysis of urine dipstick SDD-182|analysis of urine dipstick]])''''; ECG '''([[Carrying out and interpretation of an electrocardiogram (ecg) SD-185|carrying out and interpretation of an electrocardiogram]])'''; to which are usually added : ECBU, liver biology
+
+- '''Cerebral scan without injection ([[Writing the request for an imaging examination SD-230|writing the request for an imaging examination]]; [[Requesting an imaging examination SDD-231|requesting an imaging examination]])''': not systematic but indicated at the slightest doubt and formally if :
+
+o Focal sign '''([[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]])''''
+
+o Anticoagulant treatment
+
+o Recent head injury
+
+o Even in the absence of focal signs, a brain scan will usually be necessary before a lumbar puncture in the case of a major confusional syndrome with fluctuating vigilance (disturbed consciousness = contraindication to LP without imaging).
+
+- '''Lumbar puncture ([[Analysis of cerebrospinal fluid (lcs) SD-183|analysis of cerebrospinal fluid (LCS)]]'''': not systematic but formally indicated, in the absence of contraindication, if :
+
+o Fever with no point of call
+
+o Meningeal syndrome
+
+o Suspicion of encephalitis (after CT and/or MRI)
+
+- ''Other second-line tests'' (on a point of interest and/or in the absence of an aetiology found on completion of investigations)
+
+o EEG (non-convulsive malaise, metabolic encephalopathy)
+
+o abdomino-pelvic ultrasound
+
+o blood gases, cardiac enzymes, ammonia, toxic tests, drug tests '''([[Voluntary or involuntary intake of a toxic or potentially toxic drug SDD-340|voluntary or involuntary intake of a toxic or potentially toxic drug]])''''
+
+o Brain MRI (if focal signs and normal CT scan, as an emergency if hyperacute onset of confusional syndrome and suspected focal signs to rule out stroke)

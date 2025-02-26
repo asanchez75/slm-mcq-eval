@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-132-08-A
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=A
+|Title=Knowing the biological tests to be carried out for neurocognitive disorders.
+|Description=Application of HAS 2011 criteria
+|Rubrique=Complementary examinations
+|Contributors=
+|Order=8}}
+The main purpose of ''biological tests'' is to look for factors that could aggravate cognitive disorders. They are also guided by associated comorbidities.
+
+First intention
+
+- Blood count (anaemia?)
+
+- CRP
+
+- TSH
+
+- Blood ionogram with blood calcium, fasting blood sugar
+
+- Albumin levels
+
+Depending on the context
+
+- SGOT/SGPT, γGT
+
+- TPHA-VDRL, HIV serology
+
+- Vitamins B12, B9
+
+
+When neurocognitive problems develop rapidly or the clinical picture is atypical, a lumbar puncture may be performed (biomarkers of Alzheimer's disease, anti-neuronal antibodies, 14 3 3 protein, microbiology or virology depending on the context, etc.).

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-292-01-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Knowing the terrain and warning signs
+|Description=Knowing the concept of predisposing terrain in cancerology (professional and genetic)
+|Rubric=Etiologies
+|Contributors=
+|Order=1}}
+Cancer can develop in a predisposing context:
+
+- occupational or personal exposure (smoking, alcohol consumption, chronic infections, etc.) to carcinogens;
+
+- genetic predisposition to cancer, suspected in the context of a personal or family history of cancer.

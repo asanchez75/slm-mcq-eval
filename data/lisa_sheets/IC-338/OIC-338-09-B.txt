@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-338-09-B
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=B
+|Title=Know how to administer intravenous adrenaline in an emergency.
+|Description=Know how to administer ADRENALINE by titration then IVSE
+|Section=Management
+|Contributors=
+|Order=9}}
+
+
+* indicated in case of risk of imminent cardiac arrest, refractory form, severe haemodynamic instability ''in a patient already perfused''.
+* dilute 1 mg adrenaline in 10 ml
+* IV bolus of 50 µg (0.01 µg/kg) over 1 to 2 minutes
+* Continuous intravenous infusion with an electric syringe (0.1 µg/kg/min) may be used as a relay.

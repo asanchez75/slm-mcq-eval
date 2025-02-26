@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-277-08-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the elements of the positive diagnosis of symptomatic vesicular lithiasis
+|Description=Hepatic colic, normal biology, ECHO: calculus
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+The elements of the positive diagnosis of simple symptomatic vesicular lithiasis are :
+
+- the pain of hepatic colic,
+
+- the presence of gallstone(s) on ultrasound (95% sensitivity, better than CT or MRI),
+
+- normal liver biology.

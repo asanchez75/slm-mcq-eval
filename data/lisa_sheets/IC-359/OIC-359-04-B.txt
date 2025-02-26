@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-359-04-B
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=B
+|Title=Knowing abnormalities of the ventilatory pump
+|Description=Spinal cord injury, peripheral nerve injury, muscle injury, thoracic pulmonary compliance, TVO
+|Topic=Physiopathology
+|Contributors=
+|Order=4}}
+Impairment of pump function is :
+
+-Primary: impairment of central respiratory control (e.g. brainstem stroke) or respiratory neuromuscular impairment (spinal cord injury, myopathy, myasthenia, amyotrophic lateral sclerosis).
+
+-Secondary: fatigue of the respiratory muscles due to an increase in the work of breathing caused by the acute respiratory distress.
+
+It is responsible for alveolar hypoventilation with hypoxia/hypercapnia.

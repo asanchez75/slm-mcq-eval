@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-162-18-A
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=A
+|Title=Knowing the procedures for probabilistic treatment of STIs
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=18}}
+Urethritis or cervicitis: treatment of probabilistic gonococcal and chlamydial infection
+
+- Ceftriaxone single dose IM or IV 1000 mg
+
+- Doxycycline 200 mg PO 7 days (or azithromycin 1g single dose)

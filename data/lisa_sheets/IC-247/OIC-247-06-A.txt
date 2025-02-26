@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-247-06-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Knowing the risk factors for the onset of microangiopathic disorders
+|Description=None
+|Section=Follow-up and/or prognosis
+|Contributors=H BIHAN,C BRIET,E FEIGERLOVA,E LARGER,G PREVOST
+|Order=6}}
+
+Hyperglycaemia: level (HbA1c) and duration of exposure
+
+Dyslipidemia
+
+Associated smoking or alcoholism
+
+Specific DRFs for certain diseases: genetic factors, ethnic origins (e.g. for nephropathy), for neuropathy: tall stature, nutritional and vitamin deficiencies, smoking and alcoholism, renal insufficiency, etc.

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-343-04-A
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=A
+|Title=Knowing the three clinical forms of confusional syndrome
+|Description=Confusional form, stuporous form, mixed form
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+Broadly speaking, there are three clinical forms of confusional syndrome:
+
+- the ''confused-conionic form'' in which the patient is agitated, prey to dream-like delirium and vegetative disorders (hypersudation, tachycardia),
+
+- the stuporous form, in which drowsiness and psychomotor slowing are the main features,
+
+- the ''mixed form'' alternating irregularly and unpredictably between the states of the first two forms.

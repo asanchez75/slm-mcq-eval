@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-060-07-B
+|Item_parent=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Item_parent_short=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Rank=B
+|Title=Knowing the different types of social, environmental, biological and genetic risk factors.
+|Description=Knowing the different types of social, environmental, biological and genetic risk factors
+|Rubric=Epidemiology
+|Contributors=
+|Order=7}}
+There are various risk factors for psychiatric disorders:
+
+* social: social environment (family, network of friends, professional context, school context), distal stressful life events (abuse, childhood neglect) or proximal stressful life events (redundancy, promotion, bereavement, marriage, birth of a child etc), living conditions (isolation, precariousness, discrimination etc)
+* lifestyle habits: consumption of alcohol, tobacco, cannabis, psychostimulants, sedentary lifestyle, pace of life, etc.
+* physical environment: air pollution, noise pollution, chemical pollution, etc.
+* biological: age, sex, personal or family medical history
+* genetic: family history of psychiatric disorders, chromosomal or genetic abnormality, etc.

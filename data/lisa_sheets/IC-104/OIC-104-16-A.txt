@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-104-16-A
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=A
+|Intitle=Knowing the ophthalmological signs of MS: optic neuropathy, oculomotor paralysis, nystagmus
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=16}}
+- Approximately 30% of MS cases begin with ophthalmological signs ([[Vision abnormality SD-138|vision abnormality]]).
+
+- The main diagnosis is retrobulbar optic neuritis (see description above).
+
+- The other ophthalmological manifestations of MS are diplopia (oculomotor paralysis) ([Diplopia SD-143|diplopia]]) and nystagmus (most often occurring in the chronic phase of the disease). Oculomotor paralysis accounts for approximately 5% of the inaugural manifestations of MS and may be linked to nuclear damage (III, VI, sometimes IV) or more frequently to the superior longitudinal band which connects the nucleus of the III and contralateral VI and which is highly myelinated. In this case, internuclear ophthalmoplegia is observed, usually associating diplopia, limited adduction of the adductor eye and nystagmus of the abductor eye.

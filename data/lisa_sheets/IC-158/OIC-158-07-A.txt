@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-158-07-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Know how to prescribe emergency microbiological samples prior to antibiotic therapy
+|Description=Know how to prescribe blood cultures prior to emergency antibiotic therapy
+|Rubric=Additional tests
+|Contributors=
+|Order=7}}
+
+
+*The aim of microbiological tests is to :
+**identify the cause of sepsis when it is not clinically obvious
+**guide the secondary adaptation of antibiotic treatment, depending on the germ isolated and its antibiogram.
+*The sensitivity of these tests decreases rapidly after antibiotics are introduced. As far as possible, therefore, they should be taken before antibiotics are introduced.
+**In some cases, these tests cannot be carried out immediately (e.g. lumbar puncture if there is a risk of cerebral involvement).
+**In these circumstances, antibiotics should be started without delay, and the sample taken as soon as possible; other arguments may be used to adapt the antibiotic treatment.
+
+*Blood cultures are systematically taken:
+**2 pairs of blood cultures (4 vials; 2 aerobic and 2 anaerobic) are taken in a single puncture before antibiotics are introduced.
+**The full result of a positive blood culture will not be available until several hours after the start of management of the sepsis, or even several days for the antibiogram ''([[Positive blood culture SD-190|positive blood culture]])'''. This test is nonetheless invaluable, particularly in cases of persistent diagnostic doubt.

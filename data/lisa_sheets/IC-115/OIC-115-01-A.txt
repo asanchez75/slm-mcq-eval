@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-115-01-A
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=A
+|Title=Know the definition of a toxidermia
+|Description=Any secondary cutaneous effect of drugs administered in therapeutic doses (topical, per os, subcutaneous, intravenous, etc.).
+
+Any drug (regardless of how it is administered) can cause toxidermia.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Toxidermia: ''Any secondary cutaneous effect of drugs administered in therapeutic doses'' (topical, per os, subcutaneous, intravenous, etc.).
+
+Any drug (regardless of how it is administered) can cause toxidermia.

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-093-20-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Know the essential principles of management of deficits, disabilities and handicap secondary to spinal cord compression or cauda equina syndrome.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=20}}
+
+
+==Musculoskeletal disability:==
+
+*Prescription of re-education SD-247|Re-education]] +++: physiotherapy, occupational therapy depending on the level of injury and the life plan (mobilisation, standing up, strengthening of the upper limbs in paraplegia to help with transfers and manual wheelchair propulsion, stimulation of deficient muscles, functional work and rehabilitation).
+*Treatment of harmful spasticity, to prevent vicious attitudes and orthopaedic deformities (musculotendinous and caspular retractions): mobilisation, baclofen, focal treatment with botulinum toxin injections, etc.
+*If necessary, prescription of technical walking aids (cane, walker), orthotic devices, manual/electric wheelchairs, etc.
+
+==Lasting pelvic-perineal disorders:==
+
+*Vesico-sphincter disorders: treatment according to symptoms and the results of the urodynamic assessment, anticholinergics for overactive bladder and alpha-blockers and/or self-catheterisation for dysuria.
+*Anorectal disorders: treatment with laxatives, suppositories or trans-anal irrigations.
+*''Genito-sexual disorders'' (men and women)
+
+==Detection (DN4 score) and specific pharmacological treatment of [[Assessment and management of chronic pain SD-260|neuropathic pain]]==
+
+==Detection and prevention of [[Management of a patient in prolonged decubitus SD-276|complications of decubitus]] :==
+
+*Thrombo-embolic disease: preventive anticoagulation for at least 3 months, compression stockings and pressotherapy with physiotherapy.
+*Prevention of bedsores: correct installation, nursing, incontinence control, anti-bedsore cushions and mattresses, treatment of malnutrition.
+*Prevention of orthopaedic deformities and stiffening: mobilisation, postures, etc.
+*Respiratory complications: restrictive SD in upper respiratory disease, clinical assessment using EFR and gasometry.
+*Cardiovascular complications: combating orthostatic hypotension, abdominal belt, etc.
+*Monitoring of associated spinal deficiencies (in the case of decompression surgery that may lead to instability, for example).

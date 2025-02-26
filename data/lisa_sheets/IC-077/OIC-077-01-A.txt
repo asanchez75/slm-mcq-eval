@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-077-01-A
+|Item_parent=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Item_parent_short=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Rank=A
+|Title=Know the definition of addiction to benzodiazepines and related drugs.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Benzodiazepines and related drugs are agonists of GABA-A receptors. This action is at the origin of their acute effects, and in mirror image of withdrawal symptoms in the event of tolerance induced by prescription or prolonged use.
+
+The therapeutic properties of benzodiazepines are :
+
+           * anxiolytics,
+
+           * sedative
+
+           * hypnotic,
+
+           * muscle relaxants,
+
+           * anticonvulsants.

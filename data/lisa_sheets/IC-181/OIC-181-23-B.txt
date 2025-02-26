@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-181-23-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing the Biomedicine Agency
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=23}}
+
+The Agence de la biomédecine (ABM) is a national agency providing expertise in the fields of organ and tissue removal and transplantation, haematopoietic stem cell removal and transplantation, medically assisted procreation, and human embryology and genetics. In particular, it manages biovigilance and AMP vigilance declarations for medically assisted procreation.

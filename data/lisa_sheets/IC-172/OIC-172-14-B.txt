@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-172-14-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, taeniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Macroscopic appearance of pinworms
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Marie-Laure Dardé
+|Order=14}}
+
+[[File:Oxyures.jpg|centré|vignette|Adult female pinworms, thread-like worms about 1 cm long, which can be found on the edges of the anal margin or on the surface of faeces. (photo credit: ML Dardé CHU Limoges)]]

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-243-01-A
+|Item_parent=Hypothyroidism
+|Item_parent_short=Hypothyroidism
+|Rank=A
+|Title=Know the definition of hypothyroidism
+|Description=None
+|Rubric=Definition
+|Contributors=Eva Feigerlova,Igor Tauveron
+|Order=1}}
+
+Thyroid hormone deficiency defines hypothyroidism.
+
+Most hypothyroidism is caused by damage to the thyroid gland (peripheral hypothyroidism).
+
+Central involvement due to hypothalamic-pituitary dysfunction (thyrotropic insufficiency) is much rarer.

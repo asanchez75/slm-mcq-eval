@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-335-22-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Know the principles of treatment of a fracture of the floor of the orbit with muscle incarceration
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=22}}
+This is a surgical emergency; if the incarceration is not reduced rapidly, the inferior rectus muscle becomes ischaemic and may become necrotic, fibrosed and therefore a source of sequellar diplopia which cannot be resolved.
+
+the floor is approached via a transconjunctival or transcutaneous route, depending on the surgeon's choice. In an emergency, severe oedema may make the transconjunctival approach difficult.
+
+a subperiosteal detachment of the orbital floor is performed, allowing it to collapse into the maxillary sinus (in a way, a "trap door" fracture is transformed into a "blow out" fracture), and freeing the inferior rectus muscle, often accompanied by intraorbital fat. the bone fragments threatening the muscle are removed.
+
+The floor is reconstructed, usually using an allogeneic material (absorbable or non-absorbable polymer, titanium, etc.).
+
+Antibiotic prophylaxis is associated with nose-blowing, which is contraindicated.

@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-074-12-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Title=Anxiolytics: knowing the main classes and molecules
+|Description=None
+|Rubric=Definition
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=12}}
+Anxiolytics are psychotropic drugs which belong to various distinct chemical classes:
+
+# Benzodiazepines are the main class;
+# Non-benzodiazepine anxiolytics:
+#* Antihistamines;
+#* Azapirones;
+#* Other: propranolol, first-generation sedative antipsychotics (''cyamemazine'', ''levomepromazine'')
+
+{| class="wikitable"
+|+
+|'''Chemical class'''
+|'''Molecules'''
+|'''Practical aspects'''
+|-
+| rowspan="7" |'''Benzodiazepines'''
+|Oxazepam
+| rowspan="7" | Main effects: anxiolytics, hypnotics, muscle relaxants, sedatives, anticonvulsants, amnesics
+
+Fast-acting, right from the first dose
+
+Risk of problems with use and pharmacological tolerance
+
+To be prescribed at the lowest possible dosage for a limited period of time
+
+Antidote available (flumazenil)
+|-
+|Lorazepam
+|-
+|Alprazolam
+|-
+|Bromazepam
+|-
+|Diazepam
+|-
+|Dipotassium chlorazepate
+|-
+|Prazepam
+|-
+|Azapirones
+|Buspirone
+|Desired effect: anxiolysis
+
+Delayed action (after one week's treatment)
+
+fickle and weak
+
+No dependency
+|-
+|H1 antihistamine
+|Hydroxyzine
+|Moderate anxiolysis
+
+Less marked dependence than benzodiazepines
+
+Lateral anticholinergic effects
+|-
+|Β-blockers
+|Propranolol
+|Effect on somatic symptoms of anxiety linked to peripheral effect
+|}

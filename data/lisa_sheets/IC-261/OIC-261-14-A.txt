@@ -1,0 +1,127 @@
+{{knowledge objective
+|Identifiant=OIC-261-14-A
+|Item_parent=Glomerular nephropathy
+|Item_parent_short=Glomerular nephropathy
+|Rank=A
+|Title=Know the clinical and biological elements leading to suspicion of rapidly progressive glomerulonephritis (RPGN).
+|Description=Know how to identify a case of PRGN, look for extra-renal signs (alveolar haemorrhage, cutaneous purpura, neurological deficit, ENT signs, etc.) and an infection causing glomerular damage (endocarditis, etc.). Know how to request an initial assessment (gasometry, chest scan, BAL, etc.) and an immunological work-up including antiGBM, ANCA, AAN, cryoglobulinaemia, complement).
+|Rubric=Positive diagnosis
+|Contributors=Eric Daugas,Bruno Moulin
+|Ordre=14}}
+
+'''D.    Rapidly progressive glomerulonephritis (GNRP)'''
+
+Definition: a group of glomerulonephritic diseases expressed by a GNRP syndrome.
+
+* Rapidly progressive renal failure
+* Proteinuria
+* Haematuria
+
+Seriousness +++ => Diagnostic and therapeutic emergencies
+
+Renal biopsy must be performed as a matter of urgency ++.
+
+It shows extra-capillary proliferative glomerulonephritis with extra-capillary crescents and determines the type of GNRP, which guides the aetiological diagnosis.
+
+Table 7: Classification and causes of GNRP
+{| class="wikitable"
+|
+|Immunofluorescence topography of glomerular deposits
+|Causes
+|Biological tests useful for diagnosis
+|-
+|Type 1: Deposits of anti-MBG antibodies
+|Linear IgG deposits on MBG
+|- Goodpasture's disease
+|- Anti-glomerular basement membrane antibodies (anti-MBG)
+|-
+|Type 2: Immune deposits
+|Non-linear, endomembrane and granular deposits of Ig and/or complement.
+|- Primary N-IgA and rheumatoid purpura
+
+- Cryoglobulinemia
+
+- Systemic lupus
+
+- Glomerulonephritis caused by bacterial infections
+|- Cryoglobulin
+
+- NAA, anti-DNA
+
+- C3, C4 decrease except for NIgA
+|-
+|Type 3: "Pauci-immune" GN (absence of deposits)
+|No Ig deposits
+|- Granulomatosis with polyangiitis
+
+- Microscopic polyangiitis
+|- ANCA anti-MPO or anti-PR3
+|}
+ANCA: anti-polynuclear cytoplasm antibodies; AAN: anti-nuclear antibodies; MPO: myeloperoxidase; PR3: proteinase 3
+
+
+'''1. GNRP type 1 or GNRP with linear IgG deposits: Goodpasture's disease'''
+
+* Due to the presence of a pathogenic circulating anti-MBG autoantibody fixed linearly along the MBG and the pulmonary alveolar membrane.
+* More common in young men, smokers and elderly subjects.
+* Often revealing pulmonary signs: cough, dyspnoea and respiratory distress, inconstant haemoptysis and, on imaging, bilateral infiltrates indicating alveolar haemorrhage (siderophages on BAL).
+* Renal manifestations: GNRP syndrome with severe renal failure, often oligo-anuric.
+* Diagnosis is based on detection of circulating anti-MBG antibodies and renal biopsy, which reveals GN with epithelial crescents and linear IgG deposits along the MBG.
+* Treatment is always symptomatic (fluid and electrolyte disorders, ARF, respiratory failure, anaemia) and specific (high-dose corticosteroids, plasma exchange and cyclosphosphamide).
+* This is a genuine diagnostic and therapeutic emergency, with life-threatening pulmonary failure and a high risk of permanent renal failure.
+
+
+'''2.        GNRP type 2 or GNRP with immune complex deposits''''
+
+Multiple causes (table 7) based on glomerular deposits of immunoglobulins and complement on renal biopsy.
+
+
+'''3.        GNRP type 3 or pauci-immune GNRP'''
+
+* Absence of immunoglobulin deposits in the glomeruli.
+* They are the renal involvement (sometimes isolated) of ANCA-associated vasculitides, granulomatosis with polyangiitis and microscopic polyangiitis.
+* Diagnosis: table 9
+
+Table 9: Clinical and laboratory signs of pauci-immune GN
+{| class="wikitable"
+|
+|Granulomatosis with polyangiitis
+|Microscopic polyangiitis
+|-
+|General signs
+| colspan="2" |- Fever, weight loss, arthralgias, myalgias, hyperleukocytosis, elevated CRP
+|-
+|Signs of vasculitis (inconstant)
+| colspan="2" |- Vascular purpura, livedo
+
+- Cough, dyspnoea, haemoptysis, pulmonary infiltrates (intra-alveolar haemorrhage)
+
+- Abdominal pain with bloody diarrhoea
+
+- Episcleritis
+
+- Single or multiple neuritis
+|-
+|Specific extrarenal signs
+|- crusty rhinitis, epistaxis, nasal and pharyngeal ulcerations, sinusitis, otitis
+
+- Lung nodules
+
+- Retro-orbital tumour
+|- No specific signs
+|-
+|Renal signs
+| colspan="2" |- GNRP (rapidly progressive renal failure, proteinuria, haematuria)
+|-
+|Renal history
+| GN with extracapillary proliferation. Necrosis of the glomerular capillary wall. Absence of immunoglobulin deposition in IF
+|-
+|ANCA
+|- + in 90% of cases
+
+- c-ANCA type, anti-proteinase 3 (PR3)
+|- + in 80% of cases
+
+- p-ANCA type, anti-myeloperoxidase (MPO)
+|}
+<br />

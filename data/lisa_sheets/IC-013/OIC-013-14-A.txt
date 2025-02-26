@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-013-14-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Title=Diagnosing death
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Ordre=14}}
+The diagnosis of death is based on the simultaneous observation of negative signs of life and positive signs of death. It is a real and constant state.
+
+'''o Negative signs of life:''''
+
+Cardiovascular, respiratory and cerebral functions stopped.
+
+In concrete terms, this means checking for the absence of carotid and femoral pulses, the absence of cardiac and respiratory sounds, performing at least a long DII on the ECG, and checking for [[SD-038|the absence of brainstem reflexes]].
+
+'''o Positive signs of death / early:''''
+
+-Thermal decay: the physical phenomenon of the body temperature equalising with the outside temperature, and hence, classically, rigor mortis in temperate countries. This decay depends on a number of factors (initial body temperature, body weight, clothing, meteorological factors such as outside temperature, etc.);
+
+-Lividity: a physical phenomenon in which the body's fluids diffuse towards the lower parts of the body (depending on its position). They correspond to purplish red, declining areas, sparing the supporting areas. They usually appear within the first hour after death, and may be partially modified if the body is moved within the first twelve hours after death, after which they become fixed.
+
+-Rigidity: a biochemical phenomenon linked to the depletion of ATP stocks in muscle cells, which will therefore remain contracted until the onset of putrefaction phenomena lysing the cells. Muscle cells have a stock of ATP, so rigidity does not occur immediately post-mortem, but classically begins after 3 hours, in the temporomandibular joints, then spreading down the body. The resolution/disappearance of rigidity occurs between 2 and 4 days after death, with significant individual variations.
+
+'''o Positive signs of death / late:''''
+
+Signs of decomposition: linked to cell autolysis and microbial colonisation of the body.
+
+-Appearance of a green abdominal patch in the right iliac fossa (opposite the cecum), which usually appears within 48 hours and is linked to microbial proliferation in the cecum,
+
+-Appearance of a posthumous collateral circulation, initially in the abdominal area, which usually appears in 48 - 72 hours and is linked to microbial colonisation of the blood vessels,
+
+-This is followed by a reddish, greenish or brownish skin coating, the appearance of phlyctenes, the escape of body fluids through hollow cavities in the body, colonisation of the body by various insects, etc.
+
+'''The appearance of these phenomena varies according to the conditions in which the body is kept, and in particular the outside temperature and hygrometry.'''

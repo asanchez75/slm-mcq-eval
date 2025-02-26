@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-326-05-A
+|Item_parent=Regulatory framework for therapeutic prescribing and recommendations for correct use
+|Item_parent_short=Regulatory framework for therapeutic prescribing and recommendations for correct use
+|Rank=A
+|Title=Knowing the benefit/risk ratio and net benefit from available information
+|Description=Identify the sources of variation in the benefit/risk ratio
+|Heading=Management
+|Contributors=
+|Order=5}}
+
+
+==Benefit/risk ratio==
+A medicine is likely to obtain marketing authorisation [MA] - for a given indication - if its ''benefit/risk ratio'', in that same indication, is favourable, ''i.e.'' when the expected benefits are '''<u>superior</u>''' to the expected risks.
+
+=== Ongoing re-evaluation ===
+Assessing the '''benefit/risk ratio''' therefore involves evaluating both the benefits and the risks. However, when marketing authorisation is granted, the benefit/risk ratio is generally assessed on the basis of data from clinical trials involving a <u>limited number of patients</u>. It is therefore necessary to continue analysing the '''benefit/risk ratio''' on the basis of available information, which is accumulating, including after marketing authorisation has been obtained. <ref>https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/international-conference-harmonisation-technical-requirements-registration-pharmaceuticals-human-use_en-0.pdf</ref>
+
+The "benefit/risk ratio" is therefore not fixed. It must be ''constantly updated'' in the light of new knowledge, and its re-evaluation may lead to the modification, suspension or withdrawal of a marketing authorisation.  
+
+=== Estimation at population or individual level ===
+Estimation of the benefit/risk balance is useful at various stages of drug development.
+
+* Manufacturers use it to decide whether or not to continue the development of a medicine.
+* The competent authorities use it to decide whether or not to grant marketing authorisation.
+* The Economic Committee for Health Products uses it to determine the price and reimbursement of a drug.
+* Physicians and patients use it to determine the most appropriate treatment for a given situation.
+
+In the first three situations, the benefit-risk balance is assessed on a '''population''' scale. In the last situation, it is an '''individualised estimate''. <ref>https://www.sciencedirect.com/science/article/abs/pii/S0040595716312732</ref><references />

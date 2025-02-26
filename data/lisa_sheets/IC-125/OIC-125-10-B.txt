@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-125-10-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Knowing the aetiological assessment and therapeutic principles of nocturia
+|Description=(pollakiuria is treated in IUU which is a form of hyperactivity syndrome)
+|Rubric=Diagnosis
+|Contributors=B. Peyronnet
+|Order=10}}
+
+* Nocturia is defined as being woken up at night by the need to urinate. It is to be differentiated from nocturnal pollakiuria, which corresponds to an increase in the frequency of nocturnal micturition, regardless of the notion of the need to urinate causing waking.
+* Nocturia is one of the most frequent symptoms of the lower urinary tract, and one of the most bothersome for patients. It is a major cause of morbidity, leading to daytime fatigue and reduced productivity, as well as depression and fractures of the lower limbs during nocturnal falls.
+* The diagnosis of nocturia is established by questioning and confirmed by a mictional catalogue which enables it to be quantified (number of nocturnal awakenings).
+* Nocturia can result from three distinct pathophysiological mechanisms: reduction in functional bladder capacity, overall polyuria or nocturnal polyuria.
+
+== The aetiological diagnosis is based first and foremost on the voiding catalogue, which can be used to detect: ==
+
+* a reduction in functional bladder capacity (maximum mictional volume)
+* overall polyuria (diuresis > 40 ml/kg/24h)
+* nocturnal polyuria (nocturnal diuresis > 33% of 24-hour diuresis in subjects
+
+<br />
+
+* In the case of nocturnal polyuria, an oedematous syndrome or sleep apnoea syndrome should be investigated and corrected (which can lead to nocturnal polyuria as a result of pulmonary arterial hypertension and nocturnal secretion of a diuretic hormone, natriuretic factor).
+* In the case of overall polyuria, an endocrine cause (e.g. diabetes insipidus) and potomania should be sought and corrected.
+* If there is a reduction in functional bladder capacity, the diagnostic and therapeutic algorithm for overactive bladder applies.
+* In all cases, hygienic and dietetic measures such as reducing water intake at the end of the day, elevating the legs before bedtime and taking any diuretic treatments in the morning will all contribute to the success of the treatment.

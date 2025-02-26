@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-331-16-A
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=A
+|Title=Knowing the principles of management of cardiopulmonary arrest in children: the first few minutes
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=16}}
+
+
+* Aetiologies in children are mainly respiratory.
+* The first few minutes are spent freeing the VAS, followed by 5 effective breaths.
+* see management algorithm

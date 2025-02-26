@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-072-09-B
+|Item_parent=Disorders with somatic and related symptoms at all ages
+|Item_parent_short=Disorders with somatic and related symptoms at all ages
+|Rank=B
+|Title=Knowing the indications for psychiatric assessment
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+Patients may be referred to a psychiatrist or psychologist for cognitive behavioural therapy (CBT).

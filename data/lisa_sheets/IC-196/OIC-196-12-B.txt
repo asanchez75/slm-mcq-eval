@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-196-12-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Title=Knowing the indication for imaging examinations when rheumatoid arthritis is suspected
+|Description=Radiographs of the hands and wrists (front), feet (front and three-quarter), pelvis, symptomatic joints (consider the cervical spine) and thorax. Ultrasound to detect joint effusion, synovitis and bone erosions. MRI more sensitive for detecting erosions and synovitis: to be carried out if radiographic and ultrasound assessment is non-contributory.
+|Rubric=Additional examinations
+|Contributors=
+|Order=12}}
+X-rays of hands and wrists (front), feet (front and three-quarter), pelvis, symptomatic joints (consider the C1-C2 cervical spine), thorax.
+
+Ultrasound to detect joint effusions, synovitis and/or bone erosions.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-162-26-B
+|Item_parent=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Item_parent_short=Sexually transmitted infections (STI): gonococcal, chlamydial, syphilis, human papillomavirus (HPV), trichomoniasis
+|Rank=B
+|Title=Photograph of a rash at the secondary syphilis stage
+|Description=PUE6-158-3
+|Rubric=Multimedia content
+|Contributors=
+|Order=26}}
+<gallery>
+File:Secondary syphilis LISA.jpg|Palmar syphilis
+</gallery>

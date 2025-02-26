@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-122-09-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Know the main indications for speech and language therapy.
+|Description=Indications of speech and language therapy in common pathologies
+|Rubric=Management
+|Contributors=Claire Hentzen
+|Order=9}}
+Indications for speech therapy in common pathologies :
+
+* Dysphonia
+* Dysarthria
+* Written or spoken language disorders ('''[[Language and/or phonation disorders SD-134|Language and/or phonation disorders]])''''
+* Communication disorders ('''[[Attention disorders SD-129|Atention disorders]], [[Memory disorders/cognitive decline SD-131|Memory disorders/cognitive decline]])''''
+* Difficulties integrating into school (''''[[Psychomotor development abnormality SD-115|Psychomotor development abnormality]])'''''
+* Swallowing disorders ('''[[Swallowing disorders or false swallowing SD-062|Swallowing disorders or false swallowing]])''''

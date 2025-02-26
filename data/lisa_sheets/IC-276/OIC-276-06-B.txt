@@ -1,0 +1,63 @@
+{{knowledge objective
+|Identifiant=OIC-276-06-B
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=B
+|Title=Knowing the indications and contraindications of liver puncture and biopsy
+|Description=Transparietal and transjugular liver biopsy, biopsy guidance methods, fibroscan / beware of hydatid cysts
+|Rubric=Additional examinations
+|Contributors=
+|Order=6}}
+
+'''a.   Indications'''
+
+Hepatic puncture and biopsy is indicated when the clinical examination, biological tests and imaging cannot establish the cause of the hepatomegaly and/or in the event of a focal lesion not identified by imaging.
+
+It requires patients to be informed of the procedures and risks involved, and to give their informed consent.
+
+
+
+'''b.   Terms and conditions'''
+
+In the absence of focal liver lesions, liver biopsy may be performed transparietally (usually under ultrasound guidance and local anaesthetic), transvenously (transjugular approach and local anaesthetic), or surgically.
+
+
+The transparietal route will be contraindicated and the transvenous route will be chosen if one of the following conditions is present:
+
+- haemostasis disorders (thrombocytopenia<60,000/mm<sup>3</sup> or prothrombin rate <50% or APTT > 1.5 times control)
+
+- taking anticoagulants, platelet anti-aggregants or non-steroidal anti-inflammatory drugs (NSAIDs)
+
+- haemodialysis
+
+- ascites (even minimal)
+
+
+In the case of a focal lesion, liver biopsy should involve the focal lesion and the non-lesional liver parenchyma (2 samples). It should be performed transparietally, as a transvenous approach does not allow biopsy of a focal lesion, and must be guided by imaging (abdominal ultrasound or even CT scan).
+
+In the event of a large liver abscess, the abscess is punctured +/- drained under ultrasound guidance, with bacteriological and possibly parasitological analysis depending on the context (Entamoeba histolytica PCR).
+
+
+
+'''c.''' '''Contraindications''' :
+
+- Dilatation of the intrahepatic bile ducts
+
+- Thrombosis of the 3 suprahepatic veins prevents transjugular biopsy.
+
+- In cases of suspected cystic echinococcosis, puncture for diagnostic purposes is contraindicated.
+
+<br />Disorders of haemostasis and ascites are not contraindications in principle.
+They do, however, require the biopsy method to be adapted (transvenous).
+Similarly, if you are taking medication that alters haemostasis (anticoagulants, platelet antiaggregants, non-steroidal anti-inflammatory drugs), you should either stop taking them beforehand if possible or adapt the biopsy procedure (transvenous).
+
+
+'''d.''' '''Complications''' :
+
+- abdominal pain
+
+- bleeding (haematoma, haemoperitoneum, haemorrhagic shock)
+
+- pleural or biliary effraction
+
+These potential complications justify close monitoring of pulse and blood pressure for at least 6 hours after the procedure, as well as bed rest for the same length of time (transparietal route) and the jugular puncture site (transvenous route).

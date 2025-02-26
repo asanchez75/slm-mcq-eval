@@ -1,0 +1,83 @@
+{{knowledge objective
+|Identifiant=OIC-103-05-A
+|Item_parent=Vertige
+|Item_parent_short=Vertige
+|Rank=A
+|Title=Diagnosing vestibular syndrome in the face of vertigo
+|Description=Know the signs in favour of a central or peripheral origin
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+'''Vestibular syndrome'' is damage to the peripheral or central vestibular system.'''
+
+It is vital to distinguish between central and peripheral damage (so as not to miss a stroke in acute vertigo).
+
+
+'''<u><big>Semiology of peripheral vestibular syndrome: HARMONIOUS</big></u>''''
+
+'''1. [[Vertigo and vertiginous sensation SD-064|Vertigo]] "true"''''
+
+'''2. Peripheral nystagmus'''
+
+*spontaneous
+*Observed under Barthels glasses, Frenzel glasses or micro-camera (VNS)
+*Direction of nystagmus: Horizonto-rotatory
+*A slow phase of drift towards the affected ear followed by a rapid phase of recall (the most visible) which defines the direction of the nystagmus, right or left.
+*Inhibited by ocular fixation
+*Does not change direction according to the direction of gaze
+
+'''3. Head Impulse Test positive'''
+
+Vestibulo-ocular reflex deficit with refixation jerk during brief rotations of the head towards the affected side.
+
+'''4. Segmental deviations'''
+
+*They all deviate towards the side of the vestibule with the deficit, and are accentuated when the eyes are closed.
+*Static balance: Romberg test, deviation of the index fingers ([[Balance disorders SD-130|balance disorders]])
+*Dynamic balance: Fukuda stomping, Babinski-Weil blind walking.
+
+'''5. Neurovegetative signs:'''' [[Nausea SD-012|nausea]]/[[Vomiting SD-013|vomiting]], [[Hypersudation SD-025|sueurs]]....
+
+'''6. Example'''': in a right peripheral vestibular syndrome: vertigo, with harmonious slow deviations in the same direction on the right: left horizonto-rotatory nystagmus (slow phase towards the right, rapid phase of recall towards the left) whatever the direction of gaze, postural deviations towards the right.
+
+Any clinical presentation atypical of this example should raise the possibility of a central vestibular syndrome.
+
+Similarly, in a peripheral vestibular syndrome, vertigo, nystagmus, postural disorders and neurovegetative syndrome are of equal intensity. If this is not the case, central vestibular syndrome should also be considered.
+
+<big><u>''<br />Semiology of central vestibular syndrome: DYSHARMONIEUX''</u></big>
+
+It corresponds to damage to the vestibular centres and central connections.
+
+Vertigo can also be rotatory, with brief dizzying sensations and/or often permanent imbalance.  
+
+1. study of nystagmus
+
+*Not attenuated by ocular fixation.
+*Can change direction, depending on the direction of gaze.
+*Can be vertical or rotatory.
+*Persistent over time.
+
+'''2. Head Impulse Test normal'''
+
+'''3. Segmental deviations'''
+
+           - Segmental and axial deviations are usually absent or occur on the side of the nystagmus, indicating disharmony.
+
+'''4. Disturbed oculomotricity'''
+
+-Vertical eye skew deviation
+
+-Jerky eye movements during eye pursuit
+
+'''5. Neurological signs
+
+-Cerebellar syndrome ([[Balance disorders SD-130|balance disorders]])
+
+-Involvement of other cranial nerves
+
+-Alternating brainstem syndromes
+
+
+All these "central" characteristics lead to the definition of "dysharmonic syndrome".
+
+<br />

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-129-22-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Knowing how to diagnose osteoarthritis of the shoulder
+|Description=How to diagnose osteoarthritis of the shoulder
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=22}}
+Omarthrosis is osteoarthritis of the scapulohumeral joint.
+
+Clinical features: chronic mechanical shoulder pain, secondary stiffness with limited range of movement.
+
+X-ray: a front and side view of the shoulders (bilateral and comparative examination) and internal and external rotations of the shoulder (looking for calcifications at the insertion of the cuff tendons, a sign of tendinopathy, another differential diagnosis of pain).
+
+There are two types of omarthrosis:
+
+- O''eccentric marthrosis'', defined by the presence of an ascent of the humeral head which is no longer in front of the scapular glenoid. It is secondary to a rupture of the rotator cuff tendons.
+
+- O''centric marthrosis'', without ascension of the humeral head. Rarer than the eccentric form, it should be investigated for an underlying destructive joint pathology such as rheumatoid arthritis or chondrocalcinosis.

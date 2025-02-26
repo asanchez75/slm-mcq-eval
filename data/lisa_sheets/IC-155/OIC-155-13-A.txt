@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-155-13-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Knowing the diagnostic orientations of an acute large red leg
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=13}}
+Differential diagnosis of lower limb DHBN (excluding DHBN)
+
+
+- venous insufficiency stasis dermatitis'' (wrongly called varicose eczema), but inflammatory flare-ups are usually bilateral, apyrexia
+
+- '''contact eczema''', insect bites, erythema migrans, familial periodic fevers, acute arthritis, bursitis, '''superficial or deep vein thrombosis'''.

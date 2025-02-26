@@ -1,0 +1,78 @@
+{{knowledge objective
+|Identifiant=OIC-258-11-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Heading=Know the arguments in favour of the parenchymal nature of an elevation
+|Description=Know the clinical evidence (questioning and physical examination) in favour of the parenchymal nature of an elevated creatinine level.
+|Rubric=Etiologies
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=11}}
+
+The most common parenchymal cause of acute elevation of creatinine is tubular necrosis:
+
+The clinical context is suggestive: shock, toxic causes, rhabdomyolysis, intratubular obstruction, etc.
+
+AKI is naked: absence of [[102|proteinuria]] or [[212|haematuria]], absence of [[urine dipstick]] abnormality of [[196|urinary sediment]], absence of hypertension.
+The less frequent causes of ARF are glomerular, interstitial and vascular:
+{| class="wikitable"
+|
+|Clinical evidence
+|Paraclinical evidence
+|-
+|Glomerular nephropathy
+|- HTA
+
+- Oedema
+
+- History of proteinuria or haematuria
+|- Glomerular proteinuria (>50% albumin) of variable rate (sometimes nephrotic)
+
+- Haematuria and/or red blood cells depending on the cause
+
+- Symmetrical kidneys, regular contours
+
+- Harmonic atrophy at an advanced stage
+|-
+|Tubulointerstitial nephropathy
+|- Absent or moderate late-onset hypertension
+
+- History of recurrent urinary tract infections, uropathy, gout, metabolic disease.
+|- Low-flow proteinuria
+
+(< 1 g/d and/or < 50% albumin)
+
+- Germ-free leucocyturia
+
+- Leukocyte cylinders
+
+- Asymmetric renal atrophy, bumpy contours
+|-
+|Deterioration
+
+vascular
+
+parenchymal
+|- Old hypertension
+
+- The factors
+
+of cardiovascular risk
+|- Low proteinuria
+
+- Kidneys of symmetrical size
+|-
+|Atteinte
+
+renal-vascular
+|- hypertension resistant to triple therapy including a diuretic
+
+- OAP flash
+
+- Atheromatosis
+|- Low proteinuria
+
+- Asymmetric kidney size (small kidney on the side with the stenosis)
+
+- Hypokalemic alkalosis
+|}

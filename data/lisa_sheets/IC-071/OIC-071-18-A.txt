@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-071-18-A
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=A
+|Title=Knowing differential diagnoses
+|Description=Know the pathologies to rule out
+|Heading=Positive diagnosis
+|Contributors=
+|Order=18}}
+'''Somatic differential diagnoses:''''
+
+* Certain brain tumours and forms of epilepsy.
+* Kleine-Levin syndrome (associating periodic hypersomnia and hyperphagia).
+
+'''Psychiatric differential diagnoses:''''
+
+* Bulimic hyperphagia.
+* Anorexia nervosa of the hyperphagic/purgative type.
+* Characteristic depressive episode
+* Borderline personality disorder.
+
+<br />

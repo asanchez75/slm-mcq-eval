@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-131-01-B
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=B
+|Title=Knowing the antigravity system, postural adaptation, the vestibular system and proprioception.
+|Description=Know the systems involved in standing, balance and walking.
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+Several systems are involved in the balancing response including posture and walking:
+
+* The ''antigravity system'', dependent on the ''tonus of the antigravity muscles'', is used to maintain posture by opposing the effect of gravity. It involves the extensor muscles of the lower limbs and the paravertebral muscles. Afferents come from the soles of the feet, the inner ear labyrinth and musculotendinous receptors.
+* The '''balance and postural adaptation system:'''
+** 1- integrates three modes of '''perception''' to maintain posture:
+*** the '''sight''' system ;
+*** the vestibular system, which contributes to postural tone and information on the direction and speed of movement;
+*** proprioceptive afferent sensory pathways (information about the position of joints and limbs in space). Afferents originating on the plantar surface are particularly important for walking. This pathway runs via the posterior cords of the spinal cord.
+** 2-requires the integrity:
+*** the cerebello-vestibular pathways
+*** high-level" cerebral motor control involved in spatial navigation and memory of complex movements,
+*** motor pathways (pyramidal and extrapyramidal systems),
+*** effectors (muscles and joints).
+
+Stepping is a rhythmic activity in which the weight of the body alternates from one lower limb to the other, using a unipodal support. Walking = a series of breaks in balance leading to instability, followed by a balancing reaction aimed at restoring the stability of one of the alternating lower limbs.

@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-230-10-B
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=B
+|Title=Knowing the role of coronary angiography in the diagnosis and management of acute coronary syndrome
+|Description=Specific item
+|Section=Additional examinations
+|Contributors=Vincent Roule
+|Order=10}}
+
+'''Understanding the role of coronary angiography in the diagnosis and management of acute coronary syndrome'''
+
+=== Coronary angiography: ===
+This is used to identify the coronary lesion responsible and decide on its treatment (angioplasty with a stent most often, sometimes coronary bypass surgery or medical treatment alone). Invasive examination '''(pre-operative explanation and collection of consent for an invasive diagnostic or therapeutic procedure)''''
+
+=== - Principles of ACS management ===
+=> ST+ ACS: the emergency is coronary unblocking.
+
+           - assessment of the time between the ECG (diagnosis of ST+) and arrival in the coronary angiography suite for placement of the angioplasty guide (start of angioplasty)
+
+           - if delay ≤ 120 min, primary angioplasty is recommended
+
+           - if > 120 min: fibrinolysis is preferred (unless contraindicated, except for symptoms >12 hours) followed by salvage angioplasty in the absence of reperfusion or deferred within 24 hours if reperfusion occurs
+
+- for ACS >12 hours after onset of pain: primary angioplasty remains indicated in cases of persistent pain, haemodynamic instability or rhythmic instability (ventricular rhythm disorders). Angioplasty should be considered up to 48 hours after the onset of symptoms; beyond that, in the absence of chest pain, viability should first be sought in the infarcted territory.
+
+
+=> Non-ST+ ACS: coronary angiography generally within 24 hours (particularly if troponin is elevated). NB: special case of non-ST+ ACS refractory to medical treatment (patient still in pain) who must be taken urgently (<2 hours) to the coronary angiography suite.

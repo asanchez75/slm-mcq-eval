@@ -1,0 +1,119 @@
+{{knowledge objective
+|Identifiant=OIC-330-02-A
+|Item_parent=Prescription and monitoring of the most common classes of medicines in adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes.
+|Item_parent_short=Prescribing and monitoring the most common classes of medicines for adults and children, excluding anti-infectives (see item 177). Knowing the correct use of the main therapeutic classes
+|Rank=A
+|Title=Diuretics: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure.
+|Description=Knowing the mechanisms of action
+|Rubric=Management
+|Contributors=Marie Briet,Jean-Michel Halimi
+|Order=2}}
+
+
+='''Diuretics'''=
+
+== ''Three drug classes'' ==
+
+[[File:Diuretics.png|vignette|Diuretics]]
+
+*Loop diuretics (e.g. furosemide)
+*Thiazide diuretics (e.g. hydrochlorothiazide)
+*Potassium-sparing diuretics (e.g. amiloride, spironolactone)
+
+<br />
+== '''Mechanisms of action'''==
+
+===Loop diuretics===
+
+*Natriuretic effect due to inhibition of the NKCC2 co-transporter ["Na-K-Cl cotransporter"] at the level of the large ascending branch of Henlé.
+*Associated effects: renal loss of calcium and magnesium, renal loss of potassium and metabolic alkalosis.
+
+===Thiazide diuretics===
+
+*Natriuretic effect due to inhibition of the NCC transporter in the distal convoluted tubule.
+*Associated effects: altered dilution capacity, renal potassium loss, reduced urinary calcium excretion.
+
+===Potassium-sparing diuretics===
+Two mechanisms of action depending on the molecule:
+
+*Inhibition of the epithelial sodium channel (eNaC) (''amiloride'')
+*Aldosterone receptor antagonist (spironolactone)
+*Associated effects: potassium sparing, metabolic acidosis
+
+=='''Indications'''==
+
+===Loop diuretics===
+
+*Edema of cardiac, renal (in particular nephrotic syndrome) or hepatic origin (usually in association with a potassium-sparing diuretic).
+*Heart failure in adults|Heart failure
+*Arterial hypertension SD-042|Arterial hypertension]] in patients with chronic renal failure when thiazide diuretics are contraindicated (particularly when creatinine clearance is < 30 ml/min).
+
+===Thiazide diuretics===
+
+*High blood pressure
+*Edema of cardiac, renal or hepatic origin (usually in combination with a potassium-sparing diuretic).
+
+===Potassium-sparing diuretics===
+
+*eNaC inhibitor (amiloride): In association with thiazide or loop diuretics, to prevent potassium depletion; ascites and oedema in cirrhotics.
+
+===Aldosterone receptor antagonist===
+
+*Hyperaldosteronism secondary to diuretic treatment or oedema.
+*Essential arterial hypertension and resistant arterial hypertension (after use of a validated triple antihypertensive therapy at the right dose and hygiene and dietary measures).
+*Stage III or IV heart failure, in association with a loop diuretic or a conversion enzyme inhibitor.
+*Adjuvant therapy for myasthenia to reduce potassium requirements.
+
+==''Adverse reactions'''==
+
+===Loop diuretics and thiazides===
+
+*Hypokalaemia, metabolic alkalosis, hyponatraemia, hyperuricaemia, volume depletion.
+*glucose intolerance, increased triglycerides
+*Immuno-allergic reaction
+*Tinnitus, deafness (loop diuretics)
+*Hypercalcaemia (thiazide diuretics), hypomagnesaemia (loop diuretics)
+
+===Potassium-sparing diuretics===
+
+*Hyperkalaemia, metabolic acidosis
+*Gynecomastia, impotence, menstrual irregularity, libido disorders (non-specific aldosterone receptor antagonists).
+*Immuno-allergic reaction
+
+==''Drug interactions'''==
+
+===With loop and thiazide diuretics===
+
+*Drugs that prolong the QT interval '''' (risk of torsade de pointes)
+*Lithium: risk of increased lithaemia
+*Non-steroidal anti-inflammatory drugs, blockers of the renin angiotensin system: risk of acute renal failure.
+
+===With potassium-sparing diuretics===
+
+*hyperkalaemic'' drugs (ciclosporin, tacrolimus, renin angiotensin system blockers, non-steroidal anti-inflammatory drugs, trimethoprim), particularly in diabetic patients and/or patients with heart failure, who are at greater risk of hyperkalaemia.
+*Lithium: risk of increased lithaemia
+*Non-steroidal anti-inflammatory drugs, renin angiotensin system blockers: risk of acute renal failure.
+
+==''Contraindications'''==
+
+===Loop diuretics===
+
+*Hypersensitivity
+*Urinary tract obstruction, hypokalaemia, hypovolaemia
+*Acute hepatitis, severe hepatocellular insufficiency (furosemide)
+*Pregnancy and breast-feeding
+
+===Potassium-sparing diuretics===
+
+*Hypersensitivity, hyperkalaemia, severe or acute renal failure, pregnancy, breast-feeding.
+
+== '''Monitoring procedures'''==
+
+*Clinical: weight, hydration status, blood pressure, orthostatic hypotension, skin fold, etc.
+*Biological: kalaemia, natraemia, creatininaemia, calcaemia in certain patients on thiazides, uric acid, etc.
+*ECG if hypo- or hyperkalaemia
+
+== '''Causes of failure'''==
+
+*Refractory oedema: severe hypoalbuminemia, heart failure, etc.
+*Hypertension: need for multiple anti-hypertensive therapies

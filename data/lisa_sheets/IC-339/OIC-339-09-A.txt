@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-339-09-A
+|Item_parent=Acute coronary syndromes
+|Item_parent_short=Acute coronary syndromes
+|Rank=A
+|Title=Recognising emergencies and knowing how to call (SAMU-Centre 15 outside hospital) in the event of chest pain
+|Description=Identify emergency situations and plan pre-hospital and hospital treatment.
+|Rubric=Identifying emergencies
+|Contributors=Mathieu Kerneis
+|Order=9}}
+
+
+* Any chest pain at rest should prompt a call to the SAMU-Centre 15.
+
+<br />
+
+* In ACS, an emergency is defined as the occurrence of one of the following:
+** Cardiac arrest
+** Shock
+** Ventricular rhythm disorder/high-grade conduction disorder
+** Acute heart failure
+** Persistent chest pain
+** Persistent undershift or undershift

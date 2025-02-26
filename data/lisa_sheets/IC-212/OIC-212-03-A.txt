@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-212-03-A
+|Item_parent=Hemogram in adults and children: indications and interpretation
+|Item_parent_short=Hemograms in adults and children: indications and interpretation
+|Rank=A
+|Title=Knowing the indications for a haemogram
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''A haemogram should be performed in the presence of:'''
+
+- signs suggestive of a reduction in one or more blood lines:
+
+- anaemia syndrome
+
+- haemorrhagic syndrome
+
+- unexplained, persistent, recurrent or severe infectious syndrome ;
+
+- signs suggestive of an increase in one or more blood lines:
+
+- skin erythrosis or pruritus to water ;
+
+- arterial or venous thrombosis ;
+
+- tumour syndrome: adenopathy, splenomegaly ;
+
+- changes in general condition: asthenia, anorexia, weight loss, long-term fever, bone pain, etc. ;
+
+- certain situations in which an NFS check should or can be carried out in the absence of symptoms:
+
+- pregnancy ;
+
+- jaundice ;
+
+- occupational medicine ;
+
+- screening medicine ;
+
+- preoperatively;
+
+- pre-therapy or follow-up.
+
+Diagnostic haemograms must be "performed before any treatment that may alter the data and interpretation" (iron, vitamin B12, folic acid, transfusion, etc.).

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-359-19-A
+|Item_parent=Distress and acute respiratory failure in infants, children and adults
+|Item_parent_short=Distress and acute respiratory failure in infants, children and adults
+|Rank=A
+|Title=Knowing the procedures for initial oxygenation
+|Description=Know how to prescribe oxygen therapy and use the following means of administration: goggles, simple mask, high concentration mask, self-filling bag with one-way valve, and be aware of the limitations of these methods.
+|Rubric=Management
+|Contributors=Guillaume Carteaux
+|Order=19}}
+
+- High concentration mask at 15 L/min then adapt the O<sub>2</sub> flow rate for SpO2 > 94% (89-92% in COPD patients, even if it means switching back to a conventional mask without reservoir).
+
+The high-concentration mask must have the two lateral fins so that the FiO2 is as high as possible (in theory 100%).

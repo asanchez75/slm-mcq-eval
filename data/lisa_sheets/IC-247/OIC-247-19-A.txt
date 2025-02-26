@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-247-19-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Know the emergency tests for suspected hyperglycaemic imbalance.
+|Description=None
+|Rubric=Additional tests
+|Contributors=Claire Briet
+|Order=19}}
+In the event of hyperglycaemia, perform the following tests as a matter of urgency
+
+''<u>For diagnostic purposes:</u>''
+
+- capillary ketonemia
+
+- blood ionogram, urea, creatinine,
+
+- calculation of the anion gap if hyperglycaemia with positive ketonemia: (Na<sup>+</sup> + K<sup>+</sup>) - (Cl<sup>-</sup> + HCO<sub>3</sub><sup>-</sup>).
+
+- osmolarity calculation if hyperglycaemia with negative ketonemia: (Na<sup>+</sup> + 13) × 2 + Gly in mmol/l
+
+- Venous pH
+
+''<u>Aetiological aim</u>''
+
+-ECG
+
+- BU, clinical search for infectious outbreaks, blood culture, PCR COVID
+
+- Clinical examination for wounds (particularly foot wounds)

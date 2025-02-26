@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-127-08-B
+|Item_parent=Benign prostatic hypertrophy
+|Item_parent_short=Benign prostatic hypertrophy
+|Rank=B
+|Intitle=Know the principles of treatment: abstention-surveillance - pharmacological treatment - surgical treatment
+|Description=None
+|Rubric=Management
+|Contributors=Alexandre Ingels, Jonathan Olivier
+|Order=8}}
+
+
+=='''Abstention-surveillance:'''==
+For patients with uncomplicated BPH (acute or chronic retention, renal failure, calculi, infection) and minimal or moderate SBAU with no impairment of quality of life (IPSS score < 9).
+
+*There is a low risk of complications in BPH that is correctly monitored.
+*Patients should be informed that BPH is benign.
+*Clear explanations about BPH should be given to the patient, as this can lead to significant improvement in UABS.
+*Hygienic dietary advice (insufficient to alter the natural history of the disease) has a moderate impact on the evolution of symptoms.
+
+=='''Pharmacological treatments:'''==
+For patients with uncomplicated BPH and moderate to severe LUTS (IPSS score >9)
+
+*<Phytotherapy:</u> **Their mode of action remains unknown.
+**Their mode of action remains unknown
+**Well tolerated
+**Lower level of recommendation than other pharmacological classes.
+*<Alpha-receptor blockers
+*Improves urinary flow by relaxing the smooth muscles of the prostate and bladder neck.
+**Rapid and stable action over time
+**Undesirable effects: orthostatic hypotension, [[Genital-scrotal pathology in boys and men|anejaculation 58]]
+**In cases of urinary retention, prescription of alpha-blockers 48 hours before attempting to remove the bladder catheter improves the chances of successfully resuming good quality micturition.
+*<5α-reductase inhibitors (5-ARIs)</u>.
+**Proposed to patients with bothersome SBAU (IPSS > 8) with a prostatic volume >40ml
+**Blocks the conversion of testosterone to dihydrotestosterone
+**Improves urinary output by reducing prostate volume, resulting in a 50% reduction in PSA after 6 months.
+**Take effect over several months
+**May be used as a second-line treatment after failure of monotherapy with phytotherapy or alpha-blockers.
+**Undesirable effects: erectile dysfunction, asthenia.
+**The 5 ARIs are thought to increase the risk of high-risk prostate cancer.
+*<Combination of alpha-blockers and 5α-reductase inhibitors</u>.
+**Therapy more effective than either treatment alone.
+**Adverse effects of the 2 treatments combined.
+**Recommended in the event of ineffectiveness of treatments taken as monotherapy.
+*<Phosphodiesterase type 5 inhibitors (tadalafil)
+**May be offered to patients with bothersome LUTS who also have erectile dysfunction.
+**Undesirable effects: hot flushes.
+**Cardiological opinion should be sought in patients who are not very active or who have cardiovascular risk factors.
+*<Anticholinergics</u>.
+**In combination with an alpha-blocker in the event of persistent storage symptoms under alpha -blocker.
+**Contraindicated in cases of post-micturition residue > 150ml and untreated acute angle-closure glaucoma.
+**Undesirable effects: constipation, dry mouth, worsening of dysuria, cognitive disorders (elderly subjects).
+
+=='''Surgical treatment:'''==
+For patients with complicated BPH (acute urine retention, bladder lithiasis, recurrent haematuria of prostatic origin, [[Chronic renal failure in adults and children|chronic obstructive renal failure 264]], [[Urinary infections in children and adults|recurrent infections 161]]) or moderate to severe UABS resistant to maximal medical treatment.
+
+*Allow removal of subvesical obstruction
+*<u>Ablative treatments:</u>
+**Transurethral resection of the prostate (mono or bi-polar) (prostatic volume <80cc)
+**Endoscopic enucleation of prostate adenoma (lasers, bi-polar resector) (No prostate volume limit)
+**Prostate vaporisation (lasers, bi-polar resectorator) (No prostate volume limit)
+**Prostatic adenomectomy by suprapubic laparotomy (prostatic volume >80cc)
+*<Non-ablative treatments:</u> **Cervico-prostatic incision
+**Cervico-prostatic incision (prostatic volume <30cc)
+**Urethral implants (Urolift®) (prostate volume <80cc)
+
+==All these treatments to relieve BPH obstruction carry risks of:==
+
+*urinary incontinence
+*retrograde ejaculation
+*urinary tract infections
+*urethral stricture

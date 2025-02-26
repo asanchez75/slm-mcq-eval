@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-013-01-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Title=Knowing the general rules for drawing up a medical certificate
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=1}}
+The rules for drawing up a medical certificate are defined in article 76 of the Code of Ethics<ref>https://www.conseil-national.medecin.fr/code-deontologie/lexercice-profession-art-69-108/1-regles-communes-modes-dexercice-art-69-84-6</ref> and article R.4127-76 of the Public Health Code<ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006912948/</ref>: "The practice of medicine normally includes the drawing up by the doctor, in accordance with the medical observations he is able to make, of certificates, attestations and documents whose production is prescribed by legislative and regulatory texts. Any certificate, prescription, attestation or document issued by a doctor must be ''written legibly in French'' and ''dated'', allow ''the identification of the practitioner'' from whom it emanates and be ''signed'' by him."
+
+
+'''Rules for drafting medical certificates:''''
+
+o Find out about its use and [[Know the different types of compulsory medical certificate 2C-013-DE-A02|know how to say no to abusive requests]],
+
+o The writing doctor must ''personally examine'' the patient,
+
+o The certificate must be written ''clearly and legibly'' in French,
+
+o The certificate must include ''':''''
+
+*The patient's identity and the identity of the doctor who wrote it, together with his or her stamp and signature,
+
+*The date of writing and the date of the examination if different,
+
+*Purely medical, clinical and para-clinical findings, positive or negative",
+
+o The certificate must be ''precise, objective,'' not interpretative, especially if it includes a patient's own words,
+
+o The certificate must be issued in compliance with medical confidentiality,
+
+o A copy must be kept in the medical file.
+
+
+The certificate engages [[Definition liability sanction/indemnification 2C-005-DE-A01|les responsabilités du médecin rédacteur]] and more than 20% of complaints <ref>https://www.conseil-national.medecin.fr/medecin/exercice/rediger-certificat-medical</ref> registered with the Conseil de l'ordre des médecins concern medical certificates. It is imperative to '''reread''' it before handing it '''in person''' (unless there are legal exceptions), to the parents of a minor or to the beneficiaries.
+
+
+'''Concerning objective writing''', the doctor will take care to report what patients say in the conditional tense or in inverted commas, and not to be interpretative in his findings.
+
+For example, you should not write :
+
+- Mrs X is a victim of domestic violence", but "Mrs X reports violence against her by a known male individual whom she describes as her partner",
+
+- There is a bite mark", but "There is a bluish, rounded bruise 4.5cm in diameter, which may be compatible with the alleged injury mechanism of a bite".
+
+
+'''Concerning medical confidentiality''', only antecedents related to the nature of the certificate will be indicated, '''with the patient's agreement.'''
+<references />

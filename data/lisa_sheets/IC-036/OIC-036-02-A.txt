@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-036-02-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Know the different types of estroprogestogenic hormonal contraception, their route of administration and their classification.
+|Description=None
+|Rubric=Definition
+|Contributors=Geneviève Plu-Bureau
+|Order=2}}
+
+
+=== Composition of oestroprogestogenic contraception ===
+Estrogen-progestogen contraception (OPC) comprises two types of molecule:
+
+an '''estrogen'''<nowiki>: ethinyl-estradiol [EE] or estradiol</nowiki>.
+
+a progestin
+
+=== Classification according to the type of progestin contained in the COP ===
+Progestin is classically separated into "generations":
+
+o 1<sup>er</sup>: norethisterone (no longer available since 2016)
+
+o 2<sup>th</sup>: levonorgestrel
+
+o Between 2 and 3<sup>th</sup>: norgestimate
+
+o 3<sup>th</sup>: gestodene, desogestrel
+
+o other generations: drospirenone, cyproterone acetate, dienogest, nomegestrol acetate, chlormadinone acetate.
+
+=== Classification according to the sequence in which the two hormones are administered ===
+o monophasic: the dose of the two compounds is fixed throughout the cycle
+
+o biphasic: there are two dosing sequences (higher dosage in the 2nd part of the blister pack)
+
+o triphasic: three dosing phases are used
+<br />
+
+=== Available routes of administration ===
+o Oral (pill),
+
+o transdermal (patch)
+
+o vaginal (ring)

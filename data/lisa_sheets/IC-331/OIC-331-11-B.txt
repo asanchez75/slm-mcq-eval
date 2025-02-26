@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-331-11-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Know the drug treatments for cardiopulmonary resuscitation
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+Adrenaline is used in boluses of 1 milligram every 3 to 5 minutes during cardiopulmonary resuscitation.
+
+Its introduction is recommended immediately in the event of an initial non-shockable rhythm.
+
+Its use is recommended on a delayed basis in the event of an initial shockable rhythm, after the 3rd defibrillator analysis.
+
+The use of amiodarone is recommended in the event of an initial shockable rhythm, after the 3rd defibrillator analysis.

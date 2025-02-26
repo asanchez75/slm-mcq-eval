@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-302-09-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Know the differential diagnoses of nevi
+|Description=Know the main differential diagnoses of nevi to be considered in principle.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+The main differential diagnosis is melanoma. This is the main question asked when examining a patient: is this pigmented lesion a simple nevus or an incipient melanoma?
+
+Other differential diagnoses are as follows:
+
+- Seborrheic keratosis
+
+- Histiocytofibroma
+
+- Basal cell carcinoma
+
+- Actinic lentigo
+
+- Botriomycome
+
+- Thombosed angioma
+
+- Plantar hematic lesion

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-087-06-B
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=B
+|Title=To know the principle of interventional radiology treatment of epistaxis
+|Description=In the event of massive epistaxis that is resistant to local tamponade treatments and anterior and posterior wicking, percutaneous embolisation can be used to stop the bleeding. It should be performed as a matter of urgency after the patient has been haemodynamically stabilised.
+|Rubric=Management
+|Contributors=Geoffrey Mortuaire
+|Order=6}}
+
+
+*Embolisation of the arteries feeding the nasal and sinus cavities. The external carotid artery (sphenopalatine artery and its terminal branches) is most often involved.
+*Radioembolisation is offered as a "recourse" or "emergency" procedure for recurrent epistaxis after anteroposterior tamponade with a double balloon tube. The procedure is carried out under general anaesthetic with orotracheal intubation, following an anaesthetic consultation. The patient must be haemodynamically stable. The vascular approach is usually via the femoral artery. An initial arteriographic step opacifies the vessels to check for any leakage of contrast (blush). Selective occlusion of the terminal arterial branches is then performed, and the effectiveness of the occlusion procedure is checked by a further opacification.
+*The ethmoidal arteries (branches of the ophthalmic artery arising from the internal carotid artery) are not usually accessible to radioembolisation because of the risk of ophthalmic and cerebral ischaemia.

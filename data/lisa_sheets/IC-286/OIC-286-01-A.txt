@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-286-01-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Title=Know the definition of acute diarrhoea
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Emission of more than three very soft to liquid stools per day, with a "sudden" onset and lasting less than 14 days.

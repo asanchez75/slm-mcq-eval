@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-337-05-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Recognising the signs of seriousness of acute poisoning in adults
+|Description=Know how to assess the depth of impairment of consciousness and the respiratory consequences, for children see item 239.
+|Rubric=Positive diagnosis
+|Contributors=Dominique Vodovar
+|Order=5}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 1.jpg
+</gallery><gallery widths="300" heights="300">
+File:Intox fig 3.jpg
+</gallery><gallery widths="300" heights="300">
+File:Intox fig 6.jpg
+</gallery>

@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-043-07-B
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=B
+|Title=Know the main medical and surgical treatments for myomas
+|Description=None
+|Rubric=Management
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=7}}
+
+==Medical treatment ==
+Initiation of amenorrhoea with ''progestins'' (21 days/month or continuous), ''or GnRH agonists'' (combined with oestroprogestogenic hormone replacement therapy such as add-back therapy, depending on the duration of treatment).
+
+=='''Surgical treatment'''==
+If medical treatment fails.
+
+Hysteroscopic resection: submucosal myomas (FIGO 0,1 or 2) of less than 3 or 4 cm.
+[[File:FIGO Fibroids.png|vignette| FIGO Fibroid Classification]]
+Myomectomy (laparoscopy or laparotomy): conservative treatment if pregnancy is desired for interstitial (FIGO 3 or 4) and subserous (FIGO 5, 6 or 7) myomas.
+
+Hysterectomy, in the absence of a desire for pregnancy, inter-annexal with bilateral salpingectomy or with bilateral adnexectomy depending on the patient's age.
+
+[Information and monitoring of a patient in outpatient surgery SD-356
+
+==Uterine embolisation ==
+Possible alternative if there is no desire to become pregnant.

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-093-06-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Knowing the etiologies of spinal cord compression
+|Description=Differentiate between extradural, intradural and intramedullary causes
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+
+==Extradural causes:==
+
+*Tumour: vertebroepidural metastases of osteophilic cancers (lung, breast, prostate, kidney), primary bone tumours (chordoma), haematological malignancies (plasmacytoma, multiple myeloma of the bones, multiple myeloma of the bones).
+*Degenerative: cervico-arthrosic myelopathy, herniated disc (especially thoracic)
+*Infectious: spondylodiscitis with epiduritis ([Osteoarticular infections (OAI) of children and adults|Osteoarticular infections of children and adults]])
+*Vascular: epidural haematoma (anticoagulant treatment)
+
+==Extramedullary intradural causes:==
+
+*Tumour: meningioma and neuroma
+*Inflammatory: arachnoiditis (post-meningitis, neurosarcoidosis, post-dural surgery, etc.)
+
+==Intramedullary intradural causes:==
+
+*Tumour: ependymoma, astrocytoma, metastasis
+*Hydraulic: syringomyelia
+*Vascular: arteriovenous malformation (AVM), cavernoma, dural arteriovenous fistula, subdural haematoma, etc.

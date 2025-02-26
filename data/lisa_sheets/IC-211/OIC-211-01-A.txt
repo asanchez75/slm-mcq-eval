@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-211-01-A
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=A
+|Title=Know the definition of sarcoidosis
+|Description=Sarcoidosis is a multi-systemic granulomatosis of unknown cause
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+<br />
+
+*Granulomatosis (presence of epithelioid and gigantocellular granulomas without caseous necrosis)
+*Multivisceral or systemic disease (= affecting several organs or tissues)
+*Of unknown cause

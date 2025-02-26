@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-170-02-A
+|Item_parent=Malaria
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Know when to look for malaria
+|Description=Any fever on return from an endemic area is malaria until proven otherwise.
+|Rubric=Positive diagnosis
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=2}}
+
+<big>'''''" Any fever on return''''' ''(days to months) '''from an endemic area is malaria until proven otherwise''' and even when another infection is identified '''"'''''</big>
+
+- The risk exists even if appropriate antimalarial prophylaxis is taken.
+
+- Any fever should be investigated in the context of a stay in a malaria-endemic area
+
+- Thrombocytopenia should prompt a search for a stay in a malaria-endemic area and for malaria.

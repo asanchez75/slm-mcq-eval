@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-063-13-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Title=Knowing the main non-psychiatric differential diagnoses
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=13}}
+
+*Neurological: epilepsy, brain tumours, stroke, inflammation, autoimmunity, etc.
+*Endocrine: dysthyroidism, etc.
+*Metabolic: Wilson's disease, hypoglycaemia, dyscalcaemia SD-200|dyscalcaemia.
+*Infectious: neurosyphilis, AIDS...
+*Drug-induced: L-DOPA, mefloquine...
+*Intoxication by a psychoactive substance: psychostimulants (amphetamines, cocaine), hallucinogens (cannabis, anticholinergics, LSD, ketamine, etc.), etc.

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-349-12-A
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Rank=A
+|Title=Know the principles of the medical and surgical management of abscesses and panaris.
+|Description=None
+|Rubric=Management
+|Contributors=Pierre-Marie Roy
+|Order=12}}
+<gallery widths="420" heights="420">
+File:Principles PEC abscess.png
+</gallery>For all hand infections, the patient's anti-tetanus status and smoking status should be checked.
+
+It is essential to know the patient's occupation, as it may be a route of entry linked to work activities, and the case will be treated as an "accident at work". In addition, for patients working in the food or catering sector, it is essential to avoid the workplace until they are cured, to avoid collective contamination.
+
+'''Management of an abscess:'''
+
+*When the abscess is not collected (inflammatory phase), monitoring and a possible prescription of antibiotics may be discussed.
+*For any abscess that has collected, or if there is any doubt, management is primarily surgical, and antibiotic therapy is rarely necessary (extension, high-risk location, etc.).
+*The swelling should be incised, bacteriological samples taken, partitions removed, infected and necrotic tissue excised and the area washed. The skin cannot be closed. In the case of a deep abscess, meshing or drainage is performed.
+
+'''Management of panariasis:''''
+
+''In the invasion and inflammatory phases: ''
+
+Treatment is medical. Local care is given with an antiseptic solution (chlorexidine or povidone-iodine). Dakin ® is not recommended as it can cause skin burns. No antibiotics should be prescribed. If there is no improvement within 48 hours, surgery is required.
+
+''In the collected and complicated phases:''
+
+*Excision of the plague and part or all of the nail plate for sub-ugual forms.
+*Bacteriological documentation (if recurrence or poor evolution).
+*Daily dressing for one week, then every 2 days.
+*No antibiotic treatment is necessary.

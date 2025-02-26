@@ -1,0 +1,100 @@
+{{knowledge objective
+|Identifiant=OIC-366-06-B
+|Item_parent=Accidental exposure to biological fluids: what to do
+|Item_parent_short=Accidental exposure to body fluids: what to do
+|Rank=B
+|Title=Cite the main indications for post-exposure prophylaxis (PEP) for exposure to the human immunodeficiency virus (HIV).
+|Description=None
+|Rubric=Management
+|Contributors=Docteur Lefèvre Benjamin
+|Order=6}}
+'''Preferably within 4 hours of exposure and up to 48 hours at the latest.'''
+
+Its indication depends on two factors
+
+- The HIV status of the source (HIV serology and, if positive, HIV viral load)
+- And the type of exposure of the victim
+{| class="wikitable"
+|'''<u>Risk and nature of exposure</u>''''
+| colspan="4" |'''<u>Source patient</u>'''
+|-
+|
+| colspan="2" |'''living with HIV'''
+| colspan="2" rowspan="2" |'''of unknown serology'''
+|-
+|Occupational exposure
+|'''CV detectable'''
+|'''CV undetectable'''
+|-
+|Important
+- deep puncture, hollow needle and intravascular
+|TPE
+|no TPE
+| colspan="2" |TPE
+|-
+|Intermediate
+- cut with scalpel
+- puncture with IM or SC needle
+- solid needle stick
+- mucosal exposure with contact > 15 min
+|TPE
+|no TPE
+| colspan="2" |no TPE
+|-
+|Low
+- other cases
+- injections with abandoned syringes
+- bites, scratches, sputum
+|no VSE
+|no VSE
+| colspan="2" |no VSE
+|-
+|
+|
+|
+|
+|
+|-
+|'''Sexual exposure'''
+|'''CV detectable'''
+|Undetectable CV
+|High prevalence group
+|'''low prevalence group'''
+|-
+|Receptive anal intercourse
+|VCT
+|no VSE
+|VSE
+|no VSE
+|-
+|Insert anal report
+|TPE
+|no VSE
+|TPE
+|no VSE
+|-
+|receptive vaginal intercourse
+|NO VSE
+|no VSE
+|TPE
+|no VSE
+|-
+|Vaginal insertive intercourse
+|TPE
+|no VSE
+|TPE
+|No VSE
+|-
+|Receptive Blowjob with Ejaculation
+|NO VSE
+|no VSE
+|TPE
+|no VSE
+|-
+|Receptive Blowjob without ejaculation or insertive
+|no VSE
+|no VSE
+|no VSE
+|no VSE
+|}
+VCT: post-exposure treatment; CV: viral load; high-prevalence group: MSM with multiple partners, sex workers, people from countries where HIV is highly endemic, intravenous drug users, etc.

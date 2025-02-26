@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-324-07-A
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=A
+|Title=Knowing the main epidemiological elements of non-adherence and its potential consequences in terms of public health
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=7}}
+The definition of non-adherence or non-observance is complex.
+
+the degree to which the patient is taking their treatment in accordance with the recommendations.
+
+All degrees are possible: not taking the medicine at the pharmacy, buying the treatment but not using it, taking lower doses, rarely higher, not respecting the duration of treatment, particularly for antibiotic therapy, selecting only a few medicines from the prescription, self-medication .... It is therefore difficult to make a definitive statement about good adherence.  
+
+By definition, the threshold below which we speak of poor adherence to treatment is 80%.
+
+Studies, most often American or Canadian, talk about an overall compliance rate of 50% for chronic diseases,
+
+especially in primary prevention situations (hypertension, dyslipidaemia, osteoporosis) .... and discontinuation of treatment after an average of 2 years.
+
+Adherence is lower in adolescents (around 40%) and may concern all medicines, including insulin.
+
+Failure to comply with the recommendations has negative consequences
+
+-on an individual basis (occurrence of complications, resistance to treatment, particularly anti-infective treatment, increase in treatment due to poor response and therefore risk of additional adverse effects), but
+
+Collectively, non-compliance drastically increases healthcare costs through unused medicines, hospitalisation due to complications of the disease or undesirable side-effects ......creating social inequalities and also contributing to the spread of epidemics (e.g. anti-vaccines). The cost of this wastage could be estimated at more than €3.4 billion a year in France (drugs reimbursed by the health insurance system).

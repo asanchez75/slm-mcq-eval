@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-031-14-A
+|Item_parent=Childbirth, delivery and normal postnatal care
+|Item_parent_short=Childbirth, delivery and normal postnatal care
+|Rank=A
+|Title=Knowing the normal aftermath of childbirth
+|Description=Knowing the changes that follow childbirth during this period
+|Rubric=Physiopathology
+|Contributors=Vincent Dochez,Philippe Deruelle
+|Order=14}}
+
+The "post-natal period" covers the entire period from childbirth to the reappearance of menstruation ("return from childbirth").
+
+==Physiology==
+
+===Uterine evolution===
+Under the influence of sub-clinical uterine contractions (UC), the uterus decreases in volume and re-enters the pelvic cavity. These contractions are painful in multiparous women ("trenches").
+
+The uterus, which is large and globular for the first 15 days, returns to its normal size in 2 to 3 months. There is a physiological serosanguinolent discharge ("lochia"), which is bloody for the first few days and gradually clears.
+
+Uterine involution varies according to the prescription of oxytocics and whether or not the mother is breast-feeding.
+
+===Return from childbirth===
+In the absence of breastfeeding and oestroprogestogen treatment, the return of labour occurs around the 45th day post-partum (6 to 12 weeks).
+
+Occasionally, a small amount of haemorrhage may be observed around day 20 for 2 to 3 days, this is known as the '''petit retour de couches''' ''([[Acute haemorrhage SD-060|Acute haemorrhage]], [[Abnormal postpartum genital bleeding SD-110|Abnormal postpartum genital bleeding)]'''.
+
+Reconstitution of the endometrium takes place in 3 phases:
+
+- regression phase: 4 to 5 days, degeneration of the uterine decidua ;
+
+- healing phase: until day 25;
+
+- proliferation phase: 25-45<sup>th</sup> day.
+
+If breast-feeding is used, the endometrium retains a regressive, resting appearance and the return of childbirth occurs in 4 to 6 months.
+
+The 1st<sup>cycle</sup> may be ovulatory.
+
+The return from childbirth occurs around 40 days (6 weeks) after the end of breastfeeding.
+
+===Milk secretion (''see specific question)'' ===
+[[Management of normal and difficult breastfeeding SD-273|Management of normal and difficult breastfeeding]]

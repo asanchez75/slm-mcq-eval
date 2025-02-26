@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-122-02-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Title=Knowing the role of the physical medicine and rehabilitation physician (MPR)
+|Description=Definition of the functions specific to the doctor of physical medicine and rehabilitation.
+|Rubric=Definition
+|Contributors=Claire Hentzen
+|Order=2}}
+
+The physical medicine and rehabilitation doctor diagnoses, monitors and treats pathologies that cause disability.
+
+Role :
+
+* Assess the patient according to the International Classification of Functioning (ICF) of disability (impairments, activity limitations, participation restrictions) ('''[[Disability situation SD-345|Disability situation]]''')
+* Establish the indication for re-education, participate in the elaboration and coordination of complex re-education programmes and ensure their follow-up.
+* Develops the patient's therapeutic project including the development of a re-education programme, vocational guidance and reintegration if necessary, long-term monitoring of the specific symptoms responsible for the persistent disability.

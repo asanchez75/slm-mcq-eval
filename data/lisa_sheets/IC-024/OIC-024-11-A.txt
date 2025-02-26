@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-024-11-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing the complications of hypertension
+|Description=Complications associated with hypertension
+|Heading=Monitoring and/or prognosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=11}}
+
+In the case of gestational hypertension, the risk is progression to pre-eclampsia and its complications. '''(Cf. [[Urine dipstick analysis SD-182|182. Urine dipstick analysis]] / [[Proteinuria SD-212|212. Proteinuria]])''''
+
+EP is screened at each antenatal visit: proteinuria is checked (pathological if > one cross on the BU, > 300 mg/24 h or if the proteinuria/creatinuria ratio on the sample > 30 mg/mmol).
+
+
+Maternal complications of EP can be life-threatening:
+
+- eclampsia
+
+- HELLP syndrome (''Hemolysis, Elevated Liver enzymes'', ''Low Platelets'')
+
+- retroplacental haematoma (HRP)
+
+- Disseminated intravascular coagulation (DIC)
+
+- more rarely: acute renal failure, subcapsular haematoma of the liver, hypertensive retinopathy, cerebromeningeal haemorrhage
+
+
+Fetal complications include : IUGR, MFIU on severe IUGR or following eclampsia or HRP; prematurity induced for maternal or foetal rescue.

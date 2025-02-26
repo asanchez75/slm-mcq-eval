@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-123-04-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Title=Knowing the definition of old age
+|Description=Know the concepts of differential ageing
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+There is no consensual definition.
+
+You are an elderly person:
+
+* From the age of 60 for social benefits in France;
+* From the age of 65 for the World Health Organisation;
+* 75 and over for the risk of loss of autonomy and frailty;
+* 75 and over to enter a geriatric service, with an average age of > 80.

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-309-08-A
+|Item_parent=Primitive and secondary lung tumours
+|Item_parent_short=Primitive and secondary lung tumours
+|Rank=A
+|Title=Front radiograph of lung adenocarcinoma
+|Description=typical imaging
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+
+[[File:Bronchial cancer - RT.jpg|vignette|Front chest radiograph of a patient with left lower lobar adenocarcinoma. It shows a voluminous rounded poly-lobed opacity of the left lower lung field, not obliterating the left edge of the heart (silhouette sign).]]

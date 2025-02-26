@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-294-14-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the risk of tumour lysis syndrome
+|Description=Knowing how to evoke the diagnosis of tumour lysis syndrome and assess the risk according to the type and mass of the tumour, the patient's condition and the chemotherapy given.
+|Rubric=Positive diagnosis
+|Contributors=Jean-Pierre Lotz
+|Order=14}}
+
+==== A severe complication: tumour lysis syndrome ====
+Tumour lysis syndrome is the consequence of the massive destruction of tumour cells, leading to the release of intracellular compounds into the bloodstream. Tumour lysis syndrome occurs after the initiation of chemotherapy in fast-growing tumours, such as haemopathies, or in tumours with a large tumour volume, such as germ cell tumours.
+
+Biological tumor lysis syndrome is defined by ≥ 2 biological manifestations:
+
+- Hypocalcaemia
+
+- Hyperkalaemia
+
+- Hyperuricemia
+
+- Hyperphosphatemia
+
+Clinically, acute renal failure (almost constant), heart rhythm disorders, neurological disorders including convulsions, muscle cramps, nausea/vomiting and diarrhoea may occur.     
+
+Prevention involves high levels of hydration with physiological serum to maintain satisfactory diuresis, and administration of rasburicase (Fasturtec) to prevent hyperuricaemia.
+<br />

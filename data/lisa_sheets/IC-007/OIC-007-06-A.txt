@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-007-06-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Title=Knowing the rules for sharing healthcare data between healthcare professionals (medical confidentiality, sharing healthcare data)
+|Description=None
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=6}}
+By virtue of medical confidentiality, medical records cannot be passed freely between different healthcare professionals. However, the sharing of health data is necessary for the quality and continuity of care. Professionals involved in the care of a patient may therefore exchange medical information necessary for the coordination or continuity of care or for the patient's medical and social follow-up. Health professionals, students and others (social workers and psychologists in particular) can add to the medical file.
+
+<u>Concerning the rules for sharing information:</u>
+
+- Professionals belonging to the same healthcare team may share information without the patient's consent (information entrusted to one healthcare professional is deemed to be entrusted to the whole team);
+
+- However, the law does not provide for direct access between professionals from different healthcare structures. Sharing between professionals who are not part of the same healthcare team therefore requires the patient's prior consent. The law specifies that this consent may be obtained "by any means".
+
+<br />

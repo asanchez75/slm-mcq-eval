@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-329-05-B
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=B
+|Intitle=Know the indications of the main qualifications and transformations of RGCs
+|Description=phenotyped, compatibilised, irradiated... (including the presence of irregular agglutinins)
+|Section=Management
+|Contributors=
+|Order=5}}
+Basic RGCs may undergo specific qualifications (phenotyped, compatibilised) or transformations, the most common of which are irradiation, deplasmatisation or volume reduction to adapt the product to paediatric transfusion situations. These qualifications/transformations are defined by specific characteristics and precise indications which are set out in the following table:
+[File:Qualifications transformations PSL.png|vignette]]

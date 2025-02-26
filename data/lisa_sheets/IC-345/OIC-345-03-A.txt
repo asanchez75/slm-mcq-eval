@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-345-03-A
+|Item_parent=Severe discomfort in infants and unexpected infant death
+|Item_parent_short=Severe discomfort in infants and unexpected infant death
+|Rank=A
+|Intitulé= Unexpected infant death: knowing the aetiological aspects (frequent causes)
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+
+
+* Respiratory infections (bronchiolitis, whooping cough, etc)
+* Serious viral or bacterial infections (meningitis, encephalitis, myocarditis, sepsis)
+* Dehydration
+* Domestic accidents (strangulation, inhalation of foreign corns, etc)
+* Abuse
+* Rare: heart rhythm disorders, heart malformation, metabolic disease, etc.
+
+Sudden infant death syndrome is a diagnosis of exclusion after a very thorough work-up.
+
+<br />

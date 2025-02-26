@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-073-02-A
+|Item_parent=Different types of psychotherapeutic techniques
+|Item_parent_short=Different types of psychotherapeutic techniques
+|Rank=A
+|Intitle=Knowing what is psychotherapy; What is psychotherapy; What is not psychotherapy
+|Description=The main principles that distinguish psychotherapy from mere conversation or from the many approaches that have not been validated.
+|Rubric=Definition
+|Contributors=Amaury MENGIN
+|Order=2}}
+
+===== What falls within the scope of psychotherapy=====
+- The majority of psychiatric disorders & certain non-psychiatric disorders (e.g. chronic pain, functional neurological disorders, etc.)
+
+- Alone or in conjunction with pharmacotherapy and social therapy
+
+Favourable factors :
+
+- Patient commitment/request
+
+- Quality therapeutic alliance
+
+- Therapist empathy
+
+- Specific, validated psychotherapeutic tools
+
+- Setting: therapeutic objective, duration
+{| class="wikitable"
+|What is psychotherapy
+|What is close to psychotherapy
+|What is not psychotherapy
+|-
+|Definition above
+|Empathic helping relationship:
+|Other types of support :
+|-
+| + Necessary conditions :
+- Recognised scientific theory
+
+- Clearly established indications
+
+- Codified technique
+
+- Trained and competent staff
+
+- Evaluable effects
+| Caregiver-patient relationship
+- Based on respect & empathy
+
+- Without specific training in psychotherapy
+| Coaching
+- Practice outside the regulated framework
+
+- Support from family and friends
+|}

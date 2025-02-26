@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-151-17-B
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=B
+|Title=Knowing the therapeutic management of non-purulent infectious meningitis
+|Description=None
+|Rubric=Management
+|Contributors=Dr Olivier Robineau
+|Order=17}}
+Infectious meningitis of viral origin without associated encephalitis is treated symptomatically.
+
+In the case of mixed cellularity, the diagnosis of "Listeria" infection, tuberculosis or decapitated bacterial meningitis is discussed on a case-by-case basis.

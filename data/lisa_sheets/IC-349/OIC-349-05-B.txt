@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-349-05-B
+|Item_parent=Acute soft tissue infection (abscess, panaris, phlegmon of the sheaths)
+|Item_parent_short=Acute soft tissue infection (abscess, panaris, sheath phlegmon)
+|Rank=B
+|Title=Know the mode of inoculation
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Pierre-Marie Roy
+|Order=5}}
+'''Direct inoculation''':
+
+* the most frequent mode of contamination
+* secondary to a wound, penetrating trauma or bite
+
+Possible blood-borne contamination

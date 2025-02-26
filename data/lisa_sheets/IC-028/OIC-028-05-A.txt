@@ -1,0 +1,81 @@
+{{knowledge objective
+|Identifiant=OIC-028-05-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Item_parent_short=Know the particularities of urinary tract infection in pregnancy
+|Description=Know the recommended treatment for gravid urinary tract colonisation (table 26.1)
+|Rubric=Multimedia content
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=5}}
+Table 1 : Recommended treatments for gravidial urinary tract colonisation:
+{| class="wikitable"
+|'''Order of choice'''
+|Molecule (INN)'''
+|'''Dosage'''
+|'''Duration'''
+|'''Contraindication (CI) and side effects'''
+|-
+|'''1st line'''
+|Amoxicillin
+|1g x 3/d,
+|7 days
+|
+|-
+|2nd intention
+|Pivmecillinam
+|400mg x 2/d
+|7 days
+|
+|-
+|3rd intention
+|Bosfomycin trometamol
+|3 g
+|Single dose
+|
+|-
+|4th intention
+|Trimethoprim
+|300 mg/d
+|7 days
+|avoid during the first 2 months of pregnancy
+|-
+|5th intention
+|Nitrofurantoin
+|100 mg x 3/d
+|7 days
+|<Iterative treatments</nowiki>.
+
+- CI if renal insufficiency with GFR < 40mL/min
+
+- Pulmonary and hepatic risks if duration >10 days
+|-
+|5th intention
+|Cotrimoxazole
+|1cp x 2/d
+|7 days
+|
+|-
+|5th intention
+|Amoxicillin +
+
+clavulanic acid
+|1 g x 3/d
+|7 days
+|
+|-
+|5th intention
+|Cefixime
+|200mg x 2/d
+|7 days
+|
+|-
+|5th intention
+|Ciprofloxacin
+|500mg x 2/d
+|7 days
+|
+|-
+| colspan="5" |NB: The efficacy of these treatments is similar, with a very low risk of significant side-effects. Priorities are therefore based on tolerance, particularly digestive tolerance, and the risk of secondary resistance.
+|}
+<br />

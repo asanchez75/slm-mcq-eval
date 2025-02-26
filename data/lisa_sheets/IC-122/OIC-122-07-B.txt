@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-122-07-B
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=B
+|Title=Know the main physiotherapy techniques.
+|Description=Definition of the different types of treatment carried out by physiotherapists.
+|Rubric=Definition
+|Contributors=Claire Hentzen
+|Order=7}}
+Main physiotherapy techniques :
+
+*Massages, particularly for lymphatic drainage and deep transverse massages for tendinopathy.
+*Techniques for maintaining or restoring joint range of motion ('''[[Joint stiffness SD-056|Joint stiffness]], [[Spinal deformity SD-065|Spinal deformity]], [[Joint deformity SD-070|Joint deformity]], [[Limb trauma SD-173|Limb trauma]], [[Spinal trauma SD-175|Spinal trauma]], [[Severe trauma SD-176|Severe trauma]], [[Management of a patient in prolonged decubitus SD-276|Management of a patient in prolonged decubitus]])''''
+**Postures = maintenance in a prolonged position (which may be facilitated by the prescription of custom-made equipment (major equipment) ('''[[Setting up and monitoring an immobilisation device SD-243|Setting up and monitoring an immobilisation device]], [[Setting up and monitoring a mechanical restraint SD-244|Setting up and monitoring a mechanical restraint]])'''''
+**Passive, active aided and active joint mobilisation
+*Muscle strengthening ('''[[Limb trauma SD-173|Limb trauma]], [[Spinal trauma SD-175|Spinal trauma]], [[Management of a patient in prolonged decubitus SD-276|Management of a patient in prolonged decubitus]], [[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]], [[Muscular weakness SD-074|Muscular weakness]])''''
+*Strengthening proprioceptive sensitivity by exercise with deprivation of visual control ('''[[Appearance of difficulty in walking SD-066|Appearance of difficulty in walking]], [[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]], [[Balance disorders SD-130|Balance disorders]])'''''
+*Exercise training ('''[[Identify an exercise deconditioning situation SD-353|Identify an exercise deconditioning situation]])'''''
+*Sensorimotor techniques and control of abnormal movements ('''[[Abnormal movements SD-126|Annormal movements]]])''''
+*Respiratory drainage ('''[[Expectoration SD-163|Expectoration]], [[Dyspnoea SD-162|Dyspnoea]])''''
+*Biofeedback: reinforcement of movement awareness using a sound or visual signal.
+*Physiotherapy for pain relief or muscle stimulation: electrostimulation (''transcutaneous electrical nerve stimulation'' or TENS); ultrasound; heat and cryotherapy (cold) ; kinebalneotherapy (''''[[Urinary incontinence SD-103|Urinary incontinence]], [[Muscular weakness SD-074|Muscular weakness]], [[Assessment and management of chronic pain SD-260|Assessment and management of chronic pain]], [[Spinal pain (cervical, dorsal or lumbar) SD-072|Spinal pain (cervical, dorsal or lumbar)]])'''''

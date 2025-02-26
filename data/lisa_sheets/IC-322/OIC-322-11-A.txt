@@ -1,0 +1,122 @@
+{{knowledge objective
+|Identifiant=OIC-322-11-A
+|Item_parent=Personalised therapeutic decisions: correct use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of multidisciplinary management of treatments before an operation or anaesthesia
+|Description=Know the main drugs involved (e.g. antiplatelet agents, limiting the use of aspirin as monotherapy)
+|Rubric=Management
+|Contributors=Benoît Champigneulle,Alain Cariou
+|Order=11}}
+
+==Principles of multidisciplinary management of treatments before an operation or anaesthesia ==
+
+===''General principles'''===
+
+*There are several reasons why the period surrounding an operation or anaesthetic should be considered a "high-risk period", in particular the "risk of decompensation" of a previously stable chronic pathology, chronic drug treatments (sometimes numerous, complex and with a narrow therapeutic margin), and to a lesser extent, the risk of drug interactions with the anaesthetic drugs.
+*The decision to "modify" or "stop" certain treatments before an operation is sometimes complex and depends on a number of factors (pathology linked to the treatment, the patient's history and previous condition, the type of procedure and the type of anaesthesia envisaged). It is the responsibility of the specialist (surgeon, anaesthetist, interventionist doctor). However, all doctors should be familiar with certain principles and generalities concerning the perioperative management of chronic treatments. The peri-operative management of patients' chronic treatments and the assessment of the benefit/risk ratio concerning the continuation or suspension of certain treatments requires close collaboration between the various parties involved (article 64 of the Code of Medical Ethics). In practice, when the planned invasive procedure requires anaesthesia, the perioperative management of the patient's chronic treatments is often coordinated by the anaesthetist-intensive care physician, but may involve a number of different professionals (attending physician, surgeon, nurse, pharmacist).
+*In the case of scheduled, non-vital surgery, it is sometimes necessary to postpone the operation if it requires the interruption of a treatment which, if stopped, could expose the patient to a serious complication.
+*Resumption of the patient's previous treatment after the surgical procedure may be hindered by the consequences of the surgical procedure.
+**example: "per os" route of administration impossible in the case of post-operative paralytic ileus.
+*In the same way, it may be necessary to temporarily modify the patient's usual treatment, due to particularities linked to the galenic nature of the treatments.
+**For example, it may not be possible to administer certain delayed-release or prolonged-release forms via a gastric tube.)
+*Stopping a chronic treatment for an invasive or surgical procedure runs the risk of forgetting to restart the treatment after the procedure, potentially exposing the patient to serious complications.
+**example: failure to resume effective anticoagulation in a patient with a mechanical heart valve.
+*Inversely, the performance of an invasive or surgical procedure may provide a good opportunity to reassess the indication for a treatment and the appropriateness of continuing it after the procedure itself has been performed.
+*In <u>theory</u>, all categories of drugs are concerned, but certain therapeutic classes are associated with a higher risk.
+*In <u>current practice</u>, the main chronic treatments requiring discontinuation or consideration of their continuation when an invasive or surgical procedure is performed are antithrombotics and anticoagulants, cardiovascular system drugs, oral antidiabetics, corticosteroids, and psychotropic and antiparkinsonian drugs.
+
+===Antithrombotic treatment ====
+The decision to continue or stop antiplatelet or anticoagulant treatment during a scheduled surgical or invasive procedure must take into account the ''thrombotic'' risk (primary or secondary prevention, type of stent and time to implantation) or ''embolic'' risk (atrial fibrillation, mechanical valve, thromboembolic disease, etc.) and the ''haemorrhagic'' risk (related to the difficulty of the procedure, the risk of vascular effusion, the risk of bleeding, the risk of a stroke, etc.).) and the ''haemorrhagic'' risk (related to the difficulty of the procedure, the risk of vascular invasion, the possibility of performing a local haemostasis procedure).
+
+====''Antiplatelet agents'''====
+
+*Good practice recommendations have been drawn up by the French National Authority for Health (HAS) concerning the management of antiplatelet therapy during invasive procedures (percutaneous and endoscopic procedures) or scheduled surgery in patients with coronary artery disease.
+*These recommendations indicate that most of these procedures can be carried out under isolated antiaggregant treatment with acetylsalicylic acid (ASA). In coronary patients treated as monotherapy with clopidogrel, ASA should therefore be used if the procedure can be performed under this treatment.
+*Most invasive or surgical procedures cannot be performed under dual platelet antiaggregation (ASA + clopidogrel or ticagrelor or prasugrel). In coronary patients on dual antiaggregation therapy and presenting a major thrombotic risk (for example, patients with a bare stent for less than 4 weeks or with an active stent for less than 6 months), invasive or surgical procedures requiring the discontinuation of dual platelet antiaggregation should, if possible, be postponed until after this period, when there is a major risk of stent thrombosis. If it is not possible to postpone the invasive procedure, the period during which the second antiplatelet agent (clopidogrel, ticagrelor or prasugrel) is stopped should be as short as possible (resumption if possible the day after the procedure, possibly with a loading dose of clopidogrel).
+*Clopidogrel and ticagrelor must be stopped 5 days before the invasive procedure; prasugrel must be stopped 7 days before the procedure. When it is necessary to stop taking ASA, a period of 3 days is usually sufficient (5 days in the case of intracranial surgery).
+*Endoscopies: diagnostic digestive endoscopies (accompanied by any superficial biopsies) are possible under platelet bi-antiaggregation. Bronchial endoscopy with biopsies is possible under ASA.
+
+Table 1 provides a general summary of the thinking behind the management of antiplatelet agents during invasive procedures in patients with coronary artery disease:
+
+
+Table 1. General principles for the management of antiplatelet agents during invasive procedures in patients with coronary artery disease.
+{| class="wikitable"
+|'''Situations'''
+|
+* Bare stent < 4 weeks
+* Active stent < 6 months
+* ACS < 6 months
+|
+* Bare stent > 4 weeks
+* Active stent > 6 months
+* ACS > 6 months
+|-
+|Assessment of thrombotic risk
+|MAJOR RISK
+|LESSER RISK
+|-
+|'''Anti-aggregation strategy'''
+|'''Platelet bi-antiaggregation to be maintained'''
+|'''Anti-aggregation monotherapy possible'''
+|-
+|Invasive procedure with low to moderate risk of haemorrhage''
+|
+* Maintain current antiplatelet agents OR defer invasive procedure OR multidisciplinary discussion of stopping second antiplatelet agent (clopidogrel, prasugrel, ticagrelor).
+* ASA always maintained
+|
+* Maintenance of current antiplatelet agent
+|-
+|Invasive procedure with high bleeding risk
+|
+* Postpone invasive procedure OR multidisciplinary discussion of stopping second antiplatelet agent (clopidogrel, prasugrel, ticagrelor).
+* ASA always maintained
+|
+* If ASA monotherapy: continue
+* If clopidogrel monotherapy: substitution with ASA.
+|}
+<br />
+
+====''Oral anticoagulants'''====
+
+===== Antivitamins K =====
+
+*Invasive procedures with a low and easily controllable haemorrhagic risk (accessible to a local haemostatic procedure) may be carried out under treatment with antivitamin K (AVK), provided that the INR is between 2 and 3 and the patient has no other haemostasis disorder. These invasive procedures are as follows: skin surgery, cataract surgery, certain oral surgery procedures (including conservative care, scaling and simple dental avulsions) and certain digestive endoscopy procedures (diagnostic endoscopies).
+*Scheduled deep invasive or surgical procedures require discontinuation of VKAs. The aim is to obtain an INR < 1.5 at the time of the operation. Two situations then arise:
+**The "risk" of thrombosis or embolism is "low" (atrial fibrillation with no history of embolism, moderate-risk thromboembolic disease): VKAs are stopped pre-operatively without replacement by heparin, and resumed 24 to 48 hours after the operation. If resumption is not possible, curative-dose heparin anticoagulation is resumed.
+**The "risk" of thrombosis or embolism is "high" (patient with a mechanical valve, atrial fibrillation with a history of embolism, high-risk thromboembolic disease): VKAs are stopped 4 to 5 days before the operation and replaced by a curative dose of heparin (unfractionated heparin administered intravenously using an electric syringe, unfractionated heparin administered subcutaneously, low molecular weight heparins administered subcutaneously). Post-operatively, curative dose heparin anticoagulation is resumed after the 6th hour if the risk of haemorrhage is controlled. If the risk of bleeding does not allow effective anticoagulation to be resumed early at the 6th hour, preventive anticoagulation is started and effective anticoagulation resumed as soon as possible. VKAs are resumed as soon as possible.
+
+*Early resumption of treatment with VKAs in the postoperative period may be difficult in the event of postoperative ''''ileus''. Particular attention should be paid to possible drug interactions with treatments introduced postoperatively. The use of non-steroidal anti-inflammatory drugs for analgesic purposes after surgery is contraindicated in patients treated with VKAs.
+
+===== Direct oral anticoagulants =====
+
+*Direct oral anticoagulants (anti-IIa and anti-Xa OACs): the "perioperative management" of these new molecules is "similar to that of VKAs", with the proviso that a curative dose of heparin is not recommended in patients at high risk of thromboembolism, due to a potential increased risk of haemorrhage (except in exceptional cases). In practice:
+**For surgery or invasive procedures with a "low risk of haemorrhage" (for which VKAs have not been discontinued), whatever the AOD and its administration schedule: do not take it the evening before or the morning of the procedure. This is resumed after the operation, at least 6 hours later, according to the usual schedule (and therefore at the usual times), in the absence of haemorrhagic complications or surgical contraindications.
+**For surgery or invasive procedures with a "high bleeding risk", the AOD is stopped with a final dose taken on D-3 (xabans) or D-4 (dabigatran). In the case of a procedure with a very high bleeding risk, or moderate renal insufficiency for dabigatran, the AOD is stopped with a final dose on D-5. Post-operatively, prophylactic anticoagulation with heparin (LMWH or UFH) should be resumed at least 6 hours after the procedure. Curative anticoagulation (possibly AOD if the "per os" route is possible) is resumed as soon as haemostasis allows (generally 24 to 72 hours after the procedure).
+
+====''Other cardiovascular drugs'''====
+
+*Discontinuing cardiovascular drugs exposes patients with previously controlled cardiovascular disease to the "risk of decompensation" of heart failure or myocardial ischaemia. Treatment with beta-blockers, calcium channel blockers and statins should therefore be continued at the usual dosage and schedule.
+*For surgical procedures performed under anaesthetic, diuretic treatments are generally not administered on the morning of the operation. Antagonists of the renin-angiotensin-aldosterone system (converting enzyme inhibitors, angiotensin II receptor antagonists) are often stopped 12 to 24 hours before surgery, when prescribed for anti-hypertensive purposes. Continuing to take them increases the risk of hypotension induced by anaesthetic agents (all of which have varying degrees of inhibitory activity on the sympathetic nervous system). When antagonists of the renin-angiotensin-aldosterone system are prescribed as part of background treatment for heart failure, they should be continued because of the risk of decompensation of the underlying heart disease.
+
+====''Endocrine drugs'''====
+
+*Long-term corticosteroid therapy: the abrupt cessation of long-term corticosteroid therapy exposes the patient to the risk of acute adrenal insufficiency. The patient's usual treatment should be continued and resumed as soon as possible after an invasive procedure. In the case of minor or moderate surgical procedures, hydrocortisone replacement therapy (between 25 and 75 mg) should be administered. In the case of major surgery, hydrocortisone replacement therapy at a dose of 50 mg per 6 hours should be administered until the 48-72nd post-operative hour.
+*Oral antidiabetic agents (OADs): continued treatment with biguanides may lead to lactic acidosis during the peri-operative period.
+**Discontinuation of metformin treatment is not necessary in the case of minor surgery or invasive procedures not requiring the injection of iodinated contrast products.
+**Apart from minor surgery or when performing a procedure requiring the administration of iodinated contrast products (risk of renal insufficiency and therefore of metformin overdose), metformin is generally stopped 12 to 24 hours before the procedure and resumed postoperatively, 48 hours after the procedure, in the absence of renal insufficiency and after the patient has resumed eating.
+**The other ADO classes are continued in the case of minor surgery or invasive procedures, or stopped the day before or the morning of the operation in the case of major surgery.
+**Hypoglycaemic sulphonamides and glinides carry a risk of hypoglycaemia if continued during the pre-operative fasting period.
+**In diabetic patients, blood glucose monitoring and controlled-flow parenteral serum glucose are recommended during the peri-operative period, with recourse to a subcutaneous insulin therapy protocol in the event of hyperglycaemia.
+
+====''Neurological drugs'''====
+
+*Antiparkinsonian treatments should be continued at the usual doses and times; stopping them may lead to a withdrawal syndrome with an exacerbation of extrapyramidal signs. Post-operative replacement therapy should be considered if it is not possible to use the oral or digestive route.
+*Anti-epileptic treatments should not be interrupted before surgery, and should be resumed as soon as possible afterwards.
+
+====''Psychiatric drugs'''====
+
+*Psychiatric treatments are generally continued before surgery. Stopping them abruptly exposes the patient to the risk of decompensation of the underlying psychiatric pathology.
+*Psychotropic'' treatments (mainly antidepressants) can theoretically interact with analgesic and anaesthetic treatments used during the perioperative period, exposing the patient to the risk of anticholinergic syndrome (combination of treatment with an imipraminic antidepressant and anticholinergic drugs) and the risk of serotonin syndrome (combination of treatment with a monoamine degradation inhibitor or serotonin reuptake inhibitor antidepressant and treatments with a serotonergic action such as tramadol).
+
+<br />

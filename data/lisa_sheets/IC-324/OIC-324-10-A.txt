@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-324-10-A
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=A
+|Title=Knowing the factors that improve compliance with medication and non-medication.
+|Description=None
+|Topic=Management
+|Contributors=
+|Order=10}}
+Cf previous items

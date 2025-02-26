@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-081-08-B
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=B
+|Title=Knowing chronic macular pathologies other than AMD (epiretinal membrane, macular hole, macular oedema)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+'''Epiretinal membrane'''
+
+Under "normal" conditions, the posterior vitreous detaches from the macular region physiologically around the age of 50. In vitreomacular interface syndromes, it is the pathological adhesion of the posterior vitreous to the macular region that causes various conditions, principally epimacular membranes and macular holes. In their idiopathic form, these two conditions tend to affect the elderly. However, epimacular membranes and holes can occur in young people, particularly following trauma, retinal tears or severe endo-ocular inflammation.
+
+In the case of epiretinal membranes, the separation of the posterior vitreous from the macular region is associated with the proliferation of fibrous tissue on the surface of the macula. These membranes may remain asymptomatic or, on the contrary, retract, causing reduced vision and/or metamorphopsia. On the fundus, they take on a shiny appearance ("cellophane sheen") associated variably with distortion of the adjacent retinal tissue and vessels. The key examination is macular OCT, which confirms the diagnosis and shows the secondary increase in retinal thickness (reflecting the degree of contraction of the membrane). If there is a significant drop in visual acuity, the membrane may be surgically "peeled" by vitrectomy.
+
+
+'''Macular holes'''
+
+Less common than epimacular membranes, they correspond to a loss of continuity of the neurosensory tissue in the macular region due to separation of the foveolar margins. They usually appear rapidly or progress rapidly, with a drop in visual acuity and central scotoma. Metamorphopsia is often associated. Here again, the key examination is OCT, which confirms the diagnosis, measures the size of the hole and determines the indication for surgery (vitrectomy).
+
+
+'''Macular edema''''
+
+Macular oedema is characterised by an increase in macular thickness, associated with a generally progressive reduction in visual acuity. Metamorphopsia may be present, either insidiously if the cause is chronic, or acutely if the onset of oedema is sudden. When macular oedema is severe, it takes on the appearance of "cystoid macular oedema", giving a very typical "flower petal" image. On OCT, the intraretinal cysts are clearly distinguishable.
+
+The main causes are :
+
+*Diabetic maculopathy: macular oedema is the main cause of visual impairment in type 2 diabetics. Balancing systemic factors (arterial hypertension) can sometimes be enough to treat this oedema, but treatment with intravitreal injections of anti-VEGF or corticoids (dexamethasone) is often necessary to obtain functional and anatomical improvement;
+*occlusion of the central retinal vein (CRVO) or one of its branches in an oedematous form. Here again, anti-VEGF and/or corticoids injected into the vitreous usually improve visual function;
+*cataract surgery": occurring in around 3% of cases, a few weeks after surgery (Irvine Gass syndrome), post-operative inflammatory oedema subsides in two-thirds of cases, but in one-third of cases, i.e. 1% of eyes operated on, the condition develops into chronic macular oedema with permanent loss of visual acuity in the absence of treatment;
+*uveitis": macular oedema is one of the main causes of permanent loss of visual acuity in posterior uveitis. It can also complicate chronic anterior uveitis. Treatment of the cause of the uveitis, systemic anti-inflammatories (corticosteroids, immunosuppressants, etc.) and/or intravitreal injections (corticosteroids) in the case of non-infectious uveitis can help improve the visual prognosis.
+*Choroidal and intra-retinal neovessels: macular oedema caused by excessive permeability of the neovessels can lead to acute or rapidly progressive loss of visual acuity. This is a therapeutic emergency, and intravitreal injections of anti-VEGF are rapidly recommended in order to limit the visual sequelae caused by these neovessels. The main cause of macular neovascularisation is exudative AMD.
+
+<br />

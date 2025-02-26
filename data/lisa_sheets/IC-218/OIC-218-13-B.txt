@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-218-13-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the main non-parasitic causes of eosinophilia
+|Description=TUE7-214-2 (ECN PILLY reference table)
+|Rubric=Etiologies
+|Contributors=
+|Order=13}}
+
+
+== '''Atopy''' ==
+- moderate eosinophilia (< 1000/mm<sup>3</sup>) (above 1500/mm<sup>3</sup>, look for a cause other than atopy);
+
+- anamnesis data (history of atopy) and clinical context (asthma, spasmodic rhinitis, atopic dermatitis, urticaria);
+
+- allergological work-up sometimes useful for confirming the diagnosis: skin tests (prick tests) to allergens (pollen, house dust mites, moulds, animal dander, etc.) to demonstrate IgE-mediated sensitisation to one or more allergens.
+
+== '''Drug-related causes''' ==
+- Any blood eosinophilia ('''[[Suspicion of an adverse drug reaction or SD-348|suspicion of an adverse drug reaction]]''') should be investigated;
+
+- Potentially all drugs can be incriminated;
+
+- by frequency: beta-lactams, sulphonamides, NSAIDs, heparins, iodinated contrast products, anti-epileptics, allopurinol, antiretrovirals and neuroleptics;
+
+- eosinophilia is sometimes massive, but may be discovered by chance and be asymptomatic;
+
+- sometimes a non-severe rash ('''[[Erythema SD-085|erythema]]''') ;
+
+- sometimes severe clinical manifestations: severe drug hypersensitivity syndrome, or DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
+
+== '''Haemopathies and cancers''' ==
+- solid cancer or haemopathy to be systematically evoked in the presence of eosinophilia;
+
+- especially if there is a change in general condition ([[Asthenia SD-021|''asthenia''']], ''[[Weight loss SD-017|weight loss]]'''), clinical signs of appeal (pain, functional abnormalities, palpable mass, adenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]]]''....), or inflammatory syndrome '''([[Acute or chronic inflammatory syndrome SD-186|acute or chronic inflammatory syndrome]])''' ;
+
+- in particular Hodgkin's disease (eosinophil + ''[[Pruritus SD-088|pruritus]]]''' ;
+
+- cutaneous T lymphomas (Sézary syndrome = aggressive form of cutaneous T lymphoma characterised by the triad erythroderma, lymphadenopathy and circulating atypical lymphocytes called Sézary cells), or systemic ;
+
+- depending on the context: blood calcium levels, thoraco-abdomino-pelvic computed tomography (CT); bone marrow investigations (myelogram, bone marrow biopsy); lymph node or tissue biopsy.
+<br />
+
+== '''Systemic diseases''' ==
+- GEPA : Altered general condition ('''[[Asthenia SD-021|asthenia]], [[Weight loss SD-017|weight loss]]'''); fever '''([[Hyperthermia/fever SD-044|fever/hyperthermia]])'''; asthma usually severe; sinusitis or nasosinus polyposis ; single or multiple mononeuropathy; cardiac involvement; inflammatory syndrome, anti-neutrophil cytoplasm antibodies (ANCA) with anti-myeloperoxidase (MPO) specificity (inconstant); and pulmonary infiltrates on chest CT;
+
+- bullous dermatoses (bullous pemphigoid) ;
+
+- rheumatoid arthritis ;
+
+- adrenal insufficiency.

@@ -1,0 +1,46 @@
+{{knowledge objective
+|Identifiant=OIC-017-04-A
+|Item_parent=Telemedicine, telehealth and telehealth services
+|Item_parent_short=Telemedicine, telehealth and telehealth services
+|Rank=A
+|Title=Knowing remote communication and multi-professional cooperation
+|Description=Knowing how to communicate remotely, teaching patients to communicate remotely. Inter-professional cooperation (including telecare); communicating with users and carers; managing working time between face-to-face and remote work and patient eligibility.
+|Rubrique=Definition
+|Contributors=
+|Order=4}}
+1. Knowing how to communicate remotely
+
+*Healthcare professionals must be trained in the use of the tools available to them: it is their responsibility to choose tools capable of ensuring reliable and easy-to-use communication with the patient (refer to ANS and HAS recommendations).
+*Technical solutions are not always suited to exchanges between patients and healthcare professionals (patients with disabilities or loss of autonomy). Healthcare professionals must ensure that the resources required for the consultation to run smoothly are made available to the patient beforehand (LSF interpreter, teleconsultation subtitling system, presence of a medical auxiliary, presence of a carer, etc.).
+*Reports and medical information gathered by healthcare professionals during consultations must be transmitted in accordance with the regulatory framework.
+
+2. Teaching your patient to communicate remotely
+
+*Medical professionals may provide the patient with the necessary information beforehand so that he or she can communicate in the best possible conditions during the teleconsultation, or may request the presence of a professional or carer with the patient if this is necessary;
+*Healthcare professionals ensure that the equipment available to the patient is working properly, and that the patient understands and is able to use it;
+*Healthcare professionals stress the importance of carrying out teleconsultation in a calm and appropriate setting to enable effective, confidential and calm communication with the patient.
+*If the patient is unable to communicate, healthcare professionals can suggest the intervention of a carer or health auxiliary. They can also refer the patient to a face-to-face consultation.
+
+3. Communication with users and carers
+
+*For certain telehealth procedures, the presence of a carer may be required. Medical professionals must ensure that the carer is available prior to the consultation.
+*Healthcare professionals are bound by the rules of confidentiality and medical secrecy: they must ensure that their patients consent to the presence of a carer during a teleconsultation.
+
+4. Managing your working time, both face-to-face and remotely
+
+*It is important for professionals to anticipate the question of how to organise their working time between face-to-face and remote work: setting up dedicated time for remote care.
+*For example, amendment 9 to the medical agreement stipulates that a medical professional may not devote more than 20% of his or her total activity covered by the health insurance scheme to remote practice. They need to calibrate this allocation according to the real needs of their patients, and the added value provided by remote care.
+*Telehealth procedures require time to prepare beforehand and to conclude afterwards, which healthcare professionals need to anticipate.
+
+5. Patient eligibility
+
+* Not all patients and not all types of pathology are compatible with remote management. It is up to healthcare professionals to ensure that: patients have given their consent and are able to carry out their consultation remotely; the consultation is compatible with remote practice. To this end, healthcare professionals can refer to the recommendations of the French National Authority for Health.
+
+6. Integrating telemedicine into daily practice
+
+* Telemedicine is a medical practice like any other, adding to the range of medical and nursing practices already on offer. From the time it was first experimented with to the time it became standard practice for all healthcare professionals, telehealth is undergoing a process of continuous development.
+
+7. Inter-professional cooperation
+
+* In many cases, telehealth is based on cooperation between professionals. This requires coordination between those involved in patient care. There are many different types of cooperation: city-hospital, medical professionals-medical auxiliaries, general practitioners-specialist physicians.
+* Example: following a consultation or teleconsultation, a medical professional remotely seeks the advice of one or more colleagues. The latter analyse the data received and send their conclusions to the professional, who adapts and completes the patient's medical file.

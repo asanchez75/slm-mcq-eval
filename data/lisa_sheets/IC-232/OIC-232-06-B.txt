@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-232-06-B
+|Item_parent=Atrial fibrillation
+|Item_parent_short=Atrial fibrillation
+|Rank=B
+|Title=Knowing the clinical presentation
+|Description="P" classification
+|Rubric=Positive diagnosis
+|Contributors=Jean-Baptiste GUICHARD
+|Order=6}}
+The usual classification of AF is based on the chronological presentation of the disease. It can be divided into 4 groups:
+
+* first episode of AF
+* aroxystic AF: return to ''spontaneous'' sinus rhythm, i.e. without electrical or pharmacological cardioversion, in ''less than 7 days''.
+* P''''ersistent AF: return to sinus rhythm, with or without therapeutic action, '''beyond 7 days'''.
+* Permanent AF : AF for which the aim of the therapeutic strategy is '''not to return to sinus rhythm''.
+
+[[File:4 P's Rule.png|centered|thumbnail]]
+<br />

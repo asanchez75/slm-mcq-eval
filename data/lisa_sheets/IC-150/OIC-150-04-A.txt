@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-150-04-A
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=A
+|Title=Know how to diagnose AOM (diagnostic approach, clinical examination including otoscopy)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+
+*Otalgia'' with paroxysms, ''fever'', +/- otorrhea, sometimes not very symptomatic
+
+*Appearance of the eardrum:
+**congestive stage: bright pinkish-red eardrum; preservation of the relief of the malleus (no retro-tympanic effusion)
+**suppurated stage:
+***closed eardrum: purplish-red, bulging eardrum; disappearance of malleus relief; or yellowish (collection of retro-tympanic pus)
+***open eardrum (perforated): punctiform perforation, throbbing purulent otorrhoea
+**check contralateral tympanum
+
+*Clinical forms:
+** infant: bilateral, altered general condition; sometimes hyperthermia, weight loss, hypothrepsia, gastroenteritis.
+** adult: rarer, sometimes torpid and asthenic in elderly/diabetic patients
+** phlyctenular: very painful, otorrhagia, haemorrhagic tympanic phlycthenes; retrotympanic effusion
+** barotraumatic: serous or serohaemorrhagic effusion - diving accident with tubal dyspermeability; severe otalgia, blocked ear sensation, congestive otitis.

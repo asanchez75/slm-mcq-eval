@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-192-03-A
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Intitle=Cite examples of organ-specific and systemic AIDs
+|Description=List the main organ-specific and systemic autoimmune diseases.
+|Section=Definition
+|Contributors=Amélie Servettaz
+|Order=3}}
+
+Main IAMs
+{| class="wikitable"
+|+
+! organ-specific autoimmune diseases
+Systemic or non-organ-specific autoimmune diseases
+|-
+|
+
+
+- Type 1 diabetes
+
+- Autoimmune thyroiditis
+
+- Autoimmune hepatopathies
+
+- Multiple sclerosis
+
+- Myasthenia
+
+- Autoimmune bullous diseases
+
+- Vitiligo
+
+- Autoimmune uveitis
+
+- Autoimmune retinitis
+
+- Autoimmune cytopenias
+<br />
+|- Systemic lupus erythematosus
+
+- Gougerot-Sjögren's syndrome
+
+- Rheumatoid arthritis
+
+- Systemic scleroderma
+
+- Autoimmune myopathies
+
+- Mixed connectivity
+
+- Primary vasculitis
+
+- Atrophic polychondritis
+<br />Atrophic polychondritis
+|}

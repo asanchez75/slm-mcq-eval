@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-271-01-B
+|Item_parent=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Item_parent_short=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Rank=B
+|Title=Knowing the prevalence and risk factors of gastro-oesophageal reflux disease (GERD)
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=1}}
+Gastro-oesophageal reflux disease (GERD) is common and overwhelmingly benign: 10% of the general population report one episode of pyrosis per week, and 2 to 5% daily.
+
+Obesity is the main risk factor for GERD. Other risk factors include hiatal hernia, pregnancy, alcohol, certain bariatric surgeries and certain medications (e.g. nitrates).

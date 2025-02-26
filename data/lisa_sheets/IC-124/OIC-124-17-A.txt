@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-124-17-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Know the positive clinical and/or biological elements that allow the diagnosis of andropause to be made.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Benjamin Pradere
+|Order=17}}
+
+==From a clinical point of view on examination (Figure 2)==
+
+*The ADAM (androgen deficiency in aging male) Score should be used to assess symptoms as part of the diagnosis of TDS.
+
+*TDS leads to :
+**Sexuality disorders: [[Erectile dysfunction|erectile dysfunction 126]], [[Normal sexuality and its disorders|lower libido see quality of orgasms 58]]
+**Neuropsychological disorders: loss of memory and attention, even mood disorders, irritability, sleep disorders.
+**vasomotor disorders: hypersudation, hot flushes, etc.
+
+<br />
+[[File:Figure2.png|neant|thumb|Figure 2]]<br />
+==From a clinical point of view on physical examination (Figure 3):==
+
+*Look for (Figure 3):
+**Obesity, metabolic syndrome and increased visceral fat.
+**Decreased hair growth with skin atrophy and the appearance of painless gynaecomastia.
+**Signs in favour of sarcopenia: muscle wasting, reduced muscle strength
+**Signs of reduced bone mineral density: recent fracture, loss of height, etc.
+
+<br />
+[[File:Figure3.png|neant|thumb|Figure3]]
+<br />
+==Biologically speaking:==
+
+*Biochemical deficiency'' is defined by a test of total and bioavailable testosterone in the morning (8am-11am) which shows :
+**total testosterone < 2.3 ng/ml (8 nmol/l) '''OR''' total testosterone between 2.3 and 3.5 ng/ml (8-12 nmol/l) '''AND''''
+***bioavailable testosterone < 0.7 ng/ml
+***calculated free testosterone: < 0.07 ng/ml'''
+**In the second instance, confirmation of hypotestosteronemia is recommended with a bioavailable testosterone assay 2-4 weeks after the first assay. Total testosterone, SHBG, albumin, FSH/LH and Prolactin will also be requested as part of the complete TDS work-up (second intention).

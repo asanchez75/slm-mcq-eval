@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-190-01-A
+|Item_parent=Prolonged fever
+|Item_parent_short=Prolonged fever
+|Rank=A
+|Title=Know the definition of "classic" prolonged fever
+|Description=≥38°C on several occasions, ≥3 weeks, without diag after appropriate investigations (3 days in hospital or 3 cs)
+|Section=Definition
+|Contributors=
+|Order=1}}
+Definition of "classic" prolonged fever '''([[Hyperthermia/fever SD-044|hyperthermia/fever]])'''''
+
+* Occurrence in a subject with no particular medical condition (non-immunocompromised, not hospitalised)
+* Temperature (taken at rest) ≥ 38.3°C on several occasions,
+* For ≥ 3 weeks,
+* No cause identified after appropriate investigations carried out during three days in hospital or after three consultations. There is no pre-established, definitive list of these investigations, which vary according to the clinical context of each patient.
+
+
+Note: there is no pre-established, definitive list of appropriate investigations (which vary depending on the patient) before making the diagnosis of prolonged fever.

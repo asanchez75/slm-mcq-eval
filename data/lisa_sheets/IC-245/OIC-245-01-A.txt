@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-245-01-A
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=A
+|Title=Knowing the definition of adrenal insufficiency in children and adults
+|Description=None
+|Rubric=Definition
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=1}}
+
+'''Definition:''' a disease resulting from a deficit in the production of cortisol by the adrenal glands, which may be associated with a deficit in the production of aldosterone and adrenal androgen.
+
+*Slow adrenal insufficiency results from chronic hormone(s) deficiency.
+*Acute adrenal insufficiency results from acute hormone(s) deficiency.
+
+
+'''Two types of adrenal insufficiency:'''
+
+*Primary or peripheral adrenal insufficiency (involvement of both adrenal glands):
+**or Addison's disease
+**Adrenal cortisol deficiency associated with aldosterone and adrenal androgen deficiency.
+**
+*Corticotropic or central adrenal insufficiency (pituitary involvement):
+**Deficient production of pituitary ACTH leading to a failure to stimulate adrenal cortisol production.

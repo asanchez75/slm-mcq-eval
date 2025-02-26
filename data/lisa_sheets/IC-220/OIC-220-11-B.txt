@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-220-11-B
+|Item_parent=Superficial adenopathy in adults and children
+|Item_parent_short=Superficial adenopathy in adults and children
+|Rank=B
+|Title=Know the imaging tests (radiological and nuclear medicine) to be carried out in the presence of adenopathy, depending on the clinical context and first-line tests.
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=11}}
+'''Depending on the context''', the following investigations may be discussed:
+
+- Ultrasound of lymph nodes: if there is any doubt about the diagnosis of adenopathy
+
+- Abdominal ultrasound: to look for deep abdominal adenopathy, hepatomegaly or splenomegaly in cases of clinical difficulty (obesity), and to look for solid tumours.
+
+- Chest X-ray: to look for damage to the lung parenchyma and mediastinal adenopathy (infection? tuberculosis? cancer?)
+
+- CT scan centred on the drainage area of the adenopathy'' in the case of isolated adenopathy (to look for a deep local tumour or infection). If there is a left supra-clavicular lymph node, an abdominal and pelvic examination should be carried out.
+
+- ''Cervical and thoraco-abdomino-pelvic CT scan with injection'' : in lymphoma extension work-up looking for other adenopathies - solid cancer extension work-up according to histology
+
+- '''Positron emission tomography (PET) 18-FDG scan''' : extension assessment of a lymphoma or solid tumour according to histological type

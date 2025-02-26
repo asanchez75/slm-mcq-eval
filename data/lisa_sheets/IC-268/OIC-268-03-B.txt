@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-268-03-B
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=B
+|Title=Knowing the main mechanisms of hypercalcaemia
+|Description=Know the role of parathormone and vitamin D, know the mechanisms of regulation of calcaemia at the bone, digestive and renal levels.
+|Rubric=Physiopathology
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=3}}
+
+. Hypercalcaemia occurs when the inflow of calcium into the circulation (digestive absorption and outflow of calcium from the bone) exceeds the outflow from the urine and the inflow of calcium into the bone.
+
+. Hypercalcaemia may be related to
+
+*bone loss of calcium through excessive resorption
+*increased digestive calcium intake
+*reduced renal calcium output
+
+. Some causes of hypercalcaemia combine several mechanisms (e.g. bone and digestive hypercalcaemia in primary hyperparathyroidism).
+
+. The main hormone regulating blood calcium levels is parathyroid hormone (PTH). Its synthesis is stimulated in hypocalcaemia and inhibited in hypercalcaemia via the sensitive calcium receptor (CaSR).
+
+. Active vitamin D (1,25(OH)-vitamin D3 or calcitriol) is produced by the kidney (which expresses the enzyme 1-alpha hydroxylase) under the control of PTH. Its main effects are :
+
+*modulate the digestive absorption of calcium
+*promote bone mineralisation
+
+. The combined action of PTH and calcitriol maintains ionised blood calcium at its regulated value (1.15 to 1.30 mmol/L).
+
+. CaSR is present :
+
+*on parathyroid cells
+*on renal tubular cells, directly increasing calciuria in the event of hypercalcaemia
+
+<br />

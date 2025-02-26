@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-004-28-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Haute Autorité de Santé, missions in quality and safety of care
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=28}}
+The HAS's missions can be broken down into three areas:
+
+
+'''Assessment:'''
+
+- Medicines
+
+- Medical devices
+
+- Professional acts
+
+
+'''Recommendations:'''
+
+- Good practice
+
+- Public health
+
+- Vaccines
+
+- Care pathways and relevance
+
+- Patient safety tools and programmes
+
+
+'''Measurement/evaluation and support for improvement:''''
+
+- Certification of public and private health establishments
+
+- Accreditation of doctors and medical teams (risk specialities)
+
+- Certification of prescription assistance software
+
+- Evaluation of social and medico-social establishments and services
+
+- Care quality and safety indicators
+
+- Informing users about the quality of care provided.
+
+<br />

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-210-03-B
+|Item_parent=Diffuse interstitial lung disease
+|Item_parent_short=Diffuse interstitial lung disease
+|Rank=B
+|Intitle=Hypersensitivity pneumonitis: how it is diagnosed
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+Hypersensitivity pneumonitis (HPP) is a disease caused by the acute or chronic inhalation of antigens, which may be microbes, proteins, chemicals or metals. The classic historical forms are represented by "bird-farmer's lung", mainly linked to exposure to droppings, and "farmer's lung", mainly linked to exposure to mouldy hay.
+
+It is therefore essential to investigate exposure to organic or inorganic dusts on questioning. Exposure may be occupational, in which case a claim for occupational disease may be made, or domestic (pet bird, mould in the home, etc.).
+
+This exposure can be confirmed by the positivity of serum precipitins (IgG) directed against the inhaled antigen. This is simply a confirmation of exposure, but the certainty of PHS.
+
+The clinical presentation is aspecific. However, the presence of "squeaks" on auscultation confirms bronchiolar involvement and may help in the diagnosis of PHS.
+
+In a suggestive context, thoracic imaging, especially CT scans, can lead to a suspected diagnosis of PHS. There are two distinct forms:
+
+* A non-fibrosing form characterised by the presence/association on chest CT of ground-glass opacity, mosaic attenuation, centrilobular micronodules and air trapping, with these lesions predominating in the upper parts of the lung; and
+* A fibrosing form characterised by pulmonary fibrosis that is not predominant in the bases, associated with centrilobular micronodules, mosaic attenuation, a 3-density appearance or air trapping.
+
+Frank hyperlymphocytosis on BAL is also an element of orientation.
+
+Lung biopsy is sometimes necessary to differentiate chronic fibrosing PHS from other forms of fibrosing IPD (IPF, NIPS, etc.).

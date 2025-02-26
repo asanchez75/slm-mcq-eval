@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-075-19-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Title=Knowing how to detect tobacco use
+|Description=Knowing the question to ask and assessing consumption and objectives (stopping)
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=19}}
+All patients should have their tobacco consumption assessed and monitored.
+
+* Simple screening: "Do you smoke?" followed by a decision algorithm until you stop.
+* Smoking assessment: ''Packs-Year (PA) = number of packs/day x number of years of intoxication''.

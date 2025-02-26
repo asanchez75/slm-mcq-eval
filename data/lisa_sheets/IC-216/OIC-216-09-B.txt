@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-216-09-B
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=B
+|Title=Identifying DIC and the most common aetiologies
+|Description=including severe sepsis, acute leukaemia
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+DIC is the result of pathological and diffuse activation of coagulation. There are many causes: medical (severe infections, cancers, leukaemia (AML3), intravascular haemolysis?); obstetric (retroplacental haematoma, amniotic embolism, pregnancy toxaemia, eclampsia, foetal death in utero, hydatidiform mole, placenta previa); surgical and traumatic (lung surgery, cardiac surgery with extracorporeal circulation, prostate surgery, polytrauma and extensive burns); other causes (snake bites, fat embolism, vascular malformations).
+
+Acute DIC can lead to haemorrhagic and/or thrombotic events.
+
+The most characteristic and earliest abnormalities are thrombocytopenia and a fall in fibrinogen levels. Prolongation of the aPTT and prothrombin time is variable, often moderate or even absent at the start. The variable reduction in factors affects FV more severely than FII, VII and X. Variable secondary hyperfibrinolysis results in an increase in PDF and D-dimer and a shortening of the euglobulin lysis time (von Kaulla test) to less than 3 hours, although this test is less frequently performed in practice.
+
+The use of a score based on simple tests (platelets, fibrinogen, prothrombin time in seconds and D-dimer or PDF levels), which may be repeated, can be useful in diagnosing DIC.

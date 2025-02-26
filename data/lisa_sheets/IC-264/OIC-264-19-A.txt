@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-264-19-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing the characteristics of disorders of phospho-calcium metabolism
+|Description=Secondary hyperparathyroidism, hypocalcaemia, vitamin D deficiency, hyperphosphataemia, metabolic acidosis; osteodystrophy is a combination of osteomalacia and fibrous osteitis.
+|Rubric=Follow-up and/or prognosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=19}}
+
+In CKD, disorders of phosphocalcic and bone metabolism are characterised by :
+
+*a [[Dyscalcaemia SD-200|hypocalcaemia]] ;
+*hyperphosphataemia, linked to reduced renal excretion of phosphates;
+*Active vitamin D deficiency secondary to reduced renal 1-α hydroxylase activity;
+*early secondary hyperparathyroidism, characterised by an increase in parathyroid hormone.
+
+'''Two major types of bone lesions may be associated to varying degrees:''''
+
+*osteomalacia (reduced bone formation) secondary to vitamin D deficiency:
+
+#Rare clinical sign,
+#radiological signs: demineralisation, late Looser-Milkman striae,
+#biological signs: decrease in the concentration of 1,25 (OH)2- vitamin D3, which is not measured in practice. Only native vitamin D deficiency assessed by measuring 25 OH vitamin D3 should be corrected;
+
+*fibrous osteitis (accelerated bone destruction) secondary to hyperparathyroidism:
+
+#Clinical signs: bone pain, late pathological fractures,
+#radiological signs: resorption of bone ends (phalanges and clavicles), gaps in finger phalanges, demineralisation,
+#Biological signs: increased parathormone concentration.
+
+'''Prevention and treatment of phosphocalcic disorders before stage 5:'''
+
+Early prevention requires :
+
+*Natural vitamin D3 supplementation in cases of documented deficiency,
+*Calcium intake (between 1 and 2.5 g/day of elemental calcium),
+*Restriction of dietary phosphorus intake, thanks to specialised management.
+
+The treatment objectives are :
+
+*normal blood calcium levels,
+*phosphate levels below 1.5 mmol/L,
+*sub-normal PTH before dialysis.

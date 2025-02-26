@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-170-12-A
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=A
+|Title=Knowing the principles of drug protection
+|Description=Molecules available and their use, sources of information
+|Heading=Management
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=12}}
+
+====[[Travel advice SD-302|General principles of malaria prevention]]====
+Detailed procedures can be found in BEH, No. HORS-série Health recommendations for travellers, published annually in May/June.
+
+https://www.santepubliquefrance.fr/revues/beh/bulletin-epidemiologique-hebdomadaire<gallery perrow="1">
+File:Preventionpalu.png|General principles of malaria prevention
+</gallery>
+
+====[[Travel advice SD-302|Antimalarial chemoprophylaxis]]====
+{| class="wikitable"
+|
+|'''Doxycycline''''
+|'''Atovaquone-proguanil''''
+|'''Mefloquine''''
+|-
+|How to take it
+|<Daily</nowiki>.
+
+- From the day of departure to 4 weeks after return
+|<Daily</nowiki>.
+
+- From the day of departure to 1 week after return
+|<Weekly</nowiki>.
+
+- From 10 days before to 3 weeks after your stay
+|-
+|'''Main adverse effects''''
+|<Phototoxicity</nowiki>.
+|<nowiki>- Digestive disorders</nowiki>
+|<nowiki>- Neuropsychological disorders</nowiki>
+|-
+|'''Main contraindications'''
+|<nowiki>- Pregnancy and breast-feeding</nowiki>
+
+- Children under 8
+|
+|<Psychiatric history </nowiki>.
+|}
+<br />

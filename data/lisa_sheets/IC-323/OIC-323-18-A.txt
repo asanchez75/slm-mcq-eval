@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-323-18-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the definition of clinical relevance
+|Description=Clinical relevance, knowing what it is based on (relevance of the question asked, appropriateness of the type of study to the question asked, choice of comparator, choice of primary endpoint), duration of follow-up. Know how to discuss it
+|Rubric=Definition
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES),Nathanaël Lapidus (CIMES),Agnès Dechartres (CUESP)
+|Order=18}}
+
+'''Clinical relevance:''' Is the outcome of the study clinically relevant? Will the results be of benefit to the target population if they are taken into account or applied in clinical practice?
+
+'''Consequences''':
+
+*in clinical practice: results justifying a change in practice
+*in public health: for example, a change in healthcare provision
+
+Clinical relevance analysis
+
+- Objective: relevance of the question asked
+
+- Methods :
+
+*The sample of subjects included in the study must be representative of the target population, so that the results can be extrapolated (notion of external validity).
+*Judgement criteria relevant to the clinical objective: clinical criteria (survival, morbi-mortality) should be preferred to surrogate criteria (paraclinical parameters).
+*Choice of comparator in an experimental study (a placebo-controlled trial when there is a reference treatment will compromise clinical relevance).
+*Relevant duration of follow-up
+
+- Results :
+
+*The effect measured is sufficiently large (effect size) and estimated with sufficient precision to be of interest in current clinical practice.
+*A statistically significant difference with the comparator does not necessarily imply clinical relevance.
+*Severity and frequency of adverse effects of the intervention in an experimental study (a highly effective treatment with frequent and/or severe adverse effects may be considered clinically irrelevant).

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-312-07-B
+|Item_parent=Breast tumours
+|Item_parent_short=Breast tumours
+|Rank=B
+|Title=Photographs of breast skin lesions/anomalies
+|Description=Bloody/lactescent discharge, flat spot, inflamed breast
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+
+[[File:SLIDE 2.jpg|vignette|Mammary asymmetry, left breast inflamed and edematous, orange peel appearance]]
+[[File:Slide 3.jpg|vignette|Mammary retraction ("axe-like") opposite the 3 o'clock radius of the left breast]]

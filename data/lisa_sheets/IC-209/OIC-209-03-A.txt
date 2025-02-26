@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-209-03-A
+|Item_parent=Chronic obstructive pulmonary disease in adults
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Knowing the elements of positive diagnosis and differential diagnosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The diagnosis of COPD is based on
+
+*clinical presentation (risk factors, symptoms and physical signs - [[Discovery of abnormalities on pulmonary auscultation SDD-020|discovery of abnormalities on pulmonary auscultation]])
+
+'''ET'''
+
+*confirmed by spirometry with reversibility test (obstructive ventilatory disorder: FEV1/FVC ratio < 0.7 persisting after administration of bronchodilators), [[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]].
+
+Differential diagnosis :
+
+*Asthma: often younger subjects, greater variability of symptoms, allergic background, signs of involvement of other organs (ENT, eye), reversible obstructive ventilatory disorder after administration of bronchodilators (gain of 200mL or more ''and'' of 12% or more compared with the initial value of FEV1 after bronchodilators).
+*Dilatation of the bronchi: bronchorrhoea often in the foreground, diagnosed by thoracic CT scan.

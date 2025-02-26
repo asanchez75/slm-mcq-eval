@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-040-06-A
+|Item_parent=Pelvic pain in women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Aware of surgical emergencies for acute pelvic pain
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Virginie Grouthier,Pierre-Emmanuel Bouet
+|Order=6}}
+In the vast majority of cases, acute pelvic pain requires emergency surgical management. Whether for ''[[Symptomatic ectopic pregnancy|ectopic pregnancy]]''', ''[[haemorrhagic cyst rupture with haemoperitoneum]]'', ''[[adnexal torsion]]'' or ''[[Sexually transmitted infections (STI): gonococci, chlamydiosis, syphilis, human papillomavirus (HPV), trichomoniasis|complicated upper genital infection with abscess]]'', laparoscopic surgery must be performed urgently to reduce mortality and morbidity and safeguard the prognosis for fertility. 
+
+In certain cases of asymptomatic ectopic pregnancy, medical treatment with an intramuscular injection of methotrexate may be considered, with the patient's full cooperation and regular monitoring until β-hCG levels are negative. An uncomplicated upper genital infection (no abscess, no pyosalpinx) will be treated with antibiotic therapy without the need for surgery.

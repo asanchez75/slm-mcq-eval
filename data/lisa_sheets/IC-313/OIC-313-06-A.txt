@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-313-06-A
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=A
+|Title=To know the modalities of the clinical examination of the testicular tumour
+|Description=Know how to look for local clinical signs suggestive of a malignant tumour lesion and carry out a general examination in search of metastatic extension.
+|Rubric=Positive diagnosis
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=6}}
+
+==A/ Testicular examination:==
+
+*Bilateral and comparative
+*Description of the mass and characteristics often found:
+**Progressive enlargement
+**Circumscribed
+**stony hardness
+**Irregular
+**Not painful but tender, with loss of normal testicular sensitivity
+**Preservation of the epididymo-testicular groove (Chevassu's sign)
+
+==B/ Examination of lymph nodes (knowing the routes of dissemination ''cf. Etiology:'' abdomen, and inguinal if scrotal approach)==
+
+==C/ Abdominal palpation
+
+==D/ Search for a [[2C-246|gynecomastia 246]]==

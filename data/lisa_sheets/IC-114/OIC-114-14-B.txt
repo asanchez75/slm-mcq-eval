@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-114-14-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Know the two main causes of scarlatiniform exanthema
+|Description=scarlatina, Kawasaki syndrome
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+The two main causes of scarlatiniform exanthema are:
+
+- Scarlet fever (streptococcal +++)
+
+- Kawasaki syndrome
+
+In children under 5, staphylococcal epidermolysis is also a classic cause of scarlatiniform exanthema.

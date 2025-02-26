@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-021-01-A
+|Item_parent=Measurement of population health status
+|Item_parent_short=Measurement of population health status
+|Rank=A
+|Intitle=Know the definition of health and demographic indicators, life expectancy, health expectancy
+|Description=Definition, objective/types/limits and achievements
+|Rubric=Definition
+|Contributors=Loïc Josseran
+|Order=1}}
+
+<Definition: an indicator is used to assess the health of a population. Indicators are quantitative variables that measure different aspects of a population's state of health.
+
+A health indicator must have the following properties:
+
+- validity'': ability to measure the predicted state of health correctly;
+
+- sensitivity to change'': ability to report variations in health status;
+
+- reliability'' (or ''reproducibility''): the ability to produce identical results in identical situations (inter-regional or international comparisons).
+
+
+Objectives: to adapt the health and social organisation of a defined area and meet the needs of the population. The indicators must enable :
+
+- describe, quantify and monitor the state of health of the population;
+
+- to "compare" this state of health (in time or space);
+
+- evaluate the impact of public health policies and initiatives.
+
+
+Types: a distinction must be made between socio''demographic'' indicators, describing population trends (life expectancy and its various variations, birth rate and fertility indicators, age structures), and ''epidemiological'' indicators (mortality, morbidity).
+
+
+Limitations: A single health indicator cannot sum up a health situation in its entirety. It is therefore necessary to have "several" indicators and to interpret them together.
+
+Mortality indicators (describing the causes of death) provide little information on non-lethal pathologies and on the social, economic or quality of life impact of chronic pathologies.
+
+In addition, the weight of deaths in the elderly population makes the overall mortality rate of little use in accounting for mortality in the younger population.
+
+On the other hand, morbidity indicators only partially reflect the impact of diseases, particularly their functional repercussions (incapacity, disability) or in terms of quality of life.
+
+
+Life expectancy at birth (or age 0) represents the average lifespan of a fictitious generation subject to the mortality conditions of the year of birth. It is calculated separately for men and women. The differences observed reflect a difference in longevity between the two sexes.
+
+Health expectations
+
+Given the trend in life expectancy, it is important to consider the "state of health" of the population at extreme ages.
+
+That's why, in addition to these purely quantitative indicators, there is a version of life expectancy that includes a "qualitative approach: health expectancy".
+
+This is a family of indicators corresponding to the number of years that people can expect to live in a given state of health, given their current living conditions. There are as many health expectancy indicators as there are measures of health (illness, disability, perceived health, etc.).
+
+They can be calculated according to gender and at different ages in life. Calculated on a regular basis, health expectancies make it possible to estimate changes in a population's state of health as life expectancy increases. They indicate whether the years of life gained are years of life in good or poor health.

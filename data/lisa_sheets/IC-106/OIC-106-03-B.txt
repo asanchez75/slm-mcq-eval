@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-106-03-B
+|Item_parent=Parkinson's disease
+|Item_parent_short=Parkinson's disease
+|Rank=B
+|Title=Knowing the pathophysiological process of Parkinson's disease
+|Description=Description of the degenerative process, the Lewy body
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=3}}
+
+
+*Progressive loss of dopaminergic neurons in the [[extrapyramidal motor circuit|nigro-striatal pathway]].
+*Loss of 50 to 60% of the neurons necessary before the onset of the motor signs of the Parkinsonian triad.
+*The neurodegenerative process goes beyond the [[extrapyramidal motor circuit|nigro-striatal pathway]], explaining the occurrence of other motor signs (e.g. axial signs) and non-motor signs (e.g. cognitive disorders ([[Memory disorders/cognitive decline SD-131|memory disorders/cognitive decline]]) resistant to dopaminergic treatment.
+*Presence of Lewy bodies (intraneuronal inclusions containing abnormal aggregates of alpha-synuclein) (Lewy bodies are indicated in the photo below with black arrows).
+*Etiology unknown, but several genetic and environmental (pesticides) factors ([[Voluntary or involuntary intake of a toxic or potentially toxic drug SD-340|voluntary or involuntary intake of a toxic or potentially toxic drug]]) have been identified.
+
+[[File:Parkinson .jpg|vignette|285x285px|Presence of Lewy bodies (intraneuronal inclusions containing abnormal aggregates of alpha-synuclein) (Lewy bodies are indicated by black arrows)]]
+<br />

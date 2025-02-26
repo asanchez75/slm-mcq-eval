@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-185-04-A
+|Item_parent=Inflammatory reaction: biological and clinical aspects. What to do
+|Item_parent_short=Inflammatory reaction: biological and clinical aspects. What to do
+|Rank=A
+|Title=Knowing the main biological markers of an inflammatory syndrome
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Gilles Kaplanski
+|Order=4}}
+
+The main biological markers of an inflammatory syndrome are
+
+* Proteins from the acute phase of inflammation, whose synthesis and serum levels increase:
+
+           C-reactive protein
+
+           -Fibrinogen
+
+           -Serum Amyloid A
+
+           -Orosomucoid
+
+           -Haptoglobin, ceruleoplasmin
+
+           -Alpha 1 anti-trypsin, alpha 1 chymotrypsin
+
+-Alpha 2 macroglobulin
+
+           - C3 and C4 fractions of the complement
+
+           -Ferritin
+
+* Hepatic proteins whose synthesis is decreasing:
+
+           -Albumin
+
+           -Transferrin
+
+* Other proteins of non-hepatic origin have an increased synthesis:
+
+-Procalcitonin: fairly specific for inflammatory syndromes, mainly of bacterial infectious origin, useful for the diagnosis/prognosis of sepsis.

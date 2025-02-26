@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-157-15-B
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=B
+|Title=Knowing how to control the source of infection
+|Description=Know how to seek surgical or radiointerventional advice to discuss the possible removal of an infectious source.
+|Rubric=Management
+|Contributors=
+|Order=15}}
+Surgical or radio-interventional control of the infectious source is essential in the following situations:
+
+- Abdominal emergencies: peritoneal lavage (peritonitis), drainage of bile ducts (angiocholitis)
+
+- Acute blocked pyelonephritis: urine diversion
+
+- Endocarditis complicated by cardiogenic shock (valvular decay) or perivalvular abscess
+
+- Arthritis with sepsis/septic shock or persistent bacteremia (joint lavage)
+
+- Flattening or radiological drainage of an abscess
+
+- Necrotizing fasciitis

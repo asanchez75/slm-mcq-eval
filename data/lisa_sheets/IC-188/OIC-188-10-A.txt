@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-188-10-A
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=A
+|Title=Knowing the signs of severity of an asthma exacerbation in children and adults.
+|Description=Know how to look for signs that could be life-threatening in the short term (disturbed consciousness, respiratory arrest, collapse, auscultatory silence, respiratory rate >30, signs of struggle) (item 359). Know when to call the resuscitator
+|Rubric=Emergency identification
+|Contributors=
+|Order=10}}
+[[Acute respiratory distress SD-160|Acute respiratory distress]]
+
+'''Signs of struggle'''
+
+o Speaks in short sentences or interrupted by inspiration
+
+o Prefers sitting to lying down
+
+o Increase in RF > 25/min
+
+o HR > 100/min
+
+o SpO2 < 95% in AA
+
+o Peak Expiratory Flow (PEF) ≤ 50% of the best value (or theoretical if unknown)
+
+'''Signs of failure'''
+
+o Speak in words
+
+o Sitting bent over
+
+o Agitated
+
+o RF > 30/min
+
+o Use of accessory respiratory muscles
+
+o HR > 120/min
+
+o SpO2 < 90% in air
+
+o PEF ≤ 50% of the best value (or theoretical if unknown) or impossible to achieve
+
+o auscultatory silence
+
+o paradoxical breathing
+
+o consciousness disorders, bradycardia, collapse

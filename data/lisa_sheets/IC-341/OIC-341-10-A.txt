@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-341-10-A
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=A
+|Title=Know initial symptomatic treatment
+|Description=Know how to prevent complications with neuro-sensory isolation in bed, IV analgesia, blood pressure control, and call for a resuscitator.
+|Rubric=Management
+|Contributors=
+|Order=10}}
+
+[[File:Figure 2. Initial symptomatic treatment of subarachnoid haemorrhage.jpg|vignette|Figure 2. Initial symptomatic treatment of subarachnoid haemorrhage]]
+The initial symptomatic treatment of SAH is shown in figure 2.

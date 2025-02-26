@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-041-01-A
+|Item_parent=Endometriosis
+|Item_parent_short=Endometriosis
+|Rank=A
+|Title=Knowing the definition of dysmenorrhoea, endometriosis and adenomyosis
+|Description=Know how to distinguish between primary and secondary dysmenorrhoea
+|Rubric=Definition
+|Contributors=Lorraine MAITROT-MANTELET,Stéphanie HUBERLANT,Geneviève PLU-BUREAU
+|Order=1}}
+
+
+==Endometriosis==
+Endometriosis is a benign, frequent and heterogeneous gynaecological pathology characterised by the presence of glands or endometrial stroma in an ectopic position, i.e. outside the uterine cavity.
+
+From an anatomical point of view, lesions are classified into three categories which may co-exist:
+
+- '''''Superficial peritoneal endometriosis''''' which corresponds to the presence of implants located on the surface of the peritoneum;
+
+'''''- The endometrioma''''' corresponds to the ovarian location of endometriosis, resulting in the presence of an endometriotic ovarian cyst;
+
+'''''- Deep pelvic endometriosis''''' (or subperitoneal endometriosis) corresponding to lesions which infiltrate more than 5 mm below the surface of the peritoneum.  This definition concerns situations where the lesions affect the muscularis propria of the abdomino-pelvic organs, which may involve the anterior compartment (bladder, ureters) or posterior compartment (torus, utero-sacral ligaments, posterior vaginal cul de sac, anterior wall of the rectum and/or sigmoid). Deep endometriosis lesions are often multifocal.
+
+Other, rarer locations may exist, notably involving the diaphragm, pleura, umbilicus or abdominal muscular wall.
+
+[[Anatomy:Female genitalia|Anatomy of the mechanism of endometriosis (animated)]]
+
+==Adenomyosis==
+Endometriosis may also be associated with adenomyosis. Although there is no agreed anatomical or histological classification of adenomyosis, a distinction is classically made between
+
+- Diffuse internal adenomyosis characterised by the presence of numerous foci of glands and/or endometrial stroma throughout the myometrium.
+
+- External focal adenomyosis, which corresponds to the presence of endometrial aggregates confined to specific areas of the myometrium.
+
+==Dysmenorrhoea==
+'''Dysmenorrhoea''' is a frequently revealing symptom of endometriosis or adenomyosis.
+
+They are defined by cyclical [[Pelvic pain SD-099|abdominopelvic pain]], punctuated by menstruation, occurring just before the start of the period, usually lasting a day or two, sometimes until after the period, and then increasing in intensity.
+
+A distinction must be made between primary and secondary dysmenorrhoea.
+
+===Primary dysmenorrhoea===
+'''Primary (or essential) dysmenorrhoea''' classically appear 6 to 24 months after the first menstrual period (when cycles become ovulatory), are characterised by isolated pelvic or lumbar cramp-like pain, sometimes associated with other symptoms ([[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]] Diarrhoea SD-002|diarrhoea]], [[Headache SD-118|migraines]], vagal malaise), are of moderate to severe intensity and respond to the usual analgesic treatments (antispasmodics, paracetamol, NSAIDs).
+
+===Secondary dysmenorrhoea===
+Secondary (or organic) dysmenorrhoea'' is less typical, occurring during and outside menstruation, of severe intensity (VAS>7/10), worsening with each cycle, accompanied by other painful symptoms resistant to the usual analgesics.
+<br />

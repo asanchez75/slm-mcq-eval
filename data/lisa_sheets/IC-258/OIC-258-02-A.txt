@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-258-02-A
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=A
+|Title=Know the formulae for estimating glomerular filtration rate
+|Description=Know how to use the CKD-EPI formulae in adults and the Schwartz formula in children,
+|Rubric=Positive diagnosis
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=2}}
+
+{| class="wikitable"
+|The MDRD and CKD-EPI formulae directly estimate GFR indexed to body surface area (result in ml/min/1.73 m2); they include sex, age, creatinine level and ethnicity, but not weight [[178|(178)]).
+
+These formulas can be flawed and cannot be used in cases of severe undernutrition or amyotrophy, cirrhosis, pregnancy or non-standard body size. In these situations, renal function can be assessed by measuring GFR by calculating the clearance of exogenous substances filtered by the kidney (labelled DTPA, Iohexol).
+
+The French National Authority for Health (2012) recommends using the CKD-EPI formula based on creatinine levels determined by enzymatic methods.
+
+Significance of GFR in chronic renal failure :
+
+- GFR is normal at between 90 and 120 ml/min/1.73 m2 ;
+
+- Between 60 and 89 ml/min/1.73 m2 , chronic renal failure is mild. In the absence of markers of renal impairment persisting for more than 3 months (proteinuria and/or haematuria, leucocyturia, morphological abnormalities of the urinary tract), it is considered to be non-pathological (absence of chronic renal disease);
+
+- A GFR of less than 60 ml/min/1.73 m2 is sufficient to define chronic kidney disease (see chapter 15), whether or not markers of kidney damage are present.
+<br />
+|}

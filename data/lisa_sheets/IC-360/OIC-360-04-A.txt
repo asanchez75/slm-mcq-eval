@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-360-04-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Knowing the radiological semiology of pneumothorax
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Julien Poissy
+|Order=4}}
+
+- Standard chest X-ray, standing and inspiratory
+
+- Fine linear opacity representing the outer edge of the visceral pleura, separated from the wall by hyperclarity with disappearance of the vascular network (clear peripheral crescent). When the pneumothorax is small, it is only visible at the apex.
+
+- Sign of tension pneumothorax: retraction of the lung parenchyma onto its hilum, flattening of the homolateral diaphragmatic dome, pushing of the mediastinum towards the opposite side.
+
+- Possible indirect signs: subcutaneous emphysema with air under the skin, pneumomediastinum
+
+- If there is an associated fluid effusion: horizontal hydroaerobic level (hydropneumothorax) on the X-ray taken in the standing position.
+
+- Incomplete pneumothorax with apical, inferior or anterior detachment: look for a hyperclaric line on the cardiac silhouette or on the diaphragmatic dome.
+
+
+- Scanner
+
+- Not systematic
+
+- Used to confirm pneumothorax if there is any doubt and/or to specify its topography in order to guide any drainage in the event of partial detachment; also carried out in the event of recurrent pneumothorax in search of an anomaly in the underlying lung parenchyma.
+
+
+- Pleural ultrasound
+
+- Specialist examination can be carried out at the patient's bedside, but is more difficult to interpret

@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-074-03-A
+|Item_parent=Prescription and monitoring of psychotropic drugs (see item 330)
+|Item_parent_short=Prescription and monitoring of psychotropic drugs (see item 330)
+|Rank=A
+|Intitle=Antipsychotics: knowing the main classes and molecules
+|Description=None
+|Rubric=Definition
+|Contributors=Louise Carton,Florian Naudet,Marie Tournier
+|Order=3}}
+
+Antipsychotics'' are substances whose common property is an ''antagonistic'' action on D2 dopamine receptors.
+
+A distinction is made between :
+
+* older drugs (typical or first-generation neuroleptics or antipsychotics)
+* more recent compounds (atypical or second-generation antipsychotics) with a better neurological safety profile (extrapyramidal syndrome), but with a higher risk of adverse metabolic effects.
+The main "first-generation" antipsychotics used in practice are :
+
+* Chlorpromazine,
+* Cyamemazine
+* Alimemazine
+* Levomepromazine
+* Haloperidol
+* Loxapine
+
+The main "second-generation" antipsychotics used in practice are :
+
+* Amisulpride,
+* Olanzapine
+* Clozapine
+* Quetiapine
+* Risperidone
+* Paliperidone,
+* Aripiprazole.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-09-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing pharmacovigilance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=9}}
+
+Pharmacovigilance is one of the health monitoring activities carried out by the French National Agency for the Safety of Medicines and Health Products (ANSM).
+
+This is the continuous process of collecting, identifying, evaluating and investigating potential adverse events linked to the use of medicinal products for human use and raw materials for pharmaceutical use placed on the market.

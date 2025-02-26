@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-123-13-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Intitulé=To know the definition of the biology of ageing
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=13}}
+This is the study of the mechanisms and manifestations of ageing "in vitro" on cellular and tissue models, and "in vivo" in experimental animals or humans.

@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-092-05-A
+|Item_parent=Motor and/or sensory deficit of the limbs
+|Item_parent_short=Motor and/or sensory deficit of the limbs
+|Rank=A
+|Heading=Knowing the localising value of signs associated with motor or peripheral deficit
+|Description=Genito-sphincter disorders, vertebral pain, confusion
+|Topic=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+
+=== A- Localising value of genital-sphincter disorders: ===
+The main mictional centres are located in the S2, S3 and S4 medulla. There are dorsolumbar mictional centres, but they only play a secondary role. Finally, frontal encephalic centres are also involved in the micturition process, particularly in sensations of need.
+
+The appearance of genito-sphincter disorders ([[[Sexual disorders and erectile dysfunction SD-063|sexual disorders and erectile dysfunction]]) ([[Micturition abnormality SD-023|micturition abnormality]])'' associated with limb deficits should lead to a priority search for damage to the cauda equina or the terminal cone of the spinal cord. However, any acute spinal cord injury may lead to urinary retention during the phase of spinal cord sideration ''([[Acute retention of urine SD-097|acute retention of urine]])''. Finally, in the case of more chronic spinal cord injury, pyramidal signs are often accompanied by dysuric signs, in particular urinary urgency.
+
+==== 1.     Cauda equina: ====
+Typically, cauda equina is associated with genitourinary disorders, motor deficit in the lower limbs and anaesthesia in the saddle:
+
+- Motor impairment of the lower limbs may involve the roots from L2 to S1, usually bilaterally, but often asymmetrically.
+
+- Sensory disorders involve the various radicular territories from L2 onwards, often with radicular-type pain (sciatica, cruralgia), but it is above all the anaesthesia of the sacral roots (saddle anaesthesia) that is characteristic.
+
+- Sphincter disorders are most often urinary retention or the need to push to urinate. Incontinence is possible, particularly in the case of overflow micturition. Sphincter disorders are usually accompanied by insensitivity to the passage of urine. Constipation is usual, but is often accompanied by hypotonia or anal incontinence ''([[Faecal incontinence SD-007|faecal incontinence]]).''
+
+- Genitally, there is usually impotence or vaginal anaesthesia (''[[Sexual disorders and erectile dysfunction SD-063|sexual disorders and erectile dysfunction]])''.
+
+==== 2.     Damage to the terminal cone of the medulla: ====
+Clinical symptoms are very similar to those of cauda equina. Sensory involvement may extend as far as T10, sometimes with abdominal-genital or obturator pain, but saddle anaesthesia is the main feature. The main difference is the presence of a Babinski sign, although this is not always present.
+
+=== B- Localising value of spinal pain: ===
+The existence of ''spinal pain''([[Spinal pain (cervical, dorsal or lumbar) SD-072|spinal pain (cervical, dorsal or lumbar]])'' associated with a motor and/or sensory deficit will point to spinal cord injury. Vertebral pain corresponds to the lesion syndrome and therefore makes it possible to localise the level of the lesion responsible. In fact, the sensory signs (sensory level) are often located quite clearly below the lesion, particularly during the initial damage.
+
+=== C- Localising value of confusion: ===
+By definition, confusion is an acute onset disorder with a fluctuating course. It combines disorders of cognitive efficiency, with memory disorders, temporo-spatial disorientation and attention disorders, as well as behavioural disorders and vigilance disorders ([[Mental confusion/disorientation SD-119|mental confusion/disorientation]]).
+
+Confusion is usually reversible, which distinguishes it from dementia, and is more common in the elderly.
+
+The presence of confusion has no real localising value, as it is not linked to a localised lesion, but to diffuse cerebral suffering. Its origin may be an infection, a metabolic disorder ([[Dyscalcaemia SD-200|dyscalcaemia]]) ([[Dysnatremia SD-202|dysnatremia]]) ([[Hypoglycaemia SD-209|hypoglycaemia]]),'' or linked to a toxic agent (in particular certain drugs).
+
+Confusion associated with motor and/or sensory deficits may point to brain damage. However, the presence of a bladder globe on a spinal cord injury may lead to confusion, particularly in elderly patients ''[[Acute retention of urine SD-097|acute retention of urine]]''. Similarly, hypoglycaemia can be responsible for a motor deficit associated with confusion''([[Hypoglycaemia SD-209|hypoglycaemia]])''. Toxic, infectious or metabolic causes should therefore be systematically investigated.

@@ -1,0 +1,111 @@
+{{knowledge objective
+|Identifiant=OIC-298-05-A
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=A
+|Item_parent_short=Tumours of the Oral Cavity, Nasosinus and Cavum, and Upper Aerodigestive Tract
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+{| class="wikitable"
+| colspan="4" |CALLING SIGNS AND MAIN CLINICAL SIGNS BY TOPOGRAPHY
+|-
+|Oral cavity
+| colspan="3" |Persistent heterogeneous (red and white) leukoplakic lesion
+
+Ulceration / swelling
+
+Pain
+
+Dental mobility
+
+Lingual protraction disorders (T4)
+
+Trismus (T4)
+
+Bilateral submental or subangulomaxillary adenopathy
+
+Induration on palpation and bleeding on contact
+|-
+|Oropharynx
+| colspan="3" |Ulceration/tumefaction
+Induration on palpation and bleeding on contact
+
+Lingual mobility disorder (base of tongue)
+
+
+
+Sub-angulo-maxillary lymphadenopathy ++ +- bilateral
+
+Isolated adenopathy, the first frequent warning sign
+|-
+|Hypopharynx
+| colspan="3" |Dysphagia/odynophagia/otalgia reflex ++
+
+Dysphonia or even dyspnoea if the larynx is invaded
+
+Jugulocarotid lymphadenopathy, usually unilateral ++.
+|-
+| rowspan="2" |Larynx
+|Supraglottic stage
+|Glottic stage
+<br />Subglottic
+|Subglottic
+|-
+|dysphagia ++
+
+Dysphonia (blockage of a vocal cord or glottic invasion)
+
+Dyspnoea (tumour mass ++)
+
+Odynophagia and reflex otalgia
+
+Jugulo-carotid adenopathy
+<br />
+|dysphonia ++
+
+Dysphagia if invasion of the supraglottic stage
+
+No adenopathy unless extraglottic extension
+
+Dyspnoea (tumour mass ++)
+|Rare early tumour form
+
+Dyspnoea and jugulocarotid adenopathy (tumour mass ++)
+|-
+|Nasopharynx
+| colspan="3" | Tubal dysfunction ++ (serous otitis)
+
+Nasal obstruction
+
+Epistaxis
+
+Isolated or bilateral cervical adenopathy
+
+Invasion of the base of the skull in late forms (paralysis of III, IV, V, VI, thrombosis of the [[Anatomy:Cavernous sinus|cavernous sinus]]) <br />.
+|-
+|Ethmoid sinus
+| colspan="3" |Unilateral nasal obstruction ++
+
+Epistaxis ++
+
+Mucopurulent rhinorrhea
+
+Hyposmia
+
+Tumour mass ++ (ophthalmological and neurological signs)
+|-
+|Maxillary sinus
+| colspan="3" |Dental pain, tooth mobility ++ (ophthalmic and neurological signs)
+
+Facial pain (suborbital nerve, V2 branch)
+
+Acute or chronic maxillary sinusitis.
+
+Tumours of the maxillary arch can also invade the maxillary sinus, the picture is initially oral and the risk factors those of cancers of the oral cavity.
+|}
+
+
+NB: LMNH presents in the tonsils, more often than in the base of the tongue, as a unilateral enlargement with pharyngeal discomfort and sometimes a muffled voice. In the cavum, as with UCNT, unilateral serous otitis is a suggestive sign. Cervical adenopathy is common. <br />

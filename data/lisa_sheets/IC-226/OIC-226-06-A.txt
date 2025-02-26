@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-226-06-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Know the indications for D-dimer measurement (DVT, PE) and the concept of an age-adjustment threshold in PE.
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=6}}
+D-dimer:
+
+- fibrin degradation products.
+
+- non-specific
+
+- but high negative predictive value
+
+# If they are below the diagnostic threshold, they enable the diagnosis of DVT or PE to be ruled out if the clinical probability is not high.
+# The threshold is adjusted for age for the diagnosis of exclusion of non-severe PE: < 500 µg/L if the patient is under 50 years of age, < [age × 10] µg/L if the patient is over 50 years of age. Age adjustment does not apply to DVT diagnosis.
+- Does not apply to severe or high-probability PE.
+
+<br />

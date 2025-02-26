@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-361-01-A
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=A
+|Title=Know the definition of a tendinopathy, a bursopathy, an enthesopathy
+|Description=None
+|Rubric=Definition
+|Contributors=CFCOT
+|Order=1}}
+
+'''<u>Tendinopathy</u>''': structural degenerative damage to the tendon linked to chronic non-inflammatory degeneration due to excess stress (tendinosis) or inflammatory damage to the synovial sheath surrounding the tendon (tenosynovitis), responsible for pain and which may ultimately lead to tendon rupture. The term tendonitis, which is often used, is not appropriate, as there is no inflammatory phenomenon observed in tendon damage.
+
+'''<u>Enthesopathy</u>''': pathology of the tendino-capsulo-ligamentary insertions on the bone (entheses). They can be acute traumatic or chronic degenerative. They can lead to tendon disinsertion, or to progressive ossification of the enthesis, resulting in enthesophytes which are sometimes painful.
+
+'''<u>Bursopathy</u>''': pathology of the bursae which constitute sliding spaces between anatomical structures, resulting in swelling of the bursa and sometimes pain. This periarticular swelling should not be confused with joint effusion. The condition may be acute and inflammatory, or infectious in the case of bursitis. A hygroma is the presence of a collection in a bursa, acute or chronic, of inflammatory or infectious origin, often observed in the elbow or knee.

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-159-13-B
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=B
+|Title=Knowing how to administer anti-tuberculosis drugs
+|Description=None
+|Heading=Management
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=13}}
+
+'''Summary: Rifampicin (RMP) + Isoniazid (INH) + pyrazinamide (PZA) + ethambutol (EMB) for two months then rifampicin + isoniazid for four months'''
+
+'''Tuberculosis disease'''
+
+In adults, ''quadritherapy for two months'' (=induction phase) with the four first-line anti-tuberculosis drugs (rifampicin, isoniazid, ethambuthol and pyrazinamide) is followed by ''dual therapy for four months'' (=continuation phase) with rifampicin + isoniazid. Cerebro-meningeal infections require a longer course of treatment.
+
+The use of anti-tuberculosis drugs in combined form (Rifater® INH+RMP+PZA or Rifinah® RMP+INH) should be preferred in adults in order to improve compliance, as a once-daily dose, preferably in the morning on an empty stomach ([Prescribe an anti-infective SD-255|prescribe an anti-infective]]).
+
+In children, treatment is most often based on triple therapy (isoniazid-rifampicin-pyrazinamide combination) for 2 months, followed by an isoniazid-rifampicin combination for 4 months. Ethambutol is only added for the first two months in forms rich in bacilli.
+
+The search for a strain resistant to anti-tuberculosis drugs must be systematically proposed before starting treatment, by carrying out a genotypic test (PCR) for rapid diagnosis of resistant tuberculosis (detection of the "rpoB" gene carrying resistance to rifampin), combined with a phenotypic antibiogram testing the "in vitro" sensitivity of the strain to anti-tuberculosis drugs, which is often available after several weeks.
+
+Latent tuberculosis infection
+
+Two treatment options are acceptable in France: dual therapy (rifampicin - isoniazid) for 3 months, or monotherapy (isoniazid) for 9 months.
+
+This treatment is systematic in children.

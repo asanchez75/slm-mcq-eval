@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-217-06-B
+|Item_parent=Mononucleosis syndrome
+|Item_parent_short=Mononucleosis syndrome
+|Rank=B
+|Title=Knowing the main non-infectious etiologies of mononucleosis syndrome
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+
+
+== '''Allergic drug reaction ([[Suspicion of an adverse drug reaction or treatment SD-348|suspicion of an adverse drug reaction or treatment]])''' ==
+
+
+- Drug Rash with hyperEosinophilia and Systemic Symptoms (DRESS) syndrome
+
+'''-'''' Look for medication taken in the previous 6 weeks.
+
+- Clinical signs :
+
+- Evocative skin rash: ''[[Erythema SD-085|erythema]]''''
+
+- Polyadenopathies '''([[Single or multiple adenopathies SD-016|single or multiple adenopathies]])''' ;
+
+- General signs: '''[[Hyperthermia/fever SD-044|hyperthermia/fever]]''' ;
+
+- Associated biological signs :
+
+- '''[[Hypereosinophilia SD-219|Hypereosinophilia]]''';
+
+- Hepatic cytolysis ([[Elevation of transaminases without associated cholestasis SD-206|elevation of transaminases without associated cholestasis]]);''''
+
+- Impaired renal function.
+
+
+- Drugs frequently incriminated: '''antibiotics'' (sulphonamides and beta-lactams), '''anti-convulsants'' and '''allopurinol.'''
+<br />
+
+== '''Autoimmune diseases''' ==
+
+
+- Possible in systemic lupus, rheumatoid arthritis
+
+- Look for other causes (in particular viral or drug-related causes).

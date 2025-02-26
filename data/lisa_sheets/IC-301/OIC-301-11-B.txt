@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-301-11-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Intitle=Know the definition of familial adenomatous polyposis (FAP)
+|Description=A brief description of Familial Adenomatous Polyposis
+|Rubric=Definition
+|Contributors=
+|Order=11}}
+'''Familial adenomatous polyposis''' (FAP) autosomal dominant transmission, (APC gene mutation), rare disease (<1% of colorectal cancer cases). Innumerable adenomas appear throughout the colon and rectum from the age of 10, with a risk of cancer from adolescence onwards and a cumulative risk of more than 70%, requiring preventive total colectomy from the end of adolescence. Surveillance by annual colonoscopy discussed from the age of 10. The diagnosis is usually known within the family.

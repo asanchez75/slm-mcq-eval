@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-242-04-A
+|Item_parent=Hyperthyroidism
+|Item_parent_short=Hyperthyroidism
+|Rank=A
+|Title=Knowing the clinical signs suggestive of an acute thyrotoxic crisis
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Dr Camille Buffet,Dr Magalie Haissaguerre
+|Order=4}}
+
+It is exceptional, occurring mainly after thyroidectomy in the absence of medical preparation. It is an exacerbation of the symptoms of hyperthyroidism, with fever, dehydration, cardiovascular and neuropsychological disorders that can be life-threatening.

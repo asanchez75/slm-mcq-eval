@@ -1,0 +1,61 @@
+{{knowledge objective
+|Identifiant=OIC-329-06-B
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=B
+|Intitle=Know the indications for the transfusion of platelet concentrates
+|Description=None
+|Section=Management
+|Contributors=
+|Order=6}}
+The purpose of platelet concentrate (PC) transfusion is to prevent haemorrhage in the presence of thrombocytopenia, known as prophylactic transfusion, or to correct haemorrhage in the presence of thrombocytopenia, known as curative transfusion. Curative transfusion is a transfusion emergency. A distinction is made between the causes of thrombocytopenia:
+
+'''Correction of central thrombocytopenia''' :
+
+With haemorrhagic syndrome: ''emergency CP''.
+
+Prophylaxis: the transfusion threshold determined by the platelet count (PC) is modulated according to associated bleeding factors, as well as the kinetics of PC decay:
+
+10G/L: no risk factors
+
+20G/l: fever, decay kinetics, anti-platelet therapy, lesions with bleeding potential
+
+50G/L: DIC, invasive procedure, anticoagulant treatment
+
+100G/L: neurosurgery, surgery of the posterior segment of the eye
+
+
+Correction of peripheral thrombocytopenia:
+
+Only if there is a life-threatening haemorrhagic syndrome
+
+DIC in acute (pro-myelocytic) leukaemia with LOC < 50G/L
+
+In autoimmune thrombocytopenic purpura, only if life-threatening, as transfused platelets are destroyed in the same way as autologous platelets.
+
+
+Note that in the event of bleeding,
+
+
+The dose of platelets depends on the patient's weight: 0.5 to 0.7 x 10.11/10kg of weight. It is indicated on the prescription as an absolute number of platelets or in units (1 unit = 0.5 10<sup>11</sup> platelets).
+
+Pre-transfusion work-up: only the ABO group is required, as platelets carry ABO antigens. Platelets will only be issued on presentation of a blood group.
+
+Compatibility: it is preferable, but not obligatory, to respect ABO compatibility, as for RBCs. ABO antigens have a much lower density on platelets than on RBCs. This being the case, the transfusion yield will be optimised by respecting ABO compatibility.
+
+Furthermore, in some cases, PCs may contain haemolytic anti-A and anti-B antibodies to the donor, which can lead to immunological conflict with the recipient's RBCs. In this case, these products must be transfused as an isogroup. This information is indicated on the CP, and enables the delivery site to comply with the isogroup instruction in this case.
+
+Choice of products: Mixed PCs (MCPs) and apheresis PCs (APCs) have the same haemostatic function (Heading 2C-329-DE-A02).  CPA will be reserved for patients whose transfusion yield is reduced by the production of anti-HLA or anti-HPA (Designation 2C-329-PC-B04). CPA, derived from a single donor and therefore presenting only 1 HLA and/or HPA phenotype, will ensure compatibility with respect to these antibodies.
+
+'''Platelet yield''' :
+
+In curative treatment, it is assessed by stopping the bleeding
+
+In prophylaxis, it is assessed by the increase in platelet count, > 10G/L at 24H, or by the Correct Count Increment, which must be > 7.  CCI formula :
+
+NP after transfusion (G/L)-NP before transfusion (G/L) X body surface area (m2) X 100 Number of platelets transfused (x 10<sup>11</sup>)
+
+
+''Refractory state'': a refractory state is defined by an absence of platelet transfusion yield as assessed 2 times on the CCI or NP, with CP whose dose is adapted to the patient's weight, ABO compatible, and < 48H fresh.
+
+After ruling out causes of excessive consumption (hypersplenism, DIC, fever, drug interference: amphotericin B), an immunological origin must be sought: anti-HLA or anti-HPA in the recipient, and CPA compatible with these antibodies must then be transfused.  

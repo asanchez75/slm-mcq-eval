@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-09-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing when and how to request a biological toxicology test
+|Description=Knowing how to request a paracetamolemia and a clinically guided toxicology work-up
+|Rubric=Additional tests
+|Contributors=Dominique Vodovar
+|Order=9}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 7.jpg
+</gallery>

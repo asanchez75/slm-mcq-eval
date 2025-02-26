@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-047-34-A
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic, visual, hearing and dental abnormalities. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=A
+|Title=Knowing systematic health checks at school age and coordination with school medicine.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=34}}
+School-age check-ups: 3 years, 4 years, 5 years, 6 years, 8-9 years, 11-13 years, 15-16 years
+
+Common objectives (cf ''[[To know the elements of systematic questioning and clinical examination of a child according to age and context 2C-047-PC-A01|To know the elements of systematic questioning and clinical examination of a child according to age and context]])'''
+
+Specific objectives: socialisation, learning difficulties, attention deficit
+
+Bilan de santé 4ème année (école maternelle) ''(P54-55 du carnet de santé''<ref name=":0">[https://solidarites-sante.gouv.fr/IMG/pdf/carnet_de_sante-num-.pdf Carnet de santé dans sa dernière actualisation (2018)]</ref>''):'' habitus (including schooling, screens and risk of lead poisoning), identification of language disorders, measurements, blood pressure, sight and hearing screening, development including language test, somatic examination including search for nasopharyngeal obstruction (snoring), oral and dental condition
+
+Bilan de santé 6ème année souvent fait par la médecine scolaire (CP) ''(p 58-59 du carnet de santé<ref name=":0" />)'' : idem 4 ans + bandelette urinaire
+<references />

@@ -1,0 +1,72 @@
+{{knowledge objective
+|Identifiant=OIC-280-03-B
+|Item_parent=Ascite
+|Item_parent_short=Ascite
+|Rank=B
+|Title=Knowing the characteristics of ascites fluid
+|Description=protides in the fluid (difference exudate/transudate) and polynuclear count
+|Rubric=Additional tests
+|Contributors=
+|Order=3}}
+It is essential to study the characteristics of the fluid in order to determine the cause of the ascites. Exploratory ascites puncture should be performed whenever ascites is suspected. It is urgent in cases of cirrhosis or suspected ascites fluid infection.
+
+
+Puncture technique
+
+The puncture is performed on a patient lying down. After skin disinfection (and local anaesthesia if necessary) of the wall in the left iliac fossa, in full dullness, in the outer third of the line joining the umbilicus to the left anterior superior iliac spine, a catheter is inserted to allow liquid to be taken for biochemical and bacteriological analyses, and then evacuated using a suction system to which the catheter is connected. The maximum volume per puncture is 6 to 8 litres.
+In patients with cirrhosis, the loss of proteins contained in the ascites is compensated for by an albumin infusion (one bottle of 20% albumin for every 2 litres punctured).
+The risk of complications is very low, apart from haematomas at the puncture site.
+ 
+
+The fluid is usually lemon-coloured; a chylous appearance may suggest lymphatic compression and haemorrhagic ascites may suggest neoplastic ascites, but the macroscopic appearance is not very specific and can never replace biochemical and cytological analysis.
+
+
+Biochemical analysis
+
+The first-line test is the analysis of the protein level. The threshold of 25g/L is used to distinguish between ascites that is high in protein (protein level >25g/L) and ascites that is low in protein (protein level <25g/L).
+Ascites in cirrhosis is usually low in protein.
+It is useful to calculate the albumin gradient between serum and ascites (difference between the plasma albumin level and the ascites protein level) which, if > 11 g/L, is highly specific for ascites associated with portal hypertension.
+
+''Table 1''. Main causes of ascites and biochemical characteristics of the fluid according to the cause.
+{| class="wikitable"
+|Organ involved
+|Pathology
+|Protein levels
+|Blood-ascites albumin ratio
+|-
+|Liver
+|Cirrhosis
+|< 25g/L
+|≥11g/L
+|-
+|Peritoneum
+|Peritoneal carcinosis
+|> 25g/L
+|<11g/L
+|-
+|Vessels
+|Budd-Chiari syndrome
+|> 25g/L
+|≥11g/L
+|-
+|Heart
+<br />
+|Right heart failure
+Constrictive pericarditis
+> 25g/L
+> 25g/L
+|≥11g/L
+≥11g/L
+|-
+|Kidney
+|Nephrotic syndrome
+|<25g/L
+|<11g/L
+|}
+Cell count
+
+It should be carried out systematically to rule out spontaneous infection of the ascites fluid, a frequent complication of cirrhosis which is asymptomatic in over 20% of cases. Only ascites from cirrhosis can become infected spontaneously. Spontaneous infection of ascites fluid is life-threatening in the short term, and any delay in diagnosis is associated with a significant increase in mortality. Diagnosis is based on a manual ascites count, which should be performed as a matter of urgency in any patient with cirrhosis presenting with de novo or recurrent ascites. Spontaneous infection of ascites fluid is defined as a neutrophil count (NNC) > 250/mm3 in the absence of any contiguous intra-abdominal infection. In the event of haemorrhagic fluid, a haematocrit assay should be requested, to rule out haemoperitoneum if it is < 1%. A very high PNN count (several thousand/mm<sup>3</sup>) should prompt a search for perforation of a hollow organ.
+
+Bacteriological analysis
+
+The ascites should be cultured with aerobic and anaerobic blood cultures to adapt antibiotic therapy if a germ is identified (in around 40% of cases).

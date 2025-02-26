@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-155-26-B
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=B
+|Intitulé=Furonculose : connaître les facteurs favorants, les examens à réaliser
+|Description=CNGE : rank B
+|Heading=Follow-up and/or prognosis
+|Contributors=
+|Order=26}}
+'''Favouring factors'''
+
+- Factor: contact with a person infected with "Staphylococcus aureus" LPV+ during a mainly intra-familial contact
+
+- Nasal carriage can encourage recurrence
+
+- Comorbidities such as diabetes or HIV infection
+
+'''Examinations to be carried out'''
+
+- Isolated boil: no bacteriological sample taken.
+
+- Boils at risk of complications or furunculosis: take a bacteriological sample and look for favourable factors (HIV, diabetes, hypogammaglobulinaemia).

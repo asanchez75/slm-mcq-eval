@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-277-01-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Know the definition of gallstones and the various complications
+|Description=Biliary lithiasis, hepatic colic, acute cholecystitis, angiocholitis, acute pancreatitis
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+Lithiasis is the presence of stone(s) in the biliary tree formed from bile.
+It may be located in the gallbladder and/or in the main bile duct.
+
+Hepatic colic is pain associated with sudden tension in the bile ducts, caused by the transient blockage of a stone, either in the cystic duct or in the main bile duct.
+
+Acute cholecystitis is an acute infection of the gallbladder. Acute lithiasis cholecystitis is caused by prolonged obstruction of the cystic duct by a stone.
+
+Angiocholitis is a bacterial infection of the main biliary tract, generally caused by a stone lodged in the ampulla of Vater (hepato-pancreatic ampulla).
+
+Acute pancreatitis is an acute inflammation of the pancreas caused by the migration of a gallstone into the ampulla of Vater.

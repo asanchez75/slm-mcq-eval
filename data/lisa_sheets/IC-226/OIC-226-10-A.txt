@@ -1,0 +1,62 @@
+{{knowledge objective
+|Identifiant=OIC-226-10-A
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=A
+|Title=Know the principles of treatment of non-severe DVT/PE in the initial phase (see item 330)
+|Description=None
+|Heading=Management
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=10}}
+In cases of high clinical probability (DVT, PE), anticoagulant treatment is started before diagnostic confirmation by imaging.
+
+== Outpatient/hospital management of VTE ==
+
+=== '''DVT''' ===
+Except in special cases, patients with DVT are treated on an outpatient basis.
+
+Hospitalisation is recommended for patients :
+
+*severe renal failure (creatinine clearance < 30 mL/min);
+*or with a pathology at risk of haemorrhage;
+*or in a psychosocial, geographical or medical environment that does not allow optimal management at home;
+*or in cases of proximal DVT with severe obstructive syndrome or ilio-caval localisation;
+*or in cases of phlegmatia cœrulea (ischaemic DVT);
+*or in cases of DVT occurring despite a well-managed anticoagulant treatment;
+*or in cases of DVT associated with a non-low-risk pulmonary embolism.
+
+In all cases, bed rest is not indicated.
+
+=== '''PE''' ===
+In the case of non-severe PE, it is essential to assess its "severity" in order to determine the place of initial management and the choice of anticoagulant treatment.
+
+==Anticoagulant treatment ==
+Therapeutic or curative doses of anticoagulants are the mainstay of treatment for VTE. ([[Heparins]] and [[Oral anticoagulants (VKAs and OADs)]]).
+
+''''' Choice of anticoagulant treatment and available treatment regimens'''''
+
+*Direct oral anticoagulants (Rivaroxaban, Apixaban)''''
+**Recommended as first-line treatment except for high-risk or high-intermediate PE.
+**prescribed immediately (without heparin phase).  
+**Main contraindications: severe renal insufficiency (creatinine clearance < 30 mL/min according to Cockcroft), pregnancy, breast-feeding, drug interactions (Cyt 3A4 or PgP).
+**May be used in certain cancer patients.
+*''Low molecular weight heparin (LMWH) / fondaparinux - VKA relay.'''
+**Not recommended as a first-line strategy, but offered if contraindication to VKAs.
+**VKA treatment is started on the first day of treatment.
+**Parenteral treatment (LMWH / fondaparinux) is prescribed at a curative dose for at least 5 days (no monitoring) and then discontinued once 2 INR > 2 have been achieved at least 24 hours apart.
+*Unfractionated heparin (UFH)
+**reserved for severe PE and the treatment of MVTE in patients with renal insufficiency and a urine clearance of less than 15 mL/min.
+**initial dose of 80 IU/kg
+**initial dose of UFH is 18 IU/kg/hour
+**daily monitoring of anti-Xa activity (ideally) and at each dose change (target 0.3 - 0.6 U/ml).
+**Platelet count monitored twice weekly for the first 2 weeks of treatment.
+**VKA relay must be carried out according to the same procedures as for LMWH/Fondaparinux.
+**The relay may also be taken with an AOD.
+*LMWH without VKA relay. This regimen is proposed for
+**patients with cancer, particularly digestive cancer or certain urogenital cancers
+**patients with a high risk of haemorrhage
+**pregnant women:
+***Only heparins, in practice LMWH, may be used throughout pregnancy.
+***If VTE occurs during pregnancy, a minimum of 3 months' anticoagulant treatment is required, including the first 6 weeks post-partum (a period of high thrombotic risk).
+***If breast-feeding, LMWH or warfarin may be used.
+***AODs are contraindicated. Fondaparinux is not recommended.

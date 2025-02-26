@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-147-06-A
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=A
+|Title=Know the procedures for the symptomatic management of fever in children and adults.
+|Description=Know the principles of management, physical measures and antipyretic treatment, and that the search for apyrexia is not an objective in itself and should not lead to systematic treatment.
+|Rubric=Management
+|Contributors=
+|Order=6}}
+'''<u>1- [https://www.has-sante.fr/jcms/c_2674284/fr/prise-en-charge-de-la-fievre-chez-l-enfant Indication for antipyretics]</u>'''
+
+- Antipyretics are not routinely used.
+
+- Antipyretics in case of discomfort, or in special cases: cardiac insufficiency, respiratory insufficiency, elderly patients (risk of poor tolerance).
+
+- The antipyretic of choice is Paracetamol: 15 mg/kg 4 times a day in children, maximum 1 gram x4/d in adults "per os" whenever possible. Contraindicated in cases of acute hepatitis or liver failure.
+
+- In children, taking paracetamol should be accompanied by physical measures
+
+- Aspirin and anti-inflammatory drugs are not recommended (risk of Reye's syndrome in the case of chickenpox in children, risk of serious loco-regional or systemic complications in the case of bacterial outbreaks, particularly in the skin, ENT or lungs).
+
+- The use of ibuprofen may be discussed in children in the event of persistent discomfort despite paracetamol, following a rigorous clinical assessment in the absence of a bacterial focus and combined with reinforced monitoring.
+
+
+'''<u>2- Combating dehydration</u>''''
+
+- Essential measure.
+
+- Plentiful and varied drinks, both sweet and savoury.
+
+
+'''<u>3- Physical measurements in children</u>''''
+
+- Undressing (do not overdress)
+
+- Plenty to drink
+
+- Room ventilation

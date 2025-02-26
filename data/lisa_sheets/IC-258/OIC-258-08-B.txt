@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-258-08-B
+|Item_parent=Elevation of creatininemia
+|Item_parent_short=Elevation of creatininaemia
+|Rank=B
+|Title=Know the additional tests to be carried out in the event of an increase in creatinine levels presumed to be of obstructive origin.
+|Description=Know the paraclinical elements in favour of the obstructive nature of an increase in creatininemia.
+|Rubric=Additional tests
+|Contributors=Vrtovsnik,Flamant,Frimat
+|Order=8}}
+
+Renal ultrasound, performed as a matter of principle in all cases of renal failure: look for dilatation of the pyelocaval cavities,
+
+Complete the search for a subvesical (prostate adenoma, bladder neck disease) or supravesical (retroperitoneal fibrosis, bilateral urinary lithiasis, junction syndrome, prostate or cervical tumour) obstacle using imaging (CT scan, etc.).

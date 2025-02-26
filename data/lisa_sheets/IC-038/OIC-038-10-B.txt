@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-038-10-B
+|Item_parent=Infertility of the couple: conduct of the first consultation
+|Item_parent_short=Infertility of the couple: conduct of the first consultation
+|Rank=B
+|Title=Knowing the main causes of infertility in men
+|Description=None
+|Rubric=Etiologies
+|Contributors=Charlotte Sonigo,Geoffroy Robin,Patrica Fauque,Fabrice Guerif,Pierre Emmanuel Bouet
+|Order=10}}
+
+{| class="wikitable"
+| colspan="2" |'''Causes of male infertility (30%)'''
+|-
+|'''Secretory causes'''
+
+(abnormality in the production of spermatozoa by the testicles)
+
+
+
+<br />
+|'''Testicular origin''''
+
+- Environmental causes (exposure to toxic substances, heat, etc.)
+
+- Genetic causes (Klinefelter's syndrome, microdeletions within the AZF [Azoospermia Factor] locus located on the long arm of the Y chromosome, etc.).
+
+- Acquired testicular pathologies (torsion, testicular cancer, history of cryptorchidism, varicocele).
+
+
+'''Central origin (Hypogonadotropic hypogonadism)''''
+
+- Functional causes (iatrogenic, etc.)
+
+- Tumours of the hypothalamo-hypophyseal region...
+
+- Hyperprolactinemia
+
+- Kallman de Morsier syndrome and other congenital gonadotropic deficiencies
+
+- Haemochromatosis
+|-
+| '''Excretory causes'''
+
+normal sperm production, but obstruction downstream of the testis
+|<Sequelae of genitourinary infection</nowiki>.
+
+
+- Surgical sequelae
+
+
+- Bilateral absence of the vas deferens (often secondary to mutations in the CFTR gene (genital involvement in cystic fibrosis))
+
+- Seminal tract tumour (bilateral epididymal cysts, cyst of the prostatic utricle)
+
+
+- [[Sexual disorders and erectile dysfunction SD-063|Sexological disorders, erectile dysfunction]]
+<br />
+|}
+Note: in women, as in men, mixed causes are frequent (e.g. ovulation disorder + tubal obstruction; unilateral agenesis of the right vas deferens + left varicocele).

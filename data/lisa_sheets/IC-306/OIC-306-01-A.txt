@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-306-01-A
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=A
+|Title=Knowing the main types of benign and malignant primary tumours of the ovary
+|Description=Functional tumours, benign organic tumours (adenomas / cystadenomas), cancers (adenocarcinomas).
+|Rubric=Definition
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=1}}
+
+
+#Functional tumours related to hormonal dysfunction: follicular cysts in the 1st<sup> part of the cycle, corpus luteum cysts or luteal cysts in the 2nd<sup> part of the cycle.
+#Non-functioning ovarian tumours
+
+These tumours of the ovary are benign or malignant proliferative processes, primary or secondary, cystic in appearance, solid or vegetative, whose growth is not directly linked to hormonal dysfunction:
+
+- '''Organic benign tumours''': most often benign ovarian cysts
+
+- '''Malignant tumours'''
+
+- Borderline tumours of the ovary
+
+180 [[Interpretation of an anatomopathology report SD-180|Interpretation of an anatomopathology report]]
+
+181 [[Malignant tumours on surgical specimen/biopsy SD-181|Malignant tumours on surgical specimen/biopsy]]

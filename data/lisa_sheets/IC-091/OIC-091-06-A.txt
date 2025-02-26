@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-091-06-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Know the indications for imaging examinations in the presence of recent neurological deficit.
+|Description=None
+|Section=Complementary examinations
+|Contributors=
+|Order=6}}
+Complementary neurological examinations are guided by the topographical diagnosis ([[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]], [[Request for an imaging examination SD-231|Request for an imaging examination]]).
+
+Cerebral MRI (or, failing that, CT scan) if there are signs pointing to supramedullary involvement:
+
+- cerebral MRI is the preferred first-line treatment for most pathologies;
+
+- if MRI is not accessible or contraindicated, a brain scan without or sometimes with injection should be performed;
+
+- in the event of cerebral infarction, magnetic resonance angiography or cervico-encephalic angioscanner are essential to search for arterial occlusion ([[Discovery of a brain abnormality on medical imaging examination SD-226|Discovery of a brain abnormality on medical imaging examination]]).
+
+The time taken to carry out these tests depends on the aetiological hypotheses:
+
+- Any sudden or acute neurological deficit should raise the suspicion of a stroke and require urgent brain imaging;
+
+- any head injury with focal neurological signs requires a brain scan without injection to be performed immediately;
+
+- emergency imaging is essential for any suspected infectious encephalic pathology;
+
+- Spinal cord imaging should be carried out as a matter of urgency for any spinal cord syndrome or acute cauda equina syndrome;
+
+- in the case of progressive deficits, in the absence of any sign of seriousness (vigilance problems, etc.), additional tests should be carried out as soon as possible (within 24 hours).
+
+
+- Cervico-dorso-lumbar MRI for spinal cord syndrome or lumbar MRI for cauda equina syndrome.

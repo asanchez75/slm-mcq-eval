@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-332-11-B
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=B
+|Title=Know the principles of management of cardiogenic shock
+|Description=see item 234
+|Heading=Management
+|Contributors=Julien Poissy
+|Order=11}}
+
+Step 1: Condition monitoring and venous lines (see elements of immediate management of a state of shock)
+
+Step 2: Identify the cause of cardiogenic shock
+
+- History/clinical examination: see etiological reasoning
+
+Stage 3: Initial symptomatic measures
+
+- Call the resuscitator for non-rapidly reversible symptoms
+
+- If OAP: half-seated position, diuretics +/- non-invasive ventilation +/- dobutamine /!
+Do not prescribe hypotensive drugs used in acute heart failure without shock, such as nitrates/calcium antagonists/beta-blockers.
+
+- In the case of isolated right heart failure: cautious filling possible to avoid left heart deflation due to right heart/left heart interaction
+
+- Assess the indication for an inotropic drug=dobutamine, β2 mimetic +/- noradrenaline
+
+- Specialist management is usually required, with advanced haemodynamic assessment and monitoring.
+
+Stage 4: measures specific to the aetiology :
+
+- ACS: antiplatelet agents and coronary revascularisation (item 339)
+
+- symptomatic management of a rhythm disorder
+
+- management of cardiotropic drug intoxication: refer to the relevant question (item 337)
+
+- surgical management of valvulopathy or aortic dissection
+
+.  Pulmonary embolism: thrombolysis in the absence of contraindication
+
+.  Pericardial tamponade: pericardial drainage
+
+.  Compressive pneumothorax: pleural drainage

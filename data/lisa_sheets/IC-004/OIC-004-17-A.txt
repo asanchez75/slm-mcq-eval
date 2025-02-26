@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-004-17-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the definition of healthcare-associated infections (HAIs)
+|Description=Knowing the definition of a HCAI, a nosocomial infection, describing the different types of HCAI (ISO, etc.).
+|Rubric=Definition
+|Contributors=
+|Order=17}}
+- Healthcare-associated infection (HCAI): an infection that occurs during or after care (diagnostic, therapeutic, palliative, preventive or educational) of a patient, which was neither present nor incubating at the start of the care, whether the infection was contracted during a stay in a healthcare establishment (nosocomial infection) or during care provided outside a healthcare establishment (home care, nursing home, private practice).
+
+- Nosocomial infection (NI): an HCAI acquired during a stay in a healthcare establishment, i.e. it was neither present nor incubating on admission. If the infection status on admission is not known, a nosocomial infection is considered to have occurred after the 48th hour of hospitalisation (subject to the usual incubation period for the microorganism concerned).
+
+- Main types: urinary tract infection, pneumonia, surgical site, bacteremia/fungemia associated with a catheter or not. In theory, however, all anatomical sites can be affected.

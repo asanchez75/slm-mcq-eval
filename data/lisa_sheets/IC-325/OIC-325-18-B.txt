@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-325-18-B
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=B
+|Title=Know the definition of counterfeit medicines
+|Description=Know the definition of counterfeit medicines
+|Rubric=Definition
+|Contributors=Marc Labriffe
+|Order=18}}
+
+Counterfeiting a medicine is the deliberate and fraudulent misrepresentation of a medicine:
+
+    - its identity: name, composition, activity or other details.
+
+    - and/or its source: manufacturer, country of manufacture, country of origin, marketing authorisation holders, distribution stages.
+
+It can be applied to :
+
+    - specialities or generic products
+
+    - products containing the correct ingredients/components, no active ingredient or an insufficient amount of active ingredient, or products whose packaging has been tampered with.
+
+Dating from 1992, this World Health Organisation (WHO) definition serves as a reference. The same definition was extended to counterfeit HEALTH PRODUCTS by the International Medicines Products AntiCounterfeitingTask force (IMPACT) in 2008.
+
+Not to be confused with :
+
+    - patent infringement or patent litigation
+
+    - Unregistered products: medical products (generics or specialities) that are not authorised for sale in a given country but are authorised for sale elsewhere.
+
+    - Unintentionally inferior products: batches that do not meet standards, quality defects or failure to comply with good manufacturing or distribution practices.
+
+Fake medicines" have a broader definition to extend the scope of the WHO's fight against counterfeit medicines:
+
+- counterfeit medicines: the concept of intellectual property protection varies greatly from country to country
+
+- patent infringement: requires chemical analysis of the product
+
+- trademark infringement: e.g. imitation packaging
+
+The term "counterfeiting", which is ambiguous, is therefore being abandoned.
+
+Several texts have been adopted to strengthen this fight, including the Council of Europe Convention on counterfeiting of medical products and similar crimes threatening public health (known as Medicrime).

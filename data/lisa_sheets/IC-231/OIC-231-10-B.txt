@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-231-10-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Title=Identifying atrioventricular blocks associated with rhythm disorders
+|Description=Identify 3rd degree AVB associated with AF or flutters
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=10}}
+
+
+*We do not talk about BAV 1 or 2 in a patient with atrial arrhythmia, but we can observe variable PR intervals on decremental conduction (Wenckebach periods).
+*Depending on the atrial arrhythmia, conduction may be 1:1, 2:1, 3:1 etc. and often with variable conduction resulting in irregular ventricular contraction (Wenckebach's periods).
+*In the case of a complete BAV associated with an atrial arrhythmia (atrial fibrillation, flutter etc...) the ventricular rhythm will be regular in the presence of an escape, without being a multiple of the atrial activity if this is organised.
+
+[[File:FA et BAV.jpg|vignette|alt=|centré|900x900px]]

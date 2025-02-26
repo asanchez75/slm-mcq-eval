@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-102-12-B
+|Item_parent=Diplopia
+|Item_parent_short=Diplopia
+|Rank=B
+|Title=Knowing the indication for imaging examinations in the case of recent acute diplopia
+|Description=Cerebral imaging if stroke suspected
+|Rubric= Complementary examinations
+|Contributors=
+|Order=12}}
+
+
+
+'''Recent acute binocular diplopia:''' examinations for aetiological purposes depend on the aetiological orientation given by the examination and the topographical diagnosis. These are mainly neuroradiological examinations (CT, MRI, cerebral arteriography).
+
+Intracranial aneurysms cause paralysis of the third limb, often associated with headaches. If an intracranial aneurysm is suspected, urgent neuroradiological investigation using angioscan or MRI is essential; if the results are negative or doubtful, cerebral arteriography should be considered if there is a strong clinical suspicion.
+
+On the other hand, no brain imaging is warranted for "monocular" diplopia, which is linked to an optical disorder in the eye responsible for the diplopia.

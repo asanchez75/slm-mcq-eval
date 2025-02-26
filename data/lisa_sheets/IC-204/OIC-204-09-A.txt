@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-204-09-A
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=A
+|Title=Know the symptomatic treatment of coughs
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=9}}
+In practice, symptomatic cough medicines have little place in the management of acute or chronic cough. Priority is given to identifying the aetiological factor(s). Their benefit/risk ratio is low. Scientific proof of their efficacy has yet to be demonstrated, and the side-effects are sometimes significant.
+
+* Central-acting cough suppressants :
+** Narcotic opiates: codeine, pholcodine
+** Non-narcotic opiates: dextromethorphan, noscapine
+** Anti-histamines: alimenazine, prometazine
+** Non-opioid, non-antihistamines: oxeladine, pentoxyverine, clobutinol
+* Peripherally acting cough suppressants:
+** Amylein hydrochloride, aconitine, sodium benzoate.

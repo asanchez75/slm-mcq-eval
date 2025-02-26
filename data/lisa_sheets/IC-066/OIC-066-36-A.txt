@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-36-A
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Intitle=Knowing that the etiology is multifactorial
+|Description=None
+|Rubric=Etiologies
+|Contributors=El-Hage Wissam
+|Order=36}}
+
+The aetiology of OCD is multifactorial, with genetic vulnerability (genes coding for proteins in the serotonergic and dopaminergic systems) and environmental vulnerability poorly understood.

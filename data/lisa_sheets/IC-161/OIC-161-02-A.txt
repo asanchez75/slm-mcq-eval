@@ -1,0 +1,170 @@
+{{knowledge objective
+|Identifiant=OIC-161-02-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Know the main pathogens that cause urinary tract infections and the main mechanisms of antibiotic resistance.
+|Description=Know the antibiotic resistance of community-acquired E. coli and the risk factors for fluoroquinolone and beta-lactam resistance.
+|Rubric=Etiologies
+|Contributors=Maxime Vallée, Alice Faure
+|Order=2}}
+
+
+
+.● ''Escherichia coli'' is the main bacterium isolated during community urinary tract infections (around 70 to 90% depending on the series). In children E.coli is the most frequently encountered followed by ''Proteus mirabilis'', ''Enterococcus faecalis'' and ''Klebsiella.''
+
+● "Staphylococcus saprophyticus" is also a pathogenic agent frequently encountered during cystitis in young women, particularly during the summer period. Staphylococcus saprophyticus is a gram-positive cocci bacterium that does not have a nitrate reductase enzyme, which explains the absence of nitrites in the urine sample during true UTIs.
+
+==Risk factors for ESBL or fluoroquinolone resistance:==
+
+*A history of infection or colonisation with EBLSE in the previous 3 months.
+*Antibiotic therapy with one of the following in the previous 3 months: amoxicillin-clavulanic acid, C2G, C3G, fluoroquinolones.
+*Travel to an EBLSE-endemic area (southern Europe, Mediterranean basin, Middle East, India, south-east Asia).
+*Hospitalization of less than 3 months
+*Living in a long-stay institution
+
+==The main mechanisms of resistance encountered in enterobacteria are summarised in Tables 1 and 2.==
+
+*Table 1 summarises the chromosomal resistance mechanisms, i.e. those systematically present in the wild state:
+**Group 2 naturally secretes a low-level penicillinase.
+***Group 3 naturally secretes a cephalosporinase.
+*Table 2 summarises the resistance mechanisms acquired either by hyperexpression of their chromosomal enzyme or by acquisition of a plasmid enzyme.
+
+<br />
+{| class="wikitable"
+| rowspan="3" |
+
+
+'''Antibiotics'''
+| colspan="3" | '''Enterobacteriaceae group'''
+|
+|-
+| rowspan="2" |'''''1'''''
+
+'''''(E.coli, P.mirabilis)'''''
+| rowspan="2" |'''''2'''''
+
+'''''(Klebsiella...)'''''
+| rowspan="2" |'''''3'''''
+
+'''''(Enterobacter, Morganella...)'''''
+|
+|-
+|
+|-
+|'''Aminopenicillin (amoxicillin)''''
+|S
+|'''R'''
+|'''R'''
+|
+|-
+|'''Aminopenicillin + ß-lactamase inhibitor''''
+|S
+|S
+|'''R'''
+|
+|-
+|'''Carboxypenicillin (ticarcillin)''''
+|S
+|'''R'''
+|S
+|
+|-
+|'''Ureidopenicillin (piperacillin)''''
+|S
+|'''R'''
+|S
+|
+|-
+|'''C1G (cefalotin)''''
+|S
+|S
+|'''R'''
+|
+|-
+|'''C2G (cefoxitin)'''
+|S
+|S
+|S
+|
+|-
+|'''C3G (ceftriaxone)'''
+|S
+|S
+|S
+|
+|}
+'''Table 1: Mechanism of chromosomal resistance in the 3 main groups of Enterobacteriaceae''''
+
+<br />
+
+  {| class="wikitable"
+| rowspan="4" |
+'''Antibiotics'''
+| colspan="4" rowspan="2" | '''Mechanisms of resistance'''
+|
+|-
+|
+|-
+| rowspan="2" |'''Low level penicillinase'''
+| rowspan="2" |'''High level penicillinase'''
+| rowspan="2" |'''Hyperproduced cephalosporinase''''
+|ESBL
+|
+|-
+|
+|
+|-
+|'''Aminopenicillin (amoxicillin)''''
+|'''R'''
+|'''R'''
+|'''R'''
+|'''R'''
+|
+|-
+|'''Aminopenicillin + ß-lactamase inhibitor''''
+|'''S'''
+|'''R'''
+|'''R'''
+|'''R'''
+|
+|-
+|'''Carboxypenicillin (ticarcillin)''''
+|'''R'''
+|'''R'''
+|'''R'''
+|'''R'''
+|
+|-
+|'''Ureidopenicillin (piperacillin)''''
+|'''R'''
+|'''R'''
+|'''R'''
+|'''R'''
+|
+|-
+|'''C1G (cefalotin)''''
+|'''S'''
+|'''R'''
+|'''R'''
+|'''R'''
+|
+|-
+|'''C2G (cefoxitin)''''
+|'''S'''
+|'''S'''
+|'''R'''
+|'''S'''
+|
+|-
+|'''C3G (ceftriaxone)'''
+|'''S'''
+|'''S'''
+|'''R'''
+|'''R'''
+|
+|}
+'''Table 2: Main resistance mechanisms encountered in enterobacteria''''
+
+
+Nosocomial urinary tract infections cf Knowing the rules for preventing nosocomial urinary tract infections [[Knowing the rules for preventing nosocomial urinary tract infections 2C-004-PC-B08|2C-004-PC-B08]]

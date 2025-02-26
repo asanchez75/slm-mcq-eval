@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-202-02-A
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=A
+|Title=Knowing disease-modifying treatments: synthetic, biological, targeted
+|Description=Describe the different disease-modifying biological and targeted therapies
+|Rubric=Definition
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=2}}
+
+
+
+Molecular therapies, which include polyclonal immunoglobulins, monoclonal antibodies, interleukins, chemokines and small molecules targeting signalling pathways;
+
+Cellular therapies and gene therapies, which involve cell products that are manipulated ex vivo (the patient's cells are harvested and genetically modified "ex vivo" before being re-administered to the patient);
+
+genetic vaccines'' and other gene therapies which exert their action directly ''in vivo'' (the cells of the targeted organ are modified ''in situ'').
+
+These therapies are currently only authorised for modifying somatic cells (no modifications transmissible through descendants).

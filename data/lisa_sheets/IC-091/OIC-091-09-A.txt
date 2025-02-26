@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-091-09-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Recognise a recent deficit due to damage to the neuromuscular junction or muscle.
+|Description=myasthenia, myositis, rhabdomyolysis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+Involvement of the neuromuscular or muscular junction is suggested when :
+
+- fluctuating pure motor impairment, particularly in the case of neuromuscular junction impairment (no sensory or vesicosphincter disorders);
+
+- a predominantly proximal deficit;
+
+- no abnormalities in tendon or plantar skin reflexes.

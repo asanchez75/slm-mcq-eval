@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-155-17-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Non-necrotising bacterial dermohypodermatitis (photographs of adult erysipelas, child non-necrotising dermohypodermatitis)
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=17}}
+<gallery>
+File:Fig 11 115.jpg|Figure 11. Non-necrotizing bacterial dermohypodermatitis of the adult.
+File:Fig 12 115.jpg|Figure 12. Non-necrotising bacterial dermohypodermatitis in children
+</gallery>

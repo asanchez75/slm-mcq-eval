@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-53-A
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Title=Knowing the main general principles of immediate care following a potentially traumatic event.
+|Description=None
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=53}}
+
+Early intervention after a trauma aims to reduce the emotional burden and identify the most vulnerable people. This involves identifying acute signs of distress and dissociation, psycho-educating victims about the development of their symptoms and the possibilities for help, and providing specialist psychological support. No medication is systematically recommended after a trauma. Take account of the social and legal dimension by drawing up an initial medical certificate and systematically taking samples in the event of [[Sexual violence SD-350|sexual violence]], even if there is no legal process.

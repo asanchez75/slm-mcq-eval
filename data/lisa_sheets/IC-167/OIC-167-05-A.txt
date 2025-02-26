@@ -1,0 +1,146 @@
+{{knowledge objective
+|Identifiant=OIC-167-05-A
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral Hepatitis
+|Rank=A
+|Title=Knowing first-line laboratory tests for acute hepatitis
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=5}}
+The aetiological diagnosis of acute hepatitis is not just a biological one+++.
+
+
+How is acute hepatitis diagnosed?
+
+
+The vast majority of acute hepatitis cases are asymptomatic.
+
+The positive diagnosis of acute hepatitis is based on aspecific symptoms: asthenia, headache, nausea, abdominal and joint pain. Certain clinical symptoms or signs, such as fever, flu-like syndrome, lymphadenopathy and skin rash, point to a viral cause. Jaundice may follow.
+
+
+In the absence of specific signs, any compatible clinical picture should lead to the prescription of a liver blood test at the slightest doubt, including bilirubin, transaminases (ASAT, ALAT), GGT and alkaline phosphatases (PAL).
+
+
+A positive diagnosis is made when liver enzymes are elevated, in particular "transaminases more than 10 times the upper limit of normal". Mucocutaneous jaundice, reflecting elevated bilirubin levels, may appear secondarily without signs of liver failure, several days after the onset of symptoms, but this is not very common.
+
+
+A hepatic doppler ultrasound must be performed systematically to rule out underlying chronic liver disease and investigate certain causes.
+
+
+General symptoms + elevated transaminases = acute hepatitis until proven otherwise
+
+Once a positive diagnosis has been made, the cause and severity of the acute hepatitis must be determined.
+
+What causes should we look for? What are the main differential diagnoses of viral hepatitis?'''
+
+
+The most common causes are viral and drugs (xenobiotics). In most cases, a systematic search for the cause will lead to an aetiological diagnosis.
+Meticulous questioning is essential.
+
+
+1- Always look for the presence of a xenobiotic.
+
+
+This is the most common cause, followed by "drugs". Drug toxicity can be direct (dose-dependent, as with paracetamol, see Item 337) or indirect (immuno-allergic reaction). The patient should be questioned about any long-term, recently introduced or occasional medication taken. If in doubt, a report should be made to the pharmacovigilance department.
+
+Medicines are not the only toxic substances to look for: "drugs" (ectasy, cocaine), "mushrooms" (lepidopteris, amanita phalloides), "food supplements", "phytotherapy".
+
+Alcohol alone does not cause acute, highly cytolytic hepatitis (transaminases < 10 times the upper limit of normal). However, chronic alcohol consumption should be sought as a cofactor. Acute alcoholic hepatitis is a confusing term, but it reflects the acute decompensation of a chronic alcohol-related liver disease.
+
+
+
+2- Research into viral infections must be carried out systematically
+
+Questioning should look for risk factors for contamination.
+HAV, HBV, HCV and HEV should be routinely tested for. In the case of hepatitis B, HDV should be investigated.
+
+The table summarises the necessary blood markers used for acute viral hepatitis.
+<br />
+{| class="wikitable"
+|
+|'''Markers of acute hepatitis in the immunocompetent''''
+|'''Additional markers of acute hepatitis in the immunocompromised''''
+|'''Markers of resolved or cured infection'''
+|'''Markers of vaccination'''
+|-
+|A
+|Anti-HAV IgM +
+|Viral load +
+(HAV RNA)
+|IgG or total anti-HAV + antibodies
+|IgG or total anti-HAV antibodies + (HAV RNA)
+|-
+|B
+|Ag HBs +
+
+IgM anti-HBc +
+|Viral load + (HBV DNA)
+(HBV DNA)
+|HBsAg -
+
+Anti-HBs+ antibody
+
+IgG anti-HBc +
+|Ag HBs -
+
+Anti-HBs+ antibody
+
+IgG anti-HBc -
+|-
+|C
+|Anti-HCV antibody +
+
+Viral load + (HCV RNA)
+(HCV RNA)
+|None
+|Total anti-HCV antibodies + and
+
+Viral load -
+|
+|-
+|D
+|anti-HDV IgM +
+|Viral load +
+(VHD RNA)
+|IgG or total anti-HDV + antibodies and viral load
+|
+|-
+|E
+|IgM anti-HEV +
+|Viral load +
+(HEV RNA)
+|IgG or total anti-HEV antibodies + (HEV RNA)
+|
+|}
+Comments
+* HAV RNA is exceptionally requested in practice.
+* In the case of acute hepatitis, viral C serology and HCV RNA testing are requested simultaneously. However, in the case of chronic hepatitis, C serology is ordered as the first-line test and, if C serology is positive, HCV RNA testing is ordered as the second-line test.
+
+NB: There may be confusion between "acute viral B infection" and "viral B reactivation", which can occur in any individual who has been in contact with HBV. Management is different.
+
+
+Testing for other viruses should be the second line of defence, unless the context is suggestive or there is contact in the family.
+
+
+
+1- A vascular or biliary cause must be ruled out by ultrasound combined with Doppler.
+
+- Lithiasis migration (into the main bile duct), when diagnosed early, can lead to a significant rise in transaminases, which often predominate over AST (see item 277).
+
+- Venous vascular thrombosis: portal vein, hepatic veins (rare Budd-Chiari syndrome)
+
+- Hypoxaemic hepatitis'' in hypovolaemia, shock or acute cardiac failure: very high cytolysis, predominantly of TSA, with damage to other organs, particularly the kidney. In this case, there is a mismatch between the liver's oxygen supply and oxygen requirements.
+
+
+2- Look for rarer diseases
+
+When the first-line aetiological work-up remains negative, a search must be made for rarer causes, but the context and diagnostic tools often allow the diagnosis to be made.
+
+- Autoimmune hepatitis: this should be suspected rapidly, particularly in women. Markers are a sharp increase in immunoglobulin G and positive anti-nuclear and anti-tissue antibodies (anti-smooth muscle, anti-LKM).
+
+- Wilson's disease (genetic copper overload): exceptional, but should be considered in cases of familial disease with a suspected genetic cause, consanguinity of parents, or associated neurological impairment in a young adult.
+
+- Acute hepatitis occurring during pregnancy, which should be investigated for HELLP syndrome or acute gravid steatosis.
+
+- Tumour infiltration of the liver (mainly haematological malignancies), which sometimes mimics acute hepatitis.

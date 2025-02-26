@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-203-09-B
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=B
+|Title=Knowing the rarer aetiologies of acute dyspnoea
+|Description=pseudo cardiac asthma, tamponade, shock, metabolic acidosis, hyperthermia, tracheal stenosis, CO intoxication, pneumocystis
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+- Foreign body: suspected especially in the oldest children and the elderly.
+
+- Laryngitis or epiglottitis: rare diagnosis, especially in children
+
+- Bronchopulmonary cancer: dyspnoea is rarely the main complaint except in cases of proximal involvement (tracheal or bronchial) or complications such as pleurisy.
+
+- Metabolic acidosis (diabetic ketoacidosis): dyspnoea without hypoxaemia and without any clinical or radiological abnormality in the lungs.

@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-273-04-A
+|Item_parent=Dysphagia
+|Item_parent_short=Dysphagia
+|Rank=A
+|Title=Knowing the complementary non-biological examination to carry out in the first instance in the presence of dysphagia
+|Description=FOGD
+|Rubric= Complementary examinations
+|Contributors=
+|Order=4}}
+'''This is oesogastroduodenal endoscopy (EOGD''', formerly "FOGD", the F standing for Fibroscopy). This examination :
+
+
+- Confirms or refutes the lesional nature of dysphagia
+
+- Enables biopsies to be taken of oesophageal lesions
+
+- Should include systematic oesophageal biopsies even in the absence of a visible lesion (eosinophilic oesophagitis)
+
+- Should look for a "popping" sensation when the endoscope is passed over the oesogastric junction, suggestive of oesophageal motor disorder.
+
+- Can diagnose morphological anomalies without mucosal lesions: hiatal hernia, diverticulum, etc.
+
+- May be incomplete in the event of an impassable stenosis or food stasis
+
+<br />

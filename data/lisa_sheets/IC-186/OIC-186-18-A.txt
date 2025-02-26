@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-186-18-A
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=A
+|Title=Knowing the major epidemiological trends in respiratory allergy: prevalence, mortality, morbidity, allergens, etc.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=18}}
+Respiratory allergy in children results from the pressure of an environment against a predisposed genetic background (polygenic disease). In France today, ''10% of children are asthmatic''. This risk increases when one of the two parents is asthmatic (25% of asthmatic children in this case), and to more than 50% if both parents are asthmatic.
+
+
+The ''main triggers'' in childhood asthma are primarily
+
+- viral infections
+
+- allergy to pneumallergens (the same as in adults)
+
+
+There are other ''clearly identified factors'' that trigger asthma in children:
+
+- exposure to tobacco from conception
+
+- indoor air pollution and atmospheric pollution
+
+
+Alterations to the microbiota of newborn babies could increase the risk of developing allergic pathologies.

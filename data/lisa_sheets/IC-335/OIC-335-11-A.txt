@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-335-11-A
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=A
+|Title=Knowing the examinations to be carried out in the case of a fracture of the mandible
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=11}}
+radiological exploration is required for diagnostic and pre-therapeutic purposes
+
+# a panoramic dental X-ray to pinpoint the location of fracture lines; this is a specific and sensitive examination that requires little radiation and is easily accessible; it requires the patient to be conscious and able to sit or stand upright
+# a CT scan of the facial mass, without injection, is useful for more precise exploration of the condylar region

@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-268-01-A
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=A
+|Title=Know the standards for total and ionised blood calcium
+|Description=Know the blood calcium thresholds and how hypoalbuminemia affects the total blood calcium level.
+|Rubric=Definition
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=1}}
+
+. Total calcium levels include
+
+*a fraction bound to albumin
+*an ionised fraction (55%)
+
+. Only the ionised fraction is the regulated form
+
+. Normal total blood calcium levels are between 2.20 and 2.60 mmol/L.
+
+. Normal ionised calcium levels are between 1.15 and 1.30 mmol/L.
+
+. Total calcaemia varies in the same direction as albuminemia (hypocalcaemia in the case of hypoalbuminemia and total hypercalcaemia in the case of hyperalbuminemia).
+
+. In the case of any abnormality in total calcium, it must be confirmed that it is indeed accompanied by a variation in ionised calcium (i.e. an abnormality in calcium metabolism). This can be done by :
+
+*Direct measurement of ionised calcium (Ca++)
+*Calculation of corrected total blood calcium: Total blood calcium (mmol/L) + (40-albumin(g/L))x 0.025
+
+                             
+
+                             

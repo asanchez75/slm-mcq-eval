@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-003-20-B
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=B
+|Title=Knowing decision support systems
+|Description=Good practice in the use of decision aids for patient management, including the construction and use of clinical pathways and recommendations.
+|Rubric=Management
+|Contributors=Jacques Bouaud,Brigitte Seroussi
+|Order=20}}
+
+Good practice in the use of decision aids for managing patient care, including the construction and use of clinical pathways and recommendations.
+
+'''Medical decision support systems'''
+
+The constant increase in knowledge makes it difficult for healthcare professionals to keep abreast of the latest management recommendations for the various diseases they treat. Assisting decision-makers means proposing appropriate and validated treatments (in English, we talk about process and performance to describe the care provided) capable of producing the best results for patients (in English, we talk about clinical outcomes to describe the clinical benefits). There are many decision-support tools and resources, and they vary according to how they are used, their complexity, the tasks they support, and their media.
+
+Computerised systems capable of delivering personalised information based on patient characteristics are known as Clinical Decision Support Systems (CDSSs). They are defined as software applications that provide clinicians and patients with clinical knowledge or patient data, intelligently filtered and presented at the right time to facilitate management decisions. CDSSs have proven to be tools with the potential to improve compliance with state-of-the-art recommendations.
+
+'''''On distinguishes two types of SADM according to the resources on which their algorithms operate:'''''
+
+* SADMs based on explicit knowledge, represented in symbolic form and processed within the framework of logic. These are knowledge-based SADMs which, when they are complex, use symbolic artificial intelligence techniques.
+* SADMs based on models built by learning from existing data sets. These are data-based SADMs based on machine learning or digital artificial intelligence techniques.
+
+'''Decision support systems for every stage of the care pathway'''
+
+There are a multitude of SADMs, with underlying models ranging from the very simple to the extremely complex. Similarly, the areas in which SADMs can be used in medical practice are varied.
+
+* Diagnostic assistance systems'' are a highly cognitive activity, aimed at finding the pathology or pathologies likely to explain an observed clinical picture, described by a set of signs, symptoms, syndromes and antecedents. DXplain is the historic diagnostic assistance system, developed in the United States in 1984. Users enter a set of criteria to describe a clinical situation. The diagnoses evoked by this description are then displayed, distinguishing between common and rare diagnoses. The system suggests criteria which, if filled in, can be used to refine the selection of possible diagnoses and to guide the user towards a specific diagnosis (hypothetico-deductive approach). Diagnostic assistance can also be based on imaging (e.g. image analysis in dermatology).
+* Drug prescription assistance systems (or prescription assistance software) are designed to ensure the correct use of drugs and make prescriptions more secure (detection of overdoses, drug interactions and contraindications). Checks are carried out automatically once the prescription has been written by the doctor, and alerts are triggered if a problem is detected. It should be noted that LAPs do not provide assistance in choosing the 'right' drugs, i.e. those indicated to treat the patient's pathologies. For example, antibiotics may be prescribed for diabetes; the LAP will check the dosage, any drug interactions and contraindications, but will not indicate that antibiotics are not recommended for treating diabetes.
+* Therapeutic management support systems'': the aim is to propose the best treatment or care plan for a given patient, at a given point in his or her care, according to the current state of the art. To develop this type of SADM, we refer to medical knowledge about the care we wish to assist. This knowledge is summarised in the form of recommendations for good practice (RBP) in guides to good practice (GBP) or guidelines. This is evidence-based medicine.
+* Decision support systems for prevention (e.g. vaccination reminders), monitoring (e.g. diabetic eye tests) and prognosis (e.g. cardiovascular risk calculations, cancer relapse calculations, etc.).
+* Clinical scores are considered to be decision-support tools, even if their design is sometimes simple. There are many sites, programmes and applications for calculating clinical scores, from a variety of sources (whether public, from learned societies such as the French Society of Emergency Medicine, or private, which abound on the web). These modules can be integrated into business software, computerised patient records or hospital information systems, e.g. the Fagerström test to assess the level of dependence on tobacco, the Wells score to assess the risk of pulmonary embolism, Predict Breast Cancer to assess the probability of survival at 5, 10 and 15 years in the case of breast cancer.
+
+'''Resources for decision support'''
+
+The documentary resources at the origin of the knowledge bases of logico-symbolic decision support systems are usually textual and expressed in natural language. These include semiology manuals to aid diagnosis, Summaries of Product Characteristics (SPCs) to aid prescribing and good practice recommendations to aid therapeutic decision-making. These texts must first be translated into a computational format (structuring the content and encoding it in a knowledge representation formalism) before being used in the SADM knowledge bases. Shiffman has proposed a sequence of steps for controlling the formalisation of text content: atomisation to identify the concepts of interest, including standardisation of the wording and categorisation into decision variables (characterising the clinical situation) and action variables (characterising the recommended action); de-abstraction to quantify the concepts and make them usable by computer processing (eg. from "high fever" to "fever > 38°C"); disambiguation to eliminate ambiguities in the text and, if necessary, freeze the interpretation (take a bias), and completion to complete all the clinical profiles covered by the good practice guidelines.
+
+For diagnostic assistance systems, like DXplain, knowledge bases are represented in the form of production rules linking criteria describing the clinical picture and symptoms to possible diagnoses. Examples include Aidediag for GPs (for a fee), and symptom checkers for the general public, which can be used to assess the urgency of a clinical situation and direct patients to the appropriate medical service (pharmacist, GP or emergency department), in particular the Mayo Clinic's symptom-checker and its French equivalent Sympto-check .
+
+For therapeutic assistance, the work of formalising SPCs is carried out by drug database publishers. The National Agency for the Safety of Medicines and Health Products (ANSM) publishes a list of medicines including the extract, the SPC and the patient leaflet. The main drug databases are Thériaque , Thésorimed , the Claude Bernard database (BCB) and Vidal . It should be noted that the public drug database, published online by the ANSM, is not a resource that can be used by the LAPs.
+
+As far as therapeutic decision support is concerned, the resources are the good practice guidelines published by the national agencies responsible for the quality of care: the Haute Autorité de Santé (HAS) in France and NICE in the UK. The equivalent site in the United States, the National Guideline Clearinghouse, maintained by AHRQ, closed in 2018 following the end of federal funding.  
+
+Data-based decision support systems are trained on massive data, annotated images in radiology or anatomopathology (virtual slides), or on text corpora for decision support requiring the implementation of natural language processing methods (synthesis of a patient file, information retrieval, etc.). In addition to the health data warehouses currently being built in health establishments, the Health Data Hub (a public interest grouping) brings together data from public bodies (including the Système National des Données de Santé (SNDS)), information from the Assurance Maladie and French hospitals to support the digital artificial intelligence research work of the researchers whose projects are selected.

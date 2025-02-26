@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-189-07-B
+|Item_parent=Immune deficiency
+|Item_parent_short=Immune deficiency
+|Rank=B
+|Title=Knowing the first-line paraclinical examinations to explore hypogammaglobulinemia
+|Description=immunofluorescence (IF), light chains, proteinuria/albumin, Ig weight assay, IgG subclass assay
+|Rubric=Additional tests
+|Contributors=
+|Order=7}}
+
+
+*Weighted immunoglobulin dosage
+*NFplatelets
+*If associated hypoalbuminemia on EPP --> suggestive of Ig loss mechanism
+**Proteinuria/24 h or proteinuria/creatinuria
+**Clearance of alpha 1 antritrypsin
+*If no hypoalbuminemia
+**Immunofixation, Bence Jones proteinuria, serum calcium
+**T and B lymphocyte phenotyping
+**depending on the context and if haemopathy is suspected: myelogram, CT scan, skeletal X-ray
+
+<br />

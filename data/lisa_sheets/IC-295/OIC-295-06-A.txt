@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-295-06-A
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=A
+|Title=Knowing how to assess and characterise pain symptoms in cancer patients and how to set up treatment modalities.
+|Description=None
+|Rubric=Management
+|Contributors=Laurent Zelek
+|Order=6}}
+
+All cancer patients should be screened systematically for symptoms of pain, which, along with chronic fatigue, is one of the most frequent symptoms. Pain assessment is based on questioning, supplemented by the patient's self-assessment using a visual analogue scale (VAS). In particular, it is necessary to specify whether the pain is acute or chronic and its mechanism of action (excess nociception, neuropathic pain, mixed pain), as well as its impact on quality of life (sleep disorders, depression) (See: [[Neurophysiological bases, pathophysiological mechanisms of acute and chronic pain]] and [[Pain in vulnerable people]]).
+
+'''Pain in cancerology is most often related to:'''
+
+- tumour damage:''
+
+o excess nociception (e.g. bone metastases)
+
+o neuropathic damage (e.g. compression of a nerve trunk)
+
+o mixed pain (e.g. parietal thoracic invasion)
+
+- after-effects of treatment:''
+
+o post-surgical pain (often due to scarring, but other mechanisms are possible: e.g. retractile capsulitis after axillary curage)
+
+o post-chemotherapy pain (mainly related to certain chemotherapies responsible for peripheral neuropathy)
+
+- there are also pain symptoms specific to certain neurological conditions''.
+
+o headaches due to intracranial hypertension (ICHT) in the case of cerebral metastases
+
+o carcinomatous meningitis, which is responsible for poorly systematised neurological symptoms with a neuropathic component (a "classic" meningeal syndrome is unusual in this context).
+
+
+'''Painkillers''' are prescribed using WHO levels 1 and 2, whose effectiveness is rapidly limited, so level 3 painkillers (morphine) must be used quickly. (See: [[Analgesic, medicinal and non-medicinal therapies]]; [[Opioid analgesics: mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A17]]; [[Non-opioid analgesics (including paracetamol): mechanisms of action, indications, side-effects, drug interactions, monitoring procedures and main causes of failure 2C-330-PC-A16]]. )
+
+Co-antalgesics are also useful in certain situations:
+
+- corticosteroids (prednisone of the order of 1mg/kg/day, or equivalent) in the case of HTIC, compression pain, etc.
+
+- non-steroidal anti-inflammatory drugs (NSAIDs), particularly for bone metastases (use with caution due to possible side effects in these fragile patients)
+
+- bone resorption inhibitors (biphosphonates and denosumab), which mainly have a preventive effect on fracture risk but also act on bone pain
+
+- antibiotics for tumour superinfection (pelvis, ENT)
+
+- local topicals for certain localised neuropathic pains.
+
+
+Analgesic radiotherapy should not be omitted, as should certain interventional radiology techniques: cementoplasty, radiofrequency or embolisation.
+
+'''It is advisable to call in an algologist to deal with complex pain, particularly with a neuropathic component'''.

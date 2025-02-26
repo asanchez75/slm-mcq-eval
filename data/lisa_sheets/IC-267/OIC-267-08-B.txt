@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-267-08-B
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=B
+|Title=Know how to correct chronic metabolic acidosis
+|Description=Know how to prescribe alkalinisation in the context of chronic kidney disease.
+|Rubric=Management
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=8}}
+
+
+*Treatment is necessary to prevent muscle wasting, bone demineralisation and, in children, stunted growth.
+*Maintain plasma bicarbonate levels > 22 mmol/L by taking sodium bicarbonate orally (1 to 6 capsules a day, for example in cases of chronic renal failure).

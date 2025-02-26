@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-157-01-A
+|Item_parent=Bacteremia/Fungemia in adults and children
+|Item_parent_short=Bacteremia/Fungemia in adults and children
+|Rank=A
+|Title=Know the definition of bacteraemia, fungaemia and their evolutionary risk.
+|Description=None
+|Rubric=Definition
+|Contributors=David Lebeaux
+|Order=1}}
+'''Microbiological definition:'''
+
+- <u>Bacteremia</u>: presence of bacteria in the blood detectable in a blood culture bottle
+
+- <u>Fungemia</u>: presence of fungi in the blood
+
+- The term "septicaemia" should be abandoned as imprecise
+
+'''We must distinguish and always look for:'''
+
+- Entry point (source of bacteria: mucous membrane, wound, urine, etc.)
+
+- The source of the infection (origin of the bacteremia: pneumonia, pyelonephritis, meningitis, etc.)
+
+- Any secondary locations (osteoarticular, etc.) and any endovascular relays (endocarditis, etc.)
+
+
+In the absence of appropriate treatment, the risk is progression to sepsis, septic shock and death.

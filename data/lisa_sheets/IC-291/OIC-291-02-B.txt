@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-291-02-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=General: understanding the constitutional and tumour approach
+|Description=Define and distinguish between somatic and constitutional variations,
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+The molecular genetics of cancers, also known as ''somatic tumour genetics'', aims to characterise the ''molecular anomalies specific to the tumour'' (from a tissue or cell sample). This ''tumour identity card'' makes it possible to personalise the treatment of cancer patients by :
+
+- contributing to the diagnosis by complementing clinical, anatomopathological and imaging studies;
+
+- to establish the prognosis;
+
+- guiding the treatment strategy, including access to targeted therapy or immunotherapy;
+
+- to monitor residual disease.
+
+In contrast, ''''oncogenetics''' is concerned with the constitutional genetic characteristics '''(the individual's genetic heritage)''' which determine '''cancer predisposition syndromes'''. This type of syndrome is evoked when there is a family clustering of cancers of the same type, an onset of cancer at an early age or several cancers in the same individual.
+
+Oncogenetic tests are generally carried out on a blood sample or buccal swab. Their aim is to "identify the constitutional genetic alteration involved and confirm the hereditary nature and mode of transmission". Ultimately, the aim of these analyses is to improve care for the individual and their relatives as part of ''genetic counselling''. These predictive tests make it possible to offer relatives who are carriers of the family genetic alteration specific prevention and screening measures. The performance of oncogenetic tests is strictly regulated by the Bioethics laws and requires informed consent.
+
+It is important that tumour and oncogenetic analyses are coordinated.

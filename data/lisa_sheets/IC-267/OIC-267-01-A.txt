@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-267-01-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base equilibrium and fluid-electrolyte disorders
+|Rank=A
+|Title=Knowing the indications for gasometry
+|Description=Know the situations in which it is necessary to perform arterial GDS (shock, acute respiratory failure) and venous GDS (suspected ketoacidosis).
+|Rubric=Positive diagnosis
+|Contributors=P Rieu,B Moulin,M Flamant
+|Order=1}}
+
+*Dyspnoea;
+*Suspicion of acute or chronic hypoxaemic lung disease;
+*Clinical suspicion of acid-base imbalance (metabolic or respiratory);
+*suspicion of ketoacidosis;
+*Severe acute renal failure;
+*Metabolic toxicities responsible for metabolic acidosis;
+*Shock;
+*Disturbances of consciousness, coma

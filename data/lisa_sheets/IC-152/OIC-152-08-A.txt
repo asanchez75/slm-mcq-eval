@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-152-08-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing the initial approach to microbiological diagnosis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=8}}
+Blood cultures and cardiac ultrasound are the key tests for diagnosing endocarditis:
+
+- To diagnose a [[Positive blood culture SD-190|bacteremia]] (or fungemia)
+
+- Visualise vegetations or other valvular lesions suggestive of endocarditis (abscesses, valvular destruction).
+
+
+Blood cultures are the reference test for :
+
+- Isolating the micro-organism responsible
+
+'''- Determine its microbiological origin'''
+
+'''- Guiding the search for the entry point'''
+
+
+Blood cultures must be taken :
+
+- 3 venous blood samples with culture on aero-anaerobic medium.
+
+- Spaced at least one hour apart, over 24 hours (blood bacterial concentrations fluctuate over time).
+
+- '''Even in the absence of fever/chills'' (bacteremia is not always accompanied by fever).
+
+- With a sufficiently large volume of blood (40 to 60 mL in adults, as this increases the sensitivity of the test).
+
+- And repeated beyond 24 hours in the presence of negative blood cultures, particularly if antibiotics have already been taken.
+
+
+The microbiology laboratory must be informed if infective endocarditis is suspected.
+
+The [[Infectious diseases:Duke's criteria for the diagnosis of infective endocarditis|Duke's criteria]] are frequently used to make the diagnosis of IE, on the basis of microbiological and echocardiographic signs, and other criteria (terrain, clinical and biological signs).

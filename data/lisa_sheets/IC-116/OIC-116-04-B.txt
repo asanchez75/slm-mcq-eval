@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-116-04-B
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=B
+|Title=Photograph of a typical prurigo lesion
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=4}}
+<gallery>
+File:Photo prurigo V3.jpg|Photo nodular prurigo lesions
+</gallery>

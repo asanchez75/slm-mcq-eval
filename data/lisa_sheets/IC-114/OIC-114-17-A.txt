@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-114-17-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Know three causes of erythroderma in adults
+|Description=psoriasis, eczema, Sézary syndrome, toxidermia (DRESS), HIV, hyperkeratotic scabies
+|Rubric=Etiologies
+|Contributors=
+|Order=17}}
+The main causes of erythroderma in adults are :
+
+- psoriasis
+
+- epidermotropic T lymphomas
+
+- eczema, including atopic dermatitis
+
+- hyperkeratotic scabies
+
+- DRESS-type drug-induced toxidermia
+
+- certain infectious diseases (HIV)

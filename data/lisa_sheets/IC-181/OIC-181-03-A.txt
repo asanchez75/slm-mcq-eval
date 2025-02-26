@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-03-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing the definition of health monitoring and vigilance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=3}}
+
+Health monitoring is an essential component of health safety. It corresponds to a continuous process of collecting, identifying, evaluating and investigating the risks of events or undesirable events of any kind associated with a potential threat to human health.
+
+The monitoring of notifiable diseases, carried out by the monitoring units of the Regional Health Agencies, is an example of a health monitoring system.
+
+Monitoring systems specific to risks associated with the consumption of products consumed by humans or the use of the healthcare system are known as "health vigilance" systems. These are regulated systems for monitoring undesirable events and incidents in human beings. Initially restricted to healthcare products, vigilance has been extended to nosocomial infections and any serious adverse event linked to healthcare (investigation, treatment or prevention), as well as to the use of cosmetics or tattooing products.

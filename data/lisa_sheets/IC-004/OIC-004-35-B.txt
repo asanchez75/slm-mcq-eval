@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-004-35-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the risk factors for an SSI
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=35}}
+'''Patient-related factors''':
+
+- Altemeier classification: contamination class according to the degree of contamination of the wound preoperatively; takes the values 1 (clean), 2 (clean-contaminated), 3 (contaminated), 4 (dirty).
+
+- ASA score: risk scale developed by the American Society for Anesthesiology, which takes into account the preoperative pathological state of patients, with values of 1 (no condition other than that requiring surgery), 2 (moderate disturbance of a major function), 3 (severe disturbance of a major function), 4 (imminent vital risk), 5 (moribund).
+
+- Obesity, diabetes
+
+- Malnutrition
+
+- Age
+
+- Comorbidities (organ failure, metabolic factors, etc.)
+
+'''Intervention-related factors''' :
+
+- Prolonged operating time beyond the usual standards
+
+- Failure to maintain intraoperative normothermia
+
+- Tissue oxygenation
+
+- Haemostasis
+
+- Controlling blood sugar levels
+
+'''Factors related to prevention and non-compliance with preoperative protocols'' :
+
+- Skin preparation and disinfection
+
+- Antibiotic prophylaxis

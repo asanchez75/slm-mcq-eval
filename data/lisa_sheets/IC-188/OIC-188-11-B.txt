@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-188-11-B
+|Item_parent=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Item_parent_short=Hypersensitivity and respiratory allergies in children and adults. Asthma, rhinitis
+|Rank=B
+|Title=Knowing the PR semiology of thoracic distension
+|Description=Hyperclarity of the lung fields with flattening of the diaphragmatic cupolas and horizontalization of the ribs.
+|Rubric=Multimedia content
+|Contributors=
+|Order=11}}
+cf identical chapter in item COPD

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-013-17-B
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=B
+|Title=Knowing the different types of autopsy
+|Description=None
+|Rubric=Definition
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=17}}
+'''Different types of autopsy''':
+
+'''-Forensic autopsy''': requested by a magistrate, most often following a forensic obstacle to burial on the death certificate. It is governed by the Code of Criminal Procedure. It is carried out as part of an "investigation into the cause of death with the aim of seeking the intervention of a third party". The family cannot object.
+
+Medical autopsy: requested by a doctor. It is governed by the Public Health Code. Its purpose is to understand the medical cause of death. The family may object, or the deceased may object during his or her lifetime by registering on the National Register of Refusals.

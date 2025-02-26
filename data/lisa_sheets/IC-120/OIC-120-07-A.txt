@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-120-07-A
+|Item_parent=Complications of immobility and decubitus. Prevention and management
+|Item_parent_short=Complications of immobility and decubitus. Prevention and management
+|Rank=A
+|Title=Know the main criteria for the different stages of pressure sores.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Antoine Guillon
+|Order=7}}
+
+Stage 0 = Reactive hyperhaemia disappears with pressure
+
+Stage 1 = Permanent erythema
+
+Stage 2 = Partial skin lesion involving the epidermis, dermis or both
+
+Stage 3 = Skin lesion involving all layers of the skin
+
+Stage 4 = Extensive destruction with deep skin loss affecting all 3 skin layers and extending to the underlying bone, tendons and joints.

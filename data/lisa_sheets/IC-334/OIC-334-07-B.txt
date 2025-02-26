@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-334-07-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the principles of diagnostic management on arrival at hospital
+|Description=Clinical examination, role of complementary examinations, exhaustive lesion assessment
+|Rubric=Management
+|Contributors=
+|Order=7}}
+("''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]'''") (figure 3)[[Fichier:Item 334 Figure 3 Principles of diagnostic management on arrival at hospital.jpg|vignette|Figure 3. Principles of diagnostic management on arrival at hospital]]
+<br />
+{| class="wikitable"
+| colspan="2" |'''Acronym ABCDE''''
+|-
+|''[A]irway (airway)'''
+|- Search for airway obstruction
+|-
+|''[B]reathing (ventilation)'''
+|- SpO<sub>2</sub>, respiratory rate
+
+- Cyanosis
+
+- Signs of respiratory distress
+|-
+|Circulation (haemodynamics)
+|- Blood pressure, heart rate
+
+- Palpation of pulses
+
+- Search for active haemorrhage
+
+- Looking for signs of shock
+|-
+|'''[D]isability (neurological)''''
+|- Glasgow score
+
+- Bilateral pupil examination
+
+- Anal sphincter tone: rectal examination
+|-
+|''[E]xposure (wounds)'''
+|- Search for wounds and fractures
+|}

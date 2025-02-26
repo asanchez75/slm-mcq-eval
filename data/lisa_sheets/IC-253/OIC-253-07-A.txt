@@ -1,0 +1,285 @@
+{{knowledge objective
+|Identifiant=OIC-253-07-A
+|Item_parent=Obesity in children and adults (see item 71)
+|Item_parent_short=Obesity in children and adults (see item 71)
+|Rank=A
+|Title=Know how to diagnose the complications of obesity in adults and children.
+|Description=Know the main complementary examinations during the initial management of an obese patient - Diagnostic criteria for metabolic syndrome - Measurement of waist circumference - Definition and screening for sleep apnoea syndrome - Definition of alveolar hypoventilation syndrome - Know how to assess the overall impact of obesity (medical, functional including epiphysiolysis of the femoral head in children, psychological).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+{| class="wikitable"
+|'''Complications'''
+|'''Comorbidities'''
+|Adult
+|'''Child'''
+|'''Comments'''
+
+'''Some of the tests (here in italics) should only be carried out if there are points of call'''
+|-
+| rowspan="2" |'''Metabolic''''
+|Type 2 diabetes◊
+
+Insulin resistance ◊. Glucose intolerance ◊
+|*
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|*
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|cf [[Diabetes mellitus types 1 and 2 in children and adults. Complications|diabetes]]
+|-
+|metabolic syndrome ◊
+|*
+|
+|High waist circumference (> 94 cm for men; > 80 cm for women)
+
+associated with hypertension and/or hypertriglyceridaemia and/or hyperglycaemia
+|-
+| rowspan="3" |'''Cardiovascular''''
+|Hypertension in adults and children
+|*
+|*
+|Blood pressure measured with a cuff adapted to the circumference of the patient's arm.
+|-
+|Coronary insufficiency ◊
+
+Myocardial infarction ◊
+
+Stroke ◊
+|''*''
+
+''*''
+
+''*''
+|
+|''Stress ECG (cf. cardio reference system)''
+|-
+|Heart failure
+|''*''
+|
+|cardiac echography, pro-BNP assay if clinical signalling point
+|-
+| rowspan="4" |'''Respiratory''''
+|Restrictive respiratory failure
+|*
+|
+|EFR
+|-
+|Obstructive Sleep Apnoea Hypopnoea Syndrome (OSAHS) ◊
+|*
+|*
+|Polygraphy in the majority of cases if suggestive clinical symptoms.
+
+In children, OSA can be manifested by snoring, night-time awakenings, daytime sleepiness or excitability, a drop in school results, bed-wetting, etc.
+|-
+|Alveolar hypoventilation syndrome
+|*
+|
+|Defined on GDS as hypoxaemia (PaO<sub>2</sub> < 70 mmHg) and hypercapnia (PaCO<sub>2</sub> > 45 mmHg).
+|-
+|Asthma
+|*
+|*
+|EFR
+|-
+|'''Thrombo-embolic''''
+|Venous thrombosis
+
+Pulmonary embolism
+|*
+
+<nowiki>*</nowiki>
+|
+|
+|-
+| rowspan="2" |'''Digestive and hepatic'''
+|Gastroesophageal reflux disease
+
+Biliary lithiasis ◊
+|*
+
+<nowiki>*</nowiki>
+|*
+|
+|-
+|Steatohepatitis ◊
+|''*''
+|''*''
+|''GGT, transaminases; abdominal ultrasound''
+|-
+|'''Renal''''
+|Glomerulopathy with proteinuria
+|*
+|
+|
+|-
+|'''Osteoarticular''''
+|Gonarthrosis / Coxarthrosis
+
+==Hip epiphysiolysis===
+
+==Spinal statics disorders==
+
+==Genu valgum, especially if asymmetrical=
+Growth epiphysitis
+|''*''
+|
+
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+
+<nowiki>*</nowiki>
+|''Standard radiographs focusing on painful joints''
+|-
+|'''Cutaneous''''
+|Mycotic intertrigo
+
+Lymphedema
+
+Venous insufficiency
+
+Stretch marks
+
+Acanthosis nigricans ◊
+
+Hirsutism
+|*
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|*
+
+
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|
+|-
+|'''Urogenital (women)'''
+|Stress urinary incontinence
+|*
+|
+|
+|-
+| rowspan="3" |'''Gynaecological'''''
+|Fertility disorders
+|*
+|
+|In association with anovulation or polycystic ovary syndrome ◊
+|-
+|Risk of miscarriage
+|*
+|
+|
+|-
+|Risk of miscarriage
+
+Gestational diabetes ◊
+
+Pregnancy-induced hypertension ◊
+|*
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|
+|
+|-
+|'''Neurological'''
+|Idiopathic or ''benign'' intracranial hypertension
+|*
+<br />Idiopathic or "benign" intracranial hypertension
+|
+|
+|-
+| Oncology
+|Breast, endometrium, colon-rectum, kidney, pancreas, oesophagus, gall bladder
+|*
+|
+|Increase in cancer incidence and mortality
+
+Screening for obesity follows recommendations for the general population
+|-
+|Psychological and social discrimination
+|Social discrimination
+
+Loss of self-esteem
+
+Anxiety/depression
+
+Behavioural disorders
+|*
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|*
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+
+<nowiki>*</nowiki>
+|Stigma
+|-
+|'''Endocrine''''
+|Frequent buried pollen, eliminate a micropenis
+
+Adiposity and/or gynaecomastia in boys
+
+Early puberty in girls / delayed puberty in boys
+
+Spaniomenorrhea, Hypertrichosis
+|
+|*
+
+
+
+<nowiki>*</nowiki>
+
+
+
+<nowiki>*</nowiki>
+
+
+
+
+<nowiki>*</nowiki>
+<br />
+|
+==Endocrinologist==
+
+==Bone age and specialist opinion==
+
+
+
+
+Ultrasound and hormonal tests for polycystic ovary syndrome
+<br />
+|}
+<br />◊ associated with visceral obesity
+
+<br />

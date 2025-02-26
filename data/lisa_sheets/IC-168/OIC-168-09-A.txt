@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-168-09-A
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Title=Know how to diagnose the main complications of herpes zoster (keratitis, post-herpetic pain, neurological complications).
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+Keratitis: complication of ophthalmic shingles (V1 territory, trigeminal, external nasal branch), this is a diagnostic emergency, the lesion appears 2 to 3 weeks after shingles, ophthalmic pain and corneal lesion, by loss of sensitivity and erosive lesion, sometimes diplopia. Diagnosis is made by fluorescein test; if negative, repeat with slit lamp, epithelial pseudodendrites without terminal bulb.
+
+Post-herpetic pain: neuropathic pain. Persists after healing, generally disappearing after 1 to 6 months, but may be permanent.
+
+Neurological: myelitis and encephalitis sometimes without rash. Oculomotor involvement.

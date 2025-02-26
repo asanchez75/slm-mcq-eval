@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-331-05-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Knowing no-flow and low flow
+|Description=Knowing the concepts of no-flow and low-flow
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+- No-flow: Period without any flow, the period between collapse (t=cardiac arrest) and the start of cardiac massage. It is a prognostic marker.
+
+- Low flow: period of low flow between the start of cardiac massage and the resumption of circulatory activity or the restoration of correct mechanical blood flow (ECMO).

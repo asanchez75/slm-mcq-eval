@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-184-06-A
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Rank=A
+|Intitle=Knowing the different types of disability
+|Description=Differences between IP and ITT
+|Section=Definition
+|Contributors=
+|Order=6}}
+
+
+=== '''ITT (total incapacity for work)''' ===
+
+* It is a ''purely penal'' concept.
+* It is determined by any doctor, forensic or otherwise, in the event of a road traffic accident, assault, etc.
+* TIW takes the form of a period of time "which will determine the penal consequences for the perpetrator of the accident or assault and battery".
+* ITT was formerly known as "Incapacité Totale de Travail Personnel (ITTP)".
+
+<br />
+
+=== '''Permanent disability''' ===
+
+It is set solely ''by a medical officer of the social welfare organisation'' * on the basis of a scale depending on the after-effects of the accident
+* on the basis of a scale depending on the after-effects
+* after consolidation of the pathology (after receipt of the final medical certificate drawn up by the patient's GP or specialist in the broadest sense of the term) in the case of an occupational disease or accident recognised as such.
+* This rate of PI allows '''compensation''' in the form of a lifelong annuity (if rate of PI ≥10%) or a lump sum (if rate of PI <10%).
+* Permanent disability was formerly known as "Incapacité permanente partielle (IPP)". IP can be revised, for example, if the condition worsens or relapses.

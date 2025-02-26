@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-224-18-B
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=B
+|Title=Knowing how to manage a hypertensive emergency
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=18}}
+The principles of management of a patient with a hypertensive emergency are :
+
+- emergency hospitalisation of the patient,
+
+- gradual reduction in BP using intravenous anti-hypertensive therapies, except in the case of focal neurological deficits where it is necessary to wait for brain imaging in order not to miss a cerebrovascular accident
+
+- rehydration with isotonic saline in the case of malignant hypertension. The introduction of ACE inhibitors/ARA2 is recommended.
+
+- treatment of associated organ failure
+
+- close monitoring of the patient
+
+- search for and management of a curable aetiology
+
+
+As a reminder, a hypertensive crisis is not, strictly speaking, a hypertensive emergency or malignant hypertension. Hypertensive crises do not require hospitalisation, but the patient needs to be calmed down, taught how to adhere to antihypertensive treatment, and even have treatment adapted. A follow-up consultation should be scheduled as soon as possible.

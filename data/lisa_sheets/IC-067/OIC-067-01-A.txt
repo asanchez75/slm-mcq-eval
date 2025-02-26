@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-067-01-A
+|Item_parent=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Item_parent_short=Neurodevelopmental disorders (see items 55, 118, 121, 122, 138)
+|Rank=A
+|Title=Know the definition and semiology of autism spectrum disorders
+|Description=Anomalies in communication and social interaction; Restricted and repetitive nature of behaviours, interests and activities (including sensory features); Chronology of onset of symptoms (developmental).
+|Rubric=Positive diagnosis
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notredame
+|Order=1}}
+==Definition==
+Autism Spectrum Disorders (ASD),''' like Attention Deficit Disorder with or without Hyperactivity (ADHD)'',''''' are ''neurodevelopmental disorders'''(NDD) - cf.[[Item 55]]'' for the common characteristics of NDD.
+
+ASDs are characterised by abnormalities in ''communication skills and social interaction'' associated with ''restricted behaviour, interests and activities''. These particularities have existed since early childhood. They have a systematic but variable functional impact.
+
+== Semiology ==
+
+===Particularities of communication skills and social interaction===
+These affect several areas of development:
+
+* Non-verbal communication :
+** Lack or delay of instrumental gestures of social value
+**infrequent or variable eye contact
+**Rarity or variability of communicative gestures/mimicry (e.g. pointing).
+*Verbal communication is marked by "pragmatic difficulties":
+**Difficulty accessing figurative language
+**Low functional value of language
+*Social and emotional reciprocity:
+**Few smiles in response
+**Lack of joint attention
+**Difficulty carrying on a conversation/reciprocal exchanges.
+*Social relationships:
+**Rare or variable social play.
+**Difficulty understanding and using social conventions
+**relational isolation/low social motivation
+
+===Restricted behaviour, interests and activities===
+It is manifested by :       
+
+* Repetitive and stereotyped behaviour:
+**Repetitive use of objects
+**Verbal stereotypies, echolalia, sometimes idiosyncratic language
+*Intolerance to change:
+**Adherence to routines, intolerance to change
+**Ritualised behaviour
+*Restricted interests:
+**Attachment to sometimes unusual objects
+**Focused and persevering interests
+*Sensory peculiarities: hyper- or hypo-reactivity to noise, visual stimuli, pain (see item 138)...

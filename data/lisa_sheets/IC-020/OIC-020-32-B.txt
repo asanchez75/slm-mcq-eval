@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-020-32-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Intitulé=Modalités de la communication scientifique ; processus de publication d'un article scientifique ; revues prédatrices.
+|Description=None
+|Rubric=Definition
+|Contributors=Julie Berbis (CUESP),David Hajage (CIMES)
+|Order=32}}
+
+Researchers communicate and share their findings by publishing scientific articles in general or specialist journals. The "publication process" involves a reading committee. The manuscript submitted by the researcher to the publisher for publication is then sent for review to peer-reviewers, specialists in the field, who assess the quality of the article (peer-reviewing). The manuscript may then be rejected, accepted as is or accepted subject to modifications of varying degrees.
+
+Predatory journals'' are a scam that offers researchers the opportunity to publish their work quickly and openly (via e-mail solicitations), in return for a publication fee. They present themselves at first glance as serious, but in reality offer no guarantee of scientific integrity and publish manuscripts without any form of evaluation or validation, simply for profit. There are more than 12,000 of them around the world, and researchers need to be increasingly vigilant. However, there is no agreed definition of a predatory journal, and some initiatives offer non-exhaustive lists of scientific journals presumed to be predatory (such as Beall's List) or non-predatory (such as that of Sorbonne University).
+
+<br />

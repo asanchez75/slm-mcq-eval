@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-194-15-B
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=B
+|Title=Knowing that the cornerstone of treatment for LS is hydroxychloroquine, and knowing the principles of treatment for the main disorders.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=15}}
+
+
+== Treatment objectives ==
+- Short term: ensure daily comfort, preserve vital functions in severe relapses.
+
+- Medium-term: to counter the foreseeable development of visceral damage, prevent relapses, prevent thrombotic recurrences and maintain social and professional integration.
+
+- Long-term: limit the after-effects of LS and the deleterious effects of treatment.
+
+-
+
+== Key elements of treatment'' ==
+- Coverage under ALD 30
+
+- '''Information''' for patients and their families (consultation for '''' announcing a chronic illness)'''.
+
+- Therapeutic education: informing patients about the risks of stopping treatment prematurely; the signs of a relapse; situations requiring specialist referral.
+
+- Effective photoprotection (wearing clothes and high factor sunscreen).
+
+- Stop smoking.
+
+- Self-monitoring: urine dipstick.
+
+- '''Plan pregnancies''' (wait until the LS is quiescent for the pregnancy to go well)
+
+- The need for appropriate contraception should be discussed at the first consultation. Progestin-only contraception and intrauterine devices should be preferred.
+
+- Adapted vaccination programme: suggest vaccination against pneumococcus, influenza and covid-19 if you are being treated with corticosteroids or immunosuppressants.
+
+- '''Hydroxychloroquine: essential background treatment, offered to all patients unless contraindicated. Synthetic antimalarial. Cornerstone of drug treatment''. Requires regular ophthalmological monitoring (slit lamp, Humphrey 10.2 and OCT) to detect macular toxic damage, as well as an ECG (''performance and interpretation of an electrocardiogram (ECG)'' prior to prescription and during follow-up.
+
+Treatment of flare-ups: corticosteroids and/or immunosuppressants.
+
+- Monitoring treatment tolerance : Patients exposed to corticosteroids and immunosuppressants require specific monitoring because of their immediate and delayed adverse effects ('''prescribe corticosteroids by the general or local route'' '''; monitoring immunosuppressed patients'''). Cyclophosphamide, for example, has gonadal, haematological and urinary tract toxicity. Mycophenolate mofetil is formally contraindicated during pregnancy.
+<br />
+
+== Treatment strategy ==
+- Joint flare-ups = hydroxychloroquine, and if insufficient non-steroidal anti-inflammatory drugs or steroids.
+
+- Minor outbreak (seritis, autoimmune cytopenias) = systemic corticosteroids (''prescribe systemic or local corticosteroids'')
+
+- In cases of severe relapse (renal, central nervous system), corticosteroid dependence or as background treatment after a severe relapse, in addition to hydroxychloroquine: addition of immunosuppressants (mainly cyclophosphamide, mycophenolate mofetil, azathioprine).

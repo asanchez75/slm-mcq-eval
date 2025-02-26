@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-266-01-B
+|Item_parent=Polycystic kidney disease
+|Item_parent_short=Polycystic kidney disease
+|Rank=B
+|Title=Knowing the prevalence of polycystic kidney disease
+|Description=The most common hereditary kidney disease
+|Rubric=Epidemiology
+|Contributors=Dominique Guerrot
+|Order=1}}
+
+* Autosomal dominant polycystic kidney disease (ADPKD) is a common hereditary disease with a prevalence of 1/1,000.
+* It is the most common hereditary kidney disease. It is the cause of 8 to 10% of end-stage renal disease.

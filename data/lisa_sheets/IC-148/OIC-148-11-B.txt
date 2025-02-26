@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-148-11-B
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Nasosinus infections of adults and children
+|Rank=B
+|Title=Knowing the indications for microbiological sampling in nasosinus infections
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=11}}
+Microbiological sampling is indicated in cases of acute sinusitis:
+
+- In the event of ''failure of antibiotic therapy''.
+
+- In the event of signs suggesting complicated sinusitis
+
+<br />

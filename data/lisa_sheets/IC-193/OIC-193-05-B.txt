@@ -1,0 +1,64 @@
+{{knowledge objective
+|Identifiant=OIC-193-05-B
+|Item_parent=Know the main types of systemic vasculitis, the target organs, diagnostic tools and treatment methods
+|Item_parent_short=Know the main types of systemic vasculitis, target organs, diagnostic tools and treatment methods
+|Rank=B
+|Intitle=Know the target organs and diagnostic tools
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Luc Mouthon
+|Order=5}}
+
+{| class="wikitable"
+|Target organs
+|Diagnostic tools
+|-
+|Skin lesions: purpura ''([[Purpura/ecchymosis/haematoma SDD-089|purpura/ecchymosis/haematoma]]]'', skin ulcers or necroses, livedo or subcutaneous nodules.
+|Skin biopsy
+|-
+|ENT lesion
+|Tomodensitometry (CT) of the facial sinuses
+
+ENT examination + biopsies
+|-
+|Lung involvement
+|Chest CT scan
+
+Bronchoalveolar lavage with Golde score
+|-
+|Renal damage (glomerular damage)
+<br />Urinary dipstick
+|Urinary dipstick '''([[Urinary dipstick analysis SDD-182|Urinary dipstick analysis]])''''
+
+Urinary cytology '''([[Urinary sediment analysis SDD-196|Urinary sediment analysis]])''''
+
+Proteinuria
+
+Créatininémie '''([[Créatinine augmentée SDD-199|Créatinine augmentée]])''''
+
+Kidney biopsy
+|-
+|Digestive damage
+<br />Abdominal
+|Abdominopelvic CT scan
+
+Digestive endoscopy + biopsies
+|-
+|Peripheral neurological impairment '''([[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]]; [[Sensory and/or motor neurological deficit SDD-121|sensory and/or motor neurological deficit]])''':
+
+- sensory or sensitivomotor polyneuropathy
+
+- multiple mononeuropathy
+|Electroneuromyogram
+
+Neuromuscular biopsy
+|-
+|Ocular damage
+|Ophthalmological examination
+|-
+|Cardiac damage
+|Cardiac enzymes: troponin '''([[Elevation of cardiac biochemical markers SDD-204|elevation of cardiac enzymes]])'''''
+
+Transthoracic echocardiography
+<br />
+|}

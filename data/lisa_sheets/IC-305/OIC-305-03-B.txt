@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-305-03-B
+|Item_parent=Oesophageal tumours
+|Item_parent_short=Oesophageal tumours
+|Rank=B
+|Title=Knowing the incidence and prevalence of oesophageal cancers in France
+|Description=Knowing the incidence and prevalence of oesophageal cancers in France
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+The incidence of oesophageal cancer is relatively stable in France, with 5,500 new cases per year. It affects men 3 times more than women. There has been a decline in the incidence of squamous cell cancers and a sharp increase in adenocarcinomas, linked to changes in exposure to risk factors.

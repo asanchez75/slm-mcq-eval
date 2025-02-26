@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-334-11-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Know the definition of fire smoke inhalation syndrome
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=11}}
+Smoke inhalation is suspected when several elements are combined:
+
+* fire in an enclosed space (building, car)
+* presence of soot in the oropharynx or sputum
+* respiratory symptoms associating dry cough, dysphonia with hoarseness of voice, wheezing, ronchi and sibilants
+* signs of acute respiratory distress ("acute respiratory distress SD-160")
+* burning ("''[[Burn SD-168|burn]]'''") of the face with the presence of soot around the mouth and nose (vibrissae damage): not indicative of smoke inhalation, but should be considered for diagnosis.

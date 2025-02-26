@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-065-04-A
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=A
+|Title=Semiological analysis of a delusional syndrome
+|Description=Refer to item 351
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Characterisation in 5 points:'''
+
+* Theme = the subject of the [[Delusional Idea SD-124|Delusional Idea]]. Several themes may exist.
+* Mechanism = process on which the construction of delusions is based. 4 possible mechanisms (interpretative, hallucinatory, intuitive and imaginative).
+* Systematisation = organisation and coherence of delusional ideas.
+* Adhesion = degree of delusional conviction.
+* The semiological analysis must also assess the degree of behavioural and emotional impact (risk of acting out auto or hetero aggressively, mood, [[Anxiety SD-116|anxiety,]]). [Suicidal ideation or behaviour/self-inflicted injury SD-125|suicidal ideation]]...).

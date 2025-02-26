@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-239-04-B
+|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Rank=B
+|Title=Knowing the dermatological signs of systemic scleroderma (excluding Raynaud's phenomenon)
+|Description=Pudgy fingers, sclerodactyly, telangiectasias, digital ulcerations, digital hippocratism
+|Rubric=Positive diagnosis
+|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello
+|Order=4}}
+
+The most common cause of non-iatrogenic secondary RA is systemic scleroderma, which should be systematically investigated.
+
+The dermatological signs of systemic scleroderma are
+
+- cutaneous sclerosis
+
+- telangiectasias,
+
+- subcutaneous calcinosis.  
+
+Cutaneous sclerosis predominates in the extremities (sclerodactyly), may extend to the trunk and also affect the face ('''''SD-150: [[Limitation of mouth opening SD-150|limitation of mouth opening]]'')'''''

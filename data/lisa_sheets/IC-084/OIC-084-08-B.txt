@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-084-08-B
+|Item_parent=Glaucoma
+|Item_parent_short=Glaucoma
+|Rank=B
+|Title=Knowing the different therapeutic classes of ocular anti-hypertensives, their contraindications and side effects.
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=8}}
+Numerous drugs are available, in local or systemic form, with different mechanisms of action:
+
+'''- Decreased secretion of aqueous humour:''''
+
+- beta-blocker eye drops,
+
+- alpha-2-adrenergic agonist eye drops
+
+- carbonic anhydrase inhibitors: topically (eye drops) or systemically
+
+'''- Increased elimination of aqueous humour:'''
+
+- prostaglandin eye drops
+
+Medical treatment is generally prescribed for life and should not be interrupted unexpectedly. The choice of treatment depends mainly on the contraindications and side-effects of each therapeutic class, although prostaglandin-based eye drops and beta-blocker eye drops are generally prescribed as first-line treatment.
+
+'''Therapeutic modalities.'''
+
+A prostaglandin-based eye drop may be prescribed as a first-line treatment (e.g. Xalatan®, Travatan®, Lumigan®), using a single drop in the evening. The general tolerance of prostaglandin analogues is excellent; only the local tolerance of these eye drops can pose a problem, with the risk of redness or eye irritation. After a few months of treatment, they may cause a change in the colour of the iris (which appears darker) and accelerate eyelash growth, a side effect of which the patient should be warned.
+
+Beta-blocking eye drops may also be prescribed as a first-line treatment unless contraindicated; the most widely used is timolol (e.g. Timoptol®). One drop is prescribed morning and evening (there are also extended-release [LP] forms, prescribed once a day). Because, like all eye drops, it passes through the system, its prescription must comply with the contraindications for beta-blockers, as the risks of potentially severe side effects are the same as those of beta-blockers taken systemically, in particular the decompensation of respiratory insufficiency or a heart rhythm disorder.
+
+Other hypotonising eye drops are prescribed either as a second-line treatment when beta-blockers and/or prostaglandin analogues are not sufficiently effective, or as a first-line treatment when beta-blockers are contraindicated or prostaglandins are intolerant.
+
+It may be necessary to combine several hypotonising eye drops, without exceeding a "triple therapy" as a rule:
+
+- alpha-adrenergic agonists such as brimonidine (Alphagan®) (one drop morning and evening)
+
+- brinzolamide (Azopt®) or dorzolamide (Trusopt®), carbonic anhydrase inhibitors (one drop morning and evening).
+
+
+Some eye drops combine two active ingredients to facilitate treatment and improve patient compliance; this is the case, for example, with the combination of timolol and dorzolamide (Cosopt®): one drop morning and evening.
+
+Only in certain cases may systemic acetazolamide (Diamox®) be combined with local treatment. However, this is rarely prescribed as a long-term treatment, but more often as a standby for surgical treatment. Glaucoma resistant to local treatment is considered an indication for surgery, especially as Diamox® has frequent and disabling side-effects:
+
+- metabolic acidosis
+
+- hypokalaemia
+
+-renal lithiasis
+
+The contraindications to Diamox® are renal insufficiency, severe hepatic insufficiency and allergy to sulphonamides. Serum potassium and creatinine must be measured before Diamox® is prescribed, and potassium supplements in appropriate doses must be prescribed with Diamox®.

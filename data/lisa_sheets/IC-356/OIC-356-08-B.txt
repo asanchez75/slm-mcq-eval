@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-356-08-B
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=B
+|Title=To know the frequency, age of onset and morbidity and mortality of appendicitis
+|Description=The most frequent abdominal surgical emergency (7% of the population, including 20% of complicated appendicitis). Mortality of appendicitis is low (0.1%, 1.5% in the case of peritonitis).
+|Rubric=Epidemiology
+|Contributors=Cyrille PERRENOT,David MOSZKOWICZ
+|Order=8}}
+
+Acute appendicitis is the most frequent abdominal surgical emergency (7% of the population, including 20% of complicated appendicitis).
+
+Appendicitis has a low mortality rate:
+
+- 0.1% in uncomplicated forms
+
+- 1.5% in case of peritonitis
+
+Morbidity is 10%:
+
+- surgical site infection (SSI)
+
+- parietal infection
+
+- deep infection
+
+- haemorrhage
+
+- acute small bowel obstruction
+
+- appendicitis on appendix stump.

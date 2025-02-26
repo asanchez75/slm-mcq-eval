@@ -1,0 +1,58 @@
+{{knowledge objective
+|Identifiant=OIC-266-05-B
+|Item_parent=Polycystic kidney disease
+|Item_parent_short=Polycystic kidney disease
+|Rank=B
+|Title=Knowing the main complications of polycystic kidney disease
+|Description=Kidney disease, Hepatic cyst, Complications of renal cysts, Hypertension, Arterial aneurysms
+|Rubric=Positive diagnosis
+|Contributors=Dominique Guerrot
+|Order=5}}
+
+==Kidney damage in autosomal dominant polycystic kidney disease===
+
+
+The kidney damage is secondary to the progressive development of "multiple, large cysts" in both kidneys, causing chronic tubulointerstitial nephropathy.
+
+PKRAD is generally characterised by a period of 2 to 4 decades without any discernible clinical renal abnormality.
+
+'''Chronic renal failure in adults and children|chronic renal failure]''' is the most frequent severe complication of PKRAD.
+
+*The evolution of renal function in PKRAD is heterogeneous from one family to another, but also within the same family.
+*The usual age of end-stage renal failure is between 50 and 70 years.
+*The renal prognosis of PKRAD is mainly related to the genetic abnormality and the size of the kidneys.
+
+Other renal complications of PKRAD are :
+
+*'''Chronic low back and abdominal pain''' which can significantly impair quality of life.
+*Acute or sub-acute back pain. In the absence of fever, it may be :
+**Intracystic haemorrhage.
+**a '''[[urinary lithiasis|lithiasis migration]]''''
+*macroscopic haematuria.''''' In the absence of fever, it is most often an intracystic haemorrhage with secondary rupture into the excretory urinary tract, more rarely a lithiasic migration
+*Kidney infection. Any fever of uncertain origin during PKRAD should prompt consideration of the possibility of a renal infection :
+**''''[[Urinary tract infections in children and adults|Acute pyelonephritis]]''''
+**Intracystic infection". In this case, functional urinary signs are rare and the urine is often sterile. Biology shows a marked inflammatory syndrome. PET scans are useful for confirming the diagnosis and locating the infected cyst. Treatment of upper urinary tract infections is always based on the use of an antibiotic with good intracystic distribution for three to four weeks. Dual therapy is initially required in cases of intracystic infection.
+
+<br />
+
+==Extrarenal effects of autosomal dominant polycystic kidney disease==
+
+===Hepatic cysts===
+
+*They are very common in PKRAD.
+*They generally appear earlier and are larger in women than in men.
+*Liver involvement is ''most often'' ''asymptomatic''.
+*In a small number of cases, massive hepatomegaly develops, causing heaviness, discomfort, pain and digestive compression. Elevated gamma-GT and alkaline phosphatase levels are common.
+*They are not a cause of hepatocellular failure.
+
+===Hypertension===
+
+*Hypertension in adults and children is ''very frequent'', linked both to the specific vascular damage of PKRAD and to kidney damage.
+*It appears early, even before the decline in renal function, ''generally before the age of 40'' and sometimes as early as childhood.
+
+===Intra-cranial arterial aneurysms===
+
+*Their prevalence in PKRAD (and consequently the risk of [[Stroke|rupture]]) is more than 5 times higher than in the general population.
+*A family history of intracranial arterial aneurysm doubles the probability of finding an aneurysm in a patient with PKRAD.
+*Aneurysms are most often found in the polygon of Willis.
+*MRI screening for intracranial arterial aneurysms may be suggested, particularly for first-degree relatives of PKRAD patients who have ruptured a cerebral aneurysm, or for certain professions considered to be at risk (airline pilots, etc.).

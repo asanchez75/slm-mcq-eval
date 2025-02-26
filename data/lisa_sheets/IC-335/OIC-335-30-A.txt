@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-335-30-A
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=A
+|Title=Knowing the different types of cranial trauma in children
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=30}}
+
+
+Based on the recommendations of the SFMU (2015),
+
+
+Head trauma is a frequent reason for consultations, but fortunately the vast majority (95%) are mild head injuries, defined by a Glasgow Coma Score (GCS) greater than or equal to 13. Of these, less than 10% of children actually present with an intracranial lesion, and less than 1% will require neurosurgical intervention.
+
+The aim of management is to ''determine which children will require a CT scan and/or hospital monitoring'', and those who can return home with monitoring instructions. This distinction is based on the clinical elements most associated with the existence of significant intracranial lesions (death of the patient secondary to CT, neurosurgical intervention, intubation for more than 24 hours, hospitalisation for at least two nights for persistent symptoms in association with intracranial lesions on CT).
+
+Risk factors for intracranial lesions should be investigated in every child who has suffered a cranial trauma, so that management can be adapted accordingly. The presence of a high-risk clinical criterion for ICL requires brain imaging. The presence of several intermediate criteria or a clinical worsening also requires imaging. If the child is less than 3 months old, imaging should be discussed.
+
+High risk of LICs:
+* Paediatric Glasgow score less than 15 (calculation depends on patient's age).
+* Clinical signs of skull base embarrassement or injury (retroauricular ecchymosis, periorbital ecchymosis, otorrhagia or haemotympanum, CSF rhinorrhoea/otorrhoea).
+
+Intermediate risk of LICS
+* Suspicion of abuse
+* Loss of consciousness lasting more than 5 seconds
+* Dangerousness of the mechanism :
+     o Road accident in a car if the passenger is ejected from the vehicle or if another passenger has died or in the event of a rollover or if the victim is an unhelmeted pedestrian or cyclist;
+     o A fall of more than 0.9 m before the age of two (the height of a table) or more than 1.5 m after the age of two;
+     o CT by a highly kinetic object...to be specified on a case-by-case basis (hammer blow, etc.).
+* Agitation, drowsiness, slowness of speech or repetitive questions.
+* Inconsolable crying or abnormal behaviour according to the parents, especially for children under 2.
+* Vomiting or severe headaches if the child is over 2 years old.
+* Subcutaneous haematoma/occipital, temporal or parietal haematoma if the child is under 2 years old.
+
+
+The criteria for hospitalisation following a head injury, whether or not imaging is required, are based on the same criteria:
+* Loss of consciousness for more than 5 seconds
+* Severe mechanism of trauma
+* GCS not back to 15 or abnormal behaviour according to the parents
+* Vomiting or severe headache (if persistent for more than 12 hours after the trauma, brain imaging is indicated)
+* Non-frontal haematoma if the child is less than 2 years old Clinical signs of embarrhment or skull base lesion
+* Presence of significant recent CT abnormalities or
+* Impossibility of carrying out a cerebral CT scan despite its indication.
+* The presence of other risk factors: intoxication, drugs, alcohol, suspected abuse.
+
+
+The decision to carry out brain imaging is based on the PECARN (Pediatric Emergency Care Applied Research Network) decision tree, according to the child's age, in order to determine the risk of developing clinically severe intracranial lesions.
+
+<br />

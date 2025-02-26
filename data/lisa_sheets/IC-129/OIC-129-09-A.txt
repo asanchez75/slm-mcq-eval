@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-129-09-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Intitulé=Arthrose : connaître l'indication de l'imagerie (coxarthrose, gonarthrose, arthrose digitale)
+|Description=Knowing the indications for imaging when osteoarthritis is suspected
+|Rubric=Additional examinations
+|Contributors=
+|Order=9}}
+Osteoarthritis is diagnosed clinically. However, a standard X-ray can confirm the diagnosis by the presence of bone and joint abnormalities on the medical imaging examination.
+
+The prescription of other complementary examinations must be reasoned. Apart from a standard X-ray, no other biological or imaging tests are necessary, except in cases of diagnostic doubt to investigate differential diagnoses.
+
+Imaging should always be bilateral and comparative+++.
+
+The request for an imaging examination will be, depending on the location :
+
+- Hip: front standing pelvis shot and each hip loaded from the front + Lequesne false profile.
+
+- Knee: 4 images: loaded images with bipodal support from the front (zero rotation, knees in extension), from the side, a patellofemoral pathway at 60° of flexion, an anteroposterior "schuss" view.
+
+- Hands: frontal X-rays of the hands.
+
+[https://videotheque.uness.fr/w/1Zf57C1kGzXe3xzp9h2RHB See the ppt recorded on the imaging of item 129 by the College of Radiologists (CERF)]

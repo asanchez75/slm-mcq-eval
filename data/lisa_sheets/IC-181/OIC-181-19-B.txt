@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-19-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing nutrivigilance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=19}}
+
+Nutrivigilance is one of the vigilance activities carried out by the Agence Nationale de Sécurité Sanitaire de l'alimentation de l'environnement et du travail (ANSES).
+
+It covers the monitoring of adverse reactions in humans linked to the consumption of foodstuffs, including food supplements.

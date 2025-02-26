@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-234-02-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Know the definition of heart failure (HF), HF with reduced ejection fraction (EF) or with preserved EF.
+|Description=Know the definition of heart failure
+|Rubric=Definition
+|Contributors=Olivier Huttin
+|Order=2}}
+Several definitions of heart failure co-exist:
+
+- From a pathophysiological point of view, CI is defined as an inability of the heart to deliver sufficient flow to meet the body's needs and/or to function with normal filling pressures.
+
+- There is also a universal definition of CHF: this is a clinical syndrome with past or present symptoms of CHF (dyspnoea, fatigue) caused by a structural and/or functional cardiac anomaly and confirmed by several elements: clinical signs of heart failure (crackles, ankle oedema, jugular turgidity); an elevated level of natriuretic peptide; haemodynamic echocardiographic radiological signs.
+
+Heart failure is classified according to the level of left ventricular ejection fraction, which corresponds to the proportion of blood ejected with each beat in relation to the ventricular end-diastolic volume (LVEF (%) = (end-diastolic volume - telesystolic volume)/end-diastolic volume; see Figure). Three types of CI are classically distinguished:
+
+Ø ''Heart failure with reduced ejection fraction (LVEF ≤40%)'' caused by failure of myocardial contraction.
+
+Ø ''Systolic heart failure or heart failure with a slightly reduced ejection fraction between 41 and 49%'' generally combines the characteristics of the other two types.
+
+Ø '''Diastolic heart failure or heart failure with preserved ejection fraction LVEF ≥50%.''' This is caused by a failure to fill the left ventricle (relaxation compliance).
+
+
+This definition has therapeutic implications, as most treatment options concern heart failure with reduced ejection fraction (LVEF ≤40%).
+
+
+[[File:Figure 1.png|centred|thumb|600x600px|LVEF calculation : Top: LVEF formula and the 3 limits used for the types of CI. Bottom: LVEF calculation by detouring the endocardial contours in telediastole on the left and telesystolic on the right |alt=]]
+<br />

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-173-07-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Knowing the progressive phases of Lyme disease
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Carole Eldin
+|Order=7}}
+There are three stages in the development of Lyme disease, which are summarised in the attached table:
+[[File:TableauphasesLyme.png|vignette|Table summarising the different phases of Lyme Borreliosis]]
+-Early localised phase
+
+-Early disseminated phase
+
+-Late disseminated phase

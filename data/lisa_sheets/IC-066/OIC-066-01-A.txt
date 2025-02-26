@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-066-01-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Intitle=Know the definition of characterised depressive episode, recurrent depressive disorder
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=1}}
+
+Characterised depressive episode (CDE) or 'depression' is defined by a [[Sad mood/moral pain SD-123|tristesse]] of mood, anhedonia, decreased energy, affective, psychomotor and physiological disorders, and an increased risk of [[Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01|suicide]]. EDC may be isolated, recurrent as part of a recurrent depressive disorder or [[Bipolar Disorders I and II 2C-064-DE-B01|bipolar]], or co-morbid with another psychiatric disorder or non-psychiatric medical condition. It may be the result of [[Psychological and/or physical violence SD-351|events]].
+
+Recurrent depressive disorder is defined by the occurrence of at least EDC, with no history of (hypo)-mania. The diagnosis takes into account recurrence, severity and clinical features.
+
+<br />

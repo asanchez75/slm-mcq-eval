@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-216-02-B
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=B
+|Title=Knowing the different players and stages of primary haemostasis, coagulation and fibrinolysis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+Classically, the haemostasis system takes place in three closely interwoven stages (primary haemostasis, coagulation, then fibrinolysis) involving cells, proteins and phospholipids. Primary haemostasis results in an initial thrombus, predominantly platelet-based, thanks to four main players: platelets, endothelial cells, von Willebrand factor (vWF) and fibrinogen.
+
+Platelets adhere to the subendothelium thanks in particular to vWF which binds to GPIb and are activated, allowing aggregation involving the binding of fibrinogen to GPIIbIIIa.
+
+'''Coagulation''' is triggered by tissue factor (TF) allowing activation of FVIIa, which in the presence of phosphoslipids (PL) and calcium (Ca<sup>++</sup>) activates FX into FXa, and FIX into FIXa. FIXa complexed with FVIII (with PL and Ca<sup>++</sup>) generates more FXa, which combined with FV, PL and Ca<sup>++</sup> ("pronthrombinase" complex) cleaves prothrombin into thrombin or FIIa. FIIa proteolyzes fibrinogen into unstable fibrin monomers, which are consolidated by FXIIIa. Most coagulation proteins are synthesised by the liver, in the presence of vitamin K for FII, FVII, FIX and FX.
+
+The initial quantity of thrombin formed when coagulation is initiated is often insufficient to stop bleeding. Thrombin activates FV, FVIII (FVa and FVIIIa being more active as coenzymes of FXa and FIXa) and FXI (FXIa generating more FIXa), and the peak thrombin formed enables the formation of a solid haemostatic clot. Thrombin generation is regulated by antithrombin (which, in the presence of heparin-like molecules, mainly inhibits FXa and FIIa) and the vitamin K-dependent protein C-protein S complex associated with PL and Ca<sup>++</sup>.
+
+During "fibrinolysis", the clot is lysed by plasmin, an enzyme generated after plasminogen activation by t-PA or u-Pa (urokinase), with the release of PDF (fibrin degradation products) and DDi (D-domain dimers).

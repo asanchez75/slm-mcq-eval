@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-118-12-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Item_parent_short=The disabled person: the basics of functional and therapeutic assessment.
+|Description=Telephone, means of transport, taking medication, budget management
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=12}}
+([[Attention disorders SDD-129|129-attention disorders]], [[Memory disorders/cognitive decline SDD-131|134-memory disorders/cognitive decline]], [[Consultation and follow-up of a patient with cognitive disorders SDD-298|298-consultation and follow-up of a patient with cognitive disorders]])
+
+
+- Assessment by interviewing the patient and relatives.
+
+- Assessment using self- and hetero-questionnaires such as the IADL (Instrumental Activities of Daily Living Scale).
+
+- Ecological assessment, in a rehabilitation centre or at the patient's home.

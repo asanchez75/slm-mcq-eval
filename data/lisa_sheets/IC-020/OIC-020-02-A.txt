@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-020-02-A
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=A
+|Title=Health research methodology
+|Description=Define what is meant by "methodology" in the field of clinical research, protocol determined a priori and not modifiable during the course of the study, single principal objective, etc.
+|Rubric=Definition
+|Contributors=Julie Berbis (CUESP),David Hajage (CIMES)
+|Order=2}}
+
+'''Health research methodology:''' a set of basic steps to be followed when conducting a study designed to acquire new knowledge in the field of health.
+
+'''Protocol''': a document written prior to the start of a study and describing in great detail the various elements and stages (i.e. describing in great detail the methodology of the research to be carried out). It is organised into different sections, which may vary from one study to another, but generally include (non-exhaustive list) :
+
+# The rationale for the study
+# Questions/hypotheses that the study seeks to answer/validate
+# The objectives of the study
+## The primary objective, '''generally unique'''
+## Any secondary objectives
+# Research methodology
+## Type of study (randomised controlled trial, cohort study, case-control study, etc)
+## Judgement criteria
+### Primary endpoint, ''generally unique''.
+### Possible secondary endpoints
+# Selection criteria (inclusion/non-inclusion) in the study
+# Calculation and justification of the number of subjects required, details of planned statistical analyses
+
+The protocol is designed to meet a generally single primary objective and to produce a reliable, valid and relevant primary result.
+
+The protocol should not be modified during the course of the study''. Any modification during the course of the study must be clearly and scientifically justified, and described in a transparent manner in the document reporting the results of the study (in particular in the scientific article).<br />.

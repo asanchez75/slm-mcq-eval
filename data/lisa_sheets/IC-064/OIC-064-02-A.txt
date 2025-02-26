@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-064-02-A
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=A
+|Title=Knowing the definition of a hypomanic episode
+|Description=Knowing how to define a hypomanic episode and its main characteristics
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+Same definition as manic episode with perceptible changes in mood and functioning for at least 4 days, but the severity of the episode is not sufficient to lead to marked impairment in occupational or social functioning or to hospitalisation or psychotic features.

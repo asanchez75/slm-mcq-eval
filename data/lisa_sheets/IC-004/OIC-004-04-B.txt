@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-004-04-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Defining the economic impact of AEIAS
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=4}}
+Healthcare-associated infections can lead to disability, prolonged stay, morbidity or even death.
+
+The estimated overall cost of IAS is around €760 million a year on average for European countries.
+
+The overall medical cost per infection and per patient is estimated at €2,000 in the United States and between €610 and €1,370 in Europe, but varies from €1,500 to €27,340 depending on the nature of the germ, the type of infection and the underlying pathology.
+
+-The cost of antibiotic therapy alone for HCAI has been estimated at 900 euros (ranging from 150 to 2,000 euros), or around 10% of the overall extra cost. Antibiotic costs for the treatment of infections with resistant germs are much higher than those for the treatment of infections with susceptible germs, although they represent only 10% to 15% of the total costs of HCAIs.
+
+For example, the annual cost of antibiotic treatment for an MRSA infection can be estimated at around €0.7 million. The cost of an MRSA infection has been estimated at 30,225 euros, compared with 19,281 euros for a SASM infection and 11,888 euros for an uninfected control.
+
+-The additional cost associated with an increase in length of stay alone varies between 900 and 25,000 euros, i.e. 2/3 to 3/4 of the overall additional cost. In total, nosocomial infections increase the length of stay by 6 to more than 20 days; the highest values correspond to pulmonary infections and resistant bacteremia.
+
+Another aspect is the cost of prevention programmes, although this must be weighted against their effectiveness and compared with the cost of infections.<gallery widths="300" heights="300">
+</gallery><br />

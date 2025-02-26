@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-124-01-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Know the definition of perimenopause and menopause
+|Description=None
+|Rubric=Definition
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=1}}
+
+== Menopause ==
+The menopause is defined as ''a permanent cessation of menstruation resulting from a loss of ovarian follicular activity'' (WHO 1996 definition).
+
+The definition of the menopause is above all a retrospective one, since it is based on ''a period of consecutive amenorrhoea of 12 months with no obvious physiological or pathological cause in a woman over the age of 45,'' associated with suggestive clinical signs (hot flushes, vaginal dryness, night sweats, etc.).
+
+== Peri-menopause ==
+'''Peri-menopause includes the period before the onset of the menopause,'' before the period of one year of amenorrhoea. During this period, the main symptoms are disorders of the cycle as well as flushing, which may be present.
+
+'''Biological assays are of no use in diagnosing the menopause or peri-menopause except in special cases (FSH and plasma estradiol assays)'''.

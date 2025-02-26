@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-246-04-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Knowing the role of mammography in the investigation of gynaecomastia
+|Description=None
+|Rubric=Additional examinations
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=4}}
+
+*Mammography or ultrasound is necessary if there is any doubt about the diagnosis on clinical examination.
+*Mammography or ultrasound can also be used to "rule out rare breast cancer" (< 1%) in men: eccentric, hard gynecomastia, attached to the deep layers and sometimes associated with nipple deformity or even bloody discharge ([Breast tumours|Breast tumours 312]]).
+*In the case of simple gynecomastia, mammography shows a nodular or triangular, star-shaped opacity (Image), whereas no tissue is found in the case of adipomastia.
+
+[[File:Mammography.jpg|vignette|Typical appearance of gynecomastia on mammography: nodular glandular retromammary island.]]

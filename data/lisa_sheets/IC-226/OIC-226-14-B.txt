@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-226-14-B
+|Item_parent=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Item_parent_short=Deep vein thrombosis and pulmonary embolism (see item 330)
+|Rank=B
+|Title=Knowing how to determine the duration of anticoagulant treatment (proximal DVT and PE)
+|Description=None
+|Heading=Management
+|Contributors=Gilles Pernod, Virginie Dufrost, Guillaume Mahé
+|Order=14}}
+Duration of anticoagulant treatment with [[heparins]] or [[oral anticoagulants (VKA and AOD)|oral anticoagulant]] and monitoring methods
+
+Whatever the clinical context, a minimum of 3 months' anticoagulant treatment is recommended in cases of proximal DVT or pulmonary embolism. Beyond 3 months, the value of prolonging anticoagulant treatment depends on the circumstances in which it was given and the benefit/risk ratio between thrombo-embolic recurrence and haemorrhage.
+
+In practice:
+
+*The duration of treatment for proximal DVT and PE is identical;
+*Proximal DVT or PE ''with a strong identified transient favouring factor'': 3 to 6 months' treatment;
+*Unprovoked" proximal DVT or PE: at least 6 months' treatment, with prolonged treatment discussed on a case-by-case basis (with no a priori end date);
+*Recurrent proximal DVT or "unprovoked" PE: prolonged treatment;
+*Proximal DVT or PE and "cancer": treatment as long as the cancer is active (tumour present, chemotherapy, hormone therapy, etc.);
+*Proximal DVT or PE and ''pregnancy'': at least 3 months' treatment, including the first 6 weeks post-partum;
+*PE associated with chronic post-embolic pulmonary heart disease: long-term treatment.
+
+In all cases, in the event of prolonged treatment, it is essential to regularly re-evaluate the benefit/risk ratio of the treatment between thrombo-embolic recurrence and haemorrhage and to ask the patient's preference with regard to the treatment: adaptation to [[Adaptation of treatments to a particular condition (IR, HI, pregnancy, elderly person...)|particular condition]]: renal insufficiency, hepatic insufficiency, pregnancy, elderly person...
+
+A follow-up venous Doppler ultrasound is systematically carried out at the end of anticoagulant treatment in order to determine the sequelae. In the event of a painful recurrence, this avoids the conclusion of a thrombotic recurrence if an after-effect on the same venous segment had been noted.
+
+<br />

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-363-05-A
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=A
+|Title=Radiography of the right hip in front of a femoral neck fracture
+|Description=None
+|Rubric=Multimedia content
+|Contributors=CFCOT
+|Order=5}}
+
+<gallery>
+File:7.png|Fracture of the proximate extremity of the right femur true cervical type.  
+</gallery>

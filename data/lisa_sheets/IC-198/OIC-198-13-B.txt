@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-198-13-B
+|Item_parent=Microcrystalline arthropathies
+|Item_parent_short=Microcrystalline arthropathies
+|Rank=B
+|Intitle=Knowing the characteristics of an inflammatory fluid
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=13}}
+Analysis of the synovial fluid obtained during an exploratory puncture reveals :
+
+- the presence of inflammatory joint fluid (cellularity greater than 2,000 nucleated cells/mm<sup>3</sup>, sometimes very high up to 100,000/mm<sup>3</sup>), predominantly neutrophils
+
+- Negative results from routine bacteriological tests (possible combination!)
+
+- Inconsistent presence of microcrystals.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-172-11-B
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know how to prescribe a specific test for anguillosis
+|Description=None
+|Rubric=Additional tests
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=11}}
+
+The standard parasitological stool examination does not include a search for anguillula larvae (or ''Strongyloïdes stercoralis''). The prescription must therefore specify this request in the event of suspicion based on epidemiological or clinical criteria: "parasitological examination of stools with a search for anguillula" or parasitological examination of stools using the Baermann technique. This test must be repeated several times due to the discontinuous emission of larvae and the frequent pauci-infestation.
+
+Anguillulosis serology, although lacking in specificity (cross-reactivity with other worms), can be a useful adjunct to diagnosis, particularly when stool examination cannot be repeated, or before starting immunosuppressive or steroid treatment.

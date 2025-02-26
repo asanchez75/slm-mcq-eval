@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-141-04-B
+|Item_parent=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (3). Sedation for distress in the terminal phase and in specific and complex situations at the end of life. Response to a request for euthanasia or assisted suicide
+|Item_parent_short=Multidisciplinary palliative care for a patient in the palliative or terminal phase of a serious, chronic or lethal illness (3). Sedation for distress in the terminal phase and in specific and complex situations at the end of ...
+|Rank=B
+|Title=Knowing the clinical, relational and legal points of reference when a patient requests assisted suicide
+|Description=
+|Topic=Positive diagnosis
+|Contributors=Laure Serresse
+|Order=4}}
+
+==<small>''Clinical and relational benchmarks''</small>==
+Cf [[2C-141-DP-B02 Knowing the clinical, relational and legal benchmarks when a patient makes a request for euthanasia|Clinical and relational benchmarks when a patient makes a request for euthanasia]]
+
+==<small>'''Legal benchmarks''</small>==
+Assisted suicide, the prescription by a doctor of lethal drugs that the patient self-administers, is a prohibited practice in France.

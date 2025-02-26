@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-326-04-B
+|Item_parent=Regulatory framework for therapeutic prescribing and recommendations for correct use
+|Item_parent_short=Regulatory framework for therapeutic prescribing and recommendations for correct use
+|Rank=B
+|Intitle=To understand the role of the professionals involved in dispensing a prescription and their legal and economic responsibilities.
+|Description=Distinguish the drug dispensing process specific to the hospital environment.
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+
+
+==Role of pharmacists==
+
+===Validity of the prescription===
+When a prescription is issued, the pharmacist must carry out a number of checks (this list is not exhaustive):
+
+*date of prescription
+*'''type''' of prescription (simple, secure, two-zone or specific for "exceptional drugs")
+*dosage and duration of treatment
+*qualification'' of the prescriber, particularly if the pharmaceutical specialities are [[The different legal frameworks for prescribing 2C-326-PC-A01|restricted prescription]]
+*carrying out any prior or periodic ''examinations'' to which the dispensing of certain medicinal products may be subject.
+
+===Pharmaceutical analysis===
+Pharmaceutical analysis must enable :
+
+*detect the possible presence of '''' drug interactions'''
+*d'''' assess the choice of a drug (compliance with recommendations, patient profile, etc.)
+*if necessary, ''refuse to dispense'' a medicinal product when it seems necessary in the interests of the patient's health <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006913718/</ref>.
+
+===Respecting the prescription===
+According to article '''L.5125-23 of the CSP'', "''the pharmacist may only dispense a medicinal product or product other than that which has been prescribed, or having a non-proprietary name different from the prescribed non-proprietary name, with the express prior agreement of the prescriber, except in an emergency and in the interest of the patient''" <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041397424/</ref>
+
+Consequently, the pharmacist may only dispense a medicinal product other than that which has been prescribed ''with the express prior agreement of the prescriber'', except in the event of an ''emergency'' and in the patient's ''best interests''. In the event of an emergency, the pharmacist must inform the prescriber as soon as possible.
+
+===Special case of generics===
+Since 1999, pharmacists have had the right - under certain conditions - to [[Know how to explain the prescription of a generic drug or biosimilar 2C-326-PC-A02|substitute a prescribed drug with a generic drug]] belonging to the same ''generic group''. The aim of substitution is to generate savings for the Assurance Maladie.
+
+==Role of nurses==
+According to article ''R4312-42 du CSP:''' ''l'infirmier '''applique''' et '''respecter''' la prescription médicale qui, sauf urgence, est '''écrite''', quantitative et qualitative, datée et signée. They ask the prescriber for "additional information" whenever they consider it useful, particularly if they feel they have not been adequately informed. If the nurse has any ''doubt'' about the prescription, he checks it with the prescriber or, if this is not possible, with another member of the profession concerned. In the event of i'''mpossibility of verification'' and of ''''manifest''' and ''''imminent''' risks to the patient's health, he shall, by virtue of his own competence, adopt the <nowiki/>'''attitude which best safeguards the patient's health''', and shall not cause the patient to take any unjustified risk.'' <ref>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033496651</ref>
+
+===Special case of hospitals===
+The role of nurses is different in the hospital circuit, insofar as nurses are systematically involved, normally after pharmaceutical validation, with the medical prescription for all types of medicines, whereas in outpatient medicine, nurses are only involved after the prescription for certain medicines, particularly injectables. Generally speaking, in hospitals, most nursing acts relating to medicines, such as the administration of medicines, fall into the category of delegated acts, requiring a medical prescription (R4311-7 CSP) and not the specific role (R4311-5 CSP) of nursing staff.
+
+==Responsibility of those involved downstream of the medical prescription===
+On several occasions, the French courts have ruled that the "execution of a prescription" entails the "liability" of those involved downstream of the prescription and not that of the prescriber alone.
+
+In certain circumstances, the courts have been able to ''simultaneously'' engage the liability of the ''prescriber'' and either a ''pharmacist'' or a ''nurse'', whether before the ''civil'' or ''administrative'' courts (compensation for harm suffered by the victim in outpatient or hospital medicine) or before the ''criminal courts'' (punishment for an offence committed in both the private and public sectors), in particular for errors in dosage, indication or the name of the medicine.
+
+In addition, these professionals report to a '''professional order''' which can also '''sanction''' them (disciplinary responsibility) for failure to comply with the ethical rules laid down in their respective codes of ethics.<references />

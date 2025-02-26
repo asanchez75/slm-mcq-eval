@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-344-09-B
+|Item_parent=Management of a patient with pre-eclampsia
+|Item_parent_short=Management of a patient with pre-eclampsia
+|Rank=B
+|Title=Knowing the principles of preventing complications of pre-eclampsia
+|Description=Method of treatment with magnesium sulphate, monitoring the efficacy and tolerance of magnesium sulphate.
+|Rubric=Management
+|Contributors=Mercé Jourdain,Vassilis Tsatsaris
+|Order=9}}
+
+Blood pressure control to prevent cerebrovascular complications
+
+Magnesium sulphate for the primary or secondary prevention of eclampsia
+
+Magnesium sulphate for the prevention of neurological sequelae of prematurity (periventricular leukomalacia and intraventricular haemorrhage) in the event of delivery before 32 weeks' gestation.
+
+Corticosteroid therapy for the prevention of neonatal complications associated with prematurity.
+
+Delivery in the event of a life-threatening maternal or foetal condition

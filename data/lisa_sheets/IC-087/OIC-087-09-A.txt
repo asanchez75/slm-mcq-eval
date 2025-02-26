@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-087-09-A
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=A
+|Title=Know the main causes of epistaxis
+|Description=Know the different infectious, inflammatory and traumatic causes of epistaxis - HTA and essential epistaxis
+|Rubric=Etiologies
+|Contributors=Geoffrey Mortuaire
+|Order=9}}
+Epistaxis involves a mucosal or vascular lesion in the nasal or sinus area. This lesion may be induced by several local aetiologies. Comorbidities that impair local haemostasis are at the root of the severity of epistaxis, making it more frequent and more likely to recur.
+
+'''Local etiologies:''''
+
+*Trauma (frequent): accidental (nasal and/or sinus), surgical (turbino-septal or sinus surgery), naso-tracheal intubation, naso-gastric tube, foreign body,
+*Infectious or inflammatory (rare): rhinosinusitis and vasculitis,
+*Benign (nasopharyngeal fibroma) or malignant tumours,
+*Vascular pathologies (Familial Hereditary Telangiectasias (Rendu Osler disease), carotid aneurysmal disease).
+*Unrecognised microtrauma or arteriolar microdilatation of the vascular stain at the origin of so-called essential epistaxis (frequent in children and adolescents, diagnosis of elimination).

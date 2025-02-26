@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-245-14-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing that monitoring the treatment of adrenal insufficiency is essentially clinical
+|Description=None
+|Section=Management
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=14}}
+Monitoring is mainly clinical (+++): fatigue, weight, blood pressure (lying and standing).
+
+'''Signs of underdosing:'''
+
+* fatigue (but non-specific),
+* orthostatic hypotension,
+* fatigue
+* nausea, etc
+
+Signs of hydrocortisone and/or fludrocortisone overdose
+
+* Swelling and redness of the face,
+* oedema of the lower limbs
+* weight gain
+* HIGH BLOOD PRESSURE
+
+There is no need to measure cortisol or ACTH to adjust the dose of hydrocortisone +++.
+
+If necessary, the dose of fludrocortisone can be adjusted with the aid of a renin assay (high renin = underdose, low renin = overdose) and a blood ionogram.
+
+
+In the long term, consider a bone, metabolic and cardiovascular assessment in the event of hydrocortisone overdose.
+
+
+[Chronic disease follow-up consultation SD-279
+
+[Explaining a treatment to a patient (adult/child/adolescent) SD-352]]

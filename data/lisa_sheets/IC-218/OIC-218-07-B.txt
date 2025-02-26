@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-218-07-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=How to identify hypereosinophilic syndrome
+|Description=SHE
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+S'''yndrome hyperéosinophique''' ('''SHE'''):
+
+- '''[[Hypereosinophilia SD-219|hypereosinophilia]]''' (> 1,500/mm<sup>3</sup>) of unknown origin ;
+
+- Active for at least 6 months;
+
+- after exclusion of known causes of eosinophilia ;
+
+- may be asymptomatic or associated with visceral lesions (cardiac, central or peripheral neurological, pulmonary, digestive, cutaneous).

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-060-06-A
+|Item_parent=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Item_parent_short=Knowing the risk factors, prevention and screening for psychological disorders in children and the elderly
+|Rank=A
+|Title=Know the definition of a risk factor, vulnerability and stress factor.
+|Description=Know the definitions of risk factors, vulnerability and stress factors
+|Rubric=Epidemiology
+|Contributors=
+|Order=6}}
+Disease risk: Incidence of a disease in a given population over a given period of time, probability of the disease occurring.
+
+Risk factor: Factor which modifies the level of risk, which is statistically associated with the occurrence of the disease. A risk factor is not necessarily causal, i.e. responsible for the disease.
+
+Vulnerability: exposure to one or more risk factors for the disease makes a person or group vulnerable to the disease. Vulnerability is common in the population, but only a small proportion of these vulnerable people will develop the disease.
+
+Stress factors: changes in the person's biopsychosocial environment that require them to adapt (life event, change in pace of life, change in lifestyle....).
+
+<br />

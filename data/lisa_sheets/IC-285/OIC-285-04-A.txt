@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-285-04-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Know the definition of chronic diarrhoea
+|Description=Diagnosis according to WHO (duration, frequency and weight of stools)
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+From a clinical point of view, diarrhoea is defined (WHO) by the emission of ''more than 3 soft to liquid stools per day''. In cases of diagnostic doubt, diarrhoea is defined by an average stool weight of more than 300g/24h (weighed over 3 consecutive days). Chronicity is defined as ''lasting more than 4 weeks''.
+
+It is important to be aware of the ''3 differential diagnoses'' of diarrhoea (the patient highlights a symptom that he or she identifies as diarrhoea, which is not actually diarrhoea).
+
+Three clinical situations may mimic diarrhoea (but the average stool weight remains normal)
+
+- Rectal syndrome or polyexoneration secondary to pelvic static disorders may be responsible for frequent faecal or afecal discharges.
+
+- '''Faecal incontinence''' is manifested by more frequent and, above all, uncontrolled bowel movements (sometimes not expressed by the patient, a question to be asked systematically).
+
+- ''False constipation diarrhoea'' is secondary to colonic exudation on prolonged contact with hard stools. This false diarrhoea may be manifested by alternating diarrhoea/constipation or by mucus emissions associated with hard stools.

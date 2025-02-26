@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-352-07-B
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=B
+|Title=Knowing the remote management of panic attacks
+|Description=Therapeutic education, referral to long-term treatment depending on the associated diagnosis, prevention of dependence on anxiolytics.
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=7}}
+
+If PA is isolated: psycho-education to recognise PA if it recurs, prevention of recurrence, dietary hygiene rules (less psychostimulants, regular sleep).
+
+If PA is repeated, specific treatment for panic disorder (Item 66c).
+
+If PA associated with a psychiatric disorder: treatment of the psychiatric disorder.

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-272-04-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Item_parent_short=Gastric and duodenal ulcer.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''TYPICAL ULCER SYNDROME:''' it associates epigastric pain with a sensation of cramp or painful hunger calmed by eating without irradiation characterised by its periodicity. This periodicity is twofold: during the day, late postprandial (1 to 3 hours after meals), and during the year with daily symptomatic periods interspersed with periods of calm lasting a few months.
+
+
+'''ATYPICAL ULCEROUS SYNDROME: frequent,''' right or left hypochondral pain, radiating dorsally, lack of periodicity, hyperalgesic form
+
+Asymptomatic, diagnosed by chance during oeso-gastroduodenal endoscopy (2/3 of cases in some studies).
+
+'''Physical examination generally normal in the absence of complications'''

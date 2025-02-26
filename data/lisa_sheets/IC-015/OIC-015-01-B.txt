@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-015-01-B
+|Item_parent=Psychiatric care without consent
+|Item_parent_short=Psychiatric care without consent
+|Rank=B
+|Title=Knowing the principles of psychiatric care without consent
+|Description=Law of July 2011, amended by the law of 27 September 2013
+|Rubric=Definition
+|Contributors=Pierre Vidailhet
+|Order=1}}
+
+<ins>As in all medical specialties, obtaining informed consent to treatment is a fundamental principle in psychiatry.</ins>
+
+<ins>However, </ins>psychiatric disorders can <ins>induce disturbances in judgement</ins> and <ins>alterations in the relationship to reality hindering</ins> the ability<ins> of patients</ins> to consent to care. The law of 5 July 2011 (amended by the law of 27 September 2013) then makes it possible to impose psychiatric care without consent at the request of a third party (SPDT<ins>); at the request of a third party in an emergency (SPDTu); in imminent peril (SPPI</ins>); by decision of the State representative (SPDRE).
+
+These are not rare situations: they affect <ins>95</ins>,000 people a year, and a quarter of hospital admissions.
+
+Only establishments authorised to provide psychiatric care are authorised to admit patients for care <ins>without consent</ins>.
+
+Care <ins>without consent</ins> is carried out on the basis of '''medical certificates'' (therefore involving a clinical examination of the person) which must describe in a '''detailed'''e and '''circumstantiated''' manner the clinical elements justifying the chosen measure (it is not necessary to give a diagnosis); they must be <ins>time-stamped and signed.</ins>
+
+The doctors who draw up the certificates may not be related or related to each other, up to and including the fourth degree, nor to the director of the host establishment who makes the admission decision, nor to the person who requested the care (in the case of SPDT) or to the person who is the subject of the care.
+
+'''The necessary certificates establishing the measure must be''' drawn up by '''a doctor with a doctorate''' registered with the Conseil de l'Ordre; subsequent certificates must be drawn up by '''psychiatrists<ins> with a doctorate</ins>'''.
+
+Non-consensual care is accompanied by temporary restrictions on certain personal freedoms, but only those that are justified by the patient's mental state (necessary, appropriate and proportionate) and the implementation of the required care.
+
+'''Patients retain rights''': to consult a doctor or a lawyer of their choice (at hearings before the JLD, the presence of a lawyer is mandatory); to send or receive mail; to communicate with deputies and senators, the users' committee, the Controller General of places of deprivation of liberty; to consult the establishment's internal regulations; to vote; to engage in religious activities. Patients must be informed of decisions taken and choices made (to be recorded in the patient record) in a manner appropriate to their condition (including by forwarding copies of decisions and orders<s>)</s><ins>) and their consent, if any, must be sought.</ins> Before any decision is taken, the patient's opinion on care must be sought and taken into consideration, as far as possible.
+
+Patients <ins>hospitalised in psychiatric care without consent </ins>may benefit from short-term discharge authorisations<s>.</s><ins> if their clinical condition allows.</ins>.
+
+'''A third party''' is a member of the family or any person having relations with <ins>the person</ins> who is ill prior to the request for care, to the exclusion of the care staff of the care establishment. In SPDT, the third party must be informed of any change in the form of care, unaccompanied short-term discharges and the lifting of the measure.

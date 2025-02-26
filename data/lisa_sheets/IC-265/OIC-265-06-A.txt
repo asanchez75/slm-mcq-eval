@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-265-06-A
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=A
+|Title=Knowing the factors contributing to renal colic
+|Description=Travel, heat, dehydration, physical activity, dietary changes
+|Rubric=Positive diagnosis
+|Contributors=Romain Boissier
+|Order=6}}
+
+Factors favouring nephritic colic are all factors that encourage the migration of a kidney stone into the ureter: travel, heat, dehydration, physical activity, dietary changes.

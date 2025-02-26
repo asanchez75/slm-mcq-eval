@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-355-09-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Knowing the biological tests to carry out in the event of digestive haemorrhage
+|Description=Know how to perform an arterial GDS, a blood/hemocue count and the usual haemostasis tests.
+|Section=Additional tests
+|Contributors=
+|Order=9}}
+- Blood count, ionogram and creatinine levels
+
+- Finger haemoglobin gives an approximate figure for instant haemoglobinaemia.
+
+- Rh RAi group: grouping should be requested as soon as severe digestive haemorrhage is suspected.
+
+- Haemostasis: PT, APTT, platelets.
+
+<br />

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-202-09-B
+|Item_parent=Biotherapies and targeted therapies
+|Item_parent_short=Biotherapies and targeted therapies
+|Rank=B
+|Title=General principles of HSC allogeneic transplantation
+|Description=None
+|Topic=Physiopathology
+|Contributors=François Lemoine,Amélie Servettaz
+|Order=9}}
+
+
+
+HSC express the CD34 antigen (1 to 3% of bone marrow cells, BM). The HSC used in cell therapy are present in the BM, in cord blood and in very low concentrations in peripheral blood. However, by treating donors with G-CSF, it is possible to mobilise HSC from the BM to the peripheral blood; this is the major source currently used for allogeneic HSC transplants.
+
+HSC allogeneic transplantation involves taking HSC from a related or unrelated donor identified in an international file of volunteer donors. The allogeneic HSC are injected into the patient (recipient) at a time when the disease is in remission or has not relapsed. To carry out allogeneic HSC transplants, it is most often necessary to find a match in the HLA system between the donor and the recipient, although thanks to new packaging, it is now possible to carry out semi-compatible HSC transplants, known as haplo-identical transplants, from a related donor.
+
+Allogeneic transplantation requires prior conditioning of the recipient patient by inducing a period of deep aplasia using chemotherapy and/or radiotherapy. The aim of this conditioning is to eradicate any residual malignant cells, to prevent acute rejection of the allogeneic HSCs by the recipient's lymphocytes, and to recolonise the recipient's failing haematopoietic system by homeostasis. During the phase of deep aplasia, patients are exposed to infectious risks, requiring extensive isolation and very close monitoring.
+
+Allogeneic HSC transplants (allografts) are indicated in the context of certain malignant haemopathies (acute leukaemias, for example) and non-malignant haemopathies (medullary aplasia, haemoglobinopathies) in certain more aggressive lymphomas or very advanced Hodgkin's disease, more rarely for severe autoimmune diseases.
+
+One of the major complications of allografts, apart from infection, is graft versus host disease (GVHD), caused by the alloreactivation of T lymphocytes from the graft against host cells, linked in particular to the recognition of minor alloantigens. GVHD is graded from I to IV: grade I-II GVHD is generally easily controlled, while grade III-IV GVHD can be fatal.

@@ -1,0 +1,74 @@
+{{knowledge objective
+|Identifiant=OIC-156-06-B
+|Item_parent=Infections in the bones and joints (IOA) of children and adults
+|Item_parent_short=Infections osteo articulaires (IOA) de l'enfant et de l'adulte
+|Rank=B
+|Title=Knowing diagnostic imaging examinations and their limitations
+|Description=To be done with imaging specialists
+|Rubric=Additional examinations
+|Contributors=Dr Florent Valour
+|Order=6}}
+
+
+{| class="wikitable"
+|'''Modalities'''
+|'''Interest and limitations'''
+|'''Main indications'''
+|-
+|Conventional radiography of the affected area''.
+|. Easy access
+
+. Assessment of bone and joint injuries
+
+. Initial radiographs normal: abnormalities delayed compared with the onset of infection (2-3 weeks in adults, 8-10 days in children): osteolysis, periosteal appositions, Brodie's abscess, etc.
+|Broad indication: almost systematic (except for spondylodiscitis) at diagnosis, then according to progress.
+
+Systematic in emergencies in children (eliminates fracture, tumour ...)
+|-
+|'''Ultrasound'''
+|. Easy to access
+
+. Joint and soft tissue assessment
+|. Septic arthritis (not systematic): confirmation of effusion if there is clinical doubt (particularly in the hip), guidance for puncture if necessary.
+
+. Acute osteomyelitis in children: look for soft tissue abscess, subperiosteal abscess (in case of severe pain)
+|-
+|'''CT scan without and with injection of contrast medium'''
+|. Assessment of bone and joint lesions
+
+. Delayed signs
+
+. Bone structure and stability
+|. Chronic osteitis: initial assessment
+
+. Spondylodiscitis: initial assessment coupled with functional imaging (only if MRI is contraindicated), assessment of spinal deformity at a distance.
+
+. Arthritis: rarely useful
+|-
+| MRI
+|. Early signs (a few days)
+
+. Best test for diagnosing inflammatory osteoarticular disease
+
+. Assessment of soft tissue and neurological structures (spondylodiscitis)
+|. Spondylodiscitis: reference diagnostic examination, search for complications (paravertebral abscess, spinal cord or radicular compression).
+
+. Acute osteomyelitis in children: diagnostic confirmation (shows bone oedema with T1 hyposignal and T2 hypersignal), search for complications (subperiosteal or soft tissue abscesses, arthritis, associated venous thrombosis).
+
+. Chronic osteitis: not systematic, extent of initial bone involvement
+
+. Arthritis: rarely useful
+|-
+|'''Functional imaging''''
+|. Early but non-specific abnormalities
+
+. Modalities: bone or marked polynuclear scintigraphy, PET scan, etc.
+|. Not systematic
+
+. Spondylodiscitis: 18FDG PET scans, if MRI is contraindicated.
+
+. Acute osteomyelitis in children: Technetium-99m bone scintigraphy as an alternative to MRI, especially useful for young children in whom MRI is difficult to perform (need for sedation) or in cases of clinical difficulty in locating the infection.
+|}
+[https://videotheque.uness.fr/w/bqYTuCCnz4i8nV785sD8HR 7mn imaging of osteoarticular infections CERF]
+
+Associated starting situations: [[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]], [[Discovery of a bone and joint abnormality on medical imaging examination SD-228|Discovery of a bone and joint abnormality on medical imaging examination]], [Writing the request for an imaging examination SD-230|Writing the request for an imaging examination]], [[Requesting an imaging examination SD-231|Requesting an imaging examination]], [[Identifying/recognising the different imaging examinations (type/window/sequences/incidence/injection) SD-233|Identifying/recognising the different imaging examinations (type/window/sequences/incidence/injection)]].

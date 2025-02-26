@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-145-02-B
+|Item_parent=Surveillance of communicable infectious diseases
+|Item_parent_short=Surveillance of communicable infectious diseases
+|Rank=B
+|Heading=Know the principles of communicable infectious disease surveillance: national and international organisation of surveillance, data sources, objectives, etc.
+|Description=None
+|Section=Definition
+|Contributors=Didier HOCQUET,Elodie COUVE,Anne-Marie ROGUES,Alexandre DUVIGNAUD
+|Order=2}}
+
+Communicable infectious disease surveillance involves the compilation and analysis of clinical and/or microbiological data relating to infectious diseases. Its aim is to describe a disease and study its risk factors, with a view to implementing and evaluating prevention and control measures. Data may be collected on an ongoing or ad hoc basis, for example from laboratory networks, hospitals or general practitioners.
+
+Monitoring can be :
+
+*Passive'': spontaneous reporting by field workers.
+*Active'': data collection by dedicated staff who gather information that is often more exhaustive and elaborate than in the case of passive surveillance.
+*Semi-active'': reminders or reminders sent to field workers, search for additional cases.
+
+Surveillance is organised at different levels:
+
+*'''Territorial''' with a network of various sources (for example: microbiology laboratories for the Observatoire National de l'Epidémiologie de la Résistance Bactérienne aux Antibiotiques - ONERBA; doctors for the Sentinelles network)
+*'''National''': Santé Publique France (SPF), surveillance networks, National Reference Centres (CNR)
+*International: World Health Organisation (WHO), European Center for Disease Control (ECDC) in Europe, Centers for Disease Control and Prevention (CDC) in the United States.

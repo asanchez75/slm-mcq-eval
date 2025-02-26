@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-196-07-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Title=Knowing the differential diagnosis of rheumatoid arthritis
+|Description=Other causes of polyarthritis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''Clinical signs -''' Search for extra-rheumatological manifestations that may point to other diseases accompanied by peripheral arthritis
+
+'''Biological signs -''' Look for abnormalities in the haemogram, urine dipstick, transaminase assay or look for antinuclear antibodies (if ACPAs are negative), which may point to other diseases accompanied by peripheral arthritis.
+
+'''Imaging signs -''' Search for radiographic abnormalities that may point to other diseases accompanied by peripheral arthritis

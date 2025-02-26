@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-295-03-A
+|Item_parent=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Item_parent_short=Managing and supporting cancer patients at all stages of the disease, including palliative care, by addressing technical, relational, social and ethical issues.
+|Rank=A
+|Title=Knowing the Personalised Care Programme
+|Description=Knowing how to define the Personal Care Programme
+|Rubric=Definition
+|Contributors=Laurent Zelek
+|Order=3}}
+
+The personalised care programme (PPS) is a written document:
+
+- given to patients at the start of their treatment,
+
+- validated by a multidisciplinary consultation meeting
+
+- with personalised details of the treatments planned.
+
+The PPS should include a support care component in accordance with the recommendations of the INCA.
+
+
+NB: this concerns initial treatment as well as relapses.

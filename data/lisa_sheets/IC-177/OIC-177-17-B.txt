@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-177-17-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Title=Know the restrictions on the use of the main carbapenem molecules.
+|Description=Meropenem, Imipenem, ertapenem
+|Rubric=Definition
+|Contributors=
+|Order=17}}
+'''1- Carbapenems:'''
+
+Molecules: imipenem, ertapenem, meropenem
+
+Classes of antibiotics with a very broad spectrum of action, particularly on multi-resistant Gram-negative bacilli
+
+
+'''2- Issues:''''
+
+Better use is needed to reduce their consumption (in hospitals) by limiting their prescription to what is strictly necessary during probabilistic or documented antibiotic therapy, in order to preserve their efficacy.
+
+Worrying emergence of carbapenemase-producing Enterobacteriaceae
+
+
+3- Prescription of carbapenems as probabilistic treatment:''''
+
+In the absence of serious signs (presence of septic shock or infection with life-threatening organ dysfunction), the prescription of carbapenems is not justified.
+
+-During urinary tract infections :
+
+Use of carbapenems only for infections with signs of severity and a history of extended-spectrum beta-lactamase-producing Enterobacteriaceae (EBLSE) urinary tract infection/urinary tract colonisation within 3 months or EBLSE risk factors (treatment with amoxicillin-clavulanic acid, C2G, C3G, fluoroquinolones in the last 3 months, travel to an EBLSE-endemic area in the last 3 months, long-stay inpatient treatment with an indwelling bladder catheter or gastrostomy).
+
+-During intra-abdominal infections :
+
+Use of carbapenems only in healthcare-associated infections with :
+
+<nowiki>*</nowiki> either signs of severity
+
+<nowiki>*</nowiki>either with no signs of severity but :
+
+=> if recently treated (less than 1 month) with piperacillin-tazobactam or a cephalosporin active against P. aeruginosa
+
+=> or if colonisation or infection with EBLSE or piperacillin-tazobactam-resistant P. aeruginosa in the last 3 months
+
+-During a respiratory infection :
+
+Use of carbapenems only in the case of nosocomial pneumonia in intensive care, whether or not associated with mechanical ventilation, with rectal or respiratory EBLSE colonisation and in the presence of signs of severity or immunodepression.
+
+-Febrile aplasia :
+
+Use of carbapenems only in patients in septic shock with a history of EBLSE colonisation or infection within 3 months.
+
+
+4- Prescription of carbapenems for documented infections
+
+In the documented treatment of infections with C3G-resistant enterobacteria, it is recommended that carbapenems be reserved for clinical and/or microbiological situations where no alternative is possible.

@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-166-07-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Knowing the main differential diagnoses
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+- Viruses with influenza-like illness (respiratory syncytial virus, etc.)
+
+- Bacterial infections
+
+§ Mycoplasma
+
+§ Chlamydia
+
+§ ''Listeria

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-277-10-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the mechanism and diagnosing lithiasis migration
+|Description=hepatic colic, BIO: transient hepatic cytolysis +/- cholestasis, without inflammatory syndrome, ECHO: vesicular lithiasis
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=10}}
+Lithiasis is the migration of small stones into the main bile duct without signs of angiocholitis or pancreatitis.
+
+
+The elements of a positive diagnosis of lithiasis migration are :
+
+- the pain of hepatic colic,
+
+- absence of infectious syndrome (no fever) or inflammatory syndrome
+
+- an often significant rise in transaminases, rapidly improving with a reduction of more than 50% in less than 48 hours.
+
+- the presence of vesicular calculi on ultrasound, and generally no dilatation of the bile ducts.

@@ -1,0 +1,60 @@
+{{knowledge objective
+|Identifiant=OIC-094-03-A
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=A
+|Title=Savoir interroger un patient et l'examiner devant une rachialgie
+|Description=Description of the signs found during questioning and clinical examination
+|Rubric=Positive diagnosis
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=3}}
+
+==='''Interrogatory: assessment and management of acute pain + [[Assessment and management of chronic pain SDD-260|chronic]]''''===
+
+*'''characterise the pain''''
+**seat: cervical/dorsal/lumbar spine '''[[Spinal pain (cervical, dorsal or lumbar) SDD-072|spinal pain (cervical, dorsal or lumbar)]]''''
+**irradiations '''([[Cervico-facial pain SDD-144|cervico-facial pain]], [[Pelvic pain SDD-099|pelvic pain]], [[Testicular pain SDD-100|testicular pain]])'''''
+**mode and circumstances of onset: trauma, micro-trauma, sedentary lifestyle, weight gain, accident at work, etc.
+**impulse to cough or defecate
+**mechanical or inflammatory schedule (waking up at night, waking up in the morning, worst time of the night and/or morning)
+**aggravating factors: movement, physical activity/rest
+**mitigating factors: physical activity/rest, kyphosis, NSAIDs, simple analgesics
+**intensity: VAS, ENS
+**progression: permanent, in attacks
+**duration of evolution
+**impact on activities and participation (daily life, leisure, work): questioning, self-questionnaire (Quebec, Dallas, Oswestry)
+**associated signs: radiculalgia, vesico-sphincter disorders, saddle anaesthesia, vertigo, headaches, etc.
+**effectiveness of previous and current treatments
+
+*look for ''red flags'' (see below)
+*look for other joint and extra-articular signs pointing to inflammatory disease: family or personal history of inflammatory rheumatism or autoimmune disease, peripheral arthralgia or arthritis, enthesitis (heel, pelvis), associated signs (diarrhoea, eye inflammation, psoriasis), etc.
+*look for deconditioning during exercise ''[[Identify a situation of deconditioning SDD-353|(identify a situation of deconditioning during exercise)]]''''
+*look for risk factors for chronicity of low back pain/common neck pain: psycho-social factors
+
+<br />
+
+===''Spinal examination''===
+
+*measurement of height and loss of height compared to age 20
+*on inspection:
+**search for spinal deformity: in the frontal plane (lateral deformity), in the sagittal plane (hypo/hypercyphosis, hypo/hyperlordosis, anterior deformity) and in the axial plane (gibbosity) ''[[Spinal deformity SDD-065|(spinal deformity)]]''', asymmetry of positioning of the shoulders, shoulder blades, waist folds or pelvis
+**search for an antalgic attitude with contracture or a scoliotic attitude
+**to look for inequality in the length of the lower limbs
+**search for gait disorder
+
+*on palpation: look for pain in the spine, paravertebral or sacroiliac muscles, or a ringing sound
+*on mobilisation:
+**look for segmental and/or global spinal stiffness: spinal syndrome, chin-sternum distance, chin-acromion distance, tragus-acromion distance, finger-ground distance, Schöber index (joint stiffness), extensibility of the muscles of the lower limbs (anterior and posterior planes), etc.
+**look for signs of disco-radicular impingement: direct or indirect Lasègue sign (sciatica) or Léri's sign (cruralgia), radiculalgia in hyperextension, radicular sonnette
+
+<br />
+
+===''Extra-spinal examination:'''===
+
+*look for ''red flags'' (see below)
+*examination of peripheral joints
+*neurological examination of all four limbs
+*look for signs of vertebro-basilar insufficiency
+*thoraco-abdominal examination (to rule out visceral causes of back pain)
+
+<br />

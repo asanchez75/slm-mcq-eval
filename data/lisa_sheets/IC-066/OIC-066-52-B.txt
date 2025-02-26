@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-066-52-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the DSM-5 Diagnostic Criteria for Acute Stress Disorder and Post-Traumatic Stress Disorder
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=52}}
+
+'''TSA'''
+
+A. Exposure to actual or threatened death, serious injury or sexual violence in one (or more) of the following ways: 1. Direct exposure to one or more traumatic events. 2. By directly witnessing one or more traumatic events happening to other people. 3. By learning that one or more traumatic events have happened to a close family member or friend. 4. By being repeatedly or extremely exposed to the aversive characteristics of the traumatic event(s) (front-line workers collecting human remains, police officers repeatedly exposed to explicit child sexual abuse).
+
+B. Presence of nine (or more) of the following symptoms from any of the five following categories, beginning or worsening after the occurrence of the traumatic event(s) in question:
+
+- Invasive symptoms: 1. repetitive, involuntary and invasive memories of the traumatic event(s) causing distress. 2. Repetitive distressing dreams in which the content and/or affect of the dream is related to the traumatic event(s). 3. Dissociative reactions in which the subject feels or acts as if the traumatic event(s) will recur. 4. Intense or prolonged feeling of psychological distress when exposed to internal or external cues evoking or resembling an aspect of the traumatic event(s) in question.
+
+- Negative mood: 5. persistent inability to experience positive emotions.
+
+- Dissociative symptoms: 6. altered perception of reality, environment or self; 7. inability to recall an important aspect of the traumatic event(s).
+
+- Avoidance symptoms: 8. efforts to avoid memories, thoughts or feelings relating to or closely associated with one or more traumatic events and causing distress; 9. efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that trigger memories, thoughts or feelings associated with one or more traumatic events and causing distress.
+
+- Symptoms of wakefulness: 10. Sleep disturbance. 11. Irritable behaviour or outbursts of anger, typically expressed by verbal or physical aggression towards people or objects. 12. Hypervigilance. 13. Difficulty concentrating. 14. Exaggerated startle response.
+
+C. The duration of the disturbance (of criteria B symptoms) is 3 days to 1 month after exposure to the trauma.
+
+D. The disturbance results in clinically significant distress or impairment in social, occupational or other important areas of functioning.
+
+E. The disturbance is not due to the physiological effects of a substance or other medical condition and is not best explained by a brief psychotic disorder.
+
+'''PTSD'''
+
+A. Exposure to actual or threatened death, serious injury or sexual violence in one (or more) of the following ways: 1. Direct exposure to one or more traumatic events. 2. By directly witnessing one or more traumatic events happening to other people. 3. By learning that one or more traumatic events have happened to a close family member or friend. 4. By being repeatedly or extremely exposed to the aversive characteristics of the traumatic event(s) (front-line workers collecting human remains, police officers repeatedly exposed to explicit child sexual abuse).
+
+B. Presence of one (or more) of the following invasive symptoms associated with one or more traumatic events and having begun after the occurrence of the traumatic event(s) in question: 1. Repetitive, involuntary and invasive memories of the traumatic event(s) causing a feeling of distress. 2. Repetitive distressing dreams in which the content and/or affect of the dream is related to the traumatic event(s). 3. Dissociative reactions in which the subject feels or acts as if the traumatic event(s) will recur. 4. Intense or prolonged feeling of psychic distress when exposed to internal or external cues evoking or resembling an aspect of the traumatic event(s) in question. 5. Marked physiological reactions when exposed to internal or external cues that may evoke or resemble an aspect of the traumatic event(s).
+
+C. Persistent avoidance of stimuli associated with one or more traumatic events, beginning after the occurrence of the traumatic event(s), as evidenced by the presence of one or both of the following: 1. Avoidance of, or efforts to avoid, memories, thoughts or feelings relating to or closely associated with one or more traumatic events and causing distress. 2. Avoidance or efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that arouse memories, thoughts or feelings associated with one or more traumatic events and provoking a feeling of distress.
+
+D. Negative cognitive and mood changes associated with one or more traumatic events, beginning or worsening after the occurrence of the traumatic event(s), as evidenced by two (or more) of the following: 1. Inability to recall an important aspect of the traumatic event(s). 2. Persistent and exaggerated negative beliefs or expectations about oneself, others or the world. 3. Persistent cognitive distortions about the cause or consequences of one or more traumatic events that lead the subject to blame him/herself or others. 4. Persistent negative emotional state. 5. Marked reduction in interest in, or participation in, important activities. 6. Feeling of detachment from others or of becoming alienated from others. 7. Persistent inability to experience positive emotions.
+
+E. Marked alterations in arousal and reactivity associated with one or more traumatic events, beginning or worsening after the occurrence of the traumatic event(s), as evidenced by two (or more) of the following: 1. Irritable behaviour or outbursts of anger typically expressed by verbal or physical aggression towards people or objects. 2. Reckless or self-destructive behaviour. 3. Hypervigilance. 4. Exaggerated startle response. 5. Concentration problems. 6. Sleep disturbance.
+
+F. The disturbance (symptoms of criteria B, C, D, E) lasts for more than one month.
+
+G. The disturbance results in clinically significant suffering or impairment of social, occupational or other important functioning.
+
+H. The disturbance is not attributable to the physiological effects of a substance or to another medical condition.

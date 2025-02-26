@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-172-12-B
+|Item_parent=Digestive parasitosis: giardiosis, amoebiasis, tapeworm, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=B
+|Title=Know how to prescribe a specific test for cryptosporidiosis
+|Description=None
+|Rubric=Additional tests
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=12}}
+
+The standard parasitological examination of stools does not include the detection of cryptosporidia. The parasitic forms detected (oocysts) are small and require specific staining methods or, increasingly, DNA detection by PCR.
+
+'''In the event of clinical suspicion: specifically prescribe a test for cryptosporidia in the stools''.

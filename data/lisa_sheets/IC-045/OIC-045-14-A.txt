@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-045-14-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Know how cystic fibrosis is diagnosed.
+|Description=Know how cystic fibrosis is diagnosed.
+|Rubric=Positive diagnosis
+|Contributors=Claude Férec,Elise Launay,Caroline Schluth-Bolard
+|Order=14}}
+
+Cystic fibrosis is most often diagnosed in the first few weeks of life following positive neonatal screening ([Systematic neonatal screening SD-308|Systematic neonatal screening]]). However, it may be diagnosed later in adolescence or adulthood. A positive diagnosis is confirmed by a sweat test. This test involves collecting sweat from both forearms after stimulation with pilocarpine, and then measuring the chlorine content. When the test value is above 60 meq/L, the diagnosis of cystic fibrosis is confirmed. Between 40 and 60 meq/L, the result is considered intermediate and the test must be repeated.

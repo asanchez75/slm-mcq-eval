@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-077-02-A
+|Item_parent=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Item_parent_short=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Rank=A
+|Title=Knowing how to diagnose acute benzodiazepine intoxication.
+|Description=cf item 333
+|Topic=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Acute Intoxication''':
+
+- Symptoms:
+
+           * sedation and impaired alertness,
+
+           * ataxia,
+
+           * dysarthria,
+
+           * a life-threatening emergency involving coma with respiratory depression leading to death
+
+           * domestic accidents (falls among the elderly) or road accidents
+
+           * sexual assault as part of chemical submission.           
+
+- The most frequent causes of acute intoxication are benzodiazepines taken in excess of the doses usually prescribed.
+
+- Why is this?
+
+           * to investigate one or more therapeutic effects (anxiolytics, hypnotics, muscle relaxants, etc.)
+
+           * to avoid the progressive loss of effects when treatment is chronic,
+
+           * in cases of deliberate drug intoxication with suicidal intent.

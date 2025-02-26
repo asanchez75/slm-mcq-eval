@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-335-16-B
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=B
+|Title=Knowing the examinations to be carried out in the case of a fracture of the zygoma
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=16}}
+Compulsory ophthalmological examination due to the risk of reduced visual acuity, diplopia and direct ocular damage. Clinical and medicolegal interest.
+
+Imaging
+
+* standard x-rays, obsolete compared with CT scans (Blondeau, Waters, Hirtz)
+* non-injected CT scan of the facial mass, with reconstruction in the 3 planes of space, essential in the event of functional ophthalmological signs and, in practice, accepted as first-line treatment.

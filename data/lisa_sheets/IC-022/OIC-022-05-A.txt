@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-022-05-A
+|Item_parent=Rare diseases
+|Item_parent_short=Rare diseases
+|Rank=A
+|Title=Knowing the definition of diagnostic errancy and diagnostic impasse
+|Description=To understand the concept of diagnostic wandering, to know how to reduce it, to distinguish it from the concept of diagnostic impasse (in accordance with the instructions of the PNMR3).
+|Topic=Positive diagnosis
+|Contributors=Sylvie Odent
+|Order=5}}
+Diagnostic wandering: diagnostic wandering is the period between the appearance of the first symptoms and the date on which a precise diagnosis is made ('''[[Rational request/prescription and choice of a diagnostic examination SD-178|rational request/prescription and choice of a diagnostic examination]]''').
+
+Diagnostic impasse: diagnostic impasse results from the failure to define the precise cause of the disease after having implemented all the investigations available in the state of the art. It concerns patients with an atypical form of a known disease, or a disease whose genetic or other cause has not yet been recognised.

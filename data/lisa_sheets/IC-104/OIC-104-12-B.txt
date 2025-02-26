@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-104-12-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Intitle=Knowing the main complications of MS
+|Description=spasticity, urinary problems, sexual problems, pain, fatigue, depressive syndrome
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=12}}
+MS complications reflect the neurological sequelae left by the succession of attacks or the progressive worsening of the disease. They therefore vary greatly from one patient to another. They can be alleviated by symptomatic treatments, the aim of which is to improve quality of life.
+
+- Motor disorders (motor deficit in one or more limbs, ataxia) ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Onset of difficulty walking SD-066|onset of difficulty walking]], [Limping SD-068|limping]], [[Intermittent limb claudication SD-069|intermittent claudication]], [[Muscle weakness SD-074|muscle weakness]], [[Balance disorders SD-130|balance disorders]]) can lead to a limitation or even a loss of independence. Treatment is based on rehabilitation (physiotherapy, occupational therapy, stays in rehabilitation centres) and equipment (cane, crutch, walker, mechanical or electric wheelchair) ([[Prescription of rehabilitation SD-247|prescribe rehabilitation]]).
+
+- Spasticity of pyramidal origin ([[Localised or generalised muscular contracture SD-029|localised or generalised muscular contracture]]) can be treated with antispastic drugs (baclofen or dantrolene), physiotherapy and self-stretching ([[Prescription of re-education SD-247|prescribe re-education]]). In cases of severe spasticity, local injections of botulinum toxin or implantation of a pump for intrathecal administration of baclofen may be indicated. Physiotherapy is used to combat hypertonia and deformity.
+
+- Urinary disorders ([[Micturition abnormality SD-023|micturition abnormality]], [[Acute retention of urine SD-097|acute retention of urine]], [[Urinary incontinence SD-103|urinary incontinence]]) must be detected and treated to avoid damage to the upper urinary tract and recurrent urinary tract infections. They include symptoms of bladder hyperactivity (urinary frequency, urgency) and sphincter hypertonicity (dysuria, poor bladder emptying). A urodynamic assessment and an ultrasound scan of the urinary tract with measurement of post-micturition residual are often necessary. If there is bladder hyperactivity, anticholinergics and intradetrusor botulinum toxin injections are treatment options. In the event of dysuria, alpha-blockers may be prescribed. In the event of significant post-mictional residue, intermittent self-catheterisation on a twice-daily basis should be suggested. Symptomatic urinary tract infections should be treated to avoid pyelonephritis. They also constitute irritative thorns which can aggravate spasticity. There is no reason to treat non-symptomatic bacteriuria.
+
+- Sexual disorders ([[Sexual disorders and erectile dysfunction SD-063|sexual disorders and erectile dysfunction]]), particularly erectile dysfunction, can be improved with medication and sexological or psychotherapeutic follow-up. Sexual disorders must also be detected and treated in women.
+
+- Pain ([[Chronic pain SD-035|chronic pain]], [[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]], [[Chronic pain SD-035|assessment and management of chronic pain]]) can be relieved by conventional analgesics, tricyclics or certain anti-epileptics.
+
+- Fatigue ([[Asthenia SD-021|asthenia]]) is difficult to combat. Antiasthenic drugs are not very effective (amantadine, modafinil). Appropriate physical activity is recommended, particularly physical reconditioning for exercise.
+
+- Psychotherapeutic treatment may be necessary, as there is often an associated depressive syndrome. Antidepressants may be offered if necessary.

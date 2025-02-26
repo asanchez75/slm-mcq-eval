@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-340-06-B
+|Item_parent=Strokes
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Enumerate the arguments for the diagnosis of dissection of an artery destined for the brain.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=6}}
+- Dissection of an extra- or intracranial cerebral artery is one of the most frequent causes of cerebral infarction before the age of 50.
+
+- Hypertension ([[Hypertension SD-042|hypertension]]) is the only vascular risk factor that increases the risk of dissection.
+
+- The clinical diagnosis is evoked by an inconstant triad associating
+
+# a focal neurological deficit of sudden onset ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]<nowiki/>r; [[Facial paralysis SD-127|facial paralysis]]; [[Speech and/or phonation disorders SD-134|speech and/or phonation disorders]]; [[Vision abnormality SD-138|vision abnormality]]),
+# headache or neck pain ([[Headache SD-118|headache]]; [[Spinal pain (cervical, dorsal or lumbar) SD-072|spinal pain]]; [[Cervicofacial pain SD-144|cervicofacial pain]]),
+# paralysis of a cranial pair or Claude Bernard Horner syndrome.
+
+- Dissection may occur spontaneously or in the context of minor trauma ([[Vomiting SD-013|vomiting]]; [[Cough SD-167|cough]]) or major trauma ([[Head injury SD-172|head injury]]; [[Spinal injury SD-175|spinal injury]]).
+
+- The diagnosis of dissection will be made by an imaging examination identifying the presence of an arterial wall haematoma or arterial stenosis ([[Discovery of a cervico-facial anomaly on medical imaging examination SD-225|discovery of a cervico-facial anomaly on medical imaging examination]]). This examination may be an echo-Doppler of the supra-aortic trunks, an angioscan of the supra-aortic trunks, an MRI of the supra-aortic trunks or a T1-spir MRI sequence ([[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations]]).

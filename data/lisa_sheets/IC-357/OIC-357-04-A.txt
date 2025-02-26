@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-357-04-A
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=A
+|Title=Know the three main causes of peritonitis in adults
+|Description=None
+|Rubric=Etiologies
+|Contributors=Maksud Assadi,Philippe Montravers
+|Order=4}}
+'''The 3 main causes of peritonitis in adults are:'''
+
+*appendicular ulcer (Item : [[2C-356]])
+*perforation of a duodenal ulcer (Item : [[2C-272]])
+*perforation of a sigmoid diverticulum (Item : [[2C-287]] ; [[2C-287-DE-A01]])
+
+<br />

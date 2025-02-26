@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-340-08-A
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the signs of stroke severity
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=8}}
+The positive signs of severity are :
+
+*Impaired alertness,
+*respiratory distress,
+*haemodynamic instability.
+
+These signs should be sought on physical examination by assessing :
+
+*the patient's state of consciousness ([[Coma and disorders of consciousness SD-028|Coma and disorders of consciousness]]; [[Mental confusion/disorientation SD-119|Mental confusion/disorientation]]; [[Malaise/loss of consciousness SD-050|Malaise/loss of consciousness]]; [[Convulsions SD-120|Convulsions]]; [[Swallowing disorders or false swallowing SD-062|Swallowing disorder]])
+*the patient's haemodynamics, looking in particular for arterial hypotension and rhythm disorders (blood pressure, pulse) ([[Bradycardia SD-159|Bradycardia]]; [[Discovery of arterial hypotension SD-043|Discovery of arterial hypotension]])
+*respiratory distress ([[Acute respiratory distress SD-160|Acute respiratory distress]])
+*The NIHSS score is used in the initial phase to assess the severity of the stroke (assessment of motor deficit, speech disorders and consciousness).

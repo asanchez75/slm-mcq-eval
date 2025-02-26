@@ -1,0 +1,129 @@
+<br />{knowledge objective
+|Identifiant=OIC-003-01-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Know the definition of evidence-based medicine (EBM). Notion of levels of evidence
+|To be familiar with the different levels of evidence and how they can be used to prioritise and weigh up the various data useful for decision-making.
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+<br />
+
+==A Definition==
+Evidence-based medicine (EBM) refers to the conscientious and judicious use of the best current scientific data in the personalised care of each patient. This practice is based on the fact that scientific knowledge has developed to such an extent that no doctor can assimilate it, even in his own field. In the event of uncertainty, doctors must be able to seek out and evaluate the scientific information that will enable them to resolve the clinical problem at hand.
+
+Evidence-based medicine was conceptualised and developed by specialists in clinical epidemiology at McMaster University in Hamilton (Canada) in the 1980s.
+
+For the designers of evidence-based medicine, medical death includes (fig. 1.3) :
+
+- the doctor's clinical experience ;
+
+- the most recent data from clinical epidemiology;
+
+- patient preferences.
+<br />
+
+==B Principles==
+There are four stages to the evidence-based medicine approach.
+
+===1 Formulate a clear and precise clinical question based on the clinical situation encountered in practice===
+This involves converting the clinical problem encountered in practice into a clear and precise question. To be complete, this question must include the following elements, summarised by the acronym "PICOT" for "patients, intervention, comparator, outcomes, time" (table 1.1):
+
+- precise definition of the patient group under consideration ;
+
+- specification of the intervention in question (diagnostic, preventive, therapeutic, rehabilitation) ;
+
+- possible specification of the main alternative to the intervention in question ;
+
+- definition of one or more relevant assessment criteria for evaluating the efficacy and safety of the intervention ;
+
+- specification of the time horizon for evaluating the endpoint.
+
+
+Table 1.1 Formulation of the clinical question in the evidence-based medicine approach, according to the type of study
+{| class="wikitable"
+|PICOT
+|Treatment
+|Diagnosis
+|Etiology
+|Prognosis
+|-
+|Patient
+|population, patients, clinical problem
+|-
+|''Intervention'' (element subject to evaluation)
+|Intervention
+|New test
+|Exposure factor
+|Prognostic factor
+|-
+|Comparator (reference situation)
+|Control (reference treatment or intervention)
+|Reference management or test
+|Absence of exposure
+|Absence of prognostic factor or degree of importance of factor assessed (e.g. tumour size)
+|-
+|Outcome (judgement criterion)
+|Clinical outcome (what we want to improve: survival, disease progression, etc.)
+|Identification of the disease to be diagnosed (validity of the diagnosis)
+|Disease
+|Clinical outcome (survival, complications, disease progression, etc.)
+|-
+|Time (time horizon)
+| colspan="4" |Time of assessment
+|-
+|Type of study
+|Randomised controlled trial
+|Cross-sectional
+
+Cohort
+|Case-control
+
+Cohort
+|Pronostic (cohort)
+|}
+<br />
+
+===2 Identify relevant publications===
+This involves identifying the publications relevant to answering the question posed. Not all doctors have the time or resources to identify publications to practice evidence-based medicine. There are a number of resources that have been developed in accordance with the principles of evidence-based medicine and are easily accessible (box 1.3Box 1.3 Evidence-based medicine: tools the doctor can use
+
+The development of the Internet has made it considerably easier for doctors (and the public) to access scientific publications, in particular through the Medline database via its PubMed interface, but also using the usual search engines. However, not all doctors have the time or inclination for this kind of research. However, provided they can read English, they have access to resources that provide valid, compiled and analysed information.
+
+===3 Critically assess the methodology and results of the publications identified===
+This involves assessing their validity (level of scientific evidence), their impact (magnitude of effect) and their practical usefulness (grade of recommendation). When an exhaustive analysis of the literature is carried out in accordance with these three stages, this is known as a systematic review, which may be supplemented by a meta-analysis. A systematic review consists of identifying, evaluating and summarising all the studies, published or unpublished, dealing with a given subject. Its aim is to answer a specific question in the field of health.
+
+If the quantitative results of the studies can be combined, a statistical measure of the overall effect of the intervention being evaluated can be calculated. This is known as a meta-analysis - the meta-analysis itself being the statistical combination of the results of several studies.
+
+=Knowledge bases=
+They provide access to rigorously selected systematic reviews and to a number of resources in the field of evidence-based medicine (some of which are subject to a charge):
+
+- BMJ Clinical evidence (www.clinicalevidence.bmj.com);
+
+- CiSMef (www.chu-rouen.fr/cismef/), which lists resources in the field of evidence-based medicine in French;
+
+- ACP Journal club (www.acpjc.org) and Evidence-Based Medicine Journal (www.ebm.bmj.com) offer an analysis of articles with a high level of scientific evidence, taken from a selection of the best journals in the field of medicine.
+
+=Systematic reviews and meta-analyses=
+The main source of systematic reviews is the Cochrane Database (www.thecochranelibrary.com). It presents systematic reviews and meta-analyses carried out by healthcare professionals, members of the Cochrane Collaboration, within thematic groups. In total, more than 50 review groups work on producing and updating the reviews, supervised by an editorial team which ensures that rigorous quality standards are applied. All the abstracts translated into French are available on the French website (www.cochrane.fr).
+<br />
+
+=Recommendations for clinical practice=
+These are ''proposals developed according to an explicit method to help the practitioner and the patient to seek the most appropriate care in given clinical circumstances''. Their aim is to inform healthcare professionals, patients and users of the healthcare system about the state of the art and the latest scientific data, in order to improve management and the quality of care. Unlike systematic reviews, which only take into account information from scientific publications, recommendations incorporate the opinion of experts (when scientific data cannot provide a definitive answer) as well as the organisation of care, the resources available and even the culture of the country in which they are drawn up. In France, recommendations are put forward by the Haute Autorité de Santé (www.has-sante.fr) and by learned societies.
+
+The aim is to assess their validity (level of scientific evidence), their impact (magnitude of effect) and their practical usefulness (grade of recommendation). When an exhaustive analysis of the literature is carried out in accordance with these three stages, this is known as a systematic review, which may be supplemented by a meta-analysis. A systematic review consists of identifying, evaluating and summarising all the studies, published or unpublished, dealing with a given subject. Its aim is to answer a specific question in the field of health.
+
+If the quantitative results of the studies can be combined, a statistical measure of the overall effect of the intervention being evaluated can be calculated. This is known as a meta-analysis - the meta-analysis itself being the statistical combination of the results of several studies.
+
+===4 Deduce a personalised course of action for the patient===
+This includes :
+
+- the possibility of extrapolating the results of the literature review to the patient;
+
+- the relevance of the intervention to the physician's practice context ;
+
+- the benefit/risk balance of the operation ;
+
+- patient preferences.
+Patient preferences encompass their expectations and personal goals in terms of health and quality of life, as well as the weight they give to the expected benefits, potential adverse effects, costs and constraints associated with different management options. The patient's preferences may be revealed informally, using decision-support tools or formalised methods (visual analogue scale, time trade-off or standard gamble). Ideally, the course of action is decided at the end of a shared medical decision-making process.
+<br />

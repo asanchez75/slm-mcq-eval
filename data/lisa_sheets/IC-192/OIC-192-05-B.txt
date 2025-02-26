@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-192-05-B
+|Item_parent=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Autoimmune diseases: epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the clinical and biological characteristics of non-organ-specific autoimmune diseases
+|Description=
+|Section=Positive diagnosis
+|Contributors=Amélie Servettaz
+|Order=5}}
+
+<big>- Non-organ-specific or systemic IADs are characterised by possible involvement of several organs and therefore generally general symptoms (fever, asthenia, altered general condition) and symptoms related to the dysfunction of one or more organs.</big>
+
+<big>- Biologically, there are frequently autoantibodies directed against antigens that are ubiquitous or present in different organs (e.g. double-stranded DNA, one of the target antigens in SLE).</big>

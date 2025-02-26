@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-124-11-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Knowing the contraindications of HRT
+|Description=None
+|Heading=Management
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=11}}
+
+[[File:CI du THM.jpg|vignette|CI du THM]]
+'''Certain situations require the choice of the non-oral route of administration.'''
+
+These are essentially certain metabolic conditions such as hypertriglyceridaemia or hypertension, or in women with venous thrombo-embolic risk factors.

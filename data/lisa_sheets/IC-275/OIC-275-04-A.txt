@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-275-04-A
+|Item_parent=Splenomegaly
+|Item_parent_short=Splenomegaly
+|Rank=A
+|Title=Identifying signs of splenic infarction
+|Description=G hypochondrium + G shoulder pain, fever, effusion -> imaging (CT scan)
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=4}}
+'''Splenic infarction''' = '''[[Abdominal pain SD-004|abdominal pain]]''' of the left hypochondrium, frequently radiating to the left shoulder, fever, and sometimes clinical signs of left pleural effusion. In the presence of this clinical picture, abdominal computed tomography (CT) imaging should be ordered as a matter of urgency.

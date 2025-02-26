@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-207-11-B
+|Item_parent=Intra-thoracic lumps and masses in children and adults
+|Item_parent_short=Opacities and intra-thoracic masses in children and adults
+|Rank=B
+|Title=Identifying an abnormal mediastinal image in infants and children and prescribing a thoracic CT scan
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Stéphanie Luzi,Mathieu Lederlin
+|Order=11}}
+
+Abnormalities of the mediastinum in children are generally mass syndromes which may correspond to multiple causes (malformative, vascular, infectious, benign or malignant tumours). The diagnostic approach takes into account the age of the child and the topography of the lesion on the frontal thoracic X-ray, the first-line examination. If there is any doubt on the X-ray, ultrasound is the first test to be carried out in babies and young children. CT scans and MRIs are second-line examinations, mainly for tumour pathology or in older children. The younger the child, the more MRI is preferred to CT for reasons of radiation exposure. In infants, the most common lesions are malformations (bronchogenic cyst, oesophageal duplication, etc.), neuroblastomas and teratomas. In older children (over the age of 7), the most common lesions are haematological malignancies (lymphoma, leukaemia).
+
+'''Identification of an abnormal mediastinal image'''
+
+Reading the frontal radiograph involves locating the abnormality and identifying its topography (anterior, middle or posterior mediastinum), which involves analysing the contours and lines of the mediastinum. Mediastinal reflection lines are formed when the X-ray is tangent to the interface between two media of different density (Figure 1).<gallery widths="650" heights="500">
+File:Mediastpedia1.jpg|'''Figure 1. Mediastinal reflection lines.''' Paratracheal lines D and G (light blue), posterior mediastinal line (dark blue), anterior mediastinal line (dark green), para-azygo-oesophageal line (yellow), paravertebral lines D and G (light green), para-aortic line (purple).
+</gallery>
+
+
+In general, a mediastinal mass present on radiography :
+
+*clear external contours
+*internal contours that are not visible (because they are embedded in the normal mediastinal opacity)
+*obtuse connection angles (gently sloping) with the mediastinal opacity
+
+Depending on its topography and size, a mediastinal mass may distort the contours of the mediastinum, repress or obliterate mediastinal lines, or determine certain characteristic signs which facilitate the diagnosis (Figures 2-5).<br /><gallery widths="450" heights="300">
+File:Mediastpedia2.jpg|'''Figure 2. Silhouette sign.'''' Thymic mass in an infant, obliterating the left edge of the heart, indicating its anterior location.
+File:Mediastpedia3.JPG|'''Figure 3. Lymphoma in a 9-year-old child.'''' Enlargement of the upper borders of the mediastinum in relation to a mass syndrome of the anterior mediastinum.
+File:Mediastpedia4.JPG|'''Figure 4. Cervico-thoracic sign.''' Right upper mediastinal mass (arrow) not silhouetted by the right border of the mediastinum and whose external limit remains visible above the clavicle, making it possible to confirm its posterior location (neurogenic tumour).
+File:Mediastpedia5.JPG|'''Figure 5. Iceberg sign.'''' The outer edges of the mass (arrows) remain visible through the abdominal opacity, indicating a pure intrathoracic location, posterior to the left cupola, as demonstrated by the CT scan. This was a neuroblastoma in a 2-year-old girl.
+</gallery>

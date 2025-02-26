@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-324-21-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Knowing the main principles for "personalising" medical care
+|Description=The concepts of expected benefit, benefit/risk ratio, definition and ranking of priorities, taking into account the preferences of an informed patient who is involved in the decisions that concern him or her.
+|Rubric=Management
+|Contributors=
+|Order=21}}
+The aim of personalised care is to put the patient at the centre of care by listening to them and understanding what is important to them;
+
+access, through structured dialogue, to the patient's knowledge, representations, feelings, needs, expectations and preferences;
+
+Responses evolve over time according to individual needs and circumstances;
+
+* 10 steps to creating a customised system:
+
+(1) reframe perspectives from 'what's the problem' to 'what's important to you',
+
+(2) Reconsider the real indicators that are important for the population segments under consideration and their values,
+
+(3) empowering citizens by helping them to become experts
+
+(4) moving from a single system to a system adapted to several values and several targets,
+
+(5) reduce competition and increase collaboration between professionals,
+
+(6) accept the control of a connected society and the web (Health data hub)
+
+(7) democratising medical information, accepting recorded traces and patient connections to their own records,
+
+(8) Rely on industry to find and support new solutions,
+
+(9) ask citizens to do this work on values,
+
+(10) Measuring results regardless of the choices made, focusing on individuals and populations
+
+
+Snowdon A., Schnarr K., Alessi C. ''It's all about me, the personalization of health systems'', February 2014, Western University Canada

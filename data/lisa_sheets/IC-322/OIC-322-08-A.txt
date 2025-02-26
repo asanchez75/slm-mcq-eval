@@ -1,0 +1,81 @@
+{{knowledge objective
+|Identifiant=OIC-322-08-A
+|Item_parent=Personalised therapeutic decisions: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of drug prescription, monitoring and discontinuation procedures
+|Description=Know how to take into account the characteristics of the drug, the patient, the risks and the objectives.
+|Rubric=Management
+|Contributors=
+|Order=8}}
+It is recommended that drug prescriptions should be adapted on a personalised basis (according to the patient and their illness), but also according to the characteristics of the drug itself.
+
+
+''Patient-related characteristics to be taken into account when prescribing:''
+
+- Age
+
+- Gender (particularly risks associated with women of childbearing age: current or planned pregnancy)
+
+- BMI
+
+- Ethnicity/race (for certain specific metabolisms)
+
+- Comorbidities and current treatments
+
+- Renal function, liver function
+
+- Allergies
+
+- Socio-economic level (drug price and reimbursement level)
+
+- Level of literacy (good understanding of prescriptions)
+
+- Burden of treatment (which can compromise compliance)
+
+- Habits: diet, smoking, alcohol, other toxic substances
+
+- Risk of self-medication
+
+
+''Disease-related characteristics to be taken into account when prescribing:''
+
+- Certainty or uncertainty about the health problem to be treated
+
+- Therapeutic objective (symptomatic, curative, preventive, substitutive or diagnostic treatment)
+
+
+''Characteristics of the chosen medicine to be taken into account when prescribing:''
+
+- Prescription within the scope of the drug's MA, a RTU, or outside the MA
+
+- Level of evidence on its benefit-risk balance (phase 3 assessment by randomised controlled trial?)
+
+- Indications, contraindications, precautions for use, expected side effects
+
+- Therapeutic margin
+
+- Bioavailability, half-life, elimination routes (renal/digestive)
+
+- Choosing the most appropriate galenic formulation
+
+- Drug interactions, interactions with food
+
+
+''Factors to be taken into account when prescribing and information to be provided to the patient:''
+
+- Nature of the pathology
+
+- Purpose of treatment and expected benefits
+
+- Duration of treatment, whether or not it can be stopped without medical advice
+
+- Distribution of daily doses and method of administration
+
+- Any associated measures (salt-free diet, photo-protection, etc.)
+
+- Monitoring treatment and pathology
+
+- How to contact the doctor/what to do in the event of an adverse reaction
+
+<br />

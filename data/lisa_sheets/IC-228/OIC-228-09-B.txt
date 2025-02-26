@@ -1,0 +1,36 @@
+{{knowledge objective
+|Identifiant=OIC-228-09-B
+|Item_parent=Leg ulcer
+|Item_parent_short=Leg ulcer
+|Rank=B
+|Title=Knowing the non-vascular causes of leg ulcers
+|Description=Identify rare causes: neurotrophic, infectious, pyoderma gangrenosum, haemopathies, skin cancers, cutaneous vasculitis, drugs, pathomimicry.
+|Rubric=Positive diagnosis
+|Contributors=Simon Soudet, Marie-Antoine Sevestre Pietri, Sophie Blaise
+|Order=9}}
+
+Non-vascular ulcers are much rarer. The aetiological diagnosis is based on the taking of specific samples (bacteriological, mycological, biopsy) in the presence of an ulcer which does not heal after 2 to 3 months of well-managed treatment, or an ulcer which is progressing rapidly, or an ulcer with an abnormal base or edge (hypertrophic budding), or an ulcer of atypical location. Arterial and venous Doppler ultrasound are generally normal, although some functional venous aetiologies cannot be ruled out by Doppler ultrasound.
+
+== Neurotrophic ulcer ==
+This ulcer complicates advanced neuropathy of the lower limbs, notably involving an alteration in painful sensitivity. The ulcers are usually located on the support areas of the sole of the foot (normal or pathological support, heel, head of the metatarsals), within a hyperkeratosis and are painless.
+
+== Infectious ulcer ==
+This hypothesis requires a sample to be taken to check for mycobacteriosis, tuberculosis, mycosis and parasitosis.
+
+== '''Pyoderma gangrenosum''' ==
+This is a very painful ulceration with an irregular border, ''surrounded by an inflammatory peripheral bulge,'' made up of purulent hutches, and with rapid centrifugal extension. In two-thirds of cases, this condition is associated with an underlying pathology: haemopathy, chronic inflammatory bowel disease or cancer.
+
+== '''Haemopathic ulcers''' ==
+A leg ulcer in a young patient should raise suspicion of congenital haemolytic anaemia (sickle cell anaemia, thalassaemia). Myeloproliferative syndromes (Vaquez's disease, thrombocythemia, etc.) may manifest as chronic, necrotic superficial ulcers.
+
+== Carcinoma ==
+This aetiology should be suspected in the presence of chronic, resistant ulceration of small size, with an atypical appearance (basal or squamous cell carcinoma, melanoma). Any venous ulcer that does not heal after several months of well-managed treatment should be biopsied to look for a carcinoma.
+
+== '''Cutaneous vasculitides''' ==
+Certain cutaneous vasculitides (leukocytoclastic vasculitides), systemic vasculitides (periarteritis nodosa, vasculitides in lupus erythematosus and cryoglobulinemia) and antiphospholipid syndrome may manifest as necrotic purpura progressing to ulceration.
+
+== Iatrogenic ulcers ==
+After taking certain long-term drugs (hydroxyurea, interferon γ) or misusing drugs in drug addicts, very fibrous, intractable ulcers may appear. They generally disappear within a few weeks of stopping the treatment in question.
+
+== '''Pathomimicry''' ==
+This is a difficult diagnosis to rule out in the presence of recurrent ulcers of unusual appearance.

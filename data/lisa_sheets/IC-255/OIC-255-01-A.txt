@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-255-01-A
+|Item_parent=Gestational diabetes
+|Item_parent_short=Gestational diabetes
+|Rank=A
+|Title=Know the definition, screening and diagnosis of gestational diabetes (GDM).
+|Description=Knowing the definition of gestational diabetes (vs pregestational diabetes) / Indications and methods of screening in the 1st and 2nd trimesters / Knowing the diagnostic procedures for gestational diabetes according to the period of pregnancy
+|Rubric=Definition
+|Contributors=Louis Potier,Philippe Deruelle,Sopio TATULASHVILI,Emmanuel Cosson
+|Order=1}}
+
+'''Gestational diabetes''' = carbohydrate tolerance disorder of variable severity, beginning or first diagnosed during pregnancy, irrespective of treatment and course in the post-partum period. Differs from pre-pregnancy diabetes in that it does not pre-exist pregnancy. The difference is difficult to make if there is no history of blood glucose levels prior to pregnancy, as type 2 diabetes in particular is often asymptomatic.
+
+The level of ''[[Hyperglycaemia SD-208|hyperglycaemia]]''' at discovery is a diagnostic element (see table).
+
+'''[[Screening for Gestational Diabetes SD-304|Screening for Gestational Diabetes in Pregnant Women]]''':
+
+Selective screening on ≥ 1 of these criteria:
+
+Age ≥ 35 years
+
+BMI ≥ 25 kg/m2
+
+1st degree family history of diabetes
+
+History of gestational diabetes
+
+History of a macrosomic child
+
+
+Screening procedures as part of a ''[[Normal pregnancy follow-up consultation (17, 2nd and 3rd trimester) SD-268|Normal pregnancy follow-up consultation (1st, 2nd and 3rd trimester)]]''''
+
+In early pregnancy, a fasting blood glucose test
+
+Between 24 and 28 weeks' gestation with an oral dose of 75g of glucose
+
+
+'''Diagnostic thresholds:'''
+{| class="wikitable"
+|
+|
+|'''Gestational diabetes''''
+|Diabetes discovered during pregnancy''.
+|-
+|In early pregnancy
+|Fasting blood glucose
+|0.92-1.25 g/l
+|≥ 1.26 g/L
+|-
+|24-28 DAYS' GESTATION
+|Fasting blood glucose
+|0.92-1.25 g/l
+|≥ 1.26 g/L
+|-
+|Oral load of 75g glucose
+|1h blood glucose
+|≥ 1.80 g/L
+|
+|-
+|
+|Glycaemia at 2h
+|1.53-1.99 g/L
+|≥ 2 g/L
+|}
+Hyperglycaemia discovered during pregnancy includes early gestational diabetes, gestational diabetes and established diabetes discovered during pregnancy.<br />

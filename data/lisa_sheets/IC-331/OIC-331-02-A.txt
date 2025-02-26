@@ -1,0 +1,12 @@
+<gallery>
+File:Screenshot 2021-10-30 at 11.15.02.png| AHA Guideline ECM: External Cardiac Massage AC: Cardiac Arrest
+</gallery>{{knowledge objective
+|Identifiant=OIC-331-02-A
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=A
+|Title=Know the definition of the chain of survival
+|Description=Know the different links in the chain of survival
+|Rubric=Definition
+|Contributors=
+|Order=2}}

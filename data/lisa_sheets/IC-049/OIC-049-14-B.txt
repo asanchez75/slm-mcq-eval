@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-049-14-B
+|Item_parent=Normal and pathological puberty
+|Item_parent_short=Normal and pathological puberty
+|Rank=B
+|Title=Knowing the precise etiologies of early puberty
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+
+{| class="wikitable"
+| '''early central PP''''
+|
+|-
+| Intracranial process
+| Tumour: chiasma glioma (NF1 or not), hamartoma
+
+                        Non-tumoral: hydrocephalus, arachnoid cyst
+|-
+| Sequelae
+| Meningitis or encephalitis
+
+                        Cranial irradiation
+|-
+|Idiopathic
+|Diagnosis of elimination
+|-
+| '''Peripheral PP'''
+|
+|-
+| Ovarian/testicular
+| McCune-Albright, ovarian cyst, granulosa tumour
+
+                        Testotoxicosis
+|-
+| Adrenal
+| Hyperandrogenism without gonadotropic activation
+
+                        Adrenal cortex
+|-
+|Exogenous
+
+'''Environmental'''
+
+'''Genetics'''
+|
+|}
+<br />

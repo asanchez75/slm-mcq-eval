@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-172-01-A
+|Item_parent=Digestive parasitoses: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Knowing the most common parasitoses responsible for intestinal damage
+|Description=None
+|Rubric=Definition
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=1}}
+
+'''<u><big>In mainland France: most frequent indigenous intestinal parasitoses:</big></u>''''
+
+- protozooses: giardiosis (''Giardia intestinalis'') and cryptosporidiosis (''Cryptosporidium'' sp.)
+
+- helminth diseases: pinworm (''Enterobius vermicularis'') and taeniasis caused by ''Taenia saginata''.
+
+
+'''<u><big>Parasitoses, mainly imported from tropical countries by travellers or migrants, occasionally seen in mainland France (see [[item 175]]):</big></u>'''
+
+- '''protozooses''' :
+
+- amoebosis (''Entamoeba histolytica''),
+
+- other intestinal coccidioses
+
+- '''helminthoses (worms)''' :
+
+- nematodoses (roundworms): in particular ascaridiosis (''Ascaris lumbricoides''), anguillulosis or strongyloidosis (''Strongyloides stercoralis''),
+
+- cestodoses (flatworms): in particular Taenia solium taeniasis
+
+
+In a patient who has stayed in the overseas departments of the Caribbean or Guyana, evoke <u>anguillulose</u> in particular.

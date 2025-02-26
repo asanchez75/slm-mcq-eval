@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-335-19-A
+|Item_parent=Diagnostic orientation and treatment for craniofacial and ocular trauma
+|Item_parent_short=Diagnostic orientation and management of craniofacial and ocular trauma
+|Rank=A
+|Title=Recognising the criteria for muscle incarceration in a fracture of the floor of the orbit
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=19}}
+It is the limitation of elevation of the globe and not the diplopia which indicates muscular incarceration. It is accompanied by pain and signs of vagal activation. CT confirmation should not delay urgent surgical treatment.

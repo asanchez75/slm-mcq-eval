@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-341-02-B
+|Item_parent=Meningeal haemorrhage
+|Item_parent_short=Meningeal haemorrhage
+|Rank=B
+|Title=Know the main causes of meningeal haemorrhage and the factors that contribute to it.
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+'''Main etiologies:''''
+
+*Traumatic causes
+
+           - Post-traumatic SAH (most frequent cause of SAH)
+
+*Non-traumatic causes
+
+           - Arachnoid and subarachnoid spaces|intracranial arterial aneurysm rupture]] (85% of cases): any non-traumatic SAH is a ruptured intracranial arterial aneurysm until proven otherwise.
+
+           - Perimesencephalic SAH (10%)
+
+           - rupture of vascular malformation (5%): intracranial arteriovenous malformation (AVM), intracranial dural fistula, mycotic aneurysm, etc.
+
+'''Main risk factors for intracranial aneurysm:''''
+
+           - female sex
+
+           - high blood pressure (HTA)
+
+           - smoking
+
+           - chronic alcohol intoxication
+
+           - personal history of intracranial aneurysm
+
+           - genetic: a family history of cerebral aneurysm, autosomal dominant polycystic kidney disease (ADPKD) or collagen diseases (Marfan or Ehler-Danlos)
+
+'''Factors favouring intracranial aneurysm rupture:''''
+
+           - physical effort
+
+           - hypertensive crisis
+
+           - size of aneurysm

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-093-03-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Knowing how to prioritise additional tests when spinal cord compression is suspected
+|Description=Do not perform an LP before imaging the spinal cord
+|Rubric=Additional examinations
+|Contributors=
+|Order=3}}
+
+
+*T1, T2, T1 + Gadolinium injection sequences. Very good resolution and sensitivity for exploring bone, discs, ligaments and intra-canal contents. Examination of ''1<sup>er</sup> intension'' to be carried out '''urgently''' in the event of any suspicion of non-traumatic spinal cord compression.
+*Myeloscanner'': this is a CT scan of the spine after intra-thecal injection (i.e. into the sub-arachnoid spaces) of contrast medium. In practice, performed in cases where MRI is contraindicated.
+*Scanner/Computed tomography (CT): very effective for bone, but not very sensitive for exploring the intracanal contents/soft tissues of the epidural or intradural space.
+*Angiography'': exceptional indications, e.g. search for a vascular malformation, localisation of the Adamkievicz radiculo-medullary artery before an invasive procedure, pre-operative embolisation to limit haemorrhage losses.
+*Electrophysiological examinations: record the central conduction of the long tracts (latencies and amplitudes). Are ''NOT'' systematic; '''must not delay'' management
+*Standard X-rays: marginal; poor sensitivity and resolution; should not delay MRI.
+*''Preoperative assessment'''
+
+
+([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]; [[Discovery of a spinal cord or vertebral abnormality on medical imaging examination SD-227|discovery of a spinal cord or vertebral abnormality on medical imaging examination]])

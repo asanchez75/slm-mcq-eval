@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-161-18-A
+|Item_parent=Urinary infections in children and adults
+|Item_parent_short=Urinary infections in children and adults
+|Rank=A
+|Title=Knowing the procedures for prescribing complementary tests in children
+|Description=Particularities of urine collection, indications for urine dipstick, ECBU, renal ultrasound, diagnostic criteria for urinary tract infection in children (high, low).
+|Rubric=Additional examinations
+|Contributors=Maxime Vallée, Alice Faure
+|Order=18}}
+
+==URINE DIPSTICK
+The BU is used for screening after the age of 1 month (before that, the prevalence is too high to rule out a UTI if there are any suggestive signs).
+
+The BU reveals leucocyturia (> 10,000/mL) and the presence of nitrites (unless the UTI is with a bacterium that does not produce nitrate reductase, such as Enterococcus).
+==ECBU==
+Used to confirm the diagnosis after the BU for children over 1 month old.
+
+It is indicated systematically (even if Bu negative) in children under 1 month of age and in the event of signs of seriousness.
+
+It includes a direct examination after Gram staining (which can help in the microbiological orientation for the choice of empirical antibiotic therapy) and then a culture, the results of which are to be interpreted according to the method of collection.
+
+*Jet stream or borehole: >= 1000UFC/mL
+
+*pocket: >= 10 000 UFC/ml
+
+*suspubital puncture (rarely done in practice) >= 100 UFC/mL
+
+*/Multi-microbial culture = contamination
+
+==COLLECTION METHOD==
+The method of collection determines the quality of the sample and the reliability of the BU
+
+*Jet environment: preferable, but difficult before potty training (possibility of perineal stimulation, with cold water compresses for example, to induce urination in infants).
+
+*Before potty training age
+**Round trip" bladder catheterisation
+**Bag sampling (adhesive catheter): exposes the patient to the risk of contamination, requires rigorous disinfection and urine to be collected less than 30 minutes after the bag is inserted.
+
+In practice, after 1 month AND in the absence of signs of severity AND risk factors for complicated infection, if midstream sampling fails, urine can be collected on a bag for BU, if BU is negative then the diagnosis can be ruled out. If the BU is positive on a bag that has been left in place for more than 30 minutes, an A/R catheterisation may be suggested.
+==IMAGING EXAMINATIONS==
+Renal and urinary tract ultrasound should be performed systematically for the first episode of ANP (to look for uropathy and lesions of the renal parenchyma), or in the event of recurrent cystitis.
+
+Cystography should be discussed.
+
+Other examinations (scintigraphy, MRI) are reserved for special cases (specialist opinion)<br />.
+
+==BIOLOGICAL TESTS
+If NAP is suspected
+
+*Inflammatory markers
+**CPT: associated with risk of UTR
+**CRP: may help to correct a diagnosis if CRP is low after more than 24-48 hours of fever.
+*Blood culture: < 3 months and/or signs of sepsis
+*LP: systematic if blood culture positive, broad indication before 6 weeks (risk of associated bacteremia and secondary meningitis)

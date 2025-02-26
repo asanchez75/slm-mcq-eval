@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-301-01-A
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=A
+|Title=Know the main histological types of benign and malignant colonic tumours
+|Description=Hyperplastic polyp and colonic adenoma/adenocarcinoma
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''Tumours of the colon and rectum''' develop in the vast majority of cases '''from the mucosa''' and correspond to benign tumours most often of the ''polyp'' type (sessile, pedunculated or flat adenomas), some histological forms of which may develop into a malignant tumour (adenocarcinoma). The most common tumours are benign.
+
+A distinction is made between :
+
+- forms that can develop into adenocarcinoma :
+
+o Adenomas, of which there are 3 histological subtypes:
+
+§ Tubular adenoma (75%)
+
+§ Tubulovillous adenoma (20%)
+
+§ Villeous adenoma (5%)
+
+o Scalloped lesions (sessile scalloped adenomas and, more rarely, traditional scalloped adenomas)
+
+
+- forms that do not usually develop into adenocarcinoma:
+
+o Hyperplastic polyps (20-30% at the age of 50 which are not dysplastic and do not progress to adenocarcinoma)
+
+o Juvenile polyps
+
+o Inflammatory pseudo-polyps (most often on pathological mucosa from chronic inflammatory bowel disease)
+
+
+'''Malignant tumour''': In over 90% of cases it is an '''adenocarcinoma''' developed in the Lieberkühn's glands (degeneration of an adenoma).

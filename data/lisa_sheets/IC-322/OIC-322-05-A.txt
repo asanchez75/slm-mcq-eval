@@ -1,0 +1,92 @@
+{{knowledge objective
+|Identifiant=OIC-322-05-A
+|Item_parent=Personalised therapeutic decisions: proper use in high-risk situations
+|Item_parent_short=Personalised therapeutic decisions: proper use in high-risk situations
+|Rank=A
+|Title=Knowing the principles of therapeutic adaptation in patients with renal failure
+|Description=Knowing the principles of therapeutic adaptation in patients with renal failure
+|Rubric=Management
+|Contributors=Jean-Michel Halimi
+|Order=5}}
+
+Proper use of medicines in patients with renal insufficiency requires compliance with the indications/contraindications/precautions for use detailed in the summary of product characteristics (SPC). An estimate of renal function is necessary. The formula used depends on the data provided in the SPCs (Cockoft and Gault formula, MDRD estimation formula, or CKD-EPI).
+
+== '''Renal elimination of drugs''' ==
+Renal elimination of drugs occurs either by glomerular filtration (passive mechanism, drugs in free form) or by tubular secretion (involving transporters) (e.g. penicillin G, furosemide). Some drugs have tubular reabsorption mechanisms (e.g. fluoride, lithium).
+
+== '''Consequences of renal failure on drug pharmacokinetics''' ==
+
+* Reduction in glomerular filtration rate: prolongation of the half-life of certain drugs, leading to accumulation.
+* Changes in tubular functions'': affects the secretion or reabsorption of certain drugs
+* Changes in fluid compartments'' (hydrosodic inflation or reduction in the plasma sector in the case of nephrotic syndrome): may alter the distribution of drugs
+* Enzymatic changes'' modifies the metabolism of certain drugs. For example, nephron reduction leading to a decrease in renal alpha hydroxylase, resulting in a reduction in the metabolisation of vitamin 25 OH D into vitamin 1,25 OH D (active form''')''''
+* '''Hypoprotidemia:''' increase in the free fraction of certain drugs and therefore their activity. For example: VKA, fibrates, cephalosporins, sulphonamides, etc.
+
+== '''Effect of drugs on renal physiology''' ==
+
+* Modification of intra-renal haemodynamics, mainly by non-steroidal anti-inflammatory drugs or blockers of the renin-angiotensin system. Consequence: acute renal failure, particularly in situations of dehydration.
+* Effect of drugs on tubular transporters:
+Inhibition of the tubular transport of creatinine by certain drugs (e.g. trimethoprim, crizotinib): "false elevations of creatinine" ** Inhibition of the tubular transport of creatinine by certain drugs (e.g. trimethoprim, crizotinib): "false elevations of creatinine".
+** Inhibition of tubular drug transport by other drugs that inhibit transporters: risk of drug interaction. For example: cyclosporine / rosuvastatin, increase in rosuvastatin concentration (risk of toxicity) due to inhibition of its tubular secretion by cyclosporine, decrease in renal secretion of metformin when co-administered with cimetidine.
+
+== Drugs and iatrogenesis in patients with renal failure ==
+
+* Half of iatrogenic serious adverse reactions are due to failure to take into account the patient's renal function.
+* Given the pharmacokinetic changes induced by renal insufficiency, it is recommended that the plasma concentrations of drugs with a narrow therapeutic margin be measured, and that the dose of drugs be adapted to renal function (Vidal, GPR, see below).
+* Pharmacodynamics may be altered in some patients with renal failure: at the same concentration, some drugs may be more effective and therefore sometimes poorly tolerated (e.g. beta-blockers, morphine analgesics, benzodiazepines, anti-virals, etc.).
+* Hyperkalaemia favoured by renal failure can make it dangerous to use certain drugs (anti-aldosterone, digitalis, anti-arrhythmics, renin system blockers, etc.).
+
+== '''Drugs and renal iatrogenesis''' ==
+
+* Drugs can cause different types of toxicity in the kidneys:
+* Hydroelectrolytic disorders: hypokalaemia with loop diuretics (furosemide) or thiazides (hydrochlorothiazide), hyperkalaemia with antialdosterone drugs (spironolactone), hyponatraemia with thiazide diuretics, for example.
+* Functional renal insufficiency: NSAIDs, inhibitors of the renin-angiotensin system, etc.
+* Immunoallergic nephropathy: cephalosporins, aminoglycosides, amphotericin B, NSAIDs, rifampicin, PPIs, etc.
+* Tubular toxicity: aminoglycosides, vancomycin, etc.
+* Intratubular crystallisation: ciprofloxacin, HIV antiproteases, amoxicillin, etc.
+* Glomerular damage: nephrotic syndrome/minimal glomerular lesions (NSAIDs, lithium, interferons, etc.), segmental and focal hyalinosis (pamidronate, anti-VEGF, etc.).
+
+== '''Adaptation of drug dosages and renal failure: major classes concerned'' ==
+
+'''''Insulin and ADO''''': insulin can be used in patients with renal insufficiency. It is catabolised by proximal tubular cells.  Acute renal failure can therefore lead to hypoglycaemia in a patient whose insulin dose has not been reduced. Interpretation of HbA1C is sometimes tricky in patients with a GFR of less than 30ml/min or in dialysis patients, as in some cases HbA1C may indicate good glycaemic control even though blood glucose levels are high.
+
+GFR <30 ml/min: most hypoglycaemic sulphonamides should be discontinued (reduced-dose repaglinide may be used with caution), as should metformin (its dose should be reduced to 1 gr/d when the GFR is between 45 and 59 ml/min and to 500 mg/d between 30 and 44 ml/min); the doses of DPP4 inhibitors and GLP-1 agonists should be reduced or stopped. Certain SGLT2 inhibitors (Gliflozin) can be used from a GFR of 25 ml/min.
+
+Chronic dialysis patients: insulin, vildagliptin and repaglinide (supervision***) may be used.
+
+'''''Antibiotics and antivirals:''''' Many drugs in these classes require doses to be adjusted in patients with renal failure, not only to avoid nephrotoxicity but also to avoid sometimes serious adverse effects (e.g. encephalopathy with valacyclovir) (Vidal or GPR).
+
+'''''Anticancer and immunosuppressive agents:''''' methotrexate is contraindicated in cases of renal impairment and should be discontinued if renal impairment develops. Anticalcineurins (tacrolimus and cyclosporine) are nephrotoxic and must be handled with care.
+
+'''''Diuretics:''''' loop diuretics are indicated in patients with oedema of cardiac, renal (in particular nephrotic syndrome) or hepatic origin (usually in combination with a potassium-sparing diuretic), heart failure, hypertension in patients with chronic renal insufficiency and in patients contraindicated to thiazide diuretics (in particular when GFR is <30 ml/min). The dose of diuretics depends on the objective set (to control hypertension or reduce fluid overload) and the GFR level. For example, furosemide doses can range from 20 mg per day to 1000 mg per day, as the natriuresis obtained depends on the dose and the GFR (above this dose, ototoxic effects are present and sometimes irreversible). Hypoalbuminemia is a factor in resistance to loop diuretics, and the lower the GFR, the higher the dose of loop diuretic needed to achieve the desired natriuresis. Weight, natriuresis, ionogram, creatinine and blood pressure should be closely monitored when high doses are used.
+
+''''' Blockers of the renin system:''''' these drugs are particularly indicated for patients with renal failure, especially proteinuria: they should be prescribed early in the course of renal disease, at a dose that increases progressively up to the maximum tolerated dose specified in the marketing authorisation, with kalaemia and creatininaemia monitored. If creatinine levels rise too high (>25-30%), hypovolaemia or stenosis of one or both renal arteries should be investigated. These drugs should be temporarily discontinued in the event of marked hypovolaemia (gastroenteritis, vomiting, heatwave, fever lasting several days, etc.). If kalaemia rises too high (>5.9 mmol/L), treatment should be temporarily stopped (although attempts should be made to resume treatment, even if this means using a low-potassium diet and ion-exchange resins).
+
+'''''AINS:''''' should be avoided in renal failure, especially if the patient is on a renin system blocker, but it is difficult to avoid them completely in some patients with chronic rheumatism: creatinine, ionogram and blood pressure must be closely monitored.
+
+'''''Lithium:''''' plasma concentrations of this drug may be altered by renal failure, and long-term use may lead to nephrogenic diabetes insipidus or lithium nephropathy (slowly progressive chronic interstitial nephropathy). It is therefore important to monitor blood lithium and creatinine levels regularly and to find the minimum effective dose.
+
+'''''Low molecular weight heparin: ''''' contraindicated if GFR<30mL/min
+
+'''''Medical imaging:''''' Nephropathy to iodinated contrast products (CT scans with injection, arteriography, etc.) is favoured by pre-existing renal insufficiency: the benefit-risk ratio of this examination in patients with renal insufficiency must be assessed and an alternative (MRI, etc.) may be proposed: if possible, other nephrotoxic drugs should be stopped, metformin should be discontinued on the day of the examination, patients at risk should be given adequate oral or IV hydration before the examination, these examinations should not be repeated in the short term, and the ionogram and creatinine should be monitored 48 hours after the examination. MRI with injection can rarely lead to nephrogenic fibrosing dermopathy in patients with severe renal insufficiency, especially those on dialysis.
+
+
+'''Points to bear in mind before prescribing:'''
+
+What is the subject's renal function?
+
+How is the drug eliminated?
+
+What is its nephrotoxicity potential?
+
+How do I adjust the dosage?
+
+Should you give it up based on the risk/benefit ratio?
+
+Does the patient have a history of immunoallergic reactions?
+
+Has the patient been informed of the benefits and risks, and of the monitoring required?
+
+How should I monitor this prescription?
+
+<br />

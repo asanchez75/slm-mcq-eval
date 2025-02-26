@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-264-15-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Item_parent_short=Chronic kidney disease in adults and children
+|Description= BP < 130/80 if albuminuria > 30 mg/24h (or equivalent); BP < 140/90 otherwise and BP > 110 mmHg. Proteinuria < 0.5 g/g - avoid iodine injections and nephrotoxic drugs.
+|Rubric=Management
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=15}}
+
+Strict control of [[Hypertension in adults and children|blood pressure]] can slow the progression of CKD and reduce the risk of cardiovascular complications.
+
+Blood pressure must be :
+
+*less than 130/80 mmHg in CKD patients with albuminuria ≥ 30 mg/24 h (or mg/g creatinuria) whether or not they have diabetes;
+*less than 140/90 mmHg in CKD patients with albuminuria < 30 mg/24 h (or mg/g creatinuria);
+*above 110 mmHg systolic in all cases.
+
+The conditions for measuring BP are important:
+
+*if there is asymmetry in blood pressure, the BP should be measured on the side with the higher BP;
+*measurement in the surgery should look for orthostatic hypotension.
+*Self-measurement of blood pressure is the gold standard and allows patients to be involved in their own management;
+*ABPM (Ambulatory Blood Pressure Monitoring) is used to assess the blood pressure profile over 24 hours.
+
+Sodium restriction to 100 mmol/d (6 g NaCl/d) improves BP control in patients with CKD. It can be monitored by measuring 24-hour natriuresis (1 g of salt intake corresponds to 17 mmol of urinary Na).
+
+In conjunction with blood pressure control, strict control of proteinuria can slow the progression of CKD. An ACE inhibitor (ACE inhibitor) or, if intolerant, an angiotensin 2 AT1 receptor antagonist (ARB2) should be used as first-line treatment in diabetic patients '''as soon as albuminuria is ≥ 30 mg/24 h (or mg/g creatinuria) and in non-diabetic patients as soon as albuminuria is ≥ 300 mg/24 h (or mg/g creatinuria corresponding approximately to proteinuria of 0.5 g/24 h).'''
+
+In cases of proteinuria without hypertension :
+
+*an ACE inhibitor or ARB2 should be used;
+*the target is proteinuria < 0.5 g/g creatinine;
+*with the maximum tolerated dose to ensure PAS remains > 110 mmHg.
+
+IEC-ARA2 combinations are not recommended.
+
+Therapeutic strategy depending on whether or not targets are reached
+
+*Therapeutic targets are met: continue treatment and monitoring. In the event of specific side-effects of ACE inhibitors, in particular a troublesome cough, replace the ACE inhibitor with an ARB2.
+*If BP > target 130/80 mmHg: check compliance with treatment and sodium restriction (24-hour natriuresis). If necessary, a thiazide diuretic (if GFR > 30 ml/min) or loop diuretic (if GFR ≤ 30 ml/min) may be prescribed in addition to ACE inhibitors. If this fails, another therapeutic class (β-blocker or calcium blocker) should be combined and specialist nephrological advice sought.
+*If proteinuria > 0.5 g/d or 500 mg/g creatinuria: gradually increase the dosage of the ACE inhibitor or ARB2 prescribed (up to the maximum dose authorised by the marketing authorisation) provided that it is clinically (PAS > 110 mmHg) and biologically well tolerated.

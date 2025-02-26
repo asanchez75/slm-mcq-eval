@@ -1,0 +1,14 @@
+<gallery>
+File:Screenshot 2021-10-30 at 11.38.36.png
+</gallery><gallery>
+File:Screenshot 2021-10-30 at 11.38.53.png|RCP: Cardiopulmonary resuscitation / RACS: Return of Spontaneous Cardiac Activity / IV: intravenous/ IO intraosseous/ VF: ventricular fibrillation / VT: ventricular tachycardia/ RSP: pulseless rhythm
+</gallery>{{knowledge objective
+|Identifiant=OIC-331-07-A
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=A
+|Title=Know the universal algorithm for adult cardiopulmonary resuscitation
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=7}}

@@ -1,0 +1,108 @@
+{{knowledge objective
+|Identifiant=OIC-080-04-B
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=B
+|Title=Knowledge the existence of the various forms of doping.
+|Description=Substances and methods banned permanently or only in competition. Manipulation of blood or blood components. Chemical and physical manipulation. Gene doping
+|Rubric=Definition
+|Contributors=
+|Order=4}}
+'''Main substances banned permanently or only in competition'''
+{| class="wikitable"
+|'''Category of substance'''
+|'''Examples of molecules concerned'''
+|'''Effect sought'''
+|-
+| colspan="3" |'''SUBSTANCES PROHIBITED IN AND OUT OF COMPETITION'''
+|-
+|'''S0. Substances not approved'''
+| colspan="2" |'''Any pharmacological substance not included below and not approved for therapeutic use in humans by a government health authority'' (e.g. drugs in pre-clinical or clinical development)
+|-
+|'''S1. Anabolic agents'''
+|Androgenic anabolic steroids, other anabolic agents
+|Increase in muscle mass, action on performance and resistance to fatigue
+|-
+|'''S2. Peptide hormones, growth factors and related agents'''
+|Erythropoietin (EPO)
+|Increases erythropoiesis => increases O<sub>2</sub> transport => improves endurance
+|-
+|'''S3. Beta-2-agonists''''
+|Prohibition of all beta-2 agonists (except salbutamol, formoterol, salmeterol)
+|Improved respiratory function
+
+Increased effort and resistance
+|-
+|'''S4. Hormonal and metabolic modulators'''''
+|Aromatase inhibitors, oestrogen receptor modulators
+|Suppression of adverse effects from misuse of anabolic agents
+
+Increased muscle mass
+|-
+|'''S5. Diuretics and masking agents''''
+|''Details available on the AFLD website''
+|Weight loss aid
+
+Masking other doping products
+|-
+| colspan="3" |'''SUBSTANCES PROHIBITED IN COMPETITION''''
+|-
+|'''S6. Stimulants''
+|Amphetamines, cocaine, cathinones, methylphenidate, modafinil, etc.
+|Fatigue reduction
+
+Improved reaction time
+
+Increased attention and concentration
+|-
+|'''S7. Narcotics
+|Analgesics derived from opiates: morphine, buprenorphine, methadone, etc.
+|Decreases pain
+
+Sedative effect
+
+Euphoriant
+|-
+|'''S8. Natural and synthetic cannabinoids''''
+|Natural or synthetic cannabis
+
+Synthetic cannabinoids
+
+(Except CBD)
+|Improves muscle relaxation
+
+Reduced anxiety
+
+Improving sleep
+|-
+|'''S9. Glucocorticoids''''
+|All glucocorticoids
+|Psychostimulant
+
+Increased endurance and pain tolerance
+|-
+| colspan="3" |'''SUBSTANCES FORBIDDEN IN CERTAIN SPORTS''''
+|-
+|'''P1. Beta-blockers'''
+|In competition: motor racing, billiards, darts, golf, skiing, underwater sports, etc.
+
+In and out of competition: shooting, archery
+|Anxiety, reduced heart rate and tremors
+|}
+'''Main methods banned permanently or only in competition'''
+{| class="wikitable"
+| colspan="2" |Methods banned both in and out of competition
+|-
+|'''Manipulation of blood or blood components'''
+|<Administration or reintroduction of any quantity of blood </nowiki>.
+
+- Artificial enhancement of oxygen consumption, transport or release
+|-
+|Chemical and physical manipulations
+|Use of substances and processes that modify doping control samples (catheterisation, substitution, alteration, infusions, injections).
+|-
+|Genetic doping
+|<Use of nucleic acids to modify genomic sequences </nowiki>.
+
+- Use of normal or genetically modified cells
+|}

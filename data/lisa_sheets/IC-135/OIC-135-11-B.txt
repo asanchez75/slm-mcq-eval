@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-135-11-B
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=B
+|Title=Know how to prescribe muscle relaxants.
+|Description=List the main muscle relaxants according to their main analgesic indications and mechanism of action.
+|Rubric=Management
+|Contributors=
+|Order=11}}
+'''<u>Modalities of action:</u>'''
+
+- Muscle relaxants relax striated skeletal muscles. They may be indicated when a contracture complicates another morbid cause (traumatology).
+
+- They can be subdivided into 2 groups: benzodiazepines and non-benzodiazepines.
+
+
+'''<u>Indications:</u>'''
+
+- Tetrazepam was the only benzodiazepine with a marketing authorisation for muscle contractures, which was withdrawn in 2013.
+
+- Thiocolchicoside (a colchicine derivative) has marketing authorisation for the adjunctive treatment of painful muscular contractures in rheumatology. Treatment is limited to 7 days.
+
+- No muscle relaxants are recommended for acute low back pain.
+
+
+'''<u>Contraindications:</u>'''
+
+- Thiocolchicoside is teratogenic and is contraindicated in pregnant and breastfeeding women and women of childbearing age without contraception.
+
+- Benzodiazepines are contraindicated in cases of severe respiratory insufficiency, sleep apnoea, hepatic insufficiency, myasthenia gravis, etc.
+
+'''<u>Adverse reactions and drug interactions:</u>''''
+
+- The most common side effect of thiocolchicoside is diarrhoea. Liver damage and drowsiness have also been reported.
+
+- Benzodiazepines have numerous side effects (drowsiness, respiratory depression) and have an unfavourable benefit-risk balance in the treatment of muscle contractures. Side effects may be exacerbated by concomitant use of other central nervous system depressants, particularly opioids and alcohol.

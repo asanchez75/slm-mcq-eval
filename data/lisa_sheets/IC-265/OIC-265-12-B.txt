@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-265-12-B
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=B
+|Title=Knowing the tests to be carried out for the aetiological diagnosis of urinary lithiasis
+|Description=First-line metabolic test according to the recommendations of the urolithiasis committee
+|Rubric=Additional tests
+|Contributors=Romain Boissier
+|Order=12}}
+
+The first-line metabolic work-up recommended by the Lithiasis Committee of the Association Française d'Urologie includes :
+
+* morphological and infrared analysis (Infrared SpectroPhotometry: SPIR) of the stone or fragments to determine the molecular and crystalline composition of the stone,
+* a metabolic assessment on :
+** fresh morning urine sample: crystalluria, pH, specific gravity, BU
+** 24-hour urine analysis: total volume, creatinine, calcium, sodium, urea, urates,
+** blood analysis: creatinine, calcium, fasting blood sugar, uricemia.

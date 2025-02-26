@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-300-01-B
+|Item_parent=Cervical tumours, tumours of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=Knowing the descriptive epidemiology of cervical cancer in France
+|Description=To know the incidence and mortality of cervical cancer, to have a notion of the world epidemiology
+|Rubric=Epidemiology
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=1}}
+
+'''In France,''' cervical cancer is in 2018 the '''12<sup>th</sup> most common cancer in women''' with :
+
+- 2,920 new cases
+
+- 1,117 deaths.
+
+'''Worldwide''', cervical cancer is in 2018 the '''4<sup>th</sup> most common cancer in women''', with :
+
+- 569,847 new cases, or 6.6% of all newly diagnosed cancers.
+
+- In terms of mortality, it was responsible for 7.5% of cancer deaths worldwide, or 311,365 women a year.

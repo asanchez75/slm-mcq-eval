@@ -1,0 +1,54 @@
+{{knowledge objective
+|Identifiant=OIC-024-23-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing the signs of diagnostic orientation and severity in the case of fever during pregnancy.
+|Description=Clinical examination and aetiological investigation
+|Rubric=Positive diagnosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=23}}
+
+The examination has two objectives:
+
+- look for "warning signs" of a specific aetiology: upper urinary tract infection (+++), listeriosis, chorioamniotitis, ENT infection (strep throat), influenza, signs of appendicitis or cholecystitis;
+
+- assess the obstetrical impact: PAD, premature rupture of membranes.
+
+Questioning
+
+- predisposing antecedents (recurrent UTIs or uropathies, chronic illnesses, immunodepression, smoking, etc.);
+
+- ongoing ''treatments'' ;
+
+- special context'': epidemic, travel ;
+
+- ''accompanying signs'', in particular :
+
+- general: chills, ENT, pulmonary, digestive, flu-like symptoms
+
+- urinary: lower back pain, burning while urinating '''(Cf. [[Burning while urinating SD-096|96. Burning while urinating]])''''
+
+- obstetrical: EC, discharge of LA, leucorrhoea, bleeding '''(Cf. [[Uterine contraction in a pregnant woman SD-098|98. Uterine contractions in a pregnant woman]] / [[Pelvic pain SD-099|99. Pelvic pain]])'''''
+
+- the existence of active foetal movements ;
+
+- serology results (toxoplasmosis, rubella)
+
+Examination
+
+- ''temperature'', and other ''constants'' '''(Cf. [[Hyperthermia/fever SD-044|44. Hyperthermia / fever]])''''
+
+- General examination: ENT, cardiorespiratory, lymph node areas, skin, meningeal syndrome, abdomen and lumbar fossa;
+
+- urinary examination: appearance of urine, urine dipstick
+
+- obstetrical examination :
+
+- uterine height, heart sounds
+
+- vulva: herpetic vesicles or ulcers,
+
+- speculum: rupture of membranes, leucorrhoea, herpetic vesicles
+
+- vaginal examination if necessary: cervical changes.

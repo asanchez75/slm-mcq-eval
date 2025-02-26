@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-245-07-A
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=A
+|Title=Knowing the principles of the synacthen test
+|Description=None
+|Rubric=Additional tests
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=7}}
+
+SynACTHene ® (tetracosactide) is an ACTH analogue.
+
+It directly explores primary adrenal insufficiency and indirectly the possibility of corticotropic insufficiency by testing for adrenal atrophy resulting from the lack of stimulation of the adrenal cortex by ACTH.
+
+The synactene test consists of :
+
+*cortisol measurement before the test (at 8 hours)
+*IM or IV administration of a 250 µg ampoule of tetracosactide
+*followed by a cortisol measurement at 1 hour (+/- 30 min).
+*Interpretation:
+** peak cortisol < 180 ng/ml (500 nmol/l) = no response to synacthenes test = adrenal insufficiency, ''whatever the aetiology.''
+** cortisolemia is ≥ 180 ng/ml (500 nmol/l) = response is normal = adrenal insufficiency ruled out EXCEPT in cases of recent or partial adrenocortical insufficiency. This is because the adrenal cortex is not atrophied and will be able to respond to a high dose of exogenous ACTH during the test. (example: acquired corticotropic insufficiency following surgery for a pituitary adenoma, when the corticotropic axis was normal pre-operatively).
+**Two other stimulation tests can be carried out but in a hospital setting: insulin hypoglycaemia or the Metopirone test.
+
+If the pre-test cortisol is <5 ng/ml (138 nmol/l), the diagnosis of adrenal insufficiency is made without the need for a synACTHene stimulation test.
+
+Outside a situation of major physical stress, if cortisol is >500 nmol/l, the diagnosis of adrenal insufficiency is ruled out and the stimulation test is not necessary.
+
+<br />

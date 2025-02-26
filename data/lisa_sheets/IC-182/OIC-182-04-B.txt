@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-182-04-B
+|Item_parent=Occupational environment and health
+|Item_parent_short=Occupational environment and health
+|Rank=B
+|Title=Knowing the main measures to facilitate job retention
+|Description=None
+|Rubric=Support
+|Contributors=JF Gehanno, Y Esquirol, A Maitre
+|Order=4}}
+
+
+*Part-time work for therapeutic reasons, to be requested by the attending physician. Work usually at least 50%, no maximum duration (but exceptionally exceeds 3 years). Salary at 100% during TPT.
+
+*Recognition of the status of disabled worker (RQTH)'': file completed by the attending physician, the occupational physician and the patient, then sent to the Maison Départementale des Personnes Handicapées (Departmental House for Disabled Persons)
+
+*1st, 2nd or 3rd category social security disability:
+**Applied for by the treating doctor and granted by the social security medical officer.
+**Allows an invalidity allowance which can compensate for the reduction in salary linked to the reduction in activity (and thus, for example, allow the person to work part-time), and compensate for the loss of salary due to invalidity in the 1st category of social security.
+**Please note that a patient cannot be granted invalidity for an illness that has already been recognised as an accident at work or an occupational disease.

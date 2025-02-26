@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-129-15-A
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=A
+|Title=Know the differential diagnosis of osteoarthritis
+|Description=Know the differential diagnoses of each location of osteoarthritis and how to eliminate them (MRI for hip and knee)
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=15}}
+As we have already seen, there are numerous differential diagnoses of osteoarthritis, which vary according to the joint affected. We can distinguish :
+
+- Pain radiating from other sources (e.g. cruralgia)
+
+- Other causes of joint damage (microcrystalline arthropathy)
+
+- Periarticular damage (tendinopathy)
+
+- Bone damage: fissure, fracture, osteonecrosis
+
+Questioning and clinical examination will be essential to differentiate osteoarthritis from these other pathologies, as the radiological prevalence of asymptomatic osteoarthritis is high and increases with age. It is therefore important not to rely solely on X-rays.

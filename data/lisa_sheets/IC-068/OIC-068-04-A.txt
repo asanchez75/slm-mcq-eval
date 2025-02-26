@@ -1,0 +1,108 @@
+{{knowledge objective
+|Identifiant=OIC-068-04-A
+|Item_parent=Behavioural disorders in children and adolescents
+|Item_parent_short=Behavioural disorders in children and adolescents
+|Rank=A
+|Title=Knowing the positive diagnosis of behavioural disorders in children and adolescents
+|Description=Oppositional Defiant Disorder Conduct Disorder
+|Rubric=Diagnosis
+|Contributors=Diane Purper-Ouakil,Charles-Edouard Notre-Dame
+|Order=4}}
+
+== Positive diagnosis ==
+
+* Clinical criteria, collected by :
+** Developmental history
+** Symptoms
+** Cross-referencing of several sources of information
+** Questionnaires often useful
+* Age of onset
+* Duration of evolution > 6 months
+* Functional impairment in at least two areas
+
+This information gathering may be supplemented by neuropsychological tests (not essential, depending on the warning signs).
+
+== Oppositional Defiant Disorder
+
+=== Positive diagnosis ===
+
+* Onset often in childhood
+* Intense, persistent and repetitive
+* Not limited to sibling relationships
+* Clinical syndrome
+**Opposition and provocation towards adults
+**Vindictive behaviour/hostility
+**Irritability/susceptibility
+**Angry outbursts
+**External attributions of responsibility
+*Frequency
+**Before 5 years - syndrome present almost every day, > 6 months
+**After 5 years - syndrome present at least 1x/week > 6 months
+**May be predominant in one or more living situations.
+*Functional repercussions: difficulty complying with basic rules in at least two areas (social, school, family).
+
+=== Comorbidities ===
+
+* ADHD +++ (cf. [[Neurodevelopmental disorders 2C-055-DP-B02|Item 67]])
+* Learning disorders
+* Communication disorders
+
+=== Evolution ===
+
+* Possible favourable outcome
+* Conduct disorders, especially if intense opposition/provocation
+* Mood disorders, especially if irritable
+* Anxiety disorders/post-traumatic states ([[Anxiety SD-116]]; [[Stress and adaptation to stress; Adjustment disorders 2C-066-DE-A05]])
+* adjustment problems in adulthood
+
+*Antisocial behaviour
+*Substance use disorders [[Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs (see item 322)]] [[Tobacco addiction]] [[Alcohol addiction]]
+
+== Conduct Disorder
+
+=== Positive diagnosis ===
+
+* Onset in childhood or adolescence
+* Intense, persistent and repetitive
+* Clinical syndrome: behaviour that violates the fundamental rights of others and social norms.
+**Assaults on people or animals
+**Destruction of material goods
+**Theft and fraud
+**Violations of established rules
+**Frequency: at least 3 criteria / 12 months and at least one in the last 6 months.
+*Impact on at least 2 areas:
+**Family, Social, School
+**Other functional consequences:
+***Criminal behaviour
+***Suicidal thoughts and behaviour
+***Risk-taking behaviour/substance use
+***Complex life trajectories (placements, exclusion from school, etc.)
+
+=== Specifications '' '' ===
+Poor prognostic factors :
+
+* Onset before age 10
+* Limited prosocial emotions
+* Severity
+
+=== Comorbidities ===
+
+* ADHD +++
+* Learning disorders, communication disorders
+* Depressive disorders, anxiety disorders including post-traumatic states
+
+=== Evolution ===
+
+* Possible favourable outcome
+* [[Personality Disorder (DSM-5 General Diagnostic Criteria) 2C-066-DE-A06|Personality Disorder]] antisocial
+* Characterized depressive episode; Recurrent depressive disorder 2C-066-DE-A01|Mood disorders]], [[Generalized anxiety disorder; Panic disorder; Agoraphobia; Social anxiety disorder; Specific phobias; Separation anxiety; Anxious school refusal 2C-066-DE-A02|Anxiety disorders]]
+* Impulse control disorders
+* [[Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs (see item 322)|Substance use disorder]]
+* Problems adjusting to adulthood
+
+*Anti-social behaviour
+*Alcohol, tobacco, sedentary lifestyle, overweight, obesity, low-fibre diet 2C-290-ET-A09|Drinking behaviour]]
+*Suicidal risk and behaviour in children, adolescents and adults: identification and management|Suicide attempts]], [[Suicide and suicide attempts, suicidal ideation 2C-353-PE-A01|suicide]]
+*Risk behaviour/sensation seeking
+
+<br />

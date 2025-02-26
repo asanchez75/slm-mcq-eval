@@ -1,0 +1,105 @@
+{{knowledge objective
+|Identifiant=OIC-026-01-B
+|Item_parent=Acute abdominal pain in a pregnant woman
+|Item_parent_short=Acute abdominal pain in pregnant women
+|Rank=B
+|Title=Knowing the aetiologies of acute abdominal pain in pregnancy (retroplacental haematoma, HELLP syndrome, uterine rupture, chorioamniotitis)
+|Description=Know the signs of the following conditions causing acute pain during pregnancy: HRP, HELLP syndrome, uterine rupture, chorioamniotitis.
+|Rubric=Positive diagnosis
+|Contributors=Louis Marcellin,Philippe Deruelle
+|Order=1}}
+
+==Retroplacental haematoma ==
+
+===Diagnosis ===
+- Risk factors: age > 35, hypertension, smoking, primipara, pre-eclampsia, cocaine
+
+- Clinical signs :
+
+o [[Genital bleeding during pregnancy SD-111|Genital haemorrhage]] (scanty) + abdominal pain, sudden, permanent uterine contractions (so-called "wooden" uterus)
+
+o Maternal repercussions: prostration, shock, tachycardia, variable BP (hypertension)
+
+o Fetal repercussions: severe FHR abnormality, bradycardia, even MFIU
+
+- RCF abnormalities
+
+- Ultrasound has no place in positive diagnosis
+
+===Terrain===
+1/3 pre-eclampsia [[Proteinuria SD-212]] [[Hypertension during pregnancy SD-053]] and/or vascular terrain (IUGR), 1/3 prolonged premature rupture of membranes [[Fluid loss in a preterm pregnant woman SD-109]], 1/3 without terrain (inaugural HRP)
+<br />
+
+==''HELLP syndrome'''==
+
+===Definition===
+Acronym for :
+
+- Hemolysis: anaemia, collapsed haptoglobin, LDH > 600 IU/L, schizocytes (mechanical haemolysis), hyperbilirubinaemia (inconstant)
+
+- Elevated liver enzymes: hepatic cytolysis (ASAT/ALAT > 70 UI/L)
+
+- Low platelet count = thrombocytopenia < 100 000/ mm3
+
+===Diagnosis===
+- Vascular context : Pregnancy hypertension, pre-eclampsia, IUGR [[Proteinuria SD-212]] [[Hypertension during pregnancy SD-053]]
+
+- Complicates 4 to 10% of pre-eclampsias
+
+- Occurs in the post-partum period in 25 to 30% of cases
+
+- Complications of HELLP syndrome =
+
+- Subcapsular haematoma of the liver
+
+           
+
+
+
+           
+
+==Uterine rupture ==
+
+===Definition===
+- Tear of all the tissue layers (peritoneum, myometrium and endometrium) occurring during pregnancy or during obstetric labour. It may extend to the bladder or the broad ligament and be associated with a wound of the uterine pedicle.
+<br />
+
+===Diagnosis===
+- Risk factors :
+
+§ scarred uterus (caesarean section or gynaecological cause = myomectomy), history of uterine perforation
+
+§ high multiparity
+
+§ a very long job
+
+§ Maturation by prostaglandins in a scar uterus
+
+§ less than 6 months between uterine surgery and the onset of pregnancy
+
+- During obstetrical labour in 75 to 80% of cases
+
+- Abrupt abdominal pain associated with RCF abnormalities in 50 to 90% of cases
+
+- Under epidural, the pain may be masked, pain in the shoulders, sign of haemoperitoneum
+
+- Vaginal bleeding in 30 to 40% of cases
+
+- Arterial hypotension, collapse
+<br />
+
+==''Chorio-amniotitis (intrauterine infection)'''==
+
+===Definition===
+- Chorioamniotitis (or intrauterine infection) is an infection of the foetal membranes (made up of the amnion and chorion) at the foetomaternal interface. It may or may not be associated with rupture of the membranes. Chorioamniotitis is a major risk factor for early neonatal bacterial infection (more rarely viral or fungal) and maternal post-partum infection (endometritis).
+
+===Diagnosis===
+- Maternal fever (sometimes absent) [[Hyperthermia/fever SD-044]]
+
+- Abdominal pain and uterine contractions, pain on uterine palpation [[Uterine contraction in a pregnant woman SD-098]]
+
+- Discharge of fluid in the event of rupture of the foetal membranes (sometimes stained), which may be purulent. [Loss of fluid in a preterm pregnant woman SD-109
+
+- Foetal tachycardia or abnormal FHR
+
+Note: chorioamniotitis occurs most frequently in the context of premature rupture of the membranes.

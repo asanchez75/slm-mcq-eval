@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-259-04-A
+|Item_parent=Proteinuria and nephrotic syndrome in adults and children
+|Item_parent_short=Proteinuria and nephrotic syndrome in adults and children
+|Rank=A
+|Title=Know the definition of nephrotic syndrome
+|Description=None
+|Rubric=Definition
+|Contributors=Dominique Guerrot,Bruno Moulin
+|Order=4}}
+
+*The nephrotic syndrome has a strictly biological definition which associates :
+**'''proteinuria >''' '''3 g/24h''' (> 50 mg/kg/d or 2 g/g in children)
+**albuminemia < 30 g/L'''.
+*Nephrotic syndrome is considered ''pure'' if it is not accompanied by :
+**'''neither microscopic [[haematuria]]''''
+**'''nor [[Hypertension in adults and children|hypertension]] '''
+**'''nor organic [[Acute renal failure - Anuria|renal failure]]''' (which may initially be difficult to distinguish from functional renal failure)
+*The nephrotic syndrome is described as ''impure'' if it is associated with one or more of the above.

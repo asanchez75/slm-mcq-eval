@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-347-03-A
+|Item_parent=Acute urine retention
+|Item_parent_short=Acute urine retention
+|Rank=A
+|Title=Knowing the main causes of acute urinary retention
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+- '''Mechanical obstruction:'''
+
+o In men: [[Benign prostatic hyperplasia]] [[Benign prostatic hyperplasia|127 (BPH)]], [[Urinary tract infections in children and adults|prostatitis 161]], [[Prostate tumours|prostate cancer 310]]
+
+o In women: [[Pelvic tumefaction in women|Severe genital prolapse 44]], [[Tumours of the uterine cervix, tumour of the uterine body|cancer of the uterine cervix 300]]
+
+o In both: [[Urinary lithiasis|Lithiasis 265]]/bladder or urethral foreign body, faecal impaction, [[Haematuria|endovesical clotting]], [[Bladder tumours|bladder tumour 314]], pelvic tumours 300 and [[Colon and rectum tumours|301]], urethral stricture, [[Constipation in children and adults|constipation 283]].
+
+- '''Detrusor or sphincter contraction abnormality:''''
+
+o Slammed bladder
+
+o [[Motor and/or sensory deficit of the limbs|Peripheral neuropathies 92]]: Diabetic/alcoholic polyneuropathy, Guillain-Barré syndrome, Cauda equina syndrome, Post-operative (pelvic surgery)
+
+o [[Non-traumatic spinal cord compression and cauda equina syndrome|Central neuropathies 93]] : [[Multiple sclerosis|Multiple sclerosis 104]], [[Parkinson's disease|Parkinsonian syndromes 106]], cerebral lesions, spinal cord lesions...
+
+o Iatrogenic: epidural analgesia, anticholinergics, opiates, antiparkinsonian drugs, [[Prescription and monitoring of psychotropic drugs (see item 330)|benzodiazepines 74]].

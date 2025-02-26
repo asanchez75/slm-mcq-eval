@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-066-19-A
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=A
+|Intitle=Know the definition of a generalized anxiety disorder, panic disorder, agoraphobia, social anxiety disorder, specific phobias, separation anxiety, school refusal anxiety.
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=19}}
+
+The symptoms of [[Anxiety SD-116|anxiety]] can be present in a normal way. They become pathological depending on their intensity, impact and loss of control. They may be either pathological symptoms or diagnostic entities or anxiety disorders such as generalized anxiety disorder (GAD), panic disorder (PD), agoraphobia, specific phobia, social anxiety disorder (SAD), post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD).
+
+GAD is marked by chronic anxiety (> 6 months) and excessive, poorly controlled worry. It is the disease of worry.
+
+PD is characterised by recurrent panic attacks and anxiety in anticipation of attacks.
+
+Agoraphobia is the fear of public and open spaces, and of any associated situation in which you cannot be rescued or from which you cannot escape in the event of a panic attack.
+
+A phobic disorder is characterised by an intense, uncontrollable fear of a specific object or situation.
+
+SAD is the fear of acting under the gaze and judgement of others. It affects a number of social situations, such as formal and informal social interactions, fear of being observed, and fear of speaking or performing in public.
+
+Simple phobias are defined by an irrational and uncontrollable fear of a specific object or situation, culminating in a panic attack (Item 352). The fear is triggered by contact, the sight of the object or the mere mention of it. The fear disappears in the absence of the feared object or situation.
+
+Anxious school refusal is a behaviour that follows on from various psychiatric disorders (separation anxiety, SAD, specific phobia, PD, mood disorder).

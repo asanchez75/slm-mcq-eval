@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-057-05-A
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=A
+|Intitulé=Infant: connaître les lésions associées au syndrome du bébé secoué (Infant: knowing the injuries associated with shaken baby syndrome)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+Injuries associated with Shaken Baby Syndrome :
+
+- cerebral lesions: HSD, intracerebral bleeding and anoxoischaemic lesions
+
+- cervical and spinal cord injuries
+
+- Retinal damage (haemorrhage, detachment, tearing) and vitreous damage
+
+- cutaneo-skeletal lesions linked to the shaking mechanism: bruising of the chest and/or arms, fractured ribs and/or upper limbs = '''SENTINEL LESIONS'''
+
+- intra-abdominal visceral injuries: contusion of the liver or spleen
+
+- injuries linked to other associated physical violence: bruises, mucous membrane or skin injuries, burns = ''SENTINAL INJURIES,'' fractures whatever their location, intra-abdominal injuries, etc.
+
+/The presence of a sentinel lesion in an infant who is unable to move should prompt an urgent search for associated traumatic lesions (full skeletal X-ray, fundus examination, brain imaging, abdominal imaging).

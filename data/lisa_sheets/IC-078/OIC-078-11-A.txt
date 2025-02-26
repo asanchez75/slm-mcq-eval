@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-078-11-A
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=A
+|Title=Know how to diagnose harmful use and dependence.
+|Description=Semiology
+|Heading=Positive diagnosis
+|Contributors=
+|Order=11}}
+Harmful use :
+
+. consumption of a psychoactive substance that is harmful to health
+
+. complications which may be physical or psychological, but without the criteria of dependence (the patient does not know the links between harm and consumption) ;
+
+<nowiki>*</nowiki> Dependency:
+
+. defines substance use disorder
+
+. consists of a set of behavioural, cognitive and physiological phenomena in which the use of a specific psychoactive substance or category of substances leads to a progressive loss of interest in other activities.

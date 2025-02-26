@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-333-05-B
+|Item_parent=Exceptional situations
+|Item_parent_short=Exceptional situations
+|Rank=B
+|Intitle=Understanding the principle of victim triage and its impact on response times
+|Description=Absolute emergency, relative emergency, emergency overtaken by events
+|Rubric=Taking charge
+|Contributors=
+|Order=5}}
+
+[File:Figure 2 START-ABC algorithm.jpg|thumbnail|Figure 2 START-ABC algorithm]]
+The '''START-ABC''' sorting algorithm, used to identify absolute emergencies (UA) from relative emergencies (UR), is defined in figure 2 ('''[[Exceptional health situation SD-346|exceptional health situation]]''''):

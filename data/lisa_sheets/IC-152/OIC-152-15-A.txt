@@ -1,0 +1,56 @@
+{{knowledge objective
+|Identifiant=OIC-152-15-A
+|Item_parent=Infectious endocarditis
+|Item_parent_short=Infectious endocarditis
+|Rank=A
+|Title=Knowing the principles of antibiotic treatment of IE
+|Description=None
+|Heading=Management
+|Contributors=Mathieu Blot, Eric Durand, Dimitri Arangalage
+|Order=15}}
+<u>The objectives of antibiotic therapy are:</u>
+
+*In the very short term, to ''control bacteremia in order to treat [[Sepsis and septic shock in children and adults|sepsis]], or prevent its occurrence''.
+*Then ''to achieve definitive microbial eradication in the endocardium/vegetation'' (primary site) and in secondary sites.
+*And in some cases, to eradicate the portal of entry of the IE.
+
+
+<u>This bacterial eradication is difficult to achieve:</u>
+
+1- Primary infection site :
+
+*The endocardium is poorly vascularised and the vegetation is avascular.
+*The inoculum is very large
+*Fibrin protects bacteria from phagocytosis
+*Bacteria are slow-growing
+
+2- Secondary locations (e.g. bone, brain, etc.)
+
+
+<u>For these reasons, the [[Prescribing and monitoring of anti-infective agents in adults and children (see item 330)|antibiotic therapy]] must be:</u>
+
+*Bactericidal
+*'''Prolonged'''
+*'''In high doses''' (parenteral administration in the initial phase)
+*'''Adapted to microbiological results'''
+*'''Taking into account all infected sites'''
+*'''Begun after blood cultures'''
+*'''Sometimes combining synergistic molecules'''
+*'''[[Adaptation of treatments to specific conditions such as renal insufficiency, hepatic insufficiency, pregnancy, the elderly...) SD-264|And adapted to the patient's condition]]''''
+
+NB: antibiotic therapy may be probabilistic or directly adapted to the results of blood cultures (Cf. [https://www.infectiologie.com/fr/recommandations.html recommendations issued by learned societies for the choice of molecules]. - Rank C)
+
+
+<u>The effectiveness of antibiotic therapy is assessed:</u>
+
+o '''Clinically:''' regression of signs of infection, sepsis, or related to secondary localisations.
+
+o '''Persistent negativation of blood cultures'''
+
+NB: Echocardiographic and radiological lesions may persist despite microbiological cure. They are not considered reliable criteria for short-term follow-up.
+
+
+In the case of AE on equipment (prosthetic valve, etc.), specialist advice (including surgery) is essential, as antibiotic therapy is usually not sufficient to bring about recovery.
+
+
+In the absence of formal cure criteria, ''cure is controlled by the absence of AR relapse''.

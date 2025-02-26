@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-167-04-A
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral Hepatitis
+|Rank=A
+|Title=Knowing the main causes of elevated transaminases other than viral infection
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+
+Apart from a viral infection, elevated transaminases in the blood can have two main causes:
+
+1/ Hepatic causes :
+
+a- Hepatocyte attack linked, in order of frequency, to :
+
+- excess fat (steatohepatitis linked to alcohol or metabolic syndrome)
+
+- a toxic substance (xenobiotic: usually a medicine, more rarely a drug, fungus, food supplement, herbal medicine, etc.)
+
+- genetic iron overload (haemochromatosis)
+
+- a rare cause (autoimmune hepatitis; Wilson's disease, etc.)
+
+Cytolysis :
+
+- Is moderate (< 10 N) in cases of steatohepatitis linked to alcohol or metabolic syndrome, and haemochromatosis;
+
+- May be significant (> 10 N) in cases of toxic, autoimmune, hypoxic (liver shock, Budd-Chiari) or Wilson's disease-related hepatitis.
+
+
+
+b- Pressurisation of hepatocytes
+
+- hyperpressure of the biliary system (stone, compression)
+
+- hyperpressure of the suprahepatic venous system (heart failure, thrombosis of the suprahepatic veins, etc.)
+
+- hepatic ischaemia (shock, splanchnic vascular thrombosis (hepatic artery or portal vein)).
+
+
+2/ Extra-hepatic causes :
+
+Transaminases are also muscle enzymes, and all forms of muscle damage (prolonged exertion, muscle damage, myopathy, myocardial damage) are likely to cause an increase in serum transaminases.
+In this case, cytolysis generally predominates over AST and is associated with an increase in CPK.
+
+<br />

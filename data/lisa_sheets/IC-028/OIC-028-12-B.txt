@@ -1,0 +1,13 @@
+<br />{knowledge objective
+|Identifiant=OIC-028-12-B
+|Item_parent=To know the particularities of urinary infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=B
+|Title=Knowing the indications and non-indications of imaging examinations for urinary tract infections during pregnancy
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=12}}
+'''[[Reasoned request/prescription and choice of diagnostic test SD-178|Urinary tract ultrasound]]''' is recommended. It should be carried out within 24 hours if there are any signs of severity or a ''hyperalgesic picture'' to rule out a renal abscess or an obstruction in the urinary excretory tract.
+
+In exceptional cases, a CT scan may be considered in the event of a complication.

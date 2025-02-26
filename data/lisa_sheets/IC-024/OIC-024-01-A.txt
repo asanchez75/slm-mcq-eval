@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-024-01-A
+|Item_parent=Main complications of pregnancy.
+|Item_parent_short=Main complications of pregnancy.
+|Rank=A
+|Title=Knowing how to manage first trimester haemorrhage.
+|Description=Know the clinical, biological and ultrasound elements guiding the diagnosis
+|Rubric=Positive diagnosis
+|Contributors=Paul Berveiller,Philippe Deruelle
+|Order=1}}
+
+Affects 25% of pregnancies and may be related to :
+
+- an ectopic pregnancy
+
+- a progressive intrauterine pregnancy with a decidual haematoma
+
+- a non-progressive intrauterine pregnancy
+
+- + rare: lysis of a twin, molar pregnancy, cervical cancer, ectropion.
+
+
+On questioning :
+
+- favourable gynaeco-obstetrical and medical history, treatments, blood group, Rhesus, phenotype
+
+- History: DDR, date of last FCV.
+
+- sympathetic signs of pregnancy
+
+- description of bleeding '''(Cf. [[Genital bleeding during pregnancy SD-111|111. Genital bleeding during pregnancy]])''''
+
+- presence and characterisation of any pelvic pain
+
+At the exam :
+
+- general condition, haemodynamic tolerance
+
+- speculum examination and abdominal palpation
+
+- vaginal touch
+
+Additional tests:
+
+- Biological: quantitative plasma hCG dosage, haemogram according to amount of bleeding, Group, Rhesus, phenotype if not done, RAI (''cf.''' ''[[Anomaly of erythrocyte indices (haemoglobin level, haematocrit..) SD-214|214. abnormality of erythrocyte indices (haemoglobin level, haematocrit)]], [[Haemoglobin decrease SD-217|217. Haemoglobin decrease]], 223. [[Interpretation of haemogram SD-223|Interpretation of haemogram]])''''
+
+- Ultrasound: pelvic ultrasound (abdominal and endovaginal) ('''Cf.''' ''[[Reasoned request/prescription and choice of a diagnostic examination SD-178|178. Reasoned request/prescription and choice of a radiological examination]]).''''
+
+- uterine vacuity or gestational sac, latero-uterine mass, ovarian debris, ovarian haematoma, pelvic or intra-abdominal effusion

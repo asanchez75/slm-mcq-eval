@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-077-03-A
+|Item_parent=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Item_parent_short=Addiction to psychotropic drugs (benzodiazepines and related). (see item 322)
+|Rank=A
+|Title=Knowing how to diagnose misuse: risky, harmful and dependent use.
+|Description=Any use of benzodiazepines outside the RMO is considered risky use + Reference introduction 74-79
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''3.1 Risky use:'''
+
+The term "risky use" is used when consumption levels expose people to the risk of complications during acute or chronic use, but these complications are not yet present (and may never be);
+
+Risky use of benzodiazepines is defined by :
+
+<nowiki>*</nowiki> any prescription or intake of benzodiazepines or related substances lasting longer than those recommended in the Références Médicales Opposables.
+
+<nowiki>*</nowiki> any prescription or intake of benzodiazepines or related substances outside the indications specified in the Opposable Medical References.
+
+<nowiki>*</nowiki> any prescription or intake of benzodiazepines or related drugs in doses higher than those indicated in the Opposable Medical References.
+
+<nowiki>*</nowiki> any use of benzodiazepines or related substances that is not prescribed and monitored by a doctor.
+
+3.2 Harmful use of benzodiazepines
+
+Harmful use (ICD-10 criteria) includes
+
+<nowiki>*</nowiki> repeated disorders of vigilance,
+
+<nowiki>*</nowiki> repeated hospitalisations for intoxication,
+
+<nowiki>*</nowiki> repeated accidents,
+
+<nowiki>*</nowiki> behavioural, social, professional consequences.
+
+3.3 Benzodiazepine dependence (ICD-10 criteria)
+
+At least 3 of the following criteria:
+
+<nowiki>*</nowiki> Powerful or compulsive desire to use the substance ;
+
+<nowiki>*</nowiki> Difficulties in controlling benzodiazepine use (initiation or discontinuation of use or levels of use);
+
+<nowiki>*</nowiki> Withdrawal syndrome on reduction or cessation
+
+<nowiki>*</nowiki> Tolerance (increasing doses to obtain the same effects)
+
+<nowiki>*</nowiki> Giving up other sources of pleasure and interest in favour of benzodiazepine use or increasing the time spent obtaining the substance, using it, or recovering from its effects
+
+<nowiki>*</nowiki> Continued use of the substance despite the occurrence of harmful consequences.

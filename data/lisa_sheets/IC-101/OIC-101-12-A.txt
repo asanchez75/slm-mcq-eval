@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-101-12-A
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=A
+|Intitle=Clinical iconography of a typical example of a vesicular eruption of the concha in favour of zoster PFP
+|Description=Visualisation of vesicles in Ramsay Hunt's area pointing to zoster viral PFP
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+See the CEN website: www.cen-neurologie.fr where videos are available

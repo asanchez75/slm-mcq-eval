@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-064-14-B
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar Disorders in Adolescents and Adults
+|Rank=B
+|Title=Knowing the indications for long-term pharmacological treatment
+|Description=Refer to item 74
+|Heading=Management
+|Contributors=
+|Order=14}}
+
+
+==Long-term pharmacological management==
+
+===The treatment consists of 3 phases:===
+
+*Acute episode (6-8 weeks): thymoregulation and/or second-generation antipsychotic treatment with the aim of achieving symptomatic remission.
+*Consolidation (4-6 months): continuation of the treatment used during the acute episode, with gradual withdrawal of treatments associated with the thymoregulator, with the aim of preventing a relapse of the episode and achieving functional remission.
+*Prevention (at least 2 years if a single episode, at least 5 years if several episodes): continuation of thymoregulation treatment in order to prevent a recurrence, i.e. a new episode.
+
+
+It will be important to monitor efficacy, tolerance and compliance for each phase: follow-up consultation and background treatment of a patient suffering from a [[Follow-up consultation for a chronic pathology SD-279|chronic psychiatric disorder]]

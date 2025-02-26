@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-216-04-A
+|Item_parent=Hematological haemorrhagic syndrome
+|Item_parent_short=Hematological haemorrhagic syndrome
+|Rank=A
+|Title=Know how to prescribe biological investigations in the event of a suspected haemorrhagic syndrome.
+|Description=None
+|Rubric=Additional tests
+|Contributors=
+|Order=4}}
+Etiological tests include a haemogram (with platelet count), prothrombin time, partial thromboplastin time and fibrinogen assay. Depending on the results obtained, other more specific tests (factor assays, study of Willebrand factor, platelet function analysis, etc.) may be considered.

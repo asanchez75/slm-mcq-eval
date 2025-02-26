@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-172-04-A
+|Item_parent=Digestive parasites: giardiosis, amoebiasis, tapeworms, ascariasis, oxyurosis, anguillulosis, cryptosporidiosis
+|Item_parent_short=Digestive parasites: giardiosis, amoebiasis, teniasis, ascariasis, ascaridiosis, oxyurosis, anguillulosis, cryptosporidiosis
+|Rank=A
+|Title=Knowing the clinical manifestations associated with intestinal parasitoses (excluding amoebiasis)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Marie-Laure Dardé,Florence Robert-Gangneux,Françoise Botterel,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Marie Robert
+|Order=4}}
+
+'''<u>1. Intestinal protozooses</u>'', manifest as subacute to chronic diarrhoea, nausea, vomiting, abdominal pain. Specific symptoms may point to one or other of these two parasitoses:
+
+- giardiosis:
+
+- moderate diarrhoea with foul-smelling, discoloured and sometimes frothy stools
+
+- abdominal pain, postprandial bloating, nausea
+
+- anorexia
+
+Symptoms may persist for several months, with episodes of exacerbation, particularly in children. In the case of chronic, massive infection (rarely seen in France), signs of malabsorption (steatorrhea) may appear, leading to nutritional deficiencies.
+
+- '''cryptosporidiosis''': watery diarrhoea, see [[2C-172-DP-B02|specific knowledge objective]]
+
+
+'''<u>2. Helminthoses</u>''' (worm parasitoses), often asymptomatic, may be responsible for episodes of abdominal pain, diarrhoea or constipation. They may be discovered when eosinophilia is investigated. <u>Clinical features depending on the parasitosis:</u>
+
+- '''oxyurose''' :
+
+- Anal pruritus, exacerbated at night (sleep disorders), sometimes responsible for eczematisation of the anal margin
+
+- Abdominal pain in the right iliac fossa
+
+- Possible vulvovaginitis in young girls
+
+- Ascaridiosis:
+
+- Possibility of Löffler's syndrome (cough, dyspnoea resolving spontaneously in 2-3 weeks) in the invasion phase, associated with blood eosinophilia
+
+- Adult worms (15-20 cm long, pink, mobile) may be shed in the stool or vomit
+
+- '''taeniasis''':
+
+- Discovery of isolated rings (1-2 cm long, flat, white) or chains (10-100 cm) in underwear or bedding in the case of "T. saginata" (mobile rings emitted outside the stool). Eliminated with the faeces, T. solium rings often escape the patient's attention.
+
+- Appetite disorders
+
+- Nausea or vomiting, transit disorders with alternating diarrhoea and constipation
+
+- Pruritus or anal discomfort may occur when T. saginata rings actively cross the sphincter.
+
+- Sometimes discovered by chance (video-endoscopic capsule)
+
+- '''Anguillulose''' :
+
+See [[2C-172-DP-B01|specific knowledge objective]]

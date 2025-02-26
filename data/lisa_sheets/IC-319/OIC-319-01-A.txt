@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-319-01-A
+|Item_parent=Malignant lymphomas
+|Item_parent_short=Malignant lymphomas
+|Rank=A
+|Title=Knowing the clinical signs that may lead to suspicion of lymphoma
+|Description=variability according to histology and presentation (lymph node vs extra-ganglion for HL)
+|Section=Positive diagnosis
+|Contributors=
+|Order=1}}
+Clinical presentation can be extremely variable depending on histology.
+
+The tumour syndrome may involve secondary lymphoid organs (adenopathy, splenomegaly, hepatomegaly) or any other organ (central nervous system, digestive tract, skin, ENT, etc.). Symptoms may be limited to the tumour syndrome, but may also be related to the compression of neighbouring organs (superior cava syndrome, obstructive renal failure, occlusive syndrome, etc.).
+
+Tumour proliferation may also be responsible for systemic manifestations (general signs or B signs): fever, night sweats, weight loss. Pruritus is a classic manifestation of certain lymphomas.
+
+Some lymphomas can disseminate in the blood and be diagnosed by a haemogram. A number of biological syndromes may raise suspicions of lymphoma: macrophagic activation syndrome, tumour lysis syndrome, etc.).

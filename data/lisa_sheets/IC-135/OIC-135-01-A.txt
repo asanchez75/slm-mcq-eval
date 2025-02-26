@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-135-01-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Knowing the patient's right to be relieved of pain
+|Description=Know the legislative and ethical framework for pain management.
+|Rubric=Pain management
+|Contributors=Nadine Attal
+|Order=1}}
+
+- '''Pain management is an ethical and legal obligation for all doctors.'''
+
+- Legal obligation based on article L1110-5-3 of the French Public Health Code, defined by the Kouchner Act of 4 March 2002 and revised by Act no. 2016-87 of 2 February 2016 (known as the Clayes-Leonetti Act): ''" Everyone has the right to receive treatment and care aimed at relieving their suffering. This suffering must, in all circumstances, be prevented, taken into account, assessed and treated.''
+
+.    Ethical obligation based on article 37 of the code of medical ethics: ''" In all circumstances, the doctor must endeavour to relieve the suffering of the patient by means appropriate to his condition and assist him morally''.

@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-179-10-B
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Health risks associated with food and water. Food poisoning
+|Rank=B
+|Title=Knowing the different stages of a CFTI investigation
+|Description=None
+|Rubric=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Order=10}}
+The first steps to be taken to prepare for the investigation of a CFTI are described in the following table:
+{| class="wikitable"
+|'''CAT in the event of a suspected CFTI'''
+|-
+|Notify the doctor in charge/the hospital's operational hygiene team (if a healthcare establishment).
+|-
+|Identify patients who have (had) clinical signs
+|-
+|For each patient, draw up a list of symptoms, the date and time of their onset, and a list of meals eaten over the last three days.
+|-
+|Keep leftovers of raw materials and food served to the community over the last 3 days (keep refrigerated, not frozen).
+|-
+|Take stool samples and possibly vomit samples from patients.
+|-
+|Prepare a list of meal menus for the last three days
+|-
+|Report any suspected CFTI to the ARS medical inspector or, failing that, to the veterinary food hygiene service.
+|}
+
+
+An investigation is then carried out by the ARS's medical inspectors:
+
+1) ''An epidemiological survey'', calculation of attack rates, distribution of cases as a function of time and space. Verification of hypotheses through investigation. For communities with less than 30 exposed people, a cohort study is carried out. For communities > 30, a case-control study.
+
+2) '''A microbiological investigation''' :
+
+Samples taken from the presumed source (communities must keep a control meal from the previous 3 days) for microbiological and toxicological analysis.
+
+Sampling of pathological products from affected patients (stools, vomit, blood, etc.)
+
+3) '''A health survey'''
+
+Production, transport and storage of raw materials
+
+Food preparation, transport, maintaining the cold chain
+
+Sanitary condition of food preparation and storage premises
+
+Control of catering staff

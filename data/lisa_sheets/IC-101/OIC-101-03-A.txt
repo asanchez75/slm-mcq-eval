@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-101-03-A
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=A
+|Title=Photography/video of peripheral facial paralysis (PFP)
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=3}}
+Please refer to the CEN website: www.cen-neurologie.fr where videos are available.

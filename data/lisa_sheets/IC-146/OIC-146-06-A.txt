@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-146-06-A
+|Item_parent=Vaccinations
+|Item_parent_short=Vaccinations
+|Rank=A
+|Title=Know the vaccination schedule (compulsory and recommended) in force in France for the general population (diphtheria, tetanus, poliomyelitis, whooping cough, invasive Haemophilus influenzae type b infection, hepatitis B, measles, mumps, rubella, invasive meningococcal infection, pneumococcal infection, HPV infection, seasonal influenza).
+|Description=None
+|Rubric=Management
+|Contributors=Laurence Morand-Joubert
+|Order=6}}
+
+The vaccination calendar is updated every year and is available on the website of the Ministry of Health and Solidarity (https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal).
+
+In infants: vaccinations are compulsory before the age of 2 if born on or after 1 January 2018:
+
+*2 months: hexavalent (diphtheria, tetanus, poliomyelitis, whooping cough, Haemophilus influenzae b, hepatitis B) and pneumococcus
+*4 months: hexavalent and pneumococcus
+*5 months invasive meningococcal infection
+*11 months hexavalent and pneumococcus
+*12 months 2<sup>e</sup> meningococcal and primary measles, mumps and rubella (MMR) vaccination
+*16 to 18 months 2<sup>e</sup> MMR
+
+The meningococcal C vaccine is recommended for children born after 2018 between the ages of 12 months and 24 years.
+
+The following vaccines are also recommended:
+
+*rotavirus: vaccination by oral vaccine before the age of 6 months (2 or 3 doses depending on the vaccine used, starting at 2 months)
+*meningococcal B: 3 doses at 3, 5 and 12 months of age
+
+
+'''In children''' :
+
+*If at risk of severe flu: annual flu vaccine flu vaccine offered to all children aged 2 to 17 (intra-nasal vaccine).
+*Between the ages of 6 and 8: 1 booster for diphtheria, tetanus, poliomyelitis and whooping cough (DTPC).
+*Between the ages of 11 and 13, 2<sup>th</sup> booster dose of dTPca is compulsory.
+*HPV vaccine recommended for boys and girls aged 11 to 14 (possible from age 9), up to the age of 19 (26 for men who have sex with men).
+*Hepatitis B catch-up recommended
+
+
+'''In adults:'''
+
+*If there is a risk of severe flu: annual flu vaccine
+*dTPca: age 25 recommended
+*dTP: 45, 65, 75 and 85 years recommended
+*From age 65, see next paragraph
+
+<br />

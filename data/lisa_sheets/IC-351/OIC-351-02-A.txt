@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-351-02-A
+|Item_parent=Agitation and acute delirium
+|Item_parent_short=Agitation and acute delirium
+|Rank=A
+|Title=Know the definition of delusions and hallucinations
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=2}}
+'''[[Delusional Ideas SD-124|Delusional Ideas]] :'''' Alterations in the content of thought leading to a loss of contact with reality, not shared by the socio-cultural group.
+
+'''[[Hallucinations SD-122|Hallucinations]]:''' Sensory perception without the presence of a detectable object.

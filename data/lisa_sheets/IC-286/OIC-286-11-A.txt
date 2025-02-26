@@ -1,0 +1,41 @@
+'''Text in bold'''{{objectif de connaissance
+|Identifiant=OIC-286-11-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=11}}
+Clostridioides difficile infection or colitis '''without signs of severity''', treatment '''at home''' :
+
+- Stop the antibiotic responsible if possible
+
+- Oral hydration and hygiene measures, loperamide contraindicated
+
+- Antibiotic therapy with oral vancomycin for 10 days. Alternatives possible with fidaxomicin or metronidazole for 10 days.
+
+- No need to check the stool culture at the end of treatment.
+
+Clostridioides difficile'' colitis with ''signs of severity and/or fragile terrain'', inpatient treatment:
+
+- Stop the antibiotic responsible if possible
+
+- Intravenous hydration and correction of fluid and electrolyte disorders
+
+- Contact isolation and hygiene measures
+
+- Contraindicate loperamide.
+
+- Antibiotic treatment with oral vancomycin for 10 days, with the option of combining with intravenous metronidazole.
+
+- Rarely: emergency surgical treatment is possible (subtotal colectomy) in cases of colectasis, toxic megacolon or colonic perforation (50% mortality).
+
+- No need to check the stool culture at the end of treatment
+
+Treatment of recurrences of Clostridioides difficile colitis (10-20% of cases)
+
+- Oral vancomycin or fidaxomicin for 10 days
+
+- From the 2nd<sup>e</sup> recurrence (3rd<sup>e</sup> episode), recourse to faecal microbiota transplantation is indicated with over 85% success.

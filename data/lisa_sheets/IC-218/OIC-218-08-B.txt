@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-218-08-B
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=B
+|Title=Knowing the main visceral repercussions of chronic eosinophilia
+|Description=Different possible organ disorders (not necessarily A05 emergencies)
+|Section=Positive diagnosis
+|Contributors=
+|Order=8}}
+'''Visceral lesions related to ENP''' = possible whatever the causative disease and whatever the eosinophil count (= therefore to be screened in any chronic eosinophilia) :
+
+- endomyocardial fibrosis ;
+
+- pulmonary, digestive and skin disorders ;
+
+- central or peripheral neurological damage;
+
+- arterial and venous thrombosis.

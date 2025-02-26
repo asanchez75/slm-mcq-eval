@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-149-14-B
+|Item_parent=Adult and child angina
+|Item_parent_short=Adult and child angina
+|Rank=B
+|Title=Knowing the clinical signs of diphtheria pseudomembranous angina
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=14}}
+Biological tests and a throat swab are recommended. The haemogram may show a '''neutrophil hyperleukocytosis.'''
+
+Throat swabs can show corynebacteria (Gram-positive bacilli) on direct examination and culture. A PCR test can show the toxin gene.

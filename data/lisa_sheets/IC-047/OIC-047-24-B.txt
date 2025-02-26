@@ -1,0 +1,12 @@
+{{knowledge objective
+|Item_parent=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity
+|Rank=B
+|Title=Congenital hip dislocation: knowing the indication for imaging
+|Description=None
+|Order=24
+|Identifiant=OIC-047-24-B
+|Item_parent_short=Follow-up of normal infants, children and adolescents. Screening for orthopaedic anomalies, visual, hearing and dental problems. Compulsory health examinations. School medicine. Child mortality and morbidity
+}}
+[[File:LCH.png|neant|vignette|319x319px|LCH decision tree according to 2013 HAS recommendations<ref>[https://www.has-sante.fr/upload/docs/application/pdf/2013-11/luxation_hanche_v2_mel.pdf Fiche mémo Luxation congénitale de la hanche : dépistage]</ref>]]
+If abnormality at follow-up: ultrasound up to 3 months, X-ray from the 4th month (3 months completed).
+<references />

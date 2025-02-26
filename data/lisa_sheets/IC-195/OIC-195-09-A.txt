@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-195-09-A
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=A
+|Title=Knowing the principles of CAG treatment and its prognosis
+|Description=Effective treatment, tapering off
+|Rubric=Management
+|Contributors=
+|Order=9}}
+Corticosteroid therapy ('''[[Prescribe systemic or local corticosteroids SD-251|prescribe systemic or local corticosteroids]])''' = cornerstone of CAG treatment.
+
+Must be started as a matter of urgency to avoid ischaemic complications (particularly ophthalmological).
+
+Initial treatment, then tapering off.
+
+Measures associated with corticosteroid therapy (see section on prescribing corticosteroids)
+
+Withdrawal in about 18 months.
+
+Regular clinical and biological monitoring for at least the duration of treatment.
+
+
+In the event of a relapse :
+
+- methotrexate (without marketing authorisation)
+
+- tocilizumab (anti-interleukin 6 receptor monoclonal antibody) (which has marketing authorisation for this indication).
+
+
+Acetylsalicylic acid in anti-aggregation doses may be used (always in the event of ischaemic complications, to be discussed in other cases).
+
+
+Prediction dominated by :
+
+* the risk of visual sequelae
+* the undesirable effects of prolonged corticosteroid therapy;
+* vascular complications (aneurysm, dilatation of the aorta)
+* complications of atheroma.

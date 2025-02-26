@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-256-10-B
+|Item_parent=Sport skills in adults and children; nutritional requirements of athletes (see item 80)
+|Item_parent_short=Sport skills in adults and children; nutritional requirements of athletes (see item 80)
+|Rank=B
+|Title=Knowing the specific nutritional requirements of endurance sports and muscular development
+|Description=None
+|Heading=Management
+|Contributors=
+|Order=10}}
+'''Carbohydrate intake: ''''
+
+Foods with a low glycaemic index are best eaten away from exercise
+
+Foods with a high glycaemic index are best eaten close to exercise.
+
+
+Fat intake should be reduced to allow for an increase in carbohydrate intake. Total fat intake should not be less than 20% of total energy intake (TEI).
+
+
+'''Protein intake''' is essential for maintaining muscle mass
+
+They are covered by the increase in total energy intake and depend on the type and level of physical activity:
+{| class="wikitable"
+|Moderate PA (3 times 30 to 60 min/week)
+|Nutritional reference for the population 0.83 g/kg/day
+|-
+|Endurance sports
+|1.2-1.4 g/kg/day (12-14% AET),
+
+covered by ↑ of total energy intake
+|-
+|Maintenance of muscle mass
+|1.3-1.5 g/kg/day
+|-
+|Increase in muscle mass
+|Up to 2.5 g/kg/day (max. 6 months)
+
+Protein supplements: maximum 1/3 of intake
+
+not to exceed 1 g/kg/day
+|}
+
+
+Intake of water and electrolytes (NaCl) is essential, and must compensate for exercise-related losses.
+
+Mineral and vitamin requirements are covered by a balanced diet.

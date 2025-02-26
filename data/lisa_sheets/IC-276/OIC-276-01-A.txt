@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-276-01-A
+|Item_parent=Hepatomegaly and abdominal mass
+|Item_parent_short=Hepatomegaly and abdominal mass
+|Rank=A
+|Title=Know the definition of an abdominal mass
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+An abdominal mass is defined as an increase in volume of an intra-abdominal organ.
+
+Hepatomegaly is usually defined as an increase in the volume of the liver. In clinical practice, hepatomegaly is defined by a palpable liver. More often than not, a palpable liver is pathological. Measuring the size of the liver is of no clinical value.

@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-096-04-B
+|Item_parent=Peripheral neuropathies
+|Item_parent_short=Peripheral neuropathies
+|Rank=B
+|Title=Knowing how to diagnose a sensitive neuronopathy (clinical examination, diagnostic approach)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''Neuronopathy''':
+
+- Damage to the cell body of the neuron (motor or sensory);
+
+- Sensory neuropathies can have several presentations; the most characteristic is the association of :
+
+- Non-length-dependent asymmetric sensory disorders of the limbs
+
+(characteristically, both upper limbs and lower limbs are used simultaneously)
+
+lower), trunk or face; '''([[Pain, burning, cramps and paresthesias SD-073|pain, burning, cramps and paresthesias]])''''
+
+- Diffuse areflexia;
+
+- Ataxia; '''([[Balance disorder SD-130|balance disorder]])''''
+
+- Hyperproteinorachia and cellular reaction in paraneoplastic origin ''([[Cerebrospinal fluid (CSF) analysis SD-183|Cerebrospinal fluid (CSF) analysis]])''';
+
+- Clinically, they may take the form of polyneuropathy, the diagnosis being confirmed by the CSF and, above all, the diffuse abolition of sensory potentials on neurophysiological examination;''([[Analysis of cerebrospinal fluid (CSF) SD-183|analysis of cerebrospinal fluid (CSF)]])''''
+
+'''Neurophysiological examination'''
+
+See the section entitled "Having a strategy for using complementary tests".

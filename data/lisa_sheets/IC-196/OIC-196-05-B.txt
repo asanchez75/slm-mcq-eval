@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-196-05-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Intitle=Knowing the parameters for assessing activity
+|Description=Components of the activity score
+|Heading=Monitoring and/or prognosis
+|Contributors=
+|Order=5}}
+'''Parameters for assessing rheumatoid arthritis activity -''' Count of painful joints (DAS28 criterion), count of swollen joints (DAS28 criterion), duration of morning joint stiffness, measurement of pain intensity, measurement of the patient's overall assessment of the disease (DAS28 criterion), measurement of C-reactive protein or sedimentation rate (DAS28 criterion).
+
+The use of analgesics and even corticosteroids should be taken into account, but is not included in the SAD28.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-114-10-A
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=A
+|Title=Know the main cause of exanthema in children and adults.
+|Description=Viral origin
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+The main cause of exanthema common to adults and children is infectious (acute viral infections).
+
+cf [[Childhood febrile exanthemata]]

@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-214-02-B
+|Item_parent=Thrombocytopenia in adults and children
+|Item_parent_short=Thrombocytopenia in adults and children
+|Rank=B
+|Title=Knowing the main mechanisms of thrombocytopenia
+|Description=Destruction or consumption, production defect, sequestration
+|Topic=Physiopathology
+|Contributors=
+|Order=2}}
+
+
+== ''3 main mechanisms of thrombocytopenia'' ==
+
+# platelet production defect'' by the bone marrow (= causes of so-called "central" thrombocytopenia), related to a quantitative or qualitative bone marrow insufficiency, or related to bone marrow invasion by abnormal cells or fibrosis
+# destruction or consumption of platelets in the periphery (= so-called "peripheral" thrombocytopenia). In these situations, the bone marrow produces platelets but these are consumed (disseminated intravascular coagulation (DIC), thrombotic microangiopathies) or destroyed (immunological or immuno-allergic mechanisms) in the peripheral blood.
+# ''sequestration of platelets in the spleen'' (known as ''hypersplenism''), which may occur in all cases of splenomegaly, and is more marked the larger the spleen.

@@ -1,0 +1,67 @@
+{{knowledge objective
+|Identifiant=OIC-191-04-B
+|Item_parent=Fever in an immunocompromised patient
+|Item_parent_short=Fever in an immunocompromised patient
+|Rank=B
+|Title=Know the main pathogens responsible for infections according to the type of immune deficiency.
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Amélie Servettaz
+|Order=4}}
+
+'''<big>With regard to neutropenia:</big>''''
+
+<big>- '''<7 days:''' Enterobacteriaceae, Gram + cocci (Staphylococcus, Streptococcus)</big>
+
+<big>- '''≥7 days:''' Pseudomonas aeruginosa, invasive candidiasis, aspergillus...</big>
+
+
+<big>Summary table by type of immune deficiency</big>
+{| class="wikitable"
+|+
+Type of deficiency
+!Bacteria
+!Viruses
+Fungi
+Other
+|-
+Phagocyte deficiency (PNN, macrophages)
+|Extracellular bacteria
+|HSV (mucositis)
+|Aspergillus
+|
+|-
+Cellular immunity deficiency
+|Intracellular bacteria
+
+Mycobacteria
+
+Listeria, Salmonella
+|CMV, EBV, HPV
+|Candida (invasive candidiasis) Aspergillus
+
+Cryptococcus neoformans
+
+Pneumocystis jirovecii
+|Toxoplasma gondii
+|-
+Humoral immunity deficiency
+|Extracellular bacteria
+
+Encapsulated bacteria (meningococcus, pneumococcus, Haemophilus influenzae)
+|Enteroviruses
+|
+|Giardia intestinalis
+|-
+Complement deficiency
+|Encapsulated bacteria
+|
+|
+|
+|-
+Asplenia
+|Encapsulated bacteria
+|
+|
+|Intraerythrocytic germs: (''Plasmodium, Babesia'')
+|}

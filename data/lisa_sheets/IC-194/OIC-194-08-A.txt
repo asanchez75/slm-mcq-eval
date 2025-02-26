@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-194-08-A
+|Item_parent=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Item_parent_short=Systemic lupus (LS). Anti-phospholipid syndrome (APS)
+|Rank=A
+|Title=Photography of a vespertilio
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=8}}
+<gallery widths="400" heights="400">
+File:Vespertilio.jpg
+</gallery>

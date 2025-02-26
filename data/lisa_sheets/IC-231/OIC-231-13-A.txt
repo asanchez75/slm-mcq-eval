@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-231-13-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Differentiating sinus tachycardia from non-sinus supraventricular tachycardia
+|Description=Knowing how to make a positive diagnosis and differentiate between sinus tachycardia and supraventricular rhythm disorders
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=13}}
+
+
+'''Differential diagnoses''': sinus tachycardia, atrial fibrillation, atrial flutter, atrial tachycardia, junctional tachycardia (reciprocal on accessory pathway or by intra-nodal reentry).
+
+'''Arguments in favour of sinus tachycardia''' :
+
+* Progressive start and end (advantage of prolonged recordings or continuous monitoring) with fluctuating heart rate,
+
+* Sinus tachycardia in response to a triggering factor or underlying cause (physical exertion, stress, sepsis, hypovolaemia, anaemia, pulmonary embolism, etc.),
+
+* P wave morphology in favour of a sinus node origin:
+** Positive in the inferior leads, in DI, and from V3 to V6,
+** Negative in avR,
+** Often biphasic in V1 (sometimes in V2).
+
+'''Arguments for another etiology''' :
+
+* Atrial fibrillation: irregular rhythm, baseline tremor with no visible P wave,
+* Atrial flutter'': flutter F waves with conduction usually 2/1 or variable conduction,
+* Atrial tachycardia": P wave different from the sinus P wave with conduction in 1/1, 2/1, etc. or variable conduction. In contrast to flutter, return to the isoelectric line between 2 P' waves.
+* Junctional tachycardia'': regular tachycardia with abrupt onset and termination with A/V ratio of 1 and retrograde P' waves (negative in the inferior leads) after the QRS. Retrograde P' waves "stuck" to the QRS (sometimes not visible) more in favour of intra-nodal reentry and P' waves further from the QRS (>80 ms) more in favour of reciprocal tachycardia on accessory pathway (Kent bundle, Wolff-Parkinson-White).
+
+[[File:Tachaycardie non sinusale.jpg|vignette|alt=|centré|900x900px]]

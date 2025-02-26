@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-204-01-A
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=A
+|Title=Knowing the definition of acute and chronic cough in children and adults
+|Description=Chronic after 4 weeks
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+'''20 [[Discovery of abnormalities on pulmonary auscultation SDD-020|discovery of abnormalities on pulmonary auscultation]]''''
+
+'''162 [[Dyspnea SD-162|dyspnea]]''''
+
+'''178 [[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]''''
+
+'''314 [[Prevention of tobacco-related risks SD-314|prevention of tobacco-related risks]]''''
+
+A sudden, loud expulsion of air from the lungs.
+
+*Acute: <3 weeks
+*Chronic: > 8 weeks

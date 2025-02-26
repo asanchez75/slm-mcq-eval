@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-284-07-B
+|Item_parent=Functional colopathy
+|Item_parent_short=Functional colopathy
+|Rank=B
+|Title=Know the differential diagnoses and the additional tests needed to rule them out
+|Description=NFS, CRP, TSH, Ac anti-transglutaminase +-parasitological examination of stools
+|Section=Positive diagnosis
+|Contributors=
+|Order=7}}
+The main differential diagnoses are inflammatory bowel disease, coeliac disease, microscopic colitis and iatrogenicity (drugs that alter transit or cause abdominal pain: metformin, colchicine, NSAIDs, etc.). It is useful to carry out a biological work-up in patients presenting with IBS. The aim is to rule out an organic pathology. A CBC will rule out anaemia, and a CRP will look for an inflammatory syndrome.  In diarrhoea-predominant IBS, it is also advisable to measure TSH to rule out hyperthyroidism and IgA-type anti-transglutaminase antibodies to look for coeliac disease. A parasitological examination of the stools is recommended in the diarrhoeal subtype to rule out lambliasis. Radiological examinations have no place in typical forms of IBS.
+
+<br />

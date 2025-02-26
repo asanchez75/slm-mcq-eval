@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-305-01-B
+|Item_parent=Oesophageal tumours
+|Item_parent_short=Oesophageal tumours
+|Rank=B
+|Title=Know the two main histological types of oesophageal cancer
+|Description=Squamous cell carcinoma, adenocarcinoma
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Tumours of the oesophagus are almost always malignant. There are two main anatomopathological types, squamous cell carcinoma (degeneration of the squamous mucosa) and adenocarcinoma (degeneration of the metaplastic glandular mucosa of the lower oesophagus). The main symptom is dysphagia.

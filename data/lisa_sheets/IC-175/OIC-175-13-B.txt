@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-175-13-B
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=B
+|Title=Knowing the elements of the clinical and biological diagnosis of typhoid
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Alexandre DUVIGNAUD
+|Order=13}}
+
+Typhoid/paratyphoid fever is caused by infection with Salmonella enterica subsp. enterica serotypes Typhi or Paratyphi (A, B or C). The reservoir is strictly human. It is transmitted via the faeco-oral route.
+
+The disease is common in tropical areas and North Africa (Maghreb).
+
+Salmonella, the agents of typhoid/paratyphoid fever, pass through the intestinal mucosa without damaging it before entering the bloodstream via the lymphatic system. Lysis of the bacteria leads to the release of an endotoxin that can cause visceral symptoms.
+
+The incubation period ranges from 10 days to 3 weeks.
+
+The invasion phase (1st septennium) is characterised by a gradually rising fever (predominantly in the evening), variably associated with: headache, insomnia, asthenia, anorexia, digestive problems, dissociated pulse (suggestive sign), splenomegaly (30%).
+
+The state phase (2nd and 3rd septenaries) is characterised by a plateau fever which may exceed 40°C, variably associated with : tuphos (inversion of the nycthemeral rhythm, prostration, obnubilation), abdominal pain, diarrhoea (2/3 of cases), dissociated pulse, Duguet's angina (10%, small superficial ulcerations on the anterior pillars and soft palate), splenomegaly (inconstant), lenticular exanthema of the trunk (1/3 of cases).
+
+Possible complications include gastrointestinal (haemorrhage, perforation), toxin (myocarditis, encephalitis) and secondary septic complications.
+
+Biologically, the inflammatory syndrome is frank (high CRP) and the presence of leukoneutropenia is usual.
+
+Microbiological diagnosis relies mainly on blood cultures, which are less effective after the 1st septennium. During the 2nd septennium, coproculture is sometimes helpful (enterohepatic cycle of bacteria).

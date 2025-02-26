@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-165-08-B
+|Item_parent=Mumps
+|Item_parent_short=Mumps
+|Rank=B
+|Title=Knowing how to treat mumps
+|Description=Symptomatic treatment
+|Rubric=Management
+|Contributors=Julia Dina,Laurence Morand-Joubert
+|Order=8}}
+
+Only symptomatic treatment for pain and fever. No specific antiviral treatment.

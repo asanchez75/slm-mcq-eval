@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-02-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=The health safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing the definition of a health crisis
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=2}}
+
+A health crisis is defined in the vigilance glossary (Afssaps 2011) as an unforeseen and complex situation of potential or proven seriousness requiring immediate action with exceptional management resources, most often cross-functional.
+
+It is these successive crises (contaminated blood, bovine spongiform encephalopathy, Mediator, etc.) that have guided the construction of the health safety system in France.

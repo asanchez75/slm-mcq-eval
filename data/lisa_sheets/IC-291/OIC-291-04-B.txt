@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-291-04-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Title=Knowing the biology of cancer cells
+|Description=List the main characteristics of cancer cells, understand the concept of tumour stem cells and epithelial-mesenchymal transition.
+|Rubric=Physiopathology
+|Contributors=
+|Order=4}}
+Genetic alterations accumulate in the cell genome over the course of an individual's life. Most of these alterations have no functional impact on cell proliferation or survival. On the other hand, a limited number of alterations will ''enable the cell to acquire a selective advantage'' over other cells present in the tissue microenvironment. These new abilities will enable the cell that has acquired them to ''overcome the various selection barriers'', to develop in the form of a tumour clone (a large number of identical cells from the same mother cell) that will ultimately give rise to a tumour. This is known as a "multi-hit" model of carcinogenesis. It is generally accepted that between 5 and 10 oncogenic abnormalities within a single cell are necessary for it to become cancerous.
+
+The main characteristics of cancer cells are :
+
+- self-sufficiency in proliferation signals (gain of function of oncogenes)
+
+- resistance to signals inhibiting proliferation (loss of function of tumour suppressor genes)
+
+- resistance to cell death by apoptosis
+
+- unlimited replicative capacity (involvement of telomerase)
+
+- escape from the anti-tumour immune response (involvement of PD1/PD-L1)
+
+- deregulation of energy metabolism
+
+- ability to invade local tissue and form distant metastases
+
+- induction of neoangiogenesis (involvement of VEGF/VEGFR in particular)
+
+Tissue inflammation and genomic instability favour the acquisition of these characteristics.
+
+A particular sub-type of tumour cells has been described in experimental models: ''cancer stem cells''. These cells are said to be capable of indefinite self-renewal, driving tumour growth and may be the source of resistance and metastatic dissemination. Unlike other tumour cells, they are less sensitive to conventional therapies.
+
+The ''epithelial-mesenchymal transition (EMT)'' defines a transitional state of epithelial cancer cells during which they acquire the phenotypic properties of mesenchymal cells, making them mobile and favouring their migration, metastatic dissemination and resistance to stresses that induce cell death.

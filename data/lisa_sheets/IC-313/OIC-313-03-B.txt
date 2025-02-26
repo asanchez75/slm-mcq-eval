@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-313-03-B
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=B
+|Title=Knowing the natural history of germ cell tumours of the testis
+|Description=Local volume growth, particularly lymphophilic tropism of extension and haematogenous metastatic localisations preferential to the lungs.
+|Rubric=Etiologies
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=3}}
+
+*Pre-cancerous state: germ cell neoplasia "in situ" (GNIS)
+*Local growth in the parenchyma (pulp); 60 to 70% at the time of diagnosis
+*Lymphatic metastasis
+**Retroperitoneal lymph nodes: 1<sup>er</sup> lymph node relay (except if scrotal approach: inguinal, in addition)
+**Mediastinal lymph nodes
+**Left supraclavicular lymph nodes
+*Distant extension (haematogenous, choriocarcinoma)
+**Lung
+**Liver
+**Rare: brain, bone
+**
+**
+**Bilateral testicular tumours are possible but rare (<1%).

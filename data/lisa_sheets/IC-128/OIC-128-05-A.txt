@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-128-05-A
+|Item_parent=Embrittle osteopathies
+|Item_parent_short=Embrittle osteopathies
+|Rank=A
+|Title=Knowing the indications for bone densitometry and other imaging examinations
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+A '''bone densitometry''' is required for '''osteoporosis screening''', i.e. :
+
+- when an osteoporotic fracture occurs (or is discovered on X-rays),
+
+- if one or more osteoporosis risk factors are identified during questioning,
+
+Among the indications for bone densitometry recognised and reimbursed by the health insurance scheme :
+
+- regardless of age or sex:
+
+o a history of fracture without major trauma
+
+o in the case of pathology or treatment potentially inducing osteoporosis (for example, primary hyperparathyroidism, untreated progressive hyperthyroidism or corticosteroid therapy lasting more than three months)
+
+- in addition to a non-traumatic fracture, in post-menopausal women :
+
+o history of non-traumatic hip fracture in a relative in the 1st<sup>degree,
+
+o a BMI < 19 kg/m<sup>2</sup>,
+
+o early menopause (before the age of forty)
+
+o a history of corticosteroid use ≥ 3 consecutive months at a dose ≥ 7.5 mg/kg prednisone equivalent.
+
+
+'''Radiographies rachidiennes'''
+
+Indications:
+
+- In practice, morphological assessment of the spine (usually using X-rays) is indicated if there is ''pain in the lumbar region'', ''pain in the spine,''
+
+- and/or a loss of height ≥ 4 cm. A '''[[Spinal deformity SD-065|spinal deformity]]''' kyphosis is possible in the case of vertebral fracture(s) affecting the dorsal spine (especially if the fractures are multiple).
+
+If there is any doubt, a CT scan and/or MRI of the spine will confirm that there are no signs suggestive of another cause, particularly tumour.
+
+[https://videotheque.uness.fr/w/ksewZzmJRCzZncZ5sb9NqQ 23 mn Video CERF imaging of brittle osteopathies]
+
+<br />

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-213-02-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short= Anaemia in adults and children
+|Rank=A
+|Title=Knowing the leading cause of anaemia
+|Description=1st worldwide cause of iron deficiency
+|Rubric=Prevalence
+|Contributors=
+|Order=2}}
+
+
+
+Anaemia is very common in medical practice.
+
+Iron deficiency is the most common cause.

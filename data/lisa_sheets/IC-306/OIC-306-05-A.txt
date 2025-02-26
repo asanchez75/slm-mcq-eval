@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-306-05-A
+|Item_parent=Ovarian tumours
+|Item_parent_short=Ovarian tumours
+|Rank=A
+|Title=Knowing the main risk/protective factors associated with ovarian cancer
+|Description=To list the main risk/protective factors associated with ovarian cancer (in particular the impact of HRT, contraception, parity, infertility, tubal ligation, salpingectomy) including familial DRFs.
+|Rubric=Positive diagnosis
+|Contributors=Lise Lecointre, Philippe Deruelle, Yohan Kerbage
+|Order=5}}
+'''Risk factors'''
+
+The risk factors for ovarian cancer are not well known and appear to carry little weight (relative risk = 2 for almost all of these factors, which explains the difficulty in establishing a risk profile that can be used for a screening policy):
+
+- The main risk factor is "genetic predisposition" (breast-ovarian syndrome with BRCA1 or 2 gene mutation and Lynch syndrome more rarely), and a personal or family history of breast cancer.
+
+- '''Overweight and [[Obesity and overweight SD-051|obesity]] 319. [[Prevention of overweight and obesity SD-319|Prevention of overweight and obesity]]''''
+
+- Prolonged ovulatory period: early menarche and late menopause, nulliparity and late first full-term pregnancy
+
+- Age > 50 (50% of ovarian cancers occur after age 50) '''294. [[Gynaecology follow-up consultation SD-294|Gynaecology follow-up consultation]]'''''
+
+- Infertility and ovulation-inducing treatments (in particular stimulation with Clomiphene, Clomid®)
+
+- Hormonal treatment of the ''[[Follow-up consultation for a menopausal woman SD-278|menopause]]'' based on oestrogens
+
+- Environmental factors: '''[[Occupational risk prevention SD-315|occupational exposure]]''' to asbestos (IARC, 2012) and talcum powder
+
+- '''[[Prevention of tobacco-related risks SD-314|Tobacco addiction]]''''
+
+
+'''Protective factors'''
+
+- Oral contraception
+
+- Pregnancy
+
+- Breastfeeding
+
+- Tubal ligatures
+
+- Bilateral salpingectomy
+
+'''294. [[Gynaecology follow-up consultation SD-294|Gynaecology follow-up consultation]]''''

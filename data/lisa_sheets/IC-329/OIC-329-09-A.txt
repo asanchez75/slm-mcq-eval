@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-329-09-A
+|Item_parent=Know the characteristics of labile blood products (PSL) and their specificity
+|Item_parent_short=Know the characteristics of labile blood products (PSL) and their specificity
+|Rank=A
+|Title=Knowing the pre-transfusion stages
+|Description=Transfusion record, identity, information, pre-transfusion examinations, prescribing blood products, ultimate control, etc.
+|Heading=Management
+|Contributors=
+|Order=9}}
+The pre-transfusion stage involves prescribing blood products and carrying out the regulatory tests, followed by dispensing. This stage requires the patient to have the necessary clinical information, including transfusion history, and the mandatory biological data required for the indication. The patient must be informed of the possibility of a transfusion, and this information is recorded in the transfusion record. The prescription must be accompanied by the valid results of the pre-transfusion work-up. If these have not been carried out, they will be prescribed. The transfusion site of the Etablissement Français du Sang (EFS) or a blood depot under agreement with the EFS issues the PSLs.
+<br />
+[File:Prescription PSL.jpg|vignette]]
+'''1/ Prescribing labile blood products (PSL):'''

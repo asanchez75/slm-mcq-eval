@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-036-17-B
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=B
+|Title=Know the elements of monitoring (clinical and biological) of hormonal or intrauterine contraception.
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Geneviève Plu-Bureau
+|Order=17}}
+
+
+== Clinical follow-up ==
+'''Consultation after 3 months then annually'''
+
+- Checking:
+
+* compliance
+* tolerance
+* the absence of any new personal or family event
+
+Clinical breast examination
+
+'''- Taking blood pressure''''
+
+- Checking weight stability.
+
+== Biological monitoring ==
+- fasting measurement of blood sugar, total cholesterol and plasma triglycerides
+
+- 3 months then ''every 5 years'' in the absence of new facts

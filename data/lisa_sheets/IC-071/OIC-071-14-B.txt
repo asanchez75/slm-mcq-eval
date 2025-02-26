@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-071-14-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the principles of nutrition
+|Description=Know the general aim of the nutritional approach
+|Heading=Management
+|Contributors=
+|Order=14}}
+
+
+* '''Renutrition:'''
+** Restoration of a healthy weight.
+** Must be cautious and progressive in order to avoid an ''inappropriate renutrition syndrome'' (IRS)
+*** Hepatic cytolysis,
+*** hydrosodium retention and hyperosmolar state,
+*** haemostasis disorders,
+*** hypophosphatemia
+*** hypokalaemia
+*** hypomagnesaemia
+*** dysglycaemia,
+*** vitamin deficiencies,
+*** heart failure with risk of cardiac rhythm disorder
+* '''Rehabilitation:''''
+** Normalisation of behaviour and food intake.

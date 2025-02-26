@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-043-04-A
+|Item_parent=Female genital haemorrhage
+|Item_parent_short=Female genital haemorrhage
+|Rank=A
+|Title=Knowing how to prescribe the first biological tests to be carried out
+|Description=None
+|Rubric=Additional tests
+|Contributors=Antoine Netter,Philippe Deruelle
+|Order=4}}
+
+'''Bilan biologique''' :
+
+- routine plasma or urine β-hCG in all patients of childbearing age
+
+- Interpretation of blood count SD-223|NFS]]
+
+- Martial assessment: [[haemoglobin decreased SD-217]], [[abnormal erythrocyte indices (haemoglobin level, haematocrit, etc.) SD-214]], [[ferritin: decreased or increased SD-207|ferritinaemia]] + CRP (because an inflammatory syndrome may mask hypoferritinaemia);
+
+- Haemostasis work-up (PT, APTT), Willebrand factor assay to test for Willebrand's disease (widely indicated in adolescents).

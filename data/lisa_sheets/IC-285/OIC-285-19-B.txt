@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-285-19-B
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=B
+|Title=Knowing the clinical and biological characteristics and causes of secretory diarrhoea
+|Description=Medications, microscopic colitis (histological criteria for diagnosis)
+|Rubric=Etiologies
+|Contributors=
+|Order=19}}
+The stools are often very watery and may be abundant, with a risk of dehydration, hypokalaemia and metabolic acidosis. The osmotic hole is normal. Diarrhoea is resistant to fasting. Colonoscopy with colonic biopsies is essential.
+
+The main causes are as follows
+
+- Microscopic colitis'' causes watery, secretory diarrhoea. These diseases remain rare (frequency close to that of IBD) and are often drug-related (see above). The presentation combines watery diarrhoea (of abrupt onset in 50% of cases) with a normal endoscopic appearance of the colonic mucosa. Diagnosis is made on the basis of colonic biopsies. There are two entities, collagenous colitis and lymphocytic colitis. The anatomopathological abnormalities are an increase in the number of intra-epithelial lymphocytes in lymphocytic colitis and an increase in the thickness of the sub-epithelial collagenous band in collagenous colitis. If the drug is suspected of being responsible, it should be discontinued and the diarrhoea stopped permanently and rapidly. Primary forms are often observed in an autoimmune context. In this case, when symptoms are moderate, symptomatic treatments (such as transit slowing agents like loperamide, cholestyramine - a bile acid chelating resin) may be effective but are often insufficient.
+
+- Primary bile acid malabsorption" is due to a defect in the reabsorption of bile acids by the terminal ileum. There is no diagnostic test available in France and the diagnosis is based on very rapid relief (therapeutic test) with cholestyramine.
+
+- Villeous adenomas or colonic adenocarcinomas: can cause hypersecretion of mucus, leading to diarrhoea.
+
+- Iatrogenic'': numerous drugs including irritant laxatives and colchicine

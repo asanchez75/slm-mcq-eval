@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-215-02-A
+|Item_parent=Purpuras in adults and children
+|Item_parent_short=Purpuras in adults and children
+|Rank=A
+|Title=Knowing how to differentiate vascular purpura from thrombocytopenic purpura
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+Two main mechanisms:
+
+- '''Vascular purpura = pathology of the vascular wall'' = most often infiltrated
+
+o by inflammation of the wall (vasculitis)
+
+o by fragility of the capillary vascular wall
+
+- '''Thrombocytopenic purpura''' = '''primary haemostasis disorder''' (especially thrombocytopenia ('''[[Platelet abnormality SD-215|platelet abnormality]]'''), possibly thrombopathy) = usually non-infiltrated and non-confluent
+<br />
+{| class="wikitable"
+|
+|Vascular purpura of vasculitis
+|'''Vascular purpura due to capillary fragility*'''''
+|'''Thrombocytopenic purpura'''
+|-
+|Mechanism
+|Inflammation of the vascular wall
+|Fragility of the vascular wall
+|Thrombocytopenia (platelet abnormality) (more rarely thrombopathy)
+|-
+|Usual clinical appearance
+|infiltrated, sometimes necrotic
+|Non-infiltrated, non-necrotic
+|Non-infiltrated, non-necrotic
+|-
+|Distribution
+|Declive, predominantly in the lower limbs
+
+Aggravated by orthostatism
+
+No mucosal involvement
+|No elevation, areas of friction (perifollicular in scurvy)
+
+Mucosal involvement possible (gingivorrhagia)
+|May affect all areas but predominates in declining areas
+
+Mucosal damage possible
+|-
+|''Other bleeding sites'''
+|No
+|Yes (gingivorrhagia possible in scurvy)
+|Yes
+
+(haematomas, ecchymoses, epistaxis, gingivorrhages, intra-oral haemorrhagic bullae or visceral haemorrhages)
+|}
+<nowiki>*</nowiki> Vascular purpura due to non-vascular capillary fragility (hypercorticism, scurvy, Bateman purpura ...)

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-020-05-B
+|Item_parent=Health research methodology
+|Item_parent_short=Health research methodology
+|Rank=B
+|Title=Research Hypotheses
+|Description=How to formulate research hypotheses
+|Rubric=Definition
+|Contributors=Julie Berbis (CUESP),Jérôme Lambert (CIMES)
+|Order=5}}
+
+The objective of a research project stems directly from the formulation of an "a priori" hypothesis that we wish to verify through a study. There may be several research objectives, but they must then be divided into a hierarchy of primary objective (unique, clear, precise, consensual, reasonable) and secondary objective(s) (cf. [[Health research methodology]]).
+
+The definition of research hypotheses is directly linked to the estimation of the power of a study and the calculation of the number of subjects required (see [[Factors likely to influence the power of a study 2C-020-DE-A10]] and [[Calculation of the number of subjects required 2C-020-DE-A11]]). The hypothesis must then describe what is expected in terms of effect size.

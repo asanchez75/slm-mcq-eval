@@ -1,0 +1,82 @@
+{{knowledge objective
+|Identifiant=OIC-071-11-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the indications for hospitalisation
+|Description=Know the severity criteria justifying hospitalisation.
+|Heading=Management
+|Contributors=
+|Order=11}}
+
+{| class="wikitable"
+|'''Anamnestics'''
+|
+* Rapid weight loss ≥ 20 % in 3 months in adults or more than 2 kg/week in adolescents.
+* Malaise
+* Incoercible vomiting.
+* Failed ambulatory renutrition.
+* Extreme restriction'' (refusal to eat and/or drink).
+|-
+|Clinical
+|
+* Obsessive, intrusive and permanent ideations.
+* Inability to control compensatory behaviours.
+* Need for nutritional assistance (nasogastric tube).
+* Significant ''Amyotrophy'' with axial hypotonia.
+* Dehydration, hypothermia, arterial hypotension or bradycardia.
+* ECG abnormalities.
+|-
+|Paraclinical tests
+|
+* Hypoglycaemia.
+* '''ASAT or ALAT ˃ 10 N.'''
+* '''Severe hydroelectrolytic'' or '''metabolic disorders.'''
+* Renal insufficiency.'''
+* '''Leukopenia or neutropenia.'''
+|-
+|'''Risk'''
+
+'''suicidal'''
+|
+* Suicide attempt or specific suicide plan.
+* Repeated self-harm.
+|-
+|Comorbidities
+|May alone justify hospitalisation if "severe":
+
+* Characteristic depressive episode;
+* Substance abuse
+* Severe anxiety
+* Psychotic symptoms;
+* Obsessive-compulsive disorder.
+|-
+|'''Motivation,''''
+
+'''cooperation'''
+|
+* Failure of outpatient care.
+* Patient uncooperative with outpatient care.
+|-
+| colspan="2" |'''Environmental and social criteria'''
+|-
+|Availability
+
+'''de l'entourage'''
+|
+* Family problems or absence of family.
+* Exhaustion of family and friends.
+|-
+|Stress
+
+'''Environmental'''
+|
+* High environmental criticism.
+* Severe social isolation.
+|-
+|Availability
+
+'''Des soins'''
+|
+* No outpatient treatment possible (lack of facilities...).
+|}

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-004-37-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the rules for preventing nosocomial urinary tract infections
+|Description=Prevention measures for HCAI; main risk factors
+|Rubric=Management
+|Contributors=
+|Order=37}}
+- Respect for asepsis when inserting urethral catheters
+
+- Use a closed sampling system
+
+- Avoid urethral catheterisation whenever possible (prefer penile sleeve-type alternatives)
+
+- Shorten the duration of the survey as much as possible by reassessing the value of an indwelling survey on a daily basis
+
+- Ensuring that patients are properly hydrated
+
+- There is no need for systematic catheter changes, antibiotic prophylaxis, bladder washings, intra-vesical injections of antiseptics or antibiotics, or any other manipulation.

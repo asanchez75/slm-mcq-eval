@@ -1,0 +1,53 @@
+{{knowledge objective
+|Identifiant=OIC-340-10-A
+|Item_parent=Strokes
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the main causes of haemorrhagic stroke
+|Description=None
+|Rubric=Etiologies
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=10}}
+
+
+=== Main causes of haemorrhagic stroke ===
+{| class="wikitable"
+! colspan="3" |Main causes of haemorrhagic stroke
+|-
+! rowspan="2" |Linked to microangiopathy
+
+The most frequent. Mainly medical treatment
+|Small artery disease (or "associated with hypertension")
+|Deep fluoroscopy
+
+Associated with lipohyalinosis
+|-
+|Cerebral amyloid angiopathy
+|Elderly subjects
+
+Lobar topography
+
+Risk of recurrence
+|-
+! rowspan="2" |Secondary to an underlying lesion
+
+Suitable for interventional treatment
+<br />
+|Rupture of a vascular malformation (arteriovenous malformation, cavernoma, etc.)
+<br />
+|Subject tends to be young
+|-
+|Cerebral tumours
+|Often reveals the tumour
+|}
+
+
+All cerebral haemorrhage has an underlying cause. The distribution of aetiologies underlying haemorrhagic stroke is poorly understood.
+
+Small artery disease can be both ischaemic and haemorrhagic.
+
+Other less frequent causes (cerebral venous thrombosis, toxic intake, endocarditis, congenital haemostasis disorders, etc.) may be considered depending on the context.
+
+15% of haemorrhagic strokes occur under anticoagulant treatment. However, anticoagulant treatment is more of a favouring factor and a poor prognosis than an aetiology.
+
+([[Arterial hypertension SD-042|arterial hypertension]]; [[Acute haemorrhage SD-060|acute haemorrhage]]; [[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]];  [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidences/injection)]])

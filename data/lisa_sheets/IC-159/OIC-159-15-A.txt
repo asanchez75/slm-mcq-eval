@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-159-15-A
+|Item_parent=Tuberculosis in adults and children
+|Item_parent_short=Tuberculosis in adults and children
+|Rank=A
+|Title=Know the principles of contact management and patient isolation
+|Description=None
+|Rubric=Management
+|Contributors=Dr Lanoix Jean-Philippe,Pr Lemaitre Nadine,Pr Delacourt Christophe,Pr Maitre Bernard
+|Order=15}}
+
+'''Summary''': '''Any patient presenting with tuberculosis disease with pulmonary involvement must be hospitalised in a single room with additional air precautions. Contacts of patients with tuberculosis should be treated by the tuberculosis control centre (CLAT).'''
+
+[Management of a patient with bacilliferous tuberculosis SD-274|Management of a patient with bacilliferous tuberculosis]]: Complementary respiratory precautions of the "air" type:
+
+* a single room with the door closed, ideally under negative pressure, otherwise with regular ventilation by opening the windows
+* FFP2 masks must be worn by carers when entering the room,
+* patients wearing surgical-type masks when moving around outside their rooms (limited to a maximum).
+* Isolation maintained for the first 14 (7 to 21) days of treatment or until direct examination of respiratory samples is negative for bacilliferous patients.
+
+[Consultation following a tuberculosis infection SD-301|Consultation following a tuberculosis infection]] :
+
+Adult contacts of a patient with pulmonary tuberculosis are managed by the CLAT: immediate chest X-ray to diagnose pulmonary tuberculosis disease; if this is normal, the patient is seen again two months later with a TST or IGRA test to detect LTI, which will justify treatment.
+
+Screening of exposed children is very important, as early detection and treatment of latent infections can prevent progression to TB disease. The first assessment should take place ''less than 2 weeks'' after the diagnosis of the index case.
+
+In children under 5 years of age, the 1<sup>rst</sup> assessment includes a clinical examination, TST or IGRA test, and chest X-ray. If there are no signs of infection (normal X-ray and negative immunoassay), a further check should be carried out 8 to 12 weeks after the last contact. During this period, children under the age of 2 should be offered prophylaxis (isoniazid and rifampicin). For children over 5 years of age, the procedures are identical to those for adults.

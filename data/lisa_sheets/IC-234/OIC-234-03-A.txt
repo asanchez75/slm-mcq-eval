@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-234-03-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Knowing what cardiogenic acute pulmonary oedema (PAO) is
+|Description=Left heart failure leading to transudative pulmonary oedema
+|Rubric=Definition
+|Contributors=Olivier Huttin
+|Order=3}}
+Pathophysiological definition:
+
+- Sudden onset of acute respiratory distress associated with an increase in left ventricular filling pressure.
+
+- CI leads to a sudden increase in left ventricular filling pressures. This increase in LV pressure is associated with an increase in pressure in the left atrium and pulmonary capillaries (> 25 mmHg). This pressure is higher than the interstitial oncotic pressure and results in the formation of a transudate in the pulmonary alveoli. The alveoli are "flooded" and haematosis is altered.
+
+Remarks :
+
+- OAP results in impaired gas exchange leading to hypoxaemia.
+
+- It is associated with a compensatory mechanism resulting in hyperventilation, leading initially to hypocapnia.
+
+- Clinical picture of acute respiratory failure associating :
+
+o Dyspnoea with orthopnoea,
+
+o Frothy expectoration
+
+o Anxiety and agitation, sweating
+
+o Peripheral cyanosis
+
+o Crackles on pulmonary auscultation
+
+This is a therapeutic emergency.

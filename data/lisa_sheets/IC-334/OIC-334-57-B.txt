@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-334-57-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Modensitometry of extra-dural haematoma, sub-dural haematoma and cerebral contusions
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=57}}
+("''[[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]]'''") ("''[[Head trauma SD-172|head trauma]]'''")
+[[File:Extradural haematoma.jpg|vignette|Extradural haematoma on CT scan: spontaneous biconvex right parietal hyperdensity.]]
+[[File:Bifrontal cerebral contusion.jpg|vignette|Bifrontal cerebral contusion: heterogeneous spontaneous hyperdensity within bilateral frontal cerebral parenchyma]]
+[[File:Acute subdural haematoma.jpg|vignette|Acute subdural haematoma (SDH) associated with traumatic subarachnoid haemorrhage (SAH) on CT: spontaneous hyperdensity within the left hemispheric subdural space (SDH) and hyperdensity of bilateral subarachnoid spaces (SAH). Note skull fracture (right parietal bone) and subcutaneous haematoma]]
+[[File:Diffuse axonal lesions.jpg|vignette|Diffuse axonal lesions on CT scan: multiple spontaneous hyperdensities at the cortico-subcortical junction.]]

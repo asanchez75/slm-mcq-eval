@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-319-06-B
+|Item_parent=Malignant lymphomas
+|Item_parent_short=Malignant lymphomas
+|Rank=B
+|Title=Knowing the methods of histopathological diagnosis of lymphomas
+|Description=Indispensable biopsy of tumour tissue (lymph node or extra-ganglion) (cytology, biopsy).
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+Diagnosis is based on anatomopathological examination of a biopsy (ideally surgical) of an adenopathy or affected organ. It is essential for the lymph node to be sent rapidly to the pathology laboratory, fresh, so that all the tests can be carried out:
+
+- affixing to slides for cytological analysis ;
+
+- formalin fixation and paraffin embedding for histological analysis;
+
+- freezing a fragment for molecular analysis ;
+
+- possible culture for cytogenetic analysis ;
+
+- and storage in a tumour bank for subsequent analysis or research (only with the patient's consent).

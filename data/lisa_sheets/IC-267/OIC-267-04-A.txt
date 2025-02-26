@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-267-04-A
+|Item_parent=Disorders of acid-base balance and fluid-electrolyte disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Knowing the serious clinical abnormalities to look for
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=4}}
+
+Life-threatening if pH < 7.10 or bicarbonaemia < 8 mmol/L: reduced cardiac and tissue output, dyspnoea, catecholamine resistance, ventricular arrhythmias, inhibition of cellular metabolism and coma.

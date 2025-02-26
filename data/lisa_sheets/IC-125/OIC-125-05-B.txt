@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-125-05-B
+|Item_parent=Micturition disorders and urinary incontinence in adults and the elderly
+|Item_parent_short=Micturition disorders and urinary incontinence in adults and the elderly
+|Rank=B
+|Title=Knowing the age-related prevalence of SUI, UI and mixed urinary incontinence (MUI), risk factors in men, women and the elderly (DIAPPERS)
+|Description=Increase with age frequency M and F modification of type with age/ Demonstrated risk factors and especially modifiable risk factors
+|Topic=Epidemiology
+|Contributors=B. Peyronnet
+|Order=5}}
+
+*'''<big>In women:</big>''' urinary incontinence is a public health problem affecting 25-45% of women. The frequency and severity of urinary incontinence increases with age.
+
+*'''<big>In men:</big>''' urinary incontinence is much less common than in women for anatomical reasons (prostate, long urethra).
+
+*<big>'''The overall prevalence of overactive bladder'''</big> in France is estimated at 14.4% and increases with age.
+
+*It is estimated that 46% of adults suffer from at least one lower urinary tract symptom.
+
+*The main risk factors in women are: age, obstetrical history, [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|menopause 124]], [[Childhood and adult obesity (see item 71)|obesity 253]]], [[Benign hypertrophy (see item 71)|obesity 253]].
+*The main risk factors in men are: age, [[Childhood and adult obesity (see item 71)|obesity 253]], [[Benign prostatic hyperplasia|prostate surgery 127]].
+
+*A mnemonic for remembering the risk factors and reversible causes of incontinence in the elderly is DIAPPERS:
+**D: Delirium (confusional syndrome)
+**I: Infection
+**A: Vaginal atrophy
+**P: Psychological causes (depressive syndrome)
+**P: Pharmacological causes
+**E: Excess diuresis
+**R: Restriction of mobility
+**S: Constipation (Stool impaction)
+
+<br />

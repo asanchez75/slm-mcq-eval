@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-115-05-B
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=B
+|Title=Knowing the role of viral infections and immunosuppression in the development of toxidermia
+|HIV increases the risk of mild and severe toxidermia; DRESS and reactivation of herpes viruses (HHV6, HHV7, EBV and CMV).
+|Rubric=Prevalence, Epidemiology
+|Contributors=
+|Order=5}}
+Certain viral infections are factors in the development of toxidermia:
+
+- HIV infection increases the risk of toxidermia;
+
+- Drug hypersensitivity syndrome (or DRESS) is associated with reactivation of herpes viruses (HHV6, HHV7, EBV and CMV);
+
+- immunosuppression, whatever its cause, is a factor in the development of toxidermia.

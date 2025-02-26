@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-263-06-A
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=A
+|Title=Savoir évoquer le diagnostic de sténose de l'artère rénale (How to diagnose renal artery stenosis)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Jean-Jacques Boffa
+|Order=6}}
+
+There are 2 types of renal artery stenosis: atheromatous and fibrodysplastic.
+
+Table : The 2 types of renal artery stenosis
+{| class="wikitable"
+|
+|Atheromatous stenosis
+|Fibrodysplasia of the media".
+|-
+|Incidence
+|90% of cases
+|10% of cases
+|-
+|Terrain
+|male > 45 years, atheromatous
+|women between 25 and 40
+|-
+|Cardiovascular risk factors
+|Multiple (hypertension, obesity, type 2 diabetes, smoking, etc.)
+|absent
+|-
+|'''Location'''
+
+'''of stenosis'''
+|proximal lesions (near the ostium) and often bilateral with post-stenotic dilatation
+|distal lesions with a
+
+a string of pearls, often bilateral
+|-
+|Risk of thrombosis
+|high
+|low
+|}
+<br />

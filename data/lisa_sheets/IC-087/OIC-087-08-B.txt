@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-087-08-B
+|Item_parent=Epistaxis
+|Item_parent_short=Epistaxis
+|Rank=B
+|Title=Know the principles of the therapeutic management of hypertension during epistaxis
+|Description=Know the principles of the therapeutic management of hypertension during epistaxis
+|Rubric=Management
+|Contributors=Geoffrey Mortuaire
+|Order=8}}
+The impact of hypertension on the occurrence of epistaxis is controversial. High blood pressure is thought to be associated above all with the risk of recurrence of epistaxis.
+
+* During the initial clinical examination of an epistaxis, an elevated BP may be associated with patient stress and should be checked 30 minutes later to confirm.
+* If an elevated BP is confirmed, treatment with calcium channel blockers in electric syringe or tablet form may be necessary if there are no contraindications.
+* A cardiological opinion is recommended if this initial management strategy fails.
+* At a distance from the epistaxis, the patient's BP should be reassessed by the attending physician.
+* If the patient is already known to be hypertensive, a reassessment of background treatment is recommended at a distance from the epistaxis.

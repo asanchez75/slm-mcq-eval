@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-362-01-A
+|Item_parent=Prostheses and osteosynthesis
+|Item_parent_short=Prostheses and osteosynthesis
+|Rank=A
+|Intitle=Know the definition of osteosynthesis and prosthesis
+|Description=None
+|Rubric=Definition
+|Contributors=CFCOT
+|Order=1}}
+
+'''Definition of osteosynthesis:'''
+
+Osteosynthesis is a surgical technique which consists of maintaining bone fragments in a desired position using material fixed in these fragments in order to obtain their consolidation. A distinction is made between internal osteosynthesis, such as screws, pins, plates and centromedullary nailing, which are positioned inside the patient's body, and external osteosynthesis, such as external fixators. Osteosynthesis can be open-focus, which means that the fracture site is opened (to fit a plate, for example), or closed-focus, which means that the fracture site is not opened, and the incision is made at a distance from the fracture site (as with centromedullary nailing). The advantage of closed-focus osteosynthesis is that the initial fracture haematoma, which is essential to the healing process, is not evacuated.
+
+Osteosynthesis may be necessary to treat a fracture, after an osteotomy (surgical sectioning of a bone to modify it), during arthrodesis (fusion of a joint) or bone grafting.
+
+
+'''Definition of a prosthesis:'''
+
+Joint prostheses involve replacing all or part of the articular surfaces of a joint in order to reduce pain and restore function, using a non-organic replacement material fixed in the bone by various means. There are prostheses for almost all joints, but for some joints, arthrodesis (fusion of a joint) offers even better results in terms of pain, without altering function too much.

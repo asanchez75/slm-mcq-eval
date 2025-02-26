@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-204-10-B
+|Item_parent=Cough in children and adults (with treatment)
+|Item_parent_short=Cough in children and adults (with treatment)
+|Rank=B
+|Title=Knowing the elements of aetiological management
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+'''The etiological management strategy is summarised in Table 1:'''
+[[File:Algorithm Cough.png|thumb]]
+
+
+Suggested treatments in the event of evidence in favour of one of the frequent cough diagnoses :
+
+- Asthma: inhaled corticosteroids, BDLA
+
+- GERD: PPI and dietary hygiene rules for 8 weeks
+
+- STOVAS: nosewash, nasal corticosteroid therapy, eviction

@@ -1,0 +1,21 @@
+<br />{knowledge objective
+|Identifiant=OIC-248-02-A
+|Item_parent=Primary prevention through nutrition in adults and children
+|Item_parent_short=Primary prevention through nutrition in adults and children
+|Rank=A
+|Intitle=Know the definition and explain the different types of physical activity
+|Description=None
+|Rubric=Definition
+|Contributors=Guillaume Mahé, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=2}}
+Physical activity (PA) can be categorised into different areas:
+
+- PA linked to travel (journeys to school, work, shopping, going upstairs);
+
+- PA linked to professional or school activities;
+
+- leisure activities (walks, DIY, supervised or unsupervised sports activities);
+
+- PA related to activities in the home (gardening, housework, looking after children, for example).
+
+The level of physical activity is defined according to duration (minimum 10-minute sequences), intensity, frequency and the type or context of exercise (travel, work, leisure).

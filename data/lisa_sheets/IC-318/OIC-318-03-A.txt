@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-318-03-A
+|Item_parent=Chronic lymphocytic leukaemia
+|Item_parent_short=Chronic lymphocytic leukaemias
+|Rank=A
+|Title=Knowing the clinical circumstances of the diagnosis of CLL
+|Description=
+|Rubric=positive diagnosis
+|Contributors=
+|Order=3}}
+At the time of diagnosis, patients are ''mostly asymptomatic'' and the clinical examination is therefore normal.
+
+In a minority of patients, the diagnosis may be made during a work-up for ''polyadenopathy and/or splenomegaly''. In CLL, superficial adenopathies are typically "firm, painless and non-compressive". They are ''symmetrical'' and often involve several lymph node areas (cervical, supra-clavicular, axillary and inguinal).
+
+Finally, a complication, particularly an infectious one, may be the cause of the diagnosis.

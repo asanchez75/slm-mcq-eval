@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-206-06-B
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=B
+|Title=Knowing the elements of the diagnosis of purulent pleurisy
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+The diagnosis is based on the presence of at least one of the following items:
+
+Abundant parapneumonic effusion, a partitioned effusion (non-decomposed) on X-ray, ultrasound or CT scan, a macroscopically purulent pleural fluid (or cytologically a predominance of altered neutrophils), a germ detected on direct examination of the pleural fluid, a positive bacterial culture of the pleural fluid.

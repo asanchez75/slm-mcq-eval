@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-325-16-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Know the definition of a medicinal error and how to report it.
+|Description=Able to report a medication error
+|Topic=Definition
+|Contributors=Marie Briet
+|Order=16}}
+
+
+= Medication errors - Reporting =
+
+== Why declare?
+To implement measures that will limit the risk of the error recurring. The measures implemented depend on the nature of the error.
+
+All undesirable events deserve to be analysed in order to understand why they occurred and how to prevent them from happening again. In addition, serious events are reported so that experiences can be shared at regional and national level.
+
+== How to register
+
+=== Via the portal for reporting adverse health events ===
+<nowiki>https://signalement.social-sante.gouv.fr/</nowiki>
+
+* If the error involves an adverse reaction: select the "pharmacovigilance" section.
+* If the error has no adverse effect: select "Medication error with no effect".
+* If the error is the cause of a serious adverse event related to care, select: "Serious adverse events associated with care (SAEs) - declaration - 1st part". The declaration will then be sent to the Regional Health Agency (ARS). Once the root causes have been analysed, part 2 should be sent to the portal. Also select "pharmacovigilance" if the SAE concerns a potential drug-related effect.
+
+It should be noted that a serious adverse event related to healthcare (EIGS) is an ''unexpected event'' with regard to the person's state of health and pathology, the ''consequences'' of which are death, a life-threatening situation or the probable occurrence of a permanent functional deficit, including a congenital anomaly or malformation (art. R. 1413-67 of decree no. 2016-1606 of 25 November 2016).
+
+=== By contacting directly the Regional Pharmacovigilance Centre (CRPV) in your area ===
+Contact details are available on : <nowiki>https://ansm.sante.fr/page/liste-des-centres-regionaux-de-pharmacovigilance</nowiki>
+<br />

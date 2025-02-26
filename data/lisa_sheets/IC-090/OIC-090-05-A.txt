@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-090-05-A
+|Item_parent=Pathology of the salivary glands
+|Item_parent_short=Pathology of the salivary glands
+|Rank=A
+|Title=Clinical iconography of a typical example of parotid swelling
+|Description=These images must be the most classic and common of the two forms.
+|Rubric=Multimedia content
+|Contributors=
+|Order=5}}
+
+[File:Iconographie cancer parotide JEGOUX.jpg|vignette|This patient presented with a large right parotid swelling and partial facial paralysis (paresis of the right VII). Visualisation of the eyebrow elevation defect which indicates paralysis of the frontal branch of VII and the Soucques cilia sign which indicates incomplete paralysis (paresis) of the orbital branch of VII. The association of facial paralysis is strongly suggestive of malignancy. Imaging reveals high diffusion, high perfusion and a washout of less than 30%, which is also suggestive of malignancy. Pathological analysis revealed a cystic adenoid carcinoma].

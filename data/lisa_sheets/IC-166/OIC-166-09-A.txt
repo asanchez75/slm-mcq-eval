@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-166-09-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Knowing the indications and non-indications of paraclinical examinations
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=
+|Order=9}}
+Influenza is diagnosed clinically and no paraclinical examination is necessary.
+
+In hospitalised patients, to guide treatment and hygiene measures: nasopharyngeal swab and Myxovirus influenzae PCR.
+
+Indication of additional tests for epidemiological purposes :
+
+- TROD (Test rapide d'orientation diagnostique) for epidemic and virological monitoring of surveillance networks
+
+- TROD in children to reduce
+
+o additional examinations
+
+o hospital admissions
+
+o antibiotic therapy

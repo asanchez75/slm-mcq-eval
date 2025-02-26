@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-118-07-A
+|Item_parent=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Item_parent_short=The disabled person: the basis of functional and therapeutic assessment (see item 56)
+|Rank=A
+|Title=Know how to assess cognitive impairment (clinical examination, diagnostic approach).
+|Description=Principles of assessment, scales and examples of cognitive impairment.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+'''Cognitive functions''': brain processes by which human beings acquire information, process it, manipulate it, communicate it and use it to act.
+
+
+Search for a disorder in the various cognitive functions ([[Attention disorders SDD-129|129-attention disorders]], [[Memory disorders/cognitive decline SDD-131|131-memory disorders/cognitive decline]], [[Language and/or phonation disorders SDD-134|134-language and/or phonation disorders]], [[Discovery of a brain abnormality on medical imaging examination SDD-226|226-discovery of a brain abnormality on medical imaging examination]], [[Consultation and follow-up of a patient with cognitive disorders SDD-298|298-consultation and follow-up of a patient with cognitive disorders]]:
+
+- Interviewing the patient and family,
+
+- Early detection of intellectual deterioration :
+
+o Mini-Mental State Examination (MMS),
+
+o the Montreal Cognitive Assessment Scale (MOCA).

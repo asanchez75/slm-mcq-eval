@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-122-04-A
+|Item_parent=Main re-education and rehabilitation techniques. (see item 55)
+|Item_parent_short=Main re-education and rehabilitation techniques. (see item 55)
+|Rank=A
+|Intitle=Know the main indications for a rehabilitation programme
+|Description=Indications of rehabilitation in common pathologies.
+|Rubric=Management
+|Contributors=Claire Hentzen
+|Order=4}}
+
+The main indications for a rehabilitation programme are :
+
+*Re-education for pain, joint stiffness and movement problems in the context of orthopaedic, traumatological or simple rheumatological disorders. (''''[[Joint pain SD-067|Joint pain]], [[Spinal pain (cervical, dorsal or lumbar) SD-072|Spinal pain]], [[Joint stiffness SD-056|Joint stiffness]], [[Spinal deformity SD-065|Spinal deformity]], [[Joint deformity SD-070|Joint deformity]], [[Knee instability SD-075|Knee instability]], [[Limb trauma SD-173|Limb trauma]])''''
+*Prevention of the risk of falls, combating the consequences of immobility in the elderly ('''[[Management of a patient in prolonged decubitus SD-276|Management of a patient in prolonged decubitus]], [[Progressive loss of autonomy SD-031|Progressive loss of autonomy]])'''''
+*Respiratory rehabilitation with assistance for respiratory drainage in acute or chronic bronchial pathologies.
+*Treatment of urinary stress incontinence in women ('''[[Urinary incontinence SD-103|Urinary incontinence]]])''''
+*Treatment of language disorders in children and adults (stammering, dysarthria): speech and language assessment and rehabilitation.

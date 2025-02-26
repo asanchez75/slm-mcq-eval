@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-208-13-B
+|Item_parent=Chronic respiratory failure
+|Item_parent_short=Chronic respiratory failure
+|Rank=B
+|Title=Knowing the principles of oxygen therapy and its monitoring in hypercapnic patients
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=13}}
+Hypercapnia, even when severe, is not a contraindication to oxygen therapy.
+
+The saturation target will be 88%<Saturation<92%. Close gas monitoring should assess the impact of oxygen therapy on PaCO2.
+
+In the event of significant alveolar hypoventilation, nocturnal non-invasive ventilation may be initiated in addition to oxygen therapy. The clinical and gasometric criteria for initiating long-term NIV vary according to the underlying pathologies.

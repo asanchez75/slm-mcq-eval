@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-168-04-A
+|Item_parent=Herpes virus infections in immunocompetent individuals
+|Item_parent_short=Herpes virus infections in immunocompetent subjects
+|Rank=A
+|Intitle=Knowing the different clinical phases of herpes virus infection
+|Description=Primoinfection, latency, reactivation
+|Rubric=Physiopathology
+|Contributors=
+|Order=4}}
+The primary infection (initial phase) is followed by a latent infection in certain cell populations (neuronal tropism for HSV and VZV), which is responsible for possible viral reactivations (recurrence) often associated with a triggering factor.

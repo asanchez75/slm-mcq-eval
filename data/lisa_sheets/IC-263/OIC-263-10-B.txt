@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-263-10-B
+|Item_parent=Vascular nephropathy
+|Item_parent_short=Vascular nephropathy
+|Rank=B
+|Title=Know how to diagnose renal infarction, benign nephroangiosclerosis and cholesterol crystal embolism disease.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Jean-Jacques Boffa
+|Order=10}}
+
+'''Renal infarction:'''
+
+*The picture is brutal and may associate :
+**back pain mimicking renal colic" or abdominal pain;
+**macroscopic haematuria;
+**hypertensive flare-up;
+**anuria if the occlusion is bilateral or in a single kidney;
+**fever.
+*Biology:
+**elevation of LDH ;
+**variable elevation of creatinine;
+**inflammatory syndrome.
+*The diagnosis is confirmed by spiral CT scan, MRI angiography or arteriography.
+*This is an emergency because revascularisation (by intraluminal angioplasty or surgery) can only be performed in the first few hours following occlusion. The therapeutic alternatives are fibrinolytics and anticoagulants.
+
+'''[[Follow-up of a patient in chronic renal failure SD-290|Benign nephroangiosclerosis]] :''''
+
+*This is often a diagnosis of exclusion, with no specific elements, and is based on a number of arguments:
+**background: cardiovascular history, cardiovascular risk factors, elderly subject,
+**Long-standing hypertension, often poorly controlled and with repercussions (left ventricular hypertrophy, hypertensive retinopathy);
+**slowly progressive chronic renal failure;
+**poor urinary syndrome:
+**no haematuria or leucocyturia
+**proteinuria absent or moderate;
+**kidneys of normal or reduced size depending on the degree of renal failure, symmetrical in size, with harmonious contours and no renal artery stenosis.
+
+'''Cholesterol embolism diseases:'''
+
+Diagnosis is based on the combination of an atheromatous background, a triggering factor and the clinical picture.
+
+Presentation of cholesterol crystal emboli
+{| class="wikitable"
+|Triggering factors
+|- On atheromatous terrain ++ :
+
+- Aortic surgery.
+
+- Arteriography (performed a few days to several weeks before the first signs appear).
+
+- Anticoagulant or thrombolytic treatment.
+|-
+|Clinical signs
+|- Often a few days or weeks after the triggering factor (latency period).
+
+- Acute renal failure.
+
+- Purple toes, livedo, distal gangrene.
+
+- Asthenia, myalgias.
+
+- Signs of mesenteric ischaemia.
+
+- Neurological signs: stroke, transient ischemic attack, confusional syndrome.
+
+- Vision problems.
+|-
+|Biological signs
+|- Inflammatory syndrome.
+
+- Eosinophilia, hypocomplementemia (these last 2 signs are inconstant).
+|}
+
+
+The diagnosis must be confirmed by one of the following 3 tests to identify the crystals:
+
+*fundus ;
+*skin biopsy of a livedo (risk of non-healing +++);
+*renal biopsy: this shows occlusion of small-calibre arterioles by cholesterol crystal emboli, with a significant inflammatory reaction in the vicinity.
+
+
+Further information is available at the following link: http://cuen.fr/manuel2/spip.php?rubrique21
+
+<br />

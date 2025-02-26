@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-004-05-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Title=Knowing the mechanisms of transmissibility of multi-resistant bacteria (BMR)
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+Definition of multi-resistant bacteria (MRB): bacteria that accumulate acquired resistance to several families of antibiotics, leading to a therapeutic impasse. They can be responsible for community and nosocomial infections. The most common are Enterobacterales producing extended-spectrum b-lactamases (ESBL) and methicillin-resistant Staphylococcus aureus (MRSA).
+
+Highly resistant bacteria (HRB) include carbapenemase-producing Enterobacterales (EPC) and vancomycin-resistant Enterococcus faecium (VRE).
+
+The reservoirs of these bacteria are :
+
+- Skin microbiota: MRSA
+
+- Digestive microbiota: ESBL, VRE, EPC
+
+
+The transmission routes are :
+
+- By contact
+
+Transmission is usually by hand. It can be direct (by hand-carrying) or indirect via a soiled object or equipment, or via the environment.
+
+- By air
+
+o droplets > 5 m (BMR respiratory infection with cough)
+
+o airborne < 5 m (tuberculosis)

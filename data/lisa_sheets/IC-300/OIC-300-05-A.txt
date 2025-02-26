@@ -1,0 +1,75 @@
+{{knowledge objective
+|Identifiant=OIC-300-05-A
+|Item_parent=Tumours of the uterine cervix, tumour of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=A
+|Title=Prevention: understanding the benefits of and procedures for cervical smear tests and HPV testing
+|Description=Know the value of the cervical smear test in cervical cancer screening, the practical procedures for organising it and the vocabulary needed to understand a report on a cervical smear cytology examination.
+|Rubric=Positive diagnosis
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=5}}
+
+Adult cancer prevention/screening SD-303|'''dépistage''']] is currently observed by only 60% of women. The introduction of organised screening is intended to increase compliance.
+
+From the age of 25 until the age of 65, all women, whether vaccinated or not, should continue to be screened for cervical cancer. From the age of 25, women are recommended to undergo a Pap smear, which should be repeated at 1 year if the result is normal. Adult cancer prevention/screening SD-303|screening]'' is then continued every 3 years by UHC until the age of 30.  From the age of 30 until the age of 65, the HPV test replaces the cytological examination, in primary [[Prevention/screening of adult cancers SD-303|'''dépistage''']] of cervical cancer: 3 years after the last cytological examination with a normal result or from the age of 30 in the absence of a previous cytological examination. The interval between two HPV tests is 5 years, provided the test result is negative. An annual clinical examination using a speculum is recommended between screenings.
+[[File:Algorithm for the management of patients offered an HPV test for primary screening (HAS 2019).png|vignette|Algorithm for the management of patients offered an HPV test for primary screening (HAS 2019)]]
+Figure 1 Management algorithm for patients offered an HPV test in primary [[Prevention/screening of adult cancers SD-303|'''dépistage''']] screening (HAS 2019)
+
+The FCU is the reference method for [[Prevention/screening of adult cancers SD-303|'''dépistage''']] cervical cancer. It is a non-invasive test that is easy to perform at low cost.  It has excellent specificity (>95%) but low sensitivity (55-77%). The pre-cancerous period is long, and repeated smears over time can still provide good diagnostic efficacy. In fact, having a smear every 3 years reduces the risk of cervical cancer by 90%. Depending on the results of the Pap smear, various steps are indicated (Table).
+
+Table. Action to be taken according to different ECF results
+{| class="wikitable"
+|Results
+|Course of action
+|-
+|Smear not satisfactory for evaluation
+|To be repeated between 3 and 6 months
+|-
+|Normal smear
+|Repeat after 3 years (except if first smear, repeat after 1 year)
+|-
+|Reactive cellular changes secondary to inflammation, radiotherapy or the presence of an IUD
+|Repeat after 3 years (unless first smear, repeat after 1 year)
+<br />
+|-
+|Squamous cells
+|
+|-
+|Squamous cell atypia of undetermined significance (ASC-US)
+|HPV test or double immunostaining p16/Ki67 and colposcopy if + test
+<br />
+|-
+|Squamous cell atypia: a high-grade lesion cannot be ruled out (ASC-H)
+|Immediate colposcopy (before 6 months)
+<br />
+|-
+|Low grade squamous intraepithelial lesion (LSIL)
+|Immediate colposcopy (before 6 months) or double immunostaining p16-Ki67 and colposcopy if test +.
+<br />
+|-
+|High-grade squamous intraepithelial lesion (HSIL)
+|Immediate colposcopy (before 6 months)
+<br />
+|-
+|Squamous lesion suggesting invasion
+|Immediate colposcopy (before 6 months)
+<br />
+|-
+|'''Glandular cells''''
+|
+|-
+|Endocervical cell, endometrial cell or glandular cell atypia (AGC)
+|HPV test and colposcopy if positive±, endocervical curettage
+
+If > 45 years: uterine exploration
+|-
+|Glandular/endocervical cell atypia suggestive of a neoplastic process
+|Immediate colposcopy (before 6 months)
+|-
+|Endocervical adenocarcinoma in situ
+|Immediate colposcopy (before 6 months)
+|-
+|Adenocarcinoma: endocervical, endometrial, extrauterine or unspecified (ISA)
+|Immediate colposcopy (before 6 months) with endocervical curettage
+|}
+<br />

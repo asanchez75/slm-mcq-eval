@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-005-07-A
+|Item_parent=Medical criminal, civil, administrative and disciplinary liability. The management of errors and complaints; therapeutic hazards
+|Item_parent_short=Penal, civil, administrative and disciplinary medical liability. The management of errors and complaints; the therapeutic hazard
+|Rank=A
+|Title=Knowing the definition of fault
+|Description=None
+|Rubric=Definition
+|Contributors=Bastien Boussat
+|Order=7}}
+
+Since the law of 4 March 2002, doctors' professional obligations have been replaced by legally enshrined patients' rights. Patients may claim that one of their rights has been infringed in order to hold a doctor or healthcare establishment liable. However, the onus is on the patient to prove fault. Article L.1142-1 of the French Public Health Code stipulates that health professionals and establishments are only liable for the harmful consequences of preventive, preventive or therapeutic acts if they are at fault.
+
+'''Patients' rights'''
+
+Infringement of one of these rights may give rise to medical liability for negligence:
+
+- right to health protection ;
+
+- right to respect for dignity ;
+
+- the right not to be discriminated against in access to prevention or care;
+
+- right to privacy and confidentiality of information ;
+
+- the right to receive the most appropriate treatment and care and to benefit from therapies whose effectiveness is recognised and which guarantee the best possible health safety and relief of suffering in the light of proven medical knowledge;
+
+- the right not to be subjected to acts of unreasonable obstinacy ;
+
+- the right to deep and continuous sedation causing an alteration in consciousness maintained until death ;
+
+- the right to receive treatment and care to relieve suffering ;
+
+- right of access to palliative care and support ;
+
+- the right to be informed about your state of health ;
+
+-the right to information on the costs to which the user may be exposed in the course of preventive, diagnostic and therapeutic activities;
+
+- the right to refuse or not to receive treatment
+
+
+The event giving rise to liability must therefore be a proven fault. This fault can take different forms and is usually distinguished as follows:
+
+- technical negligence, which consists of a breach of established medical knowledge or scientific data. This proven medical knowledge constitutes a technical standard to which the judge refers, and may be defined by reference to scientific medical literature and recommendations of good practice. The judge must refer to proven medical knowledge at the time of the disputed medical act;
+
+- breach of a duty of humanism, which refers to the "human" dimension of medical practice, and may result in particular from a breach of professional secrecy or a lack of information that does not allow free and informed consent.
+
+In some cases, the triggering event may take other forms: it may be the defect of a health product, the product being considered defective when it does not offer the safety that can legitimately be expected.

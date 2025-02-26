@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-203-08-A
+|Item_parent=Acute and chronic dyspnoea
+|Item_parent_short=Acute and chronic dyspnoea
+|Rank=A
+|Title=Knowing the second-line complementary examinations according to acute or chronic nature
+|Description=None
+|Rubric= Complementary examinations
+|Contributors=
+|Order=8}}
+[[Reasoned request/prescription and choice of a diagnostic examination SD-178|Reasoned request/prescription and choice of a diagnostic examination]]
+
+'''Acute dyspnoea:'''
+
+*D-dimers +/- imaging to look for pulmonary embolism (see pulmonary embolism item)
+*BNP or NT-proBNP +/- Cardiac ultrasound
+
+'''Chronic dyspnoea:''''
+
+Etiological assessment is based primarily on respiratory function tests:
+
+*Obstructive pathologies: spirometry with flow-volume curve (TVO: FEV1/CV <0.7).  
+**Reversible: asthma
+**Non-reversible: COPD. A plethysmograph may be performed to look for chest distension (CPT>120% of predicted values).
+*Restrictive pathologies: plethysmography (CPT<80% of predicted values).
+**Impaired diffusion (TLCO<0.7) indicates diffuse infiltrative lung disease.
+**Normal diffusion is consistent with pathology of the ventilatory pump (neuromuscular or skeletal diseases). Other tests may more specifically assess the strength of the respiratory muscles (maximum inspiratory pressure, maximum expiratory pressure).
+*Blood gases
+**can be used to detect CKD
+**point to a pathology of the pulmonary exchanger (gasometric shunt effect or increase in the alveolar-arterial difference) or to a pathology of the ventilatory pump (alveolar hypoventilation).
+**the diagnosis of obesity-hypoventilation syndrome (BMI>30kg/m2; PaCO2>45mmHg in the absence of any other cause of alveolar hypoventilation).
+
+Other tests based on clinical and paraclinical findings :
+
+*Cardiac ultrasound:
+**Evidence in favour of heart disease and assessment of systolic pulmonary artery pressure (PAH).
+*Thoracic CT scan: if there is evidence of diffuse infiltrative lung disease.

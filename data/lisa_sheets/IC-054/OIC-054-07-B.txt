@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-054-07-B
+|Item_parent=Dairy in children
+|Item_parent_short=Dairy in children
+|Rank=B
+|Title=Knowing the aetiologies of non-febrile lameness according to age
+|Description=Before the age of 3, between the ages of 3 and 8, in pre-adolescents and adolescents and at any age
+|Rubric=Etiologies
+|Contributors=
+|Order=7}}
+cf Figure [[Diagnostic guidance with decision tree 2C-054-DP-A02]]
+
+Beware of the dramatic consequences of delayed diagnosis of non-diagnostic femoral epiphysitis and the morphological consequences of delayed diagnosis of osteochondritis!

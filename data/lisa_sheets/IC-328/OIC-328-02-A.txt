@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-328-02-A
+|Item_parent=Non-drug therapies and medical devices
+|Item_parent_short=Non-drug therapies and medical devices
+|Rank=A
+|Intitle=Know the definition of a medical device
+|Description=None
+|Rubric=Definition
+|Contributors=Bisseriex Hélène,De Boissezon Xavier
+|Order=2}}
+
+'''Medical device:''' any instrument, apparatus, equipment, material, product (with the exception of products of human origin) including accessories and software, used alone or in combination, for medical purposes in humans, and whose principal intended action is not obtained by pharmacological, immunological or metabolic means ''(ANSM)''.
+
+A new European regulation (EU regulation 2017/745) dating from May 2021 aims to standardise the marketing and commissioning of medical devices within the European Union (without regulating prices and reimbursements by social organisations).
+
+<br />

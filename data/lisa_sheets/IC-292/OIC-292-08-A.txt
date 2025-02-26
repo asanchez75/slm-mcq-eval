@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-292-08-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Know the principles of using tumour markers
+|Description=Know the definition of a tumour marker and its value in the diagnosis and/or monitoring of cancers.
+|Rubric=Definition
+|Contributors=
+|Order=8}}
+Tumour marker tests identify various substances in the blood, urine or certain body tissues that may indicate the presence of cancer. This test can be useful at various stages of the treatment process, from cancer screening to assessing the effectiveness of treatment and patient follow-up. Some tumour markers are specific to a single type of cancer, while others are associated with several different types.
+
+Tumour markers may also be elevated in non-cancerous conditions (e.g. elevation of CA19-9 in cholestasis).
+
+Some markers may be measured for screening purposes (PSA and prostate cancer) or for diagnostic purposes (hCG, alphafetoprotein and germ cell tumours), while other tumour markers will only be measured in situations where cancer is already suspected, for follow-up purposes (ACE and colorectal cancer, CA125 and ovarian cancer).
+
+For some cancers (such as lung cancer), tumour marker assays are not useful. A liquid biopsy, i.e. a blood sample taken to analyse circulating tumour DNA, may be taken.

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-181-16-A
+|Item_parent=Safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing identity surveillance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=16}}
+
+Identitovigilance is the continuous process of collecting, identifying, evaluating and investigating potential adverse events linked to patient identification errors at all stages of the healthcare process.
+
+It is to limit these undesirable events that patients must wear an identification bracelet when they are hospitalised and that professionals are required to check patients' identity before each act of care.

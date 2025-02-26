@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-158-01-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Knowing the definition of sepsis and septic shock in children and adults
+|Description=None
+|Rubric=Definition
+|Contributors=Vincent Dubée
+|Order=1}}
+'''In adults''', infections are classified into three entities according to their level of severity:
+
+*Infection: when there is no criterion for sepsis.
+*Sepsis'': infection complicated by at least one organ failure, secondary to an inappropriate host response to microbial aggression.
+*Septic shock'': sepsis with :
+**persistent arterial hypotension despite appropriate vascular filling, requiring the administration of vasopressors to maintain a mean arterial pressure ≥ 65 mmHg
+**AND the presence of hyperlactatemia > 2 mmol/L
+
+In children, the term ''septic shock'' is used in cases of serious infection complicated by haemodynamic failure (with hypoperfusion and the need for vasoactive drugs or signs of hypoperfusion). The term sepsis, although not validated, may be used in a child with an infection and organ failure.

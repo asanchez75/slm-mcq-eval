@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-323-02-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies from the perspective of correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Argumentation for the evaluation of a medicinal product or non-medicinal therapy
+|Description=Argument a clinical trial publication, meta-analysis and criticise information on the drug
+|Rubric=Epidemiology
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES),Nathanaël Lapidus (CIMES),Agnès Dechartres (CUESP)
+|Order=2}}
+
+'''Level of evidence'''
+
+- = Ability of a study to answer the question posed.
+
+- 3 elements:
+
+*Appropriateness of the protocol to the question asked
+*Existence of bias
+*Power of the study
+
+- Does not depend on the outcome of the study
+
+*The same level of evidence for a negative study as for a positive study if these studies are well conducted.
+
+
+'''Clinical relevance: see [[Clinical relevance 2C-323-DE-A11]]''''

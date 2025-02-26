@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-301-03-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Know the vocabulary needed to understand a Pathological Anatomy and Cytology (PAC) report on a colorectal tumour.
+|Description=Essential diagnostic and prognostic elements (stage I/II/III, degree of differentiation)
+|Section=Additional examinations
+|Contributors=
+|Order=3}}
+This includes a macroscopic description of the specimen, followed by a microscopic description.
+
+The primary tumour is described by its "anatomopathological type", most often a lieberkühnian adenocarcinoma, and its "degree of differentiation" as well-differentiated, moderately-differentiated or poorly-differentiated. The prognosis is poorer with loss of differentiation.
+
+The infiltration of the tumour process into the wall is also prognostic: mucosa: Tis, submucosa: T1, muscularis: T2, subserosa or serosa without crossing it: T3, crossing the serosa: T4.
+
+'''Invasion of lymph nodes''' ''(N 0/+)''' on a number of lymph nodes examined equal to at least 12 is also a prognostic factor, as is, to a lesser degree, the existence of venous and lymphatic tumour emboli and peri-nervous sheathing.
+
+
+
+There is a regularly updated international classification, the main principles of which can be summarised as follows
+{| class="wikitable"
+|Stage I
+|T1-2, N0, M0 (small tumour without lymph node invasion)
+|-
+|Stage II
+|T3-4, N0, M0 (large tumour without lymph node involvement)
+|-
+|Stage III
+|All T, N+, M0 (node positive)
+|-
+|Stage IV
+|All T, all T, M+ (distant metastasis)
+|}

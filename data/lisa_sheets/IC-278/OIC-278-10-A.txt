@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-278-10-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Knowing the clinical signs of severe hepatocellular failure
+|Description=Knowing the signs of severity (factor V < 50%, hepatic encephalopathy)
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=10}}
+'''Icterus associated with severe hepatocellular failure'''
+
+Hyper bilirubinemia is often mixed or predominantly conjugated and is more intense when hepatocellular insufficiency is severe (parameter of Child-Pugh and MELD scores).
+
+The combination of jaundice with hepatic encephalopathy and a drop in prothrombin and factor V levels (<50%) are the criteria for the severity of hepatocellular failure.

@@ -1,0 +1,119 @@
+{{knowledge objective
+|Identifiant=OIC-213-07-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short=Anemia in adults and children
+|Rank=A
+|Title=Knowing the clinical and biological aetiological approach (decision tree) to anaemia
+|Description=Use of VGM, reticulocytes
+|Topic=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+
+== Interpretation of ''mean corpuscular volume (MCV)'' ''([[Anomaly of erythrocyte indices (haemoglobin level, haematocrit...) SD-214|anomaly of erythrocyte indices (haemoglobin level, haematocrit...)]]''' ==
+Anemia
+
+- Microcytic (VGM < 80 fl) ;
+
+- Normocytic (GMV between 80 and 98 fl);
+
+- Macrocytic (GMV > 98 fl).
+<br />
+
+== Interpretation of ''reticulocyte count ([[Anomaly of erythrocyte indices (haemoglobin level, haematocrit...) SD-214|anomaly of erythrocyte indices (haemoglobin level, haematocrit...]])''' ==
+Anemia
+
+- Regenerative (< 120 Giga/l (G/L) or 120,000/mm<sup>3</sup>)
+
+- Regenerative (≥ 120 G/L).
+<br />
+
+== '''Microcytic anaemia''' ==
+
+=== Main causes ===
+- '''martial deficiency:''' often of gynaecological origin in women during their reproductive period and of digestive origin in men or menopausal women;
+
+- Prolonged inflammatory syndrome leading to sequestration of the iron pool;
+
+- thalassaemias (except minor thalassaemias or thalassaemic traits (a or b) which usually only give microcytosis without anaemia).
+
+=== Tests to be carried out ===
+- '''Ferritin assay''' '''Ferritin ([[Ferritin: decrease or increase SD-207|ferritin: decrease or increase]]).'''' Ferritin is decreased in cases of martial deficiency and increased in cases of inflammatory syndrome.
+
+- C-reactive protein (CRP) '''([[Elevation of c-reactive protein (cr) SD-203|elevation of C-reactive protein (CRP)]):'''' inflammatory syndrome
+
+- Hb electrophoresis (2nd<sup>intention</sup> and in cases suggestive of thalassaemia).
+<br />
+
+== ''Aregenerative normocytic anemias'' ==
+
+=== Main causes ===
+'''= Insufficient medullary production'''
+
+- Bone marrow disease: erythroblastopenia, marrow invasion by tumour cells, myelodysplasia;
+
+- '''Chronic renal insufficiency''' by erythropoietin synthesis defect '''([[Follow-up of a patient in chronic renal insufficiency SD-290|suivi d'un patient en insuffisance rénale chronique]])''' ;
+
+- '''Hypothyroidism''' leading to a decrease in basic metabolism;
+
+- '''Inflammatory syndrome''' (during inflammatory syndrome, the anaemia is initially normocytic and then, if prolonged, becomes microcytic) '''([[Elevation of c-reactive protein (cr) SD-203|elevation of C-reactive protein (CRP]]))''';.
+<br />
+
+=== Tests to be carried out ===
+- Creatinine blood test
+
+TSH ultra-sensitive (TSHus)
+
+'''- CRP ([[c-reactive protein (cr) elevation SD-203|C-reactive protein (CRP) elevation])''' ;
+
+- If no obvious cause is identified, if reticulocytes < 10 G/L, or if several blood lines are affected (leukopenia, thrombocytopenia, etc.): ''myelogram'' ''(interpretation of a myelogram)''' ± karyotype.
+<br />
+
+== ''Aregenerative macrocytic anemias'' ==
+
+=== Main causes ===
+- Deficiency of vitamin B9 (folates) or vitamin B12 resulting in a defect in DNA synthesis (other cytopenias are therefore frequently associated) and large erythroblasts called megaloblasts, hence the term megaloblastic anaemia;
+
+- '''Hypothyroidism''' leading to a decrease in basic metabolism;
+
+- '''Myelodysplasia''' resulting in qualitative abnormalities of the erythroblastic lineage (and frequently other lineages).
+<br />
+
+=== Tests to be carried out ===
+- Dosage of vitamins B9, B12 and TSHus
+
+If normal: ''myelogram ([[Interpretation of a myelogram SD-221|interpretation of a myelogram]])'' with karyotype.    
+<br />
+
+== ''Regenerative normo- or macrocytic anaemias'' ==
+
+=== Main causes ===
+- Acute haemorrhage (but reticulocytosis, and therefore regenerative character, usually only appears after 48 hours);
+
+- '''Hemolysis''' which can be :
+
+o Corpuscular (Hb disorders, enzymopathies or disorders of the RBC membrane) ;
+
+o Extra-corpuscular: destruction of RBCs by a toxic (e.g. lead poisoning), infectious (e.g. malaria), mechanical (mechanical haemolytic anaemia; e.g. thrombotic microangiopathy) or immunological process (autoimmune haemolytic anaemia (AHAI)).
+
+- '''Correction of the cause of non-regenerative anaemia''', most often deficiency anaemia (e.g. after folic acid supplementation for folate deficiency anaemia).
+<br />
+
+=== Tests to be carried out ===
+- Look for signs of haemolysis:
+
+o LDH (increased)
+
+o Free bilirubin (increased)
+
+o ''Haptoglobin'' (decreased, often indosable), the most sensitive test for diagnosing haemolysis
+
+- If haemolytic anaemia is confirmed :
+
+o '''Frottis sanguin''' ''(prescription and analysis of the blood smear)''' in search of morphological abnormalities of the RBC:
+
+§ Schizocytes (RBC fragments) in favour of a mechanical cause
+
+§ Testing for parasites (malaria) when travelling to endemic countries
+
+o ''Direct anti-globulin test'' (formerly known as the direct Coombs test), positive for HAI

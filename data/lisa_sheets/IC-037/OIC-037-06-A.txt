@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-037-06-A
+|Item_parent=Voluntary termination of pregnancy
+|Item_parent_short=Voluntary termination of pregnancy
+|Rank=A
+|Title=Knowing the structures providing abortion care
+|Description=Health establishments, health centres run by gynaecologists, general practitioners, midwives, etc.
+|Section=Management
+|Contributors=Arthur Foulon,Philippe Deruelle,Aubert Agostini
+|Order=6}}
+
+Abortions can be carried out in health establishments or in a family planning centre. They can also be carried out in private practice, but only for medical abortions up to 9 weeks' gestation. Women having an abortion may also consult a gynaecologist, general practitioner or midwife for the first consultation, even if the latter is not attached to a centre performing abortions.

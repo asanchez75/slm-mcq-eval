@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-181-04-A
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=A
+|Title=Knowing the definition of health products intended for human use.
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=4}}
+
+Human health products include medicines, biological products, medical devices, cosmetics and tattoo products.
+
+All medicinal products are covered, whether before or after marketing authorisation. This includes raw materials, blood-derived medicinal products, narcotics, psychotropic drugs, vaccines, homeopathic products, herbal products and magistral and hospital preparations.
+
+Biological products include organs, tissues and cells used for therapeutic purposes, cell and gene therapy products, labile blood products and ancillary therapeutic products (e.g. graft preservation media).
+
+Medical devices include all devices used for therapeutic or diagnostic purposes (including in vitro diagnostics) and used on technical platforms.

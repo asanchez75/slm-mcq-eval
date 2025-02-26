@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-066-63-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the DSM-5 criteria for adjustment disorder
+|Description=Semiology; Chronology
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=63}}
+
+A. Occurrence of emotional or behavioural symptoms in response to one or more identifiable stressors, within 3 months of exposure to the stressor(s).
+
+B. These symptoms or behaviours are clinically significant, as evidenced by one or two of the following: 1. marked distress out of proportion to the severity or intensity of the stressor, taking into account the external context and cultural factors that may influence symptom severity and presentation. 2. significant impairment of social, occupational or other important functioning.
+
+C. The disturbance caused by the stressor does not meet the criteria of another mental disorder and is not simply an exacerbation of a pre-existing mental disorder.
+
+D. The symptoms are not those of normal grief.
+
+E. Once the stressor or its consequences have ended, the symptoms do not persist beyond a further period of 6 months.

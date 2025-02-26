@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-264-09-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing the causes of worsening CKD
+|Description=Look for a cause of additional AKI, break in the progression slope
+|Topic=Positive diagnosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=9}}
+
+If the fall in GFR accelerates, an acute cause must be sought, in addition to the CKD:
+
+* extracellular dehydration with acute functional renal failure
+* drug nephrotoxicity
+* obstruction
+* urinary tract infection.

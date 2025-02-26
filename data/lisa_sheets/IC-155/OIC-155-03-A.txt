@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-155-03-A
+|Item_parent=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Item_parent_short=Bacterial and mycotic skin and mucous membrane infections of adults and children
+|Rank=A
+|Title=Knowing the factors favouring cutaneous and mucosal candida and mycosis infections
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=3}}
+
+{| class="wikitable"
+|+
+|
+|'''Dermatophytes''''
+|'''Yeasts'''
+|-
+|'''Local favouring factors''''
+|Contamination by contact with scales on the ground (small fold intertrigo), by contact with animals (cutaneous dermatophytes, ringworm)
+Use of combs or brushes contaminated with scales (ringworm with human-to-human transmission)
+Epidermal invasion
+
+Contamination favoured by maceration (folds in obese people, insufficient drying, closed or safety footwear, repeated contact with water, etc.)
+|*Moisture, maceration (repeated contact with water, occlusion, obesity, wearing gloves, perspiration, etc.)
+
+<nowiki>*</nowiki>pH acid
+
+<nowiki>*</nowiki>chronic irritations
+
+<nowiki>*</nowiki>xerostomy
+|-
+|'''General favouring factors''''
+|
+|*terrain (immunosuppression, extreme ages of life and pregnancy)
+
+<nowiki>*</nowiki>medications (immunosuppressants, antibiotics)
+<br />
+|}

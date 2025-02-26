@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-338-02-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Title=Know how to diagnose histamine angioedema (urticaria)
+|Description=Diagnosis of profound urticaria.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+
+
+* Angioedema is localised oedema of the subcutaneous or submucosal tissues: subcutaneous or submucosal swelling that is localised, firm, painful, not erythematous and not pruritic. In the head, it predominates on the eyelids, lips, uvula and tongue.  
+* Histaminic angioedema is
+** is often associated with urticaria
+** is sensitive to anti-histamines and glucocorticoids
+** usually resolves within 24 to 48 hours

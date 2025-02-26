@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-285-05-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the five main mechanisms of chronic diarrhoea
+|Description=Motor, osmotic, secretory, malabsorption and maldigestion, lesional
+|Rubric=Etiologies
+|Contributors=
+|Order=5}}
+The underlying pathophysiological mechanisms are an important aid to clinical reasoning and include:
+
+🡺 Secretory diarrhoea
+
+🡺 Motor diarrhoea
+
+🡺 Osmotic diarrhoea
+
+🡺 Diarrhoea caused by malabsorption
+
+🡺 Lesional diarrhoea

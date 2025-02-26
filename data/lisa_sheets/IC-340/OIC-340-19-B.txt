@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-340-19-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Knowing the principles of assessing the benefit/risk ratio in the management of a patient with stroke
+|Description=Transmission of informed information, taking account of any advance directives in the event of an unfavourable outcome.
+|Section=Follow-up and/or prognosis
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=19}}
+- Information given to patients and their families in the acute phase of stroke must be cautious:
+
+- The prognosis is difficult to predict (existence of good or bad prognostic factors) ([[Announcement of a diagnosis of serious illness to the patient and/or his family SD-327|Announcement of a diagnosis of serious illness to the patient and/or his family]] ; [Pre-operative explanation and obtaining consent for an invasive diagnostic or therapeutic procedure SD-239|Pre-operative explanation and obtaining consent for an invasive diagnostic or therapeutic procedure]] ; [[Explain a treatment to the patient (adult/child/adolescent) SD-352|Explain a treatment to the patient]])

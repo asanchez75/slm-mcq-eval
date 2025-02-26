@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-265-05-A
+|Item_parent=Urinary lithiasis
+|Item_parent_short=Urinary lithiasis
+|Rank=A
+|Title=Know the definition of renal colic
+|Description=Sudden pain due to tension in the upper excretory tract.
+|Rubric=Positive diagnosis
+|Contributors=Romain Boissier
+|Order=5}}
+
+Renal colic is a [[Acute low back pain|lumbo-abdominal pain syndrome 270]] resulting from sudden tension in the excretory tract of the upper urinary tract upstream of an obstruction, whatever the cause. It is a [[Acute lumbar pain|lumbago 270]] homolateral to the obstruction radiating along the flank towards the external genitalia.

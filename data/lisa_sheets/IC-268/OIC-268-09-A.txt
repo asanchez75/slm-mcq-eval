@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-268-09-A
+|Item_parent=Hypercalcaemia
+|Item_parent_short=Hypercalcaemia
+|Rank=A
+|Title=Know the principles of treatment of severe hypercalcaemia
+|Description=Know how to assess the degree of urgency and implement the first measures depending on the aetiology (hydration, biphosphonates, corticoids, extra-renal purification) and refer to a specialist service depending on the cause.
+|Rubric=Management
+|Contributors=B. MOULIN,M. FLAMANT
+|Order=9}}
+
+. Acute hypercalcaemic crisis (corrected calcaemia > 3.5 mmol/L)
+
+*is a therapeutic emergency
+*requires symptomatic treatment in the first instance
+*followed secondarily by treatment of the cause (discontinuation of treatment, treatment of cancer, endocrine disease, removal of a parathyroid adenoma, remobilisation, etc.).
+
+. Symptomatic treatment of severe hypercalcaemia :
+
+*perfusion of isotonic saline 9‰ (correction of DEC hypercalciuriant effect of volemic expansion).
+*anti-resorptive treatment with injectable bisphosphonate (frequent bone involvement).
+*dose depends on severity of hypercalcaemia and renal function
+*discontinuation of inducing treatments (calcium and vitamin D, thiazides, lithium, digitalis)
+*corticosteroids for hypercalcitriolaemia (granulomatosis, lymphoma) or myeloma
+*dialysis with a low-calcium dialysis bath if previous treatments are ineffective
+
+<br />

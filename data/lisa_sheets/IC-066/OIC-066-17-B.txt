@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-066-17-B
+|Item_parent=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for pharmacological treatments
+|Description=Refer to item 74
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=17}}
+
+An SSRI-type antidepressant for moderate to severe EDC, as first-line treatment, at an effective dose depending on tolerance. Response is assessed after at least 2 weeks of treatment, with a delay in onset of action of several weeks. Discontinuation of an antidepressant after a first CDE is discussed 6-12 months after clinical remission (risk of relapse 6-8 months after stopping the drug) (Item 74).
+
+An antipsychotic should be combined with the antidepressant if psychotic features are present. A benzodiazepine anxiolytic should be combined at the start of treatment in cases of severe anxiety. A hypnotic treatment may be proposed for a limited period (4 weeks) after the introduction of sleep hygiene rules (Item 74).
+
+Monitor the efficacy and tolerability of treatment, the risk of suicide and the risk of manic episodes on antidepressants (Item 74).
+
+In the case of recurrent depressive disorder, antidepressants (molecule and dosage) should be continued after symptomatic remission ± psychotherapy for a period of 2 years.
+
+Structured psychotherapy is indicated as monotherapy for mild CDD and in combination with antidepressants for moderate to severe CDD. The therapies recommended are cognitive-behavioural and interpersonal therapies (Item 73).

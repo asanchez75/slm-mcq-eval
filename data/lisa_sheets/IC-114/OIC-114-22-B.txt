@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-114-22-B
+|Item_parent=Exanthema and erythroderma of adults and children. (see item 164)
+|Item_parent_short=Exanthema and erythroderma of adults and children. (see item 164)
+|Rank=B
+|Title=Photograph of a megalerythema
+|Description=Picture of megalerythema in children
+|Rubric=Multimedia content
+|Contributors=
+|Order=22}}
+
+[[File:Megalerytheme3.jpg|vignette|Megalerytheme]]
+[[File:Megalerytheme2.jpg|thumbnail|Megalerytheme]]
+[[File:Megalerytheme1.jpg|thumb]]

@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-080-09-B
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=B
+|Title=Knowing the risks associated with doping and doping behaviour
+|Description=Institutional risks and health risks (pharmacological action of the molecule, development of addictive behaviour).
+|Section=Monitoring and/or prognosis
+|Contributors=
+|Order=9}}
+The use of doping products is likely to lead to
+
+* institutional risks
+* and ''health'' risks
+** pharmacological action of the drug
+** evolution towards <u>addictive behaviour</u>.

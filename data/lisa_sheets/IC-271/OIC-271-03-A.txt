@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-271-03-A
+|Item_parent=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Item_parent_short=Gastro-oesophageal reflux disease in infants, children and adults. Hiatal hernia
+|Rank=A
+|Title=Knowing complaints suggestive of GERD and signs suggestive of neoplastic pathology
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The diagnosis of gastro-oesophageal reflux disease (GERD) is most often clinical and relies mainly on questioning to look for typical and atypical signs.
+
+A. ''Typical'' GERD combines the following 3 signs:
+
+1) Pyrosis (most characteristic sign): sensation of ascending retrosternal burning (Specificity: 90%)
+
+2) Regurgitation: acidic, biliary and/or alimentary gastric contents flowing back into the mouth without effort or nausea.
+
+3) Postural syndrome: signs 1 and 2 favoured by decubitus (nocturnal period) or anteflexion of the trunk ("yaw sign").
+
+NB: There are "pathological" cases of GERD without pyrosis or regurgitation.
+
+
+'''B. Atypical'' symptoms (''atypical'' GERD)
+
+Dry cough, angina-like chest pain, dental erosions, certain types of laryngitis. The link remains debated for other symptoms: asthma, pulmonary fibrosis, pharyngitis, sinusitis, recurrent otitis media. The difficulty lies in determining the causal link between the symptoms experienced and GERD.
+
+In practice, other more frequent and/or urgent causes of chronic cough or chest pain should be ruled out before exploring the potential GERD responsible for these symptoms.
+
+C. Signs suggestive of neoplastic pathology: dysphagia, weight loss, etc.

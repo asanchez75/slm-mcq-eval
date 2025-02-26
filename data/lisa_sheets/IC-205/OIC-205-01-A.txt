@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-205-01-A
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=A
+|Title=Know the definition of haemoptysis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Bleeding from the subglottic airways.

@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-015-03-B
+|Item_parent=Psychiatric care without consent
+|Item_parent_short=Psychiatric care without consent
+|Rank=B
+|Title=Knowing the principles of the July 2011 law: application methods and consequences of these procedures
+|Description=Procedures Necessary documents
+|Rubric=Taking charge
+|Contributors=Pierre Vidailhet
+|Order=3}}
+<ins> </ins>
+{| class="wikitable"
+|'''Types of measures'''
+|'''SPDT'''
+|'''SPDT emergency'''
+|'''SPPI'''
+|'''SPDRE'''
+
+'''(Art. L3213-1 du CSP)''''
+|-
+|'''<ins> </ins>'''
+
+'''<ins> </ins>'''
+
+'''<ins> </ins>'''
+
+'''<ins> </ins>'''
+
+'''<ins> </ins>'''
+
+'''Pieces'''
+
+'''Necessary'''
+|<nowiki>-2 CM, of which </nowiki><s>1</s><ins>the 1st</ins> carried out by a doctor not practising in the host establishment
+
+<ins> </ins>
+
+-Handwritten Third Party Request (accompanied by a copy of his/her ID)
+|<nowiki>-1 CM carried out by a doctor </nowiki><s>(including from the host establishment)</s>
+
+<ins> </ins>
+
+<ins> </ins>
+
+-Third party request (idem SPDT)
+|<1 CM carried out by a doctor not practising in the host establishment</nowiki>.
+|<nowiki>-1 CM carried out by a doctor not practising in the host establishment</nowiki>
+|-
+|'''Introduction of the measure''''
+| colspan="3" |<ins> </ins>
+
+Decision by the head of the establishment
+
+After checking the identity of the person and the validity of the documents
+|Prefectoral decree
+|-
+|Initial period
+
+'<nowiki/>'''''of observation and care''''''
+| colspan="4" |-Complete somatic medical examination within 24 hours, recorded in the file
+
+-24h CM
+
+-72h CM
+|-
+|'''Continuous full hospitalisation after the initial period'''
+| colspan="4" |<s>Before</s><ins> Between the 6th<sup> and</ins> the 8th<sup> day</sup> : Reasoned opinion (with CM) from a psychiatrist at the host establishment
+
+Before the 12th day: hearing with the JLD <ins>.</ins>.
+
+Every month: maintenance CM by a psychiatrist from the host institution <ins>.</ins>.
+
+Every 6 months: JLD hearing <ins>.</ins>.
+
+Every year: Opinion of a multidisciplinary panel<ins>.</ins>.
+|-
+|Lifting of the measure
+
+'''By the initiator (director/prefect)'''
+| colspan="4" |-On the advice of the psychiatrist (CM)
+
+-At the request of the JLD (release) or the CDSP, which may be seized by the patient
+
+-At the request of a Third Party if SPDT (with the possibility for the psychiatrist to oppose it in case of imminent danger)
+|}
+'''CSP : Code de la santé publique ; CM : certificat médical ; JLD : juge des libertés et de la détention ; CDSP : commission départementale des soins psychiatriques.'''
+
+SPSCs always begin with 72 hours of full hospitalisation (HC)''. After 72 hours, it may be decided (72-hour CM): either to continue with the HC, or a '''care programme''', the terms of which are prescribed by a psychiatrist from the host establishment and are specified in the 72-hour CM: most often outpatient care (but also home care, sequential hospitalisation times, <s>...).</s><ins>day care, etc.).</ins>.

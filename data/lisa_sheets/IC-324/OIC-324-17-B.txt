@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-324-17-B
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=B
+|Title=Knowing the specific characteristics of "pharmacopoeial" medicines
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=17}}
+
+
+== Self-medication drugs must meet certain conditions set by the ANSM ==
+
+* The risk-benefit ratio must be highly favourable.
+* The targeted pathology must be common and benign.
+* The packaging, dosage, labelling and package leaflet must be appropriate for self-medication (short-term).
+* The patient must be warned of the need to consult a doctor if symptoms persist.
+
+<br />
+
+== Certain candidate drugs are not eligible for safety reasons ==
+
+* Where there are major contraindications or a significant risk of drug interactions,
+* Medicines intended for paediatric use that are not safe enough for self-medication.

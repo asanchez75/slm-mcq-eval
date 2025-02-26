@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-334-21-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, trauma victims with limb and/or pelvic trauma, ...
+|Rank=B
+|Title=Knowing the pathophysiology of intrathoracic organ damage after trauma
+|Description=To describe the mechanisms and incidence of intrathoracic organ damage.
+|Rubric=Physiopathology
+|Contributors=
+|Order=21}}
+
+{| class="wikitable"
+|'''Penetrating trauma (10%)''''
+|'''Closed trauma (90%)'''
+|-
+|
+*Injuries caused by knives or firearms
+*Direct injury from projectile or blunt object +/- blast (ballistic trauma)
+*Beware of deceptive entry points at a distance from the thorax: injuries in the trajectory of the projectile or blunt object.
+|
+*Compression/crushing: parietal lesions, pulmonary or cardiac contusion, diaphragmatic rupture, etc.
+*Sudden deceleration: stretch/shear injuries: rupture of the aortic isthmus, bronchial rupture, etc.
+*Blast: transmission of overpressure and depression waves to intrathoracic organs)
+|}

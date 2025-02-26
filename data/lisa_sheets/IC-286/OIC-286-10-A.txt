@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-286-10-A
+|Item_parent=Acute diarrhoea and dehydration in infants, children and adults
+|Item_parent_short=Acute diarrhoea and dehydration in infants, children and adults
+|Rank=A
+|Title=Know the principles of therapeutic management of acute diarrhoea
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=10}}
+''1-In all cases, treat or prevent dehydration''
+
+- Most often by mouth. Prefer sweet and salty drinks (oral rehydration solution/WHO solution). Daily weight monitoring.
+
+- Intravenously, in the event of vomiting, weight loss, severe dehydration, collapse or ionic disorders (hypokalaemia, dysnatraemia, acute renal failure). The type and volume of fluids used should be adapted to the amount lost and to the blood ionogram.
+
+Always monitor the hydration status of at-risk patients clinically and biologically.
+
+2- Hygienic and dietary measures: hand washing, regular disinfection of sanitary facilities to prevent transmission (often orofaecal). Isolation and hygiene measures adapted to the micro-organism in question in the hospital environment. Clostridioides difficile is a spore-forming bacterium that is resistant to hydro-alcoholic gel and requires hands to be rubbed with soap first.
+
+3- Symptomatic treatment: no residue diet as long as stools are liquid (discussed in infants). Transit slowers (loperamide) are contraindicated in cases of dysenteric syndrome and/or high fever. Anti-secretory agents (racecadotril or acetorphan) are possible, but of very limited effectiveness.
+
+4- Antibiotic therapy. This is not systematic. It is not necessary in cases of brief diarrhoea or presumed viral gastroenteritis.
+
+Probabilistic antibiotic therapy, started rapidly (<48 hours from onset) and after microbiological examinations of the stools, is indicated in the event of an invasive mechanism (dysenteric syndrome, glairo-bloody emissions) with signs of severity: macrolide (azithromycin) or 3rd<sup>th</sup> generation cephalosporin if the patient requires hospitalisation.

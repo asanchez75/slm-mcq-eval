@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-348-13-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Know the main causes of ARF in children (haemolytic uraemic syndrome (HUS), dehydration, shock, etc.) and the hygiene and dietary measures to prevent HUS.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=13}}
+
+==Specificity of AKI in children (College of Paediatrics)==
+ARF in children is defined as an alteration in renal function less than 3 months old: rise in creatinine, fall in GFR and/or oliguria/anuria (inconstant in paediatrics).
+
+The most common causes of ARF in children are :
+
+*Of a functional nature linked to episodes of extracellular dehydration (gastroenteritis, etc.);
+*Organic ARF:
+*with haemorrhagic or toxic-infectious shock situations may be the cause of ATN;
+*with acute glomerulonephritis: post-infectious (streptococcus A or staphylococcus with nephritic syndrome and transient C3 collapse), rheumatoid purpura, IgA nephropathy;
+*Post-diarrhoeal HUS or typical HUS: secondary to infection with shigatox-producing E. Shigatoxin-producing coli (STEC) is the leading cause of organic ARI before the age of 3. Presentation: digestive prodromes then state phase with triad: intravascular ''haemolytic anaemia'' (drop in haptoglobin), mechanical (schizocytes) with ''hrombocytopenia'': thrombotic microangiopathy and ''organic ARF''. Possible extrarenal damage (CNS, digestive, cardiac)
+
+Particularities of ''typical'' HUS in children :
+
+*Mortality 1 to 2%;
+*30% sequelae of chronic kidney disease;
+*Regular follow-up: annual monitoring of BU and BP, ACE inhibitors in case of proteinuria and/or hypertension and nephroprotection for all (see CKD section). Prevention +++
+*No unpasteurised dairy products or undercooked beef before the age of 3;
+*Wash fruit and vegetables and drink treated water;
+*Washing hands before preparing meals and after using the toilet and kitchen utensils;
+*In the event of an AEG, avoid swimming in public places;
+*Avoid contact with cattle and their environment before the age of 3;
+*Declaration of cases to Santé Publique France and compulsory declaration of food poisoning in the event of grouped cases.

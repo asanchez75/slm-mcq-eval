@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-332-03-B
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=B
+|Title=Know the pathophysiology of shock states according to their aetiology.
+|Description=Know the main haemodynamic, inflammatory and metabolic mechanisms leading to organ failure.
+|Rubric=Physiopathology
+|Contributors=Julien Poissy
+|Order=3}}
+
+The four nosological frameworks correspond to different pathophysiologies and haemodynamic profiles.
+<br />
+{| class="wikitable"
+|Type of shock
+|Cardiogenic :
+<br />
+|Hypovolemic :
+<br />
+|Distributive :
+<br />
+|Obstructive :
+
+Circulatory obstruction
+|-
+|Key pathophysiological elements
+|Cardiac failure resulting in reduced cardiac output
+<br />Decreased blood volume
+|Reduced blood volume responsible for reduced cardiac output
+|Complex interrelated phenomena:
+
+-Relative hypovolaemia" due to vasoplegia. The content becomes unsuited to the container
+
+-microcirculatory shunts through vascular redistribution: hypovascularised areas
+
+-Inflammatory and metabolic abnormalities. Mitochondrial dysfunction
+
+
+|'''Increased afterload'''''
+
+-post-charge VD if EP
+
+-reduced venous return if tamponade or compressive pneumothorax
+|-
+| colspan="5" |
+|-
+|Hemodynamic profile
+|
+|
+|
+|
+|-
+|Cardiac output
+|↓
+|↓
+|Variable
+|↓
+|-
+|Cardiac Preload
+|↑
+|↓↓
+|↓
+|↑
+|-
+|Cardiac afterload/systemic vascular resistance
+|variable
+|↑
+|↓↓
+|↑
+|}
+
+
+In the initial phase of septic shock, cardiac output may be elevated as a result of cardiac hyperkinesia due to vasoplegia.
+
+In obstructive shock secondary to pulmonary embolism, it is the afterload of the right heart that is increased. Preload falls as a result of reduced venous return in pericardial tamponade and compressive pneumothorax. This is known as "pump deflation".
+
+An increase in systemic vascular resistance can be understood as vasoconstriction, and a decrease in systemic vascular resistance as vasodilation.

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-104-15-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Intitle=MRI of typical MS
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=15}}
+
+[[File:MS LiSA.jpg|vignette|2017 revision of acDonald criteria]]
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+''For more details, consult the College of Neurology's guidelines''.
+
+([[Identify/recognise the different imaging examinations (type/window/sequences/incidence/injection) SD-233|identify/recognise the different imaging examinations (type/window/sequences/incidence/injection)]])

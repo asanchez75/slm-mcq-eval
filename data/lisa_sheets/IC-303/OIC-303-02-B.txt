@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-303-02-B
+|Item_parent=Stomach tumours
+|Item_parent_short=Stomach tumours
+|Rank=B
+|Title=Descriptive epidemiology: incidence and prevalence
+|Description=Knowing the incidence and prevalence of stomach cancers
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+The incidence of adenocarcinoma of the stomach is falling steadily in France, with 6,500 new cases each year. The average age of onset is 70, but there are also forms in younger people, particularly if there is a genetic predisposition (see risk factors).

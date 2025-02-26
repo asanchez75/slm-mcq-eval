@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-225-11-B
+|Item_parent=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Item_parent_short=Arteriopathy of the aorta, visceral arteries and lower limbs; aneurysms
+|Rank=B
+|Title=Know the main aetiologies of abdominal aortic aneurysms and the principles of screening.
+|Description=None
+|Rubric=Etiologies
+|Contributors=Christian Boissier, Anne Long, Lucie Salomon Du Mon
+|Order=11}}
+
+AAAs are frequently associated with atherosclerosis (coronary arteries, carotid arteries, arteries of the lower limbs, renal and digestive arteries). The existence of familial forms leads us to suspect a genetic component in some cases. Vascular prostheses can be complicated by false anastomotic aneurysms.
+
+In rare cases, this may be due to: an infectious aneurysm, the aneurysmal evolution of an aortic dissection, hereditary connective tissue dystrophies (Marfan's disease, vascular Ehlers Danlos disease, Loeys Dietz syndrome), inflammatory aortitis (Takayasu's disease, Horton's disease and Behçet's disease).
+
+AAA must be detected by ultrasound of the abdominal aorta (''discovery of an abdominal anomaly on medical imaging''). This screening is recommended for patients at risk, who are :
+
+*All arteriopaths;
+*Men aged 60 to 85;
+*Women aged 60 to 85 (hypertensive or smokers);
+*Men and women over 50 with a family history of aortic aneurysm in first-degree relatives.

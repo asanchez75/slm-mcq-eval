@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-294-18-A
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=A
+|Title=Knowing the decision-making process for implementing treatment, including the multidisciplinary consultation meeting (RCP).
+|Description=Describe the process for deciding on and implementing treatment, including the multidisciplinary consultation meeting (HAS criteria), the main stages in the announcement process and the personalised care plan.
+|Rubric=Management
+|Contributors=Jean-Pierre Lotz
+|Order=18}}
+
+<br />The decision to resort to anti-tumour treatment (surgery, radiotherapy or medical treatment) is the result of a collegial decision, which must be taken at a multidisciplinary consultation meeting (RCP).
+
+According to the 2014 Haute Autorité de Santé criteria, the RCP must meet the following criteria:
+
+- membership of a cancer network ;
+
+- must be attended by at least three doctors from different specialities, so that they can give a relevant opinion on all the procedures envisaged;
+
+- Each case must be presented at the initial phase of treatment, in the event of a relapse or a change of treatment line;
+
+- in the case of a clinical situation for which standard management is indisputably valid, this can be started without waiting for a consultation meeting, but the case file will have to be presented to the PCR at a later date so that the decision can be ratified there and the management can be recorded and archived;
+
+- the decision taken is documented, and is then submitted to the patient and explained.
+
+Since the 2003-2007 Cancer Plan, an announcement system has been in place to improve the way in which the disease is announced. This system is based on four phases, corresponding to four stages in the patient's care by medical or nursing staff:
+
+- medical time: one or more consultations dedicated to the announcement, delivery of a personalised care programme (PPS). As an immediate follow-up to the announcement, the personalised care plan is given to each patient. It formalises the proposed therapeutic management decided at the PCR. It includes the contact details of the referring doctor and the referring healthcare team, the contact details of the trusted support person and a provisional timetable for care and follow-up;
+
+- care support: the patient and/or his family can meet with a care provider (usually a nurse) after the medical consultation to receive information on the course of treatment and to be put in contact with other healthcare professionals if necessary (psychologist, social worker);
+
+====- access to a support care team;[edit wikicode]====
+- a time for coordination with the general practitioner: the general practitioner is informed in real time and must be involved in the care pathway.
+
+At the end of treatment, a personalised post-cancer programme (PPAC) will be drawn up.
+
+See: [[Learn about the 2C-295-PC-A01 announcement system]]

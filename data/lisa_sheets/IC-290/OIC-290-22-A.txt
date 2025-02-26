@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-290-22-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Intitulé=Knowing prevention by population: universal, selective or targeted
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=22}}
+cf. Levels of prevention

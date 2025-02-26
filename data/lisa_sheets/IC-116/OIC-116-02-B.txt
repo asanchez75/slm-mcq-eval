@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-116-02-B
+|Item_parent=Prurit
+|Item_parent_short=Prurit
+|Rank=B
+|Title=Knowing the physiopathological mechanisms of pruritus
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=2}}
+The pathophysiology of pruritus is complex. Histamine is mainly involved in urticaria; in other etiologies of pruritus, many mediators are involved. Pruritus most often originates in the skin, but can sometimes originate downstream of the skin, in the neuronal transmission pathways (central or peripheral nervous system).

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-066-46-B
+|Item_parent=Diagnosing: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Item_parent_short=Diagnose: depressive disorder, anxiety disorder, obsessive-compulsive disorder, post-traumatic stress disorder, adjustment disorder, personality disorder
+|Rank=B
+|Title=Knowing the indications for pharmacological treatments in children and adolescents
+|Description=Renovate item 74
+|Rubric=Management
+|Contributors=El-Hage Wissam
+|Order=46}}
+
+SSRIs to be used in the event of failure of non-pharmacological treatment alone (item 74).

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-050-07-B
+|Item_parent=Genito-scrotal pathology in boys and men
+|Item_parent_short=Genito-scrotal pathology in boys and men
+|Rank=B
+|Title=Know the general principles of management of testicular torsion, necrotizing fasciitis of the external genitalia, phymosis, paraphymosis.
+|Description=None
+|Rubric=Management
+|Contributors=Cédric Lebâcle, Alice Faure
+|Order=7}}
+
+
+==''Torsion of the spermatic cord:'''==
+
+*Spermatic cord torsion is a diagnostic and therapeutic emergency requiring immediate surgical scrotal exploration to confirm the diagnosis, remove the ischaemia by untwisting the spermatic cord and perform an orchidopexy if the testicle appears viable. Contralateral orchidopexy may be performed at the same time or at a later date. If the testicle is not viable, orchiectomy is necessary.
+
+*No further investigations should delay surgical management.
+*The patient and his family must be warned of the risk of orchiectomy and sequelae of testicular atrophy if the testicle has been preserved.
+
+==''Necrotizing fasciitis:'''==
+
+*The treatment of necrotising fasciitis of the external genitalia is multidisciplinary, based on the following management options:
+**medical: in an intensive care unit with antibiotic therapy combining C3G and an aminoglycoside combined with an anti-anaerobic antibiotic.
+**Surgical: under general anaesthetic as an emergency measure, with surgical debridement of necrotic tissue without any closure A urinary or digestive diversion may be necessary.
+**hyperbaric oxygen therapy.

@@ -1,0 +1,100 @@
+{{knowledge objective
+|Identifiant=OIC-302-03-B
+|Item_parent=Cutaneous, epithelial and melanoma tumours
+|Item_parent_short=Cutaneous, epithelial and melanoma tumours
+|Rank=B
+|Title=Knowing the epidemiology of skin tumours
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+Epidemiology of cutaneous carcinomas
+
+The incidence of cutaneous carcinomas is increasing.
+
+Basal cell carcinoma (BCC) is the most common skin cancer and even the most common of all cancers, with an incidence of around 150 new cases per 100,000 inhabitants per year in France. Squamous cell carcinoma is rarer (30 cases/100,000 inhabitants per year).  Squamous cell carcinoma (SCC) is 2 to 3 times more common in men than in women.
+
+
+The risk of developing carcinoma is higher in subjects with a light phototype (I and II) and the incidence increases with age.
+
+Sun exposure is the main factor promoting carcinomas, both chronic and cumulative exposure (EC and BCC) and intense and intermittent sun exposure (BCC).
+
+Immunosuppression (organ transplants, chronic haematological diseases, HIV infection, etc.) is also a risk factor for skin carcinomas.
+
+Carcinomas develop mainly in areas exposed to light, particularly the face and back of the hands.
+
+
+The phototype corresponds to an individual's ability to interact with the sun. Six phototypes are defined according to eye colour, hair colour, the presence of ephelides (freckles), sensitivity to sunburn and the ability to tan (Fitzpatrick phototype classification).
+{| class="wikitable"
+|+
+The incidence of melanoma varies throughout the world depending on the phototype of the population and UV exposure (latitude). In France, it is 15 new cases per 100,000 inhabitants per year and has been rising for several decades.
+
+
+The main risk factors for developing melanoma are :
+
+- Light phototype (blond or redhead, ephelides, light eyes)
+
+- High number of nevi (>50)
+
+- High number of atypical nevi (>10)
+
+- Personal history of melanoma
+
+- Family history of melanoma (10% of melanomas occur in a family context)
+
+- Sunburn in childhood or sudden, intense exposure to the sun.
+
+
+In the majority of cases (80%), the melanoma appears de novo and not on a pre-existing nevus or precursor.
+Phototype
+Reaction to the sun
+!phenotype
+|-
+|I
+|Tanning = 0
+Sunburn = systematic
+|Very fair complexion
+Light eyes
+
+Blonde or red hair
+
+Numerous ephelidesh
+|-
+|II
+|Brown = +/- (with difficulty)
+Sunburn = often
+|Very fair complexion
+Blonde or chestnut hair
+
+UV-induced ephelides
+|-
+|III
+|Tanning = gradual
+Sunburn = sometimes
+|Light complexion
+Brown eyes
+
+Blonde or chestnut hair
+|-
+|IV
+|Tanning = easy
+Sunburn = little
+|Matt complexion
+Brown or chestnut hair
+
+Dark eyes
+|-
+|V
+|Tanning = very easy
+Sunburn = exceptional
+|Dark skin
+Dark hair
+
+Dark eyes
+|-
+|VI
+|Tan = constant
+Sunburn = absent
+|Dark skin
+Dark brown eyes
+|}

@@ -1,0 +1,65 @@
+{{knowledge objective
+|Identifiant=OIC-148-03-A
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Nasosinus infections in adults and children
+|Rank=A
+|Title=Know how to diagnose acute sinusitis (clinical examination, diagnostic approach)
+|Description=Acute maxillary sinusitis, forms according to sinus location
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Maxillary sinusitis:'''
+
+The diagnosis is clinical. The diagnostic criteria are :
+
+<nowiki>*</nowiki>Presence of''''at least two of the three criteria'''' '''major''':
+
+Ø Persistence or increase in infraorbital sinus pain despite symptomatic treatment for at least 48 hours.
+
+Ø Type of pain: unilateral and/or increased by tilting the head forward and/or pulsatile and/or worse in the late afternoon and at night
+
+Ø Increased rhinorrhoea and purulent nature of the rhinorrhoea, especially if it becomes unilateral.
+
+<nowiki>*</nowiki>Strengthening diagnostic suspicion if '''presence of minor criteria''' :
+
+Ø Fever > 3 days
+
+Ø Nasal obstruction and/or sneezing and/or pharyngeal discomfort and/or coughing > 10 days
+
+'''No further examination unless dental origin suspected'' (unilateral maxillary sinusitis without rhinitis/rhinopharyngitis, suggestive dental examination): dental panoramic or dental apex scan (dentascan).
+
+'''Frontal sinusitis:'''
+
+To be suspected when :
+
+Ø Supraorbital headaches
+
+Ø Evolution of symptoms > 72 hours
+
+Confirmation by sinus scan
+
+'''Ethmoidal sinusitis:'''
+
+To be suspected when :
+
+Ø Filling of the internal angle of the eye
+
+Ø Palpebral oedema
+
+Ø Retro-orbital headaches
+
+Ø Evolution of symptoms > 72 hours
+
+Confirmation by sinus scan
+
+'''Sphenoidal sinusitis:'''
+
+To be suspected when :
+
+Ø Permanent retro-orbital headaches
+
+Ø Vertex irradiation
+
+Ø Evolution of symptoms > 72 hours
+
+Confirmation by sinus scan

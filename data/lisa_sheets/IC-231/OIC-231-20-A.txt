@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-231-20-A
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=A
+|Title=Identifying ventricular fibrillation
+|Description=Identifying VF
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=20}}
+
+
+*Very rapid anarchic ventricular rhythm, polymorphic, responsible for cardiac arrest,
+*The meshwork of the ventricular fibrillation becomes smaller and smaller and the ventricular fibrillation progresses to asystole,
+*Indication for emergency cardiac electrical defibrillation.
+
+[[File:FV.jpg|thumbnail|alt=|centered|600x600px]]

@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-222-09-B
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=B
+|Title=Explaining the influence of excess weight on cardiovascular risk
+|Description=None
+|Rubric=Etiologies
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=9}}
+
+
+* '''Prerequisites:'''
+** Obesity = body mass index (BMI) > 30 kg/m<sup>2</sup>.
+** Severe obesity = BMI > 40 kg/m<sup>2</sup>.
+** Central obesity (= abdominal obesity = excess visceral adipose tissue) is the phenotype with the highest CV risk, and should be distinguished from diffuse obesity with predominantly subcutaneous fat. Central obesity is defined as a waist circumference > 80 cm in women and > 94 cm in men.
+* '''Effect of obesity on CV risk factors:''''
+** Increases the risk of hypertension.
+** Abdominal obesity (perivisceral fat) increases the risk of type 2 diabetes, hypertriglyceridaemia and metabolic syndrome.
+** Favours a sedentary lifestyle due to difficulty in accessing sporting activities (vicious circle).
+* Physiopathological basis of the obesity-HC risk link:''''
+** Increased insulin resistance.
+** Atherogenic dyslipidaemia" combining hypertriglyceridaemia, hypo-HDL-haemia and an increase in the proportion of small, dense LDL.
+** Increased blood pressure.
+** Increased systemic inflammation.

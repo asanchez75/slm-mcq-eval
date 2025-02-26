@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-241-05-A
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=A
+|Title=Know the three main complications of a goitre
+|Description=hyperthyroidism, compression, cancer
+|Rubric=Positive diagnosis
+|Contributors=Camille Buffet,Stéphanie Espiard,Eva Feigervola,Arnaud Jannin
+|Order=5}}
+The 3 main complications of goitre are :
+
+* Hyperthyroidism: a drop in TSH, possibly accompanied by clinical signs of thyrotoxicosis;
+* Compression of neighbouring organs: oesophagus (manifested by difficulty swallowing), trachea (which may manifest as difficulty breathing), cervical venous network (jugular turgidity, collateral circulation);
+* Cancer: cancers are present in 4 to 5% of plurinodular goitres. Nodules suspected of being supra-centimetric on ultrasound should be cytopunctured.

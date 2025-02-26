@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-069-04-B
+|Item_parent=Psychological disorders of pregnancy and the post-partum period
+|Item_parent_short=Psychic disorders of pregnancy and the post-partum period
+|Rank=B
+|Title=Knowing the specific symptoms of a psychological disorder in the antenatal period
+|Description=Anxiety and depressive disorders, denial of pregnancy
+|Rubric=Positive diagnosis
+|Contributors=El-Hage Wissam
+|Order=4}}
+
+- Anxiety disorders: [[Anxiety SD-116|Anxiety]] is manifested by fears centred on [[Normal pregnancy|pregnancy]]. It may relate to bodily changes, fear of fetal [[Fetal Risk Prevention SD-312|malformation]], fear of childbirth, or the ability to care for the baby. The fear may be continuous or in fits, leading to avoidance or seeking reassurance, provoking [[Obsessions; Compulsions; Obsessive-compulsive disorders 2C-066-DE-A03|obsessions]] and/or compulsions, and instinctual conduct disorders.
+
+- Depressive disorders: The symptomatology is that of a depressive episode characterised by guilt centred on the pregnancy, the foetus, or [[Delusional ideas SD-124|the inability]] to care for the baby.
+
+- Denial of pregnancy: Involuntary non-awareness of one's own state of pregnancy. Denial may be partial (from 22 weeks' gestation) or total (until delivery). It is accompanied by few, if any, of the usual bodily changes associated with pregnancy. In the absence of medical monitoring of the pregnancy, this is a high-risk obstetrical situation.

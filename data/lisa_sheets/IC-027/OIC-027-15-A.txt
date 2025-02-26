@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-027-15-A
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=A
+|Title=Knowing the definition of maternal-fetal HBV infection
+|Description=None
+|Rubric=Definition
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=15}}
+One per cent of pregnant women are infected with hepatitis B. Vertical transmission is mainly intra- and post-natal. Its frequency depends on viral replication, assessed by viral DNA testing.
+
+Transmission does not depend on the mode of delivery (vaginal delivery or caesarean section). Infected newborns can develop hepatitis, with a 90% risk of becoming chronic, and a high risk of cirrhosis and hepatocellular carcinoma.
+
+- In the event of a high viral load during pregnancy, antiviral treatment should be started.

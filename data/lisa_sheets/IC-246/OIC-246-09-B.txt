@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-246-09-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Knowing the presentation of idiopathic gynecomastia
+|Description=None
+|Rubric=Etiologies
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=9}}
+
+Frequently, no cause is found. Gynecomastia will either disappear on its own or persist. It is more common at certain stages of life.
+
+*'''<u>Gynecomastia of the newborn</u>'''' ([[Assessment and care of the term newborn|Assessment and care of the term newborn 32]])
+
+70% of newborns, through transplacental passage of maternal oestrogens.
+
+*'''<u>Pubertal gynecomastia</u>'''' ([[Normal and pathological puberty|Normal and pathological puberty 49]])
+
+Sometimes as early as the age of 10, it is more common around 13-14, then decreases with age, but can last until the age of 18-20 (30-70% of boys aged 10-17). It is linked to an increase in androgens, the aromatisation of which temporarily increases oestrogens.
+
+It usually returns spontaneously after puberty.
+
+''<u>Testicular palpation is nevertheless essential</u>'',''''' in search of testicular atrophy or tumour (+++), as well as assessment of pubertal stage. ([[Testicular tumours|Testicular tumours 313]]) ([[Genitoscrotal pathology in boys and men|Genitoscrotal pathology 50]])
+
+'''''If gynaecomastia persists after the age of 20, these patients should be investigated for pathology.'''''
+
+*'''<u>Gynecomastia in the elderly</u>''''
+
+Common after the age of 65, it is related to a decrease in testicular function and an increase in oestrogen aromatisation due to a relative increase in body fat. ([[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|Andropause and age-related androgen deficiency 124]])
+
+''''' Nevertheless, in a patient presenting with this problem, even if testicular palpation is normal, it is legitimate to explore the testicles for pathology'''''

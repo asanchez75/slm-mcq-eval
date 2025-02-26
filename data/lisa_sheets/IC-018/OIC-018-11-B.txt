@@ -1,0 +1,93 @@
+{{knowledge objective
+|Identifiant=OIC-018-11-B
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=B
+|Intitle=Identify the key elements necessary for the use of new digital tools (legal aspects, organisational aspects, technical aspects, patient and professional educational aspects)
+|Description=Using new digital tools
+|Topic=Monitoring and/or prognosis
+|Contributors=CIMES
+|Order=11}}
+'''Reminders'''
+
+Digital technology has spread rapidly in the healthcare sector, and is making just as much progress in the field of social and medico-social support. Digital transformation must take place without losing sight of the interests of users. In fact, "all digital" is not an objective in itself: it must serve desirable changes in our organisation, in particular by enabling users to play a greater role in their own care. Digital health and support takes a variety of forms, covering all the uses that can be made of digital tools and services in the general context of treating an illness, taking preventive action or compensating for a disability, and providing social or medico-social support. A variety of digital solutions are now available to users and professionals alike. For example:
+
+* portable devices including sensors or connected objects, collecting data continuously;
+* digital safes or medical files containing important information about users (computerised hospital file, personal medical file and now "my health space");
+* Internet sites containing health information or enabling access to or purchase of health services (distinguishing between scientific sites, institutional or administrative sites and commercial sites);
+* social networks on which information relating to users' private lives is exchanged (the natural evolution of patient forums providing feedback);
+* management applications for structures and establishments (administrative management, financial management, management of undesirable events, etc.);
+* decision support software for professionals (prescription or dispensing support);
+* self-monitoring mobile applications enabling users to track their diet, number of daily steps and heart rate, and to share this information with healthcare professionals.
+
+The HAS has identified three ways in which digital technology can be used to improve the quality of care and support. First of all, it is essential that the information systems made available to professionals are technically capable of improving the quality of care and support. At the same time, initiatives to encourage professionals to adopt digital technology and its uses must be carried out. Finally, quality assessment must be developed and facilitated by the digital transformation of the healthcare and social support system.
+
+
+1. technical aspects
+
+'''1.1 Data structuring'''
+
+Data structuring is a cross-cutting issue in the healthcare and support system. In the medico-social field, certain developments suggest that support will increasingly be organised by a multiplicity of coordinated structures, within platforms. This structuring is therefore an essential requirement for effective and relevant exchanges of information as part of the care pathway.
+
+
+'''1.2 Ensuring, implementing and maintaining the interoperability of information systems'''
+
+Interoperability is a prerequisite for the various tools to be able to communicate and build on each other and support the transformation of the healthcare system made necessary by the changing needs and expectations of citizens.
+
+Different types of interoperability can be distinguished: technical interoperability (interfaces, formats, protocols), semantic interoperability (terminologies), syntactic interoperability (information coding), etc.
+
+
+1.3 Co-construction of digital solutions
+
+The co-construction of digital solutions with their end-users is an essential determinant of their integration into everyday practices. This is because only professionals have the knowledge of practices, the stages in the care pathway that require this or that means of coordination, and the breaks in care or support that can be corrected by an information system. This co-construction can take the form of allowing users to configure the information system according to the specific features of their area or action.
+
+
+1.4 Supporting change
+
+To ensure the effective use of digital tools by the stakeholders for whom they are intended, it is necessary to provide local support for deployment. The aim is to support change management and improve the dissemination and use of digital tools. This means adapting to the way users work and designing the deployment method to suit the collective or individual organisations on the ground.
+
+
+'''2. Organisational aspects''
+
+2.1 Clinical evaluation of a digital solution
+
+In the context of a clinical evaluation of a digital solution, the necessary clinical investigations may come up against certain difficulties in the case of digital solutions:
+
+* Randomisation may not be possible;
+* the choice of a suitable comparator can be complex;
+* the data derived from these studies are often less generalizable to different environments or populations;
+* the time taken to carry out these studies can be long, which is not suited to the rapid development of certain digital solutions.
+
+
+'''2.2 Ongoing monitoring and reassessment of uses'''
+
+Monitoring the digital solutions implemented in the healthcare and social support system is the only tool that enables corrective action to be taken. Monitoring is the only way to detect unexpected effects. Digital solutions, because they are constantly evolving, because they create new uses for which they were not pre-designed, because they also modify the environment in which they are implemented, have unexpected effects, sometimes positive, sometimes deleterious, far more than other technologies. Clearly, the needs for evaluation, i.e. the relevant criteria and evaluation methods, are not the same in all cases. A process of reflection involving the various players involved in evaluation is needed to define what needs to be evaluated, and consequently which methods could be used, depending on the evaluation needs identified. For digital solutions that do not follow a process of attestation of conformity to safety standards such as that provided for by CE marking, assessment of conformity to standards should be a prerequisite for any other form of assessment.
+
+
+'''3. Pedagogical aspects
+
+3.1 Training of professionals
+
+Initial and continuing training must make professionals aware of the dimensions of quality of care that digital technology affects. Professionals need to develop a critical approach to digital technologies; this is in the interests of both the individual and the community, and is just as essential as improving professionals' ability to use them, given that technology is evolving faster than users are able to understand how to use it. Training in the ethical issues surrounding the impact of digital technology on human resources and professional ethics should also be considered. Professionals must also be trained to analyse their practices, which is made easier by digital tools.
+
+
+'''4. Ethical and legal aspects''
+
+4.1 Protection and use of health data
+
+Recognition of the right and interest to access this data is more a question of responsibilitý than securitý. The new regulation (RGPD) reinforces the notion of consent: when an Internet user makes part of their personal data available, they must now know what it will be used for, how long it will be kept and whether it will leave the European Union. This right to ''informational self-determination'' requires citizens to be educated about the uses to which their data may be put, the risks (of re-identification in particular), and to be informed of their rights in a way that is ''understandable and easily accessible, and formulated in clear and simple terms'', as the law stipulates. Additional education on the benefits/risks of using data in health and social care is also absolutely essential. Digital transformation, and above all societal transformation, must go hand in hand with greater awareness, particularly among young people, of the risks of over-reliance on manufacturers and other publishers.
+
+'''4.2 Explicability of the reasoning and applicability of the result'''
+
+Explaining the reasoning followed by software that proposes decisions is a key issue for confidence, particularly in the field of medicine. Applications based on unsupervised learning do not currently allow this "explicability". This shortcoming is a serious obstacle to social and professional acceptabilitý in the world of health and social care. It will raise particular and delicate questions in the event of an incident or unexpected decision.
+
+'''4.3 Digital ethics''''
+[[File:FigureEthiqueNum.png|thumb|HAS. Prospective analysis report 2019. Digital: what (R)evolution? <nowiki>https://webzine.has-sante.fr/upload/docs/application/pdf/2019-07/rapport_analyse_prospective_20191.pdf</nowiki>]]
+Cf figure
+
+
+
+'''Bibliography'''
+
+HAS. Rapport d'analyse prospective 2019. Digital: what (R)evolution? <nowiki>https://webzine.has-sante.fr/upload/docs/application/pdf/2019-07/rapport_analyse_prospective_20191.pdf</nowiki>
+<br />

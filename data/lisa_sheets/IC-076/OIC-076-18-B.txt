@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-076-18-B
+|Item_parent=Alcohol dependence
+|Item_parent_short=Alcohol dependence
+|Rank=B
+|Title=How to manage a withdrawal accident (convulsive seizure or delirium tremens)
+|Description=A withdrawal accident requires hospitalisation and must be treated with high-dose half-life benzodiazepines, tapered over one to two weeks, parenteral vitamin B1 and appropriate hydration.
+|Rubric=Management
+|Contributors=
+|Order=18}}
+Any disturbance of consciousness, any symptom suggestive of Gayet Wernicke encephalopathy, any need for hydration in a patient with high-risk alcohol consumption => as a matter of urgency, intravenous vitamin B1 supplementation before any glucose infusion ++++. 
+
+
+'''Delirium tremens: '''
+
+- hospitalisation in intensive or continuing care;
+
+- quiet, well-lit room, regular visits from carers for reassurance and supervision;
+
+- restraint is sometimes necessary in cases of severe behavioural problems;
+
+- treatment with high-dose parenteral vitamin B1 before any infusion of serum glucose and polyvitamins ;
+
+- intravenous rehydration and correction of hydroelectrolytic disorders ;
+
+- long-lasting benzodiazepines (diazepam) in high intravenous doses until sedation is achieved;
+
+- monitoring of vitals, hydration, blood ionogram, creatinine and phosphorus levels.
+
+
+'''Convulsive seizure:'''
+
+- treatment identical to that for withdrawal;
+
+- systematic high-dose diazepam, tapering off over 7 to 10 days;
+
+- no systematic initiation of long-term anti-comital treatment. 

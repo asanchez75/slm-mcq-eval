@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-267-28-A
+|Item_parent=Disorders of acid-base equilibrium and hydro-electrolytic disorders
+|Item_parent_short=Disorders of acid-base balance and fluid and electrolyte disorders
+|Rank=A
+|Title=Know the main risk of rapid correction of hyponatremia
+|Description=Acknowledge the risk of central pontine myelinolysis (CPM)
+|Rubric=Management
+|Contributors=P Rieu; B Moulin; M Flamant
+|Order=28}}
+If the hyponatremia is chronic, the disorder must be corrected very carefully, as there is a high risk of centropontine myelinolysis or osmotic demyelination (a rare but formidable complication). This risk is increased when chronic hyponatraemia has been corrected too quickly (''> 10 mmol/L/24 h'') and when this hyponatraemia evolved in a context of hypoxia, malnutrition and ethylism.

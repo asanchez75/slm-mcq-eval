@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-150-09-A
+|Item_parent=Infectious ear infections in adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=A
+|Title=Knowing the initial management strategy for otitis externa and seromucositis
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+
+
+*Otitis externa:'''''
+*#treatment with local antibiotic drops and possible meching
+*#Beware of ototoxic drops on an open eardrum.
+*#Particular risk in diabetics: so-called "malignant" otitis externa: necrotising otitis most often linked to Pseudomonas aeruginosa, which may be complicated by osteitis of the base of the skull; need for prolonged antibiotic treatment<br />.
+
+*Seromucous otitis
+
+treatment: adenoidectomy, placement of transtympanic aerators

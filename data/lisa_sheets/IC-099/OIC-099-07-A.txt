@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-099-07-A
+|Item_parent=Migraine, trigeminal neuralgia and facial pain
+|Item_parent_short=Migraine, trigeminal neuralgia and facial pain
+|Rank=A
+|Title=Knowing the migraine, tension headache interrelationship
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+A patient may have two types of primary [[Headache SD-118|headache]] intertwined, most commonly a migraine without aura and an episodic tension headache.
+
+In the case of CCQ (> 15 days per month of headaches), if the patient has migraines and tension headaches, the diagnosis of migraine takes precedence, and a chronic migraine must be diagnosed as soon as there are 8 days per month (2 days per week) of headache of a migrainous nature.

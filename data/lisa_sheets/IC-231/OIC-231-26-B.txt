@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-231-26-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Intitle=Identifying Wolff-parkinson-White
+|Description=idem 235-B03
+|Rubric=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=26}}
+
+
+*The term Wolff-Parkinson-White syndrome is used in patients with ventricular pre-excitation (anterograde accessory pathway also known as Kent bundle) associated with symptoms (palpitations),
+*The "accessory pathway" can lead in both directions or only in anterograde or retrograde (hidden accessory pathway),
+*On the ECG in sinus rhythm, ventricular pre-excitation can be seen in the case of an anterograde accessory pathway with short PR (<120ms) and delta wave,
+*Risk of junctional tachycardia with a circuit that descends via the NVA and ascends via an accessory pathway (most frequent, fine QRS, referred to as "orthodromic tachycardia") or a circuit that descends via an accessory pathway and ascends via the NVA (wide QRS, referred to as "antidromic tachycardia"),
+*P waves at a distance from the QRS (>80 ms),
+*Risk of sudden death in patients with an accessory pathway with rapid anterograde conduction and transition to atrial fibrillation (super-Wolff).
+
+[[File:Wpw.jpg|thumbnail|alt=|centered|674x674px]]

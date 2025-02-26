@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-294-10-B
+|Item_parent=Cancer treatment: main methods, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Item_parent_short=Cancer treatment: main modalities, therapeutic classes and their major complications. Multidisciplinary therapeutic decisions and patient information
+|Rank=B
+|Title=Knowing the measures for initiating systemic anticancer treatment
+|Description=Social measures, central venous line, assessment of major vital functions
+|Rubric=Definition
+|Contributors=Jean-Pierre Lotz
+|Order=10}}
+
+<br />'''General measures''''
+
+Application for long-term care (ALD 30). This document is drawn up by the general practitioner.
+
+Placement of a central venous access in the case of parenteral treatment, unnecessary if oral treatment: usually an implantable chamber; or a PICC-line (central catheter with peripheral access).
+
+Assessment of major vital functions :
+
+- nutritional assessment with weight measurement, albumin and pre-albumin levels;
+
+- cardiac assessment: ECG, cardiac ultrasound (particularly when using anthracyclines ++);
+
+- blood ionogram, creatinine levels, liver function tests (transaminases, PAL, GGT and bilirubin);
+
+- respiratory function test (RFT) in the event of treatment with bleomycin ;
+
+- HCG in non-menopausal women ;
+
+Fertility consultation, gamete conservation (CECOS) in a growing number of cases.
+
+To determine the dose administered, it is necessary to calculate the body surface area (weight, height) and the creatinine clearance for certain molecules (carboplatin in particular).
+
+====Main contraindications====
+Polynuclear neutrophils < 1 G/L, platelets < 100 G/L, although this rule may be waived in emergency carcinological situations. It is sometimes possible to administer non-haematotoxic drugs in this situation (bleomycin, for example).
+
+Infectious syndrome.
+
+Activity Index ''('''''"''' ''Performance Status'' '''"''''')''' > 2
+
+* in the absence of any acute complication
+
+* except in situations where treatment is available with a high probability of anti-tumour response
+
+1st trimester of pregnancy or breast-feeding.
+
+Certain contraindications are directly linked to the drug used: for example, creatinine clearance < 60 ml/min for cisplatin.
+
+Patient refusal to receive treatment<br />.

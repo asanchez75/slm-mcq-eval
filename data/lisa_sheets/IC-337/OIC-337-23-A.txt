@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-337-23-A
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=A
+|Title=Acute poisoning in children: knowing the circumstances
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=23}}
+Unlike poisoning in adults, poisoning in children is most often accidental. They mainly affect children under the age of 5 (for poisoning in children over the age of 12, please refer to the "adults" items).c

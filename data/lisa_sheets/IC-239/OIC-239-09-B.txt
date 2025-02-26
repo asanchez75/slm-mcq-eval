@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-239-09-B
+|Item_parent=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Item_parent_short=Acrosyndromes (Raynaud's phenomenon, erythermalgia, acrocyanosis, frostbite, digital ischaemia)
+|Rank=B
+|Title=Knowing the indication for anti-nuclear antibodies (ANA) and capillaroscopy
+|Description=None
+|Section=Additional examinations
+|Contributors= Sophie Blaise, Luc Bressollette, Claire Le Hello
+|Order=9}}
+
+In the case of RA, the major step is to be able to recognise secondary RA. Questioning and clinical examination provide important clues, and should be supplemented by testing for antinuclear antibodies and capillaroscopy in cases of suspected secondary RA, or recent onset or worsening RA ('''''SD-178 : [[Reasoned request/prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]'')'''''

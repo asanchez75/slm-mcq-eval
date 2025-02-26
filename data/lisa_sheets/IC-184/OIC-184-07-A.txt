@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-184-07-A
+|Item_parent=Accidents at work and occupational diseases: definition and issues
+|Item_parent_short=Accidents at work and occupational diseases: definition and issues
+|Rank=A
+|Item_parent_short=Occupational accidents and illnesses: definition and issues
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=7}}
+'''Exclusively preventive role''':
+
+prevent any deterioration in the health of workers as a result of their work, by monitoring their hygiene conditions at work, the risks of contagion and their state of health, as well as any obvious risk to the safety of third parties in the immediate working environment. ''Code du travail Article L4622-3''
+
+'''Role as advisor to the company manager, employees and their representatives'': advises on working conditions within the company, adapting workstations and working patterns, and protecting employees from all physical or chemical hazards.
+
+Its work is divided between "medical check-ups" and "action in the workplace".
+
+The occupational physician :
+
+* Does not provide treatment, except in emergencies.
+* The occupational physician prescribes additional examinations justified by the medical monitoring of employees exposed to particular nuisances or to decide on their suitability for the workstation.
+* Only the occupational physician can recommend adaptations to the workstation.
+* The occupational physician has access to the workplace and may carry out or commission any workstation study he or she deems necessary.
+
+'''Communication between the occupational physician and the treating physician is governed by two rules:'''
+
+1- Respect for medical confidentiality, which implies that information must be transmitted via the patient.
+
+2- The need to communicate: the occupational physician knows the working conditions and the GP knows and follows his patient.
+
+'''Communication between the occupational physician and the medical officer of the health insurance fund:''''
+
+* The occupational physician may be questioned by the medical advisor about the possibility of an employee returning to work following a period of sick leave.
+* As part of the investigation following a declaration of occupational illness, the occupational physician is asked about the conditions of exposure and the link with the declared pathology.

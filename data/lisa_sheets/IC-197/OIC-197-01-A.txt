@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-197-01-A
+|Item_parent=Spondyloarthritis
+|Item_parent_short=Spondyloarthritis
+|Rank=A
+|Title=Know the definition and description of spondyloarthritis
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+- The concept of spondyloarthritis groups together chronic inflammatory rheumatic diseases that share common clinical manifestations and a common genetic background:
+
+- Ankylosing spondylitis,
+
+- psoriatic arthritis,
+
+- reactive arthritis,
+
+- arthritis associated with inflammatory enterocolopathies,
+
+- juvenile forms,
+
+- undifferentiated spondyloarthritis,
+
+- and SAPHO syndrome.
+
+- Terminology taken from the ASAS 2009 classification criteria
+
+- Axial spondyloarthritis
+
+- Radiographic = with radiographic sacroiliitis = ankylosing spondylitis.
+
+- Non-radiographic = without radiographic sacroiliitis.
+
+- '''Peripheral articular spondyloarthritis'''
+
+- Erosive.
+
+- Non-erosive.
+
+- Enthesitic peripheral spondyloarthritis

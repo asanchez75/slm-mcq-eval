@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-177-15-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Heading=Know (indications, contraindications, spectrum, side effects and interactions) the main molecules belonging to the glycopeptides.
+|Description=Vancomycin
+|Rubric=Definition
+|Contributors=Jean-Philippe Lavigne
+|Order=15}}
+
+{| class="wikitable"
+|'''Antibiotics'''
+|'''Indications'''
+|'''Contraindications'''
+|'''Spectrum'''
+|'''Side effects and interactions'''
+|-
+|'''Glycopeptides'''
+
+'''(molecules: vancomycin, teicoplanin)''''
+|Serious MRSA infections, serious meti-S staphylococcal infections in patients allergic to penicillin M, serious streptococcal, enterococcal and pneumococcal infections in patients allergic to 1st-line beta-lactam antibiotics, febrile episodes in neutropenic patients, treatment of C. difficile infections.
+|Hypersensitivity to vancomycin, breast-feeding.
+|Gram-positive bacteria: streptococci, pneumococci, enterococci, MSSA, MRSA, other staphylococci, listeria, C. difficile.
+|Venous intolerance (phlebitis, endoveinitis), erythroderma if infused too rapidly (red man syndrome), nephrotoxicity, ototoxicity.
+
+
+Interactions: oral anticoagulants
+|}
+MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus.

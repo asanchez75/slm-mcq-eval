@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-257-04-A
+|Item_parent=Localised or generalised oedema of the lower limbs
+|Item_parent_short=Localised or generalised oedema of the lower limbs
+|Rank=A
+|Intitle=Photographs: appearance of oedema due to fluid retention, bucket sign
+|Description=None
+|Rubric=Multimedia content
+|Contributors=Jean-Jacques Boffa,Bruno Moulin
+|Order=4}}
+
+[[File:Image oedema.png|vignette|Œdema of the lower limbs with bucket]]

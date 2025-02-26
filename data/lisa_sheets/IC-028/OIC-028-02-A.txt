@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-028-02-A
+|Item_parent=To know the particularities of urinary tract infection during pregnancy
+|Item_parent_short=Knowing the particularities of urinary tract infection during pregnancy
+|Rank=A
+|Intitulé=To know the germs involved in urinary tract infections during pregnancy
+|Description=Knowing the germs involved in urinary tract infections during pregnancy
+|Rubric=Physiopathology
+|Contributors=Louise Ghesquière, Philippe Deruelle
+|Order=2}}
+The germs most frequently found are Gram-negative bacilli: Escherichia coli (75%), Proteus mirabilis, Klebsiella pneumoniae, Serratia and Enterobacter.
+
+E. Coli is resistant to amoxicillin (with or without clavulanic acid) in 25% to 45% of cases.

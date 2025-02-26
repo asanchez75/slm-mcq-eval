@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-173-02-B
+|Item_parent=Zoonoses
+|Item_parent_short=Zoonoses
+|Rank=B
+|Title=Cite the main bacterial, viral and parasitic aetiologies of zoonoses
+|Description=None
+|Rubric=Etiologies
+|Contributors=Carole Eldin
+|Order=2}}
+'''The main bacterial aetiologies of zoonoses are:'''
+
+-Pasteurellosis (''Pasteurella multocida''), Lyme borreliosis (''Borrelia burgdorferi'' sensu lato), cat scratch disease (''Bartonella henselae''), Q fever (''Coxiella burnetii''), brucellosis (''Brucella melitensis, B. suis, B. abortus)''.
+
+'''The main parasitic etiologies of zoonoses are:''''
+
+-Toxoplasmosis (''Toxoplasma gondii''), leishmaniasis (''Leishmania'' spp.), hydatid echinococcosis or hydatid cyst (''Echinococcus granulosus''), alveolar echinococcosis (''Echinococcus multilocularis'').
+
+'''The main viral aetiology of zoonosis is:''''
+
+-Rabies

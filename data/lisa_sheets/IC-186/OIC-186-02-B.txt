@@ -1,0 +1,29 @@
+{{knowledge objective
+|Identifiant=OIC-186-02-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivities and allergies in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the major epidemiological trends in allergies to hymenoptera venoms: prevalence, mortality, etc.
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+Hymenoptera venoms (bees, wasps, hornets) contain
+
+- vasoactive substances responsible for ''toxic reactions and non-allergic hypersensitivity''.
+
+- enzymes and other proteins responsible for immediate immuno-allergic reactions mediated by venom allergen-specific IgE antibodies.
+
+
+Bee stings occur mainly in spring and early summer, generally when the insect feels threatened. The sting remains in the skin, causing the bee's abdomen to rupture. The main allergen in the venom is phospholipase A2.
+
+Wasps are more aggressive than bees and can sting for no apparent reason, sometimes several times because the sting does not stay in the skin. They sting until late autumn. Hyaluronidase, antigen 5 and phospholipase A1 are the 3 major allergens in the venom.
+
+Hornets belong to the same family as wasps. Their stings are more painful and the quantity of venom injected is greater. Allergic reactions are often "crossed with wasp venom allergy" (similar composition), and "sometimes with bee venom" (50% homology between phospholipase A2 from hornet venom / phospholipase A2 from bee venom).
+
+
+Prevalence of hymenoptera allergy :
+
+- 10 to 40% of the population is sensitised (so not necessarily allergic; beekeepers in particular are very frequently sensitised and rarely allergic)
+
+0.3 to 7.5% of the general population suffer systemic reactions, potentially causing severe anaphylaxis, with a low mortality rate (0.03 to 0.45/million population/year).

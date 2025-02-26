@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-277-22-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Know the principles of treatment of symptomatic lithiasis.
+|Description=Surgery
+|Section=Management
+|Contributors=
+|Order=22}}
+Symptomatic lithiasis :
+
+Once the painful crisis has subsided and there is no obstruction of the main bile duct, a cholecystectomy must be performed rapidly (< 1 month) to avoid a recurrence or complication.

@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-158-02-A
+|Item_parent=Sepis and septic shock in children and adults
+|Item_parent_short=Sepsis and septic shock in children and adults
+|Rank=A
+|Title=Recognising a patient at risk
+|Description=Know the severity criteria and their significance in terms of mortality risk
+|Rubric=Emergency identification
+|Contributors=
+|Order=2}}
+The identification of a patient with an infection at risk of an unfavourable outcome is based on :
+
+'''1- The''' '''search for organ failure''''
+
+The faults to look for are :
+
+*Hemodynamics: fall in blood pressure, often associated with an increase in heart rate '''([[Discovery of arterial hypotension SD-043|discovery of arterial hypotension]], [[Tachycardia SD-166|tachycardia]]).'''' In children, hypotension is delayed because the compensation mechanisms (tachycardia) are more effective.
+*Neurological: altered state of consciousness, ranging from confusion to coma ("Coma and consciousness disorders SD-028|coma and consciousness disorders]").
+*Respiratory: altered haematosis with polypnoea, signs of struggle, cyanosis '''([[Extremity colour abnormalities SD-015|extremity colour abnormalities]])''', decreased SpO<sub>2</sub>.
+*Coagulation: decreased platelets '''([[Platelet abnormality SD-215|platelet abnormality]])''''
+*Renal: decreased diuresis, acute renal failure '''([[Decreased diuresis SD-022|decreased diuresis]], [[Increased creatinine SD-199|increased creatinine]])'''''
+*Hepatic: increased bilirubin
+
+<small>To understand: the SOFA score (''Sepsis-related Organ Failure Assessment''; outside the 2nd<sup>ème</sup> cycle programme) is a score used to quantify these organ failures in the adult population. The more marked the failure, the higher the number of points awarded. For example, for neurological failure, no points are awarded if the Glasgow score is 15 (normal state), 1 point if it is 13 or 14, 2 points if it is 10 or 12, and 4 points if it is less than 6. The SOFA score corresponds to the sum of the scores obtained for each of the failures (maximum score 24).</small> <small>A sepsis corresponds to an increase in the SOFA score of at least two points.</small>
+
+Looking for these deficiencies in every patient with an infection would mean systematically taking a blood sample (platelet count, creatinine level, bilirubin level, PaO<sub>2</sub>), which is obviously not feasible. The ''quick SOFA score (qSOFA)'' is a score for rapidly identifying patients at risk of sepsis, based on three simple clinical criteria.
+
+The elements of the qSOFA are as follows:
+
+*Respiratory rate: 1 point if ≥ 22/min
+*Systolic blood pressure: 1 point if ≤ 100 mmHg
+*Neurological status: 1 point if abnormal
+
+When the qSOFA score is 0 or 1, the patient is unlikely to have sepsis. If it is 2 or 3, further work-up is required to identify and quantify organ failure.
+
+The performance of the qSOFA score in identifying patients with infections at risk of an unfavourable outcome, although very satisfactory, is not perfect. A qSOFA score of 0 or 1 should not therefore rule out sepsis.
+
+The following algorithm describes the procedure to follow when looking for sepsis/septic shock.
+[File:QSOFA .png|focus|thumbnail|Algorithm describing the procedure for identifying whether a patient has sepsis or septic shock
+
+
+
+'''2- Look for signs of peripheral hypoperfusion:''' mottling (particularly when it extends beyond the knees, see figure), increased skin recolouring time ''([[Colour anomalies of the extremities SD-015|colour anomaly of the extremities]])''' and the cold character of the extremities indicate skin hypoperfusion. When these signs are seen in an infected patient, they are often associated with a high risk of an unfavourable outcome.
+[[File:Marbling.jpg|centred|thumb|Marbling in the context of a serious infection]]
+
+
+'''3- Taking the patient's condition into account:''' neutropenic (neutrophil count < 0.5 G/L), splenectomised and cirrhotic patients have a higher risk of adverse outcome in the event of infection than patients without these conditions. It is important to monitor them carefully.
+
+Any febrile infant under 3 months of age should be considered as possibly having a severe bacterial infection until proven otherwise.

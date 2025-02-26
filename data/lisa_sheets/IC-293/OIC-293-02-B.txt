@@ -1,0 +1,48 @@
+{{knowledge objective
+|Identifiant=OIC-293-02-B
+|Item_parent=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles for taking, transmitting and using samples for health and research purposes.
+|Item_parent_short=The doctor who collects cells and/or tissues for pathological anatomy and cytology examinations: knowledge of the principles governing the production, transmission and use of samples for health and research purposes.
+|Rank=B
+|Title=Know how to transmit cell and tissue samples for morphological and molecular studies.
+|Description=Describe the packaging and routing of samples for morphological or molecular studies to the laboratory.
+|Rubric=Additional tests
+|Contributors=Arnaud Uguen
+|Order=2}}
+
+'''''" To fix or not to fix" and what degree of urgency is required for transmission of the sample for Pathological Anatomy and Cytology analysis? '''''
+
+
+The tissue/cellular material taken is precious and <u>must be transmitted optimally</u> to the Pathological Anatomy and Cytology laboratory by avoiding autolysis of the cells in the sample and thus preserving the tissue/cellular quality required for analyses. Fixation</u> (most often in formalin diluted to 10% volume) prevents this autolysis, but also prevents certain analyses requiring "fresh" (i.e. unfixed)</u> material from being carried out.
+
+
+Therefore, the first question to ask yourself when dealing with the sample taken (and to anticipate even before the sample is taken) is: ''<u>"Should I fix the sample or not?"</u>''
+
+
+The answer to this question is <u>"No"</u> in the following scenarios:
+
+- request for <u>extemporaneous examination</u> (''cf knowledge objective 2C-293-EC-B05'')
+
+- request to look for fat in the tissue (dissolved by the tissue fixation/dehydration/paraffin embedding process)
+
+- request for <u>direct immunofluorescence</u> analysis (e.g. non-tumour skin or kidney diseases)
+
+- request for histoenzymatic analysis (e.g. muscle biopsy)
+
+- tumour pathology requiring <u>conservation of frozen tissue material</u> (according to INCa recommendations/protocol in force, for health and/or research purposes) (''cf knowledge objective 2C-293-EC-B06'')
+
+
+In these cases, the sample should be sent as quickly as possible (ideally immediately) to the Pathological Anatomy and Cytology laboratory "fresh" so that it can be quickly frozen and the cells prevented from autolysis so that they can continue to be analysed.
+
+It should be noted that if sufficiently large surgical specimens can be sent as is, to avoid (rapid) drying of small biopsy samples, transport in a compress soaked in physiological saline is recommended (but not total immersion of the sample in physiological saline).
+
+
+<u>In other cases, the levy may be set</u> :
+
+- for histopathological samples: usually in 10% buffered formalin
+
+- for cytological samples :
+
+o by air-drying, fixing with alcohol or by applying lacquer to the cells spread out on the slides by the sampler.
+
+o or after collection in preservation fluid by the sampler and deposit on a slide in the Pathological Anatomy and Cytology Laboratory.
+<br />

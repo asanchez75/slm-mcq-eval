@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-117-02-B
+|Item_parent=Psoriasis
+|Item_parent_short=Psoriasis
+|Rank=B
+|Title=Knowing the pathophysiology of psoriasis
+|Description=Genetic predisposition, accelerated epidermal renewal, immune system involvement (Th1, Th17)
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=2}}
+Genetic predisposition (multiple susceptibility genes), therefore possible familial predisposition.
+
+Involvement of the immune system (TH1 and TH17 pathways) with increased production of inflammatory cytokines leading to increased proliferation and disorders in keratinocyte differentiation, neo-angiogenesis and neutrophil recruitment.
+
+Multiple triggering or aggravating factors: skin trauma (Koebner's phenomenon), medication (beta-blockers, lithium, sartans, ACE inhibitors), infectious episodes linked to specific pathogens (streptococci, HIV), emotional stress, etc.
+
+This leads to accelerated epidermal renewal and inflammatory skin lesions.

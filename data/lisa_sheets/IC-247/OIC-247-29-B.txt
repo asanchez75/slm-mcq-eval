@@ -1,0 +1,44 @@
+{{knowledge objective
+|Identifiant=OIC-247-29-B
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=B
+|Title=Knowing the principles of prevention and treatment of ketoacidosis
+|Description=None
+|Rubric=Management
+|Contributors=Claire Briet
+|Order=29}}
+'''''<u>TREATMENT</u>'''''
+
+====First steps====
+-Peripheral venous access
+
+- 0.9% saline rehydration
+
+- Biology: venous pH, bicarbonates, ionogram, creatinine, protidemia, haematocrit, CRP
+
+- Search for an infectious outbreak
+
+- Systematic ECG
+
+====Curative treatment====
+In diabetology or intensive care in the event of serious signs.
+
+After recovering the kalaemia and creatinine:
+
+- Continuous infusion of rapid or ultra-rapid insulin: 0.1 U/kg/h, not exceeding 7 to 8 U per hour, ''FOR AS LONG AS THE CETOSIS Lasts:''.
+
+*If blood glucose < 2.5 g/l and ketonemia positive: maintain insulin flow rate + add 10% glucose (2l/24 hours)
+*Switch from IV insulin to subcutaneous insulin when ketonemia has disappeared+++''.
+
+- rehydration with isotonic saline solution
+
+- addition of potassium as soon as kalaemia is < 5 mmol/l
+
+- fever may only appear secondarily when ketosis is resolved.
+
+====''<u>PREVENTION</u>''====
+Patient education :
+
+*Systematic acetone testing if blood glucose is high + intercurrent pathologies or nausea.
+*If blood glucose levels are high and ketone levels are positive: the patient must know how to add rapid insulin.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-219-09-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Photographs of a typical example of melanoderma
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=9}}
+
+[[File:Melanoderma.png|vignette|melanoderma]]
+[[File:Melanoderma .png|thumbnail|melanoderma]]

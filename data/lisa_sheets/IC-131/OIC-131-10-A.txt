@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-131-10-A
+|Item_parent=Gait and balance disorders (see item 109)
+|Item_parent_short=Gait and balance disorders (see item 109)
+|Rank=A
+|Title=Know the purpose of imaging examinations in elderly patients with gait or balance disorders.
+|Description=To assess lesions, aetiology and severity.
+|Rubric= Complementary examinations
+|Contributors=
+|Order=10}}
+'''No medical imaging test is systematic'''. There are various indications for imaging examinations in the context of balance or walking disorders:
+
+1- aetiological investigation of balance or gait disorders, based on clinical examination data, such as :
+
+* Osteoarticular X-rays for osteoarthritis
+* MRI or CT scan of the brain, particularly for subdural haematoma, suspected normal pressure hydrocephalus, stroke sequelae, lacunar status.
+* Spinal cord MRI for cervico-arthrosic myelopathy and/or narrow lumbar canal.
+* Specific tests will be requested depending on co-morbidities (neurodegenerative pathologies, heart disease, electromyogram, etc.).
+
+
+2- in the context of a fall or in the presence of an acute disturbance of balance or gait, according to the clinical examination:
+
+* Osteoarticular X-rays to look for fractures
+* Cerebral CT scan as an emergency measure only in the event of neurological symptoms or head trauma treated with antithrombotic drugs (anticoagulant or antiplatelet).
+* Cerebral MRI as first-line treatment if stroke suspected and thrombolysis or thrombectomy delayed.

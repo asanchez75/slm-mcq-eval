@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-083-12-A
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=A
+|Title=Knowing the indications and contraindications of anaesthetic, antibiotic and corticosteroid eye drops
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+
+
+#'''<u>Collyres anaesthetics</u>''''
+
+'''Example:''' oxybuprocaine, tetracaine
+
+'''Indications :''' temporary anaesthesia for diagnostic procedures (e.g. aplanation tonometry, gonioscopy, corneal sampling) or therapeutic procedures (e.g. abundant eye washing after chemical burns, intravitreal injection, phacoemulsification under topical anaesthesia).
+
+
+'''Contraindications:''' formal prohibition of prolonged use which would cause serious irreversible corneal epithelial damage, hypersensitivity to one of the components
+
+
+2. '''<u>Collyres antibiotics</u>''''
+
+'''Example:''' tobramycin, ciprofloxacin, azythromycin (commercial formulations); ticarcillin, gentamicin, amikacin, vancomycin (reinforced eye drops prepared in hospital pharmacies for hourly instillation in infectious keratitis).
+
+Indications: '''Bacterial conjunctivitis, infectious bacterial keratitis, post-operative treatment (all intraocular surgery)
+
+<u>''Warning:''</u> prescribing antibiotic eye drops is "not automatic". The prescription of an antibiotic is reserved for the treatment of bacterial infections
+
+
+'''Contraindications:'''hypersensitivity to one of the components, class-specific contraindications (e.g. pregnant or breast-feeding woman for tetracyclines; child < 6 months for chloramphenicol)
+
+
+3. '''<u>Corticosteroids</u>''''
+
+'''Example:''' dexamethasone, alone or in combination with antibiotics (example: tobramycin/dexamethasone)
+
+'''Indications:'''' intraocular inflammation (acute anterior uveitis, post-operative after-effects of all intraocular surgery), allergic conjunctivitis
+
+
+'''Contraindications:''' dendritic herpetic keratitis (herpetic corneal ulcer), mycotic (fungal) keratitis, viral keratoconjunctivitis (in the acute phase), ocular hypertonia (precaution but not a formal contraindication), hypersensitivity to one of the ingredients.

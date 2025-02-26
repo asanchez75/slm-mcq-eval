@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-363-07-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=Knowing the different types of fracture of the proximal femur
+|Description=None
+|Rubric=Epidemiology
+|Contributors=CFCOT
+|Order=7}}
+Fractures of the proximal femur can be distinguished according to their location into :
+
+- '''true intracapsular or cervical fractures''',
+
+- '''extracapsular fractures or fractures of the trochanteric mass''',
+
+- '''subtrochanteric fractures''',
+
+- '''fractures with diaphyseal extension'''.
+
+==Intracapsular fractures:==
+- Terminal vascularisation of the femoral head: risk of osteonecrosis of the femoral head.
+
+- small contact surface with essentially cortical bone at this level: exposes the patient to the risk of ''non-union'', which is even greater in the case of fracture comminution and when shear forces predominate at the fracture site with a fracture line direction close to the vertical.
+
+==''Extracapsular fractures:'''==
+Extracapsular fractures are exceptionally complicated by osteonecrosis of the femoral head. The rich anastomotic vascularisation with large contact surfaces is ''rather favourable to consolidation''. However, these fractures may present ''instability factors'': ''comminution, particularly posterior comminution'', ''detachment of the lesser trochanter'', ''damage to the lateral cortex'', which may result in loss of reduction and sometimes non-consolidation (pseudarthrosis) after osteosynthesis.
+
+==Subtrochanteric fractures :==
+The fracture line is in a transition zone of the vascular territories. These fractures often have difficulty healing, with prolonged healing times or even pseudarthrosis.

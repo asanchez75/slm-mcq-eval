@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-073-07-B
+|Item_parent=Different types of psychotherapeutic techniques
+|Item_parent_short=Different types of psychotherapeutic techniques
+|Rank=B
+|Title=Knowing cognitive-behavioural therapies
+|Description=Theoretical and practical principles
+|Rubric=Management
+|Contributors=Amaury MENGIN
+|Order=7}}
+
+==== Cognitive behavioural therapies ====
+Theoretical principles :
+
+- 3 "waves
+
+o Behavioural (1<sup>rst</sup> half 20th century) - classical and operant conditioning: inappropriate learned behaviour
+
+o Cognitive (>1960): dysfunctional cognitive patterns give rise to behaviours
+
+o "Emotional" (>2000): emotional regulation enables cognition to be understood and behaviour to be modified - based on acceptance and mindfulness.
+
+- Practical details
+
+o Functional analysis (study of the problem)
+
+o Therapeutic objective
+
+o Assessment of effectiveness
+
+o Therapeutic contract
+
+o Behavioural method
+
+* Desensitisation: "in sensu" exposure (in the imagination)
+
+* Graduated ''in vivo'' exposure to the anxiogenic stimulus (in reality)
+
+* Immersion (''flooding''): direct, ungraded exposure
+
+o Cognitive method
+
+* Study and modify erroneous thought patterns
+
+* Self-affirmation
+
+* Social skills
+
+o Emotional method
+
+* Emotional regulation techniques (mindfulness, etc.)
+
+* Observation and acceptance of emotions
+
+* Commitment in line with its values
+
+- Numerous validated therapies: ACT (''Acceptance and Commitment Therapy''), DBT (''Dialectical and Behavioral Therapy)'', MBCT (''Mindfulness Based Cognitive Therapy'')

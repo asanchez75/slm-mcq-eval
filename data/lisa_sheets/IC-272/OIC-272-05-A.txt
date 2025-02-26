@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-272-05-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Title=Knowing the indications for upper endoscopy for ulcer pain
+|Description=None
+|Section=Additional examinations
+|Contributors=
+|Order=5}}
+Upper gastrointestinal endoscopy (UGOE) is used to confirm the diagnosis of an ulcer, which cannot be based on symptoms alone. Endoscopy is ''not systematically performed in cases of epigastric pain'', which can be treated empirically with PPIs as a first-line treatment. On the other hand, it is indicated (as in GERD) in ''patients over 50 years of age'', or with ''warning signs (dysphagia, weight loss, digestive haemorrhage, anaemia)'', or in cases of ''ineffectiveness of first-line symptomatic treatments''. EOGD confirms the diagnosis, eliminates differential diagnoses (cancer +++ in the case of gastric ulcers) and makes it possible to ''search for H. Pylori'' on biopsies. EOGD is performed under local or general anaesthetic. It visualises the oesophagus, stomach and 1st and 2nd duodenums. Morbidity is exceptional (haemorrhage, perforation), but prior information and consent with a record in the medical file are compulsory.

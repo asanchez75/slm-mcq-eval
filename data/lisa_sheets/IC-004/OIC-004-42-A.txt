@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-004-42-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Knowing the principle of reporting HCAIs
+|Description=The reporting of HCAEs: the mechanisms for reporting HCAEs,
+|Rubric=Definition
+|Contributors=
+|Order=42}}
+Healthcare establishments are required by law to report certain HCAIs "externally": those that are rare or special because of the micro-organism involved (rare species or resistance), the location of the infection (rarely infected site), its seriousness, or its link with a medical device or procedure that exposes patients to the risk of an epidemic (e.g. defective lava-endoscope). Healthcare-associated infections responsible for a death, as well as clustered cases of healthcare-associated infections, must be reported.
+
+This external reporting presupposes an internal HCAI detection system within the establishment.
+
+Healthcare establishments must report HCAIs to the health authority (regional health agency) and to the regional CPIAS (see above, "Understanding the structures responsible for healthcare-associated infections in France"), after validation by the hygiene practitioner. The ARS then forwards the report to Santé Publique France for analysis at national level.
+
+The patient(s) concerned must be informed of this report and the report must be recorded in the patient's file.

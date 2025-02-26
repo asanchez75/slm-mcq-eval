@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-057-07-B
+|Item_parent=Maltreatment and children at risk. Maternal and child protection
+|Item_parent_short=Maltreatment and children at risk. Mother and child protection
+|Rank=B
+|Title=Knowing the CT semiology of "shaken baby syndrome" (subdural haematoma (SDH), extradural haematoma (EHD))
+|Description=None
+|Rubric=Additional examinations
+|Contributors=
+|Order=7}}
+Subdural haematoma: crescent-shaped hyperdensity, in a convexity, extra parenchymal
+
+- Plurifocal, they are uni or bilateral, in the cerebral scythe and/or cerebellar tent.
+
+- sometimes associated with subarachnoid haemorrhage.
+
+Visualisation of bridge vein ruptures
+
+The predominance of subdural haematoma and the presence of clots in the vertex due to ruptured bridging veins are, in the acute phase, essential elements of the diagnosis.
+
+A haemorrhage in the cerebral scaffold or cerebellar tent is highly suggestive of the diagnosis. HSDs are not always visible initially because they may be masked by cerebral oedema.         
+
+source HAS: https://www.has-sante.fr/upload/docs/application/pdf/2017&#x20;09/reco239_recommandations_syndrome_bebebe_secoue.pdf

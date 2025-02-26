@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-311-04-A
+|Item_parent=Adult kidney tumours
+|Item_parent_short=Adult kidney tumours
+|Rank=A
+|Title=Knowing the clinical presentations of kidney tumours
+|Description=Knowing that these tumours are asymptomatic in a large percentage of cases, evoking the indications for consultation of onco-genetics in the case of associated pathologies, knowing the existence of. Para neoplastic syndrome
+|Rubric=Positive diagnosis
+|Contributors=Idir Ouzaid
+|Order=4}}
+
+==Circumstances of discovery==
+
+*No screening
+
+*Chance discovery (asymptomatic) on imaging done for other reasons in >50% of cases.
+*Localized forms at diagnosis: 85-90
+*Metastatic forms at diagnosis: 10-15%.
+
+==Local clinical signs==
+
+*[[2C-270|Lumbar pain 270]], gravity
+*[[2C-050|Varicocele 50]] right or recent onset
+*Lumbar contact (palpable mass, rare)
+*[[2C-260|Hematuria 260]]
+
+==General signs
+
+*Symptomatic metastases (pain, compressive mass syndrome, neurological signs)
+*AEG (weight loss, asthenia)
+*Paraneoplastic syndromes (seen in 30% of symptomatic forms of kidney cancer)
+**[[2C-213|Anemia 213]]
+**[[2C-268|Hypercalcaemia 268]]
+**Stauffer's syndrome (NASH)
+**[[2C-212|Polycythemia 212]]
+**[[2C-190|Fever 190]]
+**Biological inflammatory syndrome

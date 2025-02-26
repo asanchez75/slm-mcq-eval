@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-361-17-B
+|Item_parent=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Item_parent_short=Periarticular and ligament lesions of the knee, ankle and shoulder
+|Rank=B
+|Title=Radiography with severe ankle sprain
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=17}}
+
+
+In the case of a severe acute ankle sprain, an emergency X-ray should not be carried out (Ottawa criteria).
+
+In the case of a severe chronic ankle sprain, frontal weight-bearing X-rays may reveal arthritic changes in the tibio-talar joint (Figure 1). Forced varus radiographs (figure 2) may show an opening of the joint space, indicating lateral instability.
+[[File:Ankle laxity.jpg|vignette|411x411px|Figure 2: Lateral ankle laxity in forced varus showing chronic rupture of the lateral ligaments]]
+[[File:Ankle laxity cropped.jpg|left|vignette|457x457px|Figure 1: X-ray of the 2 ankles from the front with joint pinching of the right ankle and chronic laxity of the lateral ligaments (diastasis between the lateral malleolus and the lateral cheek of the talus)]]

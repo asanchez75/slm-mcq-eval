@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-331-13-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=Knowing the criteria for stopping resuscitation
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=13}}
+
+
+* Stopping resuscitation is a difficult decision, which must take into account the circumstances in which it occurred, the organisation of first aid and the context of the patient and his environment. Where possible, any wishes expressed by the patient should be taken into account. It is usual to stop resuscitation in the event of ''persistent asystole despite 30 minutes'' of well-executed resuscitation, except in cases of neuroprotection (hypothermia, intoxication) or persistence of a favourable and curable cause.
+* Exceptionally, certain patients in refractory cardiac arrest are rapidly transported for mechanical circulatory assistance (veno-arterial extracorporeal circulation). This strategy, which requires the use of an automated cardiac massage device, is reserved for certain ultra-specialised centres and in very specific situations. The neurological prognosis must still be preserved.

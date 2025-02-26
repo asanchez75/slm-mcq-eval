@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-332-07-B
+|Item_parent=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Item_parent_short=Shock. Main aetiologies: hypovolaemic, septic (see item 158), cardiogenic, anaphylactic.
+|Rank=B
+|Title=Know the investigation strategy for haemorrhagic shock
+|Description=None
+|Rubric=Additional investigations
+|Contributors=Julien Poissy
+|Order=7}}
+
+A distinction is made between
+
+1°) Biological tests. The aim is to confirm the haemorrhage, quantify the blood loss and assess its severity.
+
+This is how it works:
+
+- CBC-platelets
+
+- Arterial GDS with lactataemia
+
+- Haemostasis: PT, APTT, fibrinogen, ionised calcium
+
+- Group ABO-Rh
+
+
+2°) Etiological examinations :
+
+1.      External haemorrhage
+
+o Haematemesis, melena, rectal discharge: FOGD+/-rectosigmoidioscopy
+
+o Vascular wound/traumatic wound: external compression/twist and call the surgeon
+
+o Gynaeco-obstetric haemorrhage: under-valve examination, uterine revision
+
+2.      Non-external haemorrhage
+
+o Traumatic context: FAST-echo, chest x-ray, pelvic x-ray +/- injected thoraco-abdominal-pelvic CT scan
+
+o Non-trauma: injected thoraco-abdomino-pelvic scan

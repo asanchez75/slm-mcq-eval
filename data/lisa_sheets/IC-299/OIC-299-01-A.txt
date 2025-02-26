@@ -1,0 +1,42 @@
+{{knowledge objective
+|Identifiant=OIC-299-01-A
+|Item_parent=Intracranial tumours
+|Item_parent_short=Intra-cranial tumours
+|Rank=A
+|Title=Know the main types and locations of intracranial tumours
+|Description=Know how to distinguish: primary/secondary tumour, of the brain/adnexa, benign/malignant, fractal/rare, above or below the tentorial.
+|Rubric=Definition
+|Contributors=Dr Thiébaud PICART (Hospices Civils de Lyon),Dr Pierre ANTHÉRIEU (Toulouse University Hospital),Pr François VASSAL (Saint-Etienne University Hospital)
+|Order=1}}
+
+- Primary tumour: arising from intracranial tissue
+
+- Secondary tumour = metastasis: resulting from intracranial dissemination of a tumour originating in another organ/system.
+
+
+- Intra-parenchymal tumour: developed within the brain itself
+
+- Extra-parenchymal tumour: developed from the appendages of the brain, i.e. the meninges and cranial nerves.
+
+ 
+
+
+
+ 
+
+- Benign'' tumour: generally well circumscribed, slow-growing and with a good prognosis (e.g. meningioma).
+
+- Malignant tumour = cancer: rapidly progressive and with a poorer prognosis (e.g. glioblastoma)
+
+==Topography:==
+
+*Supra tentorial = "above the cerebellum tentum" (about 80% of cases in adults)
+*'''Infra tentorial =''''below the cerebellum tentum'' (about 20% of cases in adults)
+*The distribution of the different histological types is not homogeneous within these two groups +++.
+
+==Most frequent histological varieties, in descending order:==
+
+*Metastases
+*Gliomas (8 new cases/100,000 population/year)
+*Meningiomas (5 new cases / 100,000 inhabitants / year)
+*Pituitary adenomas (5 new cases/100,000 population/year)

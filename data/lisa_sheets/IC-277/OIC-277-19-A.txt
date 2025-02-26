@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-277-19-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the indication for imaging examinations in acute cholecystitis
+|Description= Ultrasound in 1st intention, scanner or bili-MRI can be discussed in 2nd intention
+|Section=Additional examinations
+|Contributors=
+|Order=19}}
+The 1st line imaging test for acute cholecystitis is abdominal ultrasound. An abdominal CT scan may be discussed as a 2nd line option.

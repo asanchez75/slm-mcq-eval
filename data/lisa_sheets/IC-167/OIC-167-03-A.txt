@@ -1,0 +1,205 @@
+{{knowledge objective
+|Identifiant=OIC-167-03-A
+|Item_parent=Viral Hepatitis
+|Item_parent_short=Viral hepatitis
+|Rank=A
+|Title=Knowing the different viruses (A to E)
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=3}}
+There are many viruses responsible for hepatitis. The most common are hepatotropic viruses A, B, C, D and E (known as HAV, HBV, HCV, HDV and HEV). These viruses are not directly cytopathogenic. It is the host immune response that is responsible for liver damage.
+
+HAV only causes acute hepatitis and there is no chronic form. Other viruses can cause acute or chronic hepatitis.
+
+
+Other viruses can cause acute hepatitis. The most common are viruses in the "herpes" group, such as Herpes simplex, Epstein-Barr, cytomegalovirus and varicella-zoster.
+
+
+Hepatitis A virus
+
+
+HAV is an RNA virus.
+
+The mode of contamination is enteric/faeco-oral. HAV is a virus that is transmitted by ingestion, either through contaminated water or food, or by an infected person in the family.
+
+
+The lower a country's socio-economic level, the higher its prevalence worldwide.
+
+France has a low endemic risk, with less than 50% of the population infected with HAV by the age of 50.
+
+In France, people at risk of contamination include
+
+- Travellers to endemic areas
+
+- People in precarious situations
+
+- Men who have sex with men
+
+
+Acute hepatitis A must be reported by the biologist or clinician who makes the diagnosis.
+
+
+Hepatitis E virus
+
+
+HEV is an RNA virus.
+
+The mode of contamination differs according to the genotype infecting the host.
+
+In France, hepatitis E has become the most common cause of acute viral hepatitis. It is transmitted zoonotically, by eating food contaminated with HEV (undercooked pork, game), more rarely by working in contact with animals (livestock farms).
+
+ 
+Transmission is most often faeco-oral in developing countries, zoonotic in developed countries (including France) following consumption of food contaminated with HEV (undercooked pork, game) or, more rarely, following exposure to animals (livestock farms).
+
+
+
+Hepatitis B and D viruses
+
+
+''VHB :''
+
+HBV is a DNA virus.
+
+HBV is a global public health problem, since one-third of the world's population is or has been in contact with HBV. Around 250 million people worldwide have chronic hepatitis B, mainly in South-East Asia, sub-Saharan Africa, China and the Amazon.
+
+HBV is unique in that it can cause both acute and chronic hepatitis. The risk of chronic infection depends on the age of infection: 90% in newborns, 30% in children and 10% in adults.
+
+
+In France, an estimated 7% of the general population have been in contact with HBV, including around 280,000 chronic infections.
+
+
+The main modes of contamination are :
+
+1. Sexual
+
+
+2. Maternal-foetal transmission at the time of delivery or transplacental transmission, especially if the viral load is high; the high risk of vertical contamination and the risk of the disease becoming chronic in the event of neonatal contamination justify the systematic early sero-vaccination of children of HBsAg-positive mothers before they leave the maternity hospital.  
+
+
+3. Blood
+
+- sharing toiletries; skin lesions (the source of intra-family and community transmission);
+ 
+- Unhygienic medical procedures: transfusions (safe in Western countries), surgery, haemodialysis, invasive procedures, acupuncture, dental care, use of recycled equipment;
+
+- Intravenous drug use, tattooing or piercing (if equipment is not sterilised)
+
+
+
+VHD:''
+
+The hepatitis delta virus (HDV) is a defective virus that depends on hepatitis B for replication. There is therefore no such thing as HDV infection without HBV infection. Around 5% of patients with HBsAg are co-infected with HDV.
+
+It is an RNA virus.
+
+It is also transmitted through sexual contact or blood. It is a rare virus in France (imported cases).
+
+Any HBV infection systematically leads to screening for HDV infection.
+
+As a sexually transmitted infection, it should also lead to screening for HIV infection and syphilis.
+
+
+
+Hepatitis C virus
+
+
+HCV is an RNA virus.
+
+HCV is a global public health problem, with 1% of the world's population chronically infected with the virus. The prevalence of the disease is declining in France, estimated at 0.7% of the general population, or less than 100,000 people.
+
+
+The modes of contamination of HCV are :
+
+* Blood
+
+- Blood transfusion before 1992
+
+- Intravenous and nasal drug addiction
+
+- Sexual practices, particularly those involving the risk of wounds or mucosal erosions (e.g. men who have sex with men).
+
+* Maternal-fetal (low risk < 5%)
+
+
+{| class="wikitable"
+|
+|Viruses and the genome
+|'''Transmission'''
+|Chronicity
+|Vaccine
+|Treatment
+|-
+|A
+|Nu
+
+RNA
+|Enteric / faeco-oral
+
+Homosexual man-man
+|NO
+|Yes
+
+Inactivated
+|No
+|-
+|B
+|DNA Enveloped
+|'''Sexual'''
+
+Parenteral
+
+'''Perinatal''''
+|YES`
+
+90% newborn babies
+
+10% adults
+|Yes
+|Yes if chronic
+
+Direct antivirals
+|-
+|C
+|Enveloped RNA
+|Parenteral
+
+Sexual
+
+Perinatal
+|YES
+
+80% of cases
+|No
+|Direct antivirals
+|-
+|D
+|Enveloped RNA
+|HBV
+|YES
+|HBV
+|Yes if chronic
+|-
+
+|E
+|Nu
+
+RNA
+|Enteric / faeco-oral
+
+Zoonotic
+|YES
+
+Rare: only if immunosuppression
+|No
+
+|Yes if chronic
+|}
+
+
+
+
+
+
+
+<br />

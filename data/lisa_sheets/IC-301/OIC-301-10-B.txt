@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-301-10-B
+|Item_parent=Colon and rectum tumours
+|Item_parent_short=Colon and rectum tumours
+|Rank=B
+|Title=Knowing the indication for a genetic test
+|Description=Detailing the indications for genetic testing and oncogenetic counselling for Lynch syndrome
+|Rubric=Management
+|Contributors=
+|Order=10}}
+The indication for '''constitutional genetic''' testing after a positive diagnosis of adenocarcinoma of the colon or rectum depends on the results of the pathological examination (cf '''2C-301-EC-B01)''''
+
+o If there is a loss of expression of one of the 4 proteins of the MMR (''MismatchRepair'') system or MSI (''MicroSatellite Instability'') status in the tumour, there is a suspicion of Lynch syndrome.
+
+o If no MSI status :
+
+§ If polyposis (on endoscopy or surgical specimen)
+
+§ In the absence of polyposis, depending on age and history :
+
+- Systematic before the age of 40
+
+- After the age of 40, in the presence of a first-degree family history of colorectal, non-colorectal digestive, corpus uteri or excreto-urinary adenocarcinoma, with at least 2 generations affected, 3 family cases, one of which before the age of 50 (Amsterdam II criteria).
+
+
+Somatic genetic testing (modification of tumour tissue only) is systematically indicated on tumour samples in metastatic situations, as the result influences the therapeutic indications (MSI, RAS and BRaf).

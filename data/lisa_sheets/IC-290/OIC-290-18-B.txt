@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-290-18-B
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=B
+|Title=Knowing the risk factors for bronchial cancers and mesothelioma in the workplace
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=18}}
+Tobacco (including passive), radiation, occupational exposure to certain chemical substances (asbestos), outdoor air pollution, personal or family history of lung cancer, personal history of lung disease.
+
+For mesothelioma, the only recognised occupational risk factor is asbestos.
+
+<br />

@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-340-11-A
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the strategy for additional investigations in the acute phase of a stroke
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=11}}
+- The purpose of additional investigations in the acute phase of a stroke is fourfold
+
+# confirm the diagnosis of stroke and whether it is ischaemic or haemorrhagic,
+# to assist in the acute phase therapeutic decision by assessing the indications and contraindications of recanalisation treatments in cerebral infarction or reversal in cerebral haemorrhage,
+# Identify acute complications, particularly cardiac complications of stroke,
+# identify the main causes of stroke so that secondary prevention treatment can be initiated early.
+
+- Confirmation of the diagnosis of the stroke and its nature will be obtained by performing a brain scan or MRI ([[Discovery of a cervico-facial abnormality on medical imaging examination SD-225|discovery of a cervico-facial abnormality on medical imaging examination]] ; [[Discovery of a brain abnormality during a medical imaging examination SD-226|discovery of a brain abnormality during a medical imaging examination]]; [[Request for an imaging examination SD-231|request for an imaging examination]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|identify/recognise the different imaging examinations]]. 
+
+* On a CT scan, cerebral infarction appears as hypodensity, whereas cerebral haemorrhage appears as spontaneous hyperdensity.
+* On MRI, the infarct is identified on the diffusion sequence, whereas the haemorrhage is visualised on the T2* sequence. The main differential diagnosis is hypoglycaemia ([[Hypoglycaemia SD-209|hypoglycaemia]]).
+
+- In the context of cerebral infarction, the revascularisation strategy will depend on
+
+* the presence of a proximal occlusion of an intracranial artery identified on angioscan or MRI ([[Discovery of a brain abnormality on medical imaging examination SD-226|discovery of a brain abnormality on medical imaging examination]] ; [Request for an imaging examination SD-231|Request for an imaging examination]]; [[Identify/recognise the different imaging examinations (type/window/sequences/incidence/injection) SD-233|identify/recognise the different imaging examinations]]),
+* the results of the biological work-up with analysis of the haemogram and coagulation work-up carried out to assess the risk of haemorrhagic complications associated with thrombolytic and antithrombotic treatments ([[Interpretation of the haemogram SD-223|interpretation of the haemogram]] ; [Platelet abnormality SD-215|platelet abnormality]]; [[Decreased prothrombin level (tp) SD-218|decreased prothrombin level]]; [[Prolonged activated partial thromboplastin time (tca) SD-213|longed activated partial thromboplastin time]]). 
+
+- In the case of cerebral haemorrhage on anticoagulants, the coagulation work-up will help to decide on a reversal strategy ([[Decrease in prothrombin rate (tp) SD-218|decrease in prothrombin rate]]; [[Prolongation of activated partial thromboplastin time (tca) SD-213|prolongation of activated partial thromboplastin time]]). A minimum metabolic work-up assessing renal function, kalaemia ([[Dyskalaemia SD-201|dyskalaemia]]), natremia ([[Dysnatremia SD-202|dysnatremia]]), glycaemia ([[Hyperglycaemia SD-208|hyperglycaemia]]) will optimise the management of acute cerebral insult factors.
+
+- Given the increased risk of myocardial infarction and rhythm disorders in the acute phase of a stroke, an electrocardiogram and troponin measurement will be performed ([[Performing and interpreting an electrocardiogram (ecg) SD-185|performing and interpreting an electrocardiogram]]; [[Elevating cardiac enzymes SD-204|elevating cardiac enzymes]]).

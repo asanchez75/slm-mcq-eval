@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-150-01-A
+|Item_parent=Infectious infections of adults and children
+|Item_parent_short=Infectious infections of adults and children
+|Rank=A
+|Intitle=Know the definitions: earache, different types of earache
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+
+* Otalgia'': reflex or projected pain resulting from a cervico-facial, temporo-mandibular, buccal or pharyngo-laryngeal disorder, in particular neoplasia, felt in the ear by the patient.
+* Otodynia'' : pain linked to a disorder of the outer or middle ear
+* '''Different types of otitis:'''
+** Otitis externa: inflammation of the external auditory canal
+** Other causes of external earache: shingles, earwax, foreign bodies, tumours, etc.
+** Acute otitis media: inflammation of the tympanic cavity
+** Phlyctenular otitis: presence of phlyctenes on the tympanic membrane.
+** Chronic otitis: inflammatory process of the middle ear lasting more than 3 months.
+** Reflex earache: due to irritation of the trigeminal, facial, glossopharyngeal, pneumogastric or cervical sympathetic nerve.

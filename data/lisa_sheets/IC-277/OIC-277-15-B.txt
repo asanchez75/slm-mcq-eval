@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-277-15-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Title=Knowing the six main risk factors for gallstones
+|Description=Age - sex - obesity - fatness - prolonged youth and parenteral nutrition - surgical history (gastrectomy-bypass)
+|Rubric=Etiologies
+|Contributors=
+|Order=15}}
+The 6 main risk factors for cholestatic biliary lithiasis are :
+
+- age
+
+- the female sex
+
+- overweight (obesity)
+
+- pregnancy
+
+- prolonged fasting and parenteral nutrition
+
+- history of gastrectomy or bypass surgery
+
+Certain drugs (oestrogens, fibrates, somatostatin analogues) can also cause cholesterol stones.

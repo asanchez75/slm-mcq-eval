@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-200-13-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Differentiating between mechanical and inflammatory effusion
+|Description=Knowing how to interpret joint fluid analysis
+|Rubric=Additional examinations
+|Contributors=
+|Order=13}}
+
+{| class="wikitable"
+|
+|Mechanical effusion
+|Inflammatory effusion
+|-
+|'''Macroscopic appearance '''
+|Lemon yellow, translucent and viscous
+|cloudy, fluid or purulent
+|-
+|'''Leukocytes / mm<sup>3</sup>''''
+|< 2000
+|> 2000
+|}

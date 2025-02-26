@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-098-04-B
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=B
+|Title=Knowing the existence of pure ocular forms and generalised forms of myasthenia gravis
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+<br />
+
+=== 1- Pure ocular myasthenia and generalised myasthenia ===
+In 50% of cases, the initial symptoms are purely ocular. In 10 to 15% of patients, the disease remains localised to the ocular muscles after 2 years (visual abnormalities; diplopia; palpebral abnormalities), and is then referred to as ocular myasthenia, although in rare cases generalisation may occur later (generalised myasthenia).
+
+Ocular myasthenia cannot therefore be diagnosed until 2 years after the first signs. The characteristics of ocular myasthenia are as follows:
+
+* Predominantly male
+* Most often occurs after the age of 40
+* Thymoma is rare
+* Neuromuscular block is frequently absent on ENMG (because it is found on extraocular nerve-muscle pairs).
+* Anti-RACh antibodies are absent in half the cases.
+* Poor response to anticholinesterase treatment.
+* These forms of myasthenia essentially pose a functional problem.
+
+=== 2- Forms with anti-MuSK (''Muscle Specific Kinase)'' ===
+
+* Predominantly female, and most often generalised forms.
+* Bulbar involvement more frequent than in other forms, with atrophy of the tongue (difficulty swallowing or false swallowing).
+* Frequency of myasthenic attacks with frequent respiratory involvement (dyspnoea; acute respiratory distress).
+* No thymoma
+* ENMG exploration is frequently negative.
+* Poor response to anticholinesterase drugs
+* Plasma exchange is often more effective than IVIg.
+* Very high efficacy of anti-CD20 (Rituximab)
+
+<br />

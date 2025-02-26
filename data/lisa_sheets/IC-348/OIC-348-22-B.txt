@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-348-22-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the different possible courses of acute tubular necrosis (ATN)
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Gabriel Choukroun
+|Order=22}}
+
+Mortality during ARF is high, ranging from 10 to 70% depending on the aetiology and the setting in which it occurs.
+
+There are many factors influencing renal and vital prognosis:
+
+* Renal: Level of previous renal function ;
+
+Type of AKI: the prognosis for AKI is usually good. After an ARF phase lasting 1 to 3 weeks, renal function gradually recovers and returns to its previous state. This recovery is due to regeneration of the necrotic tubular epithelium. Nevertheless, a sequel (''CKD'') is possible.
+
+* Vital prognosis factors include the presence of septic shock, associated visceral failure, the occurrence of complications and the setting in which the AKI occurs.
+
+<br />

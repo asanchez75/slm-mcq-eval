@@ -1,0 +1,89 @@
+{{knowledge objective
+|Identifiant=OIC-211-06-B
+|Item_parent=Sarcoidosis
+|Item_parent_short=Sarcoidosis
+|Rank=B
+|Title=Knowing the main extra-respiratory symptoms
+|Description=Excluding Lofgren's syndrome and erythema nodosum
+|Heading=Positive diagnosis
+|Contributors=
+|Order=6}}
+
+
+
+'''<u>Main extra-respiratory manifestations</u>''''
+
+- Organs affected in more than 10% of patients: skin, eyes, liver, spleen, peripheral lymph nodes, ENT.
+
+- All other conditions are rare.
+
+<br />
+
+== '''Skin lesions''' ''([[SD-084-Skin lesion/"mole"|skin lesion]])'' (excluding erythema nodosum)==
+- Sarcoid: lesions of variable size, infiltrated
+
+- Simple, cost-effective biopsy sites (biopsy of infiltrated areas)
+
+- Predilection for traumatised areas (scars ('''[[SD-083-Annormal scar|abnormal scar]]'''), tattoos)
+
+- Lupus pernio: rare but with a poor prognosis (chronic and severe forms of sarcoidosis); skin involvement of the face (purplish patches on the nose and cheeks in the shape of butterfly wings) and extremities (NB: no link with lupus except for the fact that it affects the face).
+
+==Ophthalmological disease ==
+- Uveitis ('''[[SD-152-Red and/or painful eye|red and/or painful eye]]''')
+
+- Most often anterior, but can affect all sectors
+
+- Uni or bilateral
+
+==ENT disease ==
+- Frustrating clinical signs (nasal obstruction) or more marked signs (epistaxis, crusting)
+
+- Poor prognostic value.
+
+==Hepato-splenic disease ==
+- Most often asymptomatic
+
+'''- Mainly biological diagnosis: [[SD-198-Cholestase|Cholestase]]''' or cytolysis in the case of liver damage
+
+- '''[[SD-058-Splenomegaly|Splenomegaly]]''' or '''[[SD-006-Hepatomegaly|hepatomegaly]]''' clinical or imaging (sometimes nodular in appearance on imaging)
+
+<br />
+
+== '''Peripheral lymph nodes''' ('''[[SD-016-Single or multiple lymph nodes|single or multiple lymph nodes]]'''')==
+- Any territory, including epitrochlear (suggestive)
+
+- Easy biopsy site
+
+- Classically non-compressive.
+<br />
+
+==Central and peripheral nervous system disorders ==
+- Rare (< 5% of patients)
+
+- All nerve structures can be affected
+
+- With or without meningitis (usually lymphocytic and may be hypoglycorrhagic)
+
+- Cranial nerves frequently affected, particularly peripheral ''[[SD-127-Facial paralysis|facial paralysis]]'''.
+<br />
+
+==Heart disease ==
+- Rare (< 5% of patients)
+
+- Serious (cause of death)
+
+- Can cause sudden death
+
+- Conductive or rhythmic disorders
+
+- Must be detected at diagnosis and during follow-up at least by questioning (malaise, palpitations) and an electrocardiogram ''([[SD-185-Realisation and interpretation of an electrocardiogram (ecg)|realisation et interprétation d'un électrocardiogram (ECG)]]'')
+<br />
+
+== '''Rheumatological disorders'''==
+- '''[[SD-067-Joint Pain|Joint Pain]]''' or polyarthritis possible.
+<br />
+
+==Renal impairment ==
+- Rare
+
+- Interstitial nephropathy ('''[[SD-199-Enhanced creatinine|Elevation of creatinine]]''')

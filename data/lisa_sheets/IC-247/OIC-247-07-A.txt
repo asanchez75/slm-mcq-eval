@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-247-07-A
+|Item_parent=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Item_parent_short=Diabetes mellitus type 1 and 2 in children and adults. Complications
+|Rank=A
+|Title=Knowing the risk factors for the onset of macroangiopathic disorders
+|Description=None
+|Section=Follow-up and/or prognosis
+|Contributors=Gaetan Prévost,Eva Feigerlova,Hélène Bihan,Etienne Larger,Claire Briet
+|Order=7}}
+
+The macrovascular damage caused by diabetes is concentrated in the heart (risk of coronary heart disease X2 to 4) and the large vessels (risk of OIA X5 and risk of stroke X2).
+
+The pathophysiology shares many similarities with non-diabetic atheroma, although a few clinical differences can be identified in diabetic patients: onset at an earlier age, lesions that are often more extensive and less symptomatic (less neuropathy-related pain).
+
+
+Follow-up studies have shown that the risk factors for macrovascular disease in T2DM patients, after adjustment for age and sex, are as follows
+
+1/ glycaemic control (HbA1c)
+
+2/ lipid balance (especially LDL, but also low HDL) [[Analyse du bilan lipidique SD-195]]
+
+3/ Blood pressure balance (systolic BP) [[Hypertension SD-042]] [[Hypertension in adults and children]]
+
+4/Smoking [[Prevention of tobacco-related risks SD-314]]  [[Male/female smoking 2C-075-PE-A02]]

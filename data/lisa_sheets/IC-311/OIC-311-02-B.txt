@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-311-02-B
+|Item_parent=Adult kidney tumours
+|Item_parent_short=Adult kidney tumours
+|Rank=B
+|Title=Knowing the risk factors
+|Description=Knowing the risk factors, including genetic forms
+|Topic=Epidemiology
+|Contributors=Idir Ouzaid
+|Order=2}}
+
+==Risk factors
+
+*Family and personal history of kidney tumours
+*Genetic syndromes
+*[[2C-224|HTA 224]]
+*[[2C-075|Tobacco 75]]
+*[[Childhood and adult obesity (see item 71)|Obesity 253]]
+*[[2C-264|Chronic Renal Failure 264]]/[[2C-201|Hemodialysis/Renal Transplant 201]]
+*Age
+*Male
+
+==Most frequent genetic forms==
+[[File:Most_frequent_genetic_forms.jpg|alt=|sans_cadre|670x670px]]
+
+
+==Indication for an oncogenetic consultation in the case of kidney cancer=
+
+*Kidney tumour before the age of 45
+*Rare tumours (tumours other than clear cell cancer)
+*Multiple and/or bilateral tumours
+*Family history of renal tumour
+*Association with other extra-renal clinical manifestations in the patient or relatives (syndromic manifestations)
+
+(AFU 2022-2024 Cancer Committee recommendations)

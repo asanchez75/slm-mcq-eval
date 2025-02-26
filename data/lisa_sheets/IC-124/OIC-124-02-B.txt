@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-124-02-B
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=B
+|Title=Knowing the epidemiological characteristics of the natural menopause
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Florence Trémollieres,Anna Gosset
+|Order=2}}
+
+The median age of natural menopause in the European population is between 50 and 51 and a half.
+
+Around 10-15% of women will reach menopause before the age of 45.

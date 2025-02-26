@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-177-32-B
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=B
+|Title=Know how to monitor children undergoing antibiotic therapy.
+|Description=None
+|Heading=Monitoring and/or prognosis
+|Contributors=
+|Order=32}}
+The principles of monitoring children undergoing antibiotic therapy are the same as those for adults, with a few special features relating to children:
+
+- efficacy monitoring: clinical response in the first instance, possibly biological or radiological response
+
+- tolerance: clinical or biological side effects (biological tolerance, particularly renal and hepatic, in children is generally much better than in adults because of the much lower frequency of co-morbidities)
+
+- dosage of certain antibiotics (vancomycin, aminoglycosides) or in certain cases of severe infection or therapeutic failure
+
+- re-evaluation of the indication = systematic: is antibiotic therapy still necessary in the light of new developments? adaptation to the antibiogram
+
+
+In the event of failure (persistence of fever, for example), a number of factors need to be taken into account
+
+- administration or compliance problems: in particular, some children have difficulty taking it orally (bad taste, neophobia, etc.)
+
+- poor microbiological prognosis: bacterial infection other than that targeted by empirical antibiotic therapy, multi-microbial infection, non-bacterial infection (virus), resistant bacterium
+
+- wrong choice of antibiotic: poor diffusion, wrong method of administration, wrong spectrum
+
+- emergence of resistance under treatment: microbiological documentation +++.
+
+- factors preventing or limiting the action of antibiotics: drug interactions, abscessed collection (need for drainage ++), foreign material, etc.
+
+- complications: spread of infection to sites not targeted by antibiotic therapy (poor distribution of antibiotics) or organisation of collections to be drained
+
+- misdiagnosis: non-infectious cause
+
+<br />

@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-236-04-B
+|Item_parent=Intracardiac conduction disorders
+|Item_parent_short=Intracardiac conduction disorders
+|Rank=B
+|Title=Knowing first-line investigations in the case of sinus dysfunction or DCT
+|Description=Etiological investigation
+|Section=Complementary examinations
+|Contributors=Vincent Galand
+|Order=4}}
+ 
+
+Look for underlying heart disease and curable aetiology
+<br />
+{| class="wikitable"
+|'''Examinations'''
+|'''Objective'''
+|-
+|ECG
+|Search for associated acute coronary syndrome
+|-
+|Blood ionogram
+|Check for hyperkalaemia
+|-
+|Troponins
+|If conduction disorder of ischaemic origin suspected
+|-
+|Cardiac ultrasound
+|Search for underlying heart disease: reduced ejection fraction, tight aortic stenosis, argument for endocarditis, hypertrophy of ventricular walls (overload disease), etc.
+|-
+|Lyme serology
+|If patient at risk of Lyme disease
+|}
+[[File:Image7-236.jpg|vignette|582x582px|''Example of complete BAV with coronary syndrome with inferior ST-segment elevation'']]

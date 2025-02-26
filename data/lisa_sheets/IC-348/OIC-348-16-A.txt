@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-348-16-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing the treatment of obstructive renal failure and the management of obstructive obstruction syndrome
+|Description=Know the indications and methods of urinary diversion and their complications, know how to compensate for hyperdiuresis due to the removal of an obstruction.
+|Rubric=Management
+|Contributors=Gabriel Choukroun, Bruno Moulin
+|Order=16}}
+
+==Principles of ARF treatment===
+o ''Medical and surgical emergency'': Obstructive AKI complicated by fluid and sodium overload, hyperkalaemia or sepsis is life-threatening.
+
+o Urine drainage
+
+*Is an emergency in the event of anuria or associated infectious syndrome (risk of pyonephrosis and septic shock);
+*By bladder catheterisation or bladder catheterisation via the suprapubic route if the obstruction is in the lower tract, or the insertion of an endoureteral catheter via the bladder (JJ catheter) or percutaneous nephrostomy if the obstruction is higher up;
+*Slow and fractioned evacuation of urine (clamping for a few minutes every 300 mL or so) to prevent bladder haemorrhage "a vacuo";
+*After urine diversion, there is a risk of resumption of abundant diuresis (polyuria on removal of an obstacle > 150 to 200 mL/h), requiring volume/volume compensation in solutes (isotonic saline and/or isotonic sodium bicarbonate) for the first few hours, adapted to the clinical situation and blood ionogram, and gradually tapering off over a few days. Renal function returns to normal if the obstruction is recent.

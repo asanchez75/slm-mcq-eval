@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-130-07-A
+|Item_parent=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Item_parent_short=The elderly patient: semiological, psychological and therapeutic particularities. (see item 322)
+|Rank=A
+|Title=Know the definition of polypathology
+|Description=Presence of at least 5 chronic diseases in the same elderly person.
+|Rubric=Definition
+|Contributors=
+|Order=7}}
+The number of pathologies increases with age, and the definition of polypathology varies from one source to another. Some define it as the presence of more than one co-morbidity, while others arbitrarily define it as the concomitant presence of 5 chronic pathologies, which corresponds to the average number of pathologies in geriatric patients.
+
+'''Polypathology is associated with polymedication and an increased risk of iatrogenesis'''.

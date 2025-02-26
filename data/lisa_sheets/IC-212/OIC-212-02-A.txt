@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-212-02-A
+|Item_parent=Hemograms in adults and children: indications and interpretation
+|Item_parent_short=Hemograms in adults and children: indications and interpretation
+|Rank=A
+|Title=Knowing the qualitative parameters of the haemogram
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=2}}
+'''Myelimia:''''
+
+Myeloma is the passage into the blood of immature granular forms (bone marrow precursors): metamyelocytes, myelocytes and, less frequently, promyelocytes. Myeloma is physiological in the first week of life (0-1.5 x10<sup>9</sup>/L).
+
+Significant myelimia (greater than 2%) is pathological.
+
+'''Blood erythroblastosis (erythroblastemia)''' corresponds to the passage of erythroblasts (precursors of red blood cells in the marrow) into the blood. It is also physiological in the first week of life (<1 x10<sup>9</sup>/L) and then completely regresses.
+
+PRCA is the combination of myeloma and erythroblastosis of the blood.
+
+Examination of the blood smear under the microscope by an experienced operator is the only technique that can identify morphological abnormalities in red blood cells, platelets and leukocytes, including the identification of abnormal cells.

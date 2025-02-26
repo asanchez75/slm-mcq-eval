@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-346-01-A
+|Item_parent=Convulsions in infants and children
+|Item_parent_short=Convulsions in infants and children
+|Rank=A
+|Title=Knowing the main clinical pictures of a convulsive seizure in infants and young children
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+
+
+
+- term "convulsion" = seizures of a [[Epilepsy in children and adults|epileptic]] nature with motor signs <> epileptic absences = no motor signs
+
+- Diagnosis based on questioning (seizure over at the time of consultation) - can be helped by video (to be advised to parents if repeated manifestations)
+
+- the importance of being able to describe the symptoms observed
+
+- recognise the different types of generalised or focal seizures
+
+- gather background information (history, head injury, infection, fever, etc.)
+
+- look for arguments for differential diagnoses (spasm of the sob, shivering, tremors, vagal syncope, sleep myoclonus)

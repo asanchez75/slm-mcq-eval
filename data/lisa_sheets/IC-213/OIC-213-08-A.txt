@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-213-08-A
+|Item_parent=Anemia in adults and children
+|Item_parent_short=Anemia in adults and children
+|Rank=A
+|Title=Know the two emergencies associated with anaemia and the signs of seriousness (terrain, speed of onset and depth).
+|Description=Acute haemorrhage and haemolysis
+|Rubric=Identification of the emergency
+|Contributors=
+|Order=8}}
+1.     H'''acute haemorrhage''' : '''acute bleeding (acute haemorrhage)''' profuse externalized ('''digestive haemorrhage'' ('''melena/rectorrhagia, emission of blood through the mouth'''), '''gynaecological''' ('''abnormal genital bleeding (outside known pregnancy), abnormal post-partum genital bleeding, genital bleeding during pregnancy''') or not (deep haematoma, post-operative context...).
+
+
+2.      Acute emolysis
+
+* intravascular": hyperthermia with chills, intense malaise, nausea, abdominal pain, back pain, dark urine, intense pallor and signs of acute anaemia, shock which may precede coma.
+* extravascular

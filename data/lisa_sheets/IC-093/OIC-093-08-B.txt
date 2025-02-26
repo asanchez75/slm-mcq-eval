@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-093-08-B
+|Item_parent=Non-traumatic spinal cord compression and cauda equina syndrome
+|Item_parent_short=Non-traumatic spinal cord compression and cauda equina syndrome
+|Rank=B
+|Title=Knowing the topographical forms
+|Description=Know how to identify the clinical features of the different levels of dorsal, low cervical and high cervical spinal cord compression.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=8}}
+
+==Topographical forms in height:==
+'''Upper cervical involvement (C1 to C4)''' : [[Sensory and/or motor neurological deficit SD-121|tetraparesis/plegia]] with [[Dyspnoea SD-162|ventilatory disorder]] due to diaphragmatic paralysis
+
+'''Lower cervical involvement''': lesion syndrome = [[Brachial pain, burning, cramping and paresthesia SD-073|neuralgia]]; sub-lesion syndrome = [[Sensory and/or motor neurological deficit SD-121|tetraparesis/plegia]]; Hoffman's sign; Lhermitte's sign
+
+'''Affteinte dorsale/thoracique''': lesion syndrome = [[Douleur, brûlure, crampes et paresthésies SD-073|névralgie]] intercostale, abolition du réflexe cutané abdominale; syndrome sous-lésionnel = [[Déficit neurologique sensitif et/ou moteur SD-121|tétraparésie/plégie]]
+
+'''Terminal cone involvement''' : lesional syndrome = [[Pain, burning, cramps and paresthesias SD-073|neuralgia]] genitofemoral (L1), abolition of cremasteric reflex and [[Sensory and/or motor neurological deficit SD-121|motor deficit]] proximal (psoas) flaccid (peripheral) ; subinjury syndrome = [[Sensory and/or motor neurological deficit SD-121|motor deficit]] distal pyramidal (central); [[Voiding abnormality SD-023|neurological bladder]] peripheral
+
+==Topographical shapes in width:==
+incomplete involvement in the event of lateral, posterior, anterior or central compression (see transverse anatomical/functional organisation of the spinal cord, with distribution of the long tracts in their respective cords)
+
+'''Spinal cord hemisection (or Brown-Séquard) syndrome''' : [[Sensory and/or motor neurological deficit SD-121|syndrome]] pyramidal and homolateral posterior cord, and contralateral thermo-algesic anaesthesia.
+
+'''Posterior cord syndrome''': predominantly lemniscal involvement, with [[Balance disorders SD-130|balance disorders]] by proprioceptive ataxia
+
+Schneider's syndrome (or anterior spinal cord contusion)'': classically encountered in acute post-traumatic decompensation of a narrow cervical canal, with anterior spinal cord contusion in contact with disco-arthrosic lesions (impact during deceleration). Predominantly motor impairment, with predominantly brachial [[Sensory and/or motor neurological deficit SD-121|tetraparesis]].
+
+'''Centromedullary syndrome''': classically encountered in syringomyelia. Segmental interruption of the decussation of the spinothalamic bundle at the level of the anterior grey commissure. [Sensory and/or motor neurological deficit SD-121|Bilateral deficit]] suspended thermo-algesic sensitivity, on the dermatomes corresponding to the level of compression.

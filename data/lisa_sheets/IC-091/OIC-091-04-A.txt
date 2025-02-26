@@ -1,0 +1,35 @@
+{{knowledge objective
+|Identifiant=OIC-091-04-A
+|Item_parent=Recent neurological deficit (see item 340)
+|Item_parent_short=Recent neurological deficit (see item 340)
+|Rank=A
+|Title=Distinguish between a recent neurological deficit of peripheral or central origin.
+|Description=None
+|Heading=Positive diagnosis
+|Contributors=
+|Order=4}}
+- Involvement of the ''central nervous system'' (encephalic or spinal cord lesion) is evoked when :
+
+- involvement of a hemicompartment (motor or sensory) ([[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]); presence of signs of cortical involvement: aphasia ([[Speech and/or phonation disorder SD-134|Speech and/or phonation disorder]])
+
+- homonymous lateral hemianopia ([[Vision abnormality SD-138|Vision abnormality]]) or cognitive (aphasia...) ([[Speech and/or phonation disorders SD-134|Speech and/or phonation disorders]]), gnostic disorders ;
+
+- associated vigilance disorders ([[Coma and consciousness disorders SD-028|Coma and consciousness disorders]]);
+
+- association with an epileptic seizure ([[Convulsions SD-120|Convulsions]]) ;
+
+- damage to the cranial pairs or oculomotricity associated with damage to the long tracts, pointing to damage to the brain stem;
+
+- pyramidal signs ;
+
+- a frank abdominal or thoracic sensory level (spinal cord).
+
+- Involvement of the ''peripheral nervous system'' (on the roots, plexuses, nerve trunks) is evoked when :
+
+- fasciculations, amyotrophy ;
+
+- a motor or sensory deficit ([[Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]) of radicular or truncal "topography" systematised in one (or more) nerve root(s) or trunk(s) ;
+
+- a reduction or abolition of tendon reflexes - non-specific, as this is also the case in the initial "flaccid" phase of a motor deficit of central origin;
+
+- distal involvement of the lower limbs without vesicosphincter disorders.

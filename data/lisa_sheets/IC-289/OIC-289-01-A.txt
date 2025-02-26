@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-289-01-A
+|Item_parent=Parietal hernia in children and adults
+|Item_parent_short=Parietal hernia in children and adults
+|Rank=A
+|Heading=Know the definition of a hernia, a ventration, an evisceration
+|Description=None
+|Rubric=Definition
+|Contributors=Pablo ORTEGA DEBALLON,David MOSZKOWICZ,Olivier FARGES
+|Order=1}}
+
+[[Discovery of a pelvic anomaly on medical imaging examination SD-229|A hernia is the exit of a visceral structure through an orifice, thus leaving its normal anatomical location. In the specific case of the abdominal wall, the hernial orifice is located in the abdominal wall and the contents correspond to one or more abdominal structures. In a hernia, a distinction is made between the defect in the abdominal wall ("neck" or hernia "orifice"), the "sac" of parietal peritoneum enveloping the viscera and the "contents" of the hernia sac. (Figure 1A and B)]]
+
+- Abdominal wall hernias can occur spontaneously in areas of natural anatomical weakness in the abdominal wall ('primary hernias', such as the 'umbilical' or 'inguinal') or as a result of trauma that weakens the abdominal wall ('ventration', typically following surgery).
+
+- In the groin (the area most affected), a distinction is made between hernias that emerge through the external inguinal orifice ("inguinal hernias" proper) and hernias situated below the inguinal ligament in connection with the femoral vessels ("femoral hernias").
+
+- Ventration (remote from surgery) should not be confused with "evisceration" (Figure 2A and B). The latter is an early complication of abdominal surgery, since it involves the actual exit of visceral contents through a wound (surgical or traumatic) which involves the entire thickness of the abdominal wall, without a peritoneal sac enveloping the viscera.
+
+[[Parietal mass/turfaction SD-009]]<gallery>
+File:FIg 1A.jpg|Fig 1A: CT scan view of a linea alba hernia (A).
+File:Fig 1B.jpg|Fig 1B: The hernial orifice (neck) has been marked in green, the hernial sac in red and the visceral contents of the sac (in this case it is the transverse colon) coloured yellow.
+File:Fig 2A..jpg|Fig 2A: The ventration is a hernia that appears over an incision once the skin has healed, because there is a dehiscence of the underlying muscular plane.
+File:Fig 2B..jpg|Fig 2B: Evisceration is the complete opening of the surgical wound and corresponds to an early complication of surgery.
+</gallery>

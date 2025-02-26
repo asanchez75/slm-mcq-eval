@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-324-06-A
+|Item_parent=Therapeutic education, compliance and self-medication
+|Item_parent_short=Therapeutic education, compliance and self-medication
+|Rank=A
+|Title=Know the definition of the concepts of compliance, concordance and alliance in therapeutics.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=6}}
+A major public health problem, particularly in view of the increase in chronic diseases.
+
+Non-compliance with treatment must be prevented by all possible means.
+
+Compliance with treatment is defined by the WHO as the level at which the patient's behaviour coincides with drug prescriptions, but also with care in the broad sense (consultations, explorations, monitoring) and lifestyle recommendations (eating habits, physical activity, stopping smoking, etc.). We prefer to talk about ''adherence'', which reflects the patient's active participation in his or her treatment, unlike compliance, which is a factual figure.
+
+-The term "concordance" is also used to describe the level of agreement between the doctor's prescriptions and the patient's behaviour in response to these recommendations.
+
+-The notion of ''therapeutic alliance'' (which includes adherence to treatment) is a process of construction and refers to the collaboration between patient and carer leading to concerted prescriptions.

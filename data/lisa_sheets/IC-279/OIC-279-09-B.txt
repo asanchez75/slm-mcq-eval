@@ -1,0 +1,108 @@
+{{knowledge objective
+|Identifiant=OIC-279-09-B
+|Item_parent=Cirrhosis and complications
+|Item_parent_short=Cirrhosis and complications
+|Rank=B
+|Title=Know the principles of therapeutic management of liver cirrhosis and its main complications (hepatic encephalopathy, ascites, digestive haemorrhage).
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=9}}
+'''A- General principles of management of cirrhosis'''
+
+Treating the cause
+
+In patients with "compensated cirrhosis", the aim is to prevent complications (prevention, screening, see below). In patients with ''decompensated cirrhosis'', the aim is to return to a sustainable situation of compensated cirrhosis. Specialist advice is always warranted to avoid ignoring the possibility of liver transplantation, a radical treatment for cirrhosis.
+
+=== 1 - Alcohol-related cirrhosis and alcoholic hepatitis ===
+The first step in treatment is to stop drinking alcohol completely and permanently.
+
+Severe acute alcoholic hepatitis is an acute complication that most often occurs in cirrhotic liver. Clinically, it should be suspected in the presence of recent jaundice, less than 3 months old. Moderate fever is sometimes present. Blood tests show an increase in total bilirubin > 50 μmol/L, hypertransaminasemia predominating over moderate AST (less than 10 times the upper limit of normal), a fall in PT, neutrophil hyperleukocytosis and an inflammatory syndrome. The severity of alcoholic hepatitis is assessed by the Maddrey score based on PT and bilirubinemia.
+
+=== 2 - Cirrhosis secondary to chronic hepatitis B ===
+When hepatitis B has reached the stage of cirrhosis, antiviral treatment should be offered, even in cases of low viremia (see item 167).
+
+=== 3 - Cirrhosis secondary to chronic hepatitis C ===
+Treatment is based on combinations of direct antivirals: these are oral treatments which are very well tolerated and enable eradication in 99% of cases.
+
+=== 4 - Other measures
+Independently of the treatment of the causative disease, the main objectives of long-term management of cirrhotic patients are:
+
+- Prevent digestive haemorrhage related to portal hypertension or its recurrence;
+
+- Controlling ascites and oedema;
+
+- Prevent infection of ascites fluid in patients at risk;
+
+- Prevent episodes of encephalopathy;
+
+- Systematic screening for hepatocellular carcinoma.
+
+- Prevent bacterial infections (pneumococcus) and viral infections (hepatitis A and B in the absence of serological markers of acquired immunity, seasonal influenza, COVID) - sources of morbidity and mortality - through vaccination.
+
+
+
+=== B- Therapeutic management of complications ===
+
+=== 1/ Management of gastrointestinal haemorrhage related to portal hypertension ===
+
+==== General measures ====
+Cirrhotic patients with upper GI haemorrhage should be transferred to an intensive care or resuscitation unit.
+
+In the event of severe hypotension or shock, the first step in management is to insert two peripheral venous lines of good calibre, followed by vascular filling. A blood transfusion is justified if the anaemia is poorly tolerated or if the haemoglobin level is less than 7 g/dL. The aim of the transfusion is to obtain a haemoglobin level of 7-8 g/dL. At the same time, biological tests must be carried out, including a blood count and blood group determination.
+
+The use of a nasogastric tube is no longer recommended.
+
+In most cases, the haemorrhage stops spontaneously at the time of treatment. The aim is to prevent early recurrence, which is common in the absence of specific treatment. The correction of haemostasis disorders by transfusions of fresh frozen plasma or other blood derivatives is not recommended.
+
+
+'''Specific treatments'''
+
+==== Vasoactive treatment ====
+Vasoactive treatment to reduce portal pressure should be instituted as a matter of urgency as soon as the patient is admitted to hospital, if necessary, and before endoscopy.
+
+It is based on intravenous administration of either somatostatin or somatostatin analogues (octreotide) or vasopressin derivatives (terlipressin). This treatment should be administered for 2 to 5 days. After this period, if there are no contraindications, long-term non-cardioselvic beta blockers should be used.
+<br />
+
+==== Antibiotic therapy ====
+Episodes of digestive haemorrhage from ruptured oesophageal varices in cirrhotic patients are frequently complicated by bacterial infection.
+
+Systematic antibiotic prophylaxis is warranted with a 3rd generation cephalosporin (cefotaxime) for 7 days.
+
+==== Endoscopy ====
+An upper digestive endoscopy is essential.
+
+A preparation based on the prior administration of intravenous erythromycin rapidly accelerates emptying of the stomach and improves endoscopic conditions. Erythromycin is contraindicated in cases of long QT on the ECG.
+is necessary.
+Endoscopy can be diagnostic and therapeutic, allowing active haemorrhage to be stopped (''see below).''
+
+If this fails, you can :
+
+- or an oesophageal tamponade tube (Blakemore tube);
+
+- or the emergency placement of a transjugular intrahepatic portosystemic shunt (TIPS).
+
+
+'''The combination of vasoactive treatment, antibiotic therapy and endoscopic treatment must be systematic in all patients'''.
+
+
+'''Prophylaxis of digestive haemorrhage'''
+
+=== Primary prevention ===
+Primary prevention of digestive haemorrhage due to portal hypertension is based on screening endoscopies and treatment of varices at risk before any haemorrhage occurs.
+
+An upper gastrointestinal endoscopy should systematically be performed during the initial management of cirrhotic patients with decompensated cirrhosis. In the case of compensated cirrhosis, fibroscopy can be avoided if the platelet count is normal and hepatic elasticity as measured by Fibroscan® is only slightly increased (<20 kPa). In this situation, the risk of large varices is considered very low.
+
+In the case of oesophageal or gastric varices in a patient who has never bled, primary prevention is based on the oral administration of non-cardioselective beta-blockers in the absence of contraindications, and on iterative endoscopic elastic ligation of oesophageal varices in the case of contraindications to beta-blockers.
+
+=== Prevention of recurrence in patients who have already had a haemorrhage (secondary prevention) ===
+Non-cardioselective beta-blockers should be introduced to prevent recurrence in all patients, in the absence of contraindication. They are combined with oesophageal varicose vein ligation "iteratively every 2 to 3 weeks" until the varicose vein is eradicated/completely collapsed.
+
+
+2/ Treatment of hepatic encephalopathy
+
+Cf '''2C-279-PC-B02'''
+
+3/ Treatment of ascites
+
+Cf '''2C-279-PC-B03'''

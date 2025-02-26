@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-206-03-A
+|Item_parent=Fluid pleural effusion
+|Item_parent_short=Fluid pleural effusion
+|Rank=A
+|Title=Know how to investigate the etiology of pleural effusion
+|Description=Know how to evoke and search for infection, neoplasia, a cause of transudate, etc.
+|Rubric=Etiologies
+|Contributors=
+|Order=3}}
+There are two types of etiological investigation ([[Request/reasoned prescription and choice of a diagnostic test SD-178|reasoned request/prescription and choice of a diagnostic test]]).
+
+#If there is a clear clinical indication, pleural puncture will be targeted at a specific aetiology.
+
+The main examples are :
+
+*In an emergency :
+
+para-pneumonic effusions, where puncture is used to separate complicated and uncomplicated effusions (see above),
+
+thoracic trauma, where puncture is used to look for a haemothorax,
+
+pulmonary embolism, in which puncture is of little use, but the standard investigations necessary to find an embolism are carried out
+
+*Non-emergency cases include
+
+tumour pathology, where puncture is used to look for the presence of tumour cells.
+
+2. When there is no clinical orientation, the etiological approach is based on biochemical, microbiological and cytological analysis of the pleural fluid.
+
+A chest CT scan is not performed routinely. It is used to investigate the aetiology of exudates (pleural thickening or nodules, pleural calcifications).

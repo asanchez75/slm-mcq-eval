@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-334-34-B
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=B
+|Title=Familiarise yourself with the classification of open fractures
+|Description=Cauchoix and Gustillo
+|Topic=Physiopathology
+|Contributors=CFCOT
+|Order=34}}
+
+Open fractures: damage to the skin and soft tissues bringing the fracture site into contact with the outside world
+
+Two classifications are commonly used:
+
+1 '''The Cauchoix classification:'''
+
+*Stage 1: puncture wound suturable without tension
+*Stage 2: large wound, with skin contusion, suturable but with risk of necrosis
+*Stage 3: wound with loss of substance that cannot be closed with a simple suture
+
+[[File:Cauchoix 1 bis.jpg|left|vignette|585x585px|Ouverture Cauchoix 1, ponctiforme]]
+[[File:Cauchoix 3.jpg|vignette|584x584px|Ouverture Cauchoix 3, non-suturable]]
+[[File:Cauchoix 2.jpg|centric|vignette|562x562px|Ouverture Cauchoix 2, with detachment but suturable]]
+
+
+2. the Gustilo classification (figure 21).
+
+[[File:Classification de Gustilo.jpg|alt=Figure 20. Classification de Gustilo|vignette|Figure 21. Gustilo classification|centred|833x833px]]
+
+Open Gustilo III fractures are the result of high-energy trauma (MVA, crush injuries, firearms) with significant wound contamination, and are accompanied by complex comminuted fractures which may involve loss of bone substance.  
+
+
+("''[[Pain in a limb (upper or lower) SD-071|pain in a limb (upper or lower)]''' ")("'[[Wound SD-170|wound]]'' ")("'[[Limb trauma SD-173|limb trauma]]'' ")

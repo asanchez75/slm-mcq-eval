@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-277-25-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the treatment for severe sepsis or septic shock in angiocholitis
+|Description=Emergency non-surgical endoscopic or radiological biliary disobstruction and antiobesity therapy.
+|Rubric=Management
+|Contributors=
+|Order=25}}
+
+In the event of severe sepsis or septic shock in the setting of angiocholitis, resuscitative management measures are urgently required:
+
+- optimising the circulatory system (filling, vasopressor amines if necessary),
+
+- antibiotic therapy without delay after bacteriological sampling, management of any associated organ dysfunctions)
+
+- endoscopic biliary unblocking is preferred. If this is not available or fails, percutaneous drainage may be proposed.
+
+- Biliary deobstruction can only be considered after the resuscitative management described above.

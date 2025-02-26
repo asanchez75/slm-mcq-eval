@@ -1,0 +1,98 @@
+{{knowledge objective
+|Identifiant=OIC-011-04-B
+|Item_parent=Violence and health
+|Item_parent_short=Violence and health
+|Rank=B
+|Title=Acknowledging the specific nature of domestic violence
+|Description=On the form of violence (physical, sexual, psychological ...) and its type (coercive, reactionary, situational ...)
+|Rubric=Definition
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=4}}
+
+Domestic violence is defined as acts of violence between intimate partners (or ex-partners), regardless of the type of relationship.
+
+'''<u>The "type" of violence</u>:'''
+
+Michael P. Johnson has proposed a typology of situations of domestic violence. He proposes 3 main types:
+
+- coercive violence ("intimate terrorism") is the best known and most commonly described situation. This is a cyclical dynamic in which the perpetrator resorts to a panoply of strategies (cf. the "forms" of violence) (illustration 1)<ref name=":0">https://www.has-sante.fr/upload/docs/application/pdf/2019-09/170919_reperage_des_femmes_victimes_de_violences_au_sein_du_couple_texte_recommandations.pdf</ref>. It is this type that we will detail in the remainder of this knowledge objective;
+[[File:Cylce HAS.png|left|vignette|309x309px|Illustration 1: The cycle of violence.]]
+
+- Reactionary violence ("violent resistance") is violence that occurs in reaction to aggression on the part of a partner (generally in reaction to a situation of coercive violence);
+
+- situational couple violence" refers to episodes of reciprocal violence within a couple, without any attempt at control. It can also lead to situations of chronic and severe violence.
+
+'''<u>The "forms" of violence</u>:'''
+
+Domestic violence can take many different forms:
+
+- psychological and verbal: insults, shouting, threats, humiliation, denigration, etc. This violence also has a physical component: gestures, postures, looks, threatening attitudes aimed at putting the person down, reversing their guilt and controlling them;
+
+- physical: beatings, but also any physical restraint or physical abuse (shaking, confinement, "crushing", burning, etc.). This is the most "visible" form of violence;
+
+- Knowing the particularities of sexual violence within a couple (domestic violence) 2C-012-DE-A02|sexual]] ;
+
+- economic and administrative: confiscating money, identity documents or health insurance cards, prohibiting the purchase of goods, etc. These measures increase the victim's dependence.
+
+In situations of domestic violence, these different forms are usually present simultaneously. They are part of a strategy to control the victim, to create a situation of control based on isolation, devaluation, fear and the reversal of guilt. This situation has economic, social and health consequences (on physical and mental health in the short and long term) that can go as far as spousal homicide. This violence and its consequences tend to worsen over time, and these mechanisms ultimately form the "cycle of violence" (illustration 1).
+
+'''<u>Other specific features of domestic violence</u> :'''
+
+Domestic violence also has its own specific features in terms of the way in which the issue of violence is approached, the way in which the situation is assessed and the way in which the victim is cared for.
+
+'''''- tackle the issue of violence:'''''
+
+The interview should be based on a comprehensive approach, fostering a climate of trust and a supportive environment. Brochures or posters on the subject of violence can be made available in the waiting or consultation rooms. It is strongly recommended that the interview takes place with the woman alone.
+
+Examples of questions that can be asked depending on the context<ref name=":0" /> :
+
+- Have you ever been a victim or witness of violence in your life?
+
+- ''" How are things at home?
+
+''- "It often happens that there is tension or sometimes aggression or violence in the family, which is why I ask all my patients this question ..." ;''
+
+''- "Sometimes this type of (complaints, symptoms, behaviours) can be linked to stress, tension, aggression or violence in the home."''
+
+If there is any doubt about a situation of violence and if the patient does not wish to talk, we recommend :
+
+- not to insist and to give him time to decide;
+
+- to indicate existing aids, so that the patient can make use of them;
+
+- make a note in the medical record of any doubts or reactions observed (traceability).
+
+'''''- assess the situation:'''''
+
+The assessment of dangerousness is a fundamental stage in the analysis of the situation. The more criteria the patient meets, the higher the risk:
+
+- does the patient feel in danger? does she fear for her life?
+
+- Has the violence worsened (increased frequency of violence, violence outside the home, control of activities, sexual violence, violence against children, etc.)?
+
+- Is there a history of serious violence? Violence during pregnancy? Depression or attempted suicide?
+
+- is there a context of separation?
+
+- Are there death threats (against the patient, her children, her parents)? Suicide blackmail? Threats with weapons?
+
+There are also criteria linked to the partner: presence of a weapon (particularly a firearm) in the home and consumption of alcohol or drugs in particular.
+
+It is also important to :
+
+- look for criteria of vulnerability in the patient;
+
+- assess the patient's mental health;
+
+- assess children's health and safety;
+
+- assess resources (family and friends, emergency accommodation, etc.)?
+
+'''''- caring for victims:'''''
+
+In addition to standard care (including appropriate treatment), it is essential to :
+
+- alert and protect : ask whether they wish to lodge a complaint, report if possible (with their agreement or if the criteria for doing so are present) ([[Identify situations requiring a judicial report 2C-012-IU-A01|link 2C-012-IU-A01]] and [[Know which situations require a judicial report, particularly concerning domestic violence 2C-013-IU-A02|2C-013-IU-A02]]), report the situation of any children in danger ([[Infants, children, adolescents : Knowing the definition of a judicial, administrative and CRIP report 2C-057-DE-A04|link 2C-057-DE-A04]]), referring to victim support associations, hospitalising ...
+
+- document the violence: record it in the patient's medical file, draw up an initial descriptive medical certificate that can be handed over or kept in the file ([[Know the general rules for drawing up a medical certificate 2C-013-DE-A01|link 2C-013-DE-A01]]).
+<references />

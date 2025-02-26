@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-340-18-B
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=B
+|Title=Knowing the functional and vital prognosis of stroke
+|Description=None
+|Section=Follow-up and/or prognosis
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=18}}
+
+
+== '''Mortality''' ==
+
+* 20% at 1 month and 40% at 1 year.
+* Higher in the acute phase in intraparenchymal haemorrhage.
+
+== '''Morbidity after stroke''' ==
+
+* One third of survivors are dependent.
+* One third of survivors retain after-effects but are independent.
+* One third of survivors return to their previous state.
+
+== '''Possible Complications''' ==
+
+* Recurrence: 30% at 5 years.
+* Cognitive problems (or vascular dementia).
+* Post-stroke mood disorders (depression, anxiety).
+* Spasticity
+* Bladder and bowel problems.
+* Neuropathic pain and complex regional syndrome.
+* Vascular epilepsy
+
+== '''Follow-up''' ==
+The aims of post-stroke monitoring are as follows:
+
+* Assess neurological sequelae and complications.
+* Confirm the aetiological diagnosis.
+* Ensure that secondary prevention treatment is prescribed, tolerated and effective.
+* Assess the impact of vascular risk factors on the various target organs.
+
+
+([[Reasoned request/prescription and choice of a diagnostic examination SD-178|reasoned request/prescription and choice of a diagnostic examination]]; [[Prescription of a rehabilitation SD-247|prescription of a rehabilitation]]; [[Follow-up consultation and therapeutic education of a patient with a cardiovascular antecedent SD-285|follow-up consultation and therapeutic education of a patient with a cardiovascular antecedent]]; [Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants SD-248|prescription and monitoring of treatment with anticoagulants and/or anti-aggregants]]; [[Situation of disability SD-345|situation of disability]]; [[Identification, care and follow-up of a patient in a palliative situation SD-337|identification, care and follow-up of a patient in a palliative situation]]; [[Announcement of a diagnosis of serious illness to the patient and/or his family SD-327|announcement of a diagnosis of serious illness]])

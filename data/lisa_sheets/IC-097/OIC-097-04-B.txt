@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-097-04-B
+|Item_parent=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Item_parent_short=Acute inflammatory polyradiculoneuritis (Guillain-Barré syndrome)
+|Rank=B
+|Title=Knowing the existence of triggering events in polyradiculoneuritis
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=4}}
+In more than 50% of cases, acute polyradiculoneuritis is preceded by a respiratory or digestive infection '''([[Interpretation of a SD-236 serology result|interpretation of a serology result]])''' :
+
+Guillain-Barré syndrome: infection with cytomegalovirus, Epstein-Barr virus (demyelinating forms).
+
+For acute axonal motor neuropathy: Campylobacter jejuni diarrhoea.

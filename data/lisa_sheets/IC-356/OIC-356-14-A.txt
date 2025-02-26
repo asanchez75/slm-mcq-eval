@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-356-14-A
+|Item_parent=Appendicitis in children and adults
+|Item_parent_short=Appendicitis in children and adults
+|Rank=A
+|Title=Know the clinical signs of the three main complications of appendicitis: abscess, plastron, peritonitis.
+|Description=Abscessed appendicitis, plastron appendicitis, appendicular peritonitis.
+|Rubric=Positive diagnosis
+|Contributors=Cyrille PERRENOT
+|Order=14}}
+
+Appendicular abscess :
+
+- defence in the right iliac fossa, which may extend to the right flank and hypogastrium
+
+- frequent subocclusive syndrome
+
+- 38.5° fever
+
+Appendicular plastron :
+
+- painful swollen mass palpated in the right iliac fossa
+
+- moderate fever
+
+- impaction of the iliac fossa
+
+Appendicular peritonitis :
+
+- generalised abdominal defence
+
+- abdominal contracture
+
+- fever ≥ 38.5° C
+
+- marked deterioration in general condition
+
+- grey-earth facies.

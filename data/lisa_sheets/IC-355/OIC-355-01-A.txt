@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-355-01-A
+|Item_parent=Digestive haemorrhage
+|Item_parent_short=Digestive haemorrhage
+|Rank=A
+|Title=Know the definition of upper and lower digestive haemorrhage
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Anatomy distinguishes between high and low causes, depending on whether the bleeding originates above or below the angle of Treitz (duodeno-jejunal).
+
+This anatomical distinction does not correspond to a clinical presentation: an upper digestive bleed can be clinically externalised via the anus (for example, melena is the production of digested blood by the anus, which in 80% of cases is of upper origin).

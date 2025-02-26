@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-360-09-A
+|Item_parent=Pneumothorax
+|Item_parent_short=Pneumothorax
+|Rank=A
+|Title=Know the main principles of pleural exsufflation and its indications
+|Description=None
+|Rubric=Management
+|Contributors=Julien Poissy
+|Order=9}}
+
+Exsufflation is performed in two circumstances:
+
+- pressure pneumothorax with signs of severity
+
+- complete pneumothorax with a detachment of more than 2 cm
+
+In the event of a major emergency (signs of poor respiratory and/or haemodynamic tolerance), in practice :
+
+- Respecting the rules of surgical asepsis
+
+- Puncture using a large-bore catheter
+
+- In the 2<sup>th</sup> intercostal space via an anterior approach on the midclavicular line
+
+- Upper edge of lower side along vertical path
+
+- Success confirmed by "pchit" (evacuation of pressurised air) and immediate clinical improvement
+
+- At the same time, the patient must be given oxygen therapy, volume expansion to combat de-escalation, and often analgesia.
+
+
+If exsufflation is indicated for large spontaneous complete pneumothorax in young patients, the urgency is often less. In practice, this is the same procedure, often carried out when a drain is placed (see pleural drainage item).

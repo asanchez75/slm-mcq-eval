@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-222-08-B
+|Item_parent=Cardiovascular risk factors and prevention
+|Item_parent_short=Cardiovascular risk factors and prevention
+|Rank=B
+|Title=Knowing the role of hypertriglyceridaemia in cardiovascular risk
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Romain Chopard,Aurélie Janczewski,Claire Le Hello
+|Order=8}}
+
+
+* LDL cholesterol (''LDL-c'') '''must remain the primary objective'' of lipid-lowering treatment.
+* However, '''a substantial risk persists'' despite high-intensity statin treatment and data from recent clinical trials '''suggest that elevated triglycerides are a''' marker '''of CV risk despite treatment to lower LDL-c.''''
+* '''Hypertriglyceridaemia''' is often associated with a '''decrease in HDL-cholesterol'' (HDL-c) and an '''increase in the amount́ of small and dense LDL''. Hypertriglyceridaemia is common in '''insulin-resistant''' subjects, such as '''type 2'' diabetic patients, overweight or obese subjects'' (whether or not falling within the scope of a '''metabolic syndrome''').
+* The effect of an isolated reduction in triglycerides of 40 mg/dL is correlated with an absolute reduction in CV events of 4 to 5% (compared with 20% for the same reduction in LDL-c).
+* The REDUCE-IT study showed that in secondary prevention, in patients with TG > 2g/L during statin treatment, icosapent ethyl significantly reduced the occurrence at 5 years of a combined criterion combining CV death, MI, stroke, revascularisation and unstable angina.

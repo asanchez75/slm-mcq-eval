@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-333-04-A
+|Item_parent=Exceptional situations
+|Item_parent_short=Exceptional situations
+|Rank=A
+|Title=Knowing how to help in pre-hospital care
+|Description=Knowing the main gestures/therapeutics to improve the prognosis of victims
+|Rubric=Management
+|Contributors=
+|Order=4}}
+
+[[File:Figure 3 WALK Algorithm.jpg|thumbnail|Figure 3 WALK Algorithm]]
+The acronym ''WALK'' is used to remind you of the processes to be carried out, and their order of priority. It is presented in figure 3 ("'''[[Exceptional health situation SD-346|exceptional health situation]]''''):

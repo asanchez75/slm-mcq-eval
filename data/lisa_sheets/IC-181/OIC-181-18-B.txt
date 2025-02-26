@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-181-18-B
+|Item_parent=The health safety of products intended for human use. Health monitoring (see item 325)
+|Item_parent_short=Sanitary safety of products intended for human use. Health monitoring (see item 325)
+|Rank=B
+|Title=Knowing toxicovigilance
+|Description=None
+|Rubric=Definition
+|Contributors=Brice Leclère
+|Order=18}}
+
+Toxicovigilance is one of the monitoring activities carried out by the French National Agency for Food, Environmental and Occupational Health and Safety (ANSES).
+
+It involves monitoring the toxic effects on humans of exposure to a mixture or a natural or synthetic substance available on the market or present in the environment.
+
+Toxicovigilance includes the monitoring activities carried out by poison control centres.

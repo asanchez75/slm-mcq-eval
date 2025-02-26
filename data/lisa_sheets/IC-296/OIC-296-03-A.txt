@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-296-03-A
+|Item_parent=Drug-induced agranulocytosis: steps to take
+|Item_parent_short=Drug-induced agranulocytosis: steps to take
+|Rank=A
+|Title=Knowing the circumstances in which drug-induced agranulocytosis is discovered
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''- incidental, during a routine haemogram'''
+
+'''- during a haemogram to monitor a treatment known to cause immuno-allergic agranulocytosis or chemotherapy'''.
+
+'''- on the occasion of an infectious syndrome'''

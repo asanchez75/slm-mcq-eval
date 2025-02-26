@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-063-10-A
+|Item_parent=Adolescent and adult schizophrenic disorders
+|Item_parent_short=Adolescent and adult schizophrenic disorders
+|Rank=A
+|Intitle=Knowing the positive syndrome
+|Description=Semiology
+|Rubric=Positive diagnosis
+|Contributors=Marie Tournier,Wissam El-Hage
+|Order=10}}
+
+The positive psychotic syndrome corresponds to [[Delusional ideas SD-124|delusional ideas]] and [[Hallucinations SD-122|hallucinations]].
+
+<br />
+
+==Delusions
+Lifetime prevalence of over 90%.
+
+==Psychosensory hallucinations ==
+Lifetime prevalence of 75%, most often in the acute phase.
+
+Hallucinations arising from sensory manifestations. All the senses may be involved.
+
+*Auditory hallucinations: most frequent, simple sounds (ringing, melody) or voices (acoustico-verbal hallucinations), often negative (criticism, comments on actions, injunctions), associated with attitudes of listening and the implementation of means of protection.
+*Visual hallucinations: 30% of patients, elementary (lights, coloured spots, shadows, etc.) or complex (objects, people, scenes).
+*Tactile hallucinations: 5% (burns, stings).
+*Less frequent hallucinations of the other senses: Gustatory, olfactory or cenesthetic.
+
+==Intrapsychic Hallucinations ==
+Intrapsychic hallucinations do not involve the senses. They correspond to delusions whose theme is the loss of psychic intimacy: inner voices, thought echoes, thought reading, thought stealing, influence syndrome (impression of being remote-controlled by an external force).

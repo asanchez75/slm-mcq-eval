@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-340-02-A
+|Item_parent=Strokes
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the risk factors for stroke
+|Description=Risk factors for ischaemic and haemorrhagic stroke, their relative importance and the subsequent vascular risks after a stroke (recurrence, cardiac risk);
+|Section=Epidemiology
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=2}}
+- Every year 150,000 patients in France suffer a stroke.
+
+- Cerebral infarctions account for 80% of strokes.
+
+- The average age of stroke patients is approximately 73, so age is one of the main risk factors.
+
+- The risk of stroke may be increased following certain types of trauma (cf [[2C-340-DP-B01|dissection]]).
+
+- The occurrence of a stroke increases the risk of recurrent stroke (ischaemic or haemorrhagic) and cardiovascular events.
+
+- Hypertension, diabetes, dyslipidaemia and obesity are risk factors for recurrence after a first stroke.
+
+===With regard to cerebral infarction, a distinction is made between [[Cardiovascular risk factors and prevention|risk factors]]:===
+o non-modifiable risk factors such as age, male sex and family history of vascular pathology
+
+o modifiable risk factors such as arterial hypertension in adults and children ([[Arterial hypertension SD-042|arterial hypertension]]), diabetes, [[Dyslipidaemia|dyslipidaemia]], chronic smoking ([[Prevention of tobacco-related risks SD-314|prevention of tobacco-related risks]]), obesity ([[Obesity and overweight SD-051|obesity and overweight]]), [[Primary prevention through nutrition in adults and children|sedentariness]].
+
+Of all these vascular risk factors, arterial hypertension ([[Arterial hypertension SD-042|arterial hypertension]]) is most strongly associated with the risk of stroke.
+
+Certain clinical manifestations are associated with an increased risk of cerebral infarction, such as cardiac rhythm disorders ([[Palpitations SD-165|palpitations]]; [[Tachycardia SD-166|tachycardia]]) and in particular atrial fibrillation or carotid stenosis revealed by a carotid murmur ([[Discovery of a vascular murmur SD-019|discovery of a vascular murmur]]).
+
+===Cerebral haemorrhage===
+The main risk factors for cerebral haemorrhage are advanced age, [[Hypertension in adults and children|hypertension]] ([[Hypertension SD-042|hypertension]]), chronic alcoholism ([[Prevention of alcohol-related risks SD-313|prevention of alcohol-related risks]]) and the use of antithrombotics ([[Prescription and monitoring of treatment with anticoagulants and/or anti-aggregants SD-248|prescription and monitoring of treatment with anticoagulants and/or anti-aggregants]]).

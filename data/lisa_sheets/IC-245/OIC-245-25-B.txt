@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-245-25-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Knowing the aetiologies of adrenal insufficiency in newborns and infants (21-hydroxylase deficiency)
+|Description=None
+|Rubric=Etiologies
+|Contributors=Claire Briet,Stéphanie Espiard
+|Order=25}}
+In children, the causes of adrenal insufficiency are mainly genetic.
+
+Enzyme block (congenital adrenal hyperplasia) is the most common cause. Most cases are linked to a deficiency in 21-hydroxylase. It is an autosomal recessive disease.
+
+The second cause is ''Adrenoleukodystrophy:''
+
+* X-linked recessive disease
+* affects boys in childhood or early adulthood

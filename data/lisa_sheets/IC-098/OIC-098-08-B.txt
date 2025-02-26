@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-098-08-B
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=B
+|Intitle=Planning the management of emergency situations
+|Description=None
+|Rubric=Taking charge
+|Contributors=
+|Order=8}}
+
+
+* A rapid worsening of these symptoms over a few days, or even a few hours, requires emergency hospitalisation in an intensive care unit. If symptoms are rapid and severe at home, the Centre 15 should be called.
+* A stomach tube and emergency intubation are sometimes necessary.
+* Two types of treatment are useful in severe relapses, with similar efficacy:
+
+- polyvalent intravenous immunoglobulins (IVIG)
+
+- plasma exchange
+
+* These treatments should always be combined with a background treatment, because of their transient effect.

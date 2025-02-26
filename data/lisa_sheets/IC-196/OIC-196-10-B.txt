@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-196-10-B
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=B
+|Title=Radiography of a hand and forefoot revealing erosions and joint pinching
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=10}}
+<gallery widths="400" heights="400">
+File:Radiograph of a forefoot revealing erosions and joint pinching .PNG|Pinching and erosions of MTP5 L and R.
+</gallery>

@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-132-14-B
+|Item_parent=Cognitive disorders in the elderly. (see item 108)
+|Item_parent_short=Cognitive disorders in the elderly. (see item 108)
+|Rank=B
+|Title=Know how to diagnose frontotemporal lobar degeneration.
+|Description=Know the positive clinical elements which allow the diagnosis to be made.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=14}}
+FTD (frontotemporal degeneration)
+
+* Often affects people under 60,
+* There is sometimes a family history of FTD.
+* Genetic and lesional heterogeneity (abnormal metabolism of tau protein).
+
+The initial clinical presentation is often marked by :
+
+* BEHAVIOURAL DISORDERS'' by behavioural executive impairment (disinhibition, apathy, impulsivity, eating disorders...)
+* Dysexecutive syndrome
+* Neurological examination initially normal, then appearance of archaic reflexes, pyramidal syndrome, astasia-abasia, etc.
+* Bilateral anterior ''FRONTAL and TEMPORAL ATROPHIA'' on brain MRI

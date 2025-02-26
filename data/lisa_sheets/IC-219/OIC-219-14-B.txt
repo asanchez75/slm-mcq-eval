@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-219-14-B
+|Item_parent=Iron pathology in adults and children
+|Item_parent_short=Iron pathology in adults and children
+|Rank=B
+|Title=Knowing the main causes of iron overload in adults and children
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+
+'''In adults'''
+
+
+Haemochromatosis is suspected in cases of hyperferritinaemia and a transferrin saturation coefficient of more than 45%. Genetic haemochromatosis is an autosomal recessive disease characterised by progressive iron overload in the body due to a defect in the negative regulation of intestinal iron absorption. It is caused by a C282Y mutation in the HFE gene, which is homozygous in 70-95% of people with the disease. Other mutations are much rarer.
+
+Its prevalence in France is around 5 per thousand, and a heterozygous C282Y mutation is observed in 5 to 10% of the general population, more frequently in people of Breton origin.
+
+
+The causes of hyperferritinaemia according to the presence or absence of iron overload are shown in Table 2.
+
+
+Table 2: Main causes of hyperferritinaemia according to the presence or absence of iron overload
+{| class="wikitable"
+|With iron overload
+|Without iron overload
+|-
+|Hemochromatosis
+
+|Inflammatory syndrome
+|-
+|
+|Hepatic or muscular cytolysis
+|-
+|Metabolic syndrome*, non-alcoholic steatohepatitis (NASH)
+
+|Metabolic syndrome*, non-alcoholic steatohepatitis (NASH)
+|-
+|Repeated transfusions
+|Chronic alcoholism
+|-
+|Chronic liver disease
+|Cancer and haemopathy
+|-
+|Ferroportin mutation
+
+|
+|}
+
+* Metabolic syndrome may be responsible for isolated hyperferritinaemia without iron overload, but also for true iron overload.
+<br />

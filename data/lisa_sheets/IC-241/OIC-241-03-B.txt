@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-241-03-B
+|Item_parent=Goitre, thyroid nodules and thyroid cancer
+|Item_parent_short=Goitre, thyroid nodules and thyroid cancers
+|Rank=B
+|Title=Knowing the main factors favouring goitre, nodules and cancer
+|Description=iodine, tobacco, lithium...
+|Rubric=Physiopathology
+|Contributors=Camille Buffet,Stéphanie Espiard,Eva Feigervola,Arnaud Jannin
+|Order=3}}
+
+{| class="wikitable"
+|'''Factors favouring goitres and nodules'''
+|'''Factors favouring thyroid cancer'''
+|-
+|- Iodine deficiency (main goitrogenic factor).
+
+- Family predisposition.
+
+- Hormonal factors: puberty, pregnancy.
+
+- Tobacco.
+
+- Lithium.
+|- Previous radiotherapy (x7)
+
+- Family history of NME2 (RET gene mutation)
+|}

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-363-06-B
+|Item_parent=Frequent fractures in adults and the elderly
+|Item_parent_short=Frequent fractures in adults and the elderly
+|Rank=B
+|Title=Knowing the Garden classification
+|Description=None
+|Rubric=Additional examinations
+|Contributors=CFCOT
+|Order=6}}
+
+Garden's classification applies to "intracapsular femoral neck fractures". It is based on an analysis of whether the fracture line is complete or incomplete, and on the displacement and orientation of the cervical and cephalic bone trabeculae on the frontal view.
+
+There are 4 types:
+
+- Type I: incomplete fracture, with preservation of the medial cortex, non-displaced, with impaction of the valgus cephalic trabeculae.
+
+- Type II: complete, non-displaced fracture.
+
+- Type III: complete fracture, displaced with partial displacement and varisation of the cephalic trabeculae in relation to the cervical trabeculae.
+
+- Type IV: complete fracture with full displacement; the cephalic and cervical bone trabeculae are parallel.
+
+For the author of this classification, the ''consolidation rate'' decreases as one moves from types I and II to ''type III and then type IV''.
+
+Osteonecrosis of the femoral head is more common in type III and IV fractures than in type I and II fractures.
+
+The inter-observer reproducibility of Garden's classification is poor and it fails to recognise certain displacements visible on the profile.

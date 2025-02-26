@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-003-12-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing the definition of shared decision, paternalistic decision...
+|Description=Principles, advantages and limitations, implementation
+|Rubric=Definition
+|Contributors=
+|Order=12}}
+- From the ''paternalistic model'' to ''shared decision making'', doctors adopt a ''decision-making ethic''.
+
+- In October 2013, the HAS adopted a position on "shared decision making":
+
+o The healthcare professional and the patient "share medical information bilaterally".
+
+o Support for the patient to consider the various possible "options" and express their "preferences". These options may be in the field of prevention, diagnosis or treatment, and include the option of not taking action.
+
+o An "informed choice" between the different options is made and "mutually accepted" by the patient and the healthcare professionals.

@@ -1,0 +1,24 @@
+{{knowledge objective
+|Identifiant=OIC-012-12-B
+|Item_parent=Sexual violence
+|Item_parent_short=Sexual violence
+|Rank=B
+|Title=Knowing that there is an emergency treatment adapted to the situation
+|Description=None
+|Rubric=Taking charge
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=12}}
+
+''Emergency treatment'': to be assessed on a case-by-case basis depending on the clinical situation
+
+Risk of pregnancy to be assessed on a case-by-case basis, emergency contraception available up to 120 hours after the event<ref>https://www.has-sante.fr/upload/docs/application/pdf/2013-04/fiche-contraception-urgence.pdf</ref> :
+
+*Levonorgestrel (LNG) orally (single dose of 1.5 mg) for up to 72 hours;
+*Ulipristal acetate (UPA) orally (single dose of 30 mg) for up to 120 hours;
+
+-Risk of transmission of STIs, [[Know the infectious agents at risk of transmission during an EALB 2C-366-DE-A02|hepatitis and HIV]] :
+
+*No preventive treatment for STIs;
+*2C-366-PC-A03|Indications of sero-vaccination after potential exposure to HBV]] ;
+*[[Name the main indications that should lead to post-exposure prophylaxis (PEP) for HIV exposure risk 2C-366-PC-B01|Indications for post-exposure prophylaxis (PEP) after potential exposure to HIV]].
+<references />

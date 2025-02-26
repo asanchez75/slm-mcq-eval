@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-101-13-B
+|Item_parent=Facial paralysis
+|Item_parent_short=Facial paralysis
+|Rank=B
+|Intitle=Clinical iconography of a typical example of a parotid tumour complicated by PFP
+|Description=Visualisation of parotid tumour invasion suggesting tumour-induced PFP
+|Rubric=Multimedia content
+|Contributors=
+|Order=13}}
+Please refer to the CEN website: www.cen-neurologie.fr where videos are available.

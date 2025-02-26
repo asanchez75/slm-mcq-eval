@@ -1,0 +1,116 @@
+{{knowledge objective
+|Identifiant=OIC-223-01-A
+|Item_parent=Dyslipidaemia
+|Item_parent_short=Dyslipidemia
+|Rank=A
+|Title=Knowing how to assess global cardiovascular risk
+|Description=None
+|Rubric=Definition
+|Contributors=Laurence Duvillard, Bruno Vergès, Benjamin Bouillet, Laurence Amar, Christian Boissier, Tristan Mirault, Claire Le Hello
+|Order=1}}
+<br />[[File:SCORE2 et SCORE2-OP.jpg|vignette|746x746px|SCORE2 et SCORE2-OP]]
+
+==Cardiovascular risk assessment using multifactorial equations==
+The European equations SCORE2 (Systematic COronary Risk Evaluation) and SCORE2-OP (older people)
+
+*are based on serum non-HDL cholesterol concentration, smoking habits, systolic blood pressure, age and sex,
+*assess the 10-year risk of coronary ischaemia or stroke, fatal or non-fatal.
+*are valid only in subjects aged ≥40 and <70 years for SCORE2 and subjects aged ≥70 years for SCORE2-OP.
+*not used in cases of diabetes, chronic renal failure, familial hypercholesterolaemia or known atheromatous pathology.
+
+{| class="wikitable"
+|+Assessment of the 10-year risk of cardiovascular mortality in "apparently" healthy individuals, i.e. without renal insufficiency, diabetes, genetic familial dyslipidaemia or established cardiovascular disease.
+!
+!< 50 years
+!50-69 years
+!≥ 70 years
+|-
+!low to moderate risk
+|<2,5%
+|<5%
+|<7,5%
+|-
+!high risk
+|≥2,5 à <7,5%
+|≥5 à <10%
+|≥7,5 à <15%
+|-
+!very high risk
+|≥7,5%
+|≥10%
+|≥15%
+|}
+If the SCORE2 or SCORE2-OP equations are not used, the level of risk may be assessed pragmatically by summing the traditional risk factors (SFE-SFD-NSFA consensus, 2016):
+
+*Age (≥ 50 years in men, ≥ 60 years in women)
+*Family history of ischaemic cardiovascular disease (≤ 55 years in father or first-degree relative, ≤ 60 years in mother or first-degree relative).
+*Smoking (current or stopped less than 3 years ago), [[Male/female smoking 2C-075-PE-A02]]
+*Arterial hypertension, [[Arterial hypertension SD-042]]
+*HDLc ≤ 1.0 mmol/L [≤0.4 g/L ]
+
+Risk level:
+
+*low: 0 or 1 cardiovascular risk factor
+*moderate: 2 cardiovascular risk factors
+*high: ≥ 3 cardiovascular risk factors
+*very high: history of cardiovascular disease (secondary prevention)
+
+==Special situations==
+
+*Patients with chronic renal failure in adults and children.
+**Patients with type 2 or type 1 diabetes (SFD/SFC 2021 consensus: Diabetes Metab. 2021 Mar;47(2):101185)s,[[Diabetes mellitus types 1 and 2 in children and adults. Complications]]
+
+{| class="wikitable"
+!
+! chronic renal failure
+!Type 2 diabetes or Type 1 diabetes
+|-
+!low to moderate risk
+|eDFG ≥60mL/min/1.73m² + ACR < 30mg/mmol
+eDFG 45-59mL/min/1.73m² + ACR < 3mg/mmol
+|Type 2 diabetes < 10 years or type 1 diabetes < 20 years, controlled, no target organ damage, no other cardiovascular risk factors.
+|-
+!high risk
+|eDFG ≥60mL/min/1.73m² + ACR ≥ 30mg/mmol
+
+eDFG 45-59mL/min/1.73m² + ACR 3-30 mg/mmol
+
+eDFG 30-44mL/min1.73m² + ACR < 3mg/mmol
+|At least 2 of the following criteria:
+
+*Type 2 diabetes for ≥ 10 years or type 1 diabetes for ≥ 20 years
+*Early family history of coronary heart disease (M<50 years, F<60 years)
+*uncontrolled cardiovascular risk factors (HbA1c, LDL cholesterol, blood pressure, smoking)
+*ACR > 3mg/mmol or eDFG < 60mL/min/1.73m².
+*Severe retinopathy or vegetative neuropathy or erectile dysfunction
+*Low physical activity
+|-
+Very high risk
+|eDFG < 30mL/min/1.73m² *Severe retinopathy or vegetative neuropathy or erectile dysfunction
+eDFG 30-44mL/min1.73m² + ACR ≥ 3mg/mmol
+|At least 1 of the following criteria:
+
+*Proven cardiovascular disease including atrial fibrillation eDFG < 30mL/min/1.73m² regardless of RTA
+*ACR > 30mg/mmol
+*LDL-c > 4.9 mmol/L (i.e. 1.9 g/L) on treatment
+*Q waves on ECG
+*Left ventricular abnormalities on echocardiography
+*Peripheral arterial stenosis ≥50%.
+|}
+ACR: albumin to creatinine ratio (to go from mg/mmol to mg/g multiply by 10); eDFG: estimated glomerular filtration rate; HbA1c: glycated haemoglobin, M: male; F: female; LDL-c: LDL cholesterol; ECG: electrocardiogram.
+
+*Patients with familial hypercholesterolaemia, who are at high risk from the outset.
+*Patients with "proven cardiovascular disease", all of whom are at very high risk and have either
+**either symptomatic atheromatous disease defined by at least one history of
+***ischaemic stroke
+***transient ischaemic stroke
+***myocardial infarction
+***acute coronary syndrome
+***coronary revascularisation and any other arterial revascularisation
+***abdominal aortic aneurysm
+***peripheral arterial disease: subclavian arteries, renal arteries, digestive arteries, arteries of the lower limbs
+**or asymptomatic atheromatous disease documented by imaging:
+***coronary plaque
+***carotid plaque
+
+*Prescription of a hypolipidemic agent SD-252]], Prescription of insulin therapy, follow-up consultation and education for a type 1 diabetic patient SD-280]], Prescription of medication, follow-up consultation and education for a type 2 diabetic patient or a patient with secondary diabetes SD-281]], [Drug prescription, follow-up consultation and education for a hypertensive patient SD-282]], [[Follow-up consultation and therapeutic education for a patient with a history of cardiovascular disease SD-285]], [[Follow-up of a patient with chronic renal failure SD-290]], [[Prevention of cardiovascular disease SD-320]]

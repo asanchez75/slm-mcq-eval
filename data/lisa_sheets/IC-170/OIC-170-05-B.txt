@@ -1,0 +1,51 @@
+{{knowledge objective
+|Identifiant=OIC-170-05-B
+|Item_parent=Paludism
+|Item_parent_short=Paludism
+|Rank=B
+|Title=General knowledge of Plasmodium
+|Description=Main species, modes of transmission, main elements of the cycle
+|Rubric=Definition
+|Contributors=Marie Gladys Robert,Marie-Pierre Brenier-Pinchart,Adela Angoulvant,Françoise Botterel,Marie-Laure Dardé,Florence Robert-Gangneux
+|Order=5}}
+
+====''Pathogens'''====
+
+*Hematozoa of the genus Plasmodium
+*Five species are found in human pathology:
+
+{| class="wikitable"
+|'''Species'''
+|'''Geographical distribution'''
+|'''Important concepts'''
+|-
+|'''''P. falciparum'''''
+|Intertropical zone
+|- Responsible for severe forms of the disease
+
+- Predominant species in Africa
+|-
+|'''''P. vivax'''''
+|Central and South America, Asia, East Africa
+|- Revival attacks
+|-
+|'''''P. ovale'''''
+|Africa
+|- Reliving episodes
+|-
+|'''''P. malariae'''''
+|Intertropical zone (sporadic)
+|- Remote access to infection
+|-
+|'''''P. knowlesi'''''
+|Southeast Asia
+|- Zoonotic species
+
+- Responsible for severe forms
+
+- Rare imported cases
+|}
+
+===='''Parasite cycle'''====
+[[File:Cycle palu.png|alt=|neant|vignette|Cycle du ''Plasmodium'']]
+<br />

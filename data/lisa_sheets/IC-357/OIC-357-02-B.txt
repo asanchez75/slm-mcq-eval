@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-357-02-B
+|Item_parent=Acute peritonitis in children and adults
+|Item_parent_short=Acute peritonitis in children and adults
+|Rank=B
+|Title=Knowing the existence of three categories of peritonitis
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Maksud Assadi,Philippe Montravers,David Moszkowicz
+|Order=2}}
+
+
+*Primary peritonitis: related to a causal medical condition, contamination of the peritoneal cavity results from the passage of bacteria via the haematogenous route or by digestive translocation. The most common is infection of ascites fluid in cirrhotic patients (see specific chapters on [[Cirrhosis and complications]], [[Ascites]]).
+
+*'''Secondary peritonitis''': most often linked to perforation of the digestive tract (mainly the appendix in children) or the biliary tree, leading to the spread of digestive germs (aerobic, anaerobic and/or yeast bacteria) into the peritoneum and the formation of pus in the peritoneal cavity. '''Most frequent forms +++.''' They are treated medico-surgically.
+
+*Tertiary peritonitis: corresponds to a persistent intra-abdominal infection following an initial documented and treated infection; rare. For example, post-operative peritonitis or peritonitis following a peritoneal dialysis catheter.

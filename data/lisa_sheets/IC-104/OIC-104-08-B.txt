@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-104-08-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the different ways in which MS progresses
+|Description=RR, MS, PP
+|Topic=Monitoring and/or prognosis
+|Contributors=
+|Order=8}}
+- '''Relapsing-remitting form''' = composed exclusively of relapses, which may leave stable sequelae between two episodes. 85% of onset forms.
+
+- '''Secondarily progressive form''' = late natural evolution of the previous form, with a progressive phase following the remittent phase. It can affect all patients, on average after 15 to 20 years. Relapses may occur during the progression.
+
+- ''Primary progressive form'' = continuous progression, more or less rapid, from the start. 15% of patients, on average later, around the age of 40.
+
+- ''Active disease'' = a more recent concept, used to guide treatment indications. Occurrence, during the previous year, of a relapse (clinical activity) and/or new lesions on T2-weighted sequences or gadolinium-enhanced lesions on T1-weighted sequences (radiological activity).

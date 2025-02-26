@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-177-25-A
+|Item_parent=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Item_parent_short=Prescription and monitoring of anti-infectives in adults and children (see item 330)
+|Rank=A
+|Title=Understanding the correct use of antibiotics in adults
+|Description=Understand the need to initiate and not to initiate antibiotic therapy; understand the individual and collective risks of unnecessary antibiotic therapy.
+|Rubric=Management
+|Contributors=Jean-Philippe Lavigne
+|Order=25}}
+
+Faced with the low number of new antibiotics and the increase in antibiotic resistance, it is essential to plan a general policy for the use of antibiotics, especially as the increase in resistance results in particular from the excessive or inappropriate use of antibiotics (unnecessary prescribing, too broad a spectrum, too long a duration, lack of knowledge of bacterial ecology issues).
+
+The policy of proper use of antibiotics is a global action put in place to limit or halt the threat of an explosion in bacterial multi-resistance and the impossibility of treating patients. Initial and ongoing training for prescribers, information for the public, political action plans to control antibiotic therapy, the promotion of expert activity in antibiotic therapy within establishments, close monitoring of bacterial ecologies, antibiotic resistance and antibiotic consumption (at the level of a department, an establishment, a region, a country, etc.) have all been put in place.

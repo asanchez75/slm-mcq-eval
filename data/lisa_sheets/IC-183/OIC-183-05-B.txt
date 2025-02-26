@@ -1,0 +1,26 @@
+{{knowledge objective
+|Identifiant=OIC-183-05-B
+|Item_parent=Organisation of occupational medicine. Prevention of occupational risks
+|Item_parent_short=Organisation of occupational medicine. Occupational risk prevention
+|Rank=B
+|Item_parent_short=Organisation of occupational medicine.
+|Description=Type of documents and methods of exchange with the employer
+|Rubric=Definition
+|Contributors=
+|Order=5}}
+'''Occupational health medical file:''''
+
+*Traces the employee's state of health and occupational exposure. Subject to medical confidentiality.
+
+'''Company sheet''' :
+
+*Document on which are recorded in particular
+**the ''occupational risks'',
+**as well as the occupational physician's opinion on the hazards existing in the company or the constraints linked to the organisation of work
+**and the ''recommendations for reducing exposure'' to these occupational risks.
+*Transmitted to the employer.
+
+
+'''Fitness / unfitness form:'''
+
+*Form sent to the employer, possibly accompanied by recommendations on adapting the workstation, but without any information on the employee's pathology.

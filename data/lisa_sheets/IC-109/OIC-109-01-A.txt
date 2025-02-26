@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-109-01-A
+|Item_parent=Gait and balance disorders
+|Item_parent_short=Gait and balance disorders
+|Rank=A
+|Title=Knowing the elements of the interview in the presence of a gait disorder
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=1}}
+- The date of onset of the problems, how they started, the type of main complaint: pain and its relationship to effort, weakness, instability (to be distinguished from vertigo), small steps, stiffness. A third party's opinion is sometimes necessary, as some complaints are better perceived by those around the patient than by the patient (slowing down, loss of arm swing).
+
+- The severity of the disorder must be assessed in everyday life: ''falls or near-falls'', their consequences in terms of morbidity'' (trauma, fractures, hospitalisation) or in terms of independence (unaccompanied outings from home with or without using public transport, accompanied outings, no outings from home).
+
+- Subjects' ability to climb (strength) or descend stairs (balance), their walking perimeter, their independence for activities (housework, cooking) and daily activities (dressing and grooming in particular), the use of a cane, wheelchair or walker, the need for human assistance, etc.
+
+- The full list of medications taken, which should also be known (''the leading risk factor for falls in the elderly'').
+
+- '''Cognitive abilities''' of the subject

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-264-11-A
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=A
+|Title=Knowing the arguments in favour of parenchymal CKD
+|Description=Renal semiology, analysis of proteinuria and urine sediment, extrarenal involvement, type of parenchymal nephropathy.
+|Rubric=Positive diagnosis
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=11}}
+
+Glomerular origin :
+
+* context: oedema, diabetes, general illness (lupus, etc.)
+* presence of significant proteinuria or even nephrotic syndrome
+* micro or macroscopic haematuria, very frequent hypertension
+
+Interstitial origin :
+
+* context: recurrent urinary tract infections, medications with interstitial risk
+* presence of very moderate proteinuria (< 1 g/24h)
+* germ-free leucocyturia, no hypertension
+
+Vascular origin :
+
+* background: long-standing, poorly controlled hypertension with cardiac repercussions
+* risk factors and cardiovascular history
+* confirmation by renal ultrasound with Doppler

@@ -1,0 +1,88 @@
+{{knowledge objective
+|Identifiant=OIC-278-01-A
+|Item_parent=Adult and child octopus
+|Item_parent_short=Adult and child octopus
+|Rank=A
+|Title=Know the definition of jaundice in newborns
+|Description=Distinction between benign jaundice and others
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Jaundice is defined by a yellow colouration of the patient (skin and conjunctivae), reflecting hyperbilirubinaemia in the blood. Neonatal jaundice is common (2 in 3 newborns). The majority are jaundiced with free bilirubin. Suspicion of jaundice is initially clinical. The newborn is examined completely undressed, preferably in natural light. In maternity wards, daily screening is carried out by transcutaneous measurement of total bilirubin using a bilirubinometer.
+
+Simple jaundice is the most common, affecting up to half of all newborns. It is linked to a physiological defect in the glucuroconjugation of bilirubin during neonatal adaptation. It does not require therapeutic management. Its main characteristics are
+
+- start after 24 hours
+
+- isolated (normal clinical examination)
+
+- transcutaneous bilirubin <75<sup>th</sup> percentile of the nomogram
+
+- gradual decrease from D5-J6, disappearing before D10
+
+- linked to a neonatal physiological defect in the maturity of glucuroconjugation of bilirubin
+
+Mother's milk jaundice affects full-term newborns who have benefited from a high level of maternal lactation from the very first days, which inhibits glucuroconjugation. It does not require therapeutic management. Its main characteristics are
+
+- onset around D5-J6 (may follow jaundice)
+
+- isolated (normal clinical examination)
+
+- transcutaneous bilirubin <75<sup>th</sup> percentile of the nomogram
+
+- persistence for 4 to 6 weeks
+
+Hyperbilirubinemia is described as :
+
+- Pathological (pathological jaundice) when total bilirubinemia is ³ 95<sup>th</sup> percentile of the nomogram. Physiological hyperbilirubinemia (linked to neonatal adaptation) may become pathological in the event of disturbed adaptation (prematurity, delayed feeding, etc.) or pathological circumstances (blood group incompatibility, alloimmunisation, haemolytic disease, etc.).
+
+- Severe when total bilirubinemia is greater than 340 µmol/L in the first 96 hours of life or 420 µmol/L after 96 hours in term newborns. Severe hyperbilirubinemia carries a neurological risk.
+
+- Early when it occurs within the first 24 hours.
+
+
+There are risk factors which increase the risk of hyperbilirubinaemia, pointing to pathological jaundice:
+
+Anamnestics :
+
+- Gestational age < 38 SA
+
+- ABO incompatibility
+
+- Maternal RAI positive
+
+- Familial haemolysis
+
+- History of treated jaundice in siblings
+
+- Geographical origin of parents or grandparents : Asia, Africa, West Indies
+
+- Onset of jaundice before 24 hours of life
+
+- Jaundice lasting more than 10 days
+
+
+Clinics
+
+- Weight loss <8
+
+- Sero-sanguineous hump, ecchymosis, haematomas
+
+- Intensity of jaundice down to the soles of the feet
+
+- Abnormal neurological examination
+
+- Haemolytic anaemia (pallor, hepatosplenomegaly)
+
+- Cholestasis (dark urine, discoloured stools (according to the stool colour scale), hepatomegaly)
+
+
+A blood test to confirm and investigate jaundice is indicated in cases of :
+
+- transcutaneous bilirubin ³ 75<sup>th</sup> percentile of the nomogram ;
+
+- risk factors for prolonged or recurrent free hyperbilirubinaemia ;
+
+- anamnestic and clinical signs of pathological jaundice ;
+
+- prolonged jaundice beyond the first week for a full-term newborn or the 2<sup>th</sup> week of life.

@@ -1,0 +1,47 @@
+{{knowledge objective
+|Identifiant=OIC-334-41-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the principles of initial management of a fracture
+|Description=Alignment, analgesia, antibiotic prophylaxis, prevention of tetanus, specialist advice
+|Rubric=Management
+|Contributors=CFCOT
+|Order=41}}
+
+Common principles of initial fracture management :
+
+* alignment, reduction if displaced, immobilisation
+* analgesia (including reduction and immobilisation)
+* emergency antiobioprophylaxis in the event of an open fracture
+* tetanus prevention: assess vaccination status or carry out a rapid immunological test to detect anti-tetanus antibodies (see table below)
+* specialist advice
+
+("''[[Trauma to limbs SD-173|trauma to limbs]'''")("''[[Prescribe analgesics SD-250|prescribe analgesics]'''")("''[[Placement and monitoring of an immobilisation device SD-243|placement and follow-up of an immobilisation device]'' ")("'[[Assessment and management of acute pain SD-259|assessment and management of acute pain]'' ")("'[[Vaccinations for adults and children SD-322|vaccinations for adults and children]'' ")
+
+<br />
+{| class="wikitable"
+|'''Type of injury'''
+|'''Person up to date with vaccinations according to the current vaccination schedule'''
+|'''Person not up to date'''
+|-
+|Minor, clean'''
+|No injections.
+
+Specify the date of the next booster.
+|Immediate administration of a dose of vaccine containing the tetanus valence.
+
+If necessary, suggest an update programme and specify the date of the next reminder.
+|-
+|Major or likely to have been contaminated by soil-borne germs.
+|No injection.
+
+Specify the date of the next booster.
+|In one arm, human tetanus immunoglobulin 250IU.
+
+In the other arm, a dose of vaccine containing tetanus valence was administered.
+
+If necessary, suggest a vaccination update programme and specify the date of the next booster.
+|}
+
+<br />

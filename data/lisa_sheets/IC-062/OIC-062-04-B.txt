@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-062-04-B
+|Item_parent=Describing the organisation of psychiatric care, from children to the elderly
+|Item_parent_short=Describing the organisation of psychiatric care from children to the elderly
+|Rank=B
+|Intitulé=To know the places of assumption of responsibility except sector (medical-social structures)
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre Vidailhet
+|Order=4}}
+Medico-social and social partners are involved in supporting people towards independence (via the MDPH -Maisons Départementales des Personnes Handicapées for certain assistance and guidance measures).
+
+''In adult psychiatry'' the primary support needs are :
+
+- Financial resources: ''Allocation Adulte Handicapé'' -AAH-. (for PEA: allocation d'éducation de l'enfant handicapé; AEEH) ;
+
+- accommodation: hostels, residential homes ;
+
+- access to employment, in a sheltered environment (''ESAT'' - établissements et services d'aide par le travail-); or in an open environment ('''SIMOT'': Service d'Insertion en Milieu Ouvert de Travail); recognition as a disabled worker (mental disability);
+
+- social support (''SAVS'' -service d'accompagnement à la vie sociale- ; ''SAMSAH'' -service d'accompagnement médico-social pour adultes handicapé-);
+
+- care for "people in precarious situations" (health care access centres; health care drop-in beds).
+
+In child and adolescent psychiatry, medico-social services are involved in :
+
+- 1<sup>er</sup> recourse ambulatory care :
+
+o ''CMPP'' (Centres Médico-Psycho-Pédagogiques) involving multidisciplinary teams, including teachers from the Education Nationale ;
+
+o CAMSPs (Centres d'Action Médico-Sociale Précoille) for children aged 0-6, involving a multidisciplinary team including paediatricians, with a mission to prevent and coordinate care.
+
+- specialised care :
+
+o '''Les SESSAD''' -Services d'Education Spéciales et de Soins A Domicile - for multidisciplinary outpatient care (including in the child's own home);
+
+o '''IME''' -Instituts médico-éducatifs/IMP -Instituts médico-professionnels/'''ITEP''' -Instituts thérapeutiques éducatifs et pédagogiques- for the care, therapeutic education and teaching of children (IME and ITEP) and adolescents (IMP) with severe neurodevelopmental disorders (IME and IMP) or severe behavioural disorders (ITEP).

@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-320-06-A
+|Item_parent=Multiple myeloma of bone
+|Item_parent_short=Multiple bone myeloma
+|Rank=A
+|Title=Knowing the main circumstances for the discovery of myeloma
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=6}}
+'''Main circumstances in which myeloma is discovered'''
+
+- Incidental discovery in an asymptomatic patient (asymptomatic or indolent myeloma)
+
+- Anaemic syndrome
+
+- Bone pain (axial skeleton++, inflammatory rhythm) and/or pathological fractures (vertebral compression, long bone fracture)
+
+- Acute renal failure
+
+- Hypercalcaemia
+
+- Complications that can be revealing:
+
+(a) Infection (especially encapsulated germs (hypogammaglobulinemia): pneumococcus, meningococcus, haemophilus)
+
+(b) Spinal cord compression / cauda equina syndrome
+
+(c) Superficial and/or deep plasmacytoma (plasmacytic tumour involving bone structures or visceral involvement)
+
+(d) immunoglobulin deposition diseases (e.g. AL amyloidosis)

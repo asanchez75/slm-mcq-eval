@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-277-12-B
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=B
+|Intitle=Biliary MRI of a bile duct stone
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=12}}
+Cholangio-MRI film showing a cholecystic aspect with upstream dilatation of the bile ducts and vesicular calculi<gallery widths="500" heights="500">
+File:Bili-MRI example of bile duct stonework.jpeg
+</gallery>

@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-288-12-B
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=B
+|Title=Knowing the main factors favouring haemorrhoidal pathology
+|Description=
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+
+Cf: ''[[Knowing the pathophysiology of haemorrhoids 2C-288-EP-B01|2C-288-EP-B01]]''''

@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-055-12-B
+|Item_parent=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship and its importance. Learning disabilities (see item 122).
+|Item_parent_short=Psychomotor development of infants and children: normal and pathological aspects (sleep, feeding, sphincter control, psychomotricity, language, intelligence). The early establishment of the parent-child relationship ...
+|Rank=B
+|Title=Knowing how to diagnose an intellectual development disorder
+|Description=Clinical characteristics, psychometric evaluation
+|Rubric=Diagnosis
+|Contributors=Diane Purper-Ouakil; Charles-Edouard Notredame
+|Order=12}}
+
+== Call signs
+
+* language delay
+* psychomotor delay
+* learning difficulties which may affect several areas: comprehension, reasoning, problem solving, planning, synthesis and abstraction skills
+* behavioural problems
+
+== Main causes
+
+* Antenatal :
+**Environmental: infectious or toxic exposure in utero (alcohol and other toxins, certain drugs, etc.).
+**Genetic: abnormalities in chromosome number and structure, X-linked, linked to point mutations.
+*Perinatal: complications of pregnancy and childbirth
+*Postnatal :
+**Trauma
+**Infections (meningitis)
+**Neurodegenerative encephalopathies

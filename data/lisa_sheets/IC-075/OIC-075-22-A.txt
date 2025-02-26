@@ -1,0 +1,91 @@
+{{knowledge objective
+|Identifiant=OIC-075-22-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Title=Knowing non-psychiatric medical complications
+|Description=Neoplastic, pulmonary, cardiovascular, dermatological
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=22}}
+
+{| class="wikitable"
+|'''Neoplastic''''
+
+Tobacco responsible for 25% of all cancers
+
+80% of deaths from bronchopulmonary cancer are linked to smoking
+|Bronchopulmonary cancer
+
+Oesophageal cancer
+
+Bladder cancer
+
+Oropharyngeal cancers
+
+Laryngeal cancer
+
+Pancreatic cancer
+
+Kidney cancer
+|-
+|'''Pulmonary''''
+|BPCO
+
+Emphysema
+
+Chronic bronchitis
+
+Chronic respiratory insufficiency
+|-
+|Cardiovascular disease
+
+Tobacco is the 1<sup>rst</sup> cause of avoidable cardiovascular mortality and the 1<sup>rst</sup> cardiovascular DRF in premenopausal women.
+|Coronary heart disease
+
+AOMI
+
+High blood pressure, hypertensive heart disease
+
+Abdominal aortic aneurysm
+
+Cerebrovascular accident
+|-
+|Dermatology
+|Acne
+
+Skin ageing
+
+Nail colouring
+
+Dry skin
+|-
+|'''Gynaeco-obstetrics''''
+|Decreased fertility
+
+Premature delivery
+
+Intrauterine growth retardation
+
+Fetal death in utero, EP, miscarriage
+|-
+|'''Other'''
+|Tooth discolouration
+
+Periodontal disease
+
+Tooth loosening
+
+Polycythemia, polynucleosis
+|-
+|Passive intoxication
+|Ischaemic heart disease
+
+Bronchopulmonary cancer
+
+Coronary artery disease
+
+Otitis, Asthma in children
+
+Bronchitis
+|}

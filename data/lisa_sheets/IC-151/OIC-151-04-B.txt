@@ -1,0 +1,40 @@
+{{knowledge objective
+|Identifiant=OIC-151-04-B
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=B
+|Title=To know the detailed clinical characteristics of the different infectious aetiologies of purulent meningitis in children and adults.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+'''<u>Purulent meningitis</u>''''
+
+'''<u>Meningococcal meningitis</u>''''
+
+*Bacteriology: encapsulated gram-negative diplococci, fragile. 5 main serogroups (A,B,C,Y,W). In France, serotype B > C predominates. Temporary asymptomatic nasopharyngeal carriage (adolescents and young adults): 5-50% of the population. Man = only reservoir.
+*''Context''': usually no particular background, look for complement deficiency or asplenia, young (<25 years old) non-immune subject (no vaccination), winter season, clustered cases, etc.
+*Clinical features: sudden onset, frank meningeal syndrome, frank sepsis with frank deterioration in general condition, no signs of neurological localisation, purpura/ecchymosis/haematoma SD-089|purpura]]
+
+'''<u>Pneumococcal meningitis</u>''''
+
+*'''Bacteriology:'''' Encapsulated gram-positive cocci, usually diplococci.
+*'''Context:''' risk factors to look for: extreme ages, immunodepression (ethylism, anatomical or functional asplenia, HIV infection, hypogammaglobulinaemia, immunosuppressive treatments, etc.), absence of vaccination entry points to look for: ENT infection (otitis, mastoiditis), pulmonary infection, osteomeningeal breach (recent or old cranial trauma, skull base surgery, positional chronic clear rhinorrhoea, etc.).
+*Clinical: sudden onset, recent or ongoing VADS infection, frank meningeal syndrome, frequent neurological signs, convulsions, coma, etc.
+
+
+Hypoglycorrhagic lymphocytic meningitis
+
+Listeria monocytogenes meningitis'''''
+
+* Bacteriology: gram-positive bacilli
+* Context: risk factors: age > 50, chronic alcoholism, malnutrition, immunodepression, pregnancy.
+* Clinical: progressive onset, rhombencephalitis: signs of brain stem involvement (involvement of the cranial pairs)
+* CSF: typically variegated, sometimes purulent or lymphocytic, hypoglycorrhea
+
+Tuberculous meningitis
+
+* Bacteriology: adult and pediatric tuberculosis (Mycobacterium tuberculosis): acid-fast bacillus visible with specific staining.
+* Context: patient from a highly endemic country, immunocompromised (HIV++), elderly, history of untreated primary tuberculosis infection.
+* Clinical features: very gradual onset, general deterioration in the foreground, fever, sweating, fruste meninge syndrome, frequent signs of neurological localisation.
+* CSF: lymphocytic, hypoglycorrachial, high protein levels > 1 g/L, direct examination usually negative (long cultures, +/- PCR)

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-104-20-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Distinguish between NORB and other conditions of decreased visual acuity with a normal fundus.
+|Description=None
+|Topic=Positive diagnosis
+|Contributors=
+|Order=20}}
+- The main differential diagnosis is represented by isolated inflammatory episodes of the CNS without spatial or temporal dissemination, such as idiopathic, viral, post-infectious or vascular autoimmune optic neuritis (NOIA = anterior ischaemic optic neuropathy). In the latter case, visual impairment is usually sudden (from one minute to the next), painless and frequently accompanied by an altitudinal alteration of the visual field ([[Vision abnormality SD-138|Vision abnormality]]).
+
+- In the category of inflammatory NORBs, apart from MS, autoimmune diseases such as Gougerot-Sjögren's syndrome, lupus or Behçet's disease should be considered. Sarcoidosis is also a non-exceptional differential diagnosis.
+
+- However, the main differential diagnosis to be made is in the context of rare inflammatory diseases of the central nervous system, neuromyelitis optica (often associated with anti-AQP4 autoantibodies) or diseases associated with anti-MOG antibodies (Myelin Oligodendrocyte Glycoprotein Associated Diseases or MOGAD).

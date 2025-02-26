@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-169-09-B
+|Item_parent=HIV infections
+|Item_parent_short=HIV infections
+|Rank=B
+|Title=Photograph of Kaposi's Sarcoma
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=9}}
+
+[[File:Kaposi.png|thumb]]
+
+
+Linked to an oncogenic virus: HHV8. Very closely linked to immunodepression
+
+Most frequent presentation = skin and mucous membranes: nodules or purplish, infiltrated patches, starting mainly on the extremities, which may become confluent at an advanced stage. Visceral localisations (lung, digestive tract) are rarer but can be serious (in particular pulmonary expectation).
+
+1st-line treatment for cutaneous or mucocutaneous forms: triple antiretroviral therapy to restore the immune system
+
+Visceral forms are often treated with antimitotics (doxorubicin, taxanes).

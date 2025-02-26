@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-245-06-B
+|Item_parent=Adrenal insufficiency in adults and children
+|Item_parent_short=Adrenal insufficiency in adults and children
+|Rank=B
+|Title=Know how to prescribe and interpret the 8-hour ACTH assay
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=6}}
+In the case of adrenal insufficiency, ACTH is measured at 8 o'clock in the morning because it follows the nycthemeral rhythm of cortisol and this is the time when the value is highest.
+
+
+Once the diagnosis of adrenal insufficiency has been made, ACTH is used to diagnose the aetiology of adrenal insufficiency:
+
+* if ACTH is high, this is primary adrenal insufficiency
+* if ACTH is normal or low in relation to low cortisol, it is corticotropic insufficiency

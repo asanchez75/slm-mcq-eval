@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-071-13-B
+|Item_parent=Eating disorders in adolescents and adults (see item 253)
+|Item_parent_short=Eating disorders in adolescents and adults (see item 253)
+|Rank=B
+|Title=Knowing the principles of pharmacotherapy
+|Description=
+|Heading=Management
+|Contributors=
+|Order=13}}
+'''Pharmacological management''''
+
+* No drug has marketing authorisation for anorexia nervosa.
+* The prescription of psychotropic drugs in the case of co-morbidities must be ''cautious'' (risk of QT prolongation, occurrence of drug dependence).

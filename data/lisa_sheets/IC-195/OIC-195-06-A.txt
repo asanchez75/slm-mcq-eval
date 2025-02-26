@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-195-06-A
+|Item_parent=Giant cell arteritis
+|Item_parent_short=Giant cell arteritis
+|Rank=A
+|Title=Knowing the ophthalmological complications of GCA: sudden amaurosis, oculomotor paralysis.
+|Description=Knowing ophthalmological damage
+|Rubric=Identifying the emergency
+|Contributors=
+|Order=6}}
+Ophthalmological damage = risk of blindness.
+
+Look for prodromal signs:
+
+- Amaurosis '''([[Anomaly of vision SD-138|anomaly of vision]])''': transient loss of vision, lasting from a few seconds to a few minutes, complete or simple amputation of the visual field.
+
+- Transient ''[[Diplopia SD-143|Diplopia]]''' secondary to oculomotor paralysis.

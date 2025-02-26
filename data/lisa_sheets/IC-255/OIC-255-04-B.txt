@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-255-04-B
+|Item_parent=Gestational diabetes
+|Item_parent_short=Gestational diabetes
+|Rank=B
+|Title=To understand the influence of pregnancy on insulin sensitivity and the possibility of the development of gestational diabetes in the event of failure to adapt insulin secretion.
+|Description=None
+|Rubric=Physiopathology
+|Contributors=Louis Potier,Philippe Deruelle,Sopio Tatulashvili,Emmanuel Cosson
+|Order=4}}
+
+Phase of physiological insulin resistance in the second half of pregnancy linked to :
+
+           Placental hormones
+
+           Maternal hormones (cortisol, leptin, growth hormone)
+
+In a physiological situation = reactive hyperinsulinism enabling euglycaemia to be maintained
+
+In the event of impaired pancreatic function leading to the appearance of ''[[Hyperglycaemia SD-208|hyperglycaemia]]'' and therefore gestational diabetes

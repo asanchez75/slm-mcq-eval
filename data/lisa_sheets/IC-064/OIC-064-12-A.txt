@@ -1,0 +1,55 @@
+{{knowledge objective
+|Identifiant=OIC-064-12-A
+|Item_parent=Bipolar disorders in adolescents and adults
+|Item_parent_short=Bipolar disorders in adolescents and adults
+|Rank=A
+|Title=Knowing the general principles of management
+|Description=None
+|Rubric=Management
+|Contributors=
+|Order=12}}
+
+
+==1.    Aetiological assessment, elimination of a non-psychiatric pathology==.
+
+===- Complete clinical examination===
+
+===- Paraclinical tests===
+
+*Blood tests: blood glucose, ionogram, blood calcium, urea, creatinine, CBC, platelets, CRP, TSHus, liver function tests, etc.
+*Urinalysis: toxicology (cannabis, amphetamines, cocaine)
+*Cerebral imaging and EEG: if 1<sup>st</sup> episode or neurological warning sign or atypical manifestation.
+
+==2.    Pre-therapeutic assessment according to the treatment envisaged==
+
+==3.    Psychiatric hospitalisation==
+
+*Manic episode: hospitalisation usually necessary, sometimes without consent
+*Depressive episode: hospitalisation sometimes necessary, sometimes without consent
+*Indications for psychiatric hospitalisation: high suicidal risk, agitation and behavioural disorders harmful to the patient or those around them, hetero-aggressive risk, deterioration in general condition.
+
+==4.  Management of the acute episode==
+
+===Manie===
+
+*Treatment of [[Agitation SD-114|agitation]]
+*Prevention of [[Suicidal ideation or behaviour/self-harm SD-125|suicidal risk]]
+*Rehydration, nutrition, correction of fluid and electrolyte disorders.
+*Treatment of sleep disturbances: prescribe an anxiolytic/hypnotic.
+*Prevention of risky behaviour
+*Discontinuation of antidepressant treatment where appropriate
+*Background drug treatment: thymoregulator (lithium salts, sodium divalproate, carbamazepine) and/or second-generation antipsychotic (olanzapine, risperidone, quetiapine, aripiprazole).
+*Clinical and paraclinical monitoring of treatment efficacy and tolerance.
+*Legal protection measures: safeguard of justice.
+
+===Characteristic depressive episode===
+
+*Treatment of agitation
+*Prevention of suicidal risk
+*Rehydration, nutrition, correction of hydro-electrolytic disorders
+*Treatment of sleep disturbances: prescribe an anxiolytic/hypnotic.
+*Background drug treatment: thymoregulator (lithium salts or lamotrigine) or second-generation antipsychotic (quetiapine LP).
+*Clinical and paraclinical monitoring of treatment efficacy and tolerance.
+
+===Role of electroconvulsive therapy (ECT)===
+ECT can also be used in the acute, manic or depressive phase, when symptoms are severe and life-threatening in the short term, or in cases of drug resistance (ineffectiveness or unacceptable side-effects).

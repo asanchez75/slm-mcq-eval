@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-088-02-B
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=B
+|Title=Knowing how a sound is produced
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=2}}
+During exhalation, when the vocal cords are closed (simply in contact with each other), the air pressure under the cords increases until it is greater than the closing pressure of the cords. The air then escapes upwards between the cords, causing them to vibrate: this creates the sound of the voice. Disruption of this mechanism creates dysphonia.

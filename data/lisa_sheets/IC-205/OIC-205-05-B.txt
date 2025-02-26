@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-205-05-B
+|Item_parent=Hemoptysis
+|Item_parent_short=Hemoptysis
+|Rank=B
+|Title=Know how to prescribe an initial assessment
+|Description=Know how to request a chest X-ray, arterial GDS, haemostasis test and injected lung CT scan.
+|Rubric=Additional tests
+|Contributors=
+|Order=5}}
+The aims of the initial assessment are:
+
+- d'''' assess the severity:''' clinical, initial biological work-up (including haemostasis), blood gases
+
+- identify the site of bleeding to guide symptomatic treatment: chest X-ray; thoracic computed tomography (CT) scan
+
+Identify the cause of the bleeding, to guide etiological treatment: chest X-ray and thoracic CT scan.
+
+Thus, with the data from the interview, the physical examination, and the first systematic complementary examinations (biology, blood gas; chest X-ray), ''thoracic CT with injection of contrast medium at the systemic arterial time has a key place'' in management, allowing:
+
+- locate the lesion responsible for the bleeding, or failing that, the site of the bleeding
+
+- to "characterise the lesion responsible" and thus guide further investigations and even etiological treatment.
+
+- to "map bronchial arterial vascularisation", and thus guide possible arterioembolisation.
+
+<br />

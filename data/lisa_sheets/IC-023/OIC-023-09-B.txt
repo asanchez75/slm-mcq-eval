@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-023-09-B
+|Item_parent=Normal pregnancy
+|Item_parent_short=Normal pregnancy
+|Rank=B
+|Title=Conduct in the event of a positive T21 test
+|Description=Knowing how to explain the results and suggest additional tests depending on the risk
+|Rubric=Management
+|Contributors=Philippe Deruelle,Laurence Compagnon
+|Order=9}}
+
+
+== Risk > 1/ 50 ==
+= fetal karyotype by trophoblast biopsy or amniocentesis
+
+== Risk between 1/51 and 1/1000 ==
+= non-invasive prenatal screening (lcT21 DNA test - analysis of free foetal DNA circulating in maternal blood), if amniocentesis is requested, possible but not reimbursed SS
+
+== Risk < 1000 ==
+= no further tests recommended and screening stopped

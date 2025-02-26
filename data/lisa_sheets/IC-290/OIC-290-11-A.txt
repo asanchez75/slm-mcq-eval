@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-290-11-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing and prioritising genetic, behavioural, environmental and occupational risk factors
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=11}}
+Risk factors are classified by level of evidence, for example alcohol is classified as a level 1 carcinogen.  Thirteen risk factors have been classified as definite or probable carcinogens by the IARC: tobacco (including passive), alcohol, diet, overweight and obesitý, insufficient physical activitý, use of exogenous hormones, insufficient duration of breastfeeding, infections, ionising radiation, air pollution, UV, occupational exposure, and exposure to chemical substances in the general population.
+
+Social inequalities in health are a risk factor for cancer. They have an impact at several levels, both on exposure to other risk factors and on care pathways. They highlight the importance of interactions between risk factors.

@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-196-03-A
+|Item_parent=Rheumatoid arthritis
+|Item_parent_short=Rheumatoid arthritis
+|Rank=A
+|Title=Know how to make a positive diagnosis of rheumatoid arthritis
+|Description=Articular and extra-articular clinical signs
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''Clinical signs -'''' Inflammatory joint pain ([[joint pain SD-067]]; [[chronic pain SD-035]]; [[joint stiffness SD-056]]; [[joint deformity SD-070]]) '''with''' '''joint swelling''''. Preferential involvement of the wrists, metacarpophalangeal joints, interphalangeal joints of the fingers and metatarsophalangeal joints '''(Image 1).'''' Topography bilateral and globally symmetrical. Evolution > 6 weeks.
+[[File:PR image 1.jpg|vignette]]
+<br />

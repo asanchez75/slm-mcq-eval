@@ -1,0 +1,140 @@
+{{knowledge objective
+|Identifiant=OIC-135-08-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Know the principle of multimodal analgesia
+|Description=For acute and chronic pain
+|Heading=Management
+|Contributors=
+|Order=8}}
+- Some types of pain cannot be overcome by a single analgesic. Opioids do not relieve all types of pain, are not very effective for pain in dynamic conditions and are associated with sometimes severe side effects, most of which are dose-related. Analgesic efficacy is inextricably linked to morphine sparing and, more generally, to an overall reduction in the dose of the various drugs administered to relieve the patient.
+
+- Multimodal (or balanced) analgesia consists of '''combining analgesic drugs and/or techniques with different and complementary sites of action'', resulting in '''additive or even synergistic interactions.''' Non-drug techniques (electrotherapy, acupuncture, etc.) are not excluded from the concept of multimodality.<gallery perrow="1">
+File:WHO levels.png
+</gallery>'''<u>Mechanisms of action (Table 1)</u>''''
+
+- The interaction between two analgesic agents is defined by an "isobolographic analysis" to define the ED50 (effective dose which produces 50% of the expected effect).
+
+- '''Additive interactions''' where the analgesic effect of the components of a combination simply adds up. These include, for example, the combination of paracetamol and morphine or paracetamol and non-steroidal anti-inflammatory drugs''''. '''''
+
+'''Synergistic interactions''' ''(or supra-additive)''' where the sum of the effects is greater than their simple addition. Examples include opioids and NSAIDs or opioids and NMDA receptor antagonists.) This type of interaction makes it possible to ''reduce the doses of each analgesic administered'' and sometimes the incidence of adverse effects linked in particular to opioids, such as nausea or vomiting.   
+
+- '''Table 1''': Classification of analgesics according to their mechanisms
+{| class="wikitable"
+|'''Classification'''
+|'''Drugs''''
+|-
+|'''Antinociceptives''''
+|Tier 1: paracetamol, NSAIDs
+
+Tier 2: codeine
+
+Tier 3: morphine, oxycodone, fentanyl, hydromorphone
+
+Cannabinoids
+|-
+|Antihyperalgesics
+|NMDA receptor antagonists (N- Methyl D-Aspartate): Ketamine, nefopam, nitrous oxide
+
+Antiepileptics: gabapentin, pregabalin, lamotrigine
+|-
+|'''Modulators of descending inhibitory control''''
+|Tricyclic antidepressants: amitriptyline, clomipramine
+
+'''IRSNA''' (Serotonin and Noradrenaline Reuptake Inhibitor): duloxetine, venlafaxine
+|-
+|'''Modulators of peripheral transmission and sensitisation'''
+|'''Local anaesthetics''': lidocaine
+
+Capsaicin
+
+Carabamazepine, oxcarbazepine, topiramate
+|-
+|Mixed analgesics
+|Tramadol
+
+Tapentadol
+|}
+- D'après D Lussier et P Beaulieu, Pharmacology of Pain, e Book, IASP 2010''
+
+
+'''<u>Indications</u>'''
+
+- Multimodal analgesia applies to both acute and chronic pain, particularly in post-operative or emergency medicine.
+
+- Its aim is to reach specific targets (nociceptive, neuropathic, procedural pain, etc.) with the most appropriate drugs in order, for example, to improve the postoperative period and thus "patient comfort".
+
+- Local anaesthetics administered locoregionally will allow "better rehabilitation" and more appropriate comfort after functional surgery, with morphine prescribed as an emergency analgesia.
+
+- The concept of enhanced recovery after surgery (ERAS) is a perfect example of the essential role of multimodal analgesia in the success of an operation eligible for this predetermined rehabilitation programme.
+
+- Multimodal analgesia is part of a ''morphine-sparing'' objective, or even of sparing morphine side-effects and therefore reducing morbidity.
+
+- One of the aims of multimodal analgesia is also to ''reduce the risk of chronic pain'', particularly post-surgery.
+
+
+'''<u>Undesirable effects</u>''''
+
+- Gabapentinoids (gabapentin, pregabalin) are associated with an increased risk of sedation, which is undesirable, particularly in the context of outpatient treatment or RAAC.
+
+- α2-adrenergic agonists (clonidine, dexmedetomidine) are sometimes administered as part of multimodal analgesia, particularly intraoperatively. They may entail a risk of bradycardia and arterial hypotension.
+
+- Nefopam has anticholinergic and positive inotropic/chronotropic effects (see section).
+
+- Depending on the dose, NSAIDs are associated with an increased risk of renal failure, haemorrhage or aggravation of an uncontrolled infection. Some NSAIDs are not recommended in patients with a history of arterial atherothrombosis (OAMI, stroke, MI).
+
+- '''Combinations of local anaesthetics.''' Lidocaine is recommended intravenously to relieve certain types of pain, particularly after digestive surgery, but it is contraindicated if the patient is being treated concomitantly with cardiac anti-arrhythmics. They should not be used in association with loco-regional anaesthesia or infiltration because of the risk of local anaesthetic overdose, which may lead to neurological or cardiac complications.
+
+  
+
+
+
+  
+
+'''<u>Drug interactions</u>''''
+
+'''Positive and recommended interactions: 3 examples'''
+
+- NSAIDs, apart from contraindications, are the most powerful non-morphine analgesics and are recommended in combination with at least one other non-morphine analgesic in cases of moderate to severe pain.
+
+- Local anaesthetics and, more generally, loco-regional anaesthesia should be used whenever possible, particularly in cases of pain on mobilisation.
+
+- Ketamine is the leading inhibitor of NMDA receptor antagonists and is indicated where there is a risk of chronic post-surgical pain or peripheral and central hypersensitivity. Its synergistic action with opioids also makes it possible to reduce opioid doses and the risk of sedation.
+
+'''Interactions not recommended: poor efficacy/tolerance ratio: 3 examples'''
+
+- Paracetamol alone combined with morphine offers little benefit after severe pain. It should be combined with other non-morphine analgesics.
+
+- Tramadol and, as a general rule, Level 2 analgesics should not be combined with an opioid. The added value of this combination will be limited, with an increased risk of side-effects.
+
+- The combination of a weak opioid already combined with paracetamol (in a capsule or tablet) with paracetamol alone. The risk is paracetamol overdose leading to hepatic necrosis.
+
+    
+
+
+
+    
+
+'''<u>Surveillance methods</u>''''
+
+- Analgesic efficacy, with a reduction in pain scores at rest and on mobilisation to achieve a target intensity acceptable to the patient, short of completely abolishing pain (zero pain).
+
+- Improved rehabilitation as part of the RAAC programme
+
+- The absence of adverse effects associated with combination drugs
+
+- Reducing the incidence of chronic post-surgical pain
+
+
+'''<u>Main causes of failure</u>''''
+
+- The occurrence of "undesirable events" as a result of an inappropriate choice of medication not suited to the patient's condition or to surgery (e.g. NSAIDs).
+
+- The combination of "too many drugs" is not necessarily associated with guaranteed efficacy, especially when there are problems of tolerance or unforeseen interactions.
+
+- A strategy adapted solely to the ''relief of pain at rest''.
+
+- '''L'absence de relais analgésique'' after the lifting of a peripheral or central nerve block
+
+<br />

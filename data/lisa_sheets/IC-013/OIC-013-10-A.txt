@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-013-10-A
+|Item_parent=Medical certificates. Death and legislation
+|Item_parent_short=Medical certificates. Death and legislation
+|Rank=A
+|Title=Knowing which situations require a judicial report, particularly concerning domestic violence
+|Description=None
+|Rubric=Identifying the emergency
+|Contributors=Laurène Dufayet,Audrey Farrugia-Jacamon
+|Order=10}}
+
+
+*''''[[Identify situations requiring a judicial report 2C-012-IU-A01|Situations requiring a judicial report]]''''
+
+*'''Specific features of judicial reporting in the context of domestic violence:''''
+
+The law of 30 July 2020 aimed at protecting victims of domestic violence amended article 226-14 of the French Criminal Code, allowing doctors to file a judicial report on behalf of an adult victim of domestic violence when they are of the opinion that the violence puts the victim's life in immediate danger and that the victim is unable to protect herself due to the "moral constraint resulting from the hold" exerted by the perpetrator. The doctor must endeavour to obtain the consent of the adult victim, and if this is not possible, must inform the victim of the report. This report should be sent as a matter of urgency to the Public Prosecutor.
+
+A vade-mecum produced by the Conseil de l'Ordre<ref>https://www.conseil-national.medecin.fr/documents-types-demarches/documents-types-medecins/pratique/signalement-violences-conjugales-danger</ref> can be used to characterise immediate danger (Iconography 7) and control (Iconography 8).
+[[File:Iconography 7 - Item 13.jpg|vignette|784x784px|'''Iconography 7''' : Questions to ask the adult victim to characterise immediate danger]]
+[[File:Iconography 8 - Item 13.jpg|vignette|566x566px|'''Iconography''' '''8'' : Questions to ask the adult victim to identify the hold]]
+<br />
+<references />

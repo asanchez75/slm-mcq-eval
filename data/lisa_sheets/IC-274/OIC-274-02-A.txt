@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-274-02-A
+|Item_parent=Vomiting in infants, children and adults
+|Item_parent_short=Vomiting in infants, children and adults
+|Rank=A
+|Title=Knowing the main causes of vomiting in children
+|Description=None
+|Rubric=Etiologies
+|Contributors=
+|Order=2}}
+cf [[Knowing the diagnostic approach to vomiting in children 2C-274-DP-A01]]

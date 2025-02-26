@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-034-03-B
+|Item_parent=Pathological childbirth: maternal pathology within 40 days
+|Item_parent_short=Pathological childbirth: maternal pathology within 40 days
+|Rank=B
+|Title=Knowing how to treat hyperthermia during childbirth according to the aetiology
+|Description=Knowing how to treat post-partum fever depending on the aetiology
+|Rubric=Management
+|Contributors=Paul Guerby,Philippe Deruelle
+|Order=3}}
+
+Acute postpartum endometritis
+
+Treatment is based on :
+
+- Hospitalisation in the conventional sector ;
+
+- Broad-spectrum antibiotic therapy as 1st line treatment without waiting for bacteriological results. Intravenous initially, with a "per os" relay after temperature normalisation, adapted secondarily to the results of the vaginal swab. Antibiotic treatment is continued until 48 hours of apyrexia and disappearance of pain.
+
+- Monitoring: temperature, height, tone and sensitivity of the uterus, appearance of lochia, signs of thromboembolic complications.
+
+The disease usually progresses rapidly with appropriate treatment. If this is not the case, two diagnoses should be considered as a priority, especially in cases of persistent fever:
+
+- Retention of placental fragments
+
+- Associated pelvic thrombophlebitis
+
+Acute pyelonephritis
+
+Antibiotic treatment must be compatible with any breast-feeding (3rd generation cephalosporins ± aminoside) and continued for a total of 10 to 14 days.
+
+255. [Prescribe an anti-infective SD-255|Prescribe anti-infectives]]

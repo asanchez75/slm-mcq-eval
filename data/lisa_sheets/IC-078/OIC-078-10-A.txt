@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-078-10-A
+|Item_parent=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Item_parent_short=Addiction to cannabis, cocaine, amphetamines, opiates, synthetic drugs. (see item 322)
+|Rank=A
+|Title=Know how to diagnose high-risk drug use.
+|Description=Appearance of complications
+|Heading=Positive diagnosis
+|Contributors=
+|Order=10}}
+- All substance use = misuse
+
+- In the absence of a substance-related addictive disorder = risky use
+
+- No known dose threshold below which there is no risk

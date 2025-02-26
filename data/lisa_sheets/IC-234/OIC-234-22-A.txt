@@ -1,0 +1,31 @@
+{{knowledge objective
+|Identifiant=OIC-234-22-A
+|Item_parent=Adult heart failure
+|Item_parent_short=Adult heart failure
+|Rank=A
+|Title=Know how to diagnose cardiogenic shock
+|Description=Arterial pressure, peripheral perfusion, oliguria, consciousness refer a item 332
+|Heading=Identification of the emergency
+|Contributors=Olivier Huttin
+|Order=22}}
+The diagnosis of cardiogenic shock is made on clinical examination when there are
+
+- Signs of heart failure
+
+- low blood pressure
+
+- associated with signs of peripheral hypoperfusion: oliguria, skin mottling, cold extremities, cyanosis, consciousness disorders.
+
+
+The cardiogenic character is confirmed by the demonstration of a heart attack by echocardiography or catheterisation after exclusion or correction of hypovolaemia.
+
+The haemodynamic criteria are as follows:
+
+- systolic blood pressure < 90 mmHg, for at least 30 minutes ;
+
+- low cardiac output (index < 2.2 L/min/m2) ;
+
+- pulmonary arterial occlusion pressure (PAPO) > 15 mm Hg.
+
+
+Details of treatment are given in item 232.

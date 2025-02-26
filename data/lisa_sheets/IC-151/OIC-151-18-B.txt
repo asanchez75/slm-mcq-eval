@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-151-18-B
+|Item_parent=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Item_parent_short=Meningitis, meningoencephalitis, brain abscess in adults and children
+|Rank=B
+|Title=Knowing what to do immediately in the event of suspected herpetic meningoencephalitis
+|Description=Know what to do immediately in the event of meningoencephalitis, indication for aciclovir
+|Rubric=Management
+|Contributors=
+|Order=18}}
+The introduction of an intravenous antiviral (ACICLOVIR) is a therapeutic emergency.

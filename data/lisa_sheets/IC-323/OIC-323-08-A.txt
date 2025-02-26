@@ -1,0 +1,76 @@
+{{knowledge objective
+|Identifiant=OIC-323-08-A
+|Item_parent=Analysing and using the results of clinical studies from the perspective of good use - critical analysis, clinical research and levels of evidence (see item 3)
+|Item_parent_short=Analysing and using the results of clinical studies to promote correct use - critical analysis, clinical research and levels of evidence (see item 3)
+|Rank=A
+|Title=Know the different sources of therapeutic information and be able to assess their relevance (primary, secondary, tertiary and quaternary literature), -, HAS, ANSM, INCA recommendations for good practice,..., the good use of medicines sheet, etc.
+|Description=None
+|Rubric=Definition
+|Contributors=Pierre-Olivier Girodet,Alexandra Rouquette (CIMES),Agnès Dechartres (CUESP),Nathanaël Lapidus (CIMES),David Hajage (CIMES)
+|Order=8}}
+
+'''Medical literature'''
+
+- Varied production
+
+*Researchers :
+**Original research articles.
+**General reviews, systematic (or narrative) reviews.
+**Conference proceedings, reports and sometimes books.
+**Editorials and letters to the editor.
+**Clinical cases.
+*Other:
+**Publishers, health agencies, manufacturers, learned societies.
+**Educational articles: Syntheses, reviews, consensus conferences, fact sheets.
+
+- It can be classified according to its degree of critical synthesis:
+
+*Primary literature: immediate results of original research, new scientific discoveries (e.g. clinical trials, original research articles).
+*Secondary literature: indexing of the literature to identify all the studies with negative results (e.g. databases such as Medline, Embase, etc.).
+*Tertiary literature: summaries, syntheses or digests to identify results and put them into perspective (e.g. narrative reviews, systematic reviews including meta-analyses, books).
+*Quaternary literature: recommendations for practice, consensus (e.g. publications by agencies such as HAS, guidelines and practical recommendations).
+
+- Quality assessment :
+
+*Content: original articles, with new scientific data, description of methods used, reproducible results, declaration of links of interest.
+*Publication:
+**Independent peer-review committee.
+**Impact factor and other bibliometric indices: a low impact factor is a sign of mistrust, but a high impact factor is not always synonymous with quality.
+**Pre-prints: manuscripts of scientific articles as submitted for publication to scientific journals, published online in their initial form, i.e. before reading by the independent reading committee. Despite their great usefulness in rapidly disseminating scientific information, they should be interpreted with great caution as they have not yet been critically re-read by peers.
+**Predatory" journals: pay for the publication of any manuscript submitted for publication, without any real critical review. These journals should not be considered as vectors of scientific information, the difficulty being that there is no consensual list of criteria for determining which journals fall into this category.
+
+- Principle of free access to scientific information :
+
+* Some scientific journals offer free access to peer-reviewed scientific articles in their full version.
+* Advantage: facilitates access and increases the visibility of scientific results
+* Disadvantage: access is free for readers, but authors have to pay to publish (the preferred business model for 'predatory' journals).
+
+- Beware of publication bias.
+
+*Studies with positive results are published more often than negative studies. Interest in study registries (such as <nowiki>https://clinicaltrials.gov/</nowiki>) and systematic reviews including unpublished results.
+
+'''Reference systems'''
+
+- Sources :
+
+*Official: Regulatory bodies
+**Agence nationale de sécurité du médicament et des produits de santé (ANSM), Haute Autorité de Santé (HAS), Institut National du Cancer (INCA).
+*Unofficial:
+**Learned societies, expert groups, experts.
+
+- Example: Proper use of medicines sheet.
+
+- Objectives
+
+*Inform or educate (doctor, patient).
+*Clarify the use of a class of drugs.
+*Benefit/risk ratio.
+*Include economic data.
+
+- Limits
+
+*Heterogeneity (qualitative, quantitative).
+*Varied objectives.
+*Updating required.
+*Diverse clients.
+*Deadline before development

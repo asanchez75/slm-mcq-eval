@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-080-05-B
+|Item_parent=Doping and doping behaviour. (see item 256)
+|Item_parent_short=Doping and doping behaviour. (see item 256)
+|Rank=B
+|Intitle=General prevalence
+|Between 5 and 10% of doping tests are positive (variations between disciplines).
+|Section=Epidemiology
+|Contributors=
+|Order=5}}
+Between 5 and 10% of positive doping tests (variations between disciplines)

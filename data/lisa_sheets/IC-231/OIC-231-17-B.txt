@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-231-17-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Title=Knowing the value of vagal manoeuvres in rhythm disorders
+|Description=The use and contribution of vagal manoeuvres and purinergic drugs
+|Section=Positive diagnosis
+|Contributors=Victor Waldmann
+|Order=17}}
+
+
+*Vagal manoeuvres or injections of adenosine can temporarily slow or even block conduction in the VAD
+*The main physical manoeuvres are sino-carotid massage and the Valsalva manoeuvre (closed expiration with closed glottis).
+*The effect of vagal manoeuvres or adenosine on the various tachycardias can be summed up simply:
+**Transient slowing of a ''sinus tachycardia'',
+**Reduction of junctional tachycardia,
+**Slowing of atrioventricular conduction, allowing F waves of flutter or P waves of atrial tachycardia to be detected,
+**No effect on ventricular tachycardia.
+
+[[File:Injection adenosine - copie.jpg|vignette|alt=|centré|900x900px]]

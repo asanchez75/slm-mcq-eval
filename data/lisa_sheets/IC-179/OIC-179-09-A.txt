@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-179-09-A
+|Item_parent=Health risks linked to water and food. Food poisoning
+|Item_parent_short=Sanitary risks related to water and food. Food poisoning
+|Rank=A
+|Title=Knowing how to detect and report a suspected CFTI
+|Description=None
+|Section=Definition
+|Contributors=Pr Christophe DE CHAMPS DE SAINT LEGER, Dr Johann CAILHOL
+|Ordre=9}}
+A CFT is suspected when there are clustered cases of gastrointestinal or neurological disorders. The diagnosis is made if the clustered cases are compatible with the definition of CFTI, in an environment that is often collective, and where hygiene measures are not respected.
+
+CFTI is a notifiable disease.
+
+Reports are made to the ARS via a specific form, without waiting for the investigation or documentation.

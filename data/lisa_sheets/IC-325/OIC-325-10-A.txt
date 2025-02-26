@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-325-10-A
+|Item_parent=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medicinal errors (see items 4 and 5)
+|Item_parent_short=Identification and management of risks associated with medicines and biomaterials, iatrogenic risk, medication errors (see items 4 and 5)
+|Rank=A
+|Title=Know how to report an adverse reaction suspected to be due to a medicinal product.
+|Description=Know how to report an adverse drug reaction suspected of being due to a medicinal product (what to report, to whom, by whom, how).
+|Rubric=Definition
+|Contributors=Marie Briet
+|Order=10}}
+
+
+== Report an adverse reaction suspected to be drug-related ==
+
+== Who reports?
+Healthcare professionals (mandatory reporting of adverse drug reactions, particularly serious and/or unexpected reactions)
+
+Companies or organisations exploiting medicinal products
+
+Patients and approved patient associations
+
+== What?
+Adverse reactions suspected to be due to a medicinal product or one of the products mentioned above, including overdose, abuse and medication errors.
+
+== How?
+Report via the adverse health events reporting portal: <nowiki>https://signalement.social-sante.gouv.fr</nowiki>
+
+Cerfa form sent to the Regional Pharmacovigilance Centre in the area <nowiki>https://www.service-public.fr/particuliers/vosdroits/R14404</nowiki>

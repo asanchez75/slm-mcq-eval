@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-218-03-A
+|Item_parent=Eosinophilia
+|Item_parent_short=Eosinophilia
+|Rank=A
+|Intitle=Knowing that helminths are the main parasites responsible for parasitosis
+|Description=Larval migration
+  Invasion phase, re-infestation, endogenous cycle
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+'''NB Helminthoses or helminthiases may be used interchangeably'''
+
+'''Helminthoses''' =
+
+- These are the main parasitoses responsible for eosinophilia, especially during the invasion and tissue migration phase of the parasite (ascariasis, anguillulosis, schistosomiasis, etc.).
+
+- possible peaks in eosinophilia associated with the migration of anguillaria larvae at a distance from the primary infection (endogenous self-infestation cycle): anguillulosis
+
+Intra-luminal protozoan parasites (e.g. giardiosis, amoebiasis, cryptosporidiosis, etc.) = no eosinophilia.

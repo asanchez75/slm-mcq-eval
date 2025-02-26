@@ -1,0 +1,93 @@
+{{knowledge objective
+|Identifiant=OIC-135-06-A
+|Item_parent=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Item_parent_short=Analgesic, medicinal and non-medicinal therapies (see item 330)
+|Rank=A
+|Title=Know how to prescribe level 2 analgesics.
+|Description=Tier 2 analgesics: indications, side effects, risks of misuse.
+|Rubric=Management
+|Contributors=
+|Order=6}}
+Level II analgesics are weak opioids. Their analgesic effect is mediated by µ-opioid receptors (low affinity). They include: ''codeine, tramadol and opium powder.''
+
+
+'''<u>Codeine</u>''''
+
+- '''Converts to morphine in a small proportion'' after biotransformation by cytochrome CYP 2D6, but 5 to 10% of the Caucasian population does not have functional CYP 2D6 (codeine inactive after administration).
+
+- Available in combination with paracetamol (codeine paracetamol), as a syrup in paediatrics or as dihydrocodeine.
+
+- Corresponds to 1/6 morphine equivalent
+
+'''<u>Tramadol</u>''''
+
+- Synthetic opioid with a mixed central action.
+
+- Tramadol and its main metabolite ''bind to μ-opioid receptors (partial agonist) and inhibit the reuptake of noradrenaline and serotonin'', hence its effectiveness in neuropathic pain.
+
+- Available in sustained-release form (LP 12h or 24h), immediate-release form (1 dose every 4 to 6 hours) or combined with paracetamol to be taken every 4 to 6 hours.
+
+- Maximum prescription period: three months
+
+- Generally corresponds to 1/5 morphine equivalent (but there is no absolute consensus)
+
+'''<u>Opium powder</u>''''
+
+- Available in combination with paracetamol
+
+
+'''<u>Indications and conditions of use:</u>'''
+
+- '''Moderate to severe pain from the outset'''
+
+- '''Neuropathic pain for tramadol (as a second-line treatment).'''
+
+- Other weak o'''pioids are not recommended for neuropathic pain.  
+
+- Weak opioids are best used for ''acute pain or chronic flare-up pain over a short period (a few months). Tramadol LP can be used over a longer period for neuropathic pain under supervision, but its maximum prescription duration is limited to three months.
+
+
+'''<u>Undesirable effects:</u>''''
+
+Other effects are common to strong opioids (see section on strong opioids); those associated with paracetamol (associations) are described in the section on paracetamol.
+
+The undesirable effects specific to tramadol (due to its monoamine reuptake properties) are :
+
+- Nausea, vomiting (particularly in slow metaboliser patients): most frequent
+
+- Dry mouth
+
+- Abdominal pain
+
+- Visual disorders
+
+- Convulsions (especially if contributing factors)
+
+- Serotonin syndrome in combination with serotonergic treatments
+
+- Mental confusion, particularly in the elderly
+
+  
+
+
+
+  
+
+<u>''Specific contraindications''</u> (see strong opioids section for common ICs)
+
+- '''Respiratory insufficiency, severe asthma'''
+
+- Breastfeeding
+
+- '''Children under 12 for codeine'''
+
+- '''Child under 3 for tramadol'''
+
+- '''Uncontrolled epilepsy (tramadol)'''
+
+- Association with monoamine oxidase inhibitors (MAOIs) (tramadol)
+
+
+<u>''Dependence, tolerance, misuse''</u> (see strong opioids section)
+
+Weak opioids and tramadol have a risk of physical and psychological dependence and misuse similar to that of strong opioids'' : especially if high doses, LI forms.

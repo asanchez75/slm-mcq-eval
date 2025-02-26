@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-200-09-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Title=Know the five main causes of mechanical joint effusion
+|Description=Arthrosis, fibrocartilage disease, osteochondritis, osteonecrosis and algodystrophy.
+|Rubric=Etiologies
+|Contributors=
+|Order=9}}
+osteoarthritis flare-up
+
+-meniscal lesions
+
+-Chondral lesions and osteochondritis
+
+-Aseptic osteonecrosis
+
+-complex locoregional pain syndrome type 1 (algodystrophy)

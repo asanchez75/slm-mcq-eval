@@ -1,0 +1,80 @@
+{{knowledge objective
+|Identifiant=OIC-115-09-A
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=A
+|Title=Knowing the different types of drug-induced skin lesions
+|Description=Maculopapular exanthema, acute generalised exanthematous pustulosis (AGEP), urticaria, epidermal necrolysis, fixed erythema pigmentosa, photosensitivity, psoriasiform reactions, acneiform reactions, pemphigus, lupus, mouth ulcerations.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=9}}
+
+{| class="wikitable"
+|+
+|'''Toxidermia''''
+|'''Semiology''''
+|'''Characteristic delay'''
+|-
+|'''Maculopapular exanthema''''
+|Polymorphism of lesions associating
+
+<nowiki>*</nowiki>isolated macules, with intervals of healthy skin (morbilliform rash)
+
+<nowiki>*</nowiki>maculopapular exanthema: maculopapular exanthema, morbilliform (persistence of intervals of healthy skin) or scarlatiniform (without intervals of healthy skin)
+
+<nowiki>*</nowiki> usual absence of enanthema
+|4-14 days
+|-
+|'''Acute generalised exanthematous pustulosis (AGEP)'''
+|*scarlatiniform, sheet-like erythema, predominant in the large folds (armpits, groin...), surmounted by amicrobial pustules.
+
+<nowiki>*</nowiki>fever, altered general condition
+
+<nowiki>*</nowiki>rare mucosal damage
+|1 to 11 days
+|-
+|'''Urticaria'''
+|Rash of oedematous papules surrounded by an erythematous halo, pruritic, labile in time and space.
+|minutes, hours
+|-
+|''Toxic epidermal necrolysis'''
+|State phase
+
+<nowiki>*</nowiki> multifocal mucosal erosions
+
+<nowiki>*</nowiki>cutaneous bubbles; more or less confluent with skin flaps, positive Nikolsky's sign
+<br />
+|4 to 28 days
+|-
+|''Fixed erythema pigmented'''
+|*From 1 to 10 rounded erythematous macules, a few centimetres in diameter, often painful and infiltrated, becoming plaques,
+
+<nowiki>*</nowiki>Preferential location: genitals or labia
+
+<nowiki>*</nowiki>Bullous and generalised evolution possible.
+|<48 hours
+|-
+|'''Phototoxicity'''
+|Erythema of the solar erythema type ("sunburn") limited to photo-exposed areas, sometimes associated with vesiculo-bullous lesions.
+|several hours after exposure to the sun
+|-
+|'''Photoallergy''''
+|Polymorphic rash, predominantly eczematous and pruritic, beginning in photo-exposed areas but extending to photo-protected areas.
+<br />
+|7 to 21 days
+|-
+|Psoriasiform reactions
+|Erythematosquamous lesions, more or less pustular, simulating psoriasis (or eczema) in 5% of patients treated with biomedications (mainly anti TNF alpha).
+
+Palmar location, mainly on the scalp
+<br />
+|Several weeks to several months of treatment
+|-
+|''Acneiform reactions'''
+|Papulo-pustular lesions of the face and trunk, specific toxicity of anti-EGFR targeted therapies.
+|
+|-
+|'''Lupus'''
+|Erythematous, more or less erosive, annular subacute lupus lesions of the décolleté and back.
+|Several weeks to several months of treatment.
+|}

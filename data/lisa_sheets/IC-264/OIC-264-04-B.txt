@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-264-04-B
+|Item_parent=Chronic renal failure in adults and children
+|Item_parent_short=Chronic renal failure in adults and children
+|Rank=B
+|Title=Knowing the incidence and prevalence of end-stage CKD
+|Description=Population at risk
+|Topic=Epidemiology
+|Contributors=Frimat,Vrtovsnik,Moulin
+|Order=4}}
+
+The prevalence of end-stage CKD treated by dialysis or transplantation in France is around 1,250 patients per million population. The incidence is 160 new patients per year and per million inhabitants. The main risk factors for developing CKD are age over 60, diabetes, obesity, cardiovascular disease, a family history of CKD and a history of chemotherapy.

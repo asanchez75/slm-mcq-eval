@@ -1,0 +1,103 @@
+{{knowledge objective
+|Identifiant=OIC-036-13-A
+|Item_parent=Contraception. (see item 330)
+|Item_parent_short=Contraception. (see item 330)
+|Rank=A
+|Title=Know the levels of effectiveness of different contraceptive strategies and emergency contraception (Pearl index)
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=Geneviève Plu-Bureau
+|Order=13}}
+The effectiveness of a contraceptive method is measured by the Pearl index, which is the ratio of the number of unwanted pregnancies per 100 women after 12 months of use.
+
+It is assessed in two ways:
+
+- perfect use (test results) or
+
+- common use ("real life" ''with its risks of forgetfulness'' or malabsorption: digestive disorders ...)
+
+=== '''Effectiveness of different contraceptives (adapted from WHO 2009)''' ===
+{| class="wikitable"
+| rowspan="2" |
+
+'''Methods'''
+| colspan="2" |'''Percentage of women affected by an unintended pregnancy in the first year of contraceptive use'''
+|-
+|'''Typical use'''
+|'''Perfect use'''
+|-
+|'''Combined oral pill, patch or ring'''
+
+'''Microprogestogenic pill'''
+|8
+|0,3
+|-
+|Progestin-only implant
+|0,05
+|0,05
+|-
+|'''Progestin injection'''
+|3
+|0,3
+|-
+|'''Copper IUD'''
+|0,8
+|0,6
+|-
+|'''LNG-IUD'''
+|0,1
+|0,1
+|-
+|'''Male condom'''
+
+'''Female condom'''
+|15
+
+21
+|2
+
+5
+|-
+|'''Diaphragm - Cape''''
+|16
+|6
+|-
+|'''Spermicides'''
+|29
+|18
+|-
+|'''Contraceptive sponge'''
+
+Nullipares
+
+Single or multiparous
+|
+
+
+16
+
+32
+|
+
+
+9
+
+20
+|-
+|'''Withdrawal'''
+|27
+|4
+|-
+|'''Female sterilisation'''
+
+'''Male sterilisation''''
+|0,5
+
+0,15
+|0,5
+
+0,10
+|}
+Source : Trussell J et al Contraceptive technology : nineteenth revised edition New-York 2007, HAS
+
+'''Long-acting contraception (LARC), which includes IUDs and implants, is the most effective.'''

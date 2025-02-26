@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-148-13-A
+|Item_parent=Nasosinus infections in adults and children
+|Item_parent_short=Naso-sinus infections in adults and children
+|Rank=A
+|Title=Knowing the signs of complicated sinusitis or sinusitis at risk of serious complications
+|Description=Oculo-orbital complications, cerebromeningeal complications, osteitis, forms, etc.
+|Rubric=Emergency identification
+|Contributors=
+|Order=13}}
+The main complications of sinusitis are :
+
+Ø Orbital (acute ethmoiditis): orbital or periorbital cellulitis, phlegmon, subperiosteal abscess, optic neuritis.
+
+'''''Warning signs: palpebral oedema, exophthalmos, ocular motor disorders, reduced visual acuity'''''
+
+Ø Neuromeningeal (any sinus involvement): meningitis (pneumococcus), thrombophlebitis of the [[Anatomy:Cavernous sinus|cavernous sinus]] or superior longitudinal sinus, cerebral abscess, subdural empyema, etc.
+
+'''''Warning signs: meningeal syndrome, consciousness disorders'''''

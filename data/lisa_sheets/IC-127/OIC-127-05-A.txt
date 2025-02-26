@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-127-05-A
+|Item_parent=Benign prostatic hyperpertrophy
+|Item_parent_short=Benign prostatic hypertrophy
+|Rank=A
+|Title=Know the clinical investigations for diagnosing BPH
+|Description=Evaluate the symptoms of the lower urinary tract, sexuality, perform a digital rectal examination (DRE).
+|Rubric=Positive diagnosis
+|Contributors=Alexandre Ingels, Jonathan Olivier
+|Order=5}}
+
+
+==Questioning is the key to diagnosis ==
+
+*The clinical signs sought are [[Urinary incontinence and voiding disorders in adults and the elderly|lower urinary tract symptoms 125]]
+**<u>Storage symptoms</u>: daytime and nocturnal pollakiuria, urgency.
+**<Emptying symptoms: dysuria, micturition in several stages, sensation of incomplete bladder emptying, delayed drops.
+**These symptoms are grouped together in the IPSS/35 score (0-8: not very symptomatic - 8-19: moderately symptomatic - 20-35: severe symptoms).
+
+*The frequent association of sexual symptoms with BPH or its treatment requires an assessment of sexuality in patients consulting for LUTS.
+**Urination disorders and urinary incontinence in adults and the elderly|Erectile dysfunction 125]], [[Menopause, premature ovarian failure, andropause, age-related androgen deficiency|Libido disorder 124]].
+**IEEF score 5/15
+
+=='''Clinical examination:'''==
+
+*Abdominal palpation to look for [[Acute retention of urine|globe 347]]
+*Examination of the [[Genito-scrotal pathology in boys and men|external genital organs 50]] to look for urethral meatus stenosis, phimosis, etc.].
+*A digital rectal examination to look for cancer, pain (prostatitis) and to assess the volume of the prostate.

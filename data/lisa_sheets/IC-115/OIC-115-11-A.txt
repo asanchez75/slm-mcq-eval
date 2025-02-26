@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-115-11-A
+|Item_parent=Toxidermies
+|Item_parent_short=Toxidermies
+|Rank=A
+|Title=Savoir reconnaître un DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
+|Description=erythroderma; facial oedema; diffuse adenopathy; high fever; visceral damage that may be life-threatening; eosinophilia, lymphocytosis, mononucleosis syndrome.
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=11}}
+Clinical picture characterised by:
+
+- Hyper-eosinophilia and/or lymphocytosis with mononucleosis syndrome;
+
+- non-specific ''cutaneous eruption'' which may take the form of maculopapular exanthema or erythroderma; ''infiltrated'' (oedema of the face and extremities);
+
+- diffuse adenopathy ;
+
+- high fever ;
+
+- life-threatening visceral damage (hepatitis and interstitial nephropathy; interstitial lung disease, myocarditis, macrophagic activation syndrome, etc.):
+
+The usual time between the start of inducing treatment and the appearance of the first signs: 2 to 6 weeks.

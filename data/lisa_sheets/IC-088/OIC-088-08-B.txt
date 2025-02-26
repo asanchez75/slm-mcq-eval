@@ -1,0 +1,52 @@
+{{knowledge objective
+|Identifiant=OIC-088-08-B
+|Item_parent=Acute speech disorder. Dysphonia
+|Item_parent_short=Acute speech disorder. Dysphonia
+|Rank=B
+|Title=Knowing the diagnostic orientation of laryngeal paralysis according to the context and associated manifestations.
+|Description=Know the clinical presentations that point to a particular type of cord immobility.
+|Rubric=Etiologies
+|Contributors=
+|Order=8}}
+Immobility is not synonymous with paralysis: a mechanical or tumoral blockage is possible.
+
+The differential diagnosis is not always easy (questioning, examination and sometimes LES).
+
+Causes of mechanical blockages :
+
+- cancer of the larynx or piriform sinus. This is important because TNM status classifies unilateral laryngeal immobility as T3,
+
+- post-traumatic lesions (after intubation): dysphonia occurring on awakening from surgery or emergency intubation. On examination, the arytenoid may be inflamed or even dislocated.
+
+
+Causes of paralysis :
+
+- malignant lesion in the nerve pathway. A cervico-thoracic CT scan with injection is essential. We will look for :
+
+o thyroid cancer,
+
+o lung cancer: mainly on the left because of the course of the vagus nerve (X), but possible on both sides because of mediastinal invasion,
+
+o oesophageal cancer,
+
+- traumatic lesions following surgery close to the nerves,
+
+- neurological causes (Guillain-Barré, stroke, MS, syringomyelia, diabetic neuropathies, etc.). Laryngeal paralysis is rarely 1<sup>er</sup>;
+
+- cardiac causes (very rare aetiologies): mitral disease, aortic coarctation
+
+- idiopathic paralysis (about 20% of cases): this is a diagnosis of elimination. Recovery occurs in 50% of cases within 6 to 8 months. A viral aetiology is sometimes suggested without any real proof.
+
+
+BILATERAL immobility
+
+Symptoms are noisier than in the case of unilateral immobility.
+
+Urgency is linked to the risk of dyspnoea:
+
+- immobility with closed strings: dyspnoea is in the foreground, while the voice is usually almost normal. It is a case of "high" or laryngeal dyspnoea, including inspiratory bradypnoea with draught and horniness. This is a diagnostic and therapeutic emergency.
+
+- immobility with open strings: significant dysphonia with a voice that is almost inaudible; false routes are possible.
+
+
+The aetiological approach is identical to that for unilateral immobility.

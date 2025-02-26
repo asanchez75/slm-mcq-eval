@@ -1,0 +1,49 @@
+{{knowledge objective
+|Identifiant=OIC-282-05-B
+|Item_parent=Chronic inflammatory bowel disease (IBD) in adults
+|Item_parent_short=Chronic inflammatory bowel disease (IBD) in adults
+|Rank=B
+|Title=Know the additional examinations used to diagnose IBD and the arguments for diagnosis: endocopy, histology, imaging (MRI), etc.
+|Description=Calprotectin
+|Rubric=Additional tests
+|Contributors=
+|Order=5}}
+Outside the context of certain acute complications, complementary investigations include ileocoloscopy with biopsies of healthy and pathological mucosa, imaging and biology as the 1st line of defence.
+
+Endoscopy
+
+Digestive endoscopies and biopsies are central to the diagnosis (table 1).
+
+'''Imaging'''
+
+The indication for an abdominopelvic CT scan is limited to suspected complications: perforation, abscess, occlusion.
+
+In CD, ''entero-MRI'' assesses the extent of lesions in the small intestine. In the case of inflammatory lesions, it may show thickening of the wall, contrast enhancement of the mucosa and a "comb-like" appearance of the vessels in the mesos. It may show complications such as abscesses, fistulas and strictures. There are often reactive adenopathies.
+
+Anoperineal involvement is identified by pelvic MRI if there is a clinical lesion.
+
+'''Biology'''
+
+Fecal calprotectin is the most sensitive marker of intestinal inflammation (whatever the cause) (not yet covered by the health insurance scheme in 2021). This marker makes it possible to rule out active IBD if the level is low, and to make a differential diagnosis with irritable bowel syndrome. It is also essential for monitoring progress under treatment.
+
+C-reactive protein (CRP) levels rise variably in IBD flare-ups. An inflammatory flare-up may be accompanied by PNN hyperleukocytosis and thrombocytosis.
+
+Anaemia is common and multifactorial: iron deficiency, inflammation, vitamin B12 deficiency in cases of ileitis or ileal resection, or folate deficiency in cases of proximal small bowel involvement.
+
+Hypoalbuminemia may reflect exudative enteropathy linked to digestive ulceration, inflammation or malnutrition. If the small intestine is affected, biological signs of malabsorption may be observed.
+
+Bacterial superinfection of IBD, particularly with Clostridioides, should be systematically investigated at diagnosis and during colic flare-ups.
+
+From an anatomopathological point of view, there are inflammatory lesions common to the 2 IBD (inflammatory reaction on surgical specimen/biopsy) (interpretation of an anatomopathological report):
+
+- ulcerations, rarefaction of glands, lymphoplasmacytic infiltrate
+
+
+The anatomopathological lesions suggestive of Crohn's disease are as follows:
+
+- Epithelioid granulomas (and sometimes gigantocellular granulomas, but without caseous necrosis): specific to CD (detected in 30% of cases), they are not seen in UC.
+
+- Transmural inflammatory infiltrate in CD (superficial in UC).
+
+
+Chronic inflammation promotes the development of "intestinal fibrosis", which can progress to stenosis. This is most often seen in the small intestine in CD.

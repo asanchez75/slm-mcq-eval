@@ -1,0 +1,70 @@
+{{knowledge objective
+|Identifiant=OIC-272-13-A
+|Item_parent=Gastric and duodenal ulcer. Gastritis
+|Item_parent_short=Gastric and duodenal ulcer. Gastritis
+|Rank=A
+|Title=Know the principles of treatment of uncomplicated ulcers, including the eradication of ulcerative colitis.
+|Description=Know the different families of PPIs and their indications.
+|Section=Management
+|Contributors=
+|Order=13}}
+'''1/ PPI TREATMENT'''
+
+'''Gastric ulcer:'''' Single-dose PPI for 4 to 8 weeks (until healing controlled by EOGD)
+
+'''Duodenal ulcer:''' Single-dose PPI for 4 weeks
+
+PPI = lansoprazole, omeprazole, pantoprazole, rabeprazole, esomeprazole (see GERD item 271)
+
+
+'''2/ ERADICATION of H.pylori: not urgent.'''
+
+ if possible guided by antibiotic susceptibility testing or characterisation of the "H.pylori" type by PCR
+
+ if no antibiogram or PCR (most frequent in practice): probabilistic treatment
+
+
+Eradication checked by breath test at least 4 weeks after stopping antibiotics and at least two weeks after stopping PPIs (PPIs cause false negatives).
+
+
+- principles of H.pylori eradication treatment :
+
+Several possible regimens depending on bacterial ecology, lasting 7, 10 or 14 days
+
+Bi-antibiotic therapy +/- bismuth salt with double-dose PPI
+
+
+Dosages of medicines prescribed for this indication :
+
+Amoxicillin: 1g morning and evening
+
+Clarithromycin: 500 mg morning and evening
+
+levofloxacin: 500mg once a day
+
+Metronidazole:500mg morning and evening
+
+Combination in one capsule (PYLERA®) of: potassium bismuth subcitrate (140mg) + tetracycline hydrochloride (125mg) + metronidazole (125mg): 3 capsules, 4 times a day, at the end of a meal or after a snack.
+
+PPI: double dose: one dose morning and evening (e.g. omeprazole 20 mg morning and evening),
+
+
+'''3-GESTION OF NSAIDS AND ASPIRIN:''''
+
+           -stop if possible
+
+           -HP search and eradication ++++
+
+           -if unable to stop, continue half-dose PPI over the long term
+
+
+'''Indication for preventive PPI treatment in patients on NSAIDs or Aspirin:''''
+
+           -over 65
+
+           -a history of peptic ulcer disease
+
+           -combined treatment with antiaggregants, anticoagulants or corticoids
+<br />
+[File:HP antibiotics.png|thumbnail|Helicobacter Pylori treatment]]
+<br />

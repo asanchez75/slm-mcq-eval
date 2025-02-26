@@ -1,0 +1,71 @@
+{{knowledge objective
+|Identifiant=OIC-040-07-A
+|Item_parent=Pelvic pain in women
+|Item_parent_short=Pelvic Pain in Women
+|Rank=A
+|Title=Distinguishing between chronic and acute pain
+|Description=None
+|Rubric=Definition
+|Contributors=Virginie Grouthier,Pierre-Emmanuel Bouet
+|Order=7}}
+Interrogation: Building a woman's confidence
+{| class="wikitable"
+|
+Acute pelvic pain
+Chronic pelvic pain
+|-
+|
+|<Sudden onset pain</nowiki>
+
+
+- Date of appearance: recent
+
+
+- Pain progression: generally rapid
+
+
+- Type of pain: stabbing, twisting, colic, irradiation
+
+- Date of last period
+
+
+- Search for associated signs :
+
+infectious syndrome, nausea, vomiting, functional urinary signs, sympathetic signs of pregnancy, metrorrhagia
+
+
+- Search for analgesic position
+
+
+- Research into gynaecological, obstetric and surgical history
+
+
+- Presence of contraception
+
+- Presence of risky behaviour (unprotected sex)
+|<Cyclical or non-cyclical pain</nowiki>.
+
+
+- Date of appearance: more distant
+
+
+- Pain evolution: > 6 months
+
+
+- Intensity, permanent or intermittent
+
+
+- Time of onset in the cycle (premenstrual, dysmenorrhoea, intermenstrual)
+
+
+- Type of pain: heaviness, tugging, tingling, irradiation
+
+
+- Associated signs: headaches, low back pain, diarrhoea, constipation, metrorrhagia, dyspareunia, infertility
+
+
+- Research into gynaecological, obstetrical, surgical and contraceptive history
+
+
+- Behavioural, social or psychological repercussions
+|}

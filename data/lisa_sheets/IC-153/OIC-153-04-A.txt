@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-153-04-A
+|Item_parent=Surveillance of wearers of valvular prostheses
+|Item_parent_short=Surveillance of wearers of valvular prostheses
+|Rank=A
+|Title=Aware that any patient with a valve prosthesis is at risk of infection (infective endocarditis, graft).
+|Description=None
+|Rubric=Identification of the emergency
+|Contributors=Thomas SENAGE
+|Order=4}}
+The presence of a prosthetic valve considerably increases the risk of infective endocarditis. This means that people with prosthetic heart valves are classified as having a high risk of infection. The incidence of prosthesis-related IE is estimated at around 5% at 5 years.
+
+Early AEs (<1 year after implantation) result from peri-operative contamination (catheter, urinary catheter, orotracheal intubation, etc.). The germs are mainly from the Staphylococcus family (Coagulase negative or Aureus).
+
+Late IEs (>1 year after implantation) originate from more common routes of entry for IEs (cutaneous, dental, digestive). The germs are therefore those found in AEs on native valves (Staphylococcus, Streptococcus, Enterococcus).
+
+
+Clinical monitoring of patients with valve prostheses is essential. The onset of fever associated with an unknown murmur should alert the clinician. In addition, any prolonged fever without a warning sign should prompt a search for infective endocarditis.
+
+The diagnostic strategy for ARs on prosthetic valves is identical to that for native valves (see item 152).
+
+Antibiotic treatment is the same as for AEs involving native valves.
+
+The indications for surgery are discussed on a case-by-case basis, with the following being particularly favourable: the presence of clinically significant prosthesis dysfunction, an uncontrolled infectious syndrome despite antibiotic therapy, the presence of an abscess or fistula, and IE caused by "Staphylococcus Aureus".
+
+The prevention of AEs for prosthesis wearers depends above all on clear information being given to the patient. It is also essential to provide the patient with a valve prosthesis wearer card.
+
+Therapeutic education is essential, particularly with regard to signs that should prompt consultation (prolonged fever, AEG). Blood cultures should be taken systematically before any antibiotic treatment.
+
+Dental care should be carried out every 6 months, with scaling and a search for infectious sites. Antibiotic prophylaxis is indicated in cases of dental extraction, periodontal surgery, dental procedures involving manipulation of the apical or gingival region, and any perforation of the oral mucosa.
+
+The antibiotic of choice is Amoxicillin (2g in adults, 50mg/kg in children) 1 hour before the procedure. In the event of allergy, Clindamycin is used (600mg in adults, 20mg/kg in children).

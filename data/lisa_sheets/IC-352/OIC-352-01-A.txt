@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-352-01-A
+|Item_parent=Acute anxiety attack and panic attack
+|Item_parent_short=Acute anxiety attack and panic attack
+|Rank=A
+|Item_parent_short=Acute anxiety attack and panic attack
+|Description=None
+|Rubric=Definition
+|Contributors=El-Hage Wissam
+|Order=1}}
+
+An acute anxiety attack or panic attack (PA) is an acute episode of anxiety. Panic attacks may be isolated or repeated (panic disorder) or associated with a psychiatric disorder.

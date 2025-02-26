@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-230-01-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Know the definition of acute chest pain
+|Description=None
+|Rubric=Definition
+|Contributors=Vincent Roule
+|Order=1}}
+'''Know the definition of acute chest pain'''
+
+<nowiki/>= pain (or discomfort) in the region of the rib cage (between the neck and the umbilicus) occurring suddenly.
+
+Variable characteristics: intensity, location, irradiation, duration, triggering or relieving factor, frequency.

@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-166-01-A
+|Item_parent=Flu
+|Item_parent_short=Flu
+|Rank=A
+|Title=Knowing the modes of transmission of influenza
+|Description=None
+|Rubric=Physiopathology
+|Contributors=
+|Order=1}}
+Contagion is essentially human-to-human and seasonal (November to February). Transmission is direct by air, via airborne droplets of Pflüge expelled when coughing or sneezing.
+
+The subject is contagious 1 day before and up to 6 days after the onset of symptoms.
+
+Waterfowl, the reservoir of the influenzae A virus, can transmit the virus via their droppings.

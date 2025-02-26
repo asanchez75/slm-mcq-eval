@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-083-06-B
+|Item_parent=Ocular infections and inflammation
+|Item_parent_short=Ocular infections and inflammation
+|Rank=B
+|Title=Knowing what to do in the event of a painful red eye with reduced visual acuity (BAV)
+|Description=Subconjunctival haemorrhage/conjunctivitis/episcleritis, scleritis/.
+|Rubric=Management
+|Contributors=
+|Order=6}}
+The main aetiologies to be considered in the presence of a painful red eye with reduced visual acuity are:
+
+- keratitis
+
+- acute glaucoma
+
+- acute anterior uveitis
+
+- if post-operative: infectious endophthalmitis (most often after cataract surgery or intravitreal injection)
+
+A [[:Fichier:Oeil rouge CAT.jpg|arbre d'orientation diagnostique]] for red eye is provided in the [[Conduite à tenir devant un œil rouge douloureux sans baisse d'acuité visuelle 2C-083-PC-A01]] sheet.
+
+Broadly speaking, the guiding principles and key points in the management of a painful red eye with reduced visual acuity are as follows:
+
+- reduced corneal transparency, perikeratic circle, fluorescent ulceration + = keratitis; no local corticoids without a precise diagnosis;
+
+- miosis, perikeratic circle, clear cornea, iridocrystalline synechiae, retrodescemetic precipitates = anterior uveitis; mydriatic treatment and local corticoids + etiological assessment;
+
+- unilateral blindness, pain +++, digestive syndrome, mydriasis, corneal oedema, increased intraocular pressure +++ = acute glaucoma; treatment of hypertonia.
+
+- postoperative inflammation requires urgent examination and treatment (suspicion of postoperative endophthalmitis++).[[File:Oeil rouge CAT.jpg|alt=Démarche diagnostique devant un œil rouge|vignette|680x680px|Démarche diagnostique devant un œil rouge]]
+<br />

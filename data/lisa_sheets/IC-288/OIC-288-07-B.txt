@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-288-07-B
+|Item_parent=Hemorrhoidal pathology
+|Item_parent_short=Hemorrhoidal pathology
+|Rank=B
+|Title=Knowing the differential diagnosis of internal haemorrhoids
+|Description=
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=7}}
+
+Cf: ''[[Differential diagnosis of external haemorrhoidal thrombosis 2C-288-DP-B02|2C-288-DP-B02]]''''
+
+
+The main diagnostic difficulty lies in the "haemorrhoid offence": sufferers and the practitioners concerned attribute any proctological complaint a priori to haemorrhoids, whereas these non-specific complaints may be related to suppuration, an anal fissure or cancer. This highlights the need for a detailed semiological approach and a good clinical examination.
+
+In order to avoid being confused by a different symptomatology, the following summary table provides points of orientation in the event of acute pain.
+
+'''Table 1: etiological orientation according to anal pain'''
+{| class="wikitable"
+|What type?
+|What rhythm?
+|How long does it last?
+|But also ....
+|So I mention
+|-
+|Cooking
+|The saddle
+|One to two days
+|Prostatic edema and bleeding
+|Haemorrhoidal crisis
+|-
+|Intense pain
+|Touching/support
+|A few hours to a few days
+|Painful anal tumefaction, well-limited
+|External haemorrhoidal thrombosis
+|-
+|Burning
+|Bowel movement and long afterwards (hours)
+|Periods of several weeks
+|Bleeding
+|Anal fissure
+|-
+|Tension
+|Touch/support
+|Several hours and continuous, inflammatory
+|Painful swelling, poorly limited; dysuria
+|Abscess
+|-
+|Fingerprints
+|Before bowel movements
+|Several days
+|Seizures
+|Fecalome/
+
+cancer
+|}
+<br />

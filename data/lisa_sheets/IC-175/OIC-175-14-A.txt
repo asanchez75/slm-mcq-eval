@@ -1,0 +1,22 @@
+{{knowledge objective
+|Identifiant=OIC-175-14-A
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before departure, return illnesses: fever, diarrhoea, skin problems
+|Rank=A
+|Title=Knowing the main causes of imported diarrhoea
+|Description=TUE6-171-5
+|Rubric=Etiologies
+|Contributors=Florence Robert-Gangneux,Adela Angoulvant,Marie-Pierre Brenier-Pinchart,Marie-Laure Dardé,Marie Robert,Françoise Botterel
+|Order=14}}
+
+- '''Bacterial etiologies:''' ''Shigella, Campylobacter, Salmonella, E. coli'' enteropathogens
+
+- '''Parasitic etiologies:''''
+
+- Malaria can present as febrile gastroenteritis.
+
+- Intestinal amoebosis (amoebic dysentery), particularly if the patient has travelled to Africa, the Middle East, Central America, India or South-East Asia.
+
+- Cryptosporidiosis (cosmopolitan) or giardiosis.
+
+- Intestinal helminthoses (e.g. anguillulosis, tapeworms, ascariasis): may be responsible for transient episodes of diarrhoea alternating with episodes of constipation, bloating and abdominal pain.

@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-209-10-A
+|Item_parent=Adult chronic obstructive pulmonary disease
+|Item_parent_short=Adult chronic obstructive pulmonary disease
+|Rank=A
+|Title=Knowing the principles of initiating symptomatic treatment in an emergency
+|Description=Oxygen therapy with SpO2 targets of 88%-92%, bronchodilators (inhaled beta-mimetics, anticholinergics).
+|Rubric=Management
+|Contributors=
+|Order=10}}
+There is no symptomatic treatment for COPD. Treatment should be directed at the cause, including in the emergency department (see next question).

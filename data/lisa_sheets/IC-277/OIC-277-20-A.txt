@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-277-20-A
+|Item_parent=Biliary lithiasis and complications
+|Item_parent_short=Biliary lithiasis and complications
+|Rank=A
+|Title=Knowing the indication for imaging examinations in the presence of lithiasis migration
+|Description= Ultrasound: mediocre sensitivity for finding stones in the main bile duct, visualises bile duct dilatation well; CT of average performance for identifying stone(s) in the common bile duct, but is perfectly capable of identifying bile duct dilatation if it exists. MRI scan
+|Rubric=Additional examinations
+|Contributors=
+|Order=20}}
+Ultrasound is the first-line examination but has poor sensitivity. It rarely reveals dilatation of the main bile duct or calculi in the common bile duct.  It often only shows vesicular calculi. Diagnosis is based essentially on the transient elevation of transaminases.
+
+Bili-MRI and echo-endoscopy are the best tests for identifying stones in the common bile duct, but they are not used as a first-line treatment.
+
+CT has a lower diagnostic value than biliary biliary MRI and biliary echo-endoscopy for identifying stones in the common bile duct.

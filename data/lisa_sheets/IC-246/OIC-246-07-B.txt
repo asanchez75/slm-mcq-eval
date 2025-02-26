@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-246-07-B
+|Item_parent=Gynecomastia
+|Item_parent_short=Gynecomastia
+|Rank=B
+|Title=Knowing the complementary explorations necessary for the etiological diagnosis of gynecomastia
+|Description=None
+|Rubric=Complementary examinations
+|Contributors=CAZABAT LAURE,TAUVERON IGOR
+|Order=7}}
+
+''The complementary examinations necessary for the aetiological diagnosis of gynaecomastia are hormonal exploration and testicular ultrasound''.
+
+'''The blood tests required are: Free T4, TSH, hCG, total testosterone, LH, FSH, prolactin and oestradiol''''
+
+*They will look for peripheral or central hypogonadism, hyperthyroidism, or more rarely an oestradiol-secreting or HCG-secreting tumour.
+*Other biological and morphological tests will be guided by these hormonal results.
+*Central hypogonadism (low testosterone with non-elevated gonadotropins), with information from the prolactin assay, should prompt a search for hypothalamic-pituitary pathology ([[2C-244|Pituitary adenoma 244)]]).
+*Peripheral hypogonadism (testicular insufficiency) should be investigated for Klinefelter's syndrome (karyotype).
+*Oestradiol secretion should be investigated for a testicular tumour ([[2C-313|testicular tumour 313]]), a leydigoma, or more rarely a malignant adrenal tumour (adrenocortical tumour).
+*A secretion of HCG should prompt a search for a testicular tumour ([[Testicular tumours|Testicular tumours 313]]), choriocarcinoma, or a brain tumour ([[Intracranial tumours|Intracranial tumours 299]]), a germinoma.
+
+''All these aetiologies will be developed under the heading "endocrine causes"''.
+
+'''Testicular ultrasound will look for a testicular tumour'' (oestradiol-secreting leydigoma, HCG-secreting choriocarcinoma) ([[Testicular tumours|Testicular tumours 313]]).

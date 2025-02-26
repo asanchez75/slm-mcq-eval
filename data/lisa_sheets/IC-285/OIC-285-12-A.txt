@@ -1,0 +1,19 @@
+{{knowledge objective
+|Identifiant=OIC-285-12-A
+|Item_parent=Chronic diarrhoea in adults and children
+|Item_parent_short=Chronic diarrhoea in adults and children
+|Rank=A
+|Title=Knowing the characteristics and common causes of malabsorption and maldigestion
+|Description=Celiac disease, biolo-pancreatic obstruction, pancreatic cancer
+|Rubric=Etiologies
+|Contributors=
+|Order=12}}
+The most common cause of true malabsorption is coeliac disease, which is the subject of a specific item (below).
+
+Other causes are rarer. Diarrhoea is marked by the presence of steatorrhoea. Maldigestion may be secondary to pancreatic, hepatic or gastric damage. The diagnosis is often made on the basis of the patient's history and antecedents.
+
+- Exocrine pancreatic insufficiency: calcifying chronic pancreatitis (mainly alcoholic), cystic fibrosis, pancreatic resections.
+
+- Decreased secretion of bile salts: cholestasis, biliary fistulas with external biliary drainage, treatment with bile salt chelators (cholestyramine).
+
+- Microbial pullulation in the event of stasis of digestive fluid in the small intestine: maldigestion is secondary to the deconjugation of bile salts.

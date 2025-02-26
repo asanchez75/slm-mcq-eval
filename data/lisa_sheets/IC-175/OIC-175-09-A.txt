@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-175-09-A
+|Item_parent=Travelling to tropical countries for adults and children: pre-departure advice, pathologies on return: fever, diarrhoea, skin problems, etc.
+|Item_parent_short=Travelling to tropical countries for adults and children: advice before you leave, conditions on your return: fever, diarrhoea, skin problems
+|Rank=A
+|Title=Knowing the diagnostic approach to fever on return from a trip
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Alexandre DUVIGNAUD
+|Order=9}}
+
+Any fever occurring within 3 months of returning from a malaria-endemic area should be investigated as a matter of urgency (regardless of the associated clinical signs, even if an alternative diagnosis is probable or confirmed).
+
+Malaria is the leading cause of fever in this context, and requires specific treatment to be introduced as a matter of urgency. Any delay in treatment could result in death.
+
+Dengue fever is the second most common cause of fever after returning from a tropical zone. The incubation period generally does not exceed 7 days. Like the other common arboviroses (chikungunya, zika), its range encompasses the entire intertropical zone.
+
+There are many other possible causes, including :
+
+*Cosmopolitan diseases: infectious (pyelonephritis, pneumonia, influenza, leptospirosis, HIV, etc.) or non-infectious (thromboembolic, inflammatory, neoplastic).
+*Tropical infectious diseases, the epidemiology of which depends on the region visited.
+
+The diagnostic approach is guided above all by the interview, which must systematically seek to clarify :
+
+*Conditions of stay: countries and localities visited, dates of arrival and departure, living conditions.
+*Activities that put you at risk: contact with fresh water, food, human-to-human contact (especially sexual contact), contact with animals.
+*Vaccination status.
+*Personal anti-vector protection measures.
+*Any antimalarial chemoprophylaxis taken (if staying in a malaria-endemic area).
+*Chronology of symptoms (fever and associated signs).
+
+Together with a physical examination, this will help to identify the syndromic clinical presentation, which is an essential prerequisite for an aetiological diagnosis.
+
+<br />

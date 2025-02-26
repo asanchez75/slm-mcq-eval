@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-313-11-B
+|Item_parent=Testicular tumours
+|Item_parent_short=Testicular tumours
+|Rank=B
+|Title=Apprehending the importance of concomitant andrological management
+|Description=To understand the importance of concomitant andrological treatment, in particular by referral to a CECOS (medical and legal aspect).
+|Topic=Follow-up and/or prognosis
+|Contributors=Matthieu Durand, Imad Bentellis
+|Order=11}}
+
+*Higher risk of infertility than in the general population. Only 50% of patients with testicular cancer have a normal concentration of spermatozoa. This hypofertility may be aggravated by treatment (chemotherapy, retroperitoneal lymph node dissection, radiotherapy).
+*Systematic information on gamete cryopreservation in CECOS.
+*At least 1 cryopreservation ideally before orchiectomy (best quality before orchiectomy) and imperatively before chemotherapy, retroperitoneal lymph node dissection or radiotherapy.
+*Forensic value
+*If the sperm count is impaired, an oncoTESE for MAP may be performed at the same time as the orchiectomy.
+*Unilateral orchiectomy has no effect on erections if the contralateral testicle is healthy, as serum testosterone levels remain normal.

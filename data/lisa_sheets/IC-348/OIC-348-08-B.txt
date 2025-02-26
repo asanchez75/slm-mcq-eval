@@ -1,0 +1,102 @@
+{{knowledge objective
+|Identifiant=OIC-348-08-B
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=B
+|Title=Knowing the causes of ARF due to acute tubular necrosis
+|Description=Know the main favourable circumstances: states of shock: sepsis, cardiogenic; rhabdomyolysis, haemolysis, toxic, nephrotoxic drugs, etc.
+|Rubric=Etiologies
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=8}}
+
+==C. Acute renal failure ==
+Syndromic analysis can help to identify the type of renal impairment (table 4). The search for the cause is based on an analysis of associated extrarenal clinical signs, the context and additional investigations.
+
+'''Table 4:'''' '''Syndromic diagnosis of parenchymal acute renal failure'''''
+{| class="wikitable"
+|'''Signs'''
+!'''NTA'''
+!'''NIA'''
+!'''NGA'''
+!'''NVA'''
+|-
+|HTA
+!'''possible'''
+!''no
+!yes
+!yes
+|-
+|Peripheral oedema
+!possible
+!no
+!yes
+!no
+|-
+|Proteinuria
+!< 1 g/d
+!< 1 g/d
+!> 1 g/d
+!variable
+|-
+|Microscopic hematuria
+!possible
+!possible
+!always
+!not
+|-
+|Macroscopic hematuria
+!no
+!possible
+!possible
+!possible
+|-
+|Leukocyturia
+!no
+!possible
+!no
+!no
+|}
+ATN: acute tubular necrosis; AIN: acute interstitial nephritis; AGN: acute glomerular nephropathy; AVN: acute vascular nephropathy.
+
+Acute tubular necrosis accounts for around 80% of organic ARF. They mainly occur as a complication of collapse, shock, sepsis and/or the use of nephrotoxic drugs or products. In practice, analysis of the patient's file allows diagnosis when the context is straightforward, particularly in the case of intensive care patients.
+
+'''Table 5 ''': '''Main causes of Acute Tubular Necrosis :''''
+{| class="wikitable"
+|Ischaemic/Inflammatory
+|Sepsis
+
+DIC
+
+Shock, whatever the aetiology
+|-
+| rowspan="7" |Direct tubular toxicity
+|Aminosides
+|-
+|Iodinated contrast media
+|-
+|Certain non-steroidal anti-inflammatory drugs
+|-
+|Cisplatin
+|-
+|Amphotericin B
+|-
+|1st generation cephalosporins
+|-
+|Ciclosporin A and tacrolimus
+|-
+| rowspan="7" |Intra-tubular precipitation
+|Cyclovir, ''protease inhibitors
+|-
+|Methotrexate
+|-
+|Sulfonamides, anti-retrovirals
+|-
+|Immunoglobulin light chains (myeloma)
+|-
+|Myoglobin (rhabdomyolysis)
+|-
+|''Haemoglobin (haemolysis)''
+|-
+|Tumour lysis syndrome
+|}
+''Less frequent causes are in italics''

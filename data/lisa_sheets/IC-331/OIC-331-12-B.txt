@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-331-12-B
+|Item_parent=Cardiocirculatory arrest
+|Item_parent_short=Cardiocirculatory arrest
+|Rank=B
+|Title=To know the diagnostic and aetiological treatment methods for cardiocirculatory arrest
+|Description=Management of reversible causes: understanding the etiologies and principles of management, indications for coronary angiography.
+|Rubric=Management
+|Contributors=
+|Order=12}}
+Etiological research is a priority after a successful return to spontaneous circulation.
+
+The strategy is based on the diagnosis of a reversible aetiology (hypothermia, toxic, metabolic, tamponade, pulmonary embolism, coronary occlusion, etc.).
+
+Since acute coronary syndrome is the most frequent cause of out-of-hospital CCA, the indication for coronary angiography should be raised on the basis of the clinical context, as early as the pre-hospital care phase, so as to direct the patient to a centre likely to be able to perform this procedure when it proves necessary.

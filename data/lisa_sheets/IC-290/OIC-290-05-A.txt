@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-290-05-A
+|Item_parent=Epidemiology, risk factors, cancer prevention and screening
+|Item_parent_short=Epidemiology, risk factors, cancer prevention and screening
+|Rank=A
+|Title=Knowing the incidence, prevalence and mortality of breast cancer
+|Description=Mortality: overall, age, histological type
+|Section=Epidemiology
+|Contributors=
+|Order=5}}
+- The prevalence was 59,000 women in France in 2017. Breast cancer is the 2<sup>th</sup> cancer in terms of frequency (the 1<sup>rst</sup> in women) and the 3<sup>th</sup> in terms of mortality (the 1<sup>rst</sup> in women).
+
+- The incidence rate is 94.7 per 100,000 women.
+
+- It was responsible for 12,000 deaths in France in 2017. The mortality rate is 14.6 per 100,000 women.

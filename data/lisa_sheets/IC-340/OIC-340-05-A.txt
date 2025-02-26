@@ -1,0 +1,77 @@
+{{knowledge objective
+|Identifiant=OIC-340-05-A
+|Item_parent=Cerebrovascular accidents
+|Item_parent_short=Cerebrovascular accidents
+|Rank=A
+|Title=Knowing the clinical diagnostic arguments in favour of constituted cerebral infarctions, transient ischaemic attacks and intraparenchymal haemorrhages.
+|Description=Know how to clarify the history with the patient or those around him and know how to look for local neurological signs (anterior cerebral territory, cerebral territory, etc.).
+cerebral territory, middle cerebral territory, posterior cerebral territory
+brain stem and cerebellum).
+|Rubric=Positive diagnosis
+|Contributors=Tristan Mirault, Christian Boissier, Claire Le Hello
+|Order=5}}
+Stroke should be suspected when there is a sudden onset of focal neurological deficit. ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]; [[Facial paralysis SD-127|facial paralysis]]; [[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])
+
+The ischaemic or haemorrhagic nature of a stroke can be clinically evoked according to :
+
+- context:
+
+o Cerebral infarction should be suspected in the presence of a known embologenic cardiac condition (valvular disease, rhythm disorder ([[Performing and interpreting an electrocardiogram (ECG) SD-185|performing and interpreting an electrocardiogram (ECG)]]) or previous manifestations of atherosclerotic disease (coronary artery disease, arteriopathy of the lower limbs).
+
+o Intraparenchymal haemorrhage should be suspected in the presence of coagulation disorders ([[Platelet abnormality SD-215|platelet abnormality]], [[Decreased prothrombin level (pt) SD-218|decreased prothrombin level (pt)]], [[Prescription and follow-up of anticoagulant and/or antiaggregant treatment SD-248|prescription and follow-up of anticoagulant and/or antiaggregant treatment]])
+
+- clinical data:
+
+o Cerebral infarction is suspected if the symptoms correspond to an arterial territory (table 1).
+
+o Intraparenchymal haemorrhage should be considered if there are early symptoms of intracranial hypertension (ICHT) ([[Headache SD-118|headache]], [[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], [[Coma and disturbed consciousness SD-028|coma and disturbed consciousness]]).
+
+However, ''to date, only brain imaging can tell the difference'' ([[Request for an imaging test SD-231|request for an imaging test]]).
+
+The clinical symptoms of TIA are as varied as those of cerebral infarction ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Facial paralysis SD-127|facial paralysis]], [[Visual abnormality SD-138|visual abnormality]]). This is an emergency situation requiring "police" questioning. The following symptoms should not suggest a TIA if they occur in isolation: vertigo ([[Vertigo and dizziness SD-064|vertigo]]), diplopia ([[Diplopia SD-143|diplopia]]), dysarthria ([[Speech and/or phonation disorders SD-134|speech and/or phonation disorders]]), swallowing disorders ([[Swallowing disorders or false swallowing SD-062|swallowing disorders or false swallowing]]), loss of balance ([[Balance disorder SD-130|balance disorder]]), isolated sensory symptoms affecting only part of a limb or a hemiface, drop-attack. On the other hand, the diagnosis of TIA becomes probable if these signs are combined.
+
+
+Table 1. Main clinical manifestations of cerebral infarction according to the arterial territories of the anterior and posterior circulation.
+<br />
+{| class="wikitable"
+| rowspan="4" |'''Anterior circulation''''
+<br />
+|Ophthalmic artery
+|- Monocular blindness ([[Vision anomaly SD-138|Vision anomaly]])
+<br />
+|-
+|Anterior cerebral artery
+|- Motor deficit predominantly crural ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])
+
+- Frontal syndrome
+<br />
+|-
+|Superficial middle cerebral artery
+|- Motor deficit predominantly brachiofacial ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Facial paralysis SD-127|facial paralysis]])
+
+- Aphasia or hemineglect ([[Speech and/or phonation disorder SD-134|speech and/or phonation disorder]], [[Vision abnormality SD-138|vision abnormality]])
+
+|-
+|Deep middle cerebral artery
+|- Proportional hemiplegia ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]], [[Facial paralysis SD-127|facial paralysis]])
+<br />
+|}
+{| class="wikitable"
+| rowspan="2" |'''Posterior circulation''''
+<br />
+|Posterior cerebral artery
+|- Homonymous lateral hemianopia ([[Vision abnormality SD-138|Vision abnormality]])
+
+- Hemianesthesia ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])
+<br />
+|-
+|Vertebrobasilar territory
+|- Wallenberg syndrome ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]])
+
+- Cerebellar syndrome ([[Nausea SD-012|nausea]], [[Vomiting SD-013|vomiting]], [[Vertigo and dizziness SD-064|vertigo and dizziness]], [[Swallowing disorders or false swallowing SD-062|swallowing disorders or false swallowing]])
+
+- Cervical spinal cord infarction ([[Sensory and/or motor neurological deficit SD-121|sensory and/or motor neurological deficit]]<nowiki/>r)
+
+- Vigilance disorders ([[Coma and consciousness disorders SD-028|coma and consciousness disorders]])
+
+|}

@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-123-01-A
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal aging: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=A
+|Intitulé=To know the definition of ageing
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+
+Ageing is defined as the set of physiological processes that modify the structure and functions of the body from middle age onwards. Ageing is not a pathological process.
+
+Ageing is a slow, gradual process that combines genetic and environmental factors with random (stochastic) factors. It represents a factor of vulnerability when it comes to coping with stressful situations, but no subject becomes symptomatic simply because of the consequences of ageing.

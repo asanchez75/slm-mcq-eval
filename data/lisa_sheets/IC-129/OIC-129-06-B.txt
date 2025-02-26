@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-129-06-B
+|Item_parent=Arthrosis
+|Item_parent_short=Arthrosis
+|Rank=B
+|Title=Knowing the aetiologies of secondary and genetic osteoarthritis
+|Description=Knowing the causes of secondary osteoarthritis, Knowing the existence of genetic osteoarthritis related to rare genetic diseases
+|Rubric=Etiologies
+|Contributors=
+|Order=6}}
+Secondary osteoarthritis occurs in pre-existing destructive arthropathies. The main types are: microcrystalline arthritis, septic arthritis and destructive inflammatory rheumatism such as rheumatoid arthritis or spondyloarthritis.
+
+Monogenic genetic arthroses are very rare and are part of dysmorphic syndromes.

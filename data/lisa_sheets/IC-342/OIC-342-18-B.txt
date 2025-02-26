@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-342-18-B
+|Item_parent=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Item_parent_short=Discomfort, loss of consciousness, coma in adults (see item 105)
+|Rank=B
+|Title=Know the recommendations and organisation of the follow-up of a patient seen for malaise, syncope or reflex lipothymia.
+|Description=Benignity, patient education
+|Rubric=Management
+|Contributors=
+|Order=18}}
+patient reassurance (benignity) - education

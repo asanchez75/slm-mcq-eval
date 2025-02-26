@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-075-08-A
+|Item_parent=Smoking addiction
+|Item_parent_short=Smoking addiction
+|Rank=A
+|Title=Knowing the epidemiology of smoking in men and women
+|Description=Knowledge
+|Rubric=Epidemiology
+|Contributors=
+|Order=8}}
+
+
+*30.4% of people (aged 18 to 75) say they smoke tobacco (2019).
+**men 34.6%
+**women 26.5%

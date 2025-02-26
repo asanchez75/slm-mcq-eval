@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-200-10-A
+|Item_parent=Pain and joint effusion. Arthritis of recent onset
+|Item_parent_short=Pain and joint effusion. Arthritis of recent onset
+|Rank=A
+|Intitle=Know the three main causes of inflammatory joint effusion
+|Description=Septic arthritis, microcrystallosis (gout and chondrocalcinosis) and monoarthritis in early inflammatory rheumatism.
+|Rubric=Etiologies
+|Contributors=
+|Order=10}}
+-infectious: septic arthritis+++.
+
+-microcrystalline: gout, calcium pyrophosphate rheumatism (CPPD)
+
+-rheumatic: rheumatoid arthritis, spondyloarthritis, more rarely connective tissue diseases and vasculitis

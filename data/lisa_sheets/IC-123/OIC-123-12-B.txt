@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-123-12-B
+|Item_parent=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Item_parent_short=Normal ageing: biological, functional and relational aspects. Epidemiological and sociological data. Prevention of pathological ageing
+|Rank=B
+|Title=Knowing the interactions between cardiovascular ageing and clinical consequences
+|Description=None
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=12}}
+At arterial level, arterial stiffness is the main factor in the development of systolic hypertension and left ventricular hypertrophy (LVH).
+
+In the heart, ageing is associated with a disorder of myocardial relaxation, aggravated by LVH induced by the increase in afterload responsible for a left ventricular filling defect compensated by an increase in filling linked to atrial systole. This disorder favours the occurrence of episodes of cardiac decompensation when atrial fibrillation occurs, due to the loss of atrial systole or excessive or too rapid filling.

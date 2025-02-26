@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-147-08-B
+|Item_parent=Acute fever in children and adults
+|Item_parent_short=Acute fever in children and adults
+|Rank=B
+|Title=Management of acute fever in children under 28 days of age
+|Description=Indications for hospitalisation
+|Heading=Management
+|Contributors=
+|Order=8}}
+Higher risk of bacterial infection = caution is the rule
+
+Before 7 days = early neonatal infection: Streptococcus B (SGB) or "Escherichia coli" and more rarely "Listeria" or "monocytogenes".
+
+After 7 days = late neonatal infection: GBS, E.coli (pyelonephritis), more rarely staphylococcus aureus, meningococcus or pneumococcus.
+
+The most common bacterial infections are pyelonephritis, followed by GBS bacteremia, meningitis, and osteoarticular (hip osteoarthritis) and skin infections.
+
+In-patient work-up: blood culture, CBC, CRP/PCT, BU AND ECBU, chest X-ray depending on clinical situation (polypnoea)
+
+Very broad indications for hospitalisation: hospitalisation for monitoring is the rule (except in exceptional cases of low-grade fever with definite viral infection). In all cases, close monitoring is essential for as long as the fever persists, and a biological check-up may be indicated if the first check-up is carried out very early, before the fever has lasted 6 hours.
+
+The signs are not very specific at this age and fever often occurs in isolation, but this does not mean that a full, careful examination is not necessary, particularly neurological (fontanel, tone, contact, behaviour), respiratory, haemodynamic and skin examinations. Remember also to take a good look at the joints (hip arthritis).

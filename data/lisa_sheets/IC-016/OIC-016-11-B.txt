@@ -1,0 +1,28 @@
+{{knowledge objective
+|Identifiant=OIC-016-11-B
+|Item_parent=Organisation of the healthcare system. Regulation. Indicators. Care pathways
+|Item_parent_short=Organisation of the care system. Its regulation. Indicators. Care pathways
+|Rank=B
+|Intitle=To know the medical demography in France
+|Description=The density of doctors in France is 337/100,000 inhabitants. The proportion of active doctors aged over 60 tripled between 1999 and 2015.  Ageing of the medical population living in towns and cities, feminisation of the medical profession.
+|Rubric=Definition
+|Contributors=Anne-Laurence Le Faou
+|Order=11}}
+
+On 1 January 2015, there were 227,298 practising doctors in France, including 216,767 in mainland France[1].
+
+Having risen sharply since the 1980s, with growth outstripping that of the population, the number of doctors has slowed since 2005, due to the decline in the number of GPs. The density of doctors has been relatively stable since then, with 337 doctors per 100,000 inhabitants recorded in 2015, placing France in the middle range of countries in the Organisation for Economic Cooperation and Development (OECD). According to the latest DREES data, there were 214,200 doctors under the age of 70 working in mainland France and the French overseas departments and territories. The number of doctors has remained relatively stable since 2012, when there were 212,600. The peak during this period was reached in 2016, when 216,200 doctors under 70 were in practice. Since then, the number of doctors has fallen slightly. Women now account for half of all practising doctors, and the number of specialist doctors other than GPs has increased (56% versus 44%) (Figure 1).
+
+
+Graph 1: Main medical demography data for France in 2021<gallery>
+File:16-graphe 1 démographie.png
+</gallery>This rejuvenation of doctors is accompanied by a feminisation of the profession. In 2012, almost three-quarters of doctors aged between 60 and 69 were men, with the younger generations in 2012 and the middle-aged (between 40 and 50) generations currently in parity. The new generations, aged under 40 in 2021, are predominantly female. In 2021, 62% of doctors under the age of 40 will be women (Figure 2: Change in the gender breakdown of the medical population).
+
+Graph 2: Evolution of the gender breakdown of the medical population<gallery>
+File:16 graph 3 evolution gender.png
+</gallery>Between 2012 and 2020, the average age of active doctors has become younger (49.3 years in 2021 compared with 50.7 years in 2012); in 2012, 60% of doctors were over 50 years of age, today they are only 54% (graph 3). This rejuvenation is due, on the one hand, to a large number of retirements between 2012 and 2021, affecting doctors from generations trained before the numerus clausus; on the other hand, to the entry into the profession of the first generations corresponding to the numerus clausus increased since the 2000s. But it affects medical specialties unequally. For example, between 2012 and 2021, the proportion of gynaecologists aged over 50 in practice fell from 69% to 49%, with a similar trend for paediatricians and psychiatrists in particular. At the same time, the proportion of young professionals has increased.
+
+Graph 3: Comparison of the age pyramid of doctors between 2012 and 2021<gallery>
+File:16 Physician pyramid graph.png
+</gallery><br />
+----[1] Sources: DREES, RPPS 2012-2020, DREES calculations

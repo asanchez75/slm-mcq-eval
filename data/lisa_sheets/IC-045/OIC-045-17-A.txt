@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-045-17-A
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=A
+|Title=Knowing the indication for imaging examinations in cystic fibrosis.
+|Description=Pulmonary radiography and abdominal Doppler ultrasound for follow-up.
+|Section=Additional examinations
+|Contributors=Claude Férec,Elise Launay,Caroline Schluth-Bolard
+|Order=17}}
+
+In terms of respiratory monitoring, a chest X-ray is recommended at least once a year, and in the event of any new symptoms. A chest CT scan will be discussed depending on the patient's state of health. In the event of a worsening or emergency situation, a thoracic CT scan, possibly supplemented by a pulmonary MRI and an angio-scan, may be performed ([[Writing the request for an imaging examination SD-230|writing the request for an imaging examination]]).
+
+Digestive monitoring includes a liver and digestive ultrasound doppler once a year. In the event of an emergency or worsening of the condition, this echodoppler may be supplemented by an abdominal MRI or CT scan ([[Drafting the request for an imaging examination SD-230|drafting the request for an imaging examination]]).

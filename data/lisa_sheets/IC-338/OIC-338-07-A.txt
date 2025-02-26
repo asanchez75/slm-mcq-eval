@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-338-07-A
+|Item_parent=Quincke's oedema and anaphylaxis
+|Item_parent_short= Angioedema and anaphylaxis
+|Rank=A
+|Intitle=How to stop allergen exposure
+|Description=Rapidly search for the allergen responsible and check that exposure has stopped
+|Rubric=Management
+|Contributors=
+|Order=7}}
+If necessary, stop the infusion of the drug in question, or contact with the latex.

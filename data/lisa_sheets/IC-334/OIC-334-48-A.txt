@@ -1,0 +1,39 @@
+{{knowledge objective
+|Identifiant=OIC-334-48-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the indications and procedures for the principles of immobilisation.
+|Description=None
+|Rubric=Management
+|Contributors=CFCOT
+|Order=48}}
+
+1. indication of immobilisation
+
+* Pain-relieving immobilisation is indicated in the event of trauma or pain in a joint, the aim of which is purely symptomatic and not therapeutic. This immobilisation can be done using a circular plaster cast (which goes around the limb), a plaster splint (non-circular plaster cast), a flexible splint (sling elbow to body), or traction (glued or not).
+* Orthopaedic treatment consists of therapeutic immobilisation, the aim of which is usually to consolidate a fracture in the absence of secondary displacement in order to avoid a vicious callus. This immobilisation may or may not be in plaster.
+* Immobilisation may be used in addition to osteosynthesis to improve support of the fracture site.
+
+
+'''2.        Modalities of the principles of immobilisation'''
+
+* This is a medical procedure for which the prescriber is responsible, even if it is carried out by a third party (e.g. a gypsotherapy nurse).
+* Preparation of the limb segment to be plastered: on a clean, dry limb, remove any jewellery. Wounds and scars must be protected without a circular dressing. A tubular stockinette is then put in place and forms an interface between the skin and the plaster. Water-repellent cotton may be used over the stockinette to prevent excessive pressure on the skin, particularly over bony areas.
+* Immobilisation position: a cast is made in a functional position as part of analgesic treatment or as a complement to osteosynthesis:
+** Ankle at right angle
+** Knee slightly flexed
+** Hip in abduction - internal rotation
+** Elbow at right angle
+** wrist in slight extension, thumb in opposition
+** Metacarpophalangeal joints flexed to 90
+** Interphalangeal joint in extension
+* In orthopaedic treatment, the aim of immobilisation is to maintain reduction and prevent secondary displacement. The immobilisation position is therefore the reduction position, often the opposite of the fracture displacement to be treated.
+* Plaster preparation: avoid passing at right angles to hollows (elbow crease, popliteal crease) and folds. The strips must not be tight. Resin is used for reinforcement.
+* Monitoring: patients are advised to keep their limbs elevated as much as possible, not to introduce anything into the plaster and not to get it wet. It is also necessary to inform the patient of possible complications and how to react in such circumstances.
+* As soon as a complication under the cast is suspected (pain under the cast, phlebitis, compartment syndrome, secondary displacement, signs of superinfection of a wound, etc.), it is "imperative" to remove it in order to examine the painful limb completely.
+
+'''3.        Principles of immobilisation of a patient with trauma (or suspected trauma) of the spine''
+[[File:Immobilisation d'un traumatisé du rachis.jpg|vignette|Principes d'immobilisation du rachis chez patient traumatisé, ou suspect d'être traumatisé, du rachis]]
+
+* The principles of spinal immobilisation in a patient with spinal trauma, or suspected spinal trauma, are presented in the figure below ("''[[Placing and monitoring an immobilisation device SD-243|Placing and monitoring an immobilisation device]]''').

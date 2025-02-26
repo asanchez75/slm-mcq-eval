@@ -1,0 +1,45 @@
+{{knowledge objective
+|Identifiant=OIC-358-16-B
+|Item_parent=Acute pancreatitis
+|Item_parent_short=Acute pancreatitis
+|Rank=B
+|Title=Know the two main late complications of acute pancreatitis
+|Description=None
+|Topic=Follow-up and/or prognosis
+|Contributors=
+|Order=16}}
+
+The two main late complications are the appearance of pseudocysts or organised necrotic collections:
+
+- These are fluid collections, either of pancreatic fluid via a pancreatic fistula (pseudocyst) or linked to the organisation and liquefaction of foci of necrosis (organised necrotic collection);
+
+- They may be completely asymptomatic or cause pain;
+
+- They may disappear spontaneously (less than 50% of cases) or be complicated by rupture, haemorrhage or compression of neighbouring organs (bile ducts, duodenum, blood vessels, etc.);
+
+- They are identified by ultrasound or, more often, by CT scan.
+
+{| class="wikitable"
+|
+|'''Pancreatic pseudocyst''''
+|'''Organized necrotic collection''''
+|-
+|'''Definition'''
+|Collection of pancreatic fluid through a pancreatic fistula.
+|Collection related to the organisation and liquefaction of foci of necrosis.
+|-
+|'''Evocative signs''''
+| colspan="2" |Pain
+
+Signs related to the onset of complications
+
+Can be completely asymptomatic
+|-
+|Positive diagnosis
+| colspan="2" | Abdominal ultrasound or CT scan ('''"") [[Discovery of an abdominal anomaly on medical imaging examination SD-224|discovery of an abdominal anomaly on medical imaging examination]]"'')
+|-
+|'''Evolution'''
+| colspan="2" |Spontaneous remission (< 50% of cases)
+
+Complications: rupture, haemorrhage, compression of neighbouring organs
+|}

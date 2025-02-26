@@ -1,0 +1,16 @@
+{{knowledge objective
+|Identifiant=OIC-345-01-A
+|Item_parent=Severe discomfort in infants and unexpected infant death
+|Item_parent_short=Severe discomfort in infants and unexpected infant death
+|Rank=A
+|Intitulé=Unexpected infant death: knowing the definition
+|Description=None
+|Rubric=Definition
+|Contributors=Guillaume Mortamet
+|Order=1}}
+
+
+
+Sudden death in a child under the age of 2 with no previous history to explain it.
+
+Sudden infant death syndrome is a diagnosis of exclusion after a very thorough work-up.

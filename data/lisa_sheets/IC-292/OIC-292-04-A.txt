@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-292-04-A
+|Item_parent=Diagnosis of cancers: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Item_parent_short=Diagnosis of cancer: warning signs and paraclinical investigations; stage characterisation; prognosis
+|Rank=A
+|Title=Know the main paraneoplastic syndromes
+|Description=Knowing the main paraneoplastic syndromes
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=4}}
+The main paraneoplastic syndromes are :
+
+- Endocrinological: SIADH (inappropriate secretion of anti-diuretic hormone), cushingoid syndrome, hypercalcaemia, carcinoid syndrome, hypoglycaemia, Zollinger-Ellison syndrome, necrolytic erythema migrans, Weber Christian panniculitis, gynaecomastia;
+
+- Neurological: subacute cerebellar ataxia, limbic encephalitis, subacute Denny-Brown sensory neuropathy, Lambert-Eaton myastheniform syndrome, myasthenia ;
+
+- Haematological: haemolytic anaemia, polycythemia, thromboembolic venous disease, Trousseau syndrome, disseminated intravascular coagulation, thrombotic microangiopathy;
+
+- Nephrology: extra-membranous glomerulonephritis;
+
+- Immunological: dermatomyositis and polymyositis, Pierre-Marie's pneumonic hypertrophic osteoarthopathy, Stauffer's syndrome, paraneoplastic fever.

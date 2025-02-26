@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-308-01-A
+|Item_parent=Pancreatic tumours
+|Item_parent_short=Pancreatic tumours
+|Rank=A
+|Title=Know the two main histological types of pancreatic tumours
+|Description=adenocarcinoma, neuroendocrine tumour
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+The pancreas can be the site of several types of tumour depending on their appearance (solid or cystic), their origin (endocrine or exocrine) and whether they are benign or malignant.
+
+'''Adenocarcinoma is the most common form'' (90%) of malignant tumours. It develops from ductal exocrine tissue. The second, much rarer type of tumour is represented by neuroendocrine tumours, whether non-secreting (the most common case) or secreting (insulin, glucagon, etc.). Other histological types (acinar cells, adenosquamous cells, etc.) are even rarer.

@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-003-07-A
+|Item_parent=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. Controversy
+|Item_parent_short=Reasoning and decision-making in medicine. Evidence-based medicine (EBM). Shared medical decision-making. The controversy
+|Rank=A
+|Title=Knowing complementary examinations
+|Description=Knowing the categories of complementary examinations, relevance, etc.
+|Heading=Management
+|Contributors=
+|Order=7}}
+There are an increasing number of complementary examinations available, falling into four categories:
+
+1.     Imaging
+
+2.     Biological analysis
+
+3.     Endoscopy
+
+4.     Functional tests
+
+The prescription of a complementary test must be made after considering the information that the result will provide (post-test probability), the associated risks, the cost, and the consequences of the result on diagnostic and therapeutic management or prognostic information.

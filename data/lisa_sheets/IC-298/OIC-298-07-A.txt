@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-298-07-A
+|Item_parent=Tumours of the oral cavity, naso-sinus and cavum, and upper aerodigestive tract
+|Item_parent_short=Tumours of the oral cavity, nasosinuses, cavum and upper aerodigestive tract
+|Rank=A
+|Title=Typical clinical images of the main forms of squamous cell carcinoma of the tongue.
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=7}}
+
+[[File:Bord libre de langue.jpg|vignette|Squamous cell carcinoma of the free edge of the tongue[[File:Plancher.jpg|vignette|Squamous cell carcinoma of the anterior buccal floor extended to the ventral surface of the mobile tongue]]]]

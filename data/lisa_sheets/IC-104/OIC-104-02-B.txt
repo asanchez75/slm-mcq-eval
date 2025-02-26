@@ -1,0 +1,17 @@
+{{knowledge objective
+|Identifiant=OIC-104-02-B
+|Item_parent=Multiple sclerosis
+|Item_parent_short=Multiple sclerosis
+|Rank=B
+|Title=Knowing the main pathophysiological elements of MS
+|Description=demyelination/remyelination, axonal damage
+|Rubric=Pathophysiological elements
+|Contributors=
+|Order=2}}
+- Cell-mediated autoimmune disease targeting the myelin of the central nervous system (located mainly in the white matter)
+
+- Focal inflammation, repeated over time, leading to demyelination of areas of the brain, cerebellum, brain stem and/or spinal cord. The axons affected then conduct nerve impulses less well, leading to symptoms and signs related to the location of the lesion.
+
+- Remyelination by oligodendrocytes allowing more or less complete recovery.
+
+- Secondary axonal degeneration leading to progressive and irreversible progression in some patients.

@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-094-10-B
+|Item_parent=Rachialgia
+|Item_parent_short=Rachialgia
+|Rank=B
+|Title=Knowing the other causes of secondary spinal pain
+|Description=Description and list of aetiologies
+|Rubric=Etiologies
+|Contributors=Bisseriex Hélène,Nguyen Christelle
+|Order=10}}
+
+'''Autres ÉTIOLOGIES ''(rang B)''' des rachialgies secondaires :''''
+
+o chondrocalcinosis, apatite rheumatism (peri-odontoid or disc calcifications), rheumatoid arthritis ''[[Discovery of a bone and joint abnormality on medical imaging examination SDD-228|(discovery of a bone and joint abnormality on medical imaging examination)]''''
+
+o neurological: intrarachid or posterior fossa tumour (neck pain)
+
+o referred pain of ENT or anterior cervical origin (cervicalgia) ''[[Discovery of a cervico-facial anomaly on medical imaging examination SDD-225|(discovery of a cervico-facial anomaly on medical imaging examination)]]''''

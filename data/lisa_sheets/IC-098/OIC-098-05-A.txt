@@ -1,0 +1,38 @@
+{{knowledge objective
+|Identifiant=OIC-098-05-A
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=A
+|Title=Knowing the paraclinical elements of the diagnosis
+|Description=Electroneuromyogram, anti-acetyl-choline receptor antibodies
+|Rubric=Additional tests
+|Contributors=
+|Order=5}}
+<br />
+
+=== 1- Autoantibody test ===
+
+* Anti-acetylcholine receptor antibodies, anti-RACh:
+
+- present in 80% of patients with generalised myasthenia and in 50% of those with ocular myasthenia
+
+- no prediction of antibody levels on the severity of the disease ;
+
+- On the other hand, in the same subject, the rate may fluctuate according to the progression of the disease;
+
+- in malignant thymomas, the rate is very high.
+
+* Anti-MuSK antibodies (directed against a post-synaptic protein associated with the acetylcholine receptor; Muscle Specific Kinase): approximately 10% of generalised myasthenias.
+
+=== 2- ENMG decrement search (repetitive stimulus-detection) ===
+
+* Electrophysiological examination reveals neuromuscular block. The motor nerve is stimulated at a frequency of 3 Hz and the amplitude of the muscular response (motor potential) is recorded ([[Application/reasoned prescription and choice of a diagnostic test SD-178|Application/reasoned prescription and choice of a diagnostic test]]).
+* In myasthenic syndrome, the disruption of neuromuscular transmission leads to a decrease in the amplitude of the motor potential (decrement) which is greater than 10%. The search for decrement should be carried out if possible in the absence of anticholinesterase treatment, at the level of several nerve-muscle pairs, giving priority to symptomatic territories. Diagnostic sensitivity does not exceed 75% and, when the block is lacking, a single-fibre examination may be carried out, which is more complex to perform and only carried out in a few centres, and which may reveal a prolongation of the "jitter" (variation in the response time of a single muscle fibre after stimulation of the nerve or variation between the response of two muscle fibres of the same motor unit during a voluntary effort).
+
+=== 3- Pharmacological test with anticholinesterase agents ===
+
+* To be carried out in hospital only, for fear of a vagotonic syndrome or cholinergic crisis ([[Suspicion of an adverse drug reaction or treatment SD-348|Suspicion of an adverse drug reaction or treatment]]).
+* Administration of edrophonium IV (Enlon®) by slow intravenous route (1 ampoule at 10mg) or neostigmine (Prostigmine®) by subcutaneous or intramuscular route (0.5mg), combined with an injection of 0.25mg of atropine to avoid intestinal side effects and bradycardia ([[Bradycardia SD-159|Bradycardia]]).
+* The improvement or disappearance of objectively detectable neurological signs (ptosis, motor deficits of bulbar innervating muscles, weakness of the limbs), if frank and rapid (onset of action less than 5 minutes for edrophonium, and 15 minutes to 1 hour for neostigmine), is of great diagnostic value.
+
+=== Negative results do not necessarily rule out the diagnosis, and the antibody assay should be repeated a few months after the first assay because of the possibility of secondary positivity. ===

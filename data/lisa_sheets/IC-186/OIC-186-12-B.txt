@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-186-12-B
+|Item_parent=Hypersensitivities and allergies in children and adults: physiopathological, epidemiological and diagnostic aspects and principles of treatment
+|Item_parent_short=Hypersensitivity and allergy in children and adults: pathophysiological, epidemiological and diagnostic aspects and principles of treatment
+|Rank=B
+|Title=Knowing the indication for carrying out a multi-allergen IgE screening test (aeroallergens and trophallergens)
+|Description=None
+|Section=Additional tests
+|Contributors=
+|Order=12}}
+The multiallergenic test is prescribed by the ''primary care physician''.
+
+It is prescribed for patients when questioning points to a respiratory or food allergy, and when an allergist cannot be consulted for several months.
+
+
+The aim is to detect ''IgE antibodies specific to a panel of allergens'' most commonly encountered in the immediate type of allergy.
+
+
+In case of suspected respiratory allergy :
+
+- Tests with mixtures of pneumallergens: Phadiatop®, Alatop®, Allergyscreen®.
+
+
+In the event of a suspected food allergy :
+
+- Tests with trophallergen mixtures: Trophatop® (children or adults, see "paediatric specialities" below)
+
+It is not necessary to be fasting or to have stopped taking anti-histamines before the sample is taken.
+
+
+The answer is only ''qualitative'' (positive or negative).
+
+
+Warning: ''a positive multi-allergen test does not mean allergy''. In fact, if exposure to the allergen detected as positive is well tolerated, there is no allergy (e.g. positive specific IgE to peanuts, even though the patient eats peanuts without any problem, means sensitisation and not allergy). This is important because it is not necessary to avoid the food in this case, or ''it may cause a long-term allergy to this food'' (break in tolerance).   
+
+
+Multi-allergenic tests can also detect atopy with very good sensitivity (>90%).

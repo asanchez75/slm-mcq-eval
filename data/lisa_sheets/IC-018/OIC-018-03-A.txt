@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-018-03-A
+|Item_parent=Health and the digital age
+|Item_parent_short=Health and digital
+|Rank=A
+|Title=Acknowledging the ethical challenges of digital health
+|Description=None
+|Rubric=Definition
+|Contributors=CIMES
+|Order=3}}
+Reminder:
+
+Medical ethics, whose principles are enshrined in the Hippocratic Oath, is known to rest on four fundamental pillars:
+
+#autonomy: patients and healthcare professionalś must retain their autonomy of thought, intention and action when making decisions ;
+#justice or fairnesś: the burdens and benefits of care procedures, particularly treatments, must be distributed fairly to be just with all concerned...;
+#beneficence: care procedures are provided with the aim of doing good to the patient concerned;
+#non-maleficence: care procedures must not harm the patient concerned.
+
+Digital health refers to all computerised processes in the healthcare sector, whether or not they involve artificial intelligence or robotics. The resulting ethical issues concern all the players in our healthcare system: users, patients, all healthcare staff and professionals, and the scientific, economic and industrial players in the healthcare sector.
+
+The aim of digital health ethics is to define a set of values that will ensure confidence in the tools and their use.
+
+These values, some of which are regulatory (covered by the General Data Protection Regulation, RGPD), include the confidentiality and integrity of healthcare data, the security and transparency of data processing, respect for patient information, the development of solutions aimed at reducing digital divides, as well as digital sobriety and the reduction of the environmental impact of healthcare information systems with a view to a commitment to sustainable development on the part of all players in the ecosystem.
+
+The National Consultative Ethics Committee for Life Sciences and Health (CCNE) published a report in November 2018: <nowiki>https://www.ccne-ethique.fr/sites/default/files/publications/rapport_numerique_et_sante_19112018.pdf</nowiki>
+
+The conclusions of this report are summarised below:
+
+1 ''The insufficient use of digital technology in patient care'', for research or to support the development of data-driven management, leads to unethical situations within our healthcare system. Resolving these problems is a priority issue and requires public policy levers that are not primarily concerned with the creation of standards in the future bioethics law.
+
+2. An ethical way forward must be found between '''the imperative of protecting health data and the need to share them'' in order to enhance the qualitý and efficiency of our health system: the principles of data supply, security and operation of this major new tool must be clearly defined.
+
+3. The spread of digital health technologies can have a potentially significant impact on health inequalities, reducing or, in some cases, widening them''. It is therefore a priority to monitor the deployment of digital health technologies to ensure that they help to reduce these inequalities.
+
+4. Two major ethical issues associated with the spread of algorithmic medicine have been identified:
+
+*The risk of ''depriving'', in practice by ''delegating consent'', ''the patient'' of a large part of ''his or her capacity to participate in the construction of his or her care process'' in the face of proposed decisions provided by an algorithm ;
+*The danger of '''undermining the consideration of individual situations'' within the framework of a systematisation of reasoning based on models whose limits may be linked to their capacitý to take into account all the characteristics and preferences of each patient.
+
+5. Digital technology, as a lever for avoiding traditional channels of access to information and care or for '''pooling assessments of the intervention of professionals'', constitutes both a factor of freedom and transparency for citizens, but also a vector for destabilising our health system and professionals. These phenomena must be carefully observed in order to preserve, in particular, the requirement for qualitý and safetý of care that citizens have a right to expect.
+
+6. The '''sharing of research data''' according to the ''FAIR'' principles (findable, accessible, interoperable, reusable) is a crucial element for the development of scientific health research at the best international level and help to guarantee the reproducibility and validity of results. Moreover, in the field of health research́, access to data from healthcare, health systems, or other personal databases represents a major advance by avoiding double data collection, which can represent a considerable cost for interventional studies (clinical trials, intervention trials) or observational studies (large cross-sectional surveys, cohorts). It would therefore be good practice, wherever possible, to obtain consent that enables individuals to authorise the sharing of their data in the knowledge of how it will be shared (sharing plan), rather than why (by whom and for what research). It is also important to equip ourselves with the scientific, technical and regulatory means to control the risks of re-identification from databases whose direct identifiers have been removed, and to support the development of ethical regulation tools for access to sensitive data.

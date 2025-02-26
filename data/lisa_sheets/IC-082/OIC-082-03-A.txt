@@ -1,0 +1,34 @@
+{{knowledge objective
+|Identifiant=OIC-082-03-A
+|Item_parent=Acute visual impairment
+|Item_parent_short=Acute visual impairment
+|Rank=A
+|Heading=Know how to interpret a direct and consensual photomotor reflex (see item 81)
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=3}}
+The ''photomotor reflex (PMR)'' is the pupillary constriction that occurs when one eye is illuminated.
+
+'''- the afferent pathway''' of the RPM travels with the optic pathways: it begins at the retinal photoreceptors stimulated by light. The pupillomotor fibres travel along the optic nerves to the chiasma, where they undergo hemidecussation, and then along the optic bands to the external geniculate bodies. They do not follow the optic radiations but reach the two nuclei of the Ill.
+
+- The parasympathetic ''efferent'' pathway of the RPM follows the Ill pathway and ends at the sphincter of the iris.
+
+In a normal subject, when one eye is illuminated, there is a reflex myosis on the same side: this is the direct RPM; but, because of the hemidecussation of the pupillomotor fibres at the chiasma, there is also myosis of the opposite eye via the contralateral Ill: this is the consensual RPM.
+
+Sensory mydriasis secondary to severe visual impairment (e.g. occlusion of the central retinal artery, optic neuropathy):
+
+- when the affected eye is illuminated, the afferent pathway of the RPM is "suppressed" due to the drop in vision, the direct RPM is abolished, but so is the consensual RPM
+
+- with illumination of the other eye, conversely, the afferent pathway being normal in this eye and the efferent pathway being normal in both eyes, the RPM is preserved in both eyes
+
+Paralytic mydriasis (mydriasis caused by Ill's paralysis):
+
+- with illumination of the affected eye, the afferent pathway of the RPM is preserved, so there is an abolition of the direct RPM (linked to paralysis of the iris sphincter) but the consensual RPM is preserved
+
+- conversely, when the other eye is illuminated, the direct RPM is preserved, but the consensual RPM (RPM of the affected eye) is abolished.
+
+A patient with a photomotor reflex disorder presents with ''Anisocoria'' (asymmetry of pupil size).
+
+*When anisocoria is more marked in the dark, the pathological eye is the one with the tightest pupil (myosis).
+*When anisocoria is more marked in the light, the pathological eye is the one with the largest pupil (mydriasis).

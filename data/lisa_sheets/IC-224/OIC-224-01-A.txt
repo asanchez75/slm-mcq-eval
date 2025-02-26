@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-224-01-A
+|Item_parent=Hypertension in adults and children
+|Item_parent_short=Hypertension in adults and children
+|Rank=A
+|Title=Know the definition of high blood pressure (HTA)
+|Description=HAS and SFHTA definitions (thresholds: consultation, MAPA, self-measurement, severity grades)
+|Rubrique=Definition
+|Contributors=
+|Order=1}}
+
+=== Clinical measurement of blood pressure ===
+Arterial hypertension (AH) is defined by elevated [[Arterial hypertension SD-042|blood pressure]] (BP) measurements in the consultation :
+
+- systolic blood pressure (SBP) ≥ 140 mmHg or diastolic blood pressure (DBP) ≥ 90 mmHg
+
+- repeated several minutes apart in the same consultation
+
+- persistent over time, over several consultations
+
+High blood pressure is considered to be severe if the SAP > 180 mmHg and/or DBP > 110 mmHg.
+
+=== Ambulatory blood pressure measurement ===
+Blood pressure measurements taken outside the doctor's surgery using self-measured blood pressure (SMBP) or 24-hour ambulatory blood pressure measurement (ABPM) confirm hypertension if :
+
+- the mean of at least 18 AMT BP values ≥ 135/85 mmHg,
+
+- mean daytime ABPM BP measurement ≥ 135/85 mmHg (daytime hypertension)
+
+or mean nocturnal ABPM BP measurement ≥ 120/70 mmHg (nocturnal hypertension)
+
+or the mean of 24-hour ABPM measurements ≥ 130/80 mmHg (24-hour hypertension).

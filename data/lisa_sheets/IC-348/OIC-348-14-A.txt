@@ -1,0 +1,30 @@
+{{knowledge objective
+|Identifiant=OIC-348-14-A
+|Item_parent=Acute renal failure - Anuria
+|Item_parent_short=Acute renal failure - Anuria
+|Rank=A
+|Title=Knowing the clinical and biological signs requiring urgent treatment in a specialist centre for ARF
+|Description=Acute pulmonary oedema due to haemodynamic overload, hyperkalaemic acidosis (ECG)
+|Rubric=Emergency identification
+|Contributors=Gabriel Choukroun,Philippe Rieu,Bruno Moulin
+|Order=14}}
+
+==Complications requiring urgent and specialised care==
+'''The metabolic complications specific to ARF are:'''
+
+'''[[Dyskalaemia SD-201|Hyperkalaemia]]''': serious, potentially fatal complication, mainly due to reduced tubular secretion of potassium.
+
+*Aggravated by: metabolic acidosis, rhabdomyolysis, haemolysis, tumour lysis syndrome or certain drugs (anti-aldosterone, ACE inhibitors, ARB-2, trimethoprim-sulfamethoxazole).
+*Systematic dosage + ECG (to check for conduction problems). Urgent treatment (see item 267).
+
+''[[Analysis of a blood gas result SD-192|Metabolic acidosis]]''': frequent and usually moderate during AKI.
+
+*Cases of severe acidosis associated with ARF: ethylene glycol intoxication (oxalic acidosis), shock (lactic acidosis), diabetic ketoacidosis, functional ARF associated with diarrhoea (digestive losses of bicarbonates) and obstructive ARF.
+
+'''Hydro-sodium overload,''' with extracellular hyperhydration: hypertension and presence of declining [[Localised or diffuse oedema SD-054|d''''œdèmes''']], possibly serous effusions (pleura, pericardium). Risk of acute pulmonary oedema.
+
+'''Denutrition''' due to a lack of anabolism and hypercatabolism of nitrogen in severe forms.
+
+'''Nosocomial infections'''.
+
+'''Hémorragies digestives'''.

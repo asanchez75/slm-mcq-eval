@@ -1,0 +1,41 @@
+{{knowledge objective
+|Identifiant=OIC-007-05-A
+|Item_parent=Individual and collective patient rights
+|Item_parent_short=Individual and collective patient rights
+|Rank=A
+|Heading=Knowing the definition and conditions for obtaining informed consent
+|Description=None
+|Rubric=Management
+|Contributors=Frédéric Savall,Eulalie Pefferkorn
+|Order=5}}
+Information is provided with the aim of obtaining the patient's consent to treatment. Consent is an essential prerequisite for any act of care. With the exception of a few situations where written consent is required, in practice there is no need for any formalities.
+
+This consent must be "free, informed and may be withdrawn at any time". Article L. 1111-4 of the French Public Health Code states: "... any person making decisions about his or her health ... must do everything in his or her power to persuade that person to accept care ... no procedure may be performed without the person's free and informed consent, which may be withdrawn at any time ...".
+
+
+'''<u>There are special cases:</u>''''
+
+- Emergency'': for the same reasons that an emergency situation constitutes a limit to the provision of information, it may constitute a limit to the collection of consent (cf [[Connaître la définition du refus de soin 2C-007-PC-A02|Refus de soin]]) ;
+
+- Inability to express one's wishes. In this case, the law stipulates that the trusted support person, the family or, failing that, the next of kin must be consulted.  It should be noted that this refers to the need to consult the next of kin and not the need to obtain their consent;
+
+- '''L'injonction de soins'''. This is an "obligation" to undergo treatment in exchange for a reduced sentence. This is a special case, because although no treatment can be undertaken without the patient's consent, if the patient refuses the treatment offered, the sentence imposed as part of the socio-judicial supervision can be enforced;
+
+- Psychiatric care without consent. Whether carried out at the request of a third party or at the request of the state representative, this care is by definition aimed at patients who are unable to consent;
+
+- The case of the patient who is a minor or a protected adult. The consent of the legal representatives must be sought. However, the consent of the minor or protected adult must be systematically sought if they are capable of expressing their wishes and participating in the decision. Note that in the case of "ordinary acts", one of the minor's parents is deemed to be acting with the consent of the other. In this case, the consent of only one of the holders of parental authority is required. In the case of non-routine acts (e.g. prolonged hospitalisation, heavy treatment with significant side effects, etc.), the joint consent of both parents is required. Furthermore, if the legal representative's refusal of treatment could have serious consequences for the child's health, the doctor will provide the necessary treatment;
+
+
+'''<u>There are situations where the written collection of consent is mandatory:</u>'''
+
+<nowiki>*</nowiki> voluntary termination of pregnancy;
+
+<nowiki>*</nowiki> sterilization for contraceptive purposes;
+
+<nowiki>*</nowiki> research activities involving the human person;
+
+<nowiki>*</nowiki> living donor organ transplants;
+
+<nowiki>*</nowiki> the study of genetic characteristics for medical purposes ;
+
+<nowiki>*</nowiki> the donation and use of gametes.

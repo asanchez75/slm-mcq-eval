@@ -1,0 +1,13 @@
+{{knowledge objective
+|Identifiant=OIC-197-02-B
+|Item_parent=Spondyloarthritis
+|Item_parent_short=Spondyloarthritis
+|Rank=B
+|Title=Knowing epidemiology
+|Description=None
+|Rubric=Epidemiology
+|Contributors=
+|Order=2}}
+The overall prevalence of spondyloarthritis in France is 0.35%.
+
+Symptoms generally begin before the age of 45.

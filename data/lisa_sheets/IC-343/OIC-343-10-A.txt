@@ -1,0 +1,33 @@
+{{knowledge objective
+|Identifiant=OIC-343-10-A
+|Item_parent=Confusional state and disorder of consciousness in adults and children
+|Item_parent_short=Consciousness and confusion in adults and children
+|Rank=A
+|Title=Know the main principles of management of a confusional syndrome in adults and children, depending on the aetiology.
+|Description=including pre-hospital management
+|Section=Management
+|Contributors=
+|Order=10}}
+Mental confusion is a diagnostic and therapeutic ''medical emergency'', almost always requiring immediate hospitalisation in adults, as both the cause of the confusion and the confusion itself can be deleterious.
+
+- The first priority is to assess the short-term impact (vitals) and immediately treat any vital problems (shock, hypothermia, etc.).
+
+- The second stage is the search for the cause (see dedicated questions in items 108 and 343), which is an integral part of the treatment: the treatment of the confusional episode cannot be considered independently of its cause.
+
+- Non-specific treatment :
+
+o rehydration, if necessary by parenteral route; maintenance of nutrition ;
+
+o frequent and regular monitoring of vital signs and consciousness ;
+
+o Withdraw all non-essential drugs or use the smallest possible doses, avoid confusing psychotropic drugs (anticholinergics +++), unless there is a risk associated with abrupt withdrawal (benzodiazepines) '''([[Follow-up consultation for a patient with multiple drug dependence SD-266|consultation de suivi d'un patient polymédiqué]])'''''
+
+o sedative psychotropic drugs only if they are essential, in small doses and with precautions: prefer anxiolytic benzodiazepines with a short half-life (oxazepam) to neuroleptics, which are reserved for cases of major agitation posing a risk to the patient or those around them '''([[Agitation SDD-114|agitation]]; [[Prescribe a hypnotic/anxiolytic SDD-256|prescrire un hypnotique/anxiolytique]])''''
+
+o assessment and management of acute pain '''([[Assessment and management of acute pain SD-259|assessment and management of acute pain]])''''
+
+o A quiet patient in a single room with subdued lighting and an open door for surveillance;
+
+o avoid, as far as possible, physical restraint, which aggravates agitation and anxiety '''([[Setting up and monitoring mechanical restraint SDD-244|Setting up and monitoring mechanical restraint]])''''
+
+It is important not to be too quick to conclude that the treatment was ineffective, as the confusional syndrome may take a long time to regress.

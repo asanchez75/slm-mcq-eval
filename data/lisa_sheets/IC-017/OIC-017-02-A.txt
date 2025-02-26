@@ -1,0 +1,84 @@
+{{knowledge objective
+|Identifiant=OIC-017-02-A
+|Item_parent=Telemedicine, telehealth and telehealth services
+|Item_parent_short=Telemedicine, telehealth and telehealth services
+|Rank=A
+|Title=Knowing the value of telehealth in professional practice
+|Description=Explain the benefits of telehealth (telemedicine and telecare) for access to care between primary care (first recourse), secondary care and tertiary care (gradation of care).
+|Rubrique=Definition
+|Contributors=
+|Order=2}}
+Objectives of telehealth :
+
+# Reduce inequalities in access to healthcare:
+
+* The law of 4 March 2002 on patients' rights raises the issue of inequalities in health, and the Public Health Code sets itself the task of reducing them (Art L1411-1 of the Public Health Code).
+* Telemedicine can be used particularly in areas with low medical density.
+* Low medical density and the absence of a general practitioner are exceptions to the care pathway conditions for teleconsultation (conventional framework).
+* Accompanied teleconsultation can reduce territorial inequalities in health by reinforcing the network of access to care in the region (pharmacy / IDE).
+
+2. Improving "access" to quality care:
+
+* Telerexpertise allows you to seek specialist advice remotely.
+
+3. Improving continuity of care:
+
+* Telehealth enables patients to be monitored at a distance, particularly in the context of an increase in chronic illnesses.
+* Telemonitoring can improve the monitoring of chronic diseases.
+
+Examples of telehealth systems
+
+1. Telepathology
+
+use of a microscope controlled remotely or on photographs of selected microscopic fields. support for tele-expertise / tele-diagnosis in anatomopathology, in response to the increased quality requirements associated with anatomopathological diagnosis and the growing complexity of pathologies.
+
+2. Teleradiology
+
+Remote transmission of images from a technical point of view and remote interpretation from a medical point of view are only two stages in teleradiology. The "requesting party" is the clinical doctor, and the "performing party" is the radiologist carrying out a teleradiology procedure. The radiologist performing the procedure must be registered with the Conseil Départemental de l'Ordre and have a radiology qualification. Teleradiology includes :
+
+* tele-expertise: between radiologists on a particular case; exchange of opinions between radiologists to guide the conduct of the examination best suited to the clinical situation, carry out a second reading of the images and afﬁnd or even conﬁrm its diagnosis and, if necessary, guide the course of action for the patient. At the end of this analysis, a reasoned report is produced.
+* telediagnosis (or teleconsultation) on a regular or emergency basis in the absence of a radiologist on site, on an ad hoc basis, in order to ensure the radiological medical management of the patient; an act which enables a non-radiologist local practitioner to obtain an imaging examination from a teleradiologist (case of an emergency doctor on one site, and a teleradiologist on another site).
+
+3. Stroke management
+
+* by connecting hospitals without neurological expertise to those with a VNU. Expertise is centralised. The patient is treated in the hospital's emergency department in conjunction with the VNU.
+* by providing a shared neurology and neurovascular radiology on-call service, enabling emergency patients to be treated in the VNU while optimising medical time (on-call duties are shared between the neurologists at the 3 hospitals). The patient must be referred to one of the 3 establishments with a VNU.
+
+It emerged that telemedicine-based stroke management in peripheral hospital emergency departments is based on three telemedicine procedures, depending on the stage of patient care and diagnosis: teleconsultation, tele-expertise and teleassistance.
+
+* Teleconsultation initially takes place in the presence of the patient to obtain a diagnostic opinion from the neuroradiologist or neurologist, and to establish a disability score.
+* Telerexpertise then takes place between the emergency doctor and the expert neurologist on call. The patient does not need to be present at this stage. The patient does not need to be present at this stage. The aim is to determine the best course of treatment on the basis of medical data and brain imaging.
+* Remote medical assistance is then used to carry out thrombolysis. The procedure is carried out under the supervision of the vascular neurologist, who monitors the process and assesses the immediate results.
+
+4. Health of prisoners
+
+Telemedicine procedures in outpatient consultation and care units (UCSA) are :
+
+* teleconsultations between the patient in the UCSA and a healthcare professional (specialist): dermatology, orthopaedics, anaesthetic consultations, infectious diseases, psychiatry, etc;
+* tele-expertise between UCSA doctors and remote experts, which may involve sharing patient data (photos in dermatology, medical imaging, etc.);
+* remote medical assistance: remote assistance in performing certain procedures.
+
+5. Management of a chronic disease
+
+The chronic diseases most often concerned by telemedicine are :
+
+* chronic heart failure, chronic renal failure (teledialysis), diabetes (priorities of the national telemedicine deployment plan), screening for retinopathy using non-mydriatic retinography;
+* monitoring chronic wounds, antithrombotic treatments, arterial hypertension, sleep apnoea and chronic respiratory insufﬁsance.
+
+6. Care in a medico-social facility or hospital at home
+
+The organisations set up in EHPAD have the following objectives:
+
+* avoid having to move frail patients and prevent them having to go to emergency;
+* ensure the best possible care for these patients in their own environment, at all times, by limiting the risks associated with their age and pathology(ies);
+* facilitate and consolidate the maintenance of local healthcare provision;
+* optimise the use of medical and nursing time
+* reduce costs compared with conventional care.
+
+With regard to HAH, the organisations put in place concern :
+
+* remote monitoring of chronic wounds,
+* remote monitoring of high-risk pregnancies for women in HAH (without telemedicine, daily visits by midwives are required)
+* remote monitoring after hospitalisation
+
+<br />

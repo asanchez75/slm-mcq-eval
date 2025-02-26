@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-231-28-B
+|Item_parent=Electrocardiogram: indications and interpretations
+|Item_parent_short=Electrocardiogram: indications and interpretations
+|Rank=B
+|Intitle=Knowing the Holter method
+|Description=Indications of long-term external recordings
+|Section=Complementary examinations
+|Contributors=Victor Waldmann
+|Order=28}}
+
+
+* ''Long-term ECG'', usually 24 hours but up to several weeks,
+* Most often 2-3 leads, but 12-lead Holter possible,
+* Indicated for ''malaise/syncope or palpitations'' not documented on standard ECGs,
+* Can also be used to monitor/search for :
+** Average heart rate in patients on bradycardia drugs,
+** Rate control in patients with atrial fibrillation,
+** The presence of atrial or ventricular rhythm disorders, even in the absence of symptoms,
+** Calculation of the QT interval without using the correction formulae (at 60bpm).
+* If the symptoms are too infrequent to be recorded, external or implantable event recorders can be used (with a lifespan of around 3 years).

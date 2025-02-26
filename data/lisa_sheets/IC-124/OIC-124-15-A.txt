@@ -1,0 +1,21 @@
+{{knowledge objective
+|Identifiant=OIC-124-15-A
+|Item_parent=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Item_parent_short=Menopause, premature ovarian failure, andropause, age-related androgen deficiency (See item 330)
+|Rank=A
+|Title=Know the definition of andropause or age-related androgen deficiency.
+|Description=None
+|Rubric=Definition
+|Contributors=Benjamin Pradere
+|Order=15}}
+
+<br />
+
+*The term ''age-related testosterone deficiency syndrome'' should be preferred to the term ''andropause''.
+
+*Its definition is based on the ''association'' of a ''biochemical syndrome'' (hypotestosteronemia) with a ''decrease in serum androgens'' associated with ''advancing age'' impacting on ''quality of life'' and the function of certain organs (Figure 1).
+
+<br />
+
+[File:Figure1definition.png|neant|vignette|alt=|Figure1]]
+<br />The biochemical deficit is defined by a test of testosterone '''total and bioavailable''' in the morning (8-11H)

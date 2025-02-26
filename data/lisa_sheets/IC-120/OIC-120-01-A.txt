@@ -1,0 +1,12 @@
+{{knowledge objective
+|Identifiant=OIC-120-01-A
+|Item_parent=Complications of immobility and decubitus. Prevention and management
+|Item_parent_short=Complications of immobility and decubitus. Prevention and management
+|Rank=A
+|Item_parent_short=Complications of immobility and decubitus.
+|Description=None
+|Rubric=Definition
+|Contributors=Antoine Guillon
+|Order=1}}
+
+Immobilisation = loss of upright posture + absence of exercise

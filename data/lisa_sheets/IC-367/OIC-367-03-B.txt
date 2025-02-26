@@ -1,0 +1,37 @@
+{{knowledge objective
+|Identifiant=OIC-367-03-B
+|Item_parent=Environmental impact on health
+|Item_parent_short=Environmental impact on health
+|Rank=B
+|Title=Know the three main categories of occupational respiratory diseases: lung cancer and mesothelioma; asthma and chronic obstructive pulmonary disease (COPD); interstitial lung diseases (pneumoconiosis and extrinsic allergic alveolitis).
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=3}}
+'''Lung cancer and mesothelioma''''
+
+Primary bronchial cancers. There are many occupational causes: asbestos (high doses of exposure), crystalline silica (associated with radiological silicosis), polycyclic aromatic hydrocarbons (PAHs) and various metals. In the case of asbestos, primary bronchial cancer can be attributed to the following factors: an occupational history, biometrological analysis results, the coexistence of pulmonary fibrosis, and so on.
+
+Mesothelioma. Mainly associated with asbestos, the incidence rate in France is around 2 cases per 100,000 inhabitants/year (i.e. around 800 cases/year) in men and 0.5/100,000 in women. The main groups affected are plumbers, pipe fitters, sheet metal workers, boilermakers, welders, construction workers, labourers, fitters, installers, electricians, carpenters and joiners. Pleural mesothelioma can occur after low levels of cumulative exposure.
+
+
+'''Asthma and COPD.'''
+
+Occupational asthma (OA). Most common in industrial countries. OA accounts for 10-15% of adult asthma. Defined as asthma caused by exposure to an asthma-inducing agent in the workplace (the direct cause of asthma is occupational exposure). Characterised by inflammation of the airways, variability in the reduction of airflow, bronchial hyper-reactivity induced by a specific agent or environment in the workplace and not by external stimuli. Occupations concerned: bakers, health care professionals, hairdressers, painters, woodworkers, cleaners, etc.
+
+'''COPD:''' Chronic bronchitis is defined as coughing and spitting for more than 3 months a year for at least two consecutive years, while chronic obstructive pulmonary disease (COPD) is defined as non-reversible obstructive ventilation disorders. Occupational factors account for at least 15% of the aetiology of COPD. Occupations concerned: mining, construction, foundries, textiles, farming, etc.
+
+
+Interstitial lung disease
+
+Hypersensitivity pneumonitis or extrinsic allergic alveolitis. These are essentially due to the inhalation of organic antigens. The factors responsible are very numerous; in the agricultural environment, the antigens responsible come from bacterial and fungal micro-organisms, but also from animal or vegetable protein substances. Diseases include farmer's lung disease (exposure to "Micropolyspora faeni" in mouldy hay), bird breeders' disease (avian antigens: pigeons, turtle-doves, hens), fertiliser disease, compost disease, mushroom disease, etc.-Outside the agricultural environment, the agents responsible are varied: actinomycetes and micromycetes (air conditioner and humidifier disease), moulds (detergent disease, sausage manufacturers, paper mill workers, etc.), metals (zinc, cobalt, zirconium), etc.
+
+'''Pneumoconiosis''': lung diseases characterised by alterations caused by the inhalation and fixation of solid particles in the lung.
+
+'''''Silicosis''''': a disease caused by inhalation of crystalline silica. Typical radiological lesions are
+
+'''''Berylliosis''''': similar to sarcoidosis, with mediastinal adenopathy and parenchymal infiltration syndrome. The sectors most affected are alloy manufacture, the nuclear, electronics and aeronautics/aerospace industries, ceramics manufacture and dental technicians.
+
+'''''La siderosis''''': secondary to exposure to iron oxide fumes (arc welding). Presence of pulmonary micro-nodules and emphysema
+
+'''''Asbestosis''''': pulmonary fibrosis induced by exposure to asbestos (high exposure); it is manifested by dyspnoea, and on the CT scan an appearance of fibrosis predominating at the bases.

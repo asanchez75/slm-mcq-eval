@@ -1,0 +1,25 @@
+{{knowledge objective
+|Identifiant=OIC-291-14-A
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=A
+|Title=Knowing the main risk factors for occupational cancers
+|Description=List the main risk factors for occupational cancers (bronchial cancer, mesothelioma, malignant bladder and urinary tract tumours, acute leukaemia, malignant skin tumours, naso-sinusal cancers, nasopharyngeal cancers).
+|Rubric=Etiologies
+|Contributors=
+|Order=14}}
+The main work-related cancers and their associated risk factors are as follows (source INRS):
+
+- ''Lung cancer'': the main ones: asbestos, polycyclic aromatic hydrocarbons (derived from coal or oil: tar, bitumen), crystalline silica.                                                                                                                        
+
+- Mesothelioma: Asbestos.
+
+- bladder and urinary tract cancer: polycyclic aromatic hydrocarbons derived from coal or oil, and certain aromatic amines.
+
+- Leukaemia: Ionising radiation, benzene.
+
+- Cancers of the nasal cavity: wood dust, formaldehyde (formaldehyde), chromium compounds.
+
+- Skin cancers: Arsenic and mineral compounds, polycyclic aromatic hydrocarbons, UV radiation.
+
+- Hepatic cancers: arsenic and its mineral compounds, complications of cirrhosis following HBV or HCV.

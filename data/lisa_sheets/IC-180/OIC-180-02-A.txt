@@ -1,0 +1,32 @@
+{{knowledge objective
+|Identifiant=OIC-180-02-A
+|Item_parent=Risques sanitaires liés aux irradiations. Radiation protection
+|Item_parent_short=Risques sanitaires liés aux irradiations. Radiation protection
+|Rank=A
+|Title=Knowing the units used in dosimetry, radiobiology and radiation protection
+|Description=Becquerel, Gray, Sievert
+|Rubric=Definition
+|Contributors=Eléonore Blondiaux,Damien Huglo,Jean-Philippe Vuillez,Jean-François Chateil
+|Order=2}}
+
+- Charged particles deposit 100% of their energy over short distances in matter, of the order of a few micrometres for alpha particles and a few millimetres for electrons.
+
+- The power and energy emitted by a photon source are measured in watts (W) and joules (J) respectively.
+
+- In order to assess the radiation received, a number of concepts are required, using different units.
+
+- The ''''''activity'' of a radioactive source describes the number of disintegrations per unit of time. The ''becquerel'' (Bq) corresponds to one radioactive disintegration per second and is the international unit.
+
+- The ''dose deposited'' ''D'' in the tissues corresponds to the energy absorbed in the material. The unit is ''gray'' (Gy) with 1 Gy = 1 J /kg (joule per kilogram).
+
+- This absorbed dose is not sufficient to estimate biological effects, as it does not take into account the type of radiation or the sensitivity of different tissues. This is why we define the ''" Effective dose" D<sub>eff</sub>'': estimate of the detriment of irradiation, i.e. all the possible consequences on the whole organism of localised irradiations accumulated over time: a quantity with no physical reality or biological meaning, but useful in radiation protection. It is obtained by weighting the deposited dose by a radiation 'dangerousness' factor W<sub>r</sub> (equal to 1 for photons and electrons, 2 for protons, 20 for alpha particles and ranging from 5 to 20 for neutrons depending on their energy) and by a tissue susceptibility factor W<sub>t</sub> specific to each organ: D<sub>eff</sub> = ∑ (D x W<sub>r</sub> x W<sub>t</sub>). The unit is the ''Sievert'' (Sv).
+
+- Finally, in radiodiagnostics, operational dosimetric quantities are used:
+
+- the Dose × Surface (PDS) product in projection imaging, expressed in mGy-cm<sup>2</sup>.
+
+- the CT volume dose index (CTDI), which takes into account the CT slice profile without reflecting the total dose received by the patient.
+
+- the Dose × Length (PDL) product, expressed in mGy-cm, which represents the total dose received by the patient by allocating the dose to the volume explored.
+
+- The PDS and PDL are used to calculate or estimate the 'effective dose' (''D<sub>eff</sub>'' in mSv), taking into account the organs exposed.

@@ -1,0 +1,43 @@
+{{knowledge objective
+|Identifiant=OIC-027-43-B
+|Item_parent=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Item_parent_short=Prevention of foetal risks: infection, drugs, toxic substances, irradiation
+|Rank=B
+|Title=Addictology and pregnancy: welcoming the child
+|Description=Prevention of withdrawal syndrome and breastfeeding
+|Rubric=Management
+|Contributors=Alexandre Vivanti, Philippe Deruelle
+|Order=43}}
+Neonatal withdrawal syndrome (NNDS) following in utero exposure to opiates affects around 60% of children born to mothers who used opiates or opiate substitution treatments during pregnancy.
+
+The severity and duration of SSNN are not correlated with the dosage of opioid substitution treatment.
+
+The severity and duration of the syndrome may be influenced by the concomitant use of other products, particularly benzodiazepines (a later and/or longer syndrome; use of benzodiazepines during pregnancy itself leads to an impregnation and then withdrawal syndrome at birth).
+
+The symptoms are :
+
+- neurovegetative: excitability, hypertonia, hyperreactivity, tremor, startle, high-pitched cry, restless sleep, sweating, hyperthermia ;
+
+- respiratory: [[Rhinorrhea SD-155|rhinorrhea]], sneezing, yawning, respiratory rhythm disorders ;
+
+- digestive: poor sucking, regurgitation, vomiting, diarrhoea.
+
+'''Notify the SSNN'''
+
+During pregnancy
+
+- organise an ante-natal paediatric consultation to inform parents ;
+
+- prepare them for the possibility of an SNS and its management: listen (guilt, worry), reassure, inform, stress the essential role of the mother through simple everyday gestures: breastfeeding, care, etc.
+
+At birth
+
+- encouraging and supporting mother-child bonding: breastfeeding, nursing care, rocking, skin-to-skin contact, swaddling, maintaining a peaceful, quiet atmosphere, soft lighting, etc;
+
+- detect and assess withdrawal syndrome using the Finnegan score every 4 hours from birth;
+
+- treat if necessary: if the score exceeds 8 on 3 consecutive assessments, initiate treatment with morphine hydrochloride or sulphate (gradual increase in dosage, maintain dosage for 48 hours until stabilised, then reduce in stages every 48 hours).
+
+'''39. [[Examination of the term newborn SD-039|Examination of the term newborn]]''''
+
+'''293. [[Addictology follow-up consultation SD-293|Addictology follow-up consultation]]''''

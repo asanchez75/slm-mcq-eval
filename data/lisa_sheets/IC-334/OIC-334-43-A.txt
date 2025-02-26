@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-334-43-A
+|Item_parent= Immediate pre-hospital management and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvis trauma victims, spinal or vertebro-medullary trauma victims, cranial or cranioencephalic trauma victims.
+|Item_parent_short= Immediate pre-hospital care and on arrival at hospital, assessment of complications in: burn victims, polytrauma victims, thoracic trauma victims, abdominal trauma victims, limb and/or pelvic trauma victims, ...
+|Rank=A
+|Title=Know the principles of management of the main complications of fractures
+|Description=Ponevrotomy, hydration, anticoagulation
+|Rubric=Management
+|Contributors=CFCOT
+|Order=43}}
+
+'''Neurological complications:''''
+
+* realignment of the limb or reduction of the fracture: removal of nerve compression
+* in the case of axonal injury without nerve section (axonotmesis): total or partial spontaneous recovery after a variable period depending on the level of injury: the more proximal the injury, the longer the recovery.
+* in the case of nerve transection (neurotmesis): permanent and stable deficit; surgical suturing of the transected nerve may allow partial recovery.
+
+'''Vascular complications:''''
+
+* haemorrhage (externalised or not): haemostasis or embolisation in the absence of spontaneous haemostasis.
+* ischaemia due to compression or arterial injury: reduction of the fracture (or dislocation) +/- surgical revascularisation in the event of persistent ischaemia.
+
+'''Myotendinous complications:'''
+
+* treatment specific to each of these lesions.
+
+'''Syndrome de loge :'''
+
+* hospitalisation in intensive care unit or intensive care unit depending on severity
+* emergency treatment < 6 h
+* aponevrotomy of all muscle compartments
+* dressing every 48 hours and excision of necrotic tissue
+
+'''Acute post-traumatic rhabdomyolysis or "crush syndrome"''''
+
+* hospitalisation in an intensive care unit or intensive care unit, depending on severity
+* correction of hypovolaemia by aggressive volume expansion with crystalloids (500 ml/h)
+* alkalinisation of urine to maintain a urinary pH > 6 by administering sodium bicarbonate solution guided by urinary pH monitoring
+* monitoring of diuresis, urinary pH, haemodynamic parameters such as blood volume, kalaemia, calcium and phosphorus levels
+* adequate treatment of hyperkalaemia and hypocalcaemia
+
+'''Fat embolism syndrome:'''
+
+* preventive treatment: early and complete immobilisation of fracture sites + control of hypovolaemia + treatment of stress and pain to avoid mobilisation of fracture sites
+* curative treatment: purely symptomatic: oxygen therapy +/- mechanical ventilation depending on severity
+
+'''Thrombo-embolic complications:'''
+
+* specific treatment for each thromboembolic complication.
+
+'''Infectious complications: sepsis and septic shock in open fractures'''
+
+* [[Sepsis/Bacteremia/Fungemia in adults and children|item 157]] and [[Sepsis and septic shock in children and adults|item 158]]
+
+'''Hemorrhagic shock'''
+
+* blood loss in the first 6 hours: 2000 ml for femur fractures, 1000 ml for tibia fractures, up to 5000 ml for complex pelvic fractures
+* blood transfusion, reduction and osteosynthesis as soon as possible
+* in the event of a state of shock disproportionate to the fractures identified: search for other sources of bleeding on whole-body CT scan<br />.

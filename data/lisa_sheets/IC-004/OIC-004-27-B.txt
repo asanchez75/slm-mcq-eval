@@ -1,0 +1,59 @@
+{{knowledge objective
+|Identifiant=OIC-004-27-B
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=B
+|Heading=Haute Autorité de Santé, risk event reporting system
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=27}}
+The '''Haute Autorité de Santé (HAS)''' :
+
+1 ''Evaluates'' medicines, medical devices and professional procedures, and proposes whether or not they should be ''reimbursed'' by the health insurance scheme;
+
+2. recommends good professional, vaccination and public health practice
+
+3.     Measure and improve "quality" in health establishments, in community medicine and in social and medico-social structures, in particular through :
+
+- Certification'' of health establishments
+
+- L''''accréditation''' des médecins des spécialités à risque
+
+- L''''évaluation des pratiques professionnelles'''
+
+4.     '''Informs''' healthcare professionals and the general public, and ensures the quality of medical information disseminated.
+
+
+It is organised around :
+
+- A college of eight members
+
+- Specialist committees:
+
+o Recommendations, relevance, pathways and indicators
+
+o Assessment of medical devices and health technologies
+
+o Vaccinations
+
+o Transparency
+
+o Certification of healthcare establishments
+
+o Impact of recommendations
+
+o Economic and public health evaluation
+
+o Social and medico-social
+
+- Five functional divisions
+
+- External experts
+
+
+'''Risk-bearing event reporting system''': undesirable or risk-bearing events must be reported to the Agence Régionale de Santé (ARS), which processes them and then forwards them to the HAS after anonymisation. This :
+
+- Provide national feedback
+
+- Identifies recommendations for improving patient safety

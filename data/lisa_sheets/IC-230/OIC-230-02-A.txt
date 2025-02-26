@@ -1,0 +1,18 @@
+{{knowledge objective
+|Identifiant=OIC-230-02-A
+|Item_parent=Acute chest pain
+|Item_parent_short=Acute chest pain
+|Rank=A
+|Title=Knowing how to look for vital distress in chest pain
+|Description=Respiratory or haemodynamic distress, disturbances of consciousness
+|Rubric=Identification of the emergency
+|Contributors=Vincent Roule
+|Order=2}}
+
+'''Entitulé :''' '''Savoir rechercher une détresse vitale devant une douleur thoracique''''
+
+- '''acute respiratory distress'''
+
+- haemodynamic distress: ''signs of shock
+
+- neurological distress (coma and consciousness disorders)

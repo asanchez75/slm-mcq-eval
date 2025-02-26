@@ -1,0 +1,20 @@
+{{knowledge objective
+|Identifiant=OIC-065-03-B
+|Item_parent=Persistent Delusional Disorder
+|Item_parent_short=Persistent Delusional Disorder
+|Rank=B
+|Title=Knowing the risk factors, prognosis and course of the disorder
+|Description=None
+|Rubric=Epidemiology
+|Contributors=Pierre Vandel
+|Order=3}}
+
+Lifetime prevalence: 0.2
+
+Annual incidence: 1 to 3%<sub>0</sub>.
+
+Onset between the ages of 40 and 50
+
+The most common theme of persecution.
+
+Risk factors found: advanced age, lack of stimulation (isolation, sensory deficits), personality disorder, family history of delusional disorders, immigrant background.

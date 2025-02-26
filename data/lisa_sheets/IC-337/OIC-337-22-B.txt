@@ -1,0 +1,14 @@
+{{knowledge objective
+|Identifiant=OIC-337-22-B
+|Item_parent=Main acute intoxications
+|Item_parent_short=Main acute intoxications
+|Rank=B
+|Title=Knowing the main symptoms of acute intoxication by cannabis, amphetamines, cocaine and new synthetic drugs.
+|Description=None
+|Rubric=Positive diagnosis
+|Contributors=Dominique Vodovar
+|Order=22}}
+
+For this LISA sheet, each knowledge item is inserted into a summary figure. Each figure lists the knowledge items to which the figure refers.<gallery widths="300" heights="300">
+File:Intox fig 9.jpg
+</gallery>

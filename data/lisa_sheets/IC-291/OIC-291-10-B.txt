@@ -1,0 +1,11 @@
+{{knowledge objective
+|Identifiant=OIC-291-10-B
+|Item_parent=Cancer: carcinogenesis, oncogenetics
+|Item_parent_short=Cancer : carcinogenesis, oncogenetics
+|Rank=B
+|Intitle=Know the definition of familial adenomatous polyposis
+|Description=Know the definition of Familial Adenomatous Polyposis syndrome, the genes that cause this syndrome
+|Rubric=Definition
+|Contributors=
+|Order=10}}
+This genetic predisposition syndrome, linked to germline inactivation of the APC gene, is transmitted in an autosomal dominant fashion. It greatly increases the risk of developing multiple colorectal adenomatous polyps, and sometimes duodenal polyps, from a young age (second decade) and therefore of developing cancer at an early stage. Specific monitoring is put in place and prophylactic surgery may be proposed at an early stage (colectomy or colo-proctectomy).

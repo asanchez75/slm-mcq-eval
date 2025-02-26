@@ -1,0 +1,57 @@
+{{knowledge objective
+|Identifiant=OIC-045-08-B
+|Item_parent=Specificities of genetic diseases. (see item 9)
+|Item_parent_short=Specificities of genetic diseases. (see item 9)
+|Rank=B
+|Title=Karyotype prescription procedures
+|Description=Prescription methods and the principle of carrying out a karyotype. Knowledge of the different karyotypic anomalies in trisomy 21.
+|Rubric=Positive diagnosis
+|Contributors=Elise Launay,Damien Sanlaville,Marie-Bérengère Troadec
+|Order=8}}
+
+Trisomy 21 or Down's syndrome is suspected clinically and confirmed chromosomally.
+
+The test to be prescribed is a constitutional karyotype on lymphocytes: 2 ml peripheral venous blood sample in a heparinised tube.
+
+Parents/patients need to be informed and asked to sign a consent form with a certificate of genetic counselling.
+
+Information must be provided on
+
+- the objective (purpose) of the test (diagnosis of trisomy 21) ;
+
+- the nature of the test, in this case karyotype ;
+
+- the limitations of the test (no detection of abnormalities of less than 5 megabases (Mb), weak mosaics, nucleotide variants, risk of culture failure, etc.);
+
+- the delivery time (4-5 days in the case of trisomy 21);
+
+- the need to inform relatives if a serious condition justifying preventive measures, including genetic counselling, or care is identified.
+
+
+A Fluorescence In Situ Hybridization (FISH) study can be requested for a preliminary result within 24-48 hours.
+
+To carry out genetic counselling, it is necessary to have the results of the karyotype in order to know the mechanism causing trisomy 21.
+
+
+Karyotyping can identify three types of results:
+
+- Complete and homogeneous free trisomy 21: 95% of cases
+
+o Free: 3 separate 21 chromosomes
+
+o Complete: the whole of chromosome 21
+
+o Homogenous: in all cells
+
+- Complete mosaic free trisomy 21 2-3% of cases
+
+o Mosaic = two cell populations: cells with three 21 chromosomes and cells with two 21 chromosomes
+
+- Complete trisomy 21 by Robertsonian translocation: 2-3% of cases
+
+o Robertstonian translocation: fusion of two acrocentric chromosomes. The most common example is a fusion between chromosome 14 and 21.
+
+
+NB: partial trisomy 21 can be identified by an unbalanced translocation involving part of chromosome 21 and part of another chromosome.
+
+For a person with trisomy 21, there is no phenotypic difference depending on the chromosomal anomaly, except in the case of weak mosaics (less than 50%) and partial trisomy 21.

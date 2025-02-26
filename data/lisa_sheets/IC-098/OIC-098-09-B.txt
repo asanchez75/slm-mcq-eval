@@ -1,0 +1,78 @@
+{{knowledge objective
+|Identifiant=OIC-098-09-B
+|Item_parent=Myasthenia
+|Item_parent_short=Myasthenia
+|Rank=B
+|Title=Know the principles of treatment
+|Description=Symptomatic treatment (anticholinergic), background treatment, prohibited drugs
+|Topic=Management
+|Contributors=
+|Order=9}}
+<br />
+
+=== 1- Symptomatic treatment ===
+
+* Anticholinesterase drugs are prescribed as first-line treatment, providing a temporary improvement in muscle symptoms.
+* They prolong the action of acetylcholine at the post-synaptic membrane by reversibly blocking acetylcholinesterase.
+* Two oral products are available:
+
+- pyridostigmine (Mestinon®), 60 mg tablets, which take effect in around 4 hours;
+
+- Ambenonium (Mytelase®), 10 mg tablets, which have a longer effect (4 to 6 hours).
+
+* The daily dose should be gradually increased to the optimum dose, adapted to each patient and depending on their activity level and when they are most tired (6 to 8 tablets a day, divided into 3 to 4 doses).
+* Less effective or even intolerant in forms with anti-MuSK antibodies.
+* There is a delayed-release form of pyridostigmine, which can be administered at bedtime when symptoms are present on waking (particularly swallowing problems).
+* Undesirable effects related to muscarinic effects (diarrhoea ([[Diarrhoea SD-002|Diarrhoea]]), abdominal pain ([[Abdominal pain SD-004|Abdominal pain]]), hypersalivation, bronchial hypersecretion ([[Expectoration SD-163|Expectoration]]), sweating ([[Hypersudation SD-025|Hypersudation]]), bradycardia ([[Bradycardia SD-159|Bradycardia]])) or nicotinic (fasciculations, cramps ([[Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]])).
+* Risk of cholinergic crisis in the event of overdose, particularly in patients with decompensating myasthenia (suspected adverse drug reaction or treatment): Bronchial hypersecretion ([[Expectoration SD-163|Expectoration]]), accentuation of muscle weakness ([[Muscle weakness SD-074|Muscle weakness]] ; [Sensory and/or motor neurological deficit SD-121|Sensory and/or motor neurological deficit]]), muscle fasciculations and cramps ([[Pain, burning, cramps and paresthesias SD-073|Pain, burning, cramps and paresthesias]]).
+
+=== 2- Thymectomy ===
+
+* It is always indicated in cases of thymoma, regardless of the severity of the myasthenia.
+* However, this operation should never be performed as an emergency, and never on a patient in the throes of myasthenia gravis.
+* It should also be discussed in patients under 50 with anti-RACh antibodies, particularly in recent myasthenias (less than three years old).
+* Its benefit is demonstrated, but delayed.
+* It is not indicated in forms with anti-MuSK antibodies.
+
+=== 3- Corticosteroid therapy ===
+
+* Prednisone is most commonly used and will be prescribed at an initial dose of 1 mg/kg per day in generalised myasthenia for 4 to 6 weeks. Dosages are gradually reduced after significant improvement and stabilisation (down to 0.5 mg/kg per day at the end of the 4th month, then 0.25 mg/kg per day after 9 months) ([Prescribe systemic or local corticosteroids SD-251|Prescribe systemic or local corticosteroids]]).
+* It may be started in hospital because of the risk of transient worsening in the first two weeks of treatment (or with a gradual introduction of doses) ([[Suspicion of an adverse drug reaction or treatment SD-348|Suspicion of an adverse drug reaction or treatment]]), but the response is usually rapid during the first month of treatment.
+* It may be prescribed in ocular myasthenia refractory to anticholinesterase drugs at a dosage of 0.5 mg/kg per day.
+* Prolonged prescription of corticosteroids exposes the patient to the risks of the classic side effects of corticosteroid therapy ([[Prescribe general or local corticosteroids SD-251|Prescribe general or local corticosteroids]]; [[Screening for and prevention of osteoporosis SD-306|Screening for and prevention of osteoporosis]]).
+
+=== 4- Other immunosuppressants ===
+
+* Azathioprine (Imurel®) is the immunosuppressant most often prescribed, often in combination with corticosteroids at the start of treatment (first 3 months), because their effects are potentiated and cortisone is spared more rapidly.
+* Haematological (leucopenia, thrombocytopenia) and digestive (hepatitis, pancreatitis) side-effects require close biological monitoring on a weekly basis for the first month, then monthly ([Suspicion of an adverse drug reaction or treatment SD-348|Suspicion of an adverse drug reaction or treatment]).
+* Mycophenolate mofetil (Cellcept®) is an alternative to azathioprine, with similar efficacy, but is formally contraindicated in the event of pregnancy.
+* Other immunosuppressants are effective, but their significant side-effects limit their use to severe, corticoresistant forms: rituximab or Mabthera® (anti-CD20 monoclonal antibody), cyclosporine (Neoral®), tacrolimus (Prograf®), Cyclophosphamide (Endoxan®), eculizumab (Soliris®), etc.
+* Specific monitoring must be carried out in patients on immunosuppressive drugs ([[Monitoring of immunocompromised patients SD-291|Monitoring of immunocompromised patients]]).
+
+=== 5- Contraindicated drugs ===
+All patients must carry a myasthenia card and a list of the main prohibited drugs ([[Suspicion of an adverse drug reaction or treatment SD-348|Suspicion of an adverse drug reaction or treatment]]).
+
+'''<u>Absolute contraindications</u>''''
+
+Aminosides, colimycin, polymyxin, telithromycin, cyclins for injection, macrolides, fluoroquinolones, quinines, quinidine, hydroxychloroquine, procainamide, beta-blockers (even in eye drops), diphenyl-hydantoin, trimethadione, dantrolene, D-penicillamine, magnesium.
+
+'''<u>Relative contraindications</u>''''
+
+Curarisants (the use of rapidly degrading non-depolarising molecules such as atracurium is possible, but requires precise monitoring), benzodiazepines, neuroleptics (phenothiazine), carbamazepine, lithium.
+
+Vaccinations: the impact of vaccinations on myasthenia is poorly documented. Vaccination against poliomyelitis, tetanus and influenza does not aggravate myasthenia when the disease is well controlled. Live vaccines (e.g. oral polio) are formally contraindicated in patients receiving corticosteroids or immunosuppressants.
+
+=== 5- Planning patient follow-up ===
+
+* The therapeutic strategy depends on the following parameters:
+* The patient's age
+* The existence of a thymoma,
+* The severity of the myasthenia (swallowing or respiratory problems)
+* Tolerance of treatment and therapeutic risks
+* The socio-professional impact of the disease.
+* Severity will be assessed by taking into account the Garches myasthenic score and respiratory severity at each visit (measurement of vital capacity in the event of respiratory problems, dyspnoea, ineffective cough, etc.).
+
+* Systematic thymectomy in the case of thymoma and indicated in generalised forms in young subjects with anti-RACh antibodies (outside of a relapse).
+* If the myasthenia is severe, corticosteroid therapy and/or azathioprine will be prescribed as a first-line treatment during hospitalisation.
+* In the event of a severe relapse: resuscitation measures (gastric tube, ventilatory assistance) in combination with plasmapheresis or IV immunoglobulins, in addition to the prescription of immunosuppressive treatment.
+* Educate patients and their families about the warning signs of a flare-up, and the need to go to emergency or call the ambulance.

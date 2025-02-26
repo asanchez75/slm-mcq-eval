@@ -1,0 +1,27 @@
+{{knowledge objective
+|Identifiant=OIC-367-05-A
+|Item_parent=Environmental impact on health
+|Item_parent_short=Environmental impact on health
+|Rank=A
+|Title=Knowing the principles of exposure metrology
+|Description=Know how to measure pollutants in the environment
+|Rubric=Positive diagnosis
+|Contributors=
+|Order=5}}
+
+
+Exposure can be measured either at environmental level near the source or at internal level on human matrices. The former enable a better definition of the source, while the latter enable a better integration of the various exposures at the level of the organism and the role of absorption, transport, metabolism and excretion pathways.  
+
+At the environmental level, there are a number of different tools:
+
+- Satellites: weather, particles (sandstorms), green and blue spaces, etc.
+
+- Environmental detectors: particles, chemicals, noise, UV, etc.
+
+- Individual detectors: chemicals, particles, noise, physiological measurements
+
+On a human level :
+
+- Quantitative measurement of chemical substances of various kinds (metals, organic substances) in biological matrices (blood, urine, hair, skin, meconium) as part of biomonitoring studies or epidemiological or clinical studies.
+
+- Broad-spectrum profile of chemical substances (thousands of substances can be detected) as part of a chemical exposome study.

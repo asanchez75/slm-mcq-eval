@@ -1,0 +1,23 @@
+{{knowledge objective
+|Identifiant=OIC-004-43-A
+|Item_parent=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality approach and assessment of professional practices
+|Item_parent_short=Quality and safety of care. Patient safety. Risk management. Undesirable events associated with care (EIAS). Quality and assessment of professional practices
+|Rank=A
+|Title=Know the definition and principles of standard precautions.
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=43}}
+Standard precautions are a set of measures that must be systematically complied with during all care, aimed at routinely protecting patients and professionals from the transmission of infectious agents, regardless of their known or unknown infectious status. These measures are essential to prevent transmission between patients via healthcare staff or equipment.
+
+
+Description of standard hygiene precautions
+
+For all patients, whether or not they are known to be infected/colonised:
+
+# Rub hands with a hydroalcoholic solution (30 seconds/friction) before and after any contact with a patient or their immediate environment, including after removing gloves (see below).
+# Wear gloves only if there is a risk of contact with blood or any other biological product of human origin, and during care if the skin of the carer's hands is damaged, and change gloves between two patients.
+# If there is a risk of splashing of biological fluids, wear an overblouse or a single-use impermeable apron, a surgical mask and protective goggles.
+# Wear a surgical mask for anyone (patient, carer, visitor) suspected of having a respiratory infection (cough +/- fever).
+# Decontamination, sterilisation or elimination of soiled equipment and surfaces soiled by biological products, in compliance with the packaging rules for the transport of biological samples (waste from care activities involving infectious risk, WFIAR).
+# Precautions to prevent blood exposure accidents when handling sharp objects (secure collectors, gloves, retractable needle equipment, etc.).

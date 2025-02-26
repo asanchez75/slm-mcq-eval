@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-085-01-A
+|Item_parent=Refractive disorders
+|Item_parent_short=Refractive Disorders
+|Rank=A
+|Title=How to define the emmetropic eye
+|Description=None
+|Rubric=Definition
+|Contributors=
+|Order=1}}
+Light rays pass through refractive surfaces (cornea and crystalline lens) and refractive media (aqueous humour and vitreous), which together make up the dioptric apparatus of the eye. The aim of this apparatus is to converge the light rays from an object being viewed onto the retina.
+
+In the optically normal or emmetropic eye, parallel rays from an object at infinity focus on the retina, spontaneously producing a sharp image. An emmetropic eye needs no correction for distance vision.
+
+Conversely, an ametropic eye is an eye with a refractive error.

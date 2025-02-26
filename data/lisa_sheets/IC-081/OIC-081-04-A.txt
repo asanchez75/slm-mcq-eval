@@ -1,0 +1,15 @@
+{{knowledge objective
+|Identifiant=OIC-081-04-A
+|Item_parent=Chronic vision impairment
+|Item_parent_short=Chronic vision impairment
+|Rank=A
+|Title=Interpret a direct and consensual photomotor reflex (see item 82)
+|Description=None
+|Rubric=Multimedia content
+|Contributors=
+|Order=4}}
+Link to the diagram of the normal and pathological direct and consensual photomotor reflex:
+
+[[:File:Normal and pathological direct and consensual photomotor reflex.jpg|Fichier:Normal and pathological direct and consensual photomotor reflex.jpg]]
+
+In this example, the right eye is illuminated.

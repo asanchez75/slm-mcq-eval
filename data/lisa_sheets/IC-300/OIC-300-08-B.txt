@@ -1,0 +1,50 @@
+{{knowledge objective
+|Identifiant=OIC-300-08-B
+|Item_parent=Tumours of the uterine cervix, tumour of the uterine body
+|Item_parent_short=Tumours of the uterine cervix, tumour of the uterine corpus
+|Rank=B
+|Title=Knowing complementary examinations for cervical cancer (MRI)
+|Description=Know the signs pointing to cervical cancer and the relevant tests to be carried out depending on the situation in order to obtain histological evidence. Indication for MRI
+|Rubric=Additional examinations
+|Contributors=Yohan Kerbage,Lise Lecointre,Philippe Deruelle
+|Order=8}}
+
+The diagnosis of a pre-cancerous lesion or cervical cancer requires histological evidence, obtained by biopsy.
+
+In the case of a macroscopically abnormal cervix, the smear is no longer of interest, as false-negative smears are common in these advanced forms. The smear is a screening test, not a diagnostic test. In these cases, a sample should be taken immediately for anatomopathological examination, either by :
+
+- cervical biopsies centred on lesion areas and carried out if necessary under colposcopic guidance
+
+- conization, particularly when biopsy under colposcopy is not feasible (squamocolumnar junction zone cannot be visualized)
+
+In the case of invasive cancer, imaging tests are used to assess tumour volume, extension beyond the cervix, lymph node extension and distant extension:
+
+- Pre-therapeutic pelvic MRI (starting at the renal pedicles and extending to the pubic symphysis) is the reference examination, and has replaced the examination under general anaesthetic.
+
+This examination makes it possible to assess :
+
+- tumour volume (measurement of the largest diameter),
+
+- extension beyond the collar (in particular to the parameters)
+
+- lymph node involvement (pelvic and para-aortic lymph nodes)
+
+- search for dilatation of the pyelocalic cavities
+
+- 18-fluorodeoxyglucose positron emission tomography (PET-CT) is proposed for remote assessment of extension and lymph node involvement
+
+- cystoscopy and/or rectoscopy may be performed if there is any doubt on MRI about rectal or bladder extension
+
+[Reasoned request/prescription and choice of a diagnostic examination SD-178|178. Reasoned request/prescription and choice of a diagnostic examination]]
+
+[Interpretation of an anatomopathology report SD-180|180. Interpretation of an anatomopathology report]]
+
+[Malignant tumours on surgical specimen/biopsy SD-181|181 Malignant tumours on surgical specimen/biopsy
+
+[Discovery of a pelvic anomaly on medical imaging examination SD-229|229. Discovery of a pelvic anomaly on medical imaging examination]]
+
+[Request for an imaging examination SD-231|231. Request for an imaging examination]]
+
+[Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination SD-232|232. Request from a patient for an explanation of the procedure, risks and expected benefits of an imaging examination]]
+
+[Identify/recognise the different imaging examinations (type/window/sequences/incidences/injection) SD-233|233. Identify/recognise the different imaging examinations (type/window/sequences/incidence/injection)]]
