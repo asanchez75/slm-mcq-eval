@@ -1,6 +1,21 @@
 import os
 import json
 import pandas as pd
+
+import nltk
+import ssl
+# disable SSL check to download nltk pakages on MacOS
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+
 from src.eval.eval_dataframe import eval_dataframe, eval_dataframe_parallel
 from dotenv import load_dotenv
 
@@ -12,15 +27,15 @@ def main():
         # Load the JSON data from the file
         system_prompts = json.load(file)
 
-    df_mcq = pd.read_csv('../data/gpt4_mcq.csv')[:12]
-    df_lisa_sheets = pd.read_csv('../data/lisa_sheets.csv')[:12]
+    df_mcq = pd.read_csv('../data/gpt4_mcq.csv')
+    df_lisa_sheets = pd.read_csv('../data/lisa_sheets.csv')
 
     df_eval = eval_dataframe_parallel(df_mcqs=df_mcq,
                                       df_lisa_sheets=df_lisa_sheets,
                                       openai_key=OPENAI_KEY,
-                                      num_workers=12,
+                                      num_workers=10,
                                       answerability_system_prompt=system_prompts['answerability_prompt'])
-    df_eval.to_csv('test.csv', index=False)
+    df_eval.to_csv('mcqs_eval.csv', index=False)
 
 if __name__ == '__main__':
     main()

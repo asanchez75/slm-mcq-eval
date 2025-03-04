@@ -1,19 +1,5 @@
 import pandas as pd
 
-import nltk
-import ssl
-# disable SSL check to download nltk pakages on MacOS
-try:
-    _create_unverified_https_context = ssl._create_unverified_context
-except AttributeError:
-    pass
-else:
-    ssl._create_default_https_context = _create_unverified_https_context
-
-nltk.download('stopwords')
-nltk.download('punkt_tab')
-nltk.download('wordnet')
-
 from src.eval.ambiguity import calculate_ambiguity_for_df
 from src.eval.answerability import compute_answerability_for_df
 from src.eval.negation import starts_with_negation
