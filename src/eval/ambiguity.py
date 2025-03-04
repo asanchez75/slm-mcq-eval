@@ -1,11 +1,15 @@
 import torch.nn.functional as F
-from eval.utils import load_model, generate_embedding
+from src.eval.utils import generate_embedding, load_model
 
-def calculate_ambiguity_for_df(
-    df, correct_option_col='correct_option',
-    option_a_col='option_a', option_b_col='option_b',
-    option_c_col='option_c', option_d_col='option_d',
-    threshold=0.73, model_name="BAAI/bge-base-en-v1.5"
+
+def calculate_ambiguity_for_df(df,
+                               correct_option_col,
+                               option_a_col,
+                               option_b_col,
+                               option_c_col,
+                               option_d_col,
+                               ambiguity_col,
+                               model_name="BAAI/bge-base-en-v1.5"
 ):
     model, tokenizer, device = load_model(model_name)
 
@@ -25,7 +29,7 @@ def calculate_ambiguity_for_df(
             for opt, text in options.items() if opt != correct_opt
         ]
         avg_sim = sum(sims) / len(sims) if sims else 0
-        return 1 if avg_sim >= threshold else 0
+        return avg_sim
 
-    df['ambiguity'] = df.apply(ambiguity_score, axis=1)
+    df[ambiguity_col] = df.apply(ambiguity_score, axis=1)
     return df

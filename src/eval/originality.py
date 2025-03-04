@@ -5,10 +5,14 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize
 
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
-def calculate_originality_for_df(df, question_col='question', lisa_sheet_col='lisa_sheet'):
+def calculate_originality_for_df(df, originality_col, question_col, lisa_sheet_col):
 
     def clean_text(text):
         text = re.sub(r'\W+', ' ', text).lower().strip()
@@ -30,5 +34,5 @@ def calculate_originality_for_df(df, question_col='question', lisa_sheet_col='li
         originality_score = len(unique_trigrams) / len(question_trigrams) if question_trigrams else 0
         return originality_score
 
-    df['originality'] = df.apply(lambda row: calculate_originality(row[question_col], row[lisa_sheet_col]), axis=1)
+    df[originality_col] = df.apply(lambda row: calculate_originality(row[question_col], row[lisa_sheet_col]), axis=1)
     return df
