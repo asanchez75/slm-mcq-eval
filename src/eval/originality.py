@@ -5,10 +5,6 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize
 
-nltk.download('stopwords')
-nltk.download('punkt_tab')
-nltk.download('wordnet')
-
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 

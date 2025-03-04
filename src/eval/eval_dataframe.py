@@ -1,5 +1,19 @@
 import pandas as pd
 
+import nltk
+import ssl
+# disable SSL check to download nltk pakages on MacOS
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+
 from src.eval.ambiguity import calculate_ambiguity_for_df
 from src.eval.answerability import compute_answerability_for_df
 from src.eval.negation import starts_with_negation
@@ -8,16 +22,10 @@ from src.eval.question_check import is_question
 from src.eval.readability import calculate_readability_for_df
 from src.eval.relevance import calculate_relevance_for_df
 
-from dotenv import load_dotenv
-import os
 from concurrent.futures import ProcessPoolExecutor
 from tqdm import tqdm
 import logging
 import math
-
-load_dotenv('../../.env')
-OPENAI_KEY = os.environ.get("OPENAI_KEY")
-
 
 def eval_dataframe(df_mcqs: pd.DataFrame,
                    df_lisa_sheets: pd.DataFrame,
@@ -110,6 +118,13 @@ def eval_dataframe(df_mcqs: pd.DataFrame,
 
     return df_merged
 
+def process_batch(batch_data):
+    batch_mcqs, batch_lisa, kwargs = batch_data
+    # Add batch_id to kwargs
+    # Import eval_df here to avoid circular imports
+    result = eval_dataframe(batch_mcqs, batch_lisa, **kwargs)
+    return result
+
 
 def eval_dataframe_parallel(df_mcqs: pd.DataFrame,
                             df_lisa_sheets: pd.DataFrame,
@@ -158,12 +173,6 @@ def eval_dataframe_parallel(df_mcqs: pd.DataFrame,
         ))
 
     logger.info(f"Created {len(batches)} batches with batch size of {batch_size}")
-
-    # Helper function to process a single batch
-    def process_batch(batch_data):
-        batch_mcqs, batch_lisa, batch_kwargs = batch_data
-        result = eval_dataframe(df_mcqs=batch_mcqs, df_lisa_sheets=batch_lisa, **batch_kwargs)
-        return result
 
     # Process batches in parallel
     results = []
