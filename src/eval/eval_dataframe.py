@@ -1,7 +1,7 @@
 import pandas as pd
 
 from src.eval.ambiguity import calculate_ambiguity_for_df
-from src.eval.answerability import compute_answerability
+from src.eval.answerability import compute_answerability_for_df
 from src.eval.negation import starts_with_negation
 from src.eval.originality import calculate_originality_for_df
 from src.eval.question_check import is_question
@@ -10,6 +10,10 @@ from src.eval.relevance import calculate_relevance_for_df
 
 from dotenv import load_dotenv
 import os
+from concurrent.futures import ProcessPoolExecutor
+from tqdm import tqdm
+import logging
+import math
 
 load_dotenv('../../.env')
 OPENAI_KEY = os.environ.get("OPENAI_KEY")
@@ -52,7 +56,7 @@ def eval_dataframe(df_mcqs: pd.DataFrame,
                    option_d_col='option_d',
                    correct_option_col='correct_option',
                    lisa_sheet_id_col='id',
-                   lisa_sheet_col='content_gpt',):
+                   lisa_sheet_col='content_gpt'):
     # Merge the MCQs and LISA sheets on the specified ID column
     df_merged = pd.merge(df_mcqs,
                          df_lisa_sheets[[lisa_sheet_id_col, lisa_sheet_col]],
@@ -91,17 +95,98 @@ def eval_dataframe(df_mcqs: pd.DataFrame,
                                                ambiguity_col=ambiguity_col)
 
     if compute_answerability and answerability_system_prompt is not None:
-        df_merged = compute_answerability(df_merged,
-                                          api_key=openai_key,
-                                          question_col=question_col,
-                                          option_a_col=option_a_col,
-                                          option_b_col=option_b_col,
-                                          option_c_col=option_c_col,
-                                          option_d_col=option_d_col,
-                                          model_answer_col=answerability_col,
-                                          context_col=lisa_sheet_col,
-                                          system_prompt=answerability_system_prompt,
-                                          temp=temp,
-                                          max_completion_tokens=max_completion_tokens)
+        df_merged = compute_answerability_for_df(df_merged,
+                                                 api_key=openai_key,
+                                                 question_col=question_col,
+                                                 option_a_col=option_a_col,
+                                                 option_b_col=option_b_col,
+                                                 option_c_col=option_c_col,
+                                                 option_d_col=option_d_col,
+                                                 model_answer_col=answerability_col,
+                                                 context_col=lisa_sheet_col,
+                                                 system_prompt=answerability_system_prompt,
+                                                 temp=temp,
+                                                 max_completion_tokens=max_completion_tokens)
 
     return df_merged
+
+
+def eval_dataframe_parallel(df_mcqs: pd.DataFrame,
+                            df_lisa_sheets: pd.DataFrame,
+                            num_workers: int = 12,
+                            **kwargs):
+    """
+    Parallel version of eval_df that processes data in batches using multiple workers.
+    
+    Parameters:
+    -----------
+    df_mcqs : pd.DataFrame
+        First input dataframe
+    df_lisa_sheets : pd.DataFrame
+        Second input dataframe with the same length as df_mcqs
+    num_workers : int, default=12
+        Number of parallel workers to use
+    **kwargs : dict
+        Additional parameters to pass to eval_df
+        
+    Returns:
+    --------
+    pd.DataFrame
+        Merged and processed dataframe, sorted by index
+    """
+    # Configure logging
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s - %(levelname)s - %(message)s')
+    logger = logging.getLogger(__name__)
+
+    # Ensure dataframes are the same length
+    if len(df_mcqs) != len(df_lisa_sheets):
+        raise ValueError(f"Input dataframes must have the same length. Got {len(df_mcqs)} and {len(df_lisa_sheets)}.")
+
+    # Calculate batch size
+    total_rows = len(df_mcqs)
+    batch_size = math.ceil(total_rows / num_workers)
+
+    # Create batches
+    batches = []
+    for i in range(0, total_rows, batch_size):
+        end_idx = min(i + batch_size, total_rows)
+        batches.append((
+            df_mcqs.iloc[i:end_idx].copy(),
+            df_lisa_sheets.iloc[i:end_idx].copy(),
+            kwargs
+        ))
+
+    logger.info(f"Created {len(batches)} batches with batch size of {batch_size}")
+
+    # Helper function to process a single batch
+    def process_batch(batch_data):
+        batch_mcqs, batch_lisa, batch_kwargs = batch_data
+        result = eval_dataframe(df_mcqs=batch_mcqs, df_lisa_sheets=batch_lisa, **batch_kwargs)
+        return result
+
+    # Process batches in parallel
+    results = []
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        # Use tqdm to show progress
+        futures = list(tqdm(
+            executor.map(process_batch, batches),
+            total=len(batches),
+            desc="Processing batches"
+        ))
+
+        # Collect results
+        for future in futures:
+            results.append(future)
+
+    # Combine results
+    logger.info("Combining results from all batches")
+    if results:
+        combined_df = pd.concat(results, ignore_index=False)
+        # Sort by index
+        combined_df = combined_df.sort_index()
+        logger.info(f"Combined result has {len(combined_df)} rows")
+        return combined_df
+    else:
+        logger.warning("No results returned from batches")
+        return pd.DataFrame()

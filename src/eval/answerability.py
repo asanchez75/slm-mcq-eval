@@ -5,18 +5,18 @@ from openai import OpenAI
 from src.eval.llm_evaluation import generate_prompt_for_question, call_openai_api
 
 
-def compute_answerability(df,
-                          api_key,
-                          question_col,
-                          option_a_col,
-                          option_b_col,
-                          option_c_col,
-                          option_d_col,
-                          context_col,
-                          model_answer_col,
-                          system_prompt,
-                          temp,
-                          max_completion_tokens):
+def compute_answerability_for_df(df,
+                                 api_key,
+                                 question_col,
+                                 option_a_col,
+                                 option_b_col,
+                                 option_c_col,
+                                 option_d_col,
+                                 context_col,
+                                 model_answer_col,
+                                 system_prompt,
+                                 temp,
+                                 max_completion_tokens):
 
     client = OpenAI(api_key = api_key)
             
