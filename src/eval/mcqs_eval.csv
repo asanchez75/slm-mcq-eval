@@ -1,0 +1,172 @@
+id,mcq_json,rubric,question,option_a,option_b,option_c,option_d,correct_option,content_gpt,originality,readability,starts_with_negation,is_question,relevance,ambiguity,gpt_answer
+OIC-360-01-A,"{'question': 'What is a pneumothorax?', 'option_a': 'Fluid accumulation in the lungs', 'option_b': 'Gas effusion in the pleural cavity', 'option_c': 'Infection of the pleural lining', 'option_d': 'Inflammation of the lung tissue', 'correct_option': 'B'}",Definition,What is a pneumothorax?,Fluid accumulation in the lungs,Gas effusion in the pleural cavity,Infection of the pleural lining,Inflammation of the lung tissue,b,"**Item Parent:** Pneumothorax  
+**Title:** Definition of Pneumothorax  
+**Rubric:** Definition  
+
+- Gas effusion in the pleural cavity
+- May lead to partial or complete pulmonary collapse depending on the size of the effusion
+- Can cause haemodynamic failure if the heart chambers are affected, known as gaseous tamponade.",0.0,6.620000000000001,False,True,0.789512038230896,0.6903295715649923,b)
+OIC-360-08-A,"{'question': 'Which of the following is a key element in diagnosing the severity of a pneumothorax?', 'option_a': 'The size of the pneumothorax', 'option_b': 'Presence of respiratory distress', 'option_c': ""Patient's age"", 'option_d': 'Location of the pneumothorax', 'correct_option': 'B'}",,Which of the following is a key element in diagnosing the severity of a pneumothorax?,The size of the pneumothorax,Presence of respiratory distress,Patient's age,Location of the pneumothorax,b,"**Item Parent:** Pneumothorax  
+**Title:** Knowing the Elements for Diagnosing the Severity of a Pneumothorax  
+**Description:** Refer to question on acute respiratory distress and acute respiratory failure. Item 355/356  
+**Item:** Identification of the Emergency  
+
+These elements are systematically sought on clinical examination:
+
+- **Respiratory Signs:** Signs of acute respiratory distress/desaturation.
+- **Haemodynamic Signs in the Event of Gas Tamponade:** Right heart failure, shock, cardiac arrest.
+
+These signs do not necessarily correlate with the size of the pneumothorax. A partial pneumothorax may be poorly tolerated from a respiratory point of view in a patient already suffering from respiratory insufficiency.",0.5,11.500000000000004,False,True,0.8415336012840271,0.6216771602630615,b
+OIC-360-03-A,"{'question': 'Which of the following is a clinical element used to diagnose pneumothorax?', 'option_a': ""Sudden 'stabbing' chest pain"", 'option_b': 'Increased vesicular murmur', 'option_c': 'Moist cough', 'option_d': 'Decreased tympany on percussion', 'correct_option': 'A'}",Positive diagnosis,Which of the following is a clinical element used to diagnose pneumothorax?,Sudden 'stabbing' chest pain,Increased vesicular murmur,Moist cough,Decreased tympany on percussion,a,"**Item Parent:** Pneumothorax  
+**Title:** Knowing the Elements of the Positive Diagnosis and Differential Diagnosis of Pneumothorax  
+**Description:** None  
+**Rubric:** Positive Diagnosis  
+
+The diagnosis can be made clinically, but thoracic imaging is essential (see radiological symptomology).
+
+**Clinical Elements of a Positive Clinical Diagnosis:**
+
+- **Functional Signs:**
+  - Sudden ""stabbing"" chest pain, accompanied by breathing and increased by coughing
+  - Dyspnoea, which may be severe
+  - Dry cough
+
+- **Physical Signs:**
+  - **Inspection:** Decrease in mobility and distension of the hemithorax affected by the pneumothorax
+  - **Percussion:** Frank tympany of the hemithorax affected by the pneumothorax
+  - **Auscultation:** Decrease in the vesicular murmur of the hemithorax affected by the pneumothorax
+
+- **Indirect Signs:** Subcutaneous emphysema",1.0,12.690000000000001,False,True,0.7889857292175293,0.5667936404546102,a
+OIC-360-11-B,"{'question': 'What is a recommended measure to prevent the recurrence of pneumothorax?', 'option_a': 'Increasing physical activity', 'option_b': 'Smoking cessation', 'option_c': 'Reducing water intake', 'option_d': 'Avoiding dairy products', 'correct_option': 'B'}",,What is a recommended measure to prevent the recurrence of pneumothorax?,Increasing physical activity,Smoking cessation,Reducing water intake,Avoiding dairy products,b,"**Item Parent:** Pneumothorax  
+**Title:** Know the Measures to Prevent Recurrence of Pneumothorax (Stop Smoking, ± Pleurodesis)  
+**Description:** None  
+
+**Smoking Cessation**
+
+- Pleurodesis may be discussed. This is a specialist discussion, taking into account the number of homolateral and contralateral recurrences and the possible pathological nature of the underlying lung.",0.3333333333333333,13.372727272727271,False,True,0.8265520930290222,0.5327534476915995,b
+OIC-360-10-B,"{'question': 'What is a primary indication for performing pleural drainage in the management of pneumothorax?', 'option_a': 'When the pneumothorax is primary and exsufflation has failed.', 'option_b': 'When the pneumothorax is primary and there is no expected delay in pleural closure.', 'option_c': 'When the pneumothorax is secondary and exsufflation is successful.', 'option_d': 'When the pneumothorax is primary and there is no fluid effusion.', 'correct_option': 'A'}",Management,What is a primary indication for performing pleural drainage in the management of pneumothorax?,When the pneumothorax is primary and exsufflation has failed.,When the pneumothorax is primary and there is no expected delay in pleural closure.,When the pneumothorax is secondary and exsufflation is successful.,When the pneumothorax is primary and there is no fluid effusion.,a,"**Item Parent:** Pneumothorax  
+**Title:** Knowing the Main Principles of Pleural Drainage and Its Indications  
+**Rubric:** Management  
+
+**Pleural Drainage Indications:**
+
+- Consider pleural drainage when:
+  - The pneumothorax is primary and exsufflation has failed.
+  - The pneumothorax is secondary and the pleural breach is expected to take time to close.
+
+**General Guidelines:**
+
+- Ensure compliance with surgical asepsis rules.
+- Inform the patient in advance.
+- Provide adequate anxiolysis and analgesia.
+- Administer oxygen therapy if necessary.
+- Position the patient supine, with the hand on the same side as the pneumothorax placed above the head to clear the axillary region if the approach is via the axilla.
+
+**Techniques for Pleural Drainage:**
+
+1. **Percutaneous Technique:**
+   - Placement of a pigtail drain using Seldinger's method, with anatomical landmarks similar to pleural exsufflation (midclavicular line at the level of the 2nd intercostal space).
+   - Connect the drain to a suction system set between -5 and -20 cm H2O.
+   - If successful, monitor with short-term hospitalization or as an outpatient with a closed tap for secondary drainage in case of recurrence.
+   - If unsuccessful, proceed with the surgical technique.
+
+2. **Surgical Technique:**
+   - Indications include pneumothorax that is difficult to drain or associated with fluid effusion (e.g., fistulized pulmonary abscess).
+   - Two approaches:
+     - Anterior approach using the same landmarks as pleural exsufflation (midclavicular line at the 2nd intercostal space).
+     - Axillary approach (upper edge of the lower rib, between the posterior edge of the pectoralis major and the anterior edge of the dorsalis major, at the level of the 4th or 5th intercostal space, marked by the nipple line).
+   - Introduce a pleural drain through a trocar with a foam mandrel and connect to a suction system set at -5 to -20 cm H2O.
+
+**Additional Considerations:**
+
+- Partial pneumothoraxes may require unconventional landmarks, guided by imaging.
+- A chest X-ray is usually sufficient to monitor the drain position and lung reattachment.
+
+**Figures:**
+
+- **Figure 1:** Example of a percutaneous drainage set. The guide is inserted through the needle used for puncture. After dilation on the guide, the drain is inserted percutaneously and connected to the suction system.
+- **Figure 2:** Example of a surgical drainage set. Kocher forceps are used to dissect the subcutaneous cellulo-fatty spaces and the muscular plane. The trocar and mandrel are used to insert the drain by directing it.",1.0,15.15571428571429,False,True,0.8778020739555359,0.8164685567220052,a
+OIC-360-04-A,"{'question': 'What is a key radiological sign of a tension pneumothorax on a standard chest X-ray?', 'option_a': 'Clear peripheral crescent at the apex', 'option_b': 'Retraction of the lung parenchyma onto its hilum', 'option_c': 'Subcutaneous emphysema', 'option_d': 'Horizontal hydroaerobic level', 'correct_option': 'B'}",Positive diagnosis,What is a key radiological sign of a tension pneumothorax on a standard chest X-ray?,Clear peripheral crescent at the apex,Retraction of the lung parenchyma onto its hilum,Subcutaneous emphysema,Horizontal hydroaerobic level,b,"**Item Parent:** Pneumothorax  
+**Title:** Knowing the Radiological Semiology of Pneumothorax  
+**Description:** None  
+**Rubric:** Positive Diagnosis  
+
+**Definitions:**
+
+- **Standard Chest X-ray:**
+  - A fine linear opacity represents the outer edge of the visceral pleura, separated from the wall by hyperclarity with the disappearance of the vascular network (clear peripheral crescent). When the pneumothorax is small, it is only visible at the apex.
+  - Sign of tension pneumothorax includes retraction of the lung parenchyma onto its hilum, flattening of the homolateral diaphragmatic dome, and pushing of the mediastinum towards the opposite side.
+  - Possible indirect signs include subcutaneous emphysema with air under the skin and pneumomediastinum.
+  - If there is an associated fluid effusion, a horizontal hydroaerobic level (hydropneumothorax) is visible on the X-ray taken in the standing position.
+  - Incomplete pneumothorax with apical, inferior, or anterior detachment may show a hyperclaric line on the cardiac silhouette or on the diaphragmatic dome.
+
+- **Scanner:**
+  - Not systematic.
+  - Used to confirm pneumothorax if there is any doubt and/or to specify its topography to guide any drainage in the event of partial detachment. It is also carried out in the event of recurrent pneumothorax to search for an anomaly in the underlying lung parenchyma.
+
+- **Pleural Ultrasound:**
+  - A specialist examination that can be carried out at the patient's bedside but is more difficult to interpret.",0.5714285714285714,9.140000000000004,False,True,0.8089090585708618,0.5964647928873698,b
+OIC-360-02-B,"{'question': 'What distinguishes primary pneumothorax from secondary pneumothorax?', 'option_a': 'Primary pneumothorax is caused by underlying lung diseases.', 'option_b': 'Secondary pneumothorax occurs without an apparent cause.', 'option_c': 'Primary pneumothorax occurs without an apparent cause.', 'option_d': 'Secondary pneumothorax is unrelated to lung diseases.', 'correct_option': 'C'}",,What distinguishes primary pneumothorax from secondary pneumothorax?,Primary pneumothorax is caused by underlying lung diseases.,Secondary pneumothorax occurs without an apparent cause.,Primary pneumothorax occurs without an apparent cause.,Secondary pneumothorax is unrelated to lung diseases.,c,"**Item Parent:** Pneumothorax  
+**Title:** Knowing the Pathophysiology of Primary and Secondary Pneumothorax  
+**Description:** None  
+
+The pathophysiology of pneumothorax involves the presence of air in the pleural space, which can lead to lung collapse. Primary pneumothorax occurs without an apparent cause, while secondary pneumothorax is associated with underlying lung diseases.",1.0,22.540000000000003,False,True,0.8092170357704163,0.8685004909833273,c
+OIC-360-07-A,"{'question': 'What is a primary indicator of a primary spontaneous pneumothorax?', 'option_a': 'History of trauma', 'option_b': 'Long-limbed young man', 'option_c': 'Presence of pulmonary pathology', 'option_d': 'Tobacco use', 'correct_option': 'B'}",Etiologies,What is a primary indicator of a primary spontaneous pneumothorax?,History of trauma,Long-limbed young man,Presence of pulmonary pathology,Tobacco use,b,"**Item Parent:** Pneumothorax  
+**Title:** Knowing the Elements of the Aetiological Diagnosis of Pneumothorax: Traumatic Pneumothorax, Primary Spontaneous Pneumothorax, Secondary Spontaneous Pneumothorax  
+**Description:** None  
+**Rubric:** Etiologies  
+
+**Etiological Diagnosis is Based on the Following Data**
+
+- **History:**
+  - Notion of trauma: traumatic pneumothorax (PNO)
+  - Notion of physical effort or Valsalva manoeuvre (effort with closed glottis): spontaneous pneumothorax (PNO)
+
+- **In the Field:**
+  - Long-limbed young man: primary spontaneous pneumothorax (PNO)
+  - Pulmonary pathology: emphysema, cavern/excavation (tuberculosis, cancer, etc.): secondary spontaneous pneumothorax (PNO). Favouring role of tobacco.",0.6666666666666666,14.270000000000007,False,True,0.7661713361740112,0.4302586217721303,b
+OIC-360-09-A,"{'question': 'When is pleural exsufflation indicated according to the main principles?', 'option_a': 'For any size of pneumothorax with respiratory distress.', 'option_b': 'Only for pressure pneumothorax with signs of severity.', 'option_c': 'For complete pneumothorax with a detachment of more than 2 cm.', 'option_d': 'For any pneumothorax without symptoms.', 'correct_option': 'b'}",Management,When is pleural exsufflation indicated according to the main principles?,For any size of pneumothorax with respiratory distress.,Only for pressure pneumothorax with signs of severity.,For complete pneumothorax with a detachment of more than 2 cm.,For any pneumothorax without symptoms.,b,"**Item Parent:** Pneumothorax  
+**Title:** Know the Main Principles of Pleural Exsufflation and Its Indications  
+**Description:** None  
+**Rubric:** Management  
+
+**Definitions**  
+Exsufflation is performed in two circumstances:  
+
+- Pressure pneumothorax with signs of severity  
+- Complete pneumothorax with a detachment of more than 2 cm  
+
+**Procedure for Major Emergency**  
+In the event of a major emergency (signs of poor respiratory and/or hemodynamic tolerance), the following steps should be taken:  
+
+- Respect the rules of surgical asepsis.  
+- Perform puncture using a large-bore catheter.  
+- Insert in the 2nd intercostal space via an anterior approach on the midclavicular line.  
+- Follow the upper edge of the lower side along a vertical path.  
+- Success is confirmed by the sound of ""pchit"" (evacuation of pressurized air) and immediate clinical improvement.  
+- Simultaneously, provide the patient with oxygen therapy, volume expansion to combat de-escalation, and often analgesia.  
+
+**Indications for Large Spontaneous Complete Pneumothorax**  
+If exsufflation is indicated for a large spontaneous complete pneumothorax in young patients, the urgency is often less. The procedure is similar and is often carried out when a drain is placed (refer to pleural drainage guidelines).",1.0,13.09,False,True,0.837979793548584,0.7614967226982117,b
+OIC-258-09-A,"{'question': 'Which clinical condition is indicative of functional renal failure due to effective hypovolemia?', 'option_a': 'Extracellular dehydration', 'option_b': 'Nephrotic syndrome', 'option_c': 'Hemorrhage', 'option_d': 'Orthostatic hypotension', 'correct_option': 'B'}",Etiologies,Which clinical condition is indicative of functional renal failure due to effective hypovolemia?,Extracellular dehydration,Nephrotic syndrome,Hemorrhage,Orthostatic hypotension,b,"**Item Parent:** Elevation of creatininemia  
+**Title:** Know the arguments in favor of the functional nature of an increase in creatininemia.  
+**Description:** Know the clinical evidence (questioning and physical examination) in favor of the functional nature of an increase in creatininemia.  
+**Rubric:** Etiologies  
+
+**Functional Renal Failure**
+
+Functional renal failure corresponds to a state of true or effective hypovolemia, which is a frequent situation.
+
+**Clinical Context:**
+
+- **True Hypovolemia:**
+  - Arterial hypotension: extracellular dehydration (weight loss, skin folds) or overall dehydration, hemorrhage.
+  - Before the hypotension stage: look for orthostatic hypotension.
+
+- **Effective Hypovolemia:** Situations where renal perfusion pressure is low without true hypovolemia:
+  - Major edematous states during hypoproteinemia (nephrotic syndrome, hepatocellular insufficiency, malnutrition), cirrhosis with edemato-ascitic decompensation, total or right heart failure.
+  - Septic, anaphylactic, or cardiogenic shock in the initial phase.
+
+- **Drugs that Interfere with Renal Hemodynamics:**
+  - Non-steroidal anti-inflammatory drugs.
+  - Angiotensin-converting enzyme inhibitors or angiotensin 2 receptor antagonists.",0.8571428571428571,19.43384615384615,False,True,0.793200671672821,0.5203390320142111,b)

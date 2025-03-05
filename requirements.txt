@@ -5,7 +5,11 @@ numpy==2.2.3
 ollama==0.4.7
 pandas==2.2.3
 peft==0.14.0
-torch==2.2.2+cpu
-tqdm==4.66.5
-transformers==4.47.1
-trl==0.15.1
+torch~=2.6.0
+tqdm~=4.67.1
+transformers~=4.48.2
+trl~=0.14.0
+
+openai~=1.65.1
+dotenv~=0.9.9
+python-dotenv~=1.0.1

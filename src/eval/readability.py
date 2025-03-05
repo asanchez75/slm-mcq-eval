@@ -1,7 +1,7 @@
 import re
 
-def calculate_readability_for_df(df, text_col='question'):
-
+def calculate_readability_for_df(df, readability_col, question_col):
+    # Fleish-Kincaid algorithm
     def syllable_count(word):
         word = word.lower()
         syllable_count = len(re.findall(r'[aeiouy]+', word))
@@ -19,5 +19,5 @@ def calculate_readability_for_df(df, text_col='question'):
         readability = 0.39 * (num_words / num_sentences) + 11.8 * (num_syllables / num_words) - 15.59
         return readability
 
-    df['readability'] = df[text_col].apply(compute_readability)
+    df[readability_col] = df[question_col].apply(compute_readability)
     return df

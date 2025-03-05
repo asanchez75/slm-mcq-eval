@@ -1,59 +1,41 @@
+import os
+import json
 import pandas as pd
 
-# import nltk
-# nltk.download('stopwords')
-# nltk.download('punkt')
-# nltk.download('wordnet')
-# nltk.download('punkt_tab')
+import nltk
+import ssl
+# disable SSL check to download nltk pakages on MacOS
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
 
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('wordnet')
 
-from eval.answer_length import calculate_length_score_for_df
-from eval.negation import starts_with_negation
-from eval.originality import calculate_originality_for_df
-from eval.question_check import is_question
-from eval.readability import calculate_readability_for_df
-from eval.relevance import calculate_relevance_for_df
-from eval.ambiguity import calculate_ambiguity_for_df
+from src.eval.eval_dataframe import eval_dataframe, eval_dataframe_parallel
+from dotenv import load_dotenv
 
-data = {
-    'question': [
-        "What is the capital of France?",
-        "Explain the theory of relativity.",
-        "Should we invest in Bitcoin?",
-        "Is this a good approach?",
-        "The sun rises in the east.",
-        "Why is the sky blue?",
-        "This is a statement, not a question."
-    ],
-    'lisa_sheet': [
-        "The capital of France is Paris.",
-        "Relativity is a theory developed by Einstein.",
-        "Investing in Bitcoin depends on market conditions.",
-        "Approach validation is subjective.",
-        "Earth rotates causing sunrise in the east.",
-        "The sky is blue due to Rayleigh scattering.",
-        "This sentence has no question."
-    ],
-    'correct_option': ['a', 'b', 'c', 'd', 'a', 'b', 'c'],
-    'option_a': ["Paris", "Newtonian mechanics", "Yes", "Maybe", "Morning", "Atmosphere", "Nothing"],
-    'option_b': ["London", "Relativity", "No", "Not sure", "Evening", "Scattering", "Something"],
-    'option_c': ["Berlin", "Thermodynamics", "Possibly", "Perhaps", "Sunrise", "Light", "Everything"],
-    'option_d': ["Madrid", "Quantum physics", "Definitely", "Doubtful", "Dawn", "Blue sky", "Anything"]
-}
+def main():
+    load_dotenv('../.env')
+    OPENAI_KEY = os.environ.get("OPENAI_KEY")
 
-df = pd.DataFrame(data)
+    with open('./eval/prompts.json', 'r') as file:
+        # Load the JSON data from the file
+        system_prompts = json.load(file)
 
-df = calculate_length_score_for_df(df, question_col='question')
+    df_mcq = pd.read_csv('../data/gpt4_mcq.csv')
+    df_lisa_sheets = pd.read_csv('../data/lisa_sheets.csv')
 
-df = calculate_originality_for_df(df, question_col='question', lisa_sheet_col='lisa_sheet')
+    df_eval = eval_dataframe_parallel(df_mcqs=df_mcq,
+                                      df_lisa_sheets=df_lisa_sheets,
+                                      openai_key=OPENAI_KEY,
+                                      num_workers=10,
+                                      answerability_system_prompt=system_prompts['answerability_prompt'])
+    df_eval.to_csv('mcqs_eval.csv', index=False)
 
-df = calculate_readability_for_df(df, text_col='question')
-
-df['starts_with_negation'] = df['question'].apply(starts_with_negation)
-
-df['is_question'] = df['question'].apply(is_question)
-
-df = calculate_relevance_for_df(df)
-df = calculate_ambiguity_for_df(df)
-
-print(df.iloc[0])
+if __name__ == '__main__':
+    main()
