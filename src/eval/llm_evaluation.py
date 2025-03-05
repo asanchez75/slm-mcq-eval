@@ -29,7 +29,6 @@ def generate_prompt_for_question(row):
         return None
 
 
-
 def process_dataframe(model_name, df):
     try:
         df['rank'] = df.progress_apply(generate_prompt_for_question, axis=1)
