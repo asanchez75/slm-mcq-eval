@@ -1,14 +1,15 @@
+import pandas as pd
 import torch.nn.functional as F
 from src.eval.utils import generate_embedding, load_model
 
 
-def calculate_ambiguity_for_df(df,
-                               correct_option_col,
-                               option_a_col,
-                               option_b_col,
-                               option_c_col,
-                               option_d_col,
-                               ambiguity_col,
+def calculate_ambiguity_for_df(df: pd.DataFrame,
+                               correct_option_col: str,
+                               option_a_col: str,
+                               option_b_col: str,
+                               option_c_col: str,
+                               option_d_col: str,
+                               ambiguity_col: str,
                                model_name="BAAI/bge-base-en-v1.5"
 ):
     model, tokenizer, device = load_model(model_name)

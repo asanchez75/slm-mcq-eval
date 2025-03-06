@@ -1,12 +1,13 @@
+import pandas as pd
 import torch.nn.functional as F
 
 from src.eval.utils import load_model, generate_embedding
 
 
-def calculate_relevance_for_df(df,
-                               relevance_col,
-                               question_col,
-                               lisa_sheet_col,
+def calculate_relevance_for_df(df: pd.DataFrame,
+                               relevance_col: str,
+                               question_col: str,
+                               lisa_sheet_col: str,
                                model_name="BAAI/bge-base-en-v1.5"):
     model, tokenizer, device = load_model(model_name)
 

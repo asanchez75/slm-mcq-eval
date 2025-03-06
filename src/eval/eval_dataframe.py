@@ -2,6 +2,7 @@ import pandas as pd
 
 from src.eval.ambiguity import calculate_ambiguity_for_df
 from src.eval.answerability import compute_answerability_for_df
+from src.eval.disclosure import compute_disclosure_for_df
 from src.eval.negation import starts_with_negation
 from src.eval.originality import calculate_originality_for_df
 from src.eval.question_check import is_question
@@ -42,6 +43,10 @@ def eval_dataframe(df_mcqs: pd.DataFrame,
                    # ambiguity_params
                    compute_ambiguity=True,
                    ambiguity_col='ambiguity',
+                   # disclosure params,
+                   compute_disclosure=True,
+                   disclosure_system_prompt=None,
+                   disclosure_col='disclosure',
                    # general df params
                    question_col='question',
                    option_a_col='option_a',
@@ -55,54 +60,66 @@ def eval_dataframe(df_mcqs: pd.DataFrame,
     df_merged = pd.merge(df_mcqs,
                          df_lisa_sheets[[lisa_sheet_id_col, lisa_sheet_col]],
                          on=lisa_sheet_id_col, how='left')
-
-    if compute_originality:
-        df_merged = calculate_originality_for_df(df_merged,
-                                                 originality_col=originality_col,
-                                                 question_col=question_col,
-                                                 lisa_sheet_col=lisa_sheet_col)
-
-    if compute_readability:
-        df_merged = calculate_readability_for_df(df_merged,
-                                                 readability_col=readability_col,
-                                                 question_col=question_col)
-
-    if compute_negation:
-        df_merged[negation_col] = df_merged[question_col].apply(starts_with_negation)
-
-    if compute_is_question:
-        df_merged[is_question_col] = df_merged[question_col].apply(is_question)
-
-    if compute_relevance:
-        df_merged = calculate_relevance_for_df(df_merged,
-                                               relevance_col=relevance_col,
-                                               question_col=question_col,
-                                               lisa_sheet_col=lisa_sheet_col)
-
-    if compute_ambiguity:
-        df_merged = calculate_ambiguity_for_df(df_merged,
-                                               correct_option_col=correct_option_col,
-                                               option_a_col=option_a_col,
-                                               option_b_col=option_b_col,
-                                               option_c_col=option_c_col,
-                                               option_d_col=option_d_col,
-                                               ambiguity_col=ambiguity_col)
-
-    if compute_answerability and answerability_system_prompt is not None:
-        df_merged = compute_answerability_for_df(df_merged,
-                                                 api_key=openai_key,
-                                                 question_col=question_col,
-                                                 option_a_col=option_a_col,
-                                                 option_b_col=option_b_col,
-                                                 option_c_col=option_c_col,
-                                                 option_d_col=option_d_col,
-                                                 model_answer_col=answerability_col,
-                                                 context_col=lisa_sheet_col,
-                                                 system_prompt=answerability_system_prompt,
-                                                 temp=temp,
-                                                 max_completion_tokens=max_completion_tokens)
-
-    return df_merged
+    
+    try:
+        if compute_originality:
+            df_merged = calculate_originality_for_df(df_merged,
+                                                     originality_col=originality_col,
+                                                     question_col=question_col,
+                                                     lisa_sheet_col=lisa_sheet_col)
+    
+        if compute_readability:
+            df_merged = calculate_readability_for_df(df_merged,
+                                                     readability_col=readability_col,
+                                                     question_col=question_col)
+    
+        if compute_negation:
+            df_merged[negation_col] = df_merged[question_col].apply(starts_with_negation)
+    
+        if compute_is_question:
+            df_merged[is_question_col] = df_merged[question_col].apply(is_question)
+    
+        if compute_relevance:
+            df_merged = calculate_relevance_for_df(df_merged,
+                                                   relevance_col=relevance_col,
+                                                   question_col=question_col,
+                                                   lisa_sheet_col=lisa_sheet_col)
+    
+        if compute_ambiguity:
+            df_merged = calculate_ambiguity_for_df(df_merged,
+                                                   correct_option_col=correct_option_col,
+                                                   option_a_col=option_a_col,
+                                                   option_b_col=option_b_col,
+                                                   option_c_col=option_c_col,
+                                                   option_d_col=option_d_col,
+                                                   ambiguity_col=ambiguity_col)
+    
+        if compute_answerability and answerability_system_prompt is not None:
+            df_merged = compute_answerability_for_df(df_merged,
+                                                     api_key=openai_key,
+                                                     question_col=question_col,
+                                                     option_a_col=option_a_col,
+                                                     option_b_col=option_b_col,
+                                                     option_c_col=option_c_col,
+                                                     option_d_col=option_d_col,
+                                                     model_answer_col=answerability_col,
+                                                     context_col=lisa_sheet_col,
+                                                     system_prompt=answerability_system_prompt,
+                                                     temp=temp,
+                                                     max_completion_tokens=max_completion_tokens)
+        
+        if compute_disclosure and disclosure_system_prompt is not None:
+            df_merged = compute_disclosure_for_df(df_merged,
+                                                  api_key=openai_key,
+                                                  question_col=question_col,
+                                                  disclosure_col=disclosure_col,
+                                                  system_prompt=disclosure_system_prompt,
+                                                  temp=temp,
+                                                  max_completion_tokens=max_completion_tokens)
+    except Exception as e:
+        print(f'Exception happened: {str(e)}')
+    finally:
+        return df_merged
 
 def process_batch(batch_data):
     batch_mcqs, batch_lisa, kwargs = batch_data
@@ -114,7 +131,7 @@ def process_batch(batch_data):
 
 def eval_dataframe_parallel(df_mcqs: pd.DataFrame,
                             df_lisa_sheets: pd.DataFrame,
-                            num_workers: int = 12,
+                            num_workers: int = 10,
                             **kwargs):
     """
     Parallel version of eval_df that processes data in batches using multiple workers.

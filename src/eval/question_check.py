@@ -1,6 +1,6 @@
 import re
 
-def is_question(sentence):
+def is_question(sentence: str):
     if sentence.strip().endswith("?"):
         return True
     

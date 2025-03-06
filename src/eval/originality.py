@@ -1,5 +1,6 @@
 import re
 import nltk
+import pandas as pd
 from nltk.util import ngrams
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -8,7 +9,10 @@ from nltk import word_tokenize
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
-def calculate_originality_for_df(df, originality_col, question_col, lisa_sheet_col):
+def calculate_originality_for_df(df: pd.DataFrame,
+                                 originality_col: str,
+                                 question_col: str,
+                                 lisa_sheet_col: str):
 
     def clean_text(text):
         text = re.sub(r'\W+', ' ', text).lower().strip()

@@ -1,6 +1,11 @@
 import re
 
-def calculate_readability_for_df(df, readability_col, question_col):
+import pandas as pd
+
+
+def calculate_readability_for_df(df: pd.DataFrame,
+                                 readability_col: str,
+                                 question_col: str):
     # Fleish-Kincaid algorithm
     def syllable_count(word):
         word = word.lower()
