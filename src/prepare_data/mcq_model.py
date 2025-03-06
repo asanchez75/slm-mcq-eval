@@ -23,6 +23,6 @@ def create_prompt_chain(prompt_text=DEFAULT_PROMPT):
             "format_instructions": mcq_parser.get_format_instructions(),
         },
     )
-    model = ChatOpenAI(model="gpt-4o", temperature=0.7, api_key=OPENAI_KEY)
+    model = ChatOpenAI(model="gpt-4o", temperature=0.5, api_key=OPENAI_KEY)
     chain = prompt_template | model | mcq_parser
     return chain
