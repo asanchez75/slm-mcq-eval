@@ -6,4 +6,3 @@ def starts_with_negation(sentence: str):
     if re.match(negation_words, sentence.strip(), re.IGNORECASE):
         return True
     return False
-

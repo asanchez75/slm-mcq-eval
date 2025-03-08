@@ -7,6 +7,7 @@ def load_model(model_name="BAAI/bge-base-en-v1.5"):
     Loads the model and tokenizer once and returns them.
     """
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModel.from_pretrained(model_name).to(device)
     return model, tokenizer, device
