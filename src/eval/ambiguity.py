@@ -26,7 +26,7 @@ def calculate_ambiguity_for_df(df: pd.DataFrame,
         correct_emb = generate_embedding(correct_text, model, tokenizer, device)
         
         sims = [
-            F.cosine_similarity(correct_emb, generate_embedding(text, model, tokenizer, device), dim=0).item()
+            F.cosine_similarity(correct_emb, generate_embedding(text if bool(text) else "", model, tokenizer, device), dim=0).item()
             for opt, text in options.items() if opt != correct_opt
         ]
         avg_sim = sum(sims) / len(sims) if sims else 0

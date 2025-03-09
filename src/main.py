@@ -16,7 +16,7 @@ nltk.download('stopwords')
 nltk.download('punkt_tab')
 nltk.download('wordnet')
 
-from src.eval.eval_dataframe import eval_dataframe, eval_dataframe_parallel
+from src.eval.eval_dataframe import eval_dataframe_parallel
 from dotenv import load_dotenv
 
 def main():
@@ -27,13 +27,12 @@ def main():
         # Load the JSON data from the file
         system_prompts = json.load(file)
 
-    df_mcq = pd.read_csv('../phi3.5_mcq.csv')
-
-    df_lisa_sheets = pd.read_csv('data/lisa_sheets.csv')
+    df_mcq = pd.read_csv(os.environ.get('MODEL_MCQ_PATH'))
+    df_lisa_sheets = pd.read_csv(os.environ.get('LISA_SHEETS_PATH'))
     
     # test small subset
     # common_ids = df_mcq['id'].isin(df_lisa_sheets['id'])
-
+    # 
     # df_mcq = df_mcq[common_ids].iloc[:60]
     # df_lisa_sheets = df_lisa_sheets[df_lisa_sheets['id'].isin(df_mcq['id'])]
 
@@ -48,7 +47,7 @@ def main():
                                       difficulty_system_prompt=system_prompts['difficulty_prompt'],
                                       )
 
-    df_eval.to_csv('mcqs_phi3.5_eval.csv', index=False)
+    df_eval.to_csv(os.environ.get('MODEL_MCQ_EVAL_EXPORT_PATH'), index=False)
 
 if __name__ == '__main__':
     main()
