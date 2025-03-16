@@ -140,6 +140,7 @@ def eval_dataframe_parallel(df_mcqs: pd.DataFrame,
                             num_workers: int = 10,
                             lisa_sheet_id_col='id',
                             lisa_sheet_col='content_gpt',
+                            merge=True,
                             **kwargs):
     """
     Parallel version of eval_df that processes data in batches using multiple workers.
@@ -173,7 +174,7 @@ def eval_dataframe_parallel(df_mcqs: pd.DataFrame,
     total_rows = len(df_mcqs)
     batch_size = math.ceil(total_rows / num_workers)
 
-    df_merged = pd.merge(df_mcqs,
+    df_merged = df_mcqs if not merge else pd.merge(df_mcqs,
                         df_lisa_sheets[[lisa_sheet_id_col, lisa_sheet_col]],
                         on=lisa_sheet_id_col, how='left')
 
