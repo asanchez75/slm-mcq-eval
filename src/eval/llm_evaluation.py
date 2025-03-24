@@ -29,7 +29,7 @@ def generate_prompt_for_question(row,
                                  option_d_col = 'option_d',
                                  correct_option = 'correct_option',
                                  include_options=True,
-                                 include_correct_option = False,
+                                 include_correct_option = True,
                                  context_col=None):
     question_text = row[question_col]
     options = f"a) {row[option_a_col]}\nb) {row[option_b_col]}\nc) {row[option_c_col]}\nd) {row[option_d_col]}"
