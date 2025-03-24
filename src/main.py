@@ -51,8 +51,8 @@ def main():
                                       compute_disclosure=False,
                                       compute_difficulty=False,
                                       compute_distractors_quality=True,
-                                      distractors_quality_system_prompt=system_prompts['distractors_quality_prompt'],
-                                      distractors_quality_col='distractor_quality',
+                                      distractors_quality_system_prompt=system_prompts['avg_distractors_quality_prompt'],
+                                      distractors_quality_col='avg_distractor_quality',
                                       merge=False # set to True if your dataframe does not have the Lisa Sheet content
                                       )
 
