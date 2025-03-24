@@ -27,15 +27,14 @@ def main():
         # Load the JSON data from the file
         system_prompts = json.load(file)
 
-    df_mcq = pd.read_csv('../phi3.5_mcq.csv')
-
+    df_mcq = pd.read_csv('../data/llama3b/llama_0.7.csv')
     df_lisa_sheets = pd.read_csv('data/lisa_sheets.csv')
     
     # test small subset
-    # common_ids = df_mcq['id'].isin(df_lisa_sheets['id'])
-
+    common_ids = df_mcq['id'].isin(df_lisa_sheets['id'])
+    
     # df_mcq = df_mcq[common_ids].iloc[:60]
-    # df_lisa_sheets = df_lisa_sheets[df_lisa_sheets['id'].isin(df_mcq['id'])]
+    df_lisa_sheets = df_lisa_sheets[df_lisa_sheets['id'].isin(df_mcq['id'])]
 
     df_eval = eval_dataframe_parallel(df_mcqs=df_mcq,
                                       df_lisa_sheets=df_lisa_sheets,
@@ -48,7 +47,7 @@ def main():
                                       difficulty_system_prompt=system_prompts['difficulty_prompt'],
                                       )
 
-    df_eval.to_csv('mcqs_phi3.5_eval.csv', index=False)
+    df_eval.to_csv('llama3b_0.7_temp_evaluated.csv', index=False) ###  
 
 if __name__ == '__main__':
     main()

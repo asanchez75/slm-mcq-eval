@@ -60,6 +60,15 @@ def eval_dataframe(df_merged: pd.DataFrame,
                    correct_option_col='correct_option',
                    lisa_sheet_col='content_gpt'):
 
+    if compute_ambiguity:
+        df_merged = calculate_ambiguity_for_df(df_merged,
+                                                correct_option_col=correct_option_col,
+                                                option_a_col=option_a_col,
+                                                option_b_col=option_b_col,
+                                                option_c_col=option_c_col,
+                                                option_d_col=option_d_col,
+                                                ambiguity_col=ambiguity_col)
+
     if compute_originality:
         df_merged = calculate_originality_for_df(df_merged,
                                                     originality_col=originality_col,
@@ -82,15 +91,6 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                 relevance_col=relevance_col,
                                                 question_col=question_col,
                                                 lisa_sheet_col=lisa_sheet_col)
-
-    if compute_ambiguity:
-        df_merged = calculate_ambiguity_for_df(df_merged,
-                                                correct_option_col=correct_option_col,
-                                                option_a_col=option_a_col,
-                                                option_b_col=option_b_col,
-                                                option_c_col=option_c_col,
-                                                option_d_col=option_d_col,
-                                                ambiguity_col=ambiguity_col)
 
     if compute_answerability and answerability_system_prompt is not None:
         df_merged = compute_answerability_for_df(df_merged,
