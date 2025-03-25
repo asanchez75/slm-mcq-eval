@@ -31,9 +31,9 @@ def main():
     df_lisa_sheets = pd.read_csv(os.environ.get('LISA_SHEETS_PATH'))
     
     # test small subset
-    common_ids = df_mcq['id'].isin(df_lisa_sheets['id'])
-    
+    # common_ids = df_mcq['id'].isin(df_lisa_sheets['id'])
     # df_mcq = df_mcq[common_ids].iloc[:60]
+    
     df_lisa_sheets = df_lisa_sheets[df_lisa_sheets['id'].isin(df_mcq['id'])]
 
     df_eval = eval_dataframe_parallel(df_mcqs=df_mcq,
@@ -52,9 +52,9 @@ def main():
                                       compute_disclosure=False,
                                       compute_difficulty=False,
                                       compute_distractors_quality=True,
-                                      distractors_quality_system_prompt=system_prompts['avg_distractors_quality_prompt'],
-                                      distractors_quality_col='avg_distractor_quality',
-                                      merge=True # set to True if your dataframe does not have the Lisa Sheet content
+                                      distractors_quality_system_prompt=system_prompts['distractors_quality_prompt'],
+                                      distractors_quality_col='distractor_quality',
+                                      merge=False # set to True if your dataframe does not have the Lisa Sheet content
                                       )
 
     df_eval.to_csv(os.environ.get('MODEL_MCQ_EVAL_EXPORT_PATH'), index=False)
