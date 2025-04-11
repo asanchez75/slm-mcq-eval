@@ -1,8 +1,8 @@
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_core.pydantic_v1 import BaseModel, Field
-from langchain_openai import ChatOpenAI
-from config import OPENAI_KEY, DEFAULT_PROMPT
+from langchain_ollama.llms import OllamaLLM
+from config import DEFAULT_PROMPT
 
 class MCQQuestion(BaseModel):
     question: str = Field(description="The multiple-choice question")
@@ -23,6 +23,8 @@ def create_prompt_chain(prompt_text=DEFAULT_PROMPT):
             "format_instructions": mcq_parser.get_format_instructions(),
         },
     )
-    model = ChatOpenAI(model="gpt-4o", temperature=0.5, api_key=OPENAI_KEY)
+    #model = ChatOpenAI(model="gpt-4o", temperature=0.5, api_key=OPENAI_KEY)
+    model = OllamaLLM(model=model_name, temperature=temperature, top_p=1, num_ctx=8192, num_predict=-1)
+    
     chain = prompt_template | model | mcq_parser
     return chain
