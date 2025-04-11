@@ -8,6 +8,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-t', "--temperature", type=float, default=0.1)
 
 args = parser.parse_args()
+model = 'llama3.1:8b-instruct-q8_0'
 
 def main():
     path_lisa = "../../data/lisa_sheets"
