@@ -1,0 +1,91 @@
+Sample of the boolean columns before conversion:
+   starts_with_negation  is_question  disclosure
+0                 False         True       False
+1                 False         True       False
+2                 False         True       False
+3                 False         True       False
+4                 False         True        True
+
+Sample after conversion:
+   starts_with_negation  starts_with_negation_bool  ...  disclosure  disclosure_bool
+0                 False                      False  ...       False            False
+1                 False                      False  ...       False            False
+2                 False                      False  ...       False            False
+3                 False                      False  ...       False            False
+4                 False                      False  ...        True             True
+
+[5 rows x 6 columns]
+
+MCQ Evaluation Metrics:
+==================================================
+
+1. Originality:
+   - Average: 0.8088
+   - Median: 0.8462
+   - Standard Deviation: 0.2067
+   - Range: 0.0000 to 1.0000
+   - IQR: 0.6957 to 1.0000
+
+2. Readability:
+   - Average: 13.66
+   - Median: 13.51
+   - Standard Deviation: 3.25
+   - Range: 2.34 to 25.17
+   - IQR: 11.50 to 15.80
+
+3. Starts with negation: 0.00% (percentage of true)
+
+4. Is question: 98.94% (percentage of true)
+
+5. Relevance:
+   - Average: 0.7699
+   - Median: 0.7733
+   - Standard Deviation: 0.0542
+   - Range: 0.5428 to 0.9351
+   - IQR: 0.7384 to 0.8053
+
+6. Ambiguity:
+   - Average: 0.6842
+   - Median: 0.6682
+   - Standard Deviation: 0.1158
+   - Range: 0.4062 to 0.9951
+   - IQR: 0.6019 to 0.7587
+
+7. GPT answer: 95.75% (percentage correct)
+
+8. Disclosure: 89.63% (percentage of false)
+
+9. Difficulty:
+   - Average: 2.90
+   - Median: 2.00
+   - Standard Deviation: 1.20
+   - Distribution:
+     * Level 1: 3.92%
+     * Level 2: 50.83%
+     * Level 3: 11.83%
+     * Level 4: 18.47%
+     * Level 5: 14.95%
+   - Cumulative Distribution:
+     * Level ≤1: 3.92%
+     * Level ≤2: 54.75%
+     * Level ≤3: 66.58%
+     * Level ≤4: 85.05%
+     * Level ≤5: 100.00%
+
+10. Distractor Quality:
+   - Average: 3.42
+   - Median: 4.00
+   - Standard Deviation: 0.77
+   - Distribution:
+     * Level 1: 2.86%
+     * Level 2: 7.91%
+     * Level 3: 34.29%
+     * Level 4: 53.95%
+     * Level 5: 1.00%
+   - Cumulative Distribution:
+     * Level ≤1: 2.86%
+     * Level ≤2: 10.76%
+     * Level ≤3: 45.05%
+     * Level ≤4: 99.00%
+     * Level ≤5: 100.00%
+

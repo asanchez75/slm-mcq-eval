@@ -1,0 +1,60 @@
+INFO 07-05 14:38:55 [__init__.py:244] Automatically detected platform cuda.
+WARNING: Could not import DEFAULT_PROMPT from config.py. Using a fallback prompt.
+Ensuring LoRA adapter 'asanchez75/meditron3-8b-mcq-lora' is available at './lora_adapters/meditron3-8b-mcq-lora'...
+LoRA adapter download/check complete.
+Initializing vLLM engine for base model: OpenMeditron/Meditron3-8B with LoRA enabled
+Quantization: None, Max Length: 8192, GPU Util: 0.85
+INFO 07-05 14:39:08 [config.py:823] This model supports multiple tasks: {'classify', 'embed', 'reward', 'score', 'generate'}. Defaulting to 'generate'.
+INFO 07-05 14:39:08 [config.py:2195] Chunked prefill is enabled with max_num_batched_tokens=8192.
+INFO 07-05 14:39:11 [core.py:455] Waiting for init message from front-end.
+INFO 07-05 14:39:11 [core.py:70] Initializing a V1 LLM engine (v0.9.1) with config: model='OpenMeditron/Meditron3-8B', speculative_config=None, tokenizer='OpenMeditron/Meditron3-8B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, override_neuron_config={}, tokenizer_revision=None, trust_remote_code=True, dtype=torch.bfloat16, max_seq_len=8192, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=1, pipeline_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto,  device_config=cuda, decoding_config=DecodingConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_backend=''), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=0, served_model_name=OpenMeditron/Meditron3-8B, num_scheduler_steps=1, multi_step_stream_outputs=True, enable_prefix_caching=True, chunked_prefill_enabled=True, use_async_output_proc=True, pooler_config=None, compilation_config={"level":3,"debug_dump_path":"","cache_dir":"","backend":"","custom_ops":["none"],"splitting_ops":["vllm.unified_attention","vllm.unified_attention_with_output"],"use_inductor":true,"compile_sizes":[],"inductor_compile_config":{"enable_auto_functionalized_v2":false},"inductor_passes":{},"use_cudagraph":true,"cudagraph_num_of_warmups":1,"cudagraph_capture_sizes":[512,504,496,488,480,472,464,456,448,440,432,424,416,408,400,392,384,376,368,360,352,344,336,328,320,312,304,296,288,280,272,264,256,248,240,232,224,216,208,200,192,184,176,168,160,152,144,136,128,120,112,104,96,88,80,72,64,56,48,40,32,24,16,8,4,2,1],"cudagraph_copy_inputs":false,"full_cuda_graph":false,"max_capture_size":512,"local_cache_dir":null}
+WARNING 07-05 14:39:11 [utils.py:2737] Methods determine_num_available_blocks,device_config,get_cache_block_size_bytes,initialize_cache not implemented in <vllm.v1.worker.gpu_worker.Worker object at 0x7de9ea6b7800>
+INFO 07-05 14:39:12 [parallel_state.py:1065] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+WARNING 07-05 14:39:12 [topk_topp_sampler.py:59] FlashInfer is not available. Falling back to the PyTorch-native implementation of top-p & top-k sampling. For the best performance, please install FlashInfer.
+INFO 07-05 14:39:12 [gpu_model_runner.py:1595] Starting to load model OpenMeditron/Meditron3-8B...
+INFO 07-05 14:39:12 [gpu_model_runner.py:1600] Loading model from scratch...
+INFO 07-05 14:39:12 [cuda.py:252] Using Flash Attention backend on V1 engine.
+INFO 07-05 14:39:14 [weight_utils.py:292] Using model weights format ['*.safetensors']
+INFO 07-05 14:39:18 [default_loader.py:272] Loading weights took 2.86 seconds
+INFO 07-05 14:39:18 [punica_selector.py:19] Using PunicaWrapperGPU.
+INFO 07-05 14:39:18 [gpu_model_runner.py:1624] Model loading took 15.3477 GiB and 5.684737 seconds
+INFO 07-05 14:39:32 [backends.py:462] Using cache directory: /root/.cache/vllm/torch_compile_cache/4054f8c533/rank_0_0 for vLLM's torch.compile
+INFO 07-05 14:39:32 [backends.py:472] Dynamo bytecode transform time: 12.52 s
+INFO 07-05 14:39:40 [backends.py:135] Directly load the compiled graph(s) for shape None from the cache, took 7.562 s
+INFO 07-05 14:39:43 [monitor.py:34] torch.compile takes 12.52 s in total
+INFO 07-05 14:39:43 [gpu_worker.py:227] Available KV cache memory: 23.68 GiB
+INFO 07-05 14:39:44 [kv_cache_utils.py:715] GPU KV cache size: 193,984 tokens
+INFO 07-05 14:39:44 [kv_cache_utils.py:719] Maximum concurrency for 8,192 tokens per request: 23.68x
+INFO 07-05 14:40:52 [gpu_model_runner.py:2048] Graph capturing finished in 68 secs, took 0.74 GiB
+INFO 07-05 14:40:53 [core.py:171] init engine (profile, create kv cache, warmup model) took 94.47 seconds
+vLLM Engine Initialized with LoRA support.
+Loading source text data...
+Found 4875 text items.
+Loaded 1591 items for the test set based on ./data/train_test_split/test_folders.json
+WARNING: Langchain not found. Using basic format instructions.
+Preparing prompts...
+
+Starting batch inference for 1591 prompts using LoRA: mcq_generator_adapter from ./lora_adapters/meditron3-8b-mcq-lora
+Batch inference completed in 228.54 seconds.
+Processing results...
+
+Saving 1572 successfully generated MCQs to ./generated_mcqs_vllm/generated_mcqs_vllm_meditron3-8b-mcq-lora_temp0.5.json...
+Saving 19 exceptions/parsing errors to ./generated_mcqs_vllm/exceptions_vllm_meditron3-8b-mcq-lora_temp0.5.json...
+--------------------------------------------------
+MCQ Generation Summary
+--------------------------------------------------
+Processed 1591 text items (after filtering/limiting).
+Total Inference Time: 228.54 seconds
+Average Time per Item: 0.1436 seconds
+Successfully generated and parsed MCQs: 1572
+Failed to parse LLM output (or empty): 19
+Success Rate (Parsed / Processed): 98.81%
+--------------------------------------------------
+Results saved to: ./generated_mcqs_vllm/generated_mcqs_vllm_meditron3-8b-mcq-lora_temp0.5.json
+Errors/Exceptions saved to: ./generated_mcqs_vllm/exceptions_vllm_meditron3-8b-mcq-lora_temp0.5.json
+Script finished.
+
+real    5m54.224s
+user    16m9.316s
+sys     0m10.237s
+

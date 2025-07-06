@@ -65,31 +65,50 @@ def eval_dataframe(df_merged: pd.DataFrame,
                    option_d_col='option_d',
                    correct_option_col='correct_option',
                    lisa_sheet_col='content_gpt'):
+    # DEBUG: (commented out for production)
+    # print(f"DEBUG: Starting eval_dataframe with {len(df_merged)} rows")
+    # print(f"DEBUG: Columns available: {list(df_merged.columns)}")
+    # print(f"DEBUG: Compute flags - originality: {compute_originality}, readability: {compute_readability}, negation: {compute_negation}")
+    # print(f"DEBUG: Compute flags - is_question: {compute_is_question}, relevance: {compute_relevance}, ambiguity: {compute_ambiguity}")
+    # print(f"DEBUG: Compute flags - answerability: {compute_answerability}, disclosure: {compute_disclosure}, difficulty: {compute_difficulty}")
+    # print(f"DEBUG: Compute flags - distractors_quality: {compute_distractors_quality}")
+    # print(f"DEBUG: System prompts - answerability: {answerability_system_prompt is not None}, disclosure: {disclosure_system_prompt is not None}, difficulty: {difficulty_system_prompt is not None}")
     try:
         if compute_originality:
+            # print(f"DEBUG: Computing originality...")
             df_merged = calculate_originality_for_df(df_merged,
                                                      originality_col=originality_col,
                                                      question_col=question_col,
                                                      lisa_sheet_col=lisa_sheet_col)
+            # print(f"DEBUG: Originality computed. Column added: {originality_col in df_merged.columns}")
 
         if compute_readability:
+            # print(f"DEBUG: Computing readability...")
             df_merged = calculate_readability_for_df(df_merged,
                                                      readability_col=readability_col,
                                                      question_col=question_col)
+            # print(f"DEBUG: Readability computed. Column added: {readability_col in df_merged.columns}")
 
         if compute_negation:
+            # print(f"DEBUG: Computing negation...")
             df_merged[negation_col] = df_merged[question_col].apply(starts_with_negation)
+            # print(f"DEBUG: Negation computed. Column added: {negation_col in df_merged.columns}")
 
         if compute_is_question:
+            # print(f"DEBUG: Computing is_question...")
             df_merged[is_question_col] = df_merged[question_col].apply(is_question)
+            # print(f"DEBUG: Is_question computed. Column added: {is_question_col in df_merged.columns}")
 
         if compute_relevance:
+            # print(f"DEBUG: Computing relevance...")
             df_merged = calculate_relevance_for_df(df_merged,
                                                    relevance_col=relevance_col,
                                                    question_col=question_col,
                                                    lisa_sheet_col=lisa_sheet_col)
+            # print(f"DEBUG: Relevance computed. Column added: {relevance_col in df_merged.columns}")
 
         if compute_ambiguity:
+            # print(f"DEBUG: Computing ambiguity...")
             df_merged = calculate_ambiguity_for_df(df_merged,
                                                    correct_option_col=correct_option_col,
                                                    option_a_col=option_a_col,
@@ -97,8 +116,10 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                    option_c_col=option_c_col,
                                                    option_d_col=option_d_col,
                                                    ambiguity_col=ambiguity_col)
+            # print(f"DEBUG: Ambiguity computed. Column added: {ambiguity_col in df_merged.columns}")
 
         if compute_answerability and answerability_system_prompt is not None:
+            # print(f"DEBUG: Computing answerability...")
             df_merged = compute_answerability_for_df(df_merged,
                                                      api_key=openai_key,
                                                      question_col=question_col,
@@ -111,8 +132,10 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                      system_prompt=answerability_system_prompt,
                                                      temp=temp,
                                                      max_completion_tokens=max_completion_tokens)
+            # print(f"DEBUG: Answerability computed. Column added: {answerability_col in df_merged.columns}")
 
         if compute_disclosure and disclosure_system_prompt is not None:
+            # print(f"DEBUG: Computing disclosure...")
             df_merged = compute_disclosure_for_df(df_merged,
                                                   api_key=openai_key,
                                                   question_col=question_col,
@@ -120,8 +143,10 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                   system_prompt=disclosure_system_prompt,
                                                   temp=temp,
                                                   max_completion_tokens=max_completion_tokens)
+            # print(f"DEBUG: Disclosure computed. Column added: {disclosure_col in df_merged.columns}")
 
         if compute_difficulty and difficulty_system_prompt is not None:
+            # print(f"DEBUG: Computing difficulty...")
             df_merged = compute_difficulty_for_df(df_merged,
                                                   api_key=openai_key,
                                                   question_col=question_col,
@@ -129,8 +154,10 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                   system_prompt=difficulty_system_prompt,
                                                   temp=temp,
                                                   max_completion_tokens=max_completion_tokens)
+            # print(f"DEBUG: Difficulty computed. Column added: {difficulty_col in df_merged.columns}")
 
         if compute_distractors_quality and distractors_quality_system_prompt is not None:
+            # print(f"DEBUG: Computing distractors_quality...")
             df_merged = compute_distractor_quality_for_df(df_merged,
                                                           api_key=openai_key,
                                                           question_col=question_col,
@@ -143,8 +170,14 @@ def eval_dataframe(df_merged: pd.DataFrame,
                                                           system_prompt=distractors_quality_system_prompt,
                                                           temp=temp,
                                                           max_completion_tokens=max_completion_tokens)
+            # print(f"DEBUG: Distractors_quality computed. Column added: {distractors_quality_col in df_merged.columns}")
+        
+        # print(f"DEBUG: Final columns in dataframe: {list(df_merged.columns)}")
     except Exception as e:
-        print(e)
+        print(f"ERROR: Exception occurred: {e}")
+        import traceback
+        traceback.print_exc()
+        print(f"ERROR: Exception occurred, returning original dataframe with columns: {list(df_merged.columns)}")
     finally:
         return df_merged
 

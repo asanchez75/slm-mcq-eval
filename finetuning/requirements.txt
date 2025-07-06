@@ -1,0 +1,6 @@
+vllm
+peft
+datasets
+huggingface[cli]
+
+

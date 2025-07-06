@@ -1,0 +1,28 @@
+[2025-07-06 Sun]
+
+Use a GPU environment
+A 8B model in full precision (bf16) needs around 30G VRAM for finetuning and 42G for inference 
+
+Once the model has been finetuned with ./finetuning/finetune_medical_mcq_lora.py
+go to the directory =./finetuning/= and execute the file ./finetuning/generate_mcqs_vllm.py in this way to generate the questions in the directory =./finetuning/generated_mcqs_vllm/generated_mcqs_vllm_meditron3-8b-mcq-lora_temp0.5.json=
+
+#+begin_src bash
+time python generate_mcqs_vllm.py  --lisa_path=../data/lisa_sheets --test_folders_path=../data/train_test_split/test_folders.json --base_model_id OpenMeditron/Meditron3-8B --lora_repo_id asanchez75/meditron3-8b-mcq-lora --hf_token hf_XXX | tee output_generation.txt
+#+end_src
+
+Then, use the file ./finetuning/json2csv.py convert the file =generated_mcqs_vllm_meditron3-8b-mcq-lora_temp0.5.json= file into a  csv file
+
+#+begin_src bash
+python json2csv.py --input ${PWD}/generated_mcqs_vllm/generated_mcqs_vllm_meditron3-8b-mcq-lora_temp0.5.json --output ${PWD}/mcq.csv
+#+end_src
+
+The resulting =mcq.csv= file must be copied to the directory ../data/base_models/meditron3_8b/
+to be processed by the command =python -m src/main= executed from the root folder after the following environment variables has been configured
+
+This is an example of the env variables
+
+#+begin_src bash
+export LISA_SHEETS_PATH="/home/adam/Conda/lig/slm-mcq-eval/data/lisa_sheets.csv"
+export MODEL_MCQ_PATH="/home/adam/Conda/lig/slm-mcq-eval/data/base_models/meditron3_8b/mcq.csv"
+export MODEL_MCQ_EVAL_EXPORT_PATH="/home/adam/Conda/lig/slm-mcq-eval/data/base_models/meditron3_8b/mcq.eval.csv"
+#+end_src

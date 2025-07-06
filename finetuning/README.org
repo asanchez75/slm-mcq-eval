@@ -1,0 +1,3 @@
+[2025-07-06 Sun]
+
+time python finetune_medical_mcq_lora.py | tee output.txt 
